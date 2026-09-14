@@ -1,16 +1,107 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-14T05:44:42.676Z",
-    "totalAlerts": 106,
-    "criticalCount": 0,
+    "generatedAt": "2026-09-14T11:42:36.744Z",
+    "totalAlerts": 109,
+    "criticalCount": 3,
     "moderateCount": 103,
     "minorCount": 3,
-    "affectedRoutesCount": 82,
+    "affectedRoutesCount": 84,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
+    {
+      "id": "52767",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO Green Line: Service Advisory",
+      "summary": "Eastbound Green Line trip departing Target Field Station Platform 2 at 5:09 AM is starting at Warehouse due to mechanical issues",
+      "affectedRoutes": [
+        "METRO Green Line"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [
+        "56334",
+        "56335"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "56334"
+        },
+        {
+          "id": "56335"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-14T10:19:00.000Z",
+        "end": "2026-09-14T11:58:00.000Z",
+        "textDescription": "Beginning at Warehouse"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/green",
+      "updatedAt": "2026-09-14T10:20:04.000Z",
+      "rawHeader": "Eastbound Green Line trip departing Target Field Station Platform 2 at 5:09 AM is starting at Warehouse due to mechanical issues",
+      "rawDescription": "Affected stops:\r\nTarget Field Station Platform 2\r\nTarget Field Station Platform 1"
+    },
+    {
+      "id": "52768",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 467: Northbound 6:17 AM Trip Canceled (Interstate 35 Ramp & Kenrick Ave Park & Ride)",
+      "summary": "Northbound Route 467 trip departing Interstate 35 Ramp & Kenrick Ave Park & Ride at 6:17 AM canceled",
+      "affectedRoutes": [
+        "Route 467"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-14T11:17:00.000Z",
+        "end": "2026-09-14T12:48:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/467",
+      "updatedAt": "2026-09-14T10:47:02.000Z",
+      "rawHeader": "Northbound Route 467 trip departing Interstate 35 Ramp & Kenrick Ave P&R at 6:17 AM canceled",
+      "rawDescription": ""
+    },
+    {
+      "id": "52770",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 888: Service Canceled",
+      "summary": "Route 888 trips departing Veterans Dr & Ramsey Park & Ride at 5:51 AM and departing 2nd Ave S & 11th St - Stop Group G at 7:10 AM canceled today due to traffic",
+      "affectedRoutes": [
+        "Route 888"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "51 AM and departing 2nd Ave S & 11th St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-14T11:10:00.000Z",
+        "end": "2026-09-14T14:08:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/888",
+      "updatedAt": "2026-09-14T11:11:01.000Z",
+      "rawHeader": "Route 888 trips departing Veterans Dr & Ramsey P&R at 5:51 AM and departing 2nd Ave S & 11th St - Stop Group G at 7:10 AM canceled today due to traffic",
+      "rawDescription": ""
+    },
     {
       "id": "49962",
       "agency": "Metro Transit",
@@ -182,6 +273,43 @@
       "rawDescription": "Get on/off buses at:\r\nPortland & 66th St Station - Stop #643 (northbound)\r\nTemporary stop on Portland Ave & 61st St (northbound)"
     },
     {
+      "id": "52766",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "METRO D Line: Stop Closed at Selected Stop",
+      "summary": "Portland & 60th St Station - Stop #737 (northbound) and Portland & 60th St Station - Stop #431 (southbound) are closed for D Line beginning at 5:03 AM until later today. Board at: Portland & 66th St Station - Stop #643 (northbound); Temporary Stop: Porland & 61st St before the intersection (northbound); Temporary Stop: Chicago 56th St past the intersection (northbound).",
+      "affectedRoutes": [
+        "METRO D Line"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [
+        "737",
+        "431"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "737"
+        },
+        {
+          "id": "431"
+        }
+      ],
+      "riderAlternative": "Board at: Portland & 66th St Station - Stop #643 (northbound); Temporary Stop: Porland & 61st St before the intersection (northbound); Temporary Stop: Chicago 56th St past the intersection (northbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-14T10:17:00.000Z",
+        "end": "2026-09-14T13:41:23.000Z",
+        "textDescription": "Beginning at 5:03 AM until later today"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-09-14T10:17:18.000Z",
+      "rawHeader": "Portland & 60th St Station - Stop #737 (northbound) and Portland & 60th St Station - Stop #431 (southbound) are closed for D Line beginning at 5:03 AM until later today",
+      "rawDescription": "For northbound D Line get on/off buses at:\r\nPortland & 66th St Station - Stop #643 (northbound)\r\nTemporary Stop: Porland & 61st St before the intersection (northbound) \r\nTemporary Stop: Chicago 56th St past the intersection (northbound) \r\n\nFor southbound D Line get on/off buses at:\r\nTemporary stop: Chicago and 56th St before the intersection (Southbound) \r\nPortland & 61st St Mid-block (southbound) \r\nPortland & 66th St Station - Stop #436 (southbound)"
+    },
+    {
       "id": "52591",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -286,7 +414,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-09-14T05:00:01.000Z",
+      "updatedAt": "2026-09-14T11:00:05.000Z",
       "rawHeader": "E Line detoured off Upton Ave/Sheridan Ave from 44th St to 39th St beginning Mon Sep 14 at 6:30 AM until further notice due to tree trimming",
       "rawDescription": "For northbound E Line get on/off buses at:\r\n44th St & Abbott Station - Stop #6195 (eastbound)\r\nTemporary stop on 42nd St W at Upton Ave (eastbound)\r\nTemporary stop on 39th St W at Sheridan Ave (eastbound)\r\nRichfield Rd & Bde Maka Ska Station - Stop #57539 (northbound)\r\n\nFor southbound E Line get on/off buses at:\r\n39th St & Sheridan Station - Stop #1117 (westbound)\r\nTemporary stop on Upton Ave at 42nd St W (southbound)\r\n44th St & Abbott Station - Stop #6386 (westbound)\r\n\nNorthbound buses will travel regular route on 44th St W to Xerxes Ave, left on Xerxes Ave, right on 42nd St W, left on Upton Ave, right on 40th St W, left on Thomas Ave, right on 39th St W, continue on 39th St W to Sheridan Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 39th St W to Sheridan Ave, continue on 39th St W to Thomas Ave, left on Thomas Ave, right on 40th St W, left on Upton Ave, right on 42nd St W, left on Xerxes Ave, right on 44th St W and resume regular route.\r\n\nAffected stops:\r\nSheridan & 43rd St Station - Stop #6202 (northbound)\r\nSheridan & 39th St Station - Stop #6206 (northbound)\r\nSheridan & 43rd St Station - Stop #6379 (southbound)"
     },
@@ -355,7 +483,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/orange",
-      "updatedAt": "2026-09-14T05:00:01.000Z",
+      "updatedAt": "2026-09-14T09:30:01.000Z",
       "rawHeader": "Orange Line detoured off I-35W from Burnsville Pkwy to Cliff Rd beginning Mon Sep 14 at 5:00 AM until further notice due to construction",
       "rawDescription": "No stations missed, but expect delays due to extent of the detour.\r\n\nNorthbound buses will travel regular route on Travelers Trail to Burnsville Pkwy, left on Burnsville Pkwy, left on Nicollet Ave, left on Cliff Rd, right on to the I-35W frontage road, left onto I-35W and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected direction: Northbound"
     },
@@ -2694,7 +2822,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-09-14T05:00:01.000Z",
+      "updatedAt": "2026-09-14T07:30:01.000Z",
       "rawHeader": "Route 22 detoured off Cedar Ave from Lake St to 24th St beginning Mon Sep 14 until further notice due to construction",
       "rawDescription": "Update on 9/9 11:37am: southbound detour routing, southbound affected stops, and southbound alternative stops changed.\r\n\nFor northbound Route 22 get on/off buses at:\r\nCedar Ave S & 32nd St E - Stop #15313 (northbound)\r\nLake & Cedar Station - Stop #57362 (westbound)\r\nBloomington Ave S & 28th St E - Stop #15618 (northbound)\r\nBloomington Ave S & 25th St E - Stop #15625 (northbound)\r\nCedar Ave S & Franklin Ave E - Stop #57194 (northbound)\r\n\nFor southbound Route 22 get on/off buses at:\r\nCedar Ave S & #2501 - Stop #15366 (southbound)\r\nBloomington Ave S & 28th St E - Stop #15619 (southbound)\r\nTemporary stop on Cedar Ave just past Lake St (southbound)\r\nCedar Ave S & 32nd St E - Stop #15378 (southbound)\r\n\nNorthbound buses will travel regular route on Cedar Ave to Lake St, left on Lake, right on Bloomington Ave, right on 24th St, left on Cedar Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on Cedar Ave to 26th St, right on 26th St, left on Bloomington Ave, left on Lake St, right on Cedar Ave, and resume regular route.\r\n\nAffected stops:\r\nCedar Ave S & Lake St E - Stop #57193 (northbound)\r\nCedar Ave S & 28th St E - Stop #15319 (northbound)\r\nCedar Ave S & 26th St E - Stop #15323 (northbound)\r\nCedar Ave S & #2501 - Stop #15325 (northbound)\r\nCedar Ave S & 24th St E - Stop #40460 (northbound)\r\nCedar Ave S & 26th St E - Stop #15368 (southbound)\r\nCedar Ave S & 28th St E - Stop #15372 (southbound)\r\nCedar Ave S & Lake St E - Stop #15374 (southbound)"
     },
@@ -3072,7 +3200,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/27",
-      "updatedAt": "2026-09-14T05:00:01.000Z",
+      "updatedAt": "2026-09-14T07:30:01.000Z",
       "rawHeader": "Route 27 detoured off 26th St/28th St from Bloomington Ave to Cedar Ave and off Cedar Ave from 26th St to Lake St beginning Mon Sep 14 until further notice due to construction",
       "rawDescription": "For eastbound Route 27 get on/off buses at:\r\n28th St E & Bloomington Ave S - Stop #43016 (eastbound)\r\nLake & Cedar Station - Stop #51579 (eastbound)\r\n\nFor westbound Route 27 get on/off buses at:\r\nLake St E & 21st Ave S - Stop #16894 (westbound)\r\nLake & Cedar Station - Stop #57362 (westbound)\r\nBloomington Ave S & 28th St E - Stop #15618 (northbound)\r\n26th St E & 12th Ave S - Stop #51507 (westbound)\r\n\nEastbound buses will travel regular route on 28th St to Bloomington Ave, right on Bloomington, left on Lake St to Cedar Ave, and resume regular route.\r\n\nWestbound buses will travel regular route on Lake St to Cedar Ave, continue on Lake to Bloomington Ave, right on Bloomington, left on 26th St, and resume regular route.\r\n\nAffected stops:\r\n28th St E & Cedar Ave S - Stop #43021 (eastbound)\r\nCedar Ave S & Lake St E - Stop #15317 (northbound)\r\nCedar Ave S & 28th St E - Stop #15319 (northbound)\r\n26th St E & 18th Ave S - Stop #14340 (westbound)\r\n26th St E & Bloomington Ave S - Stop #43004 (westbound)"
     },
@@ -3405,7 +3533,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/36",
-      "updatedAt": "2026-09-14T05:00:01.000Z",
+      "updatedAt": "2026-09-14T11:00:06.000Z",
       "rawHeader": "Route 36 detoured off 44th St W from Xerxes Ave to Upton Ave and off Upton Ave/Sheridan Ave from 44th St to 39th St beginning Mon Sep 14 at 6:30 AM until further notice due to tree trimming",
       "rawDescription": "For northbound Route 36 get on/off buses at:\r\nXerxes Ave S & 44th St W - Stop #6249 (northbound)\r\nTemporary stop on Upton Ave just past 42nd St W (northbound)\r\nTemporary stop on Upton Ave at 40th St W (northbound)\r\nTemporary stop on 39th St W at Sheridan Ave (eastbound)\r\nRichfield Rd & William Berry Pkwy - Stop #1311 (northbound)\r\n\nFor southbound Route 36 get on/off buses at:\r\n39th St & Sheridan Station - Stop #1117 (westbound)\r\nTemporary stop on Thomas Ave at 40th St W (southbound)\r\nTemporary stop on Upton Ave at 42nd St W (southbound)\r\nTemporary stop on Xerxes Ave at 44th St W (southbound)\r\nXerxes Ave S & 46th St W - Stop #6208 (southbound)\r\n\nNorthbound buses will travel regular route on Xerxes Ave to 44th St W, continue on Xerxes Ave to 42nd St W, right on 42nd St W, left on Upton Ave, right on 40th St W, left on Thomas Ave, right on 39th St W, continue on 39th St W to Sheridan Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 39th St W to Sheridan Ave, continue on 39th St W to Thomas Ave, left on Thomas Ave, right on 40th St W, left on Upton Ave, right on 42nd St W, left on Xerxes Ave, continue on Xerxes Ave to 44th St W and resume regular route.\r\n\nAffected stops:\r\n44th St W & Upton Ave S - Stop #6201 (eastbound)\r\nSheridan & 43rd St Station - Stop #6202 (northbound)\r\nSheridan Ave S & 42nd St W - Stop #6203 (northbound)\r\nSheridan Ave S & 40th St W - Stop #6205 (northbound)\r\nSheridan & 39th St Station - Stop #6206 (northbound)\r\nSheridan Ave S & 40th St W - Stop #6376 (southbound)\r\nSheridan Ave S & 42nd St W - Stop #6378 (southbound)\r\nSheridan & 43rd St Station - Stop #6379 (southbound)\r\n44th St W & Upton Ave S - Stop #6380 (westbound)\r\n44th St W & Xerxes Ave S - Stop #6383 (westbound)"
     },
@@ -4885,125 +5013,9 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/64",
-      "updatedAt": "2026-09-14T05:00:01.000Z",
+      "updatedAt": "2026-09-14T09:30:01.000Z",
       "rawHeader": "Route 64 detoured off 7th St E from Lafayette Ave to Burr St starting Mon Sep 14 at 5:00 AM until further notice due to construction",
       "rawDescription": "For eastbound Route 64 get on/off buses at:\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\nBurr St & Tedesco St - Stop #11776 (northbound)\r\n\nFor westbound Route 64 get on/off buses at:\r\nBurr St & Tedesco St - Stop #11819 (southbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound) \r\n\nEastbound buses will travel regular route on 7th St E to Lafayette, continue past Lafayette to Payne, left on Payne, left on Tedesco, right on Burr, and resume regular route. \r\n\nWestbound buses will travel regular route on Burr to Tedesco, left onto Tedesco, right onto Payne, right onto 7th St, continue to Lafayette and resume regular route. \r\n\nAffected stops:\r\nLaFayette Rd & 8th St - Stop #11916 (northbound)\r\nLaFayette Rd & Grove St - Stop #11918 (northbound)\r\nLaFayette Rd & University Ave - Stop #11920 (northbound)\r\nLaFayette Rd & #600 - Stop #11774 (northbound)\r\nLafayette Rd & Lafayette Plaza - Stop #11821 (southbound)\r\nLaFayette Rd & University Ave - Stop #11921 (southbound)\r\nLaFayette Rd & Grove St - Stop #11923 (southbound)\r\nLaFayette Rd & 8th St - Stop #11925 (southbound)\r\n7th St E & Olive St - Stop #57415 (westbound)"
-    },
-    {
-      "id": "52655",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 64: Detour via Route 64 detoured off 5th St & 7th St E",
-      "summary": "Route 64 detoured off 5th St and 7th St E from Wacouta St to Burr St from Fri Sep 11 at 7:00 PM to Mon Sep 14 at 5:00 AM due to construction. Board at: 5th St & Jackson St - Stop #11838 (eastbound); Burr St & Tedesco St - Stop #11776 (northbound).",
-      "affectedRoutes": [
-        "Route 64"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 64 detoured off 5th St & 7th St E",
-        "5th St & Jackson St",
-        "Burr St & Tedesco St",
-        "Wall St & 7th St",
-        "Wacouta St & 5th St"
-      ],
-      "closedStopIds": [
-        "11842",
-        "57215",
-        "11916",
-        "11918",
-        "11920",
-        "11774",
-        "11821",
-        "11921",
-        "11923",
-        "11925",
-        "57415",
-        "11838",
-        "11776",
-        "11819",
-        "43282"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "11842",
-          "name": "Wacouta St & 5th St / 6th St",
-          "direction": "northbound"
-        },
-        {
-          "id": "57215",
-          "name": "7th St E & Wall St",
-          "direction": "eastbound"
-        },
-        {
-          "id": "11916",
-          "name": "LaFayette Rd & 8th St",
-          "direction": "northbound"
-        },
-        {
-          "id": "11918",
-          "name": "LaFayette Rd & Grove St",
-          "direction": "northbound"
-        },
-        {
-          "id": "11920",
-          "name": "LaFayette Rd & University Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "11774",
-          "name": "LaFayette Rd & #600",
-          "direction": "northbound"
-        },
-        {
-          "id": "11821",
-          "name": "Lafayette Rd & Lafayette Plaza",
-          "direction": "southbound"
-        },
-        {
-          "id": "11921",
-          "name": "LaFayette Rd & University Ave",
-          "direction": "southbound"
-        },
-        {
-          "id": "11923",
-          "name": "LaFayette Rd & Grove St",
-          "direction": "southbound"
-        },
-        {
-          "id": "11925",
-          "name": "LaFayette Rd & 8th St",
-          "direction": "southbound"
-        },
-        {
-          "id": "57415",
-          "name": "7th St E & Olive St",
-          "direction": "westbound"
-        },
-        {
-          "id": "11838"
-        },
-        {
-          "id": "11776"
-        },
-        {
-          "id": "11819"
-        },
-        {
-          "id": "43282"
-        }
-      ],
-      "riderAlternative": "Board at: 5th St & Jackson St - Stop #11838 (eastbound); Burr St & Tedesco St - Stop #11776 (northbound)",
-      "detourDetails": "Eastbound buses will travel regular route on 5th St to Wacouta St, continue on 5th St to Broadway St, left on Broadway, right on eastbound I-94 ramp, exit at Mounds Blvd, continue onto 6th St, left on Forest St, left on Minnehaha Ave, left on Payne Ave, right on Tedesco St, right on Burr St, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-12T00:00:00.000Z",
-        "end": "2026-09-14T10:00:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/64",
-      "updatedAt": "2026-09-14T05:00:01.000Z",
-      "rawHeader": "Route 64 detoured off 5th St and 7th St E from Wacouta St to Burr St from Fri Sep 11 at 7:00 PM to Mon Sep 14 at 5:00 AM due to construction",
-      "rawDescription": "For eastbound Route 64 get on/off buses at:\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\nBurr St & Tedesco St - Stop #11776 (northbound)\r\n\nFor westbound Route 64 get on/off buses at:\r\nBurr St & Tedesco St - Stop #11819 (southbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound)\r\n\nEastbound buses will travel regular route on 5th St to Wacouta St, continue on 5th St to Broadway St, left on Broadway, right on eastbound I-94 ramp, exit at Mounds Blvd, continue onto 6th St, left on Forest St, left on Minnehaha Ave, left on Payne Ave, right on Tedesco St, right on Burr St, and resume regular route.\r\n\nWestbound buses will travel regular route on Burr St to Tedesco St, left on Tedesco, left on Payne Ave, right on Minnehaha Ave, right on Forest St, right on 6th St and continue onto westbound I-94 ramp, exit at 12th St, left on Jackson St, left on 7th St, right on Wall St, and resume regular route.\r\n\nAffected stops:\r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\nLaFayette Rd & 8th St - Stop #11916 (northbound)\r\nLaFayette Rd & Grove St - Stop #11918 (northbound)\r\nLaFayette Rd & University Ave - Stop #11920 (northbound)\r\nLaFayette Rd & #600 - Stop #11774 (northbound)\r\nLafayette Rd & Lafayette Plaza - Stop #11821 (southbound)\r\nLaFayette Rd & University Ave - Stop #11921 (southbound)\r\nLaFayette Rd & Grove St - Stop #11923 (southbound)\r\nLaFayette Rd & 8th St - Stop #11925 (southbound)\r\n7th St E & Olive St - Stop #57415 (westbound)"
     },
     {
       "id": "49359",
@@ -7094,7 +7106,7 @@
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/537",
-      "updatedAt": "2026-09-14T05:00:02.000Z",
+      "updatedAt": "2026-09-14T11:30:01.000Z",
       "rawHeader": "70th St W & Target - Stop #50603 (westbound) is closed for Routes 537 and 538 beginning Mon Sep 14 at 7:00 AM until further notice due to construction",
       "rawDescription": "Get on/off Route 537 buses at:\r\nYork Ave S & 69th St W - Stop #48182 (southbound)\r\nFrance Ave S & 70th St W - Stop #50604 (southbound)\r\n\nGet on/off eastbound Route 538 buses at:\r\nYork Ave S & 69th St W - Stop #48182 (southbound)\r\n70th St W & Target driveway - Stop #50600 (eastbound)\r\n\nGet on/off westbound Route 538 buses at:\r\nYork Ave S & #7201 - Durham Apts - Stop #2159 (northbound)\r\n70th St W & Target driveway - Stop #50600 (eastbound)"
     },

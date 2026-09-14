@@ -2,21 +2,85 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-106-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-109-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-103-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-82-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-84-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-14T05:44:42.676Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-14T11:42:36.744Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 5** (2) • **Route 7** (1) • **Route 9** (4) • **Route 10** (2) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (3) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (4) • **Route 38** (3) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (3) • **Route 64** (8) • **Route 64N** (2) • **Route 65** (3) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (2) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 781** (1) • **Route 785** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (3) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 5** (2) • **Route 7** (1) • **Route 9** (4) • **Route 10** (2) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (3) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (4) • **Route 38** (3) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (3) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 467** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (2) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 781** (1) • **Route 785** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 METRO Green Line: Service Advisory
+
+- **Affected Routes**: `METRO Green Line`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+- **Schedule**: Beginning at Warehouse
+- **Closed Stops**: Stop #56334, Stop #56335
+
+**Summary**: Eastbound Green Line trip departing Target Field Station Platform 2 at 5:09 AM is starting at Warehouse due to mechanical issues
+
+[Official Agency Advisory](https://www.metrotransit.org/route/green)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Green Line trip departing Target Field Station Platform 2 at 5:09 AM is starting at Warehouse due to mechanical issues
+
+```text
+Affected stops:
+Target Field Station Platform 2
+Target Field Station Platform 1
+```
+
+</details>
+
+---
+
+### 🚨 Route 467: Northbound 6:17 AM Trip Canceled (Interstate 35 Ramp & Kenrick Ave Park & Ride)
+
+- **Affected Routes**: `Route 467`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 467 trip departing Interstate 35 Ramp & Kenrick Ave Park & Ride at 6:17 AM canceled
+
+[Official Agency Advisory](https://www.metrotransit.org/route/467)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 467 trip departing Interstate 35 Ramp & Kenrick Ave P&R at 6:17 AM canceled
+
+</details>
+
+---
+
+### 🚨 Route 888: Service Canceled
+
+- **Affected Routes**: `Route 888`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 51 AM and departing 2nd Ave S & 11th St
+
+**Summary**: Route 888 trips departing Veterans Dr & Ramsey Park & Ride at 5:51 AM and departing 2nd Ave S & 11th St - Stop Group G at 7:10 AM canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/888)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 888 trips departing Veterans Dr & Ramsey P&R at 5:51 AM and departing 2nd Ave S & 11th St - Stop Group G at 7:10 AM canceled today due to traffic
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -150,6 +214,41 @@ Chicago & 56th St Station - Stop #40472 (southbound)
 Get on/off buses at:
 Portland & 66th St Station - Stop #643 (northbound)
 Temporary stop on Portland Ave & 61st St (northbound)
+```
+
+</details>
+
+---
+
+### ⚠️ METRO D Line: Stop Closed at Selected Stop
+
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning at 5:03 AM until later today
+- **Closed Stops**: Stop #737, Stop #431
+
+**Summary**: Portland & 60th St Station - Stop #737 (northbound) and Portland & 60th St Station - Stop #431 (southbound) are closed for D Line beginning at 5:03 AM until later today. Board at: Portland & 66th St Station - Stop #643 (northbound); Temporary Stop: Porland & 61st St before the intersection (northbound); Temporary Stop: Chicago 56th St past the intersection (northbound).
+
+> 💡 **Rider Action**: Board at: Portland & 66th St Station - Stop #643 (northbound); Temporary Stop: Porland & 61st St before the intersection (northbound); Temporary Stop: Chicago 56th St past the intersection (northbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Portland & 60th St Station - Stop #737 (northbound) and Portland & 60th St Station - Stop #431 (southbound) are closed for D Line beginning at 5:03 AM until later today
+
+```text
+For northbound D Line get on/off buses at:
+Portland & 66th St Station - Stop #643 (northbound)
+Temporary Stop: Porland & 61st St before the intersection (northbound) 
+Temporary Stop: Chicago 56th St past the intersection (northbound) 
+
+For southbound D Line get on/off buses at:
+Temporary stop: Chicago and 56th St before the intersection (Southbound) 
+Portland & 61st St Mid-block (southbound) 
+Portland & 66th St Station - Stop #436 (southbound)
 ```
 
 </details>
@@ -2819,58 +2918,6 @@ Eastbound buses will travel regular route on 7th St E to Lafayette, continue pas
 Westbound buses will travel regular route on Burr to Tedesco, left onto Tedesco, right onto Payne, right onto 7th St, continue to Lafayette and resume regular route. 
 
 Affected stops:
-LaFayette Rd & 8th St - Stop #11916 (northbound)
-LaFayette Rd & Grove St - Stop #11918 (northbound)
-LaFayette Rd & University Ave - Stop #11920 (northbound)
-LaFayette Rd & #600 - Stop #11774 (northbound)
-Lafayette Rd & Lafayette Plaza - Stop #11821 (southbound)
-LaFayette Rd & University Ave - Stop #11921 (southbound)
-LaFayette Rd & Grove St - Stop #11923 (southbound)
-LaFayette Rd & 8th St - Stop #11925 (southbound)
-7th St E & Olive St - Stop #57415 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 64: Detour via Route 64 detoured off 5th St & 7th St E
-
-- **Affected Routes**: `Route 64`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Route 64 detoured off 5th St & 7th St E; 5th St & Jackson St; Burr St & Tedesco St; Wall St & 7th St; Wacouta St & 5th St
-- **Closed Stops**: Wacouta St & 5th St / 6th St (Stop #11842), 7th St E & Wall St (Stop #57215), LaFayette Rd & 8th St (Stop #11916), LaFayette Rd & Grove St (Stop #11918), LaFayette Rd & University Ave (Stop #11920), LaFayette Rd & #600 (Stop #11774), Lafayette Rd & Lafayette Plaza (Stop #11821), LaFayette Rd & University Ave (Stop #11921) *(+7 more)*
-
-**Summary**: Route 64 detoured off 5th St and 7th St E from Wacouta St to Burr St from Fri Sep 11 at 7:00 PM to Mon Sep 14 at 5:00 AM due to construction. Board at: 5th St & Jackson St - Stop #11838 (eastbound); Burr St & Tedesco St - Stop #11776 (northbound).
-
-> 💡 **Rider Action**: Board at: 5th St & Jackson St - Stop #11838 (eastbound); Burr St & Tedesco St - Stop #11776 (northbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on 5th St to Wacouta St, continue on 5th St to Broadway St, left on Broadway, right on eastbound I-94 ramp, exit at Mounds Blvd, continue onto 6th St, left on Forest St, left on Minnehaha Ave, left on Payne Ave, right on Tedesco St, right on Burr St, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/64)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 64 detoured off 5th St and 7th St E from Wacouta St to Burr St from Fri Sep 11 at 7:00 PM to Mon Sep 14 at 5:00 AM due to construction
-
-```text
-For eastbound Route 64 get on/off buses at:
-5th St & Jackson St - Stop #11838 (eastbound)
-Burr St & Tedesco St - Stop #11776 (northbound)
-
-For westbound Route 64 get on/off buses at:
-Burr St & Tedesco St - Stop #11819 (southbound)
-Wall St & 7th St / 6th St - Stop #43282 (southbound)
-
-Eastbound buses will travel regular route on 5th St to Wacouta St, continue on 5th St to Broadway St, left on Broadway, right on eastbound I-94 ramp, exit at Mounds Blvd, continue onto 6th St, left on Forest St, left on Minnehaha Ave, left on Payne Ave, right on Tedesco St, right on Burr St, and resume regular route.
-
-Westbound buses will travel regular route on Burr St to Tedesco St, left on Tedesco, left on Payne Ave, right on Minnehaha Ave, right on Forest St, right on 6th St and continue onto westbound I-94 ramp, exit at 12th St, left on Jackson St, left on 7th St, right on Wall St, and resume regular route.
-
-Affected stops:
-Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
-7th St E & Wall St - Stop #57215 (eastbound)
 LaFayette Rd & 8th St - Stop #11916 (northbound)
 LaFayette Rd & Grove St - Stop #11918 (northbound)
 LaFayette Rd & University Ave - Stop #11920 (northbound)

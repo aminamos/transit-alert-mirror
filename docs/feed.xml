@@ -4,9 +4,36 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Mon, 14 Sep 2026 05:44:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:42:36 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] METRO Green Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/green</link>
+      <guid isPermaLink="false">Metro Transit-52767-2026-09-14T10:20:04.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 10:20:04 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO Green Line</category>
+      <description>Eastbound Green Line trip departing Target Field Station Platform 2 at 5:09 AM is starting at Warehouse due to mechanical issues</description>
+    </item>
+    <item>
+      <title>[Critical] Route 467: Northbound 6:17 AM Trip Canceled (Interstate 35 Ramp &amp; Kenrick Ave Park &amp; Ride)</title>
+      <link>https://www.metrotransit.org/route/467</link>
+      <guid isPermaLink="false">Metro Transit-52768-2026-09-14T10:47:02.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 10:47:02 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 467</category>
+      <description>Northbound Route 467 trip departing Interstate 35 Ramp &amp; Kenrick Ave Park &amp; Ride at 6:17 AM canceled</description>
+    </item>
+    <item>
+      <title>[Critical] Route 888: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/888</link>
+      <guid isPermaLink="false">Metro Transit-52770-2026-09-14T11:11:01.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 11:11:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 888</category>
+      <description>Route 888 trips departing Veterans Dr &amp; Ramsey Park &amp; Ride at 5:51 AM and departing 2nd Ave S &amp; 11th St - Stop Group G at 7:10 AM canceled today due to traffic</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -44,6 +71,15 @@
       <description>Portland &amp; 60th St Station - Stop #737 (northbound) is closed for D Line beginning Tue Sep 8 at 7:00 AM until further notice due to construction. Board at: Portland &amp; 66th St Station - Stop #643 (northbound); Temporary stop on Portland Ave &amp; 61st St (northbound). | Action: Board at: Portland &amp; 66th St Station - Stop #643 (northbound); Temporary stop on Portland Ave &amp; 61st St (northbound)</description>
     </item>
     <item>
+      <title>[Moderate] METRO D Line: Stop Closed at Selected Stop</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-52766-2026-09-14T10:17:18.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 10:17:18 GMT</pubDate>
+      <category>Moderate</category>
+      <category>METRO D Line</category>
+      <description>Portland &amp; 60th St Station - Stop #737 (northbound) and Portland &amp; 60th St Station - Stop #431 (southbound) are closed for D Line beginning at 5:03 AM until later today. Board at: Portland &amp; 66th St Station - Stop #643 (northbound); Temporary Stop: Porland &amp; 61st St before the intersection (northbound); Temporary Stop: Chicago 56th St past the intersection (northbound). | Action: Board at: Portland &amp; 66th St Station - Stop #643 (northbound); Temporary Stop: Porland &amp; 61st St before the intersection (northbound); Temporary Stop: Chicago 56th St past the intersection (northbound)</description>
+    </item>
+    <item>
       <title>[Moderate] METRO E Line: Detour via left on Hennepin Ave &amp; resume regular route.
 
 Affected st</title>
@@ -57,8 +93,8 @@ Affected st</title>
     <item>
       <title>[Moderate] METRO E Line: Detour via E Line detoured off Upton Ave &amp; Sheridan Ave</title>
       <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-52718-2026-09-14T05:00:01.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52718-2026-09-14T11:00:05.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 11:00:05 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO E Line</category>
       <description>E Line detoured off Upton Ave/Sheridan Ave from 44th St to 39th St beginning Mon Sep 14 at 6:30 AM until further notice due to tree trimming. Board at: 44th St &amp; Abbott Station - Stop #6195 (eastbound); Temporary stop on 42nd St W at Upton Ave (eastbound); Temporary stop on 39th St W at Sheridan Ave (eastbound). | Action: Board at: 44th St &amp; Abbott Station - Stop #6195 (eastbound); Temporary stop on 42nd St W at Upton Ave (eastbound); Temporary stop on 39th St W at Sheridan Ave (eastbound)</description>
@@ -75,8 +111,8 @@ Affected st</title>
     <item>
       <title>[Moderate] METRO Orange Line: Detour via I-35W (Burnsville Pkwy to Cliff Rd)</title>
       <link>https://www.metrotransit.org/route/orange</link>
-      <guid isPermaLink="false">Metro Transit-52596-2026-09-14T05:00:01.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52596-2026-09-14T09:30:01.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 09:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO Orange Line</category>
       <description>Orange Line detoured off I-35W from Burnsville Pkwy to Cliff Rd beginning Mon Sep 14 at 5:00 AM until further notice due to construction</description>
@@ -320,8 +356,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 22: Detour via Cedar Ave S &amp; 32nd St E</title>
       <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-52562-2026-09-14T05:00:01.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52562-2026-09-14T07:30:01.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 07:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 22</category>
       <description>Route 22 detoured off Cedar Ave from Lake St to 24th St beginning Mon Sep 14 until further notice due to construction. Board at: Cedar Ave S &amp; 32nd St E - Stop #15313 (northbound); Lake &amp; Cedar Station - Stop #57362 (westbound); Bloomington Ave S &amp; 28th St E - Stop #15618 (northbound). | Action: Board at: Cedar Ave S &amp; 32nd St E - Stop #15313 (northbound); Lake &amp; Cedar Station - Stop #57362 (westbound); Bloomington Ave S &amp; 28th St E - Stop #15618 (northbound)</description>
@@ -347,8 +383,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 27: Detour via Route 27 detoured off 26th St &amp; 28th St</title>
       <link>https://www.metrotransit.org/route/27</link>
-      <guid isPermaLink="false">Metro Transit-52564-2026-09-14T05:00:01.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52564-2026-09-14T07:30:01.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 07:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 27</category>
       <description>Route 27 detoured off 26th St/28th St from Bloomington Ave to Cedar Ave and off Cedar Ave from 26th St to Lake St beginning Mon Sep 14 until further notice due to construction. Board at: 28th St E &amp; Bloomington Ave S - Stop #43016 (eastbound); Lake &amp; Cedar Station - Stop #51579 (eastbound). | Action: Board at: 28th St E &amp; Bloomington Ave S - Stop #43016 (eastbound); Lake &amp; Cedar Station - Stop #51579 (eastbound)</description>
@@ -392,8 +428,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 36: Detour via Xerxes Ave S &amp; 44th St W</title>
       <link>https://www.metrotransit.org/route/36</link>
-      <guid isPermaLink="false">Metro Transit-52719-2026-09-14T05:00:01.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52719-2026-09-14T11:00:06.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 11:00:06 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 36</category>
       <description>Route 36 detoured off 44th St W from Xerxes Ave to Upton Ave and off Upton Ave/Sheridan Ave from 44th St to 39th St beginning Mon Sep 14 at 6:30 AM until further notice due to tree trimming. Board at: Xerxes Ave S &amp; 44th St W - Stop #6249 (northbound); Temporary stop on Upton Ave just past 42nd St W (northbound); Temporary stop on Upton Ave at 40th St W (northbound). | Action: Board at: Xerxes Ave S &amp; 44th St W - Stop #6249 (northbound); Temporary stop on Upton Ave just past 42nd St W (northbound); Temporary stop on Upton Ave at 40th St W (northbound)</description>
@@ -545,20 +581,11 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 64: Detour via 7th St E &amp; Wall St</title>
       <link>https://www.metrotransit.org/route/64</link>
-      <guid isPermaLink="false">Metro Transit-52654-2026-09-14T05:00:01.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52654-2026-09-14T09:30:01.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 09:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 64</category>
       <description>Route 64 detoured off 7th St E from Lafayette Ave to Burr St starting Mon Sep 14 at 5:00 AM until further notice due to construction. Board at: 7th St E &amp; Wall St - Stop #57215 (eastbound); 5th St &amp; Jackson St - Stop #11838 (eastbound); Burr St &amp; Tedesco St - Stop #11776 (northbound). | Action: Board at: 7th St E &amp; Wall St - Stop #57215 (eastbound); 5th St &amp; Jackson St - Stop #11838 (eastbound); Burr St &amp; Tedesco St - Stop #11776 (northbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 64: Detour via Route 64 detoured off 5th St &amp; 7th St E</title>
-      <link>https://www.metrotransit.org/route/64</link>
-      <guid isPermaLink="false">Metro Transit-52655-2026-09-14T05:00:01.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 05:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 64</category>
-      <description>Route 64 detoured off 5th St and 7th St E from Wacouta St to Burr St from Fri Sep 11 at 7:00 PM to Mon Sep 14 at 5:00 AM due to construction. Board at: 5th St &amp; Jackson St - Stop #11838 (eastbound); Burr St &amp; Tedesco St - Stop #11776 (northbound). | Action: Board at: 5th St &amp; Jackson St - Stop #11838 (eastbound); Burr St &amp; Tedesco St - Stop #11776 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 65: Detour via Summit Ave &amp; Dale St</title>
@@ -788,8 +815,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 537, Route 538: Stop Closed at 70th St W &amp; Target - St</title>
       <link>https://www.metrotransit.org/route/537</link>
-      <guid isPermaLink="false">Metro Transit-52689-2026-09-14T05:00:02.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52689-2026-09-14T11:30:01.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 11:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 537, Route 538</category>
       <description>70th St W &amp; Target - Stop #50603 (westbound) is closed for Routes 537 and 538 beginning Mon Sep 14 at 7:00 AM until further notice due to construction. Board at: York Ave S &amp; 69th St W - Stop #48182 (southbound); France Ave S &amp; 70th St W - Stop #50604 (southbound). | Action: Board at: York Ave S &amp; 69th St W - Stop #48182 (southbound); France Ave S &amp; 70th St W - Stop #50604 (southbound)</description>
