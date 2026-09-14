@@ -1,0 +1,57 @@
+name: Update Transit Alerts Mirror
+
+on:
+  schedule:
+    # Run hourly at minute 0
+    - cron: '0 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'ALERTS.md'
+      - 'data/**'
+      - 'docs/**'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  sync-alerts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Build TypeScript Engine
+        run: npm run build
+
+      - name: Run Alert Synchronization & Enrichment
+        run: node dist/cli/index.js sync
+
+      - name: Commit and Push if Changed
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add ALERTS.md data/alerts.json docs/index.html docs/feed.xml
+
+          if git diff --staged --quiet; then
+            echo "No alert changes detected. Working tree clean."
+          else
+            echo "Changes detected, committing enriched transit alerts..."
+            git commit -m "chore(alerts): update plain-English transit advisories [skip ci]"
+            git push origin main
+          fi

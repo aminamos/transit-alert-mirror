@@ -1,0 +1,42 @@
+{
+  "name": "transit-alert-mirror",
+  "version": "1.0.0",
+  "description": "Plain-English transit alert, detour, and service advisory enrichment engine and automated GitHub Pages/Markdown publisher",
+  "main": "dist/index.js",
+  "type": "module",
+  "bin": {
+    "alert-mirror": "./dist/cli/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "tsx src/cli/index.ts",
+    "sync": "tsx src/cli/index.ts sync",
+    "list": "tsx src/cli/index.ts list",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "transit",
+    "gtfs-rt",
+    "transit-alerts",
+    "metro-transit",
+    "enrichment",
+    "nlp",
+    "markdown",
+    "github-pages",
+    "cli"
+  ],
+  "author": "Amin",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "picocolors": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.4",
+    "vitest": "^2.0.5"
+  }
+}
