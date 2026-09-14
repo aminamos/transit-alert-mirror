@@ -3,14 +3,16 @@ import { Command } from 'commander';
 import pc from 'picocolors';
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { syncAlerts } from '../index.js';
 import { defaultRegistry } from '../fetcher/index.js';
 import { enrichAlert, enrichAlerts } from '../enricher/index.js';
 import type { AlertSeverity, RawAlert } from '../types/index.js';
 
-const program = new Command();
+export function createProgram(): Command {
+  const program = new Command();
 
-program
+  program
   .name('alert-mirror')
   .description('Plain-English transit alert enrichment engine & markdown mirror')
   .version('1.0.0');
@@ -179,4 +181,26 @@ program
     console.log(JSON.stringify(enriched, null, 2));
   });
 
-program.parse(process.argv);
+  return program;
+}
+
+export async function runCli(argv: string[] = process.argv): Promise<Command> {
+  const program = createProgram();
+  return program.parseAsync(argv);
+}
+
+const isMain = Boolean(
+  process.argv[1] &&
+  (
+    fileURLToPath(import.meta.url) === path.resolve(process.argv[1]) ||
+    process.argv[1].endsWith('alert-mirror')
+  )
+);
+
+/* v8 ignore start */
+if (isMain) {
+  runCli();
+}
+/* v8 ignore stop */
+
+

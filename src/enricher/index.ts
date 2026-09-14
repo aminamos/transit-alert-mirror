@@ -3,6 +3,7 @@ import type {
   EnrichedAlert,
   AlertDataset,
   AlertDatasetMetadata,
+  AlertSeverity,
 } from '../types/index.js';
 import {
   extractRoutes,
@@ -72,18 +73,16 @@ export function enrichAlerts(rawAlerts: RawAlert[]): AlertDataset {
   const alerts = rawAlerts.map(enrichAlert);
 
   // Sort by severity (Critical first, then Moderate, then Minor) and then by route
-  const severityRank: Record<string, number> = {
+  const severityRank: Record<AlertSeverity, number> = {
     Critical: 0,
     Moderate: 1,
     Minor: 2,
   };
 
   alerts.sort((a, b) => {
-    const rankDiff = (severityRank[a.severity] ?? 99) - (severityRank[b.severity] ?? 99);
+    const rankDiff = severityRank[a.severity] - severityRank[b.severity];
     if (rankDiff !== 0) return rankDiff;
-    const rA = a.affectedRoutes[0] || '';
-    const rB = b.affectedRoutes[0] || '';
-    return rA.localeCompare(rB, undefined, { numeric: true });
+    return a.affectedRoutes[0].localeCompare(b.affectedRoutes[0], undefined, { numeric: true });
   });
 
   const criticalCount = alerts.filter(a => a.severity === 'Critical').length;

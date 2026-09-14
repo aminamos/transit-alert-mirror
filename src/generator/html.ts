@@ -1,6 +1,6 @@
 import type { AlertDataset, EnrichedAlert } from '../types/index.js';
 
-function escapeHtml(str: string): string {
+export function escapeHtml(str: string): string {
   return str
     .replace(/&/g, '&amp;')
     .replace(/</g, '&lt;')
