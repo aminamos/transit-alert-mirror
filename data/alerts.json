@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-14T00:36:32.205Z",
-    "totalAlerts": 109,
-    "criticalCount": 1,
+    "generatedAt": "2026-09-14T00:42:37.491Z",
+    "totalAlerts": 110,
+    "criticalCount": 2,
     "moderateCount": 105,
     "minorCount": 3,
     "affectedRoutesCount": 83,
@@ -36,6 +36,32 @@
       "url": "https://www.metrotransit.org/route/11",
       "updatedAt": "2026-09-13T23:45:43.000Z",
       "rawHeader": "Southbound Route 11A trip departing Columbia Heights Transit Center C at 6:14 PM canceled today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "52759",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 94: Westbound 7:24 PM Trip Canceled (Union Depot & Gate A1)",
+      "summary": "Westbound Route 94 trip departing Union Depot & Gate A1 at 7:24 PM canceled today",
+      "affectedRoutes": [
+        "Route 94"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-14T00:39:00.000Z",
+        "end": "2026-09-14T01:57:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/94",
+      "updatedAt": "2026-09-14T00:39:54.000Z",
+      "rawHeader": "Westbound Route 94 trip departing Union Depot & Gate A1 at 7:24 PM canceled today",
       "rawDescription": ""
     },
     {
@@ -96,13 +122,15 @@
       "id": "52411",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "METRO B Line: Detour via Regular Corridor",
+      "title": "METRO B Line: Detour via Lake St W & Blaisdell Ave S",
       "summary": "METRO B Line detoured off Lake St from 1st Ave S to Portland Ave from 7:00 AM to 11:30 PM on Sun Sep 13 due to Mexican Independence Day event. Board at: Lake & Lyndale Station - Stop #57356 (eastbound); Lake St W & Blaisdell Ave S - Stop #16845 (eastbound); Lake & Chicago Station - Stop #56796 (eastbound).",
       "affectedRoutes": [
         "METRO B Line"
       ],
       "direction": "Both Directions",
-      "intersections": [],
+      "intersections": [
+        "Lake St W & Blaisdell Ave S"
+      ],
       "closedStopIds": [
         "57359",
         "16857",
@@ -342,7 +370,7 @@
         "44th St & Abbott St",
         "Richfield Rd & Bde Maka Ska St",
         "39th St & Sheridan St",
-        "Upton Ave/Sheridan Ave (44th St to 39th St)"
+        "right on 44th St W & resume regular route.\n\nAffected st"
       ],
       "closedStopIds": [
         "6202",
@@ -866,13 +894,15 @@
       "id": "51930",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 5: Detour via Chicago Ave (41st St to 39th St)",
+      "title": "Route 5: Detour via Chicago Ave S & 41st St E",
       "summary": "Route 5 detoured off Chicago Ave from 41st St to 39th St until further notice due to construction. Board at: Chicago Ave S & 41st St E - Stop #791 (northbound); Park & 38th St Station - Stop #80138 (northbound).",
       "affectedRoutes": [
         "Route 5"
       ],
       "direction": "Both Directions",
       "intersections": [
+        "Chicago Ave S & 41st St E",
+        "Chicago Ave S & 40th St E",
         "Chicago Ave (41st St to 39th St)"
       ],
       "closedStopIds": [
@@ -905,16 +935,16 @@
       "id": "52092",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 7: Stop Closed at Plymouth Ave & Lyndale Ave",
+      "title": "Route 7: Stop Closed at Plymouth Ave & Lyndale Ave N",
       "summary": "Plymouth Ave & Lyndale Ave N - Stop #17654 (westbound) is closed for Route 7 beginning Mon Aug 31 at 7:00 PM until further notice due to construction. Board at: Plymouth Ave & Washington Ave - Stop #17653 (westbound); Plymouth Ave & Bryant Ave N - Stop #17656 (westbound).",
       "affectedRoutes": [
         "Route 7"
       ],
       "direction": "Westbound",
       "intersections": [
-        "Plymouth Ave & Lyndale Ave",
+        "Plymouth Ave & Lyndale Ave N",
         "Plymouth Ave & Washington Ave",
-        "Plymouth Ave & Bryant Ave"
+        "Plymouth Ave & Bryant Ave N"
       ],
       "closedStopIds": [
         "17654",
@@ -1069,14 +1099,18 @@
       "id": "46731",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 9: Detour via Franklin Ave (Portland Ave to Chicago Ave and off Park Ave from 17th St to Franklin Ave)",
+      "title": "Route 9: Detour via Portland Ave S & 18th St E",
       "summary": "Route 9 detoured off Franklin Ave from Portland Ave to Chicago Ave and off Park Ave from 17th St to Franklin Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction. Board at: Portland Ave S & 18th St E - Stop #15348 (southbound); Temporary stop on Portland Ave just before Franklin Ave (southbound); Temporary stop on Chicago Ave just before Franklin Ave (northbound).",
       "affectedRoutes": [
         "Route 9"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "Franklin Ave (Portland Ave to Chicago Ave and off Park Ave from 17th St to Franklin Ave)"
+        "Portland Ave S & 18th St E",
+        "Franklin Ave E & 10th Ave S",
+        "Franklin Ave E & Chicago Ave",
+        "Park Ave S & 16th St E",
+        "Franklin Ave E & Portland Ave"
       ],
       "closedStopIds": [
         "13316",
@@ -1133,16 +1167,18 @@
       "id": "52617",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 9: Detour via Cedar Lake Rd & Penn Ave",
+      "title": "Route 9: Detour via Laurel Ave W & Sheridan Ave S",
       "summary": "Route 9 detoured off Laurel Ave from Cedar Lake Rd to Russell Ave beginning Fri Sep 11 at 4:00 PM until further notice due to street painting. Board at: Laurel Ave W & Sheridan Ave S - Stop #7419 (eastbound); Cedar Lake Rd & Penn Ave S - Stop #7422 (eastbound).",
       "affectedRoutes": [
         "Route 9"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "Cedar Lake Rd & Penn Ave",
+        "Laurel Ave W & Sheridan Ave S",
+        "Cedar Lake Rd & Penn Ave S",
+        "Penn Ave S & Cedar Lake Rd S",
         "left on Laurel Ave & resume regular route.\n\nAffected st",
-        "Laurel Ave (Cedar Lake Rd to Russell Ave)"
+        "Laurel Ave W & Queen Ave S"
       ],
       "closedStopIds": [
         "7421",
@@ -1193,7 +1229,7 @@
       "id": "51494",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 10, Route 25: Detour via Routes 10 and 25 detoured off Grant St & 2nd Ave",
+      "title": "Route 10, Route 25: Detour via Routes 10 and 25 detoured off Grant St & 2nd Ave S",
       "summary": "Routes 10 and 25 detoured off Grant St and 2nd Ave S from Nicollet Mall to 3rd Ave S beginning Wed Aug 12 at 4:00 AM until further notice due to construction. Board at: 3rd Ave S & 11th St S - Stop #19277 (southbound); Nicollet Mall & Alice Rainville Place - Stop #17988 (northbound).",
       "affectedRoutes": [
         "Route 10",
@@ -1201,7 +1237,10 @@
       ],
       "direction": "Both Directions",
       "intersections": [
-        "Routes 10 and 25 detoured off Grant St & 2nd Ave",
+        "Routes 10 and 25 detoured off Grant St & 2nd Ave S",
+        "3rd Ave S & 11th St S",
+        "2nd Ave S & Convention Center - St",
+        "Grant St E & Nicollet Ave S",
         "Grant St and 2nd Ave S (Nicollet Mall to 3rd Ave S)"
       ],
       "closedStopIds": [
@@ -1258,18 +1297,18 @@
       "id": "52595",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 10: Detour via 3rd Ave & 2nd Ave",
+      "title": "Route 10: Detour via 3rd Ave S & 11th St S",
       "summary": "Route 10 detoured off Nicollet Mall from Washington Ave to 12th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: 3rd Ave S & 11th St S - Stop #19277 (southbound); 2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound).",
       "affectedRoutes": [
         "Route 10"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "3rd Ave & 2nd Ave",
-        "Marquette Ave & 3rd St",
-        "Marquette Ave & 5th St",
-        "Marquette Ave & 7th St",
-        "Marquette Ave & 9th St"
+        "3rd Ave S & 11th St S",
+        "2nd Ave S & 9th St",
+        "2nd Ave S & 7th St",
+        "2nd Ave S & 5th St",
+        "2nd Ave S & Washington Ave S"
       ],
       "closedStopIds": [
         "41911",
@@ -1448,13 +1487,19 @@
       "id": "49659",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 11: Detour via Regular Corridor",
+      "title": "Route 11: Detour via Main St NE & St Anthony Pkwy",
       "summary": "Route 11 detoured off Main St NE from Edge Pl to 35th Ave and off 35th Ave from Main St NE to 2 1/2 St beginning Tue May 26 at 7:00 AM until further notice due to construction. Board at: Main St NE & St Anthony Pkwy - Stop #14618 (northbound); Temporary stop on Main St NE just before Edge Place NE (northbound); Temporary stop on 2nd 1/2 St NE & 35th Ave NE (northbound).",
       "affectedRoutes": [
         "Route 11"
       ],
       "direction": "Both Directions",
-      "intersections": [],
+      "intersections": [
+        "Main St NE & St Anthony Pkwy",
+        "2 St NE & 35th Ave N",
+        "2 St NE & 36th Ave N",
+        "Main St NE & Edge Place NE - St",
+        "left on Main St NE & resume regular route.\n\nAffected st"
+      ],
       "closedStopIds": [
         "14617",
         "14614",
@@ -1528,17 +1573,18 @@
       "id": "51440",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 11: Detour via 14th St & Grant St",
+      "title": "Route 11: Detour via 3rd Ave S & 25th St E",
       "summary": "Northbound Route 11 detoured off 3rd Ave from 24th St to 19th St beginning Wed Aug 5 at 4:00 AM until further notice due to construction. Board at: 3rd Ave S & 25th St E - Stop #17762 (northbound); Temporary stop on 24th St E & 3rd Ave S (westbound); Nicollet Ave S & 24th St E - Stop #1900 (northbound).",
       "affectedRoutes": [
         "Route 11"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "14th St & Grant St",
-        "Franklin Ave & 19th St",
-        "18th St & 17th St",
-        "3rd Ave (24th St to 19th St)"
+        "3rd Ave S & 25th St E",
+        "24th St E & 3rd Ave S",
+        "Nicollet Ave S & 24th St E",
+        "Nicollet Ave S & Franklin Ave W",
+        "Nicollet Ave S & 18th St E"
       ],
       "closedStopIds": [
         "17762",
@@ -1609,14 +1655,18 @@
       "id": "52412",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 11: Detour via 31st St & 4th Ave",
+      "title": "Route 11: Detour via 4th Ave S & 31st St E",
       "summary": "Route 11 detoured off 4th Ave S from 28th St to 31st St from 7:30 AM to 11:30 PM on Sun Sep 13 due to Mexican Independence Day event. Board at: 4th Ave S & 31st St E - Stop #17754 (northbound); 5th Ave S & 28th St E - Stop #17757 (northbound).",
       "affectedRoutes": [
         "Route 11"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "31st St & 4th Ave"
+        "4th Ave S & 31st St E",
+        "5th Ave S & 28th St E",
+        "Stevens Ave S & 27th St E",
+        "31st St & 4th Ave S",
+        "4th Ave S & 32nd St E"
       ],
       "closedStopIds": [
         "17755",
@@ -1691,18 +1741,18 @@
       "id": "52603",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 11: Detour via Hennepin Ave & 1st St",
+      "title": "Route 11: Detour via 3rd Ave S & 25th St E",
       "summary": "Route 11 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: 3rd Ave S & 25th St E - Stop #17762 (northbound); Nicollet Ave S & 16th St E - Stop #1914 (northbound); 2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound).",
       "affectedRoutes": [
         "Route 11"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "Hennepin Ave & 1st St",
-        "Marquette Ave & 3rd St",
-        "Marquette Ave & 5th St",
-        "Marquette Ave & 7th St",
-        "Marquette Ave & 9th St"
+        "3rd Ave S & 25th St E",
+        "Nicollet Ave S & 16th St E",
+        "2nd Ave S & 9th St",
+        "2nd Ave S & 7th St",
+        "2nd Ave S & 5th St"
       ],
       "closedStopIds": [
         "1920",
@@ -1946,18 +1996,18 @@
       "id": "52598",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 17: Detour via 3rd Ave & 4th Ave",
+      "title": "Route 17: Detour via Nicollet Ave S & 16th St E",
       "summary": "Route 17 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: Nicollet Ave S & 16th St E - Stop #1914 (northbound); 2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound).",
       "affectedRoutes": [
         "Route 17"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "3rd Ave & 4th Ave",
-        "3rd Ave & 2nd Ave",
-        "Marquette Ave & 3rd St",
-        "Marquette Ave & 5th St",
-        "Marquette Ave & 7th St"
+        "Nicollet Ave S & 16th St E",
+        "2nd Ave S & 9th St",
+        "2nd Ave S & 7th St",
+        "2nd Ave S & 5th St",
+        "2nd Ave S & Washington Ave S"
       ],
       "closedStopIds": [
         "1920",
@@ -2130,16 +2180,18 @@
       "id": "48754",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 18: Detour via Diamond Lake Rd & Nicollet Ave",
+      "title": "Route 18: Detour via Nicollet Ave S & 56th St E",
       "summary": "Route 18 detoured off Nicollet Ave from 50th St to Diamond Lake Rd beginning Mon Mar 2 until further notice due to construction. Board at: Nicollet Ave S & 56th St E - Stop #1765 (northbound); Diamond Lake Rd & Nicollet Ave S - Stop #3393 (westbound); Diamond Lake Rd & Wentworth Ave - Stop #3395 (westbound).",
       "affectedRoutes": [
         "Route 18"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "Diamond Lake Rd & Nicollet Ave",
+        "Nicollet Ave S & 56th St E",
+        "Diamond Lake Rd & Nicollet Ave S",
         "Diamond Lake Rd & Wentworth Ave",
-        "Nicollet Ave (50th St to Diamond Lake Rd)"
+        "Lyndale Ave S & 53rd St W",
+        "Lyndale Ave S & Minnehaha Pkwy"
       ],
       "closedStopIds": [
         "1766",
@@ -2228,17 +2280,18 @@
       "id": "49874",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 18: Detour via 27th St & 26th St",
+      "title": "Route 18: Detour via 1st Ave S & Lake St",
       "summary": "Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln beginning Mon Jul 13 at 5:00 AM until further notice due to construction. Board at: 1st Ave S & Lake St - Stop #1889 (northbound); Nicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound).",
       "affectedRoutes": [
         "Route 18"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "27th St & 26th St",
+        "1st Ave S & Lake St",
+        "Nicollet Ave S & 27th St",
+        "Nicollet Ave S & 24th St W",
         "Blaisdell Ave & 28th St",
-        "continue on Blaisdell Ave to 29th St & resume regular route. \n\nAffected st",
-        "Nicollet (26th St to Cecil Newman Ln)"
+        "Blaisdell Ave S & Lake St"
       ],
       "closedStopIds": [
         "1890",
@@ -2295,13 +2348,17 @@
       "id": "52117",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 18: Stop Closed at Selected Stop",
+      "title": "Route 18: Stop Closed at Nicollet Ave S & 33rd St W",
       "summary": "Nicollet Ave S & 33rd St W - Stop #1214 (southbound) is closed for Route 18 beginning Mon Aug 31 at 4:00 AM until further notice due to construction. Board at: Nicollet Ave S & 32nd St W - Stop #1212 (southbound); Nicollet Ave S & 35th St W - Stop #1216 (southbound).",
       "affectedRoutes": [
         "Route 18"
       ],
       "direction": "Southbound",
-      "intersections": [],
+      "intersections": [
+        "Nicollet Ave S & 33rd St W",
+        "Nicollet Ave S & 32nd St W",
+        "Nicollet Ave S & 35th St W"
+      ],
       "closedStopIds": [
         "1214",
         "1212",
@@ -2335,13 +2392,17 @@
       "id": "52188",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 18: Stop Closed at Selected Stop",
+      "title": "Route 18: Stop Closed at Nicollet Ave S & 67th St E",
       "summary": "Nicollet Ave S & 67th St E - Stop #1446 (northbound) is closed for Route 18 beginning Sat Aug 22 at 7:00 AM until further notice due to utility work. Board at: Nicollet Ave S & 68th St E - Stop #1445 (northbound); Nicollet Ave S & 66th St W - Stop #1349 (southbound).",
       "affectedRoutes": [
         "Route 18"
       ],
       "direction": "Both Directions",
-      "intersections": [],
+      "intersections": [
+        "Nicollet Ave S & 67th St E",
+        "Nicollet Ave S & 68th St E",
+        "Nicollet Ave S & 66th St W"
+      ],
       "closedStopIds": [
         "1446",
         "1445",
@@ -2375,13 +2436,16 @@
       "id": "52189",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 18: Stop Closed at Selected Stop",
+      "title": "Route 18: Stop Closed at Nicollet Ave S & 69th St E",
       "summary": "Nicollet Ave S & 69th St E - Stop #1444 (northbound) is closed for Route 18 until further notice. Board at: Portland & 73rd St Station - Stop #56922 (northbound); Nicollet Ave S & 68th St E - Stop #1445 (northbound).",
       "affectedRoutes": [
         "Route 18"
       ],
       "direction": "Northbound",
-      "intersections": [],
+      "intersections": [
+        "Nicollet Ave S & 69th St E",
+        "Nicollet Ave S & 68th St E"
+      ],
       "closedStopIds": [
         "1444",
         "56922",
@@ -2422,8 +2486,10 @@
       "direction": "Both Directions",
       "intersections": [
         "Nicollet Ave & 77th St",
-        "left on Nicollet Ave & resume regular route.\n\nAffected st",
-        "Nicollet Ave (66th St to 77th St)"
+        "Nicollet Ave S & 66th St E",
+        "Nicollet Ave S & 69th St W",
+        "Nicollet Ave S & 78th St W",
+        "left on Nicollet Ave & resume regular route.\n\nAffected st"
       ],
       "closedStopIds": [
         "1436",
@@ -2466,18 +2532,18 @@
       "id": "52604",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 18: Detour via 3rd Ave & 4th Ave",
+      "title": "Route 18: Detour via Nicollet Ave S & 16th St E",
       "summary": "Route 18 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: Nicollet Ave S & 16th St E - Stop #1914 (northbound); 2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound).",
       "affectedRoutes": [
         "Route 18"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "3rd Ave & 4th Ave",
-        "Marquette Ave & 3rd St",
-        "Marquette Ave & 5th St",
-        "Marquette Ave & 7th St",
-        "Marquette Ave & 9th St"
+        "Nicollet Ave S & 16th St E",
+        "2nd Ave S & 9th St",
+        "2nd Ave S & 7th St",
+        "2nd Ave S & 5th St",
+        "2nd Ave S & Washington Ave S"
       ],
       "closedStopIds": [
         "1920",
@@ -2636,13 +2702,17 @@
       "id": "51840",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 22: Stop Closed at Selected Stop",
+      "title": "Route 22: Stop Closed at Lyndale Ave N & 44th Ave N",
       "summary": "Lyndale Ave N & 44th Ave N - Stop #11202 (northbound) is closed for Route 22 beginning Thu Aug 27 at 7:00 AM until further notice. Board at: Lyndale Ave N & 42nd Ave N - Stop #57197 (northbound); 45th Ave N & Lyndale Ave N - Stop #11412 (westbound).",
       "affectedRoutes": [
         "Route 22"
       ],
       "direction": "Northbound",
-      "intersections": [],
+      "intersections": [
+        "Lyndale Ave N & 44th Ave N",
+        "Lyndale Ave N & 42nd Ave N",
+        "45th Ave N & Lyndale Ave N"
+      ],
       "closedStopIds": [
         "11202",
         "57197",
@@ -2676,14 +2746,18 @@
       "id": "52050",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 22: Detour via Lyndale Ave N (Lowry Ave N to Dowling Ave N)",
+      "title": "Route 22: Detour via Lyndale Ave N & Lowry Ave N",
       "summary": "Route 22 detoured off Lyndale Ave N from Lowry Ave N to Dowling Ave N until further notice due to construction. Board at: Lyndale Ave N & Lowry Ave N - Stop #81098 (northbound); Lyndale Ave N & 40th Ave N - Stop #11199 (northbound).",
       "affectedRoutes": [
         "Route 22"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "Lyndale Ave N (Lowry Ave N to Dowling Ave N)"
+        "Lyndale Ave N & Lowry Ave N",
+        "Lyndale Ave N & 40th Ave N",
+        "Lyndale Ave N & Dowling Ave N",
+        "left on Lyndale Ave N & resume regular route. \n\nAffected st",
+        "Lyndale Ave N & 34th Ave N"
       ],
       "closedStopIds": [
         "11193",
@@ -2745,14 +2819,18 @@
       "id": "52562",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 22: Detour via Cedar Ave (Lake St to 24th St)",
+      "title": "Route 22: Detour via Cedar Ave S & 32nd St E",
       "summary": "Route 22 detoured off Cedar Ave from Lake St to 24th St beginning Mon Sep 14 until further notice due to construction. Board at: Cedar Ave S & 32nd St E - Stop #15313 (northbound); Lake & Cedar Station - Stop #57362 (westbound); Bloomington Ave S & 28th St E - Stop #15618 (northbound).",
       "affectedRoutes": [
         "Route 22"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "Cedar Ave (Lake St to 24th St)"
+        "Cedar Ave S & 32nd St E",
+        "Bloomington Ave S & 28th St E",
+        "Bloomington Ave S & 25th St E",
+        "Cedar Ave S & Franklin Ave E",
+        "Cedar Ave S & Lake St E"
       ],
       "closedStopIds": [
         "15313",
@@ -2760,6 +2838,7 @@
         "15618",
         "15625",
         "57194",
+        "2501",
         "15366",
         "15619",
         "15378",
@@ -2787,6 +2866,9 @@
         },
         {
           "id": "57194"
+        },
+        {
+          "id": "2501"
         },
         {
           "id": "15366"
@@ -2839,18 +2921,18 @@
       "id": "52609",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 25: Detour via 3rd Ave & 2nd Ave",
+      "title": "Route 25: Detour via 15th St E & 1st Ave S",
       "summary": "Route 25 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: 15th St W & #329 - Stop #14905 (Eastbound, departing Cedar Trails Condos only); 15th St E & 1st Ave S - Stop #53461 (Eastbound, departing Cedar Trails Condos only); 3rd Ave S & 11th St S - Stop #19277 (Southbound, 25 departing Leamington Ramp only).",
       "affectedRoutes": [
         "Route 25"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "3rd Ave & 2nd Ave",
-        "Marquette Ave & 2nd St",
-        "Marquette Ave & 3rd St",
-        "Marquette Ave & 5th St",
-        "Marquette Ave & 7th St"
+        "15th St E & 1st Ave S",
+        "3rd Ave S & 11th St S",
+        "2nd Ave S & 9th St",
+        "2nd Ave S & 7th St",
+        "2nd Ave S & 5th St"
       ],
       "closedStopIds": [
         "14906",
@@ -3075,16 +3157,18 @@
       "id": "49875",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 27: Detour via 26th St & Nicollet Ave",
+      "title": "Route 27: Detour via 26th St E & 3rd Ave S",
       "summary": "Route 27 detoured off Nicollet from 26th St to 29th St beginning Mon Jul 13 at 5:00 AM until further notice due to construction. Board at: 26th St E & 3rd Ave S - Stop #17761 (westbound); Temporary stop on 26th St & Nicollet Ave (westbound); Temporary stop on Blaisdell Ave & 28th St (southbound).",
       "affectedRoutes": [
         "Route 27"
       ],
       "direction": "Both Directions",
       "intersections": [
+        "26th St E & 3rd Ave S",
         "26th St & Nicollet Ave",
         "Blaisdell Ave & 28th St",
-        "Nicollet (26th St to 29th St)"
+        "Blaisdell Ave S & Lake St",
+        "Nicollet Ave S & 26th St W"
       ],
       "closedStopIds": [
         "1206",
@@ -3136,7 +3220,9 @@
       "intersections": [
         "Route 27 detoured off 26th St & 28th St",
         "Bloomington Ave to Cedar Ave & off Cedar Ave",
-        "26th St/28th St (Bloomington Ave to Cedar Ave and off Cedar Ave from 26th St to Lake St)"
+        "28th St E & Bloomington Ave S",
+        "Lake St E & 21st Ave S",
+        "Bloomington Ave S & 28th St E"
       ],
       "closedStopIds": [
         "43021",
@@ -3213,7 +3299,7 @@
       "id": "52657",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 30, Route 61: Stop Closed at Larpenteur Ave & Malvern St",
+      "title": "Route 30, Route 61: Stop Closed at Hennepin Ave E & Industrial Blvd",
       "summary": "Hennepin Ave E & Industrial Blvd - Stop #41628 (westbound) is closed for Routes 30 and 61 until further notice due to construction. Board at: Larpenteur Ave & Malvern St - Stop #53896 (westbound, Route 30 only); Larpenteur Ave & Eustis St - Stop #7235 (westbound, Route 61 only); Hennepin Ave E & 29th Ave SE - Stop #41629 (westbound).",
       "affectedRoutes": [
         "Route 30",
@@ -3221,8 +3307,10 @@
       ],
       "direction": "Westbound",
       "intersections": [
+        "Hennepin Ave E & Industrial Blvd",
         "Larpenteur Ave & Malvern St",
-        "Larpenteur Ave & Eustis St"
+        "Larpenteur Ave & Eustis St",
+        "Hennepin Ave E & 29th Ave S"
       ],
       "closedStopIds": [
         "41628",
@@ -3260,7 +3348,7 @@
       "id": "42305",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 36, Route 538, Route 578: Stop Closed at Selected Stop",
+      "title": "Route 36, Route 538, Route 578: Stop Closed at York Ave S & Hazelton Rd",
       "summary": "York Ave S & Hazelton Rd - Stop #2029 (northbound) is closed for Routes 36, 538 and 578 until further notice due to construction. Board at: York Ave S & 70th St W - Stop #50601 (northbound).",
       "affectedRoutes": [
         "Route 36",
@@ -3268,7 +3356,10 @@
         "Route 578"
       ],
       "direction": "Northbound",
-      "intersections": [],
+      "intersections": [
+        "York Ave S & Hazelton Rd",
+        "York Ave S & 70th St W"
+      ],
       "closedStopIds": [
         "2029",
         "50601"
@@ -3296,23 +3387,28 @@
       "id": "50085",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 36: Stop Closed at Parklawn Ave & Parklawn Court - St",
+      "title": "Route 36: Stop Closed at 76th St W & Parklawn Ave S",
       "summary": "76th St W & Parklawn Ave S - Stop #2212 (westbound) is closed for Route 36 until further notice. Board at: 76th St W & #4100 - Stop #52039 (westbound); Parklawn Ave & Parklawn Court - Stop #41091 (northbound).",
       "affectedRoutes": [
         "Route 36"
       ],
       "direction": "Northbound",
       "intersections": [
+        "76th St W & Parklawn Ave S",
         "Parklawn Ave & Parklawn Court - St"
       ],
       "closedStopIds": [
         "2212",
+        "4100",
         "52039",
         "41091"
       ],
       "closedStopDetails": [
         {
           "id": "2212"
+        },
+        {
+          "id": "4100"
         },
         {
           "id": "52039"
@@ -3336,18 +3432,18 @@
       "id": "52610",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 36: Detour via Gallagher Dr & France Ave",
+      "title": "Route 36: Detour via Gallagher Dr & France Ave S",
       "summary": "Route 36 detoured off Hazleton Rd from France Ave to York Ave and off France Ave from Hazleton Rd to Gallagher Dr beginning Wed Sep 16 at 6:00 PM until further notice due to construction. Board at: Gallagher Dr & France Ave S - Stop #41097 (eastbound); York Ave S & 70th St W - Stop #50601 (northbound).",
       "affectedRoutes": [
         "Route 36"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "Gallagher Dr & France Ave",
+        "Gallagher Dr & France Ave S",
+        "York Ave S & 70th St W",
+        "York Ave S & 69th St W",
         "left on Gallagher Dr & resume regular route.\n\nAffected st",
-        "Hazelton Rd & France Ave",
-        "Hazelton Rd & York Ave",
-        "Hazelton Rd & Target Loading Dock - St"
+        "France Ave S & 72nd St W"
       ],
       "closedStopIds": [
         "44393",
@@ -3359,7 +3455,8 @@
         "41097",
         "50601",
         "48182",
-        "41126"
+        "41126",
+        "3535"
       ],
       "closedStopDetails": [
         {
@@ -3403,6 +3500,9 @@
         },
         {
           "id": "41126"
+        },
+        {
+          "id": "3535"
         }
       ],
       "riderAlternative": "Board at: Gallagher Dr & France Ave S - Stop #41097 (eastbound); York Ave S & 70th St W - Stop #50601 (northbound)",
@@ -3422,16 +3522,18 @@
       "id": "52719",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 36: Detour via Richfield Rd & William Berry Pkwy",
+      "title": "Route 36: Detour via Xerxes Ave S & 44th St W",
       "summary": "Route 36 detoured off 44th St W from Xerxes Ave to Upton Ave and off Upton Ave/Sheridan Ave from 44th St to 39th St beginning Mon Sep 14 at 6:30 AM until further notice due to tree trimming. Board at: Xerxes Ave S & 44th St W - Stop #6249 (northbound); Temporary stop on Upton Ave just past 42nd St W (northbound); Temporary stop on Upton Ave at 40th St W (northbound).",
       "affectedRoutes": [
         "Route 36"
       ],
       "direction": "Both Directions",
       "intersections": [
+        "Xerxes Ave S & 44th St W",
         "Richfield Rd & William Berry Pkwy",
         "39th St & Sheridan St",
-        "44th St W from Xerxes Ave to Upton Ave and off Upton Ave/Sheridan Ave (44th St to 39th St)"
+        "Xerxes Ave S & 46th St W",
+        "continue on Xerxes Ave to 44th St W & resume regular route.\n\nAffected st"
       ],
       "closedStopIds": [
         "6201",
@@ -3530,14 +3632,18 @@
       "id": "48498",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 38: Detour via 38th St E (Park Ave to Bloomington Ave)",
+      "title": "Route 38: Detour via 38th St E & Portland Ave S",
       "summary": "Route 38 detoured off 38th St E from Park Ave to Bloomington Ave beginning Mon Jun 8 at 4:00 AM until further notice due to construction. Board at: 38th St E & Portland Ave S - Stop #12618 (eastbound); Park & 38th St Station - Stop #80138 (northbound); Temporary stop on 36th St E & Chicago Ave S (eastbound).",
       "affectedRoutes": [
         "Route 38"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "38th St E (Park Ave to Bloomington Ave)"
+        "38th St E & Portland Ave S",
+        "36th St E & Chicago Ave S",
+        "36th St E & 10th Ave S",
+        "36th St E & 13th Ave S",
+        "Bloomington Ave S & 38th St E"
       ],
       "closedStopIds": [
         "41920",
@@ -3726,10 +3832,10 @@
       "direction": "Both Directions",
       "intersections": [
         "5th St & Robert St",
-        "Forest St & 7th St",
-        "Forest St & York Ave",
-        "Forest St & Sims Ave",
-        "Arcade St & Jenks Ave"
+        "5th St E & Sibley St",
+        "6th St E & Maria Ave",
+        "6th St E & Maple St",
+        "6th St E & Hope St"
       ],
       "closedStopIds": [
         "11849",
@@ -3875,8 +3981,8 @@
         "Arcade St & Magnolia Ave",
         "Arcade St & Jenks Ave",
         "Forest St & York Ave",
-        "Forest St & 7th St",
-        "Forest St & Minnehaha Ave"
+        "Forest St & 7th St E",
+        "Forest St & Minnehaha Ave E"
       ],
       "closedStopIds": [
         "10291",
@@ -4076,7 +4182,7 @@
       "intersections": [
         "Smith Ave & Christine Ln - St",
         "Moreland Ave & Smith Ave",
-        "Smith Ave & Orme St",
+        "Smith Ave & Orme St W",
         "Smith Ave & Moreland Ave",
         "Ruby Dr & Smith Ave"
       ],
@@ -4344,9 +4450,9 @@
       "intersections": [
         "5th St & Jackson St",
         "5th St & Sibley St",
+        "3rd St E & Maria Ave",
         "right on Wall St & resume regular route.\n\nAffected st",
-        "Wacouta St & 5th St",
-        "Wacouta St (5th St to 7th St and off 7th St from Wacouta St to Mounds Blvd)"
+        "Wacouta St & 5th St"
       ],
       "closedStopIds": [
         "11842",
@@ -4490,14 +4596,20 @@
       "id": "48296",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 64, Route 64N: Detour via Regular Corridor",
+      "title": "Route 64, Route 64N: Detour via 7th Ave E & South Ave",
       "summary": "Route 64N detoured off 7th Ave from South Ave to Margaret St from Fri Jun 5 to Fri Sep 18 every Friday from 6:00 PM to 10:00 PM due to North St Paul Friday Night History Cruzer Car Show. Board at: 7th Ave E & South Ave (Co Rd B) - Stop #3901 (eastbound); Margaret St N & Seppala Blvd - Stop #56898 (northbound).",
       "affectedRoutes": [
         "Route 64",
         "Route 64N"
       ],
       "direction": "Both Directions",
-      "intersections": [],
+      "intersections": [
+        "7th Ave E & South Ave",
+        "Margaret St N & Seppala Blvd",
+        "7th Ave E & McKnight Rd",
+        "7th Ave E & 2nd St N",
+        "7th Ave E & 1st St N"
+      ],
       "closedStopIds": [
         "3903",
         "3904",
@@ -4590,6 +4702,7 @@
       "direction": "Both Directions",
       "intersections": [
         "5th St & Jackson St",
+        "7th St E & Wall St",
         "Wacouta St & 5th St",
         "5th St (Sibley St to Wacouta St)"
       ],
@@ -4768,7 +4881,7 @@
       "id": "52356",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 64, Route 64N: Detour via left on 7th Ave & resume regular route.\n\nAffected st",
+      "title": "Route 64, Route 64N: Detour via 7th Ave E & South Ave",
       "summary": "Route 64N detoured off 7th Ave from South Ave to Margaret St and off Margaret St from 7th Ave to 12th Ave from 5:00 PM to 8:30 PM on Thu Sep 17 due to North St Paul Fall Round Up Parade. Board at: 7th Ave E & South Ave (Co Rd B) - Stop #3901 (eastbound); 12th Ave E & Helen St N - Stop #3914 (westbound).",
       "affectedRoutes": [
         "Route 64",
@@ -4776,6 +4889,10 @@
       ],
       "direction": "Both Directions",
       "intersections": [
+        "7th Ave E & South Ave",
+        "12th Ave E & Helen St N",
+        "12th Ave E & Margaret St N",
+        "7th Ave E & McKnight Rd",
         "left on 7th Ave & resume regular route.\n\nAffected st"
       ],
       "closedStopIds": [
@@ -4887,18 +5004,18 @@
       "id": "52654",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 64: Detour via 5th St & Jackson St",
+      "title": "Route 64: Detour via 7th St E & Wall St",
       "summary": "Route 64 detoured off 7th St E from Lafayette Ave to Burr St starting Mon Sep 14 at 5:00 AM until further notice due to construction. Board at: 7th St E & Wall St - Stop #57215 (eastbound); 5th St & Jackson St - Stop #11838 (eastbound); Burr St & Tedesco St - Stop #11776 (northbound).",
       "affectedRoutes": [
         "Route 64"
       ],
       "direction": "Both Directions",
       "intersections": [
+        "7th St E & Wall St",
         "5th St & Jackson St",
         "Burr St & Tedesco St",
         "Wall St & 7th St",
-        "LaFayette Rd & 8th St",
-        "LaFayette Rd & Grove St"
+        "LaFayette Rd & 8th St"
       ],
       "closedStopIds": [
         "11916",
@@ -4995,14 +5112,14 @@
       "id": "52655",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 64: Detour via Route 64 detoured off 5th St & 7th St",
+      "title": "Route 64: Detour via Route 64 detoured off 5th St & 7th St E",
       "summary": "Route 64 detoured off 5th St and 7th St E from Wacouta St to Burr St from Fri Sep 11 at 7:00 PM to Mon Sep 14 at 5:00 AM due to construction. Board at: 5th St & Jackson St - Stop #11838 (eastbound); Burr St & Tedesco St - Stop #11776 (northbound).",
       "affectedRoutes": [
         "Route 64"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "Route 64 detoured off 5th St & 7th St",
+        "Route 64 detoured off 5th St & 7th St E",
         "5th St & Jackson St",
         "Burr St & Tedesco St",
         "Wall St & 7th St",
@@ -5352,13 +5469,16 @@
       "id": "46009",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 67: Detour via Franklin Ave (22nd Ave S to Franklin Ave Station)",
+      "title": "Route 67: Detour via Franklin Ave E & 22nd Ave S",
       "summary": "Route 67 detoured off Franklin Ave from 22nd Ave S to Franklin Ave Station beginning Sun Apr 12 at 4:00 AM until further notice due to construction. Board at: Franklin Ave E & 22nd Ave S - Stop #13267 (westbound).",
       "affectedRoutes": [
         "Route 67"
       ],
       "direction": "Both Directions",
       "intersections": [
+        "Franklin Ave E & 22nd Ave S",
+        "Franklin Ave E & Cedar Ave",
+        "Franklin Ave E & Franklin St",
         "Franklin Ave (22nd Ave S to Franklin Ave Station)"
       ],
       "closedStopIds": [
@@ -5529,10 +5649,10 @@
       "direction": "Both Directions",
       "intersections": [
         "Jackson St & Cook Ave",
+        "Maryland Ave E & Jackson St",
+        "Magnolia Ave E & Jackson St",
         "right on Jackson St & resume regular route.\n\nAffected st",
-        "Jackson St & Jessamine Ave",
-        "Jackson St & Rose Ave",
-        "Jackson St (Magnolia Ave to Maryland Ave)"
+        "Jackson St & Jessamine Ave"
       ],
       "closedStopIds": [
         "18028",
@@ -5595,7 +5715,7 @@
       "id": "51928",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 68, Route 68C: Detour via Southview Blvd & 8th Ave",
+      "title": "Route 68, Route 68C: Detour via Southview Blvd & 8th Ave S",
       "summary": "Route 68C detoured off 12th Ave from 3rd St to Southview Blvd and off Southview Blvd from 12th Ave to 9th Ave beginning Mon Jul 6 at 6:00 AM until further notice due to construction. Board at: Southview Blvd & 8th Ave S - Stop #56770 (westbound); 12th Ave N & 4th St N - Stop #9843 (northbound).",
       "affectedRoutes": [
         "Route 68",
@@ -5603,10 +5723,11 @@
       ],
       "direction": "Both Directions",
       "intersections": [
-        "Southview Blvd & 8th Ave",
-        "Southview Blvd & 10th Ave",
-        "Southview Blvd & 12th Ave",
-        "12th Ave (3rd St to Southview Blvd and off Southview Blvd from 12th Ave to 9th Ave)"
+        "Southview Blvd & 8th Ave S",
+        "12th Ave N & 4th St N",
+        "Southview Blvd & 10th Ave S",
+        "Southview Blvd & 12th Ave S",
+        "12th Ave N & Marie Ave"
       ],
       "closedStopIds": [
         "56771",
@@ -5699,16 +5820,17 @@
       "id": "52563",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 68: Detour via Ash St & 5th Ave",
+      "title": "Route 68: Detour via Ash St & 5th Ave S",
       "summary": "Route 68 detoured off South St from 3rd Ave to 5th Ave until further notice. Board at: Temporary stop on Ash St & 5th Ave S (westbound).",
       "affectedRoutes": [
         "Route 68"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "Ash St & 5th Ave",
+        "Ash St & 5th Ave S",
         "right on Ash St & Ash St",
-        "South St & 5th Ave",
+        "South St & 5th Ave S",
+        "3rd Ave S & South St W",
         "South St (3rd Ave to 5th Ave)"
       ],
       "closedStopIds": [
@@ -5836,7 +5958,7 @@
         "5th St & Sibley St",
         "Plum St & Mounds Blvd",
         "Wacouta St & 5th St",
-        "Wall St & 7th St"
+        "7th St E & Wall St"
       ],
       "closedStopIds": [
         "11838",
@@ -5882,18 +6004,18 @@
       "id": "48757",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 74: Detour via Minnehaha Ave & Cypress St",
+      "title": "Route 74: Detour via 5th St E & Sibley St",
       "summary": "Route 74 detoured off 7th St E from Wacouta St to Forest St and off Arcade St from 7th St E to Case Ave until further notice due to construction. Board at: 5th St E & Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E & Maria Ave (eastbound); Temporary stop on 6th St E & Maple St (eastbound).",
       "affectedRoutes": [
         "Route 74"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "Minnehaha Ave & Cypress St",
-        "Arcade St & Case Ave",
-        "Arcade St & Magnolia Ave",
-        "Minnehaha Ave & Forest St",
-        "Wall St & 7th St"
+        "5th St E & Sibley St",
+        "6th St E & Maria Ave",
+        "6th St E & Maple St",
+        "6th St E & Hope St",
+        "6th St E & Mendota St"
       ],
       "closedStopIds": [
         "11849",
@@ -6051,7 +6173,7 @@
       "id": "41775",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 156, Route 578, Route 824, Route 827, Route 850, Route 882, Route 888: Stop Closed at Selected Stop",
+      "title": "Route 156, Route 578, Route 824, Route 827, Route 850, Route 882, Route 888: Stop Closed at 2nd Ave S & 9th St",
       "summary": "2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice. Board at: 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound).",
       "affectedRoutes": [
         "Route 156",
@@ -6063,7 +6185,11 @@
         "Route 888"
       ],
       "direction": "Northbound",
-      "intersections": [],
+      "intersections": [
+        "2nd Ave S & 9th St",
+        "2nd Ave S & 11th St",
+        "2nd Ave S & 7th St"
+      ],
       "closedStopIds": [
         "53316",
         "53315",
@@ -6095,13 +6221,18 @@
       "id": "51968",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 215: Stop Closed at Selected Stop",
+      "title": "Route 215: Stop Closed at McKnight Rd N & Arlington Ave E",
       "summary": "Stops on McKnight Rd are closed for Route 215 until further notice due to construction. Board at: McKnight Rd N & Arlington Ave E - Stop #57701 (northbound); McKnight Rd N & Larpenteur Ave E - Stop #57680 (northbound).",
       "affectedRoutes": [
         "Route 215"
       ],
       "direction": "Both Directions",
-      "intersections": [],
+      "intersections": [
+        "McKnight Rd N & Arlington Ave E",
+        "McKnight Rd N & Larpenteur Ave E",
+        "Lakewood Dr N & Maryland Ave E",
+        "McKnight Rd N & Montana Ave E"
+      ],
       "closedStopIds": [
         "57703",
         "57704",
@@ -6163,8 +6294,10 @@
       "direction": "Both Directions",
       "intersections": [
         "Hwy 120 from 5th Ave to 7th Ave & off 7th Ave",
-        "Hwy 120 - Geneva Ave & 46th St",
-        "Hwy 120 - Division St & 10th Ave"
+        "Margaret St N & Seppala Blvd",
+        "Hwy 120 - Geneva Ave & 46th St N",
+        "7th Ave E & Henry St",
+        "7th Ave E & Charles St"
       ],
       "closedStopIds": [
         "41759",
@@ -6256,7 +6389,10 @@
       "direction": "Both Directions",
       "intersections": [
         "Hadley Ave & 7th St",
-        "Greenway Ave (Hudson Blvd to 7th St and off 7th St from Greenway Ave to Hadley Ave)"
+        "Hadley Ave N & Hadley Lane - St",
+        "Greenway Ave N & Hudson Blvd",
+        "Greenway Ave N & 1st St N",
+        "Greenway Ave N & 2nd St N"
       ],
       "closedStopIds": [
         "49811",
@@ -6383,16 +6519,18 @@
       "id": "52357",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 219: Detour via 12th Ave & 13th Ave",
+      "title": "Route 219: Detour via Margaret St N & 12th Ave",
       "summary": "Route 219 detoured off 7th Ave from Geneva Ave to Margaret Ave and off Margaret Ave from 7th Ave to 14th Ave from 5:00 PM to 8:30 PM on Thu Sep 17 due to North St Paul Fall Round Up Parade. Board at: Hwy 120 - Geneva & Upper 46th St N - Stop #49829 (northbound); Margaret St N & 12th Ave / 13th Ave E - Stop #56899 (northbound).",
       "affectedRoutes": [
         "Route 219"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "12th Ave & 13th Ave",
+        "Margaret St N & 12th Ave",
         "continue on Geneva Ave to 7th Ave & resume regular route.\n\nAffected st",
-        "Margaret St & 12th Ave"
+        "7th Ave E & Henry St",
+        "7th Ave E & Charles St",
+        "7th Ave E & Margaret St N"
       ],
       "closedStopIds": [
         "49830",
@@ -6652,6 +6790,7 @@
       "intersections": [
         "5th St & Minnesota St",
         "Wacouta St & 8th St",
+        "5th St E & Sibley St",
         "Wacouta St & 5th St",
         "5th St (Sibley St to Wacouta St and off Wacouta St from 5th St to 7th St)"
       ],
@@ -6695,18 +6834,18 @@
       "id": "50995",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 294: Detour via Stillwater Blvd & Pine St",
+      "title": "Route 294: Detour via Stillwater Blvd & Pine St W",
       "summary": "Route 294 detoured off Stillwater Blvd from Pine St to Greeley St beginning at 9 PM until further notice due to construction. Board at: Stillwater Blvd & Pine St W - Stop #47078 (northbound); Temporary Stop from Pine St W and Pine Trl St S; Temporary Stop from Pine St W and Seeley St S.",
       "affectedRoutes": [
         "Route 294"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "Stillwater Blvd & Pine St",
-        "left on Stillwater Blvd & resume regular route.\n\nAffected st",
-        "Stillwater Blvd & Oak St",
-        "Stillwater Blvd & Fairmeadows Rd",
-        "Stillwater Blvd (Pine St to Greeley St)"
+        "Stillwater Blvd & Pine St W",
+        "Temporary Stop from Pine St W & Pine Trl St S",
+        "Temporary Stop from Pine St W & Seeley St S",
+        "Temporary Stop from Pine St W & Grove St S",
+        "Temporary Stop from Pine St W & Sherburne St S"
       ],
       "closedStopIds": [
         "6608",
@@ -6853,13 +6992,17 @@
       "id": "47102",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 534: Stop Closed at Selected Stop",
+      "title": "Route 534: Stop Closed at Penn Ave S & 82nd St W",
       "summary": "Penn Ave S & 82nd St W (S) - Stop #2048 (southbound) is closed for Route 534 beginning Thu May 14 at 5:00 AM until further notice due to construction. Board at: Penn Ave S & 81st St W - Stop #2047 (southbound); Penn Ave S & Queen Ave S - Stop #40801 (southbound).",
       "affectedRoutes": [
         "Route 534"
       ],
       "direction": "Southbound",
-      "intersections": [],
+      "intersections": [
+        "Penn Ave S & 82nd St W",
+        "Penn Ave S & 81st St W",
+        "Penn Ave S & Queen Ave S"
+      ],
       "closedStopIds": [
         "2048",
         "2047",
@@ -6893,15 +7036,17 @@
       "id": "51507",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 534: Detour via 80th St & American Blvd",
+      "title": "Route 534: Detour via Lyndale Ave S & 82nd St W",
       "summary": "Route 534 detoured off Lyndale Ave from 82nd St to American Blvd and off American Blvd from Lyndale Ave to Knox Ave beginning Mon Aug 17 at 4:00 AM until further notice due to construction. Board at: Lyndale Ave S & 82nd St W - Stop #50070 (northbound); Lyndale Ave S & 80th St / American Blvd - Stop #3357 (northbound); American Blvd & Knox Ave S - Stop #41217 (westbound).",
       "affectedRoutes": [
         "Route 534"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "80th St & American Blvd",
-        "American Blvd & Knox Ave",
+        "Lyndale Ave S & 82nd St W",
+        "Lyndale Ave S & 80th St",
+        "American Blvd & Knox Ave S",
+        "American Blvd W & Fremont Ave S",
         "Lyndale Ave (82nd St to American Blvd and off American Blvd from Lyndale Ave to Knox Ave)"
       ],
       "closedStopIds": [
@@ -6945,13 +7090,17 @@
       "id": "42186",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 537: Stop Closed at Selected Stop",
+      "title": "Route 537: Stop Closed at France Ave S & Gallagher Dr",
       "summary": "France Ave S & Gallagher Dr - Stop #4375 (southbound) is closed for Route 537 until further notice. Board at: France Ave S & 72nd St W - Stop #4374 (southbound); France Ave S & Parklawn Ave - Stop #20197 (southbound).",
       "affectedRoutes": [
         "Route 537"
       ],
       "direction": "Southbound",
-      "intersections": [],
+      "intersections": [
+        "France Ave S & Gallagher Dr",
+        "France Ave S & 72nd St W",
+        "France Ave S & Parklawn Ave"
+      ],
       "closedStopIds": [
         "4375",
         "4374",
@@ -6984,15 +7133,18 @@
       "id": "52601",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 537: Detour via left on France Ave & resume regular route.\n\nAffected st",
+      "title": "Route 537: Detour via France Ave S & Minnesota Dr",
       "summary": "Route 537 detoured off France Ave from 76th St to 70th St and off 70th St from France Ave to York Ave beginning Wed Sep 16 at 6:00 PM until further notice due to construction. Board at: France Ave S & Minnesota Dr - Stop #57520 (northbound); 76th St W & Centennial Lakes Office Park - Stop #52038 (eastbound); York Ave S & 70th St W - Stop #50601 (northbound).",
       "affectedRoutes": [
         "Route 537"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "left on France Ave & resume regular route.\n\nAffected st",
-        "France Ave (76th St to 70th St and off 70th St from France Ave to York Ave)"
+        "France Ave S & Minnesota Dr",
+        "76th St W & Centennial Lakes Office Park - St",
+        "York Ave S & 70th St W",
+        "York Ave S & 69th St W",
+        "York Ave S & Hazelton Rd"
       ],
       "closedStopIds": [
         "57521",
@@ -7111,19 +7263,25 @@
       "id": "52689",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 537, Route 538: Stop Closed at Selected Stop",
+      "title": "Route 537, Route 538: Stop Closed at 70th St W & Target - St",
       "summary": "70th St W & Target - Stop #50603 (westbound) is closed for Routes 537 and 538 beginning Mon Sep 14 at 7:00 AM until further notice due to construction. Board at: York Ave S & 69th St W - Stop #48182 (southbound); France Ave S & 70th St W - Stop #50604 (southbound).",
       "affectedRoutes": [
         "Route 537",
         "Route 538"
       ],
       "direction": "Both Directions",
-      "intersections": [],
+      "intersections": [
+        "70th St W & Target - St",
+        "York Ave S & 69th St W",
+        "France Ave S & 70th St W",
+        "70th St W & Target dr"
+      ],
       "closedStopIds": [
         "50603",
         "48182",
         "50604",
         "50600",
+        "7201",
         "2159"
       ],
       "closedStopDetails": [
@@ -7138,6 +7296,9 @@
         },
         {
           "id": "50600"
+        },
+        {
+          "id": "7201"
         },
         {
           "id": "2159"
@@ -7160,20 +7321,25 @@
       "id": "52557",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 538: Detour via left on York Ave & resume regular route.\n\nAffected st",
+      "title": "Route 538: Detour via York Ave S & Walker Eldersuites - St",
       "summary": "Route 538 detoured out of 3400 Parklawn turnaround beginning Thu Sep 10 at 7:00 AM until further notice due to construction. Board at: York Ave S & Walker Eldersuites - Stop #20195 (southbound); Temporary stop on Parklawn Ave just before #3400 Parklawn driveway (westbound); York Ave S & 76th St W - Stop #42325 (southbound).",
       "affectedRoutes": [
         "Route 538"
       ],
       "direction": "Both Directions",
       "intersections": [
+        "York Ave S & Walker Eldersuites - St",
+        "York Ave S & 76th St W",
+        "York Ave S & Yorkdale Townhomes - St",
         "left on York Ave & resume regular route.\n\nAffected st"
       ],
       "closedStopIds": [
         "44364",
         "2024",
         "20195",
+        "3400",
         "42325",
+        "7701",
         "3735",
         "2026"
       ],
@@ -7192,7 +7358,13 @@
           "id": "20195"
         },
         {
+          "id": "3400"
+        },
+        {
           "id": "42325"
+        },
+        {
+          "id": "7701"
         },
         {
           "id": "3735"
@@ -7218,13 +7390,18 @@
       "id": "50581",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 540: Stop Closed at Selected Stop",
+      "title": "Route 540: Stop Closed at 77th St W & Nicollet Ave S",
       "summary": "77th St W & Nicollet Ave S - Stop #48617 (eastbound) and 77th St E & Nicollet Ave S - Stop #48627 (westbound) are closed for Route 540 until further notice due to construction. Board at: 77th St W & Pillsbury Ave S - Stop #48616 (eastbound); 77th St E & 2nd Ave S - Stop #48618 (eastbound).",
       "affectedRoutes": [
         "Route 540"
       ],
       "direction": "Both Directions",
-      "intersections": [],
+      "intersections": [
+        "77th St W & Nicollet Ave S",
+        "and 77th St E & Nicollet Ave S",
+        "77th St W & Pillsbury Ave S",
+        "77th St E & 2nd Ave S"
+      ],
       "closedStopIds": [
         "48617",
         "48627",
@@ -7269,7 +7446,7 @@
       "id": "49795",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 542, Route 686: Stop Closed at American Blvd & Lyndale Ave",
+      "title": "Route 542, Route 686: Stop Closed at American Blvd & Lyndale Ave S",
       "summary": "American Blvd & Lyndale Ave S - Stop #52216 (westbound) is closed for Routes 542 and 686 until further notice. Board at: American Blvd W & Home Depot - Stop #57108 (westbound); American Blvd W & Lyndale Av/Bryant Av S - Stop #56604 (westbound).",
       "affectedRoutes": [
         "Route 542",
@@ -7277,8 +7454,10 @@
       ],
       "direction": "Westbound",
       "intersections": [
-        "American Blvd & Lyndale Ave",
-        "American Blvd & 3rd Ave"
+        "American Blvd & Lyndale Ave S",
+        "American Blvd W & Home Depot - St",
+        "American Blvd & 3rd Ave S",
+        "77th St W & Best Buy Dr"
       ],
       "closedStopIds": [
         "52216",
@@ -7319,15 +7498,17 @@
       "id": "51508",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 542: Detour via American Blvd & Knox Ave",
+      "title": "Route 542: Detour via American Blvd W & Home Depot - St",
       "summary": "Route 542 detoured off American Blvd from Lyndale Ave to Knox Ave beginning Mon Aug 17 at 4:00 AM until further notice due to construction. Board at: American Blvd W & Home Depot - Stop #57108 (westbound); American Blvd & Knox Ave S - Stop #41217 (westbound).",
       "affectedRoutes": [
         "Route 542"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "American Blvd & Knox Ave",
-        "American Blvd & Lyndale Ave",
+        "American Blvd W & Home Depot - St",
+        "American Blvd & Knox Ave S",
+        "American Blvd & Lyndale Ave S",
+        "American Blvd W & Fremont Ave S",
         "American Blvd (Lyndale Ave to Knox Ave)"
       ],
       "closedStopIds": [
@@ -7377,13 +7558,16 @@
       "id": "49838",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 615: Stop Closed at Selected Stop",
+      "title": "Route 615: Stop Closed at 5th Ave N & Mainstreet - St",
       "summary": "5th Ave N & Mainstreet - Stop #49517 (southbound) is closed for Route 615 until further notice. Board at: 5th Ave N & 1st St N - Stop #49516 (southbound); Mainstreet & 6th Ave N - Stop #3571 (westbound).",
       "affectedRoutes": [
         "Route 615"
       ],
       "direction": "Southbound",
-      "intersections": [],
+      "intersections": [
+        "5th Ave N & Mainstreet - St",
+        "5th Ave N & 1st St N"
+      ],
       "closedStopIds": [
         "49517",
         "49516",
@@ -7415,14 +7599,17 @@
       "id": "45891",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 645: Detour via Park Place Blvd & Wayzata Blvd",
+      "title": "Route 645: Detour via Park Place Blvd & Wayzata Blvd S",
       "summary": "Route 645 detoured off Wayzata Blvd between Park Place Blvd and Hwy 100 beginning Sun Feb 22 at 10:00 PM until further notice due to I-394 construction. Board at: Park Place Blvd & Wayzata Blvd S - Stop #3013 (northbound).",
       "affectedRoutes": [
         "Route 645"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "Park Place Blvd & Wayzata Blvd"
+        "Park Place Blvd & Wayzata Blvd S",
+        "Wayzata Blvd S & Park Place Blvd",
+        "Wayzata Blvd S & Utica Ave S",
+        "Wayzata Blvd S & Hwy 100 Bridge - St"
       ],
       "closedStopIds": [
         "3013",
@@ -7461,16 +7648,18 @@
       "id": "51935",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 645: Detour via left on Wayzata Blvd & resume regular route.\n\nAffected st",
+      "title": "Route 645: Detour via 16th St W & Park Place East - St",
       "summary": "Route 645 detoured off Zarthan Ave from 16th St to Wayzata Blvd and off Wayzata Blvd from Zarthan Ave to Louisiana Transit Center beginning Mon Jul 6 at 4:00 AM until further notice due to construction. Board at: Louisiana Transit Ctr & temporary Gate B - Stop #80969 (eastbound); 16th St W & Park Place East - Stop #40325 (eastbound).",
       "affectedRoutes": [
         "Route 645"
       ],
       "direction": "Both Directions",
       "intersections": [
+        "16th St W & Park Place East - St",
         "left on Wayzata Blvd & resume regular route.\n\nAffected st",
-        "Dakota Ave & Hampshire - St",
-        "Zarthan Ave (16th St to Wayzata Blvd and off Wayzata Blvd from Zarthan Ave to Louisiana Transit Center)"
+        "Wayzata Blvd S & Kentucky Ave S",
+        "Wayzata Blvd S & Idaho Ave S",
+        "Wayzata Blvd S & Hampshire Ave S"
       ],
       "closedStopIds": [
         "40933",
@@ -7587,8 +7776,8 @@
       "intersections": [
         "Cedar Lake Rd & Texas Ave",
         "Cedar Lake Rd & Virginia Ave",
-        "Cedar Lake Rd & Rhode Island Ave",
-        "Cedar Lake Rd & Sumter Ave",
+        "Cedar Lake Rd & Rhode Island Ave S",
+        "Cedar Lake Rd & Sumter Ave S",
         "Cedar Lake Rd (Texas Ave to Louisiana Ave and off Louisiana Ave from Cedar Lake Rd to Wayzata Blvd)"
       ],
       "closedStopIds": [
@@ -7632,7 +7821,7 @@
       "id": "52096",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 721, Route 723: Stop Closed at Brooklyn Blvd & 59th Ave",
+      "title": "Route 721, Route 723: Stop Closed at Brooklyn Blvd & 59th Ave N",
       "summary": "Bass Lake Rd (Co Rd 10) & Xerxes Ave N - Stop #9022 (westbound) is closed for Routes 721 and 723 beginning Tue Sep 1 at 7:30 AM until further notice due to construction. Board at: Brooklyn Ctr Transit Ctr Gate A - Stop #51845 (eastbound); Bass Lake Rd (58th Ave) & Drew Ave N - Stop #9474 (westbound).",
       "affectedRoutes": [
         "Route 721",
@@ -7640,7 +7829,7 @@
       ],
       "direction": "Both Directions",
       "intersections": [
-        "Brooklyn Blvd & 59th Ave"
+        "Brooklyn Blvd & 59th Ave N"
       ],
       "closedStopIds": [
         "9022",
@@ -7717,7 +7906,7 @@
       "id": "50957",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 760, Route 763, Route 765, Route 766, Route 768: Detour via 3rd St (Hennepin Ave to Hwy 94)",
+      "title": "Route 760, Route 763, Route 765, Route 766, Route 768: Detour via 3rd St S & Nicollet Mall - St",
       "summary": "Routes 760, 763, 765, 766 and 768 detoured off 3rd St from Hennepin Ave to Hwy 94 beginning Mon Aug 10 at 2:00 AM until further notice due to construction. Board at: 3rd St S & Nicollet Mall - Stop #40172 (westbound).",
       "affectedRoutes": [
         "Route 760",
@@ -7728,6 +7917,8 @@
       ],
       "direction": "Both Directions",
       "intersections": [
+        "3rd St S & Nicollet Mall - St",
+        "3rd St N & 1st Ave N",
         "3rd St (Hennepin Ave to Hwy 94)"
       ],
       "closedStopIds": [
@@ -7761,13 +7952,14 @@
       "id": "48756",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 781: Detour via Marquette Ave & 10th St",
+      "title": "Route 781: Detour via 2nd Ave S & 10th St",
       "summary": "Route 781 detoured off 16th St E from 1st Ave S to 3rd Ave S and off 3rd Ave S from 16th St E to 12 St S beginning Mon Apr 27 at 5:00 AM until further notice. Board at: 2nd Ave S & 10th St - Stop Group H - Stop #53319 (northbound).",
       "affectedRoutes": [
         "Route 781"
       ],
       "direction": "Both Directions",
       "intersections": [
+        "2nd Ave S & 10th St",
         "Marquette Ave & 10th St",
         "16th St & 1st Ave",
         "16th St E (1st Ave S to 3rd Ave S and off 3rd Ave S from 16th St E to 12 St S)"
@@ -7807,13 +7999,14 @@
       "id": "48755",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 785: Detour via 16th St & 1st Ave",
+      "title": "Route 785: Detour via 2nd Ave S & 10th St",
       "summary": "Route 785 detoured off 16th St E from 1st Ave S to 3rd Ave S and off 3rd Ave S from 16th St E to 12 St S beginning Mon Apr 27 at 4:00 AM until further notice. Board at: 2nd Ave S & 10th St - Stop Group H - Stop #53319 (northbound).",
       "affectedRoutes": [
         "Route 785"
       ],
       "direction": "Both Directions",
       "intersections": [
+        "2nd Ave S & 10th St",
         "16th St & 1st Ave",
         "16th St E (1st Ave S to 3rd Ave S and off 3rd Ave S from 16th St E to 12 St S)"
       ],
@@ -7848,14 +8041,18 @@
       "id": "51297",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 804: Detour via 8th Ave & Old Hwy",
+      "title": "Route 804: Detour via Route 804 detoured off 7th St NW & 8th St N",
       "summary": "Route 804 detoured off 7th St NW/8th St NW loop beginning Mon Jul 6 at 5:00 AM until further notice due to construction. Board at: 8th Ave NW & Old Hwy 8 - Stop #15935 (northbound); Temporary stop on 8th Ave NW & 7th St NW (northbound); Temporary stop on 8th Ave NW & 8th St NW (northbound).",
       "affectedRoutes": [
         "Route 804"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "8th Ave & Old Hwy"
+        "Route 804 detoured off 7th St NW & 8th St N",
+        "8th Ave NW & Old Hwy",
+        "8th Ave NW & 7th St N",
+        "8th Ave NW & 8th St N",
+        "8th St NW & Old Hwy"
       ],
       "closedStopIds": [
         "15932",
@@ -7872,7 +8069,9 @@
         "15935",
         "15892",
         "15898",
-        "15936"
+        "15936",
+        "1362",
+        "1381"
       ],
       "closedStopDetails": [
         {
@@ -7941,6 +8140,12 @@
         },
         {
           "id": "15936"
+        },
+        {
+          "id": "1362"
+        },
+        {
+          "id": "1381"
         }
       ],
       "riderAlternative": "Board at: 8th Ave NW & Old Hwy 8 - Stop #15935 (northbound); Temporary stop on 8th Ave NW & 7th St NW (northbound); Temporary stop on 8th Ave NW & 8th St NW (northbound)",
@@ -7960,13 +8165,16 @@
       "id": "46251",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 860: Detour via Wacouta St & 5th St",
+      "title": "Route 860: Detour via 7th St E & Wall St",
       "summary": "Route 860 detoured off 5th St from Sibley St to Wacouta St until further notice due to construction. Board at: 7th St E & Wall St - Stop #57215 (eastbound); 5th St E & Jackson St - Stop #11838 (eastbound).",
       "affectedRoutes": [
         "Route 860"
       ],
       "direction": "Both Directions",
       "intersections": [
+        "7th St E & Wall St",
+        "5th St E & Jackson St",
+        "5th St E & Sibley St",
         "Wacouta St & 5th St",
         "5th St (Sibley St to Wacouta St)"
       ],
@@ -8107,7 +8315,7 @@
       "direction": "Both Directions",
       "intersections": [
         "Concordia Ave & Snelling Ave",
-        "and St Anthony Ave & Snelling Ave",
+        "and St Anthony Ave & Snelling Ave N",
         "Concordia Ave & Asbury St",
         "St Anthony Ave & Fry St"
       ],

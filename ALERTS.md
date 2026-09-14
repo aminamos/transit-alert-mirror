@@ -2,17 +2,17 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-109-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-110-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-105-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-83-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-14T00:36:32.205Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-14T00:42:37.491Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 5** (2) • **Route 7** (1) • **Route 9** (4) • **Route 10** (2) • **Route 11** (5) • **Route 11A** (1) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (3) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (4) • **Route 38** (3) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (3) • **Route 64** (8) • **Route 64N** (2) • **Route 65** (3) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (2) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 781** (1) • **Route 785** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 5** (2) • **Route 7** (1) • **Route 9** (4) • **Route 10** (2) • **Route 11** (5) • **Route 11A** (1) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (3) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (4) • **Route 38** (3) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (3) • **Route 64** (8) • **Route 64N** (2) • **Route 65** (3) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (2) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 781** (1) • **Route 785** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
@@ -30,6 +30,25 @@
 <summary>Raw Dispatcher Message</summary>
 
 **Header**: Southbound Route 11A trip departing Columbia Heights Transit Center C at 6:14 PM canceled today due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 94: Westbound 7:24 PM Trip Canceled (Union Depot & Gate A1)
+
+- **Affected Routes**: `Route 94`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 94 trip departing Union Depot & Gate A1 at 7:24 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/94)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 94 trip departing Union Depot & Gate A1 at 7:24 PM canceled today
 
 </details>
 
@@ -73,11 +92,12 @@ Snelling & St Clair Station - Stop #17318 (southbound)
 
 ---
 
-### ⚠️ METRO B Line: Detour via Regular Corridor
+### ⚠️ METRO B Line: Detour via Lake St W & Blaisdell Ave S
 
 - **Affected Routes**: `METRO B Line`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
+- **Corridors & Intersections**: Lake St W & Blaisdell Ave S
 - **Closed Stops**: Lake & Nicollet Station (Stop #57359), Lake & I-35W Station (Stop #16857), Lake & 4th Ave Station (Stop #16863), Lake & 5th Ave Station (Stop #47529), Lake & I-35W Station (Stop #16855), Stop #57356, Stop #16845, Stop #56796 *(+2 more)*
 
 **Summary**: METRO B Line detoured off Lake St from 1st Ave S to Portland Ave from 7:00 AM to 11:30 PM on Sun Sep 13 due to Mexican Independence Day event. Board at: Lake & Lyndale Station - Stop #57356 (eastbound); Lake St W & Blaisdell Ave S - Stop #16845 (eastbound); Lake & Chicago Station - Stop #56796 (eastbound).
@@ -268,7 +288,9 @@ Uptown Transit Station - Gate A - Stop #50196 (southbound)
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Sep 14 at 6:30 AM until further notice
-- **Corridors & Intersections**: E Line detoured off Upton Ave & Sheridan Ave; 44th St & Abbott St; Richfield Rd & Bde Maka Ska St; 39th St & Sheridan St; Upton Ave/Sheridan Ave (44th St to 39th St)
+- **Corridors & Intersections**: E Line detoured off Upton Ave & Sheridan Ave; 44th St & Abbott St; Richfield Rd & Bde Maka Ska St; 39th St & Sheridan St; right on 44th St W & resume regular route.
+
+Affected st
 - **Closed Stops**: Sheridan & 43rd St Station (Stop #6202), Sheridan & 39th St Station (Stop #6206), Sheridan & 43rd St Station (Stop #6379), Stop #6195, Stop #57539, Stop #1117, Stop #6386
 
 **Summary**: E Line detoured off Upton Ave/Sheridan Ave from 44th St to 39th St beginning Mon Sep 14 at 6:30 AM until further notice due to tree trimming. Board at: 44th St & Abbott Station - Stop #6195 (eastbound); Temporary stop on 42nd St W at Upton Ave (eastbound); Temporary stop on 39th St W at Sheridan Ave (eastbound).
@@ -581,12 +603,12 @@ Front Ave & Grotto St - Stop #843 (westbound)
 
 ---
 
-### ⚠️ Route 5: Detour via Chicago Ave (41st St to 39th St)
+### ⚠️ Route 5: Detour via Chicago Ave S & 41st St E
 
 - **Affected Routes**: `Route 5`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Chicago Ave (41st St to 39th St)
+- **Corridors & Intersections**: Chicago Ave S & 41st St E; Chicago Ave S & 40th St E; Chicago Ave (41st St to 39th St)
 - **Closed Stops**: Chicago Ave S & 40th St E (Stop #792), Stop #80138
 
 **Summary**: Route 5 detoured off Chicago Ave from 41st St to 39th St until further notice due to construction. Board at: Chicago Ave S & 41st St E - Stop #791 (northbound); Park & 38th St Station - Stop #80138 (northbound).
@@ -621,13 +643,13 @@ Chicago Ave S & 40th St E - Stop #792 (northbound)
 
 ---
 
-### ⚠️ Route 7: Stop Closed at Plymouth Ave & Lyndale Ave
+### ⚠️ Route 7: Stop Closed at Plymouth Ave & Lyndale Ave N
 
 - **Affected Routes**: `Route 7`
 - **Direction**: Westbound
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Aug 31 at 7:00 PM until further notice
-- **Corridors & Intersections**: Plymouth Ave & Lyndale Ave; Plymouth Ave & Washington Ave; Plymouth Ave & Bryant Ave
+- **Corridors & Intersections**: Plymouth Ave & Lyndale Ave N; Plymouth Ave & Washington Ave; Plymouth Ave & Bryant Ave N
 - **Closed Stops**: Stop #17654, Stop #17653, Stop #17656
 
 **Summary**: Plymouth Ave & Lyndale Ave N - Stop #17654 (westbound) is closed for Route 7 beginning Mon Aug 31 at 7:00 PM until further notice due to construction. Board at: Plymouth Ave & Washington Ave - Stop #17653 (westbound); Plymouth Ave & Bryant Ave N - Stop #17656 (westbound).
@@ -736,13 +758,13 @@ Cedar Lake Rd & Rhode Island Ave S - Stop #80936 (westbound)
 
 ---
 
-### ⚠️ Route 9: Detour via Franklin Ave (Portland Ave to Chicago Ave and off Park Ave from 17th St to Franklin Ave)
+### ⚠️ Route 9: Detour via Portland Ave S & 18th St E
 
 - **Affected Routes**: `Route 9`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Mar 23 at 5:00 AM until further notice
-- **Corridors & Intersections**: Franklin Ave (Portland Ave to Chicago Ave and off Park Ave from 17th St to Franklin Ave)
+- **Corridors & Intersections**: Portland Ave S & 18th St E; Franklin Ave E & 10th Ave S; Franklin Ave E & Chicago Ave; Park Ave S & 16th St E; Franklin Ave E & Portland Ave
 - **Closed Stops**: Franklin Ave E & Portland Ave (Stop #13316), Franklin Ave E & Chicago Ave (Stop #13312), Park Ave S & 18th St E (Stop #15343), Stop #15348, Stop #13310, Stop #56698, Stop #15344
 
 **Summary**: Route 9 detoured off Franklin Ave from Portland Ave to Chicago Ave and off Park Ave from 17th St to Franklin Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction. Board at: Portland Ave S & 18th St E - Stop #15348 (southbound); Temporary stop on Portland Ave just before Franklin Ave (southbound); Temporary stop on Chicago Ave just before Franklin Ave (northbound).
@@ -783,15 +805,15 @@ Park Ave S & 18th St E - Stop #15343 (northbound)
 
 ---
 
-### ⚠️ Route 9: Detour via Cedar Lake Rd & Penn Ave
+### ⚠️ Route 9: Detour via Laurel Ave W & Sheridan Ave S
 
 - **Affected Routes**: `Route 9`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Fri Sep 11 at 4:00 PM until further notice
-- **Corridors & Intersections**: Cedar Lake Rd & Penn Ave; left on Laurel Ave & resume regular route.
+- **Corridors & Intersections**: Laurel Ave W & Sheridan Ave S; Cedar Lake Rd & Penn Ave S; Penn Ave S & Cedar Lake Rd S; left on Laurel Ave & resume regular route.
 
-Affected st; Laurel Ave (Cedar Lake Rd to Russell Ave)
+Affected st; Laurel Ave W & Queen Ave S
 - **Closed Stops**: Laurel Ave W & Queen Ave S (Stop #7421), Laurel Ave W & Queen Ave S (Stop #7333), Stop #7419, Stop #7422, Stop #56586, Stop #7335
 
 **Summary**: Route 9 detoured off Laurel Ave from Cedar Lake Rd to Russell Ave beginning Fri Sep 11 at 4:00 PM until further notice due to street painting. Board at: Laurel Ave W & Sheridan Ave S - Stop #7419 (eastbound); Cedar Lake Rd & Penn Ave S - Stop #7422 (eastbound).
@@ -829,13 +851,13 @@ Laurel Ave W & Queen Ave S - Stop #7333 (westbound)
 
 ---
 
-### ⚠️ Route 10, Route 25: Detour via Routes 10 and 25 detoured off Grant St & 2nd Ave
+### ⚠️ Route 10, Route 25: Detour via Routes 10 and 25 detoured off Grant St & 2nd Ave S
 
 - **Affected Routes**: `Route 10` `Route 25`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Wed Aug 12 at 4:00 AM until further notice
-- **Corridors & Intersections**: Routes 10 and 25 detoured off Grant St & 2nd Ave; Grant St and 2nd Ave S (Nicollet Mall to 3rd Ave S)
+- **Corridors & Intersections**: Routes 10 and 25 detoured off Grant St & 2nd Ave S; 3rd Ave S & 11th St S; 2nd Ave S & Convention Center - St; Grant St E & Nicollet Ave S; Grant St and 2nd Ave S (Nicollet Mall to 3rd Ave S)
 - **Closed Stops**: 2nd Ave S & Convention Center (Stop #41911), Grant St E & Nicollet Ave S (Stop #19327), 2nd Ave S & Convention Center (Stop #19250), Stop #19277, Stop #17988, Stop #17984, Stop #19337
 
 **Summary**: Routes 10 and 25 detoured off Grant St and 2nd Ave S from Nicollet Mall to 3rd Ave S beginning Wed Aug 12 at 4:00 AM until further notice due to construction. Board at: 3rd Ave S & 11th St S - Stop #19277 (southbound); Nicollet Mall & Alice Rainville Place - Stop #17988 (northbound).
@@ -872,12 +894,12 @@ Grant St E & Nicollet Ave S - Stop #19327 (eastbound)
 
 ---
 
-### ⚠️ Route 10: Detour via 3rd Ave & 2nd Ave
+### ⚠️ Route 10: Detour via 3rd Ave S & 11th St S
 
 - **Affected Routes**: `Route 10`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: 3rd Ave & 2nd Ave; Marquette Ave & 3rd St; Marquette Ave & 5th St; Marquette Ave & 7th St; Marquette Ave & 9th St
+- **Corridors & Intersections**: 3rd Ave S & 11th St S; 2nd Ave S & 9th St; 2nd Ave S & 7th St; 2nd Ave S & 5th St; 2nd Ave S & Washington Ave S
 - **Closed Stops**: 2nd Ave S & Convention Center (Stop #41911), Nicollet Mall & Alice Rainville Pl (Stop #17988), Nicollet Mall & 11th St S (Stop #17990), Nicollet Mall & 9th St S (Stop #17992), Nicollet Mall & 7th St S (Stop #17994), Nicollet Mall & 5th St S (Stop #17996), Nicollet Mall & 3rd St S (Stop #17998), Washington Ave S & Marquette Ave (Stop #19315) *(+23 more)*
 
 **Summary**: Route 10 detoured off Nicollet Mall from Washington Ave to 12th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: 3rd Ave S & 11th St S - Stop #19277 (southbound); 2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound).
@@ -938,12 +960,15 @@ Grant St E & Nicollet Ave S - Stop #19327 (eastbound)
 
 ---
 
-### ⚠️ Route 11: Detour via Regular Corridor
+### ⚠️ Route 11: Detour via Main St NE & St Anthony Pkwy
 
 - **Affected Routes**: `Route 11`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Tue May 26 at 7:00 AM until further notice
+- **Corridors & Intersections**: Main St NE & St Anthony Pkwy; 2 St NE & 35th Ave N; 2 St NE & 36th Ave N; Main St NE & Edge Place NE - St; left on Main St NE & resume regular route.
+
+Affected st
 - **Closed Stops**: Main St NE & Edge Place NE (Stop #14617), Main St NE & 35th Ave NE (Stop #14614), 35th Ave NE & 2nd St NE (Stop #14613), 35th Ave NE & 2nd 1/2 St NE (Stop #14610), 35th Ave NE & 2nd St NE (Stop #14612), 35th Ave NE & Main St NE (Stop #14615), Stop #14618, Stop #14609 *(+2 more)*
 
 **Summary**: Route 11 detoured off Main St NE from Edge Pl to 35th Ave and off 35th Ave from Main St NE to 2 1/2 St beginning Tue May 26 at 7:00 AM until further notice due to construction. Board at: Main St NE & St Anthony Pkwy - Stop #14618 (northbound); Temporary stop on Main St NE just before Edge Place NE (northbound); Temporary stop on 2nd 1/2 St NE & 35th Ave NE (northbound).
@@ -987,13 +1012,13 @@ Main St NE & 35th Ave NE - Stop #14614 (northbound)
 
 ---
 
-### ⚠️ Route 11: Detour via 14th St & Grant St
+### ⚠️ Route 11: Detour via 3rd Ave S & 25th St E
 
 - **Affected Routes**: `Route 11`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Wed Aug 5 at 4:00 AM until further notice
-- **Corridors & Intersections**: 14th St & Grant St; Franklin Ave & 19th St; 18th St & 17th St; 3rd Ave (24th St to 19th St)
+- **Corridors & Intersections**: 3rd Ave S & 25th St E; 24th St E & 3rd Ave S; Nicollet Ave S & 24th St E; Nicollet Ave S & Franklin Ave W; Nicollet Ave S & 18th St E
 - **Closed Stops**: Stop #17762, Stop #1900, Stop #1905, Stop #1911, Stop #1914, Stop #1920, Stop #17763, Stop #17764 *(+4 more)*
 
 **Summary**: Northbound Route 11 detoured off 3rd Ave from 24th St to 19th St beginning Wed Aug 5 at 4:00 AM until further notice due to construction. Board at: 3rd Ave S & 25th St E - Stop #17762 (northbound); Temporary stop on 24th St E & 3rd Ave S (westbound); Nicollet Ave S & 24th St E - Stop #1900 (northbound).
@@ -1038,12 +1063,12 @@ Affected stops:
 
 ---
 
-### ⚠️ Route 11: Detour via 31st St & 4th Ave
+### ⚠️ Route 11: Detour via 4th Ave S & 31st St E
 
 - **Affected Routes**: `Route 11`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: 31st St & 4th Ave
+- **Corridors & Intersections**: 4th Ave S & 31st St E; 5th Ave S & 28th St E; Stevens Ave S & 27th St E; 31st St & 4th Ave S; 4th Ave S & 32nd St E
 - **Closed Stops**: 4th Ave S & Lake St E (Stop #17755), 4th Ave S & 28th St E (Stop #51795), 28th St E & Stevens Ave S (Stop #17713), 28th St E & 4th Ave S (Stop #14331), 4th Ave S & Lake St E (Stop #17715), 4th Ave S & 31st St E (Stop #17716), Stop #17754, Stop #17757 *(+2 more)*
 
 **Summary**: Route 11 detoured off 4th Ave S from 28th St to 31st St from 7:30 AM to 11:30 PM on Sun Sep 13 due to Mexican Independence Day event. Board at: 4th Ave S & 31st St E - Stop #17754 (northbound); 5th Ave S & 28th St E - Stop #17757 (northbound).
@@ -1086,12 +1111,12 @@ Affected stops:
 
 ---
 
-### ⚠️ Route 11: Detour via Hennepin Ave & 1st St
+### ⚠️ Route 11: Detour via 3rd Ave S & 25th St E
 
 - **Affected Routes**: `Route 11`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Hennepin Ave & 1st St; Marquette Ave & 3rd St; Marquette Ave & 5th St; Marquette Ave & 7th St; Marquette Ave & 9th St
+- **Corridors & Intersections**: 3rd Ave S & 25th St E; Nicollet Ave S & 16th St E; 2nd Ave S & 9th St; 2nd Ave S & 7th St; 2nd Ave S & 5th St
 - **Closed Stops**: Nicollet Ave S & 14th St / Grant St E (Stop #1920), Nicollet Mall & Alice Rainville Pl (Stop #17988), Nicollet Mall & 11th St S (Stop #17990), Nicollet Mall & 9th St S (Stop #17992), Nicollet Mall & 7th St S (Stop #17994), Nicollet Mall & 5th St S (Stop #17996), Nicollet Mall & 3rd St S (Stop #17998), Nicollet Mall & 3rd St (Stop #17976) *(+21 more)*
 
 **Summary**: Route 11 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: 3rd Ave S & 25th St E - Stop #17762 (northbound); Nicollet Ave S & 16th St E - Stop #1914 (northbound); 2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound).
@@ -1222,12 +1247,12 @@ Uptown Transit Station - Gate A - Stop #50196 (southbound)
 
 ---
 
-### ⚠️ Route 17: Detour via 3rd Ave & 4th Ave
+### ⚠️ Route 17: Detour via Nicollet Ave S & 16th St E
 
 - **Affected Routes**: `Route 17`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: 3rd Ave & 4th Ave; 3rd Ave & 2nd Ave; Marquette Ave & 3rd St; Marquette Ave & 5th St; Marquette Ave & 7th St
+- **Corridors & Intersections**: Nicollet Ave S & 16th St E; 2nd Ave S & 9th St; 2nd Ave S & 7th St; 2nd Ave S & 5th St; 2nd Ave S & Washington Ave S
 - **Closed Stops**: Nicollet Ave S & 14th St / Grant St E (Stop #1920), Nicollet Mall & Alice Rainville Pl (Stop #17988), Nicollet Mall & 11th St S (Stop #17990), Nicollet Mall & 9th St S (Stop #17992), Nicollet Mall & 7th St S (Stop #17994), Nicollet Mall & 5th St S (Stop #17996), Nicollet Mall & 3rd St S (Stop #17998), Washington Ave S & Marquette Ave (Stop #19315) *(+22 more)*
 
 **Summary**: Route 17 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: Nicollet Ave S & 16th St E - Stop #1914 (northbound); 2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound).
@@ -1291,13 +1316,13 @@ Nicollet Ave S & Grant St E - Stop #1197 (southbound)
 
 ---
 
-### ⚠️ Route 18: Detour via Diamond Lake Rd & Nicollet Ave
+### ⚠️ Route 18: Detour via Nicollet Ave S & 56th St E
 
 - **Affected Routes**: `Route 18`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Mar 2 until further notice
-- **Corridors & Intersections**: Diamond Lake Rd & Nicollet Ave; Diamond Lake Rd & Wentworth Ave; Nicollet Ave (50th St to Diamond Lake Rd)
+- **Corridors & Intersections**: Nicollet Ave S & 56th St E; Diamond Lake Rd & Nicollet Ave S; Diamond Lake Rd & Wentworth Ave; Lyndale Ave S & 53rd St W; Lyndale Ave S & Minnehaha Pkwy
 - **Closed Stops**: Nicollet Ave S & Diamond Lake Rd (Stop #1766), Nicollet Ave S & 52nd St E (Stop #1768), Nicollet Ave S & 50th St E (Stop #1770), Nicollet Ave S & 52nd St W (Stop #1336), Nicollet Ave S & Diamond Lake Rd (Stop #1338), Stop #1765, Stop #3393, Stop #3395 *(+6 more)*
 
 **Summary**: Route 18 detoured off Nicollet Ave from 50th St to Diamond Lake Rd beginning Mon Mar 2 until further notice due to construction. Board at: Nicollet Ave S & 56th St E - Stop #1765 (northbound); Diamond Lake Rd & Nicollet Ave S - Stop #3393 (westbound); Diamond Lake Rd & Wentworth Ave - Stop #3395 (westbound).
@@ -1347,15 +1372,13 @@ Nicollet Ave S & Diamond Lake Rd - Stop #1338 (southbound)
 
 ---
 
-### ⚠️ Route 18: Detour via 27th St & 26th St
+### ⚠️ Route 18: Detour via 1st Ave S & Lake St
 
 - **Affected Routes**: `Route 18`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Jul 13 at 5:00 AM until further notice
-- **Corridors & Intersections**: 27th St & 26th St; Blaisdell Ave & 28th St; continue on Blaisdell Ave to 29th St & resume regular route. 
-
-Affected st; Nicollet (26th St to Cecil Newman Ln)
+- **Corridors & Intersections**: 1st Ave S & Lake St; Nicollet Ave S & 27th St; Nicollet Ave S & 24th St W; Blaisdell Ave & 28th St; Blaisdell Ave S & Lake St
 - **Closed Stops**: Nicollet Ave S & 28th St E (Stop #1890), Nicollet Ave S & 26th St W (Stop #1206), Nicollet Ave S & 28th St W (Stop #1208), Stop #1889, Stop #52309, Stop #1204, Stop #14850
 
 **Summary**: Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln beginning Mon Jul 13 at 5:00 AM until further notice due to construction. Board at: 1st Ave S & Lake St - Stop #1889 (northbound); Nicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound).
@@ -1396,12 +1419,13 @@ Nicollet Ave S & 28th St W - Stop #1208 (southbound)
 
 ---
 
-### ⚠️ Route 18: Stop Closed at Selected Stop
+### ⚠️ Route 18: Stop Closed at Nicollet Ave S & 33rd St W
 
 - **Affected Routes**: `Route 18`
 - **Direction**: Southbound
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Aug 31 at 4:00 AM until further notice
+- **Corridors & Intersections**: Nicollet Ave S & 33rd St W; Nicollet Ave S & 32nd St W; Nicollet Ave S & 35th St W
 - **Closed Stops**: Stop #1214, Stop #1212, Stop #1216
 
 **Summary**: Nicollet Ave S & 33rd St W - Stop #1214 (southbound) is closed for Route 18 beginning Mon Aug 31 at 4:00 AM until further notice due to construction. Board at: Nicollet Ave S & 32nd St W - Stop #1212 (southbound); Nicollet Ave S & 35th St W - Stop #1216 (southbound).
@@ -1425,12 +1449,13 @@ Nicollet Ave S & 35th St W - Stop #1216 (southbound)
 
 ---
 
-### ⚠️ Route 18: Stop Closed at Selected Stop
+### ⚠️ Route 18: Stop Closed at Nicollet Ave S & 67th St E
 
 - **Affected Routes**: `Route 18`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Sat Aug 22 at 7:00 AM until further notice
+- **Corridors & Intersections**: Nicollet Ave S & 67th St E; Nicollet Ave S & 68th St E; Nicollet Ave S & 66th St W
 - **Closed Stops**: Stop #1446, Stop #1445, Stop #1349
 
 **Summary**: Nicollet Ave S & 67th St E - Stop #1446 (northbound) is closed for Route 18 beginning Sat Aug 22 at 7:00 AM until further notice due to utility work. Board at: Nicollet Ave S & 68th St E - Stop #1445 (northbound); Nicollet Ave S & 66th St W - Stop #1349 (southbound).
@@ -1454,11 +1479,12 @@ Nicollet Ave S & 66th St W - Stop #1349 (southbound)
 
 ---
 
-### ⚠️ Route 18: Stop Closed at Selected Stop
+### ⚠️ Route 18: Stop Closed at Nicollet Ave S & 69th St E
 
 - **Affected Routes**: `Route 18`
 - **Direction**: Northbound
 - **Severity**: `Moderate`
+- **Corridors & Intersections**: Nicollet Ave S & 69th St E; Nicollet Ave S & 68th St E
 - **Closed Stops**: Stop #1444, Stop #56922, Stop #1445
 
 **Summary**: Nicollet Ave S & 69th St E - Stop #1444 (northbound) is closed for Route 18 until further notice. Board at: Portland & 73rd St Station - Stop #56922 (northbound); Nicollet Ave S & 68th St E - Stop #1445 (northbound).
@@ -1488,9 +1514,9 @@ Nicollet Ave S & 68th St E - Stop #1445 (northbound)
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Wed Sep 9 at 4:00 AM until further notice
-- **Corridors & Intersections**: Nicollet Ave & 77th St; left on Nicollet Ave & resume regular route.
+- **Corridors & Intersections**: Nicollet Ave & 77th St; Nicollet Ave S & 66th St E; Nicollet Ave S & 69th St W; Nicollet Ave S & 78th St W; left on Nicollet Ave & resume regular route.
 
-Affected st; Nicollet Ave (66th St to 77th St)
+Affected st
 - **Closed Stops**: Stop #1436, Stop #56922, Stop #1754, Stop #1352, Stop #1361
 
 **Summary**: Route 18 detoured off Nicollet Ave from 66th St to 77th St beginning Wed Sep 9 at 4:00 AM until further notice due to construction. Board at: Nicollet Ave & 77th St - Stop #1436 (northbound); Portland & 77th St Station - Stop #620 (northbound); Portland & 73rd St Station - Stop #56922 (northbound).
@@ -1533,12 +1559,12 @@ All southbound stops on Nicollet Ave from 70th St to 77th St
 
 ---
 
-### ⚠️ Route 18: Detour via 3rd Ave & 4th Ave
+### ⚠️ Route 18: Detour via Nicollet Ave S & 16th St E
 
 - **Affected Routes**: `Route 18`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: 3rd Ave & 4th Ave; Marquette Ave & 3rd St; Marquette Ave & 5th St; Marquette Ave & 7th St; Marquette Ave & 9th St
+- **Corridors & Intersections**: Nicollet Ave S & 16th St E; 2nd Ave S & 9th St; 2nd Ave S & 7th St; 2nd Ave S & 5th St; 2nd Ave S & Washington Ave S
 - **Closed Stops**: Nicollet Ave S & 14th St / Grant St E (Stop #1920), Nicollet Mall & Alice Rainville Pl (Stop #17988), Nicollet Mall & 11th St S (Stop #17990), Nicollet Mall & 9th St S (Stop #17992), Nicollet Mall & 7th St S (Stop #17994), Nicollet Mall & 5th St S (Stop #17996), Nicollet Mall & 3rd St S (Stop #17998), Nicollet Mall & 3rd St (Stop #17976) *(+19 more)*
 
 **Summary**: Route 18 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: Nicollet Ave S & 16th St E - Stop #1914 (northbound); 2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound).
@@ -1597,12 +1623,13 @@ Nicollet Ave S & Grant St E - Stop #1197 (southbound)
 
 ---
 
-### ⚠️ Route 22: Stop Closed at Selected Stop
+### ⚠️ Route 22: Stop Closed at Lyndale Ave N & 44th Ave N
 
 - **Affected Routes**: `Route 22`
 - **Direction**: Northbound
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Thu Aug 27 at 7:00 AM until further notice
+- **Corridors & Intersections**: Lyndale Ave N & 44th Ave N; Lyndale Ave N & 42nd Ave N; 45th Ave N & Lyndale Ave N
 - **Closed Stops**: Stop #11202, Stop #57197, Stop #11412
 
 **Summary**: Lyndale Ave N & 44th Ave N - Stop #11202 (northbound) is closed for Route 22 beginning Thu Aug 27 at 7:00 AM until further notice. Board at: Lyndale Ave N & 42nd Ave N - Stop #57197 (northbound); 45th Ave N & Lyndale Ave N - Stop #11412 (westbound).
@@ -1626,12 +1653,14 @@ Lyndale Ave N & 42nd Ave N - Stop #57197 (northbound)
 
 ---
 
-### ⚠️ Route 22: Detour via Lyndale Ave N (Lowry Ave N to Dowling Ave N)
+### ⚠️ Route 22: Detour via Lyndale Ave N & Lowry Ave N
 
 - **Affected Routes**: `Route 22`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Lyndale Ave N (Lowry Ave N to Dowling Ave N)
+- **Corridors & Intersections**: Lyndale Ave N & Lowry Ave N; Lyndale Ave N & 40th Ave N; Lyndale Ave N & Dowling Ave N; left on Lyndale Ave N & resume regular route. 
+
+Affected st; Lyndale Ave N & 34th Ave N
 - **Closed Stops**: Lyndale Ave N & 34th Ave N (Stop #11193), Lyndale Ave N & 36th Ave N (Stop #11195), Lyndale Ave N & Dowling Ave N (Stop #11197), Lyndale Ave N & 34th Ave N (Stop #11639), Stop #81098, Stop #11199, Stop #11635, Stop #11641
 
 **Summary**: Route 22 detoured off Lyndale Ave N from Lowry Ave N to Dowling Ave N until further notice due to construction. Board at: Lyndale Ave N & Lowry Ave N - Stop #81098 (northbound); Lyndale Ave N & 40th Ave N - Stop #11199 (northbound).
@@ -1673,14 +1702,14 @@ Lyndale Ave N & 34th Ave N - Stop #11639 (southbound)
 
 ---
 
-### ⚠️ Route 22: Detour via Cedar Ave (Lake St to 24th St)
+### ⚠️ Route 22: Detour via Cedar Ave S & 32nd St E
 
 - **Affected Routes**: `Route 22`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Sep 14 until further notice
-- **Corridors & Intersections**: Cedar Ave (Lake St to 24th St)
-- **Closed Stops**: Stop #15313, Stop #57362, Stop #15618, Stop #15625, Stop #57194, Stop #15366, Stop #15619, Stop #15378 *(+8 more)*
+- **Corridors & Intersections**: Cedar Ave S & 32nd St E; Bloomington Ave S & 28th St E; Bloomington Ave S & 25th St E; Cedar Ave S & Franklin Ave E; Cedar Ave S & Lake St E
+- **Closed Stops**: Stop #15313, Stop #57362, Stop #15618, Stop #15625, Stop #57194, Stop #2501, Stop #15366, Stop #15619 *(+9 more)*
 
 **Summary**: Route 22 detoured off Cedar Ave from Lake St to 24th St beginning Mon Sep 14 until further notice due to construction. Board at: Cedar Ave S & 32nd St E - Stop #15313 (northbound); Lake & Cedar Station - Stop #57362 (westbound); Bloomington Ave S & 28th St E - Stop #15618 (northbound).
 
@@ -1730,12 +1759,12 @@ Cedar Ave S & Lake St E - Stop #15374 (southbound)
 
 ---
 
-### ⚠️ Route 25: Detour via 3rd Ave & 2nd Ave
+### ⚠️ Route 25: Detour via 15th St E & 1st Ave S
 
 - **Affected Routes**: `Route 25`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: 3rd Ave & 2nd Ave; Marquette Ave & 2nd St; Marquette Ave & 3rd St; Marquette Ave & 5th St; Marquette Ave & 7th St
+- **Corridors & Intersections**: 15th St E & 1st Ave S; 3rd Ave S & 11th St S; 2nd Ave S & 9th St; 2nd Ave S & 7th St; 2nd Ave S & 5th St
 - **Closed Stops**: Willow & 14th St (Stop #14906), Willow & Grant (Stop #14907), 2nd Ave S & Convention Center (Stop #41911), Nicollet & Alice Rainville (Stop #17988), Nicollet & 11th St (Stop #17990), Nicollet & 9th St (Stop #17992), Nicollet & 7th St (Stop #17994), Nicollet & 5th St (Stop #17996) *(+32 more)*
 
 **Summary**: Route 25 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: 15th St W & #329 - Stop #14905 (Eastbound, departing Cedar Trails Condos only); 15th St E & 1st Ave S - Stop #53461 (Eastbound, departing Cedar Trails Condos only); 3rd Ave S & 11th St S - Stop #19277 (Southbound, 25 departing Leamington Ramp only).
@@ -1809,13 +1838,13 @@ Willow & 14th St - Stop #49296 (SB)
 
 ---
 
-### ⚠️ Route 27: Detour via 26th St & Nicollet Ave
+### ⚠️ Route 27: Detour via 26th St E & 3rd Ave S
 
 - **Affected Routes**: `Route 27`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Jul 13 at 5:00 AM until further notice
-- **Corridors & Intersections**: 26th St & Nicollet Ave; Blaisdell Ave & 28th St; Nicollet (26th St to 29th St)
+- **Corridors & Intersections**: 26th St E & 3rd Ave S; 26th St & Nicollet Ave; Blaisdell Ave & 28th St; Blaisdell Ave S & Lake St; Nicollet Ave S & 26th St W
 - **Closed Stops**: Nicollet Ave S & 26th St W (Stop #1206), Nicollet Ave S & 28th St W (Stop #1208), Stop #17761, Stop #14850
 
 **Summary**: Route 27 detoured off Nicollet from 26th St to 29th St beginning Mon Jul 13 at 5:00 AM until further notice due to construction. Board at: 26th St E & 3rd Ave S - Stop #17761 (westbound); Temporary stop on 26th St & Nicollet Ave (westbound); Temporary stop on Blaisdell Ave & 28th St (southbound).
@@ -1861,7 +1890,7 @@ Nicollet Ave S & 28th St W - Stop #1208 (southbound)
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Sep 14 until further notice
-- **Corridors & Intersections**: Route 27 detoured off 26th St & 28th St; Bloomington Ave to Cedar Ave & off Cedar Ave; 26th St/28th St (Bloomington Ave to Cedar Ave and off Cedar Ave from 26th St to Lake St)
+- **Corridors & Intersections**: Route 27 detoured off 26th St & 28th St; Bloomington Ave to Cedar Ave & off Cedar Ave; 28th St E & Bloomington Ave S; Lake St E & 21st Ave S; Bloomington Ave S & 28th St E
 - **Closed Stops**: 28th St E & Cedar Ave S (Stop #43021), Cedar Ave S & Lake St E (Stop #15317), Cedar Ave S & 28th St E (Stop #15319), 26th St E & 18th Ave S (Stop #14340), 26th St E & Bloomington Ave S (Stop #43004), Stop #43016, Stop #51579, Stop #16894 *(+3 more)*
 
 **Summary**: Route 27 detoured off 26th St/28th St from Bloomington Ave to Cedar Ave and off Cedar Ave from 26th St to Lake St beginning Mon Sep 14 until further notice due to construction. Board at: 28th St E & Bloomington Ave S - Stop #43016 (eastbound); Lake & Cedar Station - Stop #51579 (eastbound).
@@ -1904,12 +1933,12 @@ Cedar Ave S & 28th St E - Stop #15319 (northbound)
 
 ---
 
-### ⚠️ Route 30, Route 61: Stop Closed at Larpenteur Ave & Malvern St
+### ⚠️ Route 30, Route 61: Stop Closed at Hennepin Ave E & Industrial Blvd
 
 - **Affected Routes**: `Route 30` `Route 61`
 - **Direction**: Westbound
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Larpenteur Ave & Malvern St; Larpenteur Ave & Eustis St
+- **Corridors & Intersections**: Hennepin Ave E & Industrial Blvd; Larpenteur Ave & Malvern St; Larpenteur Ave & Eustis St; Hennepin Ave E & 29th Ave S
 - **Closed Stops**: Stop #41628, Stop #53896, Stop #7235, Stop #41629
 
 **Summary**: Hennepin Ave E & Industrial Blvd - Stop #41628 (westbound) is closed for Routes 30 and 61 until further notice due to construction. Board at: Larpenteur Ave & Malvern St - Stop #53896 (westbound, Route 30 only); Larpenteur Ave & Eustis St - Stop #7235 (westbound, Route 61 only); Hennepin Ave E & 29th Ave SE - Stop #41629 (westbound).
@@ -1934,11 +1963,12 @@ Hennepin Ave E & 29th Ave SE - Stop #41629 (westbound)
 
 ---
 
-### ⚠️ Route 36, Route 538, Route 578: Stop Closed at Selected Stop
+### ⚠️ Route 36, Route 538, Route 578: Stop Closed at York Ave S & Hazelton Rd
 
 - **Affected Routes**: `Route 36` `Route 538` `Route 578`
 - **Direction**: Northbound
 - **Severity**: `Moderate`
+- **Corridors & Intersections**: York Ave S & Hazelton Rd; York Ave S & 70th St W
 - **Closed Stops**: Stop #2029, Stop #50601
 
 **Summary**: York Ave S & Hazelton Rd - Stop #2029 (northbound) is closed for Routes 36, 538 and 578 until further notice due to construction. Board at: York Ave S & 70th St W - Stop #50601 (northbound).
@@ -1959,13 +1989,13 @@ York Ave S & 70th St W - Stop #50601 (northbound)
 
 ---
 
-### ⚠️ Route 36: Stop Closed at Parklawn Ave & Parklawn Court - St
+### ⚠️ Route 36: Stop Closed at 76th St W & Parklawn Ave S
 
 - **Affected Routes**: `Route 36`
 - **Direction**: Northbound
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Parklawn Ave & Parklawn Court - St
-- **Closed Stops**: Stop #2212, Stop #52039, Stop #41091
+- **Corridors & Intersections**: 76th St W & Parklawn Ave S; Parklawn Ave & Parklawn Court - St
+- **Closed Stops**: Stop #2212, Stop #4100, Stop #52039, Stop #41091
 
 **Summary**: 76th St W & Parklawn Ave S - Stop #2212 (westbound) is closed for Route 36 until further notice. Board at: 76th St W & #4100 - Stop #52039 (westbound); Parklawn Ave & Parklawn Court - Stop #41091 (northbound).
 
@@ -1986,16 +2016,16 @@ Parklawn Ave & Parklawn Court - Stop #41091 (northbound)
 
 ---
 
-### ⚠️ Route 36: Detour via Gallagher Dr & France Ave
+### ⚠️ Route 36: Detour via Gallagher Dr & France Ave S
 
 - **Affected Routes**: `Route 36`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Wed Sep 16 at 6:00 PM until further notice
-- **Corridors & Intersections**: Gallagher Dr & France Ave; left on Gallagher Dr & resume regular route.
+- **Corridors & Intersections**: Gallagher Dr & France Ave S; York Ave S & 70th St W; York Ave S & 69th St W; left on Gallagher Dr & resume regular route.
 
-Affected st; Hazelton Rd & France Ave; Hazelton Rd & York Ave; Hazelton Rd & Target Loading Dock - St
-- **Closed Stops**: France Ave S & 72nd St W (Stop #44393), Hazelton Rd & France Ave S (Stop #53866), Hazelton Rd & #3535 - Federal Express (Stop #53156), Hazelton Rd & York Ave S (Stop #53436), Hazelton Rd & Target Loading Dock (Stop #53155), France Ave S & 72nd St W (Stop #4374), Stop #41097, Stop #50601 *(+2 more)*
+Affected st; France Ave S & 72nd St W
+- **Closed Stops**: France Ave S & 72nd St W (Stop #44393), Hazelton Rd & France Ave S (Stop #53866), Hazelton Rd & #3535 - Federal Express (Stop #53156), Hazelton Rd & York Ave S (Stop #53436), Hazelton Rd & Target Loading Dock (Stop #53155), France Ave S & 72nd St W (Stop #4374), Stop #41097, Stop #50601 *(+3 more)*
 
 **Summary**: Route 36 detoured off Hazleton Rd from France Ave to York Ave and off France Ave from Hazleton Rd to Gallagher Dr beginning Wed Sep 16 at 6:00 PM until further notice due to construction. Board at: Gallagher Dr & France Ave S - Stop #41097 (eastbound); York Ave S & 70th St W - Stop #50601 (northbound).
 
@@ -2036,13 +2066,15 @@ France Ave S & 72nd St W - Stop #4374 (southbound)
 
 ---
 
-### ⚠️ Route 36: Detour via Richfield Rd & William Berry Pkwy
+### ⚠️ Route 36: Detour via Xerxes Ave S & 44th St W
 
 - **Affected Routes**: `Route 36`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Sep 14 at 6:30 AM until further notice
-- **Corridors & Intersections**: Richfield Rd & William Berry Pkwy; 39th St & Sheridan St; 44th St W from Xerxes Ave to Upton Ave and off Upton Ave/Sheridan Ave (44th St to 39th St)
+- **Corridors & Intersections**: Xerxes Ave S & 44th St W; Richfield Rd & William Berry Pkwy; 39th St & Sheridan St; Xerxes Ave S & 46th St W; continue on Xerxes Ave to 44th St W & resume regular route.
+
+Affected st
 - **Closed Stops**: 44th St W & Upton Ave S (Stop #6201), Sheridan & 43rd St Station (Stop #6202), Sheridan Ave S & 42nd St W (Stop #6203), Sheridan Ave S & 40th St W (Stop #6205), Sheridan & 39th St Station (Stop #6206), Sheridan Ave S & 40th St W (Stop #6376), Sheridan Ave S & 42nd St W (Stop #6378), Sheridan & 43rd St Station (Stop #6379) *(+6 more)*
 
 **Summary**: Route 36 detoured off 44th St W from Xerxes Ave to Upton Ave and off Upton Ave/Sheridan Ave from 44th St to 39th St beginning Mon Sep 14 at 6:30 AM until further notice due to tree trimming. Board at: Xerxes Ave S & 44th St W - Stop #6249 (northbound); Temporary stop on Upton Ave just past 42nd St W (northbound); Temporary stop on Upton Ave at 40th St W (northbound).
@@ -2094,13 +2126,13 @@ Sheridan & 43rd St Station - Stop #6379 (southbound)
 
 ---
 
-### ⚠️ Route 38: Detour via 38th St E (Park Ave to Bloomington Ave)
+### ⚠️ Route 38: Detour via 38th St E & Portland Ave S
 
 - **Affected Routes**: `Route 38`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Jun 8 at 4:00 AM until further notice
-- **Corridors & Intersections**: 38th St E (Park Ave to Bloomington Ave)
+- **Corridors & Intersections**: 38th St E & Portland Ave S; 36th St E & Chicago Ave S; 36th St E & 10th Ave S; 36th St E & 13th Ave S; Bloomington Ave S & 38th St E
 - **Closed Stops**: 38th St E & Park Ave S (Stop #41920), 38th St E & 10th Ave S (Stop #12606), 38th St E & 13th Ave S (Stop #12599), 38th St E & Bloomington Ave S (Stop #12594), 38th St E & 13th Ave S (Stop #12600), 38th St E & 10th Ave S (Stop #12605), 38th St E & Park Ave S (Stop #12613), 38th St E & Portland Ave S (Stop #12617) *(+7 more)*
 
 **Summary**: Route 38 detoured off 38th St E from Park Ave to Bloomington Ave beginning Mon Jun 8 at 4:00 AM until further notice due to construction. Board at: 38th St E & Portland Ave S - Stop #12618 (eastbound); Park & 38th St Station - Stop #80138 (northbound); Temporary stop on 36th St E & Chicago Ave S (eastbound).
@@ -2218,7 +2250,7 @@ Maryland Ave & Frank St - Stop #12920 (eastbound)
 - **Affected Routes**: `Route 54` `Route 54M`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: 5th St & Robert St; Forest St & 7th St; Forest St & York Ave; Forest St & Sims Ave; Arcade St & Jenks Ave
+- **Corridors & Intersections**: 5th St & Robert St; 5th St E & Sibley St; 6th St E & Maria Ave; 6th St E & Maple St; 6th St E & Hope St
 - **Closed Stops**: 7th St E & Maria Ave (Stop #11849), 7th St E & Hope St (Stop #10242), Arcade St & Minnehaha Ave (Stop #51089), Arcade St & York Ave (Stop #10247), 7th St E & Maria Ave (Stop #11850), Arcade St & York Ave (Stop #10288), Arcade St & Minnehaha Ave (Stop #10291), Forest St & Sims Ave (Stop #80817) *(+13 more)*
 
 **Summary**: Route 54 detoured off 7th St from Wacouta St to Arcade St and off Arcade St from 7th St to Sims Ave until further notice due to construction. Board at: 5th St & Robert Station - Stop #57418 (eastbound); 5th St E & Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E & Maria Ave (eastbound).
@@ -2297,7 +2329,7 @@ Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 - **Affected Routes**: `Route 61`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Arcade St & Magnolia Ave; Arcade St & Jenks Ave; Forest St & York Ave; Forest St & 7th St; Forest St & Minnehaha Ave
+- **Corridors & Intersections**: Arcade St & Magnolia Ave; Arcade St & Jenks Ave; Forest St & York Ave; Forest St & 7th St E; Forest St & Minnehaha Ave E
 - **Closed Stops**: Arcade St & Minnehaha Ave (Stop #10291), 7th St E & Hope St (Stop #10294), 7th St E & Eichenwald St (Stop #10295), 7th St E & Bates Ave (Stop #10297), 7th St E & Maria Ave (Stop #11850), 7th St E & Maria Ave (Stop #11849), 7th St E & Bates Ave (Stop #10239), 7th St E & Eichenwald St (Stop #10241) *(+15 more)*
 
 **Summary**: Route 61 detoured off 7th St E from Wacouta St to Arcade St and off Arcade St from 7th St E to Sims Ave until further notice due to construction. Board at: Arcade St & Magnolia Ave - Stop #13823 (southbound); Temporary stop on Arcade St & Jenks Ave (southbound); Temporary stop on Forest St & York Ave (southbound).
@@ -2413,7 +2445,7 @@ Hennepin & 8th St Station - Stop #17923 (southbound)
 - **Affected Routes**: `Route 62`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Smith Ave & Christine Ln - St; Moreland Ave & Smith Ave; Smith Ave & Orme St; Smith Ave & Moreland Ave; Ruby Dr & Smith Ave
+- **Corridors & Intersections**: Smith Ave & Christine Ln - St; Moreland Ave & Smith Ave; Smith Ave & Orme St W; Smith Ave & Moreland Ave; Ruby Dr & Smith Ave
 - **Closed Stops**: Smith Ave & Ruby Dr (Stop #6353), Smith Ave & Emerson Ave W (Stop #6354), Smith Ave & Moreland Ave (Stop #6356), Smith Ave & Emerson Ave W (Stop #6340), Smith Ave & Ruby Dr (Stop #6341), Stop #6351, Stop #6357, Stop #6338 *(+1 more)*
 
 **Summary**: Route 62 detoured off Smith Ave between Ruby Dr and Moreland Ave until further notice due to road conditions. Board at: Smith Ave & Christine Ln - Stop #6351 (northbound); Temporary stop on Moreland Ave & Smith Ave (eastbound); Smith Ave & Orme St W - Stop #6357 (northbound).
@@ -2560,9 +2592,9 @@ Grand Ave & Chatsworth St - Stop #3078 (westbound)
 - **Affected Routes**: `Route 63`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: 5th St & Jackson St; 5th St & Sibley St; right on Wall St & resume regular route.
+- **Corridors & Intersections**: 5th St & Jackson St; 5th St & Sibley St; 3rd St E & Maria Ave; right on Wall St & resume regular route.
 
-Affected st; Wacouta St & 5th St; Wacouta St (5th St to 7th St and off 7th St from Wacouta St to Mounds Blvd)
+Affected st; Wacouta St & 5th St
 - **Closed Stops**: Wacouta St & 5th St / 6th St (Stop #11842), 7th St E & Wall St (Stop #57215), Stop #11838, Stop #11839, Stop #3152
 
 **Summary**: Route 63 detoured off Wacouta St from 5th St to 7th St and off 7th St from Wacouta St to Mounds Blvd until further notice due to construction. Board at: 5th St & Jackson St - Stop #11838 (eastbound); 5th St & Sibley St - Stop #11839 (eastbound); 3rd St E & Maria Ave - Stop #3152 (eastbound).
@@ -2655,11 +2687,12 @@ Grand Avenue & Fairview Ave - Stop #56944 (westbound)
 
 ---
 
-### ⚠️ Route 64, Route 64N: Detour via Regular Corridor
+### ⚠️ Route 64, Route 64N: Detour via 7th Ave E & South Ave
 
 - **Affected Routes**: `Route 64` `Route 64N`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
+- **Corridors & Intersections**: 7th Ave E & South Ave; Margaret St N & Seppala Blvd; 7th Ave E & McKnight Rd; 7th Ave E & 2nd St N; 7th Ave E & 1st St N
 - **Closed Stops**: 7th Ave E & 2nd St N (Stop #3903), 7th Ave E & 1st St N (Stop #3904), 7th Ave E & Helen St N (Stop #3905), 7th Ave E & Margaret St N (Stop #49843), 7th Ave E & Helen St N (Stop #3884), 7th Ave E & North St Paul Dr (Stop #3885), 7th Ave E & 2nd St N (Stop #3886), 7th Ave E & 3rd St N (Stop #3888) *(+4 more)*
 
 **Summary**: Route 64N detoured off 7th Ave from South Ave to Margaret St from Fri Jun 5 to Fri Sep 18 every Friday from 6:00 PM to 10:00 PM due to North St Paul Friday Night History Cruzer Car Show. Board at: 7th Ave E & South Ave (Co Rd B) - Stop #3901 (eastbound); Margaret St N & Seppala Blvd - Stop #56898 (northbound).
@@ -2709,7 +2742,7 @@ Affected stops:
 - **Affected Routes**: `Route 64`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: 5th St & Jackson St; Wacouta St & 5th St; 5th St (Sibley St to Wacouta St)
+- **Corridors & Intersections**: 5th St & Jackson St; 7th St E & Wall St; Wacouta St & 5th St; 5th St (Sibley St to Wacouta St)
 - **Closed Stops**: Wacouta St & 5th St / 6th St (Stop #11842), Stop #11838, Stop #57215
 
 **Summary**: Route 64 detoured off 5th St from Sibley St to Wacouta St until further notice due to utility work. Board at: 5th St & Jackson St - Stop #11838 (eastbound); 7th St E & Wall St - Stop #57215 (eastbound).
@@ -2825,14 +2858,12 @@ Maryland Ave & Weide St - Stop #11799 (westbound)
 
 ---
 
-### ⚠️ Route 64, Route 64N: Detour via left on 7th Ave & resume regular route.
-
-Affected st
+### ⚠️ Route 64, Route 64N: Detour via 7th Ave E & South Ave
 
 - **Affected Routes**: `Route 64` `Route 64N`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: left on 7th Ave & resume regular route.
+- **Corridors & Intersections**: 7th Ave E & South Ave; 12th Ave E & Helen St N; 12th Ave E & Margaret St N; 7th Ave E & McKnight Rd; left on 7th Ave & resume regular route.
 
 Affected st
 - **Closed Stops**: 7th Ave E & 2nd St N (Stop #3903), 7th Ave E & 1st St N (Stop #3904), 7th Ave E & Helen St N (Stop #3905), 7th Ave E & Margaret St N (Stop #49843), Margaret St N & Seppala Blvd (Stop #56898), Margaret St N & Centennial Dr (Stop #53148), Margaret St N & Centennial Dr (Stop #53149), Margaret St N & Seppala Blvd (Stop #48260) *(+8 more)*
@@ -2882,13 +2913,13 @@ Margaret St N & Seppala Blvd - Stop #48260 (southbound)
 
 ---
 
-### ⚠️ Route 64: Detour via 5th St & Jackson St
+### ⚠️ Route 64: Detour via 7th St E & Wall St
 
 - **Affected Routes**: `Route 64`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Sep 14 at 5:00 AM until further notice
-- **Corridors & Intersections**: 5th St & Jackson St; Burr St & Tedesco St; Wall St & 7th St; LaFayette Rd & 8th St; LaFayette Rd & Grove St
+- **Corridors & Intersections**: 7th St E & Wall St; 5th St & Jackson St; Burr St & Tedesco St; Wall St & 7th St; LaFayette Rd & 8th St
 - **Closed Stops**: LaFayette Rd & 8th St (Stop #11916), LaFayette Rd & Grove St (Stop #11918), LaFayette Rd & University Ave (Stop #11920), LaFayette Rd & #600 (Stop #11774), Lafayette Rd & Lafayette Plaza (Stop #11821), LaFayette Rd & University Ave (Stop #11921), LaFayette Rd & Grove St (Stop #11923), LaFayette Rd & 8th St (Stop #11925) *(+6 more)*
 
 **Summary**: Route 64 detoured off 7th St E from Lafayette Ave to Burr St starting Mon Sep 14 at 5:00 AM until further notice due to construction. Board at: 7th St E & Wall St - Stop #57215 (eastbound); 5th St & Jackson St - Stop #11838 (eastbound); Burr St & Tedesco St - Stop #11776 (northbound).
@@ -2934,12 +2965,12 @@ LaFayette Rd & 8th St - Stop #11925 (southbound)
 
 ---
 
-### ⚠️ Route 64: Detour via Route 64 detoured off 5th St & 7th St
+### ⚠️ Route 64: Detour via Route 64 detoured off 5th St & 7th St E
 
 - **Affected Routes**: `Route 64`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Route 64 detoured off 5th St & 7th St; 5th St & Jackson St; Burr St & Tedesco St; Wall St & 7th St; Wacouta St & 5th St
+- **Corridors & Intersections**: Route 64 detoured off 5th St & 7th St E; 5th St & Jackson St; Burr St & Tedesco St; Wall St & 7th St; Wacouta St & 5th St
 - **Closed Stops**: Wacouta St & 5th St / 6th St (Stop #11842), 7th St E & Wall St (Stop #57215), LaFayette Rd & 8th St (Stop #11916), LaFayette Rd & Grove St (Stop #11918), LaFayette Rd & University Ave (Stop #11920), LaFayette Rd & #600 (Stop #11774), Lafayette Rd & Lafayette Plaza (Stop #11821), LaFayette Rd & University Ave (Stop #11921) *(+7 more)*
 
 **Summary**: Route 64 detoured off 5th St and 7th St E from Wacouta St to Burr St from Fri Sep 11 at 7:00 PM to Mon Sep 14 at 5:00 AM due to construction. Board at: 5th St & Jackson St - Stop #11838 (eastbound); Burr St & Tedesco St - Stop #11776 (northbound).
@@ -3105,13 +3136,13 @@ Summit Ave & Dale St - Stop #10761 (eastbound)
 
 ---
 
-### ⚠️ Route 67: Detour via Franklin Ave (22nd Ave S to Franklin Ave Station)
+### ⚠️ Route 67: Detour via Franklin Ave E & 22nd Ave S
 
 - **Affected Routes**: `Route 67`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Sun Apr 12 at 4:00 AM until further notice
-- **Corridors & Intersections**: Franklin Ave (22nd Ave S to Franklin Ave Station)
+- **Corridors & Intersections**: Franklin Ave E & 22nd Ave S; Franklin Ave E & Cedar Ave; Franklin Ave E & Franklin St; Franklin Ave (22nd Ave S to Franklin Ave Station)
 - **Closed Stops**: Franklin Ave E & Cedar Ave (Stop #13279), Franklin Ave E & Franklin Station (Stop #51533), Stop #13267
 
 **Summary**: Route 67 detoured off Franklin Ave from 22nd Ave S to Franklin Ave Station beginning Sun Apr 12 at 4:00 AM until further notice due to construction. Board at: Franklin Ave E & 22nd Ave S - Stop #13267 (westbound).
@@ -3230,9 +3261,9 @@ Sycamore St & Jackson St - Stop #40146 (westbound)
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Aug 10 at 4:00 AM until further notice
-- **Corridors & Intersections**: Jackson St & Cook Ave; right on Jackson St & resume regular route.
+- **Corridors & Intersections**: Jackson St & Cook Ave; Maryland Ave E & Jackson St; Magnolia Ave E & Jackson St; right on Jackson St & resume regular route.
 
-Affected st; Jackson St & Jessamine Ave; Jackson St & Rose Ave; Jackson St (Magnolia Ave to Maryland Ave)
+Affected st; Jackson St & Jessamine Ave
 - **Closed Stops**: Jackson St & Jessamine Ave (Stop #18028), Jackson St & Rose Ave E (Stop #56324), Jackson St & Rose Ave E (Stop #56323), Jackson St & Jessamine Ave (Stop #40098), Stop #18026, Stop #80920, Stop #80922, Stop #81076
 
 **Summary**: Route 68 detoured off Jackson St from Magnolia Ave to Maryland Ave beginning Mon Aug 10 at 4:00 AM until further notice due to construction. Board at: Jackson St & Cook Ave - Stop #18026 (northbound); Maryland Ave E & Jackson St - Stop #80920 (eastbound).
@@ -3272,13 +3303,13 @@ Jackson St & Jessamine Ave - Stop #40098 (southbound)
 
 ---
 
-### ⚠️ Route 68, Route 68C: Detour via Southview Blvd & 8th Ave
+### ⚠️ Route 68, Route 68C: Detour via Southview Blvd & 8th Ave S
 
 - **Affected Routes**: `Route 68` `Route 68C`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Jul 6 at 6:00 AM until further notice
-- **Corridors & Intersections**: Southview Blvd & 8th Ave; Southview Blvd & 10th Ave; Southview Blvd & 12th Ave; 12th Ave (3rd St to Southview Blvd and off Southview Blvd from 12th Ave to 9th Ave)
+- **Corridors & Intersections**: Southview Blvd & 8th Ave S; 12th Ave N & 4th St N; Southview Blvd & 10th Ave S; Southview Blvd & 12th Ave S; 12th Ave N & Marie Ave
 - **Closed Stops**: Southview Blvd & 10th Ave S (Stop #56771), Southview Blvd & 12th Ave S (Stop #9839), 12th Ave N & Marie Ave (Stop #9840), 12th Ave N & 2nd St N (Stop #9841), 12th Ave N & 3rd St N (Stop #9842), 12th Ave N & 3rd St N (Stop #9960), 12th Ave N & 2nd St N (Stop #9961), 12th Ave N & Marie Ave (Stop #9962) *(+5 more)*
 
 **Summary**: Route 68C detoured off 12th Ave from 3rd St to Southview Blvd and off Southview Blvd from 12th Ave to 9th Ave beginning Mon Jul 6 at 6:00 AM until further notice due to construction. Board at: Southview Blvd & 8th Ave S - Stop #56770 (westbound); 12th Ave N & 4th St N - Stop #9843 (northbound).
@@ -3325,12 +3356,12 @@ Southview Blvd & 10th Ave S - Stop #56772 (eastbound)
 
 ---
 
-### ⚠️ Route 68: Detour via Ash St & 5th Ave
+### ⚠️ Route 68: Detour via Ash St & 5th Ave S
 
 - **Affected Routes**: `Route 68`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Ash St & 5th Ave; right on Ash St & Ash St; South St & 5th Ave; South St (3rd Ave to 5th Ave)
+- **Corridors & Intersections**: Ash St & 5th Ave S; right on Ash St & Ash St; South St & 5th Ave S; 3rd Ave S & South St W; South St (3rd Ave to 5th Ave)
 - **Closed Stops**: South St & 5th Ave S (Stop #9791), 3rd Ave S & South St W (Stop #47783)
 
 **Summary**: Route 68 detoured off South St from 3rd Ave to 5th Ave until further notice. Board at: Temporary stop on Ash St & 5th Ave S (westbound).
@@ -3421,7 +3452,7 @@ Little Canada Rd & Fleur Royale Condos - Stop #45313 (westbound)
 - **Affected Routes**: `Route 72`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: 5th St & Jackson St; 5th St & Sibley St; Plum St & Mounds Blvd; Wacouta St & 5th St; Wall St & 7th St
+- **Corridors & Intersections**: 5th St & Jackson St; 5th St & Sibley St; Plum St & Mounds Blvd; Wacouta St & 5th St; 7th St E & Wall St
 - **Closed Stops**: Stop #11838, Stop #11839, Stop #13730, Stop #11842, Stop #57215, Stop #43282
 
 **Summary**: Route 72 detoured off Wacouta St from 5th St to 7th St and off 7th St from Wacouta St to Mounds Blvd until further notice due to construction. Board at: 5th St & Jackson St - Stop #11838 (eastbound); 5th St & Sibley St - Stop #11839 (eastbound); Plum St & Mounds Blvd - Stop #13730 (eastbound).
@@ -3461,12 +3492,12 @@ Wall St & 7th St / 6th St - Stop #43282 (southbound)
 
 ---
 
-### ⚠️ Route 74: Detour via Minnehaha Ave & Cypress St
+### ⚠️ Route 74: Detour via 5th St E & Sibley St
 
 - **Affected Routes**: `Route 74`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Minnehaha Ave & Cypress St; Arcade St & Case Ave; Arcade St & Magnolia Ave; Minnehaha Ave & Forest St; Wall St & 7th St
+- **Corridors & Intersections**: 5th St E & Sibley St; 6th St E & Maria Ave; 6th St E & Maple St; 6th St E & Hope St; 6th St E & Mendota St
 - **Closed Stops**: 7th St E & Maria Ave (Stop #11849), 7th St E & Bates Ave (Stop #10239), 7th St E & Hope St (Stop #10242), 7th St E & Arcade St (Stop #10385), 7th St E & Arcade St (Stop #12915), 7th St E & Hope St (Stop #10294), 7th St E & Bates Ave (Stop #10297), 7th St E & Maria Ave (Stop #11850) *(+17 more)*
 
 **Summary**: Route 74 detoured off 7th St E from Wacouta St to Forest St and off Arcade St from 7th St E to Case Ave until further notice due to construction. Board at: 5th St E & Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E & Maria Ave (eastbound); Temporary stop on 6th St E & Maple St (eastbound).
@@ -3536,11 +3567,12 @@ Arcade St & Case Ave - Stop #13794 (northbound)
 
 ---
 
-### ⚠️ Route 156, Route 578, Route 824, Route 827, Route 850, Route 882, Route 888: Stop Closed at Selected Stop
+### ⚠️ Route 156, Route 578, Route 824, Route 827, Route 850, Route 882, Route 888: Stop Closed at 2nd Ave S & 9th St
 
 - **Affected Routes**: `Route 156` `Route 578` `Route 824` `Route 827` `Route 850` `Route 882` `Route 888`
 - **Direction**: Northbound
 - **Severity**: `Moderate`
+- **Corridors & Intersections**: 2nd Ave S & 9th St; 2nd Ave S & 11th St; 2nd Ave S & 7th St
 - **Closed Stops**: Stop #53316, Stop #53315, Stop #53317
 
 **Summary**: 2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice. Board at: 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound).
@@ -3562,11 +3594,12 @@ Get on/off buses at:
 
 ---
 
-### ⚠️ Route 215: Stop Closed at Selected Stop
+### ⚠️ Route 215: Stop Closed at McKnight Rd N & Arlington Ave E
 
 - **Affected Routes**: `Route 215`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
+- **Corridors & Intersections**: McKnight Rd N & Arlington Ave E; McKnight Rd N & Larpenteur Ave E; Lakewood Dr N & Maryland Ave E; McKnight Rd N & Montana Ave E
 - **Closed Stops**: McKnight Rd N & Montana Ave E (Stop #57703), McKnight Rd N & Montana Ave E (Stop #57704), McKnight Rd N & Arlington Ave E (Stop #57702), Stop #57701, Stop #57680, Stop #57681, Stop #57700
 
 **Summary**: Stops on McKnight Rd are closed for Route 215 until further notice due to construction. Board at: McKnight Rd N & Arlington Ave E - Stop #57701 (northbound); McKnight Rd N & Larpenteur Ave E - Stop #57680 (northbound).
@@ -3603,7 +3636,7 @@ McKnight Rd N & Arlington Ave E - Stop #57702 (southbound)
 - **Affected Routes**: `Route 219`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Hwy 120 from 5th Ave to 7th Ave & off 7th Ave; Hwy 120 - Geneva Ave & 46th St; Hwy 120 - Division St & 10th Ave
+- **Corridors & Intersections**: Hwy 120 from 5th Ave to 7th Ave & off 7th Ave; Margaret St N & Seppala Blvd; Hwy 120 - Geneva Ave & 46th St N; 7th Ave E & Henry St; 7th Ave E & Charles St
 - **Closed Stops**: Hwy 120 - Geneva & Upper 44th St N (Stop #41759), Stop #41756, Stop #56898, Stop #48260, Stop #41763, Stop #49828, Stop #49829, Stop #49830 *(+7 more)*
 
 **Summary**: Route 219 detoured off Geneva/Hwy 120 from 5th Ave to 7th Ave and off 7th Ave from Geneva/Hwy 120 to Margaret St from Fri Jun 5 to Fri Sep 18 every Friday from 6:00 PM to 10:00 PM due to North St Paul Friday Night History Cruzer Car Show. Board at: Hwy 120 - Geneva & 43rd St N - Stop #41756 (northbound); Margaret St N & Seppala Blvd - Stop #56898 (northbound).
@@ -3658,7 +3691,7 @@ Hwy 120 - Division & 8th Ave E - Stop #41761 (southbound)
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Thu May 28 at 6:30 AM until further notice
-- **Corridors & Intersections**: Hadley Ave & 7th St; Greenway Ave (Hudson Blvd to 7th St and off 7th St from Greenway Ave to Hadley Ave)
+- **Corridors & Intersections**: Hadley Ave & 7th St; Hadley Ave N & Hadley Lane - St; Greenway Ave N & Hudson Blvd; Greenway Ave N & 1st St N; Greenway Ave N & 2nd St N
 - **Closed Stops**: Greenway Ave N & Hudson Blvd (Stop #49811), Greenway Ave N & 1st St N (Stop #49812), Greenway Ave N & 2nd St N (Stop #49813), Greenway Ave N & 4th St N (Stop #49814), Greenway Ave N & Upper 5th St N (Stop #49815), Greenway Ave N & 7th St N (Stop #49816), 7th St N & Guthrie Ave N (Stop #49817), 7th St N & Guthrie Ave N (Stop #42855) *(+11 more)*
 
 **Summary**: Route 219 detoured off Greenway Ave from Hudson Blvd to 7th St and off 7th St from Greenway Ave to Hadley Ave beginning Thu May 28 at 6:30 AM until further notice due to construction. Board at: Dellwood Lane & Hudson Blvd - Stop #50529 (southbound); Greenway Ave Station - Stop #57434 (eastbound); Temporary stop on Hadley Ave & 7th St (northbound).
@@ -3714,14 +3747,14 @@ Greenway Ave N & Hudson Blvd - Stop #2309 (southbound)
 
 ---
 
-### ⚠️ Route 219: Detour via 12th Ave & 13th Ave
+### ⚠️ Route 219: Detour via Margaret St N & 12th Ave
 
 - **Affected Routes**: `Route 219`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: 12th Ave & 13th Ave; continue on Geneva Ave to 7th Ave & resume regular route.
+- **Corridors & Intersections**: Margaret St N & 12th Ave; continue on Geneva Ave to 7th Ave & resume regular route.
 
-Affected st; Margaret St & 12th Ave
+Affected st; 7th Ave E & Henry St; 7th Ave E & Charles St; 7th Ave E & Margaret St N
 - **Closed Stops**: 7th Ave E & Henry St (Stop #49830), 7th Ave E & Charles St (Stop #49831), 7th Ave E & Margaret St N (Stop #3883), Margaret St N & Seppala Blvd (Stop #56898), Margaret St N & Centennial Dr (Stop #53148), Margaret St & 12th Ave (Stop #52651), Margaret St N & Centennial Dr (Stop #53149), Margaret St N & Seppala Blvd (Stop #48260) *(+6 more)*
 
 **Summary**: Route 219 detoured off 7th Ave from Geneva Ave to Margaret Ave and off Margaret Ave from 7th Ave to 14th Ave from 5:00 PM to 8:30 PM on Thu Sep 17 due to North St Paul Fall Round Up Parade. Board at: Hwy 120 - Geneva & Upper 46th St N - Stop #49829 (northbound); Margaret St N & 12th Ave / 13th Ave E - Stop #56899 (northbound).
@@ -3879,7 +3912,7 @@ Co Rd C & Avon St - Stop #45335 (westbound)
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Wed Mar 4 at 8:30 AM until further notice
-- **Corridors & Intersections**: 5th St & Minnesota St; Wacouta St & 8th St; Wacouta St & 5th St; 5th St (Sibley St to Wacouta St and off Wacouta St from 5th St to 7th St)
+- **Corridors & Intersections**: 5th St & Minnesota St; Wacouta St & 8th St; 5th St E & Sibley St; Wacouta St & 5th St; 5th St (Sibley St to Wacouta St and off Wacouta St from 5th St to 7th St)
 - **Closed Stops**: 5th St E & Sibley St (Stop #11839), Wacouta St & 5th St / 6th St (Stop #11842), Stop #49397, Stop #49753
 
 **Summary**: Routes 275 and 860 detoured off 5th St from Sibley St to Wacouta St and off Wacouta St from 5th St to 7th St beginning Wed Mar 4 at 8:30 AM until further notice due to construction. Board at: 5th St & Minnesota St - Stop #49397 (eastbound); Wacouta St & 8th St / 9th St E - Stop #49753 (northbound).
@@ -3913,15 +3946,13 @@ Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 
 ---
 
-### ⚠️ Route 294: Detour via Stillwater Blvd & Pine St
+### ⚠️ Route 294: Detour via Stillwater Blvd & Pine St W
 
 - **Affected Routes**: `Route 294`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning at 9 PM until further notice
-- **Corridors & Intersections**: Stillwater Blvd & Pine St; left on Stillwater Blvd & resume regular route.
-
-Affected st; Stillwater Blvd & Oak St; Stillwater Blvd & Fairmeadows Rd; Stillwater Blvd (Pine St to Greeley St)
+- **Corridors & Intersections**: Stillwater Blvd & Pine St W; Temporary Stop from Pine St W & Pine Trl St S; Temporary Stop from Pine St W & Seeley St S; Temporary Stop from Pine St W & Grove St S; Temporary Stop from Pine St W & Sherburne St S
 - **Closed Stops**: Stillwater Blvd & Oak St W (Stop #6608), Olive St W & Pine Tree Trail (Stop #6611), Olive St W & Seeley St S (Stop #6612), Olive St W & Brick St S (Stop #6613), Olive St W & Grove St S (Stop #6615), Olive St W & Sherburne St S (Stop #6617), Olive St W & Owens St S (Stop #6618), Greeley St S & Oak St W (Stop #6621) *(+14 more)*
 
 **Summary**: Route 294 detoured off Stillwater Blvd from Pine St to Greeley St beginning at 9 PM until further notice due to construction. Board at: Stillwater Blvd & Pine St W - Stop #47078 (northbound); Temporary Stop from Pine St W and Pine Trl St S; Temporary Stop from Pine St W and Seeley St S.
@@ -3987,12 +4018,13 @@ Stillwater Blvd & Pine St W - Stop #6601 (southbound)
 
 ---
 
-### ⚠️ Route 534: Stop Closed at Selected Stop
+### ⚠️ Route 534: Stop Closed at Penn Ave S & 82nd St W
 
 - **Affected Routes**: `Route 534`
 - **Direction**: Southbound
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Thu May 14 at 5:00 AM until further notice
+- **Corridors & Intersections**: Penn Ave S & 82nd St W; Penn Ave S & 81st St W; Penn Ave S & Queen Ave S
 - **Closed Stops**: Stop #2048, Stop #2047, Stop #40801
 
 **Summary**: Penn Ave S & 82nd St W (S) - Stop #2048 (southbound) is closed for Route 534 beginning Thu May 14 at 5:00 AM until further notice due to construction. Board at: Penn Ave S & 81st St W - Stop #2047 (southbound); Penn Ave S & Queen Ave S - Stop #40801 (southbound).
@@ -4018,13 +4050,13 @@ Penn Ave S & Queen Ave S - Stop #40801 (southbound)
 
 ---
 
-### ⚠️ Route 534: Detour via 80th St & American Blvd
+### ⚠️ Route 534: Detour via Lyndale Ave S & 82nd St W
 
 - **Affected Routes**: `Route 534`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Aug 17 at 4:00 AM until further notice
-- **Corridors & Intersections**: 80th St & American Blvd; American Blvd & Knox Ave; Lyndale Ave (82nd St to American Blvd and off American Blvd from Lyndale Ave to Knox Ave)
+- **Corridors & Intersections**: Lyndale Ave S & 82nd St W; Lyndale Ave S & 80th St; American Blvd & Knox Ave S; American Blvd W & Fremont Ave S; Lyndale Ave (82nd St to American Blvd and off American Blvd from Lyndale Ave to Knox Ave)
 - **Closed Stops**: Stop #50070, Stop #3357, Stop #41217, Stop #56604, Stop #57095
 
 **Summary**: Route 534 detoured off Lyndale Ave from 82nd St to American Blvd and off American Blvd from Lyndale Ave to Knox Ave beginning Mon Aug 17 at 4:00 AM until further notice due to construction. Board at: Lyndale Ave S & 82nd St W - Stop #50070 (northbound); Lyndale Ave S & 80th St / American Blvd - Stop #3357 (northbound); American Blvd & Knox Ave S - Stop #41217 (westbound).
@@ -4063,11 +4095,12 @@ American Blvd W & Fremont Ave S - Stop #57095 (westbound)
 
 ---
 
-### ⚠️ Route 537: Stop Closed at Selected Stop
+### ⚠️ Route 537: Stop Closed at France Ave S & Gallagher Dr
 
 - **Affected Routes**: `Route 537`
 - **Direction**: Southbound
 - **Severity**: `Moderate`
+- **Corridors & Intersections**: France Ave S & Gallagher Dr; France Ave S & 72nd St W; France Ave S & Parklawn Ave
 - **Closed Stops**: Stop #4375, Stop #4374, Stop #20197
 
 **Summary**: France Ave S & Gallagher Dr - Stop #4375 (southbound) is closed for Route 537 until further notice. Board at: France Ave S & 72nd St W - Stop #4374 (southbound); France Ave S & Parklawn Ave - Stop #20197 (southbound).
@@ -4091,17 +4124,13 @@ France Ave S & Parklawn Ave - Stop #20197 (southbound)
 
 ---
 
-### ⚠️ Route 537: Detour via left on France Ave & resume regular route.
-
-Affected st
+### ⚠️ Route 537: Detour via France Ave S & Minnesota Dr
 
 - **Affected Routes**: `Route 537`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Wed Sep 16 at 6:00 PM until further notice
-- **Corridors & Intersections**: left on France Ave & resume regular route.
-
-Affected st; France Ave (76th St to 70th St and off 70th St from France Ave to York Ave)
+- **Corridors & Intersections**: France Ave S & Minnesota Dr; 76th St W & Centennial Lakes Office Park - St; York Ave S & 70th St W; York Ave S & 69th St W; York Ave S & Hazelton Rd
 - **Closed Stops**: France Ave S & 76th St W (Stop #57521), France Ave S & Parklawn Ave (Stop #56530), France Ave S & Gallagher Dr (Stop #57522), France Ave S & 72nd St W (Stop #44393), France Ave S & 70th St W (Stop #57523), 70th St W & Target driveway (Stop #50600), 70th St W & Target (Stop #50603), France Ave S & 70th St W (Stop #50604) *(+10 more)*
 
 **Summary**: Route 537 detoured off France Ave from 76th St to 70th St and off 70th St from France Ave to York Ave beginning Wed Sep 16 at 6:00 PM until further notice due to construction. Board at: France Ave S & Minnesota Dr - Stop #57520 (northbound); 76th St W & Centennial Lakes Office Park - Stop #52038 (eastbound); York Ave S & 70th St W - Stop #50601 (northbound).
@@ -4152,13 +4181,14 @@ France Ave S & 76th St W - Stop #4376 (southbound)
 
 ---
 
-### ⚠️ Route 537, Route 538: Stop Closed at Selected Stop
+### ⚠️ Route 537, Route 538: Stop Closed at 70th St W & Target - St
 
 - **Affected Routes**: `Route 537` `Route 538`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Sep 14 at 7:00 AM until further notice
-- **Closed Stops**: Stop #50603, Stop #48182, Stop #50604, Stop #50600, Stop #2159
+- **Corridors & Intersections**: 70th St W & Target - St; York Ave S & 69th St W; France Ave S & 70th St W; 70th St W & Target dr
+- **Closed Stops**: Stop #50603, Stop #48182, Stop #50604, Stop #50600, Stop #7201, Stop #2159
 
 **Summary**: 70th St W & Target - Stop #50603 (westbound) is closed for Routes 537 and 538 beginning Mon Sep 14 at 7:00 AM until further notice due to construction. Board at: York Ave S & 69th St W - Stop #48182 (southbound); France Ave S & 70th St W - Stop #50604 (southbound).
 
@@ -4189,18 +4219,16 @@ York Ave S & #7201 - Durham Apts - Stop #2159 (northbound)
 
 ---
 
-### ⚠️ Route 538: Detour via left on York Ave & resume regular route.
-
-Affected st
+### ⚠️ Route 538: Detour via York Ave S & Walker Eldersuites - St
 
 - **Affected Routes**: `Route 538`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Thu Sep 10 at 7:00 AM until further notice
-- **Corridors & Intersections**: left on York Ave & resume regular route.
+- **Corridors & Intersections**: York Ave S & Walker Eldersuites - St; York Ave S & 76th St W; York Ave S & Yorkdale Townhomes - St; left on York Ave & resume regular route.
 
 Affected st
-- **Closed Stops**: #3400 Entrance & Parklawn Ave (Stop #44364), York Ave S & 76th St W (Stop #2024), Stop #20195, Stop #42325, Stop #3735, Stop #2026
+- **Closed Stops**: #3400 Entrance & Parklawn Ave (Stop #44364), York Ave S & 76th St W (Stop #2024), Stop #20195, Stop #3400, Stop #42325, Stop #7701, Stop #3735, Stop #2026
 
 **Summary**: Route 538 detoured out of 3400 Parklawn turnaround beginning Thu Sep 10 at 7:00 AM until further notice due to construction. Board at: York Ave S & Walker Eldersuites - Stop #20195 (southbound); Temporary stop on Parklawn Ave just before #3400 Parklawn driveway (westbound); York Ave S & 76th St W - Stop #42325 (southbound).
 
@@ -4239,11 +4267,12 @@ York Ave S & 76th St W - Stop #2024 (northbound)
 
 ---
 
-### ⚠️ Route 540: Stop Closed at Selected Stop
+### ⚠️ Route 540: Stop Closed at 77th St W & Nicollet Ave S
 
 - **Affected Routes**: `Route 540`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
+- **Corridors & Intersections**: 77th St W & Nicollet Ave S; and 77th St E & Nicollet Ave S; 77th St W & Pillsbury Ave S; 77th St E & 2nd Ave S
 - **Closed Stops**: Stop #48617, Stop #48627, Stop #48616, Stop #48618, Stop #48626, Stop #48628
 
 **Summary**: 77th St W & Nicollet Ave S - Stop #48617 (eastbound) and 77th St E & Nicollet Ave S - Stop #48627 (westbound) are closed for Route 540 until further notice due to construction. Board at: 77th St W & Pillsbury Ave S - Stop #48616 (eastbound); 77th St E & 2nd Ave S - Stop #48618 (eastbound).
@@ -4271,12 +4300,12 @@ For westbound Route 540 get on/off buses at:
 
 ---
 
-### ⚠️ Route 542, Route 686: Stop Closed at American Blvd & Lyndale Ave
+### ⚠️ Route 542, Route 686: Stop Closed at American Blvd & Lyndale Ave S
 
 - **Affected Routes**: `Route 542` `Route 686`
 - **Direction**: Westbound
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: American Blvd & Lyndale Ave; American Blvd & 3rd Ave
+- **Corridors & Intersections**: American Blvd & Lyndale Ave S; American Blvd W & Home Depot - St; American Blvd & 3rd Ave S; 77th St W & Best Buy Dr
 - **Closed Stops**: Stop #52216, Stop #57108, Stop #56604, Stop #53697, Stop #51639
 
 **Summary**: American Blvd & Lyndale Ave S - Stop #52216 (westbound) is closed for Routes 542 and 686 until further notice. Board at: American Blvd W & Home Depot - Stop #57108 (westbound); American Blvd W & Lyndale Av/Bryant Av S - Stop #56604 (westbound).
@@ -4302,13 +4331,13 @@ American Blvd & 3rd Ave S - Stop #53697 (westbound)
 
 ---
 
-### ⚠️ Route 542: Detour via American Blvd & Knox Ave
+### ⚠️ Route 542: Detour via American Blvd W & Home Depot - St
 
 - **Affected Routes**: `Route 542`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Aug 17 at 4:00 AM until further notice
-- **Corridors & Intersections**: American Blvd & Knox Ave; American Blvd & Lyndale Ave; American Blvd (Lyndale Ave to Knox Ave)
+- **Corridors & Intersections**: American Blvd W & Home Depot - St; American Blvd & Knox Ave S; American Blvd & Lyndale Ave S; American Blvd W & Fremont Ave S; American Blvd (Lyndale Ave to Knox Ave)
 - **Closed Stops**: American Blvd & Lyndale Ave S (Stop #52216), American Blvd W & Lyndale Av/Bryant Av S (Stop #56604), American Blvd W & Fremont Ave S (Stop #57095), Stop #57108, Stop #41217
 
 **Summary**: Route 542 detoured off American Blvd from Lyndale Ave to Knox Ave beginning Mon Aug 17 at 4:00 AM until further notice due to construction. Board at: American Blvd W & Home Depot - Stop #57108 (westbound); American Blvd & Knox Ave S - Stop #41217 (westbound).
@@ -4345,11 +4374,12 @@ American Blvd W & Fremont Ave S - Stop #57095 (westbound)
 
 ---
 
-### ⚠️ Route 615: Stop Closed at Selected Stop
+### ⚠️ Route 615: Stop Closed at 5th Ave N & Mainstreet - St
 
 - **Affected Routes**: `Route 615`
 - **Direction**: Southbound
 - **Severity**: `Moderate`
+- **Corridors & Intersections**: 5th Ave N & Mainstreet - St; 5th Ave N & 1st St N
 - **Closed Stops**: Stop #49517, Stop #49516, Stop #3571
 
 **Summary**: 5th Ave N & Mainstreet - Stop #49517 (southbound) is closed for Route 615 until further notice. Board at: 5th Ave N & 1st St N - Stop #49516 (southbound); Mainstreet & 6th Ave N - Stop #3571 (westbound).
@@ -4371,13 +4401,13 @@ Mainstreet & 6th Ave N - Stop #3571 (westbound)
 
 ---
 
-### ⚠️ Route 645: Detour via Park Place Blvd & Wayzata Blvd
+### ⚠️ Route 645: Detour via Park Place Blvd & Wayzata Blvd S
 
 - **Affected Routes**: `Route 645`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Sun Feb 22 at 10:00 PM until further notice
-- **Corridors & Intersections**: Park Place Blvd & Wayzata Blvd
+- **Corridors & Intersections**: Park Place Blvd & Wayzata Blvd S; Wayzata Blvd S & Park Place Blvd; Wayzata Blvd S & Utica Ave S; Wayzata Blvd S & Hwy 100 Bridge - St
 - **Closed Stops**: Stop #3013, Stop #2971, Stop #40936, Stop #43775
 
 **Summary**: Route 645 detoured off Wayzata Blvd between Park Place Blvd and Hwy 100 beginning Sun Feb 22 at 10:00 PM until further notice due to I-394 construction. Board at: Park Place Blvd & Wayzata Blvd S - Stop #3013 (northbound).
@@ -4415,17 +4445,15 @@ Wayzata Blvd S & Hwy 100 Bridge - Stop #43775 (eastbound)
 
 ---
 
-### ⚠️ Route 645: Detour via left on Wayzata Blvd & resume regular route.
-
-Affected st
+### ⚠️ Route 645: Detour via 16th St W & Park Place East - St
 
 - **Affected Routes**: `Route 645`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Jul 6 at 4:00 AM until further notice
-- **Corridors & Intersections**: left on Wayzata Blvd & resume regular route.
+- **Corridors & Intersections**: 16th St W & Park Place East - St; left on Wayzata Blvd & resume regular route.
 
-Affected st; Dakota Ave & Hampshire - St; Zarthan Ave (16th St to Wayzata Blvd and off Wayzata Blvd from Zarthan Ave to Louisiana Transit Center)
+Affected st; Wayzata Blvd S & Kentucky Ave S; Wayzata Blvd S & Idaho Ave S; Wayzata Blvd S & Hampshire Ave S
 - **Closed Stops**: Wayzata Blvd S & Kentucky Ave S (Stop #40933), Wayzata Blvd S & Idaho Ave S (Stop #40930), Wayzata Blvd S & Hampshire Ave S (Stop #40927), Wayzata Blvd S & Hampshire / Dakota Ave (Stop #40926), Wayzata Blvd S & Colorado Ave S (Stop #40922), Zarthan Ave S & Wayzata Blvd S (Stop #40952), Zarthan Ave S & Wayzata Blvd S (Stop #40951), Wayzata Blvd S & Colorado Ave S (Stop #40921) *(+7 more)*
 
 **Summary**: Route 645 detoured off Zarthan Ave from 16th St to Wayzata Blvd and off Wayzata Blvd from Zarthan Ave to Louisiana Transit Center beginning Mon Jul 6 at 4:00 AM until further notice due to construction. Board at: Louisiana Transit Ctr & temporary Gate B - Stop #80969 (eastbound); 16th St W & Park Place East - Stop #40325 (eastbound).
@@ -4479,7 +4507,7 @@ Wayzata Blvd S & Kentucky Ave S - Stop #40917 (westbound)
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Apr 6 until further notice
-- **Corridors & Intersections**: Cedar Lake Rd & Texas Ave; Cedar Lake Rd & Virginia Ave; Cedar Lake Rd & Rhode Island Ave; Cedar Lake Rd & Sumter Ave; Cedar Lake Rd (Texas Ave to Louisiana Ave and off Louisiana Ave from Cedar Lake Rd to Wayzata Blvd)
+- **Corridors & Intersections**: Cedar Lake Rd & Texas Ave; Cedar Lake Rd & Virginia Ave; Cedar Lake Rd & Rhode Island Ave S; Cedar Lake Rd & Sumter Ave S; Cedar Lake Rd (Texas Ave to Louisiana Ave and off Louisiana Ave from Cedar Lake Rd to Wayzata Blvd)
 - **Closed Stops**: Stop #52551, Stop #8073, Stop #8046, Stop #80936, Stop #80937
 
 **Summary**: Route 673B detoured off Cedar Lake Rd from Texas Ave to Louisiana Ave and off Louisiana Ave from Cedar Lake Rd to Wayzata Blvd beginning Mon Apr 6 until further notice due to construction. Board at: Louisiana Transit Center & Gate B - Stop #52551 (westbound); Cedar Lake Rd & Texas Ave - Stop #8073 (westbound).
@@ -4520,13 +4548,13 @@ Cedar Lake Rd & Sumter Ave S - Stop #80937 (eastbound)
 
 ---
 
-### ⚠️ Route 721, Route 723: Stop Closed at Brooklyn Blvd & 59th Ave
+### ⚠️ Route 721, Route 723: Stop Closed at Brooklyn Blvd & 59th Ave N
 
 - **Affected Routes**: `Route 721` `Route 723`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Tue Sep 1 at 7:30 AM until further notice
-- **Corridors & Intersections**: Brooklyn Blvd & 59th Ave
+- **Corridors & Intersections**: Brooklyn Blvd & 59th Ave N
 - **Closed Stops**: Stop #9022, Stop #51845, Stop #9474, Stop #9023
 
 **Summary**: Bass Lake Rd (Co Rd 10) & Xerxes Ave N - Stop #9022 (westbound) is closed for Routes 721 and 723 beginning Tue Sep 1 at 7:30 AM until further notice due to construction. Board at: Brooklyn Ctr Transit Ctr Gate A - Stop #51845 (eastbound); Bass Lake Rd (58th Ave) & Drew Ave N - Stop #9474 (westbound).
@@ -4578,13 +4606,13 @@ West Broadway & Dragon Star - Stop #53152 (southbound)
 
 ---
 
-### ⚠️ Route 760, Route 763, Route 765, Route 766, Route 768: Detour via 3rd St (Hennepin Ave to Hwy 94)
+### ⚠️ Route 760, Route 763, Route 765, Route 766, Route 768: Detour via 3rd St S & Nicollet Mall - St
 
 - **Affected Routes**: `Route 760` `Route 763` `Route 765` `Route 766` `Route 768`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Aug 10 at 2:00 AM until further notice
-- **Corridors & Intersections**: 3rd St (Hennepin Ave to Hwy 94)
+- **Corridors & Intersections**: 3rd St S & Nicollet Mall - St; 3rd St N & 1st Ave N; 3rd St (Hennepin Ave to Hwy 94)
 - **Closed Stops**: 3rd St N & 1st Ave N (Stop #17960), Stop #40172
 
 **Summary**: Routes 760, 763, 765, 766 and 768 detoured off 3rd St from Hennepin Ave to Hwy 94 beginning Mon Aug 10 at 2:00 AM until further notice due to construction. Board at: 3rd St S & Nicollet Mall - Stop #40172 (westbound).
@@ -4616,13 +4644,13 @@ Affected stops:
 
 ---
 
-### ⚠️ Route 781: Detour via Marquette Ave & 10th St
+### ⚠️ Route 781: Detour via 2nd Ave S & 10th St
 
 - **Affected Routes**: `Route 781`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Apr 27 at 5:00 AM until further notice
-- **Corridors & Intersections**: Marquette Ave & 10th St; 16th St & 1st Ave; 16th St E (1st Ave S to 3rd Ave S and off 3rd Ave S from 16th St E to 12 St S)
+- **Corridors & Intersections**: 2nd Ave S & 10th St; Marquette Ave & 10th St; 16th St & 1st Ave; 16th St E (1st Ave S to 3rd Ave S and off 3rd Ave S from 16th St E to 12 St S)
 - **Closed Stops**: 16th St & 1st Ave / 3rd Ave S (Stop #53218), Stop #53319, Stop #53305
 
 **Summary**: Route 781 detoured off 16th St E from 1st Ave S to 3rd Ave S and off 3rd Ave S from 16th St E to 12 St S beginning Mon Apr 27 at 5:00 AM until further notice. Board at: 2nd Ave S & 10th St - Stop Group H - Stop #53319 (northbound).
@@ -4656,13 +4684,13 @@ Affected stops:
 
 ---
 
-### ⚠️ Route 785: Detour via 16th St & 1st Ave
+### ⚠️ Route 785: Detour via 2nd Ave S & 10th St
 
 - **Affected Routes**: `Route 785`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Apr 27 at 4:00 AM until further notice
-- **Corridors & Intersections**: 16th St & 1st Ave; 16th St E (1st Ave S to 3rd Ave S and off 3rd Ave S from 16th St E to 12 St S)
+- **Corridors & Intersections**: 2nd Ave S & 10th St; 16th St & 1st Ave; 16th St E (1st Ave S to 3rd Ave S and off 3rd Ave S from 16th St E to 12 St S)
 - **Closed Stops**: 16th St & 1st Ave / 3rd Ave S (Stop #53218), Stop #53319
 
 **Summary**: Route 785 detoured off 16th St E from 1st Ave S to 3rd Ave S and off 3rd Ave S from 16th St E to 12 St S beginning Mon Apr 27 at 4:00 AM until further notice. Board at: 2nd Ave S & 10th St - Stop Group H - Stop #53319 (northbound).
@@ -4691,14 +4719,14 @@ Affected stops:
 
 ---
 
-### ⚠️ Route 804: Detour via 8th Ave & Old Hwy
+### ⚠️ Route 804: Detour via Route 804 detoured off 7th St NW & 8th St N
 
 - **Affected Routes**: `Route 804`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Jul 6 at 5:00 AM until further notice
-- **Corridors & Intersections**: 8th Ave & Old Hwy
-- **Closed Stops**: 7th St NW & 9th Ave (Stop #15932), 7th St NW & 11th Ave (Stop #15928), 7th St NW & 8th St NW (Stop #20039), 8th St NW & #1362 (Stop #15907), 8th St NW & 11th Ave NW (Stop #15904), 8th St NW & 8th Ave NW (Stop #15897), 8th St NW & 11th Ave NW (Stop #15903), 8th St NW & #1381 (Stop #15906) *(+7 more)*
+- **Corridors & Intersections**: Route 804 detoured off 7th St NW & 8th St N; 8th Ave NW & Old Hwy; 8th Ave NW & 7th St N; 8th Ave NW & 8th St N; 8th St NW & Old Hwy
+- **Closed Stops**: 7th St NW & 9th Ave (Stop #15932), 7th St NW & 11th Ave (Stop #15928), 7th St NW & 8th St NW (Stop #20039), 8th St NW & #1362 (Stop #15907), 8th St NW & 11th Ave NW (Stop #15904), 8th St NW & 8th Ave NW (Stop #15897), 8th St NW & 11th Ave NW (Stop #15903), 8th St NW & #1381 (Stop #15906) *(+9 more)*
 
 **Summary**: Route 804 detoured off 7th St NW/8th St NW loop beginning Mon Jul 6 at 5:00 AM until further notice due to construction. Board at: 8th Ave NW & Old Hwy 8 - Stop #15935 (northbound); Temporary stop on 8th Ave NW & 7th St NW (northbound); Temporary stop on 8th Ave NW & 8th St NW (northbound).
 
@@ -4747,12 +4775,12 @@ Affected stops:
 
 ---
 
-### ⚠️ Route 860: Detour via Wacouta St & 5th St
+### ⚠️ Route 860: Detour via 7th St E & Wall St
 
 - **Affected Routes**: `Route 860`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Wacouta St & 5th St; 5th St (Sibley St to Wacouta St)
+- **Corridors & Intersections**: 7th St E & Wall St; 5th St E & Jackson St; 5th St E & Sibley St; Wacouta St & 5th St; 5th St (Sibley St to Wacouta St)
 - **Closed Stops**: 5th St E & Sibley St (Stop #11839), Wacouta St & 5th St / 6th St (Stop #11842), Stop #57215, Stop #11838
 
 **Summary**: Route 860 detoured off 5th St from Sibley St to Wacouta St until further notice due to construction. Board at: 7th St E & Wall St - Stop #57215 (eastbound); 5th St E & Jackson St - Stop #11838 (eastbound).
@@ -4864,7 +4892,7 @@ The bus stop has moved 150 feet east due to construction.
 - **Direction**: Both Directions
 - **Severity**: `Minor`
 - **Schedule**: Beginning Fri Jul 31 at 4:00 AM until further notice
-- **Corridors & Intersections**: Concordia Ave & Snelling Ave; and St Anthony Ave & Snelling Ave; Concordia Ave & Asbury St; St Anthony Ave & Fry St
+- **Corridors & Intersections**: Concordia Ave & Snelling Ave; and St Anthony Ave & Snelling Ave N; Concordia Ave & Asbury St; St Anthony Ave & Fry St
 - **Closed Stops**: Stop #18665, Stop #57088
 
 **Summary**: Concordia Ave & Snelling Ave - Stop #18665 (eastbound) and St Anthony Ave & Snelling Ave N - Stop #57088 (westbound) are temporarily moving for Route 94 beginning Fri Jul 31 at 4:00 AM until further notice due to Gold Line Extension construction. Board at: Concordia Ave & Asbury St (eastbound).
