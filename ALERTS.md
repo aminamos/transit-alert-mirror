@@ -2,57 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-110-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-105-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-106-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-103-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-82-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-14T01:16:17.358Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-14T05:44:42.676Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 5** (2) • **Route 7** (1) • **Route 9** (4) • **Route 10** (2) • **Route 11** (4) • **Route 14** (2) • **Route 17** (2) • **Route 18** (7) • **Route 22** (3) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (4) • **Route 38** (3) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (3) • **Route 64** (8) • **Route 64N** (2) • **Route 65** (3) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (2) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 781** (1) • **Route 785** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 5** (2) • **Route 7** (1) • **Route 9** (4) • **Route 10** (2) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (3) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (4) • **Route 38** (3) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (3) • **Route 64** (8) • **Route 64N** (2) • **Route 65** (3) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (2) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 781** (1) • **Route 785** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 14: Northbound 7:26 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)
-
-- **Affected Routes**: `Route 14`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:26 PM canceled due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/14)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:26 PM canceled due to traffic
-
-</details>
-
----
-
-### 🚨 Route 94: Westbound 7:24 PM Trip Canceled (Union Depot & Gate A1)
-
-- **Affected Routes**: `Route 94`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 94 trip departing Union Depot & Gate A1 at 7:24 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/94)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 94 trip departing Union Depot & Gate A1 at 7:24 PM canceled today
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -86,53 +50,6 @@ For southbound A Line get on/off buses at:
 Snelling & Dayton Station - Stop #17307 (southbound)
 Temporary stop on Snelling Ave & Summit Ave (southbound)
 Snelling & St Clair Station - Stop #17318 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ METRO B Line: Detour via Lake St W & Blaisdell Ave S
-
-- **Affected Routes**: `METRO B Line`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Lake St W & Blaisdell Ave S
-- **Closed Stops**: Lake & Nicollet Station (Stop #57359), Lake & I-35W Station (Stop #16857), Lake & 4th Ave Station (Stop #16863), Lake & 5th Ave Station (Stop #47529), Lake & I-35W Station (Stop #16855), Stop #57356, Stop #16845, Stop #56796 *(+2 more)*
-
-**Summary**: METRO B Line detoured off Lake St from 1st Ave S to Portland Ave from 7:00 AM to 11:30 PM on Sun Sep 13 due to Mexican Independence Day event. Board at: Lake & Lyndale Station - Stop #57356 (eastbound); Lake St W & Blaisdell Ave S - Stop #16845 (eastbound); Lake & Chicago Station - Stop #56796 (eastbound).
-
-> 💡 **Rider Action**: Board at: Lake & Lyndale Station - Stop #57356 (eastbound); Lake St W & Blaisdell Ave S - Stop #16845 (eastbound); Lake & Chicago Station - Stop #56796 (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on Lake St to 1st Ave S, left on 1st Ave, right on 28th St, right on Portland Ave, left on Lake St, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/bline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: METRO B Line detoured off Lake St from 1st Ave S to Portland Ave from 7:00 AM to 11:30 PM on Sun Sep 13 due to Mexican Independence Day event
-
-```text
-For eastbound B Line get on/off buses at:
-Lake & Lyndale Station - Stop #57356 (eastbound)
-Lake St W & Blaisdell Ave S - Stop #16845 (eastbound)
-Lake & Chicago Station - Stop #56796 (eastbound)
-
-For westbound B Line get on/off buses at:
-Lake & Chicago Station - Stop #16871 (westbound)
-Lake & Nicollet Station - Stop #57358 (westbound)
-
-Eastbound buses will travel regular route on Lake St to 1st Ave S, left on 1st Ave, right on 28th St, right on Portland Ave, left on Lake St, and resume regular route.
-
-Westbound buses will travel regular route on Lake St to Portland Ave, left on Portland, right on 31st St, right on 1st Ave S, left on Lake St, and resume regular route.
-
-Affected stops:
-Lake & Nicollet Station - Stop #57359 (eastbound)
-Lake & I-35W Station - Stop #16857 (eastbound)
-Lake & 4th Ave Station - Stop #16863 (eastbound)
-Lake & 5th Ave Station - Stop #47529 (westbound)
-Lake & I-35W Station - Stop #16855 (westbound)
 ```
 
 </details>
@@ -1057,54 +974,6 @@ Affected stops:
 3rd Ave S & Franklin Ave / 19th St E - Stop #17766 (northbound)
 3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound)
 16th St E & 3rd Ave S - Stop #53463 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 11: Detour via 4th Ave S & 31st St E
-
-- **Affected Routes**: `Route 11`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 4th Ave S & 31st St E; 5th Ave S & 28th St E; Stevens Ave S & 27th St E; 31st St & 4th Ave S; 4th Ave S & 32nd St E
-- **Closed Stops**: 4th Ave S & Lake St E (Stop #17755), 4th Ave S & 28th St E (Stop #51795), 28th St E & Stevens Ave S (Stop #17713), 28th St E & 4th Ave S (Stop #14331), 4th Ave S & Lake St E (Stop #17715), 4th Ave S & 31st St E (Stop #17716), Stop #17754, Stop #17757 *(+2 more)*
-
-**Summary**: Route 11 detoured off 4th Ave S from 28th St to 31st St from 7:30 AM to 11:30 PM on Sun Sep 13 due to Mexican Independence Day event. Board at: 4th Ave S & 31st St E - Stop #17754 (northbound); 5th Ave S & 28th St E - Stop #17757 (northbound).
-
-> 💡 **Rider Action**: Board at: 4th Ave S & 31st St E - Stop #17754 (northbound); 5th Ave S & 28th St E - Stop #17757 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on 4th Ave S to 31st St, left on 31st St, right on 1st Ave S, right on 28th St to 4th Ave S, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/11)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 11 detoured off 4th Ave S from 28th St to 31st St from 7:30 AM to 11:30 PM on Sun Sep 13 due to Mexican Independence Day event
-
-```text
-For northbound Route 11 get on/off buses at:
-4th Ave S & 31st St E - Stop #17754 (northbound)
-5th Ave S & 28th St E - Stop #17757 (northbound)
-
-For southbound Route 11 get on/off buses at:
-Stevens Ave S & 27th St E - Stop #17712 (southbound)
-Temporary stop on 31st St & 4th Ave S (eastbound)
-4th Ave S & 32nd St E - Stop #17717 (southbound)
-
-Northbound buses will travel regular route on 4th Ave S to 31st St, left on 31st St, right on 1st Ave S, right on 28th St to 4th Ave S, and resume regular route.
-
-Southbound buses will travel regular route on Stevens Ave to 28th St, continue on Stevens to 31st St, left on 31st St, right on 4th Ave S, and resume regular route.
-
-Affected stops:
-4th Ave S & Lake St E - Stop #17755 (northbound)
-4th Ave S & 28th St E - Stop #51795 (northbound)
-28th St E & Stevens Ave S - Stop #17713 (eastbound)
-28th St E & 4th Ave S - Stop #14331 (eastbound)
-4th Ave S & Lake St E - Stop #17715 (southbound)
-4th Ave S & 31st St E - Stop #17716 (southbound)
 ```
 
 </details>
