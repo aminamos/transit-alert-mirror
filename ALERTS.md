@@ -6,30 +6,30 @@
 [![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-105-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-83-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-82-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-14T00:42:37.491Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-14T01:16:17.358Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 5** (2) • **Route 7** (1) • **Route 9** (4) • **Route 10** (2) • **Route 11** (5) • **Route 11A** (1) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (3) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (4) • **Route 38** (3) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (3) • **Route 64** (8) • **Route 64N** (2) • **Route 65** (3) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (2) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 781** (1) • **Route 785** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 5** (2) • **Route 7** (1) • **Route 9** (4) • **Route 10** (2) • **Route 11** (4) • **Route 14** (2) • **Route 17** (2) • **Route 18** (7) • **Route 22** (3) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (4) • **Route 38** (3) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (3) • **Route 64** (8) • **Route 64N** (2) • **Route 65** (3) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (2) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 781** (1) • **Route 785** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 11, Route 11A: Southbound 6:14 PM Trip Canceled (Columbia Heights Transit Center C)
+### 🚨 Route 14: Northbound 7:26 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)
 
-- **Affected Routes**: `Route 11` `Route 11A`
-- **Direction**: Southbound
+- **Affected Routes**: `Route 14`
+- **Direction**: Northbound
 - **Severity**: `Critical`
 
-**Summary**: Southbound Route 11A trip departing Columbia Heights Transit Center C at 6:14 PM canceled today due to traffic
+**Summary**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:26 PM canceled due to traffic
 
-[Official Agency Advisory](https://www.metrotransit.org/route/11)
+[Official Agency Advisory](https://www.metrotransit.org/route/14)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 11A trip departing Columbia Heights Transit Center C at 6:14 PM canceled today due to traffic
+**Header**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:26 PM canceled due to traffic
 
 </details>
 

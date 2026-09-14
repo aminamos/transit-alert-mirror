@@ -1,41 +1,40 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-14T00:42:37.491Z",
+    "generatedAt": "2026-09-14T01:16:17.358Z",
     "totalAlerts": 110,
     "criticalCount": 2,
     "moderateCount": 105,
     "minorCount": 3,
-    "affectedRoutesCount": 83,
+    "affectedRoutesCount": 82,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "52758",
+      "id": "52760",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 11, Route 11A: Southbound 6:14 PM Trip Canceled (Columbia Heights Transit Center C)",
-      "summary": "Southbound Route 11A trip departing Columbia Heights Transit Center C at 6:14 PM canceled today due to traffic",
+      "title": "Route 14: Northbound 7:26 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)",
+      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:26 PM canceled due to traffic",
       "affectedRoutes": [
-        "Route 11",
-        "Route 11A"
+        "Route 14"
       ],
-      "direction": "Southbound",
+      "direction": "Northbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-13T23:44:00.000Z",
-        "end": "2026-09-14T01:10:00.000Z"
+        "start": "2026-09-14T01:09:00.000Z",
+        "end": "2026-09-14T02:27:00.000Z"
       },
-      "cause": "OTHER_CAUSE",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-09-13T23:45:43.000Z",
-      "rawHeader": "Southbound Route 11A trip departing Columbia Heights Transit Center C at 6:14 PM canceled today due to traffic",
+      "url": "https://www.metrotransit.org/route/14",
+      "updatedAt": "2026-09-14T01:10:00.000Z",
+      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:26 PM canceled due to traffic",
       "rawDescription": ""
     },
     {
