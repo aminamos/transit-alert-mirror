@@ -1,85 +1,60 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-14T17:36:55.061Z",
-    "totalAlerts": 125,
-    "criticalCount": 6,
-    "moderateCount": 116,
+    "generatedAt": "2026-09-14T21:25:11.214Z",
+    "totalAlerts": 132,
+    "criticalCount": 12,
+    "moderateCount": 117,
     "minorCount": 3,
-    "affectedRoutesCount": 86,
+    "affectedRoutesCount": 87,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "52788",
+      "id": "52810",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO B Line: Eastbound 2:11 PM Trip Canceled (Lake St W & France Ave S)",
+      "summary": "Eastbound B Line trip departing Lake St W & France Ave S at 2:11 PM canceled today due to traffic",
+      "affectedRoutes": [
+        "METRO B Line"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {},
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-09-14T21:21:02.000Z",
+      "rawHeader": "Eastbound B Line trip departing Lake St W & France Ave S at 2:11 PM canceled today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "52813",
       "agency": "Metro Transit",
       "severity": "Critical",
       "title": "METRO D Line: Service Advisory",
-      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 10:33 AM will start from 8th & Nicollet Mall. Previous stops missed due to traffic",
+      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 2:58 PM will start from Penn & 44th. Previous stops missed due to police activity",
       "affectedRoutes": [
         "METRO D Line"
       ],
       "direction": "Southbound",
       "intersections": [],
       "closedStopIds": [
-        "17906",
-        "11146",
-        "11161",
-        "9589",
-        "9611",
-        "9577",
         "56823",
-        "56903",
-        "56904",
-        "56905",
-        "56906",
-        "56907",
-        "56908",
         "9087",
         "9173",
-        "17905",
-        "56317"
+        "9589",
+        "9577"
       ],
       "closedStopDetails": [
         {
-          "id": "17906"
-        },
-        {
-          "id": "11146"
-        },
-        {
-          "id": "11161"
-        },
-        {
-          "id": "9589"
-        },
-        {
-          "id": "9611"
-        },
-        {
-          "id": "9577"
-        },
-        {
           "id": "56823"
-        },
-        {
-          "id": "56903"
-        },
-        {
-          "id": "56904"
-        },
-        {
-          "id": "56905"
-        },
-        {
-          "id": "56906"
-        },
-        {
-          "id": "56907"
-        },
-        {
-          "id": "56908"
         },
         {
           "id": "9087"
@@ -88,114 +63,86 @@
           "id": "9173"
         },
         {
-          "id": "17905"
+          "id": "9589"
         },
         {
-          "id": "56317"
+          "id": "9577"
         }
       ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-14T15:37:00.000Z",
-        "end": "2026-09-14T17:46:00.000Z"
+        "start": "2026-09-14T19:58:00.000Z",
+        "end": "2026-09-14T22:22:00.000Z"
       },
-      "cause": "OTHER_CAUSE",
+      "cause": "POLICE_ACTIVITY",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-09-14T15:38:05.000Z",
-      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 10:33 AM will start from 8th & Nicollet Mall. Previous stops missed due to traffic",
+      "updatedAt": "2026-09-14T19:53:45.000Z",
+      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 2:58 PM will start from Penn & 44th. Previous stops missed due to police activity",
       "rawDescription": ""
     },
     {
-      "id": "52799",
+      "id": "52817",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO Orange Line: Service Canceled",
-      "summary": "Orange Line trips departing Marquette Ave & 3rd St at 11:33 AM canceled. Trip departing Burnsville Heart of the City Station at 12:20 PM restored",
-      "affectedRoutes": [
-        "METRO Orange Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-14T16:59:00.000Z",
-        "end": "2026-09-14T18:54:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/orange",
-      "updatedAt": "2026-09-14T17:01:04.000Z",
-      "rawHeader": "Orange Line trips departing Marquette Ave & 3rd St at 11:33 AM canceled. Trip departing Burnsville Heart of the City Station at 12:20 PM restored",
-      "rawDescription": ""
-    },
-    {
-      "id": "52805",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO Orange Line: Southbound 11:48 AM Trip Canceled (Marquette Ave & 3rd St - Stop Group C)",
-      "summary": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 11:48 AM canceled today due to medical emergency",
+      "title": "METRO Orange Line: Service Advisory",
+      "summary": "Southbound Orange Line trip departing Marquette Ave & 3rd St at 3:12 PM will start from I-35W & 46th St Station. Previous stops missed due to traffic",
       "affectedRoutes": [
         "METRO Orange Line"
       ],
       "direction": "Southbound",
       "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
+      "closedStopIds": [
+        "17781",
+        "56800",
+        "53297",
+        "53298",
+        "53299",
+        "53301"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "17781"
+        },
+        {
+          "id": "56800"
+        },
+        {
+          "id": "53297"
+        },
+        {
+          "id": "53298"
+        },
+        {
+          "id": "53299"
+        },
+        {
+          "id": "53301"
+        }
+      ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-14T17:14:00.000Z",
-        "end": "2026-09-14T18:23:00.000Z"
-      },
-      "cause": "MEDICAL_EMERGENCY",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/orange",
-      "updatedAt": "2026-09-14T17:14:48.000Z",
-      "rawHeader": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 11:48 AM canceled today due to medical emergency",
-      "rawDescription": ""
-    },
-    {
-      "id": "52792",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 2: Service Canceled",
-      "summary": "Route 2 trips departing Franklin Ave W & Hennepin Ave S at 10:05 AM and departing 2nd Ave SE & 7th St SE at 11:09 AM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 2"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 2 trips departing Franklin Ave W & Hennepin Ave S",
-        "05 AM and departing 2nd Ave SE & 7th St S"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-14T16:30:00.000Z",
-        "end": "2026-09-14T17:57:00.000Z"
+        "start": "2026-09-14T20:12:00.000Z",
+        "end": "2026-09-14T21:49:00.000Z"
       },
       "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-09-14T16:30:52.000Z",
-      "rawHeader": "Route 2 trips departing Franklin Ave W & Hennepin Ave S at 10:05 AM and departing 2nd Ave SE & 7th St SE at 11:09 AM canceled today due to traffic",
+      "url": "https://www.metrotransit.org/route/orange",
+      "updatedAt": "2026-09-14T20:11:16.000Z",
+      "rawHeader": "Southbound Orange Line trip departing Marquette Ave & 3rd St at 3:12 PM will start from I-35W & 46th St Station. Previous stops missed due to traffic",
       "rawDescription": ""
     },
     {
-      "id": "52796",
+      "id": "52822",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 2: Eastbound 11:05 AM Trip Canceled (Franklin Ave W & Hennepin Ave S)",
-      "summary": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 11:05 AM canceled today due to traffic",
+      "title": "Route 2, Route 2C: Eastbound 3:41 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)",
+      "summary": "Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 3:41 PM canceled today due to traffic",
       "affectedRoutes": [
-        "Route 2"
+        "Route 2",
+        "Route 2C"
       ],
       "direction": "Eastbound",
       "intersections": [],
@@ -204,24 +151,102 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-14T16:46:00.000Z",
-        "end": "2026-09-14T17:52:00.000Z"
+        "start": "2026-09-14T21:12:00.000Z",
+        "end": "2026-09-14T22:37:00.000Z"
       },
       "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-09-14T16:47:04.000Z",
-      "rawHeader": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 11:05 AM canceled today due to traffic",
+      "updatedAt": "2026-09-14T21:13:09.000Z",
+      "rawHeader": "Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 3:41 PM canceled today due to traffic",
       "rawDescription": ""
     },
     {
-      "id": "52787",
+      "id": "52818",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 32: Service Canceled",
-      "summary": "Route 32 trips departing Robbinsdale Transit Center & Gate C at 10:15 AM and departing Rosedale Transit Center Gate D at 11:03 AM canceled today due to maintenance work",
+      "title": "Route 17: Westbound 3:28 PM Trip Canceled (Central Ave NE & 26th Ave NE)",
+      "summary": "Westbound Route 17 trip departing Central Ave NE & 26th Ave NE at 3:28 PM canceled today due to mechanical issue",
       "affectedRoutes": [
-        "Route 32"
+        "Route 17"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-14T20:28:00.000Z",
+        "end": "2026-09-14T22:47:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/17",
+      "updatedAt": "2026-09-14T20:14:44.000Z",
+      "rawHeader": "Westbound Route 17 trip departing Central Ave NE & 26th Ave NE at 3:28 PM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "52815",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 18: Southbound 3:05 PM Trip Canceled (4th Ave S & 3rd St S)",
+      "summary": "Southbound Route 18 trip departing 4th Ave S & 3rd St S at 3:05 PM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 18"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-14T20:07:00.000Z",
+        "end": "2026-09-14T21:59:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/18",
+      "updatedAt": "2026-09-14T20:07:12.000Z",
+      "rawHeader": "Southbound Route 18 trip departing 4th Ave S & 3rd St S at 3:05 PM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "52821",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 64: Westbound 3:33 PM Trip Canceled (Maplewood Mall Transit Center & Gate D/E)",
+      "summary": "Westbound Route 64 trip departing Maplewood Mall Transit Center & Gate D/E at 3:33 PM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 64"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-14T20:46:00.000Z",
+        "end": "2026-09-14T22:28:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/64",
+      "updatedAt": "2026-09-14T20:46:13.000Z",
+      "rawHeader": "Westbound Route 64 trip departing Maplewood Mall Transit Center & Gate D/E at 3:33 PM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "52808",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 71: Service Canceled",
+      "summary": "Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today",
+      "affectedRoutes": [
+        "Route 71"
       ],
       "direction": "Both Directions",
       "intersections": [],
@@ -230,14 +255,123 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-14T15:21:00.000Z",
-        "end": "2026-09-14T17:41:00.000Z"
+        "start": "2026-09-14T18:38:00.000Z",
+        "end": "2026-09-15T00:45:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/71",
+      "updatedAt": "2026-09-14T18:08:28.000Z",
+      "rawHeader": "Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 1:38 PM\r\ndeparting Inver Hills College & Shelter at 4:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 3:10 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 6:15 PM"
+    },
+    {
+      "id": "52814",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 71: Service Canceled",
+      "summary": "Route 71 trip departing McMenemy St & Roselawn Ave at 2:41 PM and six other trips canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 71"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 71 trip departing McMenemy St & Roselawn Ave",
+        "departing McMenemy St & Roselawn Ave",
+        "41 PM\ndeparting McMenemy St & Roselawn Ave",
+        "39 PM\ndeparting McMenemy St & Roselawn Ave"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-14T19:58:00.000Z",
+        "end": "2026-09-15T03:17:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/71",
+      "updatedAt": "2026-09-14T19:59:34.000Z",
+      "rawHeader": "Route 71 trip departing McMenemy St & Roselawn Ave at 2:41 PM and six other trips canceled today due to mechanical issue",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Concord Exchange & Armour Ave at 3:46 PM\r\ndeparting Concord Exchange & Armour Ave at 5:46 PM\r\ndeparting Concord Exchange & Armour Ave at 7:46 PM\r\n\nAffected southbound trips:\r\ndeparting McMenemy St & Roselawn Ave at 2:41 PM\r\ndeparting McMenemy St & Roselawn Ave at 4:39 PM\r\ndeparting McMenemy St & Roselawn Ave at 6:41 PM\r\ndeparting McMenemy St & Roselawn Ave at 8:42 PM"
+    },
+    {
+      "id": "52809",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 219: Service Canceled",
+      "summary": "Route 219 trip departing Maplewood Mall Transit Center & Gate A at 3:42 PM and three other trips canceled today",
+      "affectedRoutes": [
+        "Route 219"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-14T20:42:00.000Z",
+        "end": "2026-09-15T01:33:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/219",
+      "updatedAt": "2026-09-14T20:12:00.000Z",
+      "rawHeader": "Route 219 trip departing Maplewood Mall Transit Center & Gate A at 3:42 PM and three other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate B at 4:43 PM\r\ndeparting Sun Ray Transit Center & Gate B at 6:43 PM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate A at 3:42 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 5:42 PM"
+    },
+    {
+      "id": "52819",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 540: 3:55 PM Trip Canceled (MOA Transit Station Gate G)",
+      "summary": "Route 540 trip departing MOA Transit Station Gate G at 3:55 PM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "Route 540"
+      ],
+      "direction": "All",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-14T20:55:00.000Z",
+        "end": "2026-09-14T22:28:00.000Z"
       },
       "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/32",
-      "updatedAt": "2026-09-14T15:21:25.000Z",
-      "rawHeader": "Route 32 trips departing Robbinsdale Transit Center & Gate C at 10:15 AM and departing Rosedale Transit Center Gate D at 11:03 AM canceled today due to maintenance work",
+      "url": "https://www.metrotransit.org/route/540",
+      "updatedAt": "2026-09-14T20:26:56.000Z",
+      "rawHeader": "Route 540 trip departing MOA Transit Station Gate G at 3:55 PM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "52820",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 542: Eastbound 4:29 PM Trip Canceled (American Blvd & Social Security Admin)",
+      "summary": "Eastbound Route 542 trip departing American Blvd & Social Security Admin at 4:29 PM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "Route 542"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-14T21:29:00.000Z",
+        "end": "2026-09-14T22:58:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/542",
+      "updatedAt": "2026-09-14T20:59:01.000Z",
+      "rawHeader": "Eastbound Route 542 trip departing American Blvd & Social Security Admin at 4:29 PM canceled today due to maintenance work",
       "rawDescription": ""
     },
     {
@@ -1161,6 +1295,65 @@
       "updatedAt": "2026-09-08T00:00:02.000Z",
       "rawHeader": "Plymouth Ave & Lyndale Ave N - Stop #17654 (westbound) is closed for Route 7 beginning Mon Aug 31 at 7:00 PM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nPlymouth Ave & Washington Ave - Stop #17653 (westbound)\r\nPlymouth Ave & Bryant Ave N - Stop #17656 (westbound)"
+    },
+    {
+      "id": "52823",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 7: Detour via Route 7 detoured off Plymouth Ave & Theodore Wirth Pkwy",
+      "summary": "Route 7 detoured off Plymouth Ave/Theodore Wirth Pkwy from Washburn Ave to Trailhead Building on Sat Sep 19 from 6:30 AM to 2:00 PM due to Loppet Field Day. Board at: Plymouth Ave & Washburn Ave N - Stop #17676 (westbound).",
+      "affectedRoutes": [
+        "Route 7"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 7 detoured off Plymouth Ave & Theodore Wirth Pkwy",
+        "Plymouth Ave & Washburn Ave N",
+        "Plymouth Ave & Theodore Wirth Pkwy",
+        "Plymouth Ave & Theo Wirth Pkwy"
+      ],
+      "closedStopIds": [
+        "56978",
+        "56977",
+        "17679",
+        "17676",
+        "17681"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "56978",
+          "name": "Plymouth Ave & Theodore Wirth Pkwy",
+          "direction": "westbound"
+        },
+        {
+          "id": "56977",
+          "name": "Trailhead Bldg",
+          "direction": "westbound"
+        },
+        {
+          "id": "17679",
+          "name": "Plymouth Ave & Theo Wirth Pkwy",
+          "direction": "eastbound"
+        },
+        {
+          "id": "17676"
+        },
+        {
+          "id": "17681"
+        }
+      ],
+      "riderAlternative": "Board at: Plymouth Ave & Washburn Ave N - Stop #17676 (westbound)",
+      "detourDetails": "Northbound buses will travel regular route on Plymouth Ave to Washburn Ave, right on Washburn, left on 14th Ave, left on Xerxes Ave, left on Plymouth Ave, and will layover on eastbound Plymouth Ave at Washburn Ave.",
+      "activePeriod": {
+        "start": "2026-09-19T11:30:00.000Z",
+        "end": "2026-09-19T19:00:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/7",
+      "updatedAt": "2026-09-14T21:15:56.000Z",
+      "rawHeader": "Route 7 detoured off Plymouth Ave/Theodore Wirth Pkwy from Washburn Ave to Trailhead Building on Sat Sep 19 from 6:30 AM to 2:00 PM due to Loppet Field Day",
+      "rawDescription": "For northbound Route 7 get on/off buses at:\r\nPlymouth Ave & Washburn Ave N - Stop #17676 (westbound)\r\n\nFor southbound Route 7 get on/off buses at:\r\nPlymouth Ave & Washburn Ave N - Stop #17681 (eastbound)\r\n\nNorthbound buses will travel regular route on Plymouth Ave to Washburn Ave, right on Washburn, left on 14th Ave, left on Xerxes Ave, left on Plymouth Ave, and will layover on eastbound Plymouth Ave at Washburn Ave.\r\n\nSouthbound buses will depart temporary layover on eastbound Plymouth Ave at Washburn Ave and resume regular route.\r\n\nAffected stops:\r\nPlymouth Ave & Theodore Wirth Pkwy - Stop #56978 (westbound)\r\nTrailhead Bldg - Stop #56977 (westbound)\r\nPlymouth Ave & Theo Wirth Pkwy - Stop #17679 (eastbound)"
     },
     {
       "id": "45065",

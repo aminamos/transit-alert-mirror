@@ -4,62 +4,116 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Mon, 14 Sep 2026 17:36:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:25:11 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
+      <title>[Critical] METRO B Line: Eastbound 2:11 PM Trip Canceled (Lake St W &amp; France Ave S)</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-52810-2026-09-14T21:21:02.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 21:21:02 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO B Line</category>
+      <description>Eastbound B Line trip departing Lake St W &amp; France Ave S at 2:11 PM canceled today due to traffic</description>
+    </item>
+    <item>
       <title>[Critical] METRO D Line: Service Advisory</title>
       <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-52788-2026-09-14T15:38:05.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 15:38:05 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52813-2026-09-14T19:53:45.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 19:53:45 GMT</pubDate>
       <category>Critical</category>
       <category>METRO D Line</category>
-      <description>Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 10:33 AM will start from 8th &amp; Nicollet Mall. Previous stops missed due to traffic</description>
+      <description>Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 2:58 PM will start from Penn &amp; 44th. Previous stops missed due to police activity</description>
     </item>
     <item>
-      <title>[Critical] METRO Orange Line: Service Canceled</title>
+      <title>[Critical] METRO Orange Line: Service Advisory</title>
       <link>https://www.metrotransit.org/route/orange</link>
-      <guid isPermaLink="false">Metro Transit-52799-2026-09-14T17:01:04.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 17:01:04 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52817-2026-09-14T20:11:16.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 20:11:16 GMT</pubDate>
       <category>Critical</category>
       <category>METRO Orange Line</category>
-      <description>Orange Line trips departing Marquette Ave &amp; 3rd St at 11:33 AM canceled. Trip departing Burnsville Heart of the City Station at 12:20 PM restored</description>
+      <description>Southbound Orange Line trip departing Marquette Ave &amp; 3rd St at 3:12 PM will start from I-35W &amp; 46th St Station. Previous stops missed due to traffic</description>
     </item>
     <item>
-      <title>[Critical] METRO Orange Line: Southbound 11:48 AM Trip Canceled (Marquette Ave &amp; 3rd St - Stop Group C)</title>
-      <link>https://www.metrotransit.org/route/orange</link>
-      <guid isPermaLink="false">Metro Transit-52805-2026-09-14T17:14:48.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 17:14:48 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO Orange Line</category>
-      <description>Southbound Orange Line trip departing Marquette Ave &amp; 3rd St - Stop Group C at 11:48 AM canceled today due to medical emergency</description>
-    </item>
-    <item>
-      <title>[Critical] Route 2: Service Canceled</title>
+      <title>[Critical] Route 2, Route 2C: Eastbound 3:41 PM Trip Canceled (Franklin Ave W &amp; Hennepin Ave S)</title>
       <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-52792-2026-09-14T16:30:52.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 16:30:52 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52822-2026-09-14T21:13:09.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 21:13:09 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 2</category>
-      <description>Route 2 trips departing Franklin Ave W &amp; Hennepin Ave S at 10:05 AM and departing 2nd Ave SE &amp; 7th St SE at 11:09 AM canceled today due to traffic</description>
+      <category>Route 2, Route 2C</category>
+      <description>Eastbound Route 2C trip departing Franklin Ave W &amp; Hennepin Ave S at 3:41 PM canceled today due to traffic</description>
     </item>
     <item>
-      <title>[Critical] Route 2: Eastbound 11:05 AM Trip Canceled (Franklin Ave W &amp; Hennepin Ave S)</title>
-      <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-52796-2026-09-14T16:47:04.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 16:47:04 GMT</pubDate>
+      <title>[Critical] Route 17: Westbound 3:28 PM Trip Canceled (Central Ave NE &amp; 26th Ave NE)</title>
+      <link>https://www.metrotransit.org/route/17</link>
+      <guid isPermaLink="false">Metro Transit-52818-2026-09-14T20:14:44.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 20:14:44 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 2</category>
-      <description>Eastbound Route 2 trip departing Franklin Ave W &amp; Hennepin Ave S at 11:05 AM canceled today due to traffic</description>
+      <category>Route 17</category>
+      <description>Westbound Route 17 trip departing Central Ave NE &amp; 26th Ave NE at 3:28 PM canceled today due to mechanical issue</description>
     </item>
     <item>
-      <title>[Critical] Route 32: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/32</link>
-      <guid isPermaLink="false">Metro Transit-52787-2026-09-14T15:21:25.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 15:21:25 GMT</pubDate>
+      <title>[Critical] Route 18: Southbound 3:05 PM Trip Canceled (4th Ave S &amp; 3rd St S)</title>
+      <link>https://www.metrotransit.org/route/18</link>
+      <guid isPermaLink="false">Metro Transit-52815-2026-09-14T20:07:12.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 20:07:12 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 32</category>
-      <description>Route 32 trips departing Robbinsdale Transit Center &amp; Gate C at 10:15 AM and departing Rosedale Transit Center Gate D at 11:03 AM canceled today due to maintenance work</description>
+      <category>Route 18</category>
+      <description>Southbound Route 18 trip departing 4th Ave S &amp; 3rd St S at 3:05 PM canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 64: Westbound 3:33 PM Trip Canceled (Maplewood Mall Transit Center &amp; Gate D/E)</title>
+      <link>https://www.metrotransit.org/route/64</link>
+      <guid isPermaLink="false">Metro Transit-52821-2026-09-14T20:46:13.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 20:46:13 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 64</category>
+      <description>Westbound Route 64 trip departing Maplewood Mall Transit Center &amp; Gate D/E at 3:33 PM canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 71: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/71</link>
+      <guid isPermaLink="false">Metro Transit-52808-2026-09-14T18:08:28.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 18:08:28 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 71</category>
+      <description>Route 71 trip departing Inver Hills College &amp; Shelter at 1:38 PM and three other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 71: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/71</link>
+      <guid isPermaLink="false">Metro Transit-52814-2026-09-14T19:59:34.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 19:59:34 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 71</category>
+      <description>Route 71 trip departing McMenemy St &amp; Roselawn Ave at 2:41 PM and six other trips canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 219: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/219</link>
+      <guid isPermaLink="false">Metro Transit-52809-2026-09-14T20:12:00.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 20:12:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 219</category>
+      <description>Route 219 trip departing Maplewood Mall Transit Center &amp; Gate A at 3:42 PM and three other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 540: 3:55 PM Trip Canceled (MOA Transit Station Gate G)</title>
+      <link>https://www.metrotransit.org/route/540</link>
+      <guid isPermaLink="false">Metro Transit-52819-2026-09-14T20:26:56.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 20:26:56 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 540</category>
+      <description>Route 540 trip departing MOA Transit Station Gate G at 3:55 PM canceled today due to maintenance work</description>
+    </item>
+    <item>
+      <title>[Critical] Route 542: Eastbound 4:29 PM Trip Canceled (American Blvd &amp; Social Security Admin)</title>
+      <link>https://www.metrotransit.org/route/542</link>
+      <guid isPermaLink="false">Metro Transit-52820-2026-09-14T20:59:01.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 20:59:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 542</category>
+      <description>Eastbound Route 542 trip departing American Blvd &amp; Social Security Admin at 4:29 PM canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
@@ -197,6 +251,15 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 7</category>
       <description>Plymouth Ave &amp; Lyndale Ave N - Stop #17654 (westbound) is closed for Route 7 beginning Mon Aug 31 at 7:00 PM until further notice due to construction. Board at: Plymouth Ave &amp; Washington Ave - Stop #17653 (westbound); Plymouth Ave &amp; Bryant Ave N - Stop #17656 (westbound). | Action: Board at: Plymouth Ave &amp; Washington Ave - Stop #17653 (westbound); Plymouth Ave &amp; Bryant Ave N - Stop #17656 (westbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 7: Detour via Route 7 detoured off Plymouth Ave &amp; Theodore Wirth Pkwy</title>
+      <link>https://www.metrotransit.org/route/7</link>
+      <guid isPermaLink="false">Metro Transit-52823-2026-09-14T21:15:56.000Z</guid>
+      <pubDate>Mon, 14 Sep 2026 21:15:56 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 7</category>
+      <description>Route 7 detoured off Plymouth Ave/Theodore Wirth Pkwy from Washburn Ave to Trailhead Building on Sat Sep 19 from 6:30 AM to 2:00 PM due to Loppet Field Day. Board at: Plymouth Ave &amp; Washburn Ave N - Stop #17676 (westbound). | Action: Board at: Plymouth Ave &amp; Washburn Ave N - Stop #17676 (westbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 9: Stop Closed at Cedar Lake Rd &amp; Ridge Dr</title>
