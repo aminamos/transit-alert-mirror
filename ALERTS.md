@@ -2,17 +2,17 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-120-blue)](#)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-119-blue)](#)
 [![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-117-orange)](#-moderate-detours--changes)
+[![Moderate](https://img.shields.io/badge/Moderate-116-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-86-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-15T05:46:06.349Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-15T11:00:06.523Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (3) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (2) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 781** (1) • **Route 785** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
+**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (2) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 781** (1) • **Route 785** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
@@ -3325,67 +3325,6 @@ LaFayette Rd & University Ave - Stop #11921 (southbound)
 LaFayette Rd & Grove St - Stop #11923 (southbound)
 LaFayette Rd & 8th St - Stop #11925 (southbound)
 7th St E & Olive St - Stop #57415 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 65: Detour via Summit Ave & Dale St
-
-- **Affected Routes**: `Route 65`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon May 18 at 7:00 AM until further notice
-- **Corridors & Intersections**: Summit Ave & Dale St; Kent St & Selby Ave; Kent St & Marshall Ave; Dale St & Fuller Ave; Marshall Ave & Kent St
-- **Closed Stops**: Dale St & Grand Ave (Stop #10680), Dale St & Summit Ave / Portland Ave (Stop #10681), Dale St & Holly Ave (Stop #10684), Dale St & Selby Ave (Stop #10685), Dale St & Marshall Ave (Stop #10688), Dale St & Iglehart Ave (Stop #10689), Dale St & Rondo Ave (Stop #10691), Dale St & Carroll Ave (Stop #10752) *(+7 more)*
-
-**Summary**: Route 65 detoured off Dale St from Rondo Ave to Grand Ave beginning Mon May 18 at 7:00 AM until further notice due to construction. Board at: Summit Ave & Dale St - Stop #10761 (eastbound); Temporary stop on Kent St & Selby Ave (northbound); Temporary stop on Kent St & Marshall Ave (northbound).
-
-> 💡 **Rider Action**: Board at: Summit Ave & Dale St - Stop #10761 (eastbound); Temporary stop on Kent St & Selby Ave (northbound); Temporary stop on Kent St & Marshall Ave (northbound)
-
-> 🔄 **Detour Path**: Southbound buses will travel the regular route on Dale St to Rondo Ave, left on Rondo Ave, right on Arundel St, right on Marshall Ave, left on Kent St, right on Summit Ave, left on Oakland Ave, right on Grand Ave, right on Dale St, right on Summit Ave and layover on eastbound Summit Ave just past Dale St.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/65)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 65 detoured off Dale St from Rondo Ave to Grand Ave beginning Mon May 18 at 7:00 AM until further notice due to construction
-
-```text
-Updated get on/off stops 6/10 10:30 am.
-
-For northbound Route 65 get on/off buses at:
-Summit Ave & Dale St - Stop #10761 (eastbound)
-Temporary stop on Kent St & Selby Ave (northbound)
-Temporary stop on Kent St & Marshall Ave (northbound)
-Dale St & Fuller Ave - Stop #10693 (northbound)
-
-For southbound Route 65 get on/off buses at:
-Dale St & Fuller Ave - Stop #10748 (southbound)
-Temporary stop on Marshall Ave & Kent St (westbound)
-Temporary stop on Kent St & Selby Ave (southbound)
-Summit Ave & Dale St - Stop #10761 (eastbound)
-
-Northbound buses will depart the temporary terminal on eastbound Summit Ave just past Dale St, continue on Summit Ave, left on Kent St, right on Marshall Ave, left on Arundel St, right on Concordia Ave, left on Western Ave, left on St Anthony Ave, right on Dale St, and resume the regular route.
-
-Southbound buses will travel the regular route on Dale St to Rondo Ave, left on Rondo Ave, right on Arundel St, right on Marshall Ave, left on Kent St, right on Summit Ave, left on Oakland Ave, right on Grand Ave, right on Dale St, right on Summit Ave and layover on eastbound Summit Ave just past Dale St.
-
-Affected stops:
-Dale St & Grand Ave - Stop #10680 (northbound)
-Dale St & Summit Ave / Portland Ave - Stop #10681 (northbound)
-Dale St & Holly Ave - Stop #10684 (northbound)
-Dale St & Selby Ave - Stop #10685 (northbound)
-Dale St & Marshall Ave - Stop #10688 (northbound)
-Dale St & Iglehart Ave - Stop #10689 (northbound)
-Dale St & Rondo Ave - Stop #10691 (northbound)
-Dale St & Carroll Ave - Stop #10752 (southbound)
-Dale St & Iglehart Ave - Stop #10753 (southbound)
-Dale St & Marshall Ave - Stop #10754 (southbound)
-Dale St N & Selby Ave - Stop #53780 (southbound)
-Dale St & Ashland Ave - Stop #10758 (southbound)
-Summit Ave & Dale St - Stop #10761 (eastbound)
 ```
 
 </details>

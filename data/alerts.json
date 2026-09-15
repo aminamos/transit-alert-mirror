@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-15T05:46:06.349Z",
-    "totalAlerts": 120,
+    "generatedAt": "2026-09-15T11:00:06.523Z",
+    "totalAlerts": 119,
     "criticalCount": 0,
-    "moderateCount": 117,
+    "moderateCount": 116,
     "minorCount": 3,
     "affectedRoutesCount": 86,
     "agencies": [
@@ -5661,127 +5661,6 @@
       "rawDescription": "For eastbound Route 64 get on/off buses at:\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\nBurr St & Tedesco St - Stop #11776 (northbound)\r\n\nFor westbound Route 64 get on/off buses at:\r\nBurr St & Tedesco St - Stop #11819 (southbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound) \r\n\nEastbound buses will travel regular route on 7th St E to Lafayette, continue past Lafayette to Payne, left on Payne, left on Tedesco, right on Burr, and resume regular route. \r\n\nWestbound buses will travel regular route on Burr to Tedesco, left onto Tedesco, right onto Payne, right onto 7th St, continue to Lafayette and resume regular route. \r\n\nAffected stops:\r\nLaFayette Rd & 8th St - Stop #11916 (northbound)\r\nLaFayette Rd & Grove St - Stop #11918 (northbound)\r\nLaFayette Rd & University Ave - Stop #11920 (northbound)\r\nLaFayette Rd & #600 - Stop #11774 (northbound)\r\nLafayette Rd & Lafayette Plaza - Stop #11821 (southbound)\r\nLaFayette Rd & University Ave - Stop #11921 (southbound)\r\nLaFayette Rd & Grove St - Stop #11923 (southbound)\r\nLaFayette Rd & 8th St - Stop #11925 (southbound)\r\n7th St E & Olive St - Stop #57415 (westbound)"
     },
     {
-      "id": "49359",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 65: Detour via Summit Ave & Dale St",
-      "summary": "Route 65 detoured off Dale St from Rondo Ave to Grand Ave beginning Mon May 18 at 7:00 AM until further notice due to construction. Board at: Summit Ave & Dale St - Stop #10761 (eastbound); Temporary stop on Kent St & Selby Ave (northbound); Temporary stop on Kent St & Marshall Ave (northbound).",
-      "affectedRoutes": [
-        "Route 65"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Summit Ave & Dale St",
-        "Kent St & Selby Ave",
-        "Kent St & Marshall Ave",
-        "Dale St & Fuller Ave",
-        "Marshall Ave & Kent St"
-      ],
-      "closedStopIds": [
-        "10680",
-        "10681",
-        "10684",
-        "10685",
-        "10688",
-        "10689",
-        "10691",
-        "10752",
-        "10753",
-        "10754",
-        "53780",
-        "10758",
-        "10761",
-        "10693",
-        "10748"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "10680",
-          "name": "Dale St & Grand Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "10681",
-          "name": "Dale St & Summit Ave / Portland Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "10684",
-          "name": "Dale St & Holly Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "10685",
-          "name": "Dale St & Selby Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "10688",
-          "name": "Dale St & Marshall Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "10689",
-          "name": "Dale St & Iglehart Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "10691",
-          "name": "Dale St & Rondo Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "10752",
-          "name": "Dale St & Carroll Ave",
-          "direction": "southbound"
-        },
-        {
-          "id": "10753",
-          "name": "Dale St & Iglehart Ave",
-          "direction": "southbound"
-        },
-        {
-          "id": "10754",
-          "name": "Dale St & Marshall Ave",
-          "direction": "southbound"
-        },
-        {
-          "id": "53780",
-          "name": "Dale St N & Selby Ave",
-          "direction": "southbound"
-        },
-        {
-          "id": "10758",
-          "name": "Dale St & Ashland Ave",
-          "direction": "southbound"
-        },
-        {
-          "id": "10761",
-          "name": "Summit Ave & Dale St",
-          "direction": "eastbound"
-        },
-        {
-          "id": "10693"
-        },
-        {
-          "id": "10748"
-        }
-      ],
-      "riderAlternative": "Board at: Summit Ave & Dale St - Stop #10761 (eastbound); Temporary stop on Kent St & Selby Ave (northbound); Temporary stop on Kent St & Marshall Ave (northbound)",
-      "detourDetails": "Southbound buses will travel the regular route on Dale St to Rondo Ave, left on Rondo Ave, right on Arundel St, right on Marshall Ave, left on Kent St, right on Summit Ave, left on Oakland Ave, right on Grand Ave, right on Dale St, right on Summit Ave and layover on eastbound Summit Ave just past Dale St.",
-      "activePeriod": {
-        "start": "2026-06-26T14:58:00.000Z",
-        "end": "2026-09-15T10:00:00.000Z",
-        "textDescription": "Beginning Mon May 18 at 7:00 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "OTHER_EFFECT",
-      "url": "https://www.metrotransit.org/route/65",
-      "updatedAt": "2026-09-15T05:00:01.000Z",
-      "rawHeader": "Route 65 detoured off Dale St from Rondo Ave to Grand Ave beginning Mon May 18 at 7:00 AM until further notice due to construction",
-      "rawDescription": "Updated get on/off stops 6/10 10:30 am.\r\n\nFor northbound Route 65 get on/off buses at:\r\nSummit Ave & Dale St - Stop #10761 (eastbound)\r\nTemporary stop on Kent St & Selby Ave (northbound)\r\nTemporary stop on Kent St & Marshall Ave (northbound)\r\nDale St & Fuller Ave - Stop #10693 (northbound)\r\n\nFor southbound Route 65 get on/off buses at:\r\nDale St & Fuller Ave - Stop #10748 (southbound)\r\nTemporary stop on Marshall Ave & Kent St (westbound)\r\nTemporary stop on Kent St & Selby Ave (southbound)\r\nSummit Ave & Dale St - Stop #10761 (eastbound)\r\n\nNorthbound buses will depart the temporary terminal on eastbound Summit Ave just past Dale St, continue on Summit Ave, left on Kent St, right on Marshall Ave, left on Arundel St, right on Concordia Ave, left on Western Ave, left on St Anthony Ave, right on Dale St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Dale St to Rondo Ave, left on Rondo Ave, right on Arundel St, right on Marshall Ave, left on Kent St, right on Summit Ave, left on Oakland Ave, right on Grand Ave, right on Dale St, right on Summit Ave and layover on eastbound Summit Ave just past Dale St.\r\n\nAffected stops:\r\nDale St & Grand Ave - Stop #10680 (northbound)\r\nDale St & Summit Ave / Portland Ave - Stop #10681 (northbound)\r\nDale St & Holly Ave - Stop #10684 (northbound)\r\nDale St & Selby Ave - Stop #10685 (northbound)\r\nDale St & Marshall Ave - Stop #10688 (northbound)\r\nDale St & Iglehart Ave - Stop #10689 (northbound)\r\nDale St & Rondo Ave - Stop #10691 (northbound)\r\nDale St & Carroll Ave - Stop #10752 (southbound)\r\nDale St & Iglehart Ave - Stop #10753 (southbound)\r\nDale St & Marshall Ave - Stop #10754 (southbound)\r\nDale St N & Selby Ave - Stop #53780 (southbound)\r\nDale St & Ashland Ave - Stop #10758 (southbound)\r\nSummit Ave & Dale St - Stop #10761 (eastbound)"
-    },
-    {
       "id": "52682",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -5897,7 +5776,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/65",
-      "updatedAt": "2026-09-15T05:00:01.000Z",
+      "updatedAt": "2026-09-15T09:30:01.000Z",
       "rawHeader": "Route 65 detoured off Dale St from Rondo Ave to Grand Ave beginning Tue Sep 15 at 5:00 AM until further notice due to construction",
       "rawDescription": "For northbound Route 65 get on/off buses at:\r\nTemporary stop on Kent St & Portland Ave (northbound)\r\nTemporary stop on Kent St & Selby Ave (northbound)\r\nTemporary stop on Kent St & Marshall Ave (northbound)\r\nDale St & Fuller Ave - Stop #10693 (northbound)\r\n\nFor southbound Route 65 get on/off buses at:\r\nDale St & Fuller Ave - Stop #10748 (southbound)\r\nTemporary stop on Marshall Ave & Kent St (westbound)\r\nTemporary stop on Kent St & Selby Ave (southbound)\r\n\nNorthbound buses will depart the temporary terminal on westbound Summit Ave between Mackubin St and Kent St and continue on Summit to Kent St, right on Kent, right on Marshall Ave, left on Arundel St, right on Concordia Ave, left on Western Ave, left on St Anthony Ave, right on Dale St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Dale St to Rondo Ave, left on Rondo Ave, right on Arundel St, right on Marshall Ave, left on Kent St, left on Holly Ave, right on Mackubin St, right on Summit Ave and layover on westbound Summit Ave between Mackubin St and Kent St.\r\n\nAffected stops:\r\nDale St & Grand Ave - Stop #10680 (northbound)\r\nDale St & Summit Ave / Portland Ave - Stop #10681 (northbound)\r\nDale St & Holly Ave - Stop #10684 (northbound)\r\nDale St & Selby Ave - Stop #10685 (northbound)\r\nDale St & Marshall Ave - Stop #10688 (northbound)\r\nDale St & Iglehart Ave - Stop #10689 (northbound)\r\nDale St & Rondo Ave - Stop #10691 (northbound)\r\nDale St & Carroll Ave - Stop #10752 (southbound)\r\nDale St & Iglehart Ave - Stop #10753 (southbound)\r\nDale St & Marshall Ave - Stop #10754 (southbound)\r\nDale St N & Selby Ave - Stop #53780 (southbound)\r\nDale St & Ashland Ave - Stop #10758 (southbound)\r\nSummit Ave & Dale St - Stop #10761 (eastbound)"
     },
