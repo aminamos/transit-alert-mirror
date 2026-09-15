@@ -4,72 +4,9 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Mon, 14 Sep 2026 21:25:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:14:25 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
-    <item>
-      <title>[Critical] METRO B Line: Eastbound 2:11 PM Trip Canceled (Lake St W &amp; France Ave S)</title>
-      <link>https://www.metrotransit.org/route/bline</link>
-      <guid isPermaLink="false">Metro Transit-52810-2026-09-14T21:21:02.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 21:21:02 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO B Line</category>
-      <description>Eastbound B Line trip departing Lake St W &amp; France Ave S at 2:11 PM canceled today due to traffic</description>
-    </item>
-    <item>
-      <title>[Critical] METRO D Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-52813-2026-09-14T19:53:45.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 19:53:45 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 2:58 PM will start from Penn &amp; 44th. Previous stops missed due to police activity</description>
-    </item>
-    <item>
-      <title>[Critical] METRO Orange Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/orange</link>
-      <guid isPermaLink="false">Metro Transit-52817-2026-09-14T20:11:16.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 20:11:16 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO Orange Line</category>
-      <description>Southbound Orange Line trip departing Marquette Ave &amp; 3rd St at 3:12 PM will start from I-35W &amp; 46th St Station. Previous stops missed due to traffic</description>
-    </item>
-    <item>
-      <title>[Critical] Route 2, Route 2C: Eastbound 3:41 PM Trip Canceled (Franklin Ave W &amp; Hennepin Ave S)</title>
-      <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-52822-2026-09-14T21:13:09.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 21:13:09 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 2, Route 2C</category>
-      <description>Eastbound Route 2C trip departing Franklin Ave W &amp; Hennepin Ave S at 3:41 PM canceled today due to traffic</description>
-    </item>
-    <item>
-      <title>[Critical] Route 17: Westbound 3:28 PM Trip Canceled (Central Ave NE &amp; 26th Ave NE)</title>
-      <link>https://www.metrotransit.org/route/17</link>
-      <guid isPermaLink="false">Metro Transit-52818-2026-09-14T20:14:44.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 20:14:44 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 17</category>
-      <description>Westbound Route 17 trip departing Central Ave NE &amp; 26th Ave NE at 3:28 PM canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 18: Southbound 3:05 PM Trip Canceled (4th Ave S &amp; 3rd St S)</title>
-      <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-52815-2026-09-14T20:07:12.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 20:07:12 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 18</category>
-      <description>Southbound Route 18 trip departing 4th Ave S &amp; 3rd St S at 3:05 PM canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 64: Westbound 3:33 PM Trip Canceled (Maplewood Mall Transit Center &amp; Gate D/E)</title>
-      <link>https://www.metrotransit.org/route/64</link>
-      <guid isPermaLink="false">Metro Transit-52821-2026-09-14T20:46:13.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 20:46:13 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 64</category>
-      <description>Westbound Route 64 trip departing Maplewood Mall Transit Center &amp; Gate D/E at 3:33 PM canceled today due to mechanical issue</description>
-    </item>
     <item>
       <title>[Critical] Route 71: Service Canceled</title>
       <link>https://www.metrotransit.org/route/71</link>
@@ -96,24 +33,6 @@
       <category>Critical</category>
       <category>Route 219</category>
       <description>Route 219 trip departing Maplewood Mall Transit Center &amp; Gate A at 3:42 PM and three other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 540: 3:55 PM Trip Canceled (MOA Transit Station Gate G)</title>
-      <link>https://www.metrotransit.org/route/540</link>
-      <guid isPermaLink="false">Metro Transit-52819-2026-09-14T20:26:56.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 20:26:56 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 540</category>
-      <description>Route 540 trip departing MOA Transit Station Gate G at 3:55 PM canceled today due to maintenance work</description>
-    </item>
-    <item>
-      <title>[Critical] Route 542: Eastbound 4:29 PM Trip Canceled (American Blvd &amp; Social Security Admin)</title>
-      <link>https://www.metrotransit.org/route/542</link>
-      <guid isPermaLink="false">Metro Transit-52820-2026-09-14T20:59:01.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 20:59:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 542</category>
-      <description>Eastbound Route 542 trip departing American Blvd &amp; Social Security Admin at 4:29 PM canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
