@@ -2,35 +2,101 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-122-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-118-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-123-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-116-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-86-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-85-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-15T15:31:38.756Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-15T19:30:04.035Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (3) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (2) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 781** (1) • **Route 785** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
+**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (4) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (5) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (2) • **Route 724** (1) • **Route 725** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (2) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO Orange Line: Service Advisory
+### 🚨 Route 68: Southbound 1:25 PM Trip Canceled (Jackson St & 14th St)
 
-- **Affected Routes**: `METRO Orange Line`
-- **Direction**: Northbound
+- **Affected Routes**: `Route 68`
+- **Direction**: Southbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #56828, Stop #56829, Stop #56830, Stop #56831, Stop #51110, Stop #48084
 
-**Summary**: Northbound Orange Line trip departing Burnsville HoC Station at 9:05 AM will start from I35W & 46th St Station. Previous stops missed due to traffic
+**Summary**: Southbound Route 68 trip departing Jackson St & 14th St at 1:25 PM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/orange)
+[Official Agency Advisory](https://www.metrotransit.org/route/68)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound Orange Line trip departing Burnsville HoC Station at 9:05 AM will start from I35W & 46th St Station. Previous stops missed due to traffic
+**Header**: Southbound Route 68 trip departing Jackson St & 14th St at 1:25 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 223: Service Canceled
+
+- **Affected Routes**: `Route 223`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 223 trip departing Maplewood Mall Transit Center & Gate A at 6:11 PM and two other trips canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/223)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 223 trip departing Maplewood Mall Transit Center & Gate A at 6:11 PM and two other trips canceled today due to traffic
+
+```text
+Affected eastbound trips:
+departing Rosedale Transit Center Gate F at 6:46 PM
+
+Affected westbound trips:
+departing Maplewood Mall Transit Center & Gate A at 6:11 PM
+departing Maplewood Mall Transit Center & Gate A at 7:41 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 725: Service Canceled
+
+- **Affected Routes**: `Route 725`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 725 trips departing 5th St NW & 1st Ave N
+
+**Summary**: Route 725 trips departing 5th St NW & 1st Ave NW at 8:26 PM and departing Northtown Transit Ctr Gate D at 9:15 PM canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/725)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 725 trips departing 5th St NW & 1st Ave NW at 8:26 PM and departing Northtown Transit Ctr Gate D at 9:15 PM canceled today due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 801: Service Canceled
+
+- **Affected Routes**: `Route 801`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 801 trip departing Rosedale Transit Center Gate B at 12:21 PM and six other trips canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/801)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 801 trip departing Rosedale Transit Center Gate B at 12:21 PM and six other trips canceled today due to maintenance work
 
 </details>
 
@@ -96,16 +162,18 @@ Snelling & St Clair Station - Stop #17318 (southbound)
 **Header**: METRO A Line detoured off Ford Pkwy from Fairview Ave to Davern St until further notice due to sewer work
 
 ```text
-Get on/off buses at:
+Update: added southbound detour 9/15 12 pm.
+
+Get on/off northbound buses at:
 Ford & Kenneth Station - Stop #4283 (eastbound)
 Temporary stop on Ford Pkwy just before Fairview Ave (eastbound)
 Snelling & Highland Station - Stop #56114 (northbound)
 
+No southbound stations missed.
+
 Northbound buses will travel regular route on Ford Pkwy to Fairview Ave, right on Fairview, left on Hillcrest Ave, left on Davern St, right on Ford Pkwy, and resume regular route.
 
-Southbound buses will travel regular route.
-
-Affected direction: Northbound
+Southbound buses will travel regular route on Ford Pkwy to Davern St, right on Davern, left on Pinehurst Ave, left on Fairview Ave, right on Ford Pkwy, and resume regular route.
 
 Affected stops:
 Ford & Fairview Station - Stop #56113 (eastbound)
@@ -1108,57 +1176,6 @@ Main St NE & 35th Ave NE - Stop #14614 (northbound)
 - **Affected Routes**: `Route 11`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Schedule**: Beginning Wed Aug 5 at 4:00 AM until further notice
-- **Corridors & Intersections**: 3rd Ave S & 25th St E; 24th St E & 3rd Ave S; Nicollet Ave S & 24th St E; Nicollet Ave S & Franklin Ave W; Nicollet Ave S & 18th St E
-- **Closed Stops**: Stop #17762, Stop #1900, Stop #1905, Stop #1911, Stop #1914, Stop #1920, Stop #17763, Stop #17764 *(+4 more)*
-
-**Summary**: Northbound Route 11 detoured off 3rd Ave from 24th St to 19th St beginning Wed Aug 5 at 4:00 AM until further notice due to construction. Board at: 3rd Ave S & 25th St E - Stop #17762 (northbound); Temporary stop on 24th St E & 3rd Ave S (westbound); Nicollet Ave S & 24th St E - Stop #1900 (northbound).
-
-> 💡 **Rider Action**: Board at: 3rd Ave S & 25th St E - Stop #17762 (northbound); Temporary stop on 24th St E & 3rd Ave S (westbound); Nicollet Ave S & 24th St E - Stop #1900 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on 3rd Ave to 24th St, left on 24th St, right on Nicollet Ave, continue on Nicollet Ave to 15th St and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/11)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 11 detoured off 3rd Ave from 24th St to 19th St beginning Wed Aug 5 at 4:00 AM until further notice due to construction
-
-```text
-Update 9/8 9:25am: detour routing, get on/off stops, and affected stops.
-
-Get on/off northbound buses at:
-3rd Ave S & 25th St E - Stop #17762 (northbound)
-Temporary stop on 24th St E & 3rd Ave S (westbound)
-Nicollet Ave S & 24th St E - Stop #1900 (northbound)
-Nicollet Ave S & Franklin Ave W - Stop #1905 (northbound)
-Nicollet Ave S & 18th St E - Stop #1911 (northbound)
-Nicollet Ave S & 16th St E - Stop #1914 (northbound)
-Nicollet Ave S & 14th St / Grant St - Stop #1920 (northbound)
-
-Northbound buses will travel regular route on 3rd Ave to 24th St, left on 24th St, right on Nicollet Ave, continue on Nicollet Ave to 15th St and resume regular route.
-
-Southbound buses will travel regular route.
-
-Affected stops:
-3rd Ave S & 24th St E - Stop #17763 (northbound)
-3rd Ave S & 22nd St E - Stop #17764 (northbound)
-3rd Ave S & Franklin Ave E - Stop #17765 (northbound)
-3rd Ave S & Franklin Ave / 19th St E - Stop #17766 (northbound)
-3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound)
-16th St E & 3rd Ave S - Stop #53463 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 11: Detour via 3rd Ave S & 25th St E
-
-- **Affected Routes**: `Route 11`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
 - **Corridors & Intersections**: 3rd Ave S & 25th St E; Nicollet Ave S & 16th St E; 2nd Ave S & 9th St; 2nd Ave S & 7th St; 2nd Ave S & 5th St
 - **Closed Stops**: Nicollet Ave S & 14th St / Grant St E (Stop #1920), Nicollet Mall & Alice Rainville Pl (Stop #17988), Nicollet Mall & 11th St S (Stop #17990), Nicollet Mall & 9th St S (Stop #17992), Nicollet Mall & 7th St S (Stop #17994), Nicollet Mall & 5th St S (Stop #17996), Nicollet Mall & 3rd St S (Stop #17998), Nicollet Mall & 3rd St (Stop #17976) *(+21 more)*
 
@@ -1266,6 +1283,55 @@ Nicollet Mall & Alice Rainville Place - Stop #17986 (southbound)
 Nicollet Ave S & Grant St E - Stop #1197 (southbound)
 15th St E & 1st Ave S - Stop #53461 (eastbound)
 16th St E & 3rd Ave S - Stop #53462 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 11: Detour via 3rd Ave S & 25th St E
+
+- **Affected Routes**: `Route 11`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Wed Aug 5 at 4:00 AM until further notice
+- **Corridors & Intersections**: 3rd Ave S & 25th St E; 24th St E & 3rd Ave S; Nicollet Ave S & 24th St E; Nicollet Ave S & Franklin Ave W; Nicollet Ave S & 18th St E
+- **Closed Stops**: 3rd Ave S & 24th St E (Stop #17763), 3rd Ave S & 22nd St E (Stop #17764), 3rd Ave S & Franklin Ave E (Stop #17765), 3rd Ave S & Franklin Ave / 19th St E (Stop #17766), 3rd Ave S & 18th St / 17th St E (Stop #17768), 16th St E & 3rd Ave S (Stop #53463), Stop #17762, Stop #1900 *(+4 more)*
+
+**Summary**: Route 11 detoured off 3rd Ave from 24th St to 19th St beginning Wed Aug 5 at 4:00 AM until further notice due to construction. Board at: 3rd Ave S & 25th St E - Stop #17762 (northbound); Temporary stop on 24th St E & 3rd Ave S (westbound); Nicollet Ave S & 24th St E - Stop #1900 (northbound).
+
+> 💡 **Rider Action**: Board at: 3rd Ave S & 25th St E - Stop #17762 (northbound); Temporary stop on 24th St E & 3rd Ave S (westbound); Nicollet Ave S & 24th St E - Stop #1900 (northbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route on 3rd Ave to 24th St, left on 24th St, right on Nicollet Ave, continue on Nicollet Ave to 15th St and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/11)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 11 detoured off 3rd Ave from 24th St to 19th St beginning Wed Aug 5 at 4:00 AM until further notice due to construction
+
+```text
+Get on/off northbound buses at:
+3rd Ave S & 25th St E - Stop #17762 (northbound)
+Temporary stop on 24th St E & 3rd Ave S (westbound)
+Nicollet Ave S & 24th St E - Stop #1900 (northbound)
+Nicollet Ave S & Franklin Ave W - Stop #1905 (northbound)
+Nicollet Ave S & 18th St E - Stop #1911 (northbound)
+Nicollet Ave S & 16th St E - Stop #1914 (northbound)
+Nicollet Ave S & 14th St / Grant St - Stop #1920 (northbound)
+
+Northbound buses will travel regular route on 3rd Ave to 24th St, left on 24th St, right on Nicollet Ave, continue on Nicollet Ave to 15th St and resume regular route.
+
+Southbound buses will travel regular route.
+
+Affected stops:
+3rd Ave S & 24th St E - Stop #17763 (northbound)
+3rd Ave S & 22nd St E - Stop #17764 (northbound)
+3rd Ave S & Franklin Ave E - Stop #17765 (northbound)
+3rd Ave S & Franklin Ave / 19th St E - Stop #17766 (northbound)
+3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound)
+16th St E & 3rd Ave S - Stop #53463 (westbound)
 ```
 
 </details>
@@ -1696,22 +1762,20 @@ Nicollet Ave S & 68th St E - Stop #1445 (northbound)
 
 ---
 
-### ⚠️ Route 18: Detour via Nicollet Ave & 77th St
+### ⚠️ Route 18: Detour via 18 buses departing 2nd Ave & American Blvd
 
 - **Affected Routes**: `Route 18`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Wed Sep 9 at 4:00 AM until further notice
-- **Corridors & Intersections**: Nicollet Ave & 77th St; Nicollet Ave S & 66th St E; Nicollet Ave S & 69th St W; Nicollet Ave S & 78th St W; left on Nicollet Ave & resume regular route.
+- **Corridors & Intersections**: 18 buses departing 2nd Ave & American Blvd; Nicollet Ave & 77th St; Nicollet Ave S & 66th St E; Nicollet Ave S & 69th St W; Nicollet Ave S & 78th St W
+- **Closed Stops**: Stop #51852, Stop #1436, Stop #56922, Stop #1754, Stop #1352, Stop #1361
 
-Affected st
-- **Closed Stops**: Stop #1436, Stop #56922, Stop #1754, Stop #1352, Stop #1361
+**Summary**: Route 18 detoured off Nicollet Ave from 66th St to 77th St beginning Wed Sep 9 at 4:00 AM until further notice due to construction. Board at: 2nd Ave S Loop & American Blvd - Stop #51852 (18 buses departing 2nd Ave/American Blvd only); Nicollet Ave & 77th St - Stop #1436 (northbound); Portland & 77th St Station - Stop #620 (northbound).
 
-**Summary**: Route 18 detoured off Nicollet Ave from 66th St to 77th St beginning Wed Sep 9 at 4:00 AM until further notice due to construction. Board at: Nicollet Ave & 77th St - Stop #1436 (northbound); Portland & 77th St Station - Stop #620 (northbound); Portland & 73rd St Station - Stop #56922 (northbound).
+> 💡 **Rider Action**: Board at: 2nd Ave S Loop & American Blvd - Stop #51852 (18 buses departing 2nd Ave/American Blvd only); Nicollet Ave & 77th St - Stop #1436 (northbound); Portland & 77th St Station - Stop #620 (northbound)
 
-> 💡 **Rider Action**: Board at: Nicollet Ave & 77th St - Stop #1436 (northbound); Portland & 77th St Station - Stop #620 (northbound); Portland & 73rd St Station - Stop #56922 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on Nicollet Ave to 77th St, right on 77th St, left on Portland Ave, left on 66th St, right on Nicollet Ave and resume regular route.
+> 🔄 **Detour Path**: buses will travel regular route on Nicollet Ave to 70th St, left on 70th St, right on Portland Ave, right on 77th St, left on Nicollet Ave and resume regular route.
 
 [Official Agency Advisory](https://www.metrotransit.org/route/18)
 
@@ -1722,6 +1786,7 @@ Affected st
 
 ```text
 For northbound Route 18 get on/off buses at:
+2nd Ave S Loop & American Blvd - Stop #51852 (18 buses departing 2nd Ave/American Blvd only)
 Nicollet Ave & 77th St - Stop #1436 (northbound)
 Portland & 77th St Station - Stop #620 (northbound)
 Portland & 73rd St Station - Stop #56922 (northbound)
@@ -1733,10 +1798,15 @@ For southbound Route 18 get on/off buses at:
 Nicollet Ave S & 69th St W - Stop #1352 (southbound)
 Portland & 73rd St Station - Stop #444 (southbound)
 Nicollet Ave S & 78th St W - Stop #1361 (southbound)
+2nd Ave S Loop & American Blvd - Stop #51852 (18D only)
 
-Northbound buses will travel regular route on Nicollet Ave to 77th St, right on 77th St, left on Portland Ave, left on 66th St, right on Nicollet Ave and resume regular route.
+Northbound buses that depart 104th St/Bloomington Frwy will travel regular route on Nicollet Ave to 77th St, right on 77th St, left on Portland Ave, left on 66th St, right on Nicollet Ave and resume regular route.
 
-Southbound buses will travel regular route on Nicollet Ave to 70th St, left on 70th St, right on Portland Ave, right on 77th St, left on Nicollet Ave and resume regular route.
+Northbound buses that depart 2nd Ave/American Blvd will travel regular route on 2nd Ave to American Blvd, right on American Blvd, right on Nicollet Ave, right on 77th St, left on Portland Ave, left on 66th St, right on Nicollet Ave, and resume regular route.
+
+Southbound 18E buses will travel regular route on Nicollet Ave to 70th St, left on 70th St, right on Portland Ave, right on 77th St, left on Nicollet Ave and resume regular route.
+
+Southbound 18D buses will travel regular route on Nicollet Ave to 70th St, left on 70th St, right on Portland Ave, right on 77th St, left on Nicollet Ave, left on American Blvd, left on 2nd Ave, left into turnaround and layover.
 
 Affected stops:
 All northbound stops on Nicollet Ave from 78th St to 67th St
@@ -2942,6 +3012,44 @@ Wabasha St & Congress St - Stop #299 (southbound)
 
 ---
 
+### ⚠️ Route 62: Detour via Rice St & Orange Ave
+
+- **Affected Routes**: `Route 62`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Rice St & Orange Ave; Galtier St & Cook Ave W; Rice St & Maryland Ave
+- **Closed Stops**: Rice St & Maryland Ave (Stop #10471), Stop #10470, Stop #80929
+
+**Summary**: Southbound Route 62 detoured off Maryland until later today due to road conditions. Board at: Rice St & Orange Ave - Stop #10470 (southbound); Galtier St & Cook Ave W - Stop #80929 (southbound).
+
+> 💡 **Rider Action**: Board at: Rice St & Orange Ave - Stop #10470 (southbound); Galtier St & Cook Ave W - Stop #80929 (southbound)
+
+> 🔄 **Detour Path**: Southbound buses will travel south on Rice to Orange, right on Orange, left on Galtier, continue on Galtier to Maryland and resume regular route
+
+[Official Agency Advisory](https://www.metrotransit.org/route/62)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 62 detoured off Maryland until later today due to road conditions
+
+```text
+Get on/off buses at:
+Rice St & Orange Ave - Stop #10470 (southbound)
+Galtier St & Cook Ave W - Stop #80929 (southbound)
+
+Southbound buses will travel south on Rice to Orange, right on Orange, left on Galtier, continue on Galtier to Maryland and resume regular route
+
+Northbound buses not affected
+
+Affected stops:
+Rice St & Maryland Ave - Stop #10471 (southbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 63: Stop Closed at Grand Ave & Victoria St
 
 - **Affected Routes**: `Route 63`
@@ -3401,47 +3509,6 @@ Dale St & Marshall Ave - Stop #10754 (southbound)
 Dale St N & Selby Ave - Stop #53780 (southbound)
 Dale St & Ashland Ave - Stop #10758 (southbound)
 Summit Ave & Dale St - Stop #10761 (eastbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 67: Detour via Franklin Ave E & 22nd Ave S
-
-- **Affected Routes**: `Route 67`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Sun Apr 12 at 4:00 AM until further notice
-- **Corridors & Intersections**: Franklin Ave E & 22nd Ave S; Franklin Ave E & Cedar Ave; Franklin Ave E & Franklin St; Franklin Ave (22nd Ave S to Franklin Ave Station)
-- **Closed Stops**: Franklin Ave E & Cedar Ave (Stop #13279), Franklin Ave E & Franklin Station (Stop #51533), Stop #13267
-
-**Summary**: Route 67 detoured off Franklin Ave from 22nd Ave S to Franklin Ave Station beginning Sun Apr 12 at 4:00 AM until further notice due to construction. Board at: Franklin Ave E & 22nd Ave S - Stop #13267 (westbound).
-
-> 💡 **Rider Action**: Board at: Franklin Ave E & 22nd Ave S - Stop #13267 (westbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/67)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 67 detoured off Franklin Ave from 22nd Ave S to Franklin Ave Station beginning Sun Apr 12 at 4:00 AM until further notice due to construction
-
-```text
-Get on/off buses at:
-Franklin Ave E & 22nd Ave S - Stop #13267 (westbound)
-
-Eastbound buses will travel regular route.
-
-Westbound buses will travel regular route on Franklin Ave to 22nd Ave S, and layover.
-
-Affected direction: Westbound
-
-Affected stops:
-Franklin Ave E & Cedar Ave - Stop #13279 (westbound)
-Franklin Ave E & Franklin Station - Stop #51533 (westbound)
 ```
 
 </details>
@@ -5064,81 +5131,6 @@ Southbound buses will travel regular route.
 
 Affected stops:
 3rd St N & 1st Ave N - Stop #17960 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 781: Detour via 2nd Ave S & 10th St
-
-- **Affected Routes**: `Route 781`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Apr 27 at 5:00 AM until further notice
-- **Corridors & Intersections**: 2nd Ave S & 10th St; Marquette Ave & 10th St; 16th St & 1st Ave; 16th St E (1st Ave S to 3rd Ave S and off 3rd Ave S from 16th St E to 12 St S)
-- **Closed Stops**: 16th St & 1st Ave / 3rd Ave S (Stop #53218), Stop #53319, Stop #53305
-
-**Summary**: Route 781 detoured off 16th St E from 1st Ave S to 3rd Ave S and off 3rd Ave S from 16th St E to 12 St S beginning Mon Apr 27 at 5:00 AM until further notice. Board at: 2nd Ave S & 10th St - Stop Group H - Stop #53319 (northbound).
-
-> 💡 **Rider Action**: Board at: 2nd Ave S & 10th St - Stop Group H - Stop #53319 (northbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/781)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 781 detoured off 16th St E from 1st Ave S to 3rd Ave S and off 3rd Ave S from 16th St E to 12 St S beginning Mon Apr 27 at 5:00 AM until further notice
-
-```text
-Updated 4/24 at 9:00 AM to reflect change to southbound detour.
-
-For northbound Route 781 get on/off buses at:
-2nd Ave S & 10th St - Stop Group H - Stop #53319 (northbound)
-
-For southbound Route 781 get on/off buses at:
-Marquette Ave & 10th St - Stop Group D - Stop #53305 (southbound)
-
-Northbound buses will depart a temporary terminal from the 7th St Transit Center, exit the garage right on 8th St N, right on Lasalle, left on 12th St S, left on 2nd Ave S, and resume the regular route.
-Southbound buses are not affected.
-
-Affected stops:
-16th St & 1st Ave / 3rd Ave S - Stop #53218 (eastbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 785: Detour via 2nd Ave S & 10th St
-
-- **Affected Routes**: `Route 785`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Apr 27 at 4:00 AM until further notice
-- **Corridors & Intersections**: 2nd Ave S & 10th St; 16th St & 1st Ave; 16th St E (1st Ave S to 3rd Ave S and off 3rd Ave S from 16th St E to 12 St S)
-- **Closed Stops**: 16th St & 1st Ave / 3rd Ave S (Stop #53218), Stop #53319
-
-**Summary**: Route 785 detoured off 16th St E from 1st Ave S to 3rd Ave S and off 3rd Ave S from 16th St E to 12 St S beginning Mon Apr 27 at 4:00 AM until further notice. Board at: 2nd Ave S & 10th St - Stop Group H - Stop #53319 (northbound).
-
-> 💡 **Rider Action**: Board at: 2nd Ave S & 10th St - Stop Group H - Stop #53319 (northbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/785)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 785 detoured off 16th St E from 1st Ave S to 3rd Ave S and off 3rd Ave S from 16th St E to 12 St S beginning Mon Apr 27 at 4:00 AM until further notice
-
-```text
-Get on/off buses at:
-2nd Ave S & 10th St - Stop Group H - Stop #53319 (northbound)
-
-Northbound buses will depart a temporary terminal from the 7th St Transit Center, exit the garage right on 8th St N, right on Lasalle, left on 12th St S, left on 2nd Ave S, and resume the regular route.
-Southbound buses are not affected.
-
-Affected stops:
-16th St & 1st Ave / 3rd Ave S - Stop #53218 (eastbound)
 ```
 
 </details>

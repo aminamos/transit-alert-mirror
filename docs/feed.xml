@@ -4,17 +4,44 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Tue, 15 Sep 2026 15:31:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 19:30:04 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO Orange Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/orange</link>
-      <guid isPermaLink="false">Metro Transit-52836-2026-09-15T14:09:47.000Z</guid>
-      <pubDate>Tue, 15 Sep 2026 14:09:47 GMT</pubDate>
+      <title>[Critical] Route 68: Southbound 1:25 PM Trip Canceled (Jackson St &amp; 14th St)</title>
+      <link>https://www.metrotransit.org/route/68</link>
+      <guid isPermaLink="false">Metro Transit-52844-2026-09-15T18:34:52.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 18:34:52 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO Orange Line</category>
-      <description>Northbound Orange Line trip departing Burnsville HoC Station at 9:05 AM will start from I35W &amp; 46th St Station. Previous stops missed due to traffic</description>
+      <category>Route 68</category>
+      <description>Southbound Route 68 trip departing Jackson St &amp; 14th St at 1:25 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 223: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/223</link>
+      <guid isPermaLink="false">Metro Transit-52840-2026-09-15T16:39:58.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 16:39:58 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 223</category>
+      <description>Route 223 trip departing Maplewood Mall Transit Center &amp; Gate A at 6:11 PM and two other trips canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 725: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/725</link>
+      <guid isPermaLink="false">Metro Transit-52841-2026-09-15T16:40:28.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 16:40:28 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 725</category>
+      <description>Route 725 trips departing 5th St NW &amp; 1st Ave NW at 8:26 PM and departing Northtown Transit Ctr Gate D at 9:15 PM canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 801: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/801</link>
+      <guid isPermaLink="false">Metro Transit-52838-2026-09-15T16:51:01.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 16:51:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 801</category>
+      <description>Route 801 trip departing Rosedale Transit Center Gate B at 12:21 PM and six other trips canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
@@ -28,8 +55,8 @@
     <item>
       <title>[Moderate] METRO A Line: Detour via Ford Pkwy (Fairview Ave to Davern St)</title>
       <link>https://www.metrotransit.org/route/aline</link>
-      <guid isPermaLink="false">Metro Transit-52784-2026-09-14T14:21:19.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 14:21:19 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52784-2026-09-15T16:59:17.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 16:59:17 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO A Line</category>
       <description>METRO A Line detoured off Ford Pkwy from Fairview Ave to Davern St until further notice due to sewer work. Board at: Ford &amp; Kenneth Station - Stop #4283 (eastbound); Temporary stop on Ford Pkwy just before Fairview Ave (eastbound); Snelling &amp; Highland Station - Stop #56114 (northbound). | Action: Board at: Ford &amp; Kenneth Station - Stop #4283 (eastbound); Temporary stop on Ford Pkwy just before Fairview Ave (eastbound); Snelling &amp; Highland Station - Stop #56114 (northbound)</description>
@@ -237,15 +264,6 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 11: Detour via 3rd Ave S &amp; 25th St E</title>
       <link>https://www.metrotransit.org/route/11</link>
-      <guid isPermaLink="false">Metro Transit-51440-2026-09-08T17:30:51.000Z</guid>
-      <pubDate>Tue, 08 Sep 2026 17:30:51 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 11</category>
-      <description>Northbound Route 11 detoured off 3rd Ave from 24th St to 19th St beginning Wed Aug 5 at 4:00 AM until further notice due to construction. Board at: 3rd Ave S &amp; 25th St E - Stop #17762 (northbound); Temporary stop on 24th St E &amp; 3rd Ave S (westbound); Nicollet Ave S &amp; 24th St E - Stop #1900 (northbound). | Action: Board at: 3rd Ave S &amp; 25th St E - Stop #17762 (northbound); Temporary stop on 24th St E &amp; 3rd Ave S (westbound); Nicollet Ave S &amp; 24th St E - Stop #1900 (northbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 11: Detour via 3rd Ave S &amp; 25th St E</title>
-      <link>https://www.metrotransit.org/route/11</link>
       <guid isPermaLink="false">Metro Transit-52603-2026-09-14T12:00:01.000Z</guid>
       <pubDate>Mon, 14 Sep 2026 12:00:01 GMT</pubDate>
       <category>Moderate</category>
@@ -260,6 +278,15 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 11</category>
       <description>Route 11 detoured off Nicollet Mall from Washington Ave to 16th St from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: Hennepin Ave &amp; 1st St N - Stop #17917 (southbound); Marquette Ave &amp; 3rd St - Stop Group B - Stop #53292 (southbound); Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound). | Action: Board at: Hennepin Ave &amp; 1st St N - Stop #17917 (southbound); Marquette Ave &amp; 3rd St - Stop Group B - Stop #53292 (southbound); Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 11: Detour via 3rd Ave S &amp; 25th St E</title>
+      <link>https://www.metrotransit.org/route/11</link>
+      <guid isPermaLink="false">Metro Transit-52843-2026-09-15T18:09:43.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 18:09:43 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 11</category>
+      <description>Route 11 detoured off 3rd Ave from 24th St to 19th St beginning Wed Aug 5 at 4:00 AM until further notice due to construction. Board at: 3rd Ave S &amp; 25th St E - Stop #17762 (northbound); Temporary stop on 24th St E &amp; 3rd Ave S (westbound); Nicollet Ave S &amp; 24th St E - Stop #1900 (northbound). | Action: Board at: 3rd Ave S &amp; 25th St E - Stop #17762 (northbound); Temporary stop on 24th St E &amp; 3rd Ave S (westbound); Nicollet Ave S &amp; 24th St E - Stop #1900 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 14, Route 5: Stop Closed at Selected Stop</title>
@@ -354,13 +381,13 @@ Affected st</title>
       <description>Nicollet Ave S &amp; 69th St E - Stop #1444 (northbound) is closed for Route 18 until further notice. Board at: Portland &amp; 73rd St Station - Stop #56922 (northbound); Nicollet Ave S &amp; 68th St E - Stop #1445 (northbound). | Action: Board at: Portland &amp; 73rd St Station - Stop #56922 (northbound); Nicollet Ave S &amp; 68th St E - Stop #1445 (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 18: Detour via Nicollet Ave &amp; 77th St</title>
+      <title>[Moderate] Route 18: Detour via 18 buses departing 2nd Ave &amp; American Blvd</title>
       <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-52560-2026-09-09T08:30:01.000Z</guid>
-      <pubDate>Wed, 09 Sep 2026 08:30:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52560-2026-09-15T16:56:02.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 16:56:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 18</category>
-      <description>Route 18 detoured off Nicollet Ave from 66th St to 77th St beginning Wed Sep 9 at 4:00 AM until further notice due to construction. Board at: Nicollet Ave &amp; 77th St - Stop #1436 (northbound); Portland &amp; 77th St Station - Stop #620 (northbound); Portland &amp; 73rd St Station - Stop #56922 (northbound). | Action: Board at: Nicollet Ave &amp; 77th St - Stop #1436 (northbound); Portland &amp; 77th St Station - Stop #620 (northbound); Portland &amp; 73rd St Station - Stop #56922 (northbound)</description>
+      <description>Route 18 detoured off Nicollet Ave from 66th St to 77th St beginning Wed Sep 9 at 4:00 AM until further notice due to construction. Board at: 2nd Ave S Loop &amp; American Blvd - Stop #51852 (18 buses departing 2nd Ave/American Blvd only); Nicollet Ave &amp; 77th St - Stop #1436 (northbound); Portland &amp; 77th St Station - Stop #620 (northbound). | Action: Board at: 2nd Ave S Loop &amp; American Blvd - Stop #51852 (18 buses departing 2nd Ave/American Blvd only); Nicollet Ave &amp; 77th St - Stop #1436 (northbound); Portland &amp; 77th St Station - Stop #620 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 18: Detour via Nicollet Ave S &amp; 16th St E</title>
@@ -392,8 +419,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 22: Detour via Lyndale Ave N &amp; Lowry Ave N</title>
       <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-52050-2026-09-12T11:55:51.000Z</guid>
-      <pubDate>Sat, 12 Sep 2026 11:55:51 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52050-2026-09-15T15:38:26.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 15:38:26 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 22</category>
       <description>Route 22 detoured off Lyndale Ave N from Lowry Ave N to Dowling Ave N until further notice due to construction. Board at: Lyndale Ave N &amp; Lowry Ave N - Stop #81098 (northbound); Lyndale Ave N &amp; 40th Ave N - Stop #11199 (northbound). | Action: Board at: Lyndale Ave N &amp; Lowry Ave N - Stop #81098 (northbound); Lyndale Ave N &amp; 40th Ave N - Stop #11199 (northbound)</description>
@@ -588,6 +615,15 @@ Affected st</title>
       <description>Route 62D detoured off Wabasha St from Cesar Chavez St to Congress St from 11:00 AM to 11:00 PM on Sat Sep 19 due to Back Pocket Vintage One Year Party. Board at: Wabasha St &amp; Congress St - Stop #287 (northbound); Wabasha St &amp; Torre de San Miguel - Stop #2781 (northbound). | Action: Board at: Wabasha St &amp; Congress St - Stop #287 (northbound); Wabasha St &amp; Torre de San Miguel - Stop #2781 (northbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 62: Detour via Rice St &amp; Orange Ave</title>
+      <link>https://www.metrotransit.org/route/62</link>
+      <guid isPermaLink="false">Metro Transit-52837-2026-09-15T15:31:02.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 15:31:02 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 62</category>
+      <description>Southbound Route 62 detoured off Maryland until later today due to road conditions. Board at: Rice St &amp; Orange Ave - Stop #10470 (southbound); Galtier St &amp; Cook Ave W - Stop #80929 (southbound). | Action: Board at: Rice St &amp; Orange Ave - Stop #10470 (southbound); Galtier St &amp; Cook Ave W - Stop #80929 (southbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 63: Stop Closed at Grand Ave &amp; Victoria St</title>
       <link>https://www.metrotransit.org/route/63</link>
       <guid isPermaLink="false">Metro Transit-49835-2026-07-14T12:58:01.000Z</guid>
@@ -653,8 +689,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 64, Route 64N: Detour via 7th Ave E &amp; South Ave</title>
       <link>https://www.metrotransit.org/route/64</link>
-      <guid isPermaLink="false">Metro Transit-52356-2026-09-11T05:00:02.000Z</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52356-2026-09-15T15:38:50.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 15:38:50 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 64, Route 64N</category>
       <description>Route 64N detoured off 7th Ave from South Ave to Margaret St and off Margaret St from 7th Ave to 12th Ave from 5:00 PM to 8:30 PM on Thu Sep 17 due to North St Paul Fall Round Up Parade. Board at: 7th Ave E &amp; South Ave (Co Rd B) - Stop #3901 (eastbound); 12th Ave E &amp; Helen St N - Stop #3914 (westbound). | Action: Board at: 7th Ave E &amp; South Ave (Co Rd B) - Stop #3901 (eastbound); 12th Ave E &amp; Helen St N - Stop #3914 (westbound)</description>
@@ -676,15 +712,6 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 65</category>
       <description>Route 65 detoured off Dale St from Rondo Ave to Grand Ave beginning Tue Sep 15 at 5:00 AM until further notice due to construction. Board at: Temporary stop on Kent St &amp; Portland Ave (northbound); Temporary stop on Kent St &amp; Selby Ave (northbound); Temporary stop on Kent St &amp; Marshall Ave (northbound). | Action: Board at: Temporary stop on Kent St &amp; Portland Ave (northbound); Temporary stop on Kent St &amp; Selby Ave (northbound); Temporary stop on Kent St &amp; Marshall Ave (northbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 67: Detour via Franklin Ave E &amp; 22nd Ave S</title>
-      <link>https://www.metrotransit.org/route/67</link>
-      <guid isPermaLink="false">Metro Transit-46009-2026-04-19T09:01:01.000Z</guid>
-      <pubDate>Sun, 19 Apr 2026 09:01:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 67</category>
-      <description>Route 67 detoured off Franklin Ave from 22nd Ave S to Franklin Ave Station beginning Sun Apr 12 at 4:00 AM until further notice due to construction. Board at: Franklin Ave E &amp; 22nd Ave S - Stop #13267 (westbound). | Action: Board at: Franklin Ave E &amp; 22nd Ave S - Stop #13267 (westbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 67: Stop Closed at Minnehaha Ave &amp; Dale St</title>
@@ -725,8 +752,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 68: Detour via Ash St &amp; 5th Ave S</title>
       <link>https://www.metrotransit.org/route/68</link>
-      <guid isPermaLink="false">Metro Transit-52563-2026-09-08T17:05:58.000Z</guid>
-      <pubDate>Tue, 08 Sep 2026 17:05:58 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52563-2026-09-15T17:05:01.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 17:05:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 68</category>
       <description>Route 68 detoured off South St from 3rd Ave to 5th Ave until further notice. Board at: Temporary stop on Ash St &amp; 5th Ave S (westbound). | Action: Board at: Temporary stop on Ash St &amp; 5th Ave S (westbound)</description>
@@ -1027,24 +1054,6 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 760, Route 763, Route 765, Route 766, Route 768</category>
       <description>Routes 760, 763, 765, 766 and 768 detoured off 3rd St from Hennepin Ave to Hwy 94 beginning Mon Aug 10 at 2:00 AM until further notice due to construction. Board at: 3rd St S &amp; Nicollet Mall - Stop #40172 (westbound). | Action: Board at: 3rd St S &amp; Nicollet Mall - Stop #40172 (westbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 781: Detour via 2nd Ave S &amp; 10th St</title>
-      <link>https://www.metrotransit.org/route/781</link>
-      <guid isPermaLink="false">Metro Transit-48756-2026-06-19T18:57:01.000Z</guid>
-      <pubDate>Fri, 19 Jun 2026 18:57:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 781</category>
-      <description>Route 781 detoured off 16th St E from 1st Ave S to 3rd Ave S and off 3rd Ave S from 16th St E to 12 St S beginning Mon Apr 27 at 5:00 AM until further notice. Board at: 2nd Ave S &amp; 10th St - Stop Group H - Stop #53319 (northbound). | Action: Board at: 2nd Ave S &amp; 10th St - Stop Group H - Stop #53319 (northbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 785: Detour via 2nd Ave S &amp; 10th St</title>
-      <link>https://www.metrotransit.org/route/785</link>
-      <guid isPermaLink="false">Metro Transit-48755-2026-06-19T18:55:01.000Z</guid>
-      <pubDate>Fri, 19 Jun 2026 18:55:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 785</category>
-      <description>Route 785 detoured off 16th St E from 1st Ave S to 3rd Ave S and off 3rd Ave S from 16th St E to 12 St S beginning Mon Apr 27 at 4:00 AM until further notice. Board at: 2nd Ave S &amp; 10th St - Stop Group H - Stop #53319 (northbound). | Action: Board at: 2nd Ave S &amp; 10th St - Stop Group H - Stop #53319 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 804: Detour via Route 804 detoured off 7th St NW &amp; 8th St N</title>
