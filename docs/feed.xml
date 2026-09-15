@@ -4,17 +4,44 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Tue, 15 Sep 2026 19:30:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:41:44 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 68: Southbound 1:25 PM Trip Canceled (Jackson St &amp; 14th St)</title>
-      <link>https://www.metrotransit.org/route/68</link>
-      <guid isPermaLink="false">Metro Transit-52844-2026-09-15T18:34:52.000Z</guid>
-      <pubDate>Tue, 15 Sep 2026 18:34:52 GMT</pubDate>
+      <title>[Critical] METRO D Line: Northbound 3:49 PM Trip Canceled (MOA Transit Station Gate A)</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-52858-2026-09-15T22:03:16.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 22:03:16 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 68</category>
-      <description>Southbound Route 68 trip departing Jackson St &amp; 14th St at 1:25 PM canceled today</description>
+      <category>METRO D Line</category>
+      <description>Northbound D Line trip departing MOA Transit Station Gate A at 3:49 PM canceled from Chicago &amp; Lake at 4:22 PM today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] METRO Orange Line: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/orange</link>
+      <guid isPermaLink="false">Metro Transit-52857-2026-09-15T22:05:35.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 22:05:35 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO Orange Line</category>
+      <description>Northbound Orange Line trips departing Burnsville Heart of the City Station at 4:28 PM and departing Burnsville Heart of the City Station at 4:38 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 54: Eastbound 4:28 PM Trip Canceled (MOA Transit Station Gate C)</title>
+      <link>https://www.metrotransit.org/route/54</link>
+      <guid isPermaLink="false">Metro Transit-52856-2026-09-15T21:44:31.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 21:44:31 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 54</category>
+      <description>Eastbound Route 54 trip departing MOA Transit Station Gate C at 4:28 PM canceled</description>
+    </item>
+    <item>
+      <title>[Critical] Route 54: Westbound 4:25 PM Trip Canceled (Union Depot &amp; Gate A1)</title>
+      <link>https://www.metrotransit.org/route/54</link>
+      <guid isPermaLink="false">Metro Transit-52859-2026-09-15T22:08:01.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 22:08:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 54</category>
+      <description>Westbound Route 54 trip departing Union Depot &amp; Gate A1 at 4:25 PM canceled from 7th &amp; St Clair at 4:39 PM today due to traffic</description>
     </item>
     <item>
       <title>[Critical] Route 223: Service Canceled</title>
@@ -26,6 +53,15 @@
       <description>Route 223 trip departing Maplewood Mall Transit Center &amp; Gate A at 6:11 PM and two other trips canceled today due to traffic</description>
     </item>
     <item>
+      <title>[Critical] Route 223: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/223</link>
+      <guid isPermaLink="false">Metro Transit-52848-2026-09-15T19:41:31.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 19:41:31 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 223</category>
+      <description>Route 223 trip departing Maplewood Mall Transit Center &amp; Gate A at 6:11 PM and two other trips canceled today</description>
+    </item>
+    <item>
       <title>[Critical] Route 725: Service Canceled</title>
       <link>https://www.metrotransit.org/route/725</link>
       <guid isPermaLink="false">Metro Transit-52841-2026-09-15T16:40:28.000Z</guid>
@@ -33,6 +69,15 @@
       <category>Critical</category>
       <category>Route 725</category>
       <description>Route 725 trips departing 5th St NW &amp; 1st Ave NW at 8:26 PM and departing Northtown Transit Ctr Gate D at 9:15 PM canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 725: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/725</link>
+      <guid isPermaLink="false">Metro Transit-52849-2026-09-15T19:42:21.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 19:42:21 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 725</category>
+      <description>Route 725 trips departing 5th St NW &amp; 1st Ave NW at 8:26 PM and departing Northtown Transit Ctr Gate D at 9:15 PM canceled today</description>
     </item>
     <item>
       <title>[Critical] Route 801: Service Canceled</title>
@@ -264,8 +309,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 11: Detour via 3rd Ave S &amp; 25th St E</title>
       <link>https://www.metrotransit.org/route/11</link>
-      <guid isPermaLink="false">Metro Transit-52603-2026-09-14T12:00:01.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52603-2026-09-15T20:01:52.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 20:01:52 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 11</category>
       <description>Route 11 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: 3rd Ave S &amp; 25th St E - Stop #17762 (northbound); Nicollet Ave S &amp; 16th St E - Stop #1914 (northbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound). | Action: Board at: 3rd Ave S &amp; 25th St E - Stop #17762 (northbound); Nicollet Ave S &amp; 16th St E - Stop #1914 (northbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound)</description>
@@ -500,8 +545,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 36: Detour via Gallagher Dr &amp; France Ave S</title>
       <link>https://www.metrotransit.org/route/36</link>
-      <guid isPermaLink="false">Metro Transit-52610-2026-09-15T05:00:01.000Z</guid>
-      <pubDate>Tue, 15 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52610-2026-09-15T20:01:02.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 20:01:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 36</category>
       <description>Route 36 detoured off Hazleton Rd from France Ave to York Ave and off France Ave from Hazleton Rd to Gallagher Dr beginning Wed Sep 16 at 6:00 PM until further notice due to construction. Board at: Gallagher Dr &amp; France Ave S - Stop #41097 (eastbound); York Ave S &amp; 70th St W - Stop #50601 (northbound). | Action: Board at: Gallagher Dr &amp; France Ave S - Stop #41097 (eastbound); York Ave S &amp; 70th St W - Stop #50601 (northbound)</description>
@@ -923,8 +968,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 537: Detour via France Ave S &amp; Minnesota Dr</title>
       <link>https://www.metrotransit.org/route/537</link>
-      <guid isPermaLink="false">Metro Transit-52601-2026-09-15T05:00:01.000Z</guid>
-      <pubDate>Tue, 15 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52601-2026-09-15T20:00:22.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 20:00:22 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 537</category>
       <description>Route 537 detoured off France Ave from 76th St to 70th St and off 70th St from France Ave to York Ave beginning Wed Sep 16 at 6:00 PM until further notice due to construction. Board at: France Ave S &amp; Minnesota Dr - Stop #57520 (northbound); 76th St W &amp; Centennial Lakes Office Park - Stop #52038 (eastbound); York Ave S &amp; 70th St W - Stop #50601 (northbound). | Action: Board at: France Ave S &amp; Minnesota Dr - Stop #57520 (northbound); 76th St W &amp; Centennial Lakes Office Park - Stop #52038 (eastbound); York Ave S &amp; 70th St W - Stop #50601 (northbound)</description>

@@ -2,34 +2,93 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-123-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-128-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-9-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-116-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-85-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-15T19:30:04.035Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-15T22:41:44.897Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (4) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (5) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (2) • **Route 724** (1) • **Route 725** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (2) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
+**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (4) • **METRO E Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (3) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (4) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (4) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (1) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (6) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (2) • **Route 724** (1) • **Route 725** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (2) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 68: Southbound 1:25 PM Trip Canceled (Jackson St & 14th St)
+### 🚨 METRO D Line: Northbound 3:49 PM Trip Canceled (MOA Transit Station Gate A)
 
-- **Affected Routes**: `Route 68`
-- **Direction**: Southbound
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Northbound
 - **Severity**: `Critical`
+- **Closed Stops**: Stop #17897, Stop #17900, Stop #17902, Stop #17903, Stop #52300, Stop #43275, Stop #56926, Stop #56927 *(+16 more)*
 
-**Summary**: Southbound Route 68 trip departing Jackson St & 14th St at 1:25 PM canceled today
+**Summary**: Northbound D Line trip departing MOA Transit Station Gate A at 3:49 PM canceled from Chicago & Lake at 4:22 PM today due to traffic
 
-[Official Agency Advisory](https://www.metrotransit.org/route/68)
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 68 trip departing Jackson St & 14th St at 1:25 PM canceled today
+**Header**: Northbound D Line trip departing MOA Transit Station Gate A at 3:49 PM canceled from Chicago & Lake at 4:22 PM today due to traffic
+
+</details>
+
+---
+
+### 🚨 METRO Orange Line: Service Canceled
+
+- **Affected Routes**: `METRO Orange Line`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Orange Line trips departing Burnsville Heart of the City Station at 4:28 PM and departing Burnsville Heart of the City Station at 4:38 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/orange)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Orange Line trips departing Burnsville Heart of the City Station at 4:28 PM and departing Burnsville Heart of the City Station at 4:38 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 54: Eastbound 4:28 PM Trip Canceled (MOA Transit Station Gate C)
+
+- **Affected Routes**: `Route 54`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 4:28 PM canceled
+
+[Official Agency Advisory](https://www.metrotransit.org/route/54)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 4:28 PM canceled
+
+</details>
+
+---
+
+### 🚨 Route 54: Westbound 4:25 PM Trip Canceled (Union Depot & Gate A1)
+
+- **Affected Routes**: `Route 54`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #13117, Stop #13121, Stop #13128, Stop #13130, Stop #13132, Stop #13140, Stop #10366, Stop #41253 *(+10 more)*
+
+**Summary**: Westbound Route 54 trip departing Union Depot & Gate A1 at 4:25 PM canceled from 7th & St Clair at 4:39 PM today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/54)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 54 trip departing Union Depot & Gate A1 at 4:25 PM canceled from 7th & St Clair at 4:39 PM today due to traffic
 
 </details>
 
@@ -63,6 +122,34 @@ departing Maplewood Mall Transit Center & Gate A at 7:41 PM
 
 ---
 
+### 🚨 Route 223: Service Canceled
+
+- **Affected Routes**: `Route 223`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 223 trip departing Maplewood Mall Transit Center & Gate A at 6:11 PM and two other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/223)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 223 trip departing Maplewood Mall Transit Center & Gate A at 6:11 PM and two other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Rosedale Transit Center Gate F at 6:46 PM
+
+Affected westbound trips:
+departing Maplewood Mall Transit Center & Gate A at 6:11 PM
+departing Maplewood Mall Transit Center & Gate A at 7:41 PM
+```
+
+</details>
+
+---
+
 ### 🚨 Route 725: Service Canceled
 
 - **Affected Routes**: `Route 725`
@@ -78,6 +165,26 @@ departing Maplewood Mall Transit Center & Gate A at 7:41 PM
 <summary>Raw Dispatcher Message</summary>
 
 **Header**: Route 725 trips departing 5th St NW & 1st Ave NW at 8:26 PM and departing Northtown Transit Ctr Gate D at 9:15 PM canceled today due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 725: Service Canceled
+
+- **Affected Routes**: `Route 725`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 725 trips departing 5th St NW & 1st Ave N
+
+**Summary**: Route 725 trips departing 5th St NW & 1st Ave NW at 8:26 PM and departing Northtown Transit Ctr Gate D at 9:15 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/725)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 725 trips departing 5th St NW & 1st Ave NW at 8:26 PM and departing Northtown Transit Ctr Gate D at 9:15 PM canceled today
 
 </details>
 
