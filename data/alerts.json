@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-15T11:00:06.523Z",
-    "totalAlerts": 119,
-    "criticalCount": 0,
-    "moderateCount": 116,
+    "generatedAt": "2026-09-15T15:31:38.756Z",
+    "totalAlerts": 122,
+    "criticalCount": 1,
+    "moderateCount": 118,
     "minorCount": 3,
     "affectedRoutesCount": 86,
     "agencies": [
@@ -11,6 +11,58 @@
     ]
   },
   "alerts": [
+    {
+      "id": "52836",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO Orange Line: Service Advisory",
+      "summary": "Northbound Orange Line trip departing Burnsville HoC Station at 9:05 AM will start from I35W & 46th St Station. Previous stops missed due to traffic",
+      "affectedRoutes": [
+        "METRO Orange Line"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [
+        "56828",
+        "56829",
+        "56830",
+        "56831",
+        "51110",
+        "48084"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "56828"
+        },
+        {
+          "id": "56829"
+        },
+        {
+          "id": "56830"
+        },
+        {
+          "id": "56831"
+        },
+        {
+          "id": "51110"
+        },
+        {
+          "id": "48084"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-15T14:08:00.000Z",
+        "end": "2026-09-15T15:39:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/orange",
+      "updatedAt": "2026-09-15T14:09:47.000Z",
+      "rawHeader": "Northbound Orange Line trip departing Burnsville HoC Station at 9:05 AM will start from I35W & 46th St Station. Previous stops missed due to traffic",
+      "rawDescription": ""
+    },
     {
       "id": "49962",
       "agency": "Metro Transit",
@@ -6177,6 +6229,50 @@
       "rawDescription": "Get on/off buses at:\r\nTemporary stop on Ash St & 5th Ave S (westbound)\r\n\nNorthbound buses will depart temporary layover on Ash St, right on 5th Ave S and resume regular route.\r\n\nSouthbound buses will travel regular route on 3rd Ave S to Ash St, right on Ash St and layover on Ash St & 5th Ave S.\r\n\n\r\nAffected stops:\r\nSouth St & 5th Ave S - Stop #9791 (westbound)\r\n3rd Ave S & South St W - Stop #47783 (southbound)"
     },
     {
+      "id": "52829",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 68, Route 71: Stop Closed at Robert St S & Plato Blvd E",
+      "summary": "Robert St S & Plato Blvd E - Stop #2609 (northbound) is closed for Routes 68 and 71 beginning Mon Sep 21 at 1:00 AM until further notice due to construction. Board at: Robert St S & Colorado St - Stop #2608 (northbound); Robert St S & Fillmore Ave - Stop #2610 (northbound).",
+      "affectedRoutes": [
+        "Route 68",
+        "Route 71"
+      ],
+      "direction": "Northbound",
+      "intersections": [
+        "Robert St S & Plato Blvd E",
+        "Robert St S & Colorado St",
+        "Robert St S & Fillmore Ave"
+      ],
+      "closedStopIds": [
+        "2609",
+        "2608",
+        "2610"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "2609"
+        },
+        {
+          "id": "2608"
+        },
+        {
+          "id": "2610"
+        }
+      ],
+      "riderAlternative": "Board at: Robert St S & Colorado St - Stop #2608 (northbound); Robert St S & Fillmore Ave - Stop #2610 (northbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-21T06:00:00.000Z",
+        "textDescription": "Beginning Mon Sep 21 at 1:00 AM until further notice"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "NO_SERVICE",
+      "updatedAt": "2026-09-15T13:13:21.000Z",
+      "rawHeader": "Robert St S & Plato Blvd E - Stop #2609 (northbound) is closed for Routes 68 and 71 beginning Mon Sep 21 at 1:00 AM until further notice due to construction",
+      "rawDescription": "Get on/off buses at:\r\nRobert St S & Colorado St - Stop #2608 (northbound)\r\nRobert St S & Fillmore Ave - Stop #2610 (northbound)"
+    },
+    {
       "id": "51270",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -8200,6 +8296,47 @@
       "rawDescription": "Get on/off buses at:\r\nMarquette Ave & 5th St - Stop Group B - Stop #53293 (southbound)\r\nTemporary stop on 2nd Ave S & 9th St (southbound)\r\n11th St S & Marquette Ave - Stop #53296 (westbound)\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on Marquette Ave to 6th St, left on 6th St, right on 2nd Ave S, right on 11th St to Marquette Ave, and resume regular route.\r\n\nAffected stops:\r\nMarquette Ave & 7th St - Stop Group B - Stop #53294 (southbound)\r\nMarquette Ave & 9th St - Stop Group B - Stop #53295 (southbound)"
     },
     {
+      "id": "52828",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 645: Detour via Oakland Rd & Oakways Rd",
+      "summary": "Route 645 detoured off Hwy 394/Hwy 12 from Oakland Rd to Bushaway Rd until further notice due to construction. Board at: Oakland Rd & Oakways Rd - Stop #7083 (westbound).",
+      "affectedRoutes": [
+        "Route 645"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Oakland Rd & Oakways Rd",
+        "Oakland Rd & Carlson Pkwy",
+        "Hwy 394/Hwy 12 (Oakland Rd to Bushaway Rd)"
+      ],
+      "closedStopIds": [
+        "42502",
+        "7083"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "42502",
+          "name": "Oakland Rd & Carlson Pkwy",
+          "direction": "westbound"
+        },
+        {
+          "id": "7083"
+        }
+      ],
+      "riderAlternative": "Board at: Oakland Rd & Oakways Rd - Stop #7083 (westbound)",
+      "detourDetails": "Eastbound buses will travel regular route.",
+      "activePeriod": {
+        "start": "2026-09-15T13:09:00.000Z"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/645",
+      "updatedAt": "2026-09-15T13:09:32.000Z",
+      "rawHeader": "Route 645 detoured off Hwy 394/Hwy 12 from Oakland Rd to Bushaway Rd until further notice due to construction",
+      "rawDescription": "Get on/off buses at:\r\nOakland Rd & Oakways Rd - Stop #7083 (westbound)\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on Oakland Rd to Carlson Pkwy/Wayzata Blvd S, left on Wayzata Blvd S, right on Bushaway Rd, left on Wayzata Blvd, and resume regular route.\r\n\nAffected direction: Westbound\r\n\nAffected stops:\r\nOakland Rd & Carlson Pkwy - Stop #42502 (westbound)"
+    },
+    {
       "id": "47699",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -8373,7 +8510,7 @@
         }
       ],
       "riderAlternative": "Board at: 3rd St S & Nicollet Mall - Stop #40172 (westbound)",
-      "detourDetails": "Northbound buses will travel regular route on 3rd St to Hennepin Ave, right on Hennepin, left on Washington Ave to 22nd Ave N, left onto westbound Hwy 94 ramp, and resume regular route.",
+      "detourDetails": "Northbound buses will travel regular route on 3rd St to Hennepin Ave, right on Hennepin, left on Washington Ave, left on 10th Ave N, right on 5th St, left on 11th Ave N, right on E Lyndale Ave N, veer right onto westbound Hwy 94 ramp, and resume regular route.",
       "activePeriod": {
         "start": "2026-08-10T07:00:00.000Z",
         "textDescription": "Beginning Mon Aug 10 at 2:00 AM until further notice"
@@ -8381,9 +8518,9 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/760",
-      "updatedAt": "2026-08-17T07:00:01.000Z",
+      "updatedAt": "2026-09-15T12:58:13.000Z",
       "rawHeader": "Routes 760, 763, 765, 766 and 768 detoured off 3rd St from Hennepin Ave to Hwy 94 beginning Mon Aug 10 at 2:00 AM until further notice due to construction",
-      "rawDescription": "Get on/off buses at:\r\n3rd St S & Nicollet Mall - Stop #40172 (westbound)\r\n\nNorthbound buses will travel regular route on 3rd St to Hennepin Ave, right on Hennepin, left on Washington Ave to 22nd Ave N, left onto westbound Hwy 94 ramp, and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected stops:\r\n3rd St N & 1st Ave N - Stop #17960 (westbound)"
+      "rawDescription": "Note: Buses will only follow detour if road is blocked. If road is open, buses will follow regular route.\r\n\nGet on/off buses at:\r\n3rd St S & Nicollet Mall - Stop #40172 (westbound)\r\n\nNorthbound buses will travel regular route on 3rd St to Hennepin Ave, right on Hennepin, left on Washington Ave, left on 10th Ave N, right on 5th St, left on 11th Ave N, right on E Lyndale Ave N, veer right onto westbound Hwy 94 ramp, and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected stops:\r\n3rd St N & 1st Ave N - Stop #17960 (westbound)"
     },
     {
       "id": "48756",

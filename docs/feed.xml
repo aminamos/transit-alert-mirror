@@ -4,9 +4,18 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Tue, 15 Sep 2026 11:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 15:31:38 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] METRO Orange Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/orange</link>
+      <guid isPermaLink="false">Metro Transit-52836-2026-09-15T14:09:47.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 14:09:47 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO Orange Line</category>
+      <description>Northbound Orange Line trip departing Burnsville HoC Station at 9:05 AM will start from I35W &amp; 46th St Station. Previous stops missed due to traffic</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -723,6 +732,15 @@ Affected st</title>
       <description>Route 68 detoured off South St from 3rd Ave to 5th Ave until further notice. Board at: Temporary stop on Ash St &amp; 5th Ave S (westbound). | Action: Board at: Temporary stop on Ash St &amp; 5th Ave S (westbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 68, Route 71: Stop Closed at Robert St S &amp; Plato Blvd E</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-52829-2026-09-15T13:13:21.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 13:13:21 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 68, Route 71</category>
+      <description>Robert St S &amp; Plato Blvd E - Stop #2609 (northbound) is closed for Routes 68 and 71 beginning Mon Sep 21 at 1:00 AM until further notice due to construction. Board at: Robert St S &amp; Colorado St - Stop #2608 (northbound); Robert St S &amp; Fillmore Ave - Stop #2610 (northbound). | Action: Board at: Robert St S &amp; Colorado St - Stop #2608 (northbound); Robert St S &amp; Fillmore Ave - Stop #2610 (northbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 71, Route 71K: Detour via Little Canada Rd &amp; Centerville Rd</title>
       <link>https://www.metrotransit.org/route/71</link>
       <guid isPermaLink="false">Metro Transit-51270-2026-09-03T18:33:09.000Z</guid>
@@ -966,6 +984,15 @@ Affected st</title>
       <description>Route 645 detoured off Marquette Ave from 6th St to 11th St from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound); Temporary stop on 2nd Ave S &amp; 9th St (southbound); 11th St S &amp; Marquette Ave - Stop #53296 (westbound). | Action: Board at: Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound); Temporary stop on 2nd Ave S &amp; 9th St (southbound); 11th St S &amp; Marquette Ave - Stop #53296 (westbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 645: Detour via Oakland Rd &amp; Oakways Rd</title>
+      <link>https://www.metrotransit.org/route/645</link>
+      <guid isPermaLink="false">Metro Transit-52828-2026-09-15T13:09:32.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 13:09:32 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 645</category>
+      <description>Route 645 detoured off Hwy 394/Hwy 12 from Oakland Rd to Bushaway Rd until further notice due to construction. Board at: Oakland Rd &amp; Oakways Rd - Stop #7083 (westbound). | Action: Board at: Oakland Rd &amp; Oakways Rd - Stop #7083 (westbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 673, Route 673B: Detour via Cedar Lake Rd &amp; Texas Ave</title>
       <link>https://www.metrotransit.org/route/673</link>
       <guid isPermaLink="false">Metro Transit-47699-2026-05-29T17:59:01.000Z</guid>
@@ -995,8 +1022,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 760, Route 763, Route 765, Route 766, Route 768: Detour via 3rd St S &amp; Nicollet Mall - St</title>
       <link>https://www.metrotransit.org/route/760</link>
-      <guid isPermaLink="false">Metro Transit-50957-2026-08-17T07:00:01.000Z</guid>
-      <pubDate>Mon, 17 Aug 2026 07:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-50957-2026-09-15T12:58:13.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 12:58:13 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 760, Route 763, Route 765, Route 766, Route 768</category>
       <description>Routes 760, 763, 765, 766 and 768 detoured off 3rd St from Hennepin Ave to Hwy 94 beginning Mon Aug 10 at 2:00 AM until further notice due to construction. Board at: 3rd St S &amp; Nicollet Mall - Stop #40172 (westbound). | Action: Board at: 3rd St S &amp; Nicollet Mall - Stop #40172 (westbound)</description>

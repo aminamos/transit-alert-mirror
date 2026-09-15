@@ -2,21 +2,39 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-119-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-116-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-122-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-118-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-86-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-15T11:00:06.523Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-15T15:31:38.756Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (2) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 781** (1) • **Route 785** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
+**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (3) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (2) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 781** (1) • **Route 785** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 METRO Orange Line: Service Advisory
+
+- **Affected Routes**: `METRO Orange Line`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #56828, Stop #56829, Stop #56830, Stop #56831, Stop #51110, Stop #48084
+
+**Summary**: Northbound Orange Line trip departing Burnsville HoC Station at 9:05 AM will start from I35W & 46th St Station. Previous stops missed due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/orange)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Orange Line trip departing Burnsville HoC Station at 9:05 AM will start from I35W & 46th St Station. Previous stops missed due to traffic
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -3648,6 +3666,34 @@ South St & 5th Ave S - Stop #9791 (westbound)
 
 ---
 
+### ⚠️ Route 68, Route 71: Stop Closed at Robert St S & Plato Blvd E
+
+- **Affected Routes**: `Route 68` `Route 71`
+- **Direction**: Northbound
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Mon Sep 21 at 1:00 AM until further notice
+- **Corridors & Intersections**: Robert St S & Plato Blvd E; Robert St S & Colorado St; Robert St S & Fillmore Ave
+- **Closed Stops**: Stop #2609, Stop #2608, Stop #2610
+
+**Summary**: Robert St S & Plato Blvd E - Stop #2609 (northbound) is closed for Routes 68 and 71 beginning Mon Sep 21 at 1:00 AM until further notice due to construction. Board at: Robert St S & Colorado St - Stop #2608 (northbound); Robert St S & Fillmore Ave - Stop #2610 (northbound).
+
+> 💡 **Rider Action**: Board at: Robert St S & Colorado St - Stop #2608 (northbound); Robert St S & Fillmore Ave - Stop #2610 (northbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Robert St S & Plato Blvd E - Stop #2609 (northbound) is closed for Routes 68 and 71 beginning Mon Sep 21 at 1:00 AM until further notice due to construction
+
+```text
+Get on/off buses at:
+Robert St S & Colorado St - Stop #2608 (northbound)
+Robert St S & Fillmore Ave - Stop #2610 (northbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 71, Route 71K: Detour via Little Canada Rd & Centerville Rd
 
 - **Affected Routes**: `Route 71` `Route 71K`
@@ -4840,6 +4886,45 @@ Marquette Ave & 9th St - Stop Group B - Stop #53295 (southbound)
 
 ---
 
+### ⚠️ Route 645: Detour via Oakland Rd & Oakways Rd
+
+- **Affected Routes**: `Route 645`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Oakland Rd & Oakways Rd; Oakland Rd & Carlson Pkwy; Hwy 394/Hwy 12 (Oakland Rd to Bushaway Rd)
+- **Closed Stops**: Oakland Rd & Carlson Pkwy (Stop #42502), Stop #7083
+
+**Summary**: Route 645 detoured off Hwy 394/Hwy 12 from Oakland Rd to Bushaway Rd until further notice due to construction. Board at: Oakland Rd & Oakways Rd - Stop #7083 (westbound).
+
+> 💡 **Rider Action**: Board at: Oakland Rd & Oakways Rd - Stop #7083 (westbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/645)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 645 detoured off Hwy 394/Hwy 12 from Oakland Rd to Bushaway Rd until further notice due to construction
+
+```text
+Get on/off buses at:
+Oakland Rd & Oakways Rd - Stop #7083 (westbound)
+
+Eastbound buses will travel regular route.
+
+Westbound buses will travel regular route on Oakland Rd to Carlson Pkwy/Wayzata Blvd S, left on Wayzata Blvd S, right on Bushaway Rd, left on Wayzata Blvd, and resume regular route.
+
+Affected direction: Westbound
+
+Affected stops:
+Oakland Rd & Carlson Pkwy - Stop #42502 (westbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 673, Route 673B: Detour via Cedar Lake Rd & Texas Ave
 
 - **Affected Routes**: `Route 673` `Route 673B`
@@ -4958,7 +5043,7 @@ West Broadway & Dragon Star - Stop #53152 (southbound)
 
 > 💡 **Rider Action**: Board at: 3rd St S & Nicollet Mall - Stop #40172 (westbound)
 
-> 🔄 **Detour Path**: Northbound buses will travel regular route on 3rd St to Hennepin Ave, right on Hennepin, left on Washington Ave to 22nd Ave N, left onto westbound Hwy 94 ramp, and resume regular route.
+> 🔄 **Detour Path**: Northbound buses will travel regular route on 3rd St to Hennepin Ave, right on Hennepin, left on Washington Ave, left on 10th Ave N, right on 5th St, left on 11th Ave N, right on E Lyndale Ave N, veer right onto westbound Hwy 94 ramp, and resume regular route.
 
 [Official Agency Advisory](https://www.metrotransit.org/route/760)
 
@@ -4968,10 +5053,12 @@ West Broadway & Dragon Star - Stop #53152 (southbound)
 **Header**: Routes 760, 763, 765, 766 and 768 detoured off 3rd St from Hennepin Ave to Hwy 94 beginning Mon Aug 10 at 2:00 AM until further notice due to construction
 
 ```text
+Note: Buses will only follow detour if road is blocked. If road is open, buses will follow regular route.
+
 Get on/off buses at:
 3rd St S & Nicollet Mall - Stop #40172 (westbound)
 
-Northbound buses will travel regular route on 3rd St to Hennepin Ave, right on Hennepin, left on Washington Ave to 22nd Ave N, left onto westbound Hwy 94 ramp, and resume regular route.
+Northbound buses will travel regular route on 3rd St to Hennepin Ave, right on Hennepin, left on Washington Ave, left on 10th Ave N, right on 5th St, left on 11th Ave N, right on E Lyndale Ave N, veer right onto westbound Hwy 94 ramp, and resume regular route.
 
 Southbound buses will travel regular route.
 
