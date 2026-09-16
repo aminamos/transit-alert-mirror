@@ -4,53 +4,26 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Wed, 16 Sep 2026 13:05:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:56:20 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO C Line: Northbound 7:21 AM Trip Canceled (7th St &amp; Park Station)</title>
-      <link>https://www.metrotransit.org/route/cline</link>
-      <guid isPermaLink="false">Metro Transit-52880-2026-09-16T12:43:07.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 12:43:07 GMT</pubDate>
+      <title>[Critical] METRO D Line: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-52889-2026-09-16T17:35:42.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 17:35:42 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO C Line</category>
-      <description>Northbound C Line trip departing 7th St &amp; Park Station at 7:21 AM canceled today due to mechanical issue</description>
+      <category>METRO D Line</category>
+      <description>D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM and three other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 46, Route 46C: Westbound 7:11 AM Trip Canceled (46th St Station &amp; Gate G)</title>
-      <link>https://www.metrotransit.org/route/46</link>
-      <guid isPermaLink="false">Metro Transit-52876-2026-09-16T11:55:52.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 11:55:52 GMT</pubDate>
+      <title>[Critical] Route 14: Northbound 10:52 AM Trip Canceled (66th St E &amp; Richfield Pkwy / 16th Ave)</title>
+      <link>https://www.metrotransit.org/route/14</link>
+      <guid isPermaLink="false">Metro Transit-52887-2026-09-16T16:18:42.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 16:18:42 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 46, Route 46C</category>
-      <description>Westbound Route 46C trip departing 46th St Station &amp; Gate G at 7:11 AM canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 46: Eastbound 6:30 AM Trip Canceled (Eden-Vernon Busway &amp; Sherwood/Vernon Ave)</title>
-      <link>https://www.metrotransit.org/route/46</link>
-      <guid isPermaLink="false">Metro Transit-52877-2026-09-16T13:03:02.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 13:03:02 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 46</category>
-      <description>Eastbound Route 46 trip departing Eden-Vernon Busway &amp; Sherwood/Vernon Ave at 6:30 AM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 46: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/46</link>
-      <guid isPermaLink="false">Metro Transit-52881-2026-09-16T12:48:44.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 12:48:44 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 46</category>
-      <description>Route 46 trips departing Eden-Vernon Busway &amp; Sherwood/Vernon Ave at 8:00 AM and departing 46th St Station &amp; Gate G at 8:43 AM canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 721: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/721</link>
-      <guid isPermaLink="false">Metro Transit-52879-2026-09-16T12:47:59.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 12:47:59 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 721</category>
-      <description>Route 721 trip departing Hennepin Technical College &amp; Main Door at 6:58 AM and two other trips canceled today</description>
+      <category>Route 14</category>
+      <description>Northbound Route 14 trip departing 66th St E &amp; Richfield Pkwy / 16th Ave at 10:52 AM canceled today due to mechanical issue</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
@@ -118,13 +91,13 @@ Affected st</title>
       <description>METRO E Line detoured off Hennepin Ave from 28th St to Lake St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM. Board at: Uptown Transit Station - Gates D/E - Stop #52857 (westbound). | Action: Board at: Uptown Transit Station - Gates D/E - Stop #52857 (westbound)</description>
     </item>
     <item>
-      <title>[Moderate] METRO E Line: Detour via France Ave S (62nd St to 65th St)</title>
+      <title>[Moderate] METRO E Line: Detour via France Ave (62nd St to 65th St)</title>
       <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-52878-2026-09-16T12:18:04.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 12:18:04 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52878-2026-09-16T14:12:46.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 14:12:46 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO E Line</category>
-      <description>E Line detoured off France Ave S from 62nd St to 65th St until further notice due to construction. Board at: France &amp; 58th St Station - Stop #1149 (southbound); Southdale Hospital Station - Stop #1156 (eastbound). | Action: Board at: France &amp; 58th St Station - Stop #1149 (southbound); Southdale Hospital Station - Stop #1156 (eastbound)</description>
+      <description>METRO E Line detoured off France Ave from 62nd St to 65th St until further notice due to construction. Board at: France &amp; 58th St Station - Stop #1149 (southbound); Southdale Hospital Station - Stop #1156 (eastbound). | Action: Board at: France &amp; 58th St Station - Stop #1149 (southbound); Southdale Hospital Station - Stop #1156 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] METRO Gold Line: Detour via 6th St &amp; Jackson St</title>
@@ -179,6 +152,15 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 3, Route 3B</category>
       <description>Route 3B detoured off Front Ave from Como Place to Dale St beginning Thu Sep 10 at 5:00 AM until further notice due to utility work. Board at: Front Ave &amp; Barrett St - Stop #952 (eastbound); Front Ave &amp; Mackubin St - Stop #960 (eastbound). | Action: Board at: Front Ave &amp; Barrett St - Stop #952 (eastbound); Front Ave &amp; Mackubin St - Stop #960 (eastbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 4, Route 4P: Detour via Penn Ave S &amp; Best Buy - St</title>
+      <link>https://www.metrotransit.org/route/4</link>
+      <guid isPermaLink="false">Metro Transit-52884-2026-09-16T14:06:44.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 14:06:44 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 4, Route 4P</category>
+      <description>Route 4P detoured off Penn Ave from Hwy 62 to 76th St from 9:30 AM to 6:00 PM on Sun Sep 20 due to Open Streets Penn Fest. Board at: Penn Ave S &amp; Best Buy - Stop #1066 (northbound); Penn Ave S &amp; 61st St W - Stop #1084 (northbound). | Action: Board at: Penn Ave S &amp; Best Buy - Stop #1066 (northbound); Penn Ave S &amp; 61st St W - Stop #1084 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 5: Detour via Chicago Ave S &amp; 41st St E</title>
@@ -365,11 +347,11 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 18: Detour via 1st Ave S &amp; Lake St</title>
       <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-49874-2026-07-20T10:00:01.000Z</guid>
-      <pubDate>Mon, 20 Jul 2026 10:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-49874-2026-09-16T16:25:33.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 16:25:33 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 18</category>
-      <description>Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln beginning Mon Jul 13 at 5:00 AM until further notice due to construction. Board at: 1st Ave S &amp; Lake St - Stop #1889 (northbound); Nicollet Ave S &amp; 27th St / 26th St E - Stop #52309 (northbound). | Action: Board at: 1st Ave S &amp; Lake St - Stop #1889 (northbound); Nicollet Ave S &amp; 27th St / 26th St E - Stop #52309 (northbound)</description>
+      <description>Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln beginning Mon Jul 13 at 5:00 AM until further notice due to construction. Board at: 1st Ave S &amp; Lake St - Stop #1889 (northbound); Temporary stop on 1st Ave S &amp; 28th St (northbound); Nicollet Ave S &amp; 27th St / 26th St E - Stop #52309 (northbound). | Action: Board at: 1st Ave S &amp; Lake St - Stop #1889 (northbound); Temporary stop on 1st Ave S &amp; 28th St (northbound); Nicollet Ave S &amp; 27th St / 26th St E - Stop #52309 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 18: Stop Closed at Nicollet Ave S &amp; 33rd St W</title>
@@ -743,11 +725,11 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 68: Detour via Jackson St &amp; Cook Ave</title>
       <link>https://www.metrotransit.org/route/68</link>
-      <guid isPermaLink="false">Metro Transit-51926-2026-09-03T18:32:24.000Z</guid>
-      <pubDate>Thu, 03 Sep 2026 18:32:24 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-51926-2026-09-16T15:58:22.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 15:58:22 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 68</category>
-      <description>Route 68 detoured off Jackson St from Magnolia Ave to Maryland Ave beginning Mon Aug 10 at 4:00 AM until further notice due to construction. Board at: Jackson St &amp; Cook Ave - Stop #18026 (northbound); Maryland Ave E &amp; Jackson St - Stop #80920 (eastbound). | Action: Board at: Jackson St &amp; Cook Ave - Stop #18026 (northbound); Maryland Ave E &amp; Jackson St - Stop #80920 (eastbound)</description>
+      <description>Route 68 detoured off Jackson St from Magnolia Ave to Maryland Ave beginning Mon Aug 10 at 4:00 AM until further notice due to construction. Board at: Jackson St &amp; Cook Ave - Stop #18026 (northbound); L&apos;Orient St &amp; Kmart - Stop #49938 (northbound). | Action: Board at: Jackson St &amp; Cook Ave - Stop #18026 (northbound); L&apos;Orient St &amp; Kmart - Stop #49938 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 68, Route 68C: Detour via Southview Blvd &amp; 8th Ave S</title>

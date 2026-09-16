@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-16T13:05:02.952Z",
-    "totalAlerts": 123,
-    "criticalCount": 5,
-    "moderateCount": 115,
+    "generatedAt": "2026-09-16T17:56:20.697Z",
+    "totalAlerts": 121,
+    "criticalCount": 2,
+    "moderateCount": 116,
     "minorCount": 3,
     "affectedRoutesCount": 85,
     "agencies": [
@@ -12,134 +12,56 @@
   },
   "alerts": [
     {
-      "id": "52880",
+      "id": "52889",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO C Line: Northbound 7:21 AM Trip Canceled (7th St & Park Station)",
-      "summary": "Northbound C Line trip departing 7th St & Park Station at 7:21 AM canceled today due to mechanical issue",
+      "title": "METRO D Line: Service Canceled",
+      "summary": "D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM and three other trips canceled today",
       "affectedRoutes": [
-        "METRO C Line"
+        "METRO D Line"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-16T18:59:00.000Z",
+        "end": "2026-09-17T02:12:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-09-16T17:35:42.000Z",
+      "rawHeader": "D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM and three other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting MOA Transit Station Gate A at 3:39 PM\r\ndeparting MOA Transit Station Gate A at 7:00 PM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 1:59 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 5:18 PM"
+    },
+    {
+      "id": "52887",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 14: Northbound 10:52 AM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)",
+      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 10:52 AM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 14"
       ],
       "direction": "Northbound",
-      "intersections": [
-        "Northbound C Line trip departing 7th St & Park St"
-      ],
+      "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-16T12:42:00.000Z",
-        "end": "2026-09-16T13:53:00.000Z"
+        "start": "2026-09-16T16:17:00.000Z",
+        "end": "2026-09-16T18:00:00.000Z"
       },
       "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/cline",
-      "updatedAt": "2026-09-16T12:43:07.000Z",
-      "rawHeader": "Northbound C Line trip departing 7th St & Park Station at 7:21 AM canceled today due to mechanical issue",
+      "url": "https://www.metrotransit.org/route/14",
+      "updatedAt": "2026-09-16T16:18:42.000Z",
+      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 10:52 AM canceled today due to mechanical issue",
       "rawDescription": ""
-    },
-    {
-      "id": "52876",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 46, Route 46C: Westbound 7:11 AM Trip Canceled (46th St Station & Gate G)",
-      "summary": "Westbound Route 46C trip departing 46th St Station & Gate G at 7:11 AM canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 46",
-        "Route 46C"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-16T12:11:00.000Z",
-        "end": "2026-09-16T13:45:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/46",
-      "updatedAt": "2026-09-16T11:55:52.000Z",
-      "rawHeader": "Westbound Route 46C trip departing 46th St Station & Gate G at 7:11 AM canceled today due to mechanical issue",
-      "rawDescription": ""
-    },
-    {
-      "id": "52877",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 46: Eastbound 6:30 AM Trip Canceled (Eden-Vernon Busway & Sherwood/Vernon Ave)",
-      "summary": "Eastbound Route 46 trip departing Eden-Vernon Busway & Sherwood/Vernon Ave at 6:30 AM canceled today",
-      "affectedRoutes": [
-        "Route 46"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {},
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/46",
-      "updatedAt": "2026-09-16T13:03:02.000Z",
-      "rawHeader": "Eastbound Route 46 trip departing Eden-Vernon Busway & Sherwood/Vernon Ave at 6:30 AM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "52881",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 46: Service Canceled",
-      "summary": "Route 46 trips departing Eden-Vernon Busway & Sherwood/Vernon Ave at 8:00 AM and departing 46th St Station & Gate G at 8:43 AM canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 46"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-16T13:00:00.000Z",
-        "end": "2026-09-16T15:16:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/46",
-      "updatedAt": "2026-09-16T12:48:44.000Z",
-      "rawHeader": "Route 46 trips departing Eden-Vernon Busway & Sherwood/Vernon Ave at 8:00 AM and departing 46th St Station & Gate G at 8:43 AM canceled today due to mechanical issue",
-      "rawDescription": ""
-    },
-    {
-      "id": "52879",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 721: Service Canceled",
-      "summary": "Route 721 trip departing Hennepin Technical College & Main Door at 6:58 AM and two other trips canceled today",
-      "affectedRoutes": [
-        "Route 721"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-16T12:47:00.000Z",
-        "end": "2026-09-16T14:23:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/721",
-      "updatedAt": "2026-09-16T12:47:59.000Z",
-      "rawHeader": "Route 721 trip departing Hennepin Technical College & Main Door at 6:58 AM and two other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate A at 7:30 AM\r\n\nAffected southbound trips:\r\ndeparting Hennepin Technical College & Main Door at 6:58 AM\r\ndeparting Hennepin Technical College & Main Door at 7:58 AM"
     },
     {
       "id": "49962",
@@ -461,14 +383,14 @@
       "id": "52878",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "METRO E Line: Detour via France Ave S (62nd St to 65th St)",
-      "summary": "E Line detoured off France Ave S from 62nd St to 65th St until further notice due to construction. Board at: France & 58th St Station - Stop #1149 (southbound); Southdale Hospital Station - Stop #1156 (eastbound).",
+      "title": "METRO E Line: Detour via France Ave (62nd St to 65th St)",
+      "summary": "METRO E Line detoured off France Ave from 62nd St to 65th St until further notice due to construction. Board at: France & 58th St Station - Stop #1149 (southbound); Southdale Hospital Station - Stop #1156 (eastbound).",
       "affectedRoutes": [
         "METRO E Line"
       ],
-      "direction": "Southbound",
+      "direction": "Both Directions",
       "intersections": [
-        "France Ave S (62nd St to 65th St)"
+        "France Ave (62nd St to 65th St)"
       ],
       "closedStopIds": [
         "1153",
@@ -489,16 +411,16 @@
         }
       ],
       "riderAlternative": "Board at: France & 58th St Station - Stop #1149 (southbound); Southdale Hospital Station - Stop #1156 (eastbound)",
-      "detourDetails": "Southbound buses will travel regular route on France Ave S to 62nd St W, right on 62nd St, left on Brookview, left on Valley View Rd, left on 65th St W, continue to France and resume regular route.",
+      "detourDetails": "Northbound buses will travel regular route.",
       "activePeriod": {
         "start": "2026-09-16T12:18:00.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-09-16T12:18:04.000Z",
-      "rawHeader": "E Line detoured off France Ave S from 62nd St to 65th St until further notice due to construction",
-      "rawDescription": "Get on/off buses at:\r\nFrance & 58th St Station - Stop #1149 (southbound)\r\nSouthdale Hospital Station - Stop #1156 (eastbound)\r\n\nAffected direction: Southbound\r\nSouthbound buses will travel regular route on France Ave S to 62nd St W, right on 62nd St, left on Brookview, left on Valley View Rd, left on 65th St W, continue to France and resume regular route. \r\n\nAffected stops:\r\nFrance & 62nd St Station - Stop #1153 (southbound)"
+      "updatedAt": "2026-09-16T14:12:46.000Z",
+      "rawHeader": "METRO E Line detoured off France Ave from 62nd St to 65th St until further notice due to construction",
+      "rawDescription": "Get on/off buses at:\r\nFrance & 58th St Station - Stop #1149 (southbound)\r\nSouthdale Hospital Station - Stop #1156 (eastbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on France Ave to 62nd St, right on 62nd St, left on Brookview Ave, left on Valley View Rd, left on 65th St to France Ave, and resume regular route. \r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nFrance & 62nd St Station - Stop #1153 (southbound)"
     },
     {
       "id": "50989",
@@ -1020,6 +942,165 @@
       "updatedAt": "2026-09-10T20:47:54.000Z",
       "rawHeader": "Route 3B detoured off Front Ave from Como Place to Dale St beginning Thu Sep 10 at 5:00 AM until further notice due to utility work",
       "rawDescription": "For eastbound Route 3B get on/off buses at:\r\nFront Ave & Barrett St - Stop #952 (eastbound)\r\nFront Ave & Mackubin St - Stop #960 (eastbound)\r\n\nFor westbound Route 3B get on/off buses at:\r\nFront Ave & Dale St - Stop #840 (westbound)\r\nFront Ave & Barrett St - Stop #847 (westbound)\r\n\nEastbound buses will travel regular route on Front Ave to Como Pl, left on Como Pl, right on Jessamine Ave, right on Como Ave, continue on Como Ave to Dale St, veer left onto Front Ave and resume regular route.\r\n\nWestbound buses will travel regular route on Front Ave to Dale St, veer right onto Como Ave, continue on Como Ave to Jessamine Ave, left on Jessamine Ave, left on Como Pl, right on Front Ave and resume regular route.\r\n\nAffected stops:\r\nFront Ave & Grotto St - Stop #956 (eastbound)\r\nFront Ave & Dale St - Stop #958 (eastbound)\r\nFront Ave & Grotto St - Stop #843 (westbound)"
+    },
+    {
+      "id": "52884",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 4, Route 4P: Detour via Penn Ave S & Best Buy - St",
+      "summary": "Route 4P detoured off Penn Ave from Hwy 62 to 76th St from 9:30 AM to 6:00 PM on Sun Sep 20 due to Open Streets Penn Fest. Board at: Penn Ave S & Best Buy - Stop #1066 (northbound); Penn Ave S & 61st St W - Stop #1084 (northbound).",
+      "affectedRoutes": [
+        "Route 4",
+        "Route 4P"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Penn Ave S & Best Buy - St",
+        "Penn Ave S & 61st St W",
+        "Penn Ave S & 76th St W",
+        "Penn Ave S & 75th St W",
+        "Penn Ave S & 74th St W"
+      ],
+      "closedStopIds": [
+        "1067",
+        "1069",
+        "1070",
+        "1071",
+        "1073",
+        "1075",
+        "1077",
+        "1079",
+        "1080",
+        "1036",
+        "1037",
+        "1039",
+        "57378",
+        "1043",
+        "1045",
+        "1046",
+        "1047",
+        "1048",
+        "1066",
+        "1084",
+        "1030",
+        "2043"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "1067",
+          "name": "Penn Ave S & 75th St W",
+          "direction": "northbound"
+        },
+        {
+          "id": "1069",
+          "name": "Penn Ave S & 74th St W",
+          "direction": "northbound"
+        },
+        {
+          "id": "1070",
+          "name": "Penn Ave S & 73rd St W",
+          "direction": "northbound"
+        },
+        {
+          "id": "1071",
+          "name": "Penn Ave S & 72nd St W",
+          "direction": "northbound"
+        },
+        {
+          "id": "1073",
+          "name": "Penn Ave S & 70th St W",
+          "direction": "northbound"
+        },
+        {
+          "id": "1075",
+          "name": "Penn Ave S & 68th St W",
+          "direction": "northbound"
+        },
+        {
+          "id": "1077",
+          "name": "Penn Ave S & 66th St W",
+          "direction": "northbound"
+        },
+        {
+          "id": "1079",
+          "name": "Penn Ave S & 64th St W",
+          "direction": "northbound"
+        },
+        {
+          "id": "1080",
+          "name": "Penn Ave S & 63rd St W",
+          "direction": "northbound"
+        },
+        {
+          "id": "1036",
+          "name": "Penn Ave S & 63rd St W",
+          "direction": "southbound"
+        },
+        {
+          "id": "1037",
+          "name": "Penn Ave S & 64th St W",
+          "direction": "southbound"
+        },
+        {
+          "id": "1039",
+          "name": "Penn Ave S & 66th St W",
+          "direction": "southbound"
+        },
+        {
+          "id": "57378",
+          "name": "Penn Ave S & 68th St W",
+          "direction": "southbound"
+        },
+        {
+          "id": "1043",
+          "name": "Penn Ave S & 70th St W",
+          "direction": "southbound"
+        },
+        {
+          "id": "1045",
+          "name": "Penn Ave S & 72nd St W",
+          "direction": "southbound"
+        },
+        {
+          "id": "1046",
+          "name": "Penn Ave S & 73rd St W",
+          "direction": "southbound"
+        },
+        {
+          "id": "1047",
+          "name": "Penn Ave S & 74th St W",
+          "direction": "southbound"
+        },
+        {
+          "id": "1048",
+          "name": "Penn Ave S & 75th St W",
+          "direction": "southbound"
+        },
+        {
+          "id": "1066"
+        },
+        {
+          "id": "1084"
+        },
+        {
+          "id": "1030"
+        },
+        {
+          "id": "2043"
+        }
+      ],
+      "riderAlternative": "Board at: Penn Ave S & Best Buy - Stop #1066 (northbound); Penn Ave S & 61st St W - Stop #1084 (northbound)",
+      "detourDetails": "buses will travel regular route on Penn Ave to 76th St, right on 76th St, left on northbound I-35W ramp, continue onto westbound Hwy 62, exit at Penn Ave, right on Penn Ave, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-09-20T14:30:00.000Z",
+        "end": "2026-09-20T23:00:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/4",
+      "updatedAt": "2026-09-16T14:06:44.000Z",
+      "rawHeader": "Route 4P detoured off Penn Ave from Hwy 62 to 76th St from 9:30 AM to 6:00 PM on Sun Sep 20 due to Open Streets Penn Fest",
+      "rawDescription": "For northbound Route 4 get on/off buses at:\r\nPenn Ave S & Best Buy - Stop #1066 (northbound)\r\nPenn Ave S & 61st St W - Stop #1084 (northbound)\r\n\nFor southbound Route 4 get on/off buses at:\r\nPenn Ave S & 61st St W - Stop #1030 (southbound)\r\nPenn Ave S & 76th St W - Stop #2043 (southbound)\r\n\nNorthbound 4 (via Penn) buses will travel regular route on Penn Ave to 76th St, right on 76th St, left on northbound I-35W ramp, continue onto westbound Hwy 62, exit at Penn Ave, right on Penn Ave, and resume regular route.\r\n\nSouthbound 4P buses will travel regular route on Penn Ave to Hwy 62, left on eastbound Hwy 62 ramp, continue onto southbound I-35W, exit at 76th St, right on 76th St, left on Penn Ave, and resume regular route.\r\n\nAffected stops:\r\nPenn Ave S & 75th St W - Stop #1067 (northbound)\r\nPenn Ave S & 74th St W - Stop #1069 (northbound)\r\nPenn Ave S & 73rd St W - Stop #1070 (northbound)\r\nPenn Ave S & 72nd St W - Stop #1071 (northbound)\r\nPenn Ave S & 70th St W - Stop #1073 (northbound)\r\nPenn Ave S & 68th St W - Stop #1075 (northbound)\r\nPenn Ave S & 66th St W - Stop #1077 (northbound)\r\nPenn Ave S & 64th St W - Stop #1079 (northbound)\r\nPenn Ave S & 63rd St W - Stop #1080 (northbound)\r\nPenn Ave S & 63rd St W - Stop #1036 (southbound)\r\nPenn Ave S & 64th St W - Stop #1037 (southbound)\r\nPenn Ave S & 66th St W - Stop #1039 (southbound)\r\nPenn Ave S & 68th St W - Stop #57378 (southbound)\r\nPenn Ave S & 70th St W - Stop #1043 (southbound)\r\nPenn Ave S & 72nd St W - Stop #1045 (southbound)\r\nPenn Ave S & 73rd St W - Stop #1046 (southbound)\r\nPenn Ave S & 74th St W - Stop #1047 (southbound)\r\nPenn Ave S & 75th St W - Stop #1048 (southbound)"
     },
     {
       "id": "51930",
@@ -2764,17 +2845,17 @@
       "agency": "Metro Transit",
       "severity": "Moderate",
       "title": "Route 18: Detour via 1st Ave S & Lake St",
-      "summary": "Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln beginning Mon Jul 13 at 5:00 AM until further notice due to construction. Board at: 1st Ave S & Lake St - Stop #1889 (northbound); Nicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound).",
+      "summary": "Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln beginning Mon Jul 13 at 5:00 AM until further notice due to construction. Board at: 1st Ave S & Lake St - Stop #1889 (northbound); Temporary stop on 1st Ave S & 28th St (northbound); Nicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound).",
       "affectedRoutes": [
         "Route 18"
       ],
       "direction": "Both Directions",
       "intersections": [
         "1st Ave S & Lake St",
+        "1st Ave S & 28th St",
         "Nicollet Ave S & 27th St",
         "Nicollet Ave S & 24th St W",
-        "Blaisdell Ave & 28th St",
-        "Blaisdell Ave S & Lake St"
+        "Blaisdell Ave & 28th St"
       ],
       "closedStopIds": [
         "1890",
@@ -2814,7 +2895,7 @@
           "id": "14850"
         }
       ],
-      "riderAlternative": "Board at: 1st Ave S & Lake St - Stop #1889 (northbound); Nicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound)",
+      "riderAlternative": "Board at: 1st Ave S & Lake St - Stop #1889 (northbound); Temporary stop on 1st Ave S & 28th St (northbound); Nicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound)",
       "detourDetails": "Northbound buses will travel regular route on 1st Ave to Cecil Newman, continue on 1st Ave to 27th St, left on 27th St, right on Nicollet Ave and resume regular route.",
       "activePeriod": {
         "start": "2026-07-13T10:00:00.000Z",
@@ -2823,9 +2904,9 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/18",
-      "updatedAt": "2026-07-20T10:00:01.000Z",
+      "updatedAt": "2026-09-16T16:25:33.000Z",
       "rawHeader": "Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln beginning Mon Jul 13 at 5:00 AM until further notice due to construction",
-      "rawDescription": "For northbound Route 18 get on/off buses at:\r\n1st Ave S & Lake St - Stop #1889 (northbound)\r\nNicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound)\r\n\nFor southbound Route 18 get on/off buses at:\r\nNicollet Ave S & 24th St W - Stop #1204 (southbound)\r\nTemporary stop on Nicollet Ave just before 26th St (southbound)\r\nTemporary stop on Blaisdell Ave & 28th St (southbound)\r\nBlaisdell Ave S & Lake St - Stop #14850 (southbound)\r\n\nNorthbound buses will travel regular route on 1st Ave to Cecil Newman, continue on 1st Ave to 27th St, left on 27th St, right on Nicollet Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Nicollet Ave to 26th St, right on 26th St, left on Blaisdell Ave, continue on Blaisdell Ave to 29th St and resume regular route. \r\n\nAffected stops:\r\nNicollet Ave S & 28th St E - Stop #1890 (northbound)\r\nNicollet Ave S & 26th St W - Stop #1206 (southbound)\r\nNicollet Ave S & 28th St W - Stop #1208 (southbound)"
+      "rawDescription": "For northbound Route 18 get on/off buses at:\r\n1st Ave S & Lake St - Stop #1889 (northbound)\r\nTemporary stop on 1st Ave S & 28th St (northbound)\r\nNicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound)\r\n\nFor southbound Route 18 get on/off buses at:\r\nNicollet Ave S & 24th St W - Stop #1204 (southbound)\r\nTemporary stop on Nicollet Ave just before 26th St (southbound)\r\nTemporary stop on Blaisdell Ave & 28th St (southbound)\r\nBlaisdell Ave S & Lake St - Stop #14850 (southbound)\r\n\nNorthbound buses will travel regular route on 1st Ave to Cecil Newman, continue on 1st Ave to 27th St, left on 27th St, right on Nicollet Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Nicollet Ave to 26th St, right on 26th St, left on Blaisdell Ave, continue on Blaisdell Ave to 29th St and resume regular route. \r\n\nAffected stops:\r\nNicollet Ave S & 28th St E - Stop #1890 (northbound)\r\nNicollet Ave S & 26th St W - Stop #1206 (southbound)\r\nNicollet Ave S & 28th St W - Stop #1208 (southbound)"
     },
     {
       "id": "52117",
@@ -6097,17 +6178,17 @@
       "agency": "Metro Transit",
       "severity": "Moderate",
       "title": "Route 68: Detour via Jackson St & Cook Ave",
-      "summary": "Route 68 detoured off Jackson St from Magnolia Ave to Maryland Ave beginning Mon Aug 10 at 4:00 AM until further notice due to construction. Board at: Jackson St & Cook Ave - Stop #18026 (northbound); Maryland Ave E & Jackson St - Stop #80920 (eastbound).",
+      "summary": "Route 68 detoured off Jackson St from Magnolia Ave to Maryland Ave beginning Mon Aug 10 at 4:00 AM until further notice due to construction. Board at: Jackson St & Cook Ave - Stop #18026 (northbound); L'Orient St & Kmart - Stop #49938 (northbound).",
       "affectedRoutes": [
         "Route 68"
       ],
       "direction": "Both Directions",
       "intersections": [
         "Jackson St & Cook Ave",
+        "L'Orient St & Kmart - St",
         "Maryland Ave E & Jackson St",
         "Magnolia Ave E & Jackson St",
-        "right on Jackson St & resume regular route.\n\nAffected st",
-        "Jackson St & Jessamine Ave"
+        "right on Jackson St & resume regular route.\n\nAffected st"
       ],
       "closedStopIds": [
         "18028",
@@ -6115,9 +6196,10 @@
         "56323",
         "40098",
         "18026",
-        "80920",
+        "49938",
         "80922",
-        "81076"
+        "81076",
+        "80920"
       ],
       "closedStopDetails": [
         {
@@ -6144,16 +6226,19 @@
           "id": "18026"
         },
         {
-          "id": "80920"
+          "id": "49938"
         },
         {
           "id": "80922"
         },
         {
           "id": "81076"
+        },
+        {
+          "id": "80920"
         }
       ],
-      "riderAlternative": "Board at: Jackson St & Cook Ave - Stop #18026 (northbound); Maryland Ave E & Jackson St - Stop #80920 (eastbound)",
+      "riderAlternative": "Board at: Jackson St & Cook Ave - Stop #18026 (northbound); L'Orient St & Kmart - Stop #49938 (northbound)",
       "detourDetails": "Northbound buses will travel regular route on Jackson St to Magnolia Ave, left on Magnolia Ave, right on Sylvan St, right on Maryland Ave, continue on Maryland Ave to Jackson St and resume regular route.",
       "activePeriod": {
         "start": "2026-08-21T15:20:00.000Z",
@@ -6162,9 +6247,9 @@
       "cause": "CONSTRUCTION",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/68",
-      "updatedAt": "2026-09-03T18:32:24.000Z",
+      "updatedAt": "2026-09-16T15:58:22.000Z",
       "rawHeader": "Route 68 detoured off Jackson St from Magnolia Ave to Maryland Ave beginning Mon Aug 10 at 4:00 AM until further notice due to construction",
-      "rawDescription": "For northbound Route 68 get on/off buses at:\r\nJackson St & Cook Ave - Stop #18026 (northbound)\r\nMaryland Ave E & Jackson St - Stop #80920 (eastbound)\r\n\nFor southbound Route 68 get on/off buses at:\r\nMaryland Ave E & Jackson St - Stop #80922 (westbound)\r\nMagnolia Ave E & Jackson St - Stop #81076 (eastbound)\r\n\nNorthbound buses will travel regular route on Jackson St to Magnolia Ave, left on Magnolia Ave, right on Sylvan St, right on Maryland Ave, continue on Maryland Ave to Jackson St and resume regular route.\r\n\nSouthbound buses will travel regular route on Maryland Ave to Jackson St, continue on Maryland Ave to Sylvan St, left on Sylvan St, left on Magnolia Ave, right on Jackson St and resume regular route.\r\n\nAffected stops:\r\nJackson St & Jessamine Ave - Stop #18028 (northbound)\r\nJackson St & Rose Ave E - Stop #56324 (northbound)\r\nJackson St & Rose Ave E - Stop #56323 (southbound)\r\nJackson St & Jessamine Ave - Stop #40098 (southbound)"
+      "rawDescription": "Updated get on/off stops 9/16 11 am.\r\n\nFor northbound Route 68 get on/off buses at:\r\nJackson St & Cook Ave - Stop #18026 (northbound)\r\nL'Orient St & Kmart - Stop #49938 (northbound)\r\n\nFor southbound Route 68 get on/off buses at:\r\nMaryland Ave E & Jackson St - Stop #80922 (westbound)\r\nMagnolia Ave E & Jackson St - Stop #81076 (eastbound)\r\n\nNorthbound buses will travel regular route on Jackson St to Magnolia Ave, left on Magnolia Ave, right on Sylvan St, right on Maryland Ave, continue on Maryland Ave to Jackson St and resume regular route.\r\n\nSouthbound buses will travel regular route on Maryland Ave to Jackson St, continue on Maryland Ave to Sylvan St, left on Sylvan St, left on Magnolia Ave, right on Jackson St and resume regular route.\r\n\nAffected stops:\r\nJackson St & Jessamine Ave - Stop #18028 (northbound)\r\nJackson St & Rose Ave E - Stop #56324 (northbound)\r\nJackson St & Rose Ave E - Stop #56323 (southbound)\r\nJackson St & Jessamine Ave - Stop #40098 (southbound)"
     },
     {
       "id": "51928",

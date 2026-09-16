@@ -2,120 +2,63 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-123-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-5-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-115-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-121-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-116-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-85-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-16T13:05:02.952Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-16T17:56:20.697Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (2) • **METRO D Line** (3) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (4) • **Route 46C** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (1) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
+**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (4) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (4) • **Route 14** (3) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (1) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO C Line: Northbound 7:21 AM Trip Canceled (7th St & Park Station)
+### 🚨 METRO D Line: Service Canceled
 
-- **Affected Routes**: `METRO C Line`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Northbound C Line trip departing 7th St & Park St
-
-**Summary**: Northbound C Line trip departing 7th St & Park Station at 7:21 AM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/cline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound C Line trip departing 7th St & Park Station at 7:21 AM canceled today due to mechanical issue
-
-</details>
-
----
-
-### 🚨 Route 46, Route 46C: Westbound 7:11 AM Trip Canceled (46th St Station & Gate G)
-
-- **Affected Routes**: `Route 46` `Route 46C`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 46C trip departing 46th St Station & Gate G at 7:11 AM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/46)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 46C trip departing 46th St Station & Gate G at 7:11 AM canceled today due to mechanical issue
-
-</details>
-
----
-
-### 🚨 Route 46: Eastbound 6:30 AM Trip Canceled (Eden-Vernon Busway & Sherwood/Vernon Ave)
-
-- **Affected Routes**: `Route 46`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-
-**Summary**: Eastbound Route 46 trip departing Eden-Vernon Busway & Sherwood/Vernon Ave at 6:30 AM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/46)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 46 trip departing Eden-Vernon Busway & Sherwood/Vernon Ave at 6:30 AM canceled today
-
-</details>
-
----
-
-### 🚨 Route 46: Service Canceled
-
-- **Affected Routes**: `Route 46`
+- **Affected Routes**: `METRO D Line`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: Route 46 trips departing Eden-Vernon Busway & Sherwood/Vernon Ave at 8:00 AM and departing 46th St Station & Gate G at 8:43 AM canceled today due to mechanical issue
+**Summary**: D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM and three other trips canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/46)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 46 trips departing Eden-Vernon Busway & Sherwood/Vernon Ave at 8:00 AM and departing 46th St Station & Gate G at 8:43 AM canceled today due to mechanical issue
-
-</details>
-
----
-
-### 🚨 Route 721: Service Canceled
-
-- **Affected Routes**: `Route 721`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 721 trip departing Hennepin Technical College & Main Door at 6:58 AM and two other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/721)
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 721 trip departing Hennepin Technical College & Main Door at 6:58 AM and two other trips canceled today
+**Header**: D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM and three other trips canceled today
 
 ```text
 Affected northbound trips:
-departing Brooklyn Ctr Transit Ctr Gate A at 7:30 AM
+departing MOA Transit Station Gate A at 3:39 PM
+departing MOA Transit Station Gate A at 7:00 PM
 
 Affected southbound trips:
-departing Hennepin Technical College & Main Door at 6:58 AM
-departing Hennepin Technical College & Main Door at 7:58 AM
+departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM
+departing Brooklyn Ctr Transit Ctr Gate F at 5:18 PM
 ```
+
+</details>
+
+---
+
+### 🚨 Route 14: Northbound 10:52 AM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)
+
+- **Affected Routes**: `Route 14`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 10:52 AM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/14)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 10:52 AM canceled today due to mechanical issue
 
 </details>
 
@@ -383,34 +326,37 @@ Uptown Transit Station - Gate A - Stop #50196 (southbound)
 
 ---
 
-### ⚠️ METRO E Line: Detour via France Ave S (62nd St to 65th St)
+### ⚠️ METRO E Line: Detour via France Ave (62nd St to 65th St)
 
 - **Affected Routes**: `METRO E Line`
-- **Direction**: Southbound
+- **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: France Ave S (62nd St to 65th St)
+- **Corridors & Intersections**: France Ave (62nd St to 65th St)
 - **Closed Stops**: France & 62nd St Station (Stop #1153), Stop #1149, Stop #1156
 
-**Summary**: E Line detoured off France Ave S from 62nd St to 65th St until further notice due to construction. Board at: France & 58th St Station - Stop #1149 (southbound); Southdale Hospital Station - Stop #1156 (eastbound).
+**Summary**: METRO E Line detoured off France Ave from 62nd St to 65th St until further notice due to construction. Board at: France & 58th St Station - Stop #1149 (southbound); Southdale Hospital Station - Stop #1156 (eastbound).
 
 > 💡 **Rider Action**: Board at: France & 58th St Station - Stop #1149 (southbound); Southdale Hospital Station - Stop #1156 (eastbound)
 
-> 🔄 **Detour Path**: Southbound buses will travel regular route on France Ave S to 62nd St W, right on 62nd St, left on Brookview, left on Valley View Rd, left on 65th St W, continue to France and resume regular route.
+> 🔄 **Detour Path**: Northbound buses will travel regular route.
 
 [Official Agency Advisory](https://www.metrotransit.org/route/eline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: E Line detoured off France Ave S from 62nd St to 65th St until further notice due to construction
+**Header**: METRO E Line detoured off France Ave from 62nd St to 65th St until further notice due to construction
 
 ```text
 Get on/off buses at:
 France & 58th St Station - Stop #1149 (southbound)
 Southdale Hospital Station - Stop #1156 (eastbound)
 
+Northbound buses will travel regular route.
+
+Southbound buses will travel regular route on France Ave to 62nd St, right on 62nd St, left on Brookview Ave, left on Valley View Rd, left on 65th St to France Ave, and resume regular route. 
+
 Affected direction: Southbound
-Southbound buses will travel regular route on France Ave S to 62nd St W, right on 62nd St, left on Brookview, left on Valley View Rd, left on 65th St W, continue to France and resume regular route. 
 
 Affected stops:
 France & 62nd St Station - Stop #1153 (southbound)
@@ -727,6 +673,65 @@ Affected stops:
 Front Ave & Grotto St - Stop #956 (eastbound)
 Front Ave & Dale St - Stop #958 (eastbound)
 Front Ave & Grotto St - Stop #843 (westbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 4, Route 4P: Detour via Penn Ave S & Best Buy - St
+
+- **Affected Routes**: `Route 4` `Route 4P`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Penn Ave S & Best Buy - St; Penn Ave S & 61st St W; Penn Ave S & 76th St W; Penn Ave S & 75th St W; Penn Ave S & 74th St W
+- **Closed Stops**: Penn Ave S & 75th St W (Stop #1067), Penn Ave S & 74th St W (Stop #1069), Penn Ave S & 73rd St W (Stop #1070), Penn Ave S & 72nd St W (Stop #1071), Penn Ave S & 70th St W (Stop #1073), Penn Ave S & 68th St W (Stop #1075), Penn Ave S & 66th St W (Stop #1077), Penn Ave S & 64th St W (Stop #1079) *(+14 more)*
+
+**Summary**: Route 4P detoured off Penn Ave from Hwy 62 to 76th St from 9:30 AM to 6:00 PM on Sun Sep 20 due to Open Streets Penn Fest. Board at: Penn Ave S & Best Buy - Stop #1066 (northbound); Penn Ave S & 61st St W - Stop #1084 (northbound).
+
+> 💡 **Rider Action**: Board at: Penn Ave S & Best Buy - Stop #1066 (northbound); Penn Ave S & 61st St W - Stop #1084 (northbound)
+
+> 🔄 **Detour Path**: buses will travel regular route on Penn Ave to 76th St, right on 76th St, left on northbound I-35W ramp, continue onto westbound Hwy 62, exit at Penn Ave, right on Penn Ave, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/4)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 4P detoured off Penn Ave from Hwy 62 to 76th St from 9:30 AM to 6:00 PM on Sun Sep 20 due to Open Streets Penn Fest
+
+```text
+For northbound Route 4 get on/off buses at:
+Penn Ave S & Best Buy - Stop #1066 (northbound)
+Penn Ave S & 61st St W - Stop #1084 (northbound)
+
+For southbound Route 4 get on/off buses at:
+Penn Ave S & 61st St W - Stop #1030 (southbound)
+Penn Ave S & 76th St W - Stop #2043 (southbound)
+
+Northbound 4 (via Penn) buses will travel regular route on Penn Ave to 76th St, right on 76th St, left on northbound I-35W ramp, continue onto westbound Hwy 62, exit at Penn Ave, right on Penn Ave, and resume regular route.
+
+Southbound 4P buses will travel regular route on Penn Ave to Hwy 62, left on eastbound Hwy 62 ramp, continue onto southbound I-35W, exit at 76th St, right on 76th St, left on Penn Ave, and resume regular route.
+
+Affected stops:
+Penn Ave S & 75th St W - Stop #1067 (northbound)
+Penn Ave S & 74th St W - Stop #1069 (northbound)
+Penn Ave S & 73rd St W - Stop #1070 (northbound)
+Penn Ave S & 72nd St W - Stop #1071 (northbound)
+Penn Ave S & 70th St W - Stop #1073 (northbound)
+Penn Ave S & 68th St W - Stop #1075 (northbound)
+Penn Ave S & 66th St W - Stop #1077 (northbound)
+Penn Ave S & 64th St W - Stop #1079 (northbound)
+Penn Ave S & 63rd St W - Stop #1080 (northbound)
+Penn Ave S & 63rd St W - Stop #1036 (southbound)
+Penn Ave S & 64th St W - Stop #1037 (southbound)
+Penn Ave S & 66th St W - Stop #1039 (southbound)
+Penn Ave S & 68th St W - Stop #57378 (southbound)
+Penn Ave S & 70th St W - Stop #1043 (southbound)
+Penn Ave S & 72nd St W - Stop #1045 (southbound)
+Penn Ave S & 73rd St W - Stop #1046 (southbound)
+Penn Ave S & 74th St W - Stop #1047 (southbound)
+Penn Ave S & 75th St W - Stop #1048 (southbound)
 ```
 
 </details>
@@ -1688,12 +1693,12 @@ Nicollet Ave S & Diamond Lake Rd - Stop #1338 (southbound)
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Jul 13 at 5:00 AM until further notice
-- **Corridors & Intersections**: 1st Ave S & Lake St; Nicollet Ave S & 27th St; Nicollet Ave S & 24th St W; Blaisdell Ave & 28th St; Blaisdell Ave S & Lake St
+- **Corridors & Intersections**: 1st Ave S & Lake St; 1st Ave S & 28th St; Nicollet Ave S & 27th St; Nicollet Ave S & 24th St W; Blaisdell Ave & 28th St
 - **Closed Stops**: Nicollet Ave S & 28th St E (Stop #1890), Nicollet Ave S & 26th St W (Stop #1206), Nicollet Ave S & 28th St W (Stop #1208), Stop #1889, Stop #52309, Stop #1204, Stop #14850
 
-**Summary**: Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln beginning Mon Jul 13 at 5:00 AM until further notice due to construction. Board at: 1st Ave S & Lake St - Stop #1889 (northbound); Nicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound).
+**Summary**: Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln beginning Mon Jul 13 at 5:00 AM until further notice due to construction. Board at: 1st Ave S & Lake St - Stop #1889 (northbound); Temporary stop on 1st Ave S & 28th St (northbound); Nicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound).
 
-> 💡 **Rider Action**: Board at: 1st Ave S & Lake St - Stop #1889 (northbound); Nicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound)
+> 💡 **Rider Action**: Board at: 1st Ave S & Lake St - Stop #1889 (northbound); Temporary stop on 1st Ave S & 28th St (northbound); Nicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound)
 
 > 🔄 **Detour Path**: Northbound buses will travel regular route on 1st Ave to Cecil Newman, continue on 1st Ave to 27th St, left on 27th St, right on Nicollet Ave and resume regular route.
 
@@ -1707,6 +1712,7 @@ Nicollet Ave S & Diamond Lake Rd - Stop #1338 (southbound)
 ```text
 For northbound Route 18 get on/off buses at:
 1st Ave S & Lake St - Stop #1889 (northbound)
+Temporary stop on 1st Ave S & 28th St (northbound)
 Nicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound)
 
 For southbound Route 18 get on/off buses at:
@@ -3617,14 +3623,14 @@ Sycamore St & Jackson St - Stop #40146 (westbound)
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Aug 10 at 4:00 AM until further notice
-- **Corridors & Intersections**: Jackson St & Cook Ave; Maryland Ave E & Jackson St; Magnolia Ave E & Jackson St; right on Jackson St & resume regular route.
+- **Corridors & Intersections**: Jackson St & Cook Ave; L'Orient St & Kmart - St; Maryland Ave E & Jackson St; Magnolia Ave E & Jackson St; right on Jackson St & resume regular route.
 
-Affected st; Jackson St & Jessamine Ave
-- **Closed Stops**: Jackson St & Jessamine Ave (Stop #18028), Jackson St & Rose Ave E (Stop #56324), Jackson St & Rose Ave E (Stop #56323), Jackson St & Jessamine Ave (Stop #40098), Stop #18026, Stop #80920, Stop #80922, Stop #81076
+Affected st
+- **Closed Stops**: Jackson St & Jessamine Ave (Stop #18028), Jackson St & Rose Ave E (Stop #56324), Jackson St & Rose Ave E (Stop #56323), Jackson St & Jessamine Ave (Stop #40098), Stop #18026, Stop #49938, Stop #80922, Stop #81076 *(+1 more)*
 
-**Summary**: Route 68 detoured off Jackson St from Magnolia Ave to Maryland Ave beginning Mon Aug 10 at 4:00 AM until further notice due to construction. Board at: Jackson St & Cook Ave - Stop #18026 (northbound); Maryland Ave E & Jackson St - Stop #80920 (eastbound).
+**Summary**: Route 68 detoured off Jackson St from Magnolia Ave to Maryland Ave beginning Mon Aug 10 at 4:00 AM until further notice due to construction. Board at: Jackson St & Cook Ave - Stop #18026 (northbound); L'Orient St & Kmart - Stop #49938 (northbound).
 
-> 💡 **Rider Action**: Board at: Jackson St & Cook Ave - Stop #18026 (northbound); Maryland Ave E & Jackson St - Stop #80920 (eastbound)
+> 💡 **Rider Action**: Board at: Jackson St & Cook Ave - Stop #18026 (northbound); L'Orient St & Kmart - Stop #49938 (northbound)
 
 > 🔄 **Detour Path**: Northbound buses will travel regular route on Jackson St to Magnolia Ave, left on Magnolia Ave, right on Sylvan St, right on Maryland Ave, continue on Maryland Ave to Jackson St and resume regular route.
 
@@ -3636,9 +3642,11 @@ Affected st; Jackson St & Jessamine Ave
 **Header**: Route 68 detoured off Jackson St from Magnolia Ave to Maryland Ave beginning Mon Aug 10 at 4:00 AM until further notice due to construction
 
 ```text
+Updated get on/off stops 9/16 11 am.
+
 For northbound Route 68 get on/off buses at:
 Jackson St & Cook Ave - Stop #18026 (northbound)
-Maryland Ave E & Jackson St - Stop #80920 (eastbound)
+L'Orient St & Kmart - Stop #49938 (northbound)
 
 For southbound Route 68 get on/off buses at:
 Maryland Ave E & Jackson St - Stop #80922 (westbound)
