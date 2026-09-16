@@ -4,26 +4,89 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Wed, 16 Sep 2026 17:56:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:55:41 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
+      <title>[Critical] METRO C Line: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/cline</link>
+      <guid isPermaLink="false">Metro Transit-52903-2026-09-16T19:58:48.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 19:58:48 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO C Line</category>
+      <description>C Line trip departing 7th St &amp; Park Station at 3:17 PM and ten other trips canceled today</description>
+    </item>
+    <item>
       <title>[Critical] METRO D Line: Service Canceled</title>
       <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-52889-2026-09-16T17:35:42.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 17:35:42 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52889-2026-09-16T18:29:00.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 18:29:00 GMT</pubDate>
       <category>Critical</category>
       <category>METRO D Line</category>
       <description>D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM and three other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 14: Northbound 10:52 AM Trip Canceled (66th St E &amp; Richfield Pkwy / 16th Ave)</title>
-      <link>https://www.metrotransit.org/route/14</link>
-      <guid isPermaLink="false">Metro Transit-52887-2026-09-16T16:18:42.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 16:18:42 GMT</pubDate>
+      <title>[Critical] METRO D Line: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-52901-2026-09-16T19:06:34.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 19:06:34 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 14</category>
-      <description>Northbound Route 14 trip departing 66th St E &amp; Richfield Pkwy / 16th Ave at 10:52 AM canceled today due to mechanical issue</description>
+      <category>METRO D Line</category>
+      <description>D Line trip departing MOA Transit Station Gate A at 2:30 PM and five other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] METRO D Line: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-52902-2026-09-16T20:38:01.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 20:38:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO D Line</category>
+      <description>D Line trips departing MOA Transit Station Gate A at 4:08 PM and departing Brooklyn Ctr Transit Ctr Gate F at 5:49 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 22: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/22</link>
+      <guid isPermaLink="false">Metro Transit-52895-2026-09-16T19:29:01.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 19:29:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 22</category>
+      <description>Route 22 trips departing Brooklyn Ctr Transit Ctr Gate H at 2:59 PM and departing VA Medical Center &amp; Visitors Entrance at 4:43 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 32: Westbound 7:34 PM Trip Canceled (Rosedale Transit Center Gate D)</title>
+      <link>https://www.metrotransit.org/route/32</link>
+      <guid isPermaLink="false">Metro Transit-52897-2026-09-16T18:39:24.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 18:39:24 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 32</category>
+      <description>Westbound Route 32 trip departing Rosedale Transit Center Gate D at 7:34 PM canceled</description>
+    </item>
+    <item>
+      <title>[Critical] Route 63: Westbound 1:59 PM Trip Canceled (Sun Ray Transit Center &amp; Gate A)</title>
+      <link>https://www.metrotransit.org/route/63</link>
+      <guid isPermaLink="false">Metro Transit-52894-2026-09-16T18:29:00.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 18:29:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 63</category>
+      <description>Westbound Route 63 trip departing Sun Ray Transit Center &amp; Gate A at 1:59 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 723: Northbound 6:35 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate A)</title>
+      <link>https://www.metrotransit.org/route/723</link>
+      <guid isPermaLink="false">Metro Transit-52896-2026-09-16T18:38:58.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 18:38:58 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 723</category>
+      <description>Northbound Route 723 trip departing Brooklyn Ctr Transit Ctr Gate A at 6:35 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 888: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/888</link>
+      <guid isPermaLink="false">Metro Transit-52905-2026-09-16T20:19:25.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 20:19:25 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 888</category>
+      <description>Route 888 trip departing 2nd Ave S &amp; 11th St - Stop Group G at 3:40 PM and two other trips canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
@@ -246,8 +309,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 10, Route 25: Detour via Washington Ave S &amp; 3rd Ave</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-52793-2026-09-14T16:36:01.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 16:36:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52793-2026-09-16T19:46:00.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 19:46:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 10, Route 25</category>
       <description>Routes 10 and 25 detoured off Nicollet Mall from Washington Ave to 12th St from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: Washington Ave S &amp; 3rd Ave / 2nd Ave - Stop #19308 (westbound); Marquette Ave &amp; 3rd St - Stop Group B - Stop #53292 (southbound); Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound). | Action: Board at: Washington Ave S &amp; 3rd Ave / 2nd Ave - Stop #19308 (westbound); Marquette Ave &amp; 3rd St - Stop Group B - Stop #53292 (southbound); Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound)</description>
@@ -273,8 +336,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 11: Detour via Hennepin Ave &amp; 1st St N</title>
       <link>https://www.metrotransit.org/route/11</link>
-      <guid isPermaLink="false">Metro Transit-52794-2026-09-14T16:41:46.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 16:41:46 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52794-2026-09-16T19:46:37.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 19:46:37 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 11</category>
       <description>Route 11 detoured off Nicollet Mall from Washington Ave to 16th St from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: Hennepin Ave &amp; 1st St N - Stop #17917 (southbound); Marquette Ave &amp; 3rd St - Stop Group B - Stop #53292 (southbound); Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound). | Action: Board at: Hennepin Ave &amp; 1st St N - Stop #17917 (southbound); Marquette Ave &amp; 3rd St - Stop Group B - Stop #53292 (southbound); Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound)</description>
@@ -329,8 +392,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 17: Detour via Washington Ave S &amp; 3rd Ave</title>
       <link>https://www.metrotransit.org/route/17</link>
-      <guid isPermaLink="false">Metro Transit-52797-2026-09-14T16:50:02.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 16:50:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52797-2026-09-16T19:47:08.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 19:47:08 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 17</category>
       <description>Route 17 detoured off Nicollet Mall from Washington Ave to 16th St from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: Washington Ave S &amp; 3rd Ave / 2nd Ave - Stop #19308 (westbound, 17 buses departing Central/26th Ave only); 4th Ave S &amp; 3rd St S - Stop #19294 (southbound, 17 buses departing Gateway Ramp only); Marquette Ave &amp; 3rd St - Stop Group B - Stop #53292 (southbound). | Action: Board at: Washington Ave S &amp; 3rd Ave / 2nd Ave - Stop #19308 (westbound, 17 buses departing Central/26th Ave only); 4th Ave S &amp; 3rd St S - Stop #19294 (southbound, 17 buses departing Gateway Ramp only); Marquette Ave &amp; 3rd St - Stop Group B - Stop #53292 (southbound)</description>
@@ -401,8 +464,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 18: Detour via 4th Ave S &amp; 3rd St S</title>
       <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-52798-2026-09-14T16:53:02.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 16:53:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52798-2026-09-16T19:47:37.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 19:47:37 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 18</category>
       <description>Route 18 detoured off Nicollet Mall from 3rd St to 16th St from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: 4th Ave S &amp; 3rd St S - Stop #19294 (southbound); Marquette Ave &amp; 3rd St - Stop Group B - Stop #53292 (southbound); Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound). | Action: Board at: 4th Ave S &amp; 3rd St S - Stop #19294 (southbound); Marquette Ave &amp; 3rd St - Stop Group B - Stop #53292 (southbound); Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound)</description>
@@ -757,6 +820,15 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 68, Route 71</category>
       <description>Robert St S &amp; Plato Blvd E - Stop #2609 (northbound) is closed for Routes 68 and 71 beginning Mon Sep 21 at 1:00 AM until further notice due to construction. Board at: Robert St S &amp; Colorado St - Stop #2608 (northbound); Robert St S &amp; Fillmore Ave - Stop #2610 (northbound). | Action: Board at: Robert St S &amp; Colorado St - Stop #2608 (northbound); Robert St S &amp; Fillmore Ave - Stop #2610 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 68: Stop Closed at Larpenteur Ave W &amp; Rice St</title>
+      <link>https://www.metrotransit.org/route/68</link>
+      <guid isPermaLink="false">Metro Transit-52904-2026-09-16T20:18:59.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 20:18:59 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 68</category>
+      <description>Larpenteur Ave W &amp; Rice St - Stop #56959 (westbound) and Larpenteur Ave W &amp; Rice / Camelot St - Stop #56960 (eastbound) are closed for Route 68 until further notice due to construction. Board at: Larpenteur Ave &amp; Sylvan St - Stop #49942 (westbound); Temporary stop on Larpenteur Ave between Sylvan St and Camelot St (westbound); Rice St &amp; McCarrons Blvd S - Stop #46708 (northbound). | Action: Board at: Larpenteur Ave &amp; Sylvan St - Stop #49942 (westbound); Temporary stop on Larpenteur Ave between Sylvan St and Camelot St (westbound); Rice St &amp; McCarrons Blvd S - Stop #46708 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 71, Route 71K: Detour via Little Canada Rd &amp; Centerville Rd</title>

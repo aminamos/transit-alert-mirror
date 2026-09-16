@@ -2,19 +2,61 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-121-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-116-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-129-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-9-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-117-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-85-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-16T17:56:20.697Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-16T20:55:41.965Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (4) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (4) • **Route 14** (3) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (1) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
+**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (2) • **METRO D Line** (6) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (5) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (2) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (4) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (2) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (3)
 
 ## 🚨 Critical Disruptions
+
+### 🚨 METRO C Line: Service Canceled
+
+- **Affected Routes**: `METRO C Line`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: C Line trip departing 7th St & Park St; departing 7th St & Park St; 17 PM
+departing 7th St & Park St; 06 PM
+departing 7th St & Park St; 57 PM
+departing 7th St & Park St
+
+**Summary**: C Line trip departing 7th St & Park Station at 3:17 PM and ten other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/cline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: C Line trip departing 7th St & Park Station at 3:17 PM and ten other trips canceled today
+
+```text
+Updated at 2:58 PM to cancel additional trips.
+
+Affected northbound trips:
+departing 7th St & Park Station at 3:17 PM
+departing 7th St & Park Station at 5:06 PM
+departing 7th St & Park Station at 7:57 PM
+departing 7th St & Park Station at 9:28 PM
+departing 7th St & Park Station at 10:58 PM
+departing 7th St & Park Station at 12:35 AM
+
+Affected southbound trips:
+departing Brooklyn Ctr Transit Ctr Gate I at 4:14 PM
+departing Brooklyn Ctr Transit Ctr Gate I at 5:58 PM
+departing Brooklyn Ctr Transit Ctr Gate I at 8:41 PM
+departing Brooklyn Ctr Transit Ctr Gate I at 10:16 PM
+departing Brooklyn Ctr Transit Ctr Gate I at 11:53 PM
+```
+
+</details>
+
+---
 
 ### 🚨 METRO D Line: Service Canceled
 
@@ -45,20 +87,157 @@ departing Brooklyn Ctr Transit Ctr Gate F at 5:18 PM
 
 ---
 
-### 🚨 Route 14: Northbound 10:52 AM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)
+### 🚨 METRO D Line: Service Canceled
 
-- **Affected Routes**: `Route 14`
-- **Direction**: Northbound
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 10:52 AM canceled today due to mechanical issue
+**Summary**: D Line trip departing MOA Transit Station Gate A at 2:30 PM and five other trips canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/14)
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 10:52 AM canceled today due to mechanical issue
+**Header**: D Line trip departing MOA Transit Station Gate A at 2:30 PM and five other trips canceled today
+
+```text
+Affected northbound trips:
+departing MOA Transit Station Gate A at 2:30 PM
+departing MOA Transit Station Gate A at 5:50 PM
+departing MOA Transit Station Gate A at 8:58 PM
+
+Affected southbound trips:
+departing Brooklyn Ctr Transit Ctr Gate F at 4:08 PM
+departing Brooklyn Ctr Transit Ctr Gate F at 7:25 PM
+departing Brooklyn Ctr Transit Ctr Gate F at 10:31 PM
+```
+
+</details>
+
+---
+
+### 🚨 METRO D Line: Service Canceled
+
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: D Line trips departing MOA Transit Station Gate A at 4:08 PM and departing Brooklyn Ctr Transit Ctr Gate F at 5:49 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: D Line trips departing MOA Transit Station Gate A at 4:08 PM and departing Brooklyn Ctr Transit Ctr Gate F at 5:49 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 22: Service Canceled
+
+- **Affected Routes**: `Route 22`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 22 trips departing Brooklyn Ctr Transit Ctr Gate H at 2:59 PM and departing VA Medical Center & Visitors Entrance at 4:43 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/22)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 22 trips departing Brooklyn Ctr Transit Ctr Gate H at 2:59 PM and departing VA Medical Center & Visitors Entrance at 4:43 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 32: Westbound 7:34 PM Trip Canceled (Rosedale Transit Center Gate D)
+
+- **Affected Routes**: `Route 32`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 32 trip departing Rosedale Transit Center Gate D at 7:34 PM canceled
+
+[Official Agency Advisory](https://www.metrotransit.org/route/32)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 32 trip departing Rosedale Transit Center Gate D at 7:34 PM canceled
+
+</details>
+
+---
+
+### 🚨 Route 63: Westbound 1:59 PM Trip Canceled (Sun Ray Transit Center & Gate A)
+
+- **Affected Routes**: `Route 63`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 63 trip departing Sun Ray Transit Center & Gate A at 1:59 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/63)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 63 trip departing Sun Ray Transit Center & Gate A at 1:59 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 723: Northbound 6:35 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate A)
+
+- **Affected Routes**: `Route 723`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 723 trip departing Brooklyn Ctr Transit Ctr Gate A at 6:35 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/723)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 723 trip departing Brooklyn Ctr Transit Ctr Gate A at 6:35 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 888: Service Canceled
+
+- **Affected Routes**: `Route 888`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 888 trip departing 2nd Ave S & 11th St; departing 2nd Ave S & 11th St; 40 PM
+departing 2nd Ave S & 11th St
+
+**Summary**: Route 888 trip departing 2nd Ave S & 11th St - Stop Group G at 3:40 PM and two other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/888)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 888 trip departing 2nd Ave S & 11th St - Stop Group G at 3:40 PM and two other trips canceled today
+
+```text
+Affected northbound trips:
+departing 2nd Ave S & 11th St - Stop Group G at 3:40 PM
+departing 2nd Ave S & 11th St - Stop Group G at 6:10 PM
+
+Affected southbound trips:
+departing Veterans Dr & Ramsey P&R at 4:48 PM
+```
 
 </details>
 
@@ -1146,7 +1325,7 @@ Grant St E & Nicollet Ave S - Stop #19327 (eastbound)
 
 > 💡 **Rider Action**: Board at: Washington Ave S & 3rd Ave / 2nd Ave - Stop #19308 (westbound); Marquette Ave & 3rd St - Stop Group B - Stop #53292 (southbound); Marquette Ave & 5th St - Stop Group B - Stop #53293 (southbound)
 
-> 🔄 **Detour Path**: Northbound buses will travel regular route.
+> 🔄 **Detour Path**: Northbound buses will travel Mode detour.
 
 <details>
 <summary>Raw Dispatcher Message</summary>
@@ -1161,7 +1340,7 @@ Marquette Ave & 5th St - Stop Group B - Stop #53293 (southbound)
 Temporary stop on 2nd Ave S & 9th St (southbound)
 Leamington Ramp & Lower - Gate #7 - Stop #19337
 
-Northbound buses will travel regular route.
+Northbound buses will travel Mode detour.
 
 Southbound buses will travel Mode detour on Marquette Ave to 6th St, left on 6th St, right on 2nd Ave S, left on 12th St, left on 3rd Ave S, left on 11th St, right into Leamington Ramp, and resume regular route.
 
@@ -1310,7 +1489,7 @@ Nicollet Ave S & Grant St E - Stop #1197 (southbound)
 
 > 💡 **Rider Action**: Board at: Hennepin Ave & 1st St N - Stop #17917 (southbound); Marquette Ave & 3rd St - Stop Group B - Stop #53292 (southbound); Marquette Ave & 5th St - Stop Group B - Stop #53293 (southbound)
 
-> 🔄 **Detour Path**: Northbound buses will travel regular route.
+> 🔄 **Detour Path**: Northbound buses will travel Mode detour.
 
 [Official Agency Advisory](https://www.metrotransit.org/route/11)
 
@@ -1328,7 +1507,7 @@ Temporary stop on 2nd Ave S & 9th St (southbound)
 12th St S & 2nd Ave / 3rd Ave S - Stop #19335 (eastbound)
 3rd Ave S & 18th St E - Stop #17704 (southbound)
 
-Northbound buses will travel regular route.
+Northbound buses will travel Mode detour.
 
 Southbound buses will travel Mode detour route on Marquette Ave to 6th St, left on 6th St, right on 2nd Ave S, left on 12th St, right on 3rd Ave S to 16th St, and resume regular route.
 
@@ -1593,7 +1772,7 @@ Nicollet Ave S & Grant St E - Stop #1197 (southbound)
 
 > 💡 **Rider Action**: Board at: Washington Ave S & 3rd Ave / 2nd Ave - Stop #19308 (westbound, 17 buses departing Central/26th Ave only); 4th Ave S & 3rd St S - Stop #19294 (southbound, 17 buses departing Gateway Ramp only); Marquette Ave & 3rd St - Stop Group B - Stop #53292 (southbound)
 
-> 🔄 **Detour Path**: Eastbound buses will travel regular route.
+> 🔄 **Detour Path**: Eastbound buses will travel Mode detour.
 
 [Official Agency Advisory](https://www.metrotransit.org/route/17)
 
@@ -1611,7 +1790,7 @@ Marquette Ave & 5th St - Stop Group B - Stop #53293 (southbound)
 Temporary stop on 2nd Ave S & 9th St (southbound)
 Nicollet Ave S & 16th St / Hwy 94 - Stop #1199 (southbound)
 
-Eastbound buses will travel regular route.
+Eastbound buses will travel Mode detour.
 
 Westbound buses will travel Mode detour on Marquette Ave to 6th St, left on 6th St, right on 2nd Ave S, left on 12th St, right on 3rd Ave S, right on 16th St which becomes 15th St, left on Nicollet Ave, and resume regular route.
 
@@ -1955,7 +2134,7 @@ Nicollet Ave S & Grant St E - Stop #1197 (southbound)
 
 > 💡 **Rider Action**: Board at: 4th Ave S & 3rd St S - Stop #19294 (southbound); Marquette Ave & 3rd St - Stop Group B - Stop #53292 (southbound); Marquette Ave & 5th St - Stop Group B - Stop #53293 (southbound)
 
-> 🔄 **Detour Path**: Northbound buses will travel regular route.
+> 🔄 **Detour Path**: Northbound buses will travel Mode detour.
 
 [Official Agency Advisory](https://www.metrotransit.org/route/18)
 
@@ -1972,7 +2151,7 @@ Marquette Ave & 5th St - Stop Group B - Stop #53293 (southbound)
 Temporary stop on 2nd Ave S & 9th St (southbound)
 Nicollet Ave S & 16th St / Hwy 94 - Stop #1199 (southbound)
 
-Northbound buses will travel regular route.
+Northbound buses will travel Mode detour.
 
 Southbound buses will travel Mode detour on Marquette Ave to 6th St, left on 6th St, right on 2nd Ave S, left on 12th St, right on 3rd Ave S, right on 16th St which becomes 15th St, left on Nicollet Ave, and resume regular route.
 
@@ -3781,6 +3960,41 @@ South St & 5th Ave S - Stop #9791 (westbound)
 Get on/off buses at:
 Robert St S & Colorado St - Stop #2608 (northbound)
 Robert St S & Fillmore Ave - Stop #2610 (northbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 68: Stop Closed at Larpenteur Ave W & Rice St
+
+- **Affected Routes**: `Route 68`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Larpenteur Ave W & Rice St; Larpenteur Ave & Sylvan St; Larpenteur Ave between Sylvan St & Camelot St; Rice St & McCarrons Blvd S; Larpenteur Ave between Camelot St & Sylvan St
+- **Closed Stops**: Stop #56959, Stop #56960, Stop #49942, Stop #46708, Stop #46696, Stop #49945
+
+**Summary**: Larpenteur Ave W & Rice St - Stop #56959 (westbound) and Larpenteur Ave W & Rice / Camelot St - Stop #56960 (eastbound) are closed for Route 68 until further notice due to construction. Board at: Larpenteur Ave & Sylvan St - Stop #49942 (westbound); Temporary stop on Larpenteur Ave between Sylvan St and Camelot St (westbound); Rice St & McCarrons Blvd S - Stop #46708 (northbound).
+
+> 💡 **Rider Action**: Board at: Larpenteur Ave & Sylvan St - Stop #49942 (westbound); Temporary stop on Larpenteur Ave between Sylvan St and Camelot St (westbound); Rice St & McCarrons Blvd S - Stop #46708 (northbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/68)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Larpenteur Ave W & Rice St - Stop #56959 (westbound) and Larpenteur Ave W & Rice / Camelot St - Stop #56960 (eastbound) are closed for Route 68 until further notice due to construction
+
+```text
+For northbound Route 68 get on/off buses at:
+Larpenteur Ave & Sylvan St - Stop #49942 (westbound)
+Temporary stop on Larpenteur Ave between Sylvan St and Camelot St (westbound)
+Rice St & McCarrons Blvd S - Stop #46708 (northbound)
+
+For southbound Route 68 get on/off buses at:
+Rice St & McCarrons Blvd S - Stop #46696 (southbound)
+Temporary stop on Larpenteur Ave between Camelot St and Sylvan St (eastbound)
+Larpenteur Ave & Sylvan St - Stop #49945 (eastbound)
 ```
 
 </details>
