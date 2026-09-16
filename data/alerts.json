@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-16T20:55:41.965Z",
-    "totalAlerts": 129,
-    "criticalCount": 9,
-    "moderateCount": 117,
+    "generatedAt": "2026-09-16T23:32:27.129Z",
+    "totalAlerts": 136,
+    "criticalCount": 17,
+    "moderateCount": 116,
     "minorCount": 3,
     "affectedRoutesCount": 85,
     "agencies": [
@@ -122,6 +122,401 @@
       "rawDescription": ""
     },
     {
+      "id": "52915",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO D Line: Southbound 5:38 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)",
+      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:38 PM canceled today due to traffic",
+      "affectedRoutes": [
+        "METRO D Line"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-16T22:38:00.000Z",
+        "end": "2026-09-17T00:58:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-09-16T22:33:00.000Z",
+      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:38 PM canceled today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "52917",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO D Line: Northbound 4:59 PM Trip Canceled (MOA Transit Station Gate A)",
+      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 4:59 PM canceled today due to traffic",
+      "affectedRoutes": [
+        "METRO D Line"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-16T22:34:00.000Z",
+        "end": "2026-09-17T00:18:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-09-16T22:34:26.000Z",
+      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 4:59 PM canceled today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "52914",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 3, Route 3A: Eastbound 4:41 PM Trip Canceled (Washington Ave & Anderson Hall)",
+      "summary": "Eastbound Route 3A trip departing Washington Ave & Anderson Hall at 4:41 PM canceled today due to medical emergency",
+      "affectedRoutes": [
+        "Route 3",
+        "Route 3A"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [
+        "50125",
+        "50192",
+        "53040",
+        "53789",
+        "49881",
+        "49890",
+        "49892",
+        "49450",
+        "13223",
+        "20013",
+        "47445",
+        "56099",
+        "958",
+        "960",
+        "962",
+        "966",
+        "970",
+        "972",
+        "973",
+        "974",
+        "975",
+        "80929",
+        "80930",
+        "80931",
+        "911",
+        "914",
+        "916",
+        "917",
+        "919",
+        "921",
+        "922",
+        "924",
+        "926",
+        "929",
+        "931",
+        "935",
+        "938",
+        "939",
+        "941",
+        "950",
+        "952",
+        "956",
+        "57623",
+        "57346",
+        "57013",
+        "57014",
+        "57018",
+        "5555",
+        "5556",
+        "5560",
+        "5563",
+        "5567",
+        "5571",
+        "18523",
+        "18556",
+        "18557",
+        "18561",
+        "18616",
+        "18617",
+        "18618",
+        "18621",
+        "16067",
+        "16072",
+        "16080",
+        "16085",
+        "16093",
+        "16097",
+        "16101",
+        "16111",
+        "1246",
+        "11896",
+        "11912"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "50125"
+        },
+        {
+          "id": "50192"
+        },
+        {
+          "id": "53040"
+        },
+        {
+          "id": "53789"
+        },
+        {
+          "id": "49881"
+        },
+        {
+          "id": "49890"
+        },
+        {
+          "id": "49892"
+        },
+        {
+          "id": "49450"
+        },
+        {
+          "id": "13223"
+        },
+        {
+          "id": "20013"
+        },
+        {
+          "id": "47445"
+        },
+        {
+          "id": "56099"
+        },
+        {
+          "id": "958"
+        },
+        {
+          "id": "960"
+        },
+        {
+          "id": "962"
+        },
+        {
+          "id": "966"
+        },
+        {
+          "id": "970"
+        },
+        {
+          "id": "972"
+        },
+        {
+          "id": "973"
+        },
+        {
+          "id": "974"
+        },
+        {
+          "id": "975"
+        },
+        {
+          "id": "80929"
+        },
+        {
+          "id": "80930"
+        },
+        {
+          "id": "80931"
+        },
+        {
+          "id": "911"
+        },
+        {
+          "id": "914"
+        },
+        {
+          "id": "916"
+        },
+        {
+          "id": "917"
+        },
+        {
+          "id": "919"
+        },
+        {
+          "id": "921"
+        },
+        {
+          "id": "922"
+        },
+        {
+          "id": "924"
+        },
+        {
+          "id": "926"
+        },
+        {
+          "id": "929"
+        },
+        {
+          "id": "931"
+        },
+        {
+          "id": "935"
+        },
+        {
+          "id": "938"
+        },
+        {
+          "id": "939"
+        },
+        {
+          "id": "941"
+        },
+        {
+          "id": "950"
+        },
+        {
+          "id": "952"
+        },
+        {
+          "id": "956"
+        },
+        {
+          "id": "57623"
+        },
+        {
+          "id": "57346"
+        },
+        {
+          "id": "57013"
+        },
+        {
+          "id": "57014"
+        },
+        {
+          "id": "57018"
+        },
+        {
+          "id": "5555"
+        },
+        {
+          "id": "5556"
+        },
+        {
+          "id": "5560"
+        },
+        {
+          "id": "5563"
+        },
+        {
+          "id": "5567"
+        },
+        {
+          "id": "5571"
+        },
+        {
+          "id": "18523"
+        },
+        {
+          "id": "18556"
+        },
+        {
+          "id": "18557"
+        },
+        {
+          "id": "18561"
+        },
+        {
+          "id": "18616"
+        },
+        {
+          "id": "18617"
+        },
+        {
+          "id": "18618"
+        },
+        {
+          "id": "18621"
+        },
+        {
+          "id": "16067"
+        },
+        {
+          "id": "16072"
+        },
+        {
+          "id": "16080"
+        },
+        {
+          "id": "16085"
+        },
+        {
+          "id": "16093"
+        },
+        {
+          "id": "16097"
+        },
+        {
+          "id": "16101"
+        },
+        {
+          "id": "16111"
+        },
+        {
+          "id": "1246"
+        },
+        {
+          "id": "11896"
+        },
+        {
+          "id": "11912"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-16T21:50:00.000Z",
+        "end": "2026-09-16T23:37:00.000Z"
+      },
+      "cause": "MEDICAL_EMERGENCY",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/3",
+      "updatedAt": "2026-09-16T21:51:43.000Z",
+      "rawHeader": "Eastbound Route 3A trip departing Washington Ave & Anderson Hall at 4:41 PM canceled today due to medical emergency",
+      "rawDescription": ""
+    },
+    {
+      "id": "52919",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 18: Northbound 6:29 PM Trip Canceled (2nd Ave S Loop & American Blvd)",
+      "summary": "Northbound Route 18 trip departing 2nd Ave S Loop & American Blvd at 6:29 PM canceled today due to traffic",
+      "affectedRoutes": [
+        "Route 18"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-16T23:29:00.000Z",
+        "end": "2026-09-17T01:29:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/18",
+      "updatedAt": "2026-09-16T22:59:01.000Z",
+      "rawHeader": "Northbound Route 18 trip departing 2nd Ave S Loop & American Blvd at 6:29 PM canceled today due to traffic",
+      "rawDescription": ""
+    },
+    {
       "id": "52895",
       "agency": "Metro Transit",
       "severity": "Critical",
@@ -174,13 +569,13 @@
       "rawDescription": ""
     },
     {
-      "id": "52894",
+      "id": "52920",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 63: Westbound 1:59 PM Trip Canceled (Sun Ray Transit Center & Gate A)",
-      "summary": "Westbound Route 63 trip departing Sun Ray Transit Center & Gate A at 1:59 PM canceled today",
+      "title": "Route 54: Westbound 7:06 PM Trip Canceled (Maplewood Mall Transit Center & Gate B)",
+      "summary": "Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 7:06 PM canceled today due to traffic",
       "affectedRoutes": [
-        "Route 63"
+        "Route 54"
       ],
       "direction": "Westbound",
       "intersections": [],
@@ -189,14 +584,204 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-16T18:59:00.000Z",
-        "end": "2026-09-16T21:00:00.000Z"
+        "start": "2026-09-17T00:06:00.000Z",
+        "end": "2026-09-17T02:14:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/54",
+      "updatedAt": "2026-09-16T23:22:27.000Z",
+      "rawHeader": "Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 7:06 PM canceled today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "52912",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 74: Service Advisory",
+      "summary": "Westbound Route 74 trip departing Sun Ray Transit Center & Gate D at 4:43 PM will start from Wall St & 7th St / 6th St at 5:10 PM today. Previous stops will be missed",
+      "affectedRoutes": [
+        "Route 74"
+      ],
+      "direction": "Westbound",
+      "intersections": [
+        "43 PM will start from Wall St & 7th St"
+      ],
+      "closedStopIds": [
+        "13667",
+        "13669",
+        "13798",
+        "42053",
+        "53948",
+        "53981",
+        "53983",
+        "49635",
+        "49637",
+        "49651",
+        "49656",
+        "49658",
+        "49660",
+        "49750",
+        "50116",
+        "56051",
+        "56052",
+        "57072",
+        "80817",
+        "80939",
+        "80958",
+        "80959",
+        "81105",
+        "12896",
+        "12898",
+        "12900",
+        "12902"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "13667"
+        },
+        {
+          "id": "13669"
+        },
+        {
+          "id": "13798"
+        },
+        {
+          "id": "42053"
+        },
+        {
+          "id": "53948"
+        },
+        {
+          "id": "53981"
+        },
+        {
+          "id": "53983"
+        },
+        {
+          "id": "49635"
+        },
+        {
+          "id": "49637"
+        },
+        {
+          "id": "49651"
+        },
+        {
+          "id": "49656"
+        },
+        {
+          "id": "49658"
+        },
+        {
+          "id": "49660"
+        },
+        {
+          "id": "49750"
+        },
+        {
+          "id": "50116"
+        },
+        {
+          "id": "56051"
+        },
+        {
+          "id": "56052"
+        },
+        {
+          "id": "57072"
+        },
+        {
+          "id": "80817"
+        },
+        {
+          "id": "80939"
+        },
+        {
+          "id": "80958"
+        },
+        {
+          "id": "80959"
+        },
+        {
+          "id": "81105"
+        },
+        {
+          "id": "12896"
+        },
+        {
+          "id": "12898"
+        },
+        {
+          "id": "12900"
+        },
+        {
+          "id": "12902"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-16T21:43:00.000Z",
+        "end": "2026-09-16T23:56:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/63",
-      "updatedAt": "2026-09-16T18:29:00.000Z",
-      "rawHeader": "Westbound Route 63 trip departing Sun Ray Transit Center & Gate A at 1:59 PM canceled today",
+      "url": "https://www.metrotransit.org/route/74",
+      "updatedAt": "2026-09-16T21:43:00.000Z",
+      "rawHeader": "Westbound Route 74 trip departing Sun Ray Transit Center & Gate D at 4:43 PM will start from Wall St & 7th St / 6th St  at 5:10 PM today. Previous stops will be missed",
+      "rawDescription": ""
+    },
+    {
+      "id": "52918",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 94: Eastbound 5:37 PM Trip Canceled (5th St Transit Center Gate B)",
+      "summary": "Eastbound Route 94 trip departing 5th St Transit Center Gate B at 5:37 PM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 94"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-16T22:45:00.000Z",
+        "end": "2026-09-17T00:11:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/94",
+      "updatedAt": "2026-09-16T22:45:55.000Z",
+      "rawHeader": "Eastbound Route 94 trip departing 5th St Transit Center Gate B at 5:37 PM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "52921",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 94: Westbound 6:24 PM Trip Canceled (Union Depot & Gate A1)",
+      "summary": "Westbound Route 94 trip departing Union Depot & Gate A1 at 6:24 PM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 94"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-16T23:24:00.000Z",
+        "end": "2026-09-17T00:59:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/94",
+      "updatedAt": "2026-09-16T23:24:47.000Z",
+      "rawHeader": "Westbound Route 94 trip departing Union Depot & Gate A1 at 6:24 PM canceled today due to mechanical issue",
       "rawDescription": ""
     },
     {
@@ -221,8 +806,34 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/723",
-      "updatedAt": "2026-09-16T18:38:58.000Z",
+      "updatedAt": "2026-09-16T23:05:00.000Z",
       "rawHeader": "Northbound Route 723 trip departing Brooklyn Ctr Transit Ctr Gate A at 6:35 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "52916",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 805: Northbound 5:34 PM Trip Canceled (Northtown Transit Ctr Gate D)",
+      "summary": "Northbound Route 805 trip departing Northtown Transit Ctr Gate D at 5:34 PM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "Route 805"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-16T22:34:00.000Z",
+        "end": "2026-09-17T00:19:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/805",
+      "updatedAt": "2026-09-16T22:33:47.000Z",
+      "rawHeader": "Northbound Route 805 trip departing Northtown Transit Ctr Gate D at 5:34 PM canceled today due to maintenance work",
       "rawDescription": ""
     },
     {
@@ -4213,55 +4824,6 @@
       "rawDescription": "For eastbound Route 27 get on/off buses at:\r\n28th St E & Bloomington Ave S - Stop #43016 (eastbound)\r\nLake & Cedar Station - Stop #51579 (eastbound)\r\n\nFor westbound Route 27 get on/off buses at:\r\nLake St E & 21st Ave S - Stop #16894 (westbound)\r\nLake & Cedar Station - Stop #57362 (westbound)\r\nBloomington Ave S & 28th St E - Stop #15618 (northbound)\r\n26th St E & 12th Ave S - Stop #51507 (westbound)\r\n\nEastbound buses will travel regular route on 28th St to Bloomington Ave, right on Bloomington, left on Lake St to Cedar Ave, and resume regular route.\r\n\nWestbound buses will travel regular route on Lake St to Cedar Ave, continue on Lake to Bloomington Ave, right on Bloomington, left on 26th St, and resume regular route.\r\n\nAffected stops:\r\n28th St E & Cedar Ave S - Stop #43021 (eastbound)\r\nCedar Ave S & Lake St E - Stop #15317 (northbound)\r\nCedar Ave S & 28th St E - Stop #15319 (northbound)\r\n26th St E & 18th Ave S - Stop #14340 (westbound)\r\n26th St E & Bloomington Ave S - Stop #43004 (westbound)"
     },
     {
-      "id": "52657",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 30, Route 61: Stop Closed at Hennepin Ave E & Industrial Blvd",
-      "summary": "Hennepin Ave E & Industrial Blvd - Stop #41628 (westbound) is closed for Routes 30 and 61 until further notice due to construction. Board at: Larpenteur Ave & Malvern St - Stop #53896 (westbound, Route 30 only); Larpenteur Ave & Eustis St - Stop #7235 (westbound, Route 61 only); Hennepin Ave E & 29th Ave SE - Stop #41629 (westbound).",
-      "affectedRoutes": [
-        "Route 30",
-        "Route 61"
-      ],
-      "direction": "Westbound",
-      "intersections": [
-        "Hennepin Ave E & Industrial Blvd",
-        "Larpenteur Ave & Malvern St",
-        "Larpenteur Ave & Eustis St",
-        "Hennepin Ave E & 29th Ave S"
-      ],
-      "closedStopIds": [
-        "41628",
-        "53896",
-        "7235",
-        "41629"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "41628"
-        },
-        {
-          "id": "53896"
-        },
-        {
-          "id": "7235"
-        },
-        {
-          "id": "41629"
-        }
-      ],
-      "riderAlternative": "Board at: Larpenteur Ave & Malvern St - Stop #53896 (westbound, Route 30 only); Larpenteur Ave & Eustis St - Stop #7235 (westbound, Route 61 only); Hennepin Ave E & 29th Ave SE - Stop #41629 (westbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-10T18:23:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-09-10T18:23:17.000Z",
-      "rawHeader": "Hennepin Ave E & Industrial Blvd - Stop #41628 (westbound) is closed for Routes 30 and 61 until further notice due to construction",
-      "rawDescription": "Get on/off buses at:\r\nLarpenteur Ave & Malvern St - Stop #53896 (westbound, Route 30 only)\r\nLarpenteur Ave & Eustis St - Stop #7235 (westbound, Route 61 only)\r\nHennepin Ave E & 29th Ave SE - Stop #41629 (westbound)"
-    },
-    {
       "id": "42305",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -4431,7 +4993,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/36",
-      "updatedAt": "2026-09-16T05:00:02.000Z",
+      "updatedAt": "2026-09-16T22:30:01.000Z",
       "rawHeader": "Route 36 detoured off Hazleton Rd from France Ave to York Ave and off France Ave from Hazleton Rd to Gallagher Dr beginning Wed Sep 16 at 6:00 PM until further notice due to construction",
       "rawDescription": "For northbound Route 36 get on/off buses at:\r\nGallagher Dr & France Ave S - Stop #41097 (eastbound)\r\nYork Ave S & 70th St W - Stop #50601 (northbound)\r\n\nFor southbound Route 36 get on/off buses at:\r\nYork Ave S & 69th St W - Stop #48182 (southbound)\r\nGallagher Dr & France Ave S - Stop #41126 (westbound)\r\n\nNorthbound buses will travel regular route on Gallagher Dr to France Ave, right on France Ave, left on 76th St, left on York Ave, continue on York Ave to Hazleton Rd and resume regular route.\r\n\nSouthbound buses will travel regular route on York Ave, continue on York Ave to 76th St, right on 76th St, right on France Ave, left on Gallagher Dr and resume regular route.\r\n\nAffected stops:\r\nFrance Ave S & 72nd St W - Stop #44393 (northbound)\r\nHazelton Rd & France Ave S - Stop #53866 (eastbound)\r\nHazelton Rd & #3535 - Federal Express - Stop #53156 (eastbound)\r\nHazelton Rd & York Ave S - Stop #53436 (westbound)\r\nHazelton Rd & Target Loading Dock - Stop #53155 (westbound)\r\nFrance Ave S & 72nd St W - Stop #4374 (southbound)"
     },
@@ -8156,7 +8718,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/537",
-      "updatedAt": "2026-09-16T05:00:01.000Z",
+      "updatedAt": "2026-09-16T22:30:01.000Z",
       "rawHeader": "Route 537 detoured off France Ave from 76th St to 70th St and off 70th St from France Ave to York Ave beginning Wed Sep 16 at 6:00 PM until further notice due to construction",
       "rawDescription": "For northbound Route 537 get on/off buses at:\r\nFrance Ave S & Minnesota Dr - Stop #57520 (northbound)\r\n76th St W & Centennial Lakes Office Park - Stop #52038 (eastbound)\r\nYork Ave S & 70th St W - Stop #50601 (northbound)\r\n\nFor southbound Route 537 get on/off buses at:\r\nYork Ave S & 69th St W - Stop #48182 (southbound)\r\nYork Ave S & Hazelton Rd - Stop #1925 (southbound)\r\n76th St W & Office Depot - Stop #52038 (westbound)\r\nFrance Ave S & Minnesota Dr - Stop #57524 (southbound)\r\n\nNorthbound buses will travel regular route on France Ave to 76th St, right on 76th St, left on York Ave, continue on York Ave to 70th St and resume regular route.\r\n\nSouthbound buses will travel regular route on York Ave to 70th St, continue on York Ave to 76th St, right on 76th St, left on France Ave and resume regular route.\r\n\nAffected stops:\r\nFrance Ave S & 76th St W - Stop #57521 (northbound)\r\nFrance Ave S & Parklawn Ave - Stop #56530 (northbound)\r\nFrance Ave S & Gallagher Dr - Stop #57522 (northbound)\r\nFrance Ave S & 72nd St W - Stop #44393 (northbound)\r\nFrance Ave S & 70th St W - Stop #57523 (northbound)\r\n70th St W & Target driveway - Stop #50600 (eastbound)\r\n70th St W & Target - Stop #50603 (westbound)\r\nFrance Ave S & 70th St W - Stop #50604 (southbound)\r\nFrance Ave S & 72nd St W - Stop #4374 (southbound)\r\nFrance Ave S & Gallagher Dr - Stop #4375 (southbound)\r\nFrance Ave S & Parklawn Ave - Stop #20197 (southbound)\r\nFrance Ave S & 76th St W - Stop #4376 (southbound)"
     },

@@ -4,7 +4,7 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Wed, 16 Sep 2026 20:55:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 23:32:27 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
@@ -44,6 +44,42 @@
       <description>D Line trips departing MOA Transit Station Gate A at 4:08 PM and departing Brooklyn Ctr Transit Ctr Gate F at 5:49 PM canceled today</description>
     </item>
     <item>
+      <title>[Critical] METRO D Line: Southbound 5:38 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-52915-2026-09-16T22:33:00.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 22:33:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO D Line</category>
+      <description>Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:38 PM canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] METRO D Line: Northbound 4:59 PM Trip Canceled (MOA Transit Station Gate A)</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-52917-2026-09-16T22:34:26.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 22:34:26 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO D Line</category>
+      <description>Northbound D Line trip departing MOA Transit Station Gate A at 4:59 PM canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 3, Route 3A: Eastbound 4:41 PM Trip Canceled (Washington Ave &amp; Anderson Hall)</title>
+      <link>https://www.metrotransit.org/route/3</link>
+      <guid isPermaLink="false">Metro Transit-52914-2026-09-16T21:51:43.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 21:51:43 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 3, Route 3A</category>
+      <description>Eastbound Route 3A trip departing Washington Ave &amp; Anderson Hall at 4:41 PM canceled today due to medical emergency</description>
+    </item>
+    <item>
+      <title>[Critical] Route 18: Northbound 6:29 PM Trip Canceled (2nd Ave S Loop &amp; American Blvd)</title>
+      <link>https://www.metrotransit.org/route/18</link>
+      <guid isPermaLink="false">Metro Transit-52919-2026-09-16T22:59:01.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 22:59:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 18</category>
+      <description>Northbound Route 18 trip departing 2nd Ave S Loop &amp; American Blvd at 6:29 PM canceled today due to traffic</description>
+    </item>
+    <item>
       <title>[Critical] Route 22: Service Canceled</title>
       <link>https://www.metrotransit.org/route/22</link>
       <guid isPermaLink="false">Metro Transit-52895-2026-09-16T19:29:01.000Z</guid>
@@ -62,22 +98,58 @@
       <description>Westbound Route 32 trip departing Rosedale Transit Center Gate D at 7:34 PM canceled</description>
     </item>
     <item>
-      <title>[Critical] Route 63: Westbound 1:59 PM Trip Canceled (Sun Ray Transit Center &amp; Gate A)</title>
-      <link>https://www.metrotransit.org/route/63</link>
-      <guid isPermaLink="false">Metro Transit-52894-2026-09-16T18:29:00.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 18:29:00 GMT</pubDate>
+      <title>[Critical] Route 54: Westbound 7:06 PM Trip Canceled (Maplewood Mall Transit Center &amp; Gate B)</title>
+      <link>https://www.metrotransit.org/route/54</link>
+      <guid isPermaLink="false">Metro Transit-52920-2026-09-16T23:22:27.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 23:22:27 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 63</category>
-      <description>Westbound Route 63 trip departing Sun Ray Transit Center &amp; Gate A at 1:59 PM canceled today</description>
+      <category>Route 54</category>
+      <description>Westbound Route 54 trip departing Maplewood Mall Transit Center &amp; Gate B at 7:06 PM canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 74: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/74</link>
+      <guid isPermaLink="false">Metro Transit-52912-2026-09-16T21:43:00.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 21:43:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 74</category>
+      <description>Westbound Route 74 trip departing Sun Ray Transit Center &amp; Gate D at 4:43 PM will start from Wall St &amp; 7th St / 6th St at 5:10 PM today. Previous stops will be missed</description>
+    </item>
+    <item>
+      <title>[Critical] Route 94: Eastbound 5:37 PM Trip Canceled (5th St Transit Center Gate B)</title>
+      <link>https://www.metrotransit.org/route/94</link>
+      <guid isPermaLink="false">Metro Transit-52918-2026-09-16T22:45:55.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 22:45:55 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 94</category>
+      <description>Eastbound Route 94 trip departing 5th St Transit Center Gate B at 5:37 PM canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 94: Westbound 6:24 PM Trip Canceled (Union Depot &amp; Gate A1)</title>
+      <link>https://www.metrotransit.org/route/94</link>
+      <guid isPermaLink="false">Metro Transit-52921-2026-09-16T23:24:47.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 23:24:47 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 94</category>
+      <description>Westbound Route 94 trip departing Union Depot &amp; Gate A1 at 6:24 PM canceled today due to mechanical issue</description>
     </item>
     <item>
       <title>[Critical] Route 723: Northbound 6:35 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate A)</title>
       <link>https://www.metrotransit.org/route/723</link>
-      <guid isPermaLink="false">Metro Transit-52896-2026-09-16T18:38:58.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 18:38:58 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52896-2026-09-16T23:05:00.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 23:05:00 GMT</pubDate>
       <category>Critical</category>
       <category>Route 723</category>
       <description>Northbound Route 723 trip departing Brooklyn Ctr Transit Ctr Gate A at 6:35 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 805: Northbound 5:34 PM Trip Canceled (Northtown Transit Ctr Gate D)</title>
+      <link>https://www.metrotransit.org/route/805</link>
+      <guid isPermaLink="false">Metro Transit-52916-2026-09-16T22:33:47.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 22:33:47 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 805</category>
+      <description>Northbound Route 805 trip departing Northtown Transit Ctr Gate D at 5:34 PM canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Critical] Route 888: Service Canceled</title>
@@ -534,15 +606,6 @@ Affected st</title>
       <description>Route 27 detoured off 26th St/28th St from Bloomington Ave to Cedar Ave and off Cedar Ave from 26th St to Lake St beginning Mon Sep 14 until further notice due to construction. Board at: 28th St E &amp; Bloomington Ave S - Stop #43016 (eastbound); Lake &amp; Cedar Station - Stop #51579 (eastbound). | Action: Board at: 28th St E &amp; Bloomington Ave S - Stop #43016 (eastbound); Lake &amp; Cedar Station - Stop #51579 (eastbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 30, Route 61: Stop Closed at Hennepin Ave E &amp; Industrial Blvd</title>
-      <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-52657-2026-09-10T18:23:17.000Z</guid>
-      <pubDate>Thu, 10 Sep 2026 18:23:17 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 30, Route 61</category>
-      <description>Hennepin Ave E &amp; Industrial Blvd - Stop #41628 (westbound) is closed for Routes 30 and 61 until further notice due to construction. Board at: Larpenteur Ave &amp; Malvern St - Stop #53896 (westbound, Route 30 only); Larpenteur Ave &amp; Eustis St - Stop #7235 (westbound, Route 61 only); Hennepin Ave E &amp; 29th Ave SE - Stop #41629 (westbound). | Action: Board at: Larpenteur Ave &amp; Malvern St - Stop #53896 (westbound, Route 30 only); Larpenteur Ave &amp; Eustis St - Stop #7235 (westbound, Route 61 only); Hennepin Ave E &amp; 29th Ave SE - Stop #41629 (westbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 36, Route 538, Route 578: Stop Closed at York Ave S &amp; Hazelton Rd</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
       <guid isPermaLink="false">Metro Transit-42305-2025-12-15T14:06:01.000Z</guid>
@@ -563,8 +626,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 36: Detour via Gallagher Dr &amp; France Ave S</title>
       <link>https://www.metrotransit.org/route/36</link>
-      <guid isPermaLink="false">Metro Transit-52610-2026-09-16T05:00:02.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52610-2026-09-16T22:30:01.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 22:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 36</category>
       <description>Route 36 detoured off Hazleton Rd from France Ave to York Ave and off France Ave from Hazleton Rd to Gallagher Dr beginning Wed Sep 16 at 6:00 PM until further notice due to construction. Board at: Gallagher Dr &amp; France Ave S - Stop #41097 (eastbound); York Ave S &amp; 70th St W - Stop #50601 (northbound). | Action: Board at: Gallagher Dr &amp; France Ave S - Stop #41097 (eastbound); York Ave S &amp; 70th St W - Stop #50601 (northbound)</description>
@@ -986,8 +1049,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 537: Detour via France Ave S &amp; Minnesota Dr</title>
       <link>https://www.metrotransit.org/route/537</link>
-      <guid isPermaLink="false">Metro Transit-52601-2026-09-16T05:00:01.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52601-2026-09-16T22:30:01.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 22:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 537</category>
       <description>Route 537 detoured off France Ave from 76th St to 70th St and off 70th St from France Ave to York Ave beginning Wed Sep 16 at 6:00 PM until further notice due to construction. Board at: France Ave S &amp; Minnesota Dr - Stop #57520 (northbound); 76th St W &amp; Centennial Lakes Office Park - Stop #52038 (eastbound); York Ave S &amp; 70th St W - Stop #50601 (northbound). | Action: Board at: France Ave S &amp; Minnesota Dr - Stop #57520 (northbound); 76th St W &amp; Centennial Lakes Office Park - Stop #52038 (eastbound); York Ave S &amp; 70th St W - Stop #50601 (northbound)</description>
