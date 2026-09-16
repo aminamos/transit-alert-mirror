@@ -2,211 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-128-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-9-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-116-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-120-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-117-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-86-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-84-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-16T01:02:54.445Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-16T07:10:18.862Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (3) • **Route 3A** (1) • **Route 3B** (2) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (4) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (5) • **Route 22H** (1) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (4) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (1) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (6) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (2) • **Route 724** (1) • **Route 725** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (2) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
+**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (3) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (4) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (1) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (2) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 3, Route 3B: Eastbound 6:42 PM Trip Canceled (Washington Ave & 10th Ave N)
-
-- **Affected Routes**: `Route 3` `Route 3B`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-
-**Summary**: Eastbound Route 3B trip departing Washington Ave & 10th Ave N at 6:42 PM canceled today due to collision
-
-[Official Agency Advisory](https://www.metrotransit.org/route/3)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 3B trip departing Washington Ave & 10th Ave N at 6:42 PM canceled today due to collision
-
-</details>
-
----
-
-### 🚨 Route 10: Southbound 7:15 PM Trip Canceled (Northtown Transit Ctr Gate A)
-
-- **Affected Routes**: `Route 10`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 7:15 PM canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/10)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 7:15 PM canceled today due to maintenance work
-
-</details>
-
----
-
-### 🚨 Route 22, Route 22H: Southbound 7:14 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)
-
-- **Affected Routes**: `Route 22` `Route 22H`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 7:14 PM canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/22)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 7:14 PM canceled today due to maintenance work
-
-</details>
-
----
-
-### 🚨 Route 54: Service Advisory
-
-- **Affected Routes**: `Route 54`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #56875, Stop #4537, Stop #56597, Stop #17415, Stop #41255, Stop #41259
-
-**Summary**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 6:51 PM will operate from American & 34th at 6:55 PM. Previous stops will be missed today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/54)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 6:51 PM will operate from American & 34th at 6:55 PM. Previous stops will be missed today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 223: Service Canceled
-
-- **Affected Routes**: `Route 223`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 223 trip departing Maplewood Mall Transit Center & Gate A at 6:11 PM and two other trips canceled today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/223)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 223 trip departing Maplewood Mall Transit Center & Gate A at 6:11 PM and two other trips canceled today due to traffic
-
-```text
-Affected eastbound trips:
-departing Rosedale Transit Center Gate F at 6:46 PM
-
-Affected westbound trips:
-departing Maplewood Mall Transit Center & Gate A at 6:11 PM
-departing Maplewood Mall Transit Center & Gate A at 7:41 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 223: Service Canceled
-
-- **Affected Routes**: `Route 223`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 223 trip departing Maplewood Mall Transit Center & Gate A at 6:11 PM and two other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/223)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 223 trip departing Maplewood Mall Transit Center & Gate A at 6:11 PM and two other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Rosedale Transit Center Gate F at 6:46 PM
-
-Affected westbound trips:
-departing Maplewood Mall Transit Center & Gate A at 6:11 PM
-departing Maplewood Mall Transit Center & Gate A at 7:41 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 725: Service Canceled
-
-- **Affected Routes**: `Route 725`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 725 trips departing 5th St NW & 1st Ave N
-
-**Summary**: Route 725 trips departing 5th St NW & 1st Ave NW at 8:26 PM and departing Northtown Transit Ctr Gate D at 9:15 PM canceled today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/725)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 725 trips departing 5th St NW & 1st Ave NW at 8:26 PM and departing Northtown Transit Ctr Gate D at 9:15 PM canceled today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 725: Service Canceled
-
-- **Affected Routes**: `Route 725`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 725 trips departing 5th St NW & 1st Ave N
-
-**Summary**: Route 725 trips departing 5th St NW & 1st Ave NW at 8:26 PM and departing Northtown Transit Ctr Gate D at 9:15 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/725)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 725 trips departing 5th St NW & 1st Ave NW at 8:26 PM and departing Northtown Transit Ctr Gate D at 9:15 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 801: Service Canceled
-
-- **Affected Routes**: `Route 801`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 801 trip departing Rosedale Transit Center Gate B at 12:21 PM and six other trips canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/801)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 801 trip departing Rosedale Transit Center Gate B at 12:21 PM and six other trips canceled today due to maintenance work
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -580,6 +390,46 @@ Affected direction: Southbound
 Affected stops:
 Marquette Ave & 7th St - Stop Group C - Stop #53299 (southbound)
 Marquette Ave & 11th St - Stop Group C - Stop #53301 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ METRO Orange Line: Detour via Knox Ave & 76th St S
+
+- **Affected Routes**: `METRO Orange Line`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Knox Ave & 76th St S
+- **Closed Stops**: I-35W & 66th St Station (Stop #52719), Stop #53543, Stop #56832
+
+**Summary**: Southbound Orange Line detoured of I-35W between 66th St and 76th St until later today. Board at: I-35W & 46th St Station - Stop #53543 (southbound); Knox Ave & 76th St Station - Stop #56832 (southbound).
+
+> 💡 **Rider Action**: Board at: I-35W & 46th St Station - Stop #53543 (southbound); Knox Ave & 76th St Station - Stop #56832 (southbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel the regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/orange)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Orange Line detoured of I-35W between 66th St and 76th St until later today
+
+```text
+Get on/off buses at:
+I-35W & 46th St Station - Stop #53543 (southbound)
+Knox Ave & 76th St Station - Stop #56832 (southbound)
+
+Affected direction: Southbound
+
+Southbound buses travel the regular route on Southbound I-35W, exit on 66th St, right on 66th St, left on Penn Ave, left on 76th ST, left on Knox Ave and resume the regular route.
+
+Northbound buses will travel the regular route.
+
+Affected stops:
+I-35W & 66th St Station - Stop #52719 (southbound)
 ```
 
 </details>

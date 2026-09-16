@@ -1,282 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-16T01:02:54.445Z",
-    "totalAlerts": 128,
-    "criticalCount": 9,
-    "moderateCount": 116,
+    "generatedAt": "2026-09-16T07:10:18.862Z",
+    "totalAlerts": 120,
+    "criticalCount": 0,
+    "moderateCount": 117,
     "minorCount": 3,
-    "affectedRoutesCount": 86,
+    "affectedRoutesCount": 84,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "52867",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 3, Route 3B: Eastbound 6:42 PM Trip Canceled (Washington Ave & 10th Ave N)",
-      "summary": "Eastbound Route 3B trip departing Washington Ave & 10th Ave N at 6:42 PM canceled today due to collision",
-      "affectedRoutes": [
-        "Route 3",
-        "Route 3B"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-15T23:42:00.000Z",
-        "end": "2026-09-16T01:43:00.000Z"
-      },
-      "cause": "ACCIDENT",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-09-15T23:40:04.000Z",
-      "rawHeader": "Eastbound Route 3B trip departing Washington Ave & 10th Ave N at 6:42 PM canceled today due to collision",
-      "rawDescription": ""
-    },
-    {
-      "id": "52868",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 10: Southbound 7:15 PM Trip Canceled (Northtown Transit Ctr Gate A)",
-      "summary": "Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 7:15 PM canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 10"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-16T00:29:00.000Z",
-        "end": "2026-09-16T02:11:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/10",
-      "updatedAt": "2026-09-16T00:30:53.000Z",
-      "rawHeader": "Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 7:15 PM canceled today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "52869",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 22, Route 22H: Southbound 7:14 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)",
-      "summary": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 7:14 PM canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 22",
-        "Route 22H"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-16T00:56:00.000Z",
-        "end": "2026-09-16T02:34:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-09-16T00:58:23.000Z",
-      "rawHeader": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 7:14 PM canceled today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "52866",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 54: Service Advisory",
-      "summary": "Eastbound Route 54 trip departing MOA Transit Station Gate C at 6:51 PM will operate from American & 34th at 6:55 PM. Previous stops will be missed today due to traffic",
-      "affectedRoutes": [
-        "Route 54"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [
-        "56875",
-        "4537",
-        "56597",
-        "17415",
-        "41255",
-        "41259"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "56875"
-        },
-        {
-          "id": "4537"
-        },
-        {
-          "id": "56597"
-        },
-        {
-          "id": "17415"
-        },
-        {
-          "id": "41255"
-        },
-        {
-          "id": "41259"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-15T23:51:00.000Z",
-        "end": "2026-09-16T01:28:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/54",
-      "updatedAt": "2026-09-15T23:34:28.000Z",
-      "rawHeader": "Eastbound Route 54 trip departing MOA Transit Station Gate C at 6:51 PM will operate from American & 34th at 6:55 PM. Previous stops will be missed today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "52840",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 223: Service Canceled",
-      "summary": "Route 223 trip departing Maplewood Mall Transit Center & Gate A at 6:11 PM and two other trips canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 223"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-15T23:11:00.000Z",
-        "end": "2026-09-16T02:13:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/223",
-      "updatedAt": "2026-09-15T22:41:01.000Z",
-      "rawHeader": "Route 223 trip departing Maplewood Mall Transit Center & Gate A at 6:11 PM and two other trips canceled today due to traffic",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Rosedale Transit Center Gate F at 6:46 PM\r\n\nAffected westbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate A at 6:11 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 7:41 PM"
-    },
-    {
-      "id": "52848",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 223: Service Canceled",
-      "summary": "Route 223 trip departing Maplewood Mall Transit Center & Gate A at 6:11 PM and two other trips canceled today",
-      "affectedRoutes": [
-        "Route 223"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-15T23:11:00.000Z",
-        "end": "2026-09-16T02:13:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/223",
-      "updatedAt": "2026-09-15T22:41:01.000Z",
-      "rawHeader": "Route 223 trip departing Maplewood Mall Transit Center & Gate A at 6:11 PM and two other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Rosedale Transit Center Gate F at 6:46 PM\r\n\nAffected westbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate A at 6:11 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 7:41 PM"
-    },
-    {
-      "id": "52841",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 725: Service Canceled",
-      "summary": "Route 725 trips departing 5th St NW & 1st Ave NW at 8:26 PM and departing Northtown Transit Ctr Gate D at 9:15 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 725"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 725 trips departing 5th St NW & 1st Ave N"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-16T01:26:00.000Z",
-        "end": "2026-09-16T03:55:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/725",
-      "updatedAt": "2026-09-16T00:56:00.000Z",
-      "rawHeader": "Route 725 trips departing 5th St NW & 1st Ave NW at 8:26 PM and departing Northtown Transit Ctr Gate D at 9:15 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "52849",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 725: Service Canceled",
-      "summary": "Route 725 trips departing 5th St NW & 1st Ave NW at 8:26 PM and departing Northtown Transit Ctr Gate D at 9:15 PM canceled today",
-      "affectedRoutes": [
-        "Route 725"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 725 trips departing 5th St NW & 1st Ave N"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-16T01:26:00.000Z",
-        "end": "2026-09-16T03:55:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/725",
-      "updatedAt": "2026-09-16T00:56:00.000Z",
-      "rawHeader": "Route 725 trips departing 5th St NW & 1st Ave NW at 8:26 PM and departing Northtown Transit Ctr Gate D at 9:15 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "52838",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 801: Service Canceled",
-      "summary": "Route 801 trip departing Rosedale Transit Center Gate B at 12:21 PM and six other trips canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 801"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-15T17:21:00.000Z",
-        "end": "2026-09-16T01:04:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/801",
-      "updatedAt": "2026-09-15T16:51:01.000Z",
-      "rawHeader": "Route 801 trip departing Rosedale Transit Center Gate B at 12:21 PM and six other trips canceled today due to maintenance work",
-      "rawDescription": ""
-    },
     {
       "id": "49962",
       "agency": "Metro Transit",
@@ -715,6 +449,50 @@
       "updatedAt": "2026-09-14T17:16:43.000Z",
       "rawHeader": "METRO Orange Line detoured off Marquette Ave from 6th St to 11th St from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer's",
       "rawDescription": "Get on/off buses at:\r\nMarquette Ave & 5th St - Stop Group C - Stop #53298 (southbound)\r\nTemporary stop on 2nd Ave S & 9th St (southbound)\r\n12th St S & 2nd Ave / 3rd Ave S - Stop #19335 (eastbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on Marquette Ave to 6th St, left on 6th St, right on 2nd Ave S, left on 12th St, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nMarquette Ave & 7th St - Stop Group C - Stop #53299 (southbound)\r\nMarquette Ave & 11th St - Stop Group C - Stop #53301 (southbound)"
+    },
+    {
+      "id": "52873",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "METRO Orange Line: Detour via Knox Ave & 76th St S",
+      "summary": "Southbound Orange Line detoured of I-35W between 66th St and 76th St until later today. Board at: I-35W & 46th St Station - Stop #53543 (southbound); Knox Ave & 76th St Station - Stop #56832 (southbound).",
+      "affectedRoutes": [
+        "METRO Orange Line"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Knox Ave & 76th St S"
+      ],
+      "closedStopIds": [
+        "52719",
+        "53543",
+        "56832"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "52719",
+          "name": "I-35W & 66th St Station",
+          "direction": "southbound"
+        },
+        {
+          "id": "53543"
+        },
+        {
+          "id": "56832"
+        }
+      ],
+      "riderAlternative": "Board at: I-35W & 46th St Station - Stop #53543 (southbound); Knox Ave & 76th St Station - Stop #56832 (southbound)",
+      "detourDetails": "Northbound buses will travel the regular route.",
+      "activePeriod": {
+        "start": "2026-09-16T02:39:00.000Z",
+        "end": "2026-09-16T07:30:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/orange",
+      "updatedAt": "2026-09-16T02:39:32.000Z",
+      "rawHeader": "Southbound Orange Line detoured of I-35W between 66th St and 76th St until later today",
+      "rawDescription": "Get on/off buses at:\r\nI-35W & 46th St Station - Stop #53543 (southbound)\r\nKnox Ave & 76th St Station - Stop #56832 (southbound)\r\n\nAffected direction: Southbound\r\n\nSouthbound buses travel the regular route on Southbound I-35W, exit on 66th St, right on 66th St, left on Penn Ave, left on 76th ST, left on Knox Ave and resume the regular route.\r\n\nNorthbound buses will travel the regular route.\r\n\nAffected stops:\r\nI-35W & 66th St Station - Stop #52719 (southbound)"
     },
     {
       "id": "46729",
@@ -4251,7 +4029,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/36",
-      "updatedAt": "2026-09-15T20:01:02.000Z",
+      "updatedAt": "2026-09-16T05:00:02.000Z",
       "rawHeader": "Route 36 detoured off Hazleton Rd from France Ave to York Ave and off France Ave from Hazleton Rd to Gallagher Dr beginning Wed Sep 16 at 6:00 PM until further notice due to construction",
       "rawDescription": "For northbound Route 36 get on/off buses at:\r\nGallagher Dr & France Ave S - Stop #41097 (eastbound)\r\nYork Ave S & 70th St W - Stop #50601 (northbound)\r\n\nFor southbound Route 36 get on/off buses at:\r\nYork Ave S & 69th St W - Stop #48182 (southbound)\r\nGallagher Dr & France Ave S - Stop #41126 (westbound)\r\n\nNorthbound buses will travel regular route on Gallagher Dr to France Ave, right on France Ave, left on 76th St, left on York Ave, continue on York Ave to Hazleton Rd and resume regular route.\r\n\nSouthbound buses will travel regular route on York Ave, continue on York Ave to 76th St, right on 76th St, right on France Ave, left on Gallagher Dr and resume regular route.\r\n\nAffected stops:\r\nFrance Ave S & 72nd St W - Stop #44393 (northbound)\r\nHazelton Rd & France Ave S - Stop #53866 (eastbound)\r\nHazelton Rd & #3535 - Federal Express - Stop #53156 (eastbound)\r\nHazelton Rd & York Ave S - Stop #53436 (westbound)\r\nHazelton Rd & Target Loading Dock - Stop #53155 (westbound)\r\nFrance Ave S & 72nd St W - Stop #4374 (southbound)"
     },
@@ -5265,7 +5043,7 @@
       "detourDetails": "Southbound buses will travel south on Rice to Orange, right on Orange, left on Galtier, continue on Galtier to Maryland and resume regular route",
       "activePeriod": {
         "start": "2026-09-15T15:30:00.000Z",
-        "end": "2026-09-16T03:01:26.000Z"
+        "end": "2026-09-16T07:30:00.000Z"
       },
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
@@ -5876,7 +5654,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/64",
-      "updatedAt": "2026-09-15T15:38:50.000Z",
+      "updatedAt": "2026-09-16T05:00:01.000Z",
       "rawHeader": "Route 64N detoured off 7th Ave from South Ave to Margaret St and off Margaret St from 7th Ave to 12th Ave from 5:00 PM to 8:30 PM on Thu Sep 17 due to North St Paul Fall Round Up Parade",
       "rawDescription": "For eastbound Route 64N get on/off buses at:\r\n7th Ave E & South Ave (Co Rd B) - Stop #3901 (eastbound)\r\n12th Ave E & Helen St N - Stop #3914 (westbound)\r\n\nFor westbound Route 64(via North St Paul) get on/off buses at:\r\n12th Ave E & Margaret St N - Stop #3875 (eastbound)\r\n7th Ave E & McKnight Rd - Stop #49769 (westbound)\r\n\nEastbound 64N buses will travel regular route on 7th Ave to South Ave, right on South Ave, left on Geneva Ave, left onto westbound Hwy 36, right exit at Margaret St, continue onto 12th Ave and resume regular route.\r\n\nWestbound 64 buses via North St Paul will travel regular route on 12th Ave to Margaret St, left on Margaret St, right on 17th Ave, right on Geneva Ave, right on South Ave, left on 7th Ave and resume regular route.\r\n\nAffected stops:\r\n7th Ave E & 2nd St N - Stop #3903 (eastbound)\r\n7th Ave E & 1st St N - Stop #3904 (eastbound)\r\n7th Ave E & Helen St N - Stop #3905 (eastbound)\r\n7th Ave E & Margaret St N - Stop #49843 (eastbound)\r\nMargaret St N & Seppala Blvd - Stop #56898 (northbound)\r\nMargaret St N & Centennial Dr - Stop #53148 (northbound)\r\nMargaret St N & Centennial Dr - Stop #53149 (southbound)\r\nMargaret St N & Seppala Blvd - Stop #48260 (southbound)\r\n7th Ave E & Helen St N - Stop #3884 (westbound)\r\n7th Ave E & North St Paul Dr - Stop #3885 (westbound)\r\n7th Ave E & 2nd St N - Stop #3886 (westbound)\r\n7th Ave E & 3rd St N - Stop #3888 (westbound)"
     },
@@ -7327,7 +7105,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/219",
-      "updatedAt": "2026-09-11T05:00:02.000Z",
+      "updatedAt": "2026-09-16T05:00:01.000Z",
       "rawHeader": "Route 219 detoured off 7th Ave from Geneva Ave to Margaret Ave and off Margaret Ave from 7th Ave to 14th Ave from 5:00 PM to 8:30 PM on Thu Sep 17 due to North St Paul Fall Round Up Parade",
       "rawDescription": "For northbound Route 219 get on/off buses at:\r\nHwy 120 - Geneva & Upper 46th St N - Stop #49829 (northbound)\r\nMargaret St N & 12th Ave / 13th Ave E - Stop #56899 (northbound)\r\n\nFor southbound Route 219 get on/off buses at:\r\nMargaret St N & 15th / 14th Ave E - Stop #56902 (southbound)\r\nHwy 120 - Division & Upper 46th St N - Stop #49846 (southbound)\r\n\nNorthbound buses will travel regular route on Geneva Ave to 7th Ave, continue on Geneva Ave to Hwy 36, left onto westbound Hwy 36, right exit at Margaret St, right on Margaret St and resume regular route.\r\n\nSouthbound buses will travel regular route on Margaret St to 14th Ave, left on 14th Ave, left on Charles St, right on 17th Ave, right on Geneva Ave, continue on Geneva Ave to 7th Ave and resume regular route.\r\n\nAffected stops:\r\n7th Ave E & Henry St - Stop #49830 (westbound)\r\n7th Ave E & Charles St - Stop #49831 (westbound)\r\n7th Ave E & Margaret St N - Stop #3883 (westbound)\r\nMargaret St N & Seppala Blvd - Stop #56898 (northbound)\r\nMargaret St N & Centennial Dr - Stop #53148 (northbound)\r\nMargaret St & 12th Ave - Stop #52651 (southbound)\r\nMargaret St N & Centennial Dr - Stop #53149 (southbound)\r\nMargaret St N & Seppala Blvd - Stop #48260 (southbound)\r\n7th Ave N & Charles St - Stop #49844 (eastbound)\r\n7th Ave N & Henry St - Stop #49845 (eastbound)"
     },
@@ -7961,7 +7739,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/537",
-      "updatedAt": "2026-09-15T20:00:22.000Z",
+      "updatedAt": "2026-09-16T05:00:01.000Z",
       "rawHeader": "Route 537 detoured off France Ave from 76th St to 70th St and off 70th St from France Ave to York Ave beginning Wed Sep 16 at 6:00 PM until further notice due to construction",
       "rawDescription": "For northbound Route 537 get on/off buses at:\r\nFrance Ave S & Minnesota Dr - Stop #57520 (northbound)\r\n76th St W & Centennial Lakes Office Park - Stop #52038 (eastbound)\r\nYork Ave S & 70th St W - Stop #50601 (northbound)\r\n\nFor southbound Route 537 get on/off buses at:\r\nYork Ave S & 69th St W - Stop #48182 (southbound)\r\nYork Ave S & Hazelton Rd - Stop #1925 (southbound)\r\n76th St W & Office Depot - Stop #52038 (westbound)\r\nFrance Ave S & Minnesota Dr - Stop #57524 (southbound)\r\n\nNorthbound buses will travel regular route on France Ave to 76th St, right on 76th St, left on York Ave, continue on York Ave to 70th St and resume regular route.\r\n\nSouthbound buses will travel regular route on York Ave to 70th St, continue on York Ave to 76th St, right on 76th St, left on France Ave and resume regular route.\r\n\nAffected stops:\r\nFrance Ave S & 76th St W - Stop #57521 (northbound)\r\nFrance Ave S & Parklawn Ave - Stop #56530 (northbound)\r\nFrance Ave S & Gallagher Dr - Stop #57522 (northbound)\r\nFrance Ave S & 72nd St W - Stop #44393 (northbound)\r\nFrance Ave S & 70th St W - Stop #57523 (northbound)\r\n70th St W & Target driveway - Stop #50600 (eastbound)\r\n70th St W & Target - Stop #50603 (westbound)\r\nFrance Ave S & 70th St W - Stop #50604 (southbound)\r\nFrance Ave S & 72nd St W - Stop #4374 (southbound)\r\nFrance Ave S & Gallagher Dr - Stop #4375 (southbound)\r\nFrance Ave S & Parklawn Ave - Stop #20197 (southbound)\r\nFrance Ave S & 76th St W - Stop #4376 (southbound)"
     },
@@ -8655,12 +8433,11 @@
       "riderAlternative": "Board at: Brooklyn Ctr Transit Ctr Gate A - Stop #51845 (eastbound); Bass Lake Rd (58th Ave) & Drew Ave N - Stop #9474 (westbound)",
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-01T12:30:00.000Z",
         "textDescription": "Beginning Tue Sep 1 at 7:30 AM until further notice"
       },
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-09-08T12:30:02.000Z",
+      "updatedAt": "2026-09-16T06:27:09.000Z",
       "rawHeader": "Bass Lake Rd (Co Rd 10) & Xerxes Ave N - Stop #9022 (westbound) is closed for Routes 721 and 723 beginning Tue Sep 1 at 7:30 AM until further notice due to construction",
       "rawDescription": "Get on/off Route 721 buses at:\r\nBrooklyn Ctr Transit Ctr Gate A - Stop #51845 (eastbound)\r\nBass Lake Rd (58th Ave) & Drew Ave N - Stop #9474 (westbound)\r\n\nGet on/off Route 723 buses at:\r\nBrooklyn Ctr Transit Ctr Gate A - Stop #51845 (eastbound)\r\nBrooklyn Blvd & 59th Ave N - Stop #9023 (northbound)"
     },
