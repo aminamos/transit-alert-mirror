@@ -1,16 +1,146 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-16T07:10:18.862Z",
-    "totalAlerts": 120,
-    "criticalCount": 0,
-    "moderateCount": 117,
+    "generatedAt": "2026-09-16T13:05:02.952Z",
+    "totalAlerts": 123,
+    "criticalCount": 5,
+    "moderateCount": 115,
     "minorCount": 3,
-    "affectedRoutesCount": 84,
+    "affectedRoutesCount": 85,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
+    {
+      "id": "52880",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO C Line: Northbound 7:21 AM Trip Canceled (7th St & Park Station)",
+      "summary": "Northbound C Line trip departing 7th St & Park Station at 7:21 AM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "METRO C Line"
+      ],
+      "direction": "Northbound",
+      "intersections": [
+        "Northbound C Line trip departing 7th St & Park St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-16T12:42:00.000Z",
+        "end": "2026-09-16T13:53:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/cline",
+      "updatedAt": "2026-09-16T12:43:07.000Z",
+      "rawHeader": "Northbound C Line trip departing 7th St & Park Station at 7:21 AM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "52876",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 46, Route 46C: Westbound 7:11 AM Trip Canceled (46th St Station & Gate G)",
+      "summary": "Westbound Route 46C trip departing 46th St Station & Gate G at 7:11 AM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 46",
+        "Route 46C"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-16T12:11:00.000Z",
+        "end": "2026-09-16T13:45:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/46",
+      "updatedAt": "2026-09-16T11:55:52.000Z",
+      "rawHeader": "Westbound Route 46C trip departing 46th St Station & Gate G at 7:11 AM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "52877",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 46: Eastbound 6:30 AM Trip Canceled (Eden-Vernon Busway & Sherwood/Vernon Ave)",
+      "summary": "Eastbound Route 46 trip departing Eden-Vernon Busway & Sherwood/Vernon Ave at 6:30 AM canceled today",
+      "affectedRoutes": [
+        "Route 46"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {},
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/46",
+      "updatedAt": "2026-09-16T13:03:02.000Z",
+      "rawHeader": "Eastbound Route 46 trip departing Eden-Vernon Busway & Sherwood/Vernon Ave at 6:30 AM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "52881",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 46: Service Canceled",
+      "summary": "Route 46 trips departing Eden-Vernon Busway & Sherwood/Vernon Ave at 8:00 AM and departing 46th St Station & Gate G at 8:43 AM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 46"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-16T13:00:00.000Z",
+        "end": "2026-09-16T15:16:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/46",
+      "updatedAt": "2026-09-16T12:48:44.000Z",
+      "rawHeader": "Route 46 trips departing Eden-Vernon Busway & Sherwood/Vernon Ave at 8:00 AM and departing 46th St Station & Gate G at 8:43 AM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "52879",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 721: Service Canceled",
+      "summary": "Route 721 trip departing Hennepin Technical College & Main Door at 6:58 AM and two other trips canceled today",
+      "affectedRoutes": [
+        "Route 721"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-16T12:47:00.000Z",
+        "end": "2026-09-16T14:23:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/721",
+      "updatedAt": "2026-09-16T12:47:59.000Z",
+      "rawHeader": "Route 721 trip departing Hennepin Technical College & Main Door at 6:58 AM and two other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate A at 7:30 AM\r\n\nAffected southbound trips:\r\ndeparting Hennepin Technical College & Main Door at 6:58 AM\r\ndeparting Hennepin Technical College & Main Door at 7:58 AM"
+    },
     {
       "id": "49962",
       "agency": "Metro Transit",
@@ -328,6 +458,49 @@
       "rawDescription": "Get on/off southbound buses at:\r\nUptown Transit Station - Gates D/E - Stop #52857 (westbound)\r\n\nNo northbound stations missed.\r\n\nNorthbound buses will travel regular route on Hennepin Ave to Lake St, right on Lake St, left on Dupont Ave, left on Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Hennepin Ave to 28th St, left on 28th St, right on Lyndale Ave, right on Lake St, right on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave and resume regular route.\r\n\nAffected stops:\r\nUptown Transit Station - Gate A - Stop #50196 (southbound)"
     },
     {
+      "id": "52878",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "METRO E Line: Detour via France Ave S (62nd St to 65th St)",
+      "summary": "E Line detoured off France Ave S from 62nd St to 65th St until further notice due to construction. Board at: France & 58th St Station - Stop #1149 (southbound); Southdale Hospital Station - Stop #1156 (eastbound).",
+      "affectedRoutes": [
+        "METRO E Line"
+      ],
+      "direction": "Southbound",
+      "intersections": [
+        "France Ave S (62nd St to 65th St)"
+      ],
+      "closedStopIds": [
+        "1153",
+        "1149",
+        "1156"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "1153",
+          "name": "France & 62nd St Station",
+          "direction": "southbound"
+        },
+        {
+          "id": "1149"
+        },
+        {
+          "id": "1156"
+        }
+      ],
+      "riderAlternative": "Board at: France & 58th St Station - Stop #1149 (southbound); Southdale Hospital Station - Stop #1156 (eastbound)",
+      "detourDetails": "Southbound buses will travel regular route on France Ave S to 62nd St W, right on 62nd St, left on Brookview, left on Valley View Rd, left on 65th St W, continue to France and resume regular route.",
+      "activePeriod": {
+        "start": "2026-09-16T12:18:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/eline",
+      "updatedAt": "2026-09-16T12:18:04.000Z",
+      "rawHeader": "E Line detoured off France Ave S from 62nd St to 65th St until further notice due to construction",
+      "rawDescription": "Get on/off buses at:\r\nFrance & 58th St Station - Stop #1149 (southbound)\r\nSouthdale Hospital Station - Stop #1156 (eastbound)\r\n\nAffected direction: Southbound\r\nSouthbound buses will travel regular route on France Ave S to 62nd St W, right on 62nd St, left on Brookview, left on Valley View Rd, left on 65th St W, continue to France and resume regular route. \r\n\nAffected stops:\r\nFrance & 62nd St Station - Stop #1153 (southbound)"
+    },
+    {
       "id": "50989",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -449,50 +622,6 @@
       "updatedAt": "2026-09-14T17:16:43.000Z",
       "rawHeader": "METRO Orange Line detoured off Marquette Ave from 6th St to 11th St from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer's",
       "rawDescription": "Get on/off buses at:\r\nMarquette Ave & 5th St - Stop Group C - Stop #53298 (southbound)\r\nTemporary stop on 2nd Ave S & 9th St (southbound)\r\n12th St S & 2nd Ave / 3rd Ave S - Stop #19335 (eastbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on Marquette Ave to 6th St, left on 6th St, right on 2nd Ave S, left on 12th St, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nMarquette Ave & 7th St - Stop Group C - Stop #53299 (southbound)\r\nMarquette Ave & 11th St - Stop Group C - Stop #53301 (southbound)"
-    },
-    {
-      "id": "52873",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "METRO Orange Line: Detour via Knox Ave & 76th St S",
-      "summary": "Southbound Orange Line detoured of I-35W between 66th St and 76th St until later today. Board at: I-35W & 46th St Station - Stop #53543 (southbound); Knox Ave & 76th St Station - Stop #56832 (southbound).",
-      "affectedRoutes": [
-        "METRO Orange Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Knox Ave & 76th St S"
-      ],
-      "closedStopIds": [
-        "52719",
-        "53543",
-        "56832"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "52719",
-          "name": "I-35W & 66th St Station",
-          "direction": "southbound"
-        },
-        {
-          "id": "53543"
-        },
-        {
-          "id": "56832"
-        }
-      ],
-      "riderAlternative": "Board at: I-35W & 46th St Station - Stop #53543 (southbound); Knox Ave & 76th St Station - Stop #56832 (southbound)",
-      "detourDetails": "Northbound buses will travel the regular route.",
-      "activePeriod": {
-        "start": "2026-09-16T02:39:00.000Z",
-        "end": "2026-09-16T07:30:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/orange",
-      "updatedAt": "2026-09-16T02:39:32.000Z",
-      "rawHeader": "Southbound Orange Line detoured of I-35W between 66th St and 76th St until later today",
-      "rawDescription": "Get on/off buses at:\r\nI-35W & 46th St Station - Stop #53543 (southbound)\r\nKnox Ave & 76th St Station - Stop #56832 (southbound)\r\n\nAffected direction: Southbound\r\n\nSouthbound buses travel the regular route on Southbound I-35W, exit on 66th St, right on 66th St, left on Penn Ave, left on 76th ST, left on Knox Ave and resume the regular route.\r\n\nNorthbound buses will travel the regular route.\r\n\nAffected stops:\r\nI-35W & 66th St Station - Stop #52719 (southbound)"
     },
     {
       "id": "46729",
@@ -2882,7 +3011,7 @@
       "cause": "CONSTRUCTION",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/18",
-      "updatedAt": "2026-09-15T16:56:02.000Z",
+      "updatedAt": "2026-09-16T09:00:01.000Z",
       "rawHeader": "Route 18 detoured off Nicollet Ave from 66th St to 77th St beginning Wed Sep 9 at 4:00 AM until further notice due to construction",
       "rawDescription": "For northbound Route 18 get on/off buses at:\r\n2nd Ave S Loop & American Blvd - Stop #51852 (18 buses departing 2nd Ave/American Blvd only)\r\nNicollet Ave & 77th St - Stop #1436 (northbound)\r\nPortland & 77th St Station - Stop #620 (northbound)\r\nPortland & 73rd St Station - Stop #56922 (northbound)\r\nPortland & 70th St Station - Stop #639 (northbound)\r\nPortland & 66th St Station - Stop #643 (northbound)\r\nNicollet Ave S & 66th St E - Stop #1754 (northbound)\r\n\nFor southbound Route 18 get on/off buses at:\r\nNicollet Ave S & 69th St W - Stop #1352 (southbound)\r\nPortland & 73rd St Station - Stop #444 (southbound)\r\nNicollet Ave S & 78th St W - Stop #1361 (southbound)\r\n2nd Ave S Loop & American Blvd - Stop #51852 (18D only)\r\n\nNorthbound buses that depart 104th St/Bloomington Frwy will travel regular route on Nicollet Ave to 77th St, right on 77th St, left on Portland Ave, left on 66th St, right on Nicollet Ave and resume regular route.\r\n\nNorthbound buses that depart 2nd Ave/American Blvd will travel regular route on 2nd Ave to American Blvd, right on American Blvd, right on Nicollet Ave, right on 77th St, left on Portland Ave, left on 66th St, right on Nicollet Ave, and resume regular route.\r\n\nSouthbound 18E buses will travel regular route on Nicollet Ave to 70th St, left on 70th St, right on Portland Ave, right on 77th St, left on Nicollet Ave and resume regular route.\r\n\nSouthbound 18D buses will travel regular route on Nicollet Ave to 70th St, left on 70th St, right on Portland Ave, right on 77th St, left on Nicollet Ave, left on American Blvd, left on 2nd Ave, left into turnaround and layover.\r\n\nAffected stops:\r\nAll northbound stops on Nicollet Ave from 78th St to 67th St\r\nAll southbound stops on Nicollet Ave from 70th St to 77th St"
     },
@@ -5005,52 +5134,6 @@
       "updatedAt": "2026-09-14T14:09:32.000Z",
       "rawHeader": "Route 62D detoured off Wabasha St from Cesar Chavez St to Congress St from 11:00 AM to 11:00 PM on Sat Sep 19 due to Back Pocket Vintage One Year Party",
       "rawDescription": "For northbound Route 62 get on/off buses at:\r\nWabasha St & Congress St - Stop #287 (northbound)\r\nWabasha St & Torre de San Miguel - Stop #2781 (northbound)\r\n\nFor southbound Route 62 get on/off buses at:\r\nWabasha St & Torre de San Miguel - Stop #42007 (southbound)\r\nWabasha St & Winifred St - Stop #300 (southbound)\r\n\nNorthbound 62 buses that depart Signal Hills will travel regular route on Wabasha St to Congress St, right on Congress, left on Cesar Chavez St to Wabasha St, and resume regular route.\r\n\nSouthbound 62D buses will travel regular route on Wabasha St to Cesar Chavez St, continue onto Cesar Chavez St to Congress St, right on Congress, left on Wabasha St, and resume regular route.\r\n\nAffected stops:\r\nWabasha St & Cesar Chavez St - Stop #289 (northbound)\r\nWabasha St & Congress St - Stop #299 (southbound)"
-    },
-    {
-      "id": "52837",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 62: Detour via Rice St & Orange Ave",
-      "summary": "Southbound Route 62 detoured off Maryland until later today due to road conditions. Board at: Rice St & Orange Ave - Stop #10470 (southbound); Galtier St & Cook Ave W - Stop #80929 (southbound).",
-      "affectedRoutes": [
-        "Route 62"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Rice St & Orange Ave",
-        "Galtier St & Cook Ave W",
-        "Rice St & Maryland Ave"
-      ],
-      "closedStopIds": [
-        "10471",
-        "10470",
-        "80929"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "10471",
-          "name": "Rice St & Maryland Ave",
-          "direction": "southbound"
-        },
-        {
-          "id": "10470"
-        },
-        {
-          "id": "80929"
-        }
-      ],
-      "riderAlternative": "Board at: Rice St & Orange Ave - Stop #10470 (southbound); Galtier St & Cook Ave W - Stop #80929 (southbound)",
-      "detourDetails": "Southbound buses will travel south on Rice to Orange, right on Orange, left on Galtier, continue on Galtier to Maryland and resume regular route",
-      "activePeriod": {
-        "start": "2026-09-15T15:30:00.000Z",
-        "end": "2026-09-16T07:30:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/62",
-      "updatedAt": "2026-09-15T15:31:02.000Z",
-      "rawHeader": "Southbound Route 62 detoured off Maryland until later today due to road conditions",
-      "rawDescription": "Get on/off buses at:\r\nRice St & Orange Ave - Stop #10470 (southbound)\r\nGaltier St & Cook Ave W - Stop #80929 (southbound)\r\n\nSouthbound buses will travel south on Rice to Orange, right on Orange, left on Galtier, continue on Galtier to Maryland and resume regular route\r\n\nNorthbound buses not affected\r\n\nAffected stops:\r\nRice St & Maryland Ave - Stop #10471 (southbound)"
     },
     {
       "id": "49835",
@@ -8395,51 +8478,6 @@
       "updatedAt": "2026-05-29T17:59:01.000Z",
       "rawHeader": "Route 673B detoured off Cedar Lake Rd from Texas Ave to Louisiana Ave and off Louisiana Ave from Cedar Lake Rd to Wayzata Blvd beginning Mon Apr 6 until further notice due to construction",
       "rawDescription": "Updated 4/11 at 2:04 PM to revise detours, affected stops and get on/off stops.\r\n\nFor eastbound Route 673 get on/off buses at:\r\nLouisiana Transit Center & Gate B - Stop #52551 (westbound)\r\nCedar Lake Rd & Texas Ave - Stop #8073 (westbound)\r\n\nFor westbound Route 673 get on/off buses at:\r\nCedar Lake Rd & Virginia Ave - Stop #8046 (eastbound)\r\nTemporary stop on Texas Ave just past Cedar Lake Rd (northbound)\r\nLouisiana Transit Center & Gate B - Stop #52551 (westbound)\r\n\nEastbound buses will depart Louisiana Ave Transit Center, right on Wayzata Blvd, left on Texas Ave, right on Cedar Lake Rd and resume regular route.\r\n\nWestbound buses will travel regular route on Cedar Lake Rd to Texas Ave, left on Texas Ave, right on Wayzata Blvd, left into Louisiana Ave Transit Center and layover.\r\n\nAffected stops:\r\nCedar Lake Rd & Rhode Island Ave S - Stop #80936 (westbound)\r\nCedar Lake Rd & Sumter Ave S - Stop #80937 (eastbound)"
-    },
-    {
-      "id": "52096",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 721, Route 723: Stop Closed at Brooklyn Blvd & 59th Ave N",
-      "summary": "Bass Lake Rd (Co Rd 10) & Xerxes Ave N - Stop #9022 (westbound) is closed for Routes 721 and 723 beginning Tue Sep 1 at 7:30 AM until further notice due to construction. Board at: Brooklyn Ctr Transit Ctr Gate A - Stop #51845 (eastbound); Bass Lake Rd (58th Ave) & Drew Ave N - Stop #9474 (westbound).",
-      "affectedRoutes": [
-        "Route 721",
-        "Route 723"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Brooklyn Blvd & 59th Ave N"
-      ],
-      "closedStopIds": [
-        "9022",
-        "51845",
-        "9474",
-        "9023"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "9022"
-        },
-        {
-          "id": "51845"
-        },
-        {
-          "id": "9474"
-        },
-        {
-          "id": "9023"
-        }
-      ],
-      "riderAlternative": "Board at: Brooklyn Ctr Transit Ctr Gate A - Stop #51845 (eastbound); Bass Lake Rd (58th Ave) & Drew Ave N - Stop #9474 (westbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "textDescription": "Beginning Tue Sep 1 at 7:30 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "NO_SERVICE",
-      "updatedAt": "2026-09-16T06:27:09.000Z",
-      "rawHeader": "Bass Lake Rd (Co Rd 10) & Xerxes Ave N - Stop #9022 (westbound) is closed for Routes 721 and 723 beginning Tue Sep 1 at 7:30 AM until further notice due to construction",
-      "rawDescription": "Get on/off Route 721 buses at:\r\nBrooklyn Ctr Transit Ctr Gate A - Stop #51845 (eastbound)\r\nBass Lake Rd (58th Ave) & Drew Ave N - Stop #9474 (westbound)\r\n\nGet on/off Route 723 buses at:\r\nBrooklyn Ctr Transit Ctr Gate A - Stop #51845 (eastbound)\r\nBrooklyn Blvd & 59th Ave N - Stop #9023 (northbound)"
     },
     {
       "id": "47947",

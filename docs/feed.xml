@@ -4,9 +4,54 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Wed, 16 Sep 2026 07:10:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:05:02 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] METRO C Line: Northbound 7:21 AM Trip Canceled (7th St &amp; Park Station)</title>
+      <link>https://www.metrotransit.org/route/cline</link>
+      <guid isPermaLink="false">Metro Transit-52880-2026-09-16T12:43:07.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 12:43:07 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO C Line</category>
+      <description>Northbound C Line trip departing 7th St &amp; Park Station at 7:21 AM canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 46, Route 46C: Westbound 7:11 AM Trip Canceled (46th St Station &amp; Gate G)</title>
+      <link>https://www.metrotransit.org/route/46</link>
+      <guid isPermaLink="false">Metro Transit-52876-2026-09-16T11:55:52.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 11:55:52 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 46, Route 46C</category>
+      <description>Westbound Route 46C trip departing 46th St Station &amp; Gate G at 7:11 AM canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 46: Eastbound 6:30 AM Trip Canceled (Eden-Vernon Busway &amp; Sherwood/Vernon Ave)</title>
+      <link>https://www.metrotransit.org/route/46</link>
+      <guid isPermaLink="false">Metro Transit-52877-2026-09-16T13:03:02.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 13:03:02 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 46</category>
+      <description>Eastbound Route 46 trip departing Eden-Vernon Busway &amp; Sherwood/Vernon Ave at 6:30 AM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 46: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/46</link>
+      <guid isPermaLink="false">Metro Transit-52881-2026-09-16T12:48:44.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 12:48:44 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 46</category>
+      <description>Route 46 trips departing Eden-Vernon Busway &amp; Sherwood/Vernon Ave at 8:00 AM and departing 46th St Station &amp; Gate G at 8:43 AM canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 721: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/721</link>
+      <guid isPermaLink="false">Metro Transit-52879-2026-09-16T12:47:59.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 12:47:59 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 721</category>
+      <description>Route 721 trip departing Hennepin Technical College &amp; Main Door at 6:58 AM and two other trips canceled today</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -73,6 +118,15 @@ Affected st</title>
       <description>METRO E Line detoured off Hennepin Ave from 28th St to Lake St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM. Board at: Uptown Transit Station - Gates D/E - Stop #52857 (westbound). | Action: Board at: Uptown Transit Station - Gates D/E - Stop #52857 (westbound)</description>
     </item>
     <item>
+      <title>[Moderate] METRO E Line: Detour via France Ave S (62nd St to 65th St)</title>
+      <link>https://www.metrotransit.org/route/eline</link>
+      <guid isPermaLink="false">Metro Transit-52878-2026-09-16T12:18:04.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 12:18:04 GMT</pubDate>
+      <category>Moderate</category>
+      <category>METRO E Line</category>
+      <description>E Line detoured off France Ave S from 62nd St to 65th St until further notice due to construction. Board at: France &amp; 58th St Station - Stop #1149 (southbound); Southdale Hospital Station - Stop #1156 (eastbound). | Action: Board at: France &amp; 58th St Station - Stop #1149 (southbound); Southdale Hospital Station - Stop #1156 (eastbound)</description>
+    </item>
+    <item>
       <title>[Moderate] METRO Gold Line: Detour via 6th St &amp; Jackson St</title>
       <link>https://www.metrotransit.org/route/gold</link>
       <guid isPermaLink="false">Metro Transit-50989-2026-08-25T13:26:20.000Z</guid>
@@ -98,15 +152,6 @@ Affected st</title>
       <category>Moderate</category>
       <category>METRO Orange Line</category>
       <description>METRO Orange Line detoured off Marquette Ave from 6th St to 11th St from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: Marquette Ave &amp; 5th St - Stop Group C - Stop #53298 (southbound); Temporary stop on 2nd Ave S &amp; 9th St (southbound); 12th St S &amp; 2nd Ave / 3rd Ave S - Stop #19335 (eastbound). | Action: Board at: Marquette Ave &amp; 5th St - Stop Group C - Stop #53298 (southbound); Temporary stop on 2nd Ave S &amp; 9th St (southbound); 12th St S &amp; 2nd Ave / 3rd Ave S - Stop #19335 (eastbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] METRO Orange Line: Detour via Knox Ave &amp; 76th St S</title>
-      <link>https://www.metrotransit.org/route/orange</link>
-      <guid isPermaLink="false">Metro Transit-52873-2026-09-16T02:39:32.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 02:39:32 GMT</pubDate>
-      <category>Moderate</category>
-      <category>METRO Orange Line</category>
-      <description>Southbound Orange Line detoured of I-35W between 66th St and 76th St until later today. Board at: I-35W &amp; 46th St Station - Stop #53543 (southbound); Knox Ave &amp; 76th St Station - Stop #56832 (southbound). | Action: Board at: I-35W &amp; 46th St Station - Stop #53543 (southbound); Knox Ave &amp; 76th St Station - Stop #56832 (southbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 2: Detour via Franklin Ave &amp; Lyndale Ave</title>
@@ -356,8 +401,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 18: Detour via 18 buses departing 2nd Ave &amp; American Blvd</title>
       <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-52560-2026-09-15T16:56:02.000Z</guid>
-      <pubDate>Tue, 15 Sep 2026 16:56:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52560-2026-09-16T09:00:01.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 09:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 18</category>
       <description>Route 18 detoured off Nicollet Ave from 66th St to 77th St beginning Wed Sep 9 at 4:00 AM until further notice due to construction. Board at: 2nd Ave S Loop &amp; American Blvd - Stop #51852 (18 buses departing 2nd Ave/American Blvd only); Nicollet Ave &amp; 77th St - Stop #1436 (northbound); Portland &amp; 77th St Station - Stop #620 (northbound). | Action: Board at: 2nd Ave S Loop &amp; American Blvd - Stop #51852 (18 buses departing 2nd Ave/American Blvd only); Nicollet Ave &amp; 77th St - Stop #1436 (northbound); Portland &amp; 77th St Station - Stop #620 (northbound)</description>
@@ -586,15 +631,6 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 62, Route 62D</category>
       <description>Route 62D detoured off Wabasha St from Cesar Chavez St to Congress St from 11:00 AM to 11:00 PM on Sat Sep 19 due to Back Pocket Vintage One Year Party. Board at: Wabasha St &amp; Congress St - Stop #287 (northbound); Wabasha St &amp; Torre de San Miguel - Stop #2781 (northbound). | Action: Board at: Wabasha St &amp; Congress St - Stop #287 (northbound); Wabasha St &amp; Torre de San Miguel - Stop #2781 (northbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 62: Detour via Rice St &amp; Orange Ave</title>
-      <link>https://www.metrotransit.org/route/62</link>
-      <guid isPermaLink="false">Metro Transit-52837-2026-09-15T15:31:02.000Z</guid>
-      <pubDate>Tue, 15 Sep 2026 15:31:02 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 62</category>
-      <description>Southbound Route 62 detoured off Maryland until later today due to road conditions. Board at: Rice St &amp; Orange Ave - Stop #10470 (southbound); Galtier St &amp; Cook Ave W - Stop #80929 (southbound). | Action: Board at: Rice St &amp; Orange Ave - Stop #10470 (southbound); Galtier St &amp; Cook Ave W - Stop #80929 (southbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 63: Stop Closed at Grand Ave &amp; Victoria St</title>
@@ -1000,15 +1036,6 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 673, Route 673B</category>
       <description>Route 673B detoured off Cedar Lake Rd from Texas Ave to Louisiana Ave and off Louisiana Ave from Cedar Lake Rd to Wayzata Blvd beginning Mon Apr 6 until further notice due to construction. Board at: Louisiana Transit Center &amp; Gate B - Stop #52551 (westbound); Cedar Lake Rd &amp; Texas Ave - Stop #8073 (westbound). | Action: Board at: Louisiana Transit Center &amp; Gate B - Stop #52551 (westbound); Cedar Lake Rd &amp; Texas Ave - Stop #8073 (westbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 721, Route 723: Stop Closed at Brooklyn Blvd &amp; 59th Ave N</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-52096-2026-09-16T06:27:09.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 06:27:09 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 721, Route 723</category>
-      <description>Bass Lake Rd (Co Rd 10) &amp; Xerxes Ave N - Stop #9022 (westbound) is closed for Routes 721 and 723 beginning Tue Sep 1 at 7:30 AM until further notice due to construction. Board at: Brooklyn Ctr Transit Ctr Gate A - Stop #51845 (eastbound); Bass Lake Rd (58th Ave) &amp; Drew Ave N - Stop #9474 (westbound). | Action: Board at: Brooklyn Ctr Transit Ctr Gate A - Stop #51845 (eastbound); Bass Lake Rd (58th Ave) &amp; Drew Ave N - Stop #9474 (westbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 723, Route 724: Stop Closed at Selected Stop</title>
