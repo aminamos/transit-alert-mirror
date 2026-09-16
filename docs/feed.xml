@@ -4,50 +4,50 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Tue, 15 Sep 2026 22:41:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:02:54 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO D Line: Northbound 3:49 PM Trip Canceled (MOA Transit Station Gate A)</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-52858-2026-09-15T22:03:16.000Z</guid>
-      <pubDate>Tue, 15 Sep 2026 22:03:16 GMT</pubDate>
+      <title>[Critical] Route 3, Route 3B: Eastbound 6:42 PM Trip Canceled (Washington Ave &amp; 10th Ave N)</title>
+      <link>https://www.metrotransit.org/route/3</link>
+      <guid isPermaLink="false">Metro Transit-52867-2026-09-15T23:40:04.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 23:40:04 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Northbound D Line trip departing MOA Transit Station Gate A at 3:49 PM canceled from Chicago &amp; Lake at 4:22 PM today due to traffic</description>
+      <category>Route 3, Route 3B</category>
+      <description>Eastbound Route 3B trip departing Washington Ave &amp; 10th Ave N at 6:42 PM canceled today due to collision</description>
     </item>
     <item>
-      <title>[Critical] METRO Orange Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/orange</link>
-      <guid isPermaLink="false">Metro Transit-52857-2026-09-15T22:05:35.000Z</guid>
-      <pubDate>Tue, 15 Sep 2026 22:05:35 GMT</pubDate>
+      <title>[Critical] Route 10: Southbound 7:15 PM Trip Canceled (Northtown Transit Ctr Gate A)</title>
+      <link>https://www.metrotransit.org/route/10</link>
+      <guid isPermaLink="false">Metro Transit-52868-2026-09-16T00:30:53.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 00:30:53 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO Orange Line</category>
-      <description>Northbound Orange Line trips departing Burnsville Heart of the City Station at 4:28 PM and departing Burnsville Heart of the City Station at 4:38 PM canceled today</description>
+      <category>Route 10</category>
+      <description>Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 7:15 PM canceled today due to maintenance work</description>
     </item>
     <item>
-      <title>[Critical] Route 54: Eastbound 4:28 PM Trip Canceled (MOA Transit Station Gate C)</title>
+      <title>[Critical] Route 22, Route 22H: Southbound 7:14 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)</title>
+      <link>https://www.metrotransit.org/route/22</link>
+      <guid isPermaLink="false">Metro Transit-52869-2026-09-16T00:58:23.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 00:58:23 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 22, Route 22H</category>
+      <description>Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 7:14 PM canceled today due to maintenance work</description>
+    </item>
+    <item>
+      <title>[Critical] Route 54: Service Advisory</title>
       <link>https://www.metrotransit.org/route/54</link>
-      <guid isPermaLink="false">Metro Transit-52856-2026-09-15T21:44:31.000Z</guid>
-      <pubDate>Tue, 15 Sep 2026 21:44:31 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52866-2026-09-15T23:34:28.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 23:34:28 GMT</pubDate>
       <category>Critical</category>
       <category>Route 54</category>
-      <description>Eastbound Route 54 trip departing MOA Transit Station Gate C at 4:28 PM canceled</description>
-    </item>
-    <item>
-      <title>[Critical] Route 54: Westbound 4:25 PM Trip Canceled (Union Depot &amp; Gate A1)</title>
-      <link>https://www.metrotransit.org/route/54</link>
-      <guid isPermaLink="false">Metro Transit-52859-2026-09-15T22:08:01.000Z</guid>
-      <pubDate>Tue, 15 Sep 2026 22:08:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 54</category>
-      <description>Westbound Route 54 trip departing Union Depot &amp; Gate A1 at 4:25 PM canceled from 7th &amp; St Clair at 4:39 PM today due to traffic</description>
+      <description>Eastbound Route 54 trip departing MOA Transit Station Gate C at 6:51 PM will operate from American &amp; 34th at 6:55 PM. Previous stops will be missed today due to traffic</description>
     </item>
     <item>
       <title>[Critical] Route 223: Service Canceled</title>
       <link>https://www.metrotransit.org/route/223</link>
-      <guid isPermaLink="false">Metro Transit-52840-2026-09-15T16:39:58.000Z</guid>
-      <pubDate>Tue, 15 Sep 2026 16:39:58 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52840-2026-09-15T22:41:01.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 22:41:01 GMT</pubDate>
       <category>Critical</category>
       <category>Route 223</category>
       <description>Route 223 trip departing Maplewood Mall Transit Center &amp; Gate A at 6:11 PM and two other trips canceled today due to traffic</description>
@@ -55,8 +55,8 @@
     <item>
       <title>[Critical] Route 223: Service Canceled</title>
       <link>https://www.metrotransit.org/route/223</link>
-      <guid isPermaLink="false">Metro Transit-52848-2026-09-15T19:41:31.000Z</guid>
-      <pubDate>Tue, 15 Sep 2026 19:41:31 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52848-2026-09-15T22:41:01.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 22:41:01 GMT</pubDate>
       <category>Critical</category>
       <category>Route 223</category>
       <description>Route 223 trip departing Maplewood Mall Transit Center &amp; Gate A at 6:11 PM and two other trips canceled today</description>
@@ -64,8 +64,8 @@
     <item>
       <title>[Critical] Route 725: Service Canceled</title>
       <link>https://www.metrotransit.org/route/725</link>
-      <guid isPermaLink="false">Metro Transit-52841-2026-09-15T16:40:28.000Z</guid>
-      <pubDate>Tue, 15 Sep 2026 16:40:28 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52841-2026-09-16T00:56:00.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 00:56:00 GMT</pubDate>
       <category>Critical</category>
       <category>Route 725</category>
       <description>Route 725 trips departing 5th St NW &amp; 1st Ave NW at 8:26 PM and departing Northtown Transit Ctr Gate D at 9:15 PM canceled today due to traffic</description>
@@ -73,8 +73,8 @@
     <item>
       <title>[Critical] Route 725: Service Canceled</title>
       <link>https://www.metrotransit.org/route/725</link>
-      <guid isPermaLink="false">Metro Transit-52849-2026-09-15T19:42:21.000Z</guid>
-      <pubDate>Tue, 15 Sep 2026 19:42:21 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52849-2026-09-16T00:56:00.000Z</guid>
+      <pubDate>Wed, 16 Sep 2026 00:56:00 GMT</pubDate>
       <category>Critical</category>
       <category>Route 725</category>
       <description>Route 725 trips departing 5th St NW &amp; 1st Ave NW at 8:26 PM and departing Northtown Transit Ctr Gate D at 9:15 PM canceled today</description>

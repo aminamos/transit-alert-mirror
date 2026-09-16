@@ -1,174 +1,25 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-15T22:41:44.897Z",
+    "generatedAt": "2026-09-16T01:02:54.445Z",
     "totalAlerts": 128,
     "criticalCount": 9,
     "moderateCount": 116,
     "minorCount": 3,
-    "affectedRoutesCount": 85,
+    "affectedRoutesCount": 86,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "52858",
+      "id": "52867",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO D Line: Northbound 3:49 PM Trip Canceled (MOA Transit Station Gate A)",
-      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 3:49 PM canceled from Chicago & Lake at 4:22 PM today due to traffic",
+      "title": "Route 3, Route 3B: Eastbound 6:42 PM Trip Canceled (Washington Ave & 10th Ave N)",
+      "summary": "Eastbound Route 3B trip departing Washington Ave & 10th Ave N at 6:42 PM canceled today due to collision",
       "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [
-        "17897",
-        "17900",
-        "17902",
-        "17903",
-        "52300",
-        "43275",
-        "56926",
-        "56927",
-        "56928",
-        "56929",
-        "56930",
-        "56949",
-        "56950",
-        "56951",
-        "56823",
-        "9646",
-        "9658",
-        "9089",
-        "9263",
-        "8919",
-        "8920",
-        "8935",
-        "8945",
-        "8948"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "17897"
-        },
-        {
-          "id": "17900"
-        },
-        {
-          "id": "17902"
-        },
-        {
-          "id": "17903"
-        },
-        {
-          "id": "52300"
-        },
-        {
-          "id": "43275"
-        },
-        {
-          "id": "56926"
-        },
-        {
-          "id": "56927"
-        },
-        {
-          "id": "56928"
-        },
-        {
-          "id": "56929"
-        },
-        {
-          "id": "56930"
-        },
-        {
-          "id": "56949"
-        },
-        {
-          "id": "56950"
-        },
-        {
-          "id": "56951"
-        },
-        {
-          "id": "56823"
-        },
-        {
-          "id": "9646"
-        },
-        {
-          "id": "9658"
-        },
-        {
-          "id": "9089"
-        },
-        {
-          "id": "9263"
-        },
-        {
-          "id": "8919"
-        },
-        {
-          "id": "8920"
-        },
-        {
-          "id": "8935"
-        },
-        {
-          "id": "8945"
-        },
-        {
-          "id": "8948"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-15T22:02:00.000Z",
-        "end": "2026-09-15T23:09:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-09-15T22:03:16.000Z",
-      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 3:49 PM canceled from Chicago & Lake at 4:22 PM today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "52857",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO Orange Line: Service Canceled",
-      "summary": "Northbound Orange Line trips departing Burnsville Heart of the City Station at 4:28 PM and departing Burnsville Heart of the City Station at 4:38 PM canceled today",
-      "affectedRoutes": [
-        "METRO Orange Line"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-15T22:04:00.000Z",
-        "end": "2026-09-15T23:15:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/orange",
-      "updatedAt": "2026-09-15T22:05:35.000Z",
-      "rawHeader": "Northbound Orange Line trips departing Burnsville Heart of the City Station at 4:28 PM and departing Burnsville Heart of the City Station at 4:38 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "52856",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 54: Eastbound 4:28 PM Trip Canceled (MOA Transit Station Gate C)",
-      "summary": "Eastbound Route 54 trip departing MOA Transit Station Gate C at 4:28 PM canceled",
-      "affectedRoutes": [
-        "Route 54"
+        "Route 3",
+        "Route 3B"
       ],
       "direction": "Eastbound",
       "intersections": [],
@@ -177,114 +28,119 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-15T21:43:00.000Z",
-        "end": "2026-09-15T23:09:00.000Z"
+        "start": "2026-09-15T23:42:00.000Z",
+        "end": "2026-09-16T01:43:00.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "ACCIDENT",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/54",
-      "updatedAt": "2026-09-15T21:44:31.000Z",
-      "rawHeader": "Eastbound Route 54 trip departing MOA Transit Station Gate C at 4:28 PM canceled",
+      "url": "https://www.metrotransit.org/route/3",
+      "updatedAt": "2026-09-15T23:40:04.000Z",
+      "rawHeader": "Eastbound Route 3B trip departing Washington Ave & 10th Ave N at 6:42 PM canceled today due to collision",
       "rawDescription": ""
     },
     {
-      "id": "52859",
+      "id": "52868",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 54: Westbound 4:25 PM Trip Canceled (Union Depot & Gate A1)",
-      "summary": "Westbound Route 54 trip departing Union Depot & Gate A1 at 4:25 PM canceled from 7th & St Clair at 4:39 PM today due to traffic",
+      "title": "Route 10: Southbound 7:15 PM Trip Canceled (Northtown Transit Ctr Gate A)",
+      "summary": "Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 7:15 PM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "Route 10"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-16T00:29:00.000Z",
+        "end": "2026-09-16T02:11:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/10",
+      "updatedAt": "2026-09-16T00:30:53.000Z",
+      "rawHeader": "Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 7:15 PM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "52869",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 22, Route 22H: Southbound 7:14 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)",
+      "summary": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 7:14 PM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "Route 22",
+        "Route 22H"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-16T00:56:00.000Z",
+        "end": "2026-09-16T02:34:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/22",
+      "updatedAt": "2026-09-16T00:58:23.000Z",
+      "rawHeader": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 7:14 PM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "52866",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 54: Service Advisory",
+      "summary": "Eastbound Route 54 trip departing MOA Transit Station Gate C at 6:51 PM will operate from American & 34th at 6:55 PM. Previous stops will be missed today due to traffic",
       "affectedRoutes": [
         "Route 54"
       ],
-      "direction": "Westbound",
+      "direction": "Eastbound",
       "intersections": [],
       "closedStopIds": [
-        "13117",
-        "13121",
-        "13128",
-        "13130",
-        "13132",
-        "13140",
-        "10366",
-        "41253",
-        "41258",
         "56875",
-        "57019",
-        "56939",
-        "48548",
-        "4611",
-        "11694",
-        "11698",
-        "42441",
-        "56598"
+        "4537",
+        "56597",
+        "17415",
+        "41255",
+        "41259"
       ],
       "closedStopDetails": [
-        {
-          "id": "13117"
-        },
-        {
-          "id": "13121"
-        },
-        {
-          "id": "13128"
-        },
-        {
-          "id": "13130"
-        },
-        {
-          "id": "13132"
-        },
-        {
-          "id": "13140"
-        },
-        {
-          "id": "10366"
-        },
-        {
-          "id": "41253"
-        },
-        {
-          "id": "41258"
-        },
         {
           "id": "56875"
         },
         {
-          "id": "57019"
+          "id": "4537"
         },
         {
-          "id": "56939"
+          "id": "56597"
         },
         {
-          "id": "48548"
+          "id": "17415"
         },
         {
-          "id": "4611"
+          "id": "41255"
         },
         {
-          "id": "11694"
-        },
-        {
-          "id": "11698"
-        },
-        {
-          "id": "42441"
-        },
-        {
-          "id": "56598"
+          "id": "41259"
         }
       ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-15T22:06:00.000Z",
-        "end": "2026-09-15T23:07:00.000Z"
+        "start": "2026-09-15T23:51:00.000Z",
+        "end": "2026-09-16T01:28:00.000Z"
       },
       "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/54",
-      "updatedAt": "2026-09-15T22:08:01.000Z",
-      "rawHeader": "Westbound Route 54 trip departing Union Depot & Gate A1 at 4:25 PM canceled from 7th & St Clair at 4:39 PM today due to traffic",
+      "updatedAt": "2026-09-15T23:34:28.000Z",
+      "rawHeader": "Eastbound Route 54 trip departing MOA Transit Station Gate C at 6:51 PM will operate from American & 34th at 6:55 PM. Previous stops will be missed today due to traffic",
       "rawDescription": ""
     },
     {
@@ -309,7 +165,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/223",
-      "updatedAt": "2026-09-15T16:39:58.000Z",
+      "updatedAt": "2026-09-15T22:41:01.000Z",
       "rawHeader": "Route 223 trip departing Maplewood Mall Transit Center & Gate A at 6:11 PM and two other trips canceled today due to traffic",
       "rawDescription": "Affected eastbound trips:\r\ndeparting Rosedale Transit Center Gate F at 6:46 PM\r\n\nAffected westbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate A at 6:11 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 7:41 PM"
     },
@@ -335,7 +191,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/223",
-      "updatedAt": "2026-09-15T19:41:31.000Z",
+      "updatedAt": "2026-09-15T22:41:01.000Z",
       "rawHeader": "Route 223 trip departing Maplewood Mall Transit Center & Gate A at 6:11 PM and two other trips canceled today",
       "rawDescription": "Affected eastbound trips:\r\ndeparting Rosedale Transit Center Gate F at 6:46 PM\r\n\nAffected westbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate A at 6:11 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 7:41 PM"
     },
@@ -363,7 +219,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/725",
-      "updatedAt": "2026-09-15T16:40:28.000Z",
+      "updatedAt": "2026-09-16T00:56:00.000Z",
       "rawHeader": "Route 725 trips departing 5th St NW & 1st Ave NW at 8:26 PM and departing Northtown Transit Ctr Gate D at 9:15 PM canceled today due to traffic",
       "rawDescription": ""
     },
@@ -391,7 +247,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/725",
-      "updatedAt": "2026-09-15T19:42:21.000Z",
+      "updatedAt": "2026-09-16T00:56:00.000Z",
       "rawHeader": "Route 725 trips departing 5th St NW & 1st Ave NW at 8:26 PM and departing Northtown Transit Ctr Gate D at 9:15 PM canceled today",
       "rawDescription": ""
     },
@@ -5409,7 +5265,7 @@
       "detourDetails": "Southbound buses will travel south on Rice to Orange, right on Orange, left on Galtier, continue on Galtier to Maryland and resume regular route",
       "activePeriod": {
         "start": "2026-09-15T15:30:00.000Z",
-        "end": "2026-09-16T00:40:24.000Z"
+        "end": "2026-09-16T03:01:26.000Z"
       },
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
