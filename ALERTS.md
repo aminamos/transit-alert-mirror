@@ -2,73 +2,74 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-135-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-9-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-133-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-7-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-123-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-86-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-87-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-17T21:54:05.453Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-17T23:53:28.177Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (2) • **Route 3B** (1) • **Route 4** (2) • **Route 4P** (2) • **Route 5** (3) • **Route 7** (3) • **Route 9** (5) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (4) • **Route 25L** (1) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (4) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (2) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (4) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 83** (1) • **Route 87** (1) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (5) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
+**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (4) • **Route 3A** (2) • **Route 3B** (1) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (3) • **Route 7** (3) • **Route 9** (5) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (5) • **Route 22H** (1) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (2) • **Route 46A** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (2) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (3) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (4) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (5) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 2: Eastbound 3:41 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)
+### 🚨 METRO E Line: Southbound 5:29 PM Trip Canceled (Westgate Station - Gate A)
 
-- **Affected Routes**: `Route 2`
+- **Affected Routes**: `METRO E Line`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #1139, Stop #1145, Stop #1149, Stop #1153, Stop #1111, Stop #1117, Stop #42219, Stop #57461 *(+7 more)*
+
+**Summary**: Southbound E Line trip departing Westgate Station - Gate A at 5:29 PM canceled today due to police activity
+
+[Official Agency Advisory](https://www.metrotransit.org/route/eline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound E Line trip departing Westgate Station - Gate A at 5:29 PM canceled today due to police activity
+
+</details>
+
+---
+
+### 🚨 Route 3: Service Advisory
+
+- **Affected Routes**: `Route 3`
 - **Direction**: Eastbound
 - **Severity**: `Critical`
+- **Closed Stops**: Stop #54097, Stop #53789, Stop #57010, Stop #57011, Stop #57013, Stop #57014, Stop #57023, Stop #49881 *(+18 more)*
 
-**Summary**: Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 3:41 PM canceled today due to maintenance work
+**Summary**: Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 4:49 PM will start from Como & Eustis. Previous stops missed due to maintenance work
 
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
+[Official Agency Advisory](https://www.metrotransit.org/route/3)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 3:41 PM canceled today due to maintenance work
+**Header**: Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 4:49 PM will start from Como & Eustis. Previous stops missed due to maintenance work
 
 </details>
 
 ---
 
-### 🚨 Route 4, Route 4P: Southbound 3:54 PM Trip Canceled (Silver Lk & Cub Foods Svc Rd / 39th Ave)
+### 🚨 Route 22, Route 22H: Southbound 5:43 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)
 
-- **Affected Routes**: `Route 4` `Route 4P`
+- **Affected Routes**: `Route 22` `Route 22H`
 - **Direction**: Southbound
 - **Severity**: `Critical`
-- **Corridors & Intersections**: Cub Foods Svc Rd & 39th Ave
 
-**Summary**: Southbound Route 4P trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 3:54 PM canceled today
+**Summary**: Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 5:43 PM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/4)
+[Official Agency Advisory](https://www.metrotransit.org/route/22)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 4P trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 3:54 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 25, Route 25L: Southbound 3:21 PM Trip Canceled (Marquette Ave & 2nd St S)
-
-- **Affected Routes**: `Route 25` `Route 25L`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound Route 25L trip departing Marquette Ave & 2nd St S at 3:21 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/25)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 25L trip departing Marquette Ave & 2nd St S at 3:21 PM canceled today
+**Header**: Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 5:43 PM canceled today
 
 </details>
 
@@ -110,50 +111,20 @@ departing Westgate Station - Gate B at 7:05 PM
 
 ---
 
-### 🚨 Route 62: Service Advisory
+### 🚨 Route 46, Route 46A: Eastbound 5:26 PM Trip Canceled (Eden-Vernon Busway & Sherwood/Vernon Ave)
 
-- **Affected Routes**: `Route 62`
-- **Direction**: Northbound
+- **Affected Routes**: `Route 46` `Route 46A`
+- **Direction**: Eastbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #53900, Stop #53901, Stop #328, Stop #329, Stop #330, Stop #331, Stop #332, Stop #333 *(+33 more)*
 
-**Summary**: Northbound Route 62 trip departing Livingston & Butler at 3:04 PM will start from Winifred & Humboldt. Previous stops missed
+**Summary**: Eastbound Route 46A trip departing Eden-Vernon Busway & Sherwood/Vernon Ave at 5:26 PM canceled
 
-[Official Agency Advisory](https://www.metrotransit.org/route/62)
+[Official Agency Advisory](https://www.metrotransit.org/route/46)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound Route 62 trip departing Livingston & Butler at 3:04 PM will start from Winifred & Humboldt. Previous stops missed
-
-</details>
-
----
-
-### 🚨 Route 71: Service Canceled
-
-- **Affected Routes**: `Route 71`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today
-
-```text
-Affected northbound trips:
-departing Inver Hills College & Shelter at 12:38 PM
-departing Inver Hills College & Shelter at 3:38 PM
-
-Affected southbound trips:
-departing Market Place Dr & The Marketplace Ctr at 2:12 PM
-departing Market Place Dr & The Marketplace Ctr at 5:13 PM
-```
+**Header**: Eastbound Route 46A trip departing Eden-Vernon Busway & Sherwood/Vernon Ave at 5:26 PM canceled
 
 </details>
 
@@ -178,40 +149,20 @@ departing Market Place Dr & The Marketplace Ctr at 5:13 PM
 
 ---
 
-### 🚨 Route 94: Service Advisory
+### 🚨 Route 538: Service Canceled
 
-- **Affected Routes**: `Route 94`
+- **Affected Routes**: `Route 538`
 - **Direction**: Westbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #56100, Stop #57417, Stop #57419, Stop #57456, Stop #11863, Stop #3264
 
-**Summary**: Westbound Route 94 trip departing Union Depot & Gate A1 at 4:39 PM will start from Saint Anthony & Fry. Previous stops missed due to traffic
+**Summary**: Westbound Route 538 canceled until later today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/94)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 94 trip departing Union Depot & Gate A1 at 4:39 PM will start from Saint Anthony & Fry. Previous stops missed due to traffic
-
-</details>
-
----
-
-### 🚨 Route 850: Northbound 3:38 PM Trip Canceled (2nd Ave S & 11th St - Stop Group G)
-
-- **Affected Routes**: `Route 850`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Route 850 trip departing 2nd Ave S & 11th St - Stop Group G at 3:38 PM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/850)
+[Official Agency Advisory](https://www.metrotransit.org/route/538)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound Route 850 trip departing 2nd Ave S & 11th St - Stop Group G at 3:38 PM canceled today due to mechanical issue
+**Header**: Westbound Route 538 canceled until later today
 
 </details>
 

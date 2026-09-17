@@ -1,80 +1,245 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-17T21:54:05.453Z",
-    "totalAlerts": 135,
-    "criticalCount": 9,
+    "generatedAt": "2026-09-17T23:53:28.177Z",
+    "totalAlerts": 133,
+    "criticalCount": 7,
     "moderateCount": 123,
     "minorCount": 3,
-    "affectedRoutesCount": 86,
+    "affectedRoutesCount": 87,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "52969",
+      "id": "52980",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 2: Eastbound 3:41 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)",
-      "summary": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 3:41 PM canceled today due to maintenance work",
+      "title": "METRO E Line: Southbound 5:29 PM Trip Canceled (Westgate Station - Gate A)",
+      "summary": "Southbound E Line trip departing Westgate Station - Gate A at 5:29 PM canceled today due to police activity",
       "affectedRoutes": [
-        "Route 2"
+        "METRO E Line"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [
+        "1139",
+        "1145",
+        "1149",
+        "1153",
+        "1111",
+        "1117",
+        "42219",
+        "57461",
+        "52177",
+        "53703",
+        "6379",
+        "6386",
+        "57540",
+        "50196",
+        "1156"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "1139"
+        },
+        {
+          "id": "1145"
+        },
+        {
+          "id": "1149"
+        },
+        {
+          "id": "1153"
+        },
+        {
+          "id": "1111"
+        },
+        {
+          "id": "1117"
+        },
+        {
+          "id": "42219"
+        },
+        {
+          "id": "57461"
+        },
+        {
+          "id": "52177"
+        },
+        {
+          "id": "53703"
+        },
+        {
+          "id": "6379"
+        },
+        {
+          "id": "6386"
+        },
+        {
+          "id": "57540"
+        },
+        {
+          "id": "50196"
+        },
+        {
+          "id": "1156"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-17T23:21:00.000Z",
+        "end": "2026-09-18T00:33:00.000Z"
+      },
+      "cause": "POLICE_ACTIVITY",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/eline",
+      "updatedAt": "2026-09-17T23:21:52.000Z",
+      "rawHeader": "Southbound E Line trip departing Westgate Station - Gate A at 5:29 PM canceled today due to police activity",
+      "rawDescription": ""
+    },
+    {
+      "id": "52976",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 3: Service Advisory",
+      "summary": "Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 4:49 PM will start from Como & Eustis. Previous stops missed due to maintenance work",
+      "affectedRoutes": [
+        "Route 3"
       ],
       "direction": "Eastbound",
       "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
+      "closedStopIds": [
+        "54097",
+        "53789",
+        "57010",
+        "57011",
+        "57013",
+        "57014",
+        "57023",
+        "49881",
+        "19317",
+        "19318",
+        "19320",
+        "19322",
+        "17876",
+        "16067",
+        "16072",
+        "16080",
+        "16085",
+        "16093",
+        "16097",
+        "16101",
+        "16111",
+        "16406",
+        "13221",
+        "13223",
+        "19314",
+        "19315"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "54097"
+        },
+        {
+          "id": "53789"
+        },
+        {
+          "id": "57010"
+        },
+        {
+          "id": "57011"
+        },
+        {
+          "id": "57013"
+        },
+        {
+          "id": "57014"
+        },
+        {
+          "id": "57023"
+        },
+        {
+          "id": "49881"
+        },
+        {
+          "id": "19317"
+        },
+        {
+          "id": "19318"
+        },
+        {
+          "id": "19320"
+        },
+        {
+          "id": "19322"
+        },
+        {
+          "id": "17876"
+        },
+        {
+          "id": "16067"
+        },
+        {
+          "id": "16072"
+        },
+        {
+          "id": "16080"
+        },
+        {
+          "id": "16085"
+        },
+        {
+          "id": "16093"
+        },
+        {
+          "id": "16097"
+        },
+        {
+          "id": "16101"
+        },
+        {
+          "id": "16111"
+        },
+        {
+          "id": "16406"
+        },
+        {
+          "id": "13221"
+        },
+        {
+          "id": "13223"
+        },
+        {
+          "id": "19314"
+        },
+        {
+          "id": "19315"
+        }
+      ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-17T20:41:00.000Z",
-        "end": "2026-09-17T22:37:00.000Z"
+        "start": "2026-09-17T22:15:00.000Z",
+        "end": "2026-09-18T00:01:00.000Z"
       },
       "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-09-17T20:35:37.000Z",
-      "rawHeader": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 3:41 PM canceled today due to maintenance work",
+      "url": "https://www.metrotransit.org/route/3",
+      "updatedAt": "2026-09-17T22:15:56.000Z",
+      "rawHeader": "Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 4:49 PM will start from Como & Eustis. Previous stops missed due to maintenance work",
       "rawDescription": ""
     },
     {
-      "id": "52972",
+      "id": "52979",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 4, Route 4P: Southbound 3:54 PM Trip Canceled (Silver Lk & Cub Foods Svc Rd / 39th Ave)",
-      "summary": "Southbound Route 4P trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 3:54 PM canceled today",
+      "title": "Route 22, Route 22H: Southbound 5:43 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)",
+      "summary": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 5:43 PM canceled today",
       "affectedRoutes": [
-        "Route 4",
-        "Route 4P"
-      ],
-      "direction": "Southbound",
-      "intersections": [
-        "Cub Foods Svc Rd & 39th Ave"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-17T21:34:00.000Z",
-        "end": "2026-09-17T23:17:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/4",
-      "updatedAt": "2026-09-17T21:35:10.000Z",
-      "rawHeader": "Southbound Route 4P trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 3:54 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "52971",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 25, Route 25L: Southbound 3:21 PM Trip Canceled (Marquette Ave & 2nd St S)",
-      "summary": "Southbound Route 25L trip departing Marquette Ave & 2nd St S at 3:21 PM canceled today",
-      "affectedRoutes": [
-        "Route 25",
-        "Route 25L"
+        "Route 22",
+        "Route 22H"
       ],
       "direction": "Southbound",
       "intersections": [],
@@ -83,14 +248,14 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-17T21:10:00.000Z",
-        "end": "2026-09-17T22:04:00.000Z"
+        "start": "2026-09-17T23:09:00.000Z",
+        "end": "2026-09-18T01:09:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/25",
-      "updatedAt": "2026-09-17T21:11:14.000Z",
-      "rawHeader": "Southbound Route 25L trip departing Marquette Ave & 2nd St S at 3:21 PM canceled today",
+      "url": "https://www.metrotransit.org/route/22",
+      "updatedAt": "2026-09-17T23:09:21.000Z",
+      "rawHeader": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 5:43 PM canceled today",
       "rawDescription": ""
     },
     {
@@ -124,222 +289,31 @@
       "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 1:56 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 3:54 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 5:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 1:04 PM\r\ndeparting Westgate Station - Gate B at 3:04 PM\r\ndeparting Westgate Station - Gate B at 5:04 PM\r\ndeparting Westgate Station - Gate B at 7:05 PM"
     },
     {
-      "id": "52965",
+      "id": "52978",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 62: Service Advisory",
-      "summary": "Northbound Route 62 trip departing Livingston & Butler at 3:04 PM will start from Winifred & Humboldt. Previous stops missed",
+      "title": "Route 46, Route 46A: Eastbound 5:26 PM Trip Canceled (Eden-Vernon Busway & Sherwood/Vernon Ave)",
+      "summary": "Eastbound Route 46A trip departing Eden-Vernon Busway & Sherwood/Vernon Ave at 5:26 PM canceled",
       "affectedRoutes": [
-        "Route 62"
+        "Route 46",
+        "Route 46A"
       ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [
-        "53900",
-        "53901",
-        "328",
-        "329",
-        "330",
-        "331",
-        "332",
-        "333",
-        "334",
-        "335",
-        "336",
-        "337",
-        "338",
-        "6357",
-        "6358",
-        "6354",
-        "6356",
-        "6347",
-        "6348",
-        "6349",
-        "6350",
-        "6351",
-        "6353",
-        "41712",
-        "6290",
-        "6291",
-        "6292",
-        "6312",
-        "6313",
-        "6314",
-        "6316",
-        "6318",
-        "6320",
-        "6322",
-        "6324",
-        "6326",
-        "6327",
-        "6329",
-        "6331",
-        "6332",
-        "6334"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "53900"
-        },
-        {
-          "id": "53901"
-        },
-        {
-          "id": "328"
-        },
-        {
-          "id": "329"
-        },
-        {
-          "id": "330"
-        },
-        {
-          "id": "331"
-        },
-        {
-          "id": "332"
-        },
-        {
-          "id": "333"
-        },
-        {
-          "id": "334"
-        },
-        {
-          "id": "335"
-        },
-        {
-          "id": "336"
-        },
-        {
-          "id": "337"
-        },
-        {
-          "id": "338"
-        },
-        {
-          "id": "6357"
-        },
-        {
-          "id": "6358"
-        },
-        {
-          "id": "6354"
-        },
-        {
-          "id": "6356"
-        },
-        {
-          "id": "6347"
-        },
-        {
-          "id": "6348"
-        },
-        {
-          "id": "6349"
-        },
-        {
-          "id": "6350"
-        },
-        {
-          "id": "6351"
-        },
-        {
-          "id": "6353"
-        },
-        {
-          "id": "41712"
-        },
-        {
-          "id": "6290"
-        },
-        {
-          "id": "6291"
-        },
-        {
-          "id": "6292"
-        },
-        {
-          "id": "6312"
-        },
-        {
-          "id": "6313"
-        },
-        {
-          "id": "6314"
-        },
-        {
-          "id": "6316"
-        },
-        {
-          "id": "6318"
-        },
-        {
-          "id": "6320"
-        },
-        {
-          "id": "6322"
-        },
-        {
-          "id": "6324"
-        },
-        {
-          "id": "6326"
-        },
-        {
-          "id": "6327"
-        },
-        {
-          "id": "6329"
-        },
-        {
-          "id": "6331"
-        },
-        {
-          "id": "6332"
-        },
-        {
-          "id": "6334"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-17T20:04:00.000Z",
-        "end": "2026-09-17T22:04:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/62",
-      "updatedAt": "2026-09-17T19:49:27.000Z",
-      "rawHeader": "Northbound Route 62 trip departing Livingston & Butler at 3:04 PM will start from Winifred & Humboldt. Previous stops missed",
-      "rawDescription": ""
-    },
-    {
-      "id": "52955",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 71: Service Canceled",
-      "summary": "Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today",
-      "affectedRoutes": [
-        "Route 71"
-      ],
-      "direction": "Both Directions",
+      "direction": "Eastbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-17T17:38:00.000Z",
-        "end": "2026-09-17T23:45:00.000Z"
+        "start": "2026-09-17T22:43:00.000Z",
+        "end": "2026-09-18T00:05:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/71",
-      "updatedAt": "2026-09-17T17:08:00.000Z",
-      "rawHeader": "Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 12:38 PM\r\ndeparting Inver Hills College & Shelter at 3:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 2:12 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 5:13 PM"
+      "url": "https://www.metrotransit.org/route/46",
+      "updatedAt": "2026-09-17T22:44:24.000Z",
+      "rawHeader": "Eastbound Route 46A trip departing Eden-Vernon Busway & Sherwood/Vernon Ave at 5:26 PM canceled",
+      "rawDescription": ""
     },
     {
       "id": "52974",
@@ -368,81 +342,29 @@
       "rawDescription": ""
     },
     {
-      "id": "52973",
+      "id": "52981",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 94: Service Advisory",
-      "summary": "Westbound Route 94 trip departing Union Depot & Gate A1 at 4:39 PM will start from Saint Anthony & Fry. Previous stops missed due to traffic",
+      "title": "Route 538: Service Canceled",
+      "summary": "Westbound Route 538 canceled until later today",
       "affectedRoutes": [
-        "Route 94"
+        "Route 538"
       ],
       "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [
-        "56100",
-        "57417",
-        "57419",
-        "57456",
-        "11863",
-        "3264"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "56100"
-        },
-        {
-          "id": "57417"
-        },
-        {
-          "id": "57419"
-        },
-        {
-          "id": "57456"
-        },
-        {
-          "id": "11863"
-        },
-        {
-          "id": "3264"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-17T21:40:00.000Z",
-        "end": "2026-09-17T23:21:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/94",
-      "updatedAt": "2026-09-17T21:42:17.000Z",
-      "rawHeader": "Westbound Route 94 trip departing Union Depot & Gate A1 at 4:39 PM will start from Saint Anthony & Fry. Previous stops missed due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "52970",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 850: Northbound 3:38 PM Trip Canceled (2nd Ave S & 11th St - Stop Group G)",
-      "summary": "Northbound Route 850 trip departing 2nd Ave S & 11th St - Stop Group G at 3:38 PM canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 850"
-      ],
-      "direction": "Northbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-17T20:57:00.000Z",
-        "end": "2026-09-17T22:08:00.000Z"
+        "start": "2026-09-17T23:27:00.000Z",
+        "end": "2026-09-18T01:52:25.000Z"
       },
-      "cause": "TECHNICAL_PROBLEM",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/850",
-      "updatedAt": "2026-09-17T20:58:03.000Z",
-      "rawHeader": "Northbound Route 850 trip departing 2nd Ave S & 11th St - Stop Group G at 3:38 PM canceled today due to mechanical issue",
+      "url": "https://www.metrotransit.org/route/538",
+      "updatedAt": "2026-09-17T23:27:57.000Z",
+      "rawHeader": "Westbound Route 538 canceled until later today",
       "rawDescription": ""
     },
     {
@@ -6630,7 +6552,7 @@
       "detourDetails": "Eastbound buses will travel regular route on Minnehaha to Dale, continue on Minnehaha Kent St, right on Kent St, left on Thomas Ave, and resume regular route.",
       "activePeriod": {
         "start": "2026-09-17T12:37:00.000Z",
-        "end": "2026-09-17T23:53:24.000Z"
+        "end": "2026-09-18T01:52:25.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
