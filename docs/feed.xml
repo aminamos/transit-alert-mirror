@@ -4,7 +4,7 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Wed, 16 Sep 2026 23:32:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 03:16:36 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
@@ -19,15 +19,6 @@
     <item>
       <title>[Critical] METRO D Line: Service Canceled</title>
       <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-52889-2026-09-16T18:29:00.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 18:29:00 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM and three other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] METRO D Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/dline</link>
       <guid isPermaLink="false">Metro Transit-52901-2026-09-16T19:06:34.000Z</guid>
       <pubDate>Wed, 16 Sep 2026 19:06:34 GMT</pubDate>
       <category>Critical</category>
@@ -35,130 +26,31 @@
       <description>D Line trip departing MOA Transit Station Gate A at 2:30 PM and five other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] METRO D Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-52902-2026-09-16T20:38:01.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 20:38:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>D Line trips departing MOA Transit Station Gate A at 4:08 PM and departing Brooklyn Ctr Transit Ctr Gate F at 5:49 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] METRO D Line: Southbound 5:38 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-52915-2026-09-16T22:33:00.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 22:33:00 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:38 PM canceled today due to traffic</description>
-    </item>
-    <item>
-      <title>[Critical] METRO D Line: Northbound 4:59 PM Trip Canceled (MOA Transit Station Gate A)</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-52917-2026-09-16T22:34:26.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 22:34:26 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Northbound D Line trip departing MOA Transit Station Gate A at 4:59 PM canceled today due to traffic</description>
-    </item>
-    <item>
-      <title>[Critical] Route 3, Route 3A: Eastbound 4:41 PM Trip Canceled (Washington Ave &amp; Anderson Hall)</title>
-      <link>https://www.metrotransit.org/route/3</link>
-      <guid isPermaLink="false">Metro Transit-52914-2026-09-16T21:51:43.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 21:51:43 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 3, Route 3A</category>
-      <description>Eastbound Route 3A trip departing Washington Ave &amp; Anderson Hall at 4:41 PM canceled today due to medical emergency</description>
-    </item>
-    <item>
-      <title>[Critical] Route 18: Northbound 6:29 PM Trip Canceled (2nd Ave S Loop &amp; American Blvd)</title>
+      <title>[Critical] Route 18: Northbound 8:32 PM Trip Canceled (104th St W &amp; Bloomington Fwy W)</title>
       <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-52919-2026-09-16T22:59:01.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 22:59:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52928-2026-09-17T01:02:00.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 01:02:00 GMT</pubDate>
       <category>Critical</category>
       <category>Route 18</category>
-      <description>Northbound Route 18 trip departing 2nd Ave S Loop &amp; American Blvd at 6:29 PM canceled today due to traffic</description>
+      <description>Northbound Route 18 trip departing 104th St W &amp; Bloomington Fwy W at 8:32 PM canceled today due to traffic</description>
     </item>
     <item>
-      <title>[Critical] Route 22: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-52895-2026-09-16T19:29:01.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 19:29:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 22</category>
-      <description>Route 22 trips departing Brooklyn Ctr Transit Ctr Gate H at 2:59 PM and departing VA Medical Center &amp; Visitors Entrance at 4:43 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 32: Westbound 7:34 PM Trip Canceled (Rosedale Transit Center Gate D)</title>
-      <link>https://www.metrotransit.org/route/32</link>
-      <guid isPermaLink="false">Metro Transit-52897-2026-09-16T18:39:24.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 18:39:24 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 32</category>
-      <description>Westbound Route 32 trip departing Rosedale Transit Center Gate D at 7:34 PM canceled</description>
-    </item>
-    <item>
-      <title>[Critical] Route 54: Westbound 7:06 PM Trip Canceled (Maplewood Mall Transit Center &amp; Gate B)</title>
+      <title>[Critical] Route 54: Eastbound 8:36 PM Trip Canceled (MOA Transit Station Gate C)</title>
       <link>https://www.metrotransit.org/route/54</link>
-      <guid isPermaLink="false">Metro Transit-52920-2026-09-16T23:22:27.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 23:22:27 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52929-2026-09-17T02:34:27.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 02:34:27 GMT</pubDate>
       <category>Critical</category>
       <category>Route 54</category>
-      <description>Westbound Route 54 trip departing Maplewood Mall Transit Center &amp; Gate B at 7:06 PM canceled today due to traffic</description>
+      <description>Eastbound Route 54 trip departing MOA Transit Station Gate C at 8:36 PM canceled today due to maintenance work</description>
     </item>
     <item>
-      <title>[Critical] Route 74: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/74</link>
-      <guid isPermaLink="false">Metro Transit-52912-2026-09-16T21:43:00.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 21:43:00 GMT</pubDate>
+      <title>[Critical] Route 72: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/72</link>
+      <guid isPermaLink="false">Metro Transit-52922-2026-09-17T00:21:01.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 00:21:01 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 74</category>
-      <description>Westbound Route 74 trip departing Sun Ray Transit Center &amp; Gate D at 4:43 PM will start from Wall St &amp; 7th St / 6th St at 5:10 PM today. Previous stops will be missed</description>
-    </item>
-    <item>
-      <title>[Critical] Route 94: Eastbound 5:37 PM Trip Canceled (5th St Transit Center Gate B)</title>
-      <link>https://www.metrotransit.org/route/94</link>
-      <guid isPermaLink="false">Metro Transit-52918-2026-09-16T22:45:55.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 22:45:55 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 94</category>
-      <description>Eastbound Route 94 trip departing 5th St Transit Center Gate B at 5:37 PM canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 94: Westbound 6:24 PM Trip Canceled (Union Depot &amp; Gate A1)</title>
-      <link>https://www.metrotransit.org/route/94</link>
-      <guid isPermaLink="false">Metro Transit-52921-2026-09-16T23:24:47.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 23:24:47 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 94</category>
-      <description>Westbound Route 94 trip departing Union Depot &amp; Gate A1 at 6:24 PM canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 723: Northbound 6:35 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate A)</title>
-      <link>https://www.metrotransit.org/route/723</link>
-      <guid isPermaLink="false">Metro Transit-52896-2026-09-16T23:05:00.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 23:05:00 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 723</category>
-      <description>Northbound Route 723 trip departing Brooklyn Ctr Transit Ctr Gate A at 6:35 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 805: Northbound 5:34 PM Trip Canceled (Northtown Transit Ctr Gate D)</title>
-      <link>https://www.metrotransit.org/route/805</link>
-      <guid isPermaLink="false">Metro Transit-52916-2026-09-16T22:33:47.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 22:33:47 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 805</category>
-      <description>Northbound Route 805 trip departing Northtown Transit Ctr Gate D at 5:34 PM canceled today due to maintenance work</description>
-    </item>
-    <item>
-      <title>[Critical] Route 888: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/888</link>
-      <guid isPermaLink="false">Metro Transit-52905-2026-09-16T20:19:25.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 20:19:25 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 888</category>
-      <description>Route 888 trip departing 2nd Ave S &amp; 11th St - Stop Group G at 3:40 PM and two other trips canceled today</description>
+      <category>Route 72</category>
+      <description>Route 72 trip departing Sun Ray Transit Center &amp; Gate D at 7:51 PM and two other trips canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
