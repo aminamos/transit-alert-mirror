@@ -4,54 +4,9 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Thu, 17 Sep 2026 03:16:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 09:10:07 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
-    <item>
-      <title>[Critical] METRO C Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/cline</link>
-      <guid isPermaLink="false">Metro Transit-52903-2026-09-16T19:58:48.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 19:58:48 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO C Line</category>
-      <description>C Line trip departing 7th St &amp; Park Station at 3:17 PM and ten other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] METRO D Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-52901-2026-09-16T19:06:34.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 19:06:34 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>D Line trip departing MOA Transit Station Gate A at 2:30 PM and five other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 18: Northbound 8:32 PM Trip Canceled (104th St W &amp; Bloomington Fwy W)</title>
-      <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-52928-2026-09-17T01:02:00.000Z</guid>
-      <pubDate>Thu, 17 Sep 2026 01:02:00 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 18</category>
-      <description>Northbound Route 18 trip departing 104th St W &amp; Bloomington Fwy W at 8:32 PM canceled today due to traffic</description>
-    </item>
-    <item>
-      <title>[Critical] Route 54: Eastbound 8:36 PM Trip Canceled (MOA Transit Station Gate C)</title>
-      <link>https://www.metrotransit.org/route/54</link>
-      <guid isPermaLink="false">Metro Transit-52929-2026-09-17T02:34:27.000Z</guid>
-      <pubDate>Thu, 17 Sep 2026 02:34:27 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 54</category>
-      <description>Eastbound Route 54 trip departing MOA Transit Station Gate C at 8:36 PM canceled today due to maintenance work</description>
-    </item>
-    <item>
-      <title>[Critical] Route 72: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/72</link>
-      <guid isPermaLink="false">Metro Transit-52922-2026-09-17T00:21:01.000Z</guid>
-      <pubDate>Thu, 17 Sep 2026 00:21:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 72</category>
-      <description>Route 72 trip departing Sun Ray Transit Center &amp; Gate D at 7:51 PM and two other trips canceled today</description>
-    </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -111,8 +66,8 @@
 
 Affected st</title>
       <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-52591-2026-09-13T07:15:01.000Z</guid>
-      <pubDate>Sun, 13 Sep 2026 07:15:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52591-2026-09-17T05:00:02.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO E Line</category>
       <description>METRO E Line detoured off Hennepin Ave from 28th St to Lake St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM. Board at: Uptown Transit Station - Gates D/E - Stop #52857 (westbound). | Action: Board at: Uptown Transit Station - Gates D/E - Stop #52857 (westbound)</description>
@@ -264,8 +219,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 10: Detour via 3rd Ave S &amp; 11th St S</title>
       <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-52595-2026-09-14T12:00:01.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52595-2026-09-17T05:00:02.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 10</category>
       <description>Route 10 detoured off Nicollet Mall from Washington Ave to 12th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: 3rd Ave S &amp; 11th St S - Stop #19277 (southbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S &amp; 7th St - Stop Group F - Stop #53313 (northbound). | Action: Board at: 3rd Ave S &amp; 11th St S - Stop #19277 (southbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S &amp; 7th St - Stop Group F - Stop #53313 (northbound)</description>
@@ -291,8 +246,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 11: Detour via 3rd Ave S &amp; 25th St E</title>
       <link>https://www.metrotransit.org/route/11</link>
-      <guid isPermaLink="false">Metro Transit-52603-2026-09-15T20:01:52.000Z</guid>
-      <pubDate>Tue, 15 Sep 2026 20:01:52 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52603-2026-09-17T05:00:02.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 11</category>
       <description>Route 11 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: 3rd Ave S &amp; 25th St E - Stop #17762 (northbound); Nicollet Ave S &amp; 16th St E - Stop #1914 (northbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound). | Action: Board at: 3rd Ave S &amp; 25th St E - Stop #17762 (northbound); Nicollet Ave S &amp; 16th St E - Stop #1914 (northbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound)</description>
@@ -338,8 +293,8 @@ Affected st</title>
 
 Affected st</title>
       <link>https://www.metrotransit.org/route/17</link>
-      <guid isPermaLink="false">Metro Transit-52585-2026-09-13T07:15:01.000Z</guid>
-      <pubDate>Sun, 13 Sep 2026 07:15:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52585-2026-09-17T05:00:02.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 17</category>
       <description>Route 17 detoured off Hennepin Ave from Lake St to 28th St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM. Board at: Uptown Transit Station - Gate C - Stop #50160 (westbound). | Action: Board at: Uptown Transit Station - Gate C - Stop #50160 (westbound)</description>
@@ -347,8 +302,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 17: Detour via Nicollet Ave S &amp; 16th St E</title>
       <link>https://www.metrotransit.org/route/17</link>
-      <guid isPermaLink="false">Metro Transit-52598-2026-09-14T12:00:01.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52598-2026-09-17T05:00:02.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 17</category>
       <description>Route 17 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: Nicollet Ave S &amp; 16th St E - Stop #1914 (northbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S &amp; 7th St - Stop Group F - Stop #53313 (northbound). | Action: Board at: Nicollet Ave S &amp; 16th St E - Stop #1914 (northbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S &amp; 7th St - Stop Group F - Stop #53313 (northbound)</description>
@@ -419,8 +374,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 18: Detour via Nicollet Ave S &amp; 16th St E</title>
       <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-52604-2026-09-14T12:00:01.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52604-2026-09-17T05:00:02.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 18</category>
       <description>Route 18 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: Nicollet Ave S &amp; 16th St E - Stop #1914 (northbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S &amp; 7th St - Stop Group F - Stop #53313 (northbound). | Action: Board at: Nicollet Ave S &amp; 16th St E - Stop #1914 (northbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S &amp; 7th St - Stop Group F - Stop #53313 (northbound)</description>
@@ -473,8 +428,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 25: Detour via 15th St E &amp; 1st Ave S</title>
       <link>https://www.metrotransit.org/route/25</link>
-      <guid isPermaLink="false">Metro Transit-52609-2026-09-14T12:00:01.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52609-2026-09-17T05:00:02.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 25</category>
       <description>Route 25 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: 15th St W &amp; #329 - Stop #14905 (Eastbound, departing Cedar Trails Condos only); 15th St E &amp; 1st Ave S - Stop #53461 (Eastbound, departing Cedar Trails Condos only); 3rd Ave S &amp; 11th St S - Stop #19277 (Southbound, 25 departing Leamington Ramp only). | Action: Board at: 15th St W &amp; #329 - Stop #14905 (Eastbound, departing Cedar Trails Condos only); 15th St E &amp; 1st Ave S - Stop #53461 (Eastbound, departing Cedar Trails Condos only); 3rd Ave S &amp; 11th St S - Stop #19277 (Southbound, 25 departing Leamington Ramp only)</description>
@@ -536,8 +491,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 38, METRO B Line: Detour via Lagoon Ave (Fremont Ave to Hennepin Ave)</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-52592-2026-09-13T07:15:02.000Z</guid>
-      <pubDate>Sun, 13 Sep 2026 07:15:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52592-2026-09-17T05:00:03.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 05:00:03 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 38, METRO B Line</category>
       <description>METRO B Line and Route 38 detoured off Lagoon Ave from Fremont Ave to Hennepin Ave until further notice every Friday and Saturday from 12:00 AM to 2:00 AM</description>
@@ -662,8 +617,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 64, Route 64N: Detour via 7th Ave E &amp; South Ave</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-48296-2026-09-12T05:00:00.000Z</guid>
-      <pubDate>Sat, 12 Sep 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-48296-2026-09-17T05:00:02.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 64, Route 64N</category>
       <description>Route 64N detoured off 7th Ave from South Ave to Margaret St from Fri Jun 5 to Fri Sep 18 every Friday from 6:00 PM to 10:00 PM due to North St Paul Friday Night History Cruzer Car Show. Board at: 7th Ave E &amp; South Ave (Co Rd B) - Stop #3901 (eastbound); Margaret St N &amp; Seppala Blvd - Stop #56898 (northbound). | Action: Board at: 7th Ave E &amp; South Ave (Co Rd B) - Stop #3901 (eastbound); Margaret St N &amp; Seppala Blvd - Stop #56898 (northbound)</description>
@@ -698,8 +653,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 64, Route 64N: Detour via 7th Ave E &amp; South Ave</title>
       <link>https://www.metrotransit.org/route/64</link>
-      <guid isPermaLink="false">Metro Transit-52356-2026-09-16T05:00:01.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52356-2026-09-17T05:00:03.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 05:00:03 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 64, Route 64N</category>
       <description>Route 64N detoured off 7th Ave from South Ave to Margaret St and off Margaret St from 7th Ave to 12th Ave from 5:00 PM to 8:30 PM on Thu Sep 17 due to North St Paul Fall Round Up Parade. Board at: 7th Ave E &amp; South Ave (Co Rd B) - Stop #3901 (eastbound); 12th Ave E &amp; Helen St N - Stop #3914 (westbound). | Action: Board at: 7th Ave E &amp; South Ave (Co Rd B) - Stop #3901 (eastbound); 12th Ave E &amp; Helen St N - Stop #3914 (westbound)</description>
@@ -842,8 +797,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 219: Detour via Hwy 120 from 5th Ave to 7th Ave &amp; off 7th Ave</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-48297-2026-09-12T05:00:00.000Z</guid>
-      <pubDate>Sat, 12 Sep 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-48297-2026-09-17T05:00:02.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 219</category>
       <description>Route 219 detoured off Geneva/Hwy 120 from 5th Ave to 7th Ave and off 7th Ave from Geneva/Hwy 120 to Margaret St from Fri Jun 5 to Fri Sep 18 every Friday from 6:00 PM to 10:00 PM due to North St Paul Friday Night History Cruzer Car Show. Board at: Hwy 120 - Geneva &amp; 43rd St N - Stop #41756 (northbound); Margaret St N &amp; Seppala Blvd - Stop #56898 (northbound). | Action: Board at: Hwy 120 - Geneva &amp; 43rd St N - Stop #41756 (northbound); Margaret St N &amp; Seppala Blvd - Stop #56898 (northbound)</description>
@@ -860,8 +815,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 219: Detour via Margaret St N &amp; 12th Ave</title>
       <link>https://www.metrotransit.org/route/219</link>
-      <guid isPermaLink="false">Metro Transit-52357-2026-09-16T05:00:01.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52357-2026-09-17T05:00:03.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 05:00:03 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 219</category>
       <description>Route 219 detoured off 7th Ave from Geneva Ave to Margaret Ave and off Margaret Ave from 7th Ave to 14th Ave from 5:00 PM to 8:30 PM on Thu Sep 17 due to North St Paul Fall Round Up Parade. Board at: Hwy 120 - Geneva &amp; Upper 46th St N - Stop #49829 (northbound); Margaret St N &amp; 12th Ave / 13th Ave E - Stop #56899 (northbound). | Action: Board at: Hwy 120 - Geneva &amp; Upper 46th St N - Stop #49829 (northbound); Margaret St N &amp; 12th Ave / 13th Ave E - Stop #56899 (northbound)</description>
@@ -1121,8 +1076,8 @@ Affected st</title>
     <item>
       <title>[Minor] Rosedale Transit Center Reopens Beginning Thu Sep 10</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-52423-2026-09-10T07:30:01.000Z</guid>
-      <pubDate>Thu, 10 Sep 2026 07:30:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52423-2026-09-17T08:00:01.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 08:00:01 GMT</pubDate>
       <category>Minor</category>
       <category>Route 223, Route 225, Route 227, Route 264, Route 32, Route 65, Route 801, Route 83, Route 87, METRO A Line</category>
       <description>Rosedale Transit Center reopens beginning Thu Sep 10</description>
