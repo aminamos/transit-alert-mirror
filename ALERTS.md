@@ -2,21 +2,38 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-119-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-116-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-125-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-121-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-84-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-17T09:10:07.576Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-17T14:39:10.726Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
+**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (3) • **Route 7** (3) • **Route 9** (5) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 METRO Orange Line: Southbound 8:22 AM Trip Canceled (Marquette Ave & 3rd St - Stop Group C)
+
+- **Affected Routes**: `METRO Orange Line`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 8:22 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/orange)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 8:22 AM canceled today
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -93,6 +110,37 @@ Southbound buses will travel regular route on Ford Pkwy to Davern St, right on D
 
 Affected stops:
 Ford & Fairview Station - Stop #56113 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)
+
+- **Affected Routes**: `METRO A Line`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Mon Sep 21 until further notice
+- **Corridors & Intersections**: 46th St (Hiawatha Ave to 36th Ave S)
+
+**Summary**: METRO A Line detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction
+
+> 🔄 **Detour Path**: Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/aline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: METRO A Line detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction
+
+```text
+No stops missed.
+
+Northbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.
+
+Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.
 ```
 
 </details>
@@ -355,39 +403,6 @@ Westbound buses will travel the regular route on the Gold Line Guideway to Mound
 
 Affected stops:
 Wall St & 7th St / 6th St - Stop #43282 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ METRO Orange Line: Detour via I-35W (Burnsville Pkwy to Cliff Rd)
-
-- **Affected Routes**: `METRO Orange Line`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Sep 14 at 5:00 AM until further notice
-- **Corridors & Intersections**: I-35W (Burnsville Pkwy to Cliff Rd)
-
-**Summary**: Orange Line detoured off I-35W from Burnsville Pkwy to Cliff Rd beginning Mon Sep 14 at 5:00 AM until further notice due to construction
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on Travelers Trail to Burnsville Pkwy, left on Burnsville Pkwy, left on Nicollet Ave, left on Cliff Rd, right on to the I-35W frontage road, left onto I-35W and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/orange)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Orange Line detoured off I-35W from Burnsville Pkwy to Cliff Rd beginning Mon Sep 14 at 5:00 AM until further notice due to construction
-
-```text
-No stations missed, but expect delays due to extent of the detour.
-
-Northbound buses will travel regular route on Travelers Trail to Burnsville Pkwy, left on Burnsville Pkwy, left on Nicollet Ave, left on Cliff Rd, right on to the I-35W frontage road, left onto I-35W and resume regular route.
-
-Southbound buses will travel regular route.
-
-Affected direction: Northbound
 ```
 
 </details>
@@ -804,6 +819,37 @@ Plymouth Ave & Theo Wirth Pkwy - Stop #17679 (eastbound)
 
 ---
 
+### ⚠️ Route 7: Detour via 46th St (Hiawatha Ave to 36th Ave S)
+
+- **Affected Routes**: `Route 7`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Mon Sep 21 until further notice
+- **Corridors & Intersections**: 46th St (Hiawatha Ave to 36th Ave S)
+
+**Summary**: Route 7 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction
+
+> 🔄 **Detour Path**: Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/7)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 7 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction
+
+```text
+No stops missed.
+
+Northbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.
+
+Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 9: Stop Closed at Cedar Lake Rd & Ridge Dr
 
 - **Affected Routes**: `Route 9`
@@ -973,6 +1019,37 @@ Ramp A/7th St Transit Center - Stop #17905 (eastbound)
 8th St & Hennepin Station - Stop #17906 (eastbound)
 8th St & Nicollet Station - Stop #17907 (eastbound)
 8th St S & Marquette Ave / 2nd Ave S - Stop #17908 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 9: Detour via 46th St (Hiawatha Ave to 36th Ave S)
+
+- **Affected Routes**: `Route 9`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Mon Sep 21 until further notice
+- **Corridors & Intersections**: 46th St (Hiawatha Ave to 36th Ave S)
+
+**Summary**: Route 9 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/9)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 9 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction
+
+```text
+No stops missed.
+
+Eastbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.
+
+Westbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.
 ```
 
 </details>
@@ -3492,6 +3569,76 @@ Dale St & Blair Ave - Stop #10740 (southbound)
 
 ---
 
+### ⚠️ Route 67: Detour via Minnehaha Ave & St Albans St
+
+- **Affected Routes**: `Route 67`
+- **Direction**: Southbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Minnehaha Ave & St Albans St; Thomas Ave & Mackubin St; Minnehaha Ave & Dale St; Dale St & Blair Ave; Thomas Ave & Dale St
+- **Closed Stops**: Minnehaha Ave & Dale St (Stop #15065), Dale St & Blair Ave (Stop #10740), Thomas Ave & Dale St (Stop #41971), Thomas Ave & Kent St (Stop #18834), Stop #15064, Stop #18835
+
+**Summary**: Route 67 detoured off Minnehaha Ave W from Dale St N to Kent St until later today due to construction. Board at: Minnehaha Ave & St Albans St - Stop #15064 (eastbound); Thomas Ave & Mackubin St - Stop #18835 (eastbound).
+
+> 💡 **Rider Action**: Board at: Minnehaha Ave & St Albans St - Stop #15064 (eastbound); Thomas Ave & Mackubin St - Stop #18835 (eastbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on Minnehaha to Dale, continue on Minnehaha Kent St, right on Kent St, left on Thomas Ave, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/67)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 67 detoured off Minnehaha Ave W from Dale St N to Kent St until later today due to construction
+
+```text
+Get on/off buses at:
+Minnehaha Ave & St Albans St - Stop #15064 (eastbound)
+Thomas Ave & Mackubin St - Stop #18835 (eastbound)
+
+Affected direction: Eastbound
+
+Eastbound buses will travel regular route on Minnehaha to Dale, continue on Minnehaha Kent St, right on Kent St, left on Thomas Ave, and resume regular route. 
+
+Affected stops:
+Minnehaha Ave & Dale St - Stop #15065 (eastbound)
+Dale St & Blair Ave - Stop #10740 (southbound)
+Thomas Ave & Dale St - Stop #41971 (eastbound)
+Thomas Ave & Kent St - Stop #18834 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 67: Stop Closed at Thomas Ave & Kent St
+
+- **Affected Routes**: `Route 67`
+- **Direction**: Eastbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Thomas Ave & Kent St; Thomas Ave & Dale St; Thomas Ave & Mackubin St
+- **Closed Stops**: Stop #18834, Stop #41971, Stop #18835
+
+**Summary**: Thomas Ave & Kent St - Stop #18834 (eastbound) is closed for Route 67 until 11:59 PM due to construction. Board at: Thomas Ave & Dale St - Stop #41971 (eastbound); Thomas Ave & Mackubin St - Stop #18835 (eastbound).
+
+> 💡 **Rider Action**: Board at: Thomas Ave & Dale St - Stop #41971 (eastbound); Thomas Ave & Mackubin St - Stop #18835 (eastbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/67)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Thomas Ave & Kent St - Stop #18834 (eastbound) is closed for Route 67 until 11:59 PM due to construction
+
+```text
+Get on/off buses at:
+Thomas Ave & Dale St - Stop #41971 (eastbound)
+Thomas Ave & Mackubin St - Stop #18835 (eastbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 68: Detour via Jackson St & Sims Ave
 
 - **Affected Routes**: `Route 68`
@@ -3912,6 +4059,37 @@ Arcade St & York Ave - Stop #10247 (northbound)
 Arcade St & Case Ave - Stop #13794 (northbound)
 7th St E & Payne Ave - Stop #11852 (westbound)
 7th St E & Payne Ave - Stop #11847 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 74: Detour via 46th St (Hiawatha Ave to 36th Ave S)
+
+- **Affected Routes**: `Route 74`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Mon Sep 21 until further notice
+- **Corridors & Intersections**: 46th St (Hiawatha Ave to 36th Ave S)
+
+**Summary**: Route 74 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction
+
+> 🔄 **Detour Path**: Westbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/74)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 74 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction
+
+```text
+No stops missed.
+
+Eastbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.
+
+Westbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.
 ```
 
 </details>

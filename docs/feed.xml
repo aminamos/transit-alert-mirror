@@ -4,9 +4,18 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Thu, 17 Sep 2026 09:10:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 14:39:10 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] METRO Orange Line: Southbound 8:22 AM Trip Canceled (Marquette Ave &amp; 3rd St - Stop Group C)</title>
+      <link>https://www.metrotransit.org/route/orange</link>
+      <guid isPermaLink="false">Metro Transit-52938-2026-09-17T13:44:57.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 13:44:57 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO Orange Line</category>
+      <description>Southbound Orange Line trip departing Marquette Ave &amp; 3rd St - Stop Group C at 8:22 AM canceled today</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -26,6 +35,15 @@
       <description>METRO A Line detoured off Ford Pkwy from Fairview Ave to Davern St until further notice due to sewer work. Board at: Ford &amp; Kenneth Station - Stop #4283 (eastbound); Temporary stop on Ford Pkwy just before Fairview Ave (eastbound); Snelling &amp; Highland Station - Stop #56114 (northbound). | Action: Board at: Ford &amp; Kenneth Station - Stop #4283 (eastbound); Temporary stop on Ford Pkwy just before Fairview Ave (eastbound); Snelling &amp; Highland Station - Stop #56114 (northbound)</description>
     </item>
     <item>
+      <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
+      <link>https://www.metrotransit.org/route/aline</link>
+      <guid isPermaLink="false">Metro Transit-52943-2026-09-17T14:22:09.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 14:22:09 GMT</pubDate>
+      <category>Moderate</category>
+      <category>METRO A Line</category>
+      <description>METRO A Line detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
+    </item>
+    <item>
       <title>[Moderate] METRO Blue Line: Service Advisory</title>
       <link>https://www.metrotransit.org/route/blue</link>
       <guid isPermaLink="false">Metro Transit-42192-2025-12-12T16:20:01.000Z</guid>
@@ -37,8 +55,8 @@
     <item>
       <title>[Moderate] METRO C Line, METRO D Line: Detour via 7th St &amp; Olson St</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-52790-2026-09-14T16:09:10.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 16:09:10 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52790-2026-09-17T14:24:20.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 14:24:20 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO C Line, METRO D Line</category>
       <description>METRO C Line and D Line detoured off 8th St from 7th St Transit Center to 2nd Ave S from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: 7th St &amp; Olson Station - Stop #56317 (southbound); 10th St N &amp; Twins Way (3rd Ave) - Stop #11172 (southbound); 8th St &amp; 3rd/4th Ave Station - Stop #17910 (eastbound). | Action: Board at: 7th St &amp; Olson Station - Stop #56317 (southbound); 10th St N &amp; Twins Way (3rd Ave) - Stop #11172 (southbound); 8th St &amp; 3rd/4th Ave Station - Stop #17910 (eastbound)</description>
@@ -91,15 +109,6 @@ Affected st</title>
       <description>Gold Line detoured off 7th St from Wacouta St to Mounds Blvd until further notice. Board at: 6th St &amp; Jackson Station - Stop #57456 (westbound). | Action: Board at: 6th St &amp; Jackson Station - Stop #57456 (westbound)</description>
     </item>
     <item>
-      <title>[Moderate] METRO Orange Line: Detour via I-35W (Burnsville Pkwy to Cliff Rd)</title>
-      <link>https://www.metrotransit.org/route/orange</link>
-      <guid isPermaLink="false">Metro Transit-52596-2026-09-14T09:30:01.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 09:30:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>METRO Orange Line</category>
-      <description>Orange Line detoured off I-35W from Burnsville Pkwy to Cliff Rd beginning Mon Sep 14 at 5:00 AM until further notice due to construction</description>
-    </item>
-    <item>
       <title>[Moderate] METRO Orange Line: Detour via Marquette Ave &amp; 5th St</title>
       <link>https://www.metrotransit.org/route/orange</link>
       <guid isPermaLink="false">Metro Transit-52806-2026-09-14T17:16:43.000Z</guid>
@@ -129,8 +138,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 3, Route 3B: Detour via Front Ave &amp; Barrett St</title>
       <link>https://www.metrotransit.org/route/3</link>
-      <guid isPermaLink="false">Metro Transit-52616-2026-09-10T20:47:54.000Z</guid>
-      <pubDate>Thu, 10 Sep 2026 20:47:54 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52616-2026-09-17T10:00:01.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 10:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 3, Route 3B</category>
       <description>Route 3B detoured off Front Ave from Como Place to Dale St beginning Thu Sep 10 at 5:00 AM until further notice due to utility work. Board at: Front Ave &amp; Barrett St - Stop #952 (eastbound); Front Ave &amp; Mackubin St - Stop #960 (eastbound). | Action: Board at: Front Ave &amp; Barrett St - Stop #952 (eastbound); Front Ave &amp; Mackubin St - Stop #960 (eastbound)</description>
@@ -172,6 +181,15 @@ Affected st</title>
       <description>Route 7 detoured off Plymouth Ave/Theodore Wirth Pkwy from Washburn Ave to Trailhead Building on Sat Sep 19 from 6:30 AM to 2:00 PM due to Loppet Field Day. Board at: Plymouth Ave &amp; Washburn Ave N - Stop #17676 (westbound). | Action: Board at: Plymouth Ave &amp; Washburn Ave N - Stop #17676 (westbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 7: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
+      <link>https://www.metrotransit.org/route/7</link>
+      <guid isPermaLink="false">Metro Transit-52942-2026-09-17T14:21:28.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 14:21:28 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 7</category>
+      <description>Route 7 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
+    </item>
+    <item>
       <title>[Moderate] Route 9: Stop Closed at Cedar Lake Rd &amp; Ridge Dr</title>
       <link>https://www.metrotransit.org/route/9</link>
       <guid isPermaLink="false">Metro Transit-45065-2026-03-19T20:12:01.000Z</guid>
@@ -201,11 +219,20 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 9: Detour via Glenwood Ave &amp; 10th St N</title>
       <link>https://www.metrotransit.org/route/9</link>
-      <guid isPermaLink="false">Metro Transit-52791-2026-09-14T16:23:13.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 16:23:13 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52791-2026-09-17T14:25:40.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 14:25:40 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 9</category>
       <description>Route 9 detoured off 8th St from 7th St Transit Center to 2nd Ave S from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: Glenwood Ave &amp; 10th St N - Stop #3053 (eastbound); 8th St &amp; 3rd/4th Ave Station - Stop #17910 (eastbound). | Action: Board at: Glenwood Ave &amp; 10th St N - Stop #3053 (eastbound); 8th St &amp; 3rd/4th Ave Station - Stop #17910 (eastbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 9: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
+      <link>https://www.metrotransit.org/route/9</link>
+      <guid isPermaLink="false">Metro Transit-52940-2026-09-17T14:16:11.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 14:16:11 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 9</category>
+      <description>Route 9 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
     </item>
     <item>
       <title>[Moderate] Route 10, Route 25: Detour via Routes 10 and 25 detoured off Grant St &amp; 2nd Ave S</title>
@@ -273,8 +300,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 14, Route 5: Stop Closed at Selected Stop</title>
       <link>https://www.metrotransit.org/route/5</link>
-      <guid isPermaLink="false">Metro Transit-52650-2026-09-10T13:58:42.000Z</guid>
-      <pubDate>Thu, 10 Sep 2026 13:58:42 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52650-2026-09-17T13:58:01.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 13:58:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 14, Route 5</category>
       <description>Chicago &amp; 56th St Station - Stop #775 (northbound) is closed for Routes 5 and 14 until further notice due to utility work. Board at: Temporary stop on Chicago Ave just past 56th St (northbound). | Action: Board at: Temporary stop on Chicago Ave just past 56th St (northbound)</description>
@@ -329,8 +356,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 18: Detour via 1st Ave S &amp; Lake St</title>
       <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-49874-2026-09-16T16:25:33.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 16:25:33 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-49874-2026-09-17T14:09:55.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 14:09:55 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 18</category>
       <description>Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln beginning Mon Jul 13 at 5:00 AM until further notice due to construction. Board at: 1st Ave S &amp; Lake St - Stop #1889 (northbound); Temporary stop on 1st Ave S &amp; 28th St (northbound); Nicollet Ave S &amp; 27th St / 26th St E - Stop #52309 (northbound). | Action: Board at: 1st Ave S &amp; Lake St - Stop #1889 (northbound); Temporary stop on 1st Ave S &amp; 28th St (northbound); Nicollet Ave S &amp; 27th St / 26th St E - Stop #52309 (northbound)</description>
@@ -419,8 +446,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 22, Route 5: Detour via 10th St N &amp; Twins Way</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-52789-2026-09-14T16:06:26.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 16:06:26 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52789-2026-09-17T14:25:06.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 14:25:06 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 22, Route 5</category>
       <description>Routes 5 and 22 detoured off 8th St from 7th St Transit Center to 2nd Ave S from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: 10th St N &amp; Twins Way (3rd Ave) - Stop #11172 (southbound); 8th St &amp; 3rd/4th Ave Station - Stop #17910 (eastbound). | Action: Board at: 10th St N &amp; Twins Way (3rd Ave) - Stop #11172 (southbound); 8th St &amp; 3rd/4th Ave Station - Stop #17910 (eastbound)</description>
@@ -687,6 +714,24 @@ Affected st</title>
       <description>Minnehaha Ave &amp; Dale St - Stop #15065 (eastbound) is closed for Route 67 until further notice due to construction. Board at: Minnehaha Ave &amp; St Albans St - Stop #15064 (eastbound); Dale St &amp; Blair Ave - Stop #10740 (southbound). | Action: Board at: Minnehaha Ave &amp; St Albans St - Stop #15064 (eastbound); Dale St &amp; Blair Ave - Stop #10740 (southbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 67: Detour via Minnehaha Ave &amp; St Albans St</title>
+      <link>https://www.metrotransit.org/route/67</link>
+      <guid isPermaLink="false">Metro Transit-52937-2026-09-17T13:07:53.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 13:07:53 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 67</category>
+      <description>Route 67 detoured off Minnehaha Ave W from Dale St N to Kent St until later today due to construction. Board at: Minnehaha Ave &amp; St Albans St - Stop #15064 (eastbound); Thomas Ave &amp; Mackubin St - Stop #18835 (eastbound). | Action: Board at: Minnehaha Ave &amp; St Albans St - Stop #15064 (eastbound); Thomas Ave &amp; Mackubin St - Stop #18835 (eastbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 67: Stop Closed at Thomas Ave &amp; Kent St</title>
+      <link>https://www.metrotransit.org/route/67</link>
+      <guid isPermaLink="false">Metro Transit-52939-2026-09-17T14:11:54.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 14:11:54 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 67</category>
+      <description>Thomas Ave &amp; Kent St - Stop #18834 (eastbound) is closed for Route 67 until 11:59 PM due to construction. Board at: Thomas Ave &amp; Dale St - Stop #41971 (eastbound); Thomas Ave &amp; Mackubin St - Stop #18835 (eastbound). | Action: Board at: Thomas Ave &amp; Dale St - Stop #41971 (eastbound); Thomas Ave &amp; Mackubin St - Stop #18835 (eastbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 68: Detour via Jackson St &amp; Sims Ave</title>
       <link>https://www.metrotransit.org/route/68</link>
       <guid isPermaLink="false">Metro Transit-49088-2026-09-03T18:32:43.000Z</guid>
@@ -766,6 +811,15 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 74</category>
       <description>Route 74 detoured off 7th St E from Wacouta St to Forest St and off Arcade St from 7th St E to Case Ave until further notice due to construction. Board at: 5th St E &amp; Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E &amp; Maria Ave (eastbound); Temporary stop on 6th St E &amp; Maple St (eastbound). | Action: Board at: 5th St E &amp; Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E &amp; Maria Ave (eastbound); Temporary stop on 6th St E &amp; Maple St (eastbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 74: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
+      <link>https://www.metrotransit.org/route/74</link>
+      <guid isPermaLink="false">Metro Transit-52941-2026-09-17T14:17:10.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 14:17:10 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 74</category>
+      <description>Route 74 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
     </item>
     <item>
       <title>[Moderate] Route 94: Detour via Route 94 detoured off 6th St &amp; 7th St</title>
@@ -914,8 +968,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 538: Detour via York Ave S &amp; Walker Eldersuites - St</title>
       <link>https://www.metrotransit.org/route/538</link>
-      <guid isPermaLink="false">Metro Transit-52557-2026-09-10T20:48:46.000Z</guid>
-      <pubDate>Thu, 10 Sep 2026 20:48:46 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52557-2026-09-17T12:00:01.000Z</guid>
+      <pubDate>Thu, 17 Sep 2026 12:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 538</category>
       <description>Route 538 detoured out of 3400 Parklawn turnaround beginning Thu Sep 10 at 7:00 AM until further notice due to construction. Board at: York Ave S &amp; Walker Eldersuites - Stop #20195 (southbound); Temporary stop on Parklawn Ave just before #3400 Parklawn driveway (westbound); York Ave S &amp; 76th St W - Stop #42325 (southbound). | Action: Board at: York Ave S &amp; Walker Eldersuites - Stop #20195 (southbound); Temporary stop on Parklawn Ave just before #3400 Parklawn driveway (westbound); York Ave S &amp; 76th St W - Stop #42325 (southbound)</description>

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-17T09:10:07.576Z",
-    "totalAlerts": 119,
-    "criticalCount": 0,
-    "moderateCount": 116,
+    "generatedAt": "2026-09-17T14:39:10.726Z",
+    "totalAlerts": 125,
+    "criticalCount": 1,
+    "moderateCount": 121,
     "minorCount": 3,
     "affectedRoutesCount": 84,
     "agencies": [
@@ -11,6 +11,32 @@
     ]
   },
   "alerts": [
+    {
+      "id": "52938",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO Orange Line: Southbound 8:22 AM Trip Canceled (Marquette Ave & 3rd St - Stop Group C)",
+      "summary": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 8:22 AM canceled today",
+      "affectedRoutes": [
+        "METRO Orange Line"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-17T13:36:00.000Z",
+        "end": "2026-09-17T14:59:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/orange",
+      "updatedAt": "2026-09-17T13:44:57.000Z",
+      "rawHeader": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 8:22 AM canceled today",
+      "rawDescription": ""
+    },
     {
       "id": "49962",
       "agency": "Metro Transit",
@@ -109,6 +135,34 @@
       "rawDescription": "Update: added southbound detour 9/15 12 pm.\r\n\nGet on/off northbound buses at:\r\nFord & Kenneth Station - Stop #4283 (eastbound)\r\nTemporary stop on Ford Pkwy just before Fairview Ave (eastbound)\r\nSnelling & Highland Station - Stop #56114 (northbound)\r\n\nNo southbound stations missed.\r\n\nNorthbound buses will travel regular route on Ford Pkwy to Fairview Ave, right on Fairview, left on Hillcrest Ave, left on Davern St, right on Ford Pkwy, and resume regular route.\r\n\nSouthbound buses will travel regular route on Ford Pkwy to Davern St, right on Davern, left on Pinehurst Ave, left on Fairview Ave, right on Ford Pkwy, and resume regular route.\r\n\nAffected stops:\r\nFord & Fairview Station - Stop #56113 (eastbound)"
     },
     {
+      "id": "52943",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)",
+      "summary": "METRO A Line detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
+      "affectedRoutes": [
+        "METRO A Line"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "46th St (Hiawatha Ave to 36th Ave S)"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": "Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-09-21T08:00:00.000Z",
+        "textDescription": "Beginning Mon Sep 21 until further notice"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/aline",
+      "updatedAt": "2026-09-17T14:22:09.000Z",
+      "rawHeader": "METRO A Line detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
+      "rawDescription": "No stops missed.\r\n\nNorthbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.\r\n\nSouthbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route."
+    },
+    {
       "id": "42192",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -202,7 +256,7 @@
       },
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
-      "updatedAt": "2026-09-14T16:09:10.000Z",
+      "updatedAt": "2026-09-17T14:24:20.000Z",
       "rawHeader": "METRO C Line and D Line detoured off 8th St from 7th St Transit Center to 2nd Ave S from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer's",
       "rawDescription": "Get on/off buses at:\r\n7th St & Olson Station - Stop #56317 (southbound)\r\n10th St N & Twins Way (3rd Ave) - Stop #11172 (southbound)\r\n8th St & 3rd/4th Ave Station - Stop #17910 (eastbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on 10th St to 7th St Transit Center, continue on 10th St to 2nd Ave S, left on 2nd Ave S, right on 8th St, and resume regular route.\r\n\nAffected stops:\r\nRamp A/7th St Transit Center - Stop #17905 (eastbound)\r\n8th St & Hennepin Station - Stop #17906 (eastbound)\r\n8th St & Nicollet Station - Stop #17907 (eastbound)"
     },
@@ -410,34 +464,6 @@
       "updatedAt": "2026-08-25T13:26:20.000Z",
       "rawHeader": "Gold Line detoured off 7th St from Wacouta St to Mounds Blvd until further notice",
       "rawDescription": "8/25 at 8:30 AM: update to alternate evening and weekend eastbound detour.\r\n\nGet on/off buses at:\r\n6th St & Jackson Station - Stop #57456 (westbound)\r\n\nEastbound buses will travel regular route on 5th St E to Wacouta St, continue on 5th St, left on Broadway St onto eastbound I-94, exit for Mounds Blvd, right on Mounds Blvd, left on 3rd St E, right onto the Gold Line Guideway, and resume the regular route.\r\n\nWhen Wall St and Broadway St are closed for evening and weekend events only, eastbound buses will travel the regular route in 5th St to Sibley St, left on Sibley St, right on 7th St to Wacouta St, continue on 7th St, and resume the regular route.\r\n\nWestbound buses will travel the regular route on the Gold Line Guideway to Mounds Blvd, left onto westbound I-94, exit for 12th St, left on Jackson St, right on 6th St, and resume regular route.\r\n\nAffected stops:\r\nWall St & 7th St / 6th St - Stop #43282 (southbound)"
-    },
-    {
-      "id": "52596",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "METRO Orange Line: Detour via I-35W (Burnsville Pkwy to Cliff Rd)",
-      "summary": "Orange Line detoured off I-35W from Burnsville Pkwy to Cliff Rd beginning Mon Sep 14 at 5:00 AM until further notice due to construction",
-      "affectedRoutes": [
-        "METRO Orange Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "I-35W (Burnsville Pkwy to Cliff Rd)"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": "Northbound buses will travel regular route on Travelers Trail to Burnsville Pkwy, left on Burnsville Pkwy, left on Nicollet Ave, left on Cliff Rd, right on to the I-35W frontage road, left onto I-35W and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-14T10:00:00.000Z",
-        "textDescription": "Beginning Mon Sep 14 at 5:00 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/orange",
-      "updatedAt": "2026-09-14T09:30:01.000Z",
-      "rawHeader": "Orange Line detoured off I-35W from Burnsville Pkwy to Cliff Rd beginning Mon Sep 14 at 5:00 AM until further notice due to construction",
-      "rawDescription": "No stations missed, but expect delays due to extent of the detour.\r\n\nNorthbound buses will travel regular route on Travelers Trail to Burnsville Pkwy, left on Burnsville Pkwy, left on Nicollet Ave, left on Cliff Rd, right on to the I-35W frontage road, left onto I-35W and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected direction: Northbound"
     },
     {
       "id": "52806",
@@ -887,7 +913,7 @@
       "cause": "MAINTENANCE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-09-10T20:47:54.000Z",
+      "updatedAt": "2026-09-17T10:00:01.000Z",
       "rawHeader": "Route 3B detoured off Front Ave from Como Place to Dale St beginning Thu Sep 10 at 5:00 AM until further notice due to utility work",
       "rawDescription": "For eastbound Route 3B get on/off buses at:\r\nFront Ave & Barrett St - Stop #952 (eastbound)\r\nFront Ave & Mackubin St - Stop #960 (eastbound)\r\n\nFor westbound Route 3B get on/off buses at:\r\nFront Ave & Dale St - Stop #840 (westbound)\r\nFront Ave & Barrett St - Stop #847 (westbound)\r\n\nEastbound buses will travel regular route on Front Ave to Como Pl, left on Como Pl, right on Jessamine Ave, right on Como Ave, continue on Como Ave to Dale St, veer left onto Front Ave and resume regular route.\r\n\nWestbound buses will travel regular route on Front Ave to Dale St, veer right onto Como Ave, continue on Como Ave to Jessamine Ave, left on Jessamine Ave, left on Como Pl, right on Front Ave and resume regular route.\r\n\nAffected stops:\r\nFront Ave & Grotto St - Stop #956 (eastbound)\r\nFront Ave & Dale St - Stop #958 (eastbound)\r\nFront Ave & Grotto St - Stop #843 (westbound)"
     },
@@ -1195,6 +1221,34 @@
       "rawDescription": "For northbound Route 7 get on/off buses at:\r\nPlymouth Ave & Washburn Ave N - Stop #17676 (westbound)\r\n\nFor southbound Route 7 get on/off buses at:\r\nPlymouth Ave & Washburn Ave N - Stop #17681 (eastbound)\r\n\nNorthbound buses will travel regular route on Plymouth Ave to Washburn Ave, right on Washburn, left on 14th Ave, left on Xerxes Ave, left on Plymouth Ave, and will layover on eastbound Plymouth Ave at Washburn Ave.\r\n\nSouthbound buses will depart temporary layover on eastbound Plymouth Ave at Washburn Ave and resume regular route.\r\n\nAffected stops:\r\nPlymouth Ave & Theodore Wirth Pkwy - Stop #56978 (westbound)\r\nTrailhead Bldg - Stop #56977 (westbound)\r\nPlymouth Ave & Theo Wirth Pkwy - Stop #17679 (eastbound)"
     },
     {
+      "id": "52942",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 7: Detour via 46th St (Hiawatha Ave to 36th Ave S)",
+      "summary": "Route 7 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
+      "affectedRoutes": [
+        "Route 7"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "46th St (Hiawatha Ave to 36th Ave S)"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": "Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-09-21T08:00:00.000Z",
+        "textDescription": "Beginning Mon Sep 21 until further notice"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/7",
+      "updatedAt": "2026-09-17T14:21:28.000Z",
+      "rawHeader": "Route 7 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
+      "rawDescription": "No stops missed.\r\n\nNorthbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.\r\n\nSouthbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route."
+    },
+    {
       "id": "45065",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -1443,9 +1497,37 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/9",
-      "updatedAt": "2026-09-14T16:23:13.000Z",
+      "updatedAt": "2026-09-17T14:25:40.000Z",
       "rawHeader": "Route 9 detoured off 8th St from 7th St Transit Center to 2nd Ave S from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer's",
       "rawDescription": "Get on/off buses at:\r\nGlenwood Ave & 10th St N - Stop #3053 (eastbound)\r\n8th St & 3rd/4th Ave Station - Stop #17910 (eastbound)\r\n\nEastbound buses will travel regular route on 10th St to 7th St Transit Center, continue on 10th St to 2nd Ave S, left on 2nd Ave S, right on 8th St, and resume regular route.\r\n\nWestbound buses will travel regular route.\r\n\nAffected direction: Eastbound\r\n\nAffected stops:\r\nRamp A/7th St Transit Center - Stop #17905 (eastbound)\r\n8th St & Hennepin Station - Stop #17906 (eastbound)\r\n8th St & Nicollet Station - Stop #17907 (eastbound)\r\n8th St S & Marquette Ave / 2nd Ave S - Stop #17908 (eastbound)"
+    },
+    {
+      "id": "52940",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 9: Detour via 46th St (Hiawatha Ave to 36th Ave S)",
+      "summary": "Route 9 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
+      "affectedRoutes": [
+        "Route 9"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "46th St (Hiawatha Ave to 36th Ave S)"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": "Eastbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-09-21T08:00:00.000Z",
+        "textDescription": "Beginning Mon Sep 21 until further notice"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/9",
+      "updatedAt": "2026-09-17T14:16:11.000Z",
+      "rawHeader": "Route 9 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
+      "rawDescription": "No stops missed.\r\n\nEastbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.\r\n\nWestbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route."
     },
     {
       "id": "51494",
@@ -2301,7 +2383,7 @@
       "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/5",
-      "updatedAt": "2026-09-10T13:58:42.000Z",
+      "updatedAt": "2026-09-17T13:58:01.000Z",
       "rawHeader": "Chicago & 56th St Station - Stop #775 (northbound) is closed for Routes 5 and 14 until further notice due to utility work",
       "rawDescription": "Get on/off buses at:\r\nTemporary stop on Chicago Ave just past 56th St (northbound)"
     },
@@ -2852,7 +2934,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/18",
-      "updatedAt": "2026-09-16T16:25:33.000Z",
+      "updatedAt": "2026-09-17T14:09:55.000Z",
       "rawHeader": "Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln beginning Mon Jul 13 at 5:00 AM until further notice due to construction",
       "rawDescription": "For northbound Route 18 get on/off buses at:\r\n1st Ave S & Lake St - Stop #1889 (northbound)\r\nTemporary stop on 1st Ave S & 28th St (northbound)\r\nNicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound)\r\n\nFor southbound Route 18 get on/off buses at:\r\nNicollet Ave S & 24th St W - Stop #1204 (southbound)\r\nTemporary stop on Nicollet Ave just before 26th St (southbound)\r\nTemporary stop on Blaisdell Ave & 28th St (southbound)\r\nBlaisdell Ave S & Lake St - Stop #14850 (southbound)\r\n\nNorthbound buses will travel regular route on 1st Ave to Cecil Newman, continue on 1st Ave to 27th St, left on 27th St, right on Nicollet Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Nicollet Ave to 26th St, right on 26th St, left on Blaisdell Ave, continue on Blaisdell Ave to 29th St and resume regular route. \r\n\nAffected stops:\r\nNicollet Ave S & 28th St E - Stop #1890 (northbound)\r\nNicollet Ave S & 26th St W - Stop #1206 (southbound)\r\nNicollet Ave S & 28th St W - Stop #1208 (southbound)"
     },
@@ -3586,7 +3668,7 @@
       },
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
-      "updatedAt": "2026-09-14T16:06:26.000Z",
+      "updatedAt": "2026-09-17T14:25:06.000Z",
       "rawHeader": "Routes 5 and 22 detoured off 8th St from 7th St Transit Center to 2nd Ave S from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer's",
       "rawDescription": "Get on/off buses at:\r\n10th St N & Twins Way (3rd Ave) - Stop #11172 (southbound)\r\n8th St & 3rd/4th Ave Station - Stop #17910 (eastbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on 10th St to 7th St Transit Center, continue on 10th St to 2nd Ave S, left on 2nd Ave S, right on 8th St, and resume regular route.\r\n\nAffected stops:\r\nRamp A/7th St Transit Center - Stop #17905 (eastbound)\r\n8th St & Hennepin Station - Stop #17906 (eastbound)\r\n8th St & Nicollet Station - Stop #17907 (eastbound)\r\n8th St S & Marquette Ave / 2nd Ave S - Stop #17908 (eastbound)"
     },
@@ -5993,6 +6075,116 @@
       "rawDescription": "Get on/off buses at:\r\nMinnehaha Ave & St Albans St - Stop #15064 (eastbound)\r\nDale St & Blair Ave - Stop #10740 (southbound)"
     },
     {
+      "id": "52937",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 67: Detour via Minnehaha Ave & St Albans St",
+      "summary": "Route 67 detoured off Minnehaha Ave W from Dale St N to Kent St until later today due to construction. Board at: Minnehaha Ave & St Albans St - Stop #15064 (eastbound); Thomas Ave & Mackubin St - Stop #18835 (eastbound).",
+      "affectedRoutes": [
+        "Route 67"
+      ],
+      "direction": "Southbound",
+      "intersections": [
+        "Minnehaha Ave & St Albans St",
+        "Thomas Ave & Mackubin St",
+        "Minnehaha Ave & Dale St",
+        "Dale St & Blair Ave",
+        "Thomas Ave & Dale St"
+      ],
+      "closedStopIds": [
+        "15065",
+        "10740",
+        "41971",
+        "18834",
+        "15064",
+        "18835"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "15065",
+          "name": "Minnehaha Ave & Dale St",
+          "direction": "eastbound"
+        },
+        {
+          "id": "10740",
+          "name": "Dale St & Blair Ave",
+          "direction": "southbound"
+        },
+        {
+          "id": "41971",
+          "name": "Thomas Ave & Dale St",
+          "direction": "eastbound"
+        },
+        {
+          "id": "18834",
+          "name": "Thomas Ave & Kent St",
+          "direction": "eastbound"
+        },
+        {
+          "id": "15064"
+        },
+        {
+          "id": "18835"
+        }
+      ],
+      "riderAlternative": "Board at: Minnehaha Ave & St Albans St - Stop #15064 (eastbound); Thomas Ave & Mackubin St - Stop #18835 (eastbound)",
+      "detourDetails": "Eastbound buses will travel regular route on Minnehaha to Dale, continue on Minnehaha Kent St, right on Kent St, left on Thomas Ave, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-09-17T12:37:00.000Z",
+        "end": "2026-09-17T16:38:23.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/67",
+      "updatedAt": "2026-09-17T13:07:53.000Z",
+      "rawHeader": "Route 67 detoured off Minnehaha Ave W from Dale St N to Kent St until later today due to construction",
+      "rawDescription": "Get on/off buses at:\r\nMinnehaha Ave & St Albans St - Stop #15064 (eastbound)\r\nThomas Ave & Mackubin St - Stop #18835 (eastbound)\r\n\nAffected direction: Eastbound\r\n\nEastbound buses will travel regular route on Minnehaha to Dale, continue on Minnehaha Kent St, right on Kent St, left on Thomas Ave, and resume regular route. \r\n\nAffected stops:\r\nMinnehaha Ave & Dale St - Stop #15065 (eastbound)\r\nDale St & Blair Ave - Stop #10740 (southbound)\r\nThomas Ave & Dale St - Stop #41971 (eastbound)\r\nThomas Ave & Kent St - Stop #18834 (eastbound)"
+    },
+    {
+      "id": "52939",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 67: Stop Closed at Thomas Ave & Kent St",
+      "summary": "Thomas Ave & Kent St - Stop #18834 (eastbound) is closed for Route 67 until 11:59 PM due to construction. Board at: Thomas Ave & Dale St - Stop #41971 (eastbound); Thomas Ave & Mackubin St - Stop #18835 (eastbound).",
+      "affectedRoutes": [
+        "Route 67"
+      ],
+      "direction": "Eastbound",
+      "intersections": [
+        "Thomas Ave & Kent St",
+        "Thomas Ave & Dale St",
+        "Thomas Ave & Mackubin St"
+      ],
+      "closedStopIds": [
+        "18834",
+        "41971",
+        "18835"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "18834"
+        },
+        {
+          "id": "41971"
+        },
+        {
+          "id": "18835"
+        }
+      ],
+      "riderAlternative": "Board at: Thomas Ave & Dale St - Stop #41971 (eastbound); Thomas Ave & Mackubin St - Stop #18835 (eastbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-17T14:11:00.000Z",
+        "end": "2026-09-18T04:59:00.000Z"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/67",
+      "updatedAt": "2026-09-17T14:11:54.000Z",
+      "rawHeader": "Thomas Ave & Kent St - Stop #18834 (eastbound) is closed for Route 67 until 11:59 PM due to construction",
+      "rawDescription": "Get on/off buses at:\r\nThomas Ave & Dale St - Stop #41971 (eastbound)\r\nThomas Ave & Mackubin St - Stop #18835 (eastbound)"
+    },
+    {
       "id": "49088",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -6708,6 +6900,34 @@
       "updatedAt": "2026-09-03T18:35:55.000Z",
       "rawHeader": "Route 74 detoured off 7th St E from Wacouta St to Forest St and off Arcade St from 7th St E to Case Ave until further notice due to construction",
       "rawDescription": "Updated 8/22 to add temporary westbound stop on 6th St E & Sibley St.\r\n\nFor eastbound Route 74 get on/off buses at:\r\n5th St E & Sibley St - Stop #1839 (eastbound)\r\nTemporary stop on 6th St E & Maria Ave (eastbound)\r\nTemporary stop on 6th St E & Maple St (eastbound)\r\n6th St E & Hope St - Stop #53982 (eastbound)\r\nTemporary stop on 6th St E & Mendota St (eastbound)\r\nMinnehaha Ave & Cypress St - Stop #49605 (eastbound)\r\nArcade St & Case Ave - Stop #13827 (eastbound, school trips only)\r\n\nFor westbound Route 74 get on/off buses at:\r\nArcade St & Magnolia Ave - Stop #13798 (westbound, 74J only)\r\nMinnehaha Ave & Forest St - Stop #49660 (westbound)\r\nTemporary stop on 6th St E & Hope St (westbound)\r\nTemporary stop on 6th St E & Maple St (westbound)\r\nTemporary stop on 6th St E & Maria Ave (westbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound)\r\nTemporary stop on 6th St E & Sibley St (westbound)\r\n\nEastbound buses will travel regular route on 5th St E to Wacouta St, continue on 5th St, left on Broadway St onto eastbound I-94, exit for Mounds Blvd, continue straight on 6th St E, left on Forest St, right on Minnehaha Ave and resume regular route.\r\n\nEastbound school trips departing from Johnson High School will travel regular route on Arcade St to Case Ave, left on Case Ave, right on Duchess St, right on Sims Ave, left on Forest St, left on Minnehaha Ave and resume regular route.\r\n\nWestbound buses will travel regular route Minnehaha Ave to Forest St, left on Forest St, right on 6th St, continue onto westbound I-94, exit for 12th St, left on Jackson St, left on 7th St, right on Wall St, and resume regular route.\r\n\nWestbound 74J buses will travel regular route Minnehaha Ave to Forest St, right on Forest St, left on Case Ave, right on Arcade St, and resume regular route.\r\n\nAffected stops:\r\n7th St E & Maria Ave - Stop #11849 (eastbound)\r\n7th St E & Bates Ave - Stop #10239 (eastbound)\r\n7th St E & Hope St - Stop #10242 (eastbound)\r\n7th St E & Arcade St - Stop #10385 (eastbound)\r\n7th St E & Arcade St - Stop #12915 (westbound)\r\n7th St E & Hope St - Stop #10294 (westbound)\r\n7th St E & Bates Ave - Stop #10297 (westbound)\r\n7th St E & Maria Ave - Stop #11850 (westbound)\r\nMinnehaha Ave & Forest St - Stop #49604 (eastbound)\r\nArcade St & York Ave - Stop #10288 (southbound)\r\nArcade St & Neid Lane - Stop #10289 (southbound)\r\nMinnehaha Ave & Arcade St - Stop #56235 (eastbound)\r\nMinnehaha Av E & Arcade St - Stop #57626 (westbound)\r\nArcade St & Neid Lane - Stop #10246 (northbound)\r\nArcade St & York Ave - Stop #10247 (northbound)\r\nArcade St & Case Ave - Stop #13794 (northbound)\r\n7th St E & Payne Ave - Stop #11852 (westbound)\r\n7th St E & Payne Ave - Stop #11847 (eastbound)"
+    },
+    {
+      "id": "52941",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 74: Detour via 46th St (Hiawatha Ave to 36th Ave S)",
+      "summary": "Route 74 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
+      "affectedRoutes": [
+        "Route 74"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "46th St (Hiawatha Ave to 36th Ave S)"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": "Westbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-09-21T08:00:00.000Z",
+        "textDescription": "Beginning Mon Sep 21 until further notice"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/74",
+      "updatedAt": "2026-09-17T14:17:10.000Z",
+      "rawHeader": "Route 74 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
+      "rawDescription": "No stops missed.\r\n\nEastbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.\r\n\nWestbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route."
     },
     {
       "id": "52802",
@@ -7990,7 +8210,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/538",
-      "updatedAt": "2026-09-10T20:48:46.000Z",
+      "updatedAt": "2026-09-17T12:00:01.000Z",
       "rawHeader": "Route 538 detoured out of 3400 Parklawn turnaround beginning Thu Sep 10 at 7:00 AM until further notice due to construction",
       "rawDescription": "For eastbound Route 538 get on/off buses at:\r\nYork Ave S & Walker Eldersuites - Stop #20195 (southbound)\r\nTemporary stop on Parklawn Ave just before #3400 Parklawn driveway (westbound)\r\nYork Ave S & 76th St W - Stop #42325 (southbound)\r\n\nFor westbound Route 538 get on/off buses at:\r\nYork Ave S & #7701 - Stop #3735 (northbound)\r\nTemporary stop on Parklawn Ave across from #3400 Parklawn driveway (eastbound)\r\nYork Ave S & Yorkdale Townhomes - Stop #2026 (northbound)\r\n\nEastbound buses will travel regular route on York Ave to Parklawn Ave, right on Parklawn Ave, left on Edinborough Way, left on 76th St, right on York Ave and resume regular route.\r\n\nWestbound buses will travel regular route on York Ave to 76th St, left on 76th St, right on Edinborough Way, right on Parklawn Ave, left on York Ave and resume regular route.\r\n\nAffected stops:\r\n#3400 Entrance & Parklawn Ave - Stop #44364 (westbound)\r\nYork Ave S & 76th St W - Stop #2024 (northbound)"
     },
