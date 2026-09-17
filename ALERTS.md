@@ -2,53 +2,73 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-130-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-5-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-122-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-135-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-9-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-123-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-86-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-17T18:47:22.465Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-17T21:54:05.453Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (2) • **METRO Gold Line** (3) • **METRO Orange Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (3) • **Route 7** (3) • **Route 9** (5) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (2) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (3) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (5) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
+**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (2) • **Route 3B** (1) • **Route 4** (2) • **Route 4P** (2) • **Route 5** (3) • **Route 7** (3) • **Route 9** (5) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (4) • **Route 25L** (1) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (4) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (2) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (4) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 83** (1) • **Route 87** (1) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (5) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO Gold Line: Service Canceled
-
-- **Affected Routes**: `METRO Gold Line`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Gold Line trips departing Woodlane Dr Station Gate A at 12:34 PM and departing Smith & 5th St Station at 1:21 PM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/gold)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Gold Line trips departing Woodlane Dr Station Gate A at 12:34 PM and departing Smith & 5th St Station at 1:21 PM canceled today due to mechanical issue
-
-</details>
-
----
-
-### 🚨 Route 2: Westbound 12:39 PM Trip Canceled (2nd Ave SE & 7th St SE)
+### 🚨 Route 2: Eastbound 3:41 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)
 
 - **Affected Routes**: `Route 2`
-- **Direction**: Westbound
+- **Direction**: Eastbound
 - **Severity**: `Critical`
 
-**Summary**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 12:39 PM canceled today
+**Summary**: Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 3:41 PM canceled today due to maintenance work
 
 [Official Agency Advisory](https://www.metrotransit.org/route/2)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 12:39 PM canceled today
+**Header**: Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 3:41 PM canceled today due to maintenance work
+
+</details>
+
+---
+
+### 🚨 Route 4, Route 4P: Southbound 3:54 PM Trip Canceled (Silver Lk & Cub Foods Svc Rd / 39th Ave)
+
+- **Affected Routes**: `Route 4` `Route 4P`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Cub Foods Svc Rd & 39th Ave
+
+**Summary**: Southbound Route 4P trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 3:54 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/4)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 4P trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 3:54 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 25, Route 25L: Southbound 3:21 PM Trip Canceled (Marquette Ave & 2nd St S)
+
+- **Affected Routes**: `Route 25` `Route 25L`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Route 25L trip departing Marquette Ave & 2nd St S at 3:21 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/25)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 25L trip departing Marquette Ave & 2nd St S at 3:21 PM canceled today
 
 </details>
 
@@ -90,6 +110,26 @@ departing Westgate Station - Gate B at 7:05 PM
 
 ---
 
+### 🚨 Route 62: Service Advisory
+
+- **Affected Routes**: `Route 62`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #53900, Stop #53901, Stop #328, Stop #329, Stop #330, Stop #331, Stop #332, Stop #333 *(+33 more)*
+
+**Summary**: Northbound Route 62 trip departing Livingston & Butler at 3:04 PM will start from Winifred & Humboldt. Previous stops missed
+
+[Official Agency Advisory](https://www.metrotransit.org/route/62)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 62 trip departing Livingston & Butler at 3:04 PM will start from Winifred & Humboldt. Previous stops missed
+
+</details>
+
+---
+
 ### 🚨 Route 71: Service Canceled
 
 - **Affected Routes**: `Route 71`
@@ -119,25 +159,59 @@ departing Market Place Dr & The Marketplace Ctr at 5:13 PM
 
 ---
 
-### 🚨 Route 805: Service Canceled
+### 🚨 Route 71: Service Canceled
 
-- **Affected Routes**: `Route 805`
+- **Affected Routes**: `Route 71`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: 34 AM and departing 1st Ave S & Monroe St
 
-**Summary**: Route 805 trips departing Northtown Transit Ctr Gate D at 11:34 AM and departing 1st Ave S & Monroe St at 12:38 PM canceled today
+**Summary**: Route 71 trips departing Market Place Dr & The Marketplace Ctr at 4:10 PM and departing Inver Hills College & Shelter at 5:38 PM canceled today due to mechanical issue
 
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
+[Official Agency Advisory](https://www.metrotransit.org/route/71)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 805 trips departing Northtown Transit Ctr Gate D at 11:34 AM and departing 1st Ave S & Monroe St at 12:38 PM canceled today
+**Header**: Route 71 trips departing Market Place Dr & The Marketplace Ctr at 4:10 PM and departing Inver Hills College & Shelter at 5:38 PM canceled today due to mechanical issue
 
-```text
-Updated at 12:34 PM to restore some previously canceled trips.
-```
+</details>
+
+---
+
+### 🚨 Route 94: Service Advisory
+
+- **Affected Routes**: `Route 94`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #56100, Stop #57417, Stop #57419, Stop #57456, Stop #11863, Stop #3264
+
+**Summary**: Westbound Route 94 trip departing Union Depot & Gate A1 at 4:39 PM will start from Saint Anthony & Fry. Previous stops missed due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/94)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 94 trip departing Union Depot & Gate A1 at 4:39 PM will start from Saint Anthony & Fry. Previous stops missed due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 850: Northbound 3:38 PM Trip Canceled (2nd Ave S & 11th St - Stop Group G)
+
+- **Affected Routes**: `Route 850`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 850 trip departing 2nd Ave S & 11th St - Stop Group G at 3:38 PM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/850)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 850 trip departing 2nd Ave S & 11th St - Stop Group G at 3:38 PM canceled today due to mechanical issue
 
 </details>
 
@@ -750,6 +824,54 @@ Affected stops:
 Front Ave & Grotto St - Stop #956 (eastbound)
 Front Ave & Dale St - Stop #958 (eastbound)
 Front Ave & Grotto St - Stop #843 (westbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 3, Route 3A: Detour via Como Ave & Como Place - St
+
+- **Affected Routes**: `Route 3` `Route 3A`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Como Ave & Como Place - St; Dale St & Maryland Ave; Maryland Ave & Mackubin St; Como Blvd E & Maryland Ave; Maryland Ave & Grotto St
+- **Closed Stops**: Como Blvd E & Maryland Ave (Stop #5555), Maryland Ave & Grotto St (Stop #5556), Maryland Ave & Dale St (Stop #5560), Maryland Ave & Dale St (Stop #5589), Maryland Ave & Grotto St (Stop #5593), Maryland Ave & Como Blvd E (Stop #5594), Stop #50125, Stop #10711 *(+3 more)*
+
+**Summary**: Route 3A detoured off Como Blvd from Como Ave to Maryland Ave and off Maryland Ave from Como Blvd to Dale St from 9:00 AM to 11:00 AM on Sat Sep 26 due to Como Homecoming Parade. Board at: Como Ave & Como Place - Stop #50125 (eastbound); Dale St & Maryland Ave - Stop #10711 (northbound); Maryland Ave & Mackubin St - Stop #5563 (eastbound).
+
+> 💡 **Rider Action**: Board at: Como Ave & Como Place - Stop #50125 (eastbound); Dale St & Maryland Ave - Stop #10711 (northbound); Maryland Ave & Mackubin St - Stop #5563 (eastbound)
+
+> 🔄 **Detour Path**: buses will travel regular route on Como Ave to Como Ave/Como Blvd, right on Como Ave, left on Jessamine Ave, left on Dale St, right on Maryland Ave, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/3)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 3A detoured off Como Blvd from Como Ave to Maryland Ave and off Maryland Ave from Como Blvd to Dale St from 9:00 AM to 11:00 AM on Sat Sep 26 due to Como Homecoming Parade
+
+```text
+For eastbound Route 3 get on/off buses at:
+Como Ave & Como Place - Stop #50125 (eastbound)
+Dale St & Maryland Ave - Stop #10711 (northbound)
+Maryland Ave & Mackubin St - Stop #5563 (eastbound)
+
+For westbound Route 3 get on/off buses at:
+Maryland Ave & Mackubin St - Stop #5587 (westbound)
+Como Ave & Como Place - Stop #50126 (westbound)
+
+Eastbound 3A buses will travel regular route on Como Ave to Como Ave/Como Blvd, right on Como Ave, left on Jessamine Ave, left on Dale St, right on Maryland Ave, and resume regular route.
+
+Westbound 3A buses will travel regular route on Maryland Ave to Dale St, left on Dale, right on Jessamine Ave, right on Como Ave to Como Blvd, left on Como Ave, and resume regular route.
+
+Affected stops:
+Como Blvd E & Maryland Ave - Stop #5555 (northbound)
+Maryland Ave & Grotto St - Stop #5556 (eastbound)
+Maryland Ave & Dale St - Stop #5560 (eastbound)
+Maryland Ave & Dale St - Stop #5589 (westbound)
+Maryland Ave & Grotto St - Stop #5593 (westbound)
+Maryland Ave & Como Blvd E - Stop #5594 (westbound)
 ```
 
 </details>

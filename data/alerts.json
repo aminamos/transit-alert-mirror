@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-17T18:47:22.465Z",
-    "totalAlerts": 130,
-    "criticalCount": 5,
-    "moderateCount": 122,
+    "generatedAt": "2026-09-17T21:54:05.453Z",
+    "totalAlerts": 135,
+    "criticalCount": 9,
+    "moderateCount": 123,
     "minorCount": 3,
     "affectedRoutesCount": 86,
     "agencies": [
@@ -12,55 +12,85 @@
   },
   "alerts": [
     {
-      "id": "52957",
+      "id": "52969",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO Gold Line: Service Canceled",
-      "summary": "Gold Line trips departing Woodlane Dr Station Gate A at 12:34 PM and departing Smith & 5th St Station at 1:21 PM canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "METRO Gold Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-17T17:43:00.000Z",
-        "end": "2026-09-17T19:55:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/gold",
-      "updatedAt": "2026-09-17T17:43:42.000Z",
-      "rawHeader": "Gold Line trips departing Woodlane Dr Station Gate A at 12:34 PM and departing Smith & 5th St Station at 1:21 PM canceled today due to mechanical issue",
-      "rawDescription": ""
-    },
-    {
-      "id": "52958",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 2: Westbound 12:39 PM Trip Canceled (2nd Ave SE & 7th St SE)",
-      "summary": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 12:39 PM canceled today",
+      "title": "Route 2: Eastbound 3:41 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)",
+      "summary": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 3:41 PM canceled today due to maintenance work",
       "affectedRoutes": [
         "Route 2"
       ],
-      "direction": "Westbound",
+      "direction": "Eastbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-17T18:00:00.000Z",
-        "end": "2026-09-17T19:29:00.000Z"
+        "start": "2026-09-17T20:41:00.000Z",
+        "end": "2026-09-17T22:37:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/2",
+      "updatedAt": "2026-09-17T20:35:37.000Z",
+      "rawHeader": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 3:41 PM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "52972",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 4, Route 4P: Southbound 3:54 PM Trip Canceled (Silver Lk & Cub Foods Svc Rd / 39th Ave)",
+      "summary": "Southbound Route 4P trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 3:54 PM canceled today",
+      "affectedRoutes": [
+        "Route 4",
+        "Route 4P"
+      ],
+      "direction": "Southbound",
+      "intersections": [
+        "Cub Foods Svc Rd & 39th Ave"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-17T21:34:00.000Z",
+        "end": "2026-09-17T23:17:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-09-17T18:00:52.000Z",
-      "rawHeader": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 12:39 PM canceled today",
+      "url": "https://www.metrotransit.org/route/4",
+      "updatedAt": "2026-09-17T21:35:10.000Z",
+      "rawHeader": "Southbound Route 4P trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 3:54 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "52971",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 25, Route 25L: Southbound 3:21 PM Trip Canceled (Marquette Ave & 2nd St S)",
+      "summary": "Southbound Route 25L trip departing Marquette Ave & 2nd St S at 3:21 PM canceled today",
+      "affectedRoutes": [
+        "Route 25",
+        "Route 25L"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-17T21:10:00.000Z",
+        "end": "2026-09-17T22:04:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/25",
+      "updatedAt": "2026-09-17T21:11:14.000Z",
+      "rawHeader": "Southbound Route 25L trip departing Marquette Ave & 2nd St S at 3:21 PM canceled today",
       "rawDescription": ""
     },
     {
@@ -94,6 +124,198 @@
       "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 1:56 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 3:54 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 5:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 1:04 PM\r\ndeparting Westgate Station - Gate B at 3:04 PM\r\ndeparting Westgate Station - Gate B at 5:04 PM\r\ndeparting Westgate Station - Gate B at 7:05 PM"
     },
     {
+      "id": "52965",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 62: Service Advisory",
+      "summary": "Northbound Route 62 trip departing Livingston & Butler at 3:04 PM will start from Winifred & Humboldt. Previous stops missed",
+      "affectedRoutes": [
+        "Route 62"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [
+        "53900",
+        "53901",
+        "328",
+        "329",
+        "330",
+        "331",
+        "332",
+        "333",
+        "334",
+        "335",
+        "336",
+        "337",
+        "338",
+        "6357",
+        "6358",
+        "6354",
+        "6356",
+        "6347",
+        "6348",
+        "6349",
+        "6350",
+        "6351",
+        "6353",
+        "41712",
+        "6290",
+        "6291",
+        "6292",
+        "6312",
+        "6313",
+        "6314",
+        "6316",
+        "6318",
+        "6320",
+        "6322",
+        "6324",
+        "6326",
+        "6327",
+        "6329",
+        "6331",
+        "6332",
+        "6334"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "53900"
+        },
+        {
+          "id": "53901"
+        },
+        {
+          "id": "328"
+        },
+        {
+          "id": "329"
+        },
+        {
+          "id": "330"
+        },
+        {
+          "id": "331"
+        },
+        {
+          "id": "332"
+        },
+        {
+          "id": "333"
+        },
+        {
+          "id": "334"
+        },
+        {
+          "id": "335"
+        },
+        {
+          "id": "336"
+        },
+        {
+          "id": "337"
+        },
+        {
+          "id": "338"
+        },
+        {
+          "id": "6357"
+        },
+        {
+          "id": "6358"
+        },
+        {
+          "id": "6354"
+        },
+        {
+          "id": "6356"
+        },
+        {
+          "id": "6347"
+        },
+        {
+          "id": "6348"
+        },
+        {
+          "id": "6349"
+        },
+        {
+          "id": "6350"
+        },
+        {
+          "id": "6351"
+        },
+        {
+          "id": "6353"
+        },
+        {
+          "id": "41712"
+        },
+        {
+          "id": "6290"
+        },
+        {
+          "id": "6291"
+        },
+        {
+          "id": "6292"
+        },
+        {
+          "id": "6312"
+        },
+        {
+          "id": "6313"
+        },
+        {
+          "id": "6314"
+        },
+        {
+          "id": "6316"
+        },
+        {
+          "id": "6318"
+        },
+        {
+          "id": "6320"
+        },
+        {
+          "id": "6322"
+        },
+        {
+          "id": "6324"
+        },
+        {
+          "id": "6326"
+        },
+        {
+          "id": "6327"
+        },
+        {
+          "id": "6329"
+        },
+        {
+          "id": "6331"
+        },
+        {
+          "id": "6332"
+        },
+        {
+          "id": "6334"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-17T20:04:00.000Z",
+        "end": "2026-09-17T22:04:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/62",
+      "updatedAt": "2026-09-17T19:49:27.000Z",
+      "rawHeader": "Northbound Route 62 trip departing Livingston & Butler at 3:04 PM will start from Winifred & Humboldt. Previous stops missed",
+      "rawDescription": ""
+    },
+    {
       "id": "52955",
       "agency": "Metro Transit",
       "severity": "Critical",
@@ -120,32 +342,108 @@
       "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 12:38 PM\r\ndeparting Inver Hills College & Shelter at 3:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 2:12 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 5:13 PM"
     },
     {
-      "id": "52953",
+      "id": "52974",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 805: Service Canceled",
-      "summary": "Route 805 trips departing Northtown Transit Ctr Gate D at 11:34 AM and departing 1st Ave S & Monroe St at 12:38 PM canceled today",
+      "title": "Route 71: Service Canceled",
+      "summary": "Route 71 trips departing Market Place Dr & The Marketplace Ctr at 4:10 PM and departing Inver Hills College & Shelter at 5:38 PM canceled today due to mechanical issue",
       "affectedRoutes": [
-        "Route 805"
+        "Route 71"
       ],
       "direction": "Both Directions",
-      "intersections": [
-        "34 AM and departing 1st Ave S & Monroe St"
-      ],
+      "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-17T17:33:00.000Z",
-        "end": "2026-09-17T19:24:00.000Z"
+        "start": "2026-09-17T21:44:00.000Z",
+        "end": "2026-09-18T00:51:00.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-09-17T17:34:30.000Z",
-      "rawHeader": "Route 805 trips departing Northtown Transit Ctr Gate D at 11:34 AM and departing 1st Ave S & Monroe St at 12:38 PM canceled today",
-      "rawDescription": "Updated at 12:34 PM to restore some previously canceled trips."
+      "url": "https://www.metrotransit.org/route/71",
+      "updatedAt": "2026-09-17T21:44:27.000Z",
+      "rawHeader": "Route 71 trips departing Market Place Dr & The Marketplace Ctr at 4:10 PM and departing Inver Hills College & Shelter at 5:38 PM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "52973",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 94: Service Advisory",
+      "summary": "Westbound Route 94 trip departing Union Depot & Gate A1 at 4:39 PM will start from Saint Anthony & Fry. Previous stops missed due to traffic",
+      "affectedRoutes": [
+        "Route 94"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [
+        "56100",
+        "57417",
+        "57419",
+        "57456",
+        "11863",
+        "3264"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "56100"
+        },
+        {
+          "id": "57417"
+        },
+        {
+          "id": "57419"
+        },
+        {
+          "id": "57456"
+        },
+        {
+          "id": "11863"
+        },
+        {
+          "id": "3264"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-17T21:40:00.000Z",
+        "end": "2026-09-17T23:21:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/94",
+      "updatedAt": "2026-09-17T21:42:17.000Z",
+      "rawHeader": "Westbound Route 94 trip departing Union Depot & Gate A1 at 4:39 PM will start from Saint Anthony & Fry. Previous stops missed due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "52970",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 850: Northbound 3:38 PM Trip Canceled (2nd Ave S & 11th St - Stop Group G)",
+      "summary": "Northbound Route 850 trip departing 2nd Ave S & 11th St - Stop Group G at 3:38 PM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 850"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-17T20:57:00.000Z",
+        "end": "2026-09-17T22:08:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/850",
+      "updatedAt": "2026-09-17T20:58:03.000Z",
+      "rawHeader": "Northbound Route 850 trip departing 2nd Ave S & 11th St - Stop Group G at 3:38 PM canceled today due to mechanical issue",
+      "rawDescription": ""
     },
     {
       "id": "49962",
@@ -1026,6 +1324,97 @@
       "updatedAt": "2026-09-17T10:00:01.000Z",
       "rawHeader": "Route 3B detoured off Front Ave from Como Place to Dale St beginning Thu Sep 10 at 5:00 AM until further notice due to utility work",
       "rawDescription": "For eastbound Route 3B get on/off buses at:\r\nFront Ave & Barrett St - Stop #952 (eastbound)\r\nFront Ave & Mackubin St - Stop #960 (eastbound)\r\n\nFor westbound Route 3B get on/off buses at:\r\nFront Ave & Dale St - Stop #840 (westbound)\r\nFront Ave & Barrett St - Stop #847 (westbound)\r\n\nEastbound buses will travel regular route on Front Ave to Como Pl, left on Como Pl, right on Jessamine Ave, right on Como Ave, continue on Como Ave to Dale St, veer left onto Front Ave and resume regular route.\r\n\nWestbound buses will travel regular route on Front Ave to Dale St, veer right onto Como Ave, continue on Como Ave to Jessamine Ave, left on Jessamine Ave, left on Como Pl, right on Front Ave and resume regular route.\r\n\nAffected stops:\r\nFront Ave & Grotto St - Stop #956 (eastbound)\r\nFront Ave & Dale St - Stop #958 (eastbound)\r\nFront Ave & Grotto St - Stop #843 (westbound)"
+    },
+    {
+      "id": "52960",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 3, Route 3A: Detour via Como Ave & Como Place - St",
+      "summary": "Route 3A detoured off Como Blvd from Como Ave to Maryland Ave and off Maryland Ave from Como Blvd to Dale St from 9:00 AM to 11:00 AM on Sat Sep 26 due to Como Homecoming Parade. Board at: Como Ave & Como Place - Stop #50125 (eastbound); Dale St & Maryland Ave - Stop #10711 (northbound); Maryland Ave & Mackubin St - Stop #5563 (eastbound).",
+      "affectedRoutes": [
+        "Route 3",
+        "Route 3A"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Como Ave & Como Place - St",
+        "Dale St & Maryland Ave",
+        "Maryland Ave & Mackubin St",
+        "Como Blvd E & Maryland Ave",
+        "Maryland Ave & Grotto St"
+      ],
+      "closedStopIds": [
+        "5555",
+        "5556",
+        "5560",
+        "5589",
+        "5593",
+        "5594",
+        "50125",
+        "10711",
+        "5563",
+        "5587",
+        "50126"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "5555",
+          "name": "Como Blvd E & Maryland Ave",
+          "direction": "northbound"
+        },
+        {
+          "id": "5556",
+          "name": "Maryland Ave & Grotto St",
+          "direction": "eastbound"
+        },
+        {
+          "id": "5560",
+          "name": "Maryland Ave & Dale St",
+          "direction": "eastbound"
+        },
+        {
+          "id": "5589",
+          "name": "Maryland Ave & Dale St",
+          "direction": "westbound"
+        },
+        {
+          "id": "5593",
+          "name": "Maryland Ave & Grotto St",
+          "direction": "westbound"
+        },
+        {
+          "id": "5594",
+          "name": "Maryland Ave & Como Blvd E",
+          "direction": "westbound"
+        },
+        {
+          "id": "50125"
+        },
+        {
+          "id": "10711"
+        },
+        {
+          "id": "5563"
+        },
+        {
+          "id": "5587"
+        },
+        {
+          "id": "50126"
+        }
+      ],
+      "riderAlternative": "Board at: Como Ave & Como Place - Stop #50125 (eastbound); Dale St & Maryland Ave - Stop #10711 (northbound); Maryland Ave & Mackubin St - Stop #5563 (eastbound)",
+      "detourDetails": "buses will travel regular route on Como Ave to Como Ave/Como Blvd, right on Como Ave, left on Jessamine Ave, left on Dale St, right on Maryland Ave, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-09-26T14:00:00.000Z",
+        "end": "2026-09-26T16:00:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/3",
+      "updatedAt": "2026-09-17T18:48:14.000Z",
+      "rawHeader": "Route 3A detoured off Como Blvd from Como Ave to Maryland Ave and off Maryland Ave from Como Blvd to Dale St from 9:00 AM to 11:00 AM on Sat Sep 26 due to Como Homecoming Parade",
+      "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nComo Ave & Como Place - Stop #50125 (eastbound)\r\nDale St & Maryland Ave - Stop #10711 (northbound)\r\nMaryland Ave & Mackubin St - Stop #5563 (eastbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\nMaryland Ave & Mackubin St - Stop #5587 (westbound)\r\nComo Ave & Como Place - Stop #50126 (westbound)\r\n\nEastbound 3A buses will travel regular route on Como Ave to Como Ave/Como Blvd, right on Como Ave, left on Jessamine Ave, left on Dale St, right on Maryland Ave, and resume regular route.\r\n\nWestbound 3A buses will travel regular route on Maryland Ave to Dale St, left on Dale, right on Jessamine Ave, right on Como Ave to Como Blvd, left on Como Ave, and resume regular route.\r\n\nAffected stops:\r\nComo Blvd E & Maryland Ave - Stop #5555 (northbound)\r\nMaryland Ave & Grotto St - Stop #5556 (eastbound)\r\nMaryland Ave & Dale St - Stop #5560 (eastbound)\r\nMaryland Ave & Dale St - Stop #5589 (westbound)\r\nMaryland Ave & Grotto St - Stop #5593 (westbound)\r\nMaryland Ave & Como Blvd E - Stop #5594 (westbound)"
     },
     {
       "id": "52884",
@@ -5909,7 +6298,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/64",
-      "updatedAt": "2026-09-17T05:00:03.000Z",
+      "updatedAt": "2026-09-17T21:30:01.000Z",
       "rawHeader": "Route 64N detoured off 7th Ave from South Ave to Margaret St and off Margaret St from 7th Ave to 12th Ave from 5:00 PM to 8:30 PM on Thu Sep 17 due to North St Paul Fall Round Up Parade",
       "rawDescription": "For eastbound Route 64N get on/off buses at:\r\n7th Ave E & South Ave (Co Rd B) - Stop #3901 (eastbound)\r\n12th Ave E & Helen St N - Stop #3914 (westbound)\r\n\nFor westbound Route 64(via North St Paul) get on/off buses at:\r\n12th Ave E & Margaret St N - Stop #3875 (eastbound)\r\n7th Ave E & McKnight Rd - Stop #49769 (westbound)\r\n\nEastbound 64N buses will travel regular route on 7th Ave to South Ave, right on South Ave, left on Geneva Ave, left onto westbound Hwy 36, right exit at Margaret St, continue onto 12th Ave and resume regular route.\r\n\nWestbound 64 buses via North St Paul will travel regular route on 12th Ave to Margaret St, left on Margaret St, right on 17th Ave, right on Geneva Ave, right on South Ave, left on 7th Ave and resume regular route.\r\n\nAffected stops:\r\n7th Ave E & 2nd St N - Stop #3903 (eastbound)\r\n7th Ave E & 1st St N - Stop #3904 (eastbound)\r\n7th Ave E & Helen St N - Stop #3905 (eastbound)\r\n7th Ave E & Margaret St N - Stop #49843 (eastbound)\r\nMargaret St N & Seppala Blvd - Stop #56898 (northbound)\r\nMargaret St N & Centennial Dr - Stop #53148 (northbound)\r\nMargaret St N & Centennial Dr - Stop #53149 (southbound)\r\nMargaret St N & Seppala Blvd - Stop #48260 (southbound)\r\n7th Ave E & Helen St N - Stop #3884 (westbound)\r\n7th Ave E & North St Paul Dr - Stop #3885 (westbound)\r\n7th Ave E & 2nd St N - Stop #3886 (westbound)\r\n7th Ave E & 3rd St N - Stop #3888 (westbound)"
     },
@@ -6241,7 +6630,7 @@
       "detourDetails": "Eastbound buses will travel regular route on Minnehaha to Dale, continue on Minnehaha Kent St, right on Kent St, left on Thomas Ave, and resume regular route.",
       "activePeriod": {
         "start": "2026-09-17T12:37:00.000Z",
-        "end": "2026-09-17T20:46:25.000Z"
+        "end": "2026-09-17T23:53:24.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
@@ -7515,7 +7904,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/219",
-      "updatedAt": "2026-09-17T05:00:03.000Z",
+      "updatedAt": "2026-09-17T21:30:01.000Z",
       "rawHeader": "Route 219 detoured off 7th Ave from Geneva Ave to Margaret Ave and off Margaret Ave from 7th Ave to 14th Ave from 5:00 PM to 8:30 PM on Thu Sep 17 due to North St Paul Fall Round Up Parade",
       "rawDescription": "For northbound Route 219 get on/off buses at:\r\nHwy 120 - Geneva & Upper 46th St N - Stop #49829 (northbound)\r\nMargaret St N & 12th Ave / 13th Ave E - Stop #56899 (northbound)\r\n\nFor southbound Route 219 get on/off buses at:\r\nMargaret St N & 15th / 14th Ave E - Stop #56902 (southbound)\r\nHwy 120 - Division & Upper 46th St N - Stop #49846 (southbound)\r\n\nNorthbound buses will travel regular route on Geneva Ave to 7th Ave, continue on Geneva Ave to Hwy 36, left onto westbound Hwy 36, right exit at Margaret St, right on Margaret St and resume regular route.\r\n\nSouthbound buses will travel regular route on Margaret St to 14th Ave, left on 14th Ave, left on Charles St, right on 17th Ave, right on Geneva Ave, continue on Geneva Ave to 7th Ave and resume regular route.\r\n\nAffected stops:\r\n7th Ave E & Henry St - Stop #49830 (westbound)\r\n7th Ave E & Charles St - Stop #49831 (westbound)\r\n7th Ave E & Margaret St N - Stop #3883 (westbound)\r\nMargaret St N & Seppala Blvd - Stop #56898 (northbound)\r\nMargaret St N & Centennial Dr - Stop #53148 (northbound)\r\nMargaret St & 12th Ave - Stop #52651 (southbound)\r\nMargaret St N & Centennial Dr - Stop #53149 (southbound)\r\nMargaret St N & Seppala Blvd - Stop #48260 (southbound)\r\n7th Ave N & Charles St - Stop #49844 (eastbound)\r\n7th Ave N & Henry St - Stop #49845 (eastbound)"
     },
