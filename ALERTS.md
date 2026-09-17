@@ -2,34 +2,142 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-125-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-121-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-130-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-5-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-122-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-84-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-86-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-17T14:39:10.726Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-17T18:47:22.465Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (3) • **Route 7** (3) • **Route 9** (5) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
+**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (2) • **METRO Gold Line** (3) • **METRO Orange Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (3) • **Route 7** (3) • **Route 9** (5) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (2) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (3) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (5) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO Orange Line: Southbound 8:22 AM Trip Canceled (Marquette Ave & 3rd St - Stop Group C)
+### 🚨 METRO Gold Line: Service Canceled
 
-- **Affected Routes**: `METRO Orange Line`
-- **Direction**: Southbound
+- **Affected Routes**: `METRO Gold Line`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 8:22 AM canceled today
+**Summary**: Gold Line trips departing Woodlane Dr Station Gate A at 12:34 PM and departing Smith & 5th St Station at 1:21 PM canceled today due to mechanical issue
 
-[Official Agency Advisory](https://www.metrotransit.org/route/orange)
+[Official Agency Advisory](https://www.metrotransit.org/route/gold)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 8:22 AM canceled today
+**Header**: Gold Line trips departing Woodlane Dr Station Gate A at 12:34 PM and departing Smith & 5th St Station at 1:21 PM canceled today due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 Route 2: Westbound 12:39 PM Trip Canceled (2nd Ave SE & 7th St SE)
+
+- **Affected Routes**: `Route 2`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 12:39 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 12:39 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 30: Service Canceled
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 56 PM
+departing Knox Ave N & Golden Valley Rd; 54 PM
+departing Knox Ave N & Golden Valley Rd
+
+**Summary**: Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Knox Ave N & Golden Valley Rd at 1:56 PM
+departing Knox Ave N & Golden Valley Rd at 3:54 PM
+departing Knox Ave N & Golden Valley Rd at 5:56 PM
+departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM
+
+Affected westbound trips:
+departing Westgate Station - Gate B at 1:04 PM
+departing Westgate Station - Gate B at 3:04 PM
+departing Westgate Station - Gate B at 5:04 PM
+departing Westgate Station - Gate B at 7:05 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 71: Service Canceled
+
+- **Affected Routes**: `Route 71`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/71)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today
+
+```text
+Affected northbound trips:
+departing Inver Hills College & Shelter at 12:38 PM
+departing Inver Hills College & Shelter at 3:38 PM
+
+Affected southbound trips:
+departing Market Place Dr & The Marketplace Ctr at 2:12 PM
+departing Market Place Dr & The Marketplace Ctr at 5:13 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 805: Service Canceled
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 34 AM and departing 1st Ave S & Monroe St
+
+**Summary**: Route 805 trips departing Northtown Transit Ctr Gate D at 11:34 AM and departing 1st Ave S & Monroe St at 12:38 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 805 trips departing Northtown Transit Ctr Gate D at 11:34 AM and departing 1st Ave S & Monroe St at 12:38 PM canceled today
+
+```text
+Updated at 12:34 PM to restore some previously canceled trips.
+```
 
 </details>
 
@@ -95,7 +203,7 @@ Snelling & St Clair Station - Stop #17318 (southbound)
 **Header**: METRO A Line detoured off Ford Pkwy from Fairview Ave to Davern St until further notice due to sewer work
 
 ```text
-Update: added southbound detour 9/15 12 pm.
+Updated southbound detour
 
 Get on/off northbound buses at:
 Ford & Kenneth Station - Stop #4283 (eastbound)
@@ -106,7 +214,7 @@ No southbound stations missed.
 
 Northbound buses will travel regular route on Ford Pkwy to Fairview Ave, right on Fairview, left on Hillcrest Ave, left on Davern St, right on Ford Pkwy, and resume regular route.
 
-Southbound buses will travel regular route on Ford Pkwy to Davern St, right on Davern, left on Pinehurst Ave, left on Fairview Ave, right on Ford Pkwy, and resume regular route.
+Southbound buses will travel regular route on Ford Pkwy to Davern St, right on Davern, left on Highland Pkwy, left on Fairview Ave, right on Ford Pkwy, and resume regular route.
 
 Affected stops:
 Ford & Fairview Station - Stop #56113 (eastbound)
@@ -3610,35 +3718,6 @@ Thomas Ave & Kent St - Stop #18834 (eastbound)
 
 ---
 
-### ⚠️ Route 67: Stop Closed at Thomas Ave & Kent St
-
-- **Affected Routes**: `Route 67`
-- **Direction**: Eastbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Thomas Ave & Kent St; Thomas Ave & Dale St; Thomas Ave & Mackubin St
-- **Closed Stops**: Stop #18834, Stop #41971, Stop #18835
-
-**Summary**: Thomas Ave & Kent St - Stop #18834 (eastbound) is closed for Route 67 until 11:59 PM due to construction. Board at: Thomas Ave & Dale St - Stop #41971 (eastbound); Thomas Ave & Mackubin St - Stop #18835 (eastbound).
-
-> 💡 **Rider Action**: Board at: Thomas Ave & Dale St - Stop #41971 (eastbound); Thomas Ave & Mackubin St - Stop #18835 (eastbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/67)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Thomas Ave & Kent St - Stop #18834 (eastbound) is closed for Route 67 until 11:59 PM due to construction
-
-```text
-Get on/off buses at:
-Thomas Ave & Dale St - Stop #41971 (eastbound)
-Thomas Ave & Mackubin St - Stop #18835 (eastbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 68: Detour via Jackson St & Sims Ave
 
 - **Affected Routes**: `Route 68`
@@ -5155,6 +5234,37 @@ Oakland Rd & Carlson Pkwy - Stop #42502 (westbound)
 
 ---
 
+### ⚠️ Route 645: Detour via Regular Corridor
+
+- **Affected Routes**: `Route 645`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+
+**Summary**: Route 645 detoured off Hwy 394 from Hwy 100 to downtown Minneapolis from Fri Sep 18 at 10:00 AM to Sun Sep 20 at 10:00 PM due to construction
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on Park Place Blvd to Wayzata Blvd, continue on Park Place Blvd which becomes Xenia Ave, right on Glenwood Ave, right on 12th St to Hennepin Ave, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/645)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 645 detoured off Hwy 394 from Hwy 100 to downtown Minneapolis from Fri Sep 18 at 10:00 AM to Sun Sep 20 at 10:00 PM due to construction
+
+```text
+No stops missed.
+
+Eastbound buses will travel regular route on Park Place Blvd to Wayzata Blvd, continue on Park Place Blvd which becomes Xenia Ave, right on Glenwood Ave, right on 12th St to Hennepin Ave, and resume regular route.
+
+Westbound buses will travel regular route.
+
+Affected direction: Eastbound
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 673, Route 673B: Detour via Cedar Lake Rd & Texas Ave
 
 - **Affected Routes**: `Route 673` `Route 673B`
@@ -5196,6 +5306,38 @@ Westbound buses will travel regular route on Cedar Lake Rd to Texas Ave, left on
 Affected stops:
 Cedar Lake Rd & Rhode Island Ave S - Stop #80936 (westbound)
 Cedar Lake Rd & Sumter Ave S - Stop #80937 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 673: Detour via right on 7th St & continue onto 10th St
+
+- **Affected Routes**: `Route 673`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: right on 7th St & continue onto 10th St
+
+**Summary**: Route 673 detoured off Hwy 394 from Hwy 100 to downtown Minneapolis from Fri Sep 18 at 10:00 AM to Mon Sep 21 at 5:00 AM due to construction
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on eastbound Hwy 394 to Hwy 100, continue onto northbound Hwy 100, exit at Hwy 55, right on eastbound Hwy 55/Olson Memorial Hwy, right on 7th St and continue onto 10th St, right on Twins Way, left on 12th St to Hennepin Ave, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/673)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 673 detoured off Hwy 394 from Hwy 100 to downtown Minneapolis from Fri Sep 18 at 10:00 AM to Mon Sep 21 at 5:00 AM due to construction
+
+```text
+No stops missed.
+
+Eastbound buses will travel regular route on eastbound Hwy 394 to Hwy 100, continue onto northbound Hwy 100, exit at Hwy 55, right on eastbound Hwy 55/Olson Memorial Hwy, right on 7th St and continue onto 10th St, right on Twins Way, left on 12th St to Hennepin Ave, and resume regular route.
+
+Westbound buses will travel regular route.
+
+Affected direction: Eastbound
 ```
 
 </details>

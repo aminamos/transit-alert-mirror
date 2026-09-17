@@ -1,41 +1,151 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-17T14:39:10.726Z",
-    "totalAlerts": 125,
-    "criticalCount": 1,
-    "moderateCount": 121,
+    "generatedAt": "2026-09-17T18:47:22.465Z",
+    "totalAlerts": 130,
+    "criticalCount": 5,
+    "moderateCount": 122,
     "minorCount": 3,
-    "affectedRoutesCount": 84,
+    "affectedRoutesCount": 86,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "52938",
+      "id": "52957",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO Orange Line: Southbound 8:22 AM Trip Canceled (Marquette Ave & 3rd St - Stop Group C)",
-      "summary": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 8:22 AM canceled today",
+      "title": "METRO Gold Line: Service Canceled",
+      "summary": "Gold Line trips departing Woodlane Dr Station Gate A at 12:34 PM and departing Smith & 5th St Station at 1:21 PM canceled today due to mechanical issue",
       "affectedRoutes": [
-        "METRO Orange Line"
+        "METRO Gold Line"
       ],
-      "direction": "Southbound",
+      "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-17T13:36:00.000Z",
-        "end": "2026-09-17T14:59:00.000Z"
+        "start": "2026-09-17T17:43:00.000Z",
+        "end": "2026-09-17T19:55:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/gold",
+      "updatedAt": "2026-09-17T17:43:42.000Z",
+      "rawHeader": "Gold Line trips departing Woodlane Dr Station Gate A at 12:34 PM and departing Smith & 5th St Station at 1:21 PM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "52958",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 2: Westbound 12:39 PM Trip Canceled (2nd Ave SE & 7th St SE)",
+      "summary": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 12:39 PM canceled today",
+      "affectedRoutes": [
+        "Route 2"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-17T18:00:00.000Z",
+        "end": "2026-09-17T19:29:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/orange",
-      "updatedAt": "2026-09-17T13:44:57.000Z",
-      "rawHeader": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 8:22 AM canceled today",
+      "url": "https://www.metrotransit.org/route/2",
+      "updatedAt": "2026-09-17T18:00:52.000Z",
+      "rawHeader": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 12:39 PM canceled today",
       "rawDescription": ""
+    },
+    {
+      "id": "52956",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 30: Service Canceled",
+      "summary": "Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today",
+      "affectedRoutes": [
+        "Route 30"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "departing Knox Ave N & Golden Valley Rd",
+        "56 PM\ndeparting Knox Ave N & Golden Valley Rd",
+        "54 PM\ndeparting Knox Ave N & Golden Valley Rd"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-17T18:04:00.000Z",
+        "end": "2026-09-18T02:35:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/30",
+      "updatedAt": "2026-09-17T17:34:00.000Z",
+      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 1:56 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 3:54 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 5:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 1:04 PM\r\ndeparting Westgate Station - Gate B at 3:04 PM\r\ndeparting Westgate Station - Gate B at 5:04 PM\r\ndeparting Westgate Station - Gate B at 7:05 PM"
+    },
+    {
+      "id": "52955",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 71: Service Canceled",
+      "summary": "Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today",
+      "affectedRoutes": [
+        "Route 71"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-17T17:38:00.000Z",
+        "end": "2026-09-17T23:45:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/71",
+      "updatedAt": "2026-09-17T17:08:00.000Z",
+      "rawHeader": "Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 12:38 PM\r\ndeparting Inver Hills College & Shelter at 3:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 2:12 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 5:13 PM"
+    },
+    {
+      "id": "52953",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 805: Service Canceled",
+      "summary": "Route 805 trips departing Northtown Transit Ctr Gate D at 11:34 AM and departing 1st Ave S & Monroe St at 12:38 PM canceled today",
+      "affectedRoutes": [
+        "Route 805"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "34 AM and departing 1st Ave S & Monroe St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-17T17:33:00.000Z",
+        "end": "2026-09-17T19:24:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/805",
+      "updatedAt": "2026-09-17T17:34:30.000Z",
+      "rawHeader": "Route 805 trips departing Northtown Transit Ctr Gate D at 11:34 AM and departing 1st Ave S & Monroe St at 12:38 PM canceled today",
+      "rawDescription": "Updated at 12:34 PM to restore some previously canceled trips."
     },
     {
       "id": "49962",
@@ -130,9 +240,9 @@
       "cause": "MAINTENANCE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/aline",
-      "updatedAt": "2026-09-15T16:59:17.000Z",
+      "updatedAt": "2026-09-17T17:33:09.000Z",
       "rawHeader": "METRO A Line detoured off Ford Pkwy from Fairview Ave to Davern St until further notice due to sewer work",
-      "rawDescription": "Update: added southbound detour 9/15 12 pm.\r\n\nGet on/off northbound buses at:\r\nFord & Kenneth Station - Stop #4283 (eastbound)\r\nTemporary stop on Ford Pkwy just before Fairview Ave (eastbound)\r\nSnelling & Highland Station - Stop #56114 (northbound)\r\n\nNo southbound stations missed.\r\n\nNorthbound buses will travel regular route on Ford Pkwy to Fairview Ave, right on Fairview, left on Hillcrest Ave, left on Davern St, right on Ford Pkwy, and resume regular route.\r\n\nSouthbound buses will travel regular route on Ford Pkwy to Davern St, right on Davern, left on Pinehurst Ave, left on Fairview Ave, right on Ford Pkwy, and resume regular route.\r\n\nAffected stops:\r\nFord & Fairview Station - Stop #56113 (eastbound)"
+      "rawDescription": "Updated southbound detour\r\n\nGet on/off northbound buses at:\r\nFord & Kenneth Station - Stop #4283 (eastbound)\r\nTemporary stop on Ford Pkwy just before Fairview Ave (eastbound)\r\nSnelling & Highland Station - Stop #56114 (northbound)\r\n\nNo southbound stations missed.\r\n\nNorthbound buses will travel regular route on Ford Pkwy to Fairview Ave, right on Fairview, left on Hillcrest Ave, left on Davern St, right on Ford Pkwy, and resume regular route.\r\n\nSouthbound buses will travel regular route on Ford Pkwy to Davern St, right on Davern, left on Highland Pkwy, left on Fairview Ave, right on Ford Pkwy, and resume regular route.\r\n\nAffected stops:\r\nFord & Fairview Station - Stop #56113 (eastbound)"
     },
     {
       "id": "52943",
@@ -6131,7 +6241,7 @@
       "detourDetails": "Eastbound buses will travel regular route on Minnehaha to Dale, continue on Minnehaha Kent St, right on Kent St, left on Thomas Ave, and resume regular route.",
       "activePeriod": {
         "start": "2026-09-17T12:37:00.000Z",
-        "end": "2026-09-17T16:38:23.000Z"
+        "end": "2026-09-17T20:46:25.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
@@ -6139,50 +6249,6 @@
       "updatedAt": "2026-09-17T13:07:53.000Z",
       "rawHeader": "Route 67 detoured off Minnehaha Ave W from Dale St N to Kent St until later today due to construction",
       "rawDescription": "Get on/off buses at:\r\nMinnehaha Ave & St Albans St - Stop #15064 (eastbound)\r\nThomas Ave & Mackubin St - Stop #18835 (eastbound)\r\n\nAffected direction: Eastbound\r\n\nEastbound buses will travel regular route on Minnehaha to Dale, continue on Minnehaha Kent St, right on Kent St, left on Thomas Ave, and resume regular route. \r\n\nAffected stops:\r\nMinnehaha Ave & Dale St - Stop #15065 (eastbound)\r\nDale St & Blair Ave - Stop #10740 (southbound)\r\nThomas Ave & Dale St - Stop #41971 (eastbound)\r\nThomas Ave & Kent St - Stop #18834 (eastbound)"
-    },
-    {
-      "id": "52939",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 67: Stop Closed at Thomas Ave & Kent St",
-      "summary": "Thomas Ave & Kent St - Stop #18834 (eastbound) is closed for Route 67 until 11:59 PM due to construction. Board at: Thomas Ave & Dale St - Stop #41971 (eastbound); Thomas Ave & Mackubin St - Stop #18835 (eastbound).",
-      "affectedRoutes": [
-        "Route 67"
-      ],
-      "direction": "Eastbound",
-      "intersections": [
-        "Thomas Ave & Kent St",
-        "Thomas Ave & Dale St",
-        "Thomas Ave & Mackubin St"
-      ],
-      "closedStopIds": [
-        "18834",
-        "41971",
-        "18835"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "18834"
-        },
-        {
-          "id": "41971"
-        },
-        {
-          "id": "18835"
-        }
-      ],
-      "riderAlternative": "Board at: Thomas Ave & Dale St - Stop #41971 (eastbound); Thomas Ave & Mackubin St - Stop #18835 (eastbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-17T14:11:00.000Z",
-        "end": "2026-09-18T04:59:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/67",
-      "updatedAt": "2026-09-17T14:11:54.000Z",
-      "rawHeader": "Thomas Ave & Kent St - Stop #18834 (eastbound) is closed for Route 67 until 11:59 PM due to construction",
-      "rawDescription": "Get on/off buses at:\r\nThomas Ave & Dale St - Stop #41971 (eastbound)\r\nThomas Ave & Mackubin St - Stop #18835 (eastbound)"
     },
     {
       "id": "49088",
@@ -8686,6 +8752,32 @@
       "rawDescription": "Get on/off buses at:\r\nOakland Rd & Oakways Rd - Stop #7083 (westbound)\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on Oakland Rd to Carlson Pkwy/Wayzata Blvd S, left on Wayzata Blvd S, right on Bushaway Rd, left on Wayzata Blvd, and resume regular route.\r\n\nAffected direction: Westbound\r\n\nAffected stops:\r\nOakland Rd & Carlson Pkwy - Stop #42502 (westbound)"
     },
     {
+      "id": "52951",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 645: Detour via Regular Corridor",
+      "summary": "Route 645 detoured off Hwy 394 from Hwy 100 to downtown Minneapolis from Fri Sep 18 at 10:00 AM to Sun Sep 20 at 10:00 PM due to construction",
+      "affectedRoutes": [
+        "Route 645"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": "Eastbound buses will travel regular route on Park Place Blvd to Wayzata Blvd, continue on Park Place Blvd which becomes Xenia Ave, right on Glenwood Ave, right on 12th St to Hennepin Ave, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-09-18T15:00:00.000Z",
+        "end": "2026-09-21T03:00:00.000Z"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/645",
+      "updatedAt": "2026-09-17T15:08:54.000Z",
+      "rawHeader": "Route 645 detoured off Hwy 394 from Hwy 100 to downtown Minneapolis from Fri Sep 18 at 10:00 AM to Sun Sep 20 at 10:00 PM due to construction",
+      "rawDescription": "No stops missed.\r\n\nEastbound buses will travel regular route on Park Place Blvd to Wayzata Blvd, continue on Park Place Blvd which becomes Xenia Ave, right on Glenwood Ave, right on 12th St to Hennepin Ave, and resume regular route.\r\n\nWestbound buses will travel regular route.\r\n\nAffected direction: Eastbound"
+    },
+    {
       "id": "47699",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -8739,6 +8831,34 @@
       "updatedAt": "2026-05-29T17:59:01.000Z",
       "rawHeader": "Route 673B detoured off Cedar Lake Rd from Texas Ave to Louisiana Ave and off Louisiana Ave from Cedar Lake Rd to Wayzata Blvd beginning Mon Apr 6 until further notice due to construction",
       "rawDescription": "Updated 4/11 at 2:04 PM to revise detours, affected stops and get on/off stops.\r\n\nFor eastbound Route 673 get on/off buses at:\r\nLouisiana Transit Center & Gate B - Stop #52551 (westbound)\r\nCedar Lake Rd & Texas Ave - Stop #8073 (westbound)\r\n\nFor westbound Route 673 get on/off buses at:\r\nCedar Lake Rd & Virginia Ave - Stop #8046 (eastbound)\r\nTemporary stop on Texas Ave just past Cedar Lake Rd (northbound)\r\nLouisiana Transit Center & Gate B - Stop #52551 (westbound)\r\n\nEastbound buses will depart Louisiana Ave Transit Center, right on Wayzata Blvd, left on Texas Ave, right on Cedar Lake Rd and resume regular route.\r\n\nWestbound buses will travel regular route on Cedar Lake Rd to Texas Ave, left on Texas Ave, right on Wayzata Blvd, left into Louisiana Ave Transit Center and layover.\r\n\nAffected stops:\r\nCedar Lake Rd & Rhode Island Ave S - Stop #80936 (westbound)\r\nCedar Lake Rd & Sumter Ave S - Stop #80937 (eastbound)"
+    },
+    {
+      "id": "52944",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 673: Detour via right on 7th St & continue onto 10th St",
+      "summary": "Route 673 detoured off Hwy 394 from Hwy 100 to downtown Minneapolis from Fri Sep 18 at 10:00 AM to Mon Sep 21 at 5:00 AM due to construction",
+      "affectedRoutes": [
+        "Route 673"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "right on 7th St & continue onto 10th St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": "Eastbound buses will travel regular route on eastbound Hwy 394 to Hwy 100, continue onto northbound Hwy 100, exit at Hwy 55, right on eastbound Hwy 55/Olson Memorial Hwy, right on 7th St and continue onto 10th St, right on Twins Way, left on 12th St to Hennepin Ave, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-09-18T15:00:00.000Z",
+        "end": "2026-09-21T10:00:00.000Z"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/673",
+      "updatedAt": "2026-09-17T14:59:07.000Z",
+      "rawHeader": "Route 673 detoured off Hwy 394 from Hwy 100 to downtown Minneapolis from Fri Sep 18 at 10:00 AM to Mon Sep 21 at 5:00 AM due to construction",
+      "rawDescription": "No stops missed.\r\n\nEastbound buses will travel regular route on eastbound Hwy 394 to Hwy 100, continue onto northbound Hwy 100, exit at Hwy 55, right on eastbound Hwy 55/Olson Memorial Hwy, right on 7th St and continue onto 10th St, right on Twins Way, left on 12th St to Hennepin Ave, and resume regular route.\r\n\nWestbound buses will travel regular route.\r\n\nAffected direction: Eastbound"
     },
     {
       "id": "47947",
