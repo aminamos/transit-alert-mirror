@@ -1,42 +1,376 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-18T13:21:51.514Z",
-    "totalAlerts": 127,
-    "criticalCount": 3,
-    "moderateCount": 121,
+    "generatedAt": "2026-09-18T17:27:48.937Z",
+    "totalAlerts": 136,
+    "criticalCount": 9,
+    "moderateCount": 124,
     "minorCount": 3,
-    "affectedRoutesCount": 84,
+    "affectedRoutesCount": 88,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "52997",
+      "id": "53006",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 11, Route 11C: Northbound 7:19 AM Trip Canceled (Nicollet Ave S & 46th St E)",
-      "summary": "Northbound Route 11C trip departing Nicollet Ave S & 46th St E at 7:19 AM canceled",
+      "title": "METRO C Line: Service Canceled",
+      "summary": "C Line trip departing 7th St & Park Station at 11:40 AM and seven other trips canceled today",
       "affectedRoutes": [
-        "Route 11",
-        "Route 11C"
+        "METRO C Line"
       ],
-      "direction": "Northbound",
+      "direction": "Both Directions",
+      "intersections": [
+        "C Line trip departing 7th St & Park St",
+        "departing 7th St & Park St",
+        "40 AM\ndeparting 7th St & Park St",
+        "19 PM\ndeparting 7th St & Park St",
+        "57 PM\ndeparting 7th St & Park St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-18T16:40:00.000Z",
+        "end": "2026-09-19T00:16:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/cline",
+      "updatedAt": "2026-09-18T16:10:01.000Z",
+      "rawHeader": "C Line trip departing 7th St & Park Station at 11:40 AM and seven other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting 7th St & Park Station at 11:40 AM\r\ndeparting 7th St & Park Station at 1:19 PM\r\ndeparting 7th St & Park Station at 2:57 PM\r\ndeparting 7th St & Park Station at 4:45 PM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 12:28 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 2:07 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 3:53 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 5:39 PM"
+    },
+    {
+      "id": "53008",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO D Line: Service Canceled",
+      "summary": "D Line trip departing MOA Transit Station Gate A at 1:03 PM and three other trips canceled today",
+      "affectedRoutes": [
+        "METRO D Line"
+      ],
+      "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-18T12:19:00.000Z",
-        "end": "2026-09-18T14:21:00.000Z"
+        "start": "2026-09-18T18:03:00.000Z",
+        "end": "2026-09-19T01:17:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-09-18T12:18:06.000Z",
-      "rawHeader": "Northbound Route 11C trip departing Nicollet Ave S & 46th St E at 7:19 AM canceled",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-09-18T16:11:49.000Z",
+      "rawHeader": "D Line trip departing MOA Transit Station Gate A at 1:03 PM and three other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting MOA Transit Station Gate A at 1:03 PM\r\ndeparting MOA Transit Station Gate A at 4:19 PM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 2:38 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 6:00 PM"
+    },
+    {
+      "id": "53011",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 18, Route 18C: Southbound 12:11 PM Trip Canceled (Nicollet Ave S & 46th St W)",
+      "summary": "Southbound Route 18C trip departing Nicollet Ave S & 46th St W at 12:11 PM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 18",
+        "Route 18C"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [
+        "1339",
+        "1341",
+        "1342",
+        "1344",
+        "1345",
+        "1346",
+        "1347",
+        "1348",
+        "1349",
+        "135",
+        "1350",
+        "1351",
+        "1352",
+        "136",
+        "1361",
+        "1364",
+        "1365",
+        "1366",
+        "1367",
+        "1368",
+        "1369",
+        "1370",
+        "1372",
+        "1373",
+        "1374",
+        "1375",
+        "1376",
+        "1377",
+        "1379",
+        "1391",
+        "1393",
+        "1227",
+        "1229",
+        "1230",
+        "1231",
+        "1866",
+        "80999",
+        "57127",
+        "57128",
+        "57129",
+        "57130",
+        "57131",
+        "48129",
+        "449",
+        "1867",
+        "1868",
+        "444",
+        "43614",
+        "43616",
+        "42514",
+        "42515",
+        "42516",
+        "56867",
+        "56868",
+        "56869",
+        "51821",
+        "51842",
+        "51852",
+        "51854",
+        "42099",
+        "3386"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "1339"
+        },
+        {
+          "id": "1341"
+        },
+        {
+          "id": "1342"
+        },
+        {
+          "id": "1344"
+        },
+        {
+          "id": "1345"
+        },
+        {
+          "id": "1346"
+        },
+        {
+          "id": "1347"
+        },
+        {
+          "id": "1348"
+        },
+        {
+          "id": "1349"
+        },
+        {
+          "id": "135"
+        },
+        {
+          "id": "1350"
+        },
+        {
+          "id": "1351"
+        },
+        {
+          "id": "1352"
+        },
+        {
+          "id": "136"
+        },
+        {
+          "id": "1361"
+        },
+        {
+          "id": "1364"
+        },
+        {
+          "id": "1365"
+        },
+        {
+          "id": "1366"
+        },
+        {
+          "id": "1367"
+        },
+        {
+          "id": "1368"
+        },
+        {
+          "id": "1369"
+        },
+        {
+          "id": "1370"
+        },
+        {
+          "id": "1372"
+        },
+        {
+          "id": "1373"
+        },
+        {
+          "id": "1374"
+        },
+        {
+          "id": "1375"
+        },
+        {
+          "id": "1376"
+        },
+        {
+          "id": "1377"
+        },
+        {
+          "id": "1379"
+        },
+        {
+          "id": "1391"
+        },
+        {
+          "id": "1393"
+        },
+        {
+          "id": "1227"
+        },
+        {
+          "id": "1229"
+        },
+        {
+          "id": "1230"
+        },
+        {
+          "id": "1231"
+        },
+        {
+          "id": "1866"
+        },
+        {
+          "id": "80999"
+        },
+        {
+          "id": "57127"
+        },
+        {
+          "id": "57128"
+        },
+        {
+          "id": "57129"
+        },
+        {
+          "id": "57130"
+        },
+        {
+          "id": "57131"
+        },
+        {
+          "id": "48129"
+        },
+        {
+          "id": "449"
+        },
+        {
+          "id": "1867"
+        },
+        {
+          "id": "1868"
+        },
+        {
+          "id": "444"
+        },
+        {
+          "id": "43614"
+        },
+        {
+          "id": "43616"
+        },
+        {
+          "id": "42514"
+        },
+        {
+          "id": "42515"
+        },
+        {
+          "id": "42516"
+        },
+        {
+          "id": "56867"
+        },
+        {
+          "id": "56868"
+        },
+        {
+          "id": "56869"
+        },
+        {
+          "id": "51821"
+        },
+        {
+          "id": "51842"
+        },
+        {
+          "id": "51852"
+        },
+        {
+          "id": "51854"
+        },
+        {
+          "id": "42099"
+        },
+        {
+          "id": "3386"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-18T17:23:00.000Z",
+        "end": "2026-09-18T18:24:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/18",
+      "updatedAt": "2026-09-18T17:25:43.000Z",
+      "rawHeader": "Southbound Route 18C trip departing Nicollet Ave S & 46th St W at 12:11 PM canceled today due to mechanical issue",
       "rawDescription": ""
+    },
+    {
+      "id": "53004",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 30: Service Canceled",
+      "summary": "Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today",
+      "affectedRoutes": [
+        "Route 30"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "departing Knox Ave N & Golden Valley Rd",
+        "56 PM\ndeparting Knox Ave N & Golden Valley Rd",
+        "54 PM\ndeparting Knox Ave N & Golden Valley Rd"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-18T18:04:00.000Z",
+        "end": "2026-09-19T02:35:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/30",
+      "updatedAt": "2026-09-18T15:13:45.000Z",
+      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 1:56 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 3:54 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 5:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 1:04 PM\r\ndeparting Westgate Station - Gate B at 3:04 PM\r\ndeparting Westgate Station - Gate B at 5:04 PM\r\ndeparting Westgate Station - Gate B at 7:05 PM"
     },
     {
       "id": "52993",
@@ -65,32 +399,108 @@
       "rawDescription": "Affected eastbound trips:\r\ndeparting Robbinsdale Transit Center & Gate C at 8:44 AM\r\ndeparting Robbinsdale Transit Center & Gate C at 10:36 AM\r\ndeparting Robbinsdale Transit Center & Gate C at 12:15 PM\r\ndeparting Robbinsdale Transit Center & Gate C at 1:54 PM\r\n\nAffected westbound trips:\r\ndeparting Rosedale Transit Center Gate D at 7:33 AM\r\ndeparting Rosedale Transit Center Gate D at 9:33 AM\r\ndeparting Rosedale Transit Center Gate D at 11:24 AM\r\ndeparting Rosedale Transit Center Gate D at 1:03 PM\r\ndeparting Rosedale Transit Center Gate D at 2:44 PM"
     },
     {
-      "id": "52990",
+      "id": "53003",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 645: Service Canceled",
-      "summary": "Route 645 trips departing Marquette Ave & 3rd St - Stop Group B at 5:45 AM and departing Co Rd 73 Park & Ride & B Bay at 6:46 AM canceled today",
+      "title": "Route 71: Service Canceled",
+      "summary": "Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today",
       "affectedRoutes": [
-        "Route 645"
+        "Route 71"
       ],
       "direction": "Both Directions",
-      "intersections": [
-        "Route 645 trips departing Marquette Ave & 3rd St"
-      ],
+      "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-18T10:45:00.000Z",
-        "end": "2026-09-18T13:23:00.000Z"
+        "start": "2026-09-18T18:38:00.000Z",
+        "end": "2026-09-19T00:45:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/71",
+      "updatedAt": "2026-09-18T15:12:51.000Z",
+      "rawHeader": "Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 1:38 PM\r\ndeparting Inver Hills College & Shelter at 4:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 3:10 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 6:15 PM"
+    },
+    {
+      "id": "53010",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 645: Eastbound 10:44 AM Trip Canceled (Mound Transit Center & Shoreline Dr (Co Rd 15))",
+      "summary": "Eastbound Route 645 trip departing Mound Transit Center & Shoreline Dr (Co Rd 15) at 10:44 AM canceled today",
+      "affectedRoutes": [
+        "Route 645"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-18T16:36:00.000Z",
+        "end": "2026-09-18T17:53:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/645",
-      "updatedAt": "2026-09-18T10:27:40.000Z",
-      "rawHeader": "Route 645 trips departing Marquette Ave & 3rd St - Stop Group B at 5:45 AM and departing Co Rd 73 P&R & B Bay at 6:46 AM canceled today",
+      "updatedAt": "2026-09-18T16:36:23.000Z",
+      "rawHeader": "Eastbound Route 645 trip departing Mound TC & Shoreline Dr (Co Rd 15) at 10:44 AM canceled today",
       "rawDescription": ""
+    },
+    {
+      "id": "53012",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 721: Service Canceled",
+      "summary": "Route 721 trip departing Hennepin Technical College & Main Door at 12:58 PM and six other trips canceled today",
+      "affectedRoutes": [
+        "Route 721"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-18T17:58:00.000Z",
+        "end": "2026-09-18T22:23:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/721",
+      "updatedAt": "2026-09-18T17:27:06.000Z",
+      "rawHeader": "Route 721 trip departing Hennepin Technical College & Main Door at 12:58 PM and six other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate A at 1:30 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate A at 2:30 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate A at 3:30 PM\r\n\nAffected southbound trips:\r\ndeparting Hennepin Technical College & Main Door at 12:58 PM\r\ndeparting Hennepin Technical College & Main Door at 1:58 PM\r\ndeparting Hennepin Technical College & Main Door at 2:58 PM\r\ndeparting Hennepin Technical College & Main Door at 3:57 PM"
+    },
+    {
+      "id": "53007",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 802: Service Canceled",
+      "summary": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today",
+      "affectedRoutes": [
+        "Route 802"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-18T16:57:00.000Z",
+        "end": "2026-09-19T00:14:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/802",
+      "updatedAt": "2026-09-18T16:57:32.000Z",
+      "rawHeader": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today",
+      "rawDescription": "Updated at 11:57 AM to cancel additional trips.\r\n\nAffected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 11:34 AM\r\ndeparting Northtown Transit Ctr Gate E at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 12:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 2:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 4:42 PM"
     },
     {
       "id": "49962",
@@ -1214,37 +1624,40 @@
       "id": "52996",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 5: Detour via Chicago Ave S & 54th St E",
-      "summary": "Route 5 detoured off Chicago Ave S from 57th St E to 55th St E and off Chicago from 55th St E to 56th St E until further notice. Board at: Chicago Ave S & 54th St E - Stop #777 (northbound).",
+      "title": "Route 5: Detour via Chicago Ave S & 56th St E",
+      "summary": "Route 5 detoured off Chicago Ave S from 57th St E to 55th St E and off Chicago from 55th St E to 56th St E until further notice. Board at: Chicago Ave S & 56th St E - Stop #51212; Chicago Ave S & 54th St E - Stop #777 (northbound).",
       "affectedRoutes": [
         "Route 5"
       ],
-      "direction": "Northbound",
+      "direction": "Both Directions",
       "intersections": [
-        "Chicago Ave S & 54th St E",
+        "Chicago Ave S & 56th St E",
+        "51212\nChicago Ave S & 54th St E",
         "Chicago Ave S (57th St E to 55th St E and off Chicago from 55th St E to 56th St E)"
       ],
       "closedStopIds": [
+        "51212",
         "775"
       ],
       "closedStopDetails": [
         {
-          "id": "775",
-          "name": "Chicago & 56th St Station",
-          "direction": "northbound"
+          "id": "51212"
+        },
+        {
+          "id": "775"
         }
       ],
-      "riderAlternative": "Board at: Chicago Ave S & 54th St E - Stop #777 (northbound)",
-      "detourDetails": null,
+      "riderAlternative": "Board at: Chicago Ave S & 56th St E - Stop #51212; Chicago Ave S & 54th St E - Stop #777 (northbound)",
+      "detourDetails": "Southbound buses will travel regular route on Chicago Ave to 55th St, right on 55th St, left on Portland Ave, left on 56th St, right into Chicago turnaround and layover.",
       "activePeriod": {
         "start": "2026-09-18T12:14:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/5",
-      "updatedAt": "2026-09-18T12:14:58.000Z",
+      "updatedAt": "2026-09-18T13:24:37.000Z",
       "rawHeader": "Route 5 detoured off Chicago Ave S from 57th St E to 55th St E and off Chicago from 55th St E to 56th St E until further notice",
-      "rawDescription": "Get on/off buses at:\r\nChicago Ave S & 54th St E - Stop #777 (northbound)\r\n\nNorthbound bus will exit Chicago and 56th St Station turnaround, right on Chicago Ave S, left on 57th St E, left on Elliot, 56th St, right on Chicago and resume regular route. \r\n\nAffected stops:\r\nChicago & 56th St Station - Stop #775 (northbound)\r\nTemporary stop on Chicago Ave just past 56th St (northbound)"
+      "rawDescription": "Updated detour, affected stops, and get on/off stops 9/18 8:30 am.\r\n\nGet on/off northbound buses at:\r\nChicago Ave S & 56th St E - Stop #51212\r\nChicago Ave S & 54th St E - Stop #777 (northbound)\r\n\nNo southbound stops missed.\r\n\nNorthbound bus will exit Chicago and 56th St Station turnaround, right on Chicago Ave, left on 57th St, left on Elliot Ave, left on 55th St, right on Chicago Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on Chicago Ave to 55th St, right on 55th St, left on Portland Ave, left on 56th St, right into Chicago turnaround and layover.\r\n\nAffected stops:\r\nChicago & 56th St Station - Stop #775 (northbound)"
     },
     {
       "id": "52092",
@@ -1659,74 +2072,6 @@
       "rawDescription": "No stops missed.\r\n\nEastbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.\r\n\nWestbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route."
     },
     {
-      "id": "51494",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 10, Route 25: Detour via Routes 10 and 25 detoured off Grant St & 2nd Ave S",
-      "summary": "Routes 10 and 25 detoured off Grant St and 2nd Ave S from Nicollet Mall to 3rd Ave S beginning Wed Aug 12 at 4:00 AM until further notice due to construction. Board at: 3rd Ave S & 11th St S - Stop #19277 (southbound); Nicollet Mall & Alice Rainville Place - Stop #17988 (northbound).",
-      "affectedRoutes": [
-        "Route 10",
-        "Route 25"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Routes 10 and 25 detoured off Grant St & 2nd Ave S",
-        "3rd Ave S & 11th St S",
-        "2nd Ave S & Convention Center - St",
-        "Grant St E & Nicollet Ave S",
-        "Grant St and 2nd Ave S (Nicollet Mall to 3rd Ave S)"
-      ],
-      "closedStopIds": [
-        "41911",
-        "19327",
-        "19250",
-        "19277",
-        "17988",
-        "17984",
-        "19337"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "41911",
-          "name": "2nd Ave S & Convention Center",
-          "direction": "southbound"
-        },
-        {
-          "id": "19327",
-          "name": "Grant St E & Nicollet Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "19250",
-          "name": "2nd Ave S & Convention Center",
-          "direction": "northbound"
-        },
-        {
-          "id": "19277"
-        },
-        {
-          "id": "17988"
-        },
-        {
-          "id": "17984"
-        },
-        {
-          "id": "19337"
-        }
-      ],
-      "riderAlternative": "Board at: 3rd Ave S & 11th St S - Stop #19277 (southbound); Nicollet Mall & Alice Rainville Place - Stop #17988 (northbound)",
-      "detourDetails": "Northbound buses will travel regular route on 3rd Ave S to 11th St, continue on 3rd Ave to 16th St, right on 16th St which becomes 15th St, right on Nicollet Ave to Grant St, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-08-12T09:00:00.000Z",
-        "textDescription": "Beginning Wed Aug 12 at 4:00 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
-      "updatedAt": "2026-08-19T09:00:01.000Z",
-      "rawHeader": "Routes 10 and 25 detoured off Grant St and 2nd Ave S from Nicollet Mall to 3rd Ave S beginning Wed Aug 12 at 4:00 AM until further notice due to construction",
-      "rawDescription": "Get on/off northbound buses at:\r\n3rd Ave S & 11th St S - Stop #19277 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17988 (northbound)\r\n\nGet on/off southbound buses at:\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)\r\nLeamington Ramp & Lower - Gate #7 - Stop #19337\r\n\nNorthbound buses will travel regular route on 3rd Ave S to 11th St, continue on 3rd Ave to 16th St, right on 16th St which becomes 15th St, right on Nicollet Ave to Grant St, and resume regular route.\r\n\nSouthbound buses will travel regular route on Nicollet Mall to Grant St, continue on Nicollet Ave to 15th St, left on 15th St which becomes 16th St, left on 3rd Ave S, left on 11th St, and resume regular route.\r\n\nAffected stops:\r\n2nd Ave S & Convention Center - Stop #41911 (southbound)\r\nGrant St E & Nicollet Ave S - Stop #19327 (eastbound)\r\n2nd Ave S & Convention Center - Stop #19250 (northbound)"
-    },
-    {
       "id": "52595",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -2013,6 +2358,74 @@
       "updatedAt": "2026-09-18T05:00:02.000Z",
       "rawHeader": "Routes 10 and 25 detoured off Nicollet Mall from Washington Ave to 12th St from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer's",
       "rawDescription": "Get on/off buses at:\r\nWashington Ave S & 3rd Ave / 2nd Ave - Stop #19308 (westbound)\r\nMarquette Ave & 3rd St - Stop Group B - Stop #53292 (southbound)\r\nMarquette Ave & 5th St - Stop Group B - Stop #53293 (southbound)\r\nTemporary stop on 2nd Ave S & 9th St (southbound)\r\nLeamington Ramp & Lower - Gate #7 - Stop #19337\r\n\nNorthbound buses will travel Mode detour.\r\n\nSouthbound buses will travel Mode detour on Marquette Ave to 6th St, left on 6th St, right on 2nd Ave S, left on 12th St, left on 3rd Ave S, left on 11th St, right into Leamington Ramp, and resume regular route.\r\n\nAffected stops:\r\nNicollet Mall & 3rd St - Stop #17976 (southbound)\r\nNicollet Mall & 5th St S - Stop #17978 (southbound)\r\nNicollet Mall & 7th St S - Stop #17980 (southbound)\r\nNicollet Mall & 9th St S - Stop #17982 (southbound)\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17986 (southbound)\r\nGrant St E & Nicollet Ave S - Stop #19327 (eastbound)\r\n2nd Ave S & Convention Center - Stop #19250 (northbound)"
+    },
+    {
+      "id": "53005",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 10, Route 25: Detour via Routes 10 and 25 detoured off Grant St & 2nd Ave S",
+      "summary": "Routes 10 and 25 detoured off Grant St and 2nd Ave S from Nicollet Mall to 3rd Ave S beginning Wed Aug 12 at 4:00 AM until further notice due to construction. Board at: 3rd Ave S & 11th St S - Stop #19277 (southbound); Nicollet Mall & Alice Rainville Place - Stop #17988 (northbound).",
+      "affectedRoutes": [
+        "Route 10",
+        "Route 25"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Routes 10 and 25 detoured off Grant St & 2nd Ave S",
+        "3rd Ave S & 11th St S",
+        "2nd Ave S & Convention Center - St",
+        "Grant St E & Nicollet Ave S",
+        "Grant St and 2nd Ave S (Nicollet Mall to 3rd Ave S)"
+      ],
+      "closedStopIds": [
+        "41911",
+        "19327",
+        "19250",
+        "19277",
+        "17988",
+        "17984",
+        "19337"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "41911",
+          "name": "2nd Ave S & Convention Center",
+          "direction": "southbound"
+        },
+        {
+          "id": "19327",
+          "name": "Grant St E & Nicollet Ave S",
+          "direction": "eastbound"
+        },
+        {
+          "id": "19250",
+          "name": "2nd Ave S & Convention Center",
+          "direction": "northbound"
+        },
+        {
+          "id": "19277"
+        },
+        {
+          "id": "17988"
+        },
+        {
+          "id": "17984"
+        },
+        {
+          "id": "19337"
+        }
+      ],
+      "riderAlternative": "Board at: 3rd Ave S & 11th St S - Stop #19277 (southbound); Nicollet Mall & Alice Rainville Place - Stop #17988 (northbound)",
+      "detourDetails": "Northbound buses will travel regular route on 3rd Ave S to 11th St, continue on 3rd Ave to 16th St, right on 16th St which becomes 15th St, right on Nicollet Ave to Grant St, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-09-18T15:25:00.000Z",
+        "textDescription": "Beginning Wed Aug 12 at 4:00 AM until further notice"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "OTHER_EFFECT",
+      "updatedAt": "2026-09-18T15:25:53.000Z",
+      "rawHeader": "Routes 10 and 25 detoured off Grant St and 2nd Ave S from Nicollet Mall to 3rd Ave S beginning Wed Aug 12 at 4:00 AM until further notice due to construction",
+      "rawDescription": "Get on/off northbound buses at:\r\n3rd Ave S & 11th St S - Stop #19277 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17988 (northbound)\r\n\nGet on/off southbound buses at:\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)\r\nLeamington Ramp & Lower - Gate #7 - Stop #19337\r\n\nNorthbound buses will travel regular route on 3rd Ave S to 11th St, continue on 3rd Ave to 16th St, right on 16th St which becomes 15th St, right on Nicollet Ave to Grant St, and resume regular route.\r\n\nSouthbound buses will travel regular route on Nicollet Mall to Grant St, continue on Nicollet Ave to 15th St, left on 15th St which becomes 16th St, left on 3rd Ave S, left on 11th St, and resume regular route.\r\n\nAffected stops:\r\n2nd Ave S & Convention Center - Stop #41911 (southbound)\r\nGrant St E & Nicollet Ave S - Stop #19327 (eastbound)\r\n2nd Ave S & Convention Center - Stop #19250 (northbound)"
     },
     {
       "id": "49659",
@@ -2607,7 +3020,7 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-09-18T12:23:00.000Z",
-        "end": "2026-09-18T15:21:23.000Z"
+        "end": "2026-09-18T19:27:15.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
@@ -5365,6 +5778,76 @@
       "rawDescription": "For northbound Route 62 get on/off buses at:\r\nWabasha St & Congress St - Stop #287 (northbound)\r\nWabasha St & Torre de San Miguel - Stop #2781 (northbound)\r\n\nFor southbound Route 62 get on/off buses at:\r\nWabasha St & Torre de San Miguel - Stop #42007 (southbound)\r\nWabasha St & Winifred St - Stop #300 (southbound)\r\n\nNorthbound 62 buses that depart Signal Hills will travel regular route on Wabasha St to Congress St, right on Congress, left on Cesar Chavez St to Wabasha St, and resume regular route.\r\n\nSouthbound 62D buses will travel regular route on Wabasha St to Cesar Chavez St, continue onto Cesar Chavez St to Congress St, right on Congress, left on Wabasha St, and resume regular route.\r\n\nAffected stops:\r\nWabasha St & Cesar Chavez St - Stop #289 (northbound)\r\nWabasha St & Congress St - Stop #299 (southbound)"
     },
     {
+      "id": "53001",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 62: Detour via Route 62 detoured off Wabasha St & Humboldt Ave",
+      "summary": "Route 62 detoured off Wabasha St/Humboldt Ave from Winifred St to Isabel St beginning Tue Sep 22 at 1:00 AM until further notice. Board at: Winifred St W & Stryker Ave S - Stop #6334 (eastbound); Wabasha St & Cesar Chavez St - Stop #289 (northbound).",
+      "affectedRoutes": [
+        "Route 62"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 62 detoured off Wabasha St & Humboldt Ave",
+        "Winifred St W & Stryker Ave S",
+        "Wabasha St & Cesar Chavez St",
+        "Wabasha St & Torre de San Miguel - St",
+        "Winifred St W & Humboldt Ave S"
+      ],
+      "closedStopIds": [
+        "6336",
+        "287",
+        "299",
+        "300",
+        "6334",
+        "42007",
+        "2624"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "6336",
+          "name": "Winifred St W & Humboldt Ave S",
+          "direction": "eastbound"
+        },
+        {
+          "id": "287",
+          "name": "Wabasha St & Congress St",
+          "direction": "northbound"
+        },
+        {
+          "id": "299",
+          "name": "Wabasha St & Congress St",
+          "direction": "southbound"
+        },
+        {
+          "id": "300",
+          "name": "Wabasha St & Winifred St",
+          "direction": "southbound"
+        },
+        {
+          "id": "6334"
+        },
+        {
+          "id": "42007"
+        },
+        {
+          "id": "2624"
+        }
+      ],
+      "riderAlternative": "Board at: Winifred St W & Stryker Ave S - Stop #6334 (eastbound); Wabasha St & Cesar Chavez St - Stop #289 (northbound)",
+      "detourDetails": "Northbound buses will travel the regular route on Winifred St to Stryker Ave, left on Stryker Ave, right on Isabel St, left on Wabasha St, and resume the regular route.",
+      "activePeriod": {
+        "start": "2026-09-22T06:00:00.000Z",
+        "textDescription": "Beginning Tue Sep 22 at 1:00 AM until further notice"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/62",
+      "updatedAt": "2026-09-18T14:56:48.000Z",
+      "rawHeader": "Route 62 detoured off Wabasha St/Humboldt Ave from Winifred St to Isabel St beginning Tue Sep 22 at 1:00 AM until further notice",
+      "rawDescription": "For northbound Route 62 get on/off buses at:\r\nWinifred St W & Stryker Ave S - Stop #6334 (eastbound)\r\nWabasha St & Cesar Chavez St - Stop #289 (northbound)\r\n\nFor southbound Route 62 get on/off buses at:\r\nWabasha St & Torre de San Miguel - Stop #42007 (southbound)\r\nWinifred St W & Stryker Ave S - Stop #2624 (westbound)\r\n\nNorthbound buses will travel the regular route on Winifred St to Stryker Ave, left on Stryker Ave, right on Isabel St, left on Wabasha St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Wabasha St to Isabel St, right on Isabel St, left on Hall Ave, right on Winifred St, and resume the regular route.\r\n\nAffected stops:\r\nWinifred St W & Humboldt Ave S - Stop #6336 (eastbound)\r\nWabasha St & Congress St - Stop #287 (northbound)\r\nWabasha St & Congress St - Stop #299 (southbound)\r\nWabasha St & Winifred St - Stop #300 (southbound)"
+    },
+    {
       "id": "49835",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -6862,6 +7345,80 @@
       "updatedAt": "2026-09-17T14:17:10.000Z",
       "rawHeader": "Route 74 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
       "rawDescription": "No stops missed.\r\n\nEastbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.\r\n\nWestbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route."
+    },
+    {
+      "id": "53002",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 75: Detour via Route 75 detoured off Wabasha St & Humboldt Ave",
+      "summary": "Route 75 detoured off Wabasha St/Humboldt Ave from Isabel St to Winifred St beginning Tue Sep 22 at 1:00 AM until further notice. Board at: Humboldt Ave & Robie St - Stop #285 (northbound); Winifred St W & Stryker Ave S - Stop #2624 (westbound); Wabasha St & Cesar Chavez St - Stop #289 (northbound).",
+      "affectedRoutes": [
+        "Route 75"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 75 detoured off Wabasha St & Humboldt Ave",
+        "Humboldt Ave & Robie St",
+        "Winifred St W & Stryker Ave S",
+        "Wabasha St & Cesar Chavez St",
+        "Wabasha St & Torre de San Miguel - St"
+      ],
+      "closedStopIds": [
+        "286",
+        "287",
+        "299",
+        "300",
+        "2624",
+        "42007",
+        "6336",
+        "46506"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "286",
+          "name": "Humboldt Ave & Winifred St",
+          "direction": "northbound"
+        },
+        {
+          "id": "287",
+          "name": "Wabasha St & Congress St",
+          "direction": "northbound"
+        },
+        {
+          "id": "299",
+          "name": "Wabasha St & Congress St",
+          "direction": "southbound"
+        },
+        {
+          "id": "300",
+          "name": "Wabasha St & Winifred St",
+          "direction": "southbound"
+        },
+        {
+          "id": "2624"
+        },
+        {
+          "id": "42007"
+        },
+        {
+          "id": "6336"
+        },
+        {
+          "id": "46506"
+        }
+      ],
+      "riderAlternative": "Board at: Humboldt Ave & Robie St - Stop #285 (northbound); Winifred St W & Stryker Ave S - Stop #2624 (westbound); Wabasha St & Cesar Chavez St - Stop #289 (northbound)",
+      "detourDetails": "Northbound buses will travel the regular route on Humboldt Ave to Winifred St, left on Winifred St, right on Stryker Ave, right on Isabel St, left on Wabasha St, and resume the regular route.",
+      "activePeriod": {
+        "start": "2026-09-22T06:00:00.000Z",
+        "textDescription": "Beginning Tue Sep 22 at 1:00 AM until further notice"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/75",
+      "updatedAt": "2026-09-18T15:09:41.000Z",
+      "rawHeader": "Route 75 detoured off Wabasha St/Humboldt Ave from Isabel St to Winifred St beginning Tue Sep 22 at 1:00 AM until further notice",
+      "rawDescription": "For northbound Route 75 get on/off buses at:\r\nHumboldt Ave & Robie St - Stop #285 (northbound)\r\nWinifred St W & Stryker Ave S - Stop #2624 (westbound)\r\nWabasha St & Cesar Chavez St - Stop #289 (northbound)\r\n\nFor southbound Route 75 get on/off buses at:\r\nWabasha St & Torre de San Miguel - Stop #42007 (southbound)\r\nWinifred St W & Humboldt Ave S - Stop #6336 (eastbound)\r\nHumboldt Ave & Robie St - Stop #46506 (southbound)\r\n\nNorthbound buses will travel the regular route on Humboldt Ave to Winifred St, left on Winifred St, right on Stryker Ave, right on Isabel St, left on Wabasha St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Wabasha St to Isabel St, right on Isabel St, left on Hall Ave, left on Winifred St, right on Humboldt Ave, and resume the regular route.\r\n\nAffected stops:\r\nHumboldt Ave & Winifred St - Stop #286 (northbound)\r\nWabasha St & Congress St - Stop #287 (northbound)\r\nWabasha St & Congress St - Stop #299 (southbound)\r\nWabasha St & Winifred St - Stop #300 (southbound)"
     },
     {
       "id": "52802",
@@ -8531,9 +9088,83 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/645",
-      "updatedAt": "2026-09-18T05:00:02.000Z",
+      "updatedAt": "2026-09-18T14:30:01.000Z",
       "rawHeader": "Route 645 detoured off Hwy 394 from Hwy 100 to downtown Minneapolis from Fri Sep 18 at 10:00 AM to Sun Sep 20 at 10:00 PM due to construction",
       "rawDescription": "No stops missed.\r\n\nEastbound buses will travel regular route on Park Place Blvd to Wayzata Blvd, continue on Park Place Blvd which becomes Xenia Ave, right on Glenwood Ave, right on 12th St to Hennepin Ave, and resume regular route.\r\n\nWestbound buses will travel regular route.\r\n\nAffected direction: Eastbound"
+    },
+    {
+      "id": "52999",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 645: Detour via Ridgedale Dr & Target Entrance - St",
+      "summary": "Route 645 detoured off Ridgedale Dr from Cartway Lane to Plymouth Rd beginning Mon Sep 21 at 7:00 AM until further notice due to construction. Board at: Ridgedale Dr & Target Entrance - Stop #7033 (eastbound); Ridgedale Dr & Hennepin Service Center - Stop #7000 (eastbound).",
+      "affectedRoutes": [
+        "Route 645"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Ridgedale Dr & Target Entrance - St",
+        "Ridgedale Dr & Hennepin Service Center - St",
+        "Ridgedale Dr & Essex Rd",
+        "left on Ridgehaven Dr & continue down ramp to Ridgedale Dr",
+        "Ridgedale Dr & Cartway Lane - St"
+      ],
+      "closedStopIds": [
+        "7034",
+        "7035",
+        "49391",
+        "56601",
+        "7033",
+        "7000",
+        "6771",
+        "7077"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "7034",
+          "name": "Ridgedale Dr & Ridgehaven / Cartway Lane",
+          "direction": "southbound"
+        },
+        {
+          "id": "7035",
+          "name": "Ridgedale Dr & Cartway Lane",
+          "direction": "southbound"
+        },
+        {
+          "id": "49391",
+          "name": "Ridgedale Dr & Plymouth Rd / Cartway Ln",
+          "direction": "northbound"
+        },
+        {
+          "id": "56601",
+          "name": "Ridgedale Dr & Cartway Lane",
+          "direction": "northbound"
+        },
+        {
+          "id": "7033"
+        },
+        {
+          "id": "7000"
+        },
+        {
+          "id": "6771"
+        },
+        {
+          "id": "7077"
+        }
+      ],
+      "riderAlternative": "Board at: Ridgedale Dr & Target Entrance - Stop #7033 (eastbound); Ridgedale Dr & Hennepin Service Center - Stop #7000 (eastbound)",
+      "detourDetails": "Eastbound buses will travel regular route on Ridgedale Dr to Ridgehaven Ln, continue up the ramp and turn right on Plymouth Rd, left on Ridgedale Dr, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-09-21T12:00:00.000Z",
+        "textDescription": "Beginning Mon Sep 21 at 7:00 AM until further notice"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/645",
+      "updatedAt": "2026-09-18T13:43:15.000Z",
+      "rawHeader": "Route 645 detoured off Ridgedale Dr from Cartway Lane to Plymouth Rd beginning Mon Sep 21 at 7:00 AM until further notice due to construction",
+      "rawDescription": "For eastbound Route 645 get on/off buses at:\r\nRidgedale Dr & Target Entrance - Stop #7033 (eastbound)\r\nRidgedale Dr & Hennepin Service Center - Stop #7000 (eastbound)\r\n\nFor westbound Route 645 get on/off buses at:\r\nRidgedale Dr & Hennepin Service Center - Stop #6771 (westbound)\r\nRidgedale Dr & Essex Rd - Stop #7077 (westbound)\r\n\nEastbound buses will travel regular route on Ridgedale Dr to Ridgehaven Ln, continue up the ramp and turn right on Plymouth Rd, left on Ridgedale Dr, and resume regular route.\r\n\nWestbound buses will travel regular route on Ridgedale Dr to Plymouth Rd, right on Plymouth Rd, left on Ridgehaven Dr and continue down ramp to Ridgedale Dr, and resume regular route.\r\n\nAffected stops:\r\nRidgedale Dr & Ridgehaven / Cartway Lane - Stop #7034 (southbound)\r\nRidgedale Dr & Cartway Lane - Stop #7035 (southbound)\r\nRidgedale Dr & Plymouth Rd / Cartway Ln - Stop #49391 (northbound)\r\nRidgedale Dr & Cartway Lane - Stop #56601 (northbound)"
     },
     {
       "id": "47699",
@@ -8614,7 +9245,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/673",
-      "updatedAt": "2026-09-18T05:00:02.000Z",
+      "updatedAt": "2026-09-18T14:30:01.000Z",
       "rawHeader": "Route 673 detoured off Hwy 394 from Hwy 100 to downtown Minneapolis from Fri Sep 18 at 10:00 AM to Mon Sep 21 at 5:00 AM due to construction",
       "rawDescription": "No stops missed.\r\n\nEastbound buses will travel regular route on eastbound Hwy 394 to Hwy 100, continue onto northbound Hwy 100, exit at Hwy 55, right on eastbound Hwy 55/Olson Memorial Hwy, right on 7th St and continue onto 10th St, right on Twins Way, left on 12th St to Hennepin Ave, and resume regular route.\r\n\nWestbound buses will travel regular route.\r\n\nAffected direction: Eastbound"
     },
