@@ -2,38 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-125-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-121-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-123-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-120-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-84-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-18T03:03:00.329Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-18T08:43:14.913Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (5) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (3) • **Route 3A** (2) • **Route 3B** (1) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (3) • **Route 7** (3) • **Route 9** (5) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (6) • **Route 64N** (1) • **Route 65** (2) • **Route 67** (2) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (2) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (5) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
+**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (3) • **Route 3A** (2) • **Route 3B** (1) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (3) • **Route 7** (3) • **Route 9** (5) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (6) • **Route 64N** (1) • **Route 65** (2) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (2) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (5) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO A Line: Southbound 8:53 PM Trip Canceled (Rosedale Transit Center Gate A)
-
-- **Affected Routes**: `METRO A Line`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound A Line trip departing Rosedale Transit Center Gate A at 8:53 PM canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/aline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound A Line trip departing Rosedale Transit Center Gate A at 8:53 PM canceled today due to maintenance work
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -3556,47 +3539,6 @@ Summit Ave & Dale St - Stop #10761 (eastbound)
 Get on/off buses at:
 Minnehaha Ave & St Albans St - Stop #15064 (eastbound)
 Dale St & Blair Ave - Stop #10740 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 67: Detour via Minnehaha Ave & St Albans St
-
-- **Affected Routes**: `Route 67`
-- **Direction**: Southbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Minnehaha Ave & St Albans St; Thomas Ave & Mackubin St; Minnehaha Ave & Dale St; Dale St & Blair Ave; Thomas Ave & Dale St
-- **Closed Stops**: Minnehaha Ave & Dale St (Stop #15065), Dale St & Blair Ave (Stop #10740), Thomas Ave & Dale St (Stop #41971), Thomas Ave & Kent St (Stop #18834), Stop #15064, Stop #18835
-
-**Summary**: Route 67 detoured off Minnehaha Ave W from Dale St N to Kent St until later today due to construction. Board at: Minnehaha Ave & St Albans St - Stop #15064 (eastbound); Thomas Ave & Mackubin St - Stop #18835 (eastbound).
-
-> 💡 **Rider Action**: Board at: Minnehaha Ave & St Albans St - Stop #15064 (eastbound); Thomas Ave & Mackubin St - Stop #18835 (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on Minnehaha to Dale, continue on Minnehaha Kent St, right on Kent St, left on Thomas Ave, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/67)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 67 detoured off Minnehaha Ave W from Dale St N to Kent St until later today due to construction
-
-```text
-Get on/off buses at:
-Minnehaha Ave & St Albans St - Stop #15064 (eastbound)
-Thomas Ave & Mackubin St - Stop #18835 (eastbound)
-
-Affected direction: Eastbound
-
-Eastbound buses will travel regular route on Minnehaha to Dale, continue on Minnehaha Kent St, right on Kent St, left on Thomas Ave, and resume regular route. 
-
-Affected stops:
-Minnehaha Ave & Dale St - Stop #15065 (eastbound)
-Dale St & Blair Ave - Stop #10740 (southbound)
-Thomas Ave & Dale St - Stop #41971 (eastbound)
-Thomas Ave & Kent St - Stop #18834 (eastbound)
 ```
 
 </details>
