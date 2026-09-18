@@ -2,167 +2,34 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-133-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-7-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-123-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-125-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-121-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-87-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-84-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-17T23:53:28.177Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-18T03:03:00.329Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (4) • **Route 3A** (2) • **Route 3B** (1) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (3) • **Route 7** (3) • **Route 9** (5) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (5) • **Route 22H** (1) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (2) • **Route 46A** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64N** (2) • **Route 65** (2) • **Route 67** (2) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (3) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (3) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (4) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (5) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
+**METRO A Line** (5) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (3) • **Route 3A** (2) • **Route 3B** (1) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (3) • **Route 7** (3) • **Route 9** (5) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (6) • **Route 64N** (1) • **Route 65** (2) • **Route 67** (2) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (2) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (5) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO E Line: Southbound 5:29 PM Trip Canceled (Westgate Station - Gate A)
+### 🚨 METRO A Line: Southbound 8:53 PM Trip Canceled (Rosedale Transit Center Gate A)
 
-- **Affected Routes**: `METRO E Line`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #1139, Stop #1145, Stop #1149, Stop #1153, Stop #1111, Stop #1117, Stop #42219, Stop #57461 *(+7 more)*
-
-**Summary**: Southbound E Line trip departing Westgate Station - Gate A at 5:29 PM canceled today due to police activity
-
-[Official Agency Advisory](https://www.metrotransit.org/route/eline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound E Line trip departing Westgate Station - Gate A at 5:29 PM canceled today due to police activity
-
-</details>
-
----
-
-### 🚨 Route 3: Service Advisory
-
-- **Affected Routes**: `Route 3`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #54097, Stop #53789, Stop #57010, Stop #57011, Stop #57013, Stop #57014, Stop #57023, Stop #49881 *(+18 more)*
-
-**Summary**: Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 4:49 PM will start from Como & Eustis. Previous stops missed due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/3)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 4:49 PM will start from Como & Eustis. Previous stops missed due to maintenance work
-
-</details>
-
----
-
-### 🚨 Route 22, Route 22H: Southbound 5:43 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)
-
-- **Affected Routes**: `Route 22` `Route 22H`
+- **Affected Routes**: `METRO A Line`
 - **Direction**: Southbound
 - **Severity**: `Critical`
 
-**Summary**: Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 5:43 PM canceled today
+**Summary**: Southbound A Line trip departing Rosedale Transit Center Gate A at 8:53 PM canceled today due to maintenance work
 
-[Official Agency Advisory](https://www.metrotransit.org/route/22)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 5:43 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 30: Service Canceled
-
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 56 PM
-departing Knox Ave N & Golden Valley Rd; 54 PM
-departing Knox Ave N & Golden Valley Rd
-
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
+[Official Agency Advisory](https://www.metrotransit.org/route/aline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Knox Ave N & Golden Valley Rd at 1:56 PM
-departing Knox Ave N & Golden Valley Rd at 3:54 PM
-departing Knox Ave N & Golden Valley Rd at 5:56 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM
-
-Affected westbound trips:
-departing Westgate Station - Gate B at 1:04 PM
-departing Westgate Station - Gate B at 3:04 PM
-departing Westgate Station - Gate B at 5:04 PM
-departing Westgate Station - Gate B at 7:05 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 46, Route 46A: Eastbound 5:26 PM Trip Canceled (Eden-Vernon Busway & Sherwood/Vernon Ave)
-
-- **Affected Routes**: `Route 46` `Route 46A`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-
-**Summary**: Eastbound Route 46A trip departing Eden-Vernon Busway & Sherwood/Vernon Ave at 5:26 PM canceled
-
-[Official Agency Advisory](https://www.metrotransit.org/route/46)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 46A trip departing Eden-Vernon Busway & Sherwood/Vernon Ave at 5:26 PM canceled
-
-</details>
-
----
-
-### 🚨 Route 71: Service Canceled
-
-- **Affected Routes**: `Route 71`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 71 trips departing Market Place Dr & The Marketplace Ctr at 4:10 PM and departing Inver Hills College & Shelter at 5:38 PM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 71 trips departing Market Place Dr & The Marketplace Ctr at 4:10 PM and departing Inver Hills College & Shelter at 5:38 PM canceled today due to mechanical issue
-
-</details>
-
----
-
-### 🚨 Route 538: Service Canceled
-
-- **Affected Routes**: `Route 538`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 538 canceled until later today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/538)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 538 canceled until later today
+**Header**: Southbound A Line trip departing Rosedale Transit Center Gate A at 8:53 PM canceled today due to maintenance work
 
 </details>
 
@@ -3556,61 +3423,6 @@ Maryland Ave & Weide St - Stop #11799 (westbound)
 
 ---
 
-### ⚠️ Route 64, Route 64N: Detour via 7th Ave E & South Ave
-
-- **Affected Routes**: `Route 64` `Route 64N`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 7th Ave E & South Ave; 12th Ave E & Helen St N; 12th Ave E & Margaret St N; 7th Ave E & McKnight Rd; left on 7th Ave & resume regular route.
-
-Affected st
-- **Closed Stops**: 7th Ave E & 2nd St N (Stop #3903), 7th Ave E & 1st St N (Stop #3904), 7th Ave E & Helen St N (Stop #3905), 7th Ave E & Margaret St N (Stop #49843), Margaret St N & Seppala Blvd (Stop #56898), Margaret St N & Centennial Dr (Stop #53148), Margaret St N & Centennial Dr (Stop #53149), Margaret St N & Seppala Blvd (Stop #48260) *(+8 more)*
-
-**Summary**: Route 64N detoured off 7th Ave from South Ave to Margaret St and off Margaret St from 7th Ave to 12th Ave from 5:00 PM to 8:30 PM on Thu Sep 17 due to North St Paul Fall Round Up Parade. Board at: 7th Ave E & South Ave (Co Rd B) - Stop #3901 (eastbound); 12th Ave E & Helen St N - Stop #3914 (westbound).
-
-> 💡 **Rider Action**: Board at: 7th Ave E & South Ave (Co Rd B) - Stop #3901 (eastbound); 12th Ave E & Helen St N - Stop #3914 (westbound)
-
-> 🔄 **Detour Path**: buses will travel regular route on 7th Ave to South Ave, right on South Ave, left on Geneva Ave, left onto westbound Hwy 36, right exit at Margaret St, continue onto 12th Ave and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/64)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 64N detoured off 7th Ave from South Ave to Margaret St and off Margaret St from 7th Ave to 12th Ave from 5:00 PM to 8:30 PM on Thu Sep 17 due to North St Paul Fall Round Up Parade
-
-```text
-For eastbound Route 64N get on/off buses at:
-7th Ave E & South Ave (Co Rd B) - Stop #3901 (eastbound)
-12th Ave E & Helen St N - Stop #3914 (westbound)
-
-For westbound Route 64(via North St Paul) get on/off buses at:
-12th Ave E & Margaret St N - Stop #3875 (eastbound)
-7th Ave E & McKnight Rd - Stop #49769 (westbound)
-
-Eastbound 64N buses will travel regular route on 7th Ave to South Ave, right on South Ave, left on Geneva Ave, left onto westbound Hwy 36, right exit at Margaret St, continue onto 12th Ave and resume regular route.
-
-Westbound 64 buses via North St Paul will travel regular route on 12th Ave to Margaret St, left on Margaret St, right on 17th Ave, right on Geneva Ave, right on South Ave, left on 7th Ave and resume regular route.
-
-Affected stops:
-7th Ave E & 2nd St N - Stop #3903 (eastbound)
-7th Ave E & 1st St N - Stop #3904 (eastbound)
-7th Ave E & Helen St N - Stop #3905 (eastbound)
-7th Ave E & Margaret St N - Stop #49843 (eastbound)
-Margaret St N & Seppala Blvd - Stop #56898 (northbound)
-Margaret St N & Centennial Dr - Stop #53148 (northbound)
-Margaret St N & Centennial Dr - Stop #53149 (southbound)
-Margaret St N & Seppala Blvd - Stop #48260 (southbound)
-7th Ave E & Helen St N - Stop #3884 (westbound)
-7th Ave E & North St Paul Dr - Stop #3885 (westbound)
-7th Ave E & 2nd St N - Stop #3886 (westbound)
-7th Ave E & 3rd St N - Stop #3888 (westbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 64: Detour via 7th St E & Wall St
 
 - **Affected Routes**: `Route 64`
@@ -4468,59 +4280,6 @@ Greenway Ave N & 4th St N - Stop #2305 (southbound)
 Greenway Ave N & 2nd St N - Stop #2307 (southbound)
 Greenway Ave N & 1st St N - Stop #2308 (southbound)
 Greenway Ave N & Hudson Blvd - Stop #2309 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 219: Detour via Margaret St N & 12th Ave
-
-- **Affected Routes**: `Route 219`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Margaret St N & 12th Ave; continue on Geneva Ave to 7th Ave & resume regular route.
-
-Affected st; 7th Ave E & Henry St; 7th Ave E & Charles St; 7th Ave E & Margaret St N
-- **Closed Stops**: 7th Ave E & Henry St (Stop #49830), 7th Ave E & Charles St (Stop #49831), 7th Ave E & Margaret St N (Stop #3883), Margaret St N & Seppala Blvd (Stop #56898), Margaret St N & Centennial Dr (Stop #53148), Margaret St & 12th Ave (Stop #52651), Margaret St N & Centennial Dr (Stop #53149), Margaret St N & Seppala Blvd (Stop #48260) *(+6 more)*
-
-**Summary**: Route 219 detoured off 7th Ave from Geneva Ave to Margaret Ave and off Margaret Ave from 7th Ave to 14th Ave from 5:00 PM to 8:30 PM on Thu Sep 17 due to North St Paul Fall Round Up Parade. Board at: Hwy 120 - Geneva & Upper 46th St N - Stop #49829 (northbound); Margaret St N & 12th Ave / 13th Ave E - Stop #56899 (northbound).
-
-> 💡 **Rider Action**: Board at: Hwy 120 - Geneva & Upper 46th St N - Stop #49829 (northbound); Margaret St N & 12th Ave / 13th Ave E - Stop #56899 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on Geneva Ave to 7th Ave, continue on Geneva Ave to Hwy 36, left onto westbound Hwy 36, right exit at Margaret St, right on Margaret St and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/219)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 219 detoured off 7th Ave from Geneva Ave to Margaret Ave and off Margaret Ave from 7th Ave to 14th Ave from 5:00 PM to 8:30 PM on Thu Sep 17 due to North St Paul Fall Round Up Parade
-
-```text
-For northbound Route 219 get on/off buses at:
-Hwy 120 - Geneva & Upper 46th St N - Stop #49829 (northbound)
-Margaret St N & 12th Ave / 13th Ave E - Stop #56899 (northbound)
-
-For southbound Route 219 get on/off buses at:
-Margaret St N & 15th / 14th Ave E - Stop #56902 (southbound)
-Hwy 120 - Division & Upper 46th St N - Stop #49846 (southbound)
-
-Northbound buses will travel regular route on Geneva Ave to 7th Ave, continue on Geneva Ave to Hwy 36, left onto westbound Hwy 36, right exit at Margaret St, right on Margaret St and resume regular route.
-
-Southbound buses will travel regular route on Margaret St to 14th Ave, left on 14th Ave, left on Charles St, right on 17th Ave, right on Geneva Ave, continue on Geneva Ave to 7th Ave and resume regular route.
-
-Affected stops:
-7th Ave E & Henry St - Stop #49830 (westbound)
-7th Ave E & Charles St - Stop #49831 (westbound)
-7th Ave E & Margaret St N - Stop #3883 (westbound)
-Margaret St N & Seppala Blvd - Stop #56898 (northbound)
-Margaret St N & Centennial Dr - Stop #53148 (northbound)
-Margaret St & 12th Ave - Stop #52651 (southbound)
-Margaret St N & Centennial Dr - Stop #53149 (southbound)
-Margaret St N & Seppala Blvd - Stop #48260 (southbound)
-7th Ave N & Charles St - Stop #49844 (eastbound)
-7th Ave N & Henry St - Stop #49845 (eastbound)
 ```
 
 </details>

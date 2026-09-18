@@ -4,71 +4,17 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Thu, 17 Sep 2026 23:53:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 03:03:00 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO E Line: Southbound 5:29 PM Trip Canceled (Westgate Station - Gate A)</title>
-      <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-52980-2026-09-17T23:21:52.000Z</guid>
-      <pubDate>Thu, 17 Sep 2026 23:21:52 GMT</pubDate>
+      <title>[Critical] METRO A Line: Southbound 8:53 PM Trip Canceled (Rosedale Transit Center Gate A)</title>
+      <link>https://www.metrotransit.org/route/aline</link>
+      <guid isPermaLink="false">Metro Transit-52985-2026-09-18T01:43:31.000Z</guid>
+      <pubDate>Fri, 18 Sep 2026 01:43:31 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO E Line</category>
-      <description>Southbound E Line trip departing Westgate Station - Gate A at 5:29 PM canceled today due to police activity</description>
-    </item>
-    <item>
-      <title>[Critical] Route 3: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/3</link>
-      <guid isPermaLink="false">Metro Transit-52976-2026-09-17T22:15:56.000Z</guid>
-      <pubDate>Thu, 17 Sep 2026 22:15:56 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 3</category>
-      <description>Eastbound Route 3 trip departing Washington Ave &amp; 10th Ave N at 4:49 PM will start from Como &amp; Eustis. Previous stops missed due to maintenance work</description>
-    </item>
-    <item>
-      <title>[Critical] Route 22, Route 22H: Southbound 5:43 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)</title>
-      <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-52979-2026-09-17T23:09:21.000Z</guid>
-      <pubDate>Thu, 17 Sep 2026 23:09:21 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 22, Route 22H</category>
-      <description>Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 5:43 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 30: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-52956-2026-09-17T17:34:00.000Z</guid>
-      <pubDate>Thu, 17 Sep 2026 17:34:00 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 30</category>
-      <description>Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 46, Route 46A: Eastbound 5:26 PM Trip Canceled (Eden-Vernon Busway &amp; Sherwood/Vernon Ave)</title>
-      <link>https://www.metrotransit.org/route/46</link>
-      <guid isPermaLink="false">Metro Transit-52978-2026-09-17T22:44:24.000Z</guid>
-      <pubDate>Thu, 17 Sep 2026 22:44:24 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 46, Route 46A</category>
-      <description>Eastbound Route 46A trip departing Eden-Vernon Busway &amp; Sherwood/Vernon Ave at 5:26 PM canceled</description>
-    </item>
-    <item>
-      <title>[Critical] Route 71: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/71</link>
-      <guid isPermaLink="false">Metro Transit-52974-2026-09-17T21:44:27.000Z</guid>
-      <pubDate>Thu, 17 Sep 2026 21:44:27 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 71</category>
-      <description>Route 71 trips departing Market Place Dr &amp; The Marketplace Ctr at 4:10 PM and departing Inver Hills College &amp; Shelter at 5:38 PM canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 538: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/538</link>
-      <guid isPermaLink="false">Metro Transit-52981-2026-09-17T23:27:57.000Z</guid>
-      <pubDate>Thu, 17 Sep 2026 23:27:57 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 538</category>
-      <description>Westbound Route 538 canceled until later today</description>
+      <category>METRO A Line</category>
+      <description>Southbound A Line trip departing Rosedale Transit Center Gate A at 8:53 PM canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
@@ -741,15 +687,6 @@ Affected st</title>
       <description>Maryland Ave &amp; Walsh St - Stop #11800 (westbound) is closed for Route 64 until further notice due to construction. Board at: Maryland Ave &amp; Weide St - Stop #11799 (westbound). | Action: Board at: Maryland Ave &amp; Weide St - Stop #11799 (westbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 64, Route 64N: Detour via 7th Ave E &amp; South Ave</title>
-      <link>https://www.metrotransit.org/route/64</link>
-      <guid isPermaLink="false">Metro Transit-52356-2026-09-17T21:30:01.000Z</guid>
-      <pubDate>Thu, 17 Sep 2026 21:30:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 64, Route 64N</category>
-      <description>Route 64N detoured off 7th Ave from South Ave to Margaret St and off Margaret St from 7th Ave to 12th Ave from 5:00 PM to 8:30 PM on Thu Sep 17 due to North St Paul Fall Round Up Parade. Board at: 7th Ave E &amp; South Ave (Co Rd B) - Stop #3901 (eastbound); 12th Ave E &amp; Helen St N - Stop #3914 (westbound). | Action: Board at: 7th Ave E &amp; South Ave (Co Rd B) - Stop #3901 (eastbound); 12th Ave E &amp; Helen St N - Stop #3914 (westbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 64: Detour via 7th St E &amp; Wall St</title>
       <link>https://www.metrotransit.org/route/64</link>
       <guid isPermaLink="false">Metro Transit-52654-2026-09-14T09:30:01.000Z</guid>
@@ -919,15 +856,6 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 219</category>
       <description>Route 219 detoured off Greenway Ave from Hudson Blvd to 7th St and off 7th St from Greenway Ave to Hadley Ave beginning Thu May 28 at 6:30 AM until further notice due to construction. Board at: Dellwood Lane &amp; Hudson Blvd - Stop #50529 (southbound); Greenway Ave Station - Stop #57434 (eastbound); Temporary stop on Hadley Ave &amp; 7th St (northbound). | Action: Board at: Dellwood Lane &amp; Hudson Blvd - Stop #50529 (southbound); Greenway Ave Station - Stop #57434 (eastbound); Temporary stop on Hadley Ave &amp; 7th St (northbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 219: Detour via Margaret St N &amp; 12th Ave</title>
-      <link>https://www.metrotransit.org/route/219</link>
-      <guid isPermaLink="false">Metro Transit-52357-2026-09-17T21:30:01.000Z</guid>
-      <pubDate>Thu, 17 Sep 2026 21:30:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 219</category>
-      <description>Route 219 detoured off 7th Ave from Geneva Ave to Margaret Ave and off Margaret Ave from 7th Ave to 14th Ave from 5:00 PM to 8:30 PM on Thu Sep 17 due to North St Paul Fall Round Up Parade. Board at: Hwy 120 - Geneva &amp; Upper 46th St N - Stop #49829 (northbound); Margaret St N &amp; 12th Ave / 13th Ave E - Stop #56899 (northbound). | Action: Board at: Hwy 120 - Geneva &amp; Upper 46th St N - Stop #49829 (northbound); Margaret St N &amp; 12th Ave / 13th Ave E - Stop #56899 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 223: Stop Closed at Beam Ave &amp; Hazelwood St</title>
