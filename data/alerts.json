@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-18T08:43:14.913Z",
-    "totalAlerts": 123,
-    "criticalCount": 0,
-    "moderateCount": 120,
+    "generatedAt": "2026-09-18T13:21:51.514Z",
+    "totalAlerts": 127,
+    "criticalCount": 3,
+    "moderateCount": 121,
     "minorCount": 3,
     "affectedRoutesCount": 84,
     "agencies": [
@@ -11,6 +11,87 @@
     ]
   },
   "alerts": [
+    {
+      "id": "52997",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 11, Route 11C: Northbound 7:19 AM Trip Canceled (Nicollet Ave S & 46th St E)",
+      "summary": "Northbound Route 11C trip departing Nicollet Ave S & 46th St E at 7:19 AM canceled",
+      "affectedRoutes": [
+        "Route 11",
+        "Route 11C"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-18T12:19:00.000Z",
+        "end": "2026-09-18T14:21:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/11",
+      "updatedAt": "2026-09-18T12:18:06.000Z",
+      "rawHeader": "Northbound Route 11C trip departing Nicollet Ave S & 46th St E at 7:19 AM canceled",
+      "rawDescription": ""
+    },
+    {
+      "id": "52993",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 32: Service Canceled",
+      "summary": "Route 32 trip departing Rosedale Transit Center Gate D at 7:33 AM and eight other trips canceled today",
+      "affectedRoutes": [
+        "Route 32"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-18T12:33:00.000Z",
+        "end": "2026-09-18T21:22:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/32",
+      "updatedAt": "2026-09-18T12:03:01.000Z",
+      "rawHeader": "Route 32 trip departing Rosedale Transit Center Gate D at 7:33 AM and eight other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Robbinsdale Transit Center & Gate C at 8:44 AM\r\ndeparting Robbinsdale Transit Center & Gate C at 10:36 AM\r\ndeparting Robbinsdale Transit Center & Gate C at 12:15 PM\r\ndeparting Robbinsdale Transit Center & Gate C at 1:54 PM\r\n\nAffected westbound trips:\r\ndeparting Rosedale Transit Center Gate D at 7:33 AM\r\ndeparting Rosedale Transit Center Gate D at 9:33 AM\r\ndeparting Rosedale Transit Center Gate D at 11:24 AM\r\ndeparting Rosedale Transit Center Gate D at 1:03 PM\r\ndeparting Rosedale Transit Center Gate D at 2:44 PM"
+    },
+    {
+      "id": "52990",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 645: Service Canceled",
+      "summary": "Route 645 trips departing Marquette Ave & 3rd St - Stop Group B at 5:45 AM and departing Co Rd 73 Park & Ride & B Bay at 6:46 AM canceled today",
+      "affectedRoutes": [
+        "Route 645"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 645 trips departing Marquette Ave & 3rd St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-18T10:45:00.000Z",
+        "end": "2026-09-18T13:23:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/645",
+      "updatedAt": "2026-09-18T10:27:40.000Z",
+      "rawHeader": "Route 645 trips departing Marquette Ave & 3rd St - Stop Group B at 5:45 AM and departing Co Rd 73 P&R & B Bay at 6:46 AM canceled today",
+      "rawDescription": ""
+    },
     {
       "id": "49962",
       "agency": "Metro Transit",
@@ -839,59 +920,6 @@
       "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nMaryland Ave & Galtier St - Stop #5571 (eastbound)\r\nTemporary stop on Galtier St & Cook Ave (southbound)\r\nTemporary stop on Galtier St & Front Ave (southbound)\r\nTemporary stop on Galtier St & Atwater St (southbound)\r\nComo Ave & Rice St - Stop #973 (eastbound)\r\nRice St & Charles Ave - Stop #974 (southbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\nRice St & Charles Ave - Stop #10488 (northbound)\r\nComo Ave & Rice St - Stop #49895 (westbound)\r\nTemporary stop on Atwater St & Galtier St (eastbound)\r\nTemporary stop on Galtier St & Front Ave (northbound)\r\nTemporary stop on Galtier St & Maryland Ave (northbound)\r\nMaryland Ave & Western Ave - Stop #5583 (westbound)\r\n\nEastbound 3A buses will travel regular route on Maryland Ave to Galtier St, right on Galtier, right on Atwater St, left on Western Ave, left on Como Ave, right on Rice St, and resume regular route.\r\n\nWestbound 3A buses will travel regular route on Rice St to Como Ave, left on Como, right on Western Ave, right on Atwater St, left on Galtier St, left on Maryland Ave, and resume regular route.\r\n\nAffected stops:\r\nMaryland Ave & Rice St - Stop #5575 (eastbound)\r\nRice St & Geranium Ave - Stop #10473 (southbound)\r\nRice St & Lawson Ave - Stop #10476 (southbound)\r\nRice St & Litchfield St - Stop #10479 (southbound)\r\nRice St & Milford St - Stop #10480 (southbound)\r\nRice St & Sycamore St - Stop #10482 (southbound)\r\nRice St & Pennsylvania Ave - Stop #10483 (southbound)\r\nRice St & Como Ave - Stop #10484 (southbound)\r\nRice St & Como Ave - Stop #10489 (northbound)\r\nRice St & Pennsylvania Ave - Stop #10490 (northbound)\r\nRice St & Sycamore St - Stop #10491 (northbound)\r\nRice St & Manitoba Ave - Stop #10494 (northbound)\r\nRice St & Front Ave - Stop #10496 (northbound)\r\nRice St & Lawson Ave - Stop #10498 (northbound)\r\nRice St & Geranium Ave - Stop #10501 (northbound)\r\nMaryland Ave & Rice St - Stop #47074 (westbound)\r\nMaryland Ave & Galtier St - Stop #5579 (westbound)"
     },
     {
-      "id": "52616",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 3, Route 3B: Detour via Front Ave & Barrett St",
-      "summary": "Route 3B detoured off Front Ave from Como Place to Dale St beginning Thu Sep 10 at 5:00 AM until further notice due to utility work. Board at: Front Ave & Barrett St - Stop #952 (eastbound); Front Ave & Mackubin St - Stop #960 (eastbound).",
-      "affectedRoutes": [
-        "Route 3",
-        "Route 3B"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Front Ave & Barrett St",
-        "Front Ave & Mackubin St",
-        "Front Ave & Dale St",
-        "right on Front Ave & resume regular route.\n\nAffected st",
-        "Front Ave & Grotto St"
-      ],
-      "closedStopIds": [
-        "956",
-        "958",
-        "843"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "956",
-          "name": "Front Ave & Grotto St",
-          "direction": "eastbound"
-        },
-        {
-          "id": "958",
-          "name": "Front Ave & Dale St",
-          "direction": "eastbound"
-        },
-        {
-          "id": "843",
-          "name": "Front Ave & Grotto St",
-          "direction": "westbound"
-        }
-      ],
-      "riderAlternative": "Board at: Front Ave & Barrett St - Stop #952 (eastbound); Front Ave & Mackubin St - Stop #960 (eastbound)",
-      "detourDetails": "Eastbound buses will travel regular route on Front Ave to Como Pl, left on Como Pl, right on Jessamine Ave, right on Como Ave, continue on Como Ave to Dale St, veer left onto Front Ave and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-10T10:00:00.000Z",
-        "textDescription": "Beginning Thu Sep 10 at 5:00 AM until further notice"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-09-17T10:00:01.000Z",
-      "rawHeader": "Route 3B detoured off Front Ave from Como Place to Dale St beginning Thu Sep 10 at 5:00 AM until further notice due to utility work",
-      "rawDescription": "For eastbound Route 3B get on/off buses at:\r\nFront Ave & Barrett St - Stop #952 (eastbound)\r\nFront Ave & Mackubin St - Stop #960 (eastbound)\r\n\nFor westbound Route 3B get on/off buses at:\r\nFront Ave & Dale St - Stop #840 (westbound)\r\nFront Ave & Barrett St - Stop #847 (westbound)\r\n\nEastbound buses will travel regular route on Front Ave to Como Pl, left on Como Pl, right on Jessamine Ave, right on Como Ave, continue on Como Ave to Dale St, veer left onto Front Ave and resume regular route.\r\n\nWestbound buses will travel regular route on Front Ave to Dale St, veer right onto Como Ave, continue on Como Ave to Jessamine Ave, left on Jessamine Ave, left on Como Pl, right on Front Ave and resume regular route.\r\n\nAffected stops:\r\nFront Ave & Grotto St - Stop #956 (eastbound)\r\nFront Ave & Dale St - Stop #958 (eastbound)\r\nFront Ave & Grotto St - Stop #843 (westbound)"
-    },
-    {
       "id": "52960",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -1181,6 +1209,42 @@
       "updatedAt": "2026-09-03T16:21:48.000Z",
       "rawHeader": "Route 5 detoured off Chicago Ave from 41st St to 39th St until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nChicago Ave S & 41st St E - Stop #791 (northbound)\r\nPark & 38th St Station - Stop #80138 (northbound)\r\n\nNorthbound buses will travel regular route on Chicago Ave to 41st St, left on 41st St, right on Park Ave to 39th St, and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected direction: Northbound\r\n\nAffected stops:\r\nChicago Ave S & 40th St E - Stop #792 (northbound)"
+    },
+    {
+      "id": "52996",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 5: Detour via Chicago Ave S & 54th St E",
+      "summary": "Route 5 detoured off Chicago Ave S from 57th St E to 55th St E and off Chicago from 55th St E to 56th St E until further notice. Board at: Chicago Ave S & 54th St E - Stop #777 (northbound).",
+      "affectedRoutes": [
+        "Route 5"
+      ],
+      "direction": "Northbound",
+      "intersections": [
+        "Chicago Ave S & 54th St E",
+        "Chicago Ave S (57th St E to 55th St E and off Chicago from 55th St E to 56th St E)"
+      ],
+      "closedStopIds": [
+        "775"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "775",
+          "name": "Chicago & 56th St Station",
+          "direction": "northbound"
+        }
+      ],
+      "riderAlternative": "Board at: Chicago Ave S & 54th St E - Stop #777 (northbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-18T12:14:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/5",
+      "updatedAt": "2026-09-18T12:14:58.000Z",
+      "rawHeader": "Route 5 detoured off Chicago Ave S from 57th St E to 55th St E and off Chicago from 55th St E to 56th St E until further notice",
+      "rawDescription": "Get on/off buses at:\r\nChicago Ave S & 54th St E - Stop #777 (northbound)\r\n\nNorthbound bus will exit Chicago and 56th St Station turnaround, right on Chicago Ave S, left on 57th St E, left on Elliot, 56th St, right on Chicago and resume regular route. \r\n\nAffected stops:\r\nChicago & 56th St Station - Stop #775 (northbound)\r\nTemporary stop on Chicago Ave just past 56th St (northbound)"
     },
     {
       "id": "52092",
@@ -2513,6 +2577,44 @@
       "updatedAt": "2026-09-18T05:00:01.000Z",
       "rawHeader": "Route 14 detoured off 6th St from 2nd Ave N to Marquette Ave from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer's",
       "rawDescription": "Get on/off buses at:\r\n5th St Transit Center Gate A - Stop #17857 (eastbound)\r\n4th St N & Hennepin Ave - Stop #17859 (eastbound)\r\nMarquette Ave & 5th St - Stop Group B - Stop #53293 (southbound)\r\n6th St S & 2nd Ave / 3rd Ave S - Stop #17884 (eastbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route from 5th St Transit Center and turn left on 2nd Ave N, right on 4th St, right on Marquette Ave, left on 6th St, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\n6th St S & Hennepin Ave S - Stop #17881 (eastbound)\r\n6th St S & Nicollet Mall - Stop #17882 (eastbound)"
+    },
+    {
+      "id": "52998",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 14: Detour via Chicago Ave S & 58th St E",
+      "summary": "Route 14 detoured off Chicago from 57th St E to 55th St E until later today. Board at: Chicago Ave S & 58th St E - Stop #743 (northbound); Chicago Ave S & 54th St E - Stop #777 (northbound).",
+      "affectedRoutes": [
+        "Route 14"
+      ],
+      "direction": "Northbound",
+      "intersections": [
+        "Chicago Ave S & 58th St E",
+        "Chicago Ave S & 54th St E",
+        "Chicago (57th St E to 55th St E)"
+      ],
+      "closedStopIds": [
+        "775"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "775",
+          "name": "Chicago & 56th St Station",
+          "direction": "northbound"
+        }
+      ],
+      "riderAlternative": "Board at: Chicago Ave S & 58th St E - Stop #743 (northbound); Chicago Ave S & 54th St E - Stop #777 (northbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-18T12:23:00.000Z",
+        "end": "2026-09-18T15:21:23.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/14",
+      "updatedAt": "2026-09-18T12:23:23.000Z",
+      "rawHeader": "Route 14 detoured off Chicago from 57th St E to 55th St E until later today",
+      "rawDescription": "Get on/off buses at:\r\nChicago Ave S & 58th St E - Stop #743 (northbound)\r\nChicago Ave S & 54th St E - Stop #777 (northbound)\r\n\nAffected direction: Northbound\r\n\nNorthbound bus will exit Chicago and 56th St Station turnaround, right on Chicago Ave S, left on 57th St E, left on Elliot, 56th St, right on Chicago and resume regular route.\r\n\nAffected stops:\r\nChicago & 56th St Station - Stop #775 (northbound)\r\nTemporary stop on Chicago Ave just past 56th St (northbound)"
     },
     {
       "id": "52585",

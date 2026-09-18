@@ -4,9 +4,36 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Fri, 18 Sep 2026 08:43:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 13:21:51 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] Route 11, Route 11C: Northbound 7:19 AM Trip Canceled (Nicollet Ave S &amp; 46th St E)</title>
+      <link>https://www.metrotransit.org/route/11</link>
+      <guid isPermaLink="false">Metro Transit-52997-2026-09-18T12:18:06.000Z</guid>
+      <pubDate>Fri, 18 Sep 2026 12:18:06 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 11, Route 11C</category>
+      <description>Northbound Route 11C trip departing Nicollet Ave S &amp; 46th St E at 7:19 AM canceled</description>
+    </item>
+    <item>
+      <title>[Critical] Route 32: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/32</link>
+      <guid isPermaLink="false">Metro Transit-52993-2026-09-18T12:03:01.000Z</guid>
+      <pubDate>Fri, 18 Sep 2026 12:03:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 32</category>
+      <description>Route 32 trip departing Rosedale Transit Center Gate D at 7:33 AM and eight other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 645: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/645</link>
+      <guid isPermaLink="false">Metro Transit-52990-2026-09-18T10:27:40.000Z</guid>
+      <pubDate>Fri, 18 Sep 2026 10:27:40 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 645</category>
+      <description>Route 645 trips departing Marquette Ave &amp; 3rd St - Stop Group B at 5:45 AM and departing Co Rd 73 Park &amp; Ride &amp; B Bay at 6:46 AM canceled today</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -127,15 +154,6 @@ Affected st</title>
       <description>Route 3A detoured off Maryland Ave from Galtier St to Rice St and off Rice St from Maryland Ave to Como Ave beginning Mon Apr 6 at 4:00 AM until further notice due to construction. Board at: Maryland Ave &amp; Galtier St - Stop #5571 (eastbound); Temporary stop on Galtier St &amp; Cook Ave (southbound); Temporary stop on Galtier St &amp; Front Ave (southbound). | Action: Board at: Maryland Ave &amp; Galtier St - Stop #5571 (eastbound); Temporary stop on Galtier St &amp; Cook Ave (southbound); Temporary stop on Galtier St &amp; Front Ave (southbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 3, Route 3B: Detour via Front Ave &amp; Barrett St</title>
-      <link>https://www.metrotransit.org/route/3</link>
-      <guid isPermaLink="false">Metro Transit-52616-2026-09-17T10:00:01.000Z</guid>
-      <pubDate>Thu, 17 Sep 2026 10:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 3, Route 3B</category>
-      <description>Route 3B detoured off Front Ave from Como Place to Dale St beginning Thu Sep 10 at 5:00 AM until further notice due to utility work. Board at: Front Ave &amp; Barrett St - Stop #952 (eastbound); Front Ave &amp; Mackubin St - Stop #960 (eastbound). | Action: Board at: Front Ave &amp; Barrett St - Stop #952 (eastbound); Front Ave &amp; Mackubin St - Stop #960 (eastbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 3, Route 3A: Detour via Como Ave &amp; Como Place - St</title>
       <link>https://www.metrotransit.org/route/3</link>
       <guid isPermaLink="false">Metro Transit-52960-2026-09-17T18:48:14.000Z</guid>
@@ -161,6 +179,15 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 5</category>
       <description>Route 5 detoured off Chicago Ave from 41st St to 39th St until further notice due to construction. Board at: Chicago Ave S &amp; 41st St E - Stop #791 (northbound); Park &amp; 38th St Station - Stop #80138 (northbound). | Action: Board at: Chicago Ave S &amp; 41st St E - Stop #791 (northbound); Park &amp; 38th St Station - Stop #80138 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 5: Detour via Chicago Ave S &amp; 54th St E</title>
+      <link>https://www.metrotransit.org/route/5</link>
+      <guid isPermaLink="false">Metro Transit-52996-2026-09-18T12:14:58.000Z</guid>
+      <pubDate>Fri, 18 Sep 2026 12:14:58 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 5</category>
+      <description>Route 5 detoured off Chicago Ave S from 57th St E to 55th St E and off Chicago from 55th St E to 56th St E until further notice. Board at: Chicago Ave S &amp; 54th St E - Stop #777 (northbound). | Action: Board at: Chicago Ave S &amp; 54th St E - Stop #777 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 7: Stop Closed at Plymouth Ave &amp; Lyndale Ave N</title>
@@ -314,6 +341,15 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 14</category>
       <description>Route 14 detoured off 6th St from 2nd Ave N to Marquette Ave from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: 5th St Transit Center Gate A - Stop #17857 (eastbound); 4th St N &amp; Hennepin Ave - Stop #17859 (eastbound); Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound). | Action: Board at: 5th St Transit Center Gate A - Stop #17857 (eastbound); 4th St N &amp; Hennepin Ave - Stop #17859 (eastbound); Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 14: Detour via Chicago Ave S &amp; 58th St E</title>
+      <link>https://www.metrotransit.org/route/14</link>
+      <guid isPermaLink="false">Metro Transit-52998-2026-09-18T12:23:23.000Z</guid>
+      <pubDate>Fri, 18 Sep 2026 12:23:23 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 14</category>
+      <description>Route 14 detoured off Chicago from 57th St E to 55th St E until later today. Board at: Chicago Ave S &amp; 58th St E - Stop #743 (northbound); Chicago Ave S &amp; 54th St E - Stop #777 (northbound). | Action: Board at: Chicago Ave S &amp; 58th St E - Stop #743 (northbound); Chicago Ave S &amp; 54th St E - Stop #777 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 17: Detour via right on Lagoon Ave &amp; resume regular route.
