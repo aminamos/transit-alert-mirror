@@ -2,17 +2,17 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-136-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-9-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-137-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-10-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-124-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-88-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-87-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-18T17:27:48.937Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-18T20:21:25.991Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (2) • **METRO D Line** (4) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (3) • **Route 9** (5) • **Route 10** (3) • **Route 11** (4) • **Route 14** (3) • **Route 17** (3) • **Route 18** (9) • **Route 18C** (1) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (2) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (4) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (6) • **Route 64N** (1) • **Route 65** (2) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (3) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (2) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (7) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 802** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
+**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (2) • **METRO D Line** (5) • **METRO E Line** (2) • **METRO Gold Line** (3) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (3) • **Route 9** (5) • **Route 10** (3) • **Route 11** (4) • **Route 14** (3) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (2) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (4) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (6) • **Route 64N** (1) • **Route 65** (2) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (3) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (2) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (6) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 802** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
@@ -21,32 +21,38 @@
 - **Affected Routes**: `METRO C Line`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: C Line trip departing 7th St & Park St; departing 7th St & Park St; 40 AM
-departing 7th St & Park St; 19 PM
+- **Corridors & Intersections**: departing 7th St & Park St; 19 PM
 departing 7th St & Park St; 57 PM
+departing 7th St & Park St; 17 PM
+departing 7th St & Park St; 45 PM
 departing 7th St & Park St
 
-**Summary**: C Line trip departing 7th St & Park Station at 11:40 AM and seven other trips canceled today
+**Summary**: C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 12:28 PM and ten other trips canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/cline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: C Line trip departing 7th St & Park Station at 11:40 AM and seven other trips canceled today
+**Header**: C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 12:28 PM and ten other trips canceled today
 
 ```text
+Updated at 2:01 PM to cancel additional trips.
+
 Affected northbound trips:
-departing 7th St & Park Station at 11:40 AM
 departing 7th St & Park Station at 1:19 PM
 departing 7th St & Park Station at 2:57 PM
+departing 7th St & Park Station at 3:17 PM
 departing 7th St & Park Station at 4:45 PM
+departing 7th St & Park Station at 5:06 PM
 
 Affected southbound trips:
 departing Brooklyn Ctr Transit Ctr Gate I at 12:28 PM
 departing Brooklyn Ctr Transit Ctr Gate I at 2:07 PM
 departing Brooklyn Ctr Transit Ctr Gate I at 3:53 PM
+departing Brooklyn Ctr Transit Ctr Gate I at 4:14 PM
 departing Brooklyn Ctr Transit Ctr Gate I at 5:39 PM
+departing Brooklyn Ctr Transit Ctr Gate I at 5:58 PM
 ```
 
 </details>
@@ -59,22 +65,29 @@ departing Brooklyn Ctr Transit Ctr Gate I at 5:39 PM
 - **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: D Line trip departing MOA Transit Station Gate A at 1:03 PM and three other trips canceled today
+**Summary**: D Line trip departing MOA Transit Station Gate A at 12:24 PM and eight other trips canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: D Line trip departing MOA Transit Station Gate A at 1:03 PM and three other trips canceled today
+**Header**: D Line trip departing MOA Transit Station Gate A at 12:24 PM and eight other trips canceled today
 
 ```text
+Updated at 1:55 PM to cancel additional trips.
+
 Affected northbound trips:
+departing MOA Transit Station Gate A at 12:24 PM
 departing MOA Transit Station Gate A at 1:03 PM
+departing MOA Transit Station Gate A at 3:39 PM
 departing MOA Transit Station Gate A at 4:19 PM
+departing MOA Transit Station Gate A at 7:00 PM
 
 Affected southbound trips:
+departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM
 departing Brooklyn Ctr Transit Ctr Gate F at 2:38 PM
+departing Brooklyn Ctr Transit Ctr Gate F at 5:18 PM
 departing Brooklyn Ctr Transit Ctr Gate F at 6:00 PM
 ```
 
@@ -82,21 +95,40 @@ departing Brooklyn Ctr Transit Ctr Gate F at 6:00 PM
 
 ---
 
-### 🚨 Route 18, Route 18C: Southbound 12:11 PM Trip Canceled (Nicollet Ave S & 46th St W)
+### 🚨 METRO D Line: Northbound 2:41 PM Trip Canceled (Chicago & 14th St Station)
 
-- **Affected Routes**: `Route 18` `Route 18C`
-- **Direction**: Southbound
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Northbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #1339, Stop #1341, Stop #1342, Stop #1344, Stop #1345, Stop #1346, Stop #1347, Stop #1348 *(+53 more)*
+- **Closed Stops**: Stop #17897, Stop #17900, Stop #17902, Stop #17903, Stop #43275, Stop #8919, Stop #8920, Stop #8935 *(+12 more)*
 
-**Summary**: Southbound Route 18C trip departing Nicollet Ave S & 46th St W at 12:11 PM canceled today due to mechanical issue
+**Summary**: Northbound D Line trip departing Chicago & 14th St Station at 2:41 PM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/18)
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 18C trip departing Nicollet Ave S & 46th St W at 12:11 PM canceled today due to mechanical issue
+**Header**: Northbound D Line trip departing Chicago & 14th St Station at 2:41 PM canceled today
+
+</details>
+
+---
+
+### 🚨 METRO Gold Line: Service Canceled
+
+- **Affected Routes**: `METRO Gold Line`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Gold Line trips departing Woodlane Dr Station Gate A at 1:24 PM and departing Smith & 5th St Station at 2:11 PM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/gold)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Gold Line trips departing Woodlane Dr Station Gate A at 1:24 PM and departing Smith & 5th St Station at 2:11 PM canceled today due to mechanical issue
 
 </details>
 
@@ -201,20 +233,25 @@ departing Market Place Dr & The Marketplace Ctr at 6:15 PM
 
 ---
 
-### 🚨 Route 645: Eastbound 10:44 AM Trip Canceled (Mound Transit Center & Shoreline Dr (Co Rd 15))
+### 🚨 Route 72: Service Advisory
 
-- **Affected Routes**: `Route 645`
-- **Direction**: Eastbound
+- **Affected Routes**: `Route 72`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
+- **Corridors & Intersections**: Route 72 trips departing Pascal St N & Central Ave W
 
-**Summary**: Eastbound Route 645 trip departing Mound Transit Center & Shoreline Dr (Co Rd 15) at 10:44 AM canceled today
+**Summary**: Route 72 trips departing Pascal St N & Central Ave W at 8:53 PM and departing Sun Ray Transit Center & Gate D at 9:51 PM restored today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/645)
+[Official Agency Advisory](https://www.metrotransit.org/route/72)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Route 645 trip departing Mound TC & Shoreline Dr (Co Rd 15) at 10:44 AM canceled today
+**Header**: Route 72 trips departing Pascal St N & Central Ave W at 8:53 PM and departing Sun Ray Transit Center & Gate D at 9:51 PM restored today
+
+```text
+Updated at 2:45 PM to reflect trips will operate as scheduled.
+```
 
 </details>
 
@@ -4116,12 +4153,12 @@ Robert St S & Fillmore Ave - Stop #2610 (northbound)
 - **Affected Routes**: `Route 68`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Larpenteur Ave W & Rice St; Larpenteur Ave & Sylvan St; Larpenteur Ave between Sylvan St & Camelot St; Rice St & McCarrons Blvd S; Larpenteur Ave between Camelot St & Sylvan St
+- **Corridors & Intersections**: Larpenteur Ave W & Rice St; Larpenteur Ave & Sylvan St; Rice St & McCarrons Blvd S
 - **Closed Stops**: Stop #56959, Stop #56960, Stop #49942, Stop #46708, Stop #46696, Stop #49945
 
-**Summary**: Larpenteur Ave W & Rice St - Stop #56959 (westbound) and Larpenteur Ave W & Rice / Camelot St - Stop #56960 (eastbound) are closed for Route 68 until further notice due to construction. Board at: Larpenteur Ave & Sylvan St - Stop #49942 (westbound); Temporary stop on Larpenteur Ave between Sylvan St and Camelot St (westbound); Rice St & McCarrons Blvd S - Stop #46708 (northbound).
+**Summary**: Larpenteur Ave W & Rice St - Stop #56959 (westbound) and Larpenteur Ave W & Rice / Camelot St - Stop #56960 (eastbound) are closed for Route 68 until further notice due to construction. Board at: Larpenteur Ave & Sylvan St - Stop #49942 (westbound); Temporary stop on Rice St just past Larpenteur Ave (northbound); Rice St & McCarrons Blvd S - Stop #46708 (northbound).
 
-> 💡 **Rider Action**: Board at: Larpenteur Ave & Sylvan St - Stop #49942 (westbound); Temporary stop on Larpenteur Ave between Sylvan St and Camelot St (westbound); Rice St & McCarrons Blvd S - Stop #46708 (northbound)
+> 💡 **Rider Action**: Board at: Larpenteur Ave & Sylvan St - Stop #49942 (westbound); Temporary stop on Rice St just past Larpenteur Ave (northbound); Rice St & McCarrons Blvd S - Stop #46708 (northbound)
 
 [Official Agency Advisory](https://www.metrotransit.org/route/68)
 
@@ -4131,14 +4168,16 @@ Robert St S & Fillmore Ave - Stop #2610 (northbound)
 **Header**: Larpenteur Ave W & Rice St - Stop #56959 (westbound) and Larpenteur Ave W & Rice / Camelot St - Stop #56960 (eastbound) are closed for Route 68 until further notice due to construction
 
 ```text
+Update to temporary stops 9/18 at 3:20 PM.
+
 For northbound Route 68 get on/off buses at:
 Larpenteur Ave & Sylvan St - Stop #49942 (westbound)
-Temporary stop on Larpenteur Ave between Sylvan St and Camelot St (westbound)
+Temporary stop on Rice St just past Larpenteur Ave (northbound)
 Rice St & McCarrons Blvd S - Stop #46708 (northbound)
 
 For southbound Route 68 get on/off buses at:
 Rice St & McCarrons Blvd S - Stop #46696 (southbound)
-Temporary stop on Larpenteur Ave between Camelot St and Sylvan St (eastbound)
+Temporary stop on Larpenteur Ave just past Camelot St (eastbound)
 Larpenteur Ave & Sylvan St - Stop #49945 (eastbound)
 ```
 
