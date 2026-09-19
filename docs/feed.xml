@@ -4,44 +4,17 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 19 Sep 2026 01:06:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 06:59:27 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO A Line: Northbound 7:20 PM Trip Canceled (46th St Station Gate A)</title>
-      <link>https://www.metrotransit.org/route/aline</link>
-      <guid isPermaLink="false">Metro Transit-53025-2026-09-19T00:38:08.000Z</guid>
-      <pubDate>Sat, 19 Sep 2026 00:38:08 GMT</pubDate>
+      <title>[Critical] Route 72: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/72</link>
+      <guid isPermaLink="false">Metro Transit-53026-2026-09-19T01:33:11.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 01:33:11 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO A Line</category>
-      <description>Northbound A Line trip departing 46th St Station Gate A at 7:20 PM canceled today due to maintenance work</description>
-    </item>
-    <item>
-      <title>[Critical] METRO D Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-53008-2026-09-18T18:56:22.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 18:56:22 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>D Line trip departing MOA Transit Station Gate A at 12:24 PM and eight other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 10: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-53023-2026-09-19T01:04:01.000Z</guid>
-      <pubDate>Sat, 19 Sep 2026 01:04:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 10</category>
-      <description>Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 6:02 PM will start from Central Ave NE &amp; 41st Ave NE at 6:28 PM today due to police activity. Previous stops will be missed</description>
-    </item>
-    <item>
-      <title>[Critical] Route 30: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-53004-2026-09-18T17:34:01.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 17:34:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 30</category>
-      <description>Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today</description>
+      <category>Route 72</category>
+      <description>Route 72 trips departing Pascal St N &amp; Central Ave W at 8:53 PM and departing Sun Ray Transit Center &amp; Gate D at 9:51 PM canceled</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
@@ -82,8 +55,8 @@
     <item>
       <title>[Moderate] METRO C Line, METRO D Line: Detour via 7th St &amp; Olson St</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-52790-2026-09-18T05:00:02.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52790-2026-09-19T05:00:01.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO C Line, METRO D Line</category>
       <description>METRO C Line and D Line detoured off 8th St from 7th St Transit Center to 2nd Ave S from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: 7th St &amp; Olson Station - Stop #56317 (southbound); 10th St N &amp; Twins Way (3rd Ave) - Stop #11172 (southbound); 8th St &amp; 3rd/4th Ave Station - Stop #17910 (eastbound). | Action: Board at: 7th St &amp; Olson Station - Stop #56317 (southbound); 10th St N &amp; Twins Way (3rd Ave) - Stop #11172 (southbound); 8th St &amp; 3rd/4th Ave Station - Stop #17910 (eastbound)</description>
@@ -111,8 +84,8 @@
 
 Affected st</title>
       <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-52591-2026-09-18T05:00:01.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52591-2026-09-19T04:29:01.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 04:29:01 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO E Line</category>
       <description>METRO E Line detoured off Hennepin Ave from 28th St to Lake St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM. Board at: Uptown Transit Station - Gates D/E - Stop #52857 (westbound). | Action: Board at: Uptown Transit Station - Gates D/E - Stop #52857 (westbound)</description>
@@ -138,8 +111,8 @@ Affected st</title>
     <item>
       <title>[Moderate] METRO Orange Line: Detour via Marquette Ave &amp; 5th St</title>
       <link>https://www.metrotransit.org/route/orange</link>
-      <guid isPermaLink="false">Metro Transit-52806-2026-09-18T21:26:38.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 21:26:38 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52806-2026-09-19T05:00:01.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO Orange Line</category>
       <description>METRO Orange Line detoured off Marquette Ave from 6th St to 11th St from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: Marquette Ave &amp; 5th St - Stop Group C - Stop #53298 (southbound); Temporary stop on 2nd Ave S &amp; 9th St (southbound); 12th St S &amp; 2nd Ave / 3rd Ave S - Stop #19335 (eastbound). | Action: Board at: Marquette Ave &amp; 5th St - Stop Group C - Stop #53298 (southbound); Temporary stop on 2nd Ave S &amp; 9th St (southbound); 12th St S &amp; 2nd Ave / 3rd Ave S - Stop #19335 (eastbound)</description>
@@ -174,8 +147,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 4, Route 4P: Detour via Penn Ave S &amp; Best Buy - St</title>
       <link>https://www.metrotransit.org/route/4</link>
-      <guid isPermaLink="false">Metro Transit-52884-2026-09-16T14:06:44.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 14:06:44 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52884-2026-09-19T05:00:00.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 4, Route 4P</category>
       <description>Route 4P detoured off Penn Ave from Hwy 62 to 76th St from 9:30 AM to 6:00 PM on Sun Sep 20 due to Open Streets Penn Fest. Board at: Penn Ave S &amp; Best Buy - Stop #1066 (northbound); Penn Ave S &amp; 61st St W - Stop #1084 (northbound). | Action: Board at: Penn Ave S &amp; Best Buy - Stop #1066 (northbound); Penn Ave S &amp; 61st St W - Stop #1084 (northbound)</description>
@@ -210,8 +183,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 7: Detour via Route 7 detoured off Plymouth Ave &amp; Theodore Wirth Pkwy</title>
       <link>https://www.metrotransit.org/route/7</link>
-      <guid isPermaLink="false">Metro Transit-52823-2026-09-18T05:00:01.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52823-2026-09-19T05:00:01.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 7</category>
       <description>Route 7 detoured off Plymouth Ave/Theodore Wirth Pkwy from Washburn Ave to Trailhead Building on Sat Sep 19 from 6:30 AM to 2:00 PM due to Loppet Field Day. Board at: Plymouth Ave &amp; Washburn Ave N - Stop #17676 (westbound). | Action: Board at: Plymouth Ave &amp; Washburn Ave N - Stop #17676 (westbound)</description>
@@ -255,8 +228,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 9: Detour via Glenwood Ave &amp; 10th St N</title>
       <link>https://www.metrotransit.org/route/9</link>
-      <guid isPermaLink="false">Metro Transit-52791-2026-09-18T05:00:02.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52791-2026-09-19T05:00:01.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 9</category>
       <description>Route 9 detoured off 8th St from 7th St Transit Center to 2nd Ave S from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: Glenwood Ave &amp; 10th St N - Stop #3053 (eastbound); 8th St &amp; 3rd/4th Ave Station - Stop #17910 (eastbound). | Action: Board at: Glenwood Ave &amp; 10th St N - Stop #3053 (eastbound); 8th St &amp; 3rd/4th Ave Station - Stop #17910 (eastbound)</description>
@@ -282,8 +255,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 10, Route 25: Detour via Washington Ave S &amp; 3rd Ave</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-52793-2026-09-18T21:19:45.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 21:19:45 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52793-2026-09-19T05:00:01.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 10, Route 25</category>
       <description>Routes 10 and 25 detoured off Nicollet Mall from Washington Ave to 12th St from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: Washington Ave S &amp; 3rd Ave / 2nd Ave - Stop #19308 (westbound); Marquette Ave &amp; 3rd St - Stop Group B - Stop #53292 (southbound); Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound). | Action: Board at: Washington Ave S &amp; 3rd Ave / 2nd Ave - Stop #19308 (westbound); Marquette Ave &amp; 3rd St - Stop Group B - Stop #53292 (southbound); Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound)</description>
@@ -318,8 +291,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 11: Detour via Hennepin Ave &amp; 1st St N</title>
       <link>https://www.metrotransit.org/route/11</link>
-      <guid isPermaLink="false">Metro Transit-52794-2026-09-18T21:21:15.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 21:21:15 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52794-2026-09-19T05:00:01.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 11</category>
       <description>Route 11 detoured off Nicollet Mall from Washington Ave to 16th St from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: Hennepin Ave &amp; 1st St N - Stop #17917 (southbound); Marquette Ave &amp; 3rd St - Stop Group B - Stop #53292 (southbound); Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound). | Action: Board at: Hennepin Ave &amp; 1st St N - Stop #17917 (southbound); Marquette Ave &amp; 3rd St - Stop Group B - Stop #53292 (southbound); Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound)</description>
@@ -345,8 +318,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 14: Detour via 4th St N &amp; Hennepin Ave</title>
       <link>https://www.metrotransit.org/route/14</link>
-      <guid isPermaLink="false">Metro Transit-52795-2026-09-18T21:23:31.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 21:23:31 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52795-2026-09-19T05:00:01.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 14</category>
       <description>Route 14 detoured off 6th St from 2nd Ave N to Marquette Ave from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: 5th St Transit Center Gate A - Stop #17857 (eastbound); 4th St N &amp; Hennepin Ave - Stop #17859 (eastbound); Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound). | Action: Board at: 5th St Transit Center Gate A - Stop #17857 (eastbound); 4th St N &amp; Hennepin Ave - Stop #17859 (eastbound); Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound)</description>
@@ -365,8 +338,8 @@ Affected st</title>
 
 Affected st</title>
       <link>https://www.metrotransit.org/route/17</link>
-      <guid isPermaLink="false">Metro Transit-52585-2026-09-18T05:00:01.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52585-2026-09-19T04:29:01.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 04:29:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 17</category>
       <description>Route 17 detoured off Hennepin Ave from Lake St to 28th St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM. Board at: Uptown Transit Station - Gate C - Stop #50160 (westbound). | Action: Board at: Uptown Transit Station - Gate C - Stop #50160 (westbound)</description>
@@ -383,8 +356,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 17: Detour via Washington Ave S &amp; 3rd Ave</title>
       <link>https://www.metrotransit.org/route/17</link>
-      <guid isPermaLink="false">Metro Transit-52797-2026-09-18T21:22:06.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 21:22:06 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52797-2026-09-19T05:00:01.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 17</category>
       <description>Route 17 detoured off Nicollet Mall from Washington Ave to 16th St from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: Washington Ave S &amp; 3rd Ave / 2nd Ave - Stop #19308 (westbound, 17 buses departing Central/26th Ave only); 4th Ave S &amp; 3rd St S - Stop #19294 (southbound, 17 buses departing Gateway Ramp only); Marquette Ave &amp; 3rd St - Stop Group B - Stop #53292 (southbound). | Action: Board at: Washington Ave S &amp; 3rd Ave / 2nd Ave - Stop #19308 (westbound, 17 buses departing Central/26th Ave only); 4th Ave S &amp; 3rd St S - Stop #19294 (southbound, 17 buses departing Gateway Ramp only); Marquette Ave &amp; 3rd St - Stop Group B - Stop #53292 (southbound)</description>
@@ -455,8 +428,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 18: Detour via 4th Ave S &amp; 3rd St S</title>
       <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-52798-2026-09-18T21:22:52.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 21:22:52 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52798-2026-09-19T05:00:01.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 18</category>
       <description>Route 18 detoured off Nicollet Mall from 3rd St to 16th St from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: 4th Ave S &amp; 3rd St S - Stop #19294 (southbound); Marquette Ave &amp; 3rd St - Stop Group B - Stop #53292 (southbound); Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound). | Action: Board at: 4th Ave S &amp; 3rd St S - Stop #19294 (southbound); Marquette Ave &amp; 3rd St - Stop Group B - Stop #53292 (southbound); Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound)</description>
@@ -491,8 +464,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 22, Route 5: Detour via 10th St N &amp; Twins Way</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-52789-2026-09-18T05:00:02.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52789-2026-09-19T05:00:01.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 22, Route 5</category>
       <description>Routes 5 and 22 detoured off 8th St from 7th St Transit Center to 2nd Ave S from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: 10th St N &amp; Twins Way (3rd Ave) - Stop #11172 (southbound); 8th St &amp; 3rd/4th Ave Station - Stop #17910 (eastbound). | Action: Board at: 10th St N &amp; Twins Way (3rd Ave) - Stop #11172 (southbound); 8th St &amp; 3rd/4th Ave Station - Stop #17910 (eastbound)</description>
@@ -563,8 +536,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 38, METRO B Line: Detour via Lagoon Ave (Fremont Ave to Hennepin Ave)</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-52592-2026-09-18T05:00:02.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52592-2026-09-19T04:29:02.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 04:29:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 38, METRO B Line</category>
       <description>METRO B Line and Route 38 detoured off Lagoon Ave from Fremont Ave to Hennepin Ave until further notice every Friday and Saturday from 12:00 AM to 2:00 AM</description>
@@ -572,8 +545,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 46: Detour via 50th St W &amp; Indianola Ave</title>
       <link>https://www.metrotransit.org/route/46</link>
-      <guid isPermaLink="false">Metro Transit-52781-2026-09-14T13:50:27.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 13:50:27 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52781-2026-09-19T05:00:01.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 46</category>
       <description>Route 46 detoured off 50th St from Halifax Ave to France Ave from 11:00 AM to 5:00 PM on Sun Sep 20 due to special event. Board at: 50th St W &amp; Indianola Ave - Stop #986 (eastbound); 50th St W &amp; Ewing Ave S - Stop #990 (eastbound). | Action: Board at: 50th St W &amp; Indianola Ave - Stop #986 (eastbound); 50th St W &amp; Ewing Ave S - Stop #990 (eastbound)</description>
@@ -581,8 +554,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 48: Detour via Glenwood Ave &amp; 10th St N</title>
       <link>https://www.metrotransit.org/route/48</link>
-      <guid isPermaLink="false">Metro Transit-52800-2026-09-18T21:24:14.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 21:24:14 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52800-2026-09-19T05:00:01.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 48</category>
       <description>Route 48 detoured off 8th St from 7th St Transit Center to 2nd Ave S from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: Glenwood Ave &amp; 10th St N - Stop #3053 (eastbound); 8th St &amp; 3rd/4th Ave Station - Stop #17910 (eastbound). | Action: Board at: Glenwood Ave &amp; 10th St N - Stop #3053 (eastbound); 8th St &amp; 3rd/4th Ave Station - Stop #17910 (eastbound)</description>
@@ -626,8 +599,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 61: Detour via Regular Corridor</title>
       <link>https://www.metrotransit.org/route/61</link>
-      <guid isPermaLink="false">Metro Transit-52801-2026-09-18T05:00:01.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52801-2026-09-19T05:00:01.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 61</category>
       <description>Route 61 detoured out of 7th St Transit Center from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: Hennepin &amp; 8th St Station - Stop #53099 (northbound). | Action: Board at: Hennepin &amp; 8th St Station - Stop #53099 (northbound)</description>
@@ -653,8 +626,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 62, Route 62D: Detour via Wabasha St &amp; Congress St</title>
       <link>https://www.metrotransit.org/route/62</link>
-      <guid isPermaLink="false">Metro Transit-52782-2026-09-18T05:00:01.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52782-2026-09-19T05:00:01.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 62, Route 62D</category>
       <description>Route 62D detoured off Wabasha St from Cesar Chavez St to Congress St from 11:00 AM to 11:00 PM on Sat Sep 19 due to Back Pocket Vintage One Year Party. Board at: Wabasha St &amp; Congress St - Stop #287 (northbound); Wabasha St &amp; Torre de San Miguel - Stop #2781 (northbound). | Action: Board at: Wabasha St &amp; Congress St - Stop #287 (northbound); Wabasha St &amp; Torre de San Miguel - Stop #2781 (northbound)</description>
@@ -694,15 +667,6 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 63</category>
       <description>Route 63 detoured off Grand Ave from Fairview Ave to Hamline Ave beginning Mon Jul 20 at 4:00 AM until further notice due to construction. Board at: Grand Ave &amp; Prior Ave - Stop #3108 (eastbound); Temporary stop on Grand Ave just before Fairview Ave (eastbound); Temporary stop on Summit Ave &amp; Snelling Ave (eastbound). | Action: Board at: Grand Ave &amp; Prior Ave - Stop #3108 (eastbound); Temporary stop on Grand Ave just before Fairview Ave (eastbound); Temporary stop on Summit Ave &amp; Snelling Ave (eastbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 64, Route 64N: Detour via 7th Ave E &amp; South Ave</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-48296-2026-09-18T05:00:00.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 05:00:00 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 64, Route 64N</category>
-      <description>Route 64N detoured off 7th Ave from South Ave to Margaret St from Fri Jun 5 to Fri Sep 18 every Friday from 6:00 PM to 10:00 PM due to North St Paul Friday Night History Cruzer Car Show. Board at: 7th Ave E &amp; South Ave (Co Rd B) - Stop #3901 (eastbound); Margaret St N &amp; Seppala Blvd - Stop #56898 (northbound). | Action: Board at: 7th Ave E &amp; South Ave (Co Rd B) - Stop #3901 (eastbound); Margaret St N &amp; Seppala Blvd - Stop #56898 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 64: Detour via 5th St &amp; Jackson St</title>
@@ -860,8 +824,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 94: Detour via Route 94 detoured off 6th St &amp; 7th St</title>
       <link>https://www.metrotransit.org/route/94</link>
-      <guid isPermaLink="false">Metro Transit-52802-2026-09-18T21:20:28.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 21:20:28 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52802-2026-09-19T05:00:01.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 94</category>
       <description>Route 94 detoured off 6th St and 7th St from 5th St Transit Center to Marquette Ave from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: 5th St Transit Center Gate B - Stop #51200; 4th St N &amp; Hennepin Ave - Stop #17859 (eastbound); 6th St S &amp; 2nd Ave / 3rd Ave S - Stop #17884 (eastbound). | Action: Board at: 5th St Transit Center Gate B - Stop #51200; 4th St N &amp; Hennepin Ave - Stop #17859 (eastbound); 6th St S &amp; 2nd Ave / 3rd Ave S - Stop #17884 (eastbound)</description>
@@ -883,15 +847,6 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 215</category>
       <description>Stops on McKnight Rd are closed for Route 215 until further notice due to construction. Board at: McKnight Rd N &amp; Arlington Ave E - Stop #57701 (northbound); McKnight Rd N &amp; Larpenteur Ave E - Stop #57680 (northbound). | Action: Board at: McKnight Rd N &amp; Arlington Ave E - Stop #57701 (northbound); McKnight Rd N &amp; Larpenteur Ave E - Stop #57680 (northbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 219: Detour via Hwy 120 from 5th Ave to 7th Ave &amp; off 7th Ave</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-48297-2026-09-18T05:00:01.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 05:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 219</category>
-      <description>Route 219 detoured off Geneva/Hwy 120 from 5th Ave to 7th Ave and off 7th Ave from Geneva/Hwy 120 to Margaret St from Fri Jun 5 to Fri Sep 18 every Friday from 6:00 PM to 10:00 PM due to North St Paul Friday Night History Cruzer Car Show. Board at: Hwy 120 - Geneva &amp; 43rd St N - Stop #41756 (northbound); Margaret St N &amp; Seppala Blvd - Stop #56898 (northbound). | Action: Board at: Hwy 120 - Geneva &amp; 43rd St N - Stop #41756 (northbound); Margaret St N &amp; Seppala Blvd - Stop #56898 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 219: Detour via Hadley Ave &amp; 7th St</title>
@@ -1058,8 +1013,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 645: Detour via Marquette Ave &amp; 5th St</title>
       <link>https://www.metrotransit.org/route/645</link>
-      <guid isPermaLink="false">Metro Transit-52803-2026-09-18T21:24:51.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 21:24:51 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52803-2026-09-19T05:00:01.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 645</category>
       <description>Route 645 detoured off Marquette Ave from 6th St to 11th St from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound); Temporary stop on 2nd Ave S &amp; 9th St (southbound); 11th St S &amp; Marquette Ave - Stop #53296 (westbound). | Action: Board at: Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound); Temporary stop on 2nd Ave S &amp; 9th St (southbound); 11th St S &amp; Marquette Ave - Stop #53296 (westbound)</description>
@@ -1076,8 +1031,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 645: Detour via Regular Corridor</title>
       <link>https://www.metrotransit.org/route/645</link>
-      <guid isPermaLink="false">Metro Transit-52951-2026-09-18T14:30:01.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 14:30:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52951-2026-09-19T05:00:00.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 645</category>
       <description>Route 645 detoured off Hwy 394 from Hwy 100 to downtown Minneapolis from Fri Sep 18 at 10:00 AM to Sun Sep 20 at 10:00 PM due to construction</description>
@@ -1139,8 +1094,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 827, Route 888: Detour via Marquette Ave &amp; 5th St</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-52804-2026-09-18T21:25:57.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 21:25:57 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52804-2026-09-19T05:00:01.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 827, Route 888</category>
       <description>Routes 827 and 888 detoured off Marquette Ave from 6th St to 11th St from 7:00 AM to 11:30 AM on Sat Sep 19 due to Walk to End Alzheimer&apos;s. Board at: Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound); Temporary stop on 2nd Ave S &amp; 9th St (southbound). | Action: Board at: Marquette Ave &amp; 5th St - Stop Group B - Stop #53293 (southbound); Temporary stop on 2nd Ave S &amp; 9th St (southbound)</description>
@@ -1162,6 +1117,15 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 860</category>
       <description>Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction. Board at: Temporary stop on Grove St &amp; Lafayette Rd (eastbound); LaFayette Rd &amp; 8th St - Stop #11925 (southbound). | Action: Board at: Temporary stop on Grove St &amp; Lafayette Rd (eastbound); LaFayette Rd &amp; 8th St - Stop #11925 (southbound)</description>
+    </item>
+    <item>
+      <title>[Minor] METRO Green Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/green</link>
+      <guid isPermaLink="false">Metro Transit-53027-2026-09-19T03:02:39.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 03:02:39 GMT</pubDate>
+      <category>Minor</category>
+      <category>METRO Green Line</category>
+      <description>Green Line train service resuming between Raymond Station and Snelling Station. Delays expected due to previous train-pedestrian collision.</description>
     </item>
     <item>
       <title>[Minor] Route 38: Service Advisory</title>
