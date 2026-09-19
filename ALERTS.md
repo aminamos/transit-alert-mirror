@@ -2,34 +2,34 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-125-blue)](#)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-127-blue)](#)
 [![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-121-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
+[![Moderate](https://img.shields.io/badge/Moderate-122-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-83-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-19T11:53:37.119Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-19T15:18:14.207Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (4) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (3) • **Route 9** (5) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (4) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (5) • **Route 65** (2) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (6) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
+**METRO A Line** (4) • **METRO B Line** (2) • **METRO Blue Line** (2) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (3) • **Route 9** (5) • **Route 10** (3) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (4) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (5) • **Route 65** (2) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (6) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO B Line: Westbound 6:10 AM Trip Canceled (Union Depot & Gate A1)
+### 🚨 METRO B Line: Eastbound 8:40 AM Trip Canceled (Lake St W & France Ave S)
 
 - **Affected Routes**: `METRO B Line`
-- **Direction**: Westbound
+- **Direction**: Eastbound
 - **Severity**: `Critical`
 
-**Summary**: Westbound B Line trip departing Union Depot & Gate A1 at 6:10 AM canceled
+**Summary**: Eastbound B Line trip departing Lake St W & France Ave S at 8:40 AM canceled today due to mechanical issue
 
 [Official Agency Advisory](https://www.metrotransit.org/route/bline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Westbound B Line trip departing Union Depot & Gate A1 at 6:10 AM canceled
+**Header**: Eastbound B Line trip departing Lake St W & France Ave S at 8:40 AM canceled today due to mechanical issue
 
 </details>
 
@@ -2600,6 +2600,44 @@ No stations missed.
 Eastbound buses will travel regular route.
 
 Westbound buses will travel regular route on Lagoon Ave to Fremont Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave, right on Lagoon Ave and resume regular route.
+```
+
+</details>
+
+---
+
+### ⚠️ Route 38: Detour via Yellow Circle Dr & Red Circle Dr
+
+- **Affected Routes**: `Route 38`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Yellow Circle Dr & Red Circle Dr; Bren Rd W & Feltl Rd; Bren Rd W & Scoreboard - Rear - St; Red Circle Dr & Shady Oak Rd; Bren Rd W (Bren Rd E to Shady Oak Rd and off Shady Oak Rd from Bren Rd to Red Circle Dr)
+- **Closed Stops**: Bren Rd W & Feltl Rd (Stop #48208), Bren Rd W & Scoreboard - Rear (Stop #48209), Red Circle Dr & Shady Oak Rd (Stop #81108), Stop #10380, Stop #48313, Stop #48212
+
+**Summary**: Route 38 detoured off Bren Rd W from Bren Rd E to Shady Oak Rd and off Shady Oak Rd from Bren Rd to Red Circle Dr until later today due to construction. Board at: Bren Rd W & #10380 Digital River Inc - Stop #48313 (westbound); Yellow Circle Dr & Red Circle Dr - Stop #48212 (eastbound).
+
+> 💡 **Rider Action**: Board at: Bren Rd W & #10380 Digital River Inc - Stop #48313 (westbound); Yellow Circle Dr & Red Circle Dr - Stop #48212 (eastbound)
+
+> 🔄 **Detour Path**: Buses will travel regular route on Bren Rd W to Bren Rd E, exit left to Bren Rd E, stay right on Bren Rd E, right on Red Circle Dr, stay left on Red Circle Dr, take left at stop sign and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/38)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 38 detoured off Bren Rd W from Bren Rd E to Shady Oak Rd and off Shady Oak Rd from Bren Rd to Red Circle Dr until later today due to construction
+
+```text
+Get on/off buses at:
+Bren Rd W & #10380 Digital River Inc - Stop #48313 (westbound)
+Yellow Circle Dr & Red Circle Dr - Stop #48212 (eastbound)
+
+Buses will travel regular route on Bren Rd W to Bren Rd E, exit left to Bren Rd E, stay right on Bren Rd E, right on Red Circle Dr, stay left on Red Circle Dr, take left at stop sign and resume regular route.
+
+Affected stops:
+Bren Rd W & Feltl Rd - Stop #48208 (westbound)
+Bren Rd W & Scoreboard - Rear - Stop #48209 (southbound)
+Red Circle Dr & Shady Oak Rd - Stop #81108 (eastbound)
 ```
 
 </details>
@@ -5415,6 +5453,28 @@ LaFayette Rd & Grove St - Stop #11923 (southbound)
 ---
 
 ## ℹ️ Minor Advisories
+
+### ℹ️ METRO Blue Line: Service Advisory
+
+- **Affected Routes**: `METRO Blue Line`
+- **Direction**: All
+- **Severity**: `Minor`
+- **Closed Stops**: Stop #51430, Stop #51415
+
+**Summary**: Blue Line service advisory: Trains not serving 46th St Station until later today due to train/pedestrian collision
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Blue Line service advisory: Trains not serving 46th St Station until later today due to train/pedestrian collision
+
+```text
+We are working on replacement buses until the station reopens. Thanks for your patience while we work to get trains moving through the area again.
+```
+
+</details>
+
+---
 
 ### ℹ️ Route 38: Service Advisory
 

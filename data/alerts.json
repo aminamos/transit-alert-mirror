@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-19T11:53:37.119Z",
-    "totalAlerts": 125,
+    "generatedAt": "2026-09-19T15:18:14.207Z",
+    "totalAlerts": 127,
     "criticalCount": 1,
-    "moderateCount": 121,
-    "minorCount": 3,
+    "moderateCount": 122,
+    "minorCount": 4,
     "affectedRoutesCount": 83,
     "agencies": [
       "Metro Transit"
@@ -12,29 +12,29 @@
   },
   "alerts": [
     {
-      "id": "53030",
+      "id": "53034",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO B Line: Westbound 6:10 AM Trip Canceled (Union Depot & Gate A1)",
-      "summary": "Westbound B Line trip departing Union Depot & Gate A1 at 6:10 AM canceled",
+      "title": "METRO B Line: Eastbound 8:40 AM Trip Canceled (Lake St W & France Ave S)",
+      "summary": "Eastbound B Line trip departing Lake St W & France Ave S at 8:40 AM canceled today due to mechanical issue",
       "affectedRoutes": [
         "METRO B Line"
       ],
-      "direction": "Westbound",
+      "direction": "Eastbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-19T11:11:00.000Z",
-        "end": "2026-09-19T13:04:00.000Z"
+        "start": "2026-09-19T13:40:00.000Z",
+        "end": "2026-09-19T15:39:00.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-09-19T11:11:46.000Z",
-      "rawHeader": "Westbound B Line trip departing Union Depot & Gate A1 at 6:10 AM canceled",
+      "updatedAt": "2026-09-19T13:39:09.000Z",
+      "rawHeader": "Eastbound B Line trip departing Lake St W & France Ave S at 8:40 AM canceled today due to mechanical issue",
       "rawDescription": ""
     },
     {
@@ -4438,6 +4438,70 @@
       "updatedAt": "2026-09-19T07:15:01.000Z",
       "rawHeader": "METRO B Line and Route 38 detoured off Lagoon Ave from Fremont Ave to Hennepin Ave until further notice every Friday and Saturday from 12:00 AM to 2:00 AM",
       "rawDescription": "No stations missed.\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on Lagoon Ave to Fremont Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave, right on Lagoon Ave and resume regular route."
+    },
+    {
+      "id": "53032",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 38: Detour via Yellow Circle Dr & Red Circle Dr",
+      "summary": "Route 38 detoured off Bren Rd W from Bren Rd E to Shady Oak Rd and off Shady Oak Rd from Bren Rd to Red Circle Dr until later today due to construction. Board at: Bren Rd W & #10380 Digital River Inc - Stop #48313 (westbound); Yellow Circle Dr & Red Circle Dr - Stop #48212 (eastbound).",
+      "affectedRoutes": [
+        "Route 38"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Yellow Circle Dr & Red Circle Dr",
+        "Bren Rd W & Feltl Rd",
+        "Bren Rd W & Scoreboard - Rear - St",
+        "Red Circle Dr & Shady Oak Rd",
+        "Bren Rd W (Bren Rd E to Shady Oak Rd and off Shady Oak Rd from Bren Rd to Red Circle Dr)"
+      ],
+      "closedStopIds": [
+        "48208",
+        "48209",
+        "81108",
+        "10380",
+        "48313",
+        "48212"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "48208",
+          "name": "Bren Rd W & Feltl Rd",
+          "direction": "westbound"
+        },
+        {
+          "id": "48209",
+          "name": "Bren Rd W & Scoreboard - Rear",
+          "direction": "southbound"
+        },
+        {
+          "id": "81108",
+          "name": "Red Circle Dr & Shady Oak Rd",
+          "direction": "eastbound"
+        },
+        {
+          "id": "10380"
+        },
+        {
+          "id": "48313"
+        },
+        {
+          "id": "48212"
+        }
+      ],
+      "riderAlternative": "Board at: Bren Rd W & #10380 Digital River Inc - Stop #48313 (westbound); Yellow Circle Dr & Red Circle Dr - Stop #48212 (eastbound)",
+      "detourDetails": "Buses will travel regular route on Bren Rd W to Bren Rd E, exit left to Bren Rd E, stay right on Bren Rd E, right on Red Circle Dr, stay left on Red Circle Dr, take left at stop sign and resume regular route.",
+      "activePeriod": {
+        "start": "2026-09-19T13:00:00.000Z",
+        "end": "2026-09-19T17:17:23.000Z"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/38",
+      "updatedAt": "2026-09-19T13:00:56.000Z",
+      "rawHeader": "Route 38 detoured off Bren Rd W from Bren Rd E to Shady Oak Rd and off Shady Oak Rd from Bren Rd to Red Circle Dr until later today due to construction",
+      "rawDescription": "Get on/off buses at:\r\nBren Rd W & #10380 Digital River Inc - Stop #48313 (westbound)\r\nYellow Circle Dr & Red Circle Dr - Stop #48212 (eastbound)\r\n\nBuses will travel regular route on Bren Rd W to Bren Rd E, exit left to Bren Rd E, stay right on Bren Rd E, right on Red Circle Dr, stay left on Red Circle Dr, take left at stop sign and resume regular route.\r\n\nAffected stops:\r\nBren Rd W & Feltl Rd - Stop #48208 (westbound)\r\nBren Rd W & Scoreboard - Rear - Stop #48209 (southbound)\r\nRed Circle Dr & Shady Oak Rd - Stop #81108 (eastbound)"
     },
     {
       "id": "52781",
@@ -8923,6 +8987,41 @@
       "updatedAt": "2026-09-03T18:51:20.000Z",
       "rawHeader": "Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction",
       "rawDescription": "Updated get on/off stops 6/9 1:30 pm.\r\n\nGet on/off buses at:\r\nTemporary stop on Grove St & Lafayette Rd (eastbound)\r\nLaFayette Rd & 8th St - Stop #11925 (southbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on southbound I-35E to University Ave, continue on I-35E and exit at Wacouta St, left on 9th St, left on Broadway St, right on Grove St, right on Lafayette Rd, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nUniversity Ave & Mississippi St - Stop #56109 (eastbound)\r\nUniversity Ave & Lafayette St - Stop #57630 (eastbound)\r\nLaFayette Rd & Grove St - Stop #11923 (southbound)"
+    },
+    {
+      "id": "53035",
+      "agency": "Metro Transit",
+      "severity": "Minor",
+      "title": "METRO Blue Line: Service Advisory",
+      "summary": "Blue Line service advisory: Trains not serving 46th St Station until later today due to train/pedestrian collision",
+      "affectedRoutes": [
+        "METRO Blue Line"
+      ],
+      "direction": "All",
+      "intersections": [],
+      "closedStopIds": [
+        "51430",
+        "51415"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "51430"
+        },
+        {
+          "id": "51415"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-19T15:13:00.000Z",
+        "end": "2026-09-19T17:17:23.000Z"
+      },
+      "cause": "ACCIDENT",
+      "effect": "OTHER_EFFECT",
+      "updatedAt": "2026-09-19T15:13:58.000Z",
+      "rawHeader": "Blue Line service advisory: Trains not serving 46th St Station until later today due to train/pedestrian collision",
+      "rawDescription": "We are working on replacement buses until the station reopens. Thanks for your patience while we work to get trains moving through the area again."
     },
     {
       "id": "52355",
