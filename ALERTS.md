@@ -2,77 +2,34 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-135-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-8-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-131-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-124-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-86-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-85-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-18T22:59:31.994Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-19T01:06:10.879Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (4) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO C Line** (2) • **METRO D Line** (4) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (5) • **Route 7** (3) • **Route 9** (5) • **Route 10** (3) • **Route 11** (4) • **Route 14** (3) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (4) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (6) • **Route 64N** (1) • **Route 65** (2) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (3) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (2) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (6) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 802** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
+**METRO A Line** (5) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (4) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (3) • **Route 9** (5) • **Route 10** (4) • **Route 11** (4) • **Route 14** (3) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (4) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (6) • **Route 64N** (1) • **Route 65** (2) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (2) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (6) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO B Line: Eastbound 5:51 PM Trip Canceled (Lake St W & France Ave S)
+### 🚨 METRO A Line: Northbound 7:20 PM Trip Canceled (46th St Station Gate A)
 
-- **Affected Routes**: `METRO B Line`
-- **Direction**: Eastbound
+- **Affected Routes**: `METRO A Line`
+- **Direction**: Northbound
 - **Severity**: `Critical`
 
-**Summary**: Eastbound B Line trip departing Lake St W & France Ave S at 5:51 PM canceled today due to mechanical issue
+**Summary**: Northbound A Line trip departing 46th St Station Gate A at 7:20 PM canceled today due to maintenance work
 
-[Official Agency Advisory](https://www.metrotransit.org/route/bline)
+[Official Agency Advisory](https://www.metrotransit.org/route/aline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound B Line trip departing Lake St W & France Ave S at 5:51 PM canceled today due to mechanical issue
-
-</details>
-
----
-
-### 🚨 METRO C Line: Service Canceled
-
-- **Affected Routes**: `METRO C Line`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing 7th St & Park St; 19 PM
-departing 7th St & Park St; 57 PM
-departing 7th St & Park St; 17 PM
-departing 7th St & Park St; 45 PM
-departing 7th St & Park St
-
-**Summary**: C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 12:28 PM and ten other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/cline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 12:28 PM and ten other trips canceled today
-
-```text
-Updated at 2:01 PM to cancel additional trips.
-
-Affected northbound trips:
-departing 7th St & Park Station at 1:19 PM
-departing 7th St & Park Station at 2:57 PM
-departing 7th St & Park Station at 3:17 PM
-departing 7th St & Park Station at 4:45 PM
-departing 7th St & Park Station at 5:06 PM
-
-Affected southbound trips:
-departing Brooklyn Ctr Transit Ctr Gate I at 12:28 PM
-departing Brooklyn Ctr Transit Ctr Gate I at 2:07 PM
-departing Brooklyn Ctr Transit Ctr Gate I at 3:53 PM
-departing Brooklyn Ctr Transit Ctr Gate I at 4:14 PM
-departing Brooklyn Ctr Transit Ctr Gate I at 5:39 PM
-departing Brooklyn Ctr Transit Ctr Gate I at 5:58 PM
-```
+**Header**: Northbound A Line trip departing 46th St Station Gate A at 7:20 PM canceled today due to maintenance work
 
 </details>
 
@@ -114,40 +71,22 @@ departing Brooklyn Ctr Transit Ctr Gate F at 6:00 PM
 
 ---
 
-### 🚨 METRO Orange Line: Service Advisory
+### 🚨 Route 10: Service Advisory
 
-- **Affected Routes**: `METRO Orange Line`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #51110, Stop #56828, Stop #56829, Stop #56830, Stop #56831, Stop #48084
-
-**Summary**: Northbound Orange Line trip departing Burnsville Heart of the City at 5:07 PM will start from I35W & 46th St Station. Previous stops missed
-
-[Official Agency Advisory](https://www.metrotransit.org/route/orange)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Orange Line trip departing Burnsville Heart of the City at 5:07 PM will start from I35W & 46th St Station. Previous stops missed
-
-</details>
-
----
-
-### 🚨 Route 5: Southbound 4:51 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate C)
-
-- **Affected Routes**: `Route 5`
+- **Affected Routes**: `Route 10`
 - **Direction**: Southbound
 - **Severity**: `Critical`
+- **Corridors & Intersections**: 02 PM will start from Central Ave NE & 41st Ave N
+- **Closed Stops**: Stop #17137, Stop #17138, Stop #17141, Stop #17145, Stop #17146, Stop #17150, Stop #17154, Stop #17157 *(+35 more)*
 
-**Summary**: Southbound Route 5 trip departing Brooklyn Ctr Transit Ctr Gate C at 4:51 PM canceled today due to traffic
+**Summary**: Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 6:02 PM will start from Central Ave NE & 41st Ave NE at 6:28 PM today due to police activity. Previous stops will be missed
 
-[Official Agency Advisory](https://www.metrotransit.org/route/5)
+[Official Agency Advisory](https://www.metrotransit.org/route/10)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 5 trip departing Brooklyn Ctr Transit Ctr Gate C at 4:51 PM canceled today due to traffic
+**Header**: Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 6:02 PM will start from Central Ave NE & 41st Ave NE at 6:28 PM today due to police activity. Previous stops will be missed
 
 </details>
 
@@ -183,69 +122,6 @@ departing Westgate Station - Gate B at 1:04 PM
 departing Westgate Station - Gate B at 3:04 PM
 departing Westgate Station - Gate B at 5:04 PM
 departing Westgate Station - Gate B at 7:05 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 71: Service Canceled
-
-- **Affected Routes**: `Route 71`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today
-
-```text
-Affected northbound trips:
-departing Inver Hills College & Shelter at 1:38 PM
-departing Inver Hills College & Shelter at 4:38 PM
-
-Affected southbound trips:
-departing Market Place Dr & The Marketplace Ctr at 3:10 PM
-departing Market Place Dr & The Marketplace Ctr at 6:15 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 802: Service Canceled
-
-- **Affected Routes**: `Route 802`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/802)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
-
-```text
-Updated at 11:57 AM to cancel additional trips.
-
-Affected northbound trips:
-departing Northtown Transit Ctr Gate E at 11:34 AM
-departing Northtown Transit Ctr Gate E at 1:34 PM
-departing Northtown Transit Ctr Gate E at 3:34 PM
-departing Northtown Transit Ctr Gate E at 5:34 PM
-
-Affected southbound trips:
-departing Anoka Tech College & Main Entrance at 12:42 PM
-departing Anoka Tech College & Main Entrance at 2:42 PM
-departing Anoka Tech College & Main Entrance at 4:42 PM
 ```
 
 </details>

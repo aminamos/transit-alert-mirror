@@ -4,26 +4,17 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Fri, 18 Sep 2026 22:59:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 01:06:10 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO B Line: Eastbound 5:51 PM Trip Canceled (Lake St W &amp; France Ave S)</title>
-      <link>https://www.metrotransit.org/route/bline</link>
-      <guid isPermaLink="false">Metro Transit-53022-2026-09-18T22:43:00.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 22:43:00 GMT</pubDate>
+      <title>[Critical] METRO A Line: Northbound 7:20 PM Trip Canceled (46th St Station Gate A)</title>
+      <link>https://www.metrotransit.org/route/aline</link>
+      <guid isPermaLink="false">Metro Transit-53025-2026-09-19T00:38:08.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 00:38:08 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO B Line</category>
-      <description>Eastbound B Line trip departing Lake St W &amp; France Ave S at 5:51 PM canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] METRO C Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/cline</link>
-      <guid isPermaLink="false">Metro Transit-53006-2026-09-18T19:01:28.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 19:01:28 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO C Line</category>
-      <description>C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 12:28 PM and ten other trips canceled today</description>
+      <category>METRO A Line</category>
+      <description>Northbound A Line trip departing 46th St Station Gate A at 7:20 PM canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Critical] METRO D Line: Service Canceled</title>
@@ -35,22 +26,13 @@
       <description>D Line trip departing MOA Transit Station Gate A at 12:24 PM and eight other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] METRO Orange Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/orange</link>
-      <guid isPermaLink="false">Metro Transit-53021-2026-09-18T22:06:00.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 22:06:00 GMT</pubDate>
+      <title>[Critical] Route 10: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/10</link>
+      <guid isPermaLink="false">Metro Transit-53023-2026-09-19T01:04:01.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 01:04:01 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO Orange Line</category>
-      <description>Northbound Orange Line trip departing Burnsville Heart of the City at 5:07 PM will start from I35W &amp; 46th St Station. Previous stops missed</description>
-    </item>
-    <item>
-      <title>[Critical] Route 5: Southbound 4:51 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate C)</title>
-      <link>https://www.metrotransit.org/route/5</link>
-      <guid isPermaLink="false">Metro Transit-53019-2026-09-18T21:33:48.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 21:33:48 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 5</category>
-      <description>Southbound Route 5 trip departing Brooklyn Ctr Transit Ctr Gate C at 4:51 PM canceled today due to traffic</description>
+      <category>Route 10</category>
+      <description>Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 6:02 PM will start from Central Ave NE &amp; 41st Ave NE at 6:28 PM today due to police activity. Previous stops will be missed</description>
     </item>
     <item>
       <title>[Critical] Route 30: Service Canceled</title>
@@ -60,24 +42,6 @@
       <category>Critical</category>
       <category>Route 30</category>
       <description>Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 71: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/71</link>
-      <guid isPermaLink="false">Metro Transit-53003-2026-09-18T18:08:01.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 18:08:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 71</category>
-      <description>Route 71 trip departing Inver Hills College &amp; Shelter at 1:38 PM and three other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 802: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/802</link>
-      <guid isPermaLink="false">Metro Transit-53007-2026-09-18T16:57:32.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 16:57:32 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 802</category>
-      <description>Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>

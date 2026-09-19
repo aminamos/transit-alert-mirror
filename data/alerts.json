@@ -1,73 +1,41 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-18T22:59:31.994Z",
-    "totalAlerts": 135,
-    "criticalCount": 8,
+    "generatedAt": "2026-09-19T01:06:10.879Z",
+    "totalAlerts": 131,
+    "criticalCount": 4,
     "moderateCount": 124,
     "minorCount": 3,
-    "affectedRoutesCount": 86,
+    "affectedRoutesCount": 85,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "53022",
+      "id": "53025",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO B Line: Eastbound 5:51 PM Trip Canceled (Lake St W & France Ave S)",
-      "summary": "Eastbound B Line trip departing Lake St W & France Ave S at 5:51 PM canceled today due to mechanical issue",
+      "title": "METRO A Line: Northbound 7:20 PM Trip Canceled (46th St Station Gate A)",
+      "summary": "Northbound A Line trip departing 46th St Station Gate A at 7:20 PM canceled today due to maintenance work",
       "affectedRoutes": [
-        "METRO B Line"
+        "METRO A Line"
       ],
-      "direction": "Eastbound",
+      "direction": "Northbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-18T22:51:00.000Z",
-        "end": "2026-09-19T01:00:00.000Z"
+        "start": "2026-09-19T00:37:00.000Z",
+        "end": "2026-09-19T01:57:00.000Z"
       },
-      "cause": "TECHNICAL_PROBLEM",
+      "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-09-18T22:43:00.000Z",
-      "rawHeader": "Eastbound B Line trip departing Lake St W & France Ave S at 5:51 PM canceled today due to mechanical issue",
+      "url": "https://www.metrotransit.org/route/aline",
+      "updatedAt": "2026-09-19T00:38:08.000Z",
+      "rawHeader": "Northbound A Line trip departing 46th St Station Gate A at 7:20 PM canceled today due to maintenance work",
       "rawDescription": ""
-    },
-    {
-      "id": "53006",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO C Line: Service Canceled",
-      "summary": "C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 12:28 PM and ten other trips canceled today",
-      "affectedRoutes": [
-        "METRO C Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing 7th St & Park St",
-        "19 PM\ndeparting 7th St & Park St",
-        "57 PM\ndeparting 7th St & Park St",
-        "17 PM\ndeparting 7th St & Park St",
-        "45 PM\ndeparting 7th St & Park St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-18T19:01:00.000Z",
-        "end": "2026-09-19T00:35:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/cline",
-      "updatedAt": "2026-09-18T19:01:28.000Z",
-      "rawHeader": "C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 12:28 PM and ten other trips canceled today",
-      "rawDescription": "Updated at 2:01 PM to cancel additional trips.\r\n\nAffected northbound trips:\r\ndeparting 7th St & Park Station at 1:19 PM\r\ndeparting 7th St & Park Station at 2:57 PM\r\ndeparting 7th St & Park Station at 3:17 PM\r\ndeparting 7th St & Park Station at 4:45 PM\r\ndeparting 7th St & Park Station at 5:06 PM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 12:28 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 2:07 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 3:53 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 4:14 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 5:39 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 5:58 PM"
     },
     {
       "id": "53008",
@@ -96,81 +64,202 @@
       "rawDescription": "Updated at 1:55 PM to cancel additional trips.\r\n\nAffected northbound trips:\r\ndeparting MOA Transit Station Gate A at 12:24 PM\r\ndeparting MOA Transit Station Gate A at 1:03 PM\r\ndeparting MOA Transit Station Gate A at 3:39 PM\r\ndeparting MOA Transit Station Gate A at 4:19 PM\r\ndeparting MOA Transit Station Gate A at 7:00 PM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 1:59 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 2:38 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 5:18 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 6:00 PM"
     },
     {
-      "id": "53021",
+      "id": "53023",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO Orange Line: Service Advisory",
-      "summary": "Northbound Orange Line trip departing Burnsville Heart of the City at 5:07 PM will start from I35W & 46th St Station. Previous stops missed",
+      "title": "Route 10: Service Advisory",
+      "summary": "Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 6:02 PM will start from Central Ave NE & 41st Ave NE at 6:28 PM today due to police activity. Previous stops will be missed",
       "affectedRoutes": [
-        "METRO Orange Line"
+        "Route 10"
       ],
-      "direction": "Northbound",
-      "intersections": [],
+      "direction": "Southbound",
+      "intersections": [
+        "02 PM will start from Central Ave NE & 41st Ave N"
+      ],
       "closedStopIds": [
-        "51110",
-        "56828",
-        "56829",
-        "56830",
-        "56831",
-        "48084"
+        "17137",
+        "17138",
+        "17141",
+        "17145",
+        "17146",
+        "17150",
+        "17154",
+        "17157",
+        "17161",
+        "17162",
+        "14022",
+        "14029",
+        "14168",
+        "14173",
+        "14182",
+        "14231",
+        "14232",
+        "14236",
+        "14240",
+        "14244",
+        "14247",
+        "14251",
+        "14255",
+        "14256",
+        "14260",
+        "14272",
+        "14273",
+        "14283",
+        "40227",
+        "40229",
+        "40231",
+        "40234",
+        "40236",
+        "40237",
+        "57448",
+        "57238",
+        "40707",
+        "40724",
+        "49384",
+        "57115",
+        "57116",
+        "57117",
+        "57165"
       ],
       "closedStopDetails": [
         {
-          "id": "51110"
+          "id": "17137"
         },
         {
-          "id": "56828"
+          "id": "17138"
         },
         {
-          "id": "56829"
+          "id": "17141"
         },
         {
-          "id": "56830"
+          "id": "17145"
         },
         {
-          "id": "56831"
+          "id": "17146"
         },
         {
-          "id": "48084"
+          "id": "17150"
+        },
+        {
+          "id": "17154"
+        },
+        {
+          "id": "17157"
+        },
+        {
+          "id": "17161"
+        },
+        {
+          "id": "17162"
+        },
+        {
+          "id": "14022"
+        },
+        {
+          "id": "14029"
+        },
+        {
+          "id": "14168"
+        },
+        {
+          "id": "14173"
+        },
+        {
+          "id": "14182"
+        },
+        {
+          "id": "14231"
+        },
+        {
+          "id": "14232"
+        },
+        {
+          "id": "14236"
+        },
+        {
+          "id": "14240"
+        },
+        {
+          "id": "14244"
+        },
+        {
+          "id": "14247"
+        },
+        {
+          "id": "14251"
+        },
+        {
+          "id": "14255"
+        },
+        {
+          "id": "14256"
+        },
+        {
+          "id": "14260"
+        },
+        {
+          "id": "14272"
+        },
+        {
+          "id": "14273"
+        },
+        {
+          "id": "14283"
+        },
+        {
+          "id": "40227"
+        },
+        {
+          "id": "40229"
+        },
+        {
+          "id": "40231"
+        },
+        {
+          "id": "40234"
+        },
+        {
+          "id": "40236"
+        },
+        {
+          "id": "40237"
+        },
+        {
+          "id": "57448"
+        },
+        {
+          "id": "57238"
+        },
+        {
+          "id": "40707"
+        },
+        {
+          "id": "40724"
+        },
+        {
+          "id": "49384"
+        },
+        {
+          "id": "57115"
+        },
+        {
+          "id": "57116"
+        },
+        {
+          "id": "57117"
+        },
+        {
+          "id": "57165"
         }
       ],
       "riderAlternative": null,
       "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-18T22:07:00.000Z",
-        "end": "2026-09-18T23:44:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
+      "activePeriod": {},
+      "cause": "POLICE_ACTIVITY",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/orange",
-      "updatedAt": "2026-09-18T22:06:00.000Z",
-      "rawHeader": "Northbound Orange Line trip departing Burnsville Heart of the City at 5:07 PM will start from I35W & 46th St Station. Previous stops missed",
-      "rawDescription": ""
-    },
-    {
-      "id": "53019",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 5: Southbound 4:51 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate C)",
-      "summary": "Southbound Route 5 trip departing Brooklyn Ctr Transit Ctr Gate C at 4:51 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 5"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-18T21:51:00.000Z",
-        "end": "2026-09-18T23:54:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/5",
-      "updatedAt": "2026-09-18T21:33:48.000Z",
-      "rawHeader": "Southbound Route 5 trip departing Brooklyn Ctr Transit Ctr Gate C at 4:51 PM canceled today due to traffic",
+      "url": "https://www.metrotransit.org/route/10",
+      "updatedAt": "2026-09-19T01:04:01.000Z",
+      "rawHeader": "Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 6:02 PM will start from Central Ave NE & 41st Ave NE at 6:28 PM today due to police activity. Previous stops will be missed",
       "rawDescription": ""
     },
     {
@@ -202,58 +291,6 @@
       "updatedAt": "2026-09-18T17:34:01.000Z",
       "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today",
       "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 1:56 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 3:54 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 5:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 1:04 PM\r\ndeparting Westgate Station - Gate B at 3:04 PM\r\ndeparting Westgate Station - Gate B at 5:04 PM\r\ndeparting Westgate Station - Gate B at 7:05 PM"
-    },
-    {
-      "id": "53003",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 71: Service Canceled",
-      "summary": "Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today",
-      "affectedRoutes": [
-        "Route 71"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-18T18:38:00.000Z",
-        "end": "2026-09-19T00:45:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/71",
-      "updatedAt": "2026-09-18T18:08:01.000Z",
-      "rawHeader": "Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 1:38 PM\r\ndeparting Inver Hills College & Shelter at 4:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 3:10 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 6:15 PM"
-    },
-    {
-      "id": "53007",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 802: Service Canceled",
-      "summary": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today",
-      "affectedRoutes": [
-        "Route 802"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-18T16:57:00.000Z",
-        "end": "2026-09-19T00:14:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-09-18T16:57:32.000Z",
-      "rawHeader": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today",
-      "rawDescription": "Updated at 11:57 AM to cancel additional trips.\r\n\nAffected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 11:34 AM\r\ndeparting Northtown Transit Ctr Gate E at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 12:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 2:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 4:42 PM"
     },
     {
       "id": "49962",
@@ -2773,7 +2810,7 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-09-18T12:23:00.000Z",
-        "end": "2026-09-19T00:58:23.000Z"
+        "end": "2026-09-19T03:05:24.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
