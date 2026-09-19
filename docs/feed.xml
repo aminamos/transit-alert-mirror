@@ -4,35 +4,53 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 19 Sep 2026 18:23:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:16:09 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO E Line: Northbound 11:26 AM Trip Canceled (Southdale Transit Center - Gate A)</title>
-      <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-53043-2026-09-19T18:21:02.000Z</guid>
-      <pubDate>Sat, 19 Sep 2026 18:21:02 GMT</pubDate>
+      <title>[Critical] METRO D Line: Southbound 3:03 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-53049-2026-09-19T20:44:25.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 20:44:25 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO E Line</category>
-      <description>Northbound E Line trip departing Southdale Transit Center - Gate A at 11:26 AM canceled today due to maintenance work</description>
+      <category>METRO D Line</category>
+      <description>Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:03 PM canceled today due to maintenance work</description>
     </item>
     <item>
-      <title>[Critical] Route 11, Route 11C: Northbound 11:38 AM Trip Canceled (Nicollet Ave S &amp; 46th St E)</title>
-      <link>https://www.metrotransit.org/route/11</link>
-      <guid isPermaLink="false">Metro Transit-53044-2026-09-19T17:03:27.000Z</guid>
-      <pubDate>Sat, 19 Sep 2026 17:03:27 GMT</pubDate>
+      <title>[Critical] METRO D Line: Southbound 3:17 PM Trip Canceled (7th St &amp; Olson Station)</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-53050-2026-09-19T20:45:14.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 20:45:14 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 11, Route 11C</category>
-      <description>Northbound Route 11C trip departing Nicollet Ave S &amp; 46th St E at 11:38 AM canceled</description>
+      <category>METRO D Line</category>
+      <description>Southbound D Line trip departing 7th St &amp; Olson Station at 3:17 PM canceled today due to medical emergency</description>
+    </item>
+    <item>
+      <title>[Critical] METRO D Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-53051-2026-09-19T20:45:17.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 20:45:17 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO D Line</category>
+      <description>Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 3:43 PM will start from 7th &amp; Olson Hwy. Previous stops missed due to maintenance work</description>
     </item>
     <item>
       <title>[Critical] Route 30: Service Canceled</title>
       <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-53046-2026-09-19T18:20:02.000Z</guid>
-      <pubDate>Sat, 19 Sep 2026 18:20:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53046-2026-09-19T19:06:01.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 19:06:01 GMT</pubDate>
       <category>Critical</category>
       <category>Route 30</category>
       <description>Route 30 trip departing Westgate Station - Gate B at 2:36 PM and five other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 68, Route 68D: Southbound 2:55 PM Trip Canceled (Jackson St &amp; 14th St)</title>
+      <link>https://www.metrotransit.org/route/68</link>
+      <guid isPermaLink="false">Metro Transit-53048-2026-09-19T20:02:17.000Z</guid>
+      <pubDate>Sat, 19 Sep 2026 20:02:17 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 68, Route 68D</category>
+      <description>Southbound Route 68D trip departing Jackson St &amp; 14th St at 2:55 PM canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
@@ -179,15 +197,6 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 7</category>
       <description>Plymouth Ave &amp; Lyndale Ave N - Stop #17654 (westbound) is closed for Route 7 beginning Mon Aug 31 at 7:00 PM until further notice due to construction. Board at: Plymouth Ave &amp; Washington Ave - Stop #17653 (westbound); Plymouth Ave &amp; Bryant Ave N - Stop #17656 (westbound). | Action: Board at: Plymouth Ave &amp; Washington Ave - Stop #17653 (westbound); Plymouth Ave &amp; Bryant Ave N - Stop #17656 (westbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 7: Detour via Route 7 detoured off Plymouth Ave &amp; Theodore Wirth Pkwy</title>
-      <link>https://www.metrotransit.org/route/7</link>
-      <guid isPermaLink="false">Metro Transit-52823-2026-09-19T11:00:04.000Z</guid>
-      <pubDate>Sat, 19 Sep 2026 11:00:04 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 7</category>
-      <description>Route 7 detoured off Plymouth Ave/Theodore Wirth Pkwy from Washburn Ave to Trailhead Building on Sat Sep 19 from 6:30 AM to 2:00 PM due to Loppet Field Day. Board at: Plymouth Ave &amp; Washburn Ave N - Stop #17676 (westbound). | Action: Board at: Plymouth Ave &amp; Washburn Ave N - Stop #17676 (westbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 7: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -1009,15 +1018,6 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 860</category>
       <description>Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction. Board at: Temporary stop on Grove St &amp; Lafayette Rd (eastbound); LaFayette Rd &amp; 8th St - Stop #11925 (southbound). | Action: Board at: Temporary stop on Grove St &amp; Lafayette Rd (eastbound); LaFayette Rd &amp; 8th St - Stop #11925 (southbound)</description>
-    </item>
-    <item>
-      <title>[Minor] METRO Blue Line: Service Advisory</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-53035-2026-09-19T17:52:25.000Z</guid>
-      <pubDate>Sat, 19 Sep 2026 17:52:25 GMT</pubDate>
-      <category>Minor</category>
-      <category>METRO Blue Line</category>
-      <description>Blue Line service update: Regular service is resuming between Fort Snelling and Franklin Ave station after earlier train/pedestrian collision at 46th St Station</description>
     </item>
     <item>
       <title>[Minor] Route 38: Service Advisory</title>
