@@ -2,46 +2,35 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-111-blue)](#)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-112-blue)](#)
 [![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-107-orange)](#-moderate-detours--changes)
+[![Moderate](https://img.shields.io/badge/Moderate-108-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-81-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-82-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-19T23:52:26.344Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-20T03:14:40.645Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (2) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (3) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (4) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (5) • **Route 65** (2) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (5) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (2) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (3) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (4) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (6) • **Route 65** (2) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (5) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 30: Service Canceled
+### 🚨 Route 64: Service Advisory
 
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
+- **Affected Routes**: `Route 64`
+- **Direction**: Westbound
 - **Severity**: `Critical`
+- **Closed Stops**: Stop #5533, Stop #48260, Stop #5347, Stop #5348, Stop #5349, Stop #5352, Stop #5354, Stop #5337 *(+66 more)*
 
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 2:36 PM and five other trips canceled today
+**Summary**: Westbound Route 64 trip departing Maplewood Mall Transit Center at 9:22 PM will start from Maryland & White Bear. Previous stops missed due to collision
 
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
+[Official Agency Advisory](https://www.metrotransit.org/route/64)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 30 trip departing Westgate Station - Gate B at 2:36 PM and five other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Golden Valley Rd Turn & Xerxes Ave N at 3:23 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 5:23 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM
-
-Affected westbound trips:
-departing Westgate Station - Gate B at 2:36 PM
-departing Westgate Station - Gate B at 4:36 PM
-departing Westgate Station - Gate B at 7:06 PM
-```
+**Header**: Westbound Route 64 trip departing Maplewood Mall TC at 9:22 PM will start from Maryland & White Bear. Previous stops missed due to collision
 
 </details>
 
@@ -1977,6 +1966,53 @@ Cedar Ave S & Lake St E - Stop #15317 (northbound)
 Cedar Ave S & 28th St E - Stop #15319 (northbound)
 26th St E & 18th Ave S - Stop #14340 (westbound)
 26th St E & Bloomington Ave S - Stop #43004 (westbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 30, Route 48: Detour via Golden Valley Rd & Morgan Ave N
+
+- **Affected Routes**: `Route 30` `Route 48`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Golden Valley Rd & Morgan Ave N; Golden Valley Rd & Xerxes Ave N; south on Penn to Golden Valley Rd & resume regular route
+
+Affected st; Golden Valley Rd & Upton Ave N; Golden Valley Rd & Sheridan Ave N
+- **Closed Stops**: Golden Valley Rd & Upton Ave N (Stop #8228), Golden Valley Rd & Sheridan Ave N (Stop #52155), Golden Valley Rd & Russell Ave N (Stop #8240), Golden Valley Rd & Penn Ave N (Stop #8248), Golden Valley Rd & Penn / Queen Ave N (Stop #40580), Golden Valley Rd & Russell Ave N (Stop #8242), Golden Valley Rd & Sheridan Ave N (Stop #52360), Golden Valley Rd & Upton Ave N (Stop #8230) *(+2 more)*
+
+**Summary**: Routes 30 and 48 detoured off Golden Valley Rd between Penn & Vincent until later today due to police activity. Board at: Golden Valley Rd & Morgan Ave N - Stop #52720 (westbound); Golden Valley Rd & Xerxes Ave N - Stop #8216 (westbound).
+
+> 💡 **Rider Action**: Board at: Golden Valley Rd & Morgan Ave N - Stop #52720 (westbound); Golden Valley Rd & Xerxes Ave N - Stop #8216 (westbound)
+
+> 🔄 **Detour Path**: Westbound buses will travel to Golden Valley Rd & Penn, travel north on Penn to 23rd, left on 23rd, left on Vincent, right on Golden Valley Rd and resume regular route
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Routes 30 and 48 detoured off Golden Valley Rd between Penn & Vincent until later today due to police activity
+
+```text
+Get on/off buses at:
+Golden Valley Rd & Morgan Ave N - Stop #52720 (westbound)
+Golden Valley Rd & Xerxes Ave N - Stop #8216 (westbound)
+
+Northbound/Westbound buses will travel to Golden Valley Rd & Penn, travel north on Penn to 23rd, left on 23rd, left on Vincent, right on Golden Valley Rd and resume regular route
+
+Southbound/Eastbound buses will travel east on Golden Valley Rd to Vincent, left on Vincent, right on 23rd, right on Penn, south on Penn to Golden Valley Rd and resume regular route
+
+Affected stops:
+Golden Valley Rd & Upton Ave N - Stop #8228 (eastbound)
+Golden Valley Rd & Sheridan Ave N - Stop #52155 (eastbound)
+Golden Valley Rd & Russell Ave N - Stop #8240 (eastbound)
+Golden Valley Rd & Penn Ave N - Stop #8248 (eastbound)
+Golden Valley Rd & Penn / Queen Ave N - Stop #40580 (westbound)
+Golden Valley Rd & Russell Ave N - Stop #8242 (westbound)
+Golden Valley Rd & Sheridan Ave N - Stop #52360 (westbound)
+Golden Valley Rd & Upton Ave N - Stop #8230 (westbound)
 ```
 
 </details>

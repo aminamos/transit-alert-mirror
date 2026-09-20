@@ -1,41 +1,339 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-19T23:52:26.344Z",
-    "totalAlerts": 111,
+    "generatedAt": "2026-09-20T03:14:40.645Z",
+    "totalAlerts": 112,
     "criticalCount": 1,
-    "moderateCount": 107,
+    "moderateCount": 108,
     "minorCount": 3,
-    "affectedRoutesCount": 81,
+    "affectedRoutesCount": 82,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "53046",
+      "id": "53055",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 30: Service Canceled",
-      "summary": "Route 30 trip departing Westgate Station - Gate B at 2:36 PM and five other trips canceled today",
+      "title": "Route 64: Service Advisory",
+      "summary": "Westbound Route 64 trip departing Maplewood Mall Transit Center at 9:22 PM will start from Maryland & White Bear. Previous stops missed due to collision",
       "affectedRoutes": [
-        "Route 30"
+        "Route 64"
       ],
-      "direction": "Both Directions",
+      "direction": "Westbound",
       "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
+      "closedStopIds": [
+        "5533",
+        "48260",
+        "5347",
+        "5348",
+        "5349",
+        "5352",
+        "5354",
+        "5337",
+        "5338",
+        "5166",
+        "52015",
+        "52544",
+        "52554",
+        "5283",
+        "5285",
+        "5286",
+        "5287",
+        "5290",
+        "5292",
+        "5293",
+        "5294",
+        "5295",
+        "5296",
+        "5297",
+        "5298",
+        "5299",
+        "5300",
+        "5301",
+        "5303",
+        "5305",
+        "5307",
+        "53149",
+        "49760",
+        "49769",
+        "49770",
+        "49771",
+        "49772",
+        "49775",
+        "49781",
+        "49782",
+        "49910",
+        "48194",
+        "42000",
+        "42001",
+        "42002",
+        "42004",
+        "42006",
+        "42157",
+        "13031",
+        "13033",
+        "13035",
+        "13037",
+        "13038",
+        "13039",
+        "13041",
+        "13851",
+        "13853",
+        "3813",
+        "3870",
+        "3871",
+        "3874",
+        "3875",
+        "3884",
+        "3885",
+        "3886",
+        "3888",
+        "40023",
+        "12874",
+        "12876",
+        "12878",
+        "12880",
+        "12882",
+        "12884",
+        "12886"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "5533"
+        },
+        {
+          "id": "48260"
+        },
+        {
+          "id": "5347"
+        },
+        {
+          "id": "5348"
+        },
+        {
+          "id": "5349"
+        },
+        {
+          "id": "5352"
+        },
+        {
+          "id": "5354"
+        },
+        {
+          "id": "5337"
+        },
+        {
+          "id": "5338"
+        },
+        {
+          "id": "5166"
+        },
+        {
+          "id": "52015"
+        },
+        {
+          "id": "52544"
+        },
+        {
+          "id": "52554"
+        },
+        {
+          "id": "5283"
+        },
+        {
+          "id": "5285"
+        },
+        {
+          "id": "5286"
+        },
+        {
+          "id": "5287"
+        },
+        {
+          "id": "5290"
+        },
+        {
+          "id": "5292"
+        },
+        {
+          "id": "5293"
+        },
+        {
+          "id": "5294"
+        },
+        {
+          "id": "5295"
+        },
+        {
+          "id": "5296"
+        },
+        {
+          "id": "5297"
+        },
+        {
+          "id": "5298"
+        },
+        {
+          "id": "5299"
+        },
+        {
+          "id": "5300"
+        },
+        {
+          "id": "5301"
+        },
+        {
+          "id": "5303"
+        },
+        {
+          "id": "5305"
+        },
+        {
+          "id": "5307"
+        },
+        {
+          "id": "53149"
+        },
+        {
+          "id": "49760"
+        },
+        {
+          "id": "49769"
+        },
+        {
+          "id": "49770"
+        },
+        {
+          "id": "49771"
+        },
+        {
+          "id": "49772"
+        },
+        {
+          "id": "49775"
+        },
+        {
+          "id": "49781"
+        },
+        {
+          "id": "49782"
+        },
+        {
+          "id": "49910"
+        },
+        {
+          "id": "48194"
+        },
+        {
+          "id": "42000"
+        },
+        {
+          "id": "42001"
+        },
+        {
+          "id": "42002"
+        },
+        {
+          "id": "42004"
+        },
+        {
+          "id": "42006"
+        },
+        {
+          "id": "42157"
+        },
+        {
+          "id": "13031"
+        },
+        {
+          "id": "13033"
+        },
+        {
+          "id": "13035"
+        },
+        {
+          "id": "13037"
+        },
+        {
+          "id": "13038"
+        },
+        {
+          "id": "13039"
+        },
+        {
+          "id": "13041"
+        },
+        {
+          "id": "13851"
+        },
+        {
+          "id": "13853"
+        },
+        {
+          "id": "3813"
+        },
+        {
+          "id": "3870"
+        },
+        {
+          "id": "3871"
+        },
+        {
+          "id": "3874"
+        },
+        {
+          "id": "3875"
+        },
+        {
+          "id": "3884"
+        },
+        {
+          "id": "3885"
+        },
+        {
+          "id": "3886"
+        },
+        {
+          "id": "3888"
+        },
+        {
+          "id": "40023"
+        },
+        {
+          "id": "12874"
+        },
+        {
+          "id": "12876"
+        },
+        {
+          "id": "12878"
+        },
+        {
+          "id": "12880"
+        },
+        {
+          "id": "12882"
+        },
+        {
+          "id": "12884"
+        },
+        {
+          "id": "12886"
+        }
+      ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-19T19:36:00.000Z",
-        "end": "2026-09-20T02:35:00.000Z"
+        "start": "2026-09-20T02:35:00.000Z",
+        "end": "2026-09-20T04:09:00.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "ACCIDENT",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-09-19T19:06:01.000Z",
-      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 2:36 PM and five other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 3:23 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 5:23 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 2:36 PM\r\ndeparting Westgate Station - Gate B at 4:36 PM\r\ndeparting Westgate Station - Gate B at 7:06 PM"
+      "url": "https://www.metrotransit.org/route/64",
+      "updatedAt": "2026-09-20T02:36:45.000Z",
+      "rawHeader": "Westbound Route 64 trip departing Maplewood Mall TC at 9:22 PM will start from Maryland & White Bear. Previous stops missed due to collision",
+      "rawDescription": ""
     },
     {
       "id": "49962",
@@ -3364,6 +3662,97 @@
       "updatedAt": "2026-09-14T07:30:01.000Z",
       "rawHeader": "Route 27 detoured off 26th St/28th St from Bloomington Ave to Cedar Ave and off Cedar Ave from 26th St to Lake St beginning Mon Sep 14 until further notice due to construction",
       "rawDescription": "For eastbound Route 27 get on/off buses at:\r\n28th St E & Bloomington Ave S - Stop #43016 (eastbound)\r\nLake & Cedar Station - Stop #51579 (eastbound)\r\n\nFor westbound Route 27 get on/off buses at:\r\nLake St E & 21st Ave S - Stop #16894 (westbound)\r\nLake & Cedar Station - Stop #57362 (westbound)\r\nBloomington Ave S & 28th St E - Stop #15618 (northbound)\r\n26th St E & 12th Ave S - Stop #51507 (westbound)\r\n\nEastbound buses will travel regular route on 28th St to Bloomington Ave, right on Bloomington, left on Lake St to Cedar Ave, and resume regular route.\r\n\nWestbound buses will travel regular route on Lake St to Cedar Ave, continue on Lake to Bloomington Ave, right on Bloomington, left on 26th St, and resume regular route.\r\n\nAffected stops:\r\n28th St E & Cedar Ave S - Stop #43021 (eastbound)\r\nCedar Ave S & Lake St E - Stop #15317 (northbound)\r\nCedar Ave S & 28th St E - Stop #15319 (northbound)\r\n26th St E & 18th Ave S - Stop #14340 (westbound)\r\n26th St E & Bloomington Ave S - Stop #43004 (westbound)"
+    },
+    {
+      "id": "53053",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 30, Route 48: Detour via Golden Valley Rd & Morgan Ave N",
+      "summary": "Routes 30 and 48 detoured off Golden Valley Rd between Penn & Vincent until later today due to police activity. Board at: Golden Valley Rd & Morgan Ave N - Stop #52720 (westbound); Golden Valley Rd & Xerxes Ave N - Stop #8216 (westbound).",
+      "affectedRoutes": [
+        "Route 30",
+        "Route 48"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Golden Valley Rd & Morgan Ave N",
+        "Golden Valley Rd & Xerxes Ave N",
+        "south on Penn to Golden Valley Rd & resume regular route\n\nAffected st",
+        "Golden Valley Rd & Upton Ave N",
+        "Golden Valley Rd & Sheridan Ave N"
+      ],
+      "closedStopIds": [
+        "8228",
+        "52155",
+        "8240",
+        "8248",
+        "40580",
+        "8242",
+        "52360",
+        "8230",
+        "52720",
+        "8216"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "8228",
+          "name": "Golden Valley Rd & Upton Ave N",
+          "direction": "eastbound"
+        },
+        {
+          "id": "52155",
+          "name": "Golden Valley Rd & Sheridan Ave N",
+          "direction": "eastbound"
+        },
+        {
+          "id": "8240",
+          "name": "Golden Valley Rd & Russell Ave N",
+          "direction": "eastbound"
+        },
+        {
+          "id": "8248",
+          "name": "Golden Valley Rd & Penn Ave N",
+          "direction": "eastbound"
+        },
+        {
+          "id": "40580",
+          "name": "Golden Valley Rd & Penn / Queen Ave N",
+          "direction": "westbound"
+        },
+        {
+          "id": "8242",
+          "name": "Golden Valley Rd & Russell Ave N",
+          "direction": "westbound"
+        },
+        {
+          "id": "52360",
+          "name": "Golden Valley Rd & Sheridan Ave N",
+          "direction": "westbound"
+        },
+        {
+          "id": "8230",
+          "name": "Golden Valley Rd & Upton Ave N",
+          "direction": "westbound"
+        },
+        {
+          "id": "52720"
+        },
+        {
+          "id": "8216"
+        }
+      ],
+      "riderAlternative": "Board at: Golden Valley Rd & Morgan Ave N - Stop #52720 (westbound); Golden Valley Rd & Xerxes Ave N - Stop #8216 (westbound)",
+      "detourDetails": "Westbound buses will travel to Golden Valley Rd & Penn, travel north on Penn to 23rd, left on 23rd, left on Vincent, right on Golden Valley Rd and resume regular route",
+      "activePeriod": {
+        "start": "2026-09-20T01:22:00.000Z",
+        "end": "2026-09-20T05:13:23.000Z"
+      },
+      "cause": "POLICE_ACTIVITY",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/30",
+      "updatedAt": "2026-09-20T01:22:27.000Z",
+      "rawHeader": "Routes 30 and 48 detoured off Golden Valley Rd between Penn & Vincent until later today due to police activity",
+      "rawDescription": "Get on/off buses at:\r\nGolden Valley Rd & Morgan Ave N - Stop #52720 (westbound)\r\nGolden Valley Rd & Xerxes Ave N - Stop #8216 (westbound)\r\n\nNorthbound/Westbound buses will travel to Golden Valley Rd & Penn, travel north on Penn to 23rd, left on 23rd, left on Vincent, right on Golden Valley Rd and resume regular route\r\n\nSouthbound/Eastbound buses will travel east on Golden Valley Rd to Vincent, left on Vincent, right on 23rd, right on Penn, south on Penn to Golden Valley Rd and resume regular route\r\n\nAffected stops:\r\nGolden Valley Rd & Upton Ave N - Stop #8228 (eastbound)\r\nGolden Valley Rd & Sheridan Ave N - Stop #52155 (eastbound)\r\nGolden Valley Rd & Russell Ave N - Stop #8240 (eastbound)\r\nGolden Valley Rd & Penn Ave N - Stop #8248 (eastbound)\r\nGolden Valley Rd & Penn / Queen Ave N - Stop #40580 (westbound)\r\nGolden Valley Rd & Russell Ave N - Stop #8242 (westbound)\r\nGolden Valley Rd & Sheridan Ave N - Stop #52360 (westbound)\r\nGolden Valley Rd & Upton Ave N - Stop #8230 (westbound)"
     },
     {
       "id": "42305",

@@ -4,17 +4,17 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 19 Sep 2026 23:52:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 03:14:40 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 30: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-53046-2026-09-19T19:06:01.000Z</guid>
-      <pubDate>Sat, 19 Sep 2026 19:06:01 GMT</pubDate>
+      <title>[Critical] Route 64: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/64</link>
+      <guid isPermaLink="false">Metro Transit-53055-2026-09-20T02:36:45.000Z</guid>
+      <pubDate>Sun, 20 Sep 2026 02:36:45 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 30</category>
-      <description>Route 30 trip departing Westgate Station - Gate B at 2:36 PM and five other trips canceled today</description>
+      <category>Route 64</category>
+      <description>Westbound Route 64 trip departing Maplewood Mall Transit Center at 9:22 PM will start from Maryland &amp; White Bear. Previous stops missed due to collision</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
@@ -397,6 +397,15 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 27</category>
       <description>Route 27 detoured off 26th St/28th St from Bloomington Ave to Cedar Ave and off Cedar Ave from 26th St to Lake St beginning Mon Sep 14 until further notice due to construction. Board at: 28th St E &amp; Bloomington Ave S - Stop #43016 (eastbound); Lake &amp; Cedar Station - Stop #51579 (eastbound). | Action: Board at: 28th St E &amp; Bloomington Ave S - Stop #43016 (eastbound); Lake &amp; Cedar Station - Stop #51579 (eastbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 30, Route 48: Detour via Golden Valley Rd &amp; Morgan Ave N</title>
+      <link>https://www.metrotransit.org/route/30</link>
+      <guid isPermaLink="false">Metro Transit-53053-2026-09-20T01:22:27.000Z</guid>
+      <pubDate>Sun, 20 Sep 2026 01:22:27 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 30, Route 48</category>
+      <description>Routes 30 and 48 detoured off Golden Valley Rd between Penn &amp; Vincent until later today due to police activity. Board at: Golden Valley Rd &amp; Morgan Ave N - Stop #52720 (westbound); Golden Valley Rd &amp; Xerxes Ave N - Stop #8216 (westbound). | Action: Board at: Golden Valley Rd &amp; Morgan Ave N - Stop #52720 (westbound); Golden Valley Rd &amp; Xerxes Ave N - Stop #8216 (westbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 36, Route 538, Route 578: Stop Closed at York Ave S &amp; Hazelton Rd</title>
