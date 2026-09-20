@@ -1,22 +1,22 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-20T17:16:40.092Z",
-    "totalAlerts": 113,
-    "criticalCount": 4,
+    "generatedAt": "2026-09-20T20:16:48.078Z",
+    "totalAlerts": 111,
+    "criticalCount": 2,
     "moderateCount": 106,
     "minorCount": 3,
-    "affectedRoutesCount": 81,
+    "affectedRoutesCount": 79,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "53070",
+      "id": "53074",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO B Line: Westbound 11:55 AM Trip Canceled (Union Depot & Gate A1)",
-      "summary": "Westbound B Line trip departing Union Depot & Gate A1 at 11:55 AM canceled today",
+      "title": "METRO B Line: Westbound 1:34 PM Trip Canceled (Union Depot & Gate A1)",
+      "summary": "Westbound B Line trip departing Union Depot & Gate A1 at 1:34 PM canceled today due to traffic",
       "affectedRoutes": [
         "METRO B Line"
       ],
@@ -27,91 +27,138 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-20T17:05:00.000Z",
-        "end": "2026-09-20T19:01:00.000Z"
+        "start": "2026-09-20T19:01:00.000Z",
+        "end": "2026-09-20T20:42:00.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-09-20T17:06:00.000Z",
-      "rawHeader": "Westbound B Line trip departing Union Depot & Gate A1 at 11:55 AM canceled today",
+      "updatedAt": "2026-09-20T19:02:37.000Z",
+      "rawHeader": "Westbound B Line trip departing Union Depot & Gate A1 at 1:34 PM canceled today due to traffic",
       "rawDescription": ""
     },
     {
-      "id": "53068",
+      "id": "53075",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 2: Westbound 10:40 AM Trip Canceled (Ontario St SE & Beacon St)",
-      "summary": "Westbound Route 2 trip departing Ontario St SE & Beacon St at 10:40 AM canceled today due to mechanical issue",
+      "title": "METRO B Line: Eastbound 1:56 PM Trip Canceled (Lake St W & France Ave S)",
+      "summary": "Eastbound B Line trip departing Lake St W & France Ave S at 1:56 PM canceled from Lake & Chicago Station at 2:15 PM today due to traffic",
       "affectedRoutes": [
-        "Route 2"
+        "METRO B Line"
       ],
-      "direction": "Westbound",
+      "direction": "Eastbound",
       "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {},
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-09-20T17:13:01.000Z",
-      "rawHeader": "Westbound Route 2 trip departing Ontario St SE & Beacon St at 10:40 AM canceled today due to mechanical issue",
-      "rawDescription": ""
-    },
-    {
-      "id": "53069",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 11, Route 11A: Southbound 11:14 AM Trip Canceled (Columbia Heights Transit Center C)",
-      "summary": "Southbound Route 11A trip departing Columbia Heights Transit Center C at 11:14 AM canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 11",
-        "Route 11A"
+      "closedStopIds": [
+        "11885",
+        "3142",
+        "57416",
+        "57418",
+        "57420",
+        "57455",
+        "43022",
+        "57325",
+        "57326",
+        "57327",
+        "57328",
+        "57329",
+        "57331",
+        "57332",
+        "57333",
+        "56796",
+        "16884",
+        "16950",
+        "16971",
+        "16996",
+        "17022",
+        "17029",
+        "17307",
+        "51579"
       ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
+      "closedStopDetails": [
+        {
+          "id": "11885"
+        },
+        {
+          "id": "3142"
+        },
+        {
+          "id": "57416"
+        },
+        {
+          "id": "57418"
+        },
+        {
+          "id": "57420"
+        },
+        {
+          "id": "57455"
+        },
+        {
+          "id": "43022"
+        },
+        {
+          "id": "57325"
+        },
+        {
+          "id": "57326"
+        },
+        {
+          "id": "57327"
+        },
+        {
+          "id": "57328"
+        },
+        {
+          "id": "57329"
+        },
+        {
+          "id": "57331"
+        },
+        {
+          "id": "57332"
+        },
+        {
+          "id": "57333"
+        },
+        {
+          "id": "56796"
+        },
+        {
+          "id": "16884"
+        },
+        {
+          "id": "16950"
+        },
+        {
+          "id": "16971"
+        },
+        {
+          "id": "16996"
+        },
+        {
+          "id": "17022"
+        },
+        {
+          "id": "17029"
+        },
+        {
+          "id": "17307"
+        },
+        {
+          "id": "51579"
+        }
+      ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-20T16:41:00.000Z",
-        "end": "2026-09-20T18:10:00.000Z"
+        "start": "2026-09-20T19:50:00.000Z",
+        "end": "2026-09-20T21:02:00.000Z"
       },
-      "cause": "MAINTENANCE",
+      "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-09-20T16:41:33.000Z",
-      "rawHeader": "Southbound Route 11A trip departing Columbia Heights Transit Center C at 11:14 AM canceled today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "53071",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 18, Route 18C: Southbound 12:37 PM Trip Canceled (4th Ave S & 3rd St S)",
-      "summary": "Southbound Route 18C trip departing 4th Ave S & 3rd St S at 12:37 PM canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 18",
-        "Route 18C"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-20T17:37:00.000Z",
-        "end": "2026-09-20T19:22:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/18",
-      "updatedAt": "2026-09-20T17:13:41.000Z",
-      "rawHeader": "Southbound Route 18C trip departing 4th Ave S & 3rd St S at 12:37 PM canceled today due to maintenance work",
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-09-20T19:51:43.000Z",
+      "rawHeader": "Eastbound B Line trip departing Lake St W & France Ave S at 1:56 PM canceled from Lake & Chicago Station at 2:15 PM today due to traffic",
       "rawDescription": ""
     },
     {
