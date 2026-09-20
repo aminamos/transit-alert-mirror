@@ -2,54 +2,112 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-111-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-106-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-112-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-105-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-79-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-20T20:16:48.078Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-20T22:56:34.546Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (4) • **METRO B Line** (3) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (2) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (3) • **Route 25** (2) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (3) • **Route 63** (3) • **Route 64** (5) • **Route 65** (2) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (5) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (4) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (3) • **METRO E Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (2) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (3) • **Route 25** (2) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (3) • **Route 63** (3) • **Route 64** (6) • **Route 65** (2) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 323** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (5) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO B Line: Westbound 1:34 PM Trip Canceled (Union Depot & Gate A1)
+### 🚨 METRO B Line: Eastbound 4:35 PM Trip Canceled (Lake St W & France Ave S)
 
 - **Affected Routes**: `METRO B Line`
-- **Direction**: Westbound
+- **Direction**: Eastbound
 - **Severity**: `Critical`
 
-**Summary**: Westbound B Line trip departing Union Depot & Gate A1 at 1:34 PM canceled today due to traffic
+**Summary**: Eastbound B Line trip departing Lake St W & France Ave S at 4:35 PM canceled today due to maintenance work
 
 [Official Agency Advisory](https://www.metrotransit.org/route/bline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Westbound B Line trip departing Union Depot & Gate A1 at 1:34 PM canceled today due to traffic
+**Header**: Eastbound B Line trip departing Lake St W & France Ave S at 4:35 PM canceled today due to maintenance work
 
 </details>
 
 ---
 
-### 🚨 METRO B Line: Eastbound 1:56 PM Trip Canceled (Lake St W & France Ave S)
+### 🚨 METRO D Line: Southbound 3:53 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)
 
-- **Affected Routes**: `METRO B Line`
-- **Direction**: Eastbound
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Southbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #11885, Stop #3142, Stop #57416, Stop #57418, Stop #57420, Stop #57455, Stop #43022, Stop #57325 *(+16 more)*
+- **Closed Stops**: Stop #441, Stop #431, Stop #81079, Stop #56873, Stop #56917, Stop #56918, Stop #56919, Stop #56920 *(+5 more)*
 
-**Summary**: Eastbound B Line trip departing Lake St W & France Ave S at 1:56 PM canceled from Lake & Chicago Station at 2:15 PM today due to traffic
+**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:53 PM canceled from Chicago & 46th St at 4:46 PM today due to traffic
 
-[Official Agency Advisory](https://www.metrotransit.org/route/bline)
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound B Line trip departing Lake St W & France Ave S at 1:56 PM canceled from Lake & Chicago Station at 2:15 PM today due to traffic
+**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:53 PM canceled from Chicago & 46th St at 4:46 PM today due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 64: Westbound 4:06 PM Trip Canceled (Maplewood Mall Transit Center & Gate D/E)
+
+- **Affected Routes**: `Route 64`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 64 trip departing Maplewood Mall Transit Center & Gate D/E at 4:06 PM canceled
+
+[Official Agency Advisory](https://www.metrotransit.org/route/64)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 64 trip departing Maplewood Mall Transit Center & Gate D/E at 4:06 PM canceled
+
+</details>
+
+---
+
+### 🚨 Route 323: Service Canceled
+
+- **Affected Routes**: `Route 323`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 323 trip departing Woodlane Dr Station Gate B at 6:15 PM and thirteen other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/323)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 323 trip departing Woodlane Dr Station Gate B at 6:15 PM and thirteen other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Sun Ray Transit Center & Gate C at 6:45 PM
+departing Sun Ray Transit Center & Gate C at 7:45 PM
+departing Sun Ray Transit Center & Gate C at 8:45 PM
+departing Sun Ray Transit Center & Gate C at 9:45 PM
+departing Sun Ray Transit Center & Gate C at 10:44 PM
+departing Sun Ray Transit Center & Gate C at 11:44 PM
+departing Sun Ray Transit Center & Gate C at 12:44 AM
+
+Affected westbound trips:
+departing Woodlane Dr Station Gate B at 6:15 PM
+departing Woodlane Dr Station Gate B at 7:15 PM
+departing Woodlane Dr Station Gate B at 8:15 PM
+departing Woodlane Dr Station Gate B at 9:16 PM
+departing Woodlane Dr Station Gate B at 10:16 PM
+departing Woodlane Dr Station Gate B at 11:23 PM
+departing Woodlane Dr Station Gate B at 12:23 AM
+```
 
 </details>
 
@@ -2215,49 +2273,6 @@ Affected stops:
 Bren Rd W & Feltl Rd - Stop #48208 (westbound)
 Bren Rd W & Scoreboard - Rear - Stop #48209 (southbound)
 Red Circle Dr & Shady Oak Rd - Stop #81108 (eastbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 46: Detour via 50th St W & Indianola Ave
-
-- **Affected Routes**: `Route 46`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 50th St W & Indianola Ave; 50th St W & Ewing Ave S; 50th St W & Maple Rd; right on 51st St & continue onto Halifax Ave; 50th St W & France Ave S
-- **Closed Stops**: 50th St W & France Ave S (Stop #989), 50th St W & France Ave S (Stop #208)
-
-**Summary**: Route 46 detoured off 50th St from Halifax Ave to France Ave from 11:00 AM to 5:00 PM on Sun Sep 20 due to special event. Board at: 50th St W & Indianola Ave - Stop #986 (eastbound); 50th St W & Ewing Ave S - Stop #990 (eastbound).
-
-> 💡 **Rider Action**: Board at: 50th St W & Indianola Ave - Stop #986 (eastbound); 50th St W & Ewing Ave S - Stop #990 (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on 50th St to Halifax Ave, right on Halifax and continue onto 51st St, left on France Ave, right on 50th St, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/46)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 46 detoured off 50th St from Halifax Ave to France Ave from 11:00 AM to 5:00 PM on Sun Sep 20 due to special event
-
-```text
-For eastbound Route 46 get on/off buses at:
-50th St W & Indianola Ave - Stop #986 (eastbound)
-50th St W & Ewing Ave S - Stop #990 (eastbound)
-
-For westbound Route 46 get on/off buses at:
-50th St W & Ewing Ave S - Stop #205 (westbound)
-50th St W & Maple Rd - Stop #210 (westbound)
-
-Eastbound buses will travel regular route on 50th St to Halifax Ave, right on Halifax and continue onto 51st St, left on France Ave, right on 50th St, and resume regular route.
-
-Westbound buses will travel regular route on 50th St to France Ave, left on France, right on 51st St and continue onto Halifax Ave, left on 50th St, and resume regular route.
-
-Affected stops:
-50th St W & France Ave S - Stop #989 (eastbound)
-50th St W & France Ave S - Stop #208 (westbound)
 ```
 
 </details>

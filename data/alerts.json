@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-20T20:16:48.078Z",
-    "totalAlerts": 111,
-    "criticalCount": 2,
-    "moderateCount": 106,
+    "generatedAt": "2026-09-20T22:56:34.546Z",
+    "totalAlerts": 112,
+    "criticalCount": 4,
+    "moderateCount": 105,
     "minorCount": 3,
     "affectedRoutesCount": 79,
     "agencies": [
@@ -12,13 +12,119 @@
   },
   "alerts": [
     {
-      "id": "53074",
+      "id": "53077",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO B Line: Westbound 1:34 PM Trip Canceled (Union Depot & Gate A1)",
-      "summary": "Westbound B Line trip departing Union Depot & Gate A1 at 1:34 PM canceled today due to traffic",
+      "title": "METRO B Line: Eastbound 4:35 PM Trip Canceled (Lake St W & France Ave S)",
+      "summary": "Eastbound B Line trip departing Lake St W & France Ave S at 4:35 PM canceled today due to maintenance work",
       "affectedRoutes": [
         "METRO B Line"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-20T21:35:00.000Z",
+        "end": "2026-09-20T23:42:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-09-20T21:29:03.000Z",
+      "rawHeader": "Eastbound B Line trip departing Lake St W & France Ave S at 4:35 PM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "53079",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO D Line: Southbound 3:53 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)",
+      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:53 PM canceled from Chicago & 46th St at 4:46 PM today due to traffic",
+      "affectedRoutes": [
+        "METRO D Line"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [
+        "441",
+        "431",
+        "81079",
+        "56873",
+        "56917",
+        "56918",
+        "56919",
+        "56920",
+        "42318",
+        "436",
+        "449",
+        "4530",
+        "444"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "441"
+        },
+        {
+          "id": "431"
+        },
+        {
+          "id": "81079"
+        },
+        {
+          "id": "56873"
+        },
+        {
+          "id": "56917"
+        },
+        {
+          "id": "56918"
+        },
+        {
+          "id": "56919"
+        },
+        {
+          "id": "56920"
+        },
+        {
+          "id": "42318"
+        },
+        {
+          "id": "436"
+        },
+        {
+          "id": "449"
+        },
+        {
+          "id": "4530"
+        },
+        {
+          "id": "444"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-20T22:00:00.000Z",
+        "end": "2026-09-20T23:06:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-09-20T22:02:06.000Z",
+      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:53 PM canceled from Chicago & 46th St at 4:46 PM today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "53076",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 64: Westbound 4:06 PM Trip Canceled (Maplewood Mall Transit Center & Gate D/E)",
+      "summary": "Westbound Route 64 trip departing Maplewood Mall Transit Center & Gate D/E at 4:06 PM canceled",
+      "affectedRoutes": [
+        "Route 64"
       ],
       "direction": "Westbound",
       "intersections": [],
@@ -27,139 +133,41 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-20T19:01:00.000Z",
-        "end": "2026-09-20T20:42:00.000Z"
+        "start": "2026-09-20T21:27:00.000Z",
+        "end": "2026-09-20T22:58:00.000Z"
       },
-      "cause": "OTHER_CAUSE",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-09-20T19:02:37.000Z",
-      "rawHeader": "Westbound B Line trip departing Union Depot & Gate A1 at 1:34 PM canceled today due to traffic",
+      "url": "https://www.metrotransit.org/route/64",
+      "updatedAt": "2026-09-20T21:28:03.000Z",
+      "rawHeader": "Westbound Route 64 trip departing Maplewood Mall Transit Center & Gate D/E at 4:06 PM canceled",
       "rawDescription": ""
     },
     {
-      "id": "53075",
+      "id": "53080",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO B Line: Eastbound 1:56 PM Trip Canceled (Lake St W & France Ave S)",
-      "summary": "Eastbound B Line trip departing Lake St W & France Ave S at 1:56 PM canceled from Lake & Chicago Station at 2:15 PM today due to traffic",
+      "title": "Route 323: Service Canceled",
+      "summary": "Route 323 trip departing Woodlane Dr Station Gate B at 6:15 PM and thirteen other trips canceled today",
       "affectedRoutes": [
-        "METRO B Line"
+        "Route 323"
       ],
-      "direction": "Eastbound",
+      "direction": "Both Directions",
       "intersections": [],
-      "closedStopIds": [
-        "11885",
-        "3142",
-        "57416",
-        "57418",
-        "57420",
-        "57455",
-        "43022",
-        "57325",
-        "57326",
-        "57327",
-        "57328",
-        "57329",
-        "57331",
-        "57332",
-        "57333",
-        "56796",
-        "16884",
-        "16950",
-        "16971",
-        "16996",
-        "17022",
-        "17029",
-        "17307",
-        "51579"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "11885"
-        },
-        {
-          "id": "3142"
-        },
-        {
-          "id": "57416"
-        },
-        {
-          "id": "57418"
-        },
-        {
-          "id": "57420"
-        },
-        {
-          "id": "57455"
-        },
-        {
-          "id": "43022"
-        },
-        {
-          "id": "57325"
-        },
-        {
-          "id": "57326"
-        },
-        {
-          "id": "57327"
-        },
-        {
-          "id": "57328"
-        },
-        {
-          "id": "57329"
-        },
-        {
-          "id": "57331"
-        },
-        {
-          "id": "57332"
-        },
-        {
-          "id": "57333"
-        },
-        {
-          "id": "56796"
-        },
-        {
-          "id": "16884"
-        },
-        {
-          "id": "16950"
-        },
-        {
-          "id": "16971"
-        },
-        {
-          "id": "16996"
-        },
-        {
-          "id": "17022"
-        },
-        {
-          "id": "17029"
-        },
-        {
-          "id": "17307"
-        },
-        {
-          "id": "51579"
-        }
-      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-20T19:50:00.000Z",
-        "end": "2026-09-20T21:02:00.000Z"
+        "start": "2026-09-20T23:15:00.000Z",
+        "end": "2026-09-21T07:02:00.000Z"
       },
-      "cause": "OTHER_CAUSE",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-09-20T19:51:43.000Z",
-      "rawHeader": "Eastbound B Line trip departing Lake St W & France Ave S at 1:56 PM canceled from Lake & Chicago Station at 2:15 PM today due to traffic",
-      "rawDescription": ""
+      "url": "https://www.metrotransit.org/route/323",
+      "updatedAt": "2026-09-20T22:45:01.000Z",
+      "rawHeader": "Route 323 trip departing Woodlane Dr Station Gate B at 6:15 PM and thirteen other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Sun Ray Transit Center & Gate C at 6:45 PM\r\ndeparting Sun Ray Transit Center & Gate C at 7:45 PM\r\ndeparting Sun Ray Transit Center & Gate C at 8:45 PM\r\ndeparting Sun Ray Transit Center & Gate C at 9:45 PM\r\ndeparting Sun Ray Transit Center & Gate C at 10:44 PM\r\ndeparting Sun Ray Transit Center & Gate C at 11:44 PM\r\ndeparting Sun Ray Transit Center & Gate C at 12:44 AM\r\n\nAffected westbound trips:\r\ndeparting Woodlane Dr Station Gate B at 6:15 PM\r\ndeparting Woodlane Dr Station Gate B at 7:15 PM\r\ndeparting Woodlane Dr Station Gate B at 8:15 PM\r\ndeparting Woodlane Dr Station Gate B at 9:16 PM\r\ndeparting Woodlane Dr Station Gate B at 10:16 PM\r\ndeparting Woodlane Dr Station Gate B at 11:23 PM\r\ndeparting Woodlane Dr Station Gate B at 12:23 AM"
     },
     {
       "id": "49962",
@@ -3863,52 +3871,6 @@
       "updatedAt": "2026-09-19T17:41:11.000Z",
       "rawHeader": "Route 38 detoured off Bren Rd W from Bren Rd E to Shady Oak Rd and off Shady Oak Rd from Bren Rd to Red Circle Dr until further notice due to construction",
       "rawDescription": "Updated at 12:40 PM 9/19 to extend detour to further notice.\r\n\nGet on/off buses at:\r\nBren Rd W & #10380 Digital River Inc - Stop #48313 (westbound)\r\nYellow Circle Dr & Red Circle Dr - Stop #48212 (eastbound)\r\n\nBuses will travel regular route on Bren Rd W to Bren Rd E, exit left to Bren Rd E, stay right on Bren Rd E, right on Red Circle Dr, stay left on Red Circle Dr, take left at stop sign and resume regular route.\r\n\nAffected stops:\r\nBren Rd W & Feltl Rd - Stop #48208 (westbound)\r\nBren Rd W & Scoreboard - Rear - Stop #48209 (southbound)\r\nRed Circle Dr & Shady Oak Rd - Stop #81108 (eastbound)"
-    },
-    {
-      "id": "52781",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 46: Detour via 50th St W & Indianola Ave",
-      "summary": "Route 46 detoured off 50th St from Halifax Ave to France Ave from 11:00 AM to 5:00 PM on Sun Sep 20 due to special event. Board at: 50th St W & Indianola Ave - Stop #986 (eastbound); 50th St W & Ewing Ave S - Stop #990 (eastbound).",
-      "affectedRoutes": [
-        "Route 46"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "50th St W & Indianola Ave",
-        "50th St W & Ewing Ave S",
-        "50th St W & Maple Rd",
-        "right on 51st St & continue onto Halifax Ave",
-        "50th St W & France Ave S"
-      ],
-      "closedStopIds": [
-        "989",
-        "208"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "989",
-          "name": "50th St W & France Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "208",
-          "name": "50th St W & France Ave S",
-          "direction": "westbound"
-        }
-      ],
-      "riderAlternative": "Board at: 50th St W & Indianola Ave - Stop #986 (eastbound); 50th St W & Ewing Ave S - Stop #990 (eastbound)",
-      "detourDetails": "Eastbound buses will travel regular route on 50th St to Halifax Ave, right on Halifax and continue onto 51st St, left on France Ave, right on 50th St, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-20T16:00:00.000Z",
-        "end": "2026-09-20T22:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/46",
-      "updatedAt": "2026-09-20T15:30:01.000Z",
-      "rawHeader": "Route 46 detoured off 50th St from Halifax Ave to France Ave from 11:00 AM to 5:00 PM on Sun Sep 20 due to special event",
-      "rawDescription": "For eastbound Route 46 get on/off buses at:\r\n50th St W & Indianola Ave - Stop #986 (eastbound)\r\n50th St W & Ewing Ave S - Stop #990 (eastbound)\r\n\nFor westbound Route 46 get on/off buses at:\r\n50th St W & Ewing Ave S - Stop #205 (westbound)\r\n50th St W & Maple Rd - Stop #210 (westbound)\r\n\nEastbound buses will travel regular route on 50th St to Halifax Ave, right on Halifax and continue onto 51st St, left on France Ave, right on 50th St, and resume regular route.\r\n\nWestbound buses will travel regular route on 50th St to France Ave, left on France, right on 51st St and continue onto Halifax Ave, left on 50th St, and resume regular route.\r\n\nAffected stops:\r\n50th St W & France Ave S - Stop #989 (eastbound)\r\n50th St W & France Ave S - Stop #208 (westbound)"
     },
     {
       "id": "51255",
