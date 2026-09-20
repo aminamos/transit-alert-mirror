@@ -1,340 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-20T03:14:40.645Z",
-    "totalAlerts": 112,
-    "criticalCount": 1,
-    "moderateCount": 108,
+    "generatedAt": "2026-09-20T09:02:21.320Z",
+    "totalAlerts": 109,
+    "criticalCount": 0,
+    "moderateCount": 106,
     "minorCount": 3,
-    "affectedRoutesCount": 82,
+    "affectedRoutesCount": 79,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "53055",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 64: Service Advisory",
-      "summary": "Westbound Route 64 trip departing Maplewood Mall Transit Center at 9:22 PM will start from Maryland & White Bear. Previous stops missed due to collision",
-      "affectedRoutes": [
-        "Route 64"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [
-        "5533",
-        "48260",
-        "5347",
-        "5348",
-        "5349",
-        "5352",
-        "5354",
-        "5337",
-        "5338",
-        "5166",
-        "52015",
-        "52544",
-        "52554",
-        "5283",
-        "5285",
-        "5286",
-        "5287",
-        "5290",
-        "5292",
-        "5293",
-        "5294",
-        "5295",
-        "5296",
-        "5297",
-        "5298",
-        "5299",
-        "5300",
-        "5301",
-        "5303",
-        "5305",
-        "5307",
-        "53149",
-        "49760",
-        "49769",
-        "49770",
-        "49771",
-        "49772",
-        "49775",
-        "49781",
-        "49782",
-        "49910",
-        "48194",
-        "42000",
-        "42001",
-        "42002",
-        "42004",
-        "42006",
-        "42157",
-        "13031",
-        "13033",
-        "13035",
-        "13037",
-        "13038",
-        "13039",
-        "13041",
-        "13851",
-        "13853",
-        "3813",
-        "3870",
-        "3871",
-        "3874",
-        "3875",
-        "3884",
-        "3885",
-        "3886",
-        "3888",
-        "40023",
-        "12874",
-        "12876",
-        "12878",
-        "12880",
-        "12882",
-        "12884",
-        "12886"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "5533"
-        },
-        {
-          "id": "48260"
-        },
-        {
-          "id": "5347"
-        },
-        {
-          "id": "5348"
-        },
-        {
-          "id": "5349"
-        },
-        {
-          "id": "5352"
-        },
-        {
-          "id": "5354"
-        },
-        {
-          "id": "5337"
-        },
-        {
-          "id": "5338"
-        },
-        {
-          "id": "5166"
-        },
-        {
-          "id": "52015"
-        },
-        {
-          "id": "52544"
-        },
-        {
-          "id": "52554"
-        },
-        {
-          "id": "5283"
-        },
-        {
-          "id": "5285"
-        },
-        {
-          "id": "5286"
-        },
-        {
-          "id": "5287"
-        },
-        {
-          "id": "5290"
-        },
-        {
-          "id": "5292"
-        },
-        {
-          "id": "5293"
-        },
-        {
-          "id": "5294"
-        },
-        {
-          "id": "5295"
-        },
-        {
-          "id": "5296"
-        },
-        {
-          "id": "5297"
-        },
-        {
-          "id": "5298"
-        },
-        {
-          "id": "5299"
-        },
-        {
-          "id": "5300"
-        },
-        {
-          "id": "5301"
-        },
-        {
-          "id": "5303"
-        },
-        {
-          "id": "5305"
-        },
-        {
-          "id": "5307"
-        },
-        {
-          "id": "53149"
-        },
-        {
-          "id": "49760"
-        },
-        {
-          "id": "49769"
-        },
-        {
-          "id": "49770"
-        },
-        {
-          "id": "49771"
-        },
-        {
-          "id": "49772"
-        },
-        {
-          "id": "49775"
-        },
-        {
-          "id": "49781"
-        },
-        {
-          "id": "49782"
-        },
-        {
-          "id": "49910"
-        },
-        {
-          "id": "48194"
-        },
-        {
-          "id": "42000"
-        },
-        {
-          "id": "42001"
-        },
-        {
-          "id": "42002"
-        },
-        {
-          "id": "42004"
-        },
-        {
-          "id": "42006"
-        },
-        {
-          "id": "42157"
-        },
-        {
-          "id": "13031"
-        },
-        {
-          "id": "13033"
-        },
-        {
-          "id": "13035"
-        },
-        {
-          "id": "13037"
-        },
-        {
-          "id": "13038"
-        },
-        {
-          "id": "13039"
-        },
-        {
-          "id": "13041"
-        },
-        {
-          "id": "13851"
-        },
-        {
-          "id": "13853"
-        },
-        {
-          "id": "3813"
-        },
-        {
-          "id": "3870"
-        },
-        {
-          "id": "3871"
-        },
-        {
-          "id": "3874"
-        },
-        {
-          "id": "3875"
-        },
-        {
-          "id": "3884"
-        },
-        {
-          "id": "3885"
-        },
-        {
-          "id": "3886"
-        },
-        {
-          "id": "3888"
-        },
-        {
-          "id": "40023"
-        },
-        {
-          "id": "12874"
-        },
-        {
-          "id": "12876"
-        },
-        {
-          "id": "12878"
-        },
-        {
-          "id": "12880"
-        },
-        {
-          "id": "12882"
-        },
-        {
-          "id": "12884"
-        },
-        {
-          "id": "12886"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-20T02:35:00.000Z",
-        "end": "2026-09-20T04:09:00.000Z"
-      },
-      "cause": "ACCIDENT",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/64",
-      "updatedAt": "2026-09-20T02:36:45.000Z",
-      "rawHeader": "Westbound Route 64 trip departing Maplewood Mall TC at 9:22 PM will start from Maryland & White Bear. Previous stops missed due to collision",
-      "rawDescription": ""
-    },
     {
       "id": "49962",
       "agency": "Metro Transit",
@@ -456,7 +132,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/aline",
-      "updatedAt": "2026-09-17T14:22:09.000Z",
+      "updatedAt": "2026-09-20T05:00:01.000Z",
       "rawHeader": "METRO A Line detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
       "rawDescription": "No stops missed.\r\n\nNorthbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.\r\n\nSouthbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route."
     },
@@ -606,13 +282,13 @@
       "riderAlternative": "Board at: Uptown Transit Station - Gates D/E - Stop #52857 (westbound)",
       "detourDetails": "Northbound buses will travel regular route on Hennepin Ave to Lake St, right on Lake St, left on Dupont Ave, left on Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.",
       "activePeriod": {
-        "start": "2026-09-20T04:59:00.000Z",
-        "end": "2026-09-20T07:00:00.000Z"
+        "start": "2026-09-26T04:59:00.000Z",
+        "end": "2026-09-26T07:00:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-09-19T07:15:00.000Z",
+      "updatedAt": "2026-09-20T07:15:00.000Z",
       "rawHeader": "METRO E Line detoured off Hennepin Ave from 28th St to Lake St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM",
       "rawDescription": "Get on/off southbound buses at:\r\nUptown Transit Station - Gates D/E - Stop #52857 (westbound)\r\n\nNo northbound stations missed.\r\n\nNorthbound buses will travel regular route on Hennepin Ave to Lake St, right on Lake St, left on Dupont Ave, left on Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Hennepin Ave to 28th St, left on 28th St, right on Lyndale Ave, right on Lake St, right on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave and resume regular route.\r\n\nAffected stops:\r\nUptown Transit Station - Gate A - Stop #50196 (southbound)"
     },
@@ -1132,7 +808,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-09-17T18:48:14.000Z",
+      "updatedAt": "2026-09-20T05:00:01.000Z",
       "rawHeader": "Route 3A detoured off Como Blvd from Como Ave to Maryland Ave and off Maryland Ave from Como Blvd to Dale St from 9:00 AM to 11:00 AM on Sat Sep 26 due to Como Homecoming Parade",
       "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nComo Ave & Como Place - Stop #50125 (eastbound)\r\nDale St & Maryland Ave - Stop #10711 (northbound)\r\nMaryland Ave & Mackubin St - Stop #5563 (eastbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\nMaryland Ave & Mackubin St - Stop #5587 (westbound)\r\nComo Ave & Como Place - Stop #50126 (westbound)\r\n\nEastbound 3A buses will travel regular route on Como Ave to Como Ave/Como Blvd, right on Como Ave, left on Jessamine Ave, left on Dale St, right on Maryland Ave, and resume regular route.\r\n\nWestbound 3A buses will travel regular route on Maryland Ave to Dale St, left on Dale, right on Jessamine Ave, right on Como Ave to Como Blvd, left on Como Ave, and resume regular route.\r\n\nAffected stops:\r\nComo Blvd E & Maryland Ave - Stop #5555 (northbound)\r\nMaryland Ave & Grotto St - Stop #5556 (eastbound)\r\nMaryland Ave & Dale St - Stop #5560 (eastbound)\r\nMaryland Ave & Dale St - Stop #5589 (westbound)\r\nMaryland Ave & Grotto St - Stop #5593 (westbound)\r\nMaryland Ave & Como Blvd E - Stop #5594 (westbound)"
     },
@@ -1291,7 +967,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/4",
-      "updatedAt": "2026-09-19T05:00:00.000Z",
+      "updatedAt": "2026-09-20T05:00:01.000Z",
       "rawHeader": "Route 4P detoured off Penn Ave from Hwy 62 to 76th St from 9:30 AM to 6:00 PM on Sun Sep 20 due to Open Streets Penn Fest",
       "rawDescription": "For northbound Route 4 get on/off buses at:\r\nPenn Ave S & Best Buy - Stop #1066 (northbound)\r\nPenn Ave S & 61st St W - Stop #1084 (northbound)\r\n\nFor southbound Route 4 get on/off buses at:\r\nPenn Ave S & 61st St W - Stop #1030 (southbound)\r\nPenn Ave S & 76th St W - Stop #2043 (southbound)\r\n\nNorthbound 4 (via Penn) buses will travel regular route on Penn Ave to 76th St, right on 76th St, left on northbound I-35W ramp, continue onto westbound Hwy 62, exit at Penn Ave, right on Penn Ave, and resume regular route.\r\n\nSouthbound 4P buses will travel regular route on Penn Ave to Hwy 62, left on eastbound Hwy 62 ramp, continue onto southbound I-35W, exit at 76th St, right on 76th St, left on Penn Ave, and resume regular route.\r\n\nAffected stops:\r\nPenn Ave S & 75th St W - Stop #1067 (northbound)\r\nPenn Ave S & 74th St W - Stop #1069 (northbound)\r\nPenn Ave S & 73rd St W - Stop #1070 (northbound)\r\nPenn Ave S & 72nd St W - Stop #1071 (northbound)\r\nPenn Ave S & 70th St W - Stop #1073 (northbound)\r\nPenn Ave S & 68th St W - Stop #1075 (northbound)\r\nPenn Ave S & 66th St W - Stop #1077 (northbound)\r\nPenn Ave S & 64th St W - Stop #1079 (northbound)\r\nPenn Ave S & 63rd St W - Stop #1080 (northbound)\r\nPenn Ave S & 63rd St W - Stop #1036 (southbound)\r\nPenn Ave S & 64th St W - Stop #1037 (southbound)\r\nPenn Ave S & 66th St W - Stop #1039 (southbound)\r\nPenn Ave S & 68th St W - Stop #57378 (southbound)\r\nPenn Ave S & 70th St W - Stop #1043 (southbound)\r\nPenn Ave S & 72nd St W - Stop #1045 (southbound)\r\nPenn Ave S & 73rd St W - Stop #1046 (southbound)\r\nPenn Ave S & 74th St W - Stop #1047 (southbound)\r\nPenn Ave S & 75th St W - Stop #1048 (southbound)"
     },
@@ -1443,7 +1119,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/7",
-      "updatedAt": "2026-09-17T14:21:28.000Z",
+      "updatedAt": "2026-09-20T05:00:01.000Z",
       "rawHeader": "Route 7 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
       "rawDescription": "No stops missed.\r\n\nNorthbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.\r\n\nSouthbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route."
     },
@@ -1659,7 +1335,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/9",
-      "updatedAt": "2026-09-17T14:16:11.000Z",
+      "updatedAt": "2026-09-20T05:00:01.000Z",
       "rawHeader": "Route 9 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
       "rawDescription": "No stops missed.\r\n\nEastbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.\r\n\nWestbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route."
     },
@@ -2346,13 +2022,13 @@
       "riderAlternative": "Board at: Uptown Transit Station - Gate C - Stop #50160 (westbound)",
       "detourDetails": "Eastbound buses will travel regular route on Lake St to Hennepin Ave, continue on Lake St to Dupont Ave, left on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.",
       "activePeriod": {
-        "start": "2026-09-20T04:59:00.000Z",
-        "end": "2026-09-20T07:00:00.000Z"
+        "start": "2026-09-26T04:59:00.000Z",
+        "end": "2026-09-26T07:00:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-09-19T07:15:00.000Z",
+      "updatedAt": "2026-09-20T07:15:00.000Z",
       "rawHeader": "Route 17 detoured off Hennepin Ave from Lake St to 28th St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM",
       "rawDescription": "Get on/off westbound buses at:\r\nUptown Transit Station - Gate C - Stop #50160 (westbound)\r\n\nNo eastbound stops missed.\r\n\nEastbound buses will travel regular route on Lake St to Hennepin Ave, continue on Lake St to Dupont Ave, left on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.\r\n\nWestbound buses will travel regular route on Hennepin Ave to 28th St, left on 28th St, right on Lyndale Ave, right on Lake St, right on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave, right on Lagoon Ave and resume regular route.\r\n\nAffected stops:\r\nUptown Transit Station - Gate A - Stop #50196 (southbound)"
     },
@@ -3664,97 +3340,6 @@
       "rawDescription": "For eastbound Route 27 get on/off buses at:\r\n28th St E & Bloomington Ave S - Stop #43016 (eastbound)\r\nLake & Cedar Station - Stop #51579 (eastbound)\r\n\nFor westbound Route 27 get on/off buses at:\r\nLake St E & 21st Ave S - Stop #16894 (westbound)\r\nLake & Cedar Station - Stop #57362 (westbound)\r\nBloomington Ave S & 28th St E - Stop #15618 (northbound)\r\n26th St E & 12th Ave S - Stop #51507 (westbound)\r\n\nEastbound buses will travel regular route on 28th St to Bloomington Ave, right on Bloomington, left on Lake St to Cedar Ave, and resume regular route.\r\n\nWestbound buses will travel regular route on Lake St to Cedar Ave, continue on Lake to Bloomington Ave, right on Bloomington, left on 26th St, and resume regular route.\r\n\nAffected stops:\r\n28th St E & Cedar Ave S - Stop #43021 (eastbound)\r\nCedar Ave S & Lake St E - Stop #15317 (northbound)\r\nCedar Ave S & 28th St E - Stop #15319 (northbound)\r\n26th St E & 18th Ave S - Stop #14340 (westbound)\r\n26th St E & Bloomington Ave S - Stop #43004 (westbound)"
     },
     {
-      "id": "53053",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 30, Route 48: Detour via Golden Valley Rd & Morgan Ave N",
-      "summary": "Routes 30 and 48 detoured off Golden Valley Rd between Penn & Vincent until later today due to police activity. Board at: Golden Valley Rd & Morgan Ave N - Stop #52720 (westbound); Golden Valley Rd & Xerxes Ave N - Stop #8216 (westbound).",
-      "affectedRoutes": [
-        "Route 30",
-        "Route 48"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Golden Valley Rd & Morgan Ave N",
-        "Golden Valley Rd & Xerxes Ave N",
-        "south on Penn to Golden Valley Rd & resume regular route\n\nAffected st",
-        "Golden Valley Rd & Upton Ave N",
-        "Golden Valley Rd & Sheridan Ave N"
-      ],
-      "closedStopIds": [
-        "8228",
-        "52155",
-        "8240",
-        "8248",
-        "40580",
-        "8242",
-        "52360",
-        "8230",
-        "52720",
-        "8216"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "8228",
-          "name": "Golden Valley Rd & Upton Ave N",
-          "direction": "eastbound"
-        },
-        {
-          "id": "52155",
-          "name": "Golden Valley Rd & Sheridan Ave N",
-          "direction": "eastbound"
-        },
-        {
-          "id": "8240",
-          "name": "Golden Valley Rd & Russell Ave N",
-          "direction": "eastbound"
-        },
-        {
-          "id": "8248",
-          "name": "Golden Valley Rd & Penn Ave N",
-          "direction": "eastbound"
-        },
-        {
-          "id": "40580",
-          "name": "Golden Valley Rd & Penn / Queen Ave N",
-          "direction": "westbound"
-        },
-        {
-          "id": "8242",
-          "name": "Golden Valley Rd & Russell Ave N",
-          "direction": "westbound"
-        },
-        {
-          "id": "52360",
-          "name": "Golden Valley Rd & Sheridan Ave N",
-          "direction": "westbound"
-        },
-        {
-          "id": "8230",
-          "name": "Golden Valley Rd & Upton Ave N",
-          "direction": "westbound"
-        },
-        {
-          "id": "52720"
-        },
-        {
-          "id": "8216"
-        }
-      ],
-      "riderAlternative": "Board at: Golden Valley Rd & Morgan Ave N - Stop #52720 (westbound); Golden Valley Rd & Xerxes Ave N - Stop #8216 (westbound)",
-      "detourDetails": "Westbound buses will travel to Golden Valley Rd & Penn, travel north on Penn to 23rd, left on 23rd, left on Vincent, right on Golden Valley Rd and resume regular route",
-      "activePeriod": {
-        "start": "2026-09-20T01:22:00.000Z",
-        "end": "2026-09-20T05:13:23.000Z"
-      },
-      "cause": "POLICE_ACTIVITY",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-09-20T01:22:27.000Z",
-      "rawHeader": "Routes 30 and 48 detoured off Golden Valley Rd between Penn & Vincent until later today due to police activity",
-      "rawDescription": "Get on/off buses at:\r\nGolden Valley Rd & Morgan Ave N - Stop #52720 (westbound)\r\nGolden Valley Rd & Xerxes Ave N - Stop #8216 (westbound)\r\n\nNorthbound/Westbound buses will travel to Golden Valley Rd & Penn, travel north on Penn to 23rd, left on 23rd, left on Vincent, right on Golden Valley Rd and resume regular route\r\n\nSouthbound/Eastbound buses will travel east on Golden Valley Rd to Vincent, left on Vincent, right on 23rd, right on Penn, south on Penn to Golden Valley Rd and resume regular route\r\n\nAffected stops:\r\nGolden Valley Rd & Upton Ave N - Stop #8228 (eastbound)\r\nGolden Valley Rd & Sheridan Ave N - Stop #52155 (eastbound)\r\nGolden Valley Rd & Russell Ave N - Stop #8240 (eastbound)\r\nGolden Valley Rd & Penn Ave N - Stop #8248 (eastbound)\r\nGolden Valley Rd & Penn / Queen Ave N - Stop #40580 (westbound)\r\nGolden Valley Rd & Russell Ave N - Stop #8242 (westbound)\r\nGolden Valley Rd & Sheridan Ave N - Stop #52360 (westbound)\r\nGolden Valley Rd & Upton Ave N - Stop #8230 (westbound)"
-    },
-    {
       "id": "42305",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -4057,12 +3642,12 @@
       "riderAlternative": null,
       "detourDetails": "Eastbound buses will travel regular route.",
       "activePeriod": {
-        "start": "2026-09-20T04:59:00.000Z",
-        "end": "2026-09-20T07:00:00.000Z"
+        "start": "2026-09-26T04:59:00.000Z",
+        "end": "2026-09-26T07:00:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-09-19T07:15:01.000Z",
+      "updatedAt": "2026-09-20T07:15:01.000Z",
       "rawHeader": "METRO B Line and Route 38 detoured off Lagoon Ave from Fremont Ave to Hennepin Ave until further notice every Friday and Saturday from 12:00 AM to 2:00 AM",
       "rawDescription": "No stations missed.\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on Lagoon Ave to Fremont Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave, right on Lagoon Ave and resume regular route."
     },
@@ -4171,7 +3756,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/46",
-      "updatedAt": "2026-09-19T05:00:01.000Z",
+      "updatedAt": "2026-09-20T05:00:01.000Z",
       "rawHeader": "Route 46 detoured off 50th St from Halifax Ave to France Ave from 11:00 AM to 5:00 PM on Sun Sep 20 due to special event",
       "rawDescription": "For eastbound Route 46 get on/off buses at:\r\n50th St W & Indianola Ave - Stop #986 (eastbound)\r\n50th St W & Ewing Ave S - Stop #990 (eastbound)\r\n\nFor westbound Route 46 get on/off buses at:\r\n50th St W & Ewing Ave S - Stop #205 (westbound)\r\n50th St W & Maple Rd - Stop #210 (westbound)\r\n\nEastbound buses will travel regular route on 50th St to Halifax Ave, right on Halifax and continue onto 51st St, left on France Ave, right on 50th St, and resume regular route.\r\n\nWestbound buses will travel regular route on 50th St to France Ave, left on France, right on 51st St and continue onto Halifax Ave, left on 50th St, and resume regular route.\r\n\nAffected stops:\r\n50th St W & France Ave S - Stop #989 (eastbound)\r\n50th St W & France Ave S - Stop #208 (westbound)"
     },
@@ -4804,60 +4389,6 @@
       "rawDescription": "Updated northbound detour routing 9/14 11:20 am.\r\n\nFor northbound Route 62 get on/off buses at:\r\nRice St & Charles Ave - Stop #10488 (northbound)\r\nComo Ave & Rice St - Stop #49895 (westbound)\r\nTemporary stop on Atwater St & Galtier St (eastbound)\r\nTemporary stop on Galtier St & Front Ave (northbound)\r\nTemporary stop on Rice St & Orange Ave (northbound)\r\nRice St & Ivy Ave - Stop #10507 (northbound)\r\n\nFor southbound Route 62 get on/off buses at:\r\nRice St & Orange Ave - Stop #10470 (southbound)\r\nTemporary stop on Galtier St & Cook Ave (southbound)\r\nTemporary stop on Galtier St & Front Ave (southbound)\r\nTemporary stop on Galtier St & Atwater St (southbound)\r\nComo Ave & Rice St - Stop #973 (eastbound)\r\nRice St & Charles Ave - Stop #974 (southbound)\r\n\nNorthbound buses will travel regular route on Rice St to Como Ave, left on Como, right on Western Ave, right on Atwater St, left on Galtier St, right on Maryland Ave, left on Rice St, and resume regular route.\r\n\nSouthbound buses will travel regular route on Rice St to Maryland Ave, right on Maryland Ave, left on Galtier St, right on Atwater St, left on Western Ave, left on Como Ave, right on Rice St, and resume regular route.\r\n\nAffected stops:\r\nRice St & Como Ave - Stop #10489 (northbound)\r\nRice St & Pennsylvania Ave - Stop #10490 (northbound)\r\nRice St & Sycamore St - Stop #10491 (northbound)\r\nRice St & Manitoba Ave - Stop #10494 (northbound)\r\nRice St & Front Ave - Stop #10496 (northbound)\r\nRice St & Lawson Ave - Stop #10498 (northbound)\r\nRice St & Geranium Ave - Stop #10501 (northbound)\r\nRice St & Maryland Ave - Stop #10503 (northbound)\r\nRice St & Maryland Ave - Stop #10471 (southbound)\r\nRice St & Geranium Ave - Stop #10473 (southbound)\r\nRice St & Lawson Ave - Stop #10476 (southbound)\r\nRice St & Litchfield St - Stop #10479 (southbound)\r\nRice St & Milford St - Stop #10480 (southbound)\r\nRice St & Sycamore St - Stop #10482 (southbound)\r\nRice St & Pennsylvania Ave - Stop #10483 (southbound)\r\nRice St & Como Ave - Stop #10484 (southbound)"
     },
     {
-      "id": "52782",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 62, Route 62D: Detour via Wabasha St & Congress St",
-      "summary": "Route 62D detoured off Wabasha St from Cesar Chavez St to Congress St from 11:00 AM to 11:00 PM on Sat Sep 19 due to Back Pocket Vintage One Year Party. Board at: Wabasha St & Congress St - Stop #287 (northbound); Wabasha St & Torre de San Miguel - Stop #2781 (northbound).",
-      "affectedRoutes": [
-        "Route 62",
-        "Route 62D"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Wabasha St & Congress St",
-        "Wabasha St & Torre de San Miguel - St",
-        "Wabasha St & Winifred St",
-        "Wabasha St & Cesar Chavez St"
-      ],
-      "closedStopIds": [
-        "289",
-        "299",
-        "2781",
-        "42007"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "289",
-          "name": "Wabasha St & Cesar Chavez St",
-          "direction": "northbound"
-        },
-        {
-          "id": "299",
-          "name": "Wabasha St & Congress St",
-          "direction": "southbound"
-        },
-        {
-          "id": "2781"
-        },
-        {
-          "id": "42007"
-        }
-      ],
-      "riderAlternative": "Board at: Wabasha St & Congress St - Stop #287 (northbound); Wabasha St & Torre de San Miguel - Stop #2781 (northbound)",
-      "detourDetails": "buses will travel regular route on Wabasha St to Cesar Chavez St, continue onto Cesar Chavez St to Congress St, right on Congress, left on Wabasha St, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-19T16:00:00.000Z",
-        "end": "2026-09-20T04:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/62",
-      "updatedAt": "2026-09-19T15:30:01.000Z",
-      "rawHeader": "Route 62D detoured off Wabasha St from Cesar Chavez St to Congress St from 11:00 AM to 11:00 PM on Sat Sep 19 due to Back Pocket Vintage One Year Party",
-      "rawDescription": "For northbound Route 62 get on/off buses at:\r\nWabasha St & Congress St - Stop #287 (northbound)\r\nWabasha St & Torre de San Miguel - Stop #2781 (northbound)\r\n\nFor southbound Route 62 get on/off buses at:\r\nWabasha St & Torre de San Miguel - Stop #42007 (southbound)\r\nWabasha St & Winifred St - Stop #300 (southbound)\r\n\nNorthbound 62 buses that depart Signal Hills will travel regular route on Wabasha St to Congress St, right on Congress, left on Cesar Chavez St to Wabasha St, and resume regular route.\r\n\nSouthbound 62D buses will travel regular route on Wabasha St to Cesar Chavez St, continue onto Cesar Chavez St to Congress St, right on Congress, left on Wabasha St, and resume regular route.\r\n\nAffected stops:\r\nWabasha St & Cesar Chavez St - Stop #289 (northbound)\r\nWabasha St & Congress St - Stop #299 (southbound)"
-    },
-    {
       "id": "53001",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -4923,7 +4454,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/62",
-      "updatedAt": "2026-09-18T14:56:48.000Z",
+      "updatedAt": "2026-09-20T08:01:01.000Z",
       "rawHeader": "Route 62 detoured off Wabasha St/Humboldt Ave from Winifred St to Isabel St beginning Tue Sep 22 at 1:00 AM until further notice",
       "rawDescription": "For northbound Route 62 get on/off buses at:\r\nWinifred St W & Stryker Ave S - Stop #6334 (eastbound)\r\nWabasha St & Cesar Chavez St - Stop #289 (northbound)\r\n\nFor southbound Route 62 get on/off buses at:\r\nWabasha St & Torre de San Miguel - Stop #42007 (southbound)\r\nWinifred St W & Stryker Ave S - Stop #2624 (westbound)\r\n\nNorthbound buses will travel the regular route on Winifred St to Stryker Ave, left on Stryker Ave, right on Isabel St, left on Wabasha St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Wabasha St to Isabel St, right on Isabel St, left on Hall Ave, right on Winifred St, and resume the regular route.\r\n\nAffected stops:\r\nWinifred St W & Humboldt Ave S - Stop #6336 (eastbound)\r\nWabasha St & Congress St - Stop #287 (northbound)\r\nWabasha St & Congress St - Stop #299 (southbound)\r\nWabasha St & Winifred St - Stop #300 (southbound)"
     },
@@ -5931,7 +5462,7 @@
       },
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-09-19T08:01:01.000Z",
+      "updatedAt": "2026-09-20T08:01:01.000Z",
       "rawHeader": "Robert St S & Plato Blvd E - Stop #2609 (northbound) is closed for Routes 68 and 71 beginning Mon Sep 21 at 1:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nRobert St S & Colorado St - Stop #2608 (northbound)\r\nRobert St S & Fillmore Ave - Stop #2610 (northbound)"
     },
@@ -6322,7 +5853,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/74",
-      "updatedAt": "2026-09-17T14:17:10.000Z",
+      "updatedAt": "2026-09-20T05:00:01.000Z",
       "rawHeader": "Route 74 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
       "rawDescription": "No stops missed.\r\n\nEastbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.\r\n\nWestbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route."
     },
@@ -6396,7 +5927,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/75",
-      "updatedAt": "2026-09-18T15:09:41.000Z",
+      "updatedAt": "2026-09-20T08:01:01.000Z",
       "rawHeader": "Route 75 detoured off Wabasha St/Humboldt Ave from Isabel St to Winifred St beginning Tue Sep 22 at 1:00 AM until further notice",
       "rawDescription": "For northbound Route 75 get on/off buses at:\r\nHumboldt Ave & Robie St - Stop #285 (northbound)\r\nWinifred St W & Stryker Ave S - Stop #2624 (westbound)\r\nWabasha St & Cesar Chavez St - Stop #289 (northbound)\r\n\nFor southbound Route 75 get on/off buses at:\r\nWabasha St & Torre de San Miguel - Stop #42007 (southbound)\r\nWinifred St W & Humboldt Ave S - Stop #6336 (eastbound)\r\nHumboldt Ave & Robie St - Stop #46506 (southbound)\r\n\nNorthbound buses will travel the regular route on Humboldt Ave to Winifred St, left on Winifred St, right on Stryker Ave, right on Isabel St, left on Wabasha St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Wabasha St to Isabel St, right on Isabel St, left on Hall Ave, left on Winifred St, right on Humboldt Ave, and resume the regular route.\r\n\nAffected stops:\r\nHumboldt Ave & Winifred St - Stop #286 (northbound)\r\nWabasha St & Congress St - Stop #287 (northbound)\r\nWabasha St & Congress St - Stop #299 (southbound)\r\nWabasha St & Winifred St - Stop #300 (southbound)"
     },
@@ -7851,7 +7382,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/645",
-      "updatedAt": "2026-09-19T05:00:00.000Z",
+      "updatedAt": "2026-09-20T05:00:01.000Z",
       "rawHeader": "Route 645 detoured off Hwy 394 from Hwy 100 to downtown Minneapolis from Fri Sep 18 at 10:00 AM to Sun Sep 20 at 10:00 PM due to construction",
       "rawDescription": "No stops missed.\r\n\nEastbound buses will travel regular route on Park Place Blvd to Wayzata Blvd, continue on Park Place Blvd which becomes Xenia Ave, right on Glenwood Ave, right on 12th St to Hennepin Ave, and resume regular route.\r\n\nWestbound buses will travel regular route.\r\n\nAffected direction: Eastbound"
     },
@@ -7925,7 +7456,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/645",
-      "updatedAt": "2026-09-18T13:43:15.000Z",
+      "updatedAt": "2026-09-20T05:00:01.000Z",
       "rawHeader": "Route 645 detoured off Ridgedale Dr from Cartway Lane to Plymouth Rd beginning Mon Sep 21 at 7:00 AM until further notice due to construction",
       "rawDescription": "For eastbound Route 645 get on/off buses at:\r\nRidgedale Dr & Target Entrance - Stop #7033 (eastbound)\r\nRidgedale Dr & Hennepin Service Center - Stop #7000 (eastbound)\r\n\nFor westbound Route 645 get on/off buses at:\r\nRidgedale Dr & Hennepin Service Center - Stop #6771 (westbound)\r\nRidgedale Dr & Essex Rd - Stop #7077 (westbound)\r\n\nEastbound buses will travel regular route on Ridgedale Dr to Ridgehaven Ln, continue up the ramp and turn right on Plymouth Rd, left on Ridgedale Dr, and resume regular route.\r\n\nWestbound buses will travel regular route on Ridgedale Dr to Plymouth Rd, right on Plymouth Rd, left on Ridgehaven Dr and continue down ramp to Ridgedale Dr, and resume regular route.\r\n\nAffected stops:\r\nRidgedale Dr & Ridgehaven / Cartway Lane - Stop #7034 (southbound)\r\nRidgedale Dr & Cartway Lane - Stop #7035 (southbound)\r\nRidgedale Dr & Plymouth Rd / Cartway Ln - Stop #49391 (northbound)\r\nRidgedale Dr & Cartway Lane - Stop #56601 (northbound)"
     },
@@ -8008,7 +7539,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/673",
-      "updatedAt": "2026-09-18T14:30:01.000Z",
+      "updatedAt": "2026-09-20T05:00:01.000Z",
       "rawHeader": "Route 673 detoured off Hwy 394 from Hwy 100 to downtown Minneapolis from Fri Sep 18 at 10:00 AM to Mon Sep 21 at 5:00 AM due to construction",
       "rawDescription": "No stops missed.\r\n\nEastbound buses will travel regular route on eastbound Hwy 394 to Hwy 100, continue onto northbound Hwy 100, exit at Hwy 55, right on eastbound Hwy 55/Olson Memorial Hwy, right on 7th St and continue onto 10th St, right on Twins Way, left on 12th St to Hennepin Ave, and resume regular route.\r\n\nWestbound buses will travel regular route.\r\n\nAffected direction: Eastbound"
     },
