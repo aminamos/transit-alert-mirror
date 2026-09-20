@@ -4,26 +4,44 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 20 Sep 2026 13:55:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 17:16:40 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO A Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/aline</link>
-      <guid isPermaLink="false">Metro Transit-53064-2026-09-20T10:01:59.000Z</guid>
-      <pubDate>Sun, 20 Sep 2026 10:01:59 GMT</pubDate>
+      <title>[Critical] METRO B Line: Westbound 11:55 AM Trip Canceled (Union Depot &amp; Gate A1)</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-53070-2026-09-20T17:06:00.000Z</guid>
+      <pubDate>Sun, 20 Sep 2026 17:06:00 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO A Line</category>
-      <description>A Line trip departing 46th St Station Gate A at 5:05 AM and seven other trips canceled today</description>
+      <category>METRO B Line</category>
+      <description>Westbound B Line trip departing Union Depot &amp; Gate A1 at 11:55 AM canceled today</description>
     </item>
     <item>
-      <title>[Critical] METRO C Line: Southbound 9:08 AM Trip Canceled (Brooklyn Ctr Transit Ctr Gate I)</title>
-      <link>https://www.metrotransit.org/route/cline</link>
-      <guid isPermaLink="false">Metro Transit-53067-2026-09-20T13:45:06.000Z</guid>
-      <pubDate>Sun, 20 Sep 2026 13:45:06 GMT</pubDate>
+      <title>[Critical] Route 2: Westbound 10:40 AM Trip Canceled (Ontario St SE &amp; Beacon St)</title>
+      <link>https://www.metrotransit.org/route/2</link>
+      <guid isPermaLink="false">Metro Transit-53068-2026-09-20T17:13:01.000Z</guid>
+      <pubDate>Sun, 20 Sep 2026 17:13:01 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO C Line</category>
-      <description>Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 9:08 AM canceled today due to mechanical issue</description>
+      <category>Route 2</category>
+      <description>Westbound Route 2 trip departing Ontario St SE &amp; Beacon St at 10:40 AM canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 11, Route 11A: Southbound 11:14 AM Trip Canceled (Columbia Heights Transit Center C)</title>
+      <link>https://www.metrotransit.org/route/11</link>
+      <guid isPermaLink="false">Metro Transit-53069-2026-09-20T16:41:33.000Z</guid>
+      <pubDate>Sun, 20 Sep 2026 16:41:33 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 11, Route 11A</category>
+      <description>Southbound Route 11A trip departing Columbia Heights Transit Center C at 11:14 AM canceled today due to maintenance work</description>
+    </item>
+    <item>
+      <title>[Critical] Route 18, Route 18C: Southbound 12:37 PM Trip Canceled (4th Ave S &amp; 3rd St S)</title>
+      <link>https://www.metrotransit.org/route/18</link>
+      <guid isPermaLink="false">Metro Transit-53071-2026-09-20T17:13:41.000Z</guid>
+      <pubDate>Sun, 20 Sep 2026 17:13:41 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 18, Route 18C</category>
+      <description>Southbound Route 18C trip departing 4th Ave S &amp; 3rd St S at 12:37 PM canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
@@ -138,8 +156,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 4, Route 4P: Detour via Penn Ave S &amp; Best Buy - St</title>
       <link>https://www.metrotransit.org/route/4</link>
-      <guid isPermaLink="false">Metro Transit-52884-2026-09-20T05:00:01.000Z</guid>
-      <pubDate>Sun, 20 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52884-2026-09-20T14:00:01.000Z</guid>
+      <pubDate>Sun, 20 Sep 2026 14:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 4, Route 4P</category>
       <description>Route 4P detoured off Penn Ave from Hwy 62 to 76th St from 9:30 AM to 6:00 PM on Sun Sep 20 due to Open Streets Penn Fest. Board at: Penn Ave S &amp; Best Buy - Stop #1066 (northbound); Penn Ave S &amp; 61st St W - Stop #1084 (northbound). | Action: Board at: Penn Ave S &amp; Best Buy - Stop #1066 (northbound); Penn Ave S &amp; 61st St W - Stop #1084 (northbound)</description>
@@ -464,8 +482,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 46: Detour via 50th St W &amp; Indianola Ave</title>
       <link>https://www.metrotransit.org/route/46</link>
-      <guid isPermaLink="false">Metro Transit-52781-2026-09-20T05:00:01.000Z</guid>
-      <pubDate>Sun, 20 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52781-2026-09-20T15:30:01.000Z</guid>
+      <pubDate>Sun, 20 Sep 2026 15:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 46</category>
       <description>Route 46 detoured off 50th St from Halifax Ave to France Ave from 11:00 AM to 5:00 PM on Sun Sep 20 due to special event. Board at: 50th St W &amp; Indianola Ave - Stop #986 (eastbound); 50th St W &amp; Ewing Ave S - Stop #990 (eastbound). | Action: Board at: 50th St W &amp; Indianola Ave - Stop #986 (eastbound); 50th St W &amp; Ewing Ave S - Stop #990 (eastbound)</description>

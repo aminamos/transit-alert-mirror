@@ -1,50 +1,74 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-20T13:55:13.870Z",
-    "totalAlerts": 111,
-    "criticalCount": 2,
+    "generatedAt": "2026-09-20T17:16:40.092Z",
+    "totalAlerts": 113,
+    "criticalCount": 4,
     "moderateCount": 106,
     "minorCount": 3,
-    "affectedRoutesCount": 80,
+    "affectedRoutesCount": 81,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "53064",
+      "id": "53070",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO A Line: Service Canceled",
-      "summary": "A Line trip departing 46th St Station Gate A at 5:05 AM and seven other trips canceled today",
+      "title": "METRO B Line: Westbound 11:55 AM Trip Canceled (Union Depot & Gate A1)",
+      "summary": "Westbound B Line trip departing Union Depot & Gate A1 at 11:55 AM canceled today",
       "affectedRoutes": [
-        "METRO A Line"
+        "METRO B Line"
       ],
-      "direction": "Both Directions",
+      "direction": "Westbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-20T10:05:00.000Z",
-        "end": "2026-09-20T16:57:00.000Z"
+        "start": "2026-09-20T17:05:00.000Z",
+        "end": "2026-09-20T19:01:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/aline",
-      "updatedAt": "2026-09-20T10:01:59.000Z",
-      "rawHeader": "A Line trip departing 46th St Station Gate A at 5:05 AM and seven other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting 46th St Station Gate A at 5:05 AM\r\ndeparting 46th St Station Gate A at 6:39 AM\r\ndeparting 46th St Station Gate A at 8:09 AM\r\ndeparting 46th St Station Gate A at 9:38 AM\r\n\nAffected southbound trips:\r\ndeparting Rosedale Transit Center Gate A at 5:55 AM\r\ndeparting Rosedale Transit Center Gate A at 7:25 AM\r\ndeparting Rosedale Transit Center Gate A at 8:55 AM\r\ndeparting Rosedale Transit Center Gate A at 10:24 AM"
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-09-20T17:06:00.000Z",
+      "rawHeader": "Westbound B Line trip departing Union Depot & Gate A1 at 11:55 AM canceled today",
+      "rawDescription": ""
     },
     {
-      "id": "53067",
+      "id": "53068",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO C Line: Southbound 9:08 AM Trip Canceled (Brooklyn Ctr Transit Ctr Gate I)",
-      "summary": "Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 9:08 AM canceled today due to mechanical issue",
+      "title": "Route 2: Westbound 10:40 AM Trip Canceled (Ontario St SE & Beacon St)",
+      "summary": "Westbound Route 2 trip departing Ontario St SE & Beacon St at 10:40 AM canceled today due to mechanical issue",
       "affectedRoutes": [
-        "METRO C Line"
+        "Route 2"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {},
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/2",
+      "updatedAt": "2026-09-20T17:13:01.000Z",
+      "rawHeader": "Westbound Route 2 trip departing Ontario St SE & Beacon St at 10:40 AM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "53069",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 11, Route 11A: Southbound 11:14 AM Trip Canceled (Columbia Heights Transit Center C)",
+      "summary": "Southbound Route 11A trip departing Columbia Heights Transit Center C at 11:14 AM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "Route 11",
+        "Route 11A"
       ],
       "direction": "Southbound",
       "intersections": [],
@@ -53,14 +77,41 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-20T14:08:00.000Z",
-        "end": "2026-09-20T15:39:00.000Z"
+        "start": "2026-09-20T16:41:00.000Z",
+        "end": "2026-09-20T18:10:00.000Z"
       },
-      "cause": "TECHNICAL_PROBLEM",
+      "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/cline",
-      "updatedAt": "2026-09-20T13:45:06.000Z",
-      "rawHeader": "Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 9:08 AM canceled today due to mechanical issue",
+      "url": "https://www.metrotransit.org/route/11",
+      "updatedAt": "2026-09-20T16:41:33.000Z",
+      "rawHeader": "Southbound Route 11A trip departing Columbia Heights Transit Center C at 11:14 AM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "53071",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 18, Route 18C: Southbound 12:37 PM Trip Canceled (4th Ave S & 3rd St S)",
+      "summary": "Southbound Route 18C trip departing 4th Ave S & 3rd St S at 12:37 PM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "Route 18",
+        "Route 18C"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-20T17:37:00.000Z",
+        "end": "2026-09-20T19:22:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/18",
+      "updatedAt": "2026-09-20T17:13:41.000Z",
+      "rawHeader": "Southbound Route 18C trip departing 4th Ave S & 3rd St S at 12:37 PM canceled today due to maintenance work",
       "rawDescription": ""
     },
     {
@@ -1019,7 +1070,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/4",
-      "updatedAt": "2026-09-20T05:00:01.000Z",
+      "updatedAt": "2026-09-20T14:00:01.000Z",
       "rawHeader": "Route 4P detoured off Penn Ave from Hwy 62 to 76th St from 9:30 AM to 6:00 PM on Sun Sep 20 due to Open Streets Penn Fest",
       "rawDescription": "For northbound Route 4 get on/off buses at:\r\nPenn Ave S & Best Buy - Stop #1066 (northbound)\r\nPenn Ave S & 61st St W - Stop #1084 (northbound)\r\n\nFor southbound Route 4 get on/off buses at:\r\nPenn Ave S & 61st St W - Stop #1030 (southbound)\r\nPenn Ave S & 76th St W - Stop #2043 (southbound)\r\n\nNorthbound 4 (via Penn) buses will travel regular route on Penn Ave to 76th St, right on 76th St, left on northbound I-35W ramp, continue onto westbound Hwy 62, exit at Penn Ave, right on Penn Ave, and resume regular route.\r\n\nSouthbound 4P buses will travel regular route on Penn Ave to Hwy 62, left on eastbound Hwy 62 ramp, continue onto southbound I-35W, exit at 76th St, right on 76th St, left on Penn Ave, and resume regular route.\r\n\nAffected stops:\r\nPenn Ave S & 75th St W - Stop #1067 (northbound)\r\nPenn Ave S & 74th St W - Stop #1069 (northbound)\r\nPenn Ave S & 73rd St W - Stop #1070 (northbound)\r\nPenn Ave S & 72nd St W - Stop #1071 (northbound)\r\nPenn Ave S & 70th St W - Stop #1073 (northbound)\r\nPenn Ave S & 68th St W - Stop #1075 (northbound)\r\nPenn Ave S & 66th St W - Stop #1077 (northbound)\r\nPenn Ave S & 64th St W - Stop #1079 (northbound)\r\nPenn Ave S & 63rd St W - Stop #1080 (northbound)\r\nPenn Ave S & 63rd St W - Stop #1036 (southbound)\r\nPenn Ave S & 64th St W - Stop #1037 (southbound)\r\nPenn Ave S & 66th St W - Stop #1039 (southbound)\r\nPenn Ave S & 68th St W - Stop #57378 (southbound)\r\nPenn Ave S & 70th St W - Stop #1043 (southbound)\r\nPenn Ave S & 72nd St W - Stop #1045 (southbound)\r\nPenn Ave S & 73rd St W - Stop #1046 (southbound)\r\nPenn Ave S & 74th St W - Stop #1047 (southbound)\r\nPenn Ave S & 75th St W - Stop #1048 (southbound)"
     },
@@ -3808,7 +3859,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/46",
-      "updatedAt": "2026-09-20T05:00:01.000Z",
+      "updatedAt": "2026-09-20T15:30:01.000Z",
       "rawHeader": "Route 46 detoured off 50th St from Halifax Ave to France Ave from 11:00 AM to 5:00 PM on Sun Sep 20 due to special event",
       "rawDescription": "For eastbound Route 46 get on/off buses at:\r\n50th St W & Indianola Ave - Stop #986 (eastbound)\r\n50th St W & Ewing Ave S - Stop #990 (eastbound)\r\n\nFor westbound Route 46 get on/off buses at:\r\n50th St W & Ewing Ave S - Stop #205 (westbound)\r\n50th St W & Maple Rd - Stop #210 (westbound)\r\n\nEastbound buses will travel regular route on 50th St to Halifax Ave, right on Halifax and continue onto 51st St, left on France Ave, right on 50th St, and resume regular route.\r\n\nWestbound buses will travel regular route on 50th St to France Ave, left on France, right on 51st St and continue onto Halifax Ave, left on 50th St, and resume regular route.\r\n\nAffected stops:\r\n50th St W & France Ave S - Stop #989 (eastbound)\r\n50th St W & France Ave S - Stop #208 (westbound)"
     },
