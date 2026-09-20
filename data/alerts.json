@@ -1,16 +1,68 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-20T09:02:21.320Z",
-    "totalAlerts": 109,
-    "criticalCount": 0,
+    "generatedAt": "2026-09-20T13:55:13.870Z",
+    "totalAlerts": 111,
+    "criticalCount": 2,
     "moderateCount": 106,
     "minorCount": 3,
-    "affectedRoutesCount": 79,
+    "affectedRoutesCount": 80,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
+    {
+      "id": "53064",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO A Line: Service Canceled",
+      "summary": "A Line trip departing 46th St Station Gate A at 5:05 AM and seven other trips canceled today",
+      "affectedRoutes": [
+        "METRO A Line"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-20T10:05:00.000Z",
+        "end": "2026-09-20T16:57:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/aline",
+      "updatedAt": "2026-09-20T10:01:59.000Z",
+      "rawHeader": "A Line trip departing 46th St Station Gate A at 5:05 AM and seven other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting 46th St Station Gate A at 5:05 AM\r\ndeparting 46th St Station Gate A at 6:39 AM\r\ndeparting 46th St Station Gate A at 8:09 AM\r\ndeparting 46th St Station Gate A at 9:38 AM\r\n\nAffected southbound trips:\r\ndeparting Rosedale Transit Center Gate A at 5:55 AM\r\ndeparting Rosedale Transit Center Gate A at 7:25 AM\r\ndeparting Rosedale Transit Center Gate A at 8:55 AM\r\ndeparting Rosedale Transit Center Gate A at 10:24 AM"
+    },
+    {
+      "id": "53067",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO C Line: Southbound 9:08 AM Trip Canceled (Brooklyn Ctr Transit Ctr Gate I)",
+      "summary": "Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 9:08 AM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "METRO C Line"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-20T14:08:00.000Z",
+        "end": "2026-09-20T15:39:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/cline",
+      "updatedAt": "2026-09-20T13:45:06.000Z",
+      "rawHeader": "Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 9:08 AM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
     {
       "id": "49962",
       "agency": "Metro Transit",

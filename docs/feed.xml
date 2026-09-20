@@ -4,9 +4,27 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 20 Sep 2026 09:02:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 13:55:13 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] METRO A Line: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/aline</link>
+      <guid isPermaLink="false">Metro Transit-53064-2026-09-20T10:01:59.000Z</guid>
+      <pubDate>Sun, 20 Sep 2026 10:01:59 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO A Line</category>
+      <description>A Line trip departing 46th St Station Gate A at 5:05 AM and seven other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] METRO C Line: Southbound 9:08 AM Trip Canceled (Brooklyn Ctr Transit Ctr Gate I)</title>
+      <link>https://www.metrotransit.org/route/cline</link>
+      <guid isPermaLink="false">Metro Transit-53067-2026-09-20T13:45:06.000Z</guid>
+      <pubDate>Sun, 20 Sep 2026 13:45:06 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO C Line</category>
+      <description>Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 9:08 AM canceled today due to mechanical issue</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
       <link>https://www.metrotransit.org/route/aline</link>
