@@ -2,57 +2,19 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-110-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-104-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-107-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-103-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-21T00:52:27.198Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-21T05:51:52.671Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (5) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (2) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (2) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (3) • **Route 25** (2) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 63** (3) • **Route 64** (5) • **Route 65** (2) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 323** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (5) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (2) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (2) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (3) • **Route 25** (2) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (3) • **Route 63** (3) • **Route 64** (5) • **Route 65** (2) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 323** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
-
-### 🚨 METRO A Line: Southbound 6:53 PM Trip Canceled (Rosedale Transit Center Gate A)
-
-- **Affected Routes**: `METRO A Line`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound A Line trip departing Rosedale Transit Center Gate A at 6:53 PM canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/aline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound A Line trip departing Rosedale Transit Center Gate A at 6:53 PM canceled today due to maintenance work
-
-</details>
-
----
-
-### 🚨 Route 61: Eastbound 5:42 PM Trip Canceled (Ramp A/7th St Transit Center)
-
-- **Affected Routes**: `Route 61`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-
-**Summary**: Eastbound Route 61 trip departing Ramp A/7th St Transit Center at 5:42 PM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/61)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 61 trip departing Ramp A/7th St Transit Center at 5:42 PM canceled today due to mechanical issue
-
-</details>
-
----
 
 ### 🚨 Route 323: Service Canceled
 
@@ -4347,37 +4309,6 @@ Affected direction: Westbound
 
 Affected stops:
 Oakland Rd & Carlson Pkwy - Stop #42502 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 645: Detour via Regular Corridor
-
-- **Affected Routes**: `Route 645`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-
-**Summary**: Route 645 detoured off Hwy 394 from Hwy 100 to downtown Minneapolis from Fri Sep 18 at 10:00 AM to Sun Sep 20 at 10:00 PM due to construction
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on Park Place Blvd to Wayzata Blvd, continue on Park Place Blvd which becomes Xenia Ave, right on Glenwood Ave, right on 12th St to Hennepin Ave, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/645)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 645 detoured off Hwy 394 from Hwy 100 to downtown Minneapolis from Fri Sep 18 at 10:00 AM to Sun Sep 20 at 10:00 PM due to construction
-
-```text
-No stops missed.
-
-Eastbound buses will travel regular route on Park Place Blvd to Wayzata Blvd, continue on Park Place Blvd which becomes Xenia Ave, right on Glenwood Ave, right on 12th St to Hennepin Ave, and resume regular route.
-
-Westbound buses will travel regular route.
-
-Affected direction: Eastbound
 ```
 
 </details>

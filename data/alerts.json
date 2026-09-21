@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-21T00:52:27.198Z",
-    "totalAlerts": 110,
-    "criticalCount": 3,
-    "moderateCount": 104,
+    "generatedAt": "2026-09-21T05:51:52.671Z",
+    "totalAlerts": 107,
+    "criticalCount": 1,
+    "moderateCount": 103,
     "minorCount": 3,
     "affectedRoutesCount": 77,
     "agencies": [
@@ -11,55 +11,6 @@
     ]
   },
   "alerts": [
-    {
-      "id": "53082",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO A Line: Southbound 6:53 PM Trip Canceled (Rosedale Transit Center Gate A)",
-      "summary": "Southbound A Line trip departing Rosedale Transit Center Gate A at 6:53 PM canceled today due to maintenance work",
-      "affectedRoutes": [
-        "METRO A Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-21T00:06:00.000Z",
-        "end": "2026-09-21T01:28:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/aline",
-      "updatedAt": "2026-09-21T00:07:31.000Z",
-      "rawHeader": "Southbound A Line trip departing Rosedale Transit Center Gate A at 6:53 PM canceled today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "53081",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 61: Eastbound 5:42 PM Trip Canceled (Ramp A/7th St Transit Center)",
-      "summary": "Eastbound Route 61 trip departing Ramp A/7th St Transit Center at 5:42 PM canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 61"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {},
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/61",
-      "updatedAt": "2026-09-21T00:49:01.000Z",
-      "rawHeader": "Eastbound Route 61 trip departing Ramp A/7th St Transit Center at 5:42 PM canceled today due to mechanical issue",
-      "rawDescription": ""
-    },
     {
       "id": "53080",
       "agency": "Metro Transit",
@@ -82,7 +33,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/323",
-      "updatedAt": "2026-09-20T22:45:01.000Z",
+      "updatedAt": "2026-09-21T05:00:01.000Z",
       "rawHeader": "Route 323 trip departing Woodlane Dr Station Gate B at 6:15 PM and thirteen other trips canceled today",
       "rawDescription": "Affected eastbound trips:\r\ndeparting Sun Ray Transit Center & Gate C at 6:45 PM\r\ndeparting Sun Ray Transit Center & Gate C at 7:45 PM\r\ndeparting Sun Ray Transit Center & Gate C at 8:45 PM\r\ndeparting Sun Ray Transit Center & Gate C at 9:45 PM\r\ndeparting Sun Ray Transit Center & Gate C at 10:44 PM\r\ndeparting Sun Ray Transit Center & Gate C at 11:44 PM\r\ndeparting Sun Ray Transit Center & Gate C at 12:44 AM\r\n\nAffected westbound trips:\r\ndeparting Woodlane Dr Station Gate B at 6:15 PM\r\ndeparting Woodlane Dr Station Gate B at 7:15 PM\r\ndeparting Woodlane Dr Station Gate B at 8:15 PM\r\ndeparting Woodlane Dr Station Gate B at 9:16 PM\r\ndeparting Woodlane Dr Station Gate B at 10:16 PM\r\ndeparting Woodlane Dr Station Gate B at 11:23 PM\r\ndeparting Woodlane Dr Station Gate B at 12:23 AM"
     },
@@ -207,7 +158,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/aline",
-      "updatedAt": "2026-09-20T05:00:01.000Z",
+      "updatedAt": "2026-09-21T05:00:01.000Z",
       "rawHeader": "METRO A Line detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
       "rawDescription": "No stops missed.\r\n\nNorthbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.\r\n\nSouthbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route."
     },
@@ -1035,7 +986,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/7",
-      "updatedAt": "2026-09-20T05:00:01.000Z",
+      "updatedAt": "2026-09-21T05:00:01.000Z",
       "rawHeader": "Route 7 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
       "rawDescription": "No stops missed.\r\n\nNorthbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.\r\n\nSouthbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route."
     },
@@ -1251,7 +1202,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/9",
-      "updatedAt": "2026-09-20T05:00:01.000Z",
+      "updatedAt": "2026-09-21T05:00:01.000Z",
       "rawHeader": "Route 9 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
       "rawDescription": "No stops missed.\r\n\nEastbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.\r\n\nWestbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route."
     },
@@ -4324,7 +4275,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/62",
-      "updatedAt": "2026-09-20T08:01:01.000Z",
+      "updatedAt": "2026-09-21T05:00:01.000Z",
       "rawHeader": "Route 62 detoured off Wabasha St/Humboldt Ave from Winifred St to Isabel St beginning Tue Sep 22 at 1:00 AM until further notice",
       "rawDescription": "For northbound Route 62 get on/off buses at:\r\nWinifred St W & Stryker Ave S - Stop #6334 (eastbound)\r\nWabasha St & Cesar Chavez St - Stop #289 (northbound)\r\n\nFor southbound Route 62 get on/off buses at:\r\nWabasha St & Torre de San Miguel - Stop #42007 (southbound)\r\nWinifred St W & Stryker Ave S - Stop #2624 (westbound)\r\n\nNorthbound buses will travel the regular route on Winifred St to Stryker Ave, left on Stryker Ave, right on Isabel St, left on Wabasha St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Wabasha St to Isabel St, right on Isabel St, left on Hall Ave, right on Winifred St, and resume the regular route.\r\n\nAffected stops:\r\nWinifred St W & Humboldt Ave S - Stop #6336 (eastbound)\r\nWabasha St & Congress St - Stop #287 (northbound)\r\nWabasha St & Congress St - Stop #299 (southbound)\r\nWabasha St & Winifred St - Stop #300 (southbound)"
     },
@@ -5332,7 +5283,7 @@
       },
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-09-20T08:01:01.000Z",
+      "updatedAt": "2026-09-21T05:30:02.000Z",
       "rawHeader": "Robert St S & Plato Blvd E - Stop #2609 (northbound) is closed for Routes 68 and 71 beginning Mon Sep 21 at 1:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nRobert St S & Colorado St - Stop #2608 (northbound)\r\nRobert St S & Fillmore Ave - Stop #2610 (northbound)"
     },
@@ -5723,7 +5674,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/74",
-      "updatedAt": "2026-09-20T05:00:01.000Z",
+      "updatedAt": "2026-09-21T05:00:01.000Z",
       "rawHeader": "Route 74 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
       "rawDescription": "No stops missed.\r\n\nEastbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.\r\n\nWestbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route."
     },
@@ -5797,7 +5748,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/75",
-      "updatedAt": "2026-09-20T08:01:01.000Z",
+      "updatedAt": "2026-09-21T05:00:01.000Z",
       "rawHeader": "Route 75 detoured off Wabasha St/Humboldt Ave from Isabel St to Winifred St beginning Tue Sep 22 at 1:00 AM until further notice",
       "rawDescription": "For northbound Route 75 get on/off buses at:\r\nHumboldt Ave & Robie St - Stop #285 (northbound)\r\nWinifred St W & Stryker Ave S - Stop #2624 (westbound)\r\nWabasha St & Cesar Chavez St - Stop #289 (northbound)\r\n\nFor southbound Route 75 get on/off buses at:\r\nWabasha St & Torre de San Miguel - Stop #42007 (southbound)\r\nWinifred St W & Humboldt Ave S - Stop #6336 (eastbound)\r\nHumboldt Ave & Robie St - Stop #46506 (southbound)\r\n\nNorthbound buses will travel the regular route on Humboldt Ave to Winifred St, left on Winifred St, right on Stryker Ave, right on Isabel St, left on Wabasha St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Wabasha St to Isabel St, right on Isabel St, left on Hall Ave, left on Winifred St, right on Humboldt Ave, and resume the regular route.\r\n\nAffected stops:\r\nHumboldt Ave & Winifred St - Stop #286 (northbound)\r\nWabasha St & Congress St - Stop #287 (northbound)\r\nWabasha St & Congress St - Stop #299 (southbound)\r\nWabasha St & Winifred St - Stop #300 (southbound)"
     },
@@ -7231,32 +7182,6 @@
       "rawDescription": "Get on/off buses at:\r\nOakland Rd & Oakways Rd - Stop #7083 (westbound)\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on Oakland Rd to Carlson Pkwy/Wayzata Blvd S, left on Wayzata Blvd S, right on Bushaway Rd, left on Wayzata Blvd, and resume regular route.\r\n\nAffected direction: Westbound\r\n\nAffected stops:\r\nOakland Rd & Carlson Pkwy - Stop #42502 (westbound)"
     },
     {
-      "id": "52951",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 645: Detour via Regular Corridor",
-      "summary": "Route 645 detoured off Hwy 394 from Hwy 100 to downtown Minneapolis from Fri Sep 18 at 10:00 AM to Sun Sep 20 at 10:00 PM due to construction",
-      "affectedRoutes": [
-        "Route 645"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": "Eastbound buses will travel regular route on Park Place Blvd to Wayzata Blvd, continue on Park Place Blvd which becomes Xenia Ave, right on Glenwood Ave, right on 12th St to Hennepin Ave, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-18T15:00:00.000Z",
-        "end": "2026-09-21T03:00:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/645",
-      "updatedAt": "2026-09-20T05:00:01.000Z",
-      "rawHeader": "Route 645 detoured off Hwy 394 from Hwy 100 to downtown Minneapolis from Fri Sep 18 at 10:00 AM to Sun Sep 20 at 10:00 PM due to construction",
-      "rawDescription": "No stops missed.\r\n\nEastbound buses will travel regular route on Park Place Blvd to Wayzata Blvd, continue on Park Place Blvd which becomes Xenia Ave, right on Glenwood Ave, right on 12th St to Hennepin Ave, and resume regular route.\r\n\nWestbound buses will travel regular route.\r\n\nAffected direction: Eastbound"
-    },
-    {
       "id": "52999",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -7326,7 +7251,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/645",
-      "updatedAt": "2026-09-20T05:00:01.000Z",
+      "updatedAt": "2026-09-21T05:00:01.000Z",
       "rawHeader": "Route 645 detoured off Ridgedale Dr from Cartway Lane to Plymouth Rd beginning Mon Sep 21 at 7:00 AM until further notice due to construction",
       "rawDescription": "For eastbound Route 645 get on/off buses at:\r\nRidgedale Dr & Target Entrance - Stop #7033 (eastbound)\r\nRidgedale Dr & Hennepin Service Center - Stop #7000 (eastbound)\r\n\nFor westbound Route 645 get on/off buses at:\r\nRidgedale Dr & Hennepin Service Center - Stop #6771 (westbound)\r\nRidgedale Dr & Essex Rd - Stop #7077 (westbound)\r\n\nEastbound buses will travel regular route on Ridgedale Dr to Ridgehaven Ln, continue up the ramp and turn right on Plymouth Rd, left on Ridgedale Dr, and resume regular route.\r\n\nWestbound buses will travel regular route on Ridgedale Dr to Plymouth Rd, right on Plymouth Rd, left on Ridgehaven Dr and continue down ramp to Ridgedale Dr, and resume regular route.\r\n\nAffected stops:\r\nRidgedale Dr & Ridgehaven / Cartway Lane - Stop #7034 (southbound)\r\nRidgedale Dr & Cartway Lane - Stop #7035 (southbound)\r\nRidgedale Dr & Plymouth Rd / Cartway Ln - Stop #49391 (northbound)\r\nRidgedale Dr & Cartway Lane - Stop #56601 (northbound)"
     },
@@ -7409,7 +7334,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/673",
-      "updatedAt": "2026-09-20T05:00:01.000Z",
+      "updatedAt": "2026-09-21T05:00:01.000Z",
       "rawHeader": "Route 673 detoured off Hwy 394 from Hwy 100 to downtown Minneapolis from Fri Sep 18 at 10:00 AM to Mon Sep 21 at 5:00 AM due to construction",
       "rawDescription": "No stops missed.\r\n\nEastbound buses will travel regular route on eastbound Hwy 394 to Hwy 100, continue onto northbound Hwy 100, exit at Hwy 55, right on eastbound Hwy 55/Olson Memorial Hwy, right on 7th St and continue onto 10th St, right on Twins Way, left on 12th St to Hennepin Ave, and resume regular route.\r\n\nWestbound buses will travel regular route.\r\n\nAffected direction: Eastbound"
     },
