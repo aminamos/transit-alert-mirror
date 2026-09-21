@@ -4,17 +4,98 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Mon, 21 Sep 2026 05:51:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 11:54:58 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 323: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/323</link>
-      <guid isPermaLink="false">Metro Transit-53080-2026-09-21T05:00:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 05:00:01 GMT</pubDate>
+      <title>[Critical] Route 4: Northbound 7:23 AM Trip Canceled (81st St W &amp; Humboldt Ave S)</title>
+      <link>https://www.metrotransit.org/route/4</link>
+      <guid isPermaLink="false">Metro Transit-53089-2026-09-21T11:53:00.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 11:53:00 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 323</category>
-      <description>Route 323 trip departing Woodlane Dr Station Gate B at 6:15 PM and thirteen other trips canceled today</description>
+      <category>Route 4</category>
+      <description>Northbound Route 4 trip departing 81st St W &amp; Humboldt Ave S at 7:23 AM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 22: Southbound 5:59 AM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)</title>
+      <link>https://www.metrotransit.org/route/22</link>
+      <guid isPermaLink="false">Metro Transit-53087-2026-09-21T10:52:44.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 10:52:44 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 22</category>
+      <description>Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 5:59 AM canceled</description>
+    </item>
+    <item>
+      <title>[Critical] Route 22, Route 22H: Southbound 6:41 AM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)</title>
+      <link>https://www.metrotransit.org/route/22</link>
+      <guid isPermaLink="false">Metro Transit-53093-2026-09-21T11:11:01.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 11:11:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 22, Route 22H</category>
+      <description>Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 6:41 AM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 30: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/30</link>
+      <guid isPermaLink="false">Metro Transit-53097-2026-09-21T11:37:00.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 11:37:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 30</category>
+      <description>Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 32: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/32</link>
+      <guid isPermaLink="false">Metro Transit-53092-2026-09-21T11:01:55.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 11:01:55 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 32</category>
+      <description>Route 32 trips departing Robbinsdale Transit Center &amp; Gate C at 8:14 AM and departing Rosedale Transit Center Gate D at 9:03 AM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 80: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/80</link>
+      <guid isPermaLink="false">Metro Transit-53096-2026-09-21T11:42:00.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 11:42:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 80</category>
+      <description>Route 80 trip departing Sun Ray Transit Center &amp; Gate E at 7:12 AM and thirteen other trips canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 467: Northbound 7:16 AM Trip Canceled (Interstate 35 Ramp &amp; Kenrick Ave Park &amp; Ride)</title>
+      <link>https://www.metrotransit.org/route/467</link>
+      <guid isPermaLink="false">Metro Transit-53094-2026-09-21T11:46:00.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 11:46:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 467</category>
+      <description>Northbound Route 467 trip departing Interstate 35 Ramp &amp; Kenrick Ave Park &amp; Ride at 7:16 AM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 763: Southbound 6:05 AM Trip Canceled (Xerxes Ave N &amp; Xerxes Court)</title>
+      <link>https://www.metrotransit.org/route/763</link>
+      <guid isPermaLink="false">Metro Transit-53088-2026-09-21T10:54:04.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 10:54:04 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 763</category>
+      <description>Southbound Route 763 trip departing Xerxes Ave N &amp; Xerxes Court at 6:05 AM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 827: Southbound 6:39 AM Trip Canceled (Northtown Transit Ctr Gate C)</title>
+      <link>https://www.metrotransit.org/route/827</link>
+      <guid isPermaLink="false">Metro Transit-53091-2026-09-21T11:09:01.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 11:09:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 827</category>
+      <description>Southbound Route 827 trip departing Northtown Transit Ctr Gate C at 6:39 AM canceled</description>
+    </item>
+    <item>
+      <title>[Critical] Route 860: Southbound 5:56 AM Trip Canceled (Coon Rapids Riverdale Park &amp; Ride)</title>
+      <link>https://www.metrotransit.org/route/860</link>
+      <guid isPermaLink="false">Metro Transit-53095-2026-09-21T11:18:06.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 11:18:06 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 860</category>
+      <description>Southbound Route 860 trip departing Coon Rapids Riverdale Park &amp; Ride at 5:56 AM canceled today due to mechanical issue</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
@@ -37,8 +118,8 @@
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
-      <guid isPermaLink="false">Metro Transit-52943-2026-09-21T05:00:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52943-2026-09-21T07:30:01.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 07:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO A Line</category>
       <description>METRO A Line detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
@@ -156,8 +237,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 7: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/7</link>
-      <guid isPermaLink="false">Metro Transit-52942-2026-09-21T05:00:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52942-2026-09-21T07:30:01.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 07:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 7</category>
       <description>Route 7 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
@@ -192,8 +273,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 9: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/9</link>
-      <guid isPermaLink="false">Metro Transit-52940-2026-09-21T05:00:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52940-2026-09-21T07:30:01.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 07:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 9</category>
       <description>Route 9 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
@@ -356,8 +437,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 22: Detour via Cedar Ave S &amp; 32nd St E</title>
       <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-52562-2026-09-14T07:30:01.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 07:30:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52562-2026-09-21T08:00:01.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 08:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 22</category>
       <description>Route 22 detoured off Cedar Ave from Lake St to 24th St beginning Mon Sep 14 until further notice due to construction. Board at: Cedar Ave S &amp; 32nd St E - Stop #15313 (northbound); Lake &amp; Cedar Station - Stop #57362 (westbound); Bloomington Ave S &amp; 28th St E - Stop #15618 (northbound). | Action: Board at: Cedar Ave S &amp; 32nd St E - Stop #15313 (northbound); Lake &amp; Cedar Station - Stop #57362 (westbound); Bloomington Ave S &amp; 28th St E - Stop #15618 (northbound)</description>
@@ -383,8 +464,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 27: Detour via Route 27 detoured off 26th St &amp; 28th St</title>
       <link>https://www.metrotransit.org/route/27</link>
-      <guid isPermaLink="false">Metro Transit-52564-2026-09-14T07:30:01.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 07:30:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52564-2026-09-21T08:00:01.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 08:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 27</category>
       <description>Route 27 detoured off 26th St/28th St from Bloomington Ave to Cedar Ave and off Cedar Ave from 26th St to Lake St beginning Mon Sep 14 until further notice due to construction. Board at: 28th St E &amp; Bloomington Ave S - Stop #43016 (eastbound); Lake &amp; Cedar Station - Stop #51579 (eastbound). | Action: Board at: 28th St E &amp; Bloomington Ave S - Stop #43016 (eastbound); Lake &amp; Cedar Station - Stop #51579 (eastbound)</description>
@@ -500,8 +581,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 62: Detour via Route 62 detoured off Wabasha St &amp; Humboldt Ave</title>
       <link>https://www.metrotransit.org/route/62</link>
-      <guid isPermaLink="false">Metro Transit-53001-2026-09-21T05:00:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53001-2026-09-21T08:01:01.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 08:01:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 62</category>
       <description>Route 62 detoured off Wabasha St/Humboldt Ave from Winifred St to Isabel St beginning Tue Sep 22 at 1:00 AM until further notice. Board at: Winifred St W &amp; Stryker Ave S - Stop #6334 (eastbound); Wabasha St &amp; Cesar Chavez St - Stop #289 (northbound). | Action: Board at: Winifred St W &amp; Stryker Ave S - Stop #6334 (eastbound); Wabasha St &amp; Cesar Chavez St - Stop #289 (northbound)</description>
@@ -563,8 +644,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 64: Detour via 7th St E &amp; Wall St</title>
       <link>https://www.metrotransit.org/route/64</link>
-      <guid isPermaLink="false">Metro Transit-52654-2026-09-14T09:30:01.000Z</guid>
-      <pubDate>Mon, 14 Sep 2026 09:30:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52654-2026-09-21T10:00:01.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 10:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 64</category>
       <description>Route 64 detoured off 7th St E from Lafayette Ave to Burr St starting Mon Sep 14 at 5:00 AM until further notice due to construction. Board at: 7th St E &amp; Wall St - Stop #57215 (eastbound); 5th St &amp; Jackson St - Stop #11838 (eastbound); Burr St &amp; Tedesco St - Stop #11776 (northbound). | Action: Board at: 7th St E &amp; Wall St - Stop #57215 (eastbound); 5th St &amp; Jackson St - Stop #11838 (eastbound); Burr St &amp; Tedesco St - Stop #11776 (northbound)</description>
@@ -671,8 +752,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 74: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/74</link>
-      <guid isPermaLink="false">Metro Transit-52941-2026-09-21T05:00:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52941-2026-09-21T07:30:01.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 07:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 74</category>
       <description>Route 74 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
@@ -680,8 +761,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 75: Detour via Route 75 detoured off Wabasha St &amp; Humboldt Ave</title>
       <link>https://www.metrotransit.org/route/75</link>
-      <guid isPermaLink="false">Metro Transit-53002-2026-09-21T05:00:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53002-2026-09-21T08:01:01.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 08:01:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 75</category>
       <description>Route 75 detoured off Wabasha St/Humboldt Ave from Isabel St to Winifred St beginning Tue Sep 22 at 1:00 AM until further notice. Board at: Humboldt Ave &amp; Robie St - Stop #285 (northbound); Winifred St W &amp; Stryker Ave S - Stop #2624 (westbound); Wabasha St &amp; Cesar Chavez St - Stop #289 (northbound). | Action: Board at: Humboldt Ave &amp; Robie St - Stop #285 (northbound); Winifred St W &amp; Stryker Ave S - Stop #2624 (westbound); Wabasha St &amp; Cesar Chavez St - Stop #289 (northbound)</description>
@@ -878,8 +959,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 645: Detour via Ridgedale Dr &amp; Target Entrance - St</title>
       <link>https://www.metrotransit.org/route/645</link>
-      <guid isPermaLink="false">Metro Transit-52999-2026-09-21T05:00:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52999-2026-09-21T11:30:10.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 11:30:10 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 645</category>
       <description>Route 645 detoured off Ridgedale Dr from Cartway Lane to Plymouth Rd beginning Mon Sep 21 at 7:00 AM until further notice due to construction. Board at: Ridgedale Dr &amp; Target Entrance - Stop #7033 (eastbound); Ridgedale Dr &amp; Hennepin Service Center - Stop #7000 (eastbound). | Action: Board at: Ridgedale Dr &amp; Target Entrance - Stop #7033 (eastbound); Ridgedale Dr &amp; Hennepin Service Center - Stop #7000 (eastbound)</description>
@@ -892,15 +973,6 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 673, Route 673B</category>
       <description>Route 673B detoured off Cedar Lake Rd from Texas Ave to Louisiana Ave and off Louisiana Ave from Cedar Lake Rd to Wayzata Blvd beginning Mon Apr 6 until further notice due to construction. Board at: Louisiana Transit Center &amp; Gate B - Stop #52551 (westbound); Cedar Lake Rd &amp; Texas Ave - Stop #8073 (westbound). | Action: Board at: Louisiana Transit Center &amp; Gate B - Stop #52551 (westbound); Cedar Lake Rd &amp; Texas Ave - Stop #8073 (westbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 673: Detour via right on 7th St &amp; continue onto 10th St</title>
-      <link>https://www.metrotransit.org/route/673</link>
-      <guid isPermaLink="false">Metro Transit-52944-2026-09-21T05:00:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 05:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 673</category>
-      <description>Route 673 detoured off Hwy 394 from Hwy 100 to downtown Minneapolis from Fri Sep 18 at 10:00 AM to Mon Sep 21 at 5:00 AM due to construction</description>
     </item>
     <item>
       <title>[Moderate] Route 723, Route 724: Stop Closed at Selected Stop</title>
