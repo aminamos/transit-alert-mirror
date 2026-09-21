@@ -4,35 +4,26 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 20 Sep 2026 22:56:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:52:27 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO B Line: Eastbound 4:35 PM Trip Canceled (Lake St W &amp; France Ave S)</title>
-      <link>https://www.metrotransit.org/route/bline</link>
-      <guid isPermaLink="false">Metro Transit-53077-2026-09-20T21:29:03.000Z</guid>
-      <pubDate>Sun, 20 Sep 2026 21:29:03 GMT</pubDate>
+      <title>[Critical] METRO A Line: Southbound 6:53 PM Trip Canceled (Rosedale Transit Center Gate A)</title>
+      <link>https://www.metrotransit.org/route/aline</link>
+      <guid isPermaLink="false">Metro Transit-53082-2026-09-21T00:07:31.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 00:07:31 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO B Line</category>
-      <description>Eastbound B Line trip departing Lake St W &amp; France Ave S at 4:35 PM canceled today due to maintenance work</description>
+      <category>METRO A Line</category>
+      <description>Southbound A Line trip departing Rosedale Transit Center Gate A at 6:53 PM canceled today due to maintenance work</description>
     </item>
     <item>
-      <title>[Critical] METRO D Line: Southbound 3:53 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-53079-2026-09-20T22:02:06.000Z</guid>
-      <pubDate>Sun, 20 Sep 2026 22:02:06 GMT</pubDate>
+      <title>[Critical] Route 61: Eastbound 5:42 PM Trip Canceled (Ramp A/7th St Transit Center)</title>
+      <link>https://www.metrotransit.org/route/61</link>
+      <guid isPermaLink="false">Metro Transit-53081-2026-09-21T00:49:01.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 00:49:01 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:53 PM canceled from Chicago &amp; 46th St at 4:46 PM today due to traffic</description>
-    </item>
-    <item>
-      <title>[Critical] Route 64: Westbound 4:06 PM Trip Canceled (Maplewood Mall Transit Center &amp; Gate D/E)</title>
-      <link>https://www.metrotransit.org/route/64</link>
-      <guid isPermaLink="false">Metro Transit-53076-2026-09-20T21:28:03.000Z</guid>
-      <pubDate>Sun, 20 Sep 2026 21:28:03 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 64</category>
-      <description>Westbound Route 64 trip departing Maplewood Mall Transit Center &amp; Gate D/E at 4:06 PM canceled</description>
+      <category>Route 61</category>
+      <description>Eastbound Route 61 trip departing Ramp A/7th St Transit Center at 5:42 PM canceled today due to mechanical issue</description>
     </item>
     <item>
       <title>[Critical] Route 323: Service Canceled</title>
@@ -152,15 +143,6 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 3, Route 3A</category>
       <description>Route 3A detoured off Como Blvd from Como Ave to Maryland Ave and off Maryland Ave from Como Blvd to Dale St from 9:00 AM to 11:00 AM on Sat Sep 26 due to Como Homecoming Parade. Board at: Como Ave &amp; Como Place - Stop #50125 (eastbound); Dale St &amp; Maryland Ave - Stop #10711 (northbound); Maryland Ave &amp; Mackubin St - Stop #5563 (eastbound). | Action: Board at: Como Ave &amp; Como Place - Stop #50125 (eastbound); Dale St &amp; Maryland Ave - Stop #10711 (northbound); Maryland Ave &amp; Mackubin St - Stop #5563 (eastbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 4, Route 4P: Detour via Penn Ave S &amp; Best Buy - St</title>
-      <link>https://www.metrotransit.org/route/4</link>
-      <guid isPermaLink="false">Metro Transit-52884-2026-09-20T14:00:01.000Z</guid>
-      <pubDate>Sun, 20 Sep 2026 14:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 4, Route 4P</category>
-      <description>Route 4P detoured off Penn Ave from Hwy 62 to 76th St from 9:30 AM to 6:00 PM on Sun Sep 20 due to Open Streets Penn Fest. Board at: Penn Ave S &amp; Best Buy - Stop #1066 (northbound); Penn Ave S &amp; 61st St W - Stop #1084 (northbound). | Action: Board at: Penn Ave S &amp; Best Buy - Stop #1066 (northbound); Penn Ave S &amp; 61st St W - Stop #1084 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 5: Detour via Chicago Ave S &amp; 41st St E</title>

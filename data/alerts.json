@@ -1,24 +1,50 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-20T22:56:34.546Z",
-    "totalAlerts": 112,
-    "criticalCount": 4,
-    "moderateCount": 105,
+    "generatedAt": "2026-09-21T00:52:27.198Z",
+    "totalAlerts": 110,
+    "criticalCount": 3,
+    "moderateCount": 104,
     "minorCount": 3,
-    "affectedRoutesCount": 79,
+    "affectedRoutesCount": 77,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "53077",
+      "id": "53082",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO B Line: Eastbound 4:35 PM Trip Canceled (Lake St W & France Ave S)",
-      "summary": "Eastbound B Line trip departing Lake St W & France Ave S at 4:35 PM canceled today due to maintenance work",
+      "title": "METRO A Line: Southbound 6:53 PM Trip Canceled (Rosedale Transit Center Gate A)",
+      "summary": "Southbound A Line trip departing Rosedale Transit Center Gate A at 6:53 PM canceled today due to maintenance work",
       "affectedRoutes": [
-        "METRO B Line"
+        "METRO A Line"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-21T00:06:00.000Z",
+        "end": "2026-09-21T01:28:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/aline",
+      "updatedAt": "2026-09-21T00:07:31.000Z",
+      "rawHeader": "Southbound A Line trip departing Rosedale Transit Center Gate A at 6:53 PM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "53081",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 61: Eastbound 5:42 PM Trip Canceled (Ramp A/7th St Transit Center)",
+      "summary": "Eastbound Route 61 trip departing Ramp A/7th St Transit Center at 5:42 PM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 61"
       ],
       "direction": "Eastbound",
       "intersections": [],
@@ -26,121 +52,12 @@
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-20T21:35:00.000Z",
-        "end": "2026-09-20T23:42:00.000Z"
-      },
-      "cause": "MAINTENANCE",
+      "activePeriod": {},
+      "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-09-20T21:29:03.000Z",
-      "rawHeader": "Eastbound B Line trip departing Lake St W & France Ave S at 4:35 PM canceled today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "53079",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO D Line: Southbound 3:53 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)",
-      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:53 PM canceled from Chicago & 46th St at 4:46 PM today due to traffic",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [
-        "441",
-        "431",
-        "81079",
-        "56873",
-        "56917",
-        "56918",
-        "56919",
-        "56920",
-        "42318",
-        "436",
-        "449",
-        "4530",
-        "444"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "441"
-        },
-        {
-          "id": "431"
-        },
-        {
-          "id": "81079"
-        },
-        {
-          "id": "56873"
-        },
-        {
-          "id": "56917"
-        },
-        {
-          "id": "56918"
-        },
-        {
-          "id": "56919"
-        },
-        {
-          "id": "56920"
-        },
-        {
-          "id": "42318"
-        },
-        {
-          "id": "436"
-        },
-        {
-          "id": "449"
-        },
-        {
-          "id": "4530"
-        },
-        {
-          "id": "444"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-20T22:00:00.000Z",
-        "end": "2026-09-20T23:06:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-09-20T22:02:06.000Z",
-      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:53 PM canceled from Chicago & 46th St at 4:46 PM today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "53076",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 64: Westbound 4:06 PM Trip Canceled (Maplewood Mall Transit Center & Gate D/E)",
-      "summary": "Westbound Route 64 trip departing Maplewood Mall Transit Center & Gate D/E at 4:06 PM canceled",
-      "affectedRoutes": [
-        "Route 64"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-20T21:27:00.000Z",
-        "end": "2026-09-20T22:58:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/64",
-      "updatedAt": "2026-09-20T21:28:03.000Z",
-      "rawHeader": "Westbound Route 64 trip departing Maplewood Mall Transit Center & Gate D/E at 4:06 PM canceled",
+      "url": "https://www.metrotransit.org/route/61",
+      "updatedAt": "2026-09-21T00:49:01.000Z",
+      "rawHeader": "Eastbound Route 61 trip departing Ramp A/7th St Transit Center at 5:42 PM canceled today due to mechanical issue",
       "rawDescription": ""
     },
     {
@@ -969,165 +886,6 @@
       "updatedAt": "2026-09-20T05:00:01.000Z",
       "rawHeader": "Route 3A detoured off Como Blvd from Como Ave to Maryland Ave and off Maryland Ave from Como Blvd to Dale St from 9:00 AM to 11:00 AM on Sat Sep 26 due to Como Homecoming Parade",
       "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nComo Ave & Como Place - Stop #50125 (eastbound)\r\nDale St & Maryland Ave - Stop #10711 (northbound)\r\nMaryland Ave & Mackubin St - Stop #5563 (eastbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\nMaryland Ave & Mackubin St - Stop #5587 (westbound)\r\nComo Ave & Como Place - Stop #50126 (westbound)\r\n\nEastbound 3A buses will travel regular route on Como Ave to Como Ave/Como Blvd, right on Como Ave, left on Jessamine Ave, left on Dale St, right on Maryland Ave, and resume regular route.\r\n\nWestbound 3A buses will travel regular route on Maryland Ave to Dale St, left on Dale, right on Jessamine Ave, right on Como Ave to Como Blvd, left on Como Ave, and resume regular route.\r\n\nAffected stops:\r\nComo Blvd E & Maryland Ave - Stop #5555 (northbound)\r\nMaryland Ave & Grotto St - Stop #5556 (eastbound)\r\nMaryland Ave & Dale St - Stop #5560 (eastbound)\r\nMaryland Ave & Dale St - Stop #5589 (westbound)\r\nMaryland Ave & Grotto St - Stop #5593 (westbound)\r\nMaryland Ave & Como Blvd E - Stop #5594 (westbound)"
-    },
-    {
-      "id": "52884",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 4, Route 4P: Detour via Penn Ave S & Best Buy - St",
-      "summary": "Route 4P detoured off Penn Ave from Hwy 62 to 76th St from 9:30 AM to 6:00 PM on Sun Sep 20 due to Open Streets Penn Fest. Board at: Penn Ave S & Best Buy - Stop #1066 (northbound); Penn Ave S & 61st St W - Stop #1084 (northbound).",
-      "affectedRoutes": [
-        "Route 4",
-        "Route 4P"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Penn Ave S & Best Buy - St",
-        "Penn Ave S & 61st St W",
-        "Penn Ave S & 76th St W",
-        "Penn Ave S & 75th St W",
-        "Penn Ave S & 74th St W"
-      ],
-      "closedStopIds": [
-        "1067",
-        "1069",
-        "1070",
-        "1071",
-        "1073",
-        "1075",
-        "1077",
-        "1079",
-        "1080",
-        "1036",
-        "1037",
-        "1039",
-        "57378",
-        "1043",
-        "1045",
-        "1046",
-        "1047",
-        "1048",
-        "1066",
-        "1084",
-        "1030",
-        "2043"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "1067",
-          "name": "Penn Ave S & 75th St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "1069",
-          "name": "Penn Ave S & 74th St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "1070",
-          "name": "Penn Ave S & 73rd St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "1071",
-          "name": "Penn Ave S & 72nd St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "1073",
-          "name": "Penn Ave S & 70th St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "1075",
-          "name": "Penn Ave S & 68th St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "1077",
-          "name": "Penn Ave S & 66th St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "1079",
-          "name": "Penn Ave S & 64th St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "1080",
-          "name": "Penn Ave S & 63rd St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "1036",
-          "name": "Penn Ave S & 63rd St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "1037",
-          "name": "Penn Ave S & 64th St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "1039",
-          "name": "Penn Ave S & 66th St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "57378",
-          "name": "Penn Ave S & 68th St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "1043",
-          "name": "Penn Ave S & 70th St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "1045",
-          "name": "Penn Ave S & 72nd St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "1046",
-          "name": "Penn Ave S & 73rd St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "1047",
-          "name": "Penn Ave S & 74th St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "1048",
-          "name": "Penn Ave S & 75th St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "1066"
-        },
-        {
-          "id": "1084"
-        },
-        {
-          "id": "1030"
-        },
-        {
-          "id": "2043"
-        }
-      ],
-      "riderAlternative": "Board at: Penn Ave S & Best Buy - Stop #1066 (northbound); Penn Ave S & 61st St W - Stop #1084 (northbound)",
-      "detourDetails": "buses will travel regular route on Penn Ave to 76th St, right on 76th St, left on northbound I-35W ramp, continue onto westbound Hwy 62, exit at Penn Ave, right on Penn Ave, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-20T14:30:00.000Z",
-        "end": "2026-09-20T23:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/4",
-      "updatedAt": "2026-09-20T14:00:01.000Z",
-      "rawHeader": "Route 4P detoured off Penn Ave from Hwy 62 to 76th St from 9:30 AM to 6:00 PM on Sun Sep 20 due to Open Streets Penn Fest",
-      "rawDescription": "For northbound Route 4 get on/off buses at:\r\nPenn Ave S & Best Buy - Stop #1066 (northbound)\r\nPenn Ave S & 61st St W - Stop #1084 (northbound)\r\n\nFor southbound Route 4 get on/off buses at:\r\nPenn Ave S & 61st St W - Stop #1030 (southbound)\r\nPenn Ave S & 76th St W - Stop #2043 (southbound)\r\n\nNorthbound 4 (via Penn) buses will travel regular route on Penn Ave to 76th St, right on 76th St, left on northbound I-35W ramp, continue onto westbound Hwy 62, exit at Penn Ave, right on Penn Ave, and resume regular route.\r\n\nSouthbound 4P buses will travel regular route on Penn Ave to Hwy 62, left on eastbound Hwy 62 ramp, continue onto southbound I-35W, exit at 76th St, right on 76th St, left on Penn Ave, and resume regular route.\r\n\nAffected stops:\r\nPenn Ave S & 75th St W - Stop #1067 (northbound)\r\nPenn Ave S & 74th St W - Stop #1069 (northbound)\r\nPenn Ave S & 73rd St W - Stop #1070 (northbound)\r\nPenn Ave S & 72nd St W - Stop #1071 (northbound)\r\nPenn Ave S & 70th St W - Stop #1073 (northbound)\r\nPenn Ave S & 68th St W - Stop #1075 (northbound)\r\nPenn Ave S & 66th St W - Stop #1077 (northbound)\r\nPenn Ave S & 64th St W - Stop #1079 (northbound)\r\nPenn Ave S & 63rd St W - Stop #1080 (northbound)\r\nPenn Ave S & 63rd St W - Stop #1036 (southbound)\r\nPenn Ave S & 64th St W - Stop #1037 (southbound)\r\nPenn Ave S & 66th St W - Stop #1039 (southbound)\r\nPenn Ave S & 68th St W - Stop #57378 (southbound)\r\nPenn Ave S & 70th St W - Stop #1043 (southbound)\r\nPenn Ave S & 72nd St W - Stop #1045 (southbound)\r\nPenn Ave S & 73rd St W - Stop #1046 (southbound)\r\nPenn Ave S & 74th St W - Stop #1047 (southbound)\r\nPenn Ave S & 75th St W - Stop #1048 (southbound)"
     },
     {
       "id": "51930",

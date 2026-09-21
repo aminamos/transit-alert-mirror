@@ -2,73 +2,53 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-112-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-105-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-110-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-104-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-79-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-20T22:56:34.546Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-21T00:52:27.198Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (4) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (3) • **METRO E Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (1) • **Route 4P** (1) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (2) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (3) • **Route 25** (2) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (3) • **Route 63** (3) • **Route 64** (6) • **Route 65** (2) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 323** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (5) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (5) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (2) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (2) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (3) • **Route 25** (2) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 63** (3) • **Route 64** (5) • **Route 65** (2) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 323** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (5) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO B Line: Eastbound 4:35 PM Trip Canceled (Lake St W & France Ave S)
+### 🚨 METRO A Line: Southbound 6:53 PM Trip Canceled (Rosedale Transit Center Gate A)
 
-- **Affected Routes**: `METRO B Line`
+- **Affected Routes**: `METRO A Line`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound A Line trip departing Rosedale Transit Center Gate A at 6:53 PM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/aline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound A Line trip departing Rosedale Transit Center Gate A at 6:53 PM canceled today due to maintenance work
+
+</details>
+
+---
+
+### 🚨 Route 61: Eastbound 5:42 PM Trip Canceled (Ramp A/7th St Transit Center)
+
+- **Affected Routes**: `Route 61`
 - **Direction**: Eastbound
 - **Severity**: `Critical`
 
-**Summary**: Eastbound B Line trip departing Lake St W & France Ave S at 4:35 PM canceled today due to maintenance work
+**Summary**: Eastbound Route 61 trip departing Ramp A/7th St Transit Center at 5:42 PM canceled today due to mechanical issue
 
-[Official Agency Advisory](https://www.metrotransit.org/route/bline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound B Line trip departing Lake St W & France Ave S at 4:35 PM canceled today due to maintenance work
-
-</details>
-
----
-
-### 🚨 METRO D Line: Southbound 3:53 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #441, Stop #431, Stop #81079, Stop #56873, Stop #56917, Stop #56918, Stop #56919, Stop #56920 *(+5 more)*
-
-**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:53 PM canceled from Chicago & 46th St at 4:46 PM today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+[Official Agency Advisory](https://www.metrotransit.org/route/61)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:53 PM canceled from Chicago & 46th St at 4:46 PM today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 64: Westbound 4:06 PM Trip Canceled (Maplewood Mall Transit Center & Gate D/E)
-
-- **Affected Routes**: `Route 64`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 64 trip departing Maplewood Mall Transit Center & Gate D/E at 4:06 PM canceled
-
-[Official Agency Advisory](https://www.metrotransit.org/route/64)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 64 trip departing Maplewood Mall Transit Center & Gate D/E at 4:06 PM canceled
+**Header**: Eastbound Route 61 trip departing Ramp A/7th St Transit Center at 5:42 PM canceled today due to mechanical issue
 
 </details>
 
@@ -640,65 +620,6 @@ Maryland Ave & Dale St - Stop #5560 (eastbound)
 Maryland Ave & Dale St - Stop #5589 (westbound)
 Maryland Ave & Grotto St - Stop #5593 (westbound)
 Maryland Ave & Como Blvd E - Stop #5594 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 4, Route 4P: Detour via Penn Ave S & Best Buy - St
-
-- **Affected Routes**: `Route 4` `Route 4P`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Penn Ave S & Best Buy - St; Penn Ave S & 61st St W; Penn Ave S & 76th St W; Penn Ave S & 75th St W; Penn Ave S & 74th St W
-- **Closed Stops**: Penn Ave S & 75th St W (Stop #1067), Penn Ave S & 74th St W (Stop #1069), Penn Ave S & 73rd St W (Stop #1070), Penn Ave S & 72nd St W (Stop #1071), Penn Ave S & 70th St W (Stop #1073), Penn Ave S & 68th St W (Stop #1075), Penn Ave S & 66th St W (Stop #1077), Penn Ave S & 64th St W (Stop #1079) *(+14 more)*
-
-**Summary**: Route 4P detoured off Penn Ave from Hwy 62 to 76th St from 9:30 AM to 6:00 PM on Sun Sep 20 due to Open Streets Penn Fest. Board at: Penn Ave S & Best Buy - Stop #1066 (northbound); Penn Ave S & 61st St W - Stop #1084 (northbound).
-
-> 💡 **Rider Action**: Board at: Penn Ave S & Best Buy - Stop #1066 (northbound); Penn Ave S & 61st St W - Stop #1084 (northbound)
-
-> 🔄 **Detour Path**: buses will travel regular route on Penn Ave to 76th St, right on 76th St, left on northbound I-35W ramp, continue onto westbound Hwy 62, exit at Penn Ave, right on Penn Ave, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/4)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 4P detoured off Penn Ave from Hwy 62 to 76th St from 9:30 AM to 6:00 PM on Sun Sep 20 due to Open Streets Penn Fest
-
-```text
-For northbound Route 4 get on/off buses at:
-Penn Ave S & Best Buy - Stop #1066 (northbound)
-Penn Ave S & 61st St W - Stop #1084 (northbound)
-
-For southbound Route 4 get on/off buses at:
-Penn Ave S & 61st St W - Stop #1030 (southbound)
-Penn Ave S & 76th St W - Stop #2043 (southbound)
-
-Northbound 4 (via Penn) buses will travel regular route on Penn Ave to 76th St, right on 76th St, left on northbound I-35W ramp, continue onto westbound Hwy 62, exit at Penn Ave, right on Penn Ave, and resume regular route.
-
-Southbound 4P buses will travel regular route on Penn Ave to Hwy 62, left on eastbound Hwy 62 ramp, continue onto southbound I-35W, exit at 76th St, right on 76th St, left on Penn Ave, and resume regular route.
-
-Affected stops:
-Penn Ave S & 75th St W - Stop #1067 (northbound)
-Penn Ave S & 74th St W - Stop #1069 (northbound)
-Penn Ave S & 73rd St W - Stop #1070 (northbound)
-Penn Ave S & 72nd St W - Stop #1071 (northbound)
-Penn Ave S & 70th St W - Stop #1073 (northbound)
-Penn Ave S & 68th St W - Stop #1075 (northbound)
-Penn Ave S & 66th St W - Stop #1077 (northbound)
-Penn Ave S & 64th St W - Stop #1079 (northbound)
-Penn Ave S & 63rd St W - Stop #1080 (northbound)
-Penn Ave S & 63rd St W - Stop #1036 (southbound)
-Penn Ave S & 64th St W - Stop #1037 (southbound)
-Penn Ave S & 66th St W - Stop #1039 (southbound)
-Penn Ave S & 68th St W - Stop #57378 (southbound)
-Penn Ave S & 70th St W - Stop #1043 (southbound)
-Penn Ave S & 72nd St W - Stop #1045 (southbound)
-Penn Ave S & 73rd St W - Stop #1046 (southbound)
-Penn Ave S & 74th St W - Stop #1047 (southbound)
-Penn Ave S & 75th St W - Stop #1048 (southbound)
 ```
 
 </details>
