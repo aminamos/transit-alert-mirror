@@ -1,24 +1,24 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-21T17:49:30.944Z",
+    "generatedAt": "2026-09-21T21:40:57.499Z",
     "totalAlerts": 114,
     "criticalCount": 9,
     "moderateCount": 102,
     "minorCount": 3,
-    "affectedRoutesCount": 81,
+    "affectedRoutesCount": 80,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "53115",
+      "id": "53126",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 22: Southbound 12:12 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)",
-      "summary": "Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 12:12 PM canceled today due to traffic",
+      "title": "METRO C Line: Southbound 4:24 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate I)",
+      "summary": "Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 4:24 PM canceled today due to maintenance work",
       "affectedRoutes": [
-        "Route 22"
+        "METRO C Line"
       ],
       "direction": "Southbound",
       "intersections": [],
@@ -27,66 +27,146 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-21T17:48:00.000Z",
-        "end": "2026-09-21T19:37:00.000Z"
+        "start": "2026-09-21T21:32:00.000Z",
+        "end": "2026-09-21T23:04:00.000Z"
       },
-      "cause": "OTHER_CAUSE",
+      "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-09-21T17:48:33.000Z",
-      "rawHeader": "Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 12:12 PM canceled today due to traffic",
+      "url": "https://www.metrotransit.org/route/cline",
+      "updatedAt": "2026-09-21T21:33:06.000Z",
+      "rawHeader": "Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 4:24 PM canceled today due to maintenance work",
       "rawDescription": ""
     },
     {
-      "id": "53097",
+      "id": "53124",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 30: Service Canceled",
-      "summary": "Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today due to mechanical issue",
+      "title": "METRO D Line: Service Advisory",
+      "summary": "Northbound D Line trip departing MOA Transit Station at 3:19 PM will start from 7th & Bryant. Previous stops missed due to mechanical issue",
       "affectedRoutes": [
-        "Route 30"
+        "METRO D Line"
       ],
-      "direction": "Both Directions",
-      "intersections": [
-        "53 AM\ndeparting Knox Ave N & Golden Valley Rd",
-        "56 AM\ndeparting Knox Ave N & Golden Valley Rd"
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [
+        "47447",
+        "56873",
+        "56921",
+        "56922",
+        "56923",
+        "56924",
+        "56925",
+        "56926",
+        "56927",
+        "56928",
+        "56929",
+        "56930",
+        "81078",
+        "639",
+        "643",
+        "737",
+        "779",
+        "784",
+        "80138",
+        "620",
+        "52300",
+        "17897",
+        "17900",
+        "17902",
+        "17903",
+        "4513"
       ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
+      "closedStopDetails": [
+        {
+          "id": "47447"
+        },
+        {
+          "id": "56873"
+        },
+        {
+          "id": "56921"
+        },
+        {
+          "id": "56922"
+        },
+        {
+          "id": "56923"
+        },
+        {
+          "id": "56924"
+        },
+        {
+          "id": "56925"
+        },
+        {
+          "id": "56926"
+        },
+        {
+          "id": "56927"
+        },
+        {
+          "id": "56928"
+        },
+        {
+          "id": "56929"
+        },
+        {
+          "id": "56930"
+        },
+        {
+          "id": "81078"
+        },
+        {
+          "id": "639"
+        },
+        {
+          "id": "643"
+        },
+        {
+          "id": "737"
+        },
+        {
+          "id": "779"
+        },
+        {
+          "id": "784"
+        },
+        {
+          "id": "80138"
+        },
+        {
+          "id": "620"
+        },
+        {
+          "id": "52300"
+        },
+        {
+          "id": "17897"
+        },
+        {
+          "id": "17900"
+        },
+        {
+          "id": "17902"
+        },
+        {
+          "id": "17903"
+        },
+        {
+          "id": "4513"
+        }
+      ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-21T12:07:00.000Z",
-        "end": "2026-09-21T18:36:00.000Z"
+        "start": "2026-09-21T20:19:00.000Z",
+        "end": "2026-09-21T22:39:00.000Z"
       },
       "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-09-21T11:37:00.000Z",
-      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today due to mechanical issue",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:53 AM\r\ndeparting Knox Ave N & Golden Valley Rd at 9:56 AM\r\ndeparting Knox Ave N & Golden Valley Rd at 11:56 AM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 7:07 AM\r\ndeparting Westgate Station - Gate B at 9:06 AM\r\ndeparting Westgate Station - Gate B at 11:04 AM"
-    },
-    {
-      "id": "53113",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 54: Westbound 10:36 AM Trip Canceled (Maplewood Mall Transit Center & Gate B)",
-      "summary": "Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 10:36 AM canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 54"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {},
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/54",
-      "updatedAt": "2026-09-21T17:45:02.000Z",
-      "rawHeader": "Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 10:36 AM canceled today due to mechanical issue",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-09-21T20:06:06.000Z",
+      "rawHeader": "Northbound D Line trip departing MOA Transit Station at 3:19 PM will start from 7th & Bryant. Previous stops missed due to mechanical issue",
       "rawDescription": ""
     },
     {
@@ -116,330 +196,6 @@
       "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 12:38 PM\r\ndeparting Inver Hills College & Shelter at 3:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 2:12 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 5:13 PM"
     },
     {
-      "id": "53114",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 71: Service Advisory",
-      "summary": "Northbound Route 71 trip departing Inver Hills College at 1:38 PM will start from Robert & 6th. Previous stops missed due to maintenance",
-      "affectedRoutes": [
-        "Route 71"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [
-        "57625",
-        "2605",
-        "2606",
-        "2607",
-        "2608",
-        "2609",
-        "48728",
-        "42880",
-        "50667",
-        "49573",
-        "48569",
-        "48583",
-        "9676",
-        "9680",
-        "9683",
-        "9686",
-        "9689",
-        "9691",
-        "9692",
-        "9695",
-        "9696",
-        "9698",
-        "9699",
-        "9700",
-        "9702",
-        "9703",
-        "9704",
-        "9705",
-        "9706",
-        "9707",
-        "9708",
-        "9709",
-        "9710",
-        "9713",
-        "9715",
-        "9716",
-        "9718",
-        "9719",
-        "9720",
-        "9721",
-        "9723",
-        "9724",
-        "9726",
-        "9727",
-        "9728",
-        "9729",
-        "9731",
-        "9732",
-        "9733",
-        "9736",
-        "9738",
-        "9745",
-        "9746",
-        "9747",
-        "9748",
-        "9749",
-        "9750",
-        "9751",
-        "9752",
-        "9753",
-        "47044",
-        "43286",
-        "43287",
-        "43496",
-        "2610",
-        "2611",
-        "41144",
-        "41145",
-        "41146",
-        "41147",
-        "41148",
-        "41149",
-        "40055",
-        "40099"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "57625"
-        },
-        {
-          "id": "2605"
-        },
-        {
-          "id": "2606"
-        },
-        {
-          "id": "2607"
-        },
-        {
-          "id": "2608"
-        },
-        {
-          "id": "2609"
-        },
-        {
-          "id": "48728"
-        },
-        {
-          "id": "42880"
-        },
-        {
-          "id": "50667"
-        },
-        {
-          "id": "49573"
-        },
-        {
-          "id": "48569"
-        },
-        {
-          "id": "48583"
-        },
-        {
-          "id": "9676"
-        },
-        {
-          "id": "9680"
-        },
-        {
-          "id": "9683"
-        },
-        {
-          "id": "9686"
-        },
-        {
-          "id": "9689"
-        },
-        {
-          "id": "9691"
-        },
-        {
-          "id": "9692"
-        },
-        {
-          "id": "9695"
-        },
-        {
-          "id": "9696"
-        },
-        {
-          "id": "9698"
-        },
-        {
-          "id": "9699"
-        },
-        {
-          "id": "9700"
-        },
-        {
-          "id": "9702"
-        },
-        {
-          "id": "9703"
-        },
-        {
-          "id": "9704"
-        },
-        {
-          "id": "9705"
-        },
-        {
-          "id": "9706"
-        },
-        {
-          "id": "9707"
-        },
-        {
-          "id": "9708"
-        },
-        {
-          "id": "9709"
-        },
-        {
-          "id": "9710"
-        },
-        {
-          "id": "9713"
-        },
-        {
-          "id": "9715"
-        },
-        {
-          "id": "9716"
-        },
-        {
-          "id": "9718"
-        },
-        {
-          "id": "9719"
-        },
-        {
-          "id": "9720"
-        },
-        {
-          "id": "9721"
-        },
-        {
-          "id": "9723"
-        },
-        {
-          "id": "9724"
-        },
-        {
-          "id": "9726"
-        },
-        {
-          "id": "9727"
-        },
-        {
-          "id": "9728"
-        },
-        {
-          "id": "9729"
-        },
-        {
-          "id": "9731"
-        },
-        {
-          "id": "9732"
-        },
-        {
-          "id": "9733"
-        },
-        {
-          "id": "9736"
-        },
-        {
-          "id": "9738"
-        },
-        {
-          "id": "9745"
-        },
-        {
-          "id": "9746"
-        },
-        {
-          "id": "9747"
-        },
-        {
-          "id": "9748"
-        },
-        {
-          "id": "9749"
-        },
-        {
-          "id": "9750"
-        },
-        {
-          "id": "9751"
-        },
-        {
-          "id": "9752"
-        },
-        {
-          "id": "9753"
-        },
-        {
-          "id": "47044"
-        },
-        {
-          "id": "43286"
-        },
-        {
-          "id": "43287"
-        },
-        {
-          "id": "43496"
-        },
-        {
-          "id": "2610"
-        },
-        {
-          "id": "2611"
-        },
-        {
-          "id": "41144"
-        },
-        {
-          "id": "41145"
-        },
-        {
-          "id": "41146"
-        },
-        {
-          "id": "41147"
-        },
-        {
-          "id": "41148"
-        },
-        {
-          "id": "41149"
-        },
-        {
-          "id": "40055"
-        },
-        {
-          "id": "40099"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-21T18:38:00.000Z",
-        "end": "2026-09-21T20:50:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/71",
-      "updatedAt": "2026-09-21T17:48:06.000Z",
-      "rawHeader": "Northbound Route 71 trip departing Inver Hills College at 1:38 PM will start from Robert & 6th. Previous stops missed due to maintenance",
-      "rawDescription": ""
-    },
-    {
       "id": "53112",
       "agency": "Metro Transit",
       "severity": "Critical",
@@ -465,35 +221,91 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-09-21T16:19:06.000Z",
+      "updatedAt": "2026-09-21T17:50:01.000Z",
       "rawHeader": "Route 72 trip departing Sun Ray Transit Center & Gate D at 1:20 PM and eight other trips canceled today",
       "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 2:20 PM\r\ndeparting Pascal St N & Central Ave W at 4:20 PM\r\ndeparting Pascal St N & Central Ave W at 6:21 PM\r\ndeparting Pascal St N & Central Ave W at 8:23 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 1:20 PM\r\ndeparting Sun Ray Transit Center & Gate D at 3:19 PM\r\ndeparting Sun Ray Transit Center & Gate D at 5:18 PM\r\ndeparting Sun Ray Transit Center & Gate D at 7:21 PM\r\ndeparting Sun Ray Transit Center & Gate D at 9:21 PM"
     },
     {
-      "id": "53096",
+      "id": "53118",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 80: Service Canceled",
-      "summary": "Route 80 trip departing Sun Ray Transit Center & Gate E at 7:12 AM and thirteen other trips canceled today due to mechanical issue",
+      "title": "Route 540: Service Canceled",
+      "summary": "Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 2:32 PM and two other trips canceled today",
       "affectedRoutes": [
-        "Route 80"
+        "Route 540"
       ],
-      "direction": "Both Directions",
+      "direction": "Eastbound",
+      "intersections": [
+        "departing Normandale Lake Blvd & 83rd St",
+        "32 PM\ndeparting Normandale Lake Blvd & 83rd St",
+        "00 PM\ndeparting Normandale Lake Blvd & 83rd St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-21T19:32:00.000Z",
+        "end": "2026-09-22T00:11:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/540",
+      "updatedAt": "2026-09-21T19:02:01.000Z",
+      "rawHeader": "Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 2:32 PM and two other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 2:32 PM\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 4:00 PM\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 5:32 PM"
+    },
+    {
+      "id": "53119",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 542: Service Canceled",
+      "summary": "Westbound Route 542 trips departing MOA Transit Station Gate G at 3:34 PM and departing MOA Transit Station Gate G at 5:05 PM canceled today",
+      "affectedRoutes": [
+        "Route 542"
+      ],
+      "direction": "Westbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-21T12:12:00.000Z",
-        "end": "2026-09-21T20:04:00.000Z"
+        "start": "2026-09-21T20:34:00.000Z",
+        "end": "2026-09-21T23:31:00.000Z"
       },
-      "cause": "TECHNICAL_PROBLEM",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/80",
-      "updatedAt": "2026-09-21T11:42:00.000Z",
-      "rawHeader": "Route 80 trip departing Sun Ray Transit Center & Gate E at 7:12 AM and thirteen other trips canceled today due to mechanical issue",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate E at 7:12 AM\r\ndeparting Sun Ray Transit Center & Gate E at 8:12 AM\r\ndeparting Sun Ray Transit Center & Gate E at 9:12 AM\r\ndeparting Sun Ray Transit Center & Gate E at 10:12 AM\r\ndeparting Sun Ray Transit Center & Gate E at 11:12 AM\r\ndeparting Sun Ray Transit Center & Gate E at 12:12 PM\r\ndeparting Sun Ray Transit Center & Gate E at 1:12 PM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate F at 7:42 AM\r\ndeparting Maplewood Mall Transit Center & Gate F at 8:42 AM\r\ndeparting Maplewood Mall Transit Center & Gate F at 9:42 AM\r\ndeparting Maplewood Mall Transit Center & Gate F at 10:42 AM\r\ndeparting Maplewood Mall Transit Center & Gate F at 11:42 AM\r\ndeparting Maplewood Mall Transit Center & Gate F at 12:42 PM\r\ndeparting Maplewood Mall Transit Center & Gate F at 1:42 PM"
+      "url": "https://www.metrotransit.org/route/542",
+      "updatedAt": "2026-09-21T20:04:01.000Z",
+      "rawHeader": "Westbound Route 542 trips departing MOA Transit Station Gate G at 3:34 PM and departing MOA Transit Station Gate G at 5:05 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "53125",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 724: Northbound 4:00 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate C)",
+      "summary": "Northbound Route 724 trip departing Brooklyn Ctr Transit Ctr Gate C at 4:00 PM canceled today due to traffic",
+      "affectedRoutes": [
+        "Route 724"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-21T21:00:00.000Z",
+        "end": "2026-09-21T22:23:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/724",
+      "updatedAt": "2026-09-21T20:30:01.000Z",
+      "rawHeader": "Northbound Route 724 trip departing Brooklyn Ctr Transit Ctr Gate C at 4:00 PM canceled today due to traffic",
+      "rawDescription": ""
     },
     {
       "id": "53111",
@@ -2300,18 +2112,18 @@
       "id": "52603",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 11: Detour via 3rd Ave S & 25th St E",
-      "summary": "Route 11 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: 3rd Ave S & 25th St E - Stop #17762 (northbound); Nicollet Ave S & 16th St E - Stop #1914 (northbound); 2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound).",
+      "title": "Route 11: Detour via 3rd Ave S & 18th St",
+      "summary": "Route 11 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: 3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound); 2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound).",
       "affectedRoutes": [
         "Route 11"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "3rd Ave S & 25th St E",
-        "Nicollet Ave S & 16th St E",
+        "3rd Ave S & 18th St",
         "2nd Ave S & 9th St",
         "2nd Ave S & 7th St",
-        "2nd Ave S & 5th St"
+        "2nd Ave S & 5th St",
+        "Hennepin Ave & 1st St N"
       ],
       "closedStopIds": [
         "1920",
@@ -2330,8 +2142,7 @@
         "1197",
         "53461",
         "53462",
-        "17762",
-        "1914",
+        "17768",
         "53312",
         "53313",
         "53314",
@@ -2426,10 +2237,7 @@
           "direction": "eastbound"
         },
         {
-          "id": "17762"
-        },
-        {
-          "id": "1914"
+          "id": "17768"
         },
         {
           "id": "53312"
@@ -2465,8 +2273,8 @@
           "id": "17704"
         }
       ],
-      "riderAlternative": "Board at: 3rd Ave S & 25th St E - Stop #17762 (northbound); Nicollet Ave S & 16th St E - Stop #1914 (northbound); 2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound)",
-      "detourDetails": "Northbound buses will travel detour route on Nicollet Ave to 15th St, right on 15th St which becomes 16th St, left on 3rd Ave S, left on 11th St, right on 2nd Ave S, left on Washington Ave to Nicollet Mall, and resume regular route.",
+      "riderAlternative": "Board at: 3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound); 2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound)",
+      "detourDetails": "Southbound buses will travel regular route on Washington Ave to Nicollet Mall, continue on Washington to Marquette Ave, right on Marquette, left on 12th St, right on 3rd Ave S to 16th St, and resume regular route.",
       "activePeriod": {
         "start": "2026-09-14T12:30:00.000Z",
         "end": "2026-09-24T03:00:00.000Z"
@@ -2474,9 +2282,9 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-09-17T05:00:02.000Z",
+      "updatedAt": "2026-09-21T18:42:32.000Z",
       "rawHeader": "Route 11 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event",
-      "rawDescription": "For northbound Route 11 get on/off buses at:\r\n3rd Ave S & 25th St E - Stop #17762 (northbound)\r\nNicollet Ave S & 16th St E - Stop #1914 (northbound)\r\n2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound)\r\n2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound)\r\n2nd Ave S & 5th St - Stop Group F - Stop #53314 (northbound)\r\nHennepin & Gateway Station - Stop #17951 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\nHennepin Ave & 1st St N - Stop #17917 (southbound)\r\nMarquette Ave & 3rd St - Stop Group B - Stop #53292 (southbound)\r\nMarquette Ave & 5th St - Stop Group B - Stop #53293 (southbound)\r\nMarquette Ave & 7th St - Stop Group B - Stop #53294 (southbound)\r\nMarquette Ave & 9th St - Stop Group B - Stop #53295 (southbound)\r\nMarquette Ave & 11th St - Stop Group C - Stop #53301 (southbound)\r\n3rd Ave S & 18th St E - Stop #17704 (southbound)\r\n\nNorthbound buses will travel detour route on Nicollet Ave to 15th St, right on 15th St which becomes 16th St, left on 3rd Ave S, left on 11th St, right on 2nd Ave S, left on Washington Ave to Nicollet Mall, and resume regular route.\r\n\nSouthbound buses will travel regular route on Washington Ave to Nicollet Mall, continue on Washington to Marquette Ave, right on Marquette, left on 12th St, right on 3rd Ave S to 16th St, and resume regular route.\r\n\nAffected stops:\r\nNicollet Ave S & 14th St / Grant St E - Stop #1920 (northbound)\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\nNicollet Mall & 7th St S - Stop #17994 (northbound)\r\nNicollet Mall & 5th St S - Stop #17996 (northbound)\r\nNicollet Mall & 3rd St S - Stop #17998 (northbound)\r\nNicollet Mall & 3rd St - Stop #17976 (southbound)\r\nNicollet Mall & 5th St S - Stop #17978 (southbound)\r\nNicollet Mall & 7th St S - Stop #17980 (southbound)\r\nNicollet Mall & 9th St S - Stop #17982 (southbound)\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17986 (southbound)\r\nNicollet Ave S & Grant St E - Stop #1197 (southbound)\r\n15th St E & 1st Ave S - Stop #53461 (eastbound)\r\n16th St E & 3rd Ave S - Stop #53462 (eastbound)"
+      "rawDescription": "Update on 9/21 at 1:40pm: detour routing and get on/off stops\r\n\nFor northbound Route 11 get on/off buses at:\r\n3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound)\r\n2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound)\r\n2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound)\r\n2nd Ave S & 5th St - Stop Group F - Stop #53314 (northbound)\r\nHennepin & Gateway Station - Stop #17951 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\nHennepin Ave & 1st St N - Stop #17917 (southbound)\r\nMarquette Ave & 3rd St - Stop Group B - Stop #53292 (southbound)\r\nMarquette Ave & 5th St - Stop Group B - Stop #53293 (southbound)\r\nMarquette Ave & 7th St - Stop Group B - Stop #53294 (southbound)\r\nMarquette Ave & 9th St - Stop Group B - Stop #53295 (southbound)\r\nMarquette Ave & 11th St - Stop Group C - Stop #53301 (southbound)\r\n3rd Ave S & 18th St E - Stop #17704 (southbound)\r\n\nNorthbound buses travel regular route on 3rd Ave to 11th St, left on 11th St, right on 2nd Ave S, left on Washington Ave to Nicollet Mall, and resume regular route.\r\n\nSouthbound buses will travel regular route on Washington Ave to Nicollet Mall, continue on Washington to Marquette Ave, right on Marquette, left on 12th St, right on 3rd Ave S to 16th St, and resume regular route.\r\n\nAffected stops:\r\nNicollet Ave S & 14th St / Grant St E - Stop #1920 (northbound)\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\nNicollet Mall & 7th St S - Stop #17994 (northbound)\r\nNicollet Mall & 5th St S - Stop #17996 (northbound)\r\nNicollet Mall & 3rd St S - Stop #17998 (northbound)\r\nNicollet Mall & 3rd St - Stop #17976 (southbound)\r\nNicollet Mall & 5th St S - Stop #17978 (southbound)\r\nNicollet Mall & 7th St S - Stop #17980 (southbound)\r\nNicollet Mall & 9th St S - Stop #17982 (southbound)\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17986 (southbound)\r\nNicollet Ave S & Grant St E - Stop #1197 (southbound)\r\n15th St E & 1st Ave S - Stop #53461 (eastbound)\r\n16th St E & 3rd Ave S - Stop #53462 (eastbound)"
     },
     {
       "id": "52650",

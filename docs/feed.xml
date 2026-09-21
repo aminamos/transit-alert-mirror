@@ -4,35 +4,26 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Mon, 21 Sep 2026 17:49:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 21:40:57 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 22: Southbound 12:12 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)</title>
-      <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-53115-2026-09-21T17:48:33.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 17:48:33 GMT</pubDate>
+      <title>[Critical] METRO C Line: Southbound 4:24 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate I)</title>
+      <link>https://www.metrotransit.org/route/cline</link>
+      <guid isPermaLink="false">Metro Transit-53126-2026-09-21T21:33:06.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 21:33:06 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 22</category>
-      <description>Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 12:12 PM canceled today due to traffic</description>
+      <category>METRO C Line</category>
+      <description>Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 4:24 PM canceled today due to maintenance work</description>
     </item>
     <item>
-      <title>[Critical] Route 30: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-53097-2026-09-21T11:37:00.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 11:37:00 GMT</pubDate>
+      <title>[Critical] METRO D Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-53124-2026-09-21T20:06:06.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 20:06:06 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 30</category>
-      <description>Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 54: Westbound 10:36 AM Trip Canceled (Maplewood Mall Transit Center &amp; Gate B)</title>
-      <link>https://www.metrotransit.org/route/54</link>
-      <guid isPermaLink="false">Metro Transit-53113-2026-09-21T17:45:02.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 17:45:02 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 54</category>
-      <description>Westbound Route 54 trip departing Maplewood Mall Transit Center &amp; Gate B at 10:36 AM canceled today due to mechanical issue</description>
+      <category>METRO D Line</category>
+      <description>Northbound D Line trip departing MOA Transit Station at 3:19 PM will start from 7th &amp; Bryant. Previous stops missed due to mechanical issue</description>
     </item>
     <item>
       <title>[Critical] Route 71: Service Canceled</title>
@@ -44,31 +35,40 @@
       <description>Route 71 trip departing Inver Hills College &amp; Shelter at 12:38 PM and three other trips canceled today due to mechanical issue</description>
     </item>
     <item>
-      <title>[Critical] Route 71: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/71</link>
-      <guid isPermaLink="false">Metro Transit-53114-2026-09-21T17:48:06.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 17:48:06 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 71</category>
-      <description>Northbound Route 71 trip departing Inver Hills College at 1:38 PM will start from Robert &amp; 6th. Previous stops missed due to maintenance</description>
-    </item>
-    <item>
       <title>[Critical] Route 72: Service Canceled</title>
       <link>https://www.metrotransit.org/route/72</link>
-      <guid isPermaLink="false">Metro Transit-53112-2026-09-21T16:19:06.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 16:19:06 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53112-2026-09-21T17:50:01.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 17:50:01 GMT</pubDate>
       <category>Critical</category>
       <category>Route 72</category>
       <description>Route 72 trip departing Sun Ray Transit Center &amp; Gate D at 1:20 PM and eight other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 80: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/80</link>
-      <guid isPermaLink="false">Metro Transit-53096-2026-09-21T11:42:00.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 11:42:00 GMT</pubDate>
+      <title>[Critical] Route 540: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/540</link>
+      <guid isPermaLink="false">Metro Transit-53118-2026-09-21T19:02:01.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 19:02:01 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 80</category>
-      <description>Route 80 trip departing Sun Ray Transit Center &amp; Gate E at 7:12 AM and thirteen other trips canceled today due to mechanical issue</description>
+      <category>Route 540</category>
+      <description>Route 540 trip departing Normandale Lake Blvd &amp; 83rd St / 84th St at 2:32 PM and two other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 542: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/542</link>
+      <guid isPermaLink="false">Metro Transit-53119-2026-09-21T20:04:01.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 20:04:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 542</category>
+      <description>Westbound Route 542 trips departing MOA Transit Station Gate G at 3:34 PM and departing MOA Transit Station Gate G at 5:05 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 724: Northbound 4:00 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate C)</title>
+      <link>https://www.metrotransit.org/route/724</link>
+      <guid isPermaLink="false">Metro Transit-53125-2026-09-21T20:30:01.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 20:30:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 724</category>
+      <description>Northbound Route 724 trip departing Brooklyn Ctr Transit Ctr Gate C at 4:00 PM canceled today due to traffic</description>
     </item>
     <item>
       <title>[Critical] Route 802: Service Canceled</title>
@@ -325,13 +325,13 @@ Affected st</title>
       <description>Route 11 detoured off Main St NE from Edge Pl to 35th Ave and off 35th Ave from Main St NE to 2 1/2 St beginning Tue May 26 at 7:00 AM until further notice due to construction. Board at: Main St NE &amp; St Anthony Pkwy - Stop #14618 (northbound); Temporary stop on Main St NE just before Edge Place NE (northbound); Temporary stop on 2nd 1/2 St NE &amp; 35th Ave NE (northbound). | Action: Board at: Main St NE &amp; St Anthony Pkwy - Stop #14618 (northbound); Temporary stop on Main St NE just before Edge Place NE (northbound); Temporary stop on 2nd 1/2 St NE &amp; 35th Ave NE (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 11: Detour via 3rd Ave S &amp; 25th St E</title>
+      <title>[Moderate] Route 11: Detour via 3rd Ave S &amp; 18th St</title>
       <link>https://www.metrotransit.org/route/11</link>
-      <guid isPermaLink="false">Metro Transit-52603-2026-09-17T05:00:02.000Z</guid>
-      <pubDate>Thu, 17 Sep 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52603-2026-09-21T18:42:32.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 18:42:32 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 11</category>
-      <description>Route 11 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: 3rd Ave S &amp; 25th St E - Stop #17762 (northbound); Nicollet Ave S &amp; 16th St E - Stop #1914 (northbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound). | Action: Board at: 3rd Ave S &amp; 25th St E - Stop #17762 (northbound); Nicollet Ave S &amp; 16th St E - Stop #1914 (northbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound)</description>
+      <description>Route 11 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: 3rd Ave S &amp; 18th St / 17th St E - Stop #17768 (northbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S &amp; 7th St - Stop Group F - Stop #53313 (northbound). | Action: Board at: 3rd Ave S &amp; 18th St / 17th St E - Stop #17768 (northbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S &amp; 7th St - Stop Group F - Stop #53313 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 14, Route 5: Stop Closed at Selected Stop</title>
