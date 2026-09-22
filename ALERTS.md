@@ -2,54 +2,102 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-138-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-8-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-142-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-13-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-124-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-6-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-84-brightgreen)](#-routes-index)
+[![Minor](https://img.shields.io/badge/Minor-5-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-86-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-22T19:32:40.178Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-22T22:42:24.363Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (3) • **METRO E Line** (4) • **METRO Gold Line** (2) • **METRO Green Line** (2) • **Route 2** (3) • **Route 3** (3) • **Route 3A** (2) • **Route 4** (3) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (4) • **Route 9** (5) • **Route 10** (3) • **Route 11** (4) • **Route 14** (3) • **Route 17** (4) • **Route 18** (9) • **Route 22** (5) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (5) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (4) • **Route 64** (5) • **Route 65** (2) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (2) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 323** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (2) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (5) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (3) • **METRO E Line** (4) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (5) • **Route 2C** (1) • **Route 3** (4) • **Route 3A** (2) • **Route 3B** (1) • **Route 4** (3) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (5) • **Route 9** (5) • **Route 10** (3) • **Route 11** (4) • **Route 14** (3) • **Route 17** (4) • **Route 18** (9) • **Route 22** (5) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (5) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (3) • **Route 64** (5) • **Route 65** (2) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 83** (1) • **Route 87** (1) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (2) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 323** (1) • **Route 467** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (2) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (2) • **Route 724** (2) • **Route 760** (2) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 22: Southbound 12:28 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)
+### 🚨 METRO A Line: Southbound 4:12 PM Trip Canceled (Rosedale Transit Center Gate A)
 
-- **Affected Routes**: `Route 22`
+- **Affected Routes**: `METRO A Line`
 - **Direction**: Southbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #15364, Stop #15366, Stop #11172, Stop #12561, Stop #12565, Stop #18007, Stop #18008, Stop #17905 *(+54 more)*
 
-**Summary**: Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 12:28 PM canceled today due to traffic
+**Summary**: Southbound A Line trip departing Rosedale Transit Center Gate A at 4:12 PM canceled due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/aline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound A Line trip departing Rosedale Transit Center Gate A at 4:12 PM canceled due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 Route 2, Route 2C: Eastbound 3:41 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)
+
+- **Affected Routes**: `Route 2` `Route 2C`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 3:41 PM canceled due to construction
+
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 3:41 PM canceled due to construction
+
+</details>
+
+---
+
+### 🚨 Route 3, Route 3B: Eastbound 4:38 PM Trip Canceled (Washington Ave & 10th Ave N)
+
+- **Affected Routes**: `Route 3` `Route 3B`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Eastbound Route 3B trip departing Washington Ave & 10th Ave N at 4:38 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/3)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 3B trip departing Washington Ave & 10th Ave N at 4:38 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 22: Service Canceled
+
+- **Affected Routes**: `Route 22`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 3:12 PM and four other trips canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/22)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 12:28 PM canceled today due to traffic
+**Header**: Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 3:12 PM and four other trips canceled today
 
-</details>
+```text
+Affected northbound trips:
+departing VA Medical Center & Visitors Entrance at 4:59 PM
+departing VA Medical Center & Visitors Entrance at 8:29 PM
 
----
-
-### 🚨 Route 63: Westbound 1:44 PM Trip Canceled (Sun Ray Transit Center & Gate A)
-
-- **Affected Routes**: `Route 63`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 63 trip departing Sun Ray Transit Center & Gate A at 1:44 PM canceled today due to police activity
-
-[Official Agency Advisory](https://www.metrotransit.org/route/63)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 63 trip departing Sun Ray Transit Center & Gate A at 1:44 PM canceled today due to police activity
+Affected southbound trips:
+departing Brooklyn Ctr Transit Ctr Gate H at 3:12 PM
+departing Brooklyn Ctr Transit Ctr Gate H at 6:43 PM
+departing Brooklyn Ctr Transit Ctr Gate H at 10:01 PM
+```
 
 </details>
 
@@ -138,6 +186,63 @@ departing Woodlane Dr Station Gate B at 4:18 PM
 departing Woodlane Dr Station Gate B at 5:20 PM
 departing Woodlane Dr Station Gate B at 6:21 PM
 ```
+
+</details>
+
+---
+
+### 🚨 Route 467: Service Canceled
+
+- **Affected Routes**: `Route 467`
+- **Direction**: All
+- **Severity**: `Critical`
+
+**Summary**: Route 467 trips departing Gateway Ramp & Platform at 3:37 PM and departing Gateway Ramp & Platform at 5:07 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/467)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 467 trips departing Gateway Ramp & Platform at 3:37 PM and departing Gateway Ramp & Platform at 5:07 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 723: Northbound 4:30 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate A)
+
+- **Affected Routes**: `Route 723`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 723 trip departing Brooklyn Ctr Transit Ctr Gate A at 4:30 PM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/723)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 723 trip departing Brooklyn Ctr Transit Ctr Gate A at 4:30 PM canceled today due to maintenance work
+
+</details>
+
+---
+
+### 🚨 Route 724: Southbound 5:15 PM Trip Canceled (Starlite Transit Center & Gate A)
+
+- **Affected Routes**: `Route 724`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Route 724 trip departing Starlite Transit Center & Gate A at 5:15 PM canceled
+
+[Official Agency Advisory](https://www.metrotransit.org/route/724)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 724 trip departing Starlite Transit Center & Gate A at 5:15 PM canceled
 
 </details>
 
@@ -871,6 +976,50 @@ Get on/off buses at:
 
 ---
 
+### ⚠️ Route 2: Detour via Route 2 detoured off 25th Ave S & 26th Ave S
+
+- **Affected Routes**: `Route 2`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Route 2 detoured off 25th Ave S & 26th Ave S; Franklin Ave E & 24th Ave S; Riverside Ave & 25th Ave S; 26th Ave S & Seward Tower West - St; 25th Ave S & Butler Place - St
+- **Closed Stops**: 26th Ave S & Seward Tower West (Stop #56702), 25th Ave S & Butler Place (Stop #56704), 26th Ave S & Seward Tower West (Stop #56703), Stop #13261, Stop #13243, Stop #13239, Stop #13259
+
+**Summary**: Route 2 detoured off 25th Ave S/26th Ave S from Franklin Ave to Riverside Ave from 7:00 AM to 3:00 PM on Thu Sep 24 due to construction. Board at: Franklin Ave E & 24th Ave S - Stop #13261 (eastbound); Riverside Ave & 25th Ave S - Stop #13243 (westbound).
+
+> 💡 **Rider Action**: Board at: Franklin Ave E & 24th Ave S - Stop #13261 (eastbound); Riverside Ave & 25th Ave S - Stop #13243 (westbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on Franklin Ave to 26th Ave S, right on 26th Ave, left on 22nd St, left on 30th Ave S, left on Franklin Ave, right on Riverside Ave to 25th Ave S, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 2 detoured off 25th Ave S/26th Ave S from Franklin Ave to Riverside Ave from 7:00 AM to 3:00 PM on Thu Sep 24 due to construction
+
+```text
+For eastbound Route 2 get on/off buses at:
+Franklin Ave E & 24th Ave S - Stop #13261 (eastbound)
+Riverside Ave & 25th Ave S - Stop #13243 (westbound)
+
+For westbound Route 2 get on/off buses at:
+Riverside Ave & 25th Ave S - Stop #13239 (eastbound)
+Franklin Ave E & 24th Ave S - Stop #13259 (westbound)
+
+Eastbound buses will travel regular route on Franklin Ave to 26th Ave S, right on 26th Ave, left on 22nd St, left on 30th Ave S, left on Franklin Ave, right on Riverside Ave to 25th Ave S, and resume regular route.
+
+Westbound buses will travel regular route on Riverside Ave to 25th Ave S, continue on Riverside to 27th Ave S, right on 27th Ave, right on Franklin Ave to 26th Ave S, and resume regular route.
+
+Affected stops:
+26th Ave S & Seward Tower West - Stop #56702 (northbound)
+25th Ave S & Butler Place - Stop #56704 (southbound)
+26th Ave S & Seward Tower West - Stop #56703 (southbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 3, Route 3A: Detour via Maryland Ave & Galtier St
 
 - **Affected Routes**: `Route 3` `Route 3A`
@@ -1541,6 +1690,50 @@ Affected stops:
 46th St E & 34th Ave S - Stop #48897 (westbound)
 34th Ave S & Minnehaha Pkwy - Stop #52737 (southbound)
 34th Ave S & 50th St E - Stop #52739 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 7: Detour via Route 7 detoured off 25th Ave S & 26th Ave S
+
+- **Affected Routes**: `Route 7`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Route 7 detoured off 25th Ave S & 26th Ave S; 26th Ave S & 22nd St E; Riverside Ave & 25th Ave S; 26th Ave S & Seward Tower West - St; 25th Ave S & Butler Place - St
+- **Closed Stops**: 26th Ave S & Seward Tower West (Stop #56702), 25th Ave S & Butler Place (Stop #56704), 26th Ave S & Seward Tower West (Stop #56703), Stop #57484, Stop #13243, Stop #13239, Stop #57494
+
+**Summary**: Route 7 detoured off 25th Ave S/26th Ave S from 22nd St to Riverside Ave from 7:00 AM to 3:00 PM on Thu Sep 24 due to construction. Board at: 26th Ave S & 22nd St E - Stop #57484 (northbound); Riverside Ave & 25th Ave S - Stop #13243 (westbound).
+
+> 💡 **Rider Action**: Board at: 26th Ave S & 22nd St E - Stop #57484 (northbound); Riverside Ave & 25th Ave S - Stop #13243 (westbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route on 26th Ave S to 22nd St, right on 22nd St, left on 30th Ave S, left on Franklin Ave, right on Riverside Ave to 25th Ave S, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/7)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 7 detoured off 25th Ave S/26th Ave S from 22nd St to Riverside Ave from 7:00 AM to 3:00 PM on Thu Sep 24 due to construction
+
+```text
+For northbound Route 7 get on/off buses at:
+26th Ave S & 22nd St E - Stop #57484 (northbound)
+Riverside Ave & 25th Ave S - Stop #13243 (westbound)
+
+For southbound Route 7 get on/off buses at:
+Riverside Ave & 25th Ave S - Stop #13239 (eastbound)
+26th Ave S & 22nd St E - Stop #57494 (southbound)
+
+Northbound buses will travel regular route on 26th Ave S to 22nd St, right on 22nd St, left on 30th Ave S, left on Franklin Ave, right on Riverside Ave to 25th Ave S, and resume regular route.
+
+Southbound buses will travel regular route on Riverside Ave to 25th Ave S, continue on Riverside to 27th Ave S, right on 27th Ave, right on Franklin Ave, left on 26th Ave S, and resume regular route.
+
+Affected stops:
+26th Ave S & Seward Tower West - Stop #56702 (northbound)
+25th Ave S & Butler Place - Stop #56704 (southbound)
+26th Ave S & Seward Tower West - Stop #56703 (southbound)
 ```
 
 </details>
@@ -3768,52 +3961,6 @@ Rice St & Como Ave - Stop #10484 (southbound)
 
 ---
 
-### ⚠️ Route 62: Detour via Route 62 detoured off Wabasha St & Humboldt Ave
-
-- **Affected Routes**: `Route 62`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Tue Sep 22 at 1:00 AM until further notice
-- **Corridors & Intersections**: Route 62 detoured off Wabasha St & Humboldt Ave; Winifred St W & Stryker Ave S; Wabasha St & Cesar Chavez St; Wabasha St & Torre de San Miguel - St; Winifred St W & Humboldt Ave S
-- **Closed Stops**: Winifred St W & Humboldt Ave S (Stop #6336), Wabasha St & Congress St (Stop #287), Wabasha St & Congress St (Stop #299), Wabasha St & Winifred St (Stop #300), Stop #6334, Stop #42007, Stop #2624
-
-**Summary**: Route 62 detoured off Wabasha St/Humboldt Ave from Winifred St to Isabel St beginning Tue Sep 22 at 1:00 AM until further notice. Board at: Winifred St W & Stryker Ave S - Stop #6334 (eastbound); Wabasha St & Cesar Chavez St - Stop #289 (northbound).
-
-> 💡 **Rider Action**: Board at: Winifred St W & Stryker Ave S - Stop #6334 (eastbound); Wabasha St & Cesar Chavez St - Stop #289 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel the regular route on Winifred St to Stryker Ave, left on Stryker Ave, right on Isabel St, left on Wabasha St, and resume the regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/62)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 62 detoured off Wabasha St/Humboldt Ave from Winifred St to Isabel St beginning Tue Sep 22 at 1:00 AM until further notice
-
-```text
-For northbound Route 62 get on/off buses at:
-Winifred St W & Stryker Ave S - Stop #6334 (eastbound)
-Wabasha St & Cesar Chavez St - Stop #289 (northbound)
-
-For southbound Route 62 get on/off buses at:
-Wabasha St & Torre de San Miguel - Stop #42007 (southbound)
-Winifred St W & Stryker Ave S - Stop #2624 (westbound)
-
-Northbound buses will travel the regular route on Winifred St to Stryker Ave, left on Stryker Ave, right on Isabel St, left on Wabasha St, and resume the regular route.
-
-Southbound buses will travel the regular route on Wabasha St to Isabel St, right on Isabel St, left on Hall Ave, right on Winifred St, and resume the regular route.
-
-Affected stops:
-Winifred St W & Humboldt Ave S - Stop #6336 (eastbound)
-Wabasha St & Congress St - Stop #287 (northbound)
-Wabasha St & Congress St - Stop #299 (southbound)
-Wabasha St & Winifred St - Stop #300 (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 63: Stop Closed at Grand Ave & Victoria St
 
 - **Affected Routes**: `Route 63`
@@ -4621,54 +4768,6 @@ No stops missed.
 Eastbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.
 
 Westbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.
-```
-
-</details>
-
----
-
-### ⚠️ Route 75: Detour via Route 75 detoured off Wabasha St & Humboldt Ave
-
-- **Affected Routes**: `Route 75`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Tue Sep 22 at 1:00 AM until further notice
-- **Corridors & Intersections**: Route 75 detoured off Wabasha St & Humboldt Ave; Humboldt Ave & Robie St; Winifred St W & Stryker Ave S; Wabasha St & Cesar Chavez St; Wabasha St & Torre de San Miguel - St
-- **Closed Stops**: Humboldt Ave & Winifred St (Stop #286), Wabasha St & Congress St (Stop #287), Wabasha St & Congress St (Stop #299), Wabasha St & Winifred St (Stop #300), Stop #2624, Stop #42007, Stop #6336, Stop #46506
-
-**Summary**: Route 75 detoured off Wabasha St/Humboldt Ave from Isabel St to Winifred St beginning Tue Sep 22 at 1:00 AM until further notice. Board at: Humboldt Ave & Robie St - Stop #285 (northbound); Winifred St W & Stryker Ave S - Stop #2624 (westbound); Wabasha St & Cesar Chavez St - Stop #289 (northbound).
-
-> 💡 **Rider Action**: Board at: Humboldt Ave & Robie St - Stop #285 (northbound); Winifred St W & Stryker Ave S - Stop #2624 (westbound); Wabasha St & Cesar Chavez St - Stop #289 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel the regular route on Humboldt Ave to Winifred St, left on Winifred St, right on Stryker Ave, right on Isabel St, left on Wabasha St, and resume the regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/75)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 75 detoured off Wabasha St/Humboldt Ave from Isabel St to Winifred St beginning Tue Sep 22 at 1:00 AM until further notice
-
-```text
-For northbound Route 75 get on/off buses at:
-Humboldt Ave & Robie St - Stop #285 (northbound)
-Winifred St W & Stryker Ave S - Stop #2624 (westbound)
-Wabasha St & Cesar Chavez St - Stop #289 (northbound)
-
-For southbound Route 75 get on/off buses at:
-Wabasha St & Torre de San Miguel - Stop #42007 (southbound)
-Winifred St W & Humboldt Ave S - Stop #6336 (eastbound)
-Humboldt Ave & Robie St - Stop #46506 (southbound)
-
-Northbound buses will travel the regular route on Humboldt Ave to Winifred St, left on Winifred St, right on Stryker Ave, right on Isabel St, left on Wabasha St, and resume the regular route.
-
-Southbound buses will travel the regular route on Wabasha St to Isabel St, right on Isabel St, left on Hall Ave, left on Winifred St, right on Humboldt Ave, and resume the regular route.
-
-Affected stops:
-Humboldt Ave & Winifred St - Stop #286 (northbound)
-Wabasha St & Congress St - Stop #287 (northbound)
-Wabasha St & Congress St - Stop #299 (southbound)
-Wabasha St & Winifred St - Stop #300 (southbound)
 ```
 
 </details>
@@ -5916,25 +6015,6 @@ LaFayette Rd & Grove St - Stop #11923 (southbound)
 ---
 
 ## ℹ️ Minor Advisories
-
-### ℹ️ METRO Green Line: Service Advisory
-
-- **Affected Routes**: `METRO Green Line`
-- **Direction**: All
-- **Severity**: `Minor`
-
-**Summary**: Green Line trip departing Target Field Station Platform 2 at 12:41 PM delayed approximately 23 minutes due to police activity
-
-[Official Agency Advisory](https://www.metrotransit.org/route/green)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Green Line trip departing Target Field Station Platform 2 at 12:41 PM delayed approximately 23 minutes due to police activity
-
-</details>
-
----
 
 ### ℹ️ Route 2: Service Advisory
 
