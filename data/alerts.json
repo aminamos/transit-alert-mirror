@@ -1,42 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-22T05:49:57.030Z",
+    "generatedAt": "2026-09-22T10:55:28.320Z",
     "totalAlerts": 105,
-    "criticalCount": 1,
+    "criticalCount": 0,
     "moderateCount": 101,
-    "minorCount": 3,
+    "minorCount": 4,
     "affectedRoutesCount": 77,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "53139",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO D Line: Southbound 12:34 AM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)",
-      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 12:34 AM canceled",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-22T05:34:00.000Z",
-        "end": "2026-09-22T07:46:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-09-22T05:09:02.000Z",
-      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 12:34 AM canceled",
-      "rawDescription": ""
-    },
     {
       "id": "49962",
       "agency": "Metro Transit",
@@ -417,6 +391,7 @@
       "closedStopIds": [
         "56006",
         "56007",
+        "56018",
         "56008",
         "56009",
         "56010",
@@ -427,7 +402,6 @@
         "56015",
         "56016",
         "56017",
-        "56018",
         "56026",
         "56027",
         "56028",
@@ -447,6 +421,9 @@
         },
         {
           "id": "56007"
+        },
+        {
+          "id": "56018"
         },
         {
           "id": "56008"
@@ -477,9 +454,6 @@
         },
         {
           "id": "56017"
-        },
-        {
-          "id": "56018"
         },
         {
           "id": "56026"
@@ -1692,7 +1666,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/10",
-      "updatedAt": "2026-09-22T05:00:01.000Z",
+      "updatedAt": "2026-09-22T08:01:01.000Z",
       "rawHeader": "Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 8th St to 12th St from Sat Sep 26 at 6:00 AM to Sun Sep 27 at 3:00 AM due to Dakota Jazz Fest",
       "rawDescription": "Get on/off northbound/eastbound buses at:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)\r\nNicollet Mall & 7th St S - Stop #17994 (northbound)\r\n\nGet on/off southbound/westbound buses at:\r\nNicollet Mall & 9th St S - Stop #17982 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17986 (southbound)\r\n\nNorthbound/eastbound buses will travel regular route on Nicollet Mall to 11th St, left on 11th St, right on LaSalle Ave, right on 8th St, left on Nicollet Mall, and resume regular route.\r\n\nSouthbound/westbound buses will travel regular route on Nicollet Mall to 9th St, right on 9th St, left on LaSalle Ave, left on 12th St, right on Nicollet Mall, and resume regular route.\r\n\nAffected stops:\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)"
     },
@@ -4943,7 +4917,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/65",
-      "updatedAt": "2026-09-15T09:30:01.000Z",
+      "updatedAt": "2026-09-22T10:00:01.000Z",
       "rawHeader": "Route 65 detoured off Dale St from Rondo Ave to Grand Ave beginning Tue Sep 15 at 5:00 AM until further notice due to construction",
       "rawDescription": "For northbound Route 65 get on/off buses at:\r\nTemporary stop on Kent St & Portland Ave (northbound)\r\nTemporary stop on Kent St & Selby Ave (northbound)\r\nTemporary stop on Kent St & Marshall Ave (northbound)\r\nDale St & Fuller Ave - Stop #10693 (northbound)\r\n\nFor southbound Route 65 get on/off buses at:\r\nDale St & Fuller Ave - Stop #10748 (southbound)\r\nTemporary stop on Marshall Ave & Kent St (westbound)\r\nTemporary stop on Kent St & Selby Ave (southbound)\r\n\nNorthbound buses will depart the temporary terminal on westbound Summit Ave between Mackubin St and Kent St and continue on Summit to Kent St, right on Kent, right on Marshall Ave, left on Arundel St, right on Concordia Ave, left on Western Ave, left on St Anthony Ave, right on Dale St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Dale St to Rondo Ave, left on Rondo Ave, right on Arundel St, right on Marshall Ave, left on Kent St, left on Holly Ave, right on Mackubin St, right on Summit Ave and layover on westbound Summit Ave between Mackubin St and Kent St.\r\n\nAffected stops:\r\nDale St & Grand Ave - Stop #10680 (northbound)\r\nDale St & Summit Ave / Portland Ave - Stop #10681 (northbound)\r\nDale St & Holly Ave - Stop #10684 (northbound)\r\nDale St & Selby Ave - Stop #10685 (northbound)\r\nDale St & Marshall Ave - Stop #10688 (northbound)\r\nDale St & Iglehart Ave - Stop #10689 (northbound)\r\nDale St & Rondo Ave - Stop #10691 (northbound)\r\nDale St & Carroll Ave - Stop #10752 (southbound)\r\nDale St & Iglehart Ave - Stop #10753 (southbound)\r\nDale St & Marshall Ave - Stop #10754 (southbound)\r\nDale St N & Selby Ave - Stop #53780 (southbound)\r\nDale St & Ashland Ave - Stop #10758 (southbound)\r\nSummit Ave & Dale St - Stop #10761 (eastbound)"
     },
@@ -7555,6 +7529,82 @@
       "updatedAt": "2026-09-03T18:51:20.000Z",
       "rawHeader": "Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction",
       "rawDescription": "Updated get on/off stops 6/9 1:30 pm.\r\n\nGet on/off buses at:\r\nTemporary stop on Grove St & Lafayette Rd (eastbound)\r\nLaFayette Rd & 8th St - Stop #11925 (southbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on southbound I-35E to University Ave, continue on I-35E and exit at Wacouta St, left on 9th St, left on Broadway St, right on Grove St, right on Lafayette Rd, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nUniversity Ave & Mississippi St - Stop #56109 (eastbound)\r\nUniversity Ave & Lafayette St - Stop #57630 (eastbound)\r\nLaFayette Rd & Grove St - Stop #11923 (southbound)"
+    },
+    {
+      "id": "53140",
+      "agency": "Metro Transit",
+      "severity": "Minor",
+      "title": "METRO Green Line: Service Advisory",
+      "summary": "Green Line trip departing Target Field Station Platform 2 at 5:09 AM delayed 10 minutes today",
+      "affectedRoutes": [
+        "METRO Green Line"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [
+        "56017",
+        "56018",
+        "56015",
+        "56016",
+        "56013",
+        "56014",
+        "56011",
+        "56012",
+        "56009",
+        "56010",
+        "56007",
+        "56008"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "56017"
+        },
+        {
+          "id": "56018"
+        },
+        {
+          "id": "56015"
+        },
+        {
+          "id": "56016"
+        },
+        {
+          "id": "56013"
+        },
+        {
+          "id": "56014"
+        },
+        {
+          "id": "56011"
+        },
+        {
+          "id": "56012"
+        },
+        {
+          "id": "56009"
+        },
+        {
+          "id": "56010"
+        },
+        {
+          "id": "56007"
+        },
+        {
+          "id": "56008"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-22T10:44:00.000Z",
+        "end": "2026-09-22T11:58:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "OTHER_EFFECT",
+      "url": "https://www.metrotransit.org/route/green",
+      "updatedAt": "2026-09-22T10:45:29.000Z",
+      "rawHeader": "Green Line trip departing Target Field Station Platform 2 at 5:09 AM delayed 10 minutes today",
+      "rawDescription": "Affected direction: Eastbound\r\n\nAffected stops:\r\nFairview Ave Station\r\nSnelling Ave Station\r\nHamline Ave Station\r\nLexington Pkwy Station\r\nVictoria St Station\r\nDale St Station\r\nWestern Ave Station\r\nCapitol / Rice St Station\r\nRobert St Station\r\n10th St Station\r\nCentral Station\r\nUnion Depot Station"
     },
     {
       "id": "52355",

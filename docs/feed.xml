@@ -4,18 +4,9 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Tue, 22 Sep 2026 05:49:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 10:55:28 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
-    <item>
-      <title>[Critical] METRO D Line: Southbound 12:34 AM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-53139-2026-09-22T05:09:02.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 05:09:02 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 12:34 AM canceled</description>
-    </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -237,8 +228,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor</title>
       <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-53104-2026-09-22T05:00:01.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53104-2026-09-22T08:01:01.000Z</guid>
+      <pubDate>Tue, 22 Sep 2026 08:01:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 10, Route 11, Route 17, Route 18, Route 25</category>
       <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 8th St to 12th St from Sat Sep 26 at 6:00 AM to Sun Sep 27 at 3:00 AM due to Dakota Jazz Fest. Board at: Nicollet Mall &amp; 11th St S - Stop #17990 (northbound); Nicollet Mall &amp; 7th St S - Stop #17994 (northbound). | Action: Board at: Nicollet Mall &amp; 11th St S - Stop #17990 (northbound); Nicollet Mall &amp; 7th St S - Stop #17994 (northbound)</description>
@@ -581,8 +572,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 65: Detour via Kent St &amp; Portland Ave</title>
       <link>https://www.metrotransit.org/route/65</link>
-      <guid isPermaLink="false">Metro Transit-52682-2026-09-15T09:30:01.000Z</guid>
-      <pubDate>Tue, 15 Sep 2026 09:30:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52682-2026-09-22T10:00:01.000Z</guid>
+      <pubDate>Tue, 22 Sep 2026 10:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 65</category>
       <description>Route 65 detoured off Dale St from Rondo Ave to Grand Ave beginning Tue Sep 15 at 5:00 AM until further notice due to construction. Board at: Temporary stop on Kent St &amp; Portland Ave (northbound); Temporary stop on Kent St &amp; Selby Ave (northbound); Temporary stop on Kent St &amp; Marshall Ave (northbound). | Action: Board at: Temporary stop on Kent St &amp; Portland Ave (northbound); Temporary stop on Kent St &amp; Selby Ave (northbound); Temporary stop on Kent St &amp; Marshall Ave (northbound)</description>
@@ -928,6 +919,15 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 860</category>
       <description>Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction. Board at: Temporary stop on Grove St &amp; Lafayette Rd (eastbound); LaFayette Rd &amp; 8th St - Stop #11925 (southbound). | Action: Board at: Temporary stop on Grove St &amp; Lafayette Rd (eastbound); LaFayette Rd &amp; 8th St - Stop #11925 (southbound)</description>
+    </item>
+    <item>
+      <title>[Minor] METRO Green Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/green</link>
+      <guid isPermaLink="false">Metro Transit-53140-2026-09-22T10:45:29.000Z</guid>
+      <pubDate>Tue, 22 Sep 2026 10:45:29 GMT</pubDate>
+      <category>Minor</category>
+      <category>METRO Green Line</category>
+      <description>Green Line trip departing Target Field Station Platform 2 at 5:09 AM delayed 10 minutes today</description>
     </item>
     <item>
       <title>[Minor] Route 38: Service Advisory</title>

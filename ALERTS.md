@@ -3,37 +3,20 @@
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
 [![Alerts](https://img.shields.io/badge/Total%20Alerts-105-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-101-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
+[![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-22T05:49:57.030Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-22T10:55:28.320Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (3) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (2) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (3) • **Route 14** (1) • **Route 17** (3) • **Route 18** (8) • **Route 22** (3) • **Route 25** (3) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (3) • **Route 64** (5) • **Route 65** (2) • **Route 67** (1) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (2) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (3) • **Route 14** (1) • **Route 17** (3) • **Route 18** (8) • **Route 22** (3) • **Route 25** (3) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (3) • **Route 64** (5) • **Route 65** (2) • **Route 67** (1) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO D Line: Southbound 12:34 AM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 12:34 AM canceled
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 12:34 AM canceled
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -375,7 +358,7 @@ Wall St & 7th St / 6th St - Stop #43282 (southbound)
 - **Affected Routes**: `METRO Green Line` `Route 94`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Closed Stops**: Stop #56006, Stop #56007, Stop #56008, Stop #56009, Stop #56010, Stop #56011, Stop #56012, Stop #56013 *(+17 more)*
+- **Closed Stops**: Stop #56006, Stop #56007, Stop #56018, Stop #56008, Stop #56009, Stop #56010, Stop #56011, Stop #56012 *(+17 more)*
 
 **Summary**: Buses will replace METRO Green Line trains between Union Depot and Raymond Ave. stations starting with first trains on Friday, Sept. 25 until Monday, Sept. 28 at first trains.
 
@@ -4553,6 +4536,44 @@ LaFayette Rd & Grove St - Stop #11923 (southbound)
 ---
 
 ## ℹ️ Minor Advisories
+
+### ℹ️ METRO Green Line: Service Advisory
+
+- **Affected Routes**: `METRO Green Line`
+- **Direction**: Eastbound
+- **Severity**: `Minor`
+- **Closed Stops**: Stop #56017, Stop #56018, Stop #56015, Stop #56016, Stop #56013, Stop #56014, Stop #56011, Stop #56012 *(+4 more)*
+
+**Summary**: Green Line trip departing Target Field Station Platform 2 at 5:09 AM delayed 10 minutes today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/green)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Green Line trip departing Target Field Station Platform 2 at 5:09 AM delayed 10 minutes today
+
+```text
+Affected direction: Eastbound
+
+Affected stops:
+Fairview Ave Station
+Snelling Ave Station
+Hamline Ave Station
+Lexington Pkwy Station
+Victoria St Station
+Dale St Station
+Western Ave Station
+Capitol / Rice St Station
+Robert St Station
+10th St Station
+Central Station
+Union Depot Station
+```
+
+</details>
+
+---
 
 ### ℹ️ Route 38: Service Advisory
 
