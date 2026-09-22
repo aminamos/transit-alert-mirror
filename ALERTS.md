@@ -2,83 +2,74 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-114-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-9-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-102-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-108-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-101-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-80-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-78-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-21T21:40:57.499Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-22T00:34:02.386Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (3) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (2) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (3) • **Route 14** (1) • **Route 17** (3) • **Route 18** (8) • **Route 22** (3) • **Route 25** (3) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (3) • **Route 64** (5) • **Route 65** (2) • **Route 67** (1) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (3) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (2) • **Route 542** (3) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 802** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (5) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (2) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (3) • **Route 14** (1) • **Route 17** (3) • **Route 18** (10) • **Route 18E** (1) • **Route 22** (3) • **Route 25** (3) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (3) • **Route 64** (5) • **Route 65** (2) • **Route 67** (1) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO C Line: Southbound 4:24 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate I)
+### 🚨 METRO A Line: Southbound 7:07 PM Trip Canceled (Rosedale Transit Center Gate A)
 
-- **Affected Routes**: `METRO C Line`
+- **Affected Routes**: `METRO A Line`
 - **Direction**: Southbound
 - **Severity**: `Critical`
 
-**Summary**: Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 4:24 PM canceled today due to maintenance work
+**Summary**: Southbound A Line trip departing Rosedale Transit Center Gate A at 7:07 PM canceled today due to maintenance work
 
-[Official Agency Advisory](https://www.metrotransit.org/route/cline)
+[Official Agency Advisory](https://www.metrotransit.org/route/aline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 4:24 PM canceled today due to maintenance work
+**Header**: Southbound A Line trip departing Rosedale Transit Center Gate A at 7:07 PM canceled today due to maintenance work
 
 </details>
 
 ---
 
-### 🚨 METRO D Line: Service Advisory
+### 🚨 Route 18, Route 18E: Southbound 5:15 PM Trip Canceled (4th Ave S & 3rd St S)
 
-- **Affected Routes**: `METRO D Line`
+- **Affected Routes**: `Route 18` `Route 18E`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #1349, Stop #1350, Stop #1351, Stop #1352, Stop #1361, Stop #1364, Stop #1365, Stop #1366 *(+35 more)*
+
+**Summary**: Southbound Route 18E trip departing 4th Ave S & 3rd St S at 5:15 PM canceled from Nicollet & 66th at 6:08 PM today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/18)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 18E trip departing 4th Ave S & 3rd St S at 5:15 PM canceled from Nicollet & 66th at 6:08 PM today due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 Route 18: Service Advisory
+
+- **Affected Routes**: `Route 18`
 - **Direction**: Northbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #47447, Stop #56873, Stop #56921, Stop #56922, Stop #56923, Stop #56924, Stop #56925, Stop #56926 *(+18 more)*
+- **Closed Stops**: Stop #56922, Stop #51852, Stop #51858, Stop #51631, Stop #51821, Stop #57131, Stop #620, Stop #81051 *(+55 more)*
 
-**Summary**: Northbound D Line trip departing MOA Transit Station at 3:19 PM will start from 7th & Bryant. Previous stops missed due to mechanical issue
+**Summary**: Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 7:00 PM will operate from 38th & Nicollet at 7:40 PM today due to mechanical issue
 
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound D Line trip departing MOA Transit Station at 3:19 PM will start from 7th & Bryant. Previous stops missed due to mechanical issue
-
-</details>
-
----
-
-### 🚨 Route 71: Service Canceled
-
-- **Affected Routes**: `Route 71`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
+[Official Agency Advisory](https://www.metrotransit.org/route/18)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today due to mechanical issue
-
-```text
-Affected northbound trips:
-departing Inver Hills College & Shelter at 12:38 PM
-departing Inver Hills College & Shelter at 3:38 PM
-
-Affected southbound trips:
-departing Market Place Dr & The Marketplace Ctr at 2:12 PM
-departing Market Place Dr & The Marketplace Ctr at 5:13 PM
-```
+**Header**: Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 7:00 PM will operate from 38th & Nicollet at 7:40 PM today due to mechanical issue
 
 </details>
 
@@ -115,140 +106,6 @@ departing Sun Ray Transit Center & Gate D at 3:19 PM
 departing Sun Ray Transit Center & Gate D at 5:18 PM
 departing Sun Ray Transit Center & Gate D at 7:21 PM
 departing Sun Ray Transit Center & Gate D at 9:21 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 540: Service Canceled
-
-- **Affected Routes**: `Route 540`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Normandale Lake Blvd & 83rd St; 32 PM
-departing Normandale Lake Blvd & 83rd St; 00 PM
-departing Normandale Lake Blvd & 83rd St
-
-**Summary**: Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 2:32 PM and two other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/540)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 2:32 PM and two other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Normandale Lake Blvd & 83rd St / 84th St at 2:32 PM
-departing Normandale Lake Blvd & 83rd St / 84th St at 4:00 PM
-departing Normandale Lake Blvd & 83rd St / 84th St at 5:32 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 542: Service Canceled
-
-- **Affected Routes**: `Route 542`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 542 trips departing MOA Transit Station Gate G at 3:34 PM and departing MOA Transit Station Gate G at 5:05 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/542)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 542 trips departing MOA Transit Station Gate G at 3:34 PM and departing MOA Transit Station Gate G at 5:05 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 724: Northbound 4:00 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate C)
-
-- **Affected Routes**: `Route 724`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Route 724 trip departing Brooklyn Ctr Transit Ctr Gate C at 4:00 PM canceled today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/724)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 724 trip departing Brooklyn Ctr Transit Ctr Gate C at 4:00 PM canceled today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 802: Service Canceled
-
-- **Affected Routes**: `Route 802`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/802)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to mechanical issue
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate E at 11:34 AM
-departing Northtown Transit Ctr Gate E at 1:34 PM
-departing Northtown Transit Ctr Gate E at 3:34 PM
-departing Northtown Transit Ctr Gate E at 5:34 PM
-
-Affected southbound trips:
-departing Anoka Tech College & Main Entrance at 12:42 PM
-departing Anoka Tech College & Main Entrance at 2:42 PM
-departing Anoka Tech College & Main Entrance at 4:42 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 805: Service Canceled
-
-- **Affected Routes**: `Route 805`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing 1st Ave S & Monroe St; 38 PM
-departing 1st Ave S & Monroe St; 36 PM
-departing 1st Ave S & Monroe St
-
-**Summary**: Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today due to mechanical issue
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate D at 11:34 AM
-departing Northtown Transit Ctr Gate D at 1:34 PM
-departing Northtown Transit Ctr Gate D at 3:34 PM
-departing Northtown Transit Ctr Gate D at 5:34 PM
-
-Affected southbound trips:
-departing 1st Ave S & Monroe St at 12:38 PM
-departing 1st Ave S & Monroe St at 2:36 PM
-departing 1st Ave S & Monroe St at 4:36 PM
 ```
 
 </details>
@@ -3310,34 +3167,6 @@ Southbound buses will travel regular route on 3rd Ave S to Ash St, right on Ash 
 Affected stops:
 South St & 5th Ave S - Stop #9791 (westbound)
 3rd Ave S & South St W - Stop #47783 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 68, Route 71: Stop Closed at Robert St S & Plato Blvd E
-
-- **Affected Routes**: `Route 68` `Route 71`
-- **Direction**: Northbound
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Sep 21 at 1:00 AM until further notice
-- **Corridors & Intersections**: Robert St S & Plato Blvd E; Robert St S & Colorado St; Robert St S & Fillmore Ave
-- **Closed Stops**: Stop #2609, Stop #2608, Stop #2610
-
-**Summary**: Robert St S & Plato Blvd E - Stop #2609 (northbound) is closed for Routes 68 and 71 beginning Mon Sep 21 at 1:00 AM until further notice due to construction. Board at: Robert St S & Colorado St - Stop #2608 (northbound); Robert St S & Fillmore Ave - Stop #2610 (northbound).
-
-> 💡 **Rider Action**: Board at: Robert St S & Colorado St - Stop #2608 (northbound); Robert St S & Fillmore Ave - Stop #2610 (northbound)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Robert St S & Plato Blvd E - Stop #2609 (northbound) is closed for Routes 68 and 71 beginning Mon Sep 21 at 1:00 AM until further notice due to construction
-
-```text
-Get on/off buses at:
-Robert St S & Colorado St - Stop #2608 (northbound)
-Robert St S & Fillmore Ave - Stop #2610 (northbound)
 ```
 
 </details>

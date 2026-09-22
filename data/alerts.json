@@ -1,24 +1,24 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-21T21:40:57.499Z",
-    "totalAlerts": 114,
-    "criticalCount": 9,
-    "moderateCount": 102,
+    "generatedAt": "2026-09-22T00:34:02.386Z",
+    "totalAlerts": 108,
+    "criticalCount": 4,
+    "moderateCount": 101,
     "minorCount": 3,
-    "affectedRoutesCount": 80,
+    "affectedRoutesCount": 78,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "53126",
+      "id": "53130",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO C Line: Southbound 4:24 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate I)",
-      "summary": "Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 4:24 PM canceled today due to maintenance work",
+      "title": "METRO A Line: Southbound 7:07 PM Trip Canceled (Rosedale Transit Center Gate A)",
+      "summary": "Southbound A Line trip departing Rosedale Transit Center Gate A at 7:07 PM canceled today due to maintenance work",
       "affectedRoutes": [
-        "METRO C Line"
+        "METRO A Line"
       ],
       "direction": "Southbound",
       "intersections": [],
@@ -27,173 +27,496 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-21T21:32:00.000Z",
-        "end": "2026-09-21T23:04:00.000Z"
+        "start": "2026-09-22T00:29:00.000Z",
+        "end": "2026-09-22T01:43:00.000Z"
       },
       "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/cline",
-      "updatedAt": "2026-09-21T21:33:06.000Z",
-      "rawHeader": "Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 4:24 PM canceled today due to maintenance work",
+      "url": "https://www.metrotransit.org/route/aline",
+      "updatedAt": "2026-09-22T00:29:50.000Z",
+      "rawHeader": "Southbound A Line trip departing Rosedale Transit Center Gate A at 7:07 PM canceled today due to maintenance work",
       "rawDescription": ""
     },
     {
-      "id": "53124",
+      "id": "53128",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO D Line: Service Advisory",
-      "summary": "Northbound D Line trip departing MOA Transit Station at 3:19 PM will start from 7th & Bryant. Previous stops missed due to mechanical issue",
+      "title": "Route 18, Route 18E: Southbound 5:15 PM Trip Canceled (4th Ave S & 3rd St S)",
+      "summary": "Southbound Route 18E trip departing 4th Ave S & 3rd St S at 5:15 PM canceled from Nicollet & 66th at 6:08 PM today due to mechanical issue",
       "affectedRoutes": [
-        "METRO D Line"
+        "Route 18",
+        "Route 18E"
       ],
-      "direction": "Northbound",
+      "direction": "Southbound",
       "intersections": [],
       "closedStopIds": [
-        "47447",
-        "56873",
-        "56921",
-        "56922",
-        "56923",
-        "56924",
-        "56925",
-        "56926",
-        "56927",
-        "56928",
-        "56929",
-        "56930",
-        "81078",
-        "639",
-        "643",
-        "737",
-        "779",
-        "784",
-        "80138",
-        "620",
-        "52300",
-        "17897",
-        "17900",
-        "17902",
-        "17903",
-        "4513"
+        "1349",
+        "1350",
+        "1351",
+        "1352",
+        "1361",
+        "1364",
+        "1365",
+        "1366",
+        "1367",
+        "1368",
+        "1369",
+        "1370",
+        "1372",
+        "1373",
+        "1374",
+        "1375",
+        "1376",
+        "1377",
+        "1379",
+        "1391",
+        "1393",
+        "48129",
+        "42514",
+        "42515",
+        "42516",
+        "444",
+        "43614",
+        "43616",
+        "80999",
+        "42099",
+        "57127",
+        "57128",
+        "57129",
+        "57130",
+        "57131",
+        "449",
+        "51854",
+        "51821",
+        "51842",
+        "51852",
+        "56867",
+        "56868",
+        "56869"
       ],
       "closedStopDetails": [
         {
-          "id": "47447"
+          "id": "1349"
         },
         {
-          "id": "56873"
+          "id": "1350"
         },
         {
-          "id": "56921"
+          "id": "1351"
         },
         {
-          "id": "56922"
+          "id": "1352"
         },
         {
-          "id": "56923"
+          "id": "1361"
         },
         {
-          "id": "56924"
+          "id": "1364"
         },
         {
-          "id": "56925"
+          "id": "1365"
         },
         {
-          "id": "56926"
+          "id": "1366"
         },
         {
-          "id": "56927"
+          "id": "1367"
         },
         {
-          "id": "56928"
+          "id": "1368"
         },
         {
-          "id": "56929"
+          "id": "1369"
         },
         {
-          "id": "56930"
+          "id": "1370"
         },
         {
-          "id": "81078"
+          "id": "1372"
         },
         {
-          "id": "639"
+          "id": "1373"
         },
         {
-          "id": "643"
+          "id": "1374"
         },
         {
-          "id": "737"
+          "id": "1375"
         },
         {
-          "id": "779"
+          "id": "1376"
         },
         {
-          "id": "784"
+          "id": "1377"
         },
         {
-          "id": "80138"
+          "id": "1379"
         },
         {
-          "id": "620"
+          "id": "1391"
         },
         {
-          "id": "52300"
+          "id": "1393"
         },
         {
-          "id": "17897"
+          "id": "48129"
         },
         {
-          "id": "17900"
+          "id": "42514"
         },
         {
-          "id": "17902"
+          "id": "42515"
         },
         {
-          "id": "17903"
+          "id": "42516"
         },
         {
-          "id": "4513"
+          "id": "444"
+        },
+        {
+          "id": "43614"
+        },
+        {
+          "id": "43616"
+        },
+        {
+          "id": "80999"
+        },
+        {
+          "id": "42099"
+        },
+        {
+          "id": "57127"
+        },
+        {
+          "id": "57128"
+        },
+        {
+          "id": "57129"
+        },
+        {
+          "id": "57130"
+        },
+        {
+          "id": "57131"
+        },
+        {
+          "id": "449"
+        },
+        {
+          "id": "51854"
+        },
+        {
+          "id": "51821"
+        },
+        {
+          "id": "51842"
+        },
+        {
+          "id": "51852"
+        },
+        {
+          "id": "56867"
+        },
+        {
+          "id": "56868"
+        },
+        {
+          "id": "56869"
         }
       ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-21T20:19:00.000Z",
-        "end": "2026-09-21T22:39:00.000Z"
+        "start": "2026-09-21T23:24:00.000Z",
+        "end": "2026-09-22T00:38:00.000Z"
       },
       "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-09-21T20:06:06.000Z",
-      "rawHeader": "Northbound D Line trip departing MOA Transit Station at 3:19 PM will start from 7th & Bryant. Previous stops missed due to mechanical issue",
+      "url": "https://www.metrotransit.org/route/18",
+      "updatedAt": "2026-09-21T23:25:31.000Z",
+      "rawHeader": "Southbound Route 18E trip departing 4th Ave S & 3rd St S at 5:15 PM canceled from Nicollet & 66th at 6:08 PM today due to mechanical issue",
       "rawDescription": ""
     },
     {
-      "id": "53110",
+      "id": "53129",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 71: Service Canceled",
-      "summary": "Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today due to mechanical issue",
+      "title": "Route 18: Service Advisory",
+      "summary": "Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 7:00 PM will operate from 38th & Nicollet at 7:40 PM today due to mechanical issue",
       "affectedRoutes": [
-        "Route 71"
+        "Route 18"
       ],
-      "direction": "Both Directions",
+      "direction": "Northbound",
       "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
+      "closedStopIds": [
+        "56922",
+        "51852",
+        "51858",
+        "51631",
+        "51821",
+        "57131",
+        "620",
+        "81051",
+        "57377",
+        "43664",
+        "43666",
+        "50026",
+        "41541",
+        "1770",
+        "1435",
+        "1436",
+        "1869",
+        "1872",
+        "1874",
+        "1875",
+        "1876",
+        "1878",
+        "1880",
+        "3393",
+        "3395",
+        "1854",
+        "1863",
+        "1397",
+        "1399",
+        "1400",
+        "1401",
+        "1402",
+        "1403",
+        "1404",
+        "1405",
+        "1406",
+        "1407",
+        "1417",
+        "1418",
+        "1419",
+        "1420",
+        "1421",
+        "1422",
+        "1423",
+        "1424",
+        "1425",
+        "1426",
+        "1427",
+        "1428",
+        "1429",
+        "1430",
+        "1431",
+        "1432",
+        "1433",
+        "1754",
+        "1756",
+        "1758",
+        "1759",
+        "1760",
+        "1762",
+        "1763",
+        "1765",
+        "1349"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "56922"
+        },
+        {
+          "id": "51852"
+        },
+        {
+          "id": "51858"
+        },
+        {
+          "id": "51631"
+        },
+        {
+          "id": "51821"
+        },
+        {
+          "id": "57131"
+        },
+        {
+          "id": "620"
+        },
+        {
+          "id": "81051"
+        },
+        {
+          "id": "57377"
+        },
+        {
+          "id": "43664"
+        },
+        {
+          "id": "43666"
+        },
+        {
+          "id": "50026"
+        },
+        {
+          "id": "41541"
+        },
+        {
+          "id": "1770"
+        },
+        {
+          "id": "1435"
+        },
+        {
+          "id": "1436"
+        },
+        {
+          "id": "1869"
+        },
+        {
+          "id": "1872"
+        },
+        {
+          "id": "1874"
+        },
+        {
+          "id": "1875"
+        },
+        {
+          "id": "1876"
+        },
+        {
+          "id": "1878"
+        },
+        {
+          "id": "1880"
+        },
+        {
+          "id": "3393"
+        },
+        {
+          "id": "3395"
+        },
+        {
+          "id": "1854"
+        },
+        {
+          "id": "1863"
+        },
+        {
+          "id": "1397"
+        },
+        {
+          "id": "1399"
+        },
+        {
+          "id": "1400"
+        },
+        {
+          "id": "1401"
+        },
+        {
+          "id": "1402"
+        },
+        {
+          "id": "1403"
+        },
+        {
+          "id": "1404"
+        },
+        {
+          "id": "1405"
+        },
+        {
+          "id": "1406"
+        },
+        {
+          "id": "1407"
+        },
+        {
+          "id": "1417"
+        },
+        {
+          "id": "1418"
+        },
+        {
+          "id": "1419"
+        },
+        {
+          "id": "1420"
+        },
+        {
+          "id": "1421"
+        },
+        {
+          "id": "1422"
+        },
+        {
+          "id": "1423"
+        },
+        {
+          "id": "1424"
+        },
+        {
+          "id": "1425"
+        },
+        {
+          "id": "1426"
+        },
+        {
+          "id": "1427"
+        },
+        {
+          "id": "1428"
+        },
+        {
+          "id": "1429"
+        },
+        {
+          "id": "1430"
+        },
+        {
+          "id": "1431"
+        },
+        {
+          "id": "1432"
+        },
+        {
+          "id": "1433"
+        },
+        {
+          "id": "1754"
+        },
+        {
+          "id": "1756"
+        },
+        {
+          "id": "1758"
+        },
+        {
+          "id": "1759"
+        },
+        {
+          "id": "1760"
+        },
+        {
+          "id": "1762"
+        },
+        {
+          "id": "1763"
+        },
+        {
+          "id": "1765"
+        },
+        {
+          "id": "1349"
+        }
+      ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-21T17:38:00.000Z",
-        "end": "2026-09-21T23:45:00.000Z"
+        "start": "2026-09-22T00:00:00.000Z",
+        "end": "2026-09-22T02:12:00.000Z"
       },
       "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/71",
-      "updatedAt": "2026-09-21T17:08:00.000Z",
-      "rawHeader": "Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today due to mechanical issue",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 12:38 PM\r\ndeparting Inver Hills College & Shelter at 3:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 2:12 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 5:13 PM"
+      "url": "https://www.metrotransit.org/route/18",
+      "updatedAt": "2026-09-21T23:30:00.000Z",
+      "rawHeader": "Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 7:00 PM will operate from 38th & Nicollet at 7:40 PM today due to mechanical issue",
+      "rawDescription": ""
     },
     {
       "id": "53112",
@@ -224,144 +547,6 @@
       "updatedAt": "2026-09-21T17:50:01.000Z",
       "rawHeader": "Route 72 trip departing Sun Ray Transit Center & Gate D at 1:20 PM and eight other trips canceled today",
       "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 2:20 PM\r\ndeparting Pascal St N & Central Ave W at 4:20 PM\r\ndeparting Pascal St N & Central Ave W at 6:21 PM\r\ndeparting Pascal St N & Central Ave W at 8:23 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 1:20 PM\r\ndeparting Sun Ray Transit Center & Gate D at 3:19 PM\r\ndeparting Sun Ray Transit Center & Gate D at 5:18 PM\r\ndeparting Sun Ray Transit Center & Gate D at 7:21 PM\r\ndeparting Sun Ray Transit Center & Gate D at 9:21 PM"
-    },
-    {
-      "id": "53118",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 540: Service Canceled",
-      "summary": "Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 2:32 PM and two other trips canceled today",
-      "affectedRoutes": [
-        "Route 540"
-      ],
-      "direction": "Eastbound",
-      "intersections": [
-        "departing Normandale Lake Blvd & 83rd St",
-        "32 PM\ndeparting Normandale Lake Blvd & 83rd St",
-        "00 PM\ndeparting Normandale Lake Blvd & 83rd St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-21T19:32:00.000Z",
-        "end": "2026-09-22T00:11:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/540",
-      "updatedAt": "2026-09-21T19:02:01.000Z",
-      "rawHeader": "Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 2:32 PM and two other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 2:32 PM\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 4:00 PM\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 5:32 PM"
-    },
-    {
-      "id": "53119",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 542: Service Canceled",
-      "summary": "Westbound Route 542 trips departing MOA Transit Station Gate G at 3:34 PM and departing MOA Transit Station Gate G at 5:05 PM canceled today",
-      "affectedRoutes": [
-        "Route 542"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-21T20:34:00.000Z",
-        "end": "2026-09-21T23:31:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/542",
-      "updatedAt": "2026-09-21T20:04:01.000Z",
-      "rawHeader": "Westbound Route 542 trips departing MOA Transit Station Gate G at 3:34 PM and departing MOA Transit Station Gate G at 5:05 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "53125",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 724: Northbound 4:00 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate C)",
-      "summary": "Northbound Route 724 trip departing Brooklyn Ctr Transit Ctr Gate C at 4:00 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 724"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-21T21:00:00.000Z",
-        "end": "2026-09-21T22:23:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/724",
-      "updatedAt": "2026-09-21T20:30:01.000Z",
-      "rawHeader": "Northbound Route 724 trip departing Brooklyn Ctr Transit Ctr Gate C at 4:00 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "53111",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 802: Service Canceled",
-      "summary": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 802"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-21T16:34:00.000Z",
-        "end": "2026-09-22T00:14:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-09-21T16:17:06.000Z",
-      "rawHeader": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to mechanical issue",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 11:34 AM\r\ndeparting Northtown Transit Ctr Gate E at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 12:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 2:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 4:42 PM"
-    },
-    {
-      "id": "53109",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 805: Service Canceled",
-      "summary": "Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 805"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing 1st Ave S & Monroe St",
-        "38 PM\ndeparting 1st Ave S & Monroe St",
-        "36 PM\ndeparting 1st Ave S & Monroe St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-21T16:34:00.000Z",
-        "end": "2026-09-22T00:19:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-09-21T16:12:45.000Z",
-      "rawHeader": "Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today due to mechanical issue",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 11:34 AM\r\ndeparting Northtown Transit Ctr Gate D at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 12:38 PM\r\ndeparting 1st Ave S & Monroe St at 2:36 PM\r\ndeparting 1st Ave S & Monroe St at 4:36 PM"
     },
     {
       "id": "49962",
@@ -5545,50 +5730,6 @@
       "updatedAt": "2026-09-15T17:05:01.000Z",
       "rawHeader": "Route 68 detoured off South St from 3rd Ave to 5th Ave until further notice",
       "rawDescription": "Get on/off buses at:\r\nTemporary stop on Ash St & 5th Ave S (westbound)\r\n\nNorthbound buses will depart temporary layover on Ash St, right on 5th Ave S and resume regular route.\r\n\nSouthbound buses will travel regular route on 3rd Ave S to Ash St, right on Ash St and layover on Ash St & 5th Ave S.\r\n\n\r\nAffected stops:\r\nSouth St & 5th Ave S - Stop #9791 (westbound)\r\n3rd Ave S & South St W - Stop #47783 (southbound)"
-    },
-    {
-      "id": "52829",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 68, Route 71: Stop Closed at Robert St S & Plato Blvd E",
-      "summary": "Robert St S & Plato Blvd E - Stop #2609 (northbound) is closed for Routes 68 and 71 beginning Mon Sep 21 at 1:00 AM until further notice due to construction. Board at: Robert St S & Colorado St - Stop #2608 (northbound); Robert St S & Fillmore Ave - Stop #2610 (northbound).",
-      "affectedRoutes": [
-        "Route 68",
-        "Route 71"
-      ],
-      "direction": "Northbound",
-      "intersections": [
-        "Robert St S & Plato Blvd E",
-        "Robert St S & Colorado St",
-        "Robert St S & Fillmore Ave"
-      ],
-      "closedStopIds": [
-        "2609",
-        "2608",
-        "2610"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "2609"
-        },
-        {
-          "id": "2608"
-        },
-        {
-          "id": "2610"
-        }
-      ],
-      "riderAlternative": "Board at: Robert St S & Colorado St - Stop #2608 (northbound); Robert St S & Fillmore Ave - Stop #2610 (northbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-21T06:00:00.000Z",
-        "textDescription": "Beginning Mon Sep 21 at 1:00 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "NO_SERVICE",
-      "updatedAt": "2026-09-21T05:30:02.000Z",
-      "rawHeader": "Robert St S & Plato Blvd E - Stop #2609 (northbound) is closed for Routes 68 and 71 beginning Mon Sep 21 at 1:00 AM until further notice due to construction",
-      "rawDescription": "Get on/off buses at:\r\nRobert St S & Colorado St - Stop #2608 (northbound)\r\nRobert St S & Fillmore Ave - Stop #2610 (northbound)"
     },
     {
       "id": "52904",

@@ -4,35 +4,35 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Mon, 21 Sep 2026 21:40:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 00:34:02 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO C Line: Southbound 4:24 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate I)</title>
-      <link>https://www.metrotransit.org/route/cline</link>
-      <guid isPermaLink="false">Metro Transit-53126-2026-09-21T21:33:06.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 21:33:06 GMT</pubDate>
+      <title>[Critical] METRO A Line: Southbound 7:07 PM Trip Canceled (Rosedale Transit Center Gate A)</title>
+      <link>https://www.metrotransit.org/route/aline</link>
+      <guid isPermaLink="false">Metro Transit-53130-2026-09-22T00:29:50.000Z</guid>
+      <pubDate>Tue, 22 Sep 2026 00:29:50 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO C Line</category>
-      <description>Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 4:24 PM canceled today due to maintenance work</description>
+      <category>METRO A Line</category>
+      <description>Southbound A Line trip departing Rosedale Transit Center Gate A at 7:07 PM canceled today due to maintenance work</description>
     </item>
     <item>
-      <title>[Critical] METRO D Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-53124-2026-09-21T20:06:06.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 20:06:06 GMT</pubDate>
+      <title>[Critical] Route 18, Route 18E: Southbound 5:15 PM Trip Canceled (4th Ave S &amp; 3rd St S)</title>
+      <link>https://www.metrotransit.org/route/18</link>
+      <guid isPermaLink="false">Metro Transit-53128-2026-09-21T23:25:31.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 23:25:31 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Northbound D Line trip departing MOA Transit Station at 3:19 PM will start from 7th &amp; Bryant. Previous stops missed due to mechanical issue</description>
+      <category>Route 18, Route 18E</category>
+      <description>Southbound Route 18E trip departing 4th Ave S &amp; 3rd St S at 5:15 PM canceled from Nicollet &amp; 66th at 6:08 PM today due to mechanical issue</description>
     </item>
     <item>
-      <title>[Critical] Route 71: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/71</link>
-      <guid isPermaLink="false">Metro Transit-53110-2026-09-21T17:08:00.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 17:08:00 GMT</pubDate>
+      <title>[Critical] Route 18: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/18</link>
+      <guid isPermaLink="false">Metro Transit-53129-2026-09-21T23:30:00.000Z</guid>
+      <pubDate>Mon, 21 Sep 2026 23:30:00 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 71</category>
-      <description>Route 71 trip departing Inver Hills College &amp; Shelter at 12:38 PM and three other trips canceled today due to mechanical issue</description>
+      <category>Route 18</category>
+      <description>Northbound Route 18 trip departing 104th St W &amp; Bloomington Fwy W at 7:00 PM will operate from 38th &amp; Nicollet at 7:40 PM today due to mechanical issue</description>
     </item>
     <item>
       <title>[Critical] Route 72: Service Canceled</title>
@@ -42,51 +42,6 @@
       <category>Critical</category>
       <category>Route 72</category>
       <description>Route 72 trip departing Sun Ray Transit Center &amp; Gate D at 1:20 PM and eight other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 540: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/540</link>
-      <guid isPermaLink="false">Metro Transit-53118-2026-09-21T19:02:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 19:02:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 540</category>
-      <description>Route 540 trip departing Normandale Lake Blvd &amp; 83rd St / 84th St at 2:32 PM and two other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 542: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/542</link>
-      <guid isPermaLink="false">Metro Transit-53119-2026-09-21T20:04:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 20:04:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 542</category>
-      <description>Westbound Route 542 trips departing MOA Transit Station Gate G at 3:34 PM and departing MOA Transit Station Gate G at 5:05 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 724: Northbound 4:00 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate C)</title>
-      <link>https://www.metrotransit.org/route/724</link>
-      <guid isPermaLink="false">Metro Transit-53125-2026-09-21T20:30:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 20:30:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 724</category>
-      <description>Northbound Route 724 trip departing Brooklyn Ctr Transit Ctr Gate C at 4:00 PM canceled today due to traffic</description>
-    </item>
-    <item>
-      <title>[Critical] Route 802: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/802</link>
-      <guid isPermaLink="false">Metro Transit-53111-2026-09-21T16:17:06.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 16:17:06 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 802</category>
-      <description>Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 805: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/805</link>
-      <guid isPermaLink="false">Metro Transit-53109-2026-09-21T16:12:45.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 16:12:45 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 805</category>
-      <description>Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today due to mechanical issue</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
@@ -694,15 +649,6 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 68</category>
       <description>Route 68 detoured off South St from 3rd Ave to 5th Ave until further notice. Board at: Temporary stop on Ash St &amp; 5th Ave S (westbound). | Action: Board at: Temporary stop on Ash St &amp; 5th Ave S (westbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 68, Route 71: Stop Closed at Robert St S &amp; Plato Blvd E</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-52829-2026-09-21T05:30:02.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 05:30:02 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 68, Route 71</category>
-      <description>Robert St S &amp; Plato Blvd E - Stop #2609 (northbound) is closed for Routes 68 and 71 beginning Mon Sep 21 at 1:00 AM until further notice due to construction. Board at: Robert St S &amp; Colorado St - Stop #2608 (northbound); Robert St S &amp; Fillmore Ave - Stop #2610 (northbound). | Action: Board at: Robert St S &amp; Colorado St - Stop #2608 (northbound); Robert St S &amp; Fillmore Ave - Stop #2610 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 68: Stop Closed at Larpenteur Ave W &amp; Rice St</title>
