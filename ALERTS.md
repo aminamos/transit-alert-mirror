@@ -2,111 +2,34 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-108-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-105-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-101-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-78-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-22T00:34:02.386Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-22T05:49:57.030Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (5) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (2) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (3) • **Route 14** (1) • **Route 17** (3) • **Route 18** (10) • **Route 18E** (1) • **Route 22** (3) • **Route 25** (3) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (3) • **Route 64** (5) • **Route 65** (2) • **Route 67** (1) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (3) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (2) • **Route 5** (3) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (3) • **Route 14** (1) • **Route 17** (3) • **Route 18** (8) • **Route 22** (3) • **Route 25** (3) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (3) • **Route 64** (5) • **Route 65** (2) • **Route 67** (1) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (4) • **Route 225** (1) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (3) • **Route 538** (3) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO A Line: Southbound 7:07 PM Trip Canceled (Rosedale Transit Center Gate A)
+### 🚨 METRO D Line: Southbound 12:34 AM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)
 
-- **Affected Routes**: `METRO A Line`
+- **Affected Routes**: `METRO D Line`
 - **Direction**: Southbound
 - **Severity**: `Critical`
 
-**Summary**: Southbound A Line trip departing Rosedale Transit Center Gate A at 7:07 PM canceled today due to maintenance work
+**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 12:34 AM canceled
 
-[Official Agency Advisory](https://www.metrotransit.org/route/aline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound A Line trip departing Rosedale Transit Center Gate A at 7:07 PM canceled today due to maintenance work
-
-</details>
-
----
-
-### 🚨 Route 18, Route 18E: Southbound 5:15 PM Trip Canceled (4th Ave S & 3rd St S)
-
-- **Affected Routes**: `Route 18` `Route 18E`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #1349, Stop #1350, Stop #1351, Stop #1352, Stop #1361, Stop #1364, Stop #1365, Stop #1366 *(+35 more)*
-
-**Summary**: Southbound Route 18E trip departing 4th Ave S & 3rd St S at 5:15 PM canceled from Nicollet & 66th at 6:08 PM today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/18)
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 18E trip departing 4th Ave S & 3rd St S at 5:15 PM canceled from Nicollet & 66th at 6:08 PM today due to mechanical issue
-
-</details>
-
----
-
-### 🚨 Route 18: Service Advisory
-
-- **Affected Routes**: `Route 18`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #56922, Stop #51852, Stop #51858, Stop #51631, Stop #51821, Stop #57131, Stop #620, Stop #81051 *(+55 more)*
-
-**Summary**: Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 7:00 PM will operate from 38th & Nicollet at 7:40 PM today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/18)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 7:00 PM will operate from 38th & Nicollet at 7:40 PM today due to mechanical issue
-
-</details>
-
----
-
-### 🚨 Route 72: Service Canceled
-
-- **Affected Routes**: `Route 72`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Pascal St N & Central Ave W; 20 PM
-departing Pascal St N & Central Ave W; 21 PM
-departing Pascal St N & Central Ave W
-
-**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 1:20 PM and eight other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/72)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 1:20 PM and eight other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Pascal St N & Central Ave W at 2:20 PM
-departing Pascal St N & Central Ave W at 4:20 PM
-departing Pascal St N & Central Ave W at 6:21 PM
-departing Pascal St N & Central Ave W at 8:23 PM
-
-Affected westbound trips:
-departing Sun Ray Transit Center & Gate D at 1:20 PM
-departing Sun Ray Transit Center & Gate D at 3:19 PM
-departing Sun Ray Transit Center & Gate D at 5:18 PM
-departing Sun Ray Transit Center & Gate D at 7:21 PM
-departing Sun Ray Transit Center & Gate D at 9:21 PM
-```
+**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 12:34 AM canceled
 
 </details>
 

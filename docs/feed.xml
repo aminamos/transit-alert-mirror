@@ -4,44 +4,17 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Tue, 22 Sep 2026 00:34:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 05:49:57 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO A Line: Southbound 7:07 PM Trip Canceled (Rosedale Transit Center Gate A)</title>
-      <link>https://www.metrotransit.org/route/aline</link>
-      <guid isPermaLink="false">Metro Transit-53130-2026-09-22T00:29:50.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 00:29:50 GMT</pubDate>
+      <title>[Critical] METRO D Line: Southbound 12:34 AM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-53139-2026-09-22T05:09:02.000Z</guid>
+      <pubDate>Tue, 22 Sep 2026 05:09:02 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO A Line</category>
-      <description>Southbound A Line trip departing Rosedale Transit Center Gate A at 7:07 PM canceled today due to maintenance work</description>
-    </item>
-    <item>
-      <title>[Critical] Route 18, Route 18E: Southbound 5:15 PM Trip Canceled (4th Ave S &amp; 3rd St S)</title>
-      <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-53128-2026-09-21T23:25:31.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 23:25:31 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 18, Route 18E</category>
-      <description>Southbound Route 18E trip departing 4th Ave S &amp; 3rd St S at 5:15 PM canceled from Nicollet &amp; 66th at 6:08 PM today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 18: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-53129-2026-09-21T23:30:00.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 23:30:00 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 18</category>
-      <description>Northbound Route 18 trip departing 104th St W &amp; Bloomington Fwy W at 7:00 PM will operate from 38th &amp; Nicollet at 7:40 PM today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 72: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/72</link>
-      <guid isPermaLink="false">Metro Transit-53112-2026-09-21T17:50:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 17:50:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 72</category>
-      <description>Route 72 trip departing Sun Ray Transit Center &amp; Gate D at 1:20 PM and eight other trips canceled today</description>
+      <category>METRO D Line</category>
+      <description>Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 12:34 AM canceled</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
@@ -129,8 +102,8 @@ Affected st</title>
     <item>
       <title>[Moderate] METRO Green Line, Route 94: Service Advisory</title>
       <link>https://www.metrotransit.org/closure</link>
-      <guid isPermaLink="false">Metro Transit-53009-2026-09-21T14:00:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 14:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53009-2026-09-22T05:00:01.000Z</guid>
+      <pubDate>Tue, 22 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO Green Line, Route 94</category>
       <description>Buses will replace METRO Green Line trains between Union Depot and Raymond Ave. stations starting with first trains on Friday, Sept. 25 until Monday, Sept. 28 at first trains.</description>
@@ -246,8 +219,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 10: Detour via 3rd Ave S &amp; 11th St S</title>
       <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-52595-2026-09-17T05:00:02.000Z</guid>
-      <pubDate>Thu, 17 Sep 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52595-2026-09-22T05:00:00.000Z</guid>
+      <pubDate>Tue, 22 Sep 2026 05:00:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 10</category>
       <description>Route 10 detoured off Nicollet Mall from Washington Ave to 12th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: 3rd Ave S &amp; 11th St S - Stop #19277 (southbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S &amp; 7th St - Stop Group F - Stop #53313 (northbound). | Action: Board at: 3rd Ave S &amp; 11th St S - Stop #19277 (southbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S &amp; 7th St - Stop Group F - Stop #53313 (northbound)</description>
@@ -264,8 +237,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor</title>
       <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-53104-2026-09-21T13:40:43.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 13:40:43 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53104-2026-09-22T05:00:01.000Z</guid>
+      <pubDate>Tue, 22 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 10, Route 11, Route 17, Route 18, Route 25</category>
       <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 8th St to 12th St from Sat Sep 26 at 6:00 AM to Sun Sep 27 at 3:00 AM due to Dakota Jazz Fest. Board at: Nicollet Mall &amp; 11th St S - Stop #17990 (northbound); Nicollet Mall &amp; 7th St S - Stop #17994 (northbound). | Action: Board at: Nicollet Mall &amp; 11th St S - Stop #17990 (northbound); Nicollet Mall &amp; 7th St S - Stop #17994 (northbound)</description>
@@ -282,8 +255,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 11: Detour via 3rd Ave S &amp; 18th St</title>
       <link>https://www.metrotransit.org/route/11</link>
-      <guid isPermaLink="false">Metro Transit-52603-2026-09-21T18:42:32.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 18:42:32 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52603-2026-09-22T05:00:00.000Z</guid>
+      <pubDate>Tue, 22 Sep 2026 05:00:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 11</category>
       <description>Route 11 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: 3rd Ave S &amp; 18th St / 17th St E - Stop #17768 (northbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S &amp; 7th St - Stop Group F - Stop #53313 (northbound). | Action: Board at: 3rd Ave S &amp; 18th St / 17th St E - Stop #17768 (northbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S &amp; 7th St - Stop Group F - Stop #53313 (northbound)</description>
@@ -311,8 +284,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 17: Detour via Nicollet Ave S &amp; 16th St E</title>
       <link>https://www.metrotransit.org/route/17</link>
-      <guid isPermaLink="false">Metro Transit-52598-2026-09-17T05:00:02.000Z</guid>
-      <pubDate>Thu, 17 Sep 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52598-2026-09-22T05:00:00.000Z</guid>
+      <pubDate>Tue, 22 Sep 2026 05:00:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 17</category>
       <description>Route 17 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: Nicollet Ave S &amp; 16th St E - Stop #1914 (northbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S &amp; 7th St - Stop Group F - Stop #53313 (northbound). | Action: Board at: Nicollet Ave S &amp; 16th St E - Stop #1914 (northbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S &amp; 7th St - Stop Group F - Stop #53313 (northbound)</description>
@@ -374,8 +347,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 18: Detour via Nicollet Ave S &amp; 16th St E</title>
       <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-52604-2026-09-17T05:00:02.000Z</guid>
-      <pubDate>Thu, 17 Sep 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52604-2026-09-22T05:00:01.000Z</guid>
+      <pubDate>Tue, 22 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 18</category>
       <description>Route 18 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: Nicollet Ave S &amp; 16th St E - Stop #1914 (northbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S &amp; 7th St - Stop Group F - Stop #53313 (northbound). | Action: Board at: Nicollet Ave S &amp; 16th St E - Stop #1914 (northbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S &amp; 7th St - Stop Group F - Stop #53313 (northbound)</description>
@@ -410,8 +383,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 25: Detour via 15th St E &amp; 1st Ave S</title>
       <link>https://www.metrotransit.org/route/25</link>
-      <guid isPermaLink="false">Metro Transit-52609-2026-09-17T05:00:02.000Z</guid>
-      <pubDate>Thu, 17 Sep 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52609-2026-09-22T05:00:01.000Z</guid>
+      <pubDate>Tue, 22 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 25</category>
       <description>Route 25 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: 15th St W &amp; #329 - Stop #14905 (Eastbound, departing Cedar Trails Condos only); 15th St E &amp; 1st Ave S - Stop #53461 (Eastbound, departing Cedar Trails Condos only); 3rd Ave S &amp; 11th St S - Stop #19277 (Southbound, 25 departing Leamington Ramp only). | Action: Board at: 15th St W &amp; #329 - Stop #14905 (Eastbound, departing Cedar Trails Condos only); 15th St E &amp; 1st Ave S - Stop #53461 (Eastbound, departing Cedar Trails Condos only); 3rd Ave S &amp; 11th St S - Stop #19277 (Southbound, 25 departing Leamington Ramp only)</description>
@@ -536,8 +509,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 62: Detour via Route 62 detoured off Wabasha St &amp; Humboldt Ave</title>
       <link>https://www.metrotransit.org/route/62</link>
-      <guid isPermaLink="false">Metro Transit-53001-2026-09-21T08:01:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 08:01:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53001-2026-09-22T05:30:01.000Z</guid>
+      <pubDate>Tue, 22 Sep 2026 05:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 62</category>
       <description>Route 62 detoured off Wabasha St/Humboldt Ave from Winifred St to Isabel St beginning Tue Sep 22 at 1:00 AM until further notice. Board at: Winifred St W &amp; Stryker Ave S - Stop #6334 (eastbound); Wabasha St &amp; Cesar Chavez St - Stop #289 (northbound). | Action: Board at: Winifred St W &amp; Stryker Ave S - Stop #6334 (eastbound); Wabasha St &amp; Cesar Chavez St - Stop #289 (northbound)</description>
@@ -698,8 +671,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 75: Detour via Route 75 detoured off Wabasha St &amp; Humboldt Ave</title>
       <link>https://www.metrotransit.org/route/75</link>
-      <guid isPermaLink="false">Metro Transit-53002-2026-09-21T08:01:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 08:01:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53002-2026-09-22T05:30:01.000Z</guid>
+      <pubDate>Tue, 22 Sep 2026 05:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 75</category>
       <description>Route 75 detoured off Wabasha St/Humboldt Ave from Isabel St to Winifred St beginning Tue Sep 22 at 1:00 AM until further notice. Board at: Humboldt Ave &amp; Robie St - Stop #285 (northbound); Winifred St W &amp; Stryker Ave S - Stop #2624 (westbound); Wabasha St &amp; Cesar Chavez St - Stop #289 (northbound). | Action: Board at: Humboldt Ave &amp; Robie St - Stop #285 (northbound); Winifred St W &amp; Stryker Ave S - Stop #2624 (westbound); Wabasha St &amp; Cesar Chavez St - Stop #289 (northbound)</description>
