@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-23T13:19:37.315Z",
-    "totalAlerts": 136,
-    "criticalCount": 3,
-    "moderateCount": 128,
+    "generatedAt": "2026-09-23T18:13:40.271Z",
+    "totalAlerts": 145,
+    "criticalCount": 10,
+    "moderateCount": 130,
     "minorCount": 5,
     "affectedRoutesCount": 83,
     "agencies": [
@@ -12,13 +12,98 @@
   },
   "alerts": [
     {
-      "id": "53227",
+      "id": "53245",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 323: Service Canceled",
-      "summary": "Route 323 trip departing Woodlane Dr Station Gate B at 7:47 AM and fourteen other trips canceled today due to mechanical issue",
+      "title": "METRO Green Line: Westbound 11:47 AM Trip Canceled (Union Depot Station)",
+      "summary": "Westbound Green Line trip departing Union Depot Station at 11:47 AM canceled",
       "affectedRoutes": [
-        "Route 323"
+        "METRO Green Line"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-23T17:11:00.000Z",
+        "end": "2026-09-23T18:36:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/green",
+      "updatedAt": "2026-09-23T17:12:29.000Z",
+      "rawHeader": "Westbound Green Line trip departing Union Depot Station at 11:47 AM canceled",
+      "rawDescription": ""
+    },
+    {
+      "id": "53247",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 30: Service Canceled",
+      "summary": "Route 30 trip departing Westgate Station - Gate B at 3:34 PM and six other trips canceled today",
+      "affectedRoutes": [
+        "Route 30"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "departing Knox Ave N & Golden Valley Rd",
+        "24 PM\ndeparting Knox Ave N & Golden Valley Rd"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-23T20:34:00.000Z",
+        "end": "2026-09-24T04:17:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/30",
+      "updatedAt": "2026-09-23T17:54:41.000Z",
+      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 3:34 PM and six other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 4:24 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 6:26 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 8:25 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 3:34 PM\r\ndeparting Westgate Station - Gate B at 5:34 PM\r\ndeparting Westgate Station - Gate B at 7:36 PM\r\ndeparting Westgate Station - Gate B at 9:36 PM"
+    },
+    {
+      "id": "53249",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 72: Service Canceled",
+      "summary": "Route 72 trip departing Pascal St N & Central Ave W at 6:52 PM and three other trips canceled today",
+      "affectedRoutes": [
+        "Route 72"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 72 trip departing Pascal St N & Central Ave W",
+        "departing Pascal St N & Central Ave W",
+        "52 PM\ndeparting Pascal St N & Central Ave W"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-23T23:52:00.000Z",
+        "end": "2026-09-24T04:35:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/72",
+      "updatedAt": "2026-09-23T17:56:24.000Z",
+      "rawHeader": "Route 72 trip departing Pascal St N & Central Ave W at 6:52 PM and three other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 6:52 PM\r\ndeparting Pascal St N & Central Ave W at 8:53 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 7:51 PM\r\ndeparting Sun Ray Transit Center & Gate D at 9:51 PM"
+    },
+    {
+      "id": "53241",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 83: Service Canceled",
+      "summary": "Route 83 trip departing Montreal Cir & Summit Brewing at 12:30 PM and six other trips canceled today",
+      "affectedRoutes": [
+        "Route 83"
       ],
       "direction": "Both Directions",
       "intersections": [],
@@ -27,67 +112,184 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-23T12:47:00.000Z",
-        "end": "2026-09-23T21:08:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/323",
-      "updatedAt": "2026-09-23T12:45:02.000Z",
-      "rawHeader": "Route 323 trip departing Woodlane Dr Station Gate B at 7:47 AM and fourteen other trips canceled today due to mechanical issue",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Sun Ray Transit Center & Gate C at 8:16 AM\r\ndeparting Sun Ray Transit Center & Gate C at 9:16 AM\r\ndeparting Sun Ray Transit Center & Gate C at 10:17 AM\r\ndeparting Sun Ray Transit Center & Gate C at 11:17 AM\r\ndeparting Sun Ray Transit Center & Gate C at 12:17 PM\r\ndeparting Sun Ray Transit Center & Gate C at 1:17 PM\r\ndeparting Sun Ray Transit Center & Gate C at 2:17 PM\r\n\nAffected westbound trips:\r\ndeparting Woodlane Dr Station Gate B at 7:47 AM\r\ndeparting Woodlane Dr Station Gate B at 8:50 AM\r\ndeparting Woodlane Dr Station Gate B at 9:50 AM\r\ndeparting Woodlane Dr Station Gate B at 10:50 AM\r\ndeparting Woodlane Dr Station Gate B at 11:50 AM\r\ndeparting Woodlane Dr Station Gate B at 12:50 PM\r\ndeparting Woodlane Dr Station Gate B at 1:48 PM\r\ndeparting Woodlane Dr Station Gate B at 2:48 PM"
-    },
-    {
-      "id": "53223",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 467: Northbound 7:16 AM Trip Canceled (Interstate 35 Ramp & Kenrick Ave Park & Ride)",
-      "summary": "Northbound Route 467 trip departing Interstate 35 Ramp & Kenrick Ave Park & Ride at 7:16 AM canceled today",
-      "affectedRoutes": [
-        "Route 467"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-23T12:16:00.000Z",
-        "end": "2026-09-23T13:48:00.000Z"
+        "start": "2026-09-23T17:30:00.000Z",
+        "end": "2026-09-24T00:38:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/467",
-      "updatedAt": "2026-09-23T12:16:38.000Z",
-      "rawHeader": "Northbound Route 467 trip departing Interstate 35 Ramp & Kenrick Ave P&R at 7:16 AM canceled today",
-      "rawDescription": ""
+      "url": "https://www.metrotransit.org/route/83",
+      "updatedAt": "2026-09-23T17:00:01.000Z",
+      "rawHeader": "Route 83 trip departing Montreal Cir & Summit Brewing at 12:30 PM and six other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Montreal Cir & Summit Brewing at 12:30 PM\r\ndeparting Montreal Cir & Summit Brewing at 2:02 PM\r\ndeparting Montreal Cir & Summit Brewing at 4:00 PM\r\ndeparting Montreal Cir & Summit Brewing at 6:02 PM\r\n\nAffected southbound trips:\r\ndeparting Rosedale Transit Center Gate B at 1:15 PM\r\ndeparting Rosedale Transit Center Gate B at 3:12 PM\r\ndeparting Rosedale Transit Center Gate B at 5:15 PM"
     },
     {
-      "id": "53230",
+      "id": "53248",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 467: Northbound 7:46 AM Trip Canceled (Interstate 35 Ramp & Kenrick Ave Park & Ride)",
-      "summary": "Northbound Route 467 trip departing Interstate 35 Ramp & Kenrick Ave Park & Ride at 7:46 AM canceled today due to mechanical issue",
+      "title": "Route 219: Service Canceled",
+      "summary": "Route 219 trip departing Maplewood Mall Transit Center & Gate A at 7:12 PM and two other trips canceled today",
       "affectedRoutes": [
-        "Route 467"
+        "Route 219"
       ],
-      "direction": "Northbound",
+      "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-23T12:56:00.000Z",
-        "end": "2026-09-23T14:18:00.000Z"
+        "start": "2026-09-24T00:12:00.000Z",
+        "end": "2026-09-24T04:01:00.000Z"
       },
-      "cause": "TECHNICAL_PROBLEM",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/467",
-      "updatedAt": "2026-09-23T12:56:25.000Z",
-      "rawHeader": "Northbound Route 467 trip departing Interstate 35 Ramp & Kenrick Ave P&R at 7:46 AM canceled today due to mechanical issue",
+      "url": "https://www.metrotransit.org/route/219",
+      "updatedAt": "2026-09-23T17:55:39.000Z",
+      "rawHeader": "Route 219 trip departing Maplewood Mall Transit Center & Gate A at 7:12 PM and two other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate B at 8:13 PM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate A at 7:12 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 9:12 PM"
+    },
+    {
+      "id": "53251",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 540: Service Canceled",
+      "summary": "Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 2:32 PM and three other trips canceled today",
+      "affectedRoutes": [
+        "Route 540"
+      ],
+      "direction": "Eastbound",
+      "intersections": [
+        "departing Normandale Lake Blvd & 83rd St",
+        "32 PM\ndeparting Normandale Lake Blvd & 83rd St",
+        "00 PM\ndeparting Normandale Lake Blvd & 83rd St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-23T19:32:00.000Z",
+        "end": "2026-09-24T01:39:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/540",
+      "updatedAt": "2026-09-23T18:01:12.000Z",
+      "rawHeader": "Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 2:32 PM and three other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 2:32 PM\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 4:00 PM\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 5:32 PM\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 7:02 PM"
+    },
+    {
+      "id": "53250",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 542: Service Canceled",
+      "summary": "Route 542 trip departing MOA Transit Station Gate G at 2:07 PM and three other trips canceled today",
+      "affectedRoutes": [
+        "Route 542"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-23T19:07:00.000Z",
+        "end": "2026-09-24T01:01:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/542",
+      "updatedAt": "2026-09-23T18:00:16.000Z",
+      "rawHeader": "Route 542 trip departing MOA Transit Station Gate G at 2:07 PM and three other trips canceled today",
+      "rawDescription": "Affected westbound trips:\r\ndeparting MOA Transit Station Gate G at 2:07 PM\r\ndeparting MOA Transit Station Gate G at 3:34 PM\r\ndeparting MOA Transit Station Gate G at 5:05 PM\r\ndeparting MOA Transit Station Gate G at 6:37 PM"
+    },
+    {
+      "id": "53246",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 615: Service Canceled",
+      "summary": "Route 615 trip departing Excelsior Blvd & Quentin Ave at 12:51 PM and six other trips canceled today",
+      "affectedRoutes": [
+        "Route 615"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 615 trip departing Excelsior Blvd & Quentin Ave",
+        "departing Excelsior Blvd & Quentin Ave",
+        "51 PM\ndeparting Excelsior Blvd & Quentin Ave"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-23T17:51:00.000Z",
+        "end": "2026-09-24T01:42:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/615",
+      "updatedAt": "2026-09-23T17:21:01.000Z",
+      "rawHeader": "Route 615 trip departing Excelsior Blvd & Quentin Ave at 12:51 PM and six other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Ridgedale Mall & East Entrance at 1:51 PM\r\ndeparting Ridgedale Mall & East Entrance at 3:51 PM\r\ndeparting Ridgedale Mall & East Entrance at 5:51 PM\r\n\nAffected westbound trips:\r\ndeparting Excelsior Blvd & Quentin Ave at 12:51 PM\r\ndeparting Excelsior Blvd & Quentin Ave at 2:51 PM\r\ndeparting Excelsior Blvd & Quentin Ave at 4:51 PM\r\ndeparting Excelsior Blvd & Quentin Ave at 6:51 PM"
+    },
+    {
+      "id": "53243",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 802: Southbound 11:43 AM Trip Canceled (Anoka Tech College & Main Entrance)",
+      "summary": "Southbound Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM canceled today",
+      "affectedRoutes": [
+        "Route 802"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-23T16:43:00.000Z",
+        "end": "2026-09-23T18:24:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/802",
+      "updatedAt": "2026-09-23T16:19:33.000Z",
+      "rawHeader": "Southbound Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM canceled today",
       "rawDescription": ""
+    },
+    {
+      "id": "53242",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 805: Service Canceled",
+      "summary": "Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and thirteen other trips canceled today",
+      "affectedRoutes": [
+        "Route 805"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "departing 1st Ave S & Monroe St",
+        "38 AM\ndeparting 1st Ave S & Monroe St",
+        "38 PM\ndeparting 1st Ave S & Monroe St",
+        "36 PM\ndeparting 1st Ave S & Monroe St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-23T17:22:00.000Z",
+        "end": "2026-09-24T00:24:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/805",
+      "updatedAt": "2026-09-23T17:25:53.000Z",
+      "rawHeader": "Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and thirteen other trips canceled today",
+      "rawDescription": "Updated at 12:22 PM to cancel additional trips.\r\n\nAffected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 11:34 AM\r\ndeparting Northtown Transit Ctr Gate D at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 11:38 AM\r\ndeparting 1st Ave S & Monroe St at 12:38 PM\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 2:36 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 4:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
     },
     {
       "id": "49962",
@@ -2379,8 +2581,8 @@
         "56919",
         "51212",
         "56923",
-        "73",
         "72",
+        "73",
         "66",
         "68",
         "69",
@@ -2454,10 +2656,10 @@
           "id": "56923"
         },
         {
-          "id": "73"
+          "id": "72"
         },
         {
-          "id": "72"
+          "id": "73"
         },
         {
           "id": "66"
@@ -6544,6 +6746,66 @@
       "rawDescription": "For eastbound Route 38 get on/off buses at:\r\n46th Ave S & 46th St E - Stop #53134 (southbound)\r\n\nFor westbound Route 38 get on/off buses at:\r\n46th Ave S & 46th St E - Stop #16498 (northbound)\r\n\nEastbound 38C buses will travel regular route on 46th Ave to 46th St, right on 46th St, right on Minnehaha Ave, left on 42nd St, left on 34th Ave, left on 46th St, left into 46th St Station and layover at Gate E.\r\n\nWestbound 38 buses that normally depart Minnesota Veterans Home will depart temporary layover at 46th St Station and turn right on 46th St, right on 34th Ave, right on 42nd St, right on Minnehaha Ave, left on 46th St, left on 46th Ave and resume regular route.\r\n\nAffected stops:\r\n46th Ave S & Godfrey Pkwy - Stop #16492 (southbound)\r\nMinnesota Veterans Home & Bldg 19 - Stop #16493 (eastbound)\r\nMinnesota Veterans Home & Bldg 4 - Stop #16494 (eastbound)\r\nMinnesota Veterans Home & Bldg 19 - Stop #16496 (westbound)\r\n46th Ave S & Godfrey Pkwy - Stop #16497 (northbound)"
     },
     {
+      "id": "53232",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 38: Detour via 5th Ave S & Excelsior Blvd",
+      "summary": "Route 38 detoured off Mainstreet from 5th Ave to 6th Ave until later today due to construction. Board at: Mainstreet & 7th Ave S - Stop #4820 (eastbound); 5th Ave S & Mainstreet / Excelsior Blvd - Stop #4822 (southbound).",
+      "affectedRoutes": [
+        "Route 38"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "5th Ave S & Excelsior Blvd",
+        "6th Ave & 5th Ave S",
+        "Mainstreet (5th Ave to 6th Ave)"
+      ],
+      "closedStopIds": [
+        "50095",
+        "3571",
+        "4820",
+        "4822",
+        "3570",
+        "3572"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "50095",
+          "name": "Mainstreet & 6th Ave / 5th Ave S",
+          "direction": "eastbound"
+        },
+        {
+          "id": "3571",
+          "name": "Mainstreet & 6th Ave N",
+          "direction": "westbound"
+        },
+        {
+          "id": "4820"
+        },
+        {
+          "id": "4822"
+        },
+        {
+          "id": "3570"
+        },
+        {
+          "id": "3572"
+        }
+      ],
+      "riderAlternative": "Board at: Mainstreet & 7th Ave S - Stop #4820 (eastbound); 5th Ave S & Mainstreet / Excelsior Blvd - Stop #4822 (southbound)",
+      "detourDetails": "Eastbound buses will travel regular route on Mainstreet to 6th Ave N, left on 6th Ave N, right on 1st St N, right on 5th Ave N, continue on 5th Ave N to Mainstreet and resume regular route.",
+      "activePeriod": {
+        "start": "2026-09-23T13:50:00.000Z",
+        "end": "2026-09-23T20:12:23.000Z"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/38",
+      "updatedAt": "2026-09-23T13:50:04.000Z",
+      "rawHeader": "Route 38 detoured off Mainstreet from 5th Ave to 6th Ave until later today due to construction",
+      "rawDescription": "For eastbound Route 38 get on/off buses at:\r\nMainstreet & 7th Ave S - Stop #4820 (eastbound)\r\n5th Ave S & Mainstreet / Excelsior Blvd - Stop #4822 (southbound)\r\n\nFor westbound Route 38 get on/off buses at:\r\n5th Ave S & Excelsior Blvd / Mainstreet - Stop #3570 (northbound)\r\nMainstreet & 9th Ave N - Stop #3572 (westbound)\r\n\nEastbound buses will travel regular route on Mainstreet to 6th Ave N, left on 6th Ave N, right on 1st St N, right on 5th Ave N, continue on 5th Ave N to Mainstreet and resume regular route.\r\n\nWestbound buses will travel regular route on 5th Ave S to Mainstreet, continue on 5th Ave N to 1st St N, left on 1st St N, left on 6th Ave N, right on Mainstreet and resume regular route.\r\n\nAffected stops:\r\nMainstreet & 6th Ave / 5th Ave S - Stop #50095 (eastbound)\r\nMainstreet & 6th Ave N - Stop #3571 (westbound)"
+    },
+    {
       "id": "53185",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -9298,6 +9560,55 @@
       "rawDescription": "Get on/off buses at:\r\nTemporary stop on Co Rd C just before Victoria St (westbound)\r\nCo Rd C & Avon St - Stop #45335 (westbound)"
     },
     {
+      "id": "53234",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 225: Detour via Snelling Dr N & Lydia Ave",
+      "summary": "Route 225 detoured off Snelling Ave from Co Rd E to Lydia Ave from Fri Sep 25 at 9:00 AM to Mon Sep 28 at 5:00 AM due to construction. Board at: Co Rd E & #1200 - Stop #49194 (westbound); Snelling Dr N & Lydia Ave - Stop #52235 (southbound).",
+      "affectedRoutes": [
+        "Route 225"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Snelling Dr N & Lydia Ave",
+        "Co Rd E & Pine Tree Dr"
+      ],
+      "closedStopIds": [
+        "49195",
+        "1200",
+        "49194",
+        "52235"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "49195",
+          "name": "Co Rd E & Pine Tree Dr",
+          "direction": "westbound"
+        },
+        {
+          "id": "1200"
+        },
+        {
+          "id": "49194"
+        },
+        {
+          "id": "52235"
+        }
+      ],
+      "riderAlternative": "Board at: Co Rd E & #1200 - Stop #49194 (westbound); Snelling Dr N & Lydia Ave - Stop #52235 (southbound)",
+      "detourDetails": "Northbound buses will travel regular route. No northbound bus stops missed.",
+      "activePeriod": {
+        "start": "2026-09-25T14:00:00.000Z",
+        "end": "2026-09-28T10:00:00.000Z"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/225",
+      "updatedAt": "2026-09-23T14:35:48.000Z",
+      "rawHeader": "Route 225 detoured off Snelling Ave from Co Rd E to Lydia Ave from Fri Sep 25 at 9:00 AM to Mon Sep 28 at 5:00 AM due to construction",
+      "rawDescription": "Get on/off southbound buses at:\r\nCo Rd E & #1200 - Stop #49194 (westbound)\r\nSnelling Dr N & Lydia Ave - Stop #52235 (southbound)\r\n\nNorthbound buses will travel regular route. No northbound bus stops missed.\r\n\nSouthbound buses will travel regular route on Co Rd E to Pine Tree Dr, left on Pine Tree Dr which turns into Harriet Ave, right on Lexington Ave, right on Josephine Rd, left on Hamline Ave, right on Lydia Ave, left on Snelling Dr and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nCo Rd E & Pine Tree Dr - Stop #49195 (westbound)"
+    },
+    {
       "id": "44827",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -10115,23 +10426,29 @@
         "Wayzata Blvd S & Hwy 100 Bridge - St"
       ],
       "closedStopIds": [
-        "3013",
         "2971",
         "40936",
-        "43775"
+        "43775",
+        "3013"
       ],
       "closedStopDetails": [
         {
+          "id": "2971",
+          "name": "Wayzata Blvd S & Park Place Blvd",
+          "direction": "eastbound"
+        },
+        {
+          "id": "40936",
+          "name": "Wayzata Blvd S & Utica Ave S",
+          "direction": "eastbound"
+        },
+        {
+          "id": "43775",
+          "name": "Wayzata Blvd S & Hwy 100 Bridge",
+          "direction": "eastbound"
+        },
+        {
           "id": "3013"
-        },
-        {
-          "id": "2971"
-        },
-        {
-          "id": "40936"
-        },
-        {
-          "id": "43775"
         }
       ],
       "riderAlternative": "Board at: Park Place Blvd & Wayzata Blvd S - Stop #3013 (northbound)",
@@ -10143,9 +10460,9 @@
       "cause": "CONSTRUCTION",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/645",
-      "updatedAt": "2026-09-03T18:46:57.000Z",
+      "updatedAt": "2026-09-23T17:51:39.000Z",
       "rawHeader": "Route 645 detoured off Wayzata Blvd between Park Place Blvd and Hwy 100 beginning Sun Feb 22 at 10:00 PM until further notice due to I-394 construction",
-      "rawDescription": "Update 7/8/26 at 11:30 AM: Change to eastbound detour. No change to affected stops or alternate stops. \r\n\nGet on/off eastbound buses at:\r\nPark Place Blvd & Wayzata Blvd S - Stop #3013 (northbound)\r\n\nNo westbound stops will be missed. Expect longer commute times due to detour routing.\r\n\nEastbound buses will travel regular route on Park Place Blvd to Wayzata Blvd, right on Wayzata Blvd, left onto eastbound I-394 and resume regular route.\r\n\nWestbound buses will travel regular route on 11th St to Hennepin Ave, left on Hennepin Ave, continue on Hennepin Ave to Dunwoody Blvd, continue on Dunwoody Blvd to westbound I-394 ramp, left onto I-394 and resume regular route.\r\n\nAffected stops:\r\nWayzata Blvd S & Park Place Blvd - Stop #2971 (eastbound)\r\nWayzata Blvd S & Utica Ave S - Stop #40936 (eastbound)\r\nWayzata Blvd S & Hwy 100 Bridge - Stop #43775 (eastbound)"
+      "rawDescription": "Updated detour routing 9/23 12:50 pm.\r\n\nGet on/off eastbound buses at:\r\nPark Place Blvd & Wayzata Blvd S - Stop #3013 (northbound)\r\n\nEastbound buses will travel regular route on Park Place Blvd to Wayzata Blvd, right on Wayzata Blvd, left onto eastbound I-394 and resume regular route.\r\n\nWestbound buses will travel regular route.\r\n\nAffected stops:\r\nWayzata Blvd S & Park Place Blvd - Stop #2971 (eastbound)\r\nWayzata Blvd S & Utica Ave S - Stop #40936 (eastbound)\r\nWayzata Blvd S & Hwy 100 Bridge - Stop #43775 (eastbound)"
     },
     {
       "id": "51935",

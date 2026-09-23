@@ -4,35 +4,98 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Wed, 23 Sep 2026 13:19:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 18:13:40 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 323: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/323</link>
-      <guid isPermaLink="false">Metro Transit-53227-2026-09-23T12:45:02.000Z</guid>
-      <pubDate>Wed, 23 Sep 2026 12:45:02 GMT</pubDate>
+      <title>[Critical] METRO Green Line: Westbound 11:47 AM Trip Canceled (Union Depot Station)</title>
+      <link>https://www.metrotransit.org/route/green</link>
+      <guid isPermaLink="false">Metro Transit-53245-2026-09-23T17:12:29.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 17:12:29 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 323</category>
-      <description>Route 323 trip departing Woodlane Dr Station Gate B at 7:47 AM and fourteen other trips canceled today due to mechanical issue</description>
+      <category>METRO Green Line</category>
+      <description>Westbound Green Line trip departing Union Depot Station at 11:47 AM canceled</description>
     </item>
     <item>
-      <title>[Critical] Route 467: Northbound 7:16 AM Trip Canceled (Interstate 35 Ramp &amp; Kenrick Ave Park &amp; Ride)</title>
-      <link>https://www.metrotransit.org/route/467</link>
-      <guid isPermaLink="false">Metro Transit-53223-2026-09-23T12:16:38.000Z</guid>
-      <pubDate>Wed, 23 Sep 2026 12:16:38 GMT</pubDate>
+      <title>[Critical] Route 30: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/30</link>
+      <guid isPermaLink="false">Metro Transit-53247-2026-09-23T17:54:41.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 17:54:41 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 467</category>
-      <description>Northbound Route 467 trip departing Interstate 35 Ramp &amp; Kenrick Ave Park &amp; Ride at 7:16 AM canceled today</description>
+      <category>Route 30</category>
+      <description>Route 30 trip departing Westgate Station - Gate B at 3:34 PM and six other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 467: Northbound 7:46 AM Trip Canceled (Interstate 35 Ramp &amp; Kenrick Ave Park &amp; Ride)</title>
-      <link>https://www.metrotransit.org/route/467</link>
-      <guid isPermaLink="false">Metro Transit-53230-2026-09-23T12:56:25.000Z</guid>
-      <pubDate>Wed, 23 Sep 2026 12:56:25 GMT</pubDate>
+      <title>[Critical] Route 72: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/72</link>
+      <guid isPermaLink="false">Metro Transit-53249-2026-09-23T17:56:24.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 17:56:24 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 467</category>
-      <description>Northbound Route 467 trip departing Interstate 35 Ramp &amp; Kenrick Ave Park &amp; Ride at 7:46 AM canceled today due to mechanical issue</description>
+      <category>Route 72</category>
+      <description>Route 72 trip departing Pascal St N &amp; Central Ave W at 6:52 PM and three other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 83: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/83</link>
+      <guid isPermaLink="false">Metro Transit-53241-2026-09-23T17:00:01.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 17:00:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 83</category>
+      <description>Route 83 trip departing Montreal Cir &amp; Summit Brewing at 12:30 PM and six other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 219: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/219</link>
+      <guid isPermaLink="false">Metro Transit-53248-2026-09-23T17:55:39.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 17:55:39 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 219</category>
+      <description>Route 219 trip departing Maplewood Mall Transit Center &amp; Gate A at 7:12 PM and two other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 540: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/540</link>
+      <guid isPermaLink="false">Metro Transit-53251-2026-09-23T18:01:12.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 18:01:12 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 540</category>
+      <description>Route 540 trip departing Normandale Lake Blvd &amp; 83rd St / 84th St at 2:32 PM and three other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 542: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/542</link>
+      <guid isPermaLink="false">Metro Transit-53250-2026-09-23T18:00:16.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 18:00:16 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 542</category>
+      <description>Route 542 trip departing MOA Transit Station Gate G at 2:07 PM and three other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 615: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/615</link>
+      <guid isPermaLink="false">Metro Transit-53246-2026-09-23T17:21:01.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 17:21:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 615</category>
+      <description>Route 615 trip departing Excelsior Blvd &amp; Quentin Ave at 12:51 PM and six other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 802: Southbound 11:43 AM Trip Canceled (Anoka Tech College &amp; Main Entrance)</title>
+      <link>https://www.metrotransit.org/route/802</link>
+      <guid isPermaLink="false">Metro Transit-53243-2026-09-23T16:19:33.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 16:19:33 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 802</category>
+      <description>Southbound Route 802 trip departing Anoka Tech College &amp; Main Entrance at 11:43 AM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 805: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/805</link>
+      <guid isPermaLink="false">Metro Transit-53242-2026-09-23T17:25:53.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 17:25:53 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 805</category>
+      <description>Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and thirteen other trips canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
@@ -687,6 +750,15 @@ Affected st</title>
       <description>Route 38 detoured off 46th Ave from 46th St to Minnesota Veterans Home from 4:00 AM to 1:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: 46th Ave S &amp; 46th St E - Stop #53134 (southbound). | Action: Board at: 46th Ave S &amp; 46th St E - Stop #53134 (southbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 38: Detour via 5th Ave S &amp; Excelsior Blvd</title>
+      <link>https://www.metrotransit.org/route/38</link>
+      <guid isPermaLink="false">Metro Transit-53232-2026-09-23T13:50:04.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 13:50:04 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 38</category>
+      <description>Route 38 detoured off Mainstreet from 5th Ave to 6th Ave until later today due to construction. Board at: Mainstreet &amp; 7th Ave S - Stop #4820 (eastbound); 5th Ave S &amp; Mainstreet / Excelsior Blvd - Stop #4822 (southbound). | Action: Board at: Mainstreet &amp; 7th Ave S - Stop #4820 (eastbound); 5th Ave S &amp; Mainstreet / Excelsior Blvd - Stop #4822 (southbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 46: Detour via 50th St W &amp; Queen Ave S</title>
       <link>https://www.metrotransit.org/route/46</link>
       <guid isPermaLink="false">Metro Transit-53185-2026-09-22T16:38:46.000Z</guid>
@@ -984,6 +1056,15 @@ Affected st</title>
       <description>Co Rd C &amp; Victoria St - Stop #45337 (westbound) is closed for Route 223 until further notice due to construction. Board at: Temporary stop on Co Rd C just before Victoria St (westbound); Co Rd C &amp; Avon St - Stop #45335 (westbound). | Action: Board at: Temporary stop on Co Rd C just before Victoria St (westbound); Co Rd C &amp; Avon St - Stop #45335 (westbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 225: Detour via Snelling Dr N &amp; Lydia Ave</title>
+      <link>https://www.metrotransit.org/route/225</link>
+      <guid isPermaLink="false">Metro Transit-53234-2026-09-23T14:35:48.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 14:35:48 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 225</category>
+      <description>Route 225 detoured off Snelling Ave from Co Rd E to Lydia Ave from Fri Sep 25 at 9:00 AM to Mon Sep 28 at 5:00 AM due to construction. Board at: Co Rd E &amp; #1200 - Stop #49194 (westbound); Snelling Dr N &amp; Lydia Ave - Stop #52235 (southbound). | Action: Board at: Co Rd E &amp; #1200 - Stop #49194 (westbound); Snelling Dr N &amp; Lydia Ave - Stop #52235 (southbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 275, Route 860: Detour via 5th St &amp; Minnesota St</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
       <guid isPermaLink="false">Metro Transit-44827-2026-09-03T18:43:10.000Z</guid>
@@ -1094,8 +1175,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 645: Detour via Park Place Blvd &amp; Wayzata Blvd S</title>
       <link>https://www.metrotransit.org/route/645</link>
-      <guid isPermaLink="false">Metro Transit-45891-2026-09-03T18:46:57.000Z</guid>
-      <pubDate>Thu, 03 Sep 2026 18:46:57 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-45891-2026-09-23T17:51:39.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 17:51:39 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 645</category>
       <description>Route 645 detoured off Wayzata Blvd between Park Place Blvd and Hwy 100 beginning Sun Feb 22 at 10:00 PM until further notice due to I-394 construction. Board at: Park Place Blvd &amp; Wayzata Blvd S - Stop #3013 (northbound). | Action: Board at: Park Place Blvd &amp; Wayzata Blvd S - Stop #3013 (northbound)</description>
