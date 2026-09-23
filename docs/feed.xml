@@ -4,9 +4,36 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Wed, 23 Sep 2026 07:17:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 13:19:37 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] Route 323: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/323</link>
+      <guid isPermaLink="false">Metro Transit-53227-2026-09-23T12:45:02.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 12:45:02 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 323</category>
+      <description>Route 323 trip departing Woodlane Dr Station Gate B at 7:47 AM and fourteen other trips canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 467: Northbound 7:16 AM Trip Canceled (Interstate 35 Ramp &amp; Kenrick Ave Park &amp; Ride)</title>
+      <link>https://www.metrotransit.org/route/467</link>
+      <guid isPermaLink="false">Metro Transit-53223-2026-09-23T12:16:38.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 12:16:38 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 467</category>
+      <description>Northbound Route 467 trip departing Interstate 35 Ramp &amp; Kenrick Ave Park &amp; Ride at 7:16 AM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 467: Northbound 7:46 AM Trip Canceled (Interstate 35 Ramp &amp; Kenrick Ave Park &amp; Ride)</title>
+      <link>https://www.metrotransit.org/route/467</link>
+      <guid isPermaLink="false">Metro Transit-53230-2026-09-23T12:56:25.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 12:56:25 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 467</category>
+      <description>Northbound Route 467 trip departing Interstate 35 Ramp &amp; Kenrick Ave Park &amp; Ride at 7:46 AM canceled today due to mechanical issue</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -84,20 +111,11 @@ Affected st</title>
     <item>
       <title>[Moderate] METRO E Line: Detour via France Ave (62nd St to 65th St)</title>
       <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-52878-2026-09-16T14:12:46.000Z</guid>
-      <pubDate>Wed, 16 Sep 2026 14:12:46 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52878-2026-09-23T12:18:01.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 12:18:01 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO E Line</category>
       <description>METRO E Line detoured off France Ave from 62nd St to 65th St until further notice due to construction. Board at: France &amp; 58th St Station - Stop #1149 (southbound); Southdale Hospital Station - Stop #1156 (eastbound). | Action: Board at: France &amp; 58th St Station - Stop #1149 (southbound); Southdale Hospital Station - Stop #1156 (eastbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] METRO E Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-53160-2026-09-22T14:40:17.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 14:40:17 GMT</pubDate>
-      <category>Moderate</category>
-      <category>METRO E Line</category>
-      <description>Northbound E Line buses may be delayed in the area of University Ave &amp; 11th Ave SE until later today due to lane closures</description>
     </item>
     <item>
       <title>[Moderate] METRO E Line: Detour via Central Ave &amp; University Ave S</title>
@@ -107,6 +125,15 @@ Affected st</title>
       <category>Moderate</category>
       <category>METRO E Line</category>
       <description>E Line detoured from Hennepin Ave from 24th St W to University Ave from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Hennepin &amp; 25th St Station - Stop #1327 (northbound); Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 11th St S - Stop #17990 (northbound). | Action: Board at: Hennepin &amp; 25th St Station - Stop #1327 (northbound); Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 11th St S - Stop #17990 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] METRO E Line: Detour via Central Ave &amp; University Ave S</title>
+      <link>https://www.metrotransit.org/route/eline</link>
+      <guid isPermaLink="false">Metro Transit-53231-2026-09-23T13:01:13.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 13:01:13 GMT</pubDate>
+      <category>Moderate</category>
+      <category>METRO E Line</category>
+      <description>METRO E Line detoured off Hennepin Ave from Washington Ave to University Ave from 6:00 PM to 6:00 AM on 9/23 -9/25 each day due to mill and overlay work. Board at: Hennepin &amp; 4th St Station - Stop #17948 (northbound); Central Ave &amp; University Ave SE - Stop #14952 (northbound); University &amp; Central Station - Stop #12281 (eastbound). | Action: Board at: Hennepin &amp; 4th St Station - Stop #17948 (northbound); Central Ave &amp; University Ave SE - Stop #14952 (northbound); University &amp; Central Station - Stop #12281 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] METRO Gold Line: Detour via 6th St &amp; Jackson St</title>
@@ -208,6 +235,15 @@ Affected st</title>
       <description>Route 4 detoured off Lyndale Ave/Hennepin Ave from 24th St W to Central Ave from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Lyndale Ave S &amp; 24th St W - Stop #175; Temporary stop on 24th St E &amp; Nicollet Ave; Nicollet Ave S &amp; Franklin Ave W - Stop #1905. | Action: Board at: Lyndale Ave S &amp; 24th St W - Stop #175; Temporary stop on 24th St E &amp; Nicollet Ave; Nicollet Ave S &amp; Franklin Ave W - Stop #1905</description>
     </item>
     <item>
+      <title>[Moderate] Route 4: Detour via Hennepin Ave E &amp; 4th St S</title>
+      <link>https://www.metrotransit.org/route/4</link>
+      <guid isPermaLink="false">Metro Transit-53226-2026-09-23T12:43:22.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 12:43:22 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 4</category>
+      <description>Route 4 detoured off Hennepin Ave from Washington Ave to University Ave from 6:00 PM to 6:00 AM on 9/23 -9/25 each day due to mill and overlay work. Board at: Hennepin &amp; 4th St Station - Stop #17948 (northbound); Hennepin Ave E &amp; 4th St SE - Stop #57457 (eastbound). | Action: Board at: Hennepin &amp; 4th St Station - Stop #17948 (northbound); Hennepin Ave E &amp; 4th St SE - Stop #57457 (eastbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 5: Detour via Chicago Ave S &amp; 41st St E</title>
       <link>https://www.metrotransit.org/route/5</link>
       <guid isPermaLink="false">Metro Transit-51930-2026-09-03T16:21:48.000Z</guid>
@@ -219,8 +255,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 5: Detour via Chicago Ave S &amp; 56th St E</title>
       <link>https://www.metrotransit.org/route/5</link>
-      <guid isPermaLink="false">Metro Transit-52996-2026-09-18T13:24:37.000Z</guid>
-      <pubDate>Fri, 18 Sep 2026 13:24:37 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52996-2026-09-23T12:06:31.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 12:06:31 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 5</category>
       <description>Route 5 detoured off Chicago Ave S from 57th St E to 55th St E and off Chicago from 55th St E to 56th St E until further notice. Board at: Chicago Ave S &amp; 56th St E - Stop #51212; Chicago Ave S &amp; 54th St E - Stop #777 (northbound). | Action: Board at: Chicago Ave S &amp; 56th St E - Stop #51212; Chicago Ave S &amp; 54th St E - Stop #777 (northbound)</description>
@@ -345,8 +381,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor</title>
       <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-53104-2026-09-23T05:00:02.000Z</guid>
-      <pubDate>Wed, 23 Sep 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53104-2026-09-23T08:01:01.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 08:01:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 10, Route 11, Route 17, Route 18, Route 25</category>
       <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 8th St to 12th St from Sat Sep 26 at 6:00 AM to Sun Sep 27 at 3:00 AM due to Dakota Jazz Fest. Board at: Nicollet Mall &amp; 11th St S - Stop #17990 (northbound); Nicollet Mall &amp; 7th St S - Stop #17994 (northbound). | Action: Board at: Nicollet Mall &amp; 11th St S - Stop #17990 (northbound); Nicollet Mall &amp; 7th St S - Stop #17994 (northbound)</description>
@@ -368,6 +404,24 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 11</category>
       <description>Route 11 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: 3rd Ave S &amp; 18th St / 17th St E - Stop #17768 (northbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S &amp; 7th St - Stop Group F - Stop #53313 (northbound). | Action: Board at: 3rd Ave S &amp; 18th St / 17th St E - Stop #17768 (northbound); 2nd Ave S &amp; 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S &amp; 7th St - Stop Group F - Stop #53313 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 11: Detour via 48th St E &amp; Nicollet Ave S</title>
+      <link>https://www.metrotransit.org/route/11</link>
+      <guid isPermaLink="false">Metro Transit-53224-2026-09-23T12:20:36.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 12:20:36 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 11</category>
+      <description>Route 11 detoured off Nicollet Ave from 46th St to 44th St from 9:00 AM to 6:00 PM on Sat Sep 26 due to Nicollet Open Streets. Board at: Temporary stop on 48th St E &amp; Nicollet Ave S (westbound); Nicollet Ave S &amp; 46th St E - Stop #1872 (northbound); 46th St &amp; I-35W - Stop #53545 (eastbound). | Action: Board at: Temporary stop on 48th St E &amp; Nicollet Ave S (westbound); Nicollet Ave S &amp; 46th St E - Stop #1872 (northbound); 46th St &amp; I-35W - Stop #53545 (eastbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 11: Detour via 2nd St NE &amp; 1st Ave N</title>
+      <link>https://www.metrotransit.org/route/11</link>
+      <guid isPermaLink="false">Metro Transit-53229-2026-09-23T12:52:58.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 12:52:58 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 11</category>
+      <description>Route 11 detoured off Hennepin Ave from Washington Ave to 2nd St NE from 6:00 PM to 6:00 AM on 9/23 -9/25 each day due to mill and overlay work. Board at: Nicollet Mall &amp; 3rd St S - Stop #17998 (northbound); 2nd St NE &amp; 1st Ave NE - Stop #14691 (northbound). | Action: Board at: Nicollet Mall &amp; 3rd St S - Stop #17998 (northbound); 2nd St NE &amp; 1st Ave NE - Stop #14691 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 14, Route 5: Stop Closed at Selected Stop</title>
@@ -453,15 +507,6 @@ Affected st</title>
       <description>Nicollet Ave S &amp; 33rd St W - Stop #1214 (southbound) is closed for Route 18 beginning Mon Aug 31 at 4:00 AM until further notice due to construction. Board at: Nicollet Ave S &amp; 32nd St W - Stop #1212 (southbound); Nicollet Ave S &amp; 35th St W - Stop #1216 (southbound). | Action: Board at: Nicollet Ave S &amp; 32nd St W - Stop #1212 (southbound); Nicollet Ave S &amp; 35th St W - Stop #1216 (southbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 18: Stop Closed at Nicollet Ave S &amp; 67th St E</title>
-      <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-52188-2026-09-04T14:57:01.000Z</guid>
-      <pubDate>Fri, 04 Sep 2026 14:57:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 18</category>
-      <description>Nicollet Ave S &amp; 67th St E - Stop #1446 (northbound) is closed for Route 18 beginning Sat Aug 22 at 7:00 AM until further notice due to utility work. Board at: Nicollet Ave S &amp; 68th St E - Stop #1445 (northbound); Nicollet Ave S &amp; 66th St W - Stop #1349 (southbound). | Action: Board at: Nicollet Ave S &amp; 68th St E - Stop #1445 (northbound); Nicollet Ave S &amp; 66th St W - Stop #1349 (southbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 18: Stop Closed at Nicollet Ave S &amp; 69th St E</title>
       <link>https://www.metrotransit.org/route/18</link>
       <guid isPermaLink="false">Metro Transit-52189-2026-09-04T14:59:01.000Z</guid>
@@ -496,6 +541,15 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 18</category>
       <description>Route 18 detoured off Nicollet Ave from 46th St to Diamond Lake Rd from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Nicollet Ave S &amp; 56th St E - Stop #1765 (northbound); Nicollet Ave S &amp; 44th St E - Stop #1874 (northbound). | Action: Board at: Nicollet Ave S &amp; 56th St E - Stop #1765 (northbound); Nicollet Ave S &amp; 44th St E - Stop #1874 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 18: Detour via Nicollet Ave S &amp; 48th St E</title>
+      <link>https://www.metrotransit.org/route/18</link>
+      <guid isPermaLink="false">Metro Transit-53225-2026-09-23T12:34:23.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 12:34:23 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 18</category>
+      <description>Route 18 detoured off Nicollet Ave from 46th St to 31st St from 9:00 AM to 6:00 PM on Sat Sep 26 due to Nicollet Open Streets. Board at: Nicollet Ave S &amp; 48th St E - Stop #1869 (Northbound); Grand Ave S &amp; 44th St W - Stop #14882 (Northbound); Grand Ave S &amp; 43rd St W - Stop #14883 (Northbound). | Action: Board at: Nicollet Ave S &amp; 48th St E - Stop #1869 (Northbound); Grand Ave S &amp; 44th St W - Stop #14882 (Northbound); Grand Ave S &amp; 43rd St W - Stop #14883 (Northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 22: Stop Closed at Lyndale Ave N &amp; 44th Ave N</title>
@@ -685,6 +739,15 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 61</category>
       <description>Route 61 detoured off Hennepin Ave from 8th St to Central Ave from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Ramp A/7th St Transit Center - Stop #17905 (eastbound); Nicollet Mall &amp; 3rd St S - Stop #17998 (northbound); Nicollet Mall &amp; 5th St S - Stop #17996 (northbound). | Action: Board at: Ramp A/7th St Transit Center - Stop #17905 (eastbound); Nicollet Mall &amp; 3rd St S - Stop #17998 (northbound); Nicollet Mall &amp; 5th St S - Stop #17996 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 61: Detour via Hennepin Ave E &amp; 4th St S</title>
+      <link>https://www.metrotransit.org/route/61</link>
+      <guid isPermaLink="false">Metro Transit-53228-2026-09-23T12:47:09.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 12:47:09 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 61</category>
+      <description>Route 61 detoured off Hennepin Ave from Washington Ave to University Ave from 6:00 PM to 6:00 AM on 9/23 -9/25 each day due to mill and overlay work. Board at: Hennepin &amp; 4th St Station - Stop #17948 (northbound); Hennepin Ave E &amp; 4th St SE - Stop #57457 (eastbound). | Action: Board at: Hennepin &amp; 4th St Station - Stop #17948 (northbound); Hennepin Ave E &amp; 4th St SE - Stop #57457 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 62: Detour via Rice St &amp; Charles Ave</title>
