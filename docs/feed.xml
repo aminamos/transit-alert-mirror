@@ -4,35 +4,26 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Tue, 22 Sep 2026 22:42:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 01:13:26 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO A Line: Southbound 4:12 PM Trip Canceled (Rosedale Transit Center Gate A)</title>
-      <link>https://www.metrotransit.org/route/aline</link>
-      <guid isPermaLink="false">Metro Transit-53207-2026-09-22T21:37:35.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 21:37:35 GMT</pubDate>
+      <title>[Critical] METRO B Line: Eastbound 6:21 PM Trip Canceled (Lake St W &amp; France Ave S)</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-53210-2026-09-23T00:13:14.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 00:13:14 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO A Line</category>
-      <description>Southbound A Line trip departing Rosedale Transit Center Gate A at 4:12 PM canceled due to mechanical issue</description>
+      <category>METRO B Line</category>
+      <description>Eastbound B Line trip departing Lake St W &amp; France Ave S at 6:21 PM canceled from Marshall &amp; Cleveland at 6:58 PM today due to traffic</description>
     </item>
     <item>
-      <title>[Critical] Route 2, Route 2C: Eastbound 3:41 PM Trip Canceled (Franklin Ave W &amp; Hennepin Ave S)</title>
-      <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-53203-2026-09-22T22:37:01.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 22:37:01 GMT</pubDate>
+      <title>[Critical] METRO B Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-53211-2026-09-23T00:21:30.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 00:21:30 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 2, Route 2C</category>
-      <description>Eastbound Route 2C trip departing Franklin Ave W &amp; Hennepin Ave S at 3:41 PM canceled due to construction</description>
-    </item>
-    <item>
-      <title>[Critical] Route 3, Route 3B: Eastbound 4:38 PM Trip Canceled (Washington Ave &amp; 10th Ave N)</title>
-      <link>https://www.metrotransit.org/route/3</link>
-      <guid isPermaLink="false">Metro Transit-53208-2026-09-22T22:39:47.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 22:39:47 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 3, Route 3B</category>
-      <description>Eastbound Route 3B trip departing Washington Ave &amp; 10th Ave N at 4:38 PM canceled today</description>
+      <category>METRO B Line</category>
+      <description>Eastbound B Line trip departing Lake St W &amp; France Ave S at 7:04 PM will operate from Marshall &amp; Cleveland at 7:39 PM today. Previous stops will be missed due to traffic</description>
     </item>
     <item>
       <title>[Critical] Route 22: Service Canceled</title>
@@ -44,76 +35,13 @@
       <description>Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 3:12 PM and four other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 71: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/71</link>
-      <guid isPermaLink="false">Metro Transit-53177-2026-09-22T17:08:01.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 17:08:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 71</category>
-      <description>Route 71 trip departing Inver Hills College &amp; Shelter at 12:38 PM and three other trips canceled today</description>
-    </item>
-    <item>
       <title>[Critical] Route 219: Service Canceled</title>
       <link>https://www.metrotransit.org/route/219</link>
-      <guid isPermaLink="false">Metro Transit-53190-2026-09-22T17:41:22.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 17:41:22 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53190-2026-09-23T00:43:01.000Z</guid>
+      <pubDate>Wed, 23 Sep 2026 00:43:01 GMT</pubDate>
       <category>Critical</category>
       <category>Route 219</category>
       <description>Route 219 trips departing Sun Ray Transit Center &amp; Gate B at 8:13 PM and departing Maplewood Mall Transit Center &amp; Gate A at 9:12 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 323: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/323</link>
-      <guid isPermaLink="false">Metro Transit-53178-2026-09-22T16:11:24.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 16:11:24 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 323</category>
-      <description>Route 323 trip departing Woodlane Dr Station Gate B at 11:20 AM and fourteen other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 467: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/467</link>
-      <guid isPermaLink="false">Metro Transit-53199-2026-09-22T20:12:45.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 20:12:45 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 467</category>
-      <description>Route 467 trips departing Gateway Ramp &amp; Platform at 3:37 PM and departing Gateway Ramp &amp; Platform at 5:07 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 723: Northbound 4:30 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate A)</title>
-      <link>https://www.metrotransit.org/route/723</link>
-      <guid isPermaLink="false">Metro Transit-53205-2026-09-22T21:36:04.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 21:36:04 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 723</category>
-      <description>Northbound Route 723 trip departing Brooklyn Ctr Transit Ctr Gate A at 4:30 PM canceled today due to maintenance work</description>
-    </item>
-    <item>
-      <title>[Critical] Route 724: Southbound 5:15 PM Trip Canceled (Starlite Transit Center &amp; Gate A)</title>
-      <link>https://www.metrotransit.org/route/724</link>
-      <guid isPermaLink="false">Metro Transit-53206-2026-09-22T21:45:01.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 21:45:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 724</category>
-      <description>Southbound Route 724 trip departing Starlite Transit Center &amp; Gate A at 5:15 PM canceled</description>
-    </item>
-    <item>
-      <title>[Critical] Route 760: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/760</link>
-      <guid isPermaLink="false">Metro Transit-53194-2026-09-22T20:06:01.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 20:06:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 760</category>
-      <description>Northbound Route 760 trips departing 12th St S &amp; Hennepin Ave S at 3:36 PM and departing 12th St S &amp; Hennepin Ave S at 4:36 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 805: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/805</link>
-      <guid isPermaLink="false">Metro Transit-53173-2026-09-22T16:34:00.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 16:34:00 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 805</category>
-      <description>Route 805 trip departing Northtown Transit Ctr Gate D at 12:04 PM and six other trips canceled today due to mechanical issue</description>
     </item>
     <item>
       <title>[Critical] Route 805: Service Canceled</title>

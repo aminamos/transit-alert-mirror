@@ -1,91 +1,214 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-22T22:42:24.363Z",
-    "totalAlerts": 142,
-    "criticalCount": 13,
+    "generatedAt": "2026-09-23T01:13:26.182Z",
+    "totalAlerts": 134,
+    "criticalCount": 5,
     "moderateCount": 124,
     "minorCount": 5,
-    "affectedRoutesCount": 86,
+    "affectedRoutesCount": 82,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "53207",
+      "id": "53210",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO A Line: Southbound 4:12 PM Trip Canceled (Rosedale Transit Center Gate A)",
-      "summary": "Southbound A Line trip departing Rosedale Transit Center Gate A at 4:12 PM canceled due to mechanical issue",
+      "title": "METRO B Line: Eastbound 6:21 PM Trip Canceled (Lake St W & France Ave S)",
+      "summary": "Eastbound B Line trip departing Lake St W & France Ave S at 6:21 PM canceled from Marshall & Cleveland at 6:58 PM today due to traffic",
       "affectedRoutes": [
-        "METRO A Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-22T21:37:00.000Z",
-        "end": "2026-09-22T22:53:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/aline",
-      "updatedAt": "2026-09-22T21:37:35.000Z",
-      "rawHeader": "Southbound A Line trip departing Rosedale Transit Center Gate A at 4:12 PM canceled due to mechanical issue",
-      "rawDescription": ""
-    },
-    {
-      "id": "53203",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 2, Route 2C: Eastbound 3:41 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)",
-      "summary": "Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 3:41 PM canceled due to construction",
-      "affectedRoutes": [
-        "Route 2",
-        "Route 2C"
+        "METRO B Line"
       ],
       "direction": "Eastbound",
       "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {},
-      "cause": "CONSTRUCTION",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-09-22T22:37:01.000Z",
-      "rawHeader": "Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 3:41 PM canceled due to construction",
-      "rawDescription": ""
-    },
-    {
-      "id": "53208",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 3, Route 3B: Eastbound 4:38 PM Trip Canceled (Washington Ave & 10th Ave N)",
-      "summary": "Eastbound Route 3B trip departing Washington Ave & 10th Ave N at 4:38 PM canceled today",
-      "affectedRoutes": [
-        "Route 3",
-        "Route 3B"
+      "closedStopIds": [
+        "56099",
+        "57416",
+        "57418",
+        "57420",
+        "57455",
+        "57332",
+        "16971",
+        "16996",
+        "17022",
+        "17029",
+        "17307",
+        "57328",
+        "57329",
+        "11885",
+        "3142"
       ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
+      "closedStopDetails": [
+        {
+          "id": "56099"
+        },
+        {
+          "id": "57416"
+        },
+        {
+          "id": "57418"
+        },
+        {
+          "id": "57420"
+        },
+        {
+          "id": "57455"
+        },
+        {
+          "id": "57332"
+        },
+        {
+          "id": "16971"
+        },
+        {
+          "id": "16996"
+        },
+        {
+          "id": "17022"
+        },
+        {
+          "id": "17029"
+        },
+        {
+          "id": "17307"
+        },
+        {
+          "id": "57328"
+        },
+        {
+          "id": "57329"
+        },
+        {
+          "id": "11885"
+        },
+        {
+          "id": "3142"
+        }
+      ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-22T22:39:00.000Z",
-        "end": "2026-09-22T23:47:00.000Z"
+        "start": "2026-09-23T00:11:00.000Z",
+        "end": "2026-09-23T01:27:00.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-09-22T22:39:47.000Z",
-      "rawHeader": "Eastbound Route 3B trip departing Washington Ave & 10th Ave N at 4:38 PM canceled today",
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-09-23T00:13:14.000Z",
+      "rawHeader": "Eastbound B Line trip departing Lake St W & France Ave S at 6:21 PM canceled from Marshall & Cleveland at 6:58 PM today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "53211",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO B Line: Service Advisory",
+      "summary": "Eastbound B Line trip departing Lake St W & France Ave S at 7:04 PM will operate from Marshall & Cleveland at 7:39 PM today. Previous stops will be missed due to traffic",
+      "affectedRoutes": [
+        "METRO B Line"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [
+        "16857",
+        "16863",
+        "16884",
+        "16950",
+        "57331",
+        "57332",
+        "56796",
+        "57314",
+        "57325",
+        "57326",
+        "57327",
+        "57333",
+        "57354",
+        "57355",
+        "57356",
+        "57359",
+        "5805",
+        "4866",
+        "43022",
+        "51579",
+        "4862"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "16857"
+        },
+        {
+          "id": "16863"
+        },
+        {
+          "id": "16884"
+        },
+        {
+          "id": "16950"
+        },
+        {
+          "id": "57331"
+        },
+        {
+          "id": "57332"
+        },
+        {
+          "id": "56796"
+        },
+        {
+          "id": "57314"
+        },
+        {
+          "id": "57325"
+        },
+        {
+          "id": "57326"
+        },
+        {
+          "id": "57327"
+        },
+        {
+          "id": "57333"
+        },
+        {
+          "id": "57354"
+        },
+        {
+          "id": "57355"
+        },
+        {
+          "id": "57356"
+        },
+        {
+          "id": "57359"
+        },
+        {
+          "id": "5805"
+        },
+        {
+          "id": "4866"
+        },
+        {
+          "id": "43022"
+        },
+        {
+          "id": "51579"
+        },
+        {
+          "id": "4862"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-23T00:20:00.000Z",
+        "end": "2026-09-23T02:06:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-09-23T00:21:30.000Z",
+      "rawHeader": "Eastbound B Line trip departing Lake St W & France Ave S at 7:04 PM will operate from Marshall & Cleveland at 7:39 PM today. Previous stops will be missed due to traffic",
       "rawDescription": ""
     },
     {
@@ -115,32 +238,6 @@
       "rawDescription": "Affected northbound trips:\r\ndeparting VA Medical Center & Visitors Entrance at 4:59 PM\r\ndeparting VA Medical Center & Visitors Entrance at 8:29 PM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate H at 3:12 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate H at 6:43 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate H at 10:01 PM"
     },
     {
-      "id": "53177",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 71: Service Canceled",
-      "summary": "Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today",
-      "affectedRoutes": [
-        "Route 71"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-22T17:38:00.000Z",
-        "end": "2026-09-22T23:45:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/71",
-      "updatedAt": "2026-09-22T17:08:01.000Z",
-      "rawHeader": "Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 12:38 PM\r\ndeparting Inver Hills College & Shelter at 3:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 2:12 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 5:13 PM"
-    },
-    {
       "id": "53190",
       "agency": "Metro Transit",
       "severity": "Critical",
@@ -162,166 +259,8 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/219",
-      "updatedAt": "2026-09-22T17:41:22.000Z",
+      "updatedAt": "2026-09-23T00:43:01.000Z",
       "rawHeader": "Route 219 trips departing Sun Ray Transit Center & Gate B at 8:13 PM and departing Maplewood Mall Transit Center & Gate A at 9:12 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "53178",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 323: Service Canceled",
-      "summary": "Route 323 trip departing Woodlane Dr Station Gate B at 11:20 AM and fourteen other trips canceled today",
-      "affectedRoutes": [
-        "Route 323"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-22T16:20:00.000Z",
-        "end": "2026-09-23T00:41:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/323",
-      "updatedAt": "2026-09-22T16:11:24.000Z",
-      "rawHeader": "Route 323 trip departing Woodlane Dr Station Gate B at 11:20 AM and fourteen other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Sun Ray Transit Center & Gate C at 11:47 AM\r\ndeparting Sun Ray Transit Center & Gate C at 12:47 PM\r\ndeparting Sun Ray Transit Center & Gate C at 1:47 PM\r\ndeparting Sun Ray Transit Center & Gate C at 2:47 PM\r\ndeparting Sun Ray Transit Center & Gate C at 3:48 PM\r\ndeparting Sun Ray Transit Center & Gate C at 4:48 PM\r\ndeparting Sun Ray Transit Center & Gate C at 5:48 PM\r\n\nAffected westbound trips:\r\ndeparting Woodlane Dr Station Gate B at 11:20 AM\r\ndeparting Woodlane Dr Station Gate B at 12:20 PM\r\ndeparting Woodlane Dr Station Gate B at 1:18 PM\r\ndeparting Woodlane Dr Station Gate B at 2:18 PM\r\ndeparting Woodlane Dr Station Gate B at 3:18 PM\r\ndeparting Woodlane Dr Station Gate B at 4:18 PM\r\ndeparting Woodlane Dr Station Gate B at 5:20 PM\r\ndeparting Woodlane Dr Station Gate B at 6:21 PM"
-    },
-    {
-      "id": "53199",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 467: Service Canceled",
-      "summary": "Route 467 trips departing Gateway Ramp & Platform at 3:37 PM and departing Gateway Ramp & Platform at 5:07 PM canceled today",
-      "affectedRoutes": [
-        "Route 467"
-      ],
-      "direction": "All",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-22T20:37:00.000Z",
-        "end": "2026-09-22T23:46:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/467",
-      "updatedAt": "2026-09-22T20:12:45.000Z",
-      "rawHeader": "Route 467 trips departing Gateway Ramp & Platform at 3:37 PM and departing Gateway Ramp & Platform at 5:07 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "53205",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 723: Northbound 4:30 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate A)",
-      "summary": "Northbound Route 723 trip departing Brooklyn Ctr Transit Ctr Gate A at 4:30 PM canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 723"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-22T21:35:00.000Z",
-        "end": "2026-09-22T22:55:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/723",
-      "updatedAt": "2026-09-22T21:36:04.000Z",
-      "rawHeader": "Northbound Route 723 trip departing Brooklyn Ctr Transit Ctr Gate A at 4:30 PM canceled today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "53206",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 724: Southbound 5:15 PM Trip Canceled (Starlite Transit Center & Gate A)",
-      "summary": "Southbound Route 724 trip departing Starlite Transit Center & Gate A at 5:15 PM canceled",
-      "affectedRoutes": [
-        "Route 724"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-22T22:15:00.000Z",
-        "end": "2026-09-22T23:35:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/724",
-      "updatedAt": "2026-09-22T21:45:01.000Z",
-      "rawHeader": "Southbound Route 724 trip departing Starlite Transit Center & Gate A at 5:15 PM canceled",
-      "rawDescription": ""
-    },
-    {
-      "id": "53194",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 760: Service Canceled",
-      "summary": "Northbound Route 760 trips departing 12th St S & Hennepin Ave S at 3:36 PM and departing 12th St S & Hennepin Ave S at 4:36 PM canceled today",
-      "affectedRoutes": [
-        "Route 760"
-      ],
-      "direction": "Northbound",
-      "intersections": [
-        "36 PM and departing 12th St S & Hennepin Ave S"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-22T20:36:00.000Z",
-        "end": "2026-09-22T23:02:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/760",
-      "updatedAt": "2026-09-22T20:06:01.000Z",
-      "rawHeader": "Northbound Route 760 trips departing 12th St S & Hennepin Ave S at 3:36 PM and departing 12th St S & Hennepin Ave S at 4:36 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "53173",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 805: Service Canceled",
-      "summary": "Route 805 trip departing Northtown Transit Ctr Gate D at 12:04 PM and six other trips canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 805"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-22T17:04:00.000Z",
-        "end": "2026-09-23T00:47:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-09-22T16:34:00.000Z",
-      "rawHeader": "Route 805 trip departing Northtown Transit Ctr Gate D at 12:04 PM and six other trips canceled today due to mechanical issue",
       "rawDescription": ""
     },
     {
@@ -788,7 +727,7 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-09-22T14:40:00.000Z",
-        "end": "2026-09-23T00:41:24.000Z"
+        "end": "2026-09-23T03:12:23.000Z"
       },
       "cause": "OTHER_CAUSE",
       "effect": "OTHER_EFFECT",
@@ -2484,8 +2423,8 @@
         "56919",
         "51212",
         "56923",
-        "72",
         "73",
+        "72",
         "66",
         "68",
         "69",
@@ -2559,10 +2498,10 @@
           "id": "56923"
         },
         {
-          "id": "72"
+          "id": "73"
         },
         {
-          "id": "73"
+          "id": "72"
         },
         {
           "id": "66"
