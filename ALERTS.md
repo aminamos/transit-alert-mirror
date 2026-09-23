@@ -2,34 +2,54 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-145-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-10-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-130-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-150-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-14-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-131-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-5-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-83-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-84-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-23T18:13:40.271Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-23T22:00:55.956Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (3) • **METRO E Line** (4) • **METRO Gold Line** (2) • **METRO Green Line** (2) • **Route 2** (4) • **Route 3** (3) • **Route 3A** (2) • **Route 4** (4) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (5) • **Route 9** (5) • **Route 10** (3) • **Route 11** (6) • **Route 14** (3) • **Route 17** (4) • **Route 18** (9) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (6) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (1) • **Route 63** (3) • **Route 64** (5) • **Route 65** (2) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 83** (2) • **Route 87** (1) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (2) • **Route 223** (4) • **Route 225** (2) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (2) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 802** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (5) • **METRO E Line** (4) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (4) • **Route 3** (4) • **Route 3A** (2) • **Route 4** (4) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (5) • **Route 9** (5) • **Route 10** (3) • **Route 11** (6) • **Route 14** (3) • **Route 17** (4) • **Route 18** (9) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (6) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (1) • **Route 63** (3) • **Route 64** (5) • **Route 65** (2) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 75** (1) • **Route 83** (2) • **Route 87** (1) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (2) • **Route 223** (4) • **Route 225** (2) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 363** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (2) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO Green Line: Westbound 11:47 AM Trip Canceled (Union Depot Station)
+### 🚨 METRO D Line: Northbound 3:29 PM Trip Canceled (MOA Transit Station Gate A)
 
-- **Affected Routes**: `METRO Green Line`
-- **Direction**: Westbound
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Northbound
 - **Severity**: `Critical`
+- **Closed Stops**: Stop #56823, Stop #56949, Stop #56950, Stop #56951, Stop #8919, Stop #8920, Stop #8935, Stop #8945 *(+6 more)*
 
-**Summary**: Westbound Green Line trip departing Union Depot Station at 11:47 AM canceled
+**Summary**: Northbound D Line trip departing MOA Transit Station Gate A at 3:29 PM canceled today due to maintenance work
 
-[Official Agency Advisory](https://www.metrotransit.org/route/green)
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Westbound Green Line trip departing Union Depot Station at 11:47 AM canceled
+**Header**: Northbound D Line trip departing MOA Transit Station Gate A at 3:29 PM canceled today due to maintenance work
+
+</details>
+
+---
+
+### 🚨 Route 3: Eastbound 4:38 PM Trip Canceled (Washington Ave & 10th Ave N)
+
+- **Affected Routes**: `Route 3`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 4:38 PM canceled today due to collision
+
+[Official Agency Advisory](https://www.metrotransit.org/route/3)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 4:38 PM canceled today due to collision
 
 </details>
 
@@ -100,6 +120,25 @@ departing Sun Ray Transit Center & Gate D at 9:51 PM
 
 ---
 
+### 🚨 Route 75: Southbound 3:31 PM Trip Canceled (Cedar St & 10th St)
+
+- **Affected Routes**: `Route 75`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Route 75 trip departing Cedar St & 10th St at 3:31 PM canceled today due to disabled bus
+
+[Official Agency Advisory](https://www.metrotransit.org/route/75)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 75 trip departing Cedar St & 10th St at 3:31 PM canceled today due to disabled bus
+
+</details>
+
+---
+
 ### 🚨 Route 83: Service Canceled
 
 - **Affected Routes**: `Route 83`
@@ -155,6 +194,25 @@ Affected southbound trips:
 departing Maplewood Mall Transit Center & Gate A at 7:12 PM
 departing Maplewood Mall Transit Center & Gate A at 9:12 PM
 ```
+
+</details>
+
+---
+
+### 🚨 Route 363: 3:45 PM Trip Canceled (5th St Transit Center Gate D)
+
+- **Affected Routes**: `Route 363`
+- **Direction**: All
+- **Severity**: `Critical`
+
+**Summary**: Route 363 trip departing 5th St Transit Center Gate D at 3:45 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/363)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 363 trip departing 5th St Transit Center Gate D at 3:45 PM canceled today
 
 </details>
 
@@ -251,20 +309,21 @@ departing Excelsior Blvd & Quentin Ave at 6:51 PM
 
 ---
 
-### 🚨 Route 802: Southbound 11:43 AM Trip Canceled (Anoka Tech College & Main Entrance)
+### 🚨 Route 760: Service Canceled
 
-- **Affected Routes**: `Route 802`
-- **Direction**: Southbound
+- **Affected Routes**: `Route 760`
+- **Direction**: All
 - **Severity**: `Critical`
+- **Corridors & Intersections**: Route 760 trips departing 12th St S & Hennepin Ave S; 36 PM and departing 12th St S & Hennepin Ave S
 
-**Summary**: Southbound Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM canceled today
+**Summary**: Route 760 trips departing 12th St S & Hennepin Ave S at 3:36 PM and departing 12th St S & Hennepin Ave S at 4:36 PM canceled today due to traffic
 
-[Official Agency Advisory](https://www.metrotransit.org/route/802)
+[Official Agency Advisory](https://www.metrotransit.org/route/760)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM canceled today
+**Header**: Route 760 trips departing 12th St S & Hennepin Ave S at 3:36 PM and departing 12th St S & Hennepin Ave S at 4:36 PM canceled today due to traffic
 
 </details>
 
@@ -310,6 +369,25 @@ departing 1st Ave S & Monroe St at 3:36 PM
 departing 1st Ave S & Monroe St at 4:36 PM
 departing 1st Ave S & Monroe St at 5:38 PM
 ```
+
+</details>
+
+---
+
+### 🚨 Route 860: Northbound 3:37 PM Trip Canceled (Smith & 5th St Station)
+
+- **Affected Routes**: `Route 860`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 860 trip departing Smith & 5th St Station at 3:37 PM canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/860)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 860 trip departing Smith & 5th St Station at 3:37 PM canceled today due to traffic
 
 </details>
 
@@ -571,6 +649,34 @@ Chicago & 46th St Station - Stop #56917 (southbound)
 Chicago & 48th St Station - Stop #56918 (southbound)
 Chicago & 52nd St Station - Stop #56919 (southbound)
 Chicago Ave & 56th St E - Stop #81079 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ METRO D Line: Stop Closed at Selected Stop
+
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Northbound
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Thu Sep 24 at 7:00 AM until further notice
+- **Closed Stops**: Stop #737
+
+**Summary**: Portland & 60th St Station - Stop #737 (northbound) is closed for D Line beginning Thu Sep 24 at 7:00 AM until further notice due to construction. Board at: Temporary bus stop on Portland Ave between 61st St and 60th St.
+
+> 💡 **Rider Action**: Board at: Temporary bus stop on Portland Ave between 61st St and 60th St
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Portland & 60th St Station - Stop #737 (northbound) is closed for D Line beginning Thu Sep 24 at 7:00 AM until further notice due to construction
+
+```text
+Get on/off buses at:
+Temporary bus stop on Portland Ave between 61st St and 60th St
 ```
 
 </details>
