@@ -4,26 +4,44 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Thu, 24 Sep 2026 13:09:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 18:08:54 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
       <title>[Critical] Route 30: Service Canceled</title>
       <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-53278-2026-09-24T11:42:40.000Z</guid>
-      <pubDate>Thu, 24 Sep 2026 11:42:40 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53278-2026-09-24T13:44:18.000Z</guid>
+      <pubDate>Thu, 24 Sep 2026 13:44:18 GMT</pubDate>
       <category>Critical</category>
       <category>Route 30</category>
-      <description>Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today due to maintenance work</description>
+      <description>Route 30 trip departing Westgate Station - Gate B at 7:07 AM and thirteen other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 46: Eastbound 7:00 AM Trip Canceled (Eden-Vernon Busway &amp; Sherwood/Vernon Ave)</title>
-      <link>https://www.metrotransit.org/route/46</link>
-      <guid isPermaLink="false">Metro Transit-53279-2026-09-24T11:59:44.000Z</guid>
-      <pubDate>Thu, 24 Sep 2026 11:59:44 GMT</pubDate>
+      <title>[Critical] Route 68: Northbound 12:54 PM Trip Canceled (South St &amp; 5th Ave S)</title>
+      <link>https://www.metrotransit.org/route/68</link>
+      <guid isPermaLink="false">Metro Transit-53293-2026-09-24T17:54:05.000Z</guid>
+      <pubDate>Thu, 24 Sep 2026 17:54:05 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 46</category>
-      <description>Eastbound Route 46 trip departing Eden-Vernon Busway &amp; Sherwood/Vernon Ave at 7:00 AM canceled today due to maintenance work</description>
+      <category>Route 68</category>
+      <description>Northbound Route 68 trip departing South St &amp; 5th Ave S at 12:54 PM canceled today due to medical emergency</description>
+    </item>
+    <item>
+      <title>[Critical] Route 72: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/72</link>
+      <guid isPermaLink="false">Metro Transit-53282-2026-09-24T17:50:00.000Z</guid>
+      <pubDate>Thu, 24 Sep 2026 17:50:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 72</category>
+      <description>Route 72 trip departing Sun Ray Transit Center &amp; Gate D at 1:20 PM and eight other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 805: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/805</link>
+      <guid isPermaLink="false">Metro Transit-53283-2026-09-24T16:04:01.000Z</guid>
+      <pubDate>Thu, 24 Sep 2026 16:04:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 805</category>
+      <description>Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and thirteen other trips canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
@@ -35,15 +53,6 @@
       <description>Snelling &amp; Grand Station - Stop #17366 (northbound) and Snelling &amp; Grand Station - Stop #17312 (southbound) are closed for A Line beginning Mon Jul 20 at 4:00 AM until further notice due to construction. Board at: Snelling &amp; St Clair Station - Stop #56116 (northbound); Temporary stop on Snelling Ave &amp; Summit Ave (northbound); Snelling &amp; Dayton Station - Stop #17371 (northbound). | Action: Board at: Snelling &amp; St Clair Station - Stop #56116 (northbound); Temporary stop on Snelling Ave &amp; Summit Ave (northbound); Snelling &amp; Dayton Station - Stop #17371 (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] METRO A Line: Detour via Ford Pkwy (Fairview Ave to Davern St)</title>
-      <link>https://www.metrotransit.org/route/aline</link>
-      <guid isPermaLink="false">Metro Transit-52784-2026-09-21T14:21:00.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 14:21:00 GMT</pubDate>
-      <category>Moderate</category>
-      <category>METRO A Line</category>
-      <description>METRO A Line detoured off Ford Pkwy from Fairview Ave to Davern St until further notice due to sewer work. Board at: Ford &amp; Kenneth Station - Stop #4283 (eastbound); Temporary stop on Ford Pkwy just before Fairview Ave (eastbound); Snelling &amp; Highland Station - Stop #56114 (northbound). | Action: Board at: Ford &amp; Kenneth Station - Stop #4283 (eastbound); Temporary stop on Ford Pkwy just before Fairview Ave (eastbound); Snelling &amp; Highland Station - Stop #56114 (northbound)</description>
-    </item>
-    <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
       <guid isPermaLink="false">Metro Transit-52943-2026-09-21T07:30:01.000Z</guid>
@@ -51,6 +60,15 @@
       <category>Moderate</category>
       <category>METRO A Line</category>
       <description>METRO A Line detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
+    </item>
+    <item>
+      <title>[Moderate] METRO A Line: Detour via Ford Pkwy (Fairview Ave to Davern St)</title>
+      <link>https://www.metrotransit.org/route/aline</link>
+      <guid isPermaLink="false">Metro Transit-53280-2026-09-24T13:12:55.000Z</guid>
+      <pubDate>Thu, 24 Sep 2026 13:12:55 GMT</pubDate>
+      <category>Moderate</category>
+      <category>METRO A Line</category>
+      <description>METRO A Line detoured off Ford Pkwy from Fairview Ave to Davern St until further notice due to sewer work. Board at: Ford &amp; Kenneth Station - Stop #4283 (eastbound); Temporary stop on Ford Pkwy just before Fairview Ave (eastbound); Snelling &amp; Highland Station - Stop #56114 (northbound). | Action: Board at: Ford &amp; Kenneth Station - Stop #4283 (eastbound); Temporary stop on Ford Pkwy just before Fairview Ave (eastbound); Snelling &amp; Highland Station - Stop #56114 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] METRO Blue Line: Service Advisory</title>
@@ -96,6 +114,15 @@
       <category>Moderate</category>
       <category>METRO D Line</category>
       <description>Portland &amp; 60th St Station - Stop #737 (northbound) is closed for D Line beginning Thu Sep 24 at 7:00 AM until further notice due to construction. Board at: Temporary bus stop on Portland Ave &amp; 61st St. | Action: Board at: Temporary bus stop on Portland Ave &amp; 61st St</description>
+    </item>
+    <item>
+      <title>[Moderate] METRO D Line: Detour via American Blvd &amp; Old Cedar Ave S</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-53294-2026-09-24T17:59:55.000Z</guid>
+      <pubDate>Thu, 24 Sep 2026 17:59:55 GMT</pubDate>
+      <category>Moderate</category>
+      <category>METRO D Line</category>
+      <description>METRO D Line detoured off American Blvd from Old Cedar Ave to 24th Ave from Tue Sep 29 at 9:00 PM to Wed Sep 30 at 5:00 AM due to construction. Board at: MOA Transit Station Gate A - Stop #56873 (southbound); American Blvd &amp; Old Cedar Ave S - Stop #4514 (westbound); American &amp; Bloomington Station - Stop #56921 (westbound). | Action: Board at: MOA Transit Station Gate A - Stop #56873 (southbound); American Blvd &amp; Old Cedar Ave S - Stop #4514 (westbound); American &amp; Bloomington Station - Stop #56921 (westbound)</description>
     </item>
     <item>
       <title>[Moderate] METRO E Line: Detour via left on Hennepin Ave &amp; resume regular route.
@@ -271,6 +298,15 @@ Affected st</title>
       <description>Route 5 detoured off Chicago Ave from 56th St to 46th St from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Chicago Ave S &amp; 56th St E - Stop #51212 (southbound); Chicago &amp; 46th St Station - Stop #56923 (northbound). | Action: Board at: Chicago Ave S &amp; 56th St E - Stop #51212 (southbound); Chicago &amp; 46th St Station - Stop #56923 (northbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 5: Stop Closed at Chicago Ave S &amp; 8th St S</title>
+      <link>https://www.metrotransit.org/route/5</link>
+      <guid isPermaLink="false">Metro Transit-53284-2026-09-24T14:09:20.000Z</guid>
+      <pubDate>Thu, 24 Sep 2026 14:09:20 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 5</category>
+      <description>Chicago Ave S &amp; 8th St S - Stop #819 (northbound) is closed for Route 5 beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Chicago &amp; 14th St Station - Stop #56929 (northbound); 7th St &amp; Park Station - Stop #17897 (westbound). | Action: Board at: Chicago &amp; 14th St Station - Stop #56929 (northbound); 7th St &amp; Park Station - Stop #17897 (westbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 7: Stop Closed at Plymouth Ave &amp; Lyndale Ave N</title>
       <link>https://www.metrotransit.org/route/7</link>
       <guid isPermaLink="false">Metro Transit-52092-2026-09-08T00:00:02.000Z</guid>
@@ -404,6 +440,15 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 11</category>
       <description>Route 11 detoured off Hennepin Ave from Washington Ave to 2nd St NE from 6:00 PM to 6:00 AM on 9/23 -9/25 each day due to mill and overlay work. Board at: Nicollet Mall &amp; 3rd St S - Stop #17998 (northbound); 2nd St NE &amp; 1st Ave NE - Stop #14691 (northbound). | Action: Board at: Nicollet Mall &amp; 3rd St S - Stop #17998 (northbound); 2nd St NE &amp; 1st Ave NE - Stop #14691 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 11, Route 32: Stop Closed at Lowry Ave NE &amp; Grand St N</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-53291-2026-09-24T16:07:45.000Z</guid>
+      <pubDate>Thu, 24 Sep 2026 16:07:45 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 11, Route 32</category>
+      <description>Lowry Ave NE &amp; Grand St NE - Stop #12797 (westbound) and Lowry Ave NE &amp; Grand St NE - Stop #12798 (eastbound) are closed for Routes 11 and 32 beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Lowry Ave NE &amp; 2nd St / 1st St NE - Stop #42202 (westbound); Grand St NE &amp; 26th Ave NE - Stop #14640 (northbound). | Action: Board at: Lowry Ave NE &amp; 2nd St / 1st St NE - Stop #42202 (westbound); Grand St NE &amp; 26th Ave NE - Stop #14640 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 14, Route 5: Stop Closed at Selected Stop</title>
@@ -777,6 +822,15 @@ Affected st</title>
       <description>Route 64 detoured off 7th St E from Lafayette Ave to Burr St starting Mon Sep 14 at 5:00 AM until further notice due to construction. Board at: 7th St E &amp; Wall St - Stop #57215 (eastbound); 5th St &amp; Jackson St - Stop #11838 (eastbound); Burr St &amp; Tedesco St - Stop #11776 (northbound). | Action: Board at: 7th St E &amp; Wall St - Stop #57215 (eastbound); 5th St &amp; Jackson St - Stop #11838 (eastbound); Burr St &amp; Tedesco St - Stop #11776 (northbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 65: Detour via Summit Ave &amp; Dale St</title>
+      <link>https://www.metrotransit.org/route/65</link>
+      <guid isPermaLink="false">Metro Transit-53281-2026-09-24T13:21:00.000Z</guid>
+      <pubDate>Thu, 24 Sep 2026 13:21:00 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 65</category>
+      <description>Route 65 detoured off Dale St from Rondo Ave to Grand Ave beginning Mon May 18 at 7:00 AM until further notice due to construction. Board at: Summit Ave &amp; Dale St - Stop #10761 (eastbound); Temporary stop on Kent St &amp; Selby Ave (northbound); Temporary stop on Kent St &amp; Marshall Ave (northbound). | Action: Board at: Summit Ave &amp; Dale St - Stop #10761 (eastbound); Temporary stop on Kent St &amp; Selby Ave (northbound); Temporary stop on Kent St &amp; Marshall Ave (northbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 67: Stop Closed at Minnehaha Ave &amp; Dale St</title>
       <link>https://www.metrotransit.org/route/67</link>
       <guid isPermaLink="false">Metro Transit-51838-2026-08-26T18:48:01.000Z</guid>
@@ -930,13 +984,13 @@ Affected st</title>
       <description>Co Rd C &amp; Victoria St - Stop #45337 (westbound) is closed for Route 223 until further notice due to construction. Board at: Temporary stop on Co Rd C just before Victoria St (westbound); Co Rd C &amp; Avon St - Stop #45335 (westbound). | Action: Board at: Temporary stop on Co Rd C just before Victoria St (westbound); Co Rd C &amp; Avon St - Stop #45335 (westbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 225: Detour via Snelling Dr N &amp; Lydia Ave</title>
+      <title>[Moderate] Route 225: Detour via Co Rd E &amp; Pine Tree Dr</title>
       <link>https://www.metrotransit.org/route/225</link>
-      <guid isPermaLink="false">Metro Transit-53234-2026-09-24T05:00:01.000Z</guid>
-      <pubDate>Thu, 24 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53234-2026-09-24T16:33:20.000Z</guid>
+      <pubDate>Thu, 24 Sep 2026 16:33:20 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 225</category>
-      <description>Route 225 detoured off Snelling Ave from Co Rd E to Lydia Ave from Fri Sep 25 at 9:00 AM to Mon Sep 28 at 5:00 AM due to construction. Board at: Co Rd E &amp; #1200 - Stop #49194 (westbound); Snelling Dr N &amp; Lydia Ave - Stop #52235 (southbound). | Action: Board at: Co Rd E &amp; #1200 - Stop #49194 (westbound); Snelling Dr N &amp; Lydia Ave - Stop #52235 (southbound)</description>
+      <description>Route 225 detoured off Snelling Ave from Co Rd E to Lydia Ave from Fri Sep 25 at 9:00 PM to Mon Sep 28 at 5:00 AM due to construction. Board at: Co Rd E &amp; #1200 - Stop #49194 (westbound). | Action: Board at: Co Rd E &amp; #1200 - Stop #49194 (westbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 275, Route 860: Detour via 5th St &amp; Minnesota St</title>
@@ -955,6 +1009,15 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 294</category>
       <description>Route 294 detoured off Stillwater Blvd from Pine St to Greeley St beginning at 9 PM until further notice due to construction. Board at: Stillwater Blvd &amp; Pine St W - Stop #47078 (northbound); Temporary Stop from Pine St W and Pine Trl St S; Temporary Stop from Pine St W and Seeley St S. | Action: Board at: Stillwater Blvd &amp; Pine St W - Stop #47078 (northbound); Temporary Stop from Pine St W and Pine Trl St S; Temporary Stop from Pine St W and Seeley St S</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 515, Route 542: Detour via American Blvd &amp; Old Cedar Ave S</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-53295-2026-09-24T18:07:13.000Z</guid>
+      <pubDate>Thu, 24 Sep 2026 18:07:13 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 515, Route 542</category>
+      <description>Routes 515 and 542 detoured off American Blvd from Old Cedar Ave to 24th Ave from Tue Sep 29 at 9:00 PM to Wed Sep 30 at 5:00 AM due to construction. Board at: American &amp; Bloomington Station - Stop #42318 (eastbound); American Blvd &amp; Old Cedar Ave S - Stop #4529 (eastbound); MOA Transit Station Gate E - Stop #56877 (southbound, Route 515 only). | Action: Board at: American &amp; Bloomington Station - Stop #42318 (eastbound); American Blvd &amp; Old Cedar Ave S - Stop #4529 (eastbound); MOA Transit Station Gate E - Stop #56877 (southbound, Route 515 only)</description>
     </item>
     <item>
       <title>[Moderate] Route 534: Stop Closed at Penn Ave S &amp; 82nd St W</title>
@@ -991,15 +1054,6 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 537</category>
       <description>Route 537 detoured off France Ave from 76th St to 70th St and off 70th St from France Ave to York Ave beginning Wed Sep 16 at 6:00 PM until further notice due to construction. Board at: France Ave S &amp; Minnesota Dr - Stop #57520 (northbound); 76th St W &amp; Centennial Lakes Office Park - Stop #52038 (eastbound); York Ave S &amp; 70th St W - Stop #50601 (northbound). | Action: Board at: France Ave S &amp; Minnesota Dr - Stop #57520 (northbound); 76th St W &amp; Centennial Lakes Office Park - Stop #52038 (eastbound); York Ave S &amp; 70th St W - Stop #50601 (northbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 538: Detour via York Ave S &amp; Walker Eldersuites - St</title>
-      <link>https://www.metrotransit.org/route/538</link>
-      <guid isPermaLink="false">Metro Transit-52557-2026-09-17T12:00:01.000Z</guid>
-      <pubDate>Thu, 17 Sep 2026 12:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 538</category>
-      <description>Route 538 detoured out of 3400 Parklawn turnaround beginning Thu Sep 10 at 7:00 AM until further notice due to construction. Board at: York Ave S &amp; Walker Eldersuites - Stop #20195 (southbound); Temporary stop on Parklawn Ave just before #3400 Parklawn driveway (westbound); York Ave S &amp; 76th St W - Stop #42325 (southbound). | Action: Board at: York Ave S &amp; Walker Eldersuites - Stop #20195 (southbound); Temporary stop on Parklawn Ave just before #3400 Parklawn driveway (westbound); York Ave S &amp; 76th St W - Stop #42325 (southbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 540: Stop Closed at 77th St W &amp; Nicollet Ave S</title>

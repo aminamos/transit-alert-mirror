@@ -2,17 +2,17 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-130-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-124-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-136-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-128-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-74-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-78-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-24T13:09:02.187Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-24T18:08:54.012Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (4) • **METRO E Line** (4) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (4) • **Route 3** (3) • **Route 3A** (2) • **Route 4** (4) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (5) • **Route 9** (5) • **Route 10** (2) • **Route 11** (5) • **Route 14** (3) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 30** (2) • **Route 36** (3) • **Route 38** (5) • **Route 46** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (1) • **Route 63** (3) • **Route 64** (5) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 225** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (2) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (5) • **METRO E Line** (4) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (4) • **Route 3** (3) • **Route 3A** (2) • **Route 4** (4) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (5) • **Route 7** (5) • **Route 9** (5) • **Route 10** (2) • **Route 11** (6) • **Route 14** (3) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 30** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (5) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (1) • **Route 63** (3) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 225** (1) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
@@ -23,47 +23,141 @@
 - **Severity**: `Critical`
 - **Corridors & Intersections**: 53 AM
 departing Knox Ave N & Golden Valley Rd; 56 AM
+departing Knox Ave N & Golden Valley Rd; 56 PM
+departing Knox Ave N & Golden Valley Rd; 54 PM
 departing Knox Ave N & Golden Valley Rd
 
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today due to maintenance work
+**Summary**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and thirteen other trips canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/30)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today due to maintenance work
+**Header**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and thirteen other trips canceled today
 
 ```text
+Updated at 8:43 AM to cancel additional trips.
+
 Affected eastbound trips:
 departing Golden Valley Rd Turn & Xerxes Ave N at 7:53 AM
 departing Knox Ave N & Golden Valley Rd at 9:56 AM
 departing Knox Ave N & Golden Valley Rd at 11:56 AM
+departing Knox Ave N & Golden Valley Rd at 1:56 PM
+departing Knox Ave N & Golden Valley Rd at 3:54 PM
+departing Knox Ave N & Golden Valley Rd at 5:56 PM
+departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM
 
 Affected westbound trips:
 departing Westgate Station - Gate B at 7:07 AM
 departing Westgate Station - Gate B at 9:06 AM
 departing Westgate Station - Gate B at 11:04 AM
+departing Westgate Station - Gate B at 1:04 PM
+departing Westgate Station - Gate B at 3:04 PM
+departing Westgate Station - Gate B at 5:04 PM
+departing Westgate Station - Gate B at 7:05 PM
 ```
 
 </details>
 
 ---
 
-### 🚨 Route 46: Eastbound 7:00 AM Trip Canceled (Eden-Vernon Busway & Sherwood/Vernon Ave)
+### 🚨 Route 68: Northbound 12:54 PM Trip Canceled (South St & 5th Ave S)
 
-- **Affected Routes**: `Route 46`
-- **Direction**: Eastbound
+- **Affected Routes**: `Route 68`
+- **Direction**: Northbound
 - **Severity**: `Critical`
 
-**Summary**: Eastbound Route 46 trip departing Eden-Vernon Busway & Sherwood/Vernon Ave at 7:00 AM canceled today due to maintenance work
+**Summary**: Northbound Route 68 trip departing South St & 5th Ave S at 12:54 PM canceled today due to medical emergency
 
-[Official Agency Advisory](https://www.metrotransit.org/route/46)
+[Official Agency Advisory](https://www.metrotransit.org/route/68)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Route 46 trip departing Eden-Vernon Busway & Sherwood/Vernon Ave at 7:00 AM canceled today due to maintenance work
+**Header**: Northbound Route 68 trip departing South St & 5th Ave S at 12:54 PM canceled today due to medical emergency
+
+</details>
+
+---
+
+### 🚨 Route 72: Service Canceled
+
+- **Affected Routes**: `Route 72`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing Pascal St N & Central Ave W; 20 PM
+departing Pascal St N & Central Ave W; 21 PM
+departing Pascal St N & Central Ave W
+
+**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 1:20 PM and eight other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/72)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 1:20 PM and eight other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Pascal St N & Central Ave W at 2:20 PM
+departing Pascal St N & Central Ave W at 4:20 PM
+departing Pascal St N & Central Ave W at 6:21 PM
+departing Pascal St N & Central Ave W at 8:23 PM
+
+Affected westbound trips:
+departing Sun Ray Transit Center & Gate D at 1:20 PM
+departing Sun Ray Transit Center & Gate D at 3:19 PM
+departing Sun Ray Transit Center & Gate D at 5:18 PM
+departing Sun Ray Transit Center & Gate D at 7:21 PM
+departing Sun Ray Transit Center & Gate D at 9:21 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 805: Service Canceled
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing 1st Ave S & Monroe St; 38 AM
+departing 1st Ave S & Monroe St; 38 PM
+departing 1st Ave S & Monroe St; 36 PM
+departing 1st Ave S & Monroe St
+
+**Summary**: Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and thirteen other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and thirteen other trips canceled today
+
+```text
+Updated at 9:32 AM to cancel additional trips.
+
+Affected northbound trips:
+departing Northtown Transit Ctr Gate D at 11:34 AM
+departing Northtown Transit Ctr Gate D at 12:34 PM
+departing Northtown Transit Ctr Gate D at 1:34 PM
+departing Northtown Transit Ctr Gate D at 2:34 PM
+departing Northtown Transit Ctr Gate D at 3:34 PM
+departing Northtown Transit Ctr Gate D at 4:34 PM
+departing Northtown Transit Ctr Gate D at 5:34 PM
+
+Affected southbound trips:
+departing 1st Ave S & Monroe St at 11:38 AM
+departing 1st Ave S & Monroe St at 12:38 PM
+departing 1st Ave S & Monroe St at 1:38 PM
+departing 1st Ave S & Monroe St at 2:36 PM
+departing 1st Ave S & Monroe St at 3:36 PM
+departing 1st Ave S & Monroe St at 4:36 PM
+departing 1st Ave S & Monroe St at 5:38 PM
+```
 
 </details>
 
@@ -107,49 +201,6 @@ Snelling & St Clair Station - Stop #17318 (southbound)
 
 ---
 
-### ⚠️ METRO A Line: Detour via Ford Pkwy (Fairview Ave to Davern St)
-
-- **Affected Routes**: `METRO A Line`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Ford Pkwy (Fairview Ave to Davern St)
-- **Closed Stops**: Ford & Fairview Station (Stop #56113), Stop #4283, Stop #56114
-
-**Summary**: METRO A Line detoured off Ford Pkwy from Fairview Ave to Davern St until further notice due to sewer work. Board at: Ford & Kenneth Station - Stop #4283 (eastbound); Temporary stop on Ford Pkwy just before Fairview Ave (eastbound); Snelling & Highland Station - Stop #56114 (northbound).
-
-> 💡 **Rider Action**: Board at: Ford & Kenneth Station - Stop #4283 (eastbound); Temporary stop on Ford Pkwy just before Fairview Ave (eastbound); Snelling & Highland Station - Stop #56114 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on Ford Pkwy to Fairview Ave, right on Fairview, left on Hillcrest Ave, left on Davern St, right on Ford Pkwy, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/aline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: METRO A Line detoured off Ford Pkwy from Fairview Ave to Davern St until further notice due to sewer work
-
-```text
-Updated southbound detour
-
-Get on/off northbound buses at:
-Ford & Kenneth Station - Stop #4283 (eastbound)
-Temporary stop on Ford Pkwy just before Fairview Ave (eastbound)
-Snelling & Highland Station - Stop #56114 (northbound)
-
-No southbound stations missed.
-
-Northbound buses will travel regular route on Ford Pkwy to Fairview Ave, right on Fairview, left on Hillcrest Ave, left on Davern St, right on Ford Pkwy, and resume regular route.
-
-Southbound buses will travel regular route on Ford Pkwy to Davern St, right on Davern, left on Highland Pkwy, left on Fairview Ave, right on Ford Pkwy, and resume regular route.
-
-Affected stops:
-Ford & Fairview Station - Stop #56113 (eastbound)
-```
-
-</details>
-
----
-
 ### ⚠️ METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)
 
 - **Affected Routes**: `METRO A Line`
@@ -175,6 +226,49 @@ No stops missed.
 Northbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.
 
 Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.
+```
+
+</details>
+
+---
+
+### ⚠️ METRO A Line: Detour via Ford Pkwy (Fairview Ave to Davern St)
+
+- **Affected Routes**: `METRO A Line`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Ford Pkwy (Fairview Ave to Davern St)
+- **Closed Stops**: Ford & Fairview Station (Stop #56113), Stop #4283, Stop #56114
+
+**Summary**: METRO A Line detoured off Ford Pkwy from Fairview Ave to Davern St until further notice due to sewer work. Board at: Ford & Kenneth Station - Stop #4283 (eastbound); Temporary stop on Ford Pkwy just before Fairview Ave (eastbound); Snelling & Highland Station - Stop #56114 (northbound).
+
+> 💡 **Rider Action**: Board at: Ford & Kenneth Station - Stop #4283 (eastbound); Temporary stop on Ford Pkwy just before Fairview Ave (eastbound); Snelling & Highland Station - Stop #56114 (northbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route on Ford Pkwy to Fairview Ave, right on Fairview, left on Hillcrest Ave, left on Davern St, right on Ford Pkwy, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/aline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: METRO A Line detoured off Ford Pkwy from Fairview Ave to Davern St until further notice due to sewer work
+
+```text
+Update on 9/24 at 8:10am: southbound buses back to regular.
+
+Get on/off northbound buses at:
+Ford & Kenneth Station - Stop #4283 (eastbound)
+Temporary stop on Ford Pkwy just before Fairview Ave (eastbound)
+Snelling & Highland Station - Stop #56114 (northbound)
+
+No southbound stations missed.
+
+Northbound buses will travel regular route on Ford Pkwy to Fairview Ave, right on Fairview, left on Hillcrest Ave, left on Davern St, right on Ford Pkwy, and resume regular route.
+
+Southbound buses will travel regular route.
+
+Affected stops:
+Ford & Fairview Station - Stop #56113 (eastbound)
 ```
 
 </details>
@@ -356,6 +450,51 @@ Update 9/24 at 7:20am: get on/off stop
 
 Get on/off buses at:
 Temporary bus stop on Portland Ave & 61st St
+```
+
+</details>
+
+---
+
+### ⚠️ METRO D Line: Detour via American Blvd & Old Cedar Ave S
+
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: American Blvd & Old Cedar Ave S
+- **Closed Stops**: American & Thunderbird Station (Stop #4513), American & Thunderbird Station (Stop #4530), Stop #56873, Stop #4514, Stop #56921, Stop #42318, Stop #4529
+
+**Summary**: METRO D Line detoured off American Blvd from Old Cedar Ave to 24th Ave from Tue Sep 29 at 9:00 PM to Wed Sep 30 at 5:00 AM due to construction. Board at: MOA Transit Station Gate A - Stop #56873 (southbound); American Blvd & Old Cedar Ave S - Stop #4514 (westbound); American & Bloomington Station - Stop #56921 (westbound).
+
+> 💡 **Rider Action**: Board at: MOA Transit Station Gate A - Stop #56873 (southbound); American Blvd & Old Cedar Ave S - Stop #4514 (westbound); American & Bloomington Station - Stop #56921 (westbound)
+
+> 🔄 **Detour Path**: Southbound buses will travel regular route on American Blvd to Old Cedar, right on Old Cedar Ave, left on 86th St, left on Old Shakopee Rd, left on Winstead Way, left on 82nd St, left on 24th Ave and right into Mall of America.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: METRO D Line detoured off American Blvd from Old Cedar Ave to 24th Ave from Tue Sep 29 at 9:00 PM to Wed Sep 30 at 5:00 AM due to construction
+
+```text
+Get on/off northbound buses at:
+MOA Transit Station Gate A - Stop #56873 (southbound)
+American Blvd & Old Cedar Ave S - Stop #4514 (westbound)
+American & Bloomington Station - Stop #56921 (westbound)
+
+Get on/off southbound buses at:
+American & Bloomington Station - Stop #42318 (eastbound)
+American Blvd & Old Cedar Ave S - Stop #4529 (eastbound)
+MOA Transit Station Gate A - Stop #56873 (southbound)
+
+Northbound buses will depart Mall of America, right on 24th Ave which turns into Old Shakopee Rd, right on 86th St, right on Old Cedar Ave, left on American Blvd and resume regular route.
+
+Southbound buses will travel regular route on American Blvd to Old Cedar, right on Old Cedar Ave, left on 86th St, left on Old Shakopee Rd, left on Winstead Way, left on 82nd St, left on 24th Ave and right into Mall of America. 
+
+Affected stops:
+American & Thunderbird Station - Stop #4513 (westbound)
+American & Thunderbird Station - Stop #4530 (eastbound)
 ```
 
 </details>
@@ -1395,6 +1534,36 @@ Chicago Ave S & 54th St E - Stop #73 (southbound)
 
 ---
 
+### ⚠️ Route 5: Stop Closed at Chicago Ave S & 8th St S
+
+- **Affected Routes**: `Route 5`
+- **Direction**: Northbound
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Mon Sep 28 at 7:00 AM until further notice
+- **Corridors & Intersections**: Chicago Ave S & 8th St S; 7th St & Park St
+- **Closed Stops**: Stop #56929, Stop #17897, Stop #819
+
+**Summary**: Chicago Ave S & 8th St S - Stop #819 (northbound) is closed for Route 5 beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Chicago & 14th St Station - Stop #56929 (northbound); 7th St & Park Station - Stop #17897 (westbound).
+
+> 💡 **Rider Action**: Board at: Chicago & 14th St Station - Stop #56929 (northbound); 7th St & Park Station - Stop #17897 (westbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/5)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Chicago Ave S & 8th St S - Stop #819 (northbound) is closed for Route 5 beginning Mon Sep 28 at 7:00 AM until further notice due to construction
+
+```text
+Get on/off buses at:
+Chicago & 14th St Station - Stop #56929 (northbound)
+7th St & Park Station - Stop #17897 (westbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 7: Stop Closed at Plymouth Ave & Lyndale Ave N
 
 - **Affected Routes**: `Route 7`
@@ -2018,6 +2187,46 @@ Hennepin Ave E & Wilder St - Stop #17953 (eastbound)
 1st Ave & 2nd St NE Station - Stop #15562 (westbound)
 Hennepin Ave E & De LaSalle Dr - Stop #17916 (southbound)
 Hennepin Ave & 1st St N - Stop #17917 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 11, Route 32: Stop Closed at Lowry Ave NE & Grand St N
+
+- **Affected Routes**: `Route 11` `Route 32`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Mon Sep 28 at 7:00 AM until further notice
+- **Corridors & Intersections**: Lowry Ave NE & Grand St N; and Lowry Ave NE & Grand St N; Lowry Ave NE & 2nd St; Grand St NE & 26th Ave N; Lowry Ave NE & 2nd St N
+- **Closed Stops**: Stop #12797, Stop #12798, Stop #42202, Stop #14640, Stop #14641, Stop #12802, Stop #12195, Stop #12196
+
+**Summary**: Lowry Ave NE & Grand St NE - Stop #12797 (westbound) and Lowry Ave NE & Grand St NE - Stop #12798 (eastbound) are closed for Routes 11 and 32 beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Lowry Ave NE & 2nd St / 1st St NE - Stop #42202 (westbound); Grand St NE & 26th Ave NE - Stop #14640 (northbound).
+
+> 💡 **Rider Action**: Board at: Lowry Ave NE & 2nd St / 1st St NE - Stop #42202 (westbound); Grand St NE & 26th Ave NE - Stop #14640 (northbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Lowry Ave NE & Grand St NE - Stop #12797 (westbound) and Lowry Ave NE & Grand St NE - Stop #12798 (eastbound) are closed for Routes 11 and 32 beginning Mon Sep 28 at 7:00 AM until further notice due to construction
+
+```text
+Get on/off northbound 11 buses at:
+Lowry Ave NE & 2nd St / 1st St NE - Stop #42202 (westbound)
+Grand St NE & 26th Ave NE - Stop #14640 (northbound)
+
+Get on/off southbound 11 buses at:
+Grand St NE & 26th Ave NE - Stop #14641 (southbound)
+Lowry Ave NE & 2nd St NE - Stop #12802 (eastbound)
+
+Get on/off eastbound 32 buses at:
+Lowry Ave NE & Marshall St NE - Stop #12195 (eastbound)
+Lowry Ave NE & 2nd St NE - Stop #12802 (eastbound)
+
+Get on/off westbound 32 buses at:
+Lowry Ave NE & 2nd St / 1st St NE - Stop #42202 (westbound)
+Lowry Ave NE & Marshall St NE - Stop #12196 (westbound)
 ```
 
 </details>
@@ -3977,6 +4186,67 @@ LaFayette Rd & 8th St - Stop #11925 (southbound)
 
 ---
 
+### ⚠️ Route 65: Detour via Summit Ave & Dale St
+
+- **Affected Routes**: `Route 65`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Mon May 18 at 7:00 AM until further notice
+- **Corridors & Intersections**: Summit Ave & Dale St; Kent St & Selby Ave; Kent St & Marshall Ave; Dale St & Fuller Ave; Marshall Ave & Kent St
+- **Closed Stops**: Dale St & Grand Ave (Stop #10680), Dale St & Summit Ave / Portland Ave (Stop #10681), Dale St & Holly Ave (Stop #10684), Dale St & Selby Ave (Stop #10685), Dale St & Marshall Ave (Stop #10688), Dale St & Iglehart Ave (Stop #10689), Dale St & Rondo Ave (Stop #10691), Dale St & Carroll Ave (Stop #10752) *(+7 more)*
+
+**Summary**: Route 65 detoured off Dale St from Rondo Ave to Grand Ave beginning Mon May 18 at 7:00 AM until further notice due to construction. Board at: Summit Ave & Dale St - Stop #10761 (eastbound); Temporary stop on Kent St & Selby Ave (northbound); Temporary stop on Kent St & Marshall Ave (northbound).
+
+> 💡 **Rider Action**: Board at: Summit Ave & Dale St - Stop #10761 (eastbound); Temporary stop on Kent St & Selby Ave (northbound); Temporary stop on Kent St & Marshall Ave (northbound)
+
+> 🔄 **Detour Path**: Southbound buses will travel the regular route on Dale St to Rondo Ave, left on Rondo Ave, right on Arundel St, right on Marshall Ave, left on Kent St, right on Summit Ave, left on Oakland Ave, right on Grand Ave, right on Dale St, right on Summit Ave and layover on eastbound Summit Ave just past Dale St.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/65)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 65 detoured off Dale St from Rondo Ave to Grand Ave beginning Mon May 18 at 7:00 AM until further notice due to construction
+
+```text
+Updated get on/off stops 6/10 10:30 am.
+
+For northbound Route 65 get on/off buses at:
+Summit Ave & Dale St - Stop #10761 (eastbound)
+Temporary stop on Kent St & Selby Ave (northbound)
+Temporary stop on Kent St & Marshall Ave (northbound)
+Dale St & Fuller Ave - Stop #10693 (northbound)
+
+For southbound Route 65 get on/off buses at:
+Dale St & Fuller Ave - Stop #10748 (southbound)
+Temporary stop on Marshall Ave & Kent St (westbound)
+Temporary stop on Kent St & Selby Ave (southbound)
+Summit Ave & Dale St - Stop #10761 (eastbound)
+
+Northbound buses will depart the temporary terminal on eastbound Summit Ave just past Dale St, continue on Summit Ave, left on Kent St, right on Marshall Ave, left on Arundel St, right on Concordia Ave, left on Western Ave, left on St Anthony Ave, right on Dale St, and resume the regular route.
+
+Southbound buses will travel the regular route on Dale St to Rondo Ave, left on Rondo Ave, right on Arundel St, right on Marshall Ave, left on Kent St, right on Summit Ave, left on Oakland Ave, right on Grand Ave, right on Dale St, right on Summit Ave and layover on eastbound Summit Ave just past Dale St.
+
+Affected stops:
+Dale St & Grand Ave - Stop #10680 (northbound)
+Dale St & Summit Ave / Portland Ave - Stop #10681 (northbound)
+Dale St & Holly Ave - Stop #10684 (northbound)
+Dale St & Selby Ave - Stop #10685 (northbound)
+Dale St & Marshall Ave - Stop #10688 (northbound)
+Dale St & Iglehart Ave - Stop #10689 (northbound)
+Dale St & Rondo Ave - Stop #10691 (northbound)
+Dale St & Carroll Ave - Stop #10752 (southbound)
+Dale St & Iglehart Ave - Stop #10753 (southbound)
+Dale St & Marshall Ave - Stop #10754 (southbound)
+Dale St N & Selby Ave - Stop #53780 (southbound)
+Dale St & Ashland Ave - Stop #10758 (southbound)
+Summit Ave & Dale St - Stop #10761 (eastbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 67: Stop Closed at Minnehaha Ave & Dale St
 
 - **Affected Routes**: `Route 67`
@@ -4710,35 +4980,36 @@ Co Rd C & Avon St - Stop #45335 (westbound)
 
 ---
 
-### ⚠️ Route 225: Detour via Snelling Dr N & Lydia Ave
+### ⚠️ Route 225: Detour via Co Rd E & Pine Tree Dr
 
 - **Affected Routes**: `Route 225`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Snelling Dr N & Lydia Ave; Co Rd E & Pine Tree Dr
-- **Closed Stops**: Co Rd E & Pine Tree Dr (Stop #49195), Stop #1200, Stop #49194, Stop #52235
+- **Corridors & Intersections**: Co Rd E & Pine Tree Dr
+- **Closed Stops**: Co Rd E & Pine Tree Dr (Stop #49195), Stop #1200, Stop #49194
 
-**Summary**: Route 225 detoured off Snelling Ave from Co Rd E to Lydia Ave from Fri Sep 25 at 9:00 AM to Mon Sep 28 at 5:00 AM due to construction. Board at: Co Rd E & #1200 - Stop #49194 (westbound); Snelling Dr N & Lydia Ave - Stop #52235 (southbound).
+**Summary**: Route 225 detoured off Snelling Ave from Co Rd E to Lydia Ave from Fri Sep 25 at 9:00 PM to Mon Sep 28 at 5:00 AM due to construction. Board at: Co Rd E & #1200 - Stop #49194 (westbound).
 
-> 💡 **Rider Action**: Board at: Co Rd E & #1200 - Stop #49194 (westbound); Snelling Dr N & Lydia Ave - Stop #52235 (southbound)
+> 💡 **Rider Action**: Board at: Co Rd E & #1200 - Stop #49194 (westbound)
 
-> 🔄 **Detour Path**: Northbound buses will travel regular route. No northbound bus stops missed.
+> 🔄 **Detour Path**: Northbound buses will travel regular route.
 
 [Official Agency Advisory](https://www.metrotransit.org/route/225)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 225 detoured off Snelling Ave from Co Rd E to Lydia Ave from Fri Sep 25 at 9:00 AM to Mon Sep 28 at 5:00 AM due to construction
+**Header**: Route 225 detoured off Snelling Ave from Co Rd E to Lydia Ave from Fri Sep 25 at 9:00 PM to Mon Sep 28 at 5:00 AM due to construction
 
 ```text
+Updated start time 9/24 11:30 am.
+
 Get on/off southbound buses at:
 Co Rd E & #1200 - Stop #49194 (westbound)
-Snelling Dr N & Lydia Ave - Stop #52235 (southbound)
 
-Northbound buses will travel regular route. No northbound bus stops missed.
+Northbound buses will travel regular route.
 
-Southbound buses will travel regular route on Co Rd E to Pine Tree Dr, left on Pine Tree Dr which turns into Harriet Ave, right on Lexington Ave, right on Josephine Rd, left on Hamline Ave, right on Lydia Ave, left on Snelling Dr and resume regular route.
+Southbound buses will travel regular route on Co Rd E to Pine Tree Dr, left on Pine Tree Dr which turns into Harriet Ave, right on Lexington Ave, right on Josephine Rd, left on Hamline Ave, right on Lydia Ave, left on E Snelling service road and resume regular route.
 
 Affected direction: Southbound
 
@@ -4856,6 +5127,57 @@ Olive St W & Seeley St S - Stop #6595 (westbound)
 Olive St W & Pine Tree Trail - Stop #6596 (westbound)
 Stillwater Blvd & Fairmeadows Rd - Stop #6598 (southbound)
 Stillwater Blvd & Pine St W - Stop #6601 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 515, Route 542: Detour via American Blvd & Old Cedar Ave S
+
+- **Affected Routes**: `Route 515` `Route 542`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: American Blvd & Old Cedar Ave S; left on American Blvd & resume regular route.
+
+Affected st; American Blvd & 24th Ave S
+- **Closed Stops**: American Blvd & Old Cedar Ave S (Stop #4529), American & Thunderbird Station (Stop #4530), American Blvd & 24th Ave S (Stop #4531), American Blvd & 24th Ave S (Stop #4511), American & Thunderbird Station (Stop #4513), American Blvd & Old Cedar Ave S (Stop #4514), Stop #42318, Stop #56877 *(+2 more)*
+
+**Summary**: Routes 515 and 542 detoured off American Blvd from Old Cedar Ave to 24th Ave from Tue Sep 29 at 9:00 PM to Wed Sep 30 at 5:00 AM due to construction. Board at: American & Bloomington Station - Stop #42318 (eastbound); American Blvd & Old Cedar Ave S - Stop #4529 (eastbound); MOA Transit Station Gate E - Stop #56877 (southbound, Route 515 only).
+
+> 💡 **Rider Action**: Board at: American & Bloomington Station - Stop #42318 (eastbound); American Blvd & Old Cedar Ave S - Stop #4529 (eastbound); MOA Transit Station Gate E - Stop #56877 (southbound, Route 515 only)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on American Blvd to Old Cedar, right on Old Cedar Ave, left on 86th St, left on Old Shakopee Rd, left on Winstead Way, left on 82nd St, left on 24th Ave and right into Mall of America.
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Routes 515 and 542 detoured off American Blvd from Old Cedar Ave to 24th Ave from Tue Sep 29 at 9:00 PM to Wed Sep 30 at 5:00 AM due to construction
+
+```text
+Get on/off eastbound buses at:
+American & Bloomington Station - Stop #42318 (eastbound)
+American Blvd & Old Cedar Ave S - Stop #4529 (eastbound)
+MOA Transit Station Gate E - Stop #56877 (southbound, route 515 only)
+MOA Transit Station Gate G - Stop #56879 (northbound, route 542 only)
+
+Get on/off westbound buses at:
+MOA Transit Station Gate G - Stop #56879 (northbound, route 542 only)
+MOA Transit Station Gate E - Stop #56877 (southbound, route 515 only)
+American Blvd & Old Cedar Ave S - Stop #4514 (westbound)
+American & Bloomington Station - Stop #56921 (westbound)
+
+Eastbound buses will travel regular route on American Blvd to Old Cedar, right on Old Cedar Ave, left on 86th St, left on Old Shakopee Rd, left on Winstead Way, left on 82nd St, left on 24th Ave and right into Mall of America.
+
+Westbound buses will depart Mall of America, right on 24th Ave which turns into Old Shakopee Rd, right on 86th St, right on Old Cedar Ave, left on American Blvd and resume regular route.
+
+Affected stops:
+American Blvd & Old Cedar Ave S - Stop #4529 (eastbound)
+American & Thunderbird Station - Stop #4530 (eastbound)
+American Blvd & 24th Ave S - Stop #4531 (eastbound)
+American Blvd & 24th Ave S - Stop #4511 (westbound)
+American & Thunderbird Station - Stop #4513 (westbound)
+American Blvd & Old Cedar Ave S - Stop #4514 (westbound)
 ```
 
 </details>
@@ -5019,54 +5341,6 @@ France Ave S & 72nd St W - Stop #4374 (southbound)
 France Ave S & Gallagher Dr - Stop #4375 (southbound)
 France Ave S & Parklawn Ave - Stop #20197 (southbound)
 France Ave S & 76th St W - Stop #4376 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 538: Detour via York Ave S & Walker Eldersuites - St
-
-- **Affected Routes**: `Route 538`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Thu Sep 10 at 7:00 AM until further notice
-- **Corridors & Intersections**: York Ave S & Walker Eldersuites - St; York Ave S & 76th St W; York Ave S & Yorkdale Townhomes - St; left on York Ave & resume regular route.
-
-Affected st
-- **Closed Stops**: #3400 Entrance & Parklawn Ave (Stop #44364), York Ave S & 76th St W (Stop #2024), Stop #20195, Stop #3400, Stop #42325, Stop #7701, Stop #3735, Stop #2026
-
-**Summary**: Route 538 detoured out of 3400 Parklawn turnaround beginning Thu Sep 10 at 7:00 AM until further notice due to construction. Board at: York Ave S & Walker Eldersuites - Stop #20195 (southbound); Temporary stop on Parklawn Ave just before #3400 Parklawn driveway (westbound); York Ave S & 76th St W - Stop #42325 (southbound).
-
-> 💡 **Rider Action**: Board at: York Ave S & Walker Eldersuites - Stop #20195 (southbound); Temporary stop on Parklawn Ave just before #3400 Parklawn driveway (westbound); York Ave S & 76th St W - Stop #42325 (southbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on York Ave to Parklawn Ave, right on Parklawn Ave, left on Edinborough Way, left on 76th St, right on York Ave and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/538)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 538 detoured out of 3400 Parklawn turnaround beginning Thu Sep 10 at 7:00 AM until further notice due to construction
-
-```text
-For eastbound Route 538 get on/off buses at:
-York Ave S & Walker Eldersuites - Stop #20195 (southbound)
-Temporary stop on Parklawn Ave just before #3400 Parklawn driveway (westbound)
-York Ave S & 76th St W - Stop #42325 (southbound)
-
-For westbound Route 538 get on/off buses at:
-York Ave S & #7701 - Stop #3735 (northbound)
-Temporary stop on Parklawn Ave across from #3400 Parklawn driveway (eastbound)
-York Ave S & Yorkdale Townhomes - Stop #2026 (northbound)
-
-Eastbound buses will travel regular route on York Ave to Parklawn Ave, right on Parklawn Ave, left on Edinborough Way, left on 76th St, right on York Ave and resume regular route.
-
-Westbound buses will travel regular route on York Ave to 76th St, left on 76th St, right on Edinborough Way, right on Parklawn Ave, left on York Ave and resume regular route.
-
-Affected stops:
-#3400 Entrance & Parklawn Ave - Stop #44364 (westbound)
-York Ave S & 76th St W - Stop #2024 (northbound)
 ```
 
 </details>
