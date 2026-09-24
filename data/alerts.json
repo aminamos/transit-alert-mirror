@@ -1,124 +1,89 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-23T22:00:55.956Z",
-    "totalAlerts": 150,
-    "criticalCount": 14,
-    "moderateCount": 131,
+    "generatedAt": "2026-09-24T01:01:53.966Z",
+    "totalAlerts": 141,
+    "criticalCount": 11,
+    "moderateCount": 125,
     "minorCount": 5,
-    "affectedRoutesCount": 84,
+    "affectedRoutesCount": 82,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "53260",
+      "id": "53267",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO D Line: Northbound 3:29 PM Trip Canceled (MOA Transit Station Gate A)",
-      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 3:29 PM canceled today due to maintenance work",
+      "title": "METRO A Line: Southbound 7:37 PM Trip Canceled (Rosedale Transit Center Gate A)",
+      "summary": "Southbound A Line trip departing Rosedale Transit Center Gate A at 7:37 PM canceled today due to traffic",
       "affectedRoutes": [
-        "METRO D Line"
+        "METRO A Line"
       ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [
-        "56823",
-        "56949",
-        "56950",
-        "56951",
-        "8919",
-        "8920",
-        "8935",
-        "8945",
-        "8948",
-        "9089",
-        "9263",
-        "9646",
-        "9658",
-        "43275"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "56823"
-        },
-        {
-          "id": "56949"
-        },
-        {
-          "id": "56950"
-        },
-        {
-          "id": "56951"
-        },
-        {
-          "id": "8919"
-        },
-        {
-          "id": "8920"
-        },
-        {
-          "id": "8935"
-        },
-        {
-          "id": "8945"
-        },
-        {
-          "id": "8948"
-        },
-        {
-          "id": "9089"
-        },
-        {
-          "id": "9263"
-        },
-        {
-          "id": "9646"
-        },
-        {
-          "id": "9658"
-        },
-        {
-          "id": "43275"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-23T21:35:00.000Z",
-        "end": "2026-09-23T22:49:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-09-23T21:35:37.000Z",
-      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 3:29 PM canceled today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "53261",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 3: Eastbound 4:38 PM Trip Canceled (Washington Ave & 10th Ave N)",
-      "summary": "Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 4:38 PM canceled today due to collision",
-      "affectedRoutes": [
-        "Route 3"
-      ],
-      "direction": "Eastbound",
+      "direction": "Southbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-23T21:54:00.000Z",
-        "end": "2026-09-23T23:47:00.000Z"
+        "start": "2026-09-24T00:57:00.000Z",
+        "end": "2026-09-24T02:13:00.000Z"
       },
-      "cause": "ACCIDENT",
+      "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-09-23T21:54:34.000Z",
-      "rawHeader": "Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 4:38 PM canceled today due to collision",
+      "url": "https://www.metrotransit.org/route/aline",
+      "updatedAt": "2026-09-24T00:57:51.000Z",
+      "rawHeader": "Southbound A Line trip departing Rosedale Transit Center Gate A at 7:37 PM canceled today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "53264",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO D Line: Southbound 5:38 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)",
+      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:38 PM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "METRO D Line"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {},
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-09-24T00:58:03.000Z",
+      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:38 PM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "53266",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 22: Southbound 7:00 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)",
+      "summary": "Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 7:00 PM canceled today",
+      "affectedRoutes": [
+        "Route 22"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-24T00:48:00.000Z",
+        "end": "2026-09-24T02:19:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/22",
+      "updatedAt": "2026-09-24T00:48:41.000Z",
+      "rawHeader": "Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 7:00 PM canceled today",
       "rawDescription": ""
     },
     {
@@ -151,6 +116,32 @@
       "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 4:24 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 6:26 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 8:25 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 3:34 PM\r\ndeparting Westgate Station - Gate B at 5:34 PM\r\ndeparting Westgate Station - Gate B at 7:36 PM\r\ndeparting Westgate Station - Gate B at 9:36 PM"
     },
     {
+      "id": "53265",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 32: Westbound 7:34 PM Trip Canceled (Rosedale Transit Center Gate D)",
+      "summary": "Westbound Route 32 trip departing Rosedale Transit Center Gate D at 7:34 PM canceled today due to traffic",
+      "affectedRoutes": [
+        "Route 32"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-24T00:34:00.000Z",
+        "end": "2026-09-24T02:10:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/32",
+      "updatedAt": "2026-09-24T00:04:01.000Z",
+      "rawHeader": "Westbound Route 32 trip departing Rosedale Transit Center Gate D at 7:34 PM canceled today due to traffic",
+      "rawDescription": ""
+    },
+    {
       "id": "53249",
       "agency": "Metro Transit",
       "severity": "Critical",
@@ -176,44 +167,18 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-09-23T17:56:24.000Z",
+      "updatedAt": "2026-09-23T23:22:00.000Z",
       "rawHeader": "Route 72 trip departing Pascal St N & Central Ave W at 6:52 PM and three other trips canceled today",
       "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 6:52 PM\r\ndeparting Pascal St N & Central Ave W at 8:53 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 7:51 PM\r\ndeparting Sun Ray Transit Center & Gate D at 9:51 PM"
     },
     {
-      "id": "53257",
+      "id": "53262",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 75: Southbound 3:31 PM Trip Canceled (Cedar St & 10th St)",
-      "summary": "Southbound Route 75 trip departing Cedar St & 10th St at 3:31 PM canceled today due to disabled bus",
+      "title": "Route 80: Service Canceled",
+      "summary": "Route 80 trip departing Maplewood Mall Transit Center & Gate F at 7:12 PM and four other trips canceled today",
       "affectedRoutes": [
-        "Route 75"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-23T20:31:00.000Z",
-        "end": "2026-09-23T22:11:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/75",
-      "updatedAt": "2026-09-23T20:28:43.000Z",
-      "rawHeader": "Southbound Route 75 trip departing Cedar St & 10th St at 3:31 PM canceled today due to disabled bus",
-      "rawDescription": ""
-    },
-    {
-      "id": "53241",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 83: Service Canceled",
-      "summary": "Route 83 trip departing Montreal Cir & Summit Brewing at 12:30 PM and six other trips canceled today",
-      "affectedRoutes": [
-        "Route 83"
+        "Route 80"
       ],
       "direction": "Both Directions",
       "intersections": [],
@@ -222,15 +187,15 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-23T17:30:00.000Z",
-        "end": "2026-09-24T00:38:00.000Z"
+        "start": "2026-09-24T00:12:00.000Z",
+        "end": "2026-09-24T03:34:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/83",
-      "updatedAt": "2026-09-23T17:00:01.000Z",
-      "rawHeader": "Route 83 trip departing Montreal Cir & Summit Brewing at 12:30 PM and six other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Montreal Cir & Summit Brewing at 12:30 PM\r\ndeparting Montreal Cir & Summit Brewing at 2:02 PM\r\ndeparting Montreal Cir & Summit Brewing at 4:00 PM\r\ndeparting Montreal Cir & Summit Brewing at 6:02 PM\r\n\nAffected southbound trips:\r\ndeparting Rosedale Transit Center Gate B at 1:15 PM\r\ndeparting Rosedale Transit Center Gate B at 3:12 PM\r\ndeparting Rosedale Transit Center Gate B at 5:15 PM"
+      "url": "https://www.metrotransit.org/route/80",
+      "updatedAt": "2026-09-23T23:42:00.000Z",
+      "rawHeader": "Route 80 trip departing Maplewood Mall Transit Center & Gate F at 7:12 PM and four other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate E at 7:42 PM\r\ndeparting Sun Ray Transit Center & Gate E at 8:42 PM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate F at 7:12 PM\r\ndeparting Maplewood Mall Transit Center & Gate F at 8:12 PM\r\ndeparting Maplewood Mall Transit Center & Gate F at 9:12 PM"
     },
     {
       "id": "53248",
@@ -254,35 +219,9 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/219",
-      "updatedAt": "2026-09-23T17:55:39.000Z",
+      "updatedAt": "2026-09-23T23:42:00.000Z",
       "rawHeader": "Route 219 trip departing Maplewood Mall Transit Center & Gate A at 7:12 PM and two other trips canceled today",
       "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate B at 8:13 PM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate A at 7:12 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 9:12 PM"
-    },
-    {
-      "id": "53259",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 363: 3:45 PM Trip Canceled (5th St Transit Center Gate D)",
-      "summary": "Route 363 trip departing 5th St Transit Center Gate D at 3:45 PM canceled today",
-      "affectedRoutes": [
-        "Route 363"
-      ],
-      "direction": "All",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-23T20:56:00.000Z",
-        "end": "2026-09-23T22:33:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/363",
-      "updatedAt": "2026-09-23T21:04:29.000Z",
-      "rawHeader": "Route 363 trip departing 5th St Transit Center Gate D at 3:45 PM canceled today",
-      "rawDescription": ""
     },
     {
       "id": "53251",
@@ -329,10 +268,7 @@
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-23T19:07:00.000Z",
-        "end": "2026-09-24T01:01:00.000Z"
-      },
+      "activePeriod": {},
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/542",
@@ -369,92 +305,6 @@
       "updatedAt": "2026-09-23T17:21:01.000Z",
       "rawHeader": "Route 615 trip departing Excelsior Blvd & Quentin Ave at 12:51 PM and six other trips canceled today",
       "rawDescription": "Affected eastbound trips:\r\ndeparting Ridgedale Mall & East Entrance at 1:51 PM\r\ndeparting Ridgedale Mall & East Entrance at 3:51 PM\r\ndeparting Ridgedale Mall & East Entrance at 5:51 PM\r\n\nAffected westbound trips:\r\ndeparting Excelsior Blvd & Quentin Ave at 12:51 PM\r\ndeparting Excelsior Blvd & Quentin Ave at 2:51 PM\r\ndeparting Excelsior Blvd & Quentin Ave at 4:51 PM\r\ndeparting Excelsior Blvd & Quentin Ave at 6:51 PM"
-    },
-    {
-      "id": "53255",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 760: Service Canceled",
-      "summary": "Route 760 trips departing 12th St S & Hennepin Ave S at 3:36 PM and departing 12th St S & Hennepin Ave S at 4:36 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 760"
-      ],
-      "direction": "All",
-      "intersections": [
-        "Route 760 trips departing 12th St S & Hennepin Ave S",
-        "36 PM and departing 12th St S & Hennepin Ave S"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-23T20:36:00.000Z",
-        "end": "2026-09-23T23:02:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/760",
-      "updatedAt": "2026-09-23T20:06:01.000Z",
-      "rawHeader": "Route 760 trips departing 12th St S & Hennepin Ave S at 3:36 PM and departing 12th St S & Hennepin Ave S at 4:36 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "53242",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 805: Service Canceled",
-      "summary": "Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and thirteen other trips canceled today",
-      "affectedRoutes": [
-        "Route 805"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing 1st Ave S & Monroe St",
-        "38 AM\ndeparting 1st Ave S & Monroe St",
-        "38 PM\ndeparting 1st Ave S & Monroe St",
-        "36 PM\ndeparting 1st Ave S & Monroe St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-23T17:22:00.000Z",
-        "end": "2026-09-24T00:24:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-09-23T17:25:53.000Z",
-      "rawHeader": "Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and thirteen other trips canceled today",
-      "rawDescription": "Updated at 12:22 PM to cancel additional trips.\r\n\nAffected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 11:34 AM\r\ndeparting Northtown Transit Ctr Gate D at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 11:38 AM\r\ndeparting 1st Ave S & Monroe St at 12:38 PM\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 2:36 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 4:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
-    },
-    {
-      "id": "53254",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 860: Northbound 3:37 PM Trip Canceled (Smith & 5th St Station)",
-      "summary": "Northbound Route 860 trip departing Smith & 5th St Station at 3:37 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 860"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-23T20:37:00.000Z",
-        "end": "2026-09-23T22:39:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/860",
-      "updatedAt": "2026-09-23T20:07:01.000Z",
-      "rawHeader": "Northbound Route 860 trip departing Smith & 5th St Station at 3:37 PM canceled today due to traffic",
-      "rawDescription": ""
     },
     {
       "id": "49962",
@@ -1207,7 +1057,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-09-23T13:01:13.000Z",
+      "updatedAt": "2026-09-23T22:30:02.000Z",
       "rawHeader": "METRO E Line detoured off Hennepin Ave from Washington Ave to University Ave from 6:00 PM to 6:00 AM on 9/23 -9/25 each day due to mill and overlay work",
       "rawDescription": "For northbound E Line get on/off buses at:\r\nHennepin & 4th St Station - Stop #17948 (northbound)\r\nCentral Ave & University Ave SE - Stop #14952 (northbound)\r\nUniversity & Central Station - Stop #12281 (eastbound)\r\n\nFor southbound E Line get on/off buses at:\r\n4th St & 6th Ave Station - Stop #16119 (westbound)\r\nCentral Ave & 4th St SE - Stop #46801 (southbound)\r\nCentral Ave & 2nd St SE - Stop #12282 (southbound)\r\nHennepin & 3rd St Station - Stop #17921 (southbound)\r\n\nNorthbound buses will travel regular route on Hennepin Ave to Washington Ave, right on Washington Ave, left on 3rd Ave, right on University Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 4th St SE to Central Ave, left on Central Ave, right on Washington Ave, left on Hennepin Ave and resume regular route.\r\n\nAffected stops:\r\nHennepin & Gateway Station - Stop #17951 (northbound)\r\nHennepin & 2nd St NE Station - Stop #15477 (eastbound)\r\n4th St & Central Station - Stop #16124 (westbound)\r\n1st Ave & 2nd St NE Station - Stop #15562 (westbound)\r\nHennepin & Gateway Station - Stop #17919 (southbound)"
     },
@@ -2660,7 +2510,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/4",
-      "updatedAt": "2026-09-23T12:43:22.000Z",
+      "updatedAt": "2026-09-23T22:30:02.000Z",
       "rawHeader": "Route 4 detoured off Hennepin Ave from Washington Ave to University Ave from 6:00 PM to 6:00 AM on 9/23 -9/25 each day due to mill and overlay work",
       "rawDescription": "For northbound Route 4 get on/off buses at:\r\nHennepin & 4th St Station - Stop #17948 (northbound)\r\nHennepin Ave E & 4th St SE - Stop #57457 (eastbound)\r\n\nFor southbound Route 4 get on/off buses at:\r\n1st Ave NE & 4th St NE - Stop #15559 (westbound)\r\nHennepin & 3rd St Station - Stop #17921 (southbound)\r\n\nNorthbound buses will travel regular route on Hennepin Ave to Washington Ave, right on Washington Ave, left on 3rd Ave, left on University Ave, right on Hennepin Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 1st Ave NE to University Ave, left on University Ave, right on Central Ave, right on Washington Ave, left on Hennepin Ave and resume regular route.\r\n\nAffected stops:\r\nHennepin & Gateway Station - Stop #17951 (northbound)\r\nHennepin Ave & 1st St S - Stop #17952 (northbound)\r\nHennepin Ave E & Wilder St - Stop #17953 (eastbound)\r\nHennepin & 2nd St NE Station - Stop #15477 (eastbound)\r\n1st Ave & 2nd St NE Station - Stop #15562 (westbound)\r\nHennepin Ave E & De LaSalle Dr - Stop #17916 (southbound)\r\nHennepin Ave & 1st St N - Stop #17917 (southbound)\r\nHennepin & Gateway Station - Stop #17919 (southbound)"
     },
@@ -3480,196 +3330,6 @@
       "rawDescription": "For eastbound Route 9 get on/off buses at:\r\n25th St E & 31st Ave S - Stop #16455 (eastbound)\r\n25th St E & 35th Ave S - Stop #16459 (eastbound)\r\n\nFor westbound Route 9 get on/off buses at:\r\n25th St E & 35th Ave S - Stop #17595 (westbound)\r\n25th St E & 31st Ave S - Stop #17599 (westbound)"
     },
     {
-      "id": "52595",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 10: Detour via 3rd Ave S & 11th St S",
-      "summary": "Route 10 detoured off Nicollet Mall from Washington Ave to 12th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: 3rd Ave S & 11th St S - Stop #19277 (southbound); 2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound).",
-      "affectedRoutes": [
-        "Route 10"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "3rd Ave S & 11th St S",
-        "2nd Ave S & 9th St",
-        "2nd Ave S & 7th St",
-        "2nd Ave S & 5th St",
-        "2nd Ave S & Washington Ave S"
-      ],
-      "closedStopIds": [
-        "41911",
-        "17988",
-        "17990",
-        "17992",
-        "17994",
-        "17996",
-        "17998",
-        "19315",
-        "17976",
-        "17978",
-        "17980",
-        "17982",
-        "17984",
-        "17986",
-        "19327",
-        "19250",
-        "19277",
-        "53312",
-        "53313",
-        "53314",
-        "19260",
-        "56542",
-        "19308",
-        "53292",
-        "53293",
-        "53294",
-        "53295",
-        "53301",
-        "19337",
-        "1920",
-        "1197"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "41911",
-          "name": "2nd Ave S & Convention Center",
-          "direction": "southbound"
-        },
-        {
-          "id": "17988",
-          "name": "Nicollet Mall & Alice Rainville Pl",
-          "direction": "northbound"
-        },
-        {
-          "id": "17990",
-          "name": "Nicollet Mall & 11th St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "17992",
-          "name": "Nicollet Mall & 9th St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "17994",
-          "name": "Nicollet Mall & 7th St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "17996",
-          "name": "Nicollet Mall & 5th St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "17998",
-          "name": "Nicollet Mall & 3rd St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "19315",
-          "name": "Washington Ave S & Marquette Ave",
-          "direction": "eastbound"
-        },
-        {
-          "id": "17976",
-          "name": "Nicollet Mall & 3rd St",
-          "direction": "southbound"
-        },
-        {
-          "id": "17978",
-          "name": "Nicollet Mall & 5th St S",
-          "direction": "southbound"
-        },
-        {
-          "id": "17980",
-          "name": "Nicollet Mall & 7th St S",
-          "direction": "southbound"
-        },
-        {
-          "id": "17982",
-          "name": "Nicollet Mall & 9th St S",
-          "direction": "southbound"
-        },
-        {
-          "id": "17984",
-          "name": "Nicollet Mall & 11th St S",
-          "direction": "southbound"
-        },
-        {
-          "id": "17986",
-          "name": "Nicollet Mall & Alice Rainville Place",
-          "direction": "southbound"
-        },
-        {
-          "id": "19327",
-          "name": "Grant St E & Nicollet Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "19250",
-          "name": "2nd Ave S & Convention Center",
-          "direction": "northbound"
-        },
-        {
-          "id": "19277"
-        },
-        {
-          "id": "53312"
-        },
-        {
-          "id": "53313"
-        },
-        {
-          "id": "53314"
-        },
-        {
-          "id": "19260"
-        },
-        {
-          "id": "56542"
-        },
-        {
-          "id": "19308"
-        },
-        {
-          "id": "53292"
-        },
-        {
-          "id": "53293"
-        },
-        {
-          "id": "53294"
-        },
-        {
-          "id": "53295"
-        },
-        {
-          "id": "53301"
-        },
-        {
-          "id": "19337"
-        },
-        {
-          "id": "1920"
-        },
-        {
-          "id": "1197"
-        }
-      ],
-      "riderAlternative": "Board at: 3rd Ave S & 11th St S - Stop #19277 (southbound); 2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound)",
-      "detourDetails": "Northbound buses will travel regular route on 11th St to 2nd Ave S, right on 2nd Ave S, right on Washington Ave, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-14T12:30:00.000Z",
-        "end": "2026-09-24T03:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/10",
-      "updatedAt": "2026-09-23T05:00:01.000Z",
-      "rawHeader": "Route 10 detoured off Nicollet Mall from Washington Ave to 12th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event",
-      "rawDescription": "For northbound Route 10 get on/off buses at:\r\n3rd Ave S & 11th St S - Stop #19277 (southbound)\r\n2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound)\r\n2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound)\r\n2nd Ave S & 5th St - Stop Group F - Stop #53314 (northbound)\r\n2nd Ave S & Washington Ave S - Stop #19260 (northbound)\r\n3rd Ave S & 2nd St S / 1st St S - Stop #56542 (northbound)\r\n\nFor southbound Route 10 get on/off buses at:\r\nWashington Ave S & 3rd Ave / 2nd Ave - Stop #19308 (westbound)\r\nMarquette Ave & 3rd St - Stop Group B - Stop #53292 (southbound)\r\nMarquette Ave & 5th St - Stop Group B - Stop #53293 (southbound)\r\nMarquette Ave & 7th St - Stop Group B - Stop #53294 (southbound)\r\nMarquette Ave & 9th St - Stop Group B - Stop #53295 (southbound)\r\nMarquette Ave & 11th St - Stop Group C - Stop #53301 (southbound)\r\nLeamington Ramp & Lower - Gate #7 - Stop #19337\r\n\nNorthbound buses will travel regular route on 11th St to 2nd Ave S, right on 2nd Ave S, right on Washington Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on Washington Ave to Marquette Ave, left on Marquette, left on 12th St, left on 3rd Ave S, left on 11th St, right into Leamington Ramp and layover.\r\n\nAffected stops:\r\n2nd Ave S & Convention Center - Stop #41911 (southbound)\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\nNicollet Mall & 7th St S - Stop #17994 (northbound)\r\nNicollet Mall & 5th St S - Stop #17996 (northbound)\r\nNicollet Mall & 3rd St S - Stop #17998 (northbound)\r\nWashington Ave S & Marquette Ave - Stop #19315 (eastbound)\r\nNicollet Mall & 3rd St - Stop #17976 (southbound)\r\nNicollet Mall & 5th St S - Stop #17978 (southbound)\r\nNicollet Mall & 7th St S - Stop #17980 (southbound)\r\nNicollet Mall & 9th St S - Stop #17982 (southbound)\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17986 (southbound)\r\nGrant St E & Nicollet Ave S - Stop #19327 (eastbound)\r\n2nd Ave S & Convention Center - Stop #19250 (northbound)"
-    },
-    {
       "id": "53005",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -3884,184 +3544,6 @@
       "rawDescription": "For northbound Route 11 get on/off buses at:\r\nMain St NE & St Anthony Pkwy - Stop #14618 (northbound)\r\nTemporary stop on Main St NE just before Edge Place NE (northbound)\r\nTemporary stop on 2nd 1/2 St NE & 35th Ave NE (northbound)\r\n2nd 1/2 St NE & 36th Ave NE - Stop #14609 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\n2nd 1/2 St NE & 35th Ave NE - Stop #14611 (southbound)\r\nMain St NE & Edge Place NE - Stop #14616 (southbound)\r\n\nNorthbound buses will travel regular route on Main St NE to Edge Place, right on Edge Place, left on 2nd 1/2 St, continue on 2 1/2 St to 35th Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 2nd 1/2 St to 35th Ave, continue on 2 1/2 St to Edge Place, right on Edge Place, left on Main St NE and resume regular route.\r\n\nAffected stops:\r\nMain St NE & Edge Place NE - Stop #14617 (northbound)\r\nMain St NE & 35th Ave NE - Stop #14614 (northbound)\r\n35th Ave NE & 2nd St NE - Stop #14613 (eastbound)\r\n35th Ave NE & 2nd 1/2 St NE - Stop #14610 (eastbound)\r\n35th Ave NE & 2nd St NE - Stop #14612 (westbound)\r\n35th Ave NE & Main St NE - Stop #14615 (westbound)"
     },
     {
-      "id": "52603",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 11: Detour via 3rd Ave S & 18th St",
-      "summary": "Route 11 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: 3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound); 2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound).",
-      "affectedRoutes": [
-        "Route 11"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "3rd Ave S & 18th St",
-        "2nd Ave S & 9th St",
-        "2nd Ave S & 7th St",
-        "2nd Ave S & 5th St",
-        "Hennepin Ave & 1st St N"
-      ],
-      "closedStopIds": [
-        "1920",
-        "17988",
-        "17990",
-        "17992",
-        "17994",
-        "17996",
-        "17998",
-        "17976",
-        "17978",
-        "17980",
-        "17982",
-        "17984",
-        "17986",
-        "1197",
-        "53461",
-        "53462",
-        "17768",
-        "53312",
-        "53313",
-        "53314",
-        "17951",
-        "17917",
-        "53292",
-        "53293",
-        "53294",
-        "53295",
-        "53301",
-        "17704"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "1920",
-          "name": "Nicollet Ave S & 14th St / Grant St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17988",
-          "name": "Nicollet Mall & Alice Rainville Pl",
-          "direction": "northbound"
-        },
-        {
-          "id": "17990",
-          "name": "Nicollet Mall & 11th St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "17992",
-          "name": "Nicollet Mall & 9th St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "17994",
-          "name": "Nicollet Mall & 7th St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "17996",
-          "name": "Nicollet Mall & 5th St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "17998",
-          "name": "Nicollet Mall & 3rd St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "17976",
-          "name": "Nicollet Mall & 3rd St",
-          "direction": "southbound"
-        },
-        {
-          "id": "17978",
-          "name": "Nicollet Mall & 5th St S",
-          "direction": "southbound"
-        },
-        {
-          "id": "17980",
-          "name": "Nicollet Mall & 7th St S",
-          "direction": "southbound"
-        },
-        {
-          "id": "17982",
-          "name": "Nicollet Mall & 9th St S",
-          "direction": "southbound"
-        },
-        {
-          "id": "17984",
-          "name": "Nicollet Mall & 11th St S",
-          "direction": "southbound"
-        },
-        {
-          "id": "17986",
-          "name": "Nicollet Mall & Alice Rainville Place",
-          "direction": "southbound"
-        },
-        {
-          "id": "1197",
-          "name": "Nicollet Ave S & Grant St E",
-          "direction": "southbound"
-        },
-        {
-          "id": "53461",
-          "name": "15th St E & 1st Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "53462",
-          "name": "16th St E & 3rd Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "17768"
-        },
-        {
-          "id": "53312"
-        },
-        {
-          "id": "53313"
-        },
-        {
-          "id": "53314"
-        },
-        {
-          "id": "17951"
-        },
-        {
-          "id": "17917"
-        },
-        {
-          "id": "53292"
-        },
-        {
-          "id": "53293"
-        },
-        {
-          "id": "53294"
-        },
-        {
-          "id": "53295"
-        },
-        {
-          "id": "53301"
-        },
-        {
-          "id": "17704"
-        }
-      ],
-      "riderAlternative": "Board at: 3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound); 2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound)",
-      "detourDetails": "Southbound buses will travel regular route on Washington Ave to Nicollet Mall, continue on Washington to Marquette Ave, right on Marquette, left on 12th St, right on 3rd Ave S to 16th St, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-14T12:30:00.000Z",
-        "end": "2026-09-24T03:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-09-23T05:00:01.000Z",
-      "rawHeader": "Route 11 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event",
-      "rawDescription": "Update on 9/21 at 1:40pm: detour routing and get on/off stops\r\n\nFor northbound Route 11 get on/off buses at:\r\n3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound)\r\n2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound)\r\n2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound)\r\n2nd Ave S & 5th St - Stop Group F - Stop #53314 (northbound)\r\nHennepin & Gateway Station - Stop #17951 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\nHennepin Ave & 1st St N - Stop #17917 (southbound)\r\nMarquette Ave & 3rd St - Stop Group B - Stop #53292 (southbound)\r\nMarquette Ave & 5th St - Stop Group B - Stop #53293 (southbound)\r\nMarquette Ave & 7th St - Stop Group B - Stop #53294 (southbound)\r\nMarquette Ave & 9th St - Stop Group B - Stop #53295 (southbound)\r\nMarquette Ave & 11th St - Stop Group C - Stop #53301 (southbound)\r\n3rd Ave S & 18th St E - Stop #17704 (southbound)\r\n\nNorthbound buses travel regular route on 3rd Ave to 11th St, left on 11th St, right on 2nd Ave S, left on Washington Ave to Nicollet Mall, and resume regular route.\r\n\nSouthbound buses will travel regular route on Washington Ave to Nicollet Mall, continue on Washington to Marquette Ave, right on Marquette, left on 12th St, right on 3rd Ave S to 16th St, and resume regular route.\r\n\nAffected stops:\r\nNicollet Ave S & 14th St / Grant St E - Stop #1920 (northbound)\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\nNicollet Mall & 7th St S - Stop #17994 (northbound)\r\nNicollet Mall & 5th St S - Stop #17996 (northbound)\r\nNicollet Mall & 3rd St S - Stop #17998 (northbound)\r\nNicollet Mall & 3rd St - Stop #17976 (southbound)\r\nNicollet Mall & 5th St S - Stop #17978 (southbound)\r\nNicollet Mall & 7th St S - Stop #17980 (southbound)\r\nNicollet Mall & 9th St S - Stop #17982 (southbound)\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17986 (southbound)\r\nNicollet Ave S & Grant St E - Stop #1197 (southbound)\r\n15th St E & 1st Ave S - Stop #53461 (eastbound)\r\n16th St E & 3rd Ave S - Stop #53462 (eastbound)"
-    },
-    {
       "id": "53224",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -4201,7 +3683,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-09-23T12:52:58.000Z",
+      "updatedAt": "2026-09-23T22:30:02.000Z",
       "rawHeader": "Route 11 detoured off Hennepin Ave from Washington Ave to 2nd St NE from 6:00 PM to 6:00 AM on 9/23 -9/25 each day due to mill and overlay work",
       "rawDescription": "For northbound Route 11 get on/off buses at:\r\nNicollet Mall & 3rd St S - Stop #17998 (northbound)\r\n2nd St NE & 1st Ave NE - Stop #14691 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\n2nd St NE & 3rd Ave NE - Stop #14689 (southbound)\r\nTemporary bus stop on 2nd St NE (southbound)\r\nNicollet Mall & 3rd St - Stop #17976 (southbound)\r\n\nNorthbound buses will travel regular route on Nicollet Mall to Washington Ave, right on Washington Ave, left on 3rd Ave, left on University Ave, left on 1st Ave NE, right on 2nd St NE and resume regular route.\r\n\nSouthbound buses will travel regular route on 2nd St NE to Hennepin Ave, left on Hennepin Ave, right on University Ave, right on Central Ave, right on Washington Ave, left on Nicollet Mall and resume regular route.\r\n\nAffected stops:\r\nHennepin & Gateway Station - Stop #17951 (northbound)\r\nHennepin Ave & 1st St S - Stop #17952 (northbound)\r\nHennepin Ave E & Wilder St - Stop #17953 (eastbound)\r\n1st Ave & 2nd St NE Station - Stop #15562 (westbound)\r\nHennepin Ave E & De LaSalle Dr - Stop #17916 (southbound)\r\nHennepin Ave & 1st St N - Stop #17917 (southbound)"
     },
@@ -4567,190 +4049,6 @@
       "rawDescription": "Get on/off westbound buses at:\r\nUptown Transit Station - Gate C - Stop #50160 (westbound)\r\n\nNo eastbound stops missed.\r\n\nEastbound buses will travel regular route on Lake St to Hennepin Ave, continue on Lake St to Dupont Ave, left on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.\r\n\nWestbound buses will travel regular route on Hennepin Ave to 28th St, left on 28th St, right on Lyndale Ave, right on Lake St, right on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave, right on Lagoon Ave and resume regular route.\r\n\nAffected stops:\r\nUptown Transit Station - Gate A - Stop #50196 (southbound)"
     },
     {
-      "id": "52598",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 17: Detour via Nicollet Ave S & 16th St E",
-      "summary": "Route 17 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: Nicollet Ave S & 16th St E - Stop #1914 (northbound); 2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound).",
-      "affectedRoutes": [
-        "Route 17"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Nicollet Ave S & 16th St E",
-        "2nd Ave S & 9th St",
-        "2nd Ave S & 7th St",
-        "2nd Ave S & 5th St",
-        "2nd Ave S & Washington Ave S"
-      ],
-      "closedStopIds": [
-        "1920",
-        "17988",
-        "17990",
-        "17992",
-        "17994",
-        "17996",
-        "17998",
-        "19315",
-        "17976",
-        "17978",
-        "17980",
-        "17982",
-        "17984",
-        "17986",
-        "1197",
-        "1914",
-        "53312",
-        "53313",
-        "53314",
-        "19260",
-        "19317",
-        "56542",
-        "19308",
-        "19294",
-        "53292",
-        "53293",
-        "53294",
-        "53295",
-        "53301",
-        "1199"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "1920",
-          "name": "Nicollet Ave S & 14th St / Grant St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17988",
-          "name": "Nicollet Mall & Alice Rainville Pl",
-          "direction": "northbound"
-        },
-        {
-          "id": "17990",
-          "name": "Nicollet Mall & 11th St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "17992",
-          "name": "Nicollet Mall & 9th St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "17994",
-          "name": "Nicollet Mall & 7th St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "17996",
-          "name": "Nicollet Mall & 5th St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "17998",
-          "name": "Nicollet Mall & 3rd St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "19315",
-          "name": "Washington Ave S & Marquette Ave",
-          "direction": "eastbound"
-        },
-        {
-          "id": "17976",
-          "name": "Nicollet Mall & 3rd St",
-          "direction": "southbound"
-        },
-        {
-          "id": "17978",
-          "name": "Nicollet Mall & 5th St S",
-          "direction": "southbound"
-        },
-        {
-          "id": "17980",
-          "name": "Nicollet Mall & 7th St S",
-          "direction": "southbound"
-        },
-        {
-          "id": "17982",
-          "name": "Nicollet Mall & 9th St S",
-          "direction": "southbound"
-        },
-        {
-          "id": "17984",
-          "name": "Nicollet Mall & 11th St S",
-          "direction": "southbound"
-        },
-        {
-          "id": "17986",
-          "name": "Nicollet Mall & Alice Rainville Place",
-          "direction": "southbound"
-        },
-        {
-          "id": "1197",
-          "name": "Nicollet Ave S & Grant St E",
-          "direction": "southbound"
-        },
-        {
-          "id": "1914"
-        },
-        {
-          "id": "53312"
-        },
-        {
-          "id": "53313"
-        },
-        {
-          "id": "53314"
-        },
-        {
-          "id": "19260"
-        },
-        {
-          "id": "19317"
-        },
-        {
-          "id": "56542"
-        },
-        {
-          "id": "19308"
-        },
-        {
-          "id": "19294"
-        },
-        {
-          "id": "53292"
-        },
-        {
-          "id": "53293"
-        },
-        {
-          "id": "53294"
-        },
-        {
-          "id": "53295"
-        },
-        {
-          "id": "53301"
-        },
-        {
-          "id": "1199"
-        }
-      ],
-      "riderAlternative": "Board at: Nicollet Ave S & 16th St E - Stop #1914 (northbound); 2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound)",
-      "detourDetails": "Eastbound buses will travel regular route on Nicollet Ave to 15th St, right on 15th St which becomes 16th St, left on 3rd Ave S, left on 11th St, right on 2nd Ave S, right on Washington Ave, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-14T12:30:00.000Z",
-        "end": "2026-09-24T03:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-09-23T05:00:01.000Z",
-      "rawHeader": "Route 17 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event",
-      "rawDescription": "For eastbound Route 17 get on/off buses at:\r\nNicollet Ave S & 16th St E - Stop #1914 (northbound)\r\n2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound)\r\n2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound)\r\n2nd Ave S & 5th St - Stop Group F - Stop #53314 (northbound)\r\n2nd Ave S & Washington Ave S - Stop #19260 (northbound)\r\nWashington Ave S & 3rd Ave / 4th Ave - Stop #19317 (eastbound, 17 Downtown only)\r\n3rd Ave S & 2nd St S / 1st St S - Stop #56542 (northbound, 17W only)\r\n\nFor westbound Route 17 get on/off buses at:\r\nWashington Ave S & 3rd Ave / 2nd Ave - Stop #19308 (westbound, 17 buses departing Central/26th Ave only)\r\n4th Ave S & 3rd St S - Stop #19294 (southbound, 17 buses departing Gateway Ramp only)\r\nMarquette Ave & 3rd St - Stop Group B - Stop #53292 (southbound)\r\nMarquette Ave & 5th St - Stop Group B - Stop #53293 (southbound)\r\nMarquette Ave & 7th St - Stop Group B - Stop #53294 (southbound)\r\nMarquette Ave & 9th St - Stop Group B - Stop #53295 (southbound)\r\nMarquette Ave & 11th St - Stop Group C - Stop #53301 (southbound)\r\nNicollet Ave S & 16th St / Hwy 94 - Stop #1199 (southbound)\r\n\nEastbound buses will travel regular route on Nicollet Ave to 15th St, right on 15th St which becomes 16th St, left on 3rd Ave S, left on 11th St, right on 2nd Ave S, right on Washington Ave, and resume regular route.\r\n\nWestbound 17 buses that depart Central/26th Ave will travel regular route on Washington Ave to Marquette Ave, left on Marquette, left on 12th St, right on 3rd Ave S, right on 16th St which becomes 15th St, left on Nicollet Ave, and resume regular route.\r\n\nWestbound 17 buses that depart Gateway Ramp will travel regular route on 3rd St to 2nd Ave S, right on 2nd Ave, left on Washington Ave, left on Marquette Ave, left on 12th St, right on 3rd Ave S, right on 16th St which becomes 15th St, left on Nicollet Ave, and resume regular route.\r\n\nAffected stops:\r\nNicollet Ave S & 14th St / Grant St E - Stop #1920 (northbound)\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\nNicollet Mall & 7th St S - Stop #17994 (northbound)\r\nNicollet Mall & 5th St S - Stop #17996 (northbound)\r\nNicollet Mall & 3rd St S - Stop #17998 (northbound)\r\nWashington Ave S & Marquette Ave - Stop #19315 (eastbound)\r\nNicollet Mall & 3rd St - Stop #17976 (southbound)\r\nNicollet Mall & 5th St S - Stop #17978 (southbound)\r\nNicollet Mall & 7th St S - Stop #17980 (southbound)\r\nNicollet Mall & 9th St S - Stop #17982 (southbound)\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17986 (southbound)\r\nNicollet Ave S & Grant St E - Stop #1197 (southbound)"
-    },
-    {
       "id": "53169",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -5089,176 +4387,6 @@
       "updatedAt": "2026-09-22T14:42:50.000Z",
       "rawHeader": "Route 18 detoured off Nicollet Ave from 70th St to 77th St beginning Wed Sep 9 at 4:00 AM until further notice due to construction",
       "rawDescription": "Updated detour, affected stops, and get on/off stops 9/22 9:45 am.\r\n\nFor northbound Route 18 get on/off buses at:\r\n2nd Ave S Loop & American Blvd - Stop #51852 (18 buses departing 2nd Ave/American Blvd only)\r\nNicollet Ave & 77th St - Stop #1436 (northbound)\r\nPortland & 77th St Station - Stop #620 (northbound)\r\nPortland & 73rd St Station - Stop #56922 (northbound)\r\nNicollet Ave S & 69th St E - Stop #1444 (northbound)\r\n\nFor southbound Route 18 get on/off buses at:\r\nNicollet Ave S & 69th St W - Stop #1352 (southbound)\r\nPortland & 73rd St Station - Stop #444 (southbound)\r\nNicollet Ave S & 78th St W - Stop #1361 (southbound)\r\n2nd Ave S Loop & American Blvd - Stop #51852 (18D only)\r\n\nNorthbound buses that depart 104th St/Bloomington Frwy will travel regular route on Nicollet Ave to 77th St, right on 77th St, left on Portland Ave, left on 70th St, right on Nicollet Ave and resume regular route.\r\n\nNorthbound buses that depart 2nd Ave/American Blvd will travel regular route on 2nd Ave to American Blvd, right on American Blvd, right on Nicollet Ave, right on 77th St, left on Portland Ave, left on 70th St, right on Nicollet Ave, and resume regular route.\r\n\nSouthbound 18E buses will travel regular route on Nicollet Ave to 70th St, left on 70th St, right on Portland Ave, right on 77th St, left on Nicollet Ave and resume regular route.\r\n\nSouthbound 18D buses will travel regular route on Nicollet Ave to 70th St, left on 70th St, right on Portland Ave, right on 77th St, left on Nicollet Ave, left on American Blvd, left on 2nd Ave, left into turnaround and layover.\r\n\nAffected stops:\r\nAll northbound stops on Nicollet Ave from 76th St to 70th St\r\nAll southbound stops on Nicollet Ave from 70th St to 77th St"
-    },
-    {
-      "id": "52604",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 18: Detour via Nicollet Ave S & 16th St E",
-      "summary": "Route 18 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: Nicollet Ave S & 16th St E - Stop #1914 (northbound); 2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound).",
-      "affectedRoutes": [
-        "Route 18"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Nicollet Ave S & 16th St E",
-        "2nd Ave S & 9th St",
-        "2nd Ave S & 7th St",
-        "2nd Ave S & 5th St",
-        "2nd Ave S & Washington Ave S"
-      ],
-      "closedStopIds": [
-        "1920",
-        "17988",
-        "17990",
-        "17992",
-        "17994",
-        "17996",
-        "17998",
-        "17976",
-        "17978",
-        "17980",
-        "17982",
-        "17984",
-        "17986",
-        "1197",
-        "1914",
-        "53312",
-        "53313",
-        "53314",
-        "19260",
-        "19317",
-        "19294",
-        "53292",
-        "53293",
-        "53294",
-        "53295",
-        "53301",
-        "1199"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "1920",
-          "name": "Nicollet Ave S & 14th St / Grant St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17988",
-          "name": "Nicollet Mall & Alice Rainville Pl",
-          "direction": "northbound"
-        },
-        {
-          "id": "17990",
-          "name": "Nicollet Mall & 11th St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "17992",
-          "name": "Nicollet Mall & 9th St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "17994",
-          "name": "Nicollet Mall & 7th St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "17996",
-          "name": "Nicollet Mall & 5th St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "17998",
-          "name": "Nicollet Mall & 3rd St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "17976",
-          "name": "Nicollet Mall & 3rd St",
-          "direction": "southbound"
-        },
-        {
-          "id": "17978",
-          "name": "Nicollet Mall & 5th St S",
-          "direction": "southbound"
-        },
-        {
-          "id": "17980",
-          "name": "Nicollet Mall & 7th St S",
-          "direction": "southbound"
-        },
-        {
-          "id": "17982",
-          "name": "Nicollet Mall & 9th St S",
-          "direction": "southbound"
-        },
-        {
-          "id": "17984",
-          "name": "Nicollet Mall & 11th St S",
-          "direction": "southbound"
-        },
-        {
-          "id": "17986",
-          "name": "Nicollet Mall & Alice Rainville Place",
-          "direction": "southbound"
-        },
-        {
-          "id": "1197",
-          "name": "Nicollet Ave S & Grant St E",
-          "direction": "southbound"
-        },
-        {
-          "id": "1914"
-        },
-        {
-          "id": "53312"
-        },
-        {
-          "id": "53313"
-        },
-        {
-          "id": "53314"
-        },
-        {
-          "id": "19260"
-        },
-        {
-          "id": "19317"
-        },
-        {
-          "id": "19294"
-        },
-        {
-          "id": "53292"
-        },
-        {
-          "id": "53293"
-        },
-        {
-          "id": "53294"
-        },
-        {
-          "id": "53295"
-        },
-        {
-          "id": "53301"
-        },
-        {
-          "id": "1199"
-        }
-      ],
-      "riderAlternative": "Board at: Nicollet Ave S & 16th St E - Stop #1914 (northbound); 2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound); 2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound)",
-      "detourDetails": "Northbound buses will travel regular route on Nicollet Ave to 15th St, right on 15th St which becomes 16th St, left on 3rd Ave S, left on 11th St, right on 2nd Ave S, right on Washington Ave, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-14T12:30:00.000Z",
-        "end": "2026-09-24T03:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/18",
-      "updatedAt": "2026-09-23T05:00:01.000Z",
-      "rawHeader": "Route 18 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event",
-      "rawDescription": "For northbound Route 18 get on/off buses at:\r\nNicollet Ave S & 16th St E - Stop #1914 (northbound)\r\n2nd Ave S & 9th St - Stop Group F - Stop #53312 (northbound)\r\n2nd Ave S & 7th St - Stop Group F - Stop #53313 (northbound)\r\n2nd Ave S & 5th St - Stop Group F - Stop #53314 (northbound)\r\n2nd Ave S & Washington Ave S - Stop #19260 (northbound)\r\nWashington Ave S & 3rd Ave / 4th Ave - Stop #19317 (eastbound)\r\n\nFor southbound Route 18 get on/off buses at:\r\n4th Ave S & 3rd St S - Stop #19294 (southbound)\r\nMarquette Ave & 3rd St - Stop Group B - Stop #53292 (southbound)\r\nMarquette Ave & 5th St - Stop Group B - Stop #53293 (southbound)\r\nMarquette Ave & 7th St - Stop Group B - Stop #53294 (southbound)\r\nMarquette Ave & 9th St - Stop Group B - Stop #53295 (southbound)\r\nMarquette Ave & 11th St - Stop Group C - Stop #53301 (southbound)\r\nNicollet Ave S & 16th St / Hwy 94 - Stop #1199 (southbound)\r\n\nNorthbound buses will travel regular route on Nicollet Ave to 15th St, right on 15th St which becomes 16th St, left on 3rd Ave S, left on 11th St, right on 2nd Ave S, right on Washington Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on 3rd St to 2nd Ave S, right on 2nd Ave, left on Washington Ave, left on Marquette Ave, left on 12th St, right on 3rd Ave S, right on 16th St which becomes 15th St, left on Nicollet Ave, and resume regular route.\r\n\nAffected stops:\r\nNicollet Ave S & 14th St / Grant St E - Stop #1920 (northbound)\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\nNicollet Mall & 7th St S - Stop #17994 (northbound)\r\nNicollet Mall & 5th St S - Stop #17996 (northbound)\r\nNicollet Mall & 3rd St S - Stop #17998 (northbound)\r\nNicollet Mall & 3rd St - Stop #17976 (southbound)\r\nNicollet Mall & 5th St S - Stop #17978 (southbound)\r\nNicollet Mall & 7th St S - Stop #17980 (southbound)\r\nNicollet Mall & 9th St S - Stop #17982 (southbound)\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17986 (southbound)\r\nNicollet Ave S & Grant St E - Stop #1197 (southbound)"
     },
     {
       "id": "53176",
@@ -6040,242 +5168,6 @@
       "rawDescription": "For northbound Route 22 get on/off buses at:\r\nWashington Ave S & 11th Ave S - Stop #19302 (westbound)\r\n7th St S & 10th Ave S - Stop #17894 (westbound)\r\n7th St & Park Station - Stop #17897 (westbound)\r\n7th St S & 5th Ave S - Stop #17899 (westbound)\r\n7th St S & 3rd Ave S - Stop #53941 (westbound)\r\n\nFor southbound Route 22 get on/off buses at:\r\n8th St & 3rd/4th Ave Station - Stop #17910 (eastbound)\r\n8th St & Park Station - Stop #17912 (eastbound)\r\nWashington Ave S & 15th Ave S - Stop #57023 (eastbound)\r\n\nNorthbound buses will travel regular route on Washington Ave to 11th Ave, left on 11th Ave, right on 7th St, continue on 7th St to 5th Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 8th St to 5th Ave, continue on 8th St to 11th Ave, left on 11th Ave, right on Washington Ave and resume regular route.\r\n\nAffected stops:\r\nWashington Ave S & Chicago Ave - Stop #19304 (westbound)\r\nWashington Ave S & Park Ave - Stop #19306 (westbound)\r\n4th Ave S & 3rd St S - Stop #19294 (southbound)\r\n4th Ave S & 4th St S - Stop #19295 (southbound)\r\n4th Ave S & 5th St S - Stop #19296 (southbound)\r\n5th Ave S & 7th St S - Stop #18007 (northbound)\r\n5th Ave S & 6th St S - Stop #18008 (northbound)\r\n5th Ave S & 5th St S - Stop #18009 (northbound)\r\n5th Ave S & 4th St S - Stop #42314 (northbound)\r\n5th Ave S & Washington Ave S - Stop #18011 (northbound)\r\nWashington Ave S & Portland Ave - Stop #19318 (eastbound)\r\nWashington Ave S & Chicago Ave S - Stop #19320 (eastbound)\r\nWashington Ave S & 11th Ave S - Stop #19322 (eastbound)"
     },
     {
-      "id": "52609",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 25: Detour via 15th St E & 1st Ave S",
-      "summary": "Route 25 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event. Board at: 15th St W & #329 - Stop #14905 (Eastbound, departing Cedar Trails Condos only); 15th St E & 1st Ave S - Stop #53461 (Eastbound, departing Cedar Trails Condos only); 3rd Ave S & 11th St S - Stop #19277 (Southbound, 25 departing Leamington Ramp only).",
-      "affectedRoutes": [
-        "Route 25"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "15th St E & 1st Ave S",
-        "3rd Ave S & 11th St S",
-        "2nd Ave S & 9th St",
-        "2nd Ave S & 7th St",
-        "2nd Ave S & 5th St"
-      ],
-      "closedStopIds": [
-        "14906",
-        "14907",
-        "41911",
-        "17988",
-        "17990",
-        "17992",
-        "17994",
-        "17996",
-        "17998",
-        "19315",
-        "17976",
-        "17978",
-        "17980",
-        "17982",
-        "17984",
-        "17986",
-        "19327",
-        "19250",
-        "49225",
-        "49226",
-        "49296",
-        "14905",
-        "53461",
-        "19277",
-        "53312",
-        "53313",
-        "53314",
-        "19260",
-        "56542",
-        "19308",
-        "19267",
-        "53292",
-        "53293",
-        "53294",
-        "53295",
-        "53301",
-        "19337",
-        "49227",
-        "1920",
-        "1197"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "14906",
-          "name": "Willow & 14th St",
-          "direction": "Northbound"
-        },
-        {
-          "id": "14907",
-          "name": "Willow & Grant",
-          "direction": "Northbound"
-        },
-        {
-          "id": "41911",
-          "name": "2nd Ave S & Convention Center",
-          "direction": "Southbound"
-        },
-        {
-          "id": "17988",
-          "name": "Nicollet & Alice Rainville",
-          "direction": "Northbound"
-        },
-        {
-          "id": "17990",
-          "name": "Nicollet & 11th St",
-          "direction": "Northbound"
-        },
-        {
-          "id": "17992",
-          "name": "Nicollet & 9th St",
-          "direction": "Northbound"
-        },
-        {
-          "id": "17994",
-          "name": "Nicollet & 7th St",
-          "direction": "Northbound"
-        },
-        {
-          "id": "17996",
-          "name": "Nicollet & 5th St",
-          "direction": "Northbound"
-        },
-        {
-          "id": "17998",
-          "name": "Nicollet & 3rd St",
-          "direction": "Northbound"
-        },
-        {
-          "id": "19315",
-          "name": "Washington & Marquette",
-          "direction": "Eastbound"
-        },
-        {
-          "id": "17976",
-          "name": "Nicollet & 3rd St",
-          "direction": "Southbound"
-        },
-        {
-          "id": "17978",
-          "name": "Nicollet & 5th St",
-          "direction": "Southbound"
-        },
-        {
-          "id": "17980",
-          "name": "Nicollet & 7th St",
-          "direction": "Southbound"
-        },
-        {
-          "id": "17982",
-          "name": "Nicollet & 9th St",
-          "direction": "Southbound"
-        },
-        {
-          "id": "17984",
-          "name": "Nicollet & 11th St",
-          "direction": "Southbound"
-        },
-        {
-          "id": "17986",
-          "name": "Nicollet & Alice Rainville",
-          "direction": "Southbound"
-        },
-        {
-          "id": "19327",
-          "name": "Grant St & Nicollet",
-          "direction": "Eastbound"
-        },
-        {
-          "id": "19250",
-          "name": "2nd Ave S & Convention Center",
-          "direction": "Northbound"
-        },
-        {
-          "id": "49225",
-          "name": "Grant & LaSalle",
-          "direction": "Westbound"
-        },
-        {
-          "id": "49226",
-          "name": "Grant & Willow",
-          "direction": "Westbound"
-        },
-        {
-          "id": "49296",
-          "name": "Willow & 14th St",
-          "direction": "Southbound"
-        },
-        {
-          "id": "14905"
-        },
-        {
-          "id": "53461"
-        },
-        {
-          "id": "19277"
-        },
-        {
-          "id": "53312"
-        },
-        {
-          "id": "53313"
-        },
-        {
-          "id": "53314"
-        },
-        {
-          "id": "19260"
-        },
-        {
-          "id": "56542"
-        },
-        {
-          "id": "19308"
-        },
-        {
-          "id": "19267"
-        },
-        {
-          "id": "53292"
-        },
-        {
-          "id": "53293"
-        },
-        {
-          "id": "53294"
-        },
-        {
-          "id": "53295"
-        },
-        {
-          "id": "53301"
-        },
-        {
-          "id": "19337"
-        },
-        {
-          "id": "49227"
-        },
-        {
-          "id": "1920"
-        },
-        {
-          "id": "1197"
-        }
-      ],
-      "riderAlternative": "Board at: 15th St W & #329 - Stop #14905 (Eastbound, departing Cedar Trails Condos only); 15th St E & 1st Ave S - Stop #53461 (Eastbound, departing Cedar Trails Condos only); 3rd Ave S & 11th St S - Stop #19277 (Southbound, 25 departing Leamington Ramp only)",
-      "detourDetails": "buses will travel regular route on Washington Ave to Marquette Ave, left on Marquette, left on 12th St, left on 3rd Ave S, left on 11th St, right into Leamington Ramp and layover.",
-      "activePeriod": {
-        "start": "2026-09-14T12:30:00.000Z",
-        "end": "2026-09-24T03:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/25",
-      "updatedAt": "2026-09-23T05:00:01.000Z",
-      "rawHeader": "Route 25 detoured off Nicollet Mall from Washington Ave to 16th St from Mon Sep 14 at 7:30 AM to Wed Sep 23 at 10:00 PM due to Mode 2026 event",
-      "rawDescription": "For northbound Route 25 get on/off buses at:\r\n15th St W & #329 - Stop #14905 (EB, departing Cedar Trails Condos only)\r\n15th St E & 1st Ave S - Stop #53461 (EB, departing Cedar Trails Condos only)\r\n3rd Ave S & 11th St S - Stop #19277 (SB, 25 departing Leamington Ramp only)\r\n2nd Ave S & 9th St - Stop Group F - Stop #53312 (NB)\r\n2nd Ave S & 7th St - Stop Group F - Stop #53313 (NB)\r\n2nd Ave S & 5th St - Stop Group F - Stop #53314 (NB)\r\n2nd Ave S & Washington Ave S - Stop #19260 (NB)\r\n3rd Ave S & 2nd St S / 1st St S - Stop #56542 (NB)\r\n\nFor southbound Route 25 get on/off buses at:\r\nWashington Ave S & 3rd Ave / 2nd Ave - Stop #19308 (WB, 25 DT only)\r\nMarquette Ave & 2nd St S - Stop #19267 (NB, 25L only)\r\nMarquette Ave & 3rd St - Stop Group B - Stop #53292 (SB)\r\nMarquette Ave & 5th St - Stop Group B - Stop #53293 (SB)\r\nMarquette Ave & 7th St - Stop Group B - Stop #53294 (SB)\r\nMarquette Ave & 9th St - Stop Group B - Stop #53295 (SB)\r\nMarquette Ave & 11th St - Stop Group C - Stop #53301 (SB)\r\nLeamington Ramp & Lower - Gate #7 - Stop #19337 (25 DT only)\r\n15th St W & Oak Grove St - Stop #49227 (WB, 25L only)\r\n\nNorthbound buses departing Leamington Ramp will travel regular route on 11th St to 2nd Ave S, right on 2nd Ave S, right on Washington Ave, and resume regular route.\r\n\nNorthbound buses departing Cedar Trails Condos will travel regular route on 15th St to Willow St, continue on 15th St which becomes 16th St, left on 3rd Ave S, left on 11th St, right on 2nd Ave S, right on Washington ave, and resume regular route.\r\n\nSouthbound 25 Downtown buses will travel regular route on Washington Ave to Marquette Ave, left on Marquette, left on 12th St, left on 3rd Ave S, left on 11th St, right into Leamington Ramp and layover.\r\n\nSouthbound 25L buses will travel regular route on Washington Ave to Nicollet Mall, continue on Washington to Marquette Ave, right on Marquette, left on 12th St, right on 16th St which becomes 15th St to Willow St, and resume regular route.\r\n\nAffected stops:\r\nWillow & 14th St - Stop #14906 (NB)\r\nWillow & Grant - Stop #14907 (NB)\r\n2nd Ave S & Convention Center - Stop #41911 (SB)\r\nNicollet & Alice Rainville - Stop #17988 (NB)\r\nNicollet & 11th St - Stop #17990 (NB)\r\nNicollet & 9th St - Stop #17992 (NB)\r\nNicollet & 7th St - Stop #17994 (NB)\r\nNicollet & 5th St - Stop #17996 (NB)\r\nNicollet & 3rd St - Stop #17998 (NB)\r\nWashington & Marquette - Stop #19315 (EB)\r\nNicollet & 3rd St - Stop #17976 (SB)\r\nNicollet & 5th St - Stop #17978 (SB)\r\nNicollet & 7th St - Stop #17980 (SB)\r\nNicollet & 9th St - Stop #17982 (SB)\r\nNicollet & 11th St - Stop #17984 (SB)\r\nNicollet & Alice Rainville - Stop #17986 (SB)\r\nGrant St & Nicollet - Stop #19327 (EB)\r\n2nd Ave S & Convention Center - Stop #19250 (NB)\r\nGrant & LaSalle - Stop #49225 (WB)\r\nGrant & Willow - Stop #49226 (WB)\r\nWillow & 14th St - Stop #49296 (SB)"
-    },
-    {
       "id": "49875",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -6667,7 +5559,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/36",
-      "updatedAt": "2026-09-16T22:30:01.000Z",
+      "updatedAt": "2026-09-23T23:00:01.000Z",
       "rawHeader": "Route 36 detoured off Hazleton Rd from France Ave to York Ave and off France Ave from Hazleton Rd to Gallagher Dr beginning Wed Sep 16 at 6:00 PM until further notice due to construction",
       "rawDescription": "For northbound Route 36 get on/off buses at:\r\nGallagher Dr & France Ave S - Stop #41097 (eastbound)\r\nYork Ave S & 70th St W - Stop #50601 (northbound)\r\n\nFor southbound Route 36 get on/off buses at:\r\nYork Ave S & 69th St W - Stop #48182 (southbound)\r\nGallagher Dr & France Ave S - Stop #41126 (westbound)\r\n\nNorthbound buses will travel regular route on Gallagher Dr to France Ave, right on France Ave, left on 76th St, left on York Ave, continue on York Ave to Hazleton Rd and resume regular route.\r\n\nSouthbound buses will travel regular route on York Ave, continue on York Ave to 76th St, right on 76th St, right on France Ave, left on Gallagher Dr and resume regular route.\r\n\nAffected stops:\r\nFrance Ave S & 72nd St W - Stop #44393 (northbound)\r\nHazelton Rd & France Ave S - Stop #53866 (eastbound)\r\nHazelton Rd & #3535 - Federal Express - Stop #53156 (eastbound)\r\nHazelton Rd & York Ave S - Stop #53436 (westbound)\r\nHazelton Rd & Target Loading Dock - Stop #53155 (westbound)\r\nFrance Ave S & 72nd St W - Stop #4374 (southbound)"
     },
@@ -6941,66 +5833,6 @@
       "updatedAt": "2026-09-23T19:59:19.000Z",
       "rawHeader": "Route 38 detoured off 46th Ave from 46th St to Minnesota Veterans Home from 4:00 AM to 1:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "For eastbound Route 38 get on/off buses at:\r\n46th Ave S & 46th St E - Stop #53134 (southbound)\r\n\nFor westbound Route 38 get on/off buses at:\r\n46th Ave S & 46th St E - Stop #16498 (northbound)\r\n\nEastbound 38C buses will travel regular route on 46th Ave to 46th St, right on 46th St, right on Minnehaha Ave, left on 42nd St, left on 34th Ave, left on 46th St, left into 46th St Station and layover at Gate E.\r\n\nWestbound 38 buses that normally depart Minnesota Veterans Home will depart temporary layover at 46th St Station and turn right on 46th St, right on 34th Ave, right on 42nd St, right on Minnehaha Ave, left on 46th St, left on 46th Ave and resume regular route.\r\n\nAffected stops:\r\n46th Ave S & Godfrey Pkwy - Stop #16492 (southbound)\r\nMinnesota Veterans Home & Bldg 19 - Stop #16493 (eastbound)\r\nMinnesota Veterans Home & Bldg 4 - Stop #16494 (eastbound)\r\nMinnesota Veterans Home & Bldg 19 - Stop #16496 (westbound)\r\n46th Ave S & Godfrey Pkwy - Stop #16497 (northbound)"
-    },
-    {
-      "id": "53232",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 38: Detour via 5th Ave S & Excelsior Blvd",
-      "summary": "Route 38 detoured off Mainstreet from 5th Ave to 6th Ave until later today due to construction. Board at: Mainstreet & 7th Ave S - Stop #4820 (eastbound); 5th Ave S & Mainstreet / Excelsior Blvd - Stop #4822 (southbound).",
-      "affectedRoutes": [
-        "Route 38"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "5th Ave S & Excelsior Blvd",
-        "6th Ave & 5th Ave S",
-        "Mainstreet (5th Ave to 6th Ave)"
-      ],
-      "closedStopIds": [
-        "50095",
-        "3571",
-        "4820",
-        "4822",
-        "3570",
-        "3572"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "50095",
-          "name": "Mainstreet & 6th Ave / 5th Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "3571",
-          "name": "Mainstreet & 6th Ave N",
-          "direction": "westbound"
-        },
-        {
-          "id": "4820"
-        },
-        {
-          "id": "4822"
-        },
-        {
-          "id": "3570"
-        },
-        {
-          "id": "3572"
-        }
-      ],
-      "riderAlternative": "Board at: Mainstreet & 7th Ave S - Stop #4820 (eastbound); 5th Ave S & Mainstreet / Excelsior Blvd - Stop #4822 (southbound)",
-      "detourDetails": "Eastbound buses will travel regular route on Mainstreet to 6th Ave N, left on 6th Ave N, right on 1st St N, right on 5th Ave N, continue on 5th Ave N to Mainstreet and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-23T13:50:00.000Z",
-        "end": "2026-09-24T00:00:24.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/38",
-      "updatedAt": "2026-09-23T13:50:04.000Z",
-      "rawHeader": "Route 38 detoured off Mainstreet from 5th Ave to 6th Ave until later today due to construction",
-      "rawDescription": "For eastbound Route 38 get on/off buses at:\r\nMainstreet & 7th Ave S - Stop #4820 (eastbound)\r\n5th Ave S & Mainstreet / Excelsior Blvd - Stop #4822 (southbound)\r\n\nFor westbound Route 38 get on/off buses at:\r\n5th Ave S & Excelsior Blvd / Mainstreet - Stop #3570 (northbound)\r\nMainstreet & 9th Ave N - Stop #3572 (westbound)\r\n\nEastbound buses will travel regular route on Mainstreet to 6th Ave N, left on 6th Ave N, right on 1st St N, right on 5th Ave N, continue on 5th Ave N to Mainstreet and resume regular route.\r\n\nWestbound buses will travel regular route on 5th Ave S to Mainstreet, continue on 5th Ave N to 1st St N, left on 1st St N, left on 6th Ave N, right on Mainstreet and resume regular route.\r\n\nAffected stops:\r\nMainstreet & 6th Ave / 5th Ave S - Stop #50095 (eastbound)\r\nMainstreet & 6th Ave N - Stop #3571 (westbound)"
     },
     {
       "id": "53185",
@@ -7769,7 +6601,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/61",
-      "updatedAt": "2026-09-23T12:47:09.000Z",
+      "updatedAt": "2026-09-23T22:30:02.000Z",
       "rawHeader": "Route 61 detoured off Hennepin Ave from Washington Ave to University Ave from 6:00 PM to 6:00 AM on 9/23 -9/25 each day due to mill and overlay work",
       "rawDescription": "For eastbound Route 61 get on/off buses at:\r\nHennepin & 4th St Station - Stop #17948 (northbound)\r\nHennepin Ave E & 4th St SE - Stop #57457 (eastbound)\r\n\nFor westbound Route 61 get on/off buses at:\r\n1st Ave NE & 4th St NE - Stop #15559 (westbound)\r\nHennepin & 3rd St Station - Stop #17921 (southbound)\r\n\nNorthbound buses will travel regular route on Hennepin Ave to Washington Ave, right on Washington Ave, left on 3rd Ave, left on University Ave, right on Hennepin Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 1st Ave NE to University Ave, left on University Ave, right on Central Ave, right on Washington Ave, left on Hennepin Ave and resume regular route.\r\n\nAffected stops:\r\nHennepin & Gateway Station - Stop #17951 (northbound)\r\nHennepin Ave & 1st St S - Stop #17952 (northbound)\r\nHennepin Ave E & Wilder St - Stop #17953 (eastbound)\r\nHennepin & 2nd St NE Station - Stop #15477 (eastbound)\r\n1st Ave & 2nd St NE Station - Stop #15562 (westbound)\r\nHennepin Ave E & De LaSalle Dr - Stop #17916 (southbound)\r\nHennepin Ave & 1st St N - Stop #17917 (southbound)\r\nHennepin & Gateway Station - Stop #17919 (southbound)"
     },
@@ -10284,7 +9116,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/537",
-      "updatedAt": "2026-09-16T22:30:01.000Z",
+      "updatedAt": "2026-09-23T23:00:01.000Z",
       "rawHeader": "Route 537 detoured off France Ave from 76th St to 70th St and off 70th St from France Ave to York Ave beginning Wed Sep 16 at 6:00 PM until further notice due to construction",
       "rawDescription": "For northbound Route 537 get on/off buses at:\r\nFrance Ave S & Minnesota Dr - Stop #57520 (northbound)\r\n76th St W & Centennial Lakes Office Park - Stop #52038 (eastbound)\r\nYork Ave S & 70th St W - Stop #50601 (northbound)\r\n\nFor southbound Route 537 get on/off buses at:\r\nYork Ave S & 69th St W - Stop #48182 (southbound)\r\nYork Ave S & Hazelton Rd - Stop #1925 (southbound)\r\n76th St W & Office Depot - Stop #52038 (westbound)\r\nFrance Ave S & Minnesota Dr - Stop #57524 (southbound)\r\n\nNorthbound buses will travel regular route on France Ave to 76th St, right on 76th St, left on York Ave, continue on York Ave to 70th St and resume regular route.\r\n\nSouthbound buses will travel regular route on York Ave to 70th St, continue on York Ave to 76th St, right on 76th St, left on France Ave and resume regular route.\r\n\nAffected stops:\r\nFrance Ave S & 76th St W - Stop #57521 (northbound)\r\nFrance Ave S & Parklawn Ave - Stop #56530 (northbound)\r\nFrance Ave S & Gallagher Dr - Stop #57522 (northbound)\r\nFrance Ave S & 72nd St W - Stop #44393 (northbound)\r\nFrance Ave S & 70th St W - Stop #57523 (northbound)\r\n70th St W & Target driveway - Stop #50600 (eastbound)\r\n70th St W & Target - Stop #50603 (westbound)\r\nFrance Ave S & 70th St W - Stop #50604 (southbound)\r\nFrance Ave S & 72nd St W - Stop #4374 (southbound)\r\nFrance Ave S & Gallagher Dr - Stop #4375 (southbound)\r\nFrance Ave S & Parklawn Ave - Stop #20197 (southbound)\r\nFrance Ave S & 76th St W - Stop #4376 (southbound)"
     },
