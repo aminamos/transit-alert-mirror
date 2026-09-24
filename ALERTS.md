@@ -2,21 +2,72 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-133-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-128-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-5-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-82-brightgreen)](#-routes-index)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-130-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-124-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-74-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-24T07:07:48.280Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-24T13:09:02.187Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (4) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (4) • **METRO E Line** (4) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (4) • **Route 3** (3) • **Route 3A** (2) • **Route 4** (4) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (5) • **Route 7** (5) • **Route 9** (5) • **Route 10** (2) • **Route 11** (5) • **Route 14** (3) • **Route 17** (3) • **Route 18** (8) • **Route 22** (5) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (5) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (1) • **Route 63** (3) • **Route 64** (5) • **Route 65** (2) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 83** (1) • **Route 87** (1) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (4) • **Route 225** (2) • **Route 227** (1) • **Route 264** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (2) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 801** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (4) • **METRO E Line** (4) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (4) • **Route 3** (3) • **Route 3A** (2) • **Route 4** (4) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (5) • **Route 9** (5) • **Route 10** (2) • **Route 11** (5) • **Route 14** (3) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 30** (2) • **Route 36** (3) • **Route 38** (5) • **Route 46** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (1) • **Route 63** (3) • **Route 64** (5) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 225** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (2) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 Route 30: Service Canceled
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 53 AM
+departing Knox Ave N & Golden Valley Rd; 56 AM
+departing Knox Ave N & Golden Valley Rd
+
+**Summary**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today due to maintenance work
+
+```text
+Affected eastbound trips:
+departing Golden Valley Rd Turn & Xerxes Ave N at 7:53 AM
+departing Knox Ave N & Golden Valley Rd at 9:56 AM
+departing Knox Ave N & Golden Valley Rd at 11:56 AM
+
+Affected westbound trips:
+departing Westgate Station - Gate B at 7:07 AM
+departing Westgate Station - Gate B at 9:06 AM
+departing Westgate Station - Gate B at 11:04 AM
+```
+
+</details>
+
+---
+
+### 🚨 Route 46: Eastbound 7:00 AM Trip Canceled (Eden-Vernon Busway & Sherwood/Vernon Ave)
+
+- **Affected Routes**: `Route 46`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Eastbound Route 46 trip departing Eden-Vernon Busway & Sherwood/Vernon Ave at 7:00 AM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/46)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 46 trip departing Eden-Vernon Busway & Sherwood/Vernon Ave at 7:00 AM canceled today due to maintenance work
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -154,46 +205,6 @@ Due to mechanical issues, both elevators at Franklin Ave Station are unavailable
 
 ---
 
-### ⚠️ METRO C Line: Detour via 7th St & Nicollet St
-
-- **Affected Routes**: `METRO C Line`
-- **Direction**: Northbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 7th St & Nicollet St; right on 7th St & resume regular route.
-
-Affected st; 7th St & Hennepin St; 7th St (2nd Ave N to 6th Ave N)
-- **Closed Stops**: 7th St & Hennepin Station (Stop #17903), Stop #17902, Stop #17856
-
-**Summary**: C Line detoured off 7th St from 2nd Ave N to 6th Ave N until later today until later today. Board at: 7th St & Nicollet Station - Stop #17902 (westbound); Olson & 7th St Station - Stop #17856 (westbound).
-
-> 💡 **Rider Action**: Board at: 7th St & Nicollet Station - Stop #17902 (westbound); Olson & 7th St Station - Stop #17856 (westbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on 7th St to 2nd Ave N, right on 2nd Ave N, left on Washington, let on 6th Ave N, right on 7th St and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/cline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: C Line detoured off 7th St from 2nd Ave N to 6th Ave N until later today until later today
-
-```text
-Get on/off buses at:
-7th St & Nicollet Station - Stop #17902 (westbound)
-Olson & 7th St Station - Stop #17856 (westbound)
-
-Affected direction: Northbound
-
-Northbound buses will travel regular route on 7th St to 2nd Ave N, right on 2nd Ave N, left on Washington, let on 6th Ave N, right on 7th St and resume regular route.
-
-Affected stops:
-7th St & Hennepin Station - Stop #17903 (westbound)
-```
-
-</details>
-
----
-
 ### ⚠️ METRO D Line: Detour via Chicago Ave & 56th St
 
 - **Affected Routes**: `METRO D Line`
@@ -320,17 +331,18 @@ Chicago Ave & 56th St E - Stop #81079 (southbound)
 
 ---
 
-### ⚠️ METRO D Line: Stop Closed at Selected Stop
+### ⚠️ METRO D Line: Stop Closed at Temporary bus stop on Portland Ave & 61st St
 
 - **Affected Routes**: `METRO D Line`
 - **Direction**: Northbound
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Thu Sep 24 at 7:00 AM until further notice
+- **Corridors & Intersections**: Temporary bus stop on Portland Ave & 61st St
 - **Closed Stops**: Stop #737
 
-**Summary**: Portland & 60th St Station - Stop #737 (northbound) is closed for D Line beginning Thu Sep 24 at 7:00 AM until further notice due to construction. Board at: Temporary bus stop on Portland Ave between 61st St and 60th St.
+**Summary**: Portland & 60th St Station - Stop #737 (northbound) is closed for D Line beginning Thu Sep 24 at 7:00 AM until further notice due to construction. Board at: Temporary bus stop on Portland Ave & 61st St.
 
-> 💡 **Rider Action**: Board at: Temporary bus stop on Portland Ave between 61st St and 60th St
+> 💡 **Rider Action**: Board at: Temporary bus stop on Portland Ave & 61st St
 
 [Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
@@ -340,8 +352,10 @@ Chicago Ave & 56th St E - Stop #81079 (southbound)
 **Header**: Portland & 60th St Station - Stop #737 (northbound) is closed for D Line beginning Thu Sep 24 at 7:00 AM until further notice due to construction
 
 ```text
+Update 9/24 at 7:20am: get on/off stop
+
 Get on/off buses at:
-Temporary bus stop on Portland Ave between 61st St and 60th St
+Temporary bus stop on Portland Ave & 61st St
 ```
 
 </details>
@@ -1375,48 +1389,6 @@ Chicago Ave S & 51st St E - Stop #70 (southbound)
 Chicago & 52nd St Station - Stop #56919 (southbound)
 Chicago Ave S & 53rd St E - Stop #72 (southbound)
 Chicago Ave S & 54th St E - Stop #73 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 5: Detour via 7th St & Nicollet St
-
-- **Affected Routes**: `Route 5`
-- **Direction**: Northbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 7th St & Nicollet St; 7th St N & Oak Lake Ave N; right on 7th St & resume regular route. 
-
-Affected st; 7th St & Hennepin St; 7th St N & Twins Way
-- **Closed Stops**: 7th St & Hennepin Station (Stop #17903), 7th St N & Twins Way (Stop #2875), 7th St & 5th Ave Station (Stop #56930), Stop #17902, Stop #57216
-
-**Summary**: Route 5 detoured off 7th St from 2nd Ave N to 6th Ave N until later today. Board at: 7th St & Nicollet Station - Stop #17902 (westbound); 7th St N & Oak Lake Ave N - Stop #57216 (northbound).
-
-> 💡 **Rider Action**: Board at: 7th St & Nicollet Station - Stop #17902 (westbound); 7th St N & Oak Lake Ave N - Stop #57216 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on 7th St to 2nd Ave N, right on 2nd Ave N, left on Washington, let on 6th Ave N, right on 7th St and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/5)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 5 detoured off 7th St from 2nd Ave N to 6th Ave N until later today
-
-```text
-Get on/off buses at:
-7th St & Nicollet Station - Stop #17902 (westbound)
-7th St N & Oak Lake Ave N - Stop #57216 (northbound)
-
-Affected direction: Northbound
-
-Northbound buses will travel regular route on 7th St to 2nd Ave N, right on 2nd Ave N, left on Washington, let on 6th Ave N, right on 7th St and resume regular route. 
-
-Affected stops:
-7th St & Hennepin Station - Stop #17903 (westbound)
-7th St N & Twins Way - Stop #2875 (westbound)
-7th St & 5th Ave Station - Stop #56930 (northbound)
 ```
 
 </details>
@@ -2822,48 +2794,6 @@ Washington Ave S & 11th Ave S - Stop #19322 (eastbound)
 
 ---
 
-### ⚠️ Route 22: Detour via 7th St & Nicollet St
-
-- **Affected Routes**: `Route 22`
-- **Direction**: Northbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 7th St & Nicollet St; 7th St N & Oak Lake Ave N; right on 7th St & resume regular route.
-
-Affected st; 7th St & Hennepin St; 7th St N & Twins Way
-- **Closed Stops**: 7th St & Hennepin Station (Stop #17903), 7th St N & Twins Way (Stop #2875), 7th St & 5th Ave Station (Stop #56930), Stop #17902, Stop #57216
-
-**Summary**: Route 22 detoured detoured off 7th St from 2nd Ave N to 6th Ave N until later today until later today. Board at: 7th St & Nicollet Station - Stop #17902 (westbound); 7th St N & Oak Lake Ave N - Stop #57216 (northbound).
-
-> 💡 **Rider Action**: Board at: 7th St & Nicollet Station - Stop #17902 (westbound); 7th St N & Oak Lake Ave N - Stop #57216 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on 7th St to 2nd Ave N, right on 2nd Ave N, left on Washington, let on 6th Ave N, right on 7th St and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/22)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 22 detoured detoured off 7th St from 2nd Ave N to 6th Ave N until later today until later today
-
-```text
-Get on/off buses at:
-7th St & Nicollet Station - Stop #17902 (westbound)
-7th St N & Oak Lake Ave N - Stop #57216 (northbound)
-
-Affected direction: Northbound
-
-Northbound buses will travel regular route on 7th St to 2nd Ave N, right on 2nd Ave N, left on Washington, let on 6th Ave N, right on 7th St and resume regular route.
-
-Affected stops:
-7th St & Hennepin Station - Stop #17903 (westbound)
-7th St N & Twins Way - Stop #2875 (westbound)
-7th St & 5th Ave Station - Stop #56930 (northbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 27: Detour via 26th St E & 3rd Ave S
 
 - **Affected Routes**: `Route 27`
@@ -4041,64 +3971,6 @@ LaFayette Rd & University Ave - Stop #11921 (southbound)
 LaFayette Rd & Grove St - Stop #11923 (southbound)
 LaFayette Rd & 8th St - Stop #11925 (southbound)
 7th St E & Olive St - Stop #57415 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 65: Detour via Kent St & Portland Ave
-
-- **Affected Routes**: `Route 65`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Tue Sep 15 at 5:00 AM until further notice
-- **Corridors & Intersections**: Kent St & Portland Ave; Kent St & Selby Ave; Kent St & Marshall Ave; Dale St & Fuller Ave; Marshall Ave & Kent St
-- **Closed Stops**: Dale St & Grand Ave (Stop #10680), Dale St & Summit Ave / Portland Ave (Stop #10681), Dale St & Holly Ave (Stop #10684), Dale St & Selby Ave (Stop #10685), Dale St & Marshall Ave (Stop #10688), Dale St & Iglehart Ave (Stop #10689), Dale St & Rondo Ave (Stop #10691), Dale St & Carroll Ave (Stop #10752) *(+7 more)*
-
-**Summary**: Route 65 detoured off Dale St from Rondo Ave to Grand Ave beginning Tue Sep 15 at 5:00 AM until further notice due to construction. Board at: Temporary stop on Kent St & Portland Ave (northbound); Temporary stop on Kent St & Selby Ave (northbound); Temporary stop on Kent St & Marshall Ave (northbound).
-
-> 💡 **Rider Action**: Board at: Temporary stop on Kent St & Portland Ave (northbound); Temporary stop on Kent St & Selby Ave (northbound); Temporary stop on Kent St & Marshall Ave (northbound)
-
-> 🔄 **Detour Path**: Southbound buses will travel the regular route on Dale St to Rondo Ave, left on Rondo Ave, right on Arundel St, right on Marshall Ave, left on Kent St, left on Holly Ave, right on Mackubin St, right on Summit Ave and layover on westbound Summit Ave between Mackubin St and Kent St.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/65)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 65 detoured off Dale St from Rondo Ave to Grand Ave beginning Tue Sep 15 at 5:00 AM until further notice due to construction
-
-```text
-For northbound Route 65 get on/off buses at:
-Temporary stop on Kent St & Portland Ave (northbound)
-Temporary stop on Kent St & Selby Ave (northbound)
-Temporary stop on Kent St & Marshall Ave (northbound)
-Dale St & Fuller Ave - Stop #10693 (northbound)
-
-For southbound Route 65 get on/off buses at:
-Dale St & Fuller Ave - Stop #10748 (southbound)
-Temporary stop on Marshall Ave & Kent St (westbound)
-Temporary stop on Kent St & Selby Ave (southbound)
-
-Northbound buses will depart the temporary terminal on westbound Summit Ave between Mackubin St and Kent St and continue on Summit to Kent St, right on Kent, right on Marshall Ave, left on Arundel St, right on Concordia Ave, left on Western Ave, left on St Anthony Ave, right on Dale St, and resume the regular route.
-
-Southbound buses will travel the regular route on Dale St to Rondo Ave, left on Rondo Ave, right on Arundel St, right on Marshall Ave, left on Kent St, left on Holly Ave, right on Mackubin St, right on Summit Ave and layover on westbound Summit Ave between Mackubin St and Kent St.
-
-Affected stops:
-Dale St & Grand Ave - Stop #10680 (northbound)
-Dale St & Summit Ave / Portland Ave - Stop #10681 (northbound)
-Dale St & Holly Ave - Stop #10684 (northbound)
-Dale St & Selby Ave - Stop #10685 (northbound)
-Dale St & Marshall Ave - Stop #10688 (northbound)
-Dale St & Iglehart Ave - Stop #10689 (northbound)
-Dale St & Rondo Ave - Stop #10691 (northbound)
-Dale St & Carroll Ave - Stop #10752 (southbound)
-Dale St & Iglehart Ave - Stop #10753 (southbound)
-Dale St & Marshall Ave - Stop #10754 (southbound)
-Dale St N & Selby Ave - Stop #53780 (southbound)
-Dale St & Ashland Ave - Stop #10758 (southbound)
-Summit Ave & Dale St - Stop #10761 (eastbound)
 ```
 
 </details>
@@ -5959,38 +5831,6 @@ Concordia Ave & Asbury St (eastbound)
 
 Get on/off westbound buses at:
 St Anthony Ave & Fry St (westbound)
-```
-
-</details>
-
----
-
-### ℹ️ Rosedale Transit Center Reopens Beginning Thu Sep 10
-
-- **Affected Routes**: `Route 223` `Route 225` `Route 227` `Route 264` `Route 32` `Route 65` `Route 801` `Route 83` `Route 87` `METRO A Line`
-- **Direction**: All
-- **Severity**: `Minor`
-- **Schedule**: Beginning Thu Sep 10
-
-**Summary**: Rosedale Transit Center reopens beginning Thu Sep 10
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Rosedale Transit Center reopens beginning Thu Sep 10
-
-```text
-Rosedale Transit Center will reopen on September 10, 2026.
-
-With renovations now complete, buses will return to the transit center with new gate assignments:
-
-Gate      |	Stop ID |	Routes
-Gate A  |	52531  |	A Line
-Gate B  |	52532  |	83, 801
-Gate C  |	57690  |	65, 87
-Gate D  |	57685  |	32, 264
-Gate E  |	52530  |	225, 227
-Gate F  |	57691  |	223, Metro Micro
 ```
 
 </details>
