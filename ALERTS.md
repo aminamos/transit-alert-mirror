@@ -2,94 +2,53 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-143-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-12-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-127-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-81-brightgreen)](#-routes-index)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-138-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-9-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-126-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-78-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-24T21:56:14.876Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-25T00:17:42.195Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (2) • **METRO D Line** (5) • **METRO E Line** (4) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **METRO Orange Line** (1) • **Route 2** (3) • **Route 3** (3) • **Route 3A** (2) • **Route 4** (4) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (5) • **Route 7** (4) • **Route 9** (6) • **Route 10** (2) • **Route 11** (6) • **Route 14** (3) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 30** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (5) • **Route 46** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (1) • **Route 63** (3) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 225** (1) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (2) • **Route 542** (4) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 790** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (5) • **METRO E Line** (4) • **METRO Gold Line** (3) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (2) • **Route 4** (4) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (5) • **Route 7** (4) • **Route 9** (5) • **Route 10** (2) • **Route 11** (5) • **Route 14** (3) • **Route 17** (3) • **Route 18** (9) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 30** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (5) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (1) • **Route 63** (3) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (2) • **Route 223** (3) • **Route 225** (1) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (2) • **Route 542** (4) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO C Line: Northbound 3:56 PM Trip Canceled (7th St & Park Station)
+### 🚨 METRO Gold Line: Eastbound 5:51 PM Trip Canceled (Smith & 5th St Station)
 
-- **Affected Routes**: `METRO C Line`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Northbound C Line trip departing 7th St & Park St
-
-**Summary**: Northbound C Line trip departing 7th St & Park Station at 3:56 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/cline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound C Line trip departing 7th St & Park Station at 3:56 PM canceled today
-
-</details>
-
----
-
-### 🚨 METRO C Line: Service Advisory
-
-- **Affected Routes**: `METRO C Line`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #11098, Stop #52664, Stop #52667, Stop #56826, Stop #56834, Stop #56528, Stop #56400, Stop #56422 *(+5 more)*
-
-**Summary**: Southbound C Line trip departing Brooklyn Ctr Transit Ctr at 4:57 PM will start from Olson & Penn. Previous stops missed
-
-[Official Agency Advisory](https://www.metrotransit.org/route/cline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound C Line trip departing Brooklyn Ctr Transit Ctr at 4:57 PM will start from Olson & Penn. Previous stops missed
-
-</details>
-
----
-
-### 🚨 METRO Orange Line: Northbound 4:08 PM Trip Canceled (Burnsville Heart of the City Station)
-
-- **Affected Routes**: `METRO Orange Line`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Orange Line trip departing Burnsville Heart of the City Station at 4:08 PM canceled today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/orange)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Orange Line trip departing Burnsville Heart of the City Station at 4:08 PM canceled today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 9: Service Advisory
-
-- **Affected Routes**: `Route 9`
+- **Affected Routes**: `METRO Gold Line`
 - **Direction**: Eastbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #40914, Stop #40469, Stop #40470, Stop #40247, Stop #40295, Stop #3012, Stop #3040, Stop #3043 *(+57 more)*
 
-**Summary**: Eastbound Route 9 trip departing Hedberg Dr & Cedar Lake Rd at 3:08 PM will start from 7th St Transit Center. Previous stops missed due to maintenance
+**Summary**: Eastbound Gold Line trip departing Smith & 5th St Station at 5:51 PM canceled today due to mechanical issue
 
-[Official Agency Advisory](https://www.metrotransit.org/route/9)
+[Official Agency Advisory](https://www.metrotransit.org/route/gold)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Route 9 trip departing Hedberg Dr & Cedar Lake Rd at 3:08 PM will start from 7th St Transit Center. Previous stops missed due to maintenance
+**Header**: Eastbound Gold Line trip departing Smith & 5th St Station at 5:51 PM canceled today due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 Route 18: Northbound 6:29 PM Trip Canceled (2nd Ave S Loop & American Blvd)
+
+- **Affected Routes**: `Route 18`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 18 trip departing 2nd Ave S Loop & American Blvd at 6:29 PM canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/18)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 18 trip departing 2nd Ave S Loop & American Blvd at 6:29 PM canceled today due to traffic
 
 </details>
 
@@ -141,27 +100,6 @@ departing Westgate Station - Gate B at 7:05 PM
 
 ---
 
-### 🚨 Route 54: Service Advisory
-
-- **Affected Routes**: `Route 54`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-- **Corridors & Intersections**: 28 PM will start from 7th St W & Lexington Pkwy S
-- **Closed Stops**: Stop #4537, Stop #41255, Stop #41259, Stop #41975, Stop #56597, Stop #56875, Stop #56939, Stop #17415 *(+4 more)*
-
-**Summary**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 4:28 PM will start from 7th St W & Lexington Pkwy S at 4:49 PM today. Previous stops will be missed
-
-[Official Agency Advisory](https://www.metrotransit.org/route/54)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 4:28 PM will start from 7th St W & Lexington Pkwy S at 4:49 PM today. Previous stops will be missed
-
-</details>
-
----
-
 ### 🚨 Route 72: Service Canceled
 
 - **Affected Routes**: `Route 72`
@@ -230,6 +168,35 @@ departing Sun Ray Transit Center & Gate D at 3:19 PM
 departing Sun Ray Transit Center & Gate D at 5:18 PM
 departing Sun Ray Transit Center & Gate D at 7:21 PM
 departing Sun Ray Transit Center & Gate D at 9:21 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 219: Service Canceled
+
+- **Affected Routes**: `Route 219`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 219 trip departing Sun Ray Transit Center & Gate B at 6:13 PM and three other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/219)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 219 trip departing Sun Ray Transit Center & Gate B at 6:13 PM and three other trips canceled today
+
+```text
+Affected northbound trips:
+departing Sun Ray Transit Center & Gate B at 6:13 PM
+departing Sun Ray Transit Center & Gate B at 8:13 PM
+
+Affected southbound trips:
+departing Maplewood Mall Transit Center & Gate A at 7:12 PM
+departing Maplewood Mall Transit Center & Gate A at 9:12 PM
 ```
 
 </details>
@@ -288,25 +255,6 @@ departing MOA Transit Station Gate G at 3:34 PM
 departing MOA Transit Station Gate G at 5:05 PM
 departing MOA Transit Station Gate G at 6:37 PM
 ```
-
-</details>
-
----
-
-### 🚨 Route 790: Westbound 3:30 PM Trip Canceled (Marquette Ave & Wash Ave S - Stop Grp A)
-
-- **Affected Routes**: `Route 790`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 790 trip departing Marquette Ave & Wash Ave S - Stop Grp A at 3:30 PM canceled today due to medical emergency
-
-[Official Agency Advisory](https://www.metrotransit.org/route/790)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 790 trip departing Marquette Ave & Wash Ave S - Stop Grp A at 3:30 PM canceled today due to medical emergency
 
 </details>
 
@@ -1081,35 +1029,6 @@ Franklin Ave E & Clinton Ave S - Stop #13318 (WB)
 Franklin Ave E & 3rd Ave S - Stop #13319 (WB)
 Franklin Ave W & Nicollet Ave S - Stop #13324 (WB)
 Franklin Ave W & Pleasant Ave S - Stop #13328 (WB)
-```
-
-</details>
-
----
-
-### ⚠️ Route 2: Stop Closed at 8th St SE & Hennepin Ave E
-
-- **Affected Routes**: `Route 2`
-- **Direction**: Eastbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 8th St SE & Hennepin Ave E; 8th St SE & 2nd Ave S; 8th St SE & 5th Ave S
-- **Closed Stops**: Stop #56302, Stop #57302, Stop #16058
-
-**Summary**: 8th St SE & Hennepin Ave E - Stop #56302 (eastbound) is closed for Route 2 until further notice due to construction. Board at: 8th St SE & 2nd Ave SE - Stop #57302 (eastbound); 8th St SE & 5th Ave SE - Stop #16058 (eastbound).
-
-> 💡 **Rider Action**: Board at: 8th St SE & 2nd Ave SE - Stop #57302 (eastbound); 8th St SE & 5th Ave SE - Stop #16058 (eastbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: 8th St SE & Hennepin Ave E - Stop #56302 (eastbound) is closed for Route 2 until further notice due to construction
-
-```text
-Get on/off buses at:
-8th St SE & 2nd Ave SE - Stop #57302 (eastbound)
-8th St SE & 5th Ave SE - Stop #16058 (eastbound)
 ```
 
 </details>
@@ -6139,54 +6058,6 @@ LaFayette Rd & Grove St - Stop #11923 (southbound)
 
 ```text
 The bus stop has been moved to southbound 10th Ave SE just past 8th St SE.
-```
-
-</details>
-
----
-
-### ℹ️ Route 11 off 3rd Ave from 24th St to 19th St until Further Notice due to Construction
-
-- **Affected Routes**: `Route 11`
-- **Direction**: Both Directions
-- **Severity**: `Minor`
-- **Corridors & Intersections**: 3rd Ave S & 25th St E; 24th St E & 3rd Ave S; Nicollet Ave S & 24th St E; Nicollet Ave S & Franklin Ave W; Nicollet Ave S & 18th St E
-- **Closed Stops**: 3rd Ave S & 24th St E (Stop #17763), 3rd Ave S & 22nd St E (Stop #17764), 3rd Ave S & Franklin Ave E (Stop #17765), 3rd Ave S & Franklin Ave / 19th St E (Stop #17766), 3rd Ave S & 18th St / 17th St E (Stop #17768), 16th St E & 3rd Ave S (Stop #53463), Stop #17762, Stop #1900 *(+4 more)*
-
-**Summary**: Route 11 off 3rd Ave from 24th St to 19th St until further notice due to construction. Board at: 3rd Ave S & 25th St E - Stop #17762 (northbound); Temporary stop on 24th St E & 3rd Ave S (westbound); Nicollet Ave S & 24th St E - Stop #1900 (northbound).
-
-> 💡 **Rider Action**: Board at: 3rd Ave S & 25th St E - Stop #17762 (northbound); Temporary stop on 24th St E & 3rd Ave S (westbound); Nicollet Ave S & 24th St E - Stop #1900 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on 3rd Ave to 24th St, left on 24th St, right on Nicollet Ave, continue on Nicollet Ave to 15th St and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/11)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 11 off 3rd Ave from 24th St to 19th St until further notice due to construction
-
-```text
-Get on/off northbound buses at:
-3rd Ave S & 25th St E - Stop #17762 (northbound)
-Temporary stop on 24th St E & 3rd Ave S (westbound)
-Nicollet Ave S & 24th St E - Stop #1900 (northbound)
-Nicollet Ave S & Franklin Ave W - Stop #1905 (northbound)
-Nicollet Ave S & 18th St E - Stop #1911 (northbound)
-Nicollet Ave S & 16th St E - Stop #1914 (northbound)
-Nicollet Ave S & 14th St / Grant St - Stop #1920 (northbound)
-
-Northbound buses will travel regular route on 3rd Ave to 24th St, left on 24th St, right on Nicollet Ave, continue on Nicollet Ave to 15th St and resume regular route.
-
-Southbound buses will travel regular route.
-
-Affected stops:
-3rd Ave S & 24th St E - Stop #17763 (northbound)
-3rd Ave S & 22nd St E - Stop #17764 (northbound)
-3rd Ave S & Franklin Ave E - Stop #17765 (northbound)
-3rd Ave S & Franklin Ave / 19th St E - Stop #17766 (northbound)
-3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound)
-16th St E & 3rd Ave S - Stop #53463 (westbound)
 ```
 
 </details>
