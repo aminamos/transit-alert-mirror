@@ -2,19 +2,132 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-128-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-123-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-130-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-6-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-121-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-25T16:27:31.518Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-25T20:13:16.551Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (5) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (2) • **Route 4** (3) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (5) • **Route 7** (4) • **Route 9** (5) • **Route 10** (3) • **Route 11** (5) • **Route 14** (3) • **Route 17** (4) • **Route 18** (10) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (5) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (3) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**Green Line Bus** (1) • **METRO A Line** (2) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (5) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Green Line** (2) • **Route 2** (2) • **Route 3** (4) • **Route 3A** (2) • **Route 4** (3) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (5) • **Route 7** (4) • **Route 9** (5) • **Route 10** (3) • **Route 11** (6) • **Route 14** (3) • **Route 17** (4) • **Route 18** (11) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (5) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
+
+### 🚨 Green Line Bus, METRO Green Line: Service Canceled
+
+- **Affected Routes**: `Green Line Bus` `METRO Green Line`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing University Ave & Carleton St; 44 PM
+departing University Ave & Carleton St; departing Kellogg Blvd E & Sibley St; 38 PM
+departing Kellogg Blvd E & Sibley St
+
+**Summary**: Green Line Bus trip departing University Ave & Carleton St at 3:44 PM and three other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/grnbus)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Green Line Bus trip departing University Ave & Carleton St at 3:44 PM and three other trips canceled today
+
+```text
+Affected eastbound trips:
+departing University Ave & Carleton St at 3:44 PM
+departing University Ave & Carleton St at 5:44 PM
+
+Affected westbound trips:
+departing Kellogg Blvd E & Sibley St at 4:38 PM
+departing Kellogg Blvd E & Sibley St at 6:32 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 3: Service Canceled
+
+- **Affected Routes**: `Route 3`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 36 PM and departing Washington Ave & 10th Ave N
+
+**Summary**: Route 3 trips departing Union Depot & Gate A1 at 3:36 PM and departing Washington Ave & 10th Ave N at 5:11 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/3)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 3 trips departing Union Depot & Gate A1 at 3:36 PM and departing Washington Ave & 10th Ave N at 5:11 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 11: Service Canceled
+
+- **Affected Routes**: `Route 11`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 11 trip departing Nicollet Ave S & 46th St E; departing Nicollet Ave S & 46th St E; 37 PM
+departing Nicollet Ave S & 46th St E
+
+**Summary**: Route 11 trip departing Nicollet Ave S & 46th St E at 2:37 PM and two other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/11)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 11 trip departing Nicollet Ave S & 46th St E at 2:37 PM and two other trips canceled today
+
+```text
+Affected northbound trips:
+departing Nicollet Ave S & 46th St E at 2:37 PM
+departing Nicollet Ave S & 46th St E at 5:21 PM
+
+Affected southbound trips:
+departing Columbia Heights Transit Center C at 3:54 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 18: Service Canceled
+
+- **Affected Routes**: `Route 18`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing 4th Ave S & 3rd St S; 25 PM
+departing 4th Ave S & 3rd St S
+
+**Summary**: Route 18 trip departing 104th St W & Bloomington Fwy W at 2:39 PM and three other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/18)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 18 trip departing 104th St W & Bloomington Fwy W at 2:39 PM and three other trips canceled today
+
+```text
+Affected northbound trips:
+departing 104th St W & Bloomington Fwy W at 2:39 PM
+departing 2nd Ave S Loop & American Blvd at 5:59 PM
+
+Affected southbound trips:
+departing 4th Ave S & 3rd St S at 4:25 PM
+departing 4th Ave S & 3rd St S at 7:17 PM
+```
+
+</details>
+
+---
 
 ### 🚨 Route 30: Service Canceled
 
@@ -53,78 +166,26 @@ departing Westgate Station - Gate B at 9:36 PM
 
 ---
 
-### 🚨 Route 805: Service Canceled
+### 🚨 Route 860: Northbound 3:37 PM Trip Canceled (Smith & 5th St Station)
 
-- **Affected Routes**: `Route 805`
-- **Direction**: Both Directions
+- **Affected Routes**: `Route 860`
+- **Direction**: Northbound
 - **Severity**: `Critical`
-- **Corridors & Intersections**: departing 1st Ave S & Monroe St; 38 PM
-departing 1st Ave S & Monroe St; 36 PM
-departing 1st Ave S & Monroe St
 
-**Summary**: Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today
+**Summary**: Northbound Route 860 trip departing Smith & 5th St Station at 3:37 PM canceled today due to traffic
 
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
+[Official Agency Advisory](https://www.metrotransit.org/route/860)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate D at 11:34 AM
-departing Northtown Transit Ctr Gate D at 1:34 PM
-departing Northtown Transit Ctr Gate D at 3:34 PM
-departing Northtown Transit Ctr Gate D at 5:34 PM
-
-Affected southbound trips:
-departing 1st Ave S & Monroe St at 12:38 PM
-departing 1st Ave S & Monroe St at 2:36 PM
-departing 1st Ave S & Monroe St at 4:36 PM
-```
+**Header**: Northbound Route 860 trip departing Smith & 5th St Station at 3:37 PM canceled today due to traffic
 
 </details>
 
 ---
 
 ## ⚠️ Moderate Detours & Changes
-
-### ⚠️ METRO A Line: Stop Closed at Snelling Ave & Summit Ave
-
-- **Affected Routes**: `METRO A Line`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Jul 20 at 4:00 AM until further notice
-- **Corridors & Intersections**: Snelling Ave & Summit Ave
-- **Closed Stops**: Stop #17366, Stop #17312, Stop #56116, Stop #17371, Stop #17307, Stop #17318
-
-**Summary**: Snelling & Grand Station - Stop #17366 (northbound) and Snelling & Grand Station - Stop #17312 (southbound) are closed for A Line beginning Mon Jul 20 at 4:00 AM until further notice due to construction. Board at: Snelling & St Clair Station - Stop #56116 (northbound); Temporary stop on Snelling Ave & Summit Ave (northbound); Snelling & Dayton Station - Stop #17371 (northbound).
-
-> 💡 **Rider Action**: Board at: Snelling & St Clair Station - Stop #56116 (northbound); Temporary stop on Snelling Ave & Summit Ave (northbound); Snelling & Dayton Station - Stop #17371 (northbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/aline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Snelling & Grand Station - Stop #17366 (northbound) and Snelling & Grand Station - Stop #17312 (southbound) are closed for A Line beginning Mon Jul 20 at 4:00 AM until further notice due to construction
-
-```text
-For northbound A Line get on/off buses at:
-Snelling & St Clair Station - Stop #56116 (northbound)
-Temporary stop on Snelling Ave & Summit Ave (northbound)
-Snelling & Dayton Station - Stop #17371 (northbound)
-
-For southbound A Line get on/off buses at:
-Snelling & Dayton Station - Stop #17307 (southbound)
-Temporary stop on Snelling Ave & Summit Ave (southbound)
-Snelling & St Clair Station - Stop #17318 (southbound)
-```
-
-</details>
-
----
 
 ### ⚠️ METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)
 
@@ -3630,61 +3691,6 @@ Westbound buses will travel regular route on Mounds Blvd to westbound I-94 exit,
 Affected stops:
 Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 7th St E & Wall St - Stop #57215 (eastbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 63: Detour via Grand Ave & Prior Ave
-
-- **Affected Routes**: `Route 63`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Jul 20 at 4:00 AM until further notice
-- **Corridors & Intersections**: Grand Ave & Prior Ave; Summit Ave & Snelling Ave; Summit Ave & Pascal St; Grand Ave & Hamline Ave; Grand Ave & Fairview Ave
-- **Closed Stops**: Grand Ave & Fairview Ave (Stop #56945), Grand Ave & Cambridge St (Stop #3112), Grand Ave & Snelling Ave (Stop #3114), Grand Ave & Pascal St (Stop #3116), Grand Ave & Pascal St (Stop #3087), Grand Ave & Snelling Ave (Stop #3089), Grand Ave & Cambridge St (Stop #3091), Grand Avenue & Fairview Ave (Stop #56944) *(+4 more)*
-
-**Summary**: Route 63 detoured off Grand Ave from Fairview Ave to Hamline Ave beginning Mon Jul 20 at 4:00 AM until further notice due to construction. Board at: Grand Ave & Prior Ave - Stop #3108 (eastbound); Temporary stop on Grand Ave just before Fairview Ave (eastbound); Temporary stop on Summit Ave & Snelling Ave (eastbound).
-
-> 💡 **Rider Action**: Board at: Grand Ave & Prior Ave - Stop #3108 (eastbound); Temporary stop on Grand Ave just before Fairview Ave (eastbound); Temporary stop on Summit Ave & Snelling Ave (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on Grand Ave to Fairview Ave, left on Fairview, right on Summit Ave, right on Hamline Ave, left on Grand Ave, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/63)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 63 detoured off Grand Ave from Fairview Ave to Hamline Ave beginning Mon Jul 20 at 4:00 AM until further notice due to construction
-
-```text
-For eastbound Route 63 get on/off buses at:
-Grand Ave & Prior Ave - Stop #3108 (eastbound)
-Temporary stop on Grand Ave just before Fairview Ave (eastbound)
-Temporary stop on Summit Ave & Snelling Ave (eastbound)
-Temporary stop on Summit Ave & Pascal St (eastbound)
-Grand Ave & Hamline Ave - Stop #56946 (eastbound)
-
-For westbound Route 63 get on/off buses at:
-Grand Ave & Hamline Ave - Stop #3085 (westbound)
-Temporary stop on Summit Ave & Pascal St (westbound)
-Temporary stop on Summit Ave & Snelling Ave (westbound)
-Grand Ave & Prior Ave - Stop #3095 (westbound)
-
-Eastbound buses will travel regular route on Grand Ave to Fairview Ave, left on Fairview, right on Summit Ave, right on Hamline Ave, left on Grand Ave, and resume regular route.
-
-Westbound buses will travel regular route on Grand Ave to Hamline Ave, right on Hamline, left on Summit Ave, left on Fairview Ave, right on Grand Ave, and resume regular route.
-
-Affected stops:
-Grand Ave & Fairview Ave - Stop #56945 (eastbound)
-Grand Ave & Cambridge St - Stop #3112 (eastbound)
-Grand Ave & Snelling Ave - Stop #3114 (eastbound)
-Grand Ave & Pascal St - Stop #3116 (eastbound)
-Grand Ave & Pascal St - Stop #3087 (westbound)
-Grand Ave & Snelling Ave - Stop #3089 (westbound)
-Grand Ave & Cambridge St - Stop #3091 (westbound)
-Grand Avenue & Fairview Ave - Stop #56944 (westbound)
 ```
 
 </details>

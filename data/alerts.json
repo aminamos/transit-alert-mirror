@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-25T16:27:31.518Z",
-    "totalAlerts": 128,
-    "criticalCount": 2,
-    "moderateCount": 123,
+    "generatedAt": "2026-09-25T20:13:16.551Z",
+    "totalAlerts": 130,
+    "criticalCount": 6,
+    "moderateCount": 121,
     "minorCount": 3,
     "affectedRoutesCount": 77,
     "agencies": [
@@ -11,6 +11,125 @@
     ]
   },
   "alerts": [
+    {
+      "id": "53332",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Green Line Bus, METRO Green Line: Service Canceled",
+      "summary": "Green Line Bus trip departing University Ave & Carleton St at 3:44 PM and three other trips canceled today",
+      "affectedRoutes": [
+        "Green Line Bus",
+        "METRO Green Line"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "departing University Ave & Carleton St",
+        "44 PM\ndeparting University Ave & Carleton St",
+        "departing Kellogg Blvd E & Sibley St",
+        "38 PM\ndeparting Kellogg Blvd E & Sibley St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-25T20:44:00.000Z",
+        "end": "2026-09-26T01:11:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/grnbus",
+      "updatedAt": "2026-09-25T19:54:12.000Z",
+      "rawHeader": "Green Line Bus trip departing University Ave & Carleton St at 3:44 PM and three other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting University Ave & Carleton St at 3:44 PM\r\ndeparting University Ave & Carleton St at 5:44 PM\r\n\nAffected westbound trips:\r\ndeparting Kellogg Blvd E & Sibley St at 4:38 PM\r\ndeparting Kellogg Blvd E & Sibley St at 6:32 PM"
+    },
+    {
+      "id": "53330",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 3: Service Canceled",
+      "summary": "Route 3 trips departing Union Depot & Gate A1 at 3:36 PM and departing Washington Ave & 10th Ave N at 5:11 PM canceled today",
+      "affectedRoutes": [
+        "Route 3"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "36 PM and departing Washington Ave & 10th Ave N"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-25T20:36:00.000Z",
+        "end": "2026-09-26T00:18:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/3",
+      "updatedAt": "2026-09-25T20:06:00.000Z",
+      "rawHeader": "Route 3 trips departing Union Depot & Gate A1 at 3:36 PM and departing Washington Ave & 10th Ave N at 5:11 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "53327",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 11: Service Canceled",
+      "summary": "Route 11 trip departing Nicollet Ave S & 46th St E at 2:37 PM and two other trips canceled today",
+      "affectedRoutes": [
+        "Route 11"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 11 trip departing Nicollet Ave S & 46th St E",
+        "departing Nicollet Ave S & 46th St E",
+        "37 PM\ndeparting Nicollet Ave S & 46th St E"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-25T19:37:00.000Z",
+        "end": "2026-09-26T00:26:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/11",
+      "updatedAt": "2026-09-25T19:07:01.000Z",
+      "rawHeader": "Route 11 trip departing Nicollet Ave S & 46th St E at 2:37 PM and two other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Nicollet Ave S & 46th St E at 2:37 PM\r\ndeparting Nicollet Ave S & 46th St E at 5:21 PM\r\n\nAffected southbound trips:\r\ndeparting Columbia Heights Transit Center C at 3:54 PM"
+    },
+    {
+      "id": "53329",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 18: Service Canceled",
+      "summary": "Route 18 trip departing 104th St W & Bloomington Fwy W at 2:39 PM and three other trips canceled today",
+      "affectedRoutes": [
+        "Route 18"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "departing 4th Ave S & 3rd St S",
+        "25 PM\ndeparting 4th Ave S & 3rd St S"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-25T19:39:00.000Z",
+        "end": "2026-09-26T02:33:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/18",
+      "updatedAt": "2026-09-25T19:09:01.000Z",
+      "rawHeader": "Route 18 trip departing 104th St W & Bloomington Fwy W at 2:39 PM and three other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting 104th St W & Bloomington Fwy W at 2:39 PM\r\ndeparting 2nd Ave S Loop & American Blvd at 5:59 PM\r\n\nAffected southbound trips:\r\ndeparting 4th Ave S & 3rd St S at 4:25 PM\r\ndeparting 4th Ave S & 3rd St S at 7:17 PM"
+    },
     {
       "id": "53325",
       "agency": "Metro Transit",
@@ -37,93 +156,35 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-09-25T16:03:10.000Z",
+      "updatedAt": "2026-09-25T18:04:00.000Z",
       "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 1:34 PM and eight other trips canceled today",
       "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 2:26 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 4:24 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 6:26 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 8:25 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 1:34 PM\r\ndeparting Westgate Station - Gate B at 3:34 PM\r\ndeparting Westgate Station - Gate B at 5:34 PM\r\ndeparting Westgate Station - Gate B at 7:36 PM\r\ndeparting Westgate Station - Gate B at 9:36 PM"
     },
     {
-      "id": "53324",
+      "id": "53331",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 805: Service Canceled",
-      "summary": "Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today",
+      "title": "Route 860: Northbound 3:37 PM Trip Canceled (Smith & 5th St Station)",
+      "summary": "Northbound Route 860 trip departing Smith & 5th St Station at 3:37 PM canceled today due to traffic",
       "affectedRoutes": [
-        "Route 805"
+        "Route 860"
       ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing 1st Ave S & Monroe St",
-        "38 PM\ndeparting 1st Ave S & Monroe St",
-        "36 PM\ndeparting 1st Ave S & Monroe St"
-      ],
+      "direction": "Northbound",
+      "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-25T16:34:00.000Z",
-        "end": "2026-09-26T00:19:00.000Z"
+        "start": "2026-09-25T20:37:00.000Z",
+        "end": "2026-09-25T22:39:00.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-09-25T16:04:00.000Z",
-      "rawHeader": "Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 11:34 AM\r\ndeparting Northtown Transit Ctr Gate D at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 12:38 PM\r\ndeparting 1st Ave S & Monroe St at 2:36 PM\r\ndeparting 1st Ave S & Monroe St at 4:36 PM"
-    },
-    {
-      "id": "49962",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "METRO A Line: Stop Closed at Snelling Ave & Summit Ave",
-      "summary": "Snelling & Grand Station - Stop #17366 (northbound) and Snelling & Grand Station - Stop #17312 (southbound) are closed for A Line beginning Mon Jul 20 at 4:00 AM until further notice due to construction. Board at: Snelling & St Clair Station - Stop #56116 (northbound); Temporary stop on Snelling Ave & Summit Ave (northbound); Snelling & Dayton Station - Stop #17371 (northbound).",
-      "affectedRoutes": [
-        "METRO A Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Snelling Ave & Summit Ave"
-      ],
-      "closedStopIds": [
-        "17366",
-        "17312",
-        "56116",
-        "17371",
-        "17307",
-        "17318"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "17366"
-        },
-        {
-          "id": "17312"
-        },
-        {
-          "id": "56116"
-        },
-        {
-          "id": "17371"
-        },
-        {
-          "id": "17307"
-        },
-        {
-          "id": "17318"
-        }
-      ],
-      "riderAlternative": "Board at: Snelling & St Clair Station - Stop #56116 (northbound); Temporary stop on Snelling Ave & Summit Ave (northbound); Snelling & Dayton Station - Stop #17371 (northbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-07-20T09:00:00.000Z",
-        "textDescription": "Beginning Mon Jul 20 at 4:00 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/aline",
-      "updatedAt": "2026-07-27T09:00:02.000Z",
-      "rawHeader": "Snelling & Grand Station - Stop #17366 (northbound) and Snelling & Grand Station - Stop #17312 (southbound) are closed for A Line beginning Mon Jul 20 at 4:00 AM until further notice due to construction",
-      "rawDescription": "For northbound A Line get on/off buses at:\r\nSnelling & St Clair Station - Stop #56116 (northbound)\r\nTemporary stop on Snelling Ave & Summit Ave (northbound)\r\nSnelling & Dayton Station - Stop #17371 (northbound)\r\n\nFor southbound A Line get on/off buses at:\r\nSnelling & Dayton Station - Stop #17307 (southbound)\r\nTemporary stop on Snelling Ave & Summit Ave (southbound)\r\nSnelling & St Clair Station - Stop #17318 (southbound)"
+      "url": "https://www.metrotransit.org/route/860",
+      "updatedAt": "2026-09-25T20:07:00.000Z",
+      "rawHeader": "Northbound Route 860 trip departing Smith & 5th St Station at 3:37 PM canceled today due to traffic",
+      "rawDescription": ""
     },
     {
       "id": "52943",
@@ -3851,13 +3912,11 @@
       ],
       "riderAlternative": "Board at: Portland & 73rd St Station - Stop #56922 (northbound); Nicollet Ave S & 68th St E - Stop #1445 (northbound)",
       "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-08-28T14:59:00.000Z"
-      },
+      "activePeriod": {},
       "cause": "UNKNOWN_CAUSE",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/18",
-      "updatedAt": "2026-09-04T14:59:01.000Z",
+      "updatedAt": "2026-09-25T20:10:16.000Z",
       "rawHeader": "Nicollet Ave S & 69th St E - Stop #1444 (northbound) is closed for Route 18 until further notice",
       "rawDescription": "Get on/off buses at:\r\nPortland & 73rd St Station - Stop #56922 (northbound)\r\nNicollet Ave S & 68th St E - Stop #1445 (northbound)"
     },
@@ -6329,104 +6388,6 @@
       "rawDescription": "Updated at 2:18 PM 8/1 to extend end date to further notice.\r\n\nGet on/off buses at:\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\n5th St & Sibley St - Stop #11839 (eastbound)\r\n3rd St E & Maria Ave - Stop #3152 (eastbound)\r\nNo westbound stops missed\r\n\nEastbound buses will travel regular route on 5th St to Wacouta St, continue on 5th St to Broadway St, left on Broadway St, right onto eastbound I-94, take left exit to Mounds Blvd, right on Mounds Blvd and resume regular route.\r\n\nWestbound buses will travel regular route on Mounds Blvd to westbound I-94 exit, take left exit onto westbound I-94, exit right onto 12th St, left on Jackson St, left on 7th St, right on Wall St and resume regular route.\r\n\nAffected stops:\r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)\r\n7th St E & Wall St - Stop #57215 (eastbound)"
     },
     {
-      "id": "51927",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 63: Detour via Grand Ave & Prior Ave",
-      "summary": "Route 63 detoured off Grand Ave from Fairview Ave to Hamline Ave beginning Mon Jul 20 at 4:00 AM until further notice due to construction. Board at: Grand Ave & Prior Ave - Stop #3108 (eastbound); Temporary stop on Grand Ave just before Fairview Ave (eastbound); Temporary stop on Summit Ave & Snelling Ave (eastbound).",
-      "affectedRoutes": [
-        "Route 63"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Grand Ave & Prior Ave",
-        "Summit Ave & Snelling Ave",
-        "Summit Ave & Pascal St",
-        "Grand Ave & Hamline Ave",
-        "Grand Ave & Fairview Ave"
-      ],
-      "closedStopIds": [
-        "56945",
-        "3112",
-        "3114",
-        "3116",
-        "3087",
-        "3089",
-        "3091",
-        "56944",
-        "3108",
-        "56946",
-        "3085",
-        "3095"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "56945",
-          "name": "Grand Ave & Fairview Ave",
-          "direction": "eastbound"
-        },
-        {
-          "id": "3112",
-          "name": "Grand Ave & Cambridge St",
-          "direction": "eastbound"
-        },
-        {
-          "id": "3114",
-          "name": "Grand Ave & Snelling Ave",
-          "direction": "eastbound"
-        },
-        {
-          "id": "3116",
-          "name": "Grand Ave & Pascal St",
-          "direction": "eastbound"
-        },
-        {
-          "id": "3087",
-          "name": "Grand Ave & Pascal St",
-          "direction": "westbound"
-        },
-        {
-          "id": "3089",
-          "name": "Grand Ave & Snelling Ave",
-          "direction": "westbound"
-        },
-        {
-          "id": "3091",
-          "name": "Grand Ave & Cambridge St",
-          "direction": "westbound"
-        },
-        {
-          "id": "56944",
-          "name": "Grand Avenue & Fairview Ave",
-          "direction": "westbound"
-        },
-        {
-          "id": "3108"
-        },
-        {
-          "id": "56946"
-        },
-        {
-          "id": "3085"
-        },
-        {
-          "id": "3095"
-        }
-      ],
-      "riderAlternative": "Board at: Grand Ave & Prior Ave - Stop #3108 (eastbound); Temporary stop on Grand Ave just before Fairview Ave (eastbound); Temporary stop on Summit Ave & Snelling Ave (eastbound)",
-      "detourDetails": "Eastbound buses will travel regular route on Grand Ave to Fairview Ave, left on Fairview, right on Summit Ave, right on Hamline Ave, left on Grand Ave, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-08-21T15:21:00.000Z",
-        "textDescription": "Beginning Mon Jul 20 at 4:00 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "OTHER_EFFECT",
-      "url": "https://www.metrotransit.org/route/63",
-      "updatedAt": "2026-09-03T18:27:20.000Z",
-      "rawHeader": "Route 63 detoured off Grand Ave from Fairview Ave to Hamline Ave beginning Mon Jul 20 at 4:00 AM until further notice due to construction",
-      "rawDescription": "For eastbound Route 63 get on/off buses at:\r\nGrand Ave & Prior Ave - Stop #3108 (eastbound)\r\nTemporary stop on Grand Ave just before Fairview Ave (eastbound)\r\nTemporary stop on Summit Ave & Snelling Ave (eastbound)\r\nTemporary stop on Summit Ave & Pascal St (eastbound)\r\nGrand Ave & Hamline Ave - Stop #56946 (eastbound)\r\n\nFor westbound Route 63 get on/off buses at:\r\nGrand Ave & Hamline Ave - Stop #3085 (westbound)\r\nTemporary stop on Summit Ave & Pascal St (westbound)\r\nTemporary stop on Summit Ave & Snelling Ave (westbound)\r\nGrand Ave & Prior Ave - Stop #3095 (westbound)\r\n\nEastbound buses will travel regular route on Grand Ave to Fairview Ave, left on Fairview, right on Summit Ave, right on Hamline Ave, left on Grand Ave, and resume regular route.\r\n\nWestbound buses will travel regular route on Grand Ave to Hamline Ave, right on Hamline, left on Summit Ave, left on Fairview Ave, right on Grand Ave, and resume regular route.\r\n\nAffected stops:\r\nGrand Ave & Fairview Ave - Stop #56945 (eastbound)\r\nGrand Ave & Cambridge St - Stop #3112 (eastbound)\r\nGrand Ave & Snelling Ave - Stop #3114 (eastbound)\r\nGrand Ave & Pascal St - Stop #3116 (eastbound)\r\nGrand Ave & Pascal St - Stop #3087 (westbound)\r\nGrand Ave & Snelling Ave - Stop #3089 (westbound)\r\nGrand Ave & Cambridge St - Stop #3091 (westbound)\r\nGrand Avenue & Fairview Ave - Stop #56944 (westbound)"
-    },
-    {
       "id": "51765",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -8395,13 +8356,12 @@
       "riderAlternative": "Board at: Penn Ave S & 81st St W - Stop #2047 (southbound); Penn Ave S & Queen Ave S - Stop #40801 (southbound)",
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-05-14T10:00:00.000Z",
         "textDescription": "Beginning Thu May 14 at 5:00 AM until further notice"
       },
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/534",
-      "updatedAt": "2026-06-01T13:29:52.000Z",
+      "updatedAt": "2026-09-25T20:10:00.000Z",
       "rawHeader": "Penn Ave S & 82nd St W (S) - Stop #2048 (southbound) is closed for Route 534 beginning Thu May 14 at 5:00 AM until further notice due to construction",
       "rawDescription": "Updated affected stop 6/1 8:30 am.\r\n\nFor westbound Route 534 get on/off buses at:\r\nPenn Ave S & 81st St W - Stop #2047 (southbound)\r\nPenn Ave S & Queen Ave S - Stop #40801 (southbound)"
     },

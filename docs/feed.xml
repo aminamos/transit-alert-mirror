@@ -4,35 +4,62 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Fri, 25 Sep 2026 16:27:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 20:13:16 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
+      <title>[Critical] Green Line Bus, METRO Green Line: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/grnbus</link>
+      <guid isPermaLink="false">Metro Transit-53332-2026-09-25T19:54:12.000Z</guid>
+      <pubDate>Fri, 25 Sep 2026 19:54:12 GMT</pubDate>
+      <category>Critical</category>
+      <category>Green Line Bus, METRO Green Line</category>
+      <description>Green Line Bus trip departing University Ave &amp; Carleton St at 3:44 PM and three other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 3: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/3</link>
+      <guid isPermaLink="false">Metro Transit-53330-2026-09-25T20:06:00.000Z</guid>
+      <pubDate>Fri, 25 Sep 2026 20:06:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 3</category>
+      <description>Route 3 trips departing Union Depot &amp; Gate A1 at 3:36 PM and departing Washington Ave &amp; 10th Ave N at 5:11 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 11: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/11</link>
+      <guid isPermaLink="false">Metro Transit-53327-2026-09-25T19:07:01.000Z</guid>
+      <pubDate>Fri, 25 Sep 2026 19:07:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 11</category>
+      <description>Route 11 trip departing Nicollet Ave S &amp; 46th St E at 2:37 PM and two other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 18: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/18</link>
+      <guid isPermaLink="false">Metro Transit-53329-2026-09-25T19:09:01.000Z</guid>
+      <pubDate>Fri, 25 Sep 2026 19:09:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 18</category>
+      <description>Route 18 trip departing 104th St W &amp; Bloomington Fwy W at 2:39 PM and three other trips canceled today</description>
+    </item>
+    <item>
       <title>[Critical] Route 30: Service Canceled</title>
       <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-53325-2026-09-25T16:03:10.000Z</guid>
-      <pubDate>Fri, 25 Sep 2026 16:03:10 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53325-2026-09-25T18:04:00.000Z</guid>
+      <pubDate>Fri, 25 Sep 2026 18:04:00 GMT</pubDate>
       <category>Critical</category>
       <category>Route 30</category>
       <description>Route 30 trip departing Westgate Station - Gate B at 1:34 PM and eight other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 805: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/805</link>
-      <guid isPermaLink="false">Metro Transit-53324-2026-09-25T16:04:00.000Z</guid>
-      <pubDate>Fri, 25 Sep 2026 16:04:00 GMT</pubDate>
+      <title>[Critical] Route 860: Northbound 3:37 PM Trip Canceled (Smith &amp; 5th St Station)</title>
+      <link>https://www.metrotransit.org/route/860</link>
+      <guid isPermaLink="false">Metro Transit-53331-2026-09-25T20:07:00.000Z</guid>
+      <pubDate>Fri, 25 Sep 2026 20:07:00 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 805</category>
-      <description>Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Moderate] METRO A Line: Stop Closed at Snelling Ave &amp; Summit Ave</title>
-      <link>https://www.metrotransit.org/route/aline</link>
-      <guid isPermaLink="false">Metro Transit-49962-2026-07-27T09:00:02.000Z</guid>
-      <pubDate>Mon, 27 Jul 2026 09:00:02 GMT</pubDate>
-      <category>Moderate</category>
-      <category>METRO A Line</category>
-      <description>Snelling &amp; Grand Station - Stop #17366 (northbound) and Snelling &amp; Grand Station - Stop #17312 (southbound) are closed for A Line beginning Mon Jul 20 at 4:00 AM until further notice due to construction. Board at: Snelling &amp; St Clair Station - Stop #56116 (northbound); Temporary stop on Snelling Ave &amp; Summit Ave (northbound); Snelling &amp; Dayton Station - Stop #17371 (northbound). | Action: Board at: Snelling &amp; St Clair Station - Stop #56116 (northbound); Temporary stop on Snelling Ave &amp; Summit Ave (northbound); Snelling &amp; Dayton Station - Stop #17371 (northbound)</description>
+      <category>Route 860</category>
+      <description>Northbound Route 860 trip departing Smith &amp; 5th St Station at 3:37 PM canceled today due to traffic</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -464,8 +491,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 18: Stop Closed at Nicollet Ave S &amp; 69th St E</title>
       <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-52189-2026-09-04T14:59:01.000Z</guid>
-      <pubDate>Fri, 04 Sep 2026 14:59:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52189-2026-09-25T20:10:16.000Z</guid>
+      <pubDate>Fri, 25 Sep 2026 20:10:16 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 18</category>
       <description>Nicollet Ave S &amp; 69th St E - Stop #1444 (northbound) is closed for Route 18 until further notice. Board at: Portland &amp; 73rd St Station - Stop #56922 (northbound); Nicollet Ave S &amp; 68th St E - Stop #1445 (northbound). | Action: Board at: Portland &amp; 73rd St Station - Stop #56922 (northbound); Nicollet Ave S &amp; 68th St E - Stop #1445 (northbound)</description>
@@ -714,15 +741,6 @@ Affected st</title>
       <description>Route 63 detoured off Wacouta St from 5th St to 7th St and off 7th St from Wacouta St to Mounds Blvd until further notice due to construction. Board at: 5th St &amp; Jackson St - Stop #11838 (eastbound); 5th St &amp; Sibley St - Stop #11839 (eastbound); 3rd St E &amp; Maria Ave - Stop #3152 (eastbound). | Action: Board at: 5th St &amp; Jackson St - Stop #11838 (eastbound); 5th St &amp; Sibley St - Stop #11839 (eastbound); 3rd St E &amp; Maria Ave - Stop #3152 (eastbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 63: Detour via Grand Ave &amp; Prior Ave</title>
-      <link>https://www.metrotransit.org/route/63</link>
-      <guid isPermaLink="false">Metro Transit-51927-2026-09-03T18:27:20.000Z</guid>
-      <pubDate>Thu, 03 Sep 2026 18:27:20 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 63</category>
-      <description>Route 63 detoured off Grand Ave from Fairview Ave to Hamline Ave beginning Mon Jul 20 at 4:00 AM until further notice due to construction. Board at: Grand Ave &amp; Prior Ave - Stop #3108 (eastbound); Temporary stop on Grand Ave just before Fairview Ave (eastbound); Temporary stop on Summit Ave &amp; Snelling Ave (eastbound). | Action: Board at: Grand Ave &amp; Prior Ave - Stop #3108 (eastbound); Temporary stop on Grand Ave just before Fairview Ave (eastbound); Temporary stop on Summit Ave &amp; Snelling Ave (eastbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 64: Detour via 5th St &amp; Jackson St</title>
       <link>https://www.metrotransit.org/route/64</link>
       <guid isPermaLink="false">Metro Transit-51765-2026-08-25T13:29:01.000Z</guid>
@@ -950,8 +968,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 534: Stop Closed at Penn Ave S &amp; 82nd St W</title>
       <link>https://www.metrotransit.org/route/534</link>
-      <guid isPermaLink="false">Metro Transit-47102-2026-06-01T13:29:52.000Z</guid>
-      <pubDate>Mon, 01 Jun 2026 13:29:52 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-47102-2026-09-25T20:10:00.000Z</guid>
+      <pubDate>Fri, 25 Sep 2026 20:10:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 534</category>
       <description>Penn Ave S &amp; 82nd St W (S) - Stop #2048 (southbound) is closed for Route 534 beginning Thu May 14 at 5:00 AM until further notice due to construction. Board at: Penn Ave S &amp; 81st St W - Stop #2047 (southbound); Penn Ave S &amp; Queen Ave S - Stop #40801 (southbound). | Action: Board at: Penn Ave S &amp; 81st St W - Stop #2047 (southbound); Penn Ave S &amp; Queen Ave S - Stop #40801 (southbound)</description>
