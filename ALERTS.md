@@ -2,109 +2,53 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-132-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-131-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-126-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-25T05:45:31.846Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-25T11:04:11.372Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (5) • **METRO E Line** (4) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (2) • **Route 4** (4) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (5) • **Route 7** (4) • **Route 9** (5) • **Route 10** (2) • **Route 11** (5) • **Route 14** (3) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (5) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (1) • **Route 63** (3) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 225** (1) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (2) • **Route 542** (4) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (3) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (5) • **METRO E Line** (4) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (2) • **Route 4** (4) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (5) • **Route 7** (4) • **Route 9** (5) • **Route 10** (2) • **Route 11** (5) • **Route 14** (3) • **Route 17** (4) • **Route 18** (8) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (5) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (1) • **Route 63** (4) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 225** (1) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 72: Service Canceled
+### 🚨 Route 17: Westbound 5:28 AM Trip Canceled (Central Ave NE & 26th Ave NE)
 
-- **Affected Routes**: `Route 72`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Pascal St N & Central Ave W; 20 PM
-departing Pascal St N & Central Ave W; 21 PM
-departing Pascal St N & Central Ave W
-
-**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 1:20 PM and eight other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/72)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 1:20 PM and eight other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Pascal St N & Central Ave W at 2:20 PM
-departing Pascal St N & Central Ave W at 4:20 PM
-departing Pascal St N & Central Ave W at 6:21 PM
-departing Pascal St N & Central Ave W at 8:23 PM
-
-Affected westbound trips:
-departing Sun Ray Transit Center & Gate D at 1:20 PM
-departing Sun Ray Transit Center & Gate D at 3:19 PM
-departing Sun Ray Transit Center & Gate D at 5:18 PM
-departing Sun Ray Transit Center & Gate D at 7:21 PM
-departing Sun Ray Transit Center & Gate D at 9:21 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 540: Service Canceled
-
-- **Affected Routes**: `Route 540`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Normandale Lake Blvd & 83rd St; 32 PM
-departing Normandale Lake Blvd & 83rd St; 00 PM
-departing Normandale Lake Blvd & 83rd St
-
-**Summary**: Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 2:32 PM and three other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/540)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 2:32 PM and three other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Normandale Lake Blvd & 83rd St / 84th St at 2:32 PM
-departing Normandale Lake Blvd & 83rd St / 84th St at 4:00 PM
-departing Normandale Lake Blvd & 83rd St / 84th St at 5:32 PM
-departing Normandale Lake Blvd & 83rd St / 84th St at 7:02 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 542: Service Canceled
-
-- **Affected Routes**: `Route 542`
+- **Affected Routes**: `Route 17`
 - **Direction**: Westbound
 - **Severity**: `Critical`
 
-**Summary**: Route 542 trip departing MOA Transit Station Gate G at 2:07 PM and three other trips canceled today
+**Summary**: Westbound Route 17 trip departing Central Ave NE & 26th Ave NE at 5:28 AM canceled today due to maintenance work
 
-[Official Agency Advisory](https://www.metrotransit.org/route/542)
+[Official Agency Advisory](https://www.metrotransit.org/route/17)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 542 trip departing MOA Transit Station Gate G at 2:07 PM and three other trips canceled today
+**Header**: Westbound Route 17 trip departing Central Ave NE & 26th Ave NE at 5:28 AM canceled today due to maintenance work
 
-```text
-Affected westbound trips:
-departing MOA Transit Station Gate G at 2:07 PM
-departing MOA Transit Station Gate G at 3:34 PM
-departing MOA Transit Station Gate G at 5:05 PM
-departing MOA Transit Station Gate G at 6:37 PM
-```
+</details>
+
+---
+
+### 🚨 Route 63: Eastbound 4:28 AM Trip Canceled (Westgate Station - Gate C)
+
+- **Affected Routes**: `Route 63`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Eastbound Route 63 trip departing Westgate Station - Gate C at 4:28 AM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/63)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 63 trip departing Westgate Station - Gate C at 4:28 AM canceled today due to maintenance work
 
 </details>
 

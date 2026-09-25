@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-25T05:45:31.846Z",
-    "totalAlerts": 132,
-    "criticalCount": 3,
+    "generatedAt": "2026-09-25T11:04:11.372Z",
+    "totalAlerts": 131,
+    "criticalCount": 2,
     "moderateCount": 126,
     "minorCount": 3,
     "affectedRoutesCount": 77,
@@ -12,73 +12,13 @@
   },
   "alerts": [
     {
-      "id": "53300",
+      "id": "53314",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 72: Service Canceled",
-      "summary": "Route 72 trip departing Sun Ray Transit Center & Gate D at 1:20 PM and eight other trips canceled today",
+      "title": "Route 17: Westbound 5:28 AM Trip Canceled (Central Ave NE & 26th Ave NE)",
+      "summary": "Westbound Route 17 trip departing Central Ave NE & 26th Ave NE at 5:28 AM canceled today due to maintenance work",
       "affectedRoutes": [
-        "Route 72"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing Pascal St N & Central Ave W",
-        "20 PM\ndeparting Pascal St N & Central Ave W",
-        "21 PM\ndeparting Pascal St N & Central Ave W"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-24T19:06:00.000Z",
-        "end": "2026-09-25T07:30:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-09-24T19:06:48.000Z",
-      "rawHeader": "Route 72 trip departing Sun Ray Transit Center & Gate D at 1:20 PM and eight other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 2:20 PM\r\ndeparting Pascal St N & Central Ave W at 4:20 PM\r\ndeparting Pascal St N & Central Ave W at 6:21 PM\r\ndeparting Pascal St N & Central Ave W at 8:23 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 1:20 PM\r\ndeparting Sun Ray Transit Center & Gate D at 3:19 PM\r\ndeparting Sun Ray Transit Center & Gate D at 5:18 PM\r\ndeparting Sun Ray Transit Center & Gate D at 7:21 PM\r\ndeparting Sun Ray Transit Center & Gate D at 9:21 PM"
-    },
-    {
-      "id": "53296",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 540: Service Canceled",
-      "summary": "Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 2:32 PM and three other trips canceled today",
-      "affectedRoutes": [
-        "Route 540"
-      ],
-      "direction": "Eastbound",
-      "intersections": [
-        "departing Normandale Lake Blvd & 83rd St",
-        "32 PM\ndeparting Normandale Lake Blvd & 83rd St",
-        "00 PM\ndeparting Normandale Lake Blvd & 83rd St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-24T18:21:00.000Z",
-        "end": "2026-09-25T07:30:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/540",
-      "updatedAt": "2026-09-24T18:21:20.000Z",
-      "rawHeader": "Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 2:32 PM and three other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 2:32 PM\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 4:00 PM\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 5:32 PM\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 7:02 PM"
-    },
-    {
-      "id": "53297",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 542: Service Canceled",
-      "summary": "Route 542 trip departing MOA Transit Station Gate G at 2:07 PM and three other trips canceled today",
-      "affectedRoutes": [
-        "Route 542"
+        "Route 17"
       ],
       "direction": "Westbound",
       "intersections": [],
@@ -87,15 +27,41 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-24T18:21:00.000Z",
-        "end": "2026-09-25T07:30:00.000Z"
+        "start": "2026-09-25T10:28:00.000Z",
+        "end": "2026-09-25T12:28:00.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/542",
-      "updatedAt": "2026-09-24T18:21:52.000Z",
-      "rawHeader": "Route 542 trip departing MOA Transit Station Gate G at 2:07 PM and three other trips canceled today",
-      "rawDescription": "Affected westbound trips:\r\ndeparting MOA Transit Station Gate G at 2:07 PM\r\ndeparting MOA Transit Station Gate G at 3:34 PM\r\ndeparting MOA Transit Station Gate G at 5:05 PM\r\ndeparting MOA Transit Station Gate G at 6:37 PM"
+      "url": "https://www.metrotransit.org/route/17",
+      "updatedAt": "2026-09-25T10:22:16.000Z",
+      "rawHeader": "Westbound Route 17 trip departing Central Ave NE & 26th Ave NE at 5:28 AM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "53313",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 63: Eastbound 4:28 AM Trip Canceled (Westgate Station - Gate C)",
+      "summary": "Eastbound Route 63 trip departing Westgate Station - Gate C at 4:28 AM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "Route 63"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-25T09:37:00.000Z",
+        "end": "2026-09-25T11:21:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/63",
+      "updatedAt": "2026-09-25T09:37:35.000Z",
+      "rawHeader": "Eastbound Route 63 trip departing Westgate Station - Gate C at 4:28 AM canceled today due to maintenance work",
+      "rawDescription": ""
     },
     {
       "id": "49962",
@@ -905,14 +871,11 @@
       ],
       "riderAlternative": "Board at: Hennepin & 4th St Station - Stop #17948 (northbound); Central Ave & University Ave SE - Stop #14952 (northbound); University & Central Station - Stop #12281 (eastbound)",
       "detourDetails": "Northbound buses will travel regular route on Hennepin Ave to Washington Ave, right on Washington Ave, left on 3rd Ave, right on University Ave and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-24T23:00:00.000Z",
-        "end": "2026-09-25T11:00:00.000Z"
-      },
+      "activePeriod": {},
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-09-25T05:00:01.000Z",
+      "updatedAt": "2026-09-25T11:00:04.000Z",
       "rawHeader": "METRO E Line detoured off Hennepin Ave from Washington Ave to University Ave from 6:00 PM to 6:00 AM on 9/23 -9/25 each day due to mill and overlay work",
       "rawDescription": "For northbound E Line get on/off buses at:\r\nHennepin & 4th St Station - Stop #17948 (northbound)\r\nCentral Ave & University Ave SE - Stop #14952 (northbound)\r\nUniversity & Central Station - Stop #12281 (eastbound)\r\n\nFor southbound E Line get on/off buses at:\r\n4th St & 6th Ave Station - Stop #16119 (westbound)\r\nCentral Ave & 4th St SE - Stop #46801 (southbound)\r\nCentral Ave & 2nd St SE - Stop #12282 (southbound)\r\nHennepin & 3rd St Station - Stop #17921 (southbound)\r\n\nNorthbound buses will travel regular route on Hennepin Ave to Washington Ave, right on Washington Ave, left on 3rd Ave, right on University Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 4th St SE to Central Ave, left on Central Ave, right on Washington Ave, left on Hennepin Ave and resume regular route.\r\n\nAffected stops:\r\nHennepin & Gateway Station - Stop #17951 (northbound)\r\nHennepin & 2nd St NE Station - Stop #15477 (eastbound)\r\n4th St & Central Station - Stop #16124 (westbound)\r\n1st Ave & 2nd St NE Station - Stop #15562 (westbound)\r\nHennepin & Gateway Station - Stop #17919 (southbound)"
     },
@@ -1082,7 +1045,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/closure",
-      "updatedAt": "2026-09-25T05:00:02.000Z",
+      "updatedAt": "2026-09-25T07:30:02.000Z",
       "rawHeader": "Buses will replace METRO Green Line trains between Union Depot and Raymond Ave. stations starting with first trains on Friday, Sept. 25 until Monday, Sept. 28 at first trains.",
       "rawDescription": "Starting with first trains on Friday, Sept. 25, buses will replace trains on the METRO Green Line between Raymond Ave. and Union Depot stations to allow for needed maintenance. \r\n\nPlease plan extra time for your trip. Replacement bus timing can vary and trips may take longer.\r\n\nTrain service will resume Monday, Sept. 28 with first trains. \r\n\nAlternate service also available to Snelling Ave. and downtown Minneapolis via Route 94. \r\n\nCheck out more information and replacement bus locations at metrotransit.org/closure.\r\n\n\r\nAffected stops:\r\nRaymond Ave Station (eastbound)\r\nFairview Ave Station (eastbound)\r\nSnelling Ave Station (eastbound)\r\nHamline Ave Station (eastbound)\r\nLexington Pkwy Station (eastbound)\r\nVictoria St Station (eastbound)\r\nDale St Station (eastbound)\r\nWestern Ave Station (eastbound)\r\nCapitol / Rice St Station (eastbound)\r\nRobert St Station (eastbound)\r\n10th St Station (eastbound)\r\nCentral Station (eastbound)\r\nUnion Depot Station (eastbound)\r\nUnion Depot Station (westbound)\r\nCentral Station (westbound)\r\n10th St Station (westbound)\r\nRobert St Station (westbound)\r\nCapitol / Rice St Station (westbound)\r\nWestern Ave Station (westbound)\r\nDale St Station (westbound)\r\nVictoria St Station (westbound)\r\nLexington Pkwy Station (westbound)\r\nHamline Ave Station (westbound)\r\nSnelling Ave Station (westbound)\r\nFairview Ave Station (westbound)"
     },
@@ -2247,14 +2210,11 @@
       ],
       "riderAlternative": "Board at: Hennepin & 4th St Station - Stop #17948 (northbound); Hennepin Ave E & 4th St SE - Stop #57457 (eastbound)",
       "detourDetails": "Northbound buses will travel regular route on Hennepin Ave to Washington Ave, right on Washington Ave, left on 3rd Ave, left on University Ave, right on Hennepin Ave and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-24T23:00:00.000Z",
-        "end": "2026-09-25T11:00:00.000Z"
-      },
+      "activePeriod": {},
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/4",
-      "updatedAt": "2026-09-25T05:00:01.000Z",
+      "updatedAt": "2026-09-25T11:00:03.000Z",
       "rawHeader": "Route 4 detoured off Hennepin Ave from Washington Ave to University Ave from 6:00 PM to 6:00 AM on 9/23 -9/25 each day due to mill and overlay work",
       "rawDescription": "For northbound Route 4 get on/off buses at:\r\nHennepin & 4th St Station - Stop #17948 (northbound)\r\nHennepin Ave E & 4th St SE - Stop #57457 (eastbound)\r\n\nFor southbound Route 4 get on/off buses at:\r\n1st Ave NE & 4th St NE - Stop #15559 (westbound)\r\nHennepin & 3rd St Station - Stop #17921 (southbound)\r\n\nNorthbound buses will travel regular route on Hennepin Ave to Washington Ave, right on Washington Ave, left on 3rd Ave, left on University Ave, right on Hennepin Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 1st Ave NE to University Ave, left on University Ave, right on Central Ave, right on Washington Ave, left on Hennepin Ave and resume regular route.\r\n\nAffected stops:\r\nHennepin & Gateway Station - Stop #17951 (northbound)\r\nHennepin Ave & 1st St S - Stop #17952 (northbound)\r\nHennepin Ave E & Wilder St - Stop #17953 (eastbound)\r\nHennepin & 2nd St NE Station - Stop #15477 (eastbound)\r\n1st Ave & 2nd St NE Station - Stop #15562 (westbound)\r\nHennepin Ave E & De LaSalle Dr - Stop #17916 (southbound)\r\nHennepin Ave & 1st St N - Stop #17917 (southbound)\r\nHennepin & Gateway Station - Stop #17919 (southbound)"
     },
@@ -3172,7 +3132,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/10",
-      "updatedAt": "2026-09-25T05:00:02.000Z",
+      "updatedAt": "2026-09-25T08:01:00.000Z",
       "rawHeader": "Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 8th St to 12th St from Sat Sep 26 at 6:00 AM to Sun Sep 27 at 3:00 AM due to Dakota Jazz Fest",
       "rawDescription": "Get on/off northbound/eastbound buses at:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)\r\nNicollet Mall & 7th St S - Stop #17994 (northbound)\r\n\nGet on/off southbound/westbound buses at:\r\nNicollet Mall & 9th St S - Stop #17982 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17986 (southbound)\r\n\nNorthbound/eastbound buses will travel regular route on Nicollet Mall to 11th St, left on 11th St, right on LaSalle Ave, right on 8th St, left on Nicollet Mall, and resume regular route.\r\n\nSouthbound/westbound buses will travel regular route on Nicollet Mall to 9th St, right on 9th St, left on LaSalle Ave, left on 12th St, right on Nicollet Mall, and resume regular route.\r\n\nAffected stops:\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)"
     },
@@ -3395,14 +3355,11 @@
       ],
       "riderAlternative": "Board at: Nicollet Mall & 3rd St S - Stop #17998 (northbound); 2nd St NE & 1st Ave NE - Stop #14691 (northbound)",
       "detourDetails": "Northbound buses will travel regular route on Nicollet Mall to Washington Ave, right on Washington Ave, left on 3rd Ave, left on University Ave, left on 1st Ave NE, right on 2nd St NE and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-24T23:00:00.000Z",
-        "end": "2026-09-25T11:00:00.000Z"
-      },
+      "activePeriod": {},
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-09-25T05:00:01.000Z",
+      "updatedAt": "2026-09-25T11:00:04.000Z",
       "rawHeader": "Route 11 detoured off Hennepin Ave from Washington Ave to 2nd St NE from 6:00 PM to 6:00 AM on 9/23 -9/25 each day due to mill and overlay work",
       "rawDescription": "For northbound Route 11 get on/off buses at:\r\nNicollet Mall & 3rd St S - Stop #17998 (northbound)\r\n2nd St NE & 1st Ave NE - Stop #14691 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\n2nd St NE & 3rd Ave NE - Stop #14689 (southbound)\r\nTemporary bus stop on 2nd St NE & 1st Ave NE (southbound)\r\nNicollet Mall & 3rd St - Stop #17976 (southbound)\r\n\nNorthbound buses will travel regular route on Nicollet Mall to Washington Ave, right on Washington Ave, left on 3rd Ave, left on University Ave, left on 1st Ave NE, right on 2nd St NE and resume regular route.\r\n\nSouthbound buses will travel regular route on 2nd St NE to Hennepin Ave, left on Hennepin Ave, right on University Ave, right on Central Ave, right on Washington Ave, left on Nicollet Mall and resume regular route.\r\n\nAffected stops:\r\nHennepin & Gateway Station - Stop #17951 (northbound)\r\nHennepin Ave & 1st St S - Stop #17952 (northbound)\r\nHennepin Ave E & Wilder St - Stop #17953 (eastbound)\r\n1st Ave & 2nd St NE Station - Stop #15562 (westbound)\r\nHennepin Ave E & De LaSalle Dr - Stop #17916 (southbound)\r\nHennepin Ave & 1st St N - Stop #17917 (southbound)"
     },
@@ -6379,14 +6336,11 @@
       ],
       "riderAlternative": "Board at: Hennepin & 4th St Station - Stop #17948 (northbound); Hennepin Ave E & 4th St SE - Stop #57457 (eastbound)",
       "detourDetails": "Northbound buses will travel regular route on Hennepin Ave to Washington Ave, right on Washington Ave, left on 3rd Ave, left on University Ave, right on Hennepin Ave and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-24T23:00:00.000Z",
-        "end": "2026-09-25T11:00:00.000Z"
-      },
+      "activePeriod": {},
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/61",
-      "updatedAt": "2026-09-25T05:00:01.000Z",
+      "updatedAt": "2026-09-25T11:00:04.000Z",
       "rawHeader": "Route 61 detoured off Hennepin Ave from Washington Ave to University Ave from 6:00 PM to 6:00 AM on 9/23 -9/25 each day due to mill and overlay work",
       "rawDescription": "For eastbound Route 61 get on/off buses at:\r\nHennepin & 4th St Station - Stop #17948 (northbound)\r\nHennepin Ave E & 4th St SE - Stop #57457 (eastbound)\r\n\nFor westbound Route 61 get on/off buses at:\r\n1st Ave NE & 4th St NE - Stop #15559 (westbound)\r\nHennepin & 3rd St Station - Stop #17921 (southbound)\r\n\nNorthbound buses will travel regular route on Hennepin Ave to Washington Ave, right on Washington Ave, left on 3rd Ave, left on University Ave, right on Hennepin Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 1st Ave NE to University Ave, left on University Ave, right on Central Ave, right on Washington Ave, left on Hennepin Ave and resume regular route.\r\n\nAffected stops:\r\nHennepin & Gateway Station - Stop #17951 (northbound)\r\nHennepin Ave & 1st St S - Stop #17952 (northbound)\r\nHennepin Ave E & Wilder St - Stop #17953 (eastbound)\r\nHennepin & 2nd St NE Station - Stop #15477 (eastbound)\r\n1st Ave & 2nd St NE Station - Stop #15562 (westbound)\r\nHennepin Ave E & De LaSalle Dr - Stop #17916 (southbound)\r\nHennepin Ave & 1st St N - Stop #17917 (southbound)\r\nHennepin & Gateway Station - Stop #17919 (southbound)"
     },
