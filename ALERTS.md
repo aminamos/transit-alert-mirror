@@ -2,17 +2,17 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-137-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-16-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-125-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-118-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-79-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-25T23:46:51.379Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-26T03:22:13.280Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (6) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (3) • **Route 3** (4) • **Route 3A** (2) • **Route 4** (3) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (5) • **Route 7** (4) • **Route 9** (5) • **Route 10** (4) • **Route 11** (6) • **Route 14** (3) • **Route 17** (4) • **Route 18** (10) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (5) • **Route 46** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (6) • **Route 68C** (1) • **Route 68D** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 467** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
+**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (5) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (2) • **Route 4** (3) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (5) • **Route 7** (4) • **Route 9** (5) • **Route 10** (4) • **Route 11** (5) • **Route 14** (3) • **Route 17** (4) • **Route 18** (9) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (5) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
@@ -50,69 +50,6 @@ departing Brooklyn Ctr Transit Ctr Gate I at 8:12 PM
 
 ---
 
-### 🚨 METRO D Line: Northbound 6:23 PM Trip Canceled (MOA Transit Station Gate A)
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound D Line trip departing MOA Transit Station Gate A at 6:23 PM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound D Line trip departing MOA Transit Station Gate A at 6:23 PM canceled today due to mechanical issue
-
-</details>
-
----
-
-### 🚨 Route 2: Westbound 5:47 PM Trip Canceled (University & 15th Ave Station)
-
-- **Affected Routes**: `Route 2`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #15630, Stop #13207, Stop #13211, Stop #13231, Stop #13239, Stop #13259, Stop #13267, Stop #13279 *(+29 more)*
-
-**Summary**: Westbound Route 2 trip departing University & 15th Ave Station at 5:47 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 2 trip departing University & 15th Ave Station at 5:47 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 3: Service Advisory
-
-- **Affected Routes**: `Route 3`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: 36 PM and departing Washington Ave & 10th Ave N
-
-**Summary**: Route 3 trips departing Union Depot & Gate A1 at 3:36 PM and departing Washington Ave & 10th Ave N at 5:11 PM restored
-
-[Official Agency Advisory](https://www.metrotransit.org/route/3)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 3 trips departing Union Depot & Gate A1 at 3:36 PM and departing Washington Ave & 10th Ave N at 5:11 PM restored
-
-```text
-Updated at 3:42 PM to reflect trips will operate as scheduled.
-```
-
-</details>
-
----
-
 ### 🚨 Route 10: Service Canceled
 
 - **Affected Routes**: `Route 10`
@@ -136,67 +73,6 @@ departing Leamington Ramp & Lower - Gate #7 at 9:06 PM
 Affected southbound trips:
 departing 53rd Ave NE & Petco at 5:44 PM
 departing Northtown Transit Ctr Gate A at 8:04 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 11: Service Canceled
-
-- **Affected Routes**: `Route 11`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 11 trip departing Nicollet Ave S & 46th St E; departing Nicollet Ave S & 46th St E; 37 PM
-departing Nicollet Ave S & 46th St E
-
-**Summary**: Route 11 trip departing Nicollet Ave S & 46th St E at 2:37 PM and two other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/11)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 11 trip departing Nicollet Ave S & 46th St E at 2:37 PM and two other trips canceled today
-
-```text
-Affected northbound trips:
-departing Nicollet Ave S & 46th St E at 2:37 PM
-departing Nicollet Ave S & 46th St E at 5:21 PM
-
-Affected southbound trips:
-departing Columbia Heights Transit Center C at 3:54 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 18: Service Canceled
-
-- **Affected Routes**: `Route 18`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing 4th Ave S & 3rd St S; 25 PM
-departing 4th Ave S & 3rd St S
-
-**Summary**: Route 18 trip departing 104th St W & Bloomington Fwy W at 2:39 PM and three other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/18)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 18 trip departing 104th St W & Bloomington Fwy W at 2:39 PM and three other trips canceled today
-
-```text
-Affected northbound trips:
-departing 104th St W & Bloomington Fwy W at 2:39 PM
-departing 2nd Ave S Loop & American Blvd at 5:59 PM
-
-Affected southbound trips:
-departing 4th Ave S & 3rd St S at 4:25 PM
-departing 4th Ave S & 3rd St S at 7:17 PM
 ```
 
 </details>
@@ -240,107 +116,6 @@ departing Westgate Station - Gate B at 9:36 PM
 
 ---
 
-### 🚨 Route 54: Service Advisory
-
-- **Affected Routes**: `Route 54`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-- **Corridors & Intersections**: 19 PM will start from 7th St W & Maynard Dr W
-- **Closed Stops**: Stop #56875, Stop #56939, Stop #56597, Stop #4537, Stop #41975, Stop #41255, Stop #41259, Stop #17415
-
-**Summary**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 5:19 PM will start from 7th St W & Maynard Dr W at 5:36 PM today due to mechanical issue. Previous stops will be missed
-
-[Official Agency Advisory](https://www.metrotransit.org/route/54)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 5:19 PM will start from 7th St W & Maynard Dr W at 5:36 PM today due to mechanical issue. Previous stops will be missed
-
-</details>
-
----
-
-### 🚨 Route 61: Service Advisory
-
-- **Affected Routes**: `Route 61`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-- **Corridors & Intersections**: 12 PM will start from Arcade St & Maryland Ave
-- **Closed Stops**: Stop #11834, Stop #11837, Stop #11838, Stop #11839, Stop #13798, Stop #40160, Stop #3142, Stop #52761 *(+8 more)*
-
-**Summary**: Westbound Route 61 trip departing Smith & 5th St Station at 6:12 PM will start from Arcade St & Maryland Ave at 6:35 PM today. Previous stops will be missed
-
-[Official Agency Advisory](https://www.metrotransit.org/route/61)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 61 trip departing Smith & 5th St Station at 6:12 PM will start from Arcade St & Maryland Ave at 6:35 PM today. Previous stops will be missed
-
-</details>
-
----
-
-### 🚨 Route 68: Northbound 5:09 PM Trip Canceled (South St & 5th Ave S)
-
-- **Affected Routes**: `Route 68`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Route 68 trip departing South St & 5th Ave S at 5:09 PM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/68)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 68 trip departing South St & 5th Ave S at 5:09 PM canceled today due to mechanical issue
-
-</details>
-
----
-
-### 🚨 Route 68, Route 68D: Service Advisory
-
-- **Affected Routes**: `Route 68` `Route 68D`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-- **Corridors & Intersections**: 22 PM will start from Jackson St & 14th St
-- **Closed Stops**: Stop #20019, Stop #18095, Stop #18096, Stop #18098, Stop #80922, Stop #81076, Stop #57511, Stop #56960 *(+21 more)*
-
-**Summary**: Southbound Route 68D trip departing Hwy 36 & Rice St Park & Ride & Shelter at 6:22 PM will start from Jackson St & 14th St at 6:41 PM today due to mechanical issue. Previous stops will be missed
-
-[Official Agency Advisory](https://www.metrotransit.org/route/68)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 68D trip departing Hwy 36 & Rice St P&R & Shelter at 6:22 PM will start from Jackson St & 14th St at 6:41 PM today due to mechanical issue. Previous stops will be missed
-
-</details>
-
----
-
-### 🚨 Route 71: Southbound 6:15 PM Trip Canceled (Market Place Dr & The Marketplace Ctr)
-
-- **Affected Routes**: `Route 71`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound Route 71 trip departing Market Place Dr & The Marketplace Ctr at 6:15 PM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 71 trip departing Market Place Dr & The Marketplace Ctr at 6:15 PM canceled today due to mechanical issue
-
-</details>
-
----
-
 ### 🚨 Route 72: Service Canceled
 
 - **Affected Routes**: `Route 72`
@@ -356,45 +131,6 @@ departing Westgate Station - Gate B at 9:36 PM
 <summary>Raw Dispatcher Message</summary>
 
 **Header**: Route 72 trips departing Sun Ray Transit Center & Gate D at 8:21 PM and departing Pascal St N & Central Ave W at 9:23 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 467: Service Canceled
-
-- **Affected Routes**: `Route 467`
-- **Direction**: All
-- **Severity**: `Critical`
-
-**Summary**: Route 467 trips departing Gateway Ramp & Platform at 3:37 PM and departing Gateway Ramp & Platform at 5:07 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/467)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 467 trips departing Gateway Ramp & Platform at 3:37 PM and departing Gateway Ramp & Platform at 5:07 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 888: Service Canceled
-
-- **Affected Routes**: `Route 888`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: 46 PM and departing 2nd Ave S & 11th St
-
-**Summary**: Route 888 trips departing Veterans Dr & Ramsey Park & Ride at 3:46 PM and departing 2nd Ave S & 11th St - Stop Group G at 5:09 PM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/888)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 888 trips departing Veterans Dr & Ramsey P&R at 3:46 PM and departing 2nd Ave S & 11th St - Stop Group G at 5:09 PM canceled today due to mechanical issue
 
 </details>
 
