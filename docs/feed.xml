@@ -4,9 +4,27 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 26 Sep 2026 09:03:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 14:03:17 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] METRO D Line: Southbound 7:33 AM Trip Canceled (7th St &amp; Olson Station)</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-53356-2026-09-26T13:08:29.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 13:08:29 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO D Line</category>
+      <description>Southbound D Line trip departing 7th St &amp; Olson Station at 7:33 AM canceled today due to maintenance work</description>
+    </item>
+    <item>
+      <title>[Critical] Route 32, Route 32F: Westbound 8:04 AM Trip Canceled (Rosedale Transit Center Gate D)</title>
+      <link>https://www.metrotransit.org/route/32</link>
+      <guid isPermaLink="false">Metro Transit-53357-2026-09-26T13:43:37.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 13:43:37 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 32, Route 32F</category>
+      <description>Westbound Route 32F trip departing Rosedale Transit Center Gate D at 8:04 AM canceled today due to mechanical issue</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -51,15 +69,6 @@
       <category>Moderate</category>
       <category>METRO D Line</category>
       <description>D Line detoured off Chicago Ave from 56th St to 46th St from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Portland &amp; 60th St Station - Stop #737 (northbound); Chicago Ave S &amp; 45th St E - Stop #787 (northbound); Chicago &amp; 42nd St Station - Stop #56924 (northbound). | Action: Board at: Portland &amp; 60th St Station - Stop #737 (northbound); Chicago Ave S &amp; 45th St E - Stop #787 (northbound); Chicago &amp; 42nd St Station - Stop #56924 (northbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] METRO D Line: Stop Closed at Temporary bus stop on Portland Ave &amp; 61st St</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-53258-2026-09-24T12:20:45.000Z</guid>
-      <pubDate>Thu, 24 Sep 2026 12:20:45 GMT</pubDate>
-      <category>Moderate</category>
-      <category>METRO D Line</category>
-      <description>Portland &amp; 60th St Station - Stop #737 (northbound) is closed for D Line beginning Thu Sep 24 at 7:00 AM until further notice due to construction. Board at: Temporary bus stop on Portland Ave &amp; 61st St. | Action: Board at: Temporary bus stop on Portland Ave &amp; 61st St</description>
     </item>
     <item>
       <title>[Moderate] METRO D Line: Detour via American Blvd &amp; Old Cedar Ave S</title>
@@ -138,8 +147,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 3, Route 3A: Detour via Como Ave &amp; Como Place - St</title>
       <link>https://www.metrotransit.org/route/3</link>
-      <guid isPermaLink="false">Metro Transit-52960-2026-09-26T05:00:01.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52960-2026-09-26T13:30:01.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 13:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 3, Route 3A</category>
       <description>Route 3A detoured off Como Blvd from Como Ave to Maryland Ave and off Maryland Ave from Como Blvd to Dale St from 9:00 AM to 11:00 AM on Sat Sep 26 due to Como Homecoming Parade. Board at: Como Ave &amp; Como Place - Stop #50125 (eastbound); Dale St &amp; Maryland Ave - Stop #10711 (northbound); Maryland Ave &amp; Mackubin St - Stop #5563 (eastbound). | Action: Board at: Como Ave &amp; Como Place - Stop #50125 (eastbound); Dale St &amp; Maryland Ave - Stop #10711 (northbound); Maryland Ave &amp; Mackubin St - Stop #5563 (eastbound)</description>
@@ -188,15 +197,6 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 5</category>
       <description>Route 5 detoured off Chicago Ave from 41st St to 39th St until further notice due to construction. Board at: Chicago Ave S &amp; 41st St E - Stop #791 (northbound); Park &amp; 38th St Station - Stop #80138 (northbound). | Action: Board at: Chicago Ave S &amp; 41st St E - Stop #791 (northbound); Park &amp; 38th St Station - Stop #80138 (northbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 5: Detour via Chicago Ave S &amp; 56th St E</title>
-      <link>https://www.metrotransit.org/route/5</link>
-      <guid isPermaLink="false">Metro Transit-52996-2026-09-25T12:14:01.000Z</guid>
-      <pubDate>Fri, 25 Sep 2026 12:14:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 5</category>
-      <description>Route 5 detoured off Chicago Ave S from 57th St E to 55th St E and off Chicago from 55th St E to 56th St E until further notice. Board at: Chicago Ave S &amp; 56th St E - Stop #51212; Chicago Ave S &amp; 54th St E - Stop #777 (northbound). | Action: Board at: Chicago Ave S &amp; 56th St E - Stop #51212; Chicago Ave S &amp; 54th St E - Stop #777 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 5: Detour via Chicago Ave S &amp; 56th St E</title>
@@ -309,8 +309,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor</title>
       <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-53104-2026-09-26T05:00:01.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53104-2026-09-26T10:30:01.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 10:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 10, Route 11, Route 17, Route 18, Route 25</category>
       <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 8th St to 12th St from Sat Sep 26 at 6:00 AM to Sun Sep 27 at 3:00 AM due to Dakota Jazz Fest. Board at: Nicollet Mall &amp; 11th St S - Stop #17990 (northbound); Nicollet Mall &amp; 7th St S - Stop #17994 (northbound). | Action: Board at: Nicollet Mall &amp; 11th St S - Stop #17990 (northbound); Nicollet Mall &amp; 7th St S - Stop #17994 (northbound)</description>
@@ -336,8 +336,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 11: Detour via 48th St E &amp; Nicollet Ave S</title>
       <link>https://www.metrotransit.org/route/11</link>
-      <guid isPermaLink="false">Metro Transit-53224-2026-09-26T05:00:01.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53224-2026-09-26T13:30:01.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 13:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 11</category>
       <description>Route 11 detoured off Nicollet Ave from 46th St to 44th St from 9:00 AM to 6:00 PM on Sat Sep 26 due to Nicollet Open Streets. Board at: Temporary stop on 48th St E &amp; Nicollet Ave S (westbound); Nicollet Ave S &amp; 46th St E - Stop #1872 (northbound); 46th St &amp; I-35W - Stop #53545 (eastbound). | Action: Board at: Temporary stop on 48th St E &amp; Nicollet Ave S (westbound); Nicollet Ave S &amp; 46th St E - Stop #1872 (northbound); 46th St &amp; I-35W - Stop #53545 (eastbound)</description>
@@ -446,8 +446,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 18: Detour via Nicollet Ave S &amp; 48th St E</title>
       <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-53225-2026-09-26T05:00:01.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53225-2026-09-26T13:30:01.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 13:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 18</category>
       <description>Route 18 detoured off Nicollet Ave from 46th St to 31st St from 9:00 AM to 6:00 PM on Sat Sep 26 due to Nicollet Open Streets. Board at: Nicollet Ave S &amp; 48th St E - Stop #1869 (Northbound); Grand Ave S &amp; 44th St W - Stop #14882 (Northbound); Grand Ave S &amp; 43rd St W - Stop #14883 (Northbound). | Action: Board at: Nicollet Ave S &amp; 48th St E - Stop #1869 (Northbound); Grand Ave S &amp; 44th St W - Stop #14882 (Northbound); Grand Ave S &amp; 43rd St W - Stop #14883 (Northbound)</description>
@@ -518,8 +518,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 30: Detour via Golden Valley Rd &amp; Penn Ave N</title>
       <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-53144-2026-09-26T05:00:01.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53144-2026-09-26T13:30:01.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 13:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 30</category>
       <description>Route 30 detoured off Golden Valley Rd from Knox Ave to Newton Ave from 9:00 AM to 8:00 PM on Sat Sep 26 due to Hope Rising event. Board at: Golden Valley Rd &amp; Penn Ave N - Stop #8248 (eastbound); West Broadway &amp; Irving Ave N - Stop #8274 (eastbound). | Action: Board at: Golden Valley Rd &amp; Penn Ave N - Stop #8248 (eastbound); West Broadway &amp; Irving Ave N - Stop #8274 (eastbound)</description>
@@ -572,8 +572,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 38: Detour via Yellow Circle Dr &amp; Red Circle Dr</title>
       <link>https://www.metrotransit.org/route/38</link>
-      <guid isPermaLink="false">Metro Transit-53032-2026-09-22T20:04:35.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 20:04:35 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53032-2026-09-26T13:00:01.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 13:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 38</category>
       <description>Route 38 detoured off Bren Rd W from Bren Rd E to Shady Oak Rd and off Shady Oak Rd from Bren Rd to Red Circle Dr until further notice due to construction. Board at: Bren Rd W &amp; #10380 Digital River Inc - Stop #48313 (westbound); Yellow Circle Dr &amp; Red Circle Dr - Stop #48212 (eastbound). | Action: Board at: Bren Rd W &amp; #10380 Digital River Inc - Stop #48313 (westbound); Yellow Circle Dr &amp; Red Circle Dr - Stop #48212 (eastbound)</description>

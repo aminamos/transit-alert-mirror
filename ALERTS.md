@@ -3,20 +3,58 @@
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
 [![Alerts](https://img.shields.io/badge/Total%20Alerts-121-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-118-orange)](#-moderate-detours--changes)
+[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-116-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-76-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-26T09:03:32.611Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-26T14:03:17.380Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (5) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (2) • **Route 4** (3) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (5) • **Route 7** (4) • **Route 9** (5) • **Route 10** (3) • **Route 11** (5) • **Route 14** (3) • **Route 17** (4) • **Route 18** (9) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (5) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (5) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (2) • **Route 4** (3) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (4) • **Route 9** (5) • **Route 10** (3) • **Route 11** (5) • **Route 14** (3) • **Route 17** (4) • **Route 18** (9) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (2) • **Route 32F** (1) • **Route 36** (3) • **Route 38** (5) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 METRO D Line: Southbound 7:33 AM Trip Canceled (7th St & Olson Station)
+
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Southbound D Line trip departing 7th St & Olson St
+- **Closed Stops**: Stop #441, Stop #431, Stop #56873, Stop #56909, Stop #56910, Stop #56911, Stop #56912, Stop #56913 *(+19 more)*
+
+**Summary**: Southbound D Line trip departing 7th St & Olson Station at 7:33 AM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound D Line trip departing 7th St & Olson Station at 7:33 AM canceled today due to maintenance work
+
+</details>
+
+---
+
+### 🚨 Route 32, Route 32F: Westbound 8:04 AM Trip Canceled (Rosedale Transit Center Gate D)
+
+- **Affected Routes**: `Route 32` `Route 32F`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 32F trip departing Rosedale Transit Center Gate D at 8:04 AM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/32)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 32F trip departing Rosedale Transit Center Gate D at 8:04 AM canceled today due to mechanical issue
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -195,37 +233,6 @@ Chicago & 46th St Station - Stop #56917 (southbound)
 Chicago & 48th St Station - Stop #56918 (southbound)
 Chicago & 52nd St Station - Stop #56919 (southbound)
 Chicago Ave & 56th St E - Stop #81079 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ METRO D Line: Stop Closed at Temporary bus stop on Portland Ave & 61st St
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Northbound
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Thu Sep 24 at 7:00 AM until further notice
-- **Corridors & Intersections**: Temporary bus stop on Portland Ave & 61st St
-- **Closed Stops**: Stop #737
-
-**Summary**: Portland & 60th St Station - Stop #737 (northbound) is closed for D Line beginning Thu Sep 24 at 7:00 AM until further notice due to construction. Board at: Temporary bus stop on Portland Ave & 61st St.
-
-> 💡 **Rider Action**: Board at: Temporary bus stop on Portland Ave & 61st St
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Portland & 60th St Station - Stop #737 (northbound) is closed for D Line beginning Thu Sep 24 at 7:00 AM until further notice due to construction
-
-```text
-Update 9/24 at 7:20am: get on/off stop
-
-Get on/off buses at:
-Temporary bus stop on Portland Ave & 61st St
 ```
 
 </details>
@@ -1027,49 +1034,6 @@ Affected direction: Northbound
 
 Affected stops:
 Chicago Ave S & 40th St E - Stop #792 (northbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 5: Detour via Chicago Ave S & 56th St E
-
-- **Affected Routes**: `Route 5`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Chicago Ave S & 56th St E; 51212
-Chicago Ave S & 54th St E; Chicago Ave S (57th St E to 55th St E and off Chicago from 55th St E to 56th St E)
-- **Closed Stops**: Chicago & 56th St Station (Stop #775), Stop #51212
-
-**Summary**: Route 5 detoured off Chicago Ave S from 57th St E to 55th St E and off Chicago from 55th St E to 56th St E until further notice. Board at: Chicago Ave S & 56th St E - Stop #51212; Chicago Ave S & 54th St E - Stop #777 (northbound).
-
-> 💡 **Rider Action**: Board at: Chicago Ave S & 56th St E - Stop #51212; Chicago Ave S & 54th St E - Stop #777 (northbound)
-
-> 🔄 **Detour Path**: Southbound buses will travel regular route to layover.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/5)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 5 detoured off Chicago Ave S from 57th St E to 55th St E and off Chicago from 55th St E to 56th St E until further notice
-
-```text
-Update on 9/23 7:05am: Southbound buses back to regular and northbound detour updated.
-
-Get on/off northbound buses at:
-Chicago Ave S & 56th St E - Stop #51212
-Chicago Ave S & 54th St E - Stop #777 (northbound)
-
-No southbound stops missed.
-
-Northbound bus will exit Chicago and 56th St Station turnaround, right on Chicago Ave, left on 57th St, left on 10th Ave, left on 56th St, right on Chicago Ave, and resume regular route.
-
-Southbound buses will travel regular route to layover.
-
-Affected stops:
-Chicago & 56th St Station - Stop #775 (northbound)
 ```
 
 </details>
