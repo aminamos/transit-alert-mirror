@@ -2,55 +2,177 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-121-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-116-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-124-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-6-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-115-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-26T14:03:17.380Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-26T18:16:53.219Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (5) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (2) • **Route 4** (3) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (4) • **Route 9** (5) • **Route 10** (3) • **Route 11** (5) • **Route 14** (3) • **Route 17** (4) • **Route 18** (9) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (2) • **Route 32F** (1) • **Route 36** (3) • **Route 38** (5) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**Green Line Bus** (1) • **METRO A Line** (1) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (4) • **METRO E Line** (4) • **METRO Gold Line** (2) • **METRO Green Line** (2) • **Route 2** (3) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (3) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (5) • **Route 9** (5) • **Route 10** (4) • **Route 11** (6) • **Route 14** (3) • **Route 17** (4) • **Route 18** (9) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO D Line: Southbound 7:33 AM Trip Canceled (7th St & Olson Station)
+### 🚨 Green Line Bus, METRO Green Line: Eastbound 12:32 PM Trip Canceled (University Ave & Carleton St)
 
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Southbound
+- **Affected Routes**: `Green Line Bus` `METRO Green Line`
+- **Direction**: Eastbound
 - **Severity**: `Critical`
-- **Corridors & Intersections**: Southbound D Line trip departing 7th St & Olson St
-- **Closed Stops**: Stop #441, Stop #431, Stop #56873, Stop #56909, Stop #56910, Stop #56911, Stop #56912, Stop #56913 *(+19 more)*
 
-**Summary**: Southbound D Line trip departing 7th St & Olson Station at 7:33 AM canceled today due to maintenance work
+**Summary**: Eastbound Green Line Bus trip departing University Ave & Carleton St at 12:32 PM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+[Official Agency Advisory](https://www.metrotransit.org/route/grnbus)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound D Line trip departing 7th St & Olson Station at 7:33 AM canceled today due to maintenance work
+**Header**: Eastbound Green Line Bus trip departing University Ave & Carleton St at 12:32 PM canceled today
 
 </details>
 
 ---
 
-### 🚨 Route 32, Route 32F: Westbound 8:04 AM Trip Canceled (Rosedale Transit Center Gate D)
+### 🚨 METRO B Line: Service Canceled
 
-- **Affected Routes**: `Route 32` `Route 32F`
-- **Direction**: Westbound
+- **Affected Routes**: `METRO B Line`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
+- **Corridors & Intersections**: departing Lake St W & France Ave S; 48 PM
+departing Lake St W & France Ave S; 45 PM
+departing Lake St W & France Ave S
 
-**Summary**: Westbound Route 32F trip departing Rosedale Transit Center Gate D at 8:04 AM canceled today due to mechanical issue
+**Summary**: B Line trip departing Union Depot & Gate A1 at 11:16 AM and five other trips canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/32)
+[Official Agency Advisory](https://www.metrotransit.org/route/bline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Westbound Route 32F trip departing Rosedale Transit Center Gate D at 8:04 AM canceled today due to mechanical issue
+**Header**: B Line trip departing Union Depot & Gate A1 at 11:16 AM and five other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Lake St W & France Ave S at 12:48 PM
+departing Lake St W & France Ave S at 3:45 PM
+departing Lake St W & France Ave S at 6:45 PM
+
+Affected westbound trips:
+departing Union Depot & Gate A1 at 11:16 AM
+departing Union Depot & Gate A1 at 2:13 PM
+departing Union Depot & Gate A1 at 5:14 PM
+```
+
+</details>
+
+---
+
+### 🚨 METRO E Line: Service Canceled
+
+- **Affected Routes**: `METRO E Line`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: E Line trips departing Southdale Transit Center - Gate A at 11:37 AM and departing Westgate Station - Gate A at 12:57 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/eline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: E Line trips departing Southdale Transit Center - Gate A at 11:37 AM and departing Westgate Station - Gate A at 12:57 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 2: Service Canceled
+
+- **Affected Routes**: `Route 2`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 2 trip departing Ontario St SE & Beacon St; departing Franklin Ave W & Hennepin Ave S; 58 AM
+departing Franklin Ave W & Hennepin Ave S; 36 AM
+departing Franklin Ave W & Hennepin Ave S; 45 PM
+departing Franklin Ave W & Hennepin Ave S
+
+**Summary**: Route 2 trip departing Ontario St SE & Beacon St at 9:10 AM and eight other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 2 trip departing Ontario St SE & Beacon St at 9:10 AM and eight other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Franklin Ave W & Hennepin Ave S at 9:58 AM
+departing Franklin Ave W & Hennepin Ave S at 11:36 AM
+departing Franklin Ave W & Hennepin Ave S at 1:45 PM
+departing Franklin Ave W & Hennepin Ave S at 3:36 PM
+
+Affected westbound trips:
+departing Ontario St SE & Beacon St at 9:10 AM
+departing Ontario St SE & Beacon St at 10:40 AM
+departing 2nd Ave SE & 7th St SE at 12:40 PM
+departing Ontario St SE & Beacon St at 2:40 PM
+departing 2nd Ave SE & 7th St SE at 4:40 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 10: Southbound 11:18 AM Trip Canceled (Northtown Transit Ctr Gate A)
+
+- **Affected Routes**: `Route 10`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 11:18 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/10)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 11:18 AM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 11: Service Canceled
+
+- **Affected Routes**: `Route 11`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 11 trip departing Nicollet Ave S & 46th St E; departing Nicollet Ave S & 46th St E; 08 PM
+departing Nicollet Ave S & 46th St E; 37 PM
+departing Nicollet Ave S & 46th St E
+
+**Summary**: Route 11 trip departing Nicollet Ave S & 46th St E at 12:08 PM and four other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/11)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 11 trip departing Nicollet Ave S & 46th St E at 12:08 PM and four other trips canceled today
+
+```text
+Affected northbound trips:
+departing Nicollet Ave S & 46th St E at 12:08 PM
+departing Nicollet Ave S & 46th St E at 2:37 PM
+departing Nicollet Ave S & 46th St E at 5:08 PM
+
+Affected southbound trips:
+departing Columbia Heights Transit Center C at 1:27 PM
+departing Columbia Heights Transit Center C at 3:57 PM
+```
 
 </details>
 
@@ -692,54 +814,6 @@ Maryland Ave & Galtier St - Stop #5579 (westbound)
 
 ---
 
-### ⚠️ Route 3, Route 3A: Detour via Como Ave & Como Place - St
-
-- **Affected Routes**: `Route 3` `Route 3A`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Como Ave & Como Place - St; Dale St & Maryland Ave; Maryland Ave & Mackubin St; Como Blvd E & Maryland Ave; Maryland Ave & Grotto St
-- **Closed Stops**: Como Blvd E & Maryland Ave (Stop #5555), Maryland Ave & Grotto St (Stop #5556), Maryland Ave & Dale St (Stop #5560), Maryland Ave & Dale St (Stop #5589), Maryland Ave & Grotto St (Stop #5593), Maryland Ave & Como Blvd E (Stop #5594), Stop #50125, Stop #10711 *(+3 more)*
-
-**Summary**: Route 3A detoured off Como Blvd from Como Ave to Maryland Ave and off Maryland Ave from Como Blvd to Dale St from 9:00 AM to 11:00 AM on Sat Sep 26 due to Como Homecoming Parade. Board at: Como Ave & Como Place - Stop #50125 (eastbound); Dale St & Maryland Ave - Stop #10711 (northbound); Maryland Ave & Mackubin St - Stop #5563 (eastbound).
-
-> 💡 **Rider Action**: Board at: Como Ave & Como Place - Stop #50125 (eastbound); Dale St & Maryland Ave - Stop #10711 (northbound); Maryland Ave & Mackubin St - Stop #5563 (eastbound)
-
-> 🔄 **Detour Path**: buses will travel regular route on Como Ave to Como Ave/Como Blvd, right on Como Ave, left on Jessamine Ave, left on Dale St, right on Maryland Ave, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/3)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 3A detoured off Como Blvd from Como Ave to Maryland Ave and off Maryland Ave from Como Blvd to Dale St from 9:00 AM to 11:00 AM on Sat Sep 26 due to Como Homecoming Parade
-
-```text
-For eastbound Route 3 get on/off buses at:
-Como Ave & Como Place - Stop #50125 (eastbound)
-Dale St & Maryland Ave - Stop #10711 (northbound)
-Maryland Ave & Mackubin St - Stop #5563 (eastbound)
-
-For westbound Route 3 get on/off buses at:
-Maryland Ave & Mackubin St - Stop #5587 (westbound)
-Como Ave & Como Place - Stop #50126 (westbound)
-
-Eastbound 3A buses will travel regular route on Como Ave to Como Ave/Como Blvd, right on Como Ave, left on Jessamine Ave, left on Dale St, right on Maryland Ave, and resume regular route.
-
-Westbound 3A buses will travel regular route on Maryland Ave to Dale St, left on Dale, right on Jessamine Ave, right on Como Ave to Como Blvd, left on Como Ave, and resume regular route.
-
-Affected stops:
-Como Blvd E & Maryland Ave - Stop #5555 (northbound)
-Maryland Ave & Grotto St - Stop #5556 (eastbound)
-Maryland Ave & Dale St - Stop #5560 (eastbound)
-Maryland Ave & Dale St - Stop #5589 (westbound)
-Maryland Ave & Grotto St - Stop #5593 (westbound)
-Maryland Ave & Como Blvd E - Stop #5594 (westbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 3: Detour via Washington Ave S & Marquette Ave
 
 - **Affected Routes**: `Route 3`
@@ -1282,6 +1356,48 @@ Affected stops:
 46th St E & 34th Ave S - Stop #48897 (westbound)
 34th Ave S & Minnehaha Pkwy - Stop #52737 (southbound)
 34th Ave S & 50th St E - Stop #52739 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 7: Detour via Route 7 detoured off Plymouth Ave & Theodore Wirth Pkwy
+
+- **Affected Routes**: `Route 7`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Route 7 detoured off Plymouth Ave & Theodore Wirth Pkwy; Plymouth Ave & Washburn Ave N; Plymouth Ave & Theodore Wirth Pkwy; Plymouth Ave & Theo Wirth Pkwy; Plymouth Ave/Theodore Wirth Pkwy (Washburn Ave to Trailhead Building)
+- **Closed Stops**: Plymouth Ave & Theodore Wirth Pkwy (Stop #56978), Trailhead Bldg (Stop #56977), Plymouth Ave & Theo Wirth Pkwy (Stop #17679), Stop #17676, Stop #17681
+
+**Summary**: Route 7 detoured off Plymouth Ave/Theodore Wirth Pkwy from Washburn Ave to Trailhead Building until 7:00 PM due to Loppet Field Day. Board at: Plymouth Ave & Washburn Ave N - Stop #17676 (westbound).
+
+> 💡 **Rider Action**: Board at: Plymouth Ave & Washburn Ave N - Stop #17676 (westbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route on Plymouth Ave to Washburn Ave, right on Washburn, left on 14th Ave, left on Xerxes Ave, left on Plymouth Ave, and will layover on eastbound Plymouth Ave at Vincent Ave.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/7)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 7 detoured off Plymouth Ave/Theodore Wirth Pkwy from Washburn Ave to Trailhead Building until 7:00 PM due to Loppet Field Day
+
+```text
+For northbound Route 7 get on/off buses at:
+Plymouth Ave & Washburn Ave N - Stop #17676 (westbound)
+
+For southbound Route 7 get on/off buses at:
+Plymouth Ave & Washburn Ave N - Stop #17681 (eastbound)
+
+Northbound buses will travel regular route on Plymouth Ave to Washburn Ave, right on Washburn, left on 14th Ave, left on Xerxes Ave, left on Plymouth Ave, and will layover on eastbound Plymouth Ave at Vincent Ave.
+
+Southbound buses will depart temporary layover on eastbound Plymouth Ave at Vincent Ave and resume regular route.
+
+Affected stops:
+Plymouth Ave & Theodore Wirth Pkwy - Stop #56978 (westbound)
+Trailhead Bldg - Stop #56977 (westbound)
+Plymouth Ave & Theo Wirth Pkwy - Stop #17679 (eastbound)
 ```
 
 </details>
@@ -2845,46 +2961,6 @@ No stations missed.
 Eastbound buses will travel regular route.
 
 Westbound buses will travel regular route on Lagoon Ave to Fremont Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave, right on Lagoon Ave and resume regular route.
-```
-
-</details>
-
----
-
-### ⚠️ Route 38: Detour via Yellow Circle Dr & Red Circle Dr
-
-- **Affected Routes**: `Route 38`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Yellow Circle Dr & Red Circle Dr; Bren Rd W & Feltl Rd; Bren Rd W & Scoreboard - Rear - St; Red Circle Dr & Shady Oak Rd; Bren Rd W (Bren Rd E to Shady Oak Rd and off Shady Oak Rd from Bren Rd to Red Circle Dr)
-- **Closed Stops**: Bren Rd W & Feltl Rd (Stop #48208), Bren Rd W & Scoreboard - Rear (Stop #48209), Red Circle Dr & Shady Oak Rd (Stop #81108), Stop #10380, Stop #48313, Stop #48212
-
-**Summary**: Route 38 detoured off Bren Rd W from Bren Rd E to Shady Oak Rd and off Shady Oak Rd from Bren Rd to Red Circle Dr until further notice due to construction. Board at: Bren Rd W & #10380 Digital River Inc - Stop #48313 (westbound); Yellow Circle Dr & Red Circle Dr - Stop #48212 (eastbound).
-
-> 💡 **Rider Action**: Board at: Bren Rd W & #10380 Digital River Inc - Stop #48313 (westbound); Yellow Circle Dr & Red Circle Dr - Stop #48212 (eastbound)
-
-> 🔄 **Detour Path**: Buses will travel regular route on Bren Rd W to Bren Rd E, exit left to Bren Rd E, stay right on Bren Rd E, right on Red Circle Dr, stay left on Red Circle Dr, take left at stop sign and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/38)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 38 detoured off Bren Rd W from Bren Rd E to Shady Oak Rd and off Shady Oak Rd from Bren Rd to Red Circle Dr until further notice due to construction
-
-```text
-Updated at 12:40 PM 9/19 to extend detour to further notice.
-
-Get on/off buses at:
-Bren Rd W & #10380 Digital River Inc - Stop #48313 (westbound)
-Yellow Circle Dr & Red Circle Dr - Stop #48212 (eastbound)
-
-Buses will travel regular route on Bren Rd W to Bren Rd E, exit left to Bren Rd E, stay right on Bren Rd E, right on Red Circle Dr, stay left on Red Circle Dr, take left at stop sign and resume regular route.
-
-Affected stops:
-Bren Rd W & Feltl Rd - Stop #48208 (westbound)
-Bren Rd W & Scoreboard - Rear - Stop #48209 (southbound)
-Red Circle Dr & Shady Oak Rd - Stop #81108 (eastbound)
 ```
 
 </details>

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-26T14:03:17.380Z",
-    "totalAlerts": 121,
-    "criticalCount": 2,
-    "moderateCount": 116,
+    "generatedAt": "2026-09-26T18:16:53.219Z",
+    "totalAlerts": 124,
+    "criticalCount": 6,
+    "moderateCount": 115,
     "minorCount": 3,
     "affectedRoutesCount": 77,
     "agencies": [
@@ -12,169 +12,173 @@
   },
   "alerts": [
     {
-      "id": "53356",
+      "id": "53369",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO D Line: Southbound 7:33 AM Trip Canceled (7th St & Olson Station)",
-      "summary": "Southbound D Line trip departing 7th St & Olson Station at 7:33 AM canceled today due to maintenance work",
+      "title": "Green Line Bus, METRO Green Line: Eastbound 12:32 PM Trip Canceled (University Ave & Carleton St)",
+      "summary": "Eastbound Green Line Bus trip departing University Ave & Carleton St at 12:32 PM canceled today",
       "affectedRoutes": [
-        "METRO D Line"
+        "Green Line Bus",
+        "METRO Green Line"
       ],
-      "direction": "Southbound",
-      "intersections": [
-        "Southbound D Line trip departing 7th St & Olson St"
-      ],
-      "closedStopIds": [
-        "441",
-        "431",
-        "56873",
-        "56909",
-        "56910",
-        "56911",
-        "56912",
-        "56913",
-        "56914",
-        "56916",
-        "56917",
-        "4530",
-        "80139",
-        "56317",
-        "81079",
-        "56920",
-        "449",
-        "56918",
-        "56919",
-        "444",
-        "436",
-        "42318",
-        "17905",
-        "17906",
-        "17907",
-        "17910",
-        "17912"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "441"
-        },
-        {
-          "id": "431"
-        },
-        {
-          "id": "56873"
-        },
-        {
-          "id": "56909"
-        },
-        {
-          "id": "56910"
-        },
-        {
-          "id": "56911"
-        },
-        {
-          "id": "56912"
-        },
-        {
-          "id": "56913"
-        },
-        {
-          "id": "56914"
-        },
-        {
-          "id": "56916"
-        },
-        {
-          "id": "56917"
-        },
-        {
-          "id": "4530"
-        },
-        {
-          "id": "80139"
-        },
-        {
-          "id": "56317"
-        },
-        {
-          "id": "81079"
-        },
-        {
-          "id": "56920"
-        },
-        {
-          "id": "449"
-        },
-        {
-          "id": "56918"
-        },
-        {
-          "id": "56919"
-        },
-        {
-          "id": "444"
-        },
-        {
-          "id": "436"
-        },
-        {
-          "id": "42318"
-        },
-        {
-          "id": "17905"
-        },
-        {
-          "id": "17906"
-        },
-        {
-          "id": "17907"
-        },
-        {
-          "id": "17910"
-        },
-        {
-          "id": "17912"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-26T13:07:00.000Z",
-        "end": "2026-09-26T14:17:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-09-26T13:08:29.000Z",
-      "rawHeader": "Southbound D Line trip departing 7th St & Olson Station at 7:33 AM canceled today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "53357",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 32, Route 32F: Westbound 8:04 AM Trip Canceled (Rosedale Transit Center Gate D)",
-      "summary": "Westbound Route 32F trip departing Rosedale Transit Center Gate D at 8:04 AM canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 32",
-        "Route 32F"
-      ],
-      "direction": "Westbound",
+      "direction": "Eastbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-26T13:43:00.000Z",
-        "end": "2026-09-26T14:40:00.000Z"
+        "start": "2026-09-26T17:45:00.000Z",
+        "end": "2026-09-26T19:01:00.000Z"
       },
-      "cause": "TECHNICAL_PROBLEM",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/32",
-      "updatedAt": "2026-09-26T13:43:37.000Z",
-      "rawHeader": "Westbound Route 32F trip departing Rosedale Transit Center Gate D at 8:04 AM canceled today due to mechanical issue",
+      "url": "https://www.metrotransit.org/route/grnbus",
+      "updatedAt": "2026-09-26T17:45:31.000Z",
+      "rawHeader": "Eastbound Green Line Bus trip departing University Ave & Carleton St at 12:32 PM canceled today",
       "rawDescription": ""
+    },
+    {
+      "id": "53359",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO B Line: Service Canceled",
+      "summary": "B Line trip departing Union Depot & Gate A1 at 11:16 AM and five other trips canceled today",
+      "affectedRoutes": [
+        "METRO B Line"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "departing Lake St W & France Ave S",
+        "48 PM\ndeparting Lake St W & France Ave S",
+        "45 PM\ndeparting Lake St W & France Ave S"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-26T16:16:00.000Z",
+        "end": "2026-09-27T01:48:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-09-26T15:46:01.000Z",
+      "rawHeader": "B Line trip departing Union Depot & Gate A1 at 11:16 AM and five other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Lake St W & France Ave S at 12:48 PM\r\ndeparting Lake St W & France Ave S at 3:45 PM\r\ndeparting Lake St W & France Ave S at 6:45 PM\r\n\nAffected westbound trips:\r\ndeparting Union Depot & Gate A1 at 11:16 AM\r\ndeparting Union Depot & Gate A1 at 2:13 PM\r\ndeparting Union Depot & Gate A1 at 5:14 PM"
+    },
+    {
+      "id": "53368",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO E Line: Service Canceled",
+      "summary": "E Line trips departing Southdale Transit Center - Gate A at 11:37 AM and departing Westgate Station - Gate A at 12:57 PM canceled today",
+      "affectedRoutes": [
+        "METRO E Line"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-26T16:37:00.000Z",
+        "end": "2026-09-26T19:55:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/eline",
+      "updatedAt": "2026-09-26T16:10:48.000Z",
+      "rawHeader": "E Line trips departing Southdale Transit Center - Gate A at 11:37 AM and departing Westgate Station - Gate A at 12:57 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "53362",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 2: Service Canceled",
+      "summary": "Route 2 trip departing Ontario St SE & Beacon St at 9:10 AM and eight other trips canceled today",
+      "affectedRoutes": [
+        "Route 2"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 2 trip departing Ontario St SE & Beacon St",
+        "departing Franklin Ave W & Hennepin Ave S",
+        "58 AM\ndeparting Franklin Ave W & Hennepin Ave S",
+        "36 AM\ndeparting Franklin Ave W & Hennepin Ave S",
+        "45 PM\ndeparting Franklin Ave W & Hennepin Ave S"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-26T15:33:00.000Z",
+        "end": "2026-09-26T23:29:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/2",
+      "updatedAt": "2026-09-26T15:33:35.000Z",
+      "rawHeader": "Route 2 trip departing Ontario St SE & Beacon St at 9:10 AM and eight other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Franklin Ave W & Hennepin Ave S at 9:58 AM\r\ndeparting Franklin Ave W & Hennepin Ave S at 11:36 AM\r\ndeparting Franklin Ave W & Hennepin Ave S at 1:45 PM\r\ndeparting Franklin Ave W & Hennepin Ave S at 3:36 PM\r\n\nAffected westbound trips:\r\ndeparting Ontario St SE & Beacon St at 9:10 AM\r\ndeparting Ontario St SE & Beacon St at 10:40 AM\r\ndeparting 2nd Ave SE & 7th St SE at 12:40 PM\r\ndeparting Ontario St SE & Beacon St at 2:40 PM\r\ndeparting 2nd Ave SE & 7th St SE at 4:40 PM"
+    },
+    {
+      "id": "53365",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 10: Southbound 11:18 AM Trip Canceled (Northtown Transit Ctr Gate A)",
+      "summary": "Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 11:18 AM canceled today",
+      "affectedRoutes": [
+        "Route 10"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {},
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/10",
+      "updatedAt": "2026-09-26T18:16:02.000Z",
+      "rawHeader": "Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 11:18 AM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "53361",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 11: Service Canceled",
+      "summary": "Route 11 trip departing Nicollet Ave S & 46th St E at 12:08 PM and four other trips canceled today",
+      "affectedRoutes": [
+        "Route 11"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 11 trip departing Nicollet Ave S & 46th St E",
+        "departing Nicollet Ave S & 46th St E",
+        "08 PM\ndeparting Nicollet Ave S & 46th St E",
+        "37 PM\ndeparting Nicollet Ave S & 46th St E"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-26T17:08:00.000Z",
+        "end": "2026-09-27T00:05:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/11",
+      "updatedAt": "2026-09-26T16:38:00.000Z",
+      "rawHeader": "Route 11 trip departing Nicollet Ave S & 46th St E at 12:08 PM and four other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Nicollet Ave S & 46th St E at 12:08 PM\r\ndeparting Nicollet Ave S & 46th St E at 2:37 PM\r\ndeparting Nicollet Ave S & 46th St E at 5:08 PM\r\n\nAffected southbound trips:\r\ndeparting Columbia Heights Transit Center C at 1:27 PM\r\ndeparting Columbia Heights Transit Center C at 3:57 PM"
     },
     {
       "id": "52943",
@@ -1288,97 +1292,6 @@
       "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nMaryland Ave & Galtier St - Stop #5571 (eastbound)\r\nTemporary stop on Galtier St & Cook Ave (southbound)\r\nTemporary stop on Galtier St & Front Ave (southbound)\r\nTemporary stop on Galtier St & Atwater St (southbound)\r\nComo Ave & Rice St - Stop #973 (eastbound)\r\nRice St & Charles Ave - Stop #974 (southbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\nRice St & Charles Ave - Stop #10488 (northbound)\r\nComo Ave & Rice St - Stop #49895 (westbound)\r\nTemporary stop on Atwater St & Galtier St (eastbound)\r\nTemporary stop on Galtier St & Front Ave (northbound)\r\nTemporary stop on Galtier St & Maryland Ave (northbound)\r\nMaryland Ave & Western Ave - Stop #5583 (westbound)\r\n\nEastbound 3A buses will travel regular route on Maryland Ave to Galtier St, right on Galtier, right on Atwater St, left on Western Ave, left on Como Ave, right on Rice St, and resume regular route.\r\n\nWestbound 3A buses will travel regular route on Rice St to Como Ave, left on Como, right on Western Ave, right on Atwater St, left on Galtier St, left on Maryland Ave, and resume regular route.\r\n\nAffected stops:\r\nMaryland Ave & Rice St - Stop #5575 (eastbound)\r\nRice St & Geranium Ave - Stop #10473 (southbound)\r\nRice St & Lawson Ave - Stop #10476 (southbound)\r\nRice St & Litchfield St - Stop #10479 (southbound)\r\nRice St & Milford St - Stop #10480 (southbound)\r\nRice St & Sycamore St - Stop #10482 (southbound)\r\nRice St & Pennsylvania Ave - Stop #10483 (southbound)\r\nRice St & Como Ave - Stop #10484 (southbound)\r\nRice St & Como Ave - Stop #10489 (northbound)\r\nRice St & Pennsylvania Ave - Stop #10490 (northbound)\r\nRice St & Sycamore St - Stop #10491 (northbound)\r\nRice St & Manitoba Ave - Stop #10494 (northbound)\r\nRice St & Front Ave - Stop #10496 (northbound)\r\nRice St & Lawson Ave - Stop #10498 (northbound)\r\nRice St & Geranium Ave - Stop #10501 (northbound)\r\nMaryland Ave & Rice St - Stop #47074 (westbound)\r\nMaryland Ave & Galtier St - Stop #5579 (westbound)"
     },
     {
-      "id": "52960",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 3, Route 3A: Detour via Como Ave & Como Place - St",
-      "summary": "Route 3A detoured off Como Blvd from Como Ave to Maryland Ave and off Maryland Ave from Como Blvd to Dale St from 9:00 AM to 11:00 AM on Sat Sep 26 due to Como Homecoming Parade. Board at: Como Ave & Como Place - Stop #50125 (eastbound); Dale St & Maryland Ave - Stop #10711 (northbound); Maryland Ave & Mackubin St - Stop #5563 (eastbound).",
-      "affectedRoutes": [
-        "Route 3",
-        "Route 3A"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Como Ave & Como Place - St",
-        "Dale St & Maryland Ave",
-        "Maryland Ave & Mackubin St",
-        "Como Blvd E & Maryland Ave",
-        "Maryland Ave & Grotto St"
-      ],
-      "closedStopIds": [
-        "5555",
-        "5556",
-        "5560",
-        "5589",
-        "5593",
-        "5594",
-        "50125",
-        "10711",
-        "5563",
-        "5587",
-        "50126"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "5555",
-          "name": "Como Blvd E & Maryland Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "5556",
-          "name": "Maryland Ave & Grotto St",
-          "direction": "eastbound"
-        },
-        {
-          "id": "5560",
-          "name": "Maryland Ave & Dale St",
-          "direction": "eastbound"
-        },
-        {
-          "id": "5589",
-          "name": "Maryland Ave & Dale St",
-          "direction": "westbound"
-        },
-        {
-          "id": "5593",
-          "name": "Maryland Ave & Grotto St",
-          "direction": "westbound"
-        },
-        {
-          "id": "5594",
-          "name": "Maryland Ave & Como Blvd E",
-          "direction": "westbound"
-        },
-        {
-          "id": "50125"
-        },
-        {
-          "id": "10711"
-        },
-        {
-          "id": "5563"
-        },
-        {
-          "id": "5587"
-        },
-        {
-          "id": "50126"
-        }
-      ],
-      "riderAlternative": "Board at: Como Ave & Como Place - Stop #50125 (eastbound); Dale St & Maryland Ave - Stop #10711 (northbound); Maryland Ave & Mackubin St - Stop #5563 (eastbound)",
-      "detourDetails": "buses will travel regular route on Como Ave to Como Ave/Como Blvd, right on Como Ave, left on Jessamine Ave, left on Dale St, right on Maryland Ave, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-26T14:00:00.000Z",
-        "end": "2026-09-26T16:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-09-26T13:30:01.000Z",
-      "rawHeader": "Route 3A detoured off Como Blvd from Como Ave to Maryland Ave and off Maryland Ave from Como Blvd to Dale St from 9:00 AM to 11:00 AM on Sat Sep 26 due to Como Homecoming Parade",
-      "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nComo Ave & Como Place - Stop #50125 (eastbound)\r\nDale St & Maryland Ave - Stop #10711 (northbound)\r\nMaryland Ave & Mackubin St - Stop #5563 (eastbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\nMaryland Ave & Mackubin St - Stop #5587 (westbound)\r\nComo Ave & Como Place - Stop #50126 (westbound)\r\n\nEastbound 3A buses will travel regular route on Como Ave to Como Ave/Como Blvd, right on Como Ave, left on Jessamine Ave, left on Dale St, right on Maryland Ave, and resume regular route.\r\n\nWestbound 3A buses will travel regular route on Maryland Ave to Dale St, left on Dale, right on Jessamine Ave, right on Como Ave to Como Blvd, left on Como Ave, and resume regular route.\r\n\nAffected stops:\r\nComo Blvd E & Maryland Ave - Stop #5555 (northbound)\r\nMaryland Ave & Grotto St - Stop #5556 (eastbound)\r\nMaryland Ave & Dale St - Stop #5560 (eastbound)\r\nMaryland Ave & Dale St - Stop #5589 (westbound)\r\nMaryland Ave & Grotto St - Stop #5593 (westbound)\r\nMaryland Ave & Como Blvd E - Stop #5594 (westbound)"
-    },
-    {
       "id": "53146",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -2089,8 +2002,8 @@
         "56919",
         "51212",
         "56923",
-        "72",
         "73",
+        "72",
         "66",
         "68",
         "69",
@@ -2164,10 +2077,10 @@
           "id": "56923"
         },
         {
-          "id": "72"
+          "id": "73"
         },
         {
-          "id": "73"
+          "id": "72"
         },
         {
           "id": "66"
@@ -2491,6 +2404,66 @@
       "updatedAt": "2026-09-23T20:02:11.000Z",
       "rawHeader": "Route 7 detoured off 34th Ave from 50th St to 46th St from 4:00 AM to 1:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "For northbound Route 7 get on/off buses at:\r\n34th Ave S & 50th St E - Stop #15274 (northbound)\r\n46th St Station & Gate F - Stop #51549 (northbound)\r\n\nFor southbound Route 7 get on/off buses at:\r\n46th St Station & Gate B - Stop #51545 (northbound)\r\n34th Ave S & 51st St E - Stop #15419 (southbound)\r\n\nNorthbound buses will travel regular route on 34th Ave to 50th St, right on 50th St, left on Hiawatha Ave, left on 42nd St, left on 34th Ave, left on 46th St, eft into 46th St Station and resume regular route.\r\n\nSouthbound buses will depart 46th St Station, right on 34th Ave, right on 42nd St, right on Hiawatha Ave, right on 50th St, left on 34th Ave and resume regular route.\r\n\nAffected stops:\r\n34th Ave S & Minnehaha Pkwy - Stop #52741 (northbound)\r\n34th Ave S & 46th St E - Stop #52743 (northbound)\r\n46th St E & 34th Ave S - Stop #48897 (westbound)\r\n34th Ave S & Minnehaha Pkwy - Stop #52737 (southbound)\r\n34th Ave S & 50th St E - Stop #52739 (southbound)"
+    },
+    {
+      "id": "53366",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 7: Detour via Route 7 detoured off Plymouth Ave & Theodore Wirth Pkwy",
+      "summary": "Route 7 detoured off Plymouth Ave/Theodore Wirth Pkwy from Washburn Ave to Trailhead Building until 7:00 PM due to Loppet Field Day. Board at: Plymouth Ave & Washburn Ave N - Stop #17676 (westbound).",
+      "affectedRoutes": [
+        "Route 7"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 7 detoured off Plymouth Ave & Theodore Wirth Pkwy",
+        "Plymouth Ave & Washburn Ave N",
+        "Plymouth Ave & Theodore Wirth Pkwy",
+        "Plymouth Ave & Theo Wirth Pkwy",
+        "Plymouth Ave/Theodore Wirth Pkwy (Washburn Ave to Trailhead Building)"
+      ],
+      "closedStopIds": [
+        "56978",
+        "56977",
+        "17679",
+        "17676",
+        "17681"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "56978",
+          "name": "Plymouth Ave & Theodore Wirth Pkwy",
+          "direction": "westbound"
+        },
+        {
+          "id": "56977",
+          "name": "Trailhead Bldg",
+          "direction": "westbound"
+        },
+        {
+          "id": "17679",
+          "name": "Plymouth Ave & Theo Wirth Pkwy",
+          "direction": "eastbound"
+        },
+        {
+          "id": "17676"
+        },
+        {
+          "id": "17681"
+        }
+      ],
+      "riderAlternative": "Board at: Plymouth Ave & Washburn Ave N - Stop #17676 (westbound)",
+      "detourDetails": "Northbound buses will travel regular route on Plymouth Ave to Washburn Ave, right on Washburn, left on 14th Ave, left on Xerxes Ave, left on Plymouth Ave, and will layover on eastbound Plymouth Ave at Vincent Ave.",
+      "activePeriod": {
+        "start": "2026-09-26T15:48:00.000Z",
+        "end": "2026-09-27T00:00:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/7",
+      "updatedAt": "2026-09-26T15:48:57.000Z",
+      "rawHeader": "Route 7 detoured off Plymouth Ave/Theodore Wirth Pkwy from Washburn Ave to Trailhead Building until 7:00 PM due to Loppet Field Day",
+      "rawDescription": "For northbound Route 7 get on/off buses at:\r\nPlymouth Ave & Washburn Ave N - Stop #17676 (westbound)\r\n\nFor southbound Route 7 get on/off buses at:\r\nPlymouth Ave & Washburn Ave N - Stop #17681 (eastbound)\r\n\nNorthbound buses will travel regular route on Plymouth Ave to Washburn Ave, right on Washburn, left on 14th Ave, left on Xerxes Ave, left on Plymouth Ave, and will layover on eastbound Plymouth Ave at Vincent Ave.\r\n\nSouthbound buses will depart temporary layover on eastbound Plymouth Ave at Vincent Ave and resume regular route.\r\n\nAffected stops:\r\nPlymouth Ave & Theodore Wirth Pkwy - Stop #56978 (westbound)\r\nTrailhead Bldg - Stop #56977 (westbound)\r\nPlymouth Ave & Theo Wirth Pkwy - Stop #17679 (eastbound)"
     },
     {
       "id": "45065",
@@ -5166,69 +5139,6 @@
       "updatedAt": "2026-09-26T07:15:01.000Z",
       "rawHeader": "METRO B Line and Route 38 detoured off Lagoon Ave from Fremont Ave to Hennepin Ave until further notice every Friday and Saturday from 12:00 AM to 2:00 AM",
       "rawDescription": "No stations missed.\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on Lagoon Ave to Fremont Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave, right on Lagoon Ave and resume regular route."
-    },
-    {
-      "id": "53032",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 38: Detour via Yellow Circle Dr & Red Circle Dr",
-      "summary": "Route 38 detoured off Bren Rd W from Bren Rd E to Shady Oak Rd and off Shady Oak Rd from Bren Rd to Red Circle Dr until further notice due to construction. Board at: Bren Rd W & #10380 Digital River Inc - Stop #48313 (westbound); Yellow Circle Dr & Red Circle Dr - Stop #48212 (eastbound).",
-      "affectedRoutes": [
-        "Route 38"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Yellow Circle Dr & Red Circle Dr",
-        "Bren Rd W & Feltl Rd",
-        "Bren Rd W & Scoreboard - Rear - St",
-        "Red Circle Dr & Shady Oak Rd",
-        "Bren Rd W (Bren Rd E to Shady Oak Rd and off Shady Oak Rd from Bren Rd to Red Circle Dr)"
-      ],
-      "closedStopIds": [
-        "48208",
-        "48209",
-        "81108",
-        "10380",
-        "48313",
-        "48212"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "48208",
-          "name": "Bren Rd W & Feltl Rd",
-          "direction": "westbound"
-        },
-        {
-          "id": "48209",
-          "name": "Bren Rd W & Scoreboard - Rear",
-          "direction": "southbound"
-        },
-        {
-          "id": "81108",
-          "name": "Red Circle Dr & Shady Oak Rd",
-          "direction": "eastbound"
-        },
-        {
-          "id": "10380"
-        },
-        {
-          "id": "48313"
-        },
-        {
-          "id": "48212"
-        }
-      ],
-      "riderAlternative": "Board at: Bren Rd W & #10380 Digital River Inc - Stop #48313 (westbound); Yellow Circle Dr & Red Circle Dr - Stop #48212 (eastbound)",
-      "detourDetails": "Buses will travel regular route on Bren Rd W to Bren Rd E, exit left to Bren Rd E, stay right on Bren Rd E, right on Red Circle Dr, stay left on Red Circle Dr, take left at stop sign and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-19T13:00:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/38",
-      "updatedAt": "2026-09-26T13:00:01.000Z",
-      "rawHeader": "Route 38 detoured off Bren Rd W from Bren Rd E to Shady Oak Rd and off Shady Oak Rd from Bren Rd to Red Circle Dr until further notice due to construction",
-      "rawDescription": "Updated at 12:40 PM 9/19 to extend detour to further notice.\r\n\nGet on/off buses at:\r\nBren Rd W & #10380 Digital River Inc - Stop #48313 (westbound)\r\nYellow Circle Dr & Red Circle Dr - Stop #48212 (eastbound)\r\n\nBuses will travel regular route on Bren Rd W to Bren Rd E, exit left to Bren Rd E, stay right on Bren Rd E, right on Red Circle Dr, stay left on Red Circle Dr, take left at stop sign and resume regular route.\r\n\nAffected stops:\r\nBren Rd W & Feltl Rd - Stop #48208 (westbound)\r\nBren Rd W & Scoreboard - Rear - Stop #48209 (southbound)\r\nRed Circle Dr & Shady Oak Rd - Stop #81108 (eastbound)"
     },
     {
       "id": "53182",

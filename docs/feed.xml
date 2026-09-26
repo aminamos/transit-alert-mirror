@@ -4,26 +4,62 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 26 Sep 2026 14:03:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 18:16:53 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO D Line: Southbound 7:33 AM Trip Canceled (7th St &amp; Olson Station)</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-53356-2026-09-26T13:08:29.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 13:08:29 GMT</pubDate>
+      <title>[Critical] Green Line Bus, METRO Green Line: Eastbound 12:32 PM Trip Canceled (University Ave &amp; Carleton St)</title>
+      <link>https://www.metrotransit.org/route/grnbus</link>
+      <guid isPermaLink="false">Metro Transit-53369-2026-09-26T17:45:31.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 17:45:31 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Southbound D Line trip departing 7th St &amp; Olson Station at 7:33 AM canceled today due to maintenance work</description>
+      <category>Green Line Bus, METRO Green Line</category>
+      <description>Eastbound Green Line Bus trip departing University Ave &amp; Carleton St at 12:32 PM canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 32, Route 32F: Westbound 8:04 AM Trip Canceled (Rosedale Transit Center Gate D)</title>
-      <link>https://www.metrotransit.org/route/32</link>
-      <guid isPermaLink="false">Metro Transit-53357-2026-09-26T13:43:37.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 13:43:37 GMT</pubDate>
+      <title>[Critical] METRO B Line: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-53359-2026-09-26T15:46:01.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 15:46:01 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 32, Route 32F</category>
-      <description>Westbound Route 32F trip departing Rosedale Transit Center Gate D at 8:04 AM canceled today due to mechanical issue</description>
+      <category>METRO B Line</category>
+      <description>B Line trip departing Union Depot &amp; Gate A1 at 11:16 AM and five other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] METRO E Line: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/eline</link>
+      <guid isPermaLink="false">Metro Transit-53368-2026-09-26T16:10:48.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 16:10:48 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO E Line</category>
+      <description>E Line trips departing Southdale Transit Center - Gate A at 11:37 AM and departing Westgate Station - Gate A at 12:57 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 2: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/2</link>
+      <guid isPermaLink="false">Metro Transit-53362-2026-09-26T15:33:35.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 15:33:35 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 2</category>
+      <description>Route 2 trip departing Ontario St SE &amp; Beacon St at 9:10 AM and eight other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 10: Southbound 11:18 AM Trip Canceled (Northtown Transit Ctr Gate A)</title>
+      <link>https://www.metrotransit.org/route/10</link>
+      <guid isPermaLink="false">Metro Transit-53365-2026-09-26T18:16:02.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 18:16:02 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 10</category>
+      <description>Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 11:18 AM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 11: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/11</link>
+      <guid isPermaLink="false">Metro Transit-53361-2026-09-26T16:38:00.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 16:38:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 11</category>
+      <description>Route 11 trip departing Nicollet Ave S &amp; 46th St E at 12:08 PM and four other trips canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -145,15 +181,6 @@ Affected st</title>
       <description>Route 3A detoured off Maryland Ave from Galtier St to Rice St and off Rice St from Maryland Ave to Como Ave beginning Mon Apr 6 at 4:00 AM until further notice due to construction. Board at: Maryland Ave &amp; Galtier St - Stop #5571 (eastbound); Temporary stop on Galtier St &amp; Cook Ave (southbound); Temporary stop on Galtier St &amp; Front Ave (southbound). | Action: Board at: Maryland Ave &amp; Galtier St - Stop #5571 (eastbound); Temporary stop on Galtier St &amp; Cook Ave (southbound); Temporary stop on Galtier St &amp; Front Ave (southbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 3, Route 3A: Detour via Como Ave &amp; Como Place - St</title>
-      <link>https://www.metrotransit.org/route/3</link>
-      <guid isPermaLink="false">Metro Transit-52960-2026-09-26T13:30:01.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 13:30:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 3, Route 3A</category>
-      <description>Route 3A detoured off Como Blvd from Como Ave to Maryland Ave and off Maryland Ave from Como Blvd to Dale St from 9:00 AM to 11:00 AM on Sat Sep 26 due to Como Homecoming Parade. Board at: Como Ave &amp; Como Place - Stop #50125 (eastbound); Dale St &amp; Maryland Ave - Stop #10711 (northbound); Maryland Ave &amp; Mackubin St - Stop #5563 (eastbound). | Action: Board at: Como Ave &amp; Como Place - Stop #50125 (eastbound); Dale St &amp; Maryland Ave - Stop #10711 (northbound); Maryland Ave &amp; Mackubin St - Stop #5563 (eastbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 3: Detour via Washington Ave S &amp; Marquette Ave</title>
       <link>https://www.metrotransit.org/route/3</link>
       <guid isPermaLink="false">Metro Transit-53146-2026-09-22T20:08:33.000Z</guid>
@@ -251,6 +278,15 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 7</category>
       <description>Route 7 detoured off 34th Ave from 50th St to 46th St from 4:00 AM to 1:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: 34th Ave S &amp; 50th St E - Stop #15274 (northbound); 46th St Station &amp; Gate F - Stop #51549 (northbound). | Action: Board at: 34th Ave S &amp; 50th St E - Stop #15274 (northbound); 46th St Station &amp; Gate F - Stop #51549 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 7: Detour via Route 7 detoured off Plymouth Ave &amp; Theodore Wirth Pkwy</title>
+      <link>https://www.metrotransit.org/route/7</link>
+      <guid isPermaLink="false">Metro Transit-53366-2026-09-26T15:48:57.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 15:48:57 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 7</category>
+      <description>Route 7 detoured off Plymouth Ave/Theodore Wirth Pkwy from Washburn Ave to Trailhead Building until 7:00 PM due to Loppet Field Day. Board at: Plymouth Ave &amp; Washburn Ave N - Stop #17676 (westbound). | Action: Board at: Plymouth Ave &amp; Washburn Ave N - Stop #17676 (westbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 9: Stop Closed at Cedar Lake Rd &amp; Ridge Dr</title>
@@ -568,15 +604,6 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 38, METRO B Line</category>
       <description>METRO B Line and Route 38 detoured off Lagoon Ave from Fremont Ave to Hennepin Ave until further notice every Friday and Saturday from 12:00 AM to 2:00 AM</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 38: Detour via Yellow Circle Dr &amp; Red Circle Dr</title>
-      <link>https://www.metrotransit.org/route/38</link>
-      <guid isPermaLink="false">Metro Transit-53032-2026-09-26T13:00:01.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 13:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 38</category>
-      <description>Route 38 detoured off Bren Rd W from Bren Rd E to Shady Oak Rd and off Shady Oak Rd from Bren Rd to Red Circle Dr until further notice due to construction. Board at: Bren Rd W &amp; #10380 Digital River Inc - Stop #48313 (westbound); Yellow Circle Dr &amp; Red Circle Dr - Stop #48212 (eastbound). | Action: Board at: Bren Rd W &amp; #10380 Digital River Inc - Stop #48313 (westbound); Yellow Circle Dr &amp; Red Circle Dr - Stop #48212 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 38: Detour via 46th Ave S &amp; 46th St E</title>
