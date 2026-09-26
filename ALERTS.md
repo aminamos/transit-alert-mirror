@@ -2,139 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-125-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-121-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-118-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-76-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-26T03:22:13.280Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-26T09:03:32.611Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (5) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (2) • **Route 4** (3) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (5) • **Route 7** (4) • **Route 9** (5) • **Route 10** (4) • **Route 11** (5) • **Route 14** (3) • **Route 17** (4) • **Route 18** (9) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (5) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (5) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (2) • **Route 4** (3) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (5) • **Route 7** (4) • **Route 9** (5) • **Route 10** (3) • **Route 11** (5) • **Route 14** (3) • **Route 17** (4) • **Route 18** (9) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (5) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO C Line: Service Canceled
-
-- **Affected Routes**: `METRO C Line`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing 7th St & Park St; 36 PM
-departing 7th St & Park St; 21 PM
-departing 7th St & Park St
-
-**Summary**: C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 4:45 PM and five other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/cline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 4:45 PM and five other trips canceled today
-
-```text
-Affected northbound trips:
-departing 7th St & Park Station at 5:36 PM
-departing 7th St & Park Station at 7:21 PM
-departing 7th St & Park Station at 8:57 PM
-
-Affected southbound trips:
-departing Brooklyn Ctr Transit Ctr Gate I at 4:45 PM
-departing Brooklyn Ctr Transit Ctr Gate I at 6:30 PM
-departing Brooklyn Ctr Transit Ctr Gate I at 8:12 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 10: Service Canceled
-
-- **Affected Routes**: `Route 10`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 10 trip departing 53rd Ave NE & Petco at 5:44 PM and three other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/10)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 10 trip departing 53rd Ave NE & Petco at 5:44 PM and three other trips canceled today
-
-```text
-Affected northbound trips:
-departing Leamington Ramp & Lower - Gate #7 at 6:47 PM
-departing Leamington Ramp & Lower - Gate #7 at 9:06 PM
-
-Affected southbound trips:
-departing 53rd Ave NE & Petco at 5:44 PM
-departing Northtown Transit Ctr Gate A at 8:04 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 30: Service Canceled
-
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 26 PM
-departing Knox Ave N & Golden Valley Rd; 24 PM
-departing Knox Ave N & Golden Valley Rd
-
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 1:34 PM and eight other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 30 trip departing Westgate Station - Gate B at 1:34 PM and eight other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Knox Ave N & Golden Valley Rd at 2:26 PM
-departing Knox Ave N & Golden Valley Rd at 4:24 PM
-departing Knox Ave N & Golden Valley Rd at 6:26 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 8:25 PM
-
-Affected westbound trips:
-departing Westgate Station - Gate B at 1:34 PM
-departing Westgate Station - Gate B at 3:34 PM
-departing Westgate Station - Gate B at 5:34 PM
-departing Westgate Station - Gate B at 7:36 PM
-departing Westgate Station - Gate B at 9:36 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 72: Service Canceled
-
-- **Affected Routes**: `Route 72`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: 21 PM and departing Pascal St N & Central Ave W
-
-**Summary**: Route 72 trips departing Sun Ray Transit Center & Gate D at 8:21 PM and departing Pascal St N & Central Ave W at 9:23 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/72)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 72 trips departing Sun Ray Transit Center & Gate D at 8:21 PM and departing Pascal St N & Central Ave W at 9:23 PM canceled today
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 

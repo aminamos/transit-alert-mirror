@@ -1,130 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-26T03:22:13.280Z",
-    "totalAlerts": 125,
-    "criticalCount": 4,
+    "generatedAt": "2026-09-26T09:03:32.611Z",
+    "totalAlerts": 121,
+    "criticalCount": 0,
     "moderateCount": 118,
     "minorCount": 3,
-    "affectedRoutesCount": 77,
+    "affectedRoutesCount": 76,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "53336",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO C Line: Service Canceled",
-      "summary": "C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 4:45 PM and five other trips canceled today",
-      "affectedRoutes": [
-        "METRO C Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing 7th St & Park St",
-        "36 PM\ndeparting 7th St & Park St",
-        "21 PM\ndeparting 7th St & Park St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-25T21:45:00.000Z",
-        "end": "2026-09-26T03:27:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/cline",
-      "updatedAt": "2026-09-25T21:15:01.000Z",
-      "rawHeader": "C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 4:45 PM and five other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting 7th St & Park Station at 5:36 PM\r\ndeparting 7th St & Park Station at 7:21 PM\r\ndeparting 7th St & Park Station at 8:57 PM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 4:45 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 6:30 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 8:12 PM"
-    },
-    {
-      "id": "53343",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 10: Service Canceled",
-      "summary": "Route 10 trip departing 53rd Ave NE & Petco at 5:44 PM and three other trips canceled today",
-      "affectedRoutes": [
-        "Route 10"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-25T22:44:00.000Z",
-        "end": "2026-09-26T04:00:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/10",
-      "updatedAt": "2026-09-25T22:38:12.000Z",
-      "rawHeader": "Route 10 trip departing 53rd Ave NE & Petco at 5:44 PM and three other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Leamington Ramp & Lower - Gate #7 at 6:47 PM\r\ndeparting Leamington Ramp & Lower - Gate #7 at 9:06 PM\r\n\nAffected southbound trips:\r\ndeparting 53rd Ave NE & Petco at 5:44 PM\r\ndeparting Northtown Transit Ctr Gate A at 8:04 PM"
-    },
-    {
-      "id": "53325",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 30: Service Canceled",
-      "summary": "Route 30 trip departing Westgate Station - Gate B at 1:34 PM and eight other trips canceled today",
-      "affectedRoutes": [
-        "Route 30"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing Knox Ave N & Golden Valley Rd",
-        "26 PM\ndeparting Knox Ave N & Golden Valley Rd",
-        "24 PM\ndeparting Knox Ave N & Golden Valley Rd"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-25T18:34:00.000Z",
-        "end": "2026-09-26T04:17:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-09-25T18:04:00.000Z",
-      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 1:34 PM and eight other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 2:26 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 4:24 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 6:26 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 8:25 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 1:34 PM\r\ndeparting Westgate Station - Gate B at 3:34 PM\r\ndeparting Westgate Station - Gate B at 5:34 PM\r\ndeparting Westgate Station - Gate B at 7:36 PM\r\ndeparting Westgate Station - Gate B at 9:36 PM"
-    },
-    {
-      "id": "53334",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 72: Service Canceled",
-      "summary": "Route 72 trips departing Sun Ray Transit Center & Gate D at 8:21 PM and departing Pascal St N & Central Ave W at 9:23 PM canceled today",
-      "affectedRoutes": [
-        "Route 72"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "21 PM and departing Pascal St N & Central Ave W"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-26T01:21:00.000Z",
-        "end": "2026-09-26T04:07:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-09-26T00:51:01.000Z",
-      "rawHeader": "Route 72 trips departing Sun Ray Transit Center & Gate D at 8:21 PM and departing Pascal St N & Central Ave W at 9:23 PM canceled today",
-      "rawDescription": ""
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -482,13 +368,13 @@
       "riderAlternative": "Board at: Uptown Transit Station - Gates D/E - Stop #52857 (westbound)",
       "detourDetails": "Northbound buses will travel regular route on Hennepin Ave to Lake St, right on Lake St, left on Dupont Ave, left on Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.",
       "activePeriod": {
-        "start": "2026-09-26T04:59:00.000Z",
-        "end": "2026-09-26T07:00:00.000Z"
+        "start": "2026-09-27T04:59:00.000Z",
+        "end": "2026-09-27T07:00:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-09-25T05:00:01.000Z",
+      "updatedAt": "2026-09-26T07:15:01.000Z",
       "rawHeader": "METRO E Line detoured off Hennepin Ave from 28th St to Lake St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM",
       "rawDescription": "Get on/off southbound buses at:\r\nUptown Transit Station - Gates D/E - Stop #52857 (westbound)\r\n\nNo northbound stations missed.\r\n\nNorthbound buses will travel regular route on Hennepin Ave to Lake St, right on Lake St, left on Dupont Ave, left on Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Hennepin Ave to 28th St, left on 28th St, right on Lyndale Ave, right on Lake St, right on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave and resume regular route.\r\n\nAffected stops:\r\nUptown Transit Station - Gate A - Stop #50196 (southbound)"
     },
@@ -1357,7 +1243,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-09-25T05:00:01.000Z",
+      "updatedAt": "2026-09-26T05:00:01.000Z",
       "rawHeader": "Route 3A detoured off Como Blvd from Como Ave to Maryland Ave and off Maryland Ave from Como Blvd to Dale St from 9:00 AM to 11:00 AM on Sat Sep 26 due to Como Homecoming Parade",
       "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nComo Ave & Como Place - Stop #50125 (eastbound)\r\nDale St & Maryland Ave - Stop #10711 (northbound)\r\nMaryland Ave & Mackubin St - Stop #5563 (eastbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\nMaryland Ave & Mackubin St - Stop #5587 (westbound)\r\nComo Ave & Como Place - Stop #50126 (westbound)\r\n\nEastbound 3A buses will travel regular route on Como Ave to Como Ave/Como Blvd, right on Como Ave, left on Jessamine Ave, left on Dale St, right on Maryland Ave, and resume regular route.\r\n\nWestbound 3A buses will travel regular route on Maryland Ave to Dale St, left on Dale, right on Jessamine Ave, right on Como Ave to Como Blvd, left on Como Ave, and resume regular route.\r\n\nAffected stops:\r\nComo Blvd E & Maryland Ave - Stop #5555 (northbound)\r\nMaryland Ave & Grotto St - Stop #5556 (eastbound)\r\nMaryland Ave & Dale St - Stop #5560 (eastbound)\r\nMaryland Ave & Dale St - Stop #5589 (westbound)\r\nMaryland Ave & Grotto St - Stop #5593 (westbound)\r\nMaryland Ave & Como Blvd E - Stop #5594 (westbound)"
     },
@@ -2113,8 +1999,8 @@
         "56919",
         "51212",
         "56923",
-        "73",
         "72",
+        "73",
         "66",
         "68",
         "69",
@@ -2188,10 +2074,10 @@
           "id": "56923"
         },
         {
-          "id": "73"
+          "id": "72"
         },
         {
-          "id": "72"
+          "id": "73"
         },
         {
           "id": "66"
@@ -2913,7 +2799,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/10",
-      "updatedAt": "2026-09-25T08:01:00.000Z",
+      "updatedAt": "2026-09-26T05:00:01.000Z",
       "rawHeader": "Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 8th St to 12th St from Sat Sep 26 at 6:00 AM to Sun Sep 27 at 3:00 AM due to Dakota Jazz Fest",
       "rawDescription": "Get on/off northbound/eastbound buses at:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)\r\nNicollet Mall & 7th St S - Stop #17994 (northbound)\r\n\nGet on/off southbound/westbound buses at:\r\nNicollet Mall & 9th St S - Stop #17982 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17986 (southbound)\r\n\nNorthbound/eastbound buses will travel regular route on Nicollet Mall to 11th St, left on 11th St, right on LaSalle Ave, right on 8th St, left on Nicollet Mall, and resume regular route.\r\n\nSouthbound/westbound buses will travel regular route on Nicollet Mall to 9th St, right on 9th St, left on LaSalle Ave, left on 12th St, right on Nicollet Mall, and resume regular route.\r\n\nAffected stops:\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)"
     },
@@ -3105,7 +2991,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-09-25T05:00:01.000Z",
+      "updatedAt": "2026-09-26T05:00:01.000Z",
       "rawHeader": "Route 11 detoured off Nicollet Ave from 46th St to 44th St from 9:00 AM to 6:00 PM on Sat Sep 26 due to Nicollet Open Streets",
       "rawDescription": "Get on/off northbound buses at:\r\nTemporary stop on 48th St E & Nicollet Ave S (westbound)\r\nNicollet Ave S & 46th St E - Stop #1872 (northbound)\r\n46th St & I-35W - Stop #53545 (eastbound)\r\n\nGet on/off southbound buses at:\r\n46th St & I-35W - Stop #53544 (westbound)\r\nTemporary stop on 48th St E & Nicollet Ave S (westbound)\r\n\nNorthbound buses from the temporary layover will take a right on Nicollet Ave, right on 46th St, continue on 46th St to Stevens Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 46th St to Nicollet Ave, left on Nicollet Ave, left on 47th St, right on Stevens Ave, right on 48th St and layover on 48th St & Nicollet Ave.\r\n\nAffected stops:\r\nNicollet Ave S & 46th St E - Stop #51828 (northbound)\r\nNicollet Ave S & 44th St E - Stop #1874 (northbound)"
     },
@@ -3526,13 +3412,13 @@
       "riderAlternative": "Board at: Uptown Transit Station - Gate C - Stop #50160 (westbound)",
       "detourDetails": "Eastbound buses will travel regular route on Lake St to Hennepin Ave, continue on Lake St to Dupont Ave, left on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.",
       "activePeriod": {
-        "start": "2026-09-26T04:59:00.000Z",
-        "end": "2026-09-26T07:00:00.000Z"
+        "start": "2026-09-27T04:59:00.000Z",
+        "end": "2026-09-27T07:00:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-09-25T05:00:01.000Z",
+      "updatedAt": "2026-09-26T07:15:00.000Z",
       "rawHeader": "Route 17 detoured off Hennepin Ave from Lake St to 28th St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM",
       "rawDescription": "Get on/off westbound buses at:\r\nUptown Transit Station - Gate C - Stop #50160 (westbound)\r\n\nNo eastbound stops missed.\r\n\nEastbound buses will travel regular route on Lake St to Hennepin Ave, continue on Lake St to Dupont Ave, left on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.\r\n\nWestbound buses will travel regular route on Hennepin Ave to 28th St, left on 28th St, right on Lyndale Ave, right on Lake St, right on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave, right on Lagoon Ave and resume regular route.\r\n\nAffected stops:\r\nUptown Transit Station - Gate A - Stop #50196 (southbound)"
     },
@@ -4246,7 +4132,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/18",
-      "updatedAt": "2026-09-25T05:00:01.000Z",
+      "updatedAt": "2026-09-26T05:00:01.000Z",
       "rawHeader": "Route 18 detoured off Nicollet Ave from 46th St to 31st St from 9:00 AM to 6:00 PM on Sat Sep 26 due to Nicollet Open Streets",
       "rawDescription": "Get on/off northbound buses at:\r\nNicollet Ave S & 48th St E - Stop #1869 (NB)\r\nGrand Ave S & 44th St W - Stop #14882 (NB)\r\nGrand Ave S & 43rd St W - Stop #14883 (NB)\r\nGrand Ave S & 42nd St W - Stop #14884 (NB)\r\nGrand Ave S & 40th St W - Stop #14886 (NB)\r\nGrand Ave S & 39th St W - Stop #14887 (NB)\r\nGrand Ave S & 38th St W - Stop #14888 (NB)\r\nGrand Ave S & 37th St W - Stop #14889 (NB)\r\nGrand Ave S & 35th St W - Stop #14891 (NB)\r\nGrand Ave S & 34th St W - Stop #14892 (NB)\r\nGrand Ave S & 33rd St W - Stop #14893 (NB)\r\nGrand Ave S & 32nd St W - Stop #14894 (NB)\r\nGrand Ave S & 31st St W - Stop #14895 (NB)\r\n1st Ave S & 31st St / Lake St E - Stop #1888 (NB)\r\n\nGet on/off southbound buses at:\r\nBlaisdell Ave S & Lake St - Stop #14850 (SB)\r\nGrand Ave S & 31st St W - Stop #14855 (SB)\r\nGrand Ave S & 32nd St W - Stop #14856 (SB)\r\nGrand Ave S & 33rd St W - Stop #14857 (SB)\r\nGrand Ave S & 34th St W - Stop #14858 (SB)\r\nGrand Ave S & 35th St W - Stop #14859 (SB)\r\nGrand Ave S & 37th St W - Stop #14861 (SB)\r\nGrand Ave S & 38th St W - Stop #14862 (SB)\r\nGrand Ave S & 39th St W - Stop #14863 (SB)\r\nGrand Ave S & 40th St W - Stop #14864 (SB)\r\nGrand Ave S & 42nd St W - Stop #14866 (SB)\r\nGrand Ave S & 43rd St W - Stop #14867 (SB)\r\nGrand Ave S & 44th St W - Stop #14868 (SB)\r\nGrand Ave S & 46th St W - Stop #14870 (SB)\r\nNicollet Ave S & 48th St W - Stop #1229 (SB)\r\n\nNorthbound buses will travel regular route on Nicollet Ave to 46th St, left on 46th St, right on Grand Ave, right on 31st St, left on 1st Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Blaisdell Ave to 31st St, right on 31st St, left on Grand Ave, left on 46th St, right on Nicollet Ave and resume regular route.\r\n\nAffected stops:\r\nNicollet Ave S & 46th St E - Stop #1872 (NB)\r\nNicollet Ave S & 44th St E - Stop #1874 (NB)\r\nNicollet Ave S & 43rd St E - Stop #1875 (NB)\r\nNicollet Ave S & 42nd St E - Stop #1876 (NB)\r\nNicollet Ave S & 40th St E - Stop #1878 (NB)\r\nNicollet Ave S & 38th St E - Stop #1880 (NB)\r\nNicollet Ave S & 36th St E - Stop #1882 (NB)\r\nNicollet Ave S & 35th St E - Stop #1883 (NB)\r\nNicollet Ave S & 33rd St E - Stop #1885 (NB)\r\nNicollet Ave S & 32nd St E - Stop #1886 (NB)\r\nNicollet Ave S & 31st St E - Stop #1887 (NB)\r\n31st St W & Blaisdell / Nicollet - Stop #42211 (EB)\r\nNicollet Ave S & 32nd St W - Stop #1212 (SB)\r\nNicollet Ave S & 33rd St W - Stop #1214 (SB)\r\nNicollet Ave S & 35th St W - Stop #1216 (SB)\r\nNicollet Ave S & 36th St W - Stop #1217 (SB)\r\nNicollet Ave S & 38th St W - Stop #1219 (SB)\r\nNicollet Ave S & 40th St W - Stop #1221 (SB)\r\nNicollet Ave S & 42nd St W - Stop #1223 (SB)\r\nNicollet Ave S & 43rd St W - Stop #1224 (SB)\r\nNicollet Ave S & 44th St W - Stop #1225 (SB)\r\nNicollet Ave S & 46th St W - Stop #1227 (SB)"
     },
@@ -4875,7 +4761,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-09-25T05:00:01.000Z",
+      "updatedAt": "2026-09-26T05:00:01.000Z",
       "rawHeader": "Route 30 detoured off Golden Valley Rd from Knox Ave to Newton Ave from 9:00 AM to 8:00 PM on Sat Sep 26 due to Hope Rising event",
       "rawDescription": "For eastbound Route 30 get on/off buses at:\r\nGolden Valley Rd & Penn Ave N - Stop #8248 (eastbound)\r\nWest Broadway & Irving Ave N - Stop #8274 (eastbound)\r\n\nFor westbound Route 30 get on/off buses at:\r\nWest Broadway & Irving Ave N - Stop #8277 (westbound)\r\nGolden Valley Rd & Penn / Queen Ave N - Stop #40580 (westbound)\r\n\nEastbound buses will travel regular route on Golden Valley Rd to Newton Ave, left on Newtown Ave, right on West Broadway Ave, continue on West Broadway Ave to Knox Ave and resume regular route.\r\n\nWestbound buses will travel regular route on West Broadway Ave to Knox Ave, continue on West Broadway Ave to Morgan Ave, left on Morgan Ave, right on Golden Valley Rd and resume regular route.\r\n\nAffected stops:\r\nGolden Valley Rd & Morgan Ave N - Stop #52662 (eastbound)\r\nKnox Ave N & Golden Valley Rd - Stop #56471 (northbound)\r\nKnox Ave N & West Broadway - Stop #52663 (northbound)\r\nKnox Ave N & Golden Valley Rd - Stop #52661 (southbound)\r\nGolden Valley Rd & Morgan Ave N - Stop #52720 (westbound)"
     },
@@ -5182,12 +5068,12 @@
       "riderAlternative": null,
       "detourDetails": "Eastbound buses will travel regular route.",
       "activePeriod": {
-        "start": "2026-09-26T04:59:00.000Z",
-        "end": "2026-09-26T07:00:00.000Z"
+        "start": "2026-09-27T04:59:00.000Z",
+        "end": "2026-09-27T07:00:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-09-25T05:00:02.000Z",
+      "updatedAt": "2026-09-26T07:15:01.000Z",
       "rawHeader": "METRO B Line and Route 38 detoured off Lagoon Ave from Fremont Ave to Hennepin Ave until further notice every Friday and Saturday from 12:00 AM to 2:00 AM",
       "rawDescription": "No stations missed.\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on Lagoon Ave to Fremont Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave, right on Lagoon Ave and resume regular route."
     },
