@@ -1,43 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-26T18:16:53.219Z",
-    "totalAlerts": 124,
-    "criticalCount": 6,
+    "generatedAt": "2026-09-26T21:47:28.692Z",
+    "totalAlerts": 127,
+    "criticalCount": 9,
     "moderateCount": 115,
     "minorCount": 3,
-    "affectedRoutesCount": 77,
+    "affectedRoutesCount": 76,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "53369",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Green Line Bus, METRO Green Line: Eastbound 12:32 PM Trip Canceled (University Ave & Carleton St)",
-      "summary": "Eastbound Green Line Bus trip departing University Ave & Carleton St at 12:32 PM canceled today",
-      "affectedRoutes": [
-        "Green Line Bus",
-        "METRO Green Line"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-26T17:45:00.000Z",
-        "end": "2026-09-26T19:01:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/grnbus",
-      "updatedAt": "2026-09-26T17:45:31.000Z",
-      "rawHeader": "Eastbound Green Line Bus trip departing University Ave & Carleton St at 12:32 PM canceled today",
-      "rawDescription": ""
-    },
     {
       "id": "53359",
       "agency": "Metro Transit",
@@ -69,30 +42,36 @@
       "rawDescription": "Affected eastbound trips:\r\ndeparting Lake St W & France Ave S at 12:48 PM\r\ndeparting Lake St W & France Ave S at 3:45 PM\r\ndeparting Lake St W & France Ave S at 6:45 PM\r\n\nAffected westbound trips:\r\ndeparting Union Depot & Gate A1 at 11:16 AM\r\ndeparting Union Depot & Gate A1 at 2:13 PM\r\ndeparting Union Depot & Gate A1 at 5:14 PM"
     },
     {
-      "id": "53368",
+      "id": "53378",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO E Line: Service Canceled",
-      "summary": "E Line trips departing Southdale Transit Center - Gate A at 11:37 AM and departing Westgate Station - Gate A at 12:57 PM canceled today",
+      "title": "METRO B Line: Service Canceled",
+      "summary": "B Line trip departing Union Depot & Gate A1 at 4:03 PM and eleven other trips canceled today",
       "affectedRoutes": [
-        "METRO E Line"
+        "METRO B Line"
       ],
       "direction": "Both Directions",
-      "intersections": [],
+      "intersections": [
+        "departing Lake St W & France Ave S",
+        "36 PM\ndeparting Lake St W & France Ave S",
+        "46 PM\ndeparting Lake St W & France Ave S",
+        "29 PM\ndeparting Lake St W & France Ave S",
+        "44 PM\ndeparting Lake St W & France Ave S"
+      ],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-26T16:37:00.000Z",
-        "end": "2026-09-26T19:55:00.000Z"
+        "start": "2026-09-26T21:03:00.000Z",
+        "end": "2026-09-27T06:23:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-09-26T16:10:48.000Z",
-      "rawHeader": "E Line trips departing Southdale Transit Center - Gate A at 11:37 AM and departing Westgate Station - Gate A at 12:57 PM canceled today",
-      "rawDescription": ""
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-09-26T20:40:35.000Z",
+      "rawHeader": "B Line trip departing Union Depot & Gate A1 at 4:03 PM and eleven other trips canceled today",
+      "rawDescription": "Updated at 3:40 PM to cancel additional trips.\r\n\nAffected eastbound trips:\r\ndeparting Lake St W & France Ave S at 5:36 PM\r\ndeparting Lake St W & France Ave S at 5:46 PM\r\ndeparting Lake St W & France Ave S at 8:29 PM\r\ndeparting Lake St W & France Ave S at 8:44 PM\r\ndeparting Lake St W & France Ave S at 11:15 PM\r\ndeparting Lake St W & France Ave S at 11:30 PM\r\n\nAffected westbound trips:\r\ndeparting Union Depot & Gate A1 at 4:03 PM\r\ndeparting Union Depot & Gate A1 at 4:13 PM\r\ndeparting Union Depot & Gate A1 at 7:03 PM\r\ndeparting Union Depot & Gate A1 at 7:18 PM\r\ndeparting Union Depot & Gate A1 at 9:51 PM\r\ndeparting Union Depot & Gate A1 at 10:06 PM"
     },
     {
       "id": "53362",
@@ -127,26 +106,57 @@
       "rawDescription": "Affected eastbound trips:\r\ndeparting Franklin Ave W & Hennepin Ave S at 9:58 AM\r\ndeparting Franklin Ave W & Hennepin Ave S at 11:36 AM\r\ndeparting Franklin Ave W & Hennepin Ave S at 1:45 PM\r\ndeparting Franklin Ave W & Hennepin Ave S at 3:36 PM\r\n\nAffected westbound trips:\r\ndeparting Ontario St SE & Beacon St at 9:10 AM\r\ndeparting Ontario St SE & Beacon St at 10:40 AM\r\ndeparting 2nd Ave SE & 7th St SE at 12:40 PM\r\ndeparting Ontario St SE & Beacon St at 2:40 PM\r\ndeparting 2nd Ave SE & 7th St SE at 4:40 PM"
     },
     {
-      "id": "53365",
+      "id": "53379",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 10: Southbound 11:18 AM Trip Canceled (Northtown Transit Ctr Gate A)",
-      "summary": "Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 11:18 AM canceled today",
+      "title": "Route 2: Westbound 3:20 PM Trip Canceled (Ontario St SE & Beacon St)",
+      "summary": "Westbound Route 2 trip departing Ontario St SE & Beacon St at 3:20 PM canceled today",
       "affectedRoutes": [
-        "Route 10"
+        "Route 2"
       ],
-      "direction": "Southbound",
+      "direction": "Westbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
-      "activePeriod": {},
+      "activePeriod": {
+        "start": "2026-09-26T20:41:00.000Z",
+        "end": "2026-09-26T21:59:00.000Z"
+      },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/10",
-      "updatedAt": "2026-09-26T18:16:02.000Z",
-      "rawHeader": "Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 11:18 AM canceled today",
+      "url": "https://www.metrotransit.org/route/2",
+      "updatedAt": "2026-09-26T20:42:30.000Z",
+      "rawHeader": "Westbound Route 2 trip departing Ontario St SE & Beacon St at 3:20 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "53371",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 9: Service Canceled",
+      "summary": "Route 9 trips departing 46th St Station & Gate H at 2:34 PM and departing Hedberg Dr & Cedar Lake Rd/Greenbrier Rd at 4:09 PM canceled today due to traffic",
+      "affectedRoutes": [
+        "Route 9"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "34 PM and departing Hedberg Dr & Cedar Lake Rd"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-26T19:34:00.000Z",
+        "end": "2026-09-26T23:26:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/9",
+      "updatedAt": "2026-09-26T19:06:11.000Z",
+      "rawHeader": "Route 9 trips departing 46th St Station & Gate H at 2:34 PM and departing Hedberg Dr & Cedar Lake Rd/Greenbrier Rd at 4:09 PM canceled today due to traffic",
       "rawDescription": ""
     },
     {
@@ -179,6 +189,216 @@
       "updatedAt": "2026-09-26T16:38:00.000Z",
       "rawHeader": "Route 11 trip departing Nicollet Ave S & 46th St E at 12:08 PM and four other trips canceled today",
       "rawDescription": "Affected northbound trips:\r\ndeparting Nicollet Ave S & 46th St E at 12:08 PM\r\ndeparting Nicollet Ave S & 46th St E at 2:37 PM\r\ndeparting Nicollet Ave S & 46th St E at 5:08 PM\r\n\nAffected southbound trips:\r\ndeparting Columbia Heights Transit Center C at 1:27 PM\r\ndeparting Columbia Heights Transit Center C at 3:57 PM"
+    },
+    {
+      "id": "53372",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 22: 6:18 PM Trip Canceled (VA Medical Center & Visitors Entrance)",
+      "summary": "Route 22 trip departing VA Medical Center & Visitors Entrance at 6:18 PM canceled today due to traffic",
+      "affectedRoutes": [
+        "Route 22"
+      ],
+      "direction": "All",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-26T23:18:00.000Z",
+        "end": "2026-09-27T01:36:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/22",
+      "updatedAt": "2026-09-26T19:06:33.000Z",
+      "rawHeader": "Route 22 trip departing VA Medical Center & Visitors Entrance at 6:18 PM canceled today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "53380",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 74: Service Advisory",
+      "summary": "Westbound Route 74 trip departing Sun Ray Transit Center at 4:02 PM will start from 7th St & Kellogg. Previous stops missed",
+      "affectedRoutes": [
+        "Route 74"
+      ],
+      "direction": "Westbound",
+      "intersections": [
+        "02 PM will start from 7th St & Kellogg. Previous st"
+      ],
+      "closedStopIds": [
+        "11859",
+        "11861",
+        "11863",
+        "12896",
+        "12898",
+        "12900",
+        "12902",
+        "13667",
+        "13669",
+        "13798",
+        "43282",
+        "42053",
+        "3264",
+        "81105",
+        "80817",
+        "80939",
+        "80958",
+        "80959",
+        "57072",
+        "56051",
+        "56052",
+        "53948",
+        "53981",
+        "53983",
+        "49635",
+        "49637",
+        "49651",
+        "49656",
+        "49658",
+        "49660",
+        "49750",
+        "50116"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "11859"
+        },
+        {
+          "id": "11861"
+        },
+        {
+          "id": "11863"
+        },
+        {
+          "id": "12896"
+        },
+        {
+          "id": "12898"
+        },
+        {
+          "id": "12900"
+        },
+        {
+          "id": "12902"
+        },
+        {
+          "id": "13667"
+        },
+        {
+          "id": "13669"
+        },
+        {
+          "id": "13798"
+        },
+        {
+          "id": "43282"
+        },
+        {
+          "id": "42053"
+        },
+        {
+          "id": "3264"
+        },
+        {
+          "id": "81105"
+        },
+        {
+          "id": "80817"
+        },
+        {
+          "id": "80939"
+        },
+        {
+          "id": "80958"
+        },
+        {
+          "id": "80959"
+        },
+        {
+          "id": "57072"
+        },
+        {
+          "id": "56051"
+        },
+        {
+          "id": "56052"
+        },
+        {
+          "id": "53948"
+        },
+        {
+          "id": "53981"
+        },
+        {
+          "id": "53983"
+        },
+        {
+          "id": "49635"
+        },
+        {
+          "id": "49637"
+        },
+        {
+          "id": "49651"
+        },
+        {
+          "id": "49656"
+        },
+        {
+          "id": "49658"
+        },
+        {
+          "id": "49660"
+        },
+        {
+          "id": "49750"
+        },
+        {
+          "id": "50116"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-26T21:20:00.000Z",
+        "end": "2026-09-26T23:08:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/74",
+      "updatedAt": "2026-09-26T21:21:51.000Z",
+      "rawHeader": "Westbound Route 74 trip departing Sun Ray Transit Center at 4:02 PM will start from 7th St & Kellogg. Previous stops missed",
+      "rawDescription": ""
+    },
+    {
+      "id": "53374",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 724: Service Canceled",
+      "summary": "Route 724 trip departing Brooklyn Ctr Transit Ctr Gate C at 8:00 PM and three other trips canceled today due to traffic",
+      "affectedRoutes": [
+        "Route 724"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-27T01:00:00.000Z",
+        "end": "2026-09-27T03:50:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/724",
+      "updatedAt": "2026-09-26T19:07:16.000Z",
+      "rawHeader": "Route 724 trip departing Brooklyn Ctr Transit Ctr Gate C at 8:00 PM and three other trips canceled today due to traffic",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate C at 8:00 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate C at 9:00 PM\r\n\nAffected southbound trips:\r\ndeparting Starlite Transit Center & Gate A at 8:32 PM\r\ndeparting Starlite Transit Center & Gate A at 9:32 PM"
     },
     {
       "id": "52943",
@@ -2002,8 +2222,8 @@
         "56919",
         "51212",
         "56923",
-        "73",
         "72",
+        "73",
         "66",
         "68",
         "69",
@@ -2077,10 +2297,10 @@
           "id": "56923"
         },
         {
-          "id": "73"
+          "id": "72"
         },
         {
-          "id": "72"
+          "id": "73"
         },
         {
           "id": "66"

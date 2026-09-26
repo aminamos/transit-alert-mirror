@@ -4,18 +4,9 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 26 Sep 2026 18:16:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 21:47:28 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
-    <item>
-      <title>[Critical] Green Line Bus, METRO Green Line: Eastbound 12:32 PM Trip Canceled (University Ave &amp; Carleton St)</title>
-      <link>https://www.metrotransit.org/route/grnbus</link>
-      <guid isPermaLink="false">Metro Transit-53369-2026-09-26T17:45:31.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 17:45:31 GMT</pubDate>
-      <category>Critical</category>
-      <category>Green Line Bus, METRO Green Line</category>
-      <description>Eastbound Green Line Bus trip departing University Ave &amp; Carleton St at 12:32 PM canceled today</description>
-    </item>
     <item>
       <title>[Critical] METRO B Line: Service Canceled</title>
       <link>https://www.metrotransit.org/route/bline</link>
@@ -26,13 +17,13 @@
       <description>B Line trip departing Union Depot &amp; Gate A1 at 11:16 AM and five other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] METRO E Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-53368-2026-09-26T16:10:48.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 16:10:48 GMT</pubDate>
+      <title>[Critical] METRO B Line: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-53378-2026-09-26T20:40:35.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 20:40:35 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO E Line</category>
-      <description>E Line trips departing Southdale Transit Center - Gate A at 11:37 AM and departing Westgate Station - Gate A at 12:57 PM canceled today</description>
+      <category>METRO B Line</category>
+      <description>B Line trip departing Union Depot &amp; Gate A1 at 4:03 PM and eleven other trips canceled today</description>
     </item>
     <item>
       <title>[Critical] Route 2: Service Canceled</title>
@@ -44,13 +35,22 @@
       <description>Route 2 trip departing Ontario St SE &amp; Beacon St at 9:10 AM and eight other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 10: Southbound 11:18 AM Trip Canceled (Northtown Transit Ctr Gate A)</title>
-      <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-53365-2026-09-26T18:16:02.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 18:16:02 GMT</pubDate>
+      <title>[Critical] Route 2: Westbound 3:20 PM Trip Canceled (Ontario St SE &amp; Beacon St)</title>
+      <link>https://www.metrotransit.org/route/2</link>
+      <guid isPermaLink="false">Metro Transit-53379-2026-09-26T20:42:30.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 20:42:30 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 10</category>
-      <description>Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 11:18 AM canceled today</description>
+      <category>Route 2</category>
+      <description>Westbound Route 2 trip departing Ontario St SE &amp; Beacon St at 3:20 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 9: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/9</link>
+      <guid isPermaLink="false">Metro Transit-53371-2026-09-26T19:06:11.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 19:06:11 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 9</category>
+      <description>Route 9 trips departing 46th St Station &amp; Gate H at 2:34 PM and departing Hedberg Dr &amp; Cedar Lake Rd/Greenbrier Rd at 4:09 PM canceled today due to traffic</description>
     </item>
     <item>
       <title>[Critical] Route 11: Service Canceled</title>
@@ -60,6 +60,33 @@
       <category>Critical</category>
       <category>Route 11</category>
       <description>Route 11 trip departing Nicollet Ave S &amp; 46th St E at 12:08 PM and four other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 22: 6:18 PM Trip Canceled (VA Medical Center &amp; Visitors Entrance)</title>
+      <link>https://www.metrotransit.org/route/22</link>
+      <guid isPermaLink="false">Metro Transit-53372-2026-09-26T19:06:33.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 19:06:33 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 22</category>
+      <description>Route 22 trip departing VA Medical Center &amp; Visitors Entrance at 6:18 PM canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 74: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/74</link>
+      <guid isPermaLink="false">Metro Transit-53380-2026-09-26T21:21:51.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 21:21:51 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 74</category>
+      <description>Westbound Route 74 trip departing Sun Ray Transit Center at 4:02 PM will start from 7th St &amp; Kellogg. Previous stops missed</description>
+    </item>
+    <item>
+      <title>[Critical] Route 724: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/724</link>
+      <guid isPermaLink="false">Metro Transit-53374-2026-09-26T19:07:16.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 19:07:16 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 724</category>
+      <description>Route 724 trip departing Brooklyn Ctr Transit Ctr Gate C at 8:00 PM and three other trips canceled today due to traffic</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>

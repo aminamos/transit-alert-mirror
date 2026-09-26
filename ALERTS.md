@@ -2,38 +2,19 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-124-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-6-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-127-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-9-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-115-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-76-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-26T18:16:53.219Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-26T21:47:28.692Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**Green Line Bus** (1) • **METRO A Line** (1) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (4) • **METRO E Line** (4) • **METRO Gold Line** (2) • **METRO Green Line** (2) • **Route 2** (3) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (3) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (5) • **Route 9** (5) • **Route 10** (4) • **Route 11** (6) • **Route 14** (3) • **Route 17** (4) • **Route 18** (9) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO B Line** (3) • **METRO Blue Line** (1) • **METRO D Line** (4) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (4) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (3) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (5) • **Route 9** (6) • **Route 10** (3) • **Route 11** (6) • **Route 14** (3) • **Route 17** (4) • **Route 18** (9) • **Route 22** (5) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (3) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
-
-### 🚨 Green Line Bus, METRO Green Line: Eastbound 12:32 PM Trip Canceled (University Ave & Carleton St)
-
-- **Affected Routes**: `Green Line Bus` `METRO Green Line`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-
-**Summary**: Eastbound Green Line Bus trip departing University Ave & Carleton St at 12:32 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/grnbus)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Green Line Bus trip departing University Ave & Carleton St at 12:32 PM canceled today
-
-</details>
-
----
 
 ### 🚨 METRO B Line: Service Canceled
 
@@ -69,20 +50,45 @@ departing Union Depot & Gate A1 at 5:14 PM
 
 ---
 
-### 🚨 METRO E Line: Service Canceled
+### 🚨 METRO B Line: Service Canceled
 
-- **Affected Routes**: `METRO E Line`
+- **Affected Routes**: `METRO B Line`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
+- **Corridors & Intersections**: departing Lake St W & France Ave S; 36 PM
+departing Lake St W & France Ave S; 46 PM
+departing Lake St W & France Ave S; 29 PM
+departing Lake St W & France Ave S; 44 PM
+departing Lake St W & France Ave S
 
-**Summary**: E Line trips departing Southdale Transit Center - Gate A at 11:37 AM and departing Westgate Station - Gate A at 12:57 PM canceled today
+**Summary**: B Line trip departing Union Depot & Gate A1 at 4:03 PM and eleven other trips canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/eline)
+[Official Agency Advisory](https://www.metrotransit.org/route/bline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: E Line trips departing Southdale Transit Center - Gate A at 11:37 AM and departing Westgate Station - Gate A at 12:57 PM canceled today
+**Header**: B Line trip departing Union Depot & Gate A1 at 4:03 PM and eleven other trips canceled today
+
+```text
+Updated at 3:40 PM to cancel additional trips.
+
+Affected eastbound trips:
+departing Lake St W & France Ave S at 5:36 PM
+departing Lake St W & France Ave S at 5:46 PM
+departing Lake St W & France Ave S at 8:29 PM
+departing Lake St W & France Ave S at 8:44 PM
+departing Lake St W & France Ave S at 11:15 PM
+departing Lake St W & France Ave S at 11:30 PM
+
+Affected westbound trips:
+departing Union Depot & Gate A1 at 4:03 PM
+departing Union Depot & Gate A1 at 4:13 PM
+departing Union Depot & Gate A1 at 7:03 PM
+departing Union Depot & Gate A1 at 7:18 PM
+departing Union Depot & Gate A1 at 9:51 PM
+departing Union Depot & Gate A1 at 10:06 PM
+```
 
 </details>
 
@@ -126,20 +132,40 @@ departing 2nd Ave SE & 7th St SE at 4:40 PM
 
 ---
 
-### 🚨 Route 10: Southbound 11:18 AM Trip Canceled (Northtown Transit Ctr Gate A)
+### 🚨 Route 2: Westbound 3:20 PM Trip Canceled (Ontario St SE & Beacon St)
 
-- **Affected Routes**: `Route 10`
-- **Direction**: Southbound
+- **Affected Routes**: `Route 2`
+- **Direction**: Westbound
 - **Severity**: `Critical`
 
-**Summary**: Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 11:18 AM canceled today
+**Summary**: Westbound Route 2 trip departing Ontario St SE & Beacon St at 3:20 PM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/10)
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 11:18 AM canceled today
+**Header**: Westbound Route 2 trip departing Ontario St SE & Beacon St at 3:20 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 9: Service Canceled
+
+- **Affected Routes**: `Route 9`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 34 PM and departing Hedberg Dr & Cedar Lake Rd
+
+**Summary**: Route 9 trips departing 46th St Station & Gate H at 2:34 PM and departing Hedberg Dr & Cedar Lake Rd/Greenbrier Rd at 4:09 PM canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/9)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 9 trips departing 46th St Station & Gate H at 2:34 PM and departing Hedberg Dr & Cedar Lake Rd/Greenbrier Rd at 4:09 PM canceled today due to traffic
 
 </details>
 
@@ -172,6 +198,75 @@ departing Nicollet Ave S & 46th St E at 5:08 PM
 Affected southbound trips:
 departing Columbia Heights Transit Center C at 1:27 PM
 departing Columbia Heights Transit Center C at 3:57 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 22: 6:18 PM Trip Canceled (VA Medical Center & Visitors Entrance)
+
+- **Affected Routes**: `Route 22`
+- **Direction**: All
+- **Severity**: `Critical`
+
+**Summary**: Route 22 trip departing VA Medical Center & Visitors Entrance at 6:18 PM canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/22)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 22 trip departing VA Medical Center & Visitors Entrance at 6:18 PM canceled today due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 74: Service Advisory
+
+- **Affected Routes**: `Route 74`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 02 PM will start from 7th St & Kellogg. Previous st
+- **Closed Stops**: Stop #11859, Stop #11861, Stop #11863, Stop #12896, Stop #12898, Stop #12900, Stop #12902, Stop #13667 *(+24 more)*
+
+**Summary**: Westbound Route 74 trip departing Sun Ray Transit Center at 4:02 PM will start from 7th St & Kellogg. Previous stops missed
+
+[Official Agency Advisory](https://www.metrotransit.org/route/74)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 74 trip departing Sun Ray Transit Center at 4:02 PM will start from 7th St & Kellogg. Previous stops missed
+
+</details>
+
+---
+
+### 🚨 Route 724: Service Canceled
+
+- **Affected Routes**: `Route 724`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 724 trip departing Brooklyn Ctr Transit Ctr Gate C at 8:00 PM and three other trips canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/724)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 724 trip departing Brooklyn Ctr Transit Ctr Gate C at 8:00 PM and three other trips canceled today due to traffic
+
+```text
+Affected northbound trips:
+departing Brooklyn Ctr Transit Ctr Gate C at 8:00 PM
+departing Brooklyn Ctr Transit Ctr Gate C at 9:00 PM
+
+Affected southbound trips:
+departing Starlite Transit Center & Gate A at 8:32 PM
+departing Starlite Transit Center & Gate A at 9:32 PM
 ```
 
 </details>
