@@ -4,18 +4,9 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 27 Sep 2026 00:11:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 06:09:47 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
-    <item>
-      <title>[Critical] METRO B Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/bline</link>
-      <guid isPermaLink="false">Metro Transit-53359-2026-09-26T15:46:01.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 15:46:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO B Line</category>
-      <description>B Line trip departing Union Depot &amp; Gate A1 at 11:16 AM and five other trips canceled today</description>
-    </item>
     <item>
       <title>[Critical] METRO B Line: Service Canceled</title>
       <link>https://www.metrotransit.org/route/bline</link>
@@ -35,24 +26,6 @@
       <description>B Line trip departing Lake St W &amp; France Ave S at 5:36 PM and nine other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 22: 6:18 PM Trip Canceled (VA Medical Center &amp; Visitors Entrance)</title>
-      <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-53372-2026-09-26T22:48:01.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 22:48:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 22</category>
-      <description>Route 22 trip departing VA Medical Center &amp; Visitors Entrance at 6:18 PM canceled today due to traffic</description>
-    </item>
-    <item>
-      <title>[Critical] Route 724: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/724</link>
-      <guid isPermaLink="false">Metro Transit-53374-2026-09-26T19:07:16.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 19:07:16 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 724</category>
-      <description>Route 724 trip departing Brooklyn Ctr Transit Ctr Gate C at 8:00 PM and three other trips canceled today due to traffic</description>
-    </item>
-    <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
       <guid isPermaLink="false">Metro Transit-52943-2026-09-21T07:30:01.000Z</guid>
@@ -69,6 +42,15 @@
       <category>Moderate</category>
       <category>METRO Blue Line</category>
       <description>Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues</description>
+    </item>
+    <item>
+      <title>[Moderate] METRO Blue Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/blue</link>
+      <guid isPermaLink="false">Metro Transit-53393-2026-09-27T05:32:57.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 05:32:57 GMT</pubDate>
+      <category>Moderate</category>
+      <category>METRO Blue Line</category>
+      <description>Buses replacing Blue Line between Target Field Station Platform 2 and Mall of America Station</description>
     </item>
     <item>
       <title>[Moderate] METRO D Line: Detour via Chicago Ave &amp; 56th St</title>
@@ -111,8 +93,8 @@
 
 Affected st</title>
       <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-52591-2026-09-26T07:15:01.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 07:15:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52591-2026-09-27T04:29:01.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 04:29:01 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO E Line</category>
       <description>METRO E Line detoured off Hennepin Ave from 28th St to Lake St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM. Board at: Uptown Transit Station - Gates D/E - Stop #52857 (westbound). | Action: Board at: Uptown Transit Station - Gates D/E - Stop #52857 (westbound)</description>
@@ -147,8 +129,8 @@ Affected st</title>
     <item>
       <title>[Moderate] METRO Green Line, Route 94: Service Advisory</title>
       <link>https://www.metrotransit.org/closure</link>
-      <guid isPermaLink="false">Metro Transit-53009-2026-09-25T07:30:02.000Z</guid>
-      <pubDate>Fri, 25 Sep 2026 07:30:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53009-2026-09-27T05:00:02.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO Green Line, Route 94</category>
       <description>Buses will replace METRO Green Line trains between Union Depot and Raymond Ave. stations starting with first trains on Friday, Sept. 25 until Monday, Sept. 28 at first trains.</description>
@@ -228,8 +210,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 5: Stop Closed at Chicago Ave S &amp; 8th St S</title>
       <link>https://www.metrotransit.org/route/5</link>
-      <guid isPermaLink="false">Metro Transit-53284-2026-09-24T14:09:20.000Z</guid>
-      <pubDate>Thu, 24 Sep 2026 14:09:20 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53284-2026-09-27T05:00:02.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 5</category>
       <description>Chicago Ave S &amp; 8th St S - Stop #819 (northbound) is closed for Route 5 beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Chicago &amp; 14th St Station - Stop #56929 (northbound); 7th St &amp; Park Station - Stop #17897 (westbound). | Action: Board at: Chicago &amp; 14th St Station - Stop #56929 (northbound); 7th St &amp; Park Station - Stop #17897 (westbound)</description>
@@ -309,8 +291,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 9: Stop Closed at 25th St E &amp; 33rd Ave S</title>
       <link>https://www.metrotransit.org/route/9</link>
-      <guid isPermaLink="false">Metro Transit-53150-2026-09-22T13:38:00.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 13:38:00 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53150-2026-09-27T05:00:02.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 9</category>
       <description>25th St E &amp; 33rd Ave S - Stop #16457 (eastbound) and 25th St E &amp; 33rd Ave S - Stop #17597 (westbound) are closed for Route 9 beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: 25th St E &amp; 31st Ave S - Stop #16455 (eastbound); 25th St E &amp; 35th Ave S - Stop #16459 (eastbound). | Action: Board at: 25th St E &amp; 31st Ave S - Stop #16455 (eastbound); 25th St E &amp; 35th Ave S - Stop #16459 (eastbound)</description>
@@ -336,8 +318,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Nicollet Mall (10th St to 11th St)</title>
       <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-53317-2026-09-25T13:30:27.000Z</guid>
-      <pubDate>Fri, 25 Sep 2026 13:30:27 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53317-2026-09-27T05:00:01.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 10, Route 11, Route 17, Route 18, Route 25</category>
       <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 10th St to 11th St beginning Mon Sep 28 at 7:00 AM until further notice due to utility work. Board at: Nicollet Mall &amp; 9th St S - Stop #17982 (southbound); Nicollet Mall &amp; Alice Rainville Place - Stop #17986 (southbound). | Action: Board at: Nicollet Mall &amp; 9th St S - Stop #17982 (southbound); Nicollet Mall &amp; Alice Rainville Place - Stop #17986 (southbound)</description>
@@ -354,8 +336,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 11, Route 32: Stop Closed at Lowry Ave NE &amp; Grand St N</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-53291-2026-09-24T16:07:45.000Z</guid>
-      <pubDate>Thu, 24 Sep 2026 16:07:45 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53291-2026-09-27T05:00:02.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 11, Route 32</category>
       <description>Lowry Ave NE &amp; Grand St NE - Stop #12797 (westbound) and Lowry Ave NE &amp; Grand St NE - Stop #12798 (eastbound) are closed for Routes 11 and 32 beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Lowry Ave NE &amp; 2nd St / 1st St NE - Stop #42202 (westbound); Grand St NE &amp; 26th Ave NE - Stop #14640 (northbound). | Action: Board at: Lowry Ave NE &amp; 2nd St / 1st St NE - Stop #42202 (westbound); Grand St NE &amp; 26th Ave NE - Stop #14640 (northbound)</description>
@@ -392,8 +374,8 @@ Affected st</title>
 
 Affected st</title>
       <link>https://www.metrotransit.org/route/17</link>
-      <guid isPermaLink="false">Metro Transit-52585-2026-09-26T07:15:00.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 07:15:00 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52585-2026-09-27T04:29:01.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 04:29:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 17</category>
       <description>Route 17 detoured off Hennepin Ave from Lake St to 28th St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM. Board at: Uptown Transit Station - Gate C - Stop #50160 (westbound). | Action: Board at: Uptown Transit Station - Gate C - Stop #50160 (westbound)</description>
@@ -516,15 +498,6 @@ Affected st</title>
       <description>Route 27 detoured off 26th St/28th St from Bloomington Ave to Cedar Ave and off Cedar Ave from 26th St to Lake St beginning Mon Sep 14 until further notice due to construction. Board at: 28th St E &amp; Bloomington Ave S - Stop #43016 (eastbound); Lake &amp; Cedar Station - Stop #51579 (eastbound). | Action: Board at: 28th St E &amp; Bloomington Ave S - Stop #43016 (eastbound); Lake &amp; Cedar Station - Stop #51579 (eastbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 30: Detour via Golden Valley Rd &amp; Penn Ave N</title>
-      <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-53144-2026-09-26T13:30:01.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 13:30:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 30</category>
-      <description>Route 30 detoured off Golden Valley Rd from Knox Ave to Newton Ave from 9:00 AM to 8:00 PM on Sat Sep 26 due to Hope Rising event. Board at: Golden Valley Rd &amp; Penn Ave N - Stop #8248 (eastbound); West Broadway &amp; Irving Ave N - Stop #8274 (eastbound). | Action: Board at: Golden Valley Rd &amp; Penn Ave N - Stop #8248 (eastbound); West Broadway &amp; Irving Ave N - Stop #8274 (eastbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 36, Route 538, Route 578: Stop Closed at York Ave S &amp; Hazelton Rd</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
       <guid isPermaLink="false">Metro Transit-42305-2025-12-15T14:06:01.000Z</guid>
@@ -563,8 +536,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 38, METRO B Line: Detour via Lagoon Ave (Fremont Ave to Hennepin Ave)</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-52592-2026-09-26T07:15:01.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 07:15:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52592-2026-09-27T04:29:01.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 04:29:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 38, METRO B Line</category>
       <description>METRO B Line and Route 38 detoured off Lagoon Ave from Fremont Ave to Hennepin Ave until further notice every Friday and Saturday from 12:00 AM to 2:00 AM</description>
@@ -1013,8 +986,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 724: Stop Closed at Xylon Ave N &amp; Zealand Ave N</title>
       <link>https://www.metrotransit.org/route/724</link>
-      <guid isPermaLink="false">Metro Transit-53305-2026-09-24T21:17:41.000Z</guid>
-      <pubDate>Thu, 24 Sep 2026 21:17:41 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53305-2026-09-27T05:00:02.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 724</category>
       <description>Xylon Ave N &amp; Zealand Ave N - Stop #49376 (southbound) is closed for Route 724 beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Xylon Ave N &amp; 89th Ave N - Stop #49375 (southbound); Xylon Ave N &amp; Xylon Court - Stop #49377 (southbound). | Action: Board at: Xylon Ave N &amp; 89th Ave N - Stop #49375 (southbound); Xylon Ave N &amp; Xylon Court - Stop #49377 (southbound)</description>

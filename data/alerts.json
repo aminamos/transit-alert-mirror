@@ -1,46 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-27T00:11:27.700Z",
-    "totalAlerts": 120,
-    "criticalCount": 5,
+    "generatedAt": "2026-09-27T06:09:47.268Z",
+    "totalAlerts": 117,
+    "criticalCount": 2,
     "moderateCount": 112,
     "minorCount": 3,
-    "affectedRoutesCount": 76,
+    "affectedRoutesCount": 75,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "53359",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO B Line: Service Canceled",
-      "summary": "B Line trip departing Union Depot & Gate A1 at 11:16 AM and five other trips canceled today",
-      "affectedRoutes": [
-        "METRO B Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing Lake St W & France Ave S",
-        "48 PM\ndeparting Lake St W & France Ave S",
-        "45 PM\ndeparting Lake St W & France Ave S"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-26T16:16:00.000Z",
-        "end": "2026-09-27T01:48:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-09-26T15:46:01.000Z",
-      "rawHeader": "B Line trip departing Union Depot & Gate A1 at 11:16 AM and five other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Lake St W & France Ave S at 12:48 PM\r\ndeparting Lake St W & France Ave S at 3:45 PM\r\ndeparting Lake St W & France Ave S at 6:45 PM\r\n\nAffected westbound trips:\r\ndeparting Union Depot & Gate A1 at 11:16 AM\r\ndeparting Union Depot & Gate A1 at 2:13 PM\r\ndeparting Union Depot & Gate A1 at 5:14 PM"
-    },
     {
       "id": "53378",
       "agency": "Metro Transit",
@@ -106,58 +76,6 @@
       "rawDescription": "Affected eastbound trips:\r\ndeparting Lake St W & France Ave S at 5:36 PM\r\ndeparting Lake St W & France Ave S at 5:46 PM\r\ndeparting Lake St W & France Ave S at 8:29 PM\r\ndeparting Lake St W & France Ave S at 8:44 PM\r\ndeparting Lake St W & France Ave S at 11:15 PM\r\ndeparting Lake St W & France Ave S at 11:30 PM\r\n\nAffected westbound trips:\r\ndeparting Union Depot & Gate A1 at 7:03 PM\r\ndeparting Union Depot & Gate A1 at 7:18 PM\r\ndeparting Union Depot & Gate A1 at 9:51 PM\r\ndeparting Union Depot & Gate A1 at 10:06 PM"
     },
     {
-      "id": "53372",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 22: 6:18 PM Trip Canceled (VA Medical Center & Visitors Entrance)",
-      "summary": "Route 22 trip departing VA Medical Center & Visitors Entrance at 6:18 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 22"
-      ],
-      "direction": "All",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-26T23:18:00.000Z",
-        "end": "2026-09-27T01:36:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-09-26T22:48:01.000Z",
-      "rawHeader": "Route 22 trip departing VA Medical Center & Visitors Entrance at 6:18 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "53374",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 724: Service Canceled",
-      "summary": "Route 724 trip departing Brooklyn Ctr Transit Ctr Gate C at 8:00 PM and three other trips canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 724"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-27T01:00:00.000Z",
-        "end": "2026-09-27T03:50:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/724",
-      "updatedAt": "2026-09-26T19:07:16.000Z",
-      "rawHeader": "Route 724 trip departing Brooklyn Ctr Transit Ctr Gate C at 8:00 PM and three other trips canceled today due to traffic",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate C at 8:00 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate C at 9:00 PM\r\n\nAffected southbound trips:\r\ndeparting Starlite Transit Center & Gate A at 8:32 PM\r\ndeparting Starlite Transit Center & Gate A at 9:32 PM"
-    },
-    {
       "id": "52943",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -219,6 +137,32 @@
       "updatedAt": "2025-12-12T16:20:01.000Z",
       "rawHeader": "Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues",
       "rawDescription": "Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station."
+    },
+    {
+      "id": "53393",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "METRO Blue Line: Service Advisory",
+      "summary": "Buses replacing Blue Line between Target Field Station Platform 2 and Mall of America Station",
+      "affectedRoutes": [
+        "METRO Blue Line"
+      ],
+      "direction": "All",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-27T05:32:00.000Z",
+        "end": "2026-09-27T08:08:23.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/blue",
+      "updatedAt": "2026-09-27T05:32:57.000Z",
+      "rawHeader": "Buses replacing Blue Line between Target Field Station Platform 2 and Mall of America Station",
+      "rawDescription": "In order to reduce delays and better serve customers we are extending the replacement bus service from Target Field Station Platform 2 to Mall of America Station.\r\nWe appreciate your patience as we work to restore light rail service. Information about boarding locations for replacement bus service can be found at: https://www.metrotransit.org/routes-services/closures/#BLU."
     },
     {
       "id": "49950",
@@ -486,7 +430,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-09-26T07:15:01.000Z",
+      "updatedAt": "2026-09-27T04:29:01.000Z",
       "rawHeader": "METRO E Line detoured off Hennepin Ave from 28th St to Lake St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM",
       "rawDescription": "Get on/off southbound buses at:\r\nUptown Transit Station - Gates D/E - Stop #52857 (westbound)\r\n\nNo northbound stations missed.\r\n\nNorthbound buses will travel regular route on Hennepin Ave to Lake St, right on Lake St, left on Dupont Ave, left on Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Hennepin Ave to 28th St, left on 28th St, right on Lyndale Ave, right on Lake St, right on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave and resume regular route.\r\n\nAffected stops:\r\nUptown Transit Station - Gate A - Stop #50196 (southbound)"
     },
@@ -919,7 +863,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/closure",
-      "updatedAt": "2026-09-25T07:30:02.000Z",
+      "updatedAt": "2026-09-27T05:00:02.000Z",
       "rawHeader": "Buses will replace METRO Green Line trains between Union Depot and Raymond Ave. stations starting with first trains on Friday, Sept. 25 until Monday, Sept. 28 at first trains.",
       "rawDescription": "Starting with first trains on Friday, Sept. 25, buses will replace trains on the METRO Green Line between Raymond Ave. and Union Depot stations to allow for needed maintenance. \r\n\nPlease plan extra time for your trip. Replacement bus timing can vary and trips may take longer.\r\n\nTrain service will resume Monday, Sept. 28 with first trains. \r\n\nAlternate service also available to Snelling Ave. and downtown Minneapolis via Route 94. \r\n\nCheck out more information and replacement bus locations at metrotransit.org/closure.\r\n\n\r\nAffected stops:\r\nRaymond Ave Station (eastbound)\r\nFairview Ave Station (eastbound)\r\nSnelling Ave Station (eastbound)\r\nHamline Ave Station (eastbound)\r\nLexington Pkwy Station (eastbound)\r\nVictoria St Station (eastbound)\r\nDale St Station (eastbound)\r\nWestern Ave Station (eastbound)\r\nCapitol / Rice St Station (eastbound)\r\nRobert St Station (eastbound)\r\n10th St Station (eastbound)\r\nCentral Station (eastbound)\r\nUnion Depot Station (eastbound)\r\nUnion Depot Station (westbound)\r\nCentral Station (westbound)\r\n10th St Station (westbound)\r\nRobert St Station (westbound)\r\nCapitol / Rice St Station (westbound)\r\nWestern Ave Station (westbound)\r\nDale St Station (westbound)\r\nVictoria St Station (westbound)\r\nLexington Pkwy Station (westbound)\r\nHamline Ave Station (westbound)\r\nSnelling Ave Station (westbound)\r\nFairview Ave Station (westbound)"
     },
@@ -1979,8 +1923,8 @@
         "56919",
         "51212",
         "56923",
-        "72",
         "73",
+        "72",
         "66",
         "68",
         "69",
@@ -2054,10 +1998,10 @@
           "id": "56923"
         },
         {
-          "id": "72"
+          "id": "73"
         },
         {
-          "id": "73"
+          "id": "72"
         },
         {
           "id": "66"
@@ -2124,7 +2068,7 @@
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/5",
-      "updatedAt": "2026-09-24T14:09:20.000Z",
+      "updatedAt": "2026-09-27T05:00:02.000Z",
       "rawHeader": "Chicago Ave S & 8th St S - Stop #819 (northbound) is closed for Route 5 beginning Mon Sep 28 at 7:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nChicago & 14th St Station - Stop #56929 (northbound)\r\n7th St & Park Station - Stop #17897 (westbound)"
     },
@@ -2651,7 +2595,7 @@
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/9",
-      "updatedAt": "2026-09-22T13:38:00.000Z",
+      "updatedAt": "2026-09-27T05:00:02.000Z",
       "rawHeader": "25th St E & 33rd Ave S - Stop #16457 (eastbound) and 25th St E & 33rd Ave S - Stop #17597 (westbound) are closed for Route 9 beginning Mon Sep 28 at 7:00 AM until further notice due to construction",
       "rawDescription": "For eastbound Route 9 get on/off buses at:\r\n25th St E & 31st Ave S - Stop #16455 (eastbound)\r\n25th St E & 35th Ave S - Stop #16459 (eastbound)\r\n\nFor westbound Route 9 get on/off buses at:\r\n25th St E & 35th Ave S - Stop #17595 (westbound)\r\n25th St E & 31st Ave S - Stop #17599 (westbound)"
     },
@@ -2827,7 +2771,7 @@
       "cause": "MAINTENANCE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/10",
-      "updatedAt": "2026-09-25T13:30:27.000Z",
+      "updatedAt": "2026-09-27T05:00:01.000Z",
       "rawHeader": "Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 10th St to 11th St beginning Mon Sep 28 at 7:00 AM until further notice due to utility work",
       "rawDescription": "No northbound/eastbound stops missed.\r\n\nGet on/off southbound/westbound buses at:\r\nNicollet Mall & 9th St S - Stop #17982 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17986 (southbound)\r\n\nNorthbound/eastbound buses will travel regular route on Nicollet Mall to 11th St, left on 11th St, right on LaSalle Ave, right on 10th St, left on Nicollet Mall, and resume regular route.\r\n\nSouthbound/westbound buses will travel regular route on Nicollet Mall to 10th St, left on 10th St, right on Marquette Ave, right on 11th St, left on Nicollet Mall, and resume regular route.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)"
     },
@@ -2979,7 +2923,7 @@
       },
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-09-24T16:07:45.000Z",
+      "updatedAt": "2026-09-27T05:00:02.000Z",
       "rawHeader": "Lowry Ave NE & Grand St NE - Stop #12797 (westbound) and Lowry Ave NE & Grand St NE - Stop #12798 (eastbound) are closed for Routes 11 and 32 beginning Mon Sep 28 at 7:00 AM until further notice due to construction",
       "rawDescription": "Get on/off northbound 11 buses at:\r\nLowry Ave NE & 2nd St / 1st St NE - Stop #42202 (westbound)\r\nGrand St NE & 26th Ave NE - Stop #14640 (northbound)\r\n\nGet on/off southbound 11 buses at:\r\nGrand St NE & 26th Ave NE - Stop #14641 (southbound)\r\nLowry Ave NE & 2nd St NE - Stop #12802 (eastbound)\r\n\nGet on/off eastbound 32 buses at:\r\nLowry Ave NE & Marshall St NE - Stop #12195 (eastbound)\r\nLowry Ave NE & 2nd St NE - Stop #12802 (eastbound)\r\n\nGet on/off westbound 32 buses at:\r\nLowry Ave NE & 2nd St / 1st St NE - Stop #42202 (westbound)\r\nLowry Ave NE & Marshall St NE - Stop #12196 (westbound)"
     },
@@ -3340,7 +3284,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-09-26T07:15:00.000Z",
+      "updatedAt": "2026-09-27T04:29:01.000Z",
       "rawHeader": "Route 17 detoured off Hennepin Ave from Lake St to 28th St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM",
       "rawDescription": "Get on/off westbound buses at:\r\nUptown Transit Station - Gate C - Stop #50160 (westbound)\r\n\nNo eastbound stops missed.\r\n\nEastbound buses will travel regular route on Lake St to Hennepin Ave, continue on Lake St to Dupont Ave, left on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.\r\n\nWestbound buses will travel regular route on Hennepin Ave to 28th St, left on 28th St, right on Lyndale Ave, right on Lake St, right on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave, right on Lagoon Ave and resume regular route.\r\n\nAffected stops:\r\nUptown Transit Station - Gate A - Stop #50196 (southbound)"
     },
@@ -4326,86 +4270,6 @@
       "rawDescription": "For eastbound Route 27 get on/off buses at:\r\n28th St E & Bloomington Ave S - Stop #43016 (eastbound)\r\nLake & Cedar Station - Stop #51579 (eastbound)\r\n\nFor westbound Route 27 get on/off buses at:\r\nLake St E & 21st Ave S - Stop #16894 (westbound)\r\nLake & Cedar Station - Stop #57362 (westbound)\r\nBloomington Ave S & 28th St E - Stop #15618 (northbound)\r\n26th St E & 12th Ave S - Stop #51507 (westbound)\r\n\nEastbound buses will travel regular route on 28th St to Bloomington Ave, right on Bloomington, left on Lake St to Cedar Ave, and resume regular route.\r\n\nWestbound buses will travel regular route on Lake St to Cedar Ave, continue on Lake to Bloomington Ave, right on Bloomington, left on 26th St, and resume regular route.\r\n\nAffected stops:\r\n28th St E & Cedar Ave S - Stop #43021 (eastbound)\r\nCedar Ave S & Lake St E - Stop #15317 (northbound)\r\nCedar Ave S & 28th St E - Stop #15319 (northbound)\r\n26th St E & 18th Ave S - Stop #14340 (westbound)\r\n26th St E & Bloomington Ave S - Stop #43004 (westbound)"
     },
     {
-      "id": "53144",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 30: Detour via Golden Valley Rd & Penn Ave N",
-      "summary": "Route 30 detoured off Golden Valley Rd from Knox Ave to Newton Ave from 9:00 AM to 8:00 PM on Sat Sep 26 due to Hope Rising event. Board at: Golden Valley Rd & Penn Ave N - Stop #8248 (eastbound); West Broadway & Irving Ave N - Stop #8274 (eastbound).",
-      "affectedRoutes": [
-        "Route 30"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Golden Valley Rd & Penn Ave N",
-        "right on Golden Valley Rd & resume regular route.\n\nAffected st",
-        "Golden Valley Rd & Morgan Ave N",
-        "Knox Ave N & Golden Valley Rd",
-        "Knox Ave N & West Broadway - St"
-      ],
-      "closedStopIds": [
-        "52662",
-        "56471",
-        "52663",
-        "52661",
-        "52720",
-        "8248",
-        "8274",
-        "8277",
-        "40580"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "52662",
-          "name": "Golden Valley Rd & Morgan Ave N",
-          "direction": "eastbound"
-        },
-        {
-          "id": "56471",
-          "name": "Knox Ave N & Golden Valley Rd",
-          "direction": "northbound"
-        },
-        {
-          "id": "52663",
-          "name": "Knox Ave N & West Broadway",
-          "direction": "northbound"
-        },
-        {
-          "id": "52661",
-          "name": "Knox Ave N & Golden Valley Rd",
-          "direction": "southbound"
-        },
-        {
-          "id": "52720",
-          "name": "Golden Valley Rd & Morgan Ave N",
-          "direction": "westbound"
-        },
-        {
-          "id": "8248"
-        },
-        {
-          "id": "8274"
-        },
-        {
-          "id": "8277"
-        },
-        {
-          "id": "40580"
-        }
-      ],
-      "riderAlternative": "Board at: Golden Valley Rd & Penn Ave N - Stop #8248 (eastbound); West Broadway & Irving Ave N - Stop #8274 (eastbound)",
-      "detourDetails": "Eastbound buses will travel regular route on Golden Valley Rd to Newton Ave, left on Newtown Ave, right on West Broadway Ave, continue on West Broadway Ave to Knox Ave and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-26T14:00:00.000Z",
-        "end": "2026-09-27T01:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-09-26T13:30:01.000Z",
-      "rawHeader": "Route 30 detoured off Golden Valley Rd from Knox Ave to Newton Ave from 9:00 AM to 8:00 PM on Sat Sep 26 due to Hope Rising event",
-      "rawDescription": "For eastbound Route 30 get on/off buses at:\r\nGolden Valley Rd & Penn Ave N - Stop #8248 (eastbound)\r\nWest Broadway & Irving Ave N - Stop #8274 (eastbound)\r\n\nFor westbound Route 30 get on/off buses at:\r\nWest Broadway & Irving Ave N - Stop #8277 (westbound)\r\nGolden Valley Rd & Penn / Queen Ave N - Stop #40580 (westbound)\r\n\nEastbound buses will travel regular route on Golden Valley Rd to Newton Ave, left on Newtown Ave, right on West Broadway Ave, continue on West Broadway Ave to Knox Ave and resume regular route.\r\n\nWestbound buses will travel regular route on West Broadway Ave to Knox Ave, continue on West Broadway Ave to Morgan Ave, left on Morgan Ave, right on Golden Valley Rd and resume regular route.\r\n\nAffected stops:\r\nGolden Valley Rd & Morgan Ave N - Stop #52662 (eastbound)\r\nKnox Ave N & Golden Valley Rd - Stop #56471 (northbound)\r\nKnox Ave N & West Broadway - Stop #52663 (northbound)\r\nKnox Ave N & Golden Valley Rd - Stop #52661 (southbound)\r\nGolden Valley Rd & Morgan Ave N - Stop #52720 (westbound)"
-    },
-    {
       "id": "42305",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -4713,7 +4577,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-09-26T07:15:01.000Z",
+      "updatedAt": "2026-09-27T04:29:01.000Z",
       "rawHeader": "METRO B Line and Route 38 detoured off Lagoon Ave from Fremont Ave to Hennepin Ave until further notice every Friday and Saturday from 12:00 AM to 2:00 AM",
       "rawDescription": "No stations missed.\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on Lagoon Ave to Fremont Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave, right on Lagoon Ave and resume regular route."
     },
@@ -8539,7 +8403,7 @@
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/724",
-      "updatedAt": "2026-09-24T21:17:41.000Z",
+      "updatedAt": "2026-09-27T05:00:02.000Z",
       "rawHeader": "Xylon Ave N & Zealand Ave N - Stop #49376 (southbound) is closed for Route 724 beginning Mon Sep 28 at 7:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nXylon Ave N & 89th Ave N - Stop #49375 (southbound)\r\nXylon Ave N & Xylon Court - Stop #49377 (southbound)"
     },
