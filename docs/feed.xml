@@ -4,26 +4,71 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 27 Sep 2026 17:27:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 20:49:22 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 7: Northbound 11:09 AM Trip Canceled (Cedar Ave S &amp; Washington Ave (15th Ave))</title>
-      <link>https://www.metrotransit.org/route/7</link>
-      <guid isPermaLink="false">Metro Transit-53397-2026-09-27T16:19:51.000Z</guid>
-      <pubDate>Sun, 27 Sep 2026 16:19:51 GMT</pubDate>
+      <title>[Critical] METRO A Line: Northbound 2:45 PM Trip Canceled (46th St Station Gate A)</title>
+      <link>https://www.metrotransit.org/route/aline</link>
+      <guid isPermaLink="false">Metro Transit-53406-2026-09-27T19:57:22.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 19:57:22 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 7</category>
-      <description>Northbound Route 7 trip departing Cedar Ave S &amp; Washington Ave (15th Ave) at 11:09 AM canceled today due to police activity</description>
+      <category>METRO A Line</category>
+      <description>Northbound A Line trip departing 46th St Station Gate A at 2:45 PM canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 94: Eastbound 11:43 AM Trip Canceled (5th St Transit Center Gate B)</title>
-      <link>https://www.metrotransit.org/route/94</link>
-      <guid isPermaLink="false">Metro Transit-53398-2026-09-27T16:46:18.000Z</guid>
-      <pubDate>Sun, 27 Sep 2026 16:46:18 GMT</pubDate>
+      <title>[Critical] METRO D Line: Southbound 3:21 PM Trip Canceled (Fremont &amp; West Broadway Station)</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-53409-2026-09-27T20:28:21.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 20:28:21 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 94</category>
-      <description>Eastbound Route 94 trip departing 5th St Transit Center Gate B at 11:43 AM canceled today</description>
+      <category>METRO D Line</category>
+      <description>Southbound D Line trip departing Fremont &amp; West Broadway Station at 3:21 PM canceled today due to police activity</description>
+    </item>
+    <item>
+      <title>[Critical] Route 4, Route 4L: Southbound 3:39 PM Trip Canceled (1st St N &amp; Hennepin Ave)</title>
+      <link>https://www.metrotransit.org/route/4</link>
+      <guid isPermaLink="false">Metro Transit-53410-2026-09-27T20:39:08.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 20:39:08 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 4, Route 4L</category>
+      <description>Southbound Route 4L trip departing 1st St N &amp; Hennepin Ave at 3:39 PM canceled today due to medical emergency</description>
+    </item>
+    <item>
+      <title>[Critical] Route 9, Route 9A: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/9</link>
+      <guid isPermaLink="false">Metro Transit-53403-2026-09-27T19:01:24.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 19:01:24 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 9, Route 9A</category>
+      <description>Eastbound Route 9A trip departing Louisiana Transit Center &amp; Gate C at 1:45 PM will start from Ramp A/7th St Transit Center at 2:12 PM today. Previous stops will be missed</description>
+    </item>
+    <item>
+      <title>[Critical] Route 14: Southbound 2:44 PM Trip Canceled (West Broadway &amp; Emerson Ave N)</title>
+      <link>https://www.metrotransit.org/route/14</link>
+      <guid isPermaLink="false">Metro Transit-53405-2026-09-27T19:56:45.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 19:56:45 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 14</category>
+      <description>Southbound Route 14 trip departing West Broadway &amp; Emerson Ave N at 2:44 PM canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 539: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/539</link>
+      <guid isPermaLink="false">Metro Transit-53408-2026-09-27T20:22:42.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 20:22:42 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 539</category>
+      <description>Westbound Route 539 canceled until later today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 724: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/724</link>
+      <guid isPermaLink="false">Metro Transit-53407-2026-09-27T20:12:02.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 20:12:02 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 724</category>
+      <description>Route 724 trips departing Starlite Transit Center &amp; Gate A at 3:02 PM and departing Brooklyn Ctr Transit Ctr Gate C at 3:30 PM canceled today due to mechanical issue</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -712,6 +757,15 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 68</category>
       <description>Larpenteur Ave W &amp; Rice St - Stop #56959 (westbound) and Larpenteur Ave W &amp; Rice / Camelot St - Stop #56960 (eastbound) are closed for Route 68 until further notice due to construction. Board at: Larpenteur Ave &amp; Sylvan St - Stop #49942 (westbound); Temporary stop on Rice St just past Larpenteur Ave (northbound); Rice St &amp; McCarrons Blvd S - Stop #46708 (northbound). | Action: Board at: Larpenteur Ave &amp; Sylvan St - Stop #49942 (westbound); Temporary stop on Rice St just past Larpenteur Ave (northbound); Rice St &amp; McCarrons Blvd S - Stop #46708 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 68: Detour via Larpenteur Ave &amp; Jackson St</title>
+      <link>https://www.metrotransit.org/route/68</link>
+      <guid isPermaLink="false">Metro Transit-53404-2026-09-27T19:51:21.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 19:51:21 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 68</category>
+      <description>Southbound Route 68 detoured off Jackson St from Larpenteur Ave to Arlington Ave and off Timberlake Rd beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Larpenteur Ave &amp; Jackson St - Stop #49947 (eastbound); Temporary stop on Arlington at Klainert St (westbound); LOrient St &amp; #1301 - Stop #49948 (southbound). | Action: Board at: Larpenteur Ave &amp; Jackson St - Stop #49947 (eastbound); Temporary stop on Arlington at Klainert St (westbound); LOrient St &amp; #1301 - Stop #49948 (southbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 71, Route 71K: Detour via Little Canada Rd &amp; Centerville Rd</title>

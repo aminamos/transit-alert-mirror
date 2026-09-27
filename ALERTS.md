@@ -2,54 +2,151 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-115-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-110-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-121-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-7-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-111-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-75-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-27T17:27:07.158Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-27T20:49:22.949Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (4) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (3) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (5) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 14** (3) • **Route 17** (3) • **Route 18** (7) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (4) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (5) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (4) • **Route 4L** (2) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (4) • **Route 9** (6) • **Route 9A** (1) • **Route 10** (2) • **Route 11** (3) • **Route 14** (4) • **Route 17** (3) • **Route 18** (7) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (3) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 7: Northbound 11:09 AM Trip Canceled (Cedar Ave S & Washington Ave (15th Ave))
+### 🚨 METRO A Line: Northbound 2:45 PM Trip Canceled (46th St Station Gate A)
 
-- **Affected Routes**: `Route 7`
+- **Affected Routes**: `METRO A Line`
 - **Direction**: Northbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #19306, Stop #19307, Stop #17653, Stop #17654, Stop #17903, Stop #53292, Stop #53293, Stop #19302 *(+20 more)*
 
-**Summary**: Northbound Route 7 trip departing Cedar Ave S & Washington Ave (15th Ave) at 11:09 AM canceled today due to police activity
+**Summary**: Northbound A Line trip departing 46th St Station Gate A at 2:45 PM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/7)
+[Official Agency Advisory](https://www.metrotransit.org/route/aline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound Route 7 trip departing Cedar Ave S & Washington Ave (15th Ave) at 11:09 AM canceled today due to police activity
+**Header**: Northbound A Line trip departing 46th St Station Gate A at 2:45 PM canceled today
 
 </details>
 
 ---
 
-### 🚨 Route 94: Eastbound 11:43 AM Trip Canceled (5th St Transit Center Gate B)
+### 🚨 METRO D Line: Southbound 3:21 PM Trip Canceled (Fremont & West Broadway Station)
 
-- **Affected Routes**: `Route 94`
-- **Direction**: Eastbound
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Southbound
 - **Severity**: `Critical`
+- **Closed Stops**: Stop #431, Stop #42318, Stop #441, Stop #436, Stop #4530, Stop #56317, Stop #444, Stop #449 *(+22 more)*
 
-**Summary**: Eastbound Route 94 trip departing 5th St Transit Center Gate B at 11:43 AM canceled today
+**Summary**: Southbound D Line trip departing Fremont & West Broadway Station at 3:21 PM canceled today due to police activity
 
-[Official Agency Advisory](https://www.metrotransit.org/route/94)
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Route 94 trip departing 5th St Transit Center Gate B at 11:43 AM canceled today
+**Header**: Southbound D Line trip departing Fremont & West Broadway Station at 3:21 PM canceled today due to police activity
+
+</details>
+
+---
+
+### 🚨 Route 4, Route 4L: Southbound 3:39 PM Trip Canceled (1st St N & Hennepin Ave)
+
+- **Affected Routes**: `Route 4` `Route 4L`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Route 4L trip departing 1st St N & Hennepin Ave at 3:39 PM canceled today due to medical emergency
+
+[Official Agency Advisory](https://www.metrotransit.org/route/4)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 4L trip departing 1st St N & Hennepin Ave at 3:39 PM canceled today due to medical emergency
+
+</details>
+
+---
+
+### 🚨 Route 9, Route 9A: Service Advisory
+
+- **Affected Routes**: `Route 9` `Route 9A`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #3012, Stop #3040, Stop #3043, Stop #3044, Stop #3047, Stop #3050, Stop #3051, Stop #3052 *(+39 more)*
+
+**Summary**: Eastbound Route 9A trip departing Louisiana Transit Center & Gate C at 1:45 PM will start from Ramp A/7th St Transit Center at 2:12 PM today. Previous stops will be missed
+
+[Official Agency Advisory](https://www.metrotransit.org/route/9)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 9A trip departing Louisiana Transit Center & Gate C at 1:45 PM will start from Ramp A/7th St Transit Center at 2:12 PM today. Previous stops will be missed
+
+</details>
+
+---
+
+### 🚨 Route 14: Southbound 2:44 PM Trip Canceled (West Broadway & Emerson Ave N)
+
+- **Affected Routes**: `Route 14`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #15567, Stop #17857, Stop #17876, Stop #17881, Stop #16393, Stop #16395, Stop #16401, Stop #16406 *(+53 more)*
+
+**Summary**: Southbound Route 14 trip departing West Broadway & Emerson Ave N at 2:44 PM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/14)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 14 trip departing West Broadway & Emerson Ave N at 2:44 PM canceled today due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 Route 539: Service Canceled
+
+- **Affected Routes**: `Route 539`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 539 canceled until later today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/539)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 539 canceled until later today
+
+</details>
+
+---
+
+### 🚨 Route 724: Service Canceled
+
+- **Affected Routes**: `Route 724`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 724 trips departing Starlite Transit Center & Gate A at 3:02 PM and departing Brooklyn Ctr Transit Ctr Gate C at 3:30 PM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/724)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 724 trips departing Starlite Transit Center & Gate A at 3:02 PM and departing Brooklyn Ctr Transit Ctr Gate C at 3:30 PM canceled today due to mechanical issue
 
 </details>
 
@@ -3589,6 +3686,51 @@ For southbound Route 68 get on/off buses at:
 Rice St & McCarrons Blvd S - Stop #46696 (southbound)
 Temporary stop on Larpenteur Ave just past Camelot St (eastbound)
 Larpenteur Ave & Sylvan St - Stop #49945 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 68: Detour via Larpenteur Ave & Jackson St
+
+- **Affected Routes**: `Route 68`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Mon Sep 28 at 7:00 AM until further notice
+- **Corridors & Intersections**: Larpenteur Ave & Jackson St; Jackson St & Wheelock Pkwy; Timberlake Rd N & Klainert St; Arlington Ave E & Jackson St; Arlington Ave E & LOrient St
+- **Closed Stops**: Jackson St & Wheelock Pkwy (Stop #49677), Timberlake Rd N & #1581 (Stop #18095), Timberlake Rd & Biglow Lane (N) (Stop #18096), Timberlake Rd N & Klainert St (Stop #18098), Timberlake Rd S & #1479 (Stop #43773), Arlington Ave E & Jackson St (Stop #40095), Arlington Ave E & #179 (Stop #51606), Arlington Ave E & LOrient St (Stop #40108) *(+5 more)*
+
+**Summary**: Southbound Route 68 detoured off Jackson St from Larpenteur Ave to Arlington Ave and off Timberlake Rd beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Larpenteur Ave & Jackson St - Stop #49947 (eastbound); Temporary stop on Arlington at Klainert St (westbound); LOrient St & #1301 - Stop #49948 (southbound).
+
+> 💡 **Rider Action**: Board at: Larpenteur Ave & Jackson St - Stop #49947 (eastbound); Temporary stop on Arlington at Klainert St (westbound); LOrient St & #1301 - Stop #49948 (southbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/68)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 68 detoured off Jackson St from Larpenteur Ave to Arlington Ave and off Timberlake Rd beginning Mon Sep 28 at 7:00 AM until further notice due to construction
+
+```text
+Get on/off buses at:
+Larpenteur Ave & Jackson St - Stop #49947 (eastbound)
+Temporary stop on Arlington at Klainert St (westbound)
+LOrient St & #1301 - Stop #49948 (southbound)
+
+Southbound buses that depart from Hwy 36 and Rice St Park & Ride will travel regular route on Larpenteur Ave to Jackson St, continue on Larpenteur Ave to L'orient St, right on L'orient St, right on Arlington Ave, left on L'orient St and resume regular route.
+
+Northbound buses will follow regular route.
+
+Affected stops:
+Jackson St & Wheelock Pkwy - Stop #49677 (southbound)
+Timberlake Rd N & #1581 - Stop #18095 (eastbound)
+Timberlake Rd & Biglow Lane (N) - Stop #18096 (southbound)
+Timberlake Rd N & Klainert St - Stop #18098 (southbound)
+Timberlake Rd S & #1479 - Stop #43773 (westbound)
+Arlington Ave E & Jackson St - Stop #40095 (eastbound)
+Arlington Ave E & #179 - Stop #51606 (eastbound)
+Arlington Ave E & LOrient St - Stop #40108 (eastbound)
 ```
 
 </details>
