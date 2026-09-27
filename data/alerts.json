@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-26T21:47:28.692Z",
-    "totalAlerts": 127,
-    "criticalCount": 9,
-    "moderateCount": 115,
+    "generatedAt": "2026-09-27T00:11:27.700Z",
+    "totalAlerts": 120,
+    "criticalCount": 5,
+    "moderateCount": 112,
     "minorCount": 3,
     "affectedRoutesCount": 76,
     "agencies": [
@@ -74,121 +74,36 @@
       "rawDescription": "Updated at 3:40 PM to cancel additional trips.\r\n\nAffected eastbound trips:\r\ndeparting Lake St W & France Ave S at 5:36 PM\r\ndeparting Lake St W & France Ave S at 5:46 PM\r\ndeparting Lake St W & France Ave S at 8:29 PM\r\ndeparting Lake St W & France Ave S at 8:44 PM\r\ndeparting Lake St W & France Ave S at 11:15 PM\r\ndeparting Lake St W & France Ave S at 11:30 PM\r\n\nAffected westbound trips:\r\ndeparting Union Depot & Gate A1 at 4:03 PM\r\ndeparting Union Depot & Gate A1 at 4:13 PM\r\ndeparting Union Depot & Gate A1 at 7:03 PM\r\ndeparting Union Depot & Gate A1 at 7:18 PM\r\ndeparting Union Depot & Gate A1 at 9:51 PM\r\ndeparting Union Depot & Gate A1 at 10:06 PM"
     },
     {
-      "id": "53362",
+      "id": "53382",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 2: Service Canceled",
-      "summary": "Route 2 trip departing Ontario St SE & Beacon St at 9:10 AM and eight other trips canceled today",
+      "title": "METRO B Line: Service Canceled",
+      "summary": "B Line trip departing Lake St W & France Ave S at 5:36 PM and nine other trips canceled today",
       "affectedRoutes": [
-        "Route 2"
+        "METRO B Line"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "Route 2 trip departing Ontario St SE & Beacon St",
-        "departing Franklin Ave W & Hennepin Ave S",
-        "58 AM\ndeparting Franklin Ave W & Hennepin Ave S",
-        "36 AM\ndeparting Franklin Ave W & Hennepin Ave S",
-        "45 PM\ndeparting Franklin Ave W & Hennepin Ave S"
+        "B Line trip departing Lake St W & France Ave S",
+        "departing Lake St W & France Ave S",
+        "36 PM\ndeparting Lake St W & France Ave S",
+        "46 PM\ndeparting Lake St W & France Ave S",
+        "29 PM\ndeparting Lake St W & France Ave S"
       ],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-26T15:33:00.000Z",
-        "end": "2026-09-26T23:29:00.000Z"
+        "start": "2026-09-26T23:16:00.000Z",
+        "end": "2026-09-27T06:23:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-09-26T15:33:35.000Z",
-      "rawHeader": "Route 2 trip departing Ontario St SE & Beacon St at 9:10 AM and eight other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Franklin Ave W & Hennepin Ave S at 9:58 AM\r\ndeparting Franklin Ave W & Hennepin Ave S at 11:36 AM\r\ndeparting Franklin Ave W & Hennepin Ave S at 1:45 PM\r\ndeparting Franklin Ave W & Hennepin Ave S at 3:36 PM\r\n\nAffected westbound trips:\r\ndeparting Ontario St SE & Beacon St at 9:10 AM\r\ndeparting Ontario St SE & Beacon St at 10:40 AM\r\ndeparting 2nd Ave SE & 7th St SE at 12:40 PM\r\ndeparting Ontario St SE & Beacon St at 2:40 PM\r\ndeparting 2nd Ave SE & 7th St SE at 4:40 PM"
-    },
-    {
-      "id": "53379",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 2: Westbound 3:20 PM Trip Canceled (Ontario St SE & Beacon St)",
-      "summary": "Westbound Route 2 trip departing Ontario St SE & Beacon St at 3:20 PM canceled today",
-      "affectedRoutes": [
-        "Route 2"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-26T20:41:00.000Z",
-        "end": "2026-09-26T21:59:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-09-26T20:42:30.000Z",
-      "rawHeader": "Westbound Route 2 trip departing Ontario St SE & Beacon St at 3:20 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "53371",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 9: Service Canceled",
-      "summary": "Route 9 trips departing 46th St Station & Gate H at 2:34 PM and departing Hedberg Dr & Cedar Lake Rd/Greenbrier Rd at 4:09 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 9"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "34 PM and departing Hedberg Dr & Cedar Lake Rd"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-26T19:34:00.000Z",
-        "end": "2026-09-26T23:26:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/9",
-      "updatedAt": "2026-09-26T19:06:11.000Z",
-      "rawHeader": "Route 9 trips departing 46th St Station & Gate H at 2:34 PM and departing Hedberg Dr & Cedar Lake Rd/Greenbrier Rd at 4:09 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "53361",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 11: Service Canceled",
-      "summary": "Route 11 trip departing Nicollet Ave S & 46th St E at 12:08 PM and four other trips canceled today",
-      "affectedRoutes": [
-        "Route 11"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 11 trip departing Nicollet Ave S & 46th St E",
-        "departing Nicollet Ave S & 46th St E",
-        "08 PM\ndeparting Nicollet Ave S & 46th St E",
-        "37 PM\ndeparting Nicollet Ave S & 46th St E"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-26T17:08:00.000Z",
-        "end": "2026-09-27T00:05:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-09-26T16:38:00.000Z",
-      "rawHeader": "Route 11 trip departing Nicollet Ave S & 46th St E at 12:08 PM and four other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Nicollet Ave S & 46th St E at 12:08 PM\r\ndeparting Nicollet Ave S & 46th St E at 2:37 PM\r\ndeparting Nicollet Ave S & 46th St E at 5:08 PM\r\n\nAffected southbound trips:\r\ndeparting Columbia Heights Transit Center C at 1:27 PM\r\ndeparting Columbia Heights Transit Center C at 3:57 PM"
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-09-26T23:16:15.000Z",
+      "rawHeader": "B Line trip departing Lake St W & France Ave S at 5:36 PM and nine other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Lake St W & France Ave S at 5:36 PM\r\ndeparting Lake St W & France Ave S at 5:46 PM\r\ndeparting Lake St W & France Ave S at 8:29 PM\r\ndeparting Lake St W & France Ave S at 8:44 PM\r\ndeparting Lake St W & France Ave S at 11:15 PM\r\ndeparting Lake St W & France Ave S at 11:30 PM\r\n\nAffected westbound trips:\r\ndeparting Union Depot & Gate A1 at 7:03 PM\r\ndeparting Union Depot & Gate A1 at 7:18 PM\r\ndeparting Union Depot & Gate A1 at 9:51 PM\r\ndeparting Union Depot & Gate A1 at 10:06 PM"
     },
     {
       "id": "53372",
@@ -212,166 +127,8 @@
       "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-09-26T19:06:33.000Z",
+      "updatedAt": "2026-09-26T22:48:01.000Z",
       "rawHeader": "Route 22 trip departing VA Medical Center & Visitors Entrance at 6:18 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "53380",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 74: Service Advisory",
-      "summary": "Westbound Route 74 trip departing Sun Ray Transit Center at 4:02 PM will start from 7th St & Kellogg. Previous stops missed",
-      "affectedRoutes": [
-        "Route 74"
-      ],
-      "direction": "Westbound",
-      "intersections": [
-        "02 PM will start from 7th St & Kellogg. Previous st"
-      ],
-      "closedStopIds": [
-        "11859",
-        "11861",
-        "11863",
-        "12896",
-        "12898",
-        "12900",
-        "12902",
-        "13667",
-        "13669",
-        "13798",
-        "43282",
-        "42053",
-        "3264",
-        "81105",
-        "80817",
-        "80939",
-        "80958",
-        "80959",
-        "57072",
-        "56051",
-        "56052",
-        "53948",
-        "53981",
-        "53983",
-        "49635",
-        "49637",
-        "49651",
-        "49656",
-        "49658",
-        "49660",
-        "49750",
-        "50116"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "11859"
-        },
-        {
-          "id": "11861"
-        },
-        {
-          "id": "11863"
-        },
-        {
-          "id": "12896"
-        },
-        {
-          "id": "12898"
-        },
-        {
-          "id": "12900"
-        },
-        {
-          "id": "12902"
-        },
-        {
-          "id": "13667"
-        },
-        {
-          "id": "13669"
-        },
-        {
-          "id": "13798"
-        },
-        {
-          "id": "43282"
-        },
-        {
-          "id": "42053"
-        },
-        {
-          "id": "3264"
-        },
-        {
-          "id": "81105"
-        },
-        {
-          "id": "80817"
-        },
-        {
-          "id": "80939"
-        },
-        {
-          "id": "80958"
-        },
-        {
-          "id": "80959"
-        },
-        {
-          "id": "57072"
-        },
-        {
-          "id": "56051"
-        },
-        {
-          "id": "56052"
-        },
-        {
-          "id": "53948"
-        },
-        {
-          "id": "53981"
-        },
-        {
-          "id": "53983"
-        },
-        {
-          "id": "49635"
-        },
-        {
-          "id": "49637"
-        },
-        {
-          "id": "49651"
-        },
-        {
-          "id": "49656"
-        },
-        {
-          "id": "49658"
-        },
-        {
-          "id": "49660"
-        },
-        {
-          "id": "49750"
-        },
-        {
-          "id": "50116"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-26T21:20:00.000Z",
-        "end": "2026-09-26T23:08:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/74",
-      "updatedAt": "2026-09-26T21:21:51.000Z",
-      "rawHeader": "Westbound Route 74 trip departing Sun Ray Transit Center at 4:02 PM will start from 7th St & Kellogg. Previous stops missed",
       "rawDescription": ""
     },
     {
@@ -2626,66 +2383,6 @@
       "rawDescription": "For northbound Route 7 get on/off buses at:\r\n34th Ave S & 50th St E - Stop #15274 (northbound)\r\n46th St Station & Gate F - Stop #51549 (northbound)\r\n\nFor southbound Route 7 get on/off buses at:\r\n46th St Station & Gate B - Stop #51545 (northbound)\r\n34th Ave S & 51st St E - Stop #15419 (southbound)\r\n\nNorthbound buses will travel regular route on 34th Ave to 50th St, right on 50th St, left on Hiawatha Ave, left on 42nd St, left on 34th Ave, left on 46th St, eft into 46th St Station and resume regular route.\r\n\nSouthbound buses will depart 46th St Station, right on 34th Ave, right on 42nd St, right on Hiawatha Ave, right on 50th St, left on 34th Ave and resume regular route.\r\n\nAffected stops:\r\n34th Ave S & Minnehaha Pkwy - Stop #52741 (northbound)\r\n34th Ave S & 46th St E - Stop #52743 (northbound)\r\n46th St E & 34th Ave S - Stop #48897 (westbound)\r\n34th Ave S & Minnehaha Pkwy - Stop #52737 (southbound)\r\n34th Ave S & 50th St E - Stop #52739 (southbound)"
     },
     {
-      "id": "53366",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 7: Detour via Route 7 detoured off Plymouth Ave & Theodore Wirth Pkwy",
-      "summary": "Route 7 detoured off Plymouth Ave/Theodore Wirth Pkwy from Washburn Ave to Trailhead Building until 7:00 PM due to Loppet Field Day. Board at: Plymouth Ave & Washburn Ave N - Stop #17676 (westbound).",
-      "affectedRoutes": [
-        "Route 7"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 7 detoured off Plymouth Ave & Theodore Wirth Pkwy",
-        "Plymouth Ave & Washburn Ave N",
-        "Plymouth Ave & Theodore Wirth Pkwy",
-        "Plymouth Ave & Theo Wirth Pkwy",
-        "Plymouth Ave/Theodore Wirth Pkwy (Washburn Ave to Trailhead Building)"
-      ],
-      "closedStopIds": [
-        "56978",
-        "56977",
-        "17679",
-        "17676",
-        "17681"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "56978",
-          "name": "Plymouth Ave & Theodore Wirth Pkwy",
-          "direction": "westbound"
-        },
-        {
-          "id": "56977",
-          "name": "Trailhead Bldg",
-          "direction": "westbound"
-        },
-        {
-          "id": "17679",
-          "name": "Plymouth Ave & Theo Wirth Pkwy",
-          "direction": "eastbound"
-        },
-        {
-          "id": "17676"
-        },
-        {
-          "id": "17681"
-        }
-      ],
-      "riderAlternative": "Board at: Plymouth Ave & Washburn Ave N - Stop #17676 (westbound)",
-      "detourDetails": "Northbound buses will travel regular route on Plymouth Ave to Washburn Ave, right on Washburn, left on 14th Ave, left on Xerxes Ave, left on Plymouth Ave, and will layover on eastbound Plymouth Ave at Vincent Ave.",
-      "activePeriod": {
-        "start": "2026-09-26T15:48:00.000Z",
-        "end": "2026-09-27T00:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/7",
-      "updatedAt": "2026-09-26T15:48:57.000Z",
-      "rawHeader": "Route 7 detoured off Plymouth Ave/Theodore Wirth Pkwy from Washburn Ave to Trailhead Building until 7:00 PM due to Loppet Field Day",
-      "rawDescription": "For northbound Route 7 get on/off buses at:\r\nPlymouth Ave & Washburn Ave N - Stop #17676 (westbound)\r\n\nFor southbound Route 7 get on/off buses at:\r\nPlymouth Ave & Washburn Ave N - Stop #17681 (eastbound)\r\n\nNorthbound buses will travel regular route on Plymouth Ave to Washburn Ave, right on Washburn, left on 14th Ave, left on Xerxes Ave, left on Plymouth Ave, and will layover on eastbound Plymouth Ave at Vincent Ave.\r\n\nSouthbound buses will depart temporary layover on eastbound Plymouth Ave at Vincent Ave and resume regular route.\r\n\nAffected stops:\r\nPlymouth Ave & Theodore Wirth Pkwy - Stop #56978 (westbound)\r\nTrailhead Bldg - Stop #56977 (westbound)\r\nPlymouth Ave & Theo Wirth Pkwy - Stop #17679 (eastbound)"
-    },
-    {
       "id": "45065",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -3219,64 +2916,6 @@
       "updatedAt": "2026-09-03T18:11:02.000Z",
       "rawHeader": "Route 11 detoured off Main St NE from Edge Pl to 35th Ave and off 35th Ave from Main St NE to 2 1/2 St beginning Tue May 26 at 7:00 AM until further notice due to construction",
       "rawDescription": "For northbound Route 11 get on/off buses at:\r\nMain St NE & St Anthony Pkwy - Stop #14618 (northbound)\r\nTemporary stop on Main St NE just before Edge Place NE (northbound)\r\nTemporary stop on 2nd 1/2 St NE & 35th Ave NE (northbound)\r\n2nd 1/2 St NE & 36th Ave NE - Stop #14609 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\n2nd 1/2 St NE & 35th Ave NE - Stop #14611 (southbound)\r\nMain St NE & Edge Place NE - Stop #14616 (southbound)\r\n\nNorthbound buses will travel regular route on Main St NE to Edge Place, right on Edge Place, left on 2nd 1/2 St, continue on 2 1/2 St to 35th Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 2nd 1/2 St to 35th Ave, continue on 2 1/2 St to Edge Place, right on Edge Place, left on Main St NE and resume regular route.\r\n\nAffected stops:\r\nMain St NE & Edge Place NE - Stop #14617 (northbound)\r\nMain St NE & 35th Ave NE - Stop #14614 (northbound)\r\n35th Ave NE & 2nd St NE - Stop #14613 (eastbound)\r\n35th Ave NE & 2nd 1/2 St NE - Stop #14610 (eastbound)\r\n35th Ave NE & 2nd St NE - Stop #14612 (westbound)\r\n35th Ave NE & Main St NE - Stop #14615 (westbound)"
-    },
-    {
-      "id": "53224",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 11: Detour via 48th St E & Nicollet Ave S",
-      "summary": "Route 11 detoured off Nicollet Ave from 46th St to 44th St from 9:00 AM to 6:00 PM on Sat Sep 26 due to Nicollet Open Streets. Board at: Temporary stop on 48th St E & Nicollet Ave S (westbound); Nicollet Ave S & 46th St E - Stop #1872 (northbound); 46th St & I-35W - Stop #53545 (eastbound).",
-      "affectedRoutes": [
-        "Route 11"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "48th St E & Nicollet Ave S",
-        "Nicollet Ave S & 46th St E",
-        "46th St & I-35w - St",
-        "right on 48th St & 48th St",
-        "Nicollet Ave S & 44th St E"
-      ],
-      "closedStopIds": [
-        "51828",
-        "1874",
-        "1872",
-        "53545",
-        "53544"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "51828",
-          "name": "Nicollet Ave S & 46th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "1874",
-          "name": "Nicollet Ave S & 44th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "1872"
-        },
-        {
-          "id": "53545"
-        },
-        {
-          "id": "53544"
-        }
-      ],
-      "riderAlternative": "Board at: Temporary stop on 48th St E & Nicollet Ave S (westbound); Nicollet Ave S & 46th St E - Stop #1872 (northbound); 46th St & I-35W - Stop #53545 (eastbound)",
-      "detourDetails": "Southbound buses will travel regular route on 46th St to Nicollet Ave, left on Nicollet Ave, left on 47th St, right on Stevens Ave, right on 48th St and layover on 48th St & Nicollet Ave.",
-      "activePeriod": {
-        "start": "2026-09-26T14:00:00.000Z",
-        "end": "2026-09-26T23:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-09-26T13:30:01.000Z",
-      "rawHeader": "Route 11 detoured off Nicollet Ave from 46th St to 44th St from 9:00 AM to 6:00 PM on Sat Sep 26 due to Nicollet Open Streets",
-      "rawDescription": "Get on/off northbound buses at:\r\nTemporary stop on 48th St E & Nicollet Ave S (westbound)\r\nNicollet Ave S & 46th St E - Stop #1872 (northbound)\r\n46th St & I-35W - Stop #53545 (eastbound)\r\n\nGet on/off southbound buses at:\r\n46th St & I-35W - Stop #53544 (westbound)\r\nTemporary stop on 48th St E & Nicollet Ave S (westbound)\r\n\nNorthbound buses from the temporary layover will take a right on Nicollet Ave, right on 46th St, continue on 46th St to Stevens Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 46th St to Nicollet Ave, left on Nicollet Ave, left on 47th St, right on Stevens Ave, right on 48th St and layover on 48th St & Nicollet Ave.\r\n\nAffected stops:\r\nNicollet Ave S & 46th St E - Stop #51828 (northbound)\r\nNicollet Ave S & 44th St E - Stop #1874 (northbound)"
     },
     {
       "id": "53291",
@@ -4136,288 +3775,6 @@
       "updatedAt": "2026-09-23T19:59:56.000Z",
       "rawHeader": "Route 18 detoured off Nicollet Ave from 46th St to Diamond Lake Rd from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "For northbound Route 18 get on/off buses at:\r\nNicollet Ave S & 56th St E - Stop #1765 (northbound)\r\nNicollet Ave S & 44th St E - Stop #1874 (northbound)\r\n\nFor southbound Route 18 get on/off buses at:\r\nNicollet Ave S & 46th St W - Stop #1227 (southbound)\r\nNicollet Ave S & 56th St W - Stop #1339 (southbound)\r\n\nNorthbound buses will travel regular route on Nicollet to Diamond Lake Rd, right on Diamond Lake Rd, left onto I-35W northbound, exit at 46th St, left on 46th St, right on Nicollet Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Nicollet Ave to 46th St, left on 46th St, right onto I-35W southbound, exit at Diamond Lake Rd, right on Diamond Lake Rd, left on Nicollet Ave and resume regular route.\r\n\nAffected stops:\r\nDiamond Lake Rd & Nicollet Ave S - Stop #3393 (westbound)\r\nDiamond Lake Rd & Wentworth Ave - Stop #3395 (westbound)\r\nLyndale Ave S & 53rd St W - Stop #1854 (northbound)\r\nLyndale Ave S & Minnehaha Pkwy - Stop #57377 (northbound)\r\nNicollet Ave S & 50th St E - Stop #1770 (northbound)\r\nNicollet Ave S & 49th St E - Stop #1863 (northbound)\r\nNicollet Ave S & 48th St E - Stop #1869 (northbound)\r\nNicollet Ave S & 46th St E - Stop #1872 (northbound)\r\nNicollet Ave S & 48th St W - Stop #1229 (southbound)\r\nNicollet Ave S & 49th St W - Stop #1230 (southbound)\r\nNicollet Ave S & 50th St W - Stop #1231 (southbound)\r\nLyndale Ave S & Minnehaha Pkwy - Stop #135 (southbound)\r\nLyndale Ave S & 53rd St W - Stop #136 (southbound)\r\nDiamond Lake Rd & Wentworth Ave - Stop #3386 (eastbound)"
-    },
-    {
-      "id": "53225",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 18: Detour via Nicollet Ave S & 48th St E",
-      "summary": "Route 18 detoured off Nicollet Ave from 46th St to 31st St from 9:00 AM to 6:00 PM on Sat Sep 26 due to Nicollet Open Streets. Board at: Nicollet Ave S & 48th St E - Stop #1869 (Northbound); Grand Ave S & 44th St W - Stop #14882 (Northbound); Grand Ave S & 43rd St W - Stop #14883 (Northbound).",
-      "affectedRoutes": [
-        "Route 18"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Nicollet Ave S & 48th St E",
-        "Grand Ave S & 44th St W",
-        "Grand Ave S & 43rd St W",
-        "Grand Ave S & 42nd St W",
-        "Grand Ave S & 40th St W"
-      ],
-      "closedStopIds": [
-        "1872",
-        "1874",
-        "1875",
-        "1876",
-        "1878",
-        "1880",
-        "1882",
-        "1883",
-        "1885",
-        "1886",
-        "1887",
-        "42211",
-        "1212",
-        "1214",
-        "1216",
-        "1217",
-        "1219",
-        "1221",
-        "1223",
-        "1224",
-        "1225",
-        "1227",
-        "1869",
-        "14882",
-        "14883",
-        "14884",
-        "14886",
-        "14887",
-        "14888",
-        "14889",
-        "14891",
-        "14892",
-        "14893",
-        "14894",
-        "14895",
-        "1888",
-        "14850",
-        "14855",
-        "14856",
-        "14857",
-        "14858",
-        "14859",
-        "14861",
-        "14862",
-        "14863",
-        "14864",
-        "14866",
-        "14867",
-        "14868",
-        "14870",
-        "1229"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "1872",
-          "name": "Nicollet Ave S & 46th St E",
-          "direction": "Northbound"
-        },
-        {
-          "id": "1874",
-          "name": "Nicollet Ave S & 44th St E",
-          "direction": "Northbound"
-        },
-        {
-          "id": "1875",
-          "name": "Nicollet Ave S & 43rd St E",
-          "direction": "Northbound"
-        },
-        {
-          "id": "1876",
-          "name": "Nicollet Ave S & 42nd St E",
-          "direction": "Northbound"
-        },
-        {
-          "id": "1878",
-          "name": "Nicollet Ave S & 40th St E",
-          "direction": "Northbound"
-        },
-        {
-          "id": "1880",
-          "name": "Nicollet Ave S & 38th St E",
-          "direction": "Northbound"
-        },
-        {
-          "id": "1882",
-          "name": "Nicollet Ave S & 36th St E",
-          "direction": "Northbound"
-        },
-        {
-          "id": "1883",
-          "name": "Nicollet Ave S & 35th St E",
-          "direction": "Northbound"
-        },
-        {
-          "id": "1885",
-          "name": "Nicollet Ave S & 33rd St E",
-          "direction": "Northbound"
-        },
-        {
-          "id": "1886",
-          "name": "Nicollet Ave S & 32nd St E",
-          "direction": "Northbound"
-        },
-        {
-          "id": "1887",
-          "name": "Nicollet Ave S & 31st St E",
-          "direction": "Northbound"
-        },
-        {
-          "id": "42211",
-          "name": "31st St W & Blaisdell / Nicollet",
-          "direction": "Eastbound"
-        },
-        {
-          "id": "1212",
-          "name": "Nicollet Ave S & 32nd St W",
-          "direction": "Southbound"
-        },
-        {
-          "id": "1214",
-          "name": "Nicollet Ave S & 33rd St W",
-          "direction": "Southbound"
-        },
-        {
-          "id": "1216",
-          "name": "Nicollet Ave S & 35th St W",
-          "direction": "Southbound"
-        },
-        {
-          "id": "1217",
-          "name": "Nicollet Ave S & 36th St W",
-          "direction": "Southbound"
-        },
-        {
-          "id": "1219",
-          "name": "Nicollet Ave S & 38th St W",
-          "direction": "Southbound"
-        },
-        {
-          "id": "1221",
-          "name": "Nicollet Ave S & 40th St W",
-          "direction": "Southbound"
-        },
-        {
-          "id": "1223",
-          "name": "Nicollet Ave S & 42nd St W",
-          "direction": "Southbound"
-        },
-        {
-          "id": "1224",
-          "name": "Nicollet Ave S & 43rd St W",
-          "direction": "Southbound"
-        },
-        {
-          "id": "1225",
-          "name": "Nicollet Ave S & 44th St W",
-          "direction": "Southbound"
-        },
-        {
-          "id": "1227",
-          "name": "Nicollet Ave S & 46th St W",
-          "direction": "Southbound"
-        },
-        {
-          "id": "1869"
-        },
-        {
-          "id": "14882"
-        },
-        {
-          "id": "14883"
-        },
-        {
-          "id": "14884"
-        },
-        {
-          "id": "14886"
-        },
-        {
-          "id": "14887"
-        },
-        {
-          "id": "14888"
-        },
-        {
-          "id": "14889"
-        },
-        {
-          "id": "14891"
-        },
-        {
-          "id": "14892"
-        },
-        {
-          "id": "14893"
-        },
-        {
-          "id": "14894"
-        },
-        {
-          "id": "14895"
-        },
-        {
-          "id": "1888"
-        },
-        {
-          "id": "14850"
-        },
-        {
-          "id": "14855"
-        },
-        {
-          "id": "14856"
-        },
-        {
-          "id": "14857"
-        },
-        {
-          "id": "14858"
-        },
-        {
-          "id": "14859"
-        },
-        {
-          "id": "14861"
-        },
-        {
-          "id": "14862"
-        },
-        {
-          "id": "14863"
-        },
-        {
-          "id": "14864"
-        },
-        {
-          "id": "14866"
-        },
-        {
-          "id": "14867"
-        },
-        {
-          "id": "14868"
-        },
-        {
-          "id": "14870"
-        },
-        {
-          "id": "1229"
-        }
-      ],
-      "riderAlternative": "Board at: Nicollet Ave S & 48th St E - Stop #1869 (Northbound); Grand Ave S & 44th St W - Stop #14882 (Northbound); Grand Ave S & 43rd St W - Stop #14883 (Northbound)",
-      "detourDetails": "Northbound buses will travel regular route on Nicollet Ave to 46th St, left on 46th St, right on Grand Ave, right on 31st St, left on 1st Ave and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-26T14:00:00.000Z",
-        "end": "2026-09-26T23:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/18",
-      "updatedAt": "2026-09-26T13:30:01.000Z",
-      "rawHeader": "Route 18 detoured off Nicollet Ave from 46th St to 31st St from 9:00 AM to 6:00 PM on Sat Sep 26 due to Nicollet Open Streets",
-      "rawDescription": "Get on/off northbound buses at:\r\nNicollet Ave S & 48th St E - Stop #1869 (NB)\r\nGrand Ave S & 44th St W - Stop #14882 (NB)\r\nGrand Ave S & 43rd St W - Stop #14883 (NB)\r\nGrand Ave S & 42nd St W - Stop #14884 (NB)\r\nGrand Ave S & 40th St W - Stop #14886 (NB)\r\nGrand Ave S & 39th St W - Stop #14887 (NB)\r\nGrand Ave S & 38th St W - Stop #14888 (NB)\r\nGrand Ave S & 37th St W - Stop #14889 (NB)\r\nGrand Ave S & 35th St W - Stop #14891 (NB)\r\nGrand Ave S & 34th St W - Stop #14892 (NB)\r\nGrand Ave S & 33rd St W - Stop #14893 (NB)\r\nGrand Ave S & 32nd St W - Stop #14894 (NB)\r\nGrand Ave S & 31st St W - Stop #14895 (NB)\r\n1st Ave S & 31st St / Lake St E - Stop #1888 (NB)\r\n\nGet on/off southbound buses at:\r\nBlaisdell Ave S & Lake St - Stop #14850 (SB)\r\nGrand Ave S & 31st St W - Stop #14855 (SB)\r\nGrand Ave S & 32nd St W - Stop #14856 (SB)\r\nGrand Ave S & 33rd St W - Stop #14857 (SB)\r\nGrand Ave S & 34th St W - Stop #14858 (SB)\r\nGrand Ave S & 35th St W - Stop #14859 (SB)\r\nGrand Ave S & 37th St W - Stop #14861 (SB)\r\nGrand Ave S & 38th St W - Stop #14862 (SB)\r\nGrand Ave S & 39th St W - Stop #14863 (SB)\r\nGrand Ave S & 40th St W - Stop #14864 (SB)\r\nGrand Ave S & 42nd St W - Stop #14866 (SB)\r\nGrand Ave S & 43rd St W - Stop #14867 (SB)\r\nGrand Ave S & 44th St W - Stop #14868 (SB)\r\nGrand Ave S & 46th St W - Stop #14870 (SB)\r\nNicollet Ave S & 48th St W - Stop #1229 (SB)\r\n\nNorthbound buses will travel regular route on Nicollet Ave to 46th St, left on 46th St, right on Grand Ave, right on 31st St, left on 1st Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Blaisdell Ave to 31st St, right on 31st St, left on Grand Ave, left on 46th St, right on Nicollet Ave and resume regular route.\r\n\nAffected stops:\r\nNicollet Ave S & 46th St E - Stop #1872 (NB)\r\nNicollet Ave S & 44th St E - Stop #1874 (NB)\r\nNicollet Ave S & 43rd St E - Stop #1875 (NB)\r\nNicollet Ave S & 42nd St E - Stop #1876 (NB)\r\nNicollet Ave S & 40th St E - Stop #1878 (NB)\r\nNicollet Ave S & 38th St E - Stop #1880 (NB)\r\nNicollet Ave S & 36th St E - Stop #1882 (NB)\r\nNicollet Ave S & 35th St E - Stop #1883 (NB)\r\nNicollet Ave S & 33rd St E - Stop #1885 (NB)\r\nNicollet Ave S & 32nd St E - Stop #1886 (NB)\r\nNicollet Ave S & 31st St E - Stop #1887 (NB)\r\n31st St W & Blaisdell / Nicollet - Stop #42211 (EB)\r\nNicollet Ave S & 32nd St W - Stop #1212 (SB)\r\nNicollet Ave S & 33rd St W - Stop #1214 (SB)\r\nNicollet Ave S & 35th St W - Stop #1216 (SB)\r\nNicollet Ave S & 36th St W - Stop #1217 (SB)\r\nNicollet Ave S & 38th St W - Stop #1219 (SB)\r\nNicollet Ave S & 40th St W - Stop #1221 (SB)\r\nNicollet Ave S & 42nd St W - Stop #1223 (SB)\r\nNicollet Ave S & 43rd St W - Stop #1224 (SB)\r\nNicollet Ave S & 44th St W - Stop #1225 (SB)\r\nNicollet Ave S & 46th St W - Stop #1227 (SB)"
     },
     {
       "id": "53320",

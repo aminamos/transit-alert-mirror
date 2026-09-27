@@ -4,7 +4,7 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 26 Sep 2026 21:47:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 00:11:27 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
@@ -26,58 +26,22 @@
       <description>B Line trip departing Union Depot &amp; Gate A1 at 4:03 PM and eleven other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 2: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-53362-2026-09-26T15:33:35.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 15:33:35 GMT</pubDate>
+      <title>[Critical] METRO B Line: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-53382-2026-09-26T23:16:15.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 23:16:15 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 2</category>
-      <description>Route 2 trip departing Ontario St SE &amp; Beacon St at 9:10 AM and eight other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 2: Westbound 3:20 PM Trip Canceled (Ontario St SE &amp; Beacon St)</title>
-      <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-53379-2026-09-26T20:42:30.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 20:42:30 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 2</category>
-      <description>Westbound Route 2 trip departing Ontario St SE &amp; Beacon St at 3:20 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 9: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/9</link>
-      <guid isPermaLink="false">Metro Transit-53371-2026-09-26T19:06:11.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 19:06:11 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 9</category>
-      <description>Route 9 trips departing 46th St Station &amp; Gate H at 2:34 PM and departing Hedberg Dr &amp; Cedar Lake Rd/Greenbrier Rd at 4:09 PM canceled today due to traffic</description>
-    </item>
-    <item>
-      <title>[Critical] Route 11: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/11</link>
-      <guid isPermaLink="false">Metro Transit-53361-2026-09-26T16:38:00.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 16:38:00 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 11</category>
-      <description>Route 11 trip departing Nicollet Ave S &amp; 46th St E at 12:08 PM and four other trips canceled today</description>
+      <category>METRO B Line</category>
+      <description>B Line trip departing Lake St W &amp; France Ave S at 5:36 PM and nine other trips canceled today</description>
     </item>
     <item>
       <title>[Critical] Route 22: 6:18 PM Trip Canceled (VA Medical Center &amp; Visitors Entrance)</title>
       <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-53372-2026-09-26T19:06:33.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 19:06:33 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53372-2026-09-26T22:48:01.000Z</guid>
+      <pubDate>Sat, 26 Sep 2026 22:48:01 GMT</pubDate>
       <category>Critical</category>
       <category>Route 22</category>
       <description>Route 22 trip departing VA Medical Center &amp; Visitors Entrance at 6:18 PM canceled today due to traffic</description>
-    </item>
-    <item>
-      <title>[Critical] Route 74: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/74</link>
-      <guid isPermaLink="false">Metro Transit-53380-2026-09-26T21:21:51.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 21:21:51 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 74</category>
-      <description>Westbound Route 74 trip departing Sun Ray Transit Center at 4:02 PM will start from 7th St &amp; Kellogg. Previous stops missed</description>
     </item>
     <item>
       <title>[Critical] Route 724: Service Canceled</title>
@@ -307,15 +271,6 @@ Affected st</title>
       <description>Route 7 detoured off 34th Ave from 50th St to 46th St from 4:00 AM to 1:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: 34th Ave S &amp; 50th St E - Stop #15274 (northbound); 46th St Station &amp; Gate F - Stop #51549 (northbound). | Action: Board at: 34th Ave S &amp; 50th St E - Stop #15274 (northbound); 46th St Station &amp; Gate F - Stop #51549 (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 7: Detour via Route 7 detoured off Plymouth Ave &amp; Theodore Wirth Pkwy</title>
-      <link>https://www.metrotransit.org/route/7</link>
-      <guid isPermaLink="false">Metro Transit-53366-2026-09-26T15:48:57.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 15:48:57 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 7</category>
-      <description>Route 7 detoured off Plymouth Ave/Theodore Wirth Pkwy from Washburn Ave to Trailhead Building until 7:00 PM due to Loppet Field Day. Board at: Plymouth Ave &amp; Washburn Ave N - Stop #17676 (westbound). | Action: Board at: Plymouth Ave &amp; Washburn Ave N - Stop #17676 (westbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 9: Stop Closed at Cedar Lake Rd &amp; Ridge Dr</title>
       <link>https://www.metrotransit.org/route/9</link>
       <guid isPermaLink="false">Metro Transit-45065-2026-03-19T20:12:01.000Z</guid>
@@ -395,15 +350,6 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 11</category>
       <description>Route 11 detoured off Main St NE from Edge Pl to 35th Ave and off 35th Ave from Main St NE to 2 1/2 St beginning Tue May 26 at 7:00 AM until further notice due to construction. Board at: Main St NE &amp; St Anthony Pkwy - Stop #14618 (northbound); Temporary stop on Main St NE just before Edge Place NE (northbound); Temporary stop on 2nd 1/2 St NE &amp; 35th Ave NE (northbound). | Action: Board at: Main St NE &amp; St Anthony Pkwy - Stop #14618 (northbound); Temporary stop on Main St NE just before Edge Place NE (northbound); Temporary stop on 2nd 1/2 St NE &amp; 35th Ave NE (northbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 11: Detour via 48th St E &amp; Nicollet Ave S</title>
-      <link>https://www.metrotransit.org/route/11</link>
-      <guid isPermaLink="false">Metro Transit-53224-2026-09-26T13:30:01.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 13:30:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 11</category>
-      <description>Route 11 detoured off Nicollet Ave from 46th St to 44th St from 9:00 AM to 6:00 PM on Sat Sep 26 due to Nicollet Open Streets. Board at: Temporary stop on 48th St E &amp; Nicollet Ave S (westbound); Nicollet Ave S &amp; 46th St E - Stop #1872 (northbound); 46th St &amp; I-35W - Stop #53545 (eastbound). | Action: Board at: Temporary stop on 48th St E &amp; Nicollet Ave S (westbound); Nicollet Ave S &amp; 46th St E - Stop #1872 (northbound); 46th St &amp; I-35W - Stop #53545 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 11, Route 32: Stop Closed at Lowry Ave NE &amp; Grand St N</title>
@@ -505,15 +451,6 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 18</category>
       <description>Route 18 detoured off Nicollet Ave from 46th St to Diamond Lake Rd from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Nicollet Ave S &amp; 56th St E - Stop #1765 (northbound); Nicollet Ave S &amp; 44th St E - Stop #1874 (northbound). | Action: Board at: Nicollet Ave S &amp; 56th St E - Stop #1765 (northbound); Nicollet Ave S &amp; 44th St E - Stop #1874 (northbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 18: Detour via Nicollet Ave S &amp; 48th St E</title>
-      <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-53225-2026-09-26T13:30:01.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 13:30:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 18</category>
-      <description>Route 18 detoured off Nicollet Ave from 46th St to 31st St from 9:00 AM to 6:00 PM on Sat Sep 26 due to Nicollet Open Streets. Board at: Nicollet Ave S &amp; 48th St E - Stop #1869 (Northbound); Grand Ave S &amp; 44th St W - Stop #14882 (Northbound); Grand Ave S &amp; 43rd St W - Stop #14883 (Northbound). | Action: Board at: Nicollet Ave S &amp; 48th St E - Stop #1869 (Northbound); Grand Ave S &amp; 44th St W - Stop #14882 (Northbound); Grand Ave S &amp; 43rd St W - Stop #14883 (Northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 18: Stop Closed at Nicollet Ave S &amp; 33rd St W</title>
