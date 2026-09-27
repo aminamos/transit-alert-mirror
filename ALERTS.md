@@ -2,98 +2,34 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-117-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-112-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-114-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-110-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-75-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-76-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-27T06:09:47.268Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-27T12:42:21.930Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO B Line** (3) • **METRO Blue Line** (2) • **METRO D Line** (4) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (3) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (4) • **Route 9** (5) • **Route 10** (3) • **Route 11** (4) • **Route 14** (3) • **Route 17** (4) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (4) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **METRO Orange Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (3) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (4) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 14** (3) • **Route 17** (3) • **Route 18** (7) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO B Line: Service Canceled
+### 🚨 METRO Orange Line: Southbound 6:33 AM Trip Canceled (Marquette Ave & 3rd St - Stop Group C)
 
-- **Affected Routes**: `METRO B Line`
-- **Direction**: Both Directions
+- **Affected Routes**: `METRO Orange Line`
+- **Direction**: Southbound
 - **Severity**: `Critical`
-- **Corridors & Intersections**: departing Lake St W & France Ave S; 36 PM
-departing Lake St W & France Ave S; 46 PM
-departing Lake St W & France Ave S; 29 PM
-departing Lake St W & France Ave S; 44 PM
-departing Lake St W & France Ave S
 
-**Summary**: B Line trip departing Union Depot & Gate A1 at 4:03 PM and eleven other trips canceled today
+**Summary**: Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 6:33 AM canceled today due to mechanical issue
 
-[Official Agency Advisory](https://www.metrotransit.org/route/bline)
+[Official Agency Advisory](https://www.metrotransit.org/route/orange)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: B Line trip departing Union Depot & Gate A1 at 4:03 PM and eleven other trips canceled today
-
-```text
-Updated at 3:40 PM to cancel additional trips.
-
-Affected eastbound trips:
-departing Lake St W & France Ave S at 5:36 PM
-departing Lake St W & France Ave S at 5:46 PM
-departing Lake St W & France Ave S at 8:29 PM
-departing Lake St W & France Ave S at 8:44 PM
-departing Lake St W & France Ave S at 11:15 PM
-departing Lake St W & France Ave S at 11:30 PM
-
-Affected westbound trips:
-departing Union Depot & Gate A1 at 4:03 PM
-departing Union Depot & Gate A1 at 4:13 PM
-departing Union Depot & Gate A1 at 7:03 PM
-departing Union Depot & Gate A1 at 7:18 PM
-departing Union Depot & Gate A1 at 9:51 PM
-departing Union Depot & Gate A1 at 10:06 PM
-```
-
-</details>
-
----
-
-### 🚨 METRO B Line: Service Canceled
-
-- **Affected Routes**: `METRO B Line`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: B Line trip departing Lake St W & France Ave S; departing Lake St W & France Ave S; 36 PM
-departing Lake St W & France Ave S; 46 PM
-departing Lake St W & France Ave S; 29 PM
-departing Lake St W & France Ave S
-
-**Summary**: B Line trip departing Lake St W & France Ave S at 5:36 PM and nine other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/bline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: B Line trip departing Lake St W & France Ave S at 5:36 PM and nine other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Lake St W & France Ave S at 5:36 PM
-departing Lake St W & France Ave S at 5:46 PM
-departing Lake St W & France Ave S at 8:29 PM
-departing Lake St W & France Ave S at 8:44 PM
-departing Lake St W & France Ave S at 11:15 PM
-departing Lake St W & France Ave S at 11:30 PM
-
-Affected westbound trips:
-departing Union Depot & Gate A1 at 7:03 PM
-departing Union Depot & Gate A1 at 7:18 PM
-departing Union Depot & Gate A1 at 9:51 PM
-departing Union Depot & Gate A1 at 10:06 PM
-```
+**Header**: Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 6:33 AM canceled today due to mechanical issue
 
 </details>
 
@@ -150,30 +86,6 @@ Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on 
 
 ```text
 Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station.
-```
-
-</details>
-
----
-
-### ⚠️ METRO Blue Line: Service Advisory
-
-- **Affected Routes**: `METRO Blue Line`
-- **Direction**: All
-- **Severity**: `Moderate`
-
-**Summary**: Buses replacing Blue Line between Target Field Station Platform 2 and Mall of America Station
-
-[Official Agency Advisory](https://www.metrotransit.org/route/blue)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Buses replacing Blue Line between Target Field Station Platform 2 and Mall of America Station
-
-```text
-In order to reduce delays and better serve customers we are extending the replacement bus service from Target Field Station Platform 2 to Mall of America Station.
-We appreciate your patience as we work to restore light rail service. Information about boarding locations for replacement bus service can be found at: https://www.metrotransit.org/routes-services/closures/#BLU.
 ```
 
 </details>
@@ -1541,48 +1453,6 @@ Affected stops:
 2nd Ave S & Convention Center - Stop #41911 (southbound)
 Grant St E & Nicollet Ave S - Stop #19327 (eastbound)
 2nd Ave S & Convention Center - Stop #19250 (northbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor
-
-- **Affected Routes**: `Route 10` `Route 11` `Route 17` `Route 18` `Route 25`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Closed Stops**: Nicollet Mall & 9th St S (Stop #17992), Nicollet Mall & 11th St S (Stop #17984), Stop #17990, Stop #17994, Stop #17982, Stop #17986
-
-**Summary**: Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 8th St to 12th St from Sat Sep 26 at 6:00 AM to Sun Sep 27 at 3:00 AM due to Dakota Jazz Fest. Board at: Nicollet Mall & 11th St S - Stop #17990 (northbound); Nicollet Mall & 7th St S - Stop #17994 (northbound).
-
-> 💡 **Rider Action**: Board at: Nicollet Mall & 11th St S - Stop #17990 (northbound); Nicollet Mall & 7th St S - Stop #17994 (northbound)
-
-> 🔄 **Detour Path**: eastbound buses will travel regular route on Nicollet Mall to 11th St, left on 11th St, right on LaSalle Ave, right on 8th St, left on Nicollet Mall, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/10)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 8th St to 12th St from Sat Sep 26 at 6:00 AM to Sun Sep 27 at 3:00 AM due to Dakota Jazz Fest
-
-```text
-Get on/off northbound/eastbound buses at:
-Nicollet Mall & 11th St S - Stop #17990 (northbound)
-Nicollet Mall & 7th St S - Stop #17994 (northbound)
-
-Get on/off southbound/westbound buses at:
-Nicollet Mall & 9th St S - Stop #17982 (southbound)
-Nicollet Mall & Alice Rainville Place - Stop #17986 (southbound)
-
-Northbound/eastbound buses will travel regular route on Nicollet Mall to 11th St, left on 11th St, right on LaSalle Ave, right on 8th St, left on Nicollet Mall, and resume regular route.
-
-Southbound/westbound buses will travel regular route on Nicollet Mall to 9th St, right on 9th St, left on LaSalle Ave, left on 12th St, right on Nicollet Mall, and resume regular route.
-
-Affected stops:
-Nicollet Mall & 9th St S - Stop #17992 (northbound)
-Nicollet Mall & 11th St S - Stop #17984 (southbound)
 ```
 
 </details>

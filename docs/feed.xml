@@ -4,26 +4,17 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 27 Sep 2026 06:09:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 12:42:21 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO B Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/bline</link>
-      <guid isPermaLink="false">Metro Transit-53378-2026-09-26T20:40:35.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 20:40:35 GMT</pubDate>
+      <title>[Critical] METRO Orange Line: Southbound 6:33 AM Trip Canceled (Marquette Ave &amp; 3rd St - Stop Group C)</title>
+      <link>https://www.metrotransit.org/route/orange</link>
+      <guid isPermaLink="false">Metro Transit-53394-2026-09-27T12:02:30.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 12:02:30 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO B Line</category>
-      <description>B Line trip departing Union Depot &amp; Gate A1 at 4:03 PM and eleven other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] METRO B Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/bline</link>
-      <guid isPermaLink="false">Metro Transit-53382-2026-09-26T23:16:15.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 23:16:15 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO B Line</category>
-      <description>B Line trip departing Lake St W &amp; France Ave S at 5:36 PM and nine other trips canceled today</description>
+      <category>METRO Orange Line</category>
+      <description>Southbound Orange Line trip departing Marquette Ave &amp; 3rd St - Stop Group C at 6:33 AM canceled today due to mechanical issue</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -42,15 +33,6 @@
       <category>Moderate</category>
       <category>METRO Blue Line</category>
       <description>Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues</description>
-    </item>
-    <item>
-      <title>[Moderate] METRO Blue Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/blue</link>
-      <guid isPermaLink="false">Metro Transit-53393-2026-09-27T05:32:57.000Z</guid>
-      <pubDate>Sun, 27 Sep 2026 05:32:57 GMT</pubDate>
-      <category>Moderate</category>
-      <category>METRO Blue Line</category>
-      <description>Buses replacing Blue Line between Target Field Station Platform 2 and Mall of America Station</description>
     </item>
     <item>
       <title>[Moderate] METRO D Line: Detour via Chicago Ave &amp; 56th St</title>
@@ -93,8 +75,8 @@
 
 Affected st</title>
       <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-52591-2026-09-27T04:29:01.000Z</guid>
-      <pubDate>Sun, 27 Sep 2026 04:29:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52591-2026-09-27T07:15:01.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 07:15:01 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO E Line</category>
       <description>METRO E Line detoured off Hennepin Ave from 28th St to Lake St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM. Board at: Uptown Transit Station - Gates D/E - Stop #52857 (westbound). | Action: Board at: Uptown Transit Station - Gates D/E - Stop #52857 (westbound)</description>
@@ -307,15 +289,6 @@ Affected st</title>
       <description>Routes 10 and 25 detoured off Grant St and 2nd Ave S from Nicollet Mall to 3rd Ave S beginning Wed Aug 12 at 4:00 AM until further notice due to construction. Board at: 3rd Ave S &amp; 11th St S - Stop #19277 (southbound); Nicollet Mall &amp; Alice Rainville Place - Stop #17988 (northbound). | Action: Board at: 3rd Ave S &amp; 11th St S - Stop #19277 (southbound); Nicollet Mall &amp; Alice Rainville Place - Stop #17988 (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor</title>
-      <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-53104-2026-09-26T10:30:01.000Z</guid>
-      <pubDate>Sat, 26 Sep 2026 10:30:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 10, Route 11, Route 17, Route 18, Route 25</category>
-      <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 8th St to 12th St from Sat Sep 26 at 6:00 AM to Sun Sep 27 at 3:00 AM due to Dakota Jazz Fest. Board at: Nicollet Mall &amp; 11th St S - Stop #17990 (northbound); Nicollet Mall &amp; 7th St S - Stop #17994 (northbound). | Action: Board at: Nicollet Mall &amp; 11th St S - Stop #17990 (northbound); Nicollet Mall &amp; 7th St S - Stop #17994 (northbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Nicollet Mall (10th St to 11th St)</title>
       <link>https://www.metrotransit.org/route/10</link>
       <guid isPermaLink="false">Metro Transit-53317-2026-09-27T05:00:01.000Z</guid>
@@ -374,8 +347,8 @@ Affected st</title>
 
 Affected st</title>
       <link>https://www.metrotransit.org/route/17</link>
-      <guid isPermaLink="false">Metro Transit-52585-2026-09-27T04:29:01.000Z</guid>
-      <pubDate>Sun, 27 Sep 2026 04:29:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52585-2026-09-27T07:15:01.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 07:15:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 17</category>
       <description>Route 17 detoured off Hennepin Ave from Lake St to 28th St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM. Board at: Uptown Transit Station - Gate C - Stop #50160 (westbound). | Action: Board at: Uptown Transit Station - Gate C - Stop #50160 (westbound)</description>
@@ -536,8 +509,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 38, METRO B Line: Detour via Lagoon Ave (Fremont Ave to Hennepin Ave)</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-52592-2026-09-27T04:29:01.000Z</guid>
-      <pubDate>Sun, 27 Sep 2026 04:29:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52592-2026-09-27T07:15:01.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 07:15:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 38, METRO B Line</category>
       <description>METRO B Line and Route 38 detoured off Lagoon Ave from Fremont Ave to Hennepin Ave until further notice every Friday and Saturday from 12:00 AM to 2:00 AM</description>

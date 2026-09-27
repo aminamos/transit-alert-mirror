@@ -1,79 +1,41 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-27T06:09:47.268Z",
-    "totalAlerts": 117,
-    "criticalCount": 2,
-    "moderateCount": 112,
+    "generatedAt": "2026-09-27T12:42:21.930Z",
+    "totalAlerts": 114,
+    "criticalCount": 1,
+    "moderateCount": 110,
     "minorCount": 3,
-    "affectedRoutesCount": 75,
+    "affectedRoutesCount": 76,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "53378",
+      "id": "53394",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO B Line: Service Canceled",
-      "summary": "B Line trip departing Union Depot & Gate A1 at 4:03 PM and eleven other trips canceled today",
+      "title": "METRO Orange Line: Southbound 6:33 AM Trip Canceled (Marquette Ave & 3rd St - Stop Group C)",
+      "summary": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 6:33 AM canceled today due to mechanical issue",
       "affectedRoutes": [
-        "METRO B Line"
+        "METRO Orange Line"
       ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing Lake St W & France Ave S",
-        "36 PM\ndeparting Lake St W & France Ave S",
-        "46 PM\ndeparting Lake St W & France Ave S",
-        "29 PM\ndeparting Lake St W & France Ave S",
-        "44 PM\ndeparting Lake St W & France Ave S"
-      ],
+      "direction": "Southbound",
+      "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-26T21:03:00.000Z",
-        "end": "2026-09-27T06:23:00.000Z"
+        "start": "2026-09-27T12:02:00.000Z",
+        "end": "2026-09-27T13:06:00.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-09-26T20:40:35.000Z",
-      "rawHeader": "B Line trip departing Union Depot & Gate A1 at 4:03 PM and eleven other trips canceled today",
-      "rawDescription": "Updated at 3:40 PM to cancel additional trips.\r\n\nAffected eastbound trips:\r\ndeparting Lake St W & France Ave S at 5:36 PM\r\ndeparting Lake St W & France Ave S at 5:46 PM\r\ndeparting Lake St W & France Ave S at 8:29 PM\r\ndeparting Lake St W & France Ave S at 8:44 PM\r\ndeparting Lake St W & France Ave S at 11:15 PM\r\ndeparting Lake St W & France Ave S at 11:30 PM\r\n\nAffected westbound trips:\r\ndeparting Union Depot & Gate A1 at 4:03 PM\r\ndeparting Union Depot & Gate A1 at 4:13 PM\r\ndeparting Union Depot & Gate A1 at 7:03 PM\r\ndeparting Union Depot & Gate A1 at 7:18 PM\r\ndeparting Union Depot & Gate A1 at 9:51 PM\r\ndeparting Union Depot & Gate A1 at 10:06 PM"
-    },
-    {
-      "id": "53382",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO B Line: Service Canceled",
-      "summary": "B Line trip departing Lake St W & France Ave S at 5:36 PM and nine other trips canceled today",
-      "affectedRoutes": [
-        "METRO B Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "B Line trip departing Lake St W & France Ave S",
-        "departing Lake St W & France Ave S",
-        "36 PM\ndeparting Lake St W & France Ave S",
-        "46 PM\ndeparting Lake St W & France Ave S",
-        "29 PM\ndeparting Lake St W & France Ave S"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-26T23:16:00.000Z",
-        "end": "2026-09-27T06:23:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-09-26T23:16:15.000Z",
-      "rawHeader": "B Line trip departing Lake St W & France Ave S at 5:36 PM and nine other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Lake St W & France Ave S at 5:36 PM\r\ndeparting Lake St W & France Ave S at 5:46 PM\r\ndeparting Lake St W & France Ave S at 8:29 PM\r\ndeparting Lake St W & France Ave S at 8:44 PM\r\ndeparting Lake St W & France Ave S at 11:15 PM\r\ndeparting Lake St W & France Ave S at 11:30 PM\r\n\nAffected westbound trips:\r\ndeparting Union Depot & Gate A1 at 7:03 PM\r\ndeparting Union Depot & Gate A1 at 7:18 PM\r\ndeparting Union Depot & Gate A1 at 9:51 PM\r\ndeparting Union Depot & Gate A1 at 10:06 PM"
+      "url": "https://www.metrotransit.org/route/orange",
+      "updatedAt": "2026-09-27T12:02:30.000Z",
+      "rawHeader": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 6:33 AM canceled today due to mechanical issue",
+      "rawDescription": ""
     },
     {
       "id": "52943",
@@ -137,32 +99,6 @@
       "updatedAt": "2025-12-12T16:20:01.000Z",
       "rawHeader": "Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues",
       "rawDescription": "Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station."
-    },
-    {
-      "id": "53393",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "METRO Blue Line: Service Advisory",
-      "summary": "Buses replacing Blue Line between Target Field Station Platform 2 and Mall of America Station",
-      "affectedRoutes": [
-        "METRO Blue Line"
-      ],
-      "direction": "All",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-27T05:32:00.000Z",
-        "end": "2026-09-27T08:08:23.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/blue",
-      "updatedAt": "2026-09-27T05:32:57.000Z",
-      "rawHeader": "Buses replacing Blue Line between Target Field Station Platform 2 and Mall of America Station",
-      "rawDescription": "In order to reduce delays and better serve customers we are extending the replacement bus service from Target Field Station Platform 2 to Mall of America Station.\r\nWe appreciate your patience as we work to restore light rail service. Information about boarding locations for replacement bus service can be found at: https://www.metrotransit.org/routes-services/closures/#BLU."
     },
     {
       "id": "49950",
@@ -424,13 +360,13 @@
       "riderAlternative": "Board at: Uptown Transit Station - Gates D/E - Stop #52857 (westbound)",
       "detourDetails": "Northbound buses will travel regular route on Hennepin Ave to Lake St, right on Lake St, left on Dupont Ave, left on Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.",
       "activePeriod": {
-        "start": "2026-09-27T04:59:00.000Z",
-        "end": "2026-09-27T07:00:00.000Z"
+        "start": "2026-10-03T04:59:00.000Z",
+        "end": "2026-10-03T07:00:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-09-27T04:29:01.000Z",
+      "updatedAt": "2026-09-27T07:15:01.000Z",
       "rawHeader": "METRO E Line detoured off Hennepin Ave from 28th St to Lake St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM",
       "rawDescription": "Get on/off southbound buses at:\r\nUptown Transit Station - Gates D/E - Stop #52857 (westbound)\r\n\nNo northbound stations missed.\r\n\nNorthbound buses will travel regular route on Hennepin Ave to Lake St, right on Lake St, left on Dupont Ave, left on Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Hennepin Ave to 28th St, left on 28th St, right on Lyndale Ave, right on Lake St, right on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave and resume regular route.\r\n\nAffected stops:\r\nUptown Transit Station - Gate A - Stop #50196 (southbound)"
     },
@@ -1923,8 +1859,8 @@
         "56919",
         "51212",
         "56923",
-        "73",
         "72",
+        "73",
         "66",
         "68",
         "69",
@@ -1998,10 +1934,10 @@
           "id": "56923"
         },
         {
-          "id": "73"
+          "id": "72"
         },
         {
-          "id": "72"
+          "id": "73"
         },
         {
           "id": "66"
@@ -2668,66 +2604,6 @@
       "rawDescription": "Get on/off northbound buses at:\r\n3rd Ave S & 11th St S - Stop #19277 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17988 (northbound)\r\n\nGet on/off southbound buses at:\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)\r\nLeamington Ramp & Lower - Gate #7 - Stop #19337\r\n\nNorthbound buses will travel regular route on 3rd Ave S to 11th St, continue on 3rd Ave to 16th St, right on 16th St which becomes 15th St, right on Nicollet Ave to Grant St, and resume regular route.\r\n\nSouthbound buses will travel regular route on Nicollet Mall to Grant St, continue on Nicollet Ave to 15th St, left on 15th St which becomes 16th St, left on 3rd Ave S, left on 11th St, and resume regular route.\r\n\nAffected stops:\r\n2nd Ave S & Convention Center - Stop #41911 (southbound)\r\nGrant St E & Nicollet Ave S - Stop #19327 (eastbound)\r\n2nd Ave S & Convention Center - Stop #19250 (northbound)"
     },
     {
-      "id": "53104",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor",
-      "summary": "Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 8th St to 12th St from Sat Sep 26 at 6:00 AM to Sun Sep 27 at 3:00 AM due to Dakota Jazz Fest. Board at: Nicollet Mall & 11th St S - Stop #17990 (northbound); Nicollet Mall & 7th St S - Stop #17994 (northbound).",
-      "affectedRoutes": [
-        "Route 10",
-        "Route 11",
-        "Route 17",
-        "Route 18",
-        "Route 25"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [
-        "17992",
-        "17984",
-        "17990",
-        "17994",
-        "17982",
-        "17986"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "17992",
-          "name": "Nicollet Mall & 9th St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "17984",
-          "name": "Nicollet Mall & 11th St S",
-          "direction": "southbound"
-        },
-        {
-          "id": "17990"
-        },
-        {
-          "id": "17994"
-        },
-        {
-          "id": "17982"
-        },
-        {
-          "id": "17986"
-        }
-      ],
-      "riderAlternative": "Board at: Nicollet Mall & 11th St S - Stop #17990 (northbound); Nicollet Mall & 7th St S - Stop #17994 (northbound)",
-      "detourDetails": "eastbound buses will travel regular route on Nicollet Mall to 11th St, left on 11th St, right on LaSalle Ave, right on 8th St, left on Nicollet Mall, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-26T11:00:00.000Z",
-        "end": "2026-09-27T08:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/10",
-      "updatedAt": "2026-09-26T10:30:01.000Z",
-      "rawHeader": "Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 8th St to 12th St from Sat Sep 26 at 6:00 AM to Sun Sep 27 at 3:00 AM due to Dakota Jazz Fest",
-      "rawDescription": "Get on/off northbound/eastbound buses at:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)\r\nNicollet Mall & 7th St S - Stop #17994 (northbound)\r\n\nGet on/off southbound/westbound buses at:\r\nNicollet Mall & 9th St S - Stop #17982 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17986 (southbound)\r\n\nNorthbound/eastbound buses will travel regular route on Nicollet Mall to 11th St, left on 11th St, right on LaSalle Ave, right on 8th St, left on Nicollet Mall, and resume regular route.\r\n\nSouthbound/westbound buses will travel regular route on Nicollet Mall to 9th St, right on 9th St, left on LaSalle Ave, left on 12th St, right on Nicollet Mall, and resume regular route.\r\n\nAffected stops:\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)"
-    },
-    {
       "id": "53317",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -3278,13 +3154,13 @@
       "riderAlternative": "Board at: Uptown Transit Station - Gate C - Stop #50160 (westbound)",
       "detourDetails": "Eastbound buses will travel regular route on Lake St to Hennepin Ave, continue on Lake St to Dupont Ave, left on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.",
       "activePeriod": {
-        "start": "2026-09-27T04:59:00.000Z",
-        "end": "2026-09-27T07:00:00.000Z"
+        "start": "2026-10-03T04:59:00.000Z",
+        "end": "2026-10-03T07:00:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-09-27T04:29:01.000Z",
+      "updatedAt": "2026-09-27T07:15:01.000Z",
       "rawHeader": "Route 17 detoured off Hennepin Ave from Lake St to 28th St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM",
       "rawDescription": "Get on/off westbound buses at:\r\nUptown Transit Station - Gate C - Stop #50160 (westbound)\r\n\nNo eastbound stops missed.\r\n\nEastbound buses will travel regular route on Lake St to Hennepin Ave, continue on Lake St to Dupont Ave, left on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.\r\n\nWestbound buses will travel regular route on Hennepin Ave to 28th St, left on 28th St, right on Lyndale Ave, right on Lake St, right on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave, right on Lagoon Ave and resume regular route.\r\n\nAffected stops:\r\nUptown Transit Station - Gate A - Stop #50196 (southbound)"
     },
@@ -4572,12 +4448,12 @@
       "riderAlternative": null,
       "detourDetails": "Eastbound buses will travel regular route.",
       "activePeriod": {
-        "start": "2026-09-27T04:59:00.000Z",
-        "end": "2026-09-27T07:00:00.000Z"
+        "start": "2026-10-03T04:59:00.000Z",
+        "end": "2026-10-03T07:00:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-09-27T04:29:01.000Z",
+      "updatedAt": "2026-09-27T07:15:01.000Z",
       "rawHeader": "METRO B Line and Route 38 detoured off Lagoon Ave from Fremont Ave to Hennepin Ave until further notice every Friday and Saturday from 12:00 AM to 2:00 AM",
       "rawDescription": "No stations missed.\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on Lagoon Ave to Fremont Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave, right on Lagoon Ave and resume regular route."
     },
