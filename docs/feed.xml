@@ -4,17 +4,26 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 27 Sep 2026 12:42:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 17:27:07 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO Orange Line: Southbound 6:33 AM Trip Canceled (Marquette Ave &amp; 3rd St - Stop Group C)</title>
-      <link>https://www.metrotransit.org/route/orange</link>
-      <guid isPermaLink="false">Metro Transit-53394-2026-09-27T12:02:30.000Z</guid>
-      <pubDate>Sun, 27 Sep 2026 12:02:30 GMT</pubDate>
+      <title>[Critical] Route 7: Northbound 11:09 AM Trip Canceled (Cedar Ave S &amp; Washington Ave (15th Ave))</title>
+      <link>https://www.metrotransit.org/route/7</link>
+      <guid isPermaLink="false">Metro Transit-53397-2026-09-27T16:19:51.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 16:19:51 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO Orange Line</category>
-      <description>Southbound Orange Line trip departing Marquette Ave &amp; 3rd St - Stop Group C at 6:33 AM canceled today due to mechanical issue</description>
+      <category>Route 7</category>
+      <description>Northbound Route 7 trip departing Cedar Ave S &amp; Washington Ave (15th Ave) at 11:09 AM canceled today due to police activity</description>
+    </item>
+    <item>
+      <title>[Critical] Route 94: Eastbound 11:43 AM Trip Canceled (5th St Transit Center Gate B)</title>
+      <link>https://www.metrotransit.org/route/94</link>
+      <guid isPermaLink="false">Metro Transit-53398-2026-09-27T16:46:18.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 16:46:18 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 94</category>
+      <description>Eastbound Route 94 trip departing 5th St Transit Center Gate B at 11:43 AM canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
