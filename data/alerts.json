@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-27T20:49:22.949Z",
-    "totalAlerts": 121,
-    "criticalCount": 7,
+    "generatedAt": "2026-09-27T23:36:31.696Z",
+    "totalAlerts": 119,
+    "criticalCount": 5,
     "moderateCount": 111,
     "minorCount": 3,
     "affectedRoutesCount": 77,
@@ -12,13 +12,92 @@
   },
   "alerts": [
     {
-      "id": "53406",
+      "id": "53416",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO A Line: Northbound 2:45 PM Trip Canceled (46th St Station Gate A)",
-      "summary": "Northbound A Line trip departing 46th St Station Gate A at 2:45 PM canceled today",
+      "title": "METRO B Line: Eastbound 5:36 PM Trip Canceled (Lake St W & France Ave S)",
+      "summary": "Eastbound B Line trip departing Lake St W & France Ave S at 5:36 PM canceled",
       "affectedRoutes": [
-        "METRO A Line"
+        "METRO B Line"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-27T22:45:00.000Z",
+        "end": "2026-09-28T00:42:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-09-27T22:46:07.000Z",
+      "rawHeader": "Eastbound B Line trip departing Lake St W & France Ave S at 5:36 PM canceled",
+      "rawDescription": ""
+    },
+    {
+      "id": "53417",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO Gold Line: Eastbound 5:56 PM Trip Canceled (Smith & 5th St Station)",
+      "summary": "Eastbound Gold Line trip departing Smith & 5th St Station at 5:56 PM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "METRO Gold Line"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-27T23:12:00.000Z",
+        "end": "2026-09-28T00:30:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/gold",
+      "updatedAt": "2026-09-27T23:13:38.000Z",
+      "rawHeader": "Eastbound Gold Line trip departing Smith & 5th St Station at 5:56 PM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "53418",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO Gold Line: Westbound 6:54 PM Trip Canceled (Woodlane Dr Station Gate A)",
+      "summary": "Westbound Gold Line trip departing Woodlane Dr Station Gate A at 6:54 PM canceled",
+      "affectedRoutes": [
+        "METRO Gold Line"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-27T23:54:00.000Z",
+        "end": "2026-09-28T01:29:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/gold",
+      "updatedAt": "2026-09-27T23:33:54.000Z",
+      "rawHeader": "Westbound Gold Line trip departing Woodlane Dr Station Gate A at 6:54 PM canceled",
+      "rawDescription": ""
+    },
+    {
+      "id": "53415",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 11, Route 11C: Northbound 4:53 PM Trip Canceled (Nicollet Ave S & 46th St E)",
+      "summary": "Northbound Route 11C trip departing Nicollet Ave S & 46th St E at 4:53 PM canceled",
+      "affectedRoutes": [
+        "Route 11",
+        "Route 11C"
       ],
       "direction": "Northbound",
       "intersections": [],
@@ -27,678 +106,14 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-27T19:57:00.000Z",
-        "end": "2026-09-27T21:22:00.000Z"
+        "start": "2026-09-27T22:18:00.000Z",
+        "end": "2026-09-27T23:50:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/aline",
-      "updatedAt": "2026-09-27T19:57:22.000Z",
-      "rawHeader": "Northbound A Line trip departing 46th St Station Gate A at 2:45 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "53409",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO D Line: Southbound 3:21 PM Trip Canceled (Fremont & West Broadway Station)",
-      "summary": "Southbound D Line trip departing Fremont & West Broadway Station at 3:21 PM canceled today due to police activity",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [
-        "431",
-        "42318",
-        "441",
-        "436",
-        "4530",
-        "56317",
-        "444",
-        "449",
-        "56873",
-        "56907",
-        "56908",
-        "56909",
-        "56910",
-        "56911",
-        "56912",
-        "56913",
-        "56914",
-        "56916",
-        "56917",
-        "56920",
-        "56918",
-        "56919",
-        "80139",
-        "81079",
-        "17905",
-        "17906",
-        "17907",
-        "17910",
-        "17912",
-        "11161"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "431"
-        },
-        {
-          "id": "42318"
-        },
-        {
-          "id": "441"
-        },
-        {
-          "id": "436"
-        },
-        {
-          "id": "4530"
-        },
-        {
-          "id": "56317"
-        },
-        {
-          "id": "444"
-        },
-        {
-          "id": "449"
-        },
-        {
-          "id": "56873"
-        },
-        {
-          "id": "56907"
-        },
-        {
-          "id": "56908"
-        },
-        {
-          "id": "56909"
-        },
-        {
-          "id": "56910"
-        },
-        {
-          "id": "56911"
-        },
-        {
-          "id": "56912"
-        },
-        {
-          "id": "56913"
-        },
-        {
-          "id": "56914"
-        },
-        {
-          "id": "56916"
-        },
-        {
-          "id": "56917"
-        },
-        {
-          "id": "56920"
-        },
-        {
-          "id": "56918"
-        },
-        {
-          "id": "56919"
-        },
-        {
-          "id": "80139"
-        },
-        {
-          "id": "81079"
-        },
-        {
-          "id": "17905"
-        },
-        {
-          "id": "17906"
-        },
-        {
-          "id": "17907"
-        },
-        {
-          "id": "17910"
-        },
-        {
-          "id": "17912"
-        },
-        {
-          "id": "11161"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-27T20:27:00.000Z",
-        "end": "2026-09-27T22:16:00.000Z"
-      },
-      "cause": "POLICE_ACTIVITY",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-09-27T20:28:21.000Z",
-      "rawHeader": "Southbound D Line trip departing Fremont & West Broadway Station at 3:21 PM canceled today due to police activity",
-      "rawDescription": ""
-    },
-    {
-      "id": "53410",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 4, Route 4L: Southbound 3:39 PM Trip Canceled (1st St N & Hennepin Ave)",
-      "summary": "Southbound Route 4L trip departing 1st St N & Hennepin Ave at 3:39 PM canceled today due to medical emergency",
-      "affectedRoutes": [
-        "Route 4",
-        "Route 4L"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-27T20:39:00.000Z",
-        "end": "2026-09-27T22:25:00.000Z"
-      },
-      "cause": "MEDICAL_EMERGENCY",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/4",
-      "updatedAt": "2026-09-27T20:39:08.000Z",
-      "rawHeader": "Southbound Route 4L trip departing 1st St N & Hennepin Ave at 3:39 PM canceled today due to medical emergency",
-      "rawDescription": ""
-    },
-    {
-      "id": "53403",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 9, Route 9A: Service Advisory",
-      "summary": "Eastbound Route 9A trip departing Louisiana Transit Center & Gate C at 1:45 PM will start from Ramp A/7th St Transit Center at 2:12 PM today. Previous stops will be missed",
-      "affectedRoutes": [
-        "Route 9",
-        "Route 9A"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [
-        "3012",
-        "3040",
-        "3043",
-        "3044",
-        "3047",
-        "3050",
-        "3051",
-        "3052",
-        "3053",
-        "42205",
-        "42206",
-        "40295",
-        "2993",
-        "2994",
-        "2996",
-        "3001",
-        "3002",
-        "3004",
-        "3006",
-        "3007",
-        "3008",
-        "3010",
-        "8067",
-        "7342",
-        "7352",
-        "7353",
-        "7355",
-        "7356",
-        "7357",
-        "7413",
-        "7414",
-        "7415",
-        "7417",
-        "7419",
-        "7421",
-        "7422",
-        "52552",
-        "56566",
-        "56571",
-        "44646",
-        "49557",
-        "49558",
-        "49559",
-        "49431",
-        "43775",
-        "40914",
-        "41366"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "3012"
-        },
-        {
-          "id": "3040"
-        },
-        {
-          "id": "3043"
-        },
-        {
-          "id": "3044"
-        },
-        {
-          "id": "3047"
-        },
-        {
-          "id": "3050"
-        },
-        {
-          "id": "3051"
-        },
-        {
-          "id": "3052"
-        },
-        {
-          "id": "3053"
-        },
-        {
-          "id": "42205"
-        },
-        {
-          "id": "42206"
-        },
-        {
-          "id": "40295"
-        },
-        {
-          "id": "2993"
-        },
-        {
-          "id": "2994"
-        },
-        {
-          "id": "2996"
-        },
-        {
-          "id": "3001"
-        },
-        {
-          "id": "3002"
-        },
-        {
-          "id": "3004"
-        },
-        {
-          "id": "3006"
-        },
-        {
-          "id": "3007"
-        },
-        {
-          "id": "3008"
-        },
-        {
-          "id": "3010"
-        },
-        {
-          "id": "8067"
-        },
-        {
-          "id": "7342"
-        },
-        {
-          "id": "7352"
-        },
-        {
-          "id": "7353"
-        },
-        {
-          "id": "7355"
-        },
-        {
-          "id": "7356"
-        },
-        {
-          "id": "7357"
-        },
-        {
-          "id": "7413"
-        },
-        {
-          "id": "7414"
-        },
-        {
-          "id": "7415"
-        },
-        {
-          "id": "7417"
-        },
-        {
-          "id": "7419"
-        },
-        {
-          "id": "7421"
-        },
-        {
-          "id": "7422"
-        },
-        {
-          "id": "52552"
-        },
-        {
-          "id": "56566"
-        },
-        {
-          "id": "56571"
-        },
-        {
-          "id": "44646"
-        },
-        {
-          "id": "49557"
-        },
-        {
-          "id": "49558"
-        },
-        {
-          "id": "49559"
-        },
-        {
-          "id": "49431"
-        },
-        {
-          "id": "43775"
-        },
-        {
-          "id": "40914"
-        },
-        {
-          "id": "41366"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-27T18:59:00.000Z",
-        "end": "2026-09-27T20:53:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/9",
-      "updatedAt": "2026-09-27T19:01:24.000Z",
-      "rawHeader": "Eastbound Route 9A trip departing Louisiana Transit Center & Gate C at 1:45 PM will start from Ramp A/7th St Transit Center at 2:12 PM today. Previous stops will be missed",
-      "rawDescription": ""
-    },
-    {
-      "id": "53405",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 14: Southbound 2:44 PM Trip Canceled (West Broadway & Emerson Ave N)",
-      "summary": "Southbound Route 14 trip departing West Broadway & Emerson Ave N at 2:44 PM canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 14"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [
-        "15567",
-        "17857",
-        "17876",
-        "17881",
-        "16393",
-        "16395",
-        "16401",
-        "16406",
-        "15655",
-        "15656",
-        "15660",
-        "15664",
-        "15668",
-        "15579",
-        "15580",
-        "15575",
-        "15571",
-        "15583",
-        "15587",
-        "15591",
-        "15595",
-        "15599",
-        "15603",
-        "15604",
-        "15607",
-        "15608",
-        "15611",
-        "15615",
-        "15619",
-        "15623",
-        "15624",
-        "15627",
-        "15650",
-        "41542",
-        "40472",
-        "17891",
-        "17888",
-        "17890",
-        "17885",
-        "17887",
-        "17882",
-        "17884",
-        "19495",
-        "755",
-        "758",
-        "77",
-        "8292",
-        "8305",
-        "8308",
-        "8312",
-        "79",
-        "57672",
-        "57010",
-        "57011",
-        "51880",
-        "51881",
-        "51834",
-        "51648",
-        "51832",
-        "4429",
-        "430"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "15567"
-        },
-        {
-          "id": "17857"
-        },
-        {
-          "id": "17876"
-        },
-        {
-          "id": "17881"
-        },
-        {
-          "id": "16393"
-        },
-        {
-          "id": "16395"
-        },
-        {
-          "id": "16401"
-        },
-        {
-          "id": "16406"
-        },
-        {
-          "id": "15655"
-        },
-        {
-          "id": "15656"
-        },
-        {
-          "id": "15660"
-        },
-        {
-          "id": "15664"
-        },
-        {
-          "id": "15668"
-        },
-        {
-          "id": "15579"
-        },
-        {
-          "id": "15580"
-        },
-        {
-          "id": "15575"
-        },
-        {
-          "id": "15571"
-        },
-        {
-          "id": "15583"
-        },
-        {
-          "id": "15587"
-        },
-        {
-          "id": "15591"
-        },
-        {
-          "id": "15595"
-        },
-        {
-          "id": "15599"
-        },
-        {
-          "id": "15603"
-        },
-        {
-          "id": "15604"
-        },
-        {
-          "id": "15607"
-        },
-        {
-          "id": "15608"
-        },
-        {
-          "id": "15611"
-        },
-        {
-          "id": "15615"
-        },
-        {
-          "id": "15619"
-        },
-        {
-          "id": "15623"
-        },
-        {
-          "id": "15624"
-        },
-        {
-          "id": "15627"
-        },
-        {
-          "id": "15650"
-        },
-        {
-          "id": "41542"
-        },
-        {
-          "id": "40472"
-        },
-        {
-          "id": "17891"
-        },
-        {
-          "id": "17888"
-        },
-        {
-          "id": "17890"
-        },
-        {
-          "id": "17885"
-        },
-        {
-          "id": "17887"
-        },
-        {
-          "id": "17882"
-        },
-        {
-          "id": "17884"
-        },
-        {
-          "id": "19495"
-        },
-        {
-          "id": "755"
-        },
-        {
-          "id": "758"
-        },
-        {
-          "id": "77"
-        },
-        {
-          "id": "8292"
-        },
-        {
-          "id": "8305"
-        },
-        {
-          "id": "8308"
-        },
-        {
-          "id": "8312"
-        },
-        {
-          "id": "79"
-        },
-        {
-          "id": "57672"
-        },
-        {
-          "id": "57010"
-        },
-        {
-          "id": "57011"
-        },
-        {
-          "id": "51880"
-        },
-        {
-          "id": "51881"
-        },
-        {
-          "id": "51834"
-        },
-        {
-          "id": "51648"
-        },
-        {
-          "id": "51832"
-        },
-        {
-          "id": "4429"
-        },
-        {
-          "id": "430"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-27T19:55:00.000Z",
-        "end": "2026-09-27T21:34:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/14",
-      "updatedAt": "2026-09-27T19:56:45.000Z",
-      "rawHeader": "Southbound Route 14 trip departing West Broadway & Emerson Ave N at 2:44 PM canceled today due to mechanical issue",
+      "url": "https://www.metrotransit.org/route/11",
+      "updatedAt": "2026-09-27T22:19:32.000Z",
+      "rawHeader": "Northbound Route 11C trip departing Nicollet Ave S & 46th St E at 4:53 PM canceled",
       "rawDescription": ""
     },
     {
@@ -718,39 +133,13 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-09-27T20:22:00.000Z",
-        "end": "2026-09-27T22:48:24.000Z"
+        "end": "2026-09-28T01:35:24.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/539",
       "updatedAt": "2026-09-27T20:22:42.000Z",
       "rawHeader": "Westbound Route 539 canceled until later today",
-      "rawDescription": ""
-    },
-    {
-      "id": "53407",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 724: Service Canceled",
-      "summary": "Route 724 trips departing Starlite Transit Center & Gate A at 3:02 PM and departing Brooklyn Ctr Transit Ctr Gate C at 3:30 PM canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 724"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-27T20:11:00.000Z",
-        "end": "2026-09-27T21:49:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/724",
-      "updatedAt": "2026-09-27T20:12:02.000Z",
-      "rawHeader": "Route 724 trips departing Starlite Transit Center & Gate A at 3:02 PM and departing Brooklyn Ctr Transit Ctr Gate C at 3:30 PM canceled today due to mechanical issue",
       "rawDescription": ""
     },
     {

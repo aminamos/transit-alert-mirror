@@ -4,53 +4,44 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 27 Sep 2026 20:49:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 23:36:31 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO A Line: Northbound 2:45 PM Trip Canceled (46th St Station Gate A)</title>
-      <link>https://www.metrotransit.org/route/aline</link>
-      <guid isPermaLink="false">Metro Transit-53406-2026-09-27T19:57:22.000Z</guid>
-      <pubDate>Sun, 27 Sep 2026 19:57:22 GMT</pubDate>
+      <title>[Critical] METRO B Line: Eastbound 5:36 PM Trip Canceled (Lake St W &amp; France Ave S)</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-53416-2026-09-27T22:46:07.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 22:46:07 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO A Line</category>
-      <description>Northbound A Line trip departing 46th St Station Gate A at 2:45 PM canceled today</description>
+      <category>METRO B Line</category>
+      <description>Eastbound B Line trip departing Lake St W &amp; France Ave S at 5:36 PM canceled</description>
     </item>
     <item>
-      <title>[Critical] METRO D Line: Southbound 3:21 PM Trip Canceled (Fremont &amp; West Broadway Station)</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-53409-2026-09-27T20:28:21.000Z</guid>
-      <pubDate>Sun, 27 Sep 2026 20:28:21 GMT</pubDate>
+      <title>[Critical] METRO Gold Line: Eastbound 5:56 PM Trip Canceled (Smith &amp; 5th St Station)</title>
+      <link>https://www.metrotransit.org/route/gold</link>
+      <guid isPermaLink="false">Metro Transit-53417-2026-09-27T23:13:38.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 23:13:38 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Southbound D Line trip departing Fremont &amp; West Broadway Station at 3:21 PM canceled today due to police activity</description>
+      <category>METRO Gold Line</category>
+      <description>Eastbound Gold Line trip departing Smith &amp; 5th St Station at 5:56 PM canceled today due to mechanical issue</description>
     </item>
     <item>
-      <title>[Critical] Route 4, Route 4L: Southbound 3:39 PM Trip Canceled (1st St N &amp; Hennepin Ave)</title>
-      <link>https://www.metrotransit.org/route/4</link>
-      <guid isPermaLink="false">Metro Transit-53410-2026-09-27T20:39:08.000Z</guid>
-      <pubDate>Sun, 27 Sep 2026 20:39:08 GMT</pubDate>
+      <title>[Critical] METRO Gold Line: Westbound 6:54 PM Trip Canceled (Woodlane Dr Station Gate A)</title>
+      <link>https://www.metrotransit.org/route/gold</link>
+      <guid isPermaLink="false">Metro Transit-53418-2026-09-27T23:33:54.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 23:33:54 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 4, Route 4L</category>
-      <description>Southbound Route 4L trip departing 1st St N &amp; Hennepin Ave at 3:39 PM canceled today due to medical emergency</description>
+      <category>METRO Gold Line</category>
+      <description>Westbound Gold Line trip departing Woodlane Dr Station Gate A at 6:54 PM canceled</description>
     </item>
     <item>
-      <title>[Critical] Route 9, Route 9A: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/9</link>
-      <guid isPermaLink="false">Metro Transit-53403-2026-09-27T19:01:24.000Z</guid>
-      <pubDate>Sun, 27 Sep 2026 19:01:24 GMT</pubDate>
+      <title>[Critical] Route 11, Route 11C: Northbound 4:53 PM Trip Canceled (Nicollet Ave S &amp; 46th St E)</title>
+      <link>https://www.metrotransit.org/route/11</link>
+      <guid isPermaLink="false">Metro Transit-53415-2026-09-27T22:19:32.000Z</guid>
+      <pubDate>Sun, 27 Sep 2026 22:19:32 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 9, Route 9A</category>
-      <description>Eastbound Route 9A trip departing Louisiana Transit Center &amp; Gate C at 1:45 PM will start from Ramp A/7th St Transit Center at 2:12 PM today. Previous stops will be missed</description>
-    </item>
-    <item>
-      <title>[Critical] Route 14: Southbound 2:44 PM Trip Canceled (West Broadway &amp; Emerson Ave N)</title>
-      <link>https://www.metrotransit.org/route/14</link>
-      <guid isPermaLink="false">Metro Transit-53405-2026-09-27T19:56:45.000Z</guid>
-      <pubDate>Sun, 27 Sep 2026 19:56:45 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 14</category>
-      <description>Southbound Route 14 trip departing West Broadway &amp; Emerson Ave N at 2:44 PM canceled today due to mechanical issue</description>
+      <category>Route 11, Route 11C</category>
+      <description>Northbound Route 11C trip departing Nicollet Ave S &amp; 46th St E at 4:53 PM canceled</description>
     </item>
     <item>
       <title>[Critical] Route 539: Service Canceled</title>
@@ -60,15 +51,6 @@
       <category>Critical</category>
       <category>Route 539</category>
       <description>Westbound Route 539 canceled until later today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 724: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/724</link>
-      <guid isPermaLink="false">Metro Transit-53407-2026-09-27T20:12:02.000Z</guid>
-      <pubDate>Sun, 27 Sep 2026 20:12:02 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 724</category>
-      <description>Route 724 trips departing Starlite Transit Center &amp; Gate A at 3:02 PM and departing Brooklyn Ctr Transit Ctr Gate C at 3:30 PM canceled today due to mechanical issue</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
