@@ -1,119 +1,40 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-27T23:36:31.696Z",
-    "totalAlerts": 119,
-    "criticalCount": 5,
+    "generatedAt": "2026-09-28T03:28:34.522Z",
+    "totalAlerts": 116,
+    "criticalCount": 2,
     "moderateCount": 111,
     "minorCount": 3,
-    "affectedRoutesCount": 77,
+    "affectedRoutesCount": 76,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "53416",
+      "id": "53423",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO B Line: Eastbound 5:36 PM Trip Canceled (Lake St W & France Ave S)",
-      "summary": "Eastbound B Line trip departing Lake St W & France Ave S at 5:36 PM canceled",
+      "title": "Route 10: Southbound 9:55 PM Trip Canceled (Northtown Transit Ctr Gate A)",
+      "summary": "Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 9:55 PM canceled today",
       "affectedRoutes": [
-        "METRO B Line"
+        "Route 10"
       ],
-      "direction": "Eastbound",
+      "direction": "Southbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-27T22:45:00.000Z",
-        "end": "2026-09-28T00:42:00.000Z"
+        "start": "2026-09-28T02:55:00.000Z",
+        "end": "2026-09-28T04:47:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-09-27T22:46:07.000Z",
-      "rawHeader": "Eastbound B Line trip departing Lake St W & France Ave S at 5:36 PM canceled",
-      "rawDescription": ""
-    },
-    {
-      "id": "53417",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO Gold Line: Eastbound 5:56 PM Trip Canceled (Smith & 5th St Station)",
-      "summary": "Eastbound Gold Line trip departing Smith & 5th St Station at 5:56 PM canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "METRO Gold Line"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-27T23:12:00.000Z",
-        "end": "2026-09-28T00:30:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/gold",
-      "updatedAt": "2026-09-27T23:13:38.000Z",
-      "rawHeader": "Eastbound Gold Line trip departing Smith & 5th St Station at 5:56 PM canceled today due to mechanical issue",
-      "rawDescription": ""
-    },
-    {
-      "id": "53418",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO Gold Line: Westbound 6:54 PM Trip Canceled (Woodlane Dr Station Gate A)",
-      "summary": "Westbound Gold Line trip departing Woodlane Dr Station Gate A at 6:54 PM canceled",
-      "affectedRoutes": [
-        "METRO Gold Line"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-27T23:54:00.000Z",
-        "end": "2026-09-28T01:29:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/gold",
-      "updatedAt": "2026-09-27T23:33:54.000Z",
-      "rawHeader": "Westbound Gold Line trip departing Woodlane Dr Station Gate A at 6:54 PM canceled",
-      "rawDescription": ""
-    },
-    {
-      "id": "53415",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 11, Route 11C: Northbound 4:53 PM Trip Canceled (Nicollet Ave S & 46th St E)",
-      "summary": "Northbound Route 11C trip departing Nicollet Ave S & 46th St E at 4:53 PM canceled",
-      "affectedRoutes": [
-        "Route 11",
-        "Route 11C"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-27T22:18:00.000Z",
-        "end": "2026-09-27T23:50:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-09-27T22:19:32.000Z",
-      "rawHeader": "Northbound Route 11C trip departing Nicollet Ave S & 46th St E at 4:53 PM canceled",
+      "url": "https://www.metrotransit.org/route/10",
+      "updatedAt": "2026-09-28T02:29:32.000Z",
+      "rawHeader": "Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 9:55 PM canceled today",
       "rawDescription": ""
     },
     {
@@ -133,7 +54,7 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-09-27T20:22:00.000Z",
-        "end": "2026-09-28T01:35:24.000Z"
+        "end": "2026-09-28T05:28:23.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
@@ -1964,8 +1885,8 @@
         "56919",
         "51212",
         "56923",
-        "73",
         "72",
+        "73",
         "66",
         "68",
         "69",
@@ -2039,10 +1960,10 @@
           "id": "56923"
         },
         {
-          "id": "73"
+          "id": "72"
         },
         {
-          "id": "72"
+          "id": "73"
         },
         {
           "id": "66"
