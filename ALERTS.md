@@ -2,57 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-116-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-111-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-113-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-110-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-76-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-74-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-28T03:28:34.522Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-28T10:30:29.442Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (4) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (3) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (4) • **Route 9** (5) • **Route 10** (3) • **Route 11** (3) • **Route 14** (3) • **Route 17** (3) • **Route 18** (7) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (3) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (4) • **METRO E Line** (3) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (3) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (4) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 14** (3) • **Route 17** (3) • **Route 18** (7) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 10: Southbound 9:55 PM Trip Canceled (Northtown Transit Ctr Gate A)
-
-- **Affected Routes**: `Route 10`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 9:55 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/10)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 9:55 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 539: Service Canceled
-
-- **Affected Routes**: `Route 539`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 539 canceled until later today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/539)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 539 canceled until later today
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -474,66 +438,6 @@ Westbound buses will travel the regular route on the Gold Line Guideway to Mound
 
 Affected stops:
 Wall St & 7th St / 6th St - Stop #43282 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ METRO Green Line, Route 94: Service Advisory
-
-- **Affected Routes**: `METRO Green Line` `Route 94`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Closed Stops**: Stop #56006, Stop #56007, Stop #56008, Stop #56009, Stop #56010, Stop #56011, Stop #56012, Stop #56013 *(+17 more)*
-
-**Summary**: Buses will replace METRO Green Line trains between Union Depot and Raymond Ave. stations starting with first trains on Friday, Sept. 25 until Monday, Sept. 28 at first trains.
-
-[Official Agency Advisory](https://www.metrotransit.org/closure)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Buses will replace METRO Green Line trains between Union Depot and Raymond Ave. stations starting with first trains on Friday, Sept. 25 until Monday, Sept. 28 at first trains.
-
-```text
-Starting with first trains on Friday, Sept. 25, buses will replace trains on the METRO Green Line between Raymond Ave. and Union Depot stations to allow for needed maintenance. 
-
-Please plan extra time for your trip. Replacement bus timing can vary and trips may take longer.
-
-Train service will resume Monday, Sept. 28 with first trains. 
-
-Alternate service also available to Snelling Ave. and downtown Minneapolis via Route 94. 
-
-Check out more information and replacement bus locations at metrotransit.org/closure.
-
-
-Affected stops:
-Raymond Ave Station (eastbound)
-Fairview Ave Station (eastbound)
-Snelling Ave Station (eastbound)
-Hamline Ave Station (eastbound)
-Lexington Pkwy Station (eastbound)
-Victoria St Station (eastbound)
-Dale St Station (eastbound)
-Western Ave Station (eastbound)
-Capitol / Rice St Station (eastbound)
-Robert St Station (eastbound)
-10th St Station (eastbound)
-Central Station (eastbound)
-Union Depot Station (eastbound)
-Union Depot Station (westbound)
-Central Station (westbound)
-10th St Station (westbound)
-Robert St Station (westbound)
-Capitol / Rice St Station (westbound)
-Western Ave Station (westbound)
-Dale St Station (westbound)
-Victoria St Station (westbound)
-Lexington Pkwy Station (westbound)
-Hamline Ave Station (westbound)
-Snelling Ave Station (westbound)
-Fairview Ave Station (westbound)
 ```
 
 </details>

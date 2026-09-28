@@ -4,32 +4,14 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Mon, 28 Sep 2026 03:28:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 10:30:29 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 10: Southbound 9:55 PM Trip Canceled (Northtown Transit Ctr Gate A)</title>
-      <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-53423-2026-09-28T02:29:32.000Z</guid>
-      <pubDate>Mon, 28 Sep 2026 02:29:32 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 10</category>
-      <description>Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 9:55 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 539: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/539</link>
-      <guid isPermaLink="false">Metro Transit-53408-2026-09-27T20:22:42.000Z</guid>
-      <pubDate>Sun, 27 Sep 2026 20:22:42 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 539</category>
-      <description>Westbound Route 539 canceled until later today</description>
-    </item>
-    <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
-      <guid isPermaLink="false">Metro Transit-52943-2026-09-21T07:30:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 07:30:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52943-2026-09-28T08:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 08:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO A Line</category>
       <description>METRO A Line detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
@@ -64,8 +46,8 @@
     <item>
       <title>[Moderate] METRO D Line: Detour via Chicago Ave S &amp; 45th St E</title>
       <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-53171-2026-09-22T20:12:02.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 20:12:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53171-2026-09-28T05:00:00.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:00 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO D Line</category>
       <description>D Line detoured off Chicago Ave from 56th St to 46th St from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Portland &amp; 60th St Station - Stop #737 (northbound); Chicago Ave S &amp; 45th St E - Stop #787 (northbound); Chicago &amp; 42nd St Station - Stop #56924 (northbound). | Action: Board at: Portland &amp; 60th St Station - Stop #737 (northbound); Chicago Ave S &amp; 45th St E - Stop #787 (northbound); Chicago &amp; 42nd St Station - Stop #56924 (northbound)</description>
@@ -73,8 +55,8 @@
     <item>
       <title>[Moderate] METRO D Line: Detour via American Blvd &amp; Old Cedar Ave S</title>
       <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-53294-2026-09-24T17:59:55.000Z</guid>
-      <pubDate>Thu, 24 Sep 2026 17:59:55 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53294-2026-09-28T05:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO D Line</category>
       <description>METRO D Line detoured off American Blvd from Old Cedar Ave to 24th Ave from Tue Sep 29 at 9:00 PM to Wed Sep 30 at 5:00 AM due to construction. Board at: MOA Transit Station Gate A - Stop #56873 (southbound); American Blvd &amp; Old Cedar Ave S - Stop #4514 (westbound); American &amp; Bloomington Station - Stop #56921 (westbound). | Action: Board at: MOA Transit Station Gate A - Stop #56873 (southbound); American Blvd &amp; Old Cedar Ave S - Stop #4514 (westbound); American &amp; Bloomington Station - Stop #56921 (westbound)</description>
@@ -102,8 +84,8 @@ Affected st</title>
     <item>
       <title>[Moderate] METRO E Line: Detour via Central Ave &amp; University Ave S</title>
       <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-53166-2026-09-22T20:11:24.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 20:11:24 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53166-2026-09-28T05:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO E Line</category>
       <description>E Line detoured from Hennepin Ave from 24th St W to University Ave from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Hennepin &amp; 25th St Station - Stop #1327 (northbound); Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 11th St S - Stop #17990 (northbound). | Action: Board at: Hennepin &amp; 25th St Station - Stop #1327 (northbound); Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 11th St S - Stop #17990 (northbound)</description>
@@ -116,15 +98,6 @@ Affected st</title>
       <category>Moderate</category>
       <category>METRO Gold Line</category>
       <description>Gold Line detoured off 7th St from Wacouta St to Mounds Blvd until further notice. Board at: 6th St &amp; Jackson Station - Stop #57456 (westbound). | Action: Board at: 6th St &amp; Jackson Station - Stop #57456 (westbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] METRO Green Line, Route 94: Service Advisory</title>
-      <link>https://www.metrotransit.org/closure</link>
-      <guid isPermaLink="false">Metro Transit-53009-2026-09-27T05:00:02.000Z</guid>
-      <pubDate>Sun, 27 Sep 2026 05:00:02 GMT</pubDate>
-      <category>Moderate</category>
-      <category>METRO Green Line, Route 94</category>
-      <description>Buses will replace METRO Green Line trains between Union Depot and Raymond Ave. stations starting with first trains on Friday, Sept. 25 until Monday, Sept. 28 at first trains.</description>
     </item>
     <item>
       <title>[Moderate] Route 2: Detour via Franklin Ave &amp; Lyndale Ave</title>
@@ -147,8 +120,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 3: Detour via Washington Ave S &amp; Marquette Ave</title>
       <link>https://www.metrotransit.org/route/3</link>
-      <guid isPermaLink="false">Metro Transit-53146-2026-09-22T20:08:33.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 20:08:33 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53146-2026-09-28T05:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 3</category>
       <description>Route 3 detoured off Washington Ave from 3rd Ave to I-35W from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Washington Ave S &amp; Marquette Ave - Stop #19315 (eastbound); Washington Ave S &amp; 15th Ave S - Stop #57023 (eastbound). | Action: Board at: Washington Ave S &amp; Marquette Ave - Stop #19315 (eastbound); Washington Ave S &amp; 15th Ave S - Stop #57023 (eastbound)</description>
@@ -156,8 +129,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 4, Route 4L: Detour via Lyndale Ave S &amp; 54th St W</title>
       <link>https://www.metrotransit.org/route/4</link>
-      <guid isPermaLink="false">Metro Transit-53148-2026-09-22T20:09:25.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 20:09:25 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53148-2026-09-28T05:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 4, Route 4L</category>
       <description>Route 4L detoured off Lyndale Ave from 46th St to 54th St from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cites Marathon 2026. Board at: Lyndale Ave S &amp; 54th St W - Stop #1853 (northbound); Lyndale Ave S &amp; 45th St W - Stop #40276 (northbound). | Action: Board at: Lyndale Ave S &amp; 54th St W - Stop #1853 (northbound); Lyndale Ave S &amp; 45th St W - Stop #40276 (northbound)</description>
@@ -165,8 +138,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 4, Route 4P: Detour via Penn Ave S &amp; 54th St W</title>
       <link>https://www.metrotransit.org/route/4</link>
-      <guid isPermaLink="false">Metro Transit-53151-2026-09-22T20:10:05.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 20:10:05 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53151-2026-09-28T05:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 4, Route 4P</category>
       <description>Route 4P detoured off Penn Ave from 54th St to 50th St, 50th St from Penn Ave to Lyndale Ave, and Lyndale from 50th St to 46th St from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Penn Ave S &amp; 54th St W - Stop #1091 (northbound); Lyndale Ave S &amp; 45th St W - Stop #40276 (northbound). | Action: Board at: Penn Ave S &amp; 54th St W - Stop #1091 (northbound); Lyndale Ave S &amp; 45th St W - Stop #40276 (northbound)</description>
@@ -174,8 +147,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 4: Detour via Route 4 detoured off Lyndale Ave &amp; Hennepin Ave</title>
       <link>https://www.metrotransit.org/route/4</link>
-      <guid isPermaLink="false">Metro Transit-53156-2026-09-22T20:10:46.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 20:10:46 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53156-2026-09-28T05:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 4</category>
       <description>Route 4 detoured off Lyndale Ave/Hennepin Ave from 24th St W to Central Ave from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Lyndale Ave S &amp; 24th St W - Stop #175; Temporary stop on 24th St E &amp; Nicollet Ave; Nicollet Ave S &amp; Franklin Ave W - Stop #1905. | Action: Board at: Lyndale Ave S &amp; 24th St W - Stop #175; Temporary stop on 24th St E &amp; Nicollet Ave; Nicollet Ave S &amp; Franklin Ave W - Stop #1905</description>
@@ -192,8 +165,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 5: Detour via Chicago Ave S &amp; 56th St E</title>
       <link>https://www.metrotransit.org/route/5</link>
-      <guid isPermaLink="false">Metro Transit-53159-2026-09-23T20:03:35.000Z</guid>
-      <pubDate>Wed, 23 Sep 2026 20:03:35 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53159-2026-09-28T05:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 5</category>
       <description>Route 5 detoured off Chicago Ave from 56th St to 46th St from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Chicago Ave S &amp; 56th St E - Stop #51212 (southbound); Chicago &amp; 46th St Station - Stop #56923 (northbound). | Action: Board at: Chicago Ave S &amp; 56th St E - Stop #51212 (southbound); Chicago &amp; 46th St Station - Stop #56923 (northbound)</description>
@@ -201,8 +174,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 5: Stop Closed at Chicago Ave S &amp; 8th St S</title>
       <link>https://www.metrotransit.org/route/5</link>
-      <guid isPermaLink="false">Metro Transit-53284-2026-09-27T05:00:02.000Z</guid>
-      <pubDate>Sun, 27 Sep 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53284-2026-09-28T05:00:02.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 5</category>
       <description>Chicago Ave S &amp; 8th St S - Stop #819 (northbound) is closed for Route 5 beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Chicago &amp; 14th St Station - Stop #56929 (northbound); 7th St &amp; Park Station - Stop #17897 (westbound). | Action: Board at: Chicago &amp; 14th St Station - Stop #56929 (northbound); 7th St &amp; Park Station - Stop #17897 (westbound)</description>
@@ -219,8 +192,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 7: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/7</link>
-      <guid isPermaLink="false">Metro Transit-52942-2026-09-21T07:30:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 07:30:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52942-2026-09-28T08:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 08:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 7</category>
       <description>Route 7 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
@@ -228,8 +201,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 7: Detour via Cedar Ave S &amp; Washington Ave</title>
       <link>https://www.metrotransit.org/route/7</link>
-      <guid isPermaLink="false">Metro Transit-53163-2026-09-23T20:02:49.000Z</guid>
-      <pubDate>Wed, 23 Sep 2026 20:02:49 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53163-2026-09-28T05:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 7</category>
       <description>Route 7 detoured off Washington Ave from 3rd Ave to I-35W from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Cedar Ave S &amp; Washington Ave (15th Ave) - Stop #16325 (westbound); Washington Ave S &amp; 3rd Ave / 2nd Ave - Stop #19308 (westbound). | Action: Board at: Cedar Ave S &amp; Washington Ave (15th Ave) - Stop #16325 (westbound); Washington Ave S &amp; 3rd Ave / 2nd Ave - Stop #19308 (westbound)</description>
@@ -237,8 +210,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 7: Detour via 34th Ave S &amp; 50th St E</title>
       <link>https://www.metrotransit.org/route/7</link>
-      <guid isPermaLink="false">Metro Transit-53164-2026-09-23T20:02:11.000Z</guid>
-      <pubDate>Wed, 23 Sep 2026 20:02:11 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53164-2026-09-28T05:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 7</category>
       <description>Route 7 detoured off 34th Ave from 50th St to 46th St from 4:00 AM to 1:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: 34th Ave S &amp; 50th St E - Stop #15274 (northbound); 46th St Station &amp; Gate F - Stop #51549 (northbound). | Action: Board at: 34th Ave S &amp; 50th St E - Stop #15274 (northbound); 46th St Station &amp; Gate F - Stop #51549 (northbound)</description>
@@ -273,8 +246,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 9: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/9</link>
-      <guid isPermaLink="false">Metro Transit-52940-2026-09-21T07:30:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 07:30:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52940-2026-09-28T08:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 08:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 9</category>
       <description>Route 9 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
@@ -282,8 +255,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 9: Stop Closed at 25th St E &amp; 33rd Ave S</title>
       <link>https://www.metrotransit.org/route/9</link>
-      <guid isPermaLink="false">Metro Transit-53150-2026-09-27T05:00:02.000Z</guid>
-      <pubDate>Sun, 27 Sep 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53150-2026-09-28T05:00:02.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 9</category>
       <description>25th St E &amp; 33rd Ave S - Stop #16457 (eastbound) and 25th St E &amp; 33rd Ave S - Stop #17597 (westbound) are closed for Route 9 beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: 25th St E &amp; 31st Ave S - Stop #16455 (eastbound); 25th St E &amp; 35th Ave S - Stop #16459 (eastbound). | Action: Board at: 25th St E &amp; 31st Ave S - Stop #16455 (eastbound); 25th St E &amp; 35th Ave S - Stop #16459 (eastbound)</description>
@@ -300,8 +273,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Nicollet Mall (10th St to 11th St)</title>
       <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-53317-2026-09-27T05:00:01.000Z</guid>
-      <pubDate>Sun, 27 Sep 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53317-2026-09-28T05:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 10, Route 11, Route 17, Route 18, Route 25</category>
       <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 10th St to 11th St beginning Mon Sep 28 at 7:00 AM until further notice due to utility work. Board at: Nicollet Mall &amp; 9th St S - Stop #17982 (southbound); Nicollet Mall &amp; Alice Rainville Place - Stop #17986 (southbound). | Action: Board at: Nicollet Mall &amp; 9th St S - Stop #17982 (southbound); Nicollet Mall &amp; Alice Rainville Place - Stop #17986 (southbound)</description>
@@ -318,8 +291,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 11, Route 32: Stop Closed at Lowry Ave NE &amp; Grand St N</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-53291-2026-09-27T05:00:02.000Z</guid>
-      <pubDate>Sun, 27 Sep 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53291-2026-09-28T05:00:02.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 11, Route 32</category>
       <description>Lowry Ave NE &amp; Grand St NE - Stop #12797 (westbound) and Lowry Ave NE &amp; Grand St NE - Stop #12798 (eastbound) are closed for Routes 11 and 32 beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Lowry Ave NE &amp; 2nd St / 1st St NE - Stop #42202 (westbound); Grand St NE &amp; 26th Ave NE - Stop #14640 (northbound). | Action: Board at: Lowry Ave NE &amp; 2nd St / 1st St NE - Stop #42202 (westbound); Grand St NE &amp; 26th Ave NE - Stop #14640 (northbound)</description>
@@ -336,8 +309,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 14: Detour via 7th St S &amp; 3rd Ave</title>
       <link>https://www.metrotransit.org/route/14</link>
-      <guid isPermaLink="false">Metro Transit-53165-2026-09-23T20:01:24.000Z</guid>
-      <pubDate>Wed, 23 Sep 2026 20:01:24 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53165-2026-09-28T05:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 14</category>
       <description>Route 14 detoured off 6th St from 5th St Transit Center to 11th Ave from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: 7th St S &amp; 3rd Ave / 2nd Ave S - Stop #17901 (westbound); Nicollet Mall &amp; 5th St S - Stop #17996 (northbound); Washington Ave &amp; Hennepin Ave - Stop #19311 (westbound). | Action: Board at: 7th St S &amp; 3rd Ave / 2nd Ave S - Stop #17901 (westbound); Nicollet Mall &amp; 5th St S - Stop #17996 (northbound); Washington Ave &amp; Hennepin Ave - Stop #19311 (westbound)</description>
@@ -345,8 +318,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 14: Detour via Chicago Ave S &amp; 58th St E</title>
       <link>https://www.metrotransit.org/route/14</link>
-      <guid isPermaLink="false">Metro Transit-53168-2026-09-23T20:00:45.000Z</guid>
-      <pubDate>Wed, 23 Sep 2026 20:00:45 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53168-2026-09-28T05:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 14</category>
       <description>Route 14 detoured off Bloomington Ave from 46th St to 54th St and off Chicago Ave from 54th St to 56th St from 4:00 AM to 1:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Chicago Ave S &amp; 58th St E - Stop #743 (northbound); Temporary stop on Chicago Ave &amp; 57th St (northbound); Temporary stop on Bloomington Ave &amp; 45th St (northbound). | Action: Board at: Chicago Ave S &amp; 58th St E - Stop #743 (northbound); Temporary stop on Chicago Ave &amp; 57th St (northbound); Temporary stop on Bloomington Ave &amp; 45th St (northbound)</description>
@@ -365,8 +338,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 17: Service Advisory</title>
       <link>https://www.metrotransit.org/route/17</link>
-      <guid isPermaLink="false">Metro Transit-53169-2026-09-22T15:47:25.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 15:47:25 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53169-2026-09-28T05:00:02.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 17</category>
       <description>Route 17 service advisory near Lake St &amp; E Bde Maka Ska Pkwy from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026</description>
@@ -410,8 +383,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 18: Detour via Nicollet Ave S &amp; 56th St E</title>
       <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-53176-2026-09-23T19:59:56.000Z</guid>
-      <pubDate>Wed, 23 Sep 2026 19:59:56 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53176-2026-09-28T05:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 18</category>
       <description>Route 18 detoured off Nicollet Ave from 46th St to Diamond Lake Rd from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Nicollet Ave S &amp; 56th St E - Stop #1765 (northbound); Nicollet Ave S &amp; 44th St E - Stop #1874 (northbound). | Action: Board at: Nicollet Ave S &amp; 56th St E - Stop #1765 (northbound); Nicollet Ave S &amp; 44th St E - Stop #1874 (northbound)</description>
@@ -455,8 +428,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 22: Detour via Washington Ave to 7th St &amp; 8th St</title>
       <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-53180-2026-09-23T19:58:38.000Z</guid>
-      <pubDate>Wed, 23 Sep 2026 19:58:38 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53180-2026-09-28T05:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 22</category>
       <description>Route 22 detoured off Washington Ave from 11th Ave to 5th Ave and off 5th Ave from Washington Ave to 7th St/8th St from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cites Marathon 2026. Board at: Washington Ave S &amp; 11th Ave S - Stop #19302 (westbound); 7th St S &amp; 10th Ave S - Stop #17894 (westbound); 7th St &amp; Park Station - Stop #17897 (westbound). | Action: Board at: Washington Ave S &amp; 11th Ave S - Stop #19302 (westbound); 7th St S &amp; 10th Ave S - Stop #17894 (westbound); 7th St &amp; Park Station - Stop #17897 (westbound)</description>
@@ -527,8 +500,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 38: Detour via 46th Ave S &amp; 46th St E</title>
       <link>https://www.metrotransit.org/route/38</link>
-      <guid isPermaLink="false">Metro Transit-53182-2026-09-23T19:59:19.000Z</guid>
-      <pubDate>Wed, 23 Sep 2026 19:59:19 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53182-2026-09-28T05:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 38</category>
       <description>Route 38 detoured off 46th Ave from 46th St to Minnesota Veterans Home from 4:00 AM to 1:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: 46th Ave S &amp; 46th St E - Stop #53134 (southbound). | Action: Board at: 46th Ave S &amp; 46th St E - Stop #53134 (southbound)</description>
@@ -536,8 +509,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 46: Detour via 50th St W &amp; Queen Ave S</title>
       <link>https://www.metrotransit.org/route/46</link>
-      <guid isPermaLink="false">Metro Transit-53185-2026-09-23T19:57:49.000Z</guid>
-      <pubDate>Wed, 23 Sep 2026 19:57:49 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53185-2026-09-28T05:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 46</category>
       <description>Route 46 detoured off 50th St from Penn Ave to Lyndale Ave from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: 50th St W &amp; Queen Ave S - Stop #1004 (eastbound); Lyndale Ave S &amp; 50th St W - Stop #1857 (northbound). | Action: Board at: 50th St W &amp; Queen Ave S - Stop #1004 (eastbound); Lyndale Ave S &amp; 50th St W - Stop #1857 (northbound)</description>
@@ -581,8 +554,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 61: Detour via Central Ave &amp; University Ave S</title>
       <link>https://www.metrotransit.org/route/61</link>
-      <guid isPermaLink="false">Metro Transit-53186-2026-09-23T19:57:00.000Z</guid>
-      <pubDate>Wed, 23 Sep 2026 19:57:00 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53186-2026-09-28T05:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 61</category>
       <description>Route 61 detoured off Hennepin Ave from 8th St to Central Ave from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Ramp A/7th St Transit Center - Stop #17905 (eastbound); Nicollet Mall &amp; 3rd St S - Stop #17998 (northbound); Nicollet Mall &amp; 5th St S - Stop #17996 (northbound). | Action: Board at: Ramp A/7th St Transit Center - Stop #17905 (eastbound); Nicollet Mall &amp; 3rd St S - Stop #17998 (northbound); Nicollet Mall &amp; 5th St S - Stop #17996 (northbound)</description>
@@ -671,8 +644,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 67: Detour via Franklin Ave E &amp; 29th Ave S</title>
       <link>https://www.metrotransit.org/route/67</link>
-      <guid isPermaLink="false">Metro Transit-53183-2026-09-23T19:55:58.000Z</guid>
-      <pubDate>Wed, 23 Sep 2026 19:55:58 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53183-2026-09-28T05:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 67</category>
       <description>Route 67 detoured off Franklin Ave from 30th Ave to 27th Ave from 4:00 AM to 4:00 PM on Sun Oct 4 due to Twin Cites Marathon 2026. Board at: Franklin Ave E &amp; 29th Ave S - Stop #16512 (eastbound); Franklin Ave SE &amp; East River Rd - Stop #52059 (eastbound). | Action: Board at: Franklin Ave E &amp; 29th Ave S - Stop #16512 (eastbound); Franklin Ave SE &amp; East River Rd - Stop #52059 (eastbound)</description>
@@ -716,8 +689,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 68: Detour via Larpenteur Ave &amp; Jackson St</title>
       <link>https://www.metrotransit.org/route/68</link>
-      <guid isPermaLink="false">Metro Transit-53404-2026-09-27T19:51:21.000Z</guid>
-      <pubDate>Sun, 27 Sep 2026 19:51:21 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53404-2026-09-28T05:00:00.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 68</category>
       <description>Southbound Route 68 detoured off Jackson St from Larpenteur Ave to Arlington Ave and off Timberlake Rd beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Larpenteur Ave &amp; Jackson St - Stop #49947 (eastbound); Temporary stop on Arlington at Klainert St (westbound); LOrient St &amp; #1301 - Stop #49948 (southbound). | Action: Board at: Larpenteur Ave &amp; Jackson St - Stop #49947 (eastbound); Temporary stop on Arlington at Klainert St (westbound); LOrient St &amp; #1301 - Stop #49948 (southbound)</description>
@@ -752,8 +725,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 74: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/74</link>
-      <guid isPermaLink="false">Metro Transit-52941-2026-09-21T07:30:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 07:30:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52941-2026-09-28T08:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 08:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 74</category>
       <description>Route 74 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
@@ -761,8 +734,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 94: Detour via 4th St N &amp; Hennepin Ave</title>
       <link>https://www.metrotransit.org/route/94</link>
-      <guid isPermaLink="false">Metro Transit-53175-2026-09-22T20:12:36.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 20:12:36 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53175-2026-09-28T05:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 94</category>
       <description>Route 94 detoured off 6th St from 5th St Transit Center to 11th Ave from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: 5th St Transit Center Gate B - Stop #51200 (eastbound); 4th St N &amp; Hennepin Ave - Stop #17859 (eastbound); 4th St S &amp; Marquette Ave - Stop #17861 (eastbound). | Action: Board at: 5th St Transit Center Gate B - Stop #51200 (eastbound); 4th St N &amp; Hennepin Ave - Stop #17859 (eastbound); 4th St S &amp; Marquette Ave - Stop #17861 (eastbound)</description>
@@ -842,8 +815,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 515, Route 542: Detour via American Blvd &amp; Old Cedar Ave S</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-53295-2026-09-24T18:07:13.000Z</guid>
-      <pubDate>Thu, 24 Sep 2026 18:07:13 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53295-2026-09-28T05:00:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 515, Route 542</category>
       <description>Routes 515 and 542 detoured off American Blvd from Old Cedar Ave to 24th Ave from Tue Sep 29 at 9:00 PM to Wed Sep 30 at 5:00 AM due to construction. Board at: American &amp; Bloomington Station - Stop #42318 (eastbound); American Blvd &amp; Old Cedar Ave S - Stop #4529 (eastbound); MOA Transit Station Gate E - Stop #56877 (southbound, Route 515 only). | Action: Board at: American &amp; Bloomington Station - Stop #42318 (eastbound); American Blvd &amp; Old Cedar Ave S - Stop #4529 (eastbound); MOA Transit Station Gate E - Stop #56877 (southbound, Route 515 only)</description>
@@ -977,8 +950,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 724: Stop Closed at Xylon Ave N &amp; Zealand Ave N</title>
       <link>https://www.metrotransit.org/route/724</link>
-      <guid isPermaLink="false">Metro Transit-53305-2026-09-27T05:00:02.000Z</guid>
-      <pubDate>Sun, 27 Sep 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53305-2026-09-28T05:00:02.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 724</category>
       <description>Xylon Ave N &amp; Zealand Ave N - Stop #49376 (southbound) is closed for Route 724 beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Xylon Ave N &amp; 89th Ave N - Stop #49375 (southbound); Xylon Ave N &amp; Xylon Court - Stop #49377 (southbound). | Action: Board at: Xylon Ave N &amp; 89th Ave N - Stop #49375 (southbound); Xylon Ave N &amp; Xylon Court - Stop #49377 (southbound)</description>
