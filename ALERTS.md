@@ -2,75 +2,73 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-128-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-8-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-129-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-9-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-116-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-85-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-28T18:24:33.675Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-28T23:40:12.715Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (2) • **METRO D Line** (6) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (4) • **Route 7** (4) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 14** (3) • **Route 17** (3) • **Route 18** (7) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (2) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (7) • **Route 68C** (2) • **Route 68D** (1) • **Route 68G** (1) • **Route 68R** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 87** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 323** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (5) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (3) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (4) • **Route 7** (4) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 14** (3) • **Route 17** (3) • **Route 18** (7) • **Route 22** (5) • **Route 22H** (1) • **Route 25** (2) • **Route 27** (3) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (2) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (7) • **Route 68C** (2) • **Route 68D** (1) • **Route 68G** (1) • **Route 68R** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 87** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 323** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (4) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO C Line: Northbound 11:50 AM Trip Canceled (7th St & Park Station)
+### 🚨 Route 2: Westbound 4:48 PM Trip Canceled (2nd Ave SE & 7th St SE)
 
-- **Affected Routes**: `METRO C Line`
-- **Direction**: Northbound
+- **Affected Routes**: `Route 2`
+- **Direction**: Westbound
 - **Severity**: `Critical`
-- **Corridors & Intersections**: Northbound C Line trip departing 7th St & Park St
 
-**Summary**: Northbound C Line trip departing 7th St & Park Station at 11:50 AM canceled today due to medical emergency
+**Summary**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 4:48 PM canceled today due to traffic
 
-[Official Agency Advisory](https://www.metrotransit.org/route/cline)
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound C Line trip departing 7th St & Park Station at 11:50 AM canceled today due to medical emergency
+**Header**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 4:48 PM canceled today due to traffic
 
 </details>
 
 ---
 
-### 🚨 METRO C Line: Service Advisory
+### 🚨 Route 22, Route 22H: Service Advisory
 
-- **Affected Routes**: `METRO C Line`
+- **Affected Routes**: `Route 22` `Route 22H`
 - **Direction**: Southbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #9087, Stop #57278, Stop #56826, Stop #56834, Stop #9173, Stop #9577, Stop #56400, Stop #56422 *(+5 more)*
+- **Closed Stops**: Stop #11345, Stop #11351, Stop #11374, Stop #11378, Stop #11390, Stop #11394, Stop #11397, Stop #11608 *(+36 more)*
 
-**Summary**: Southbound C Line trip departing Brooklyn Ctr Transit Ctr at 12:38 PM will start from Olson & Penn. Previous stops missed due to medical emergency
+**Summary**: Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 4:42 PM will operate from 7th & Oak Lake at 5:11 PM today. Previous stops will be missed due to maintenance work
 
-[Official Agency Advisory](https://www.metrotransit.org/route/cline)
+[Official Agency Advisory](https://www.metrotransit.org/route/22)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound C Line trip departing Brooklyn Ctr Transit Ctr at 12:38 PM will start from Olson & Penn. Previous stops missed due to medical emergency
+**Header**: Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 4:42 PM will operate from 7th & Oak Lake at 5:11 PM today. Previous stops will be missed due to maintenance work
 
 </details>
 
 ---
 
-### 🚨 METRO D Line: Service Advisory
+### 🚨 Route 27: Service Canceled
 
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Southbound
+- **Affected Routes**: `Route 27`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #11146, Stop #11161, Stop #17905, Stop #17906, Stop #9577, Stop #9589, Stop #9611, Stop #56903 *(+9 more)*
 
-**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 11:33 AM will start from 8th & Nicollet Mall. Previous stops missed due to maintenance work
+**Summary**: Route 27 trips departing Uptown Transit Station - Gates D/E at 5:00 PM and departing Aldi Driveway & Wendys at 5:43 PM canceled today due to maintenance work
 
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+[Official Agency Advisory](https://www.metrotransit.org/route/27)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 11:33 AM will start from 8th & Nicollet Mall. Previous stops missed due to maintenance work
+**Header**: Route 27 trips departing Uptown Transit Station - Gates D/E at 5:00 PM and departing Aldi Driveway & Wendys at 5:43 PM canceled today due to maintenance work
 
 </details>
 
@@ -105,25 +103,6 @@ departing Westgate Station - Gate B at 5:34 PM
 departing Westgate Station - Gate B at 7:36 PM
 departing Westgate Station - Gate B at 9:36 PM
 ```
-
-</details>
-
----
-
-### 🚨 Route 54: Eastbound 1:00 PM Trip Canceled (MOA Transit Station Gate C)
-
-- **Affected Routes**: `Route 54`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-
-**Summary**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 1:00 PM canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/54)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 1:00 PM canceled today due to maintenance work
 
 </details>
 
@@ -189,6 +168,58 @@ departing Sun Ray Transit Center & Gate C at 7:46 PM
 Affected westbound trips:
 departing Woodlane Dr Station Gate B at 7:14 PM
 departing Woodlane Dr Station Gate B at 8:14 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 542: Service Canceled
+
+- **Affected Routes**: `Route 542`
+- **Direction**: All
+- **Severity**: `Critical`
+
+**Summary**: Route 542 trips departing American Blvd & Social Security Admin at 3:59 PM and departing American Blvd & Social Security Admin at 5:29 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/542)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 542 trips departing American Blvd & Social Security Admin at 3:59 PM and departing American Blvd & Social Security Admin at 5:29 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 615: Service Canceled
+
+- **Affected Routes**: `Route 615`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 615 trip departing Excelsior Blvd & Quentin Ave; departing Excelsior Blvd & Quentin Ave; 51 PM
+departing Excelsior Blvd & Quentin Ave
+
+**Summary**: Route 615 trip departing Excelsior Blvd & Quentin Ave at 1:51 PM and five other trips canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/615)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 615 trip departing Excelsior Blvd & Quentin Ave at 1:51 PM and five other trips canceled today due to traffic
+
+```text
+Affected eastbound trips:
+departing Ridgedale Mall & East Entrance at 2:51 PM
+departing Ridgedale Mall & East Entrance at 4:51 PM
+departing Ridgedale Mall & East Entrance at 6:51 PM
+
+Affected westbound trips:
+departing Excelsior Blvd & Quentin Ave at 1:51 PM
+departing Excelsior Blvd & Quentin Ave at 3:51 PM
+departing Excelsior Blvd & Quentin Ave at 5:51 PM
 ```
 
 </details>

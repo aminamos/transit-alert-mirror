@@ -4,35 +4,35 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Mon, 28 Sep 2026 18:24:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 23:40:12 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO C Line: Northbound 11:50 AM Trip Canceled (7th St &amp; Park Station)</title>
-      <link>https://www.metrotransit.org/route/cline</link>
-      <guid isPermaLink="false">Metro Transit-53441-2026-09-28T18:21:01.000Z</guid>
-      <pubDate>Mon, 28 Sep 2026 18:21:01 GMT</pubDate>
+      <title>[Critical] Route 2: Westbound 4:48 PM Trip Canceled (2nd Ave SE &amp; 7th St SE)</title>
+      <link>https://www.metrotransit.org/route/2</link>
+      <guid isPermaLink="false">Metro Transit-53465-2026-09-28T22:10:52.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 22:10:52 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO C Line</category>
-      <description>Northbound C Line trip departing 7th St &amp; Park Station at 11:50 AM canceled today due to medical emergency</description>
+      <category>Route 2</category>
+      <description>Westbound Route 2 trip departing 2nd Ave SE &amp; 7th St SE at 4:48 PM canceled today due to traffic</description>
     </item>
     <item>
-      <title>[Critical] METRO C Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/cline</link>
-      <guid isPermaLink="false">Metro Transit-53442-2026-09-28T17:36:21.000Z</guid>
-      <pubDate>Mon, 28 Sep 2026 17:36:21 GMT</pubDate>
+      <title>[Critical] Route 22, Route 22H: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/22</link>
+      <guid isPermaLink="false">Metro Transit-53462-2026-09-28T21:35:35.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 21:35:35 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO C Line</category>
-      <description>Southbound C Line trip departing Brooklyn Ctr Transit Ctr at 12:38 PM will start from Olson &amp; Penn. Previous stops missed due to medical emergency</description>
+      <category>Route 22, Route 22H</category>
+      <description>Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 4:42 PM will operate from 7th &amp; Oak Lake at 5:11 PM today. Previous stops will be missed due to maintenance work</description>
     </item>
     <item>
-      <title>[Critical] METRO D Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-53439-2026-09-28T16:41:01.000Z</guid>
-      <pubDate>Mon, 28 Sep 2026 16:41:01 GMT</pubDate>
+      <title>[Critical] Route 27: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/27</link>
+      <guid isPermaLink="false">Metro Transit-53464-2026-09-28T22:46:17.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 22:46:17 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 11:33 AM will start from 8th &amp; Nicollet Mall. Previous stops missed due to maintenance work</description>
+      <category>Route 27</category>
+      <description>Route 27 trips departing Uptown Transit Station - Gates D/E at 5:00 PM and departing Aldi Driveway &amp; Wendys at 5:43 PM canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Critical] Route 30: Service Canceled</title>
@@ -42,15 +42,6 @@
       <category>Critical</category>
       <category>Route 30</category>
       <description>Route 30 trip departing Westgate Station - Gate B at 3:34 PM and six other trips canceled on Fri Oct 2</description>
-    </item>
-    <item>
-      <title>[Critical] Route 54: Eastbound 1:00 PM Trip Canceled (MOA Transit Station Gate C)</title>
-      <link>https://www.metrotransit.org/route/54</link>
-      <guid isPermaLink="false">Metro Transit-53445-2026-09-28T17:59:38.000Z</guid>
-      <pubDate>Mon, 28 Sep 2026 17:59:38 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 54</category>
-      <description>Eastbound Route 54 trip departing MOA Transit Station Gate C at 1:00 PM canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Critical] Route 72: Service Canceled</title>
@@ -64,11 +55,29 @@
     <item>
       <title>[Critical] Route 323: Service Canceled</title>
       <link>https://www.metrotransit.org/route/323</link>
-      <guid isPermaLink="false">Metro Transit-53446-2026-09-28T18:00:25.000Z</guid>
-      <pubDate>Mon, 28 Sep 2026 18:00:25 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53446-2026-09-28T23:16:00.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 23:16:00 GMT</pubDate>
       <category>Critical</category>
       <category>Route 323</category>
       <description>Route 323 trip departing Sun Ray Transit Center &amp; Gate C at 6:46 PM and three other trips canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 542: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/542</link>
+      <guid isPermaLink="false">Metro Transit-53458-2026-09-28T20:29:01.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 20:29:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 542</category>
+      <description>Route 542 trips departing American Blvd &amp; Social Security Admin at 3:59 PM and departing American Blvd &amp; Social Security Admin at 5:29 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 615: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/615</link>
+      <guid isPermaLink="false">Metro Transit-53447-2026-09-28T18:52:40.000Z</guid>
+      <pubDate>Mon, 28 Sep 2026 18:52:40 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 615</category>
+      <description>Route 615 trip departing Excelsior Blvd &amp; Quentin Ave at 1:51 PM and five other trips canceled today due to traffic</description>
     </item>
     <item>
       <title>[Critical] Route 805: Service Canceled</title>

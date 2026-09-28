@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-28T18:24:33.675Z",
-    "totalAlerts": 128,
-    "criticalCount": 8,
+    "generatedAt": "2026-09-28T23:40:12.715Z",
+    "totalAlerts": 129,
+    "criticalCount": 9,
     "moderateCount": 116,
     "minorCount": 4,
     "affectedRoutesCount": 85,
@@ -12,204 +12,260 @@
   },
   "alerts": [
     {
-      "id": "53441",
+      "id": "53465",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO C Line: Northbound 11:50 AM Trip Canceled (7th St & Park Station)",
-      "summary": "Northbound C Line trip departing 7th St & Park Station at 11:50 AM canceled today due to medical emergency",
+      "title": "Route 2: Westbound 4:48 PM Trip Canceled (2nd Ave SE & 7th St SE)",
+      "summary": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 4:48 PM canceled today due to traffic",
       "affectedRoutes": [
-        "METRO C Line"
+        "Route 2"
       ],
-      "direction": "Northbound",
-      "intersections": [
-        "Northbound C Line trip departing 7th St & Park St"
-      ],
+      "direction": "Westbound",
+      "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
-      "activePeriod": {},
-      "cause": "MEDICAL_EMERGENCY",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/cline",
-      "updatedAt": "2026-09-28T18:21:01.000Z",
-      "rawHeader": "Northbound C Line trip departing 7th St & Park Station at 11:50 AM canceled today due to medical emergency",
-      "rawDescription": ""
-    },
-    {
-      "id": "53442",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO C Line: Service Advisory",
-      "summary": "Southbound C Line trip departing Brooklyn Ctr Transit Ctr at 12:38 PM will start from Olson & Penn. Previous stops missed due to medical emergency",
-      "affectedRoutes": [
-        "METRO C Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [
-        "9087",
-        "57278",
-        "56826",
-        "56834",
-        "9173",
-        "9577",
-        "56400",
-        "56422",
-        "56528",
-        "9674",
-        "11098",
-        "52664",
-        "52667"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "9087"
-        },
-        {
-          "id": "57278"
-        },
-        {
-          "id": "56826"
-        },
-        {
-          "id": "56834"
-        },
-        {
-          "id": "9173"
-        },
-        {
-          "id": "9577"
-        },
-        {
-          "id": "56400"
-        },
-        {
-          "id": "56422"
-        },
-        {
-          "id": "56528"
-        },
-        {
-          "id": "9674"
-        },
-        {
-          "id": "11098"
-        },
-        {
-          "id": "52664"
-        },
-        {
-          "id": "52667"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-28T17:38:00.000Z",
-        "end": "2026-09-28T19:13:00.000Z"
+        "start": "2026-09-28T22:10:00.000Z",
+        "end": "2026-09-28T23:42:00.000Z"
       },
-      "cause": "MEDICAL_EMERGENCY",
+      "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/cline",
-      "updatedAt": "2026-09-28T17:36:21.000Z",
-      "rawHeader": "Southbound C Line trip departing Brooklyn Ctr Transit Ctr at 12:38 PM will start from Olson & Penn. Previous stops missed due to medical emergency",
+      "url": "https://www.metrotransit.org/route/2",
+      "updatedAt": "2026-09-28T22:10:52.000Z",
+      "rawHeader": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 4:48 PM canceled today due to traffic",
       "rawDescription": ""
     },
     {
-      "id": "53439",
+      "id": "53462",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO D Line: Service Advisory",
-      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 11:33 AM will start from 8th & Nicollet Mall. Previous stops missed due to maintenance work",
+      "title": "Route 22, Route 22H: Service Advisory",
+      "summary": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 4:42 PM will operate from 7th & Oak Lake at 5:11 PM today. Previous stops will be missed due to maintenance work",
       "affectedRoutes": [
-        "METRO D Line"
+        "Route 22",
+        "Route 22H"
       ],
       "direction": "Southbound",
       "intersections": [],
       "closedStopIds": [
-        "11146",
-        "11161",
-        "17905",
-        "17906",
-        "9577",
-        "9589",
-        "9611",
-        "56903",
-        "56904",
-        "56905",
-        "56906",
-        "56907",
-        "56908",
+        "11345",
+        "11351",
+        "11374",
+        "11378",
+        "11390",
+        "11394",
+        "11397",
+        "11608",
+        "11616",
+        "11618",
+        "11622",
+        "11625",
+        "11628",
+        "11629",
+        "11630",
+        "11632",
+        "11633",
+        "11635",
+        "11641",
+        "11644",
+        "11646",
+        "11649",
+        "11652",
+        "11653",
+        "11654",
+        "11656",
+        "50142",
+        "41839",
+        "50610",
+        "50611",
+        "51287",
+        "52750",
+        "51791",
+        "52680",
+        "52682",
+        "9086",
         "9087",
-        "9173",
-        "56823",
-        "56317"
+        "9090",
+        "9097",
+        "9100",
+        "9102",
+        "9106",
+        "56955",
+        "56825"
       ],
       "closedStopDetails": [
         {
-          "id": "11146"
+          "id": "11345"
         },
         {
-          "id": "11161"
+          "id": "11351"
         },
         {
-          "id": "17905"
+          "id": "11374"
         },
         {
-          "id": "17906"
+          "id": "11378"
         },
         {
-          "id": "9577"
+          "id": "11390"
         },
         {
-          "id": "9589"
+          "id": "11394"
         },
         {
-          "id": "9611"
+          "id": "11397"
         },
         {
-          "id": "56903"
+          "id": "11608"
         },
         {
-          "id": "56904"
+          "id": "11616"
         },
         {
-          "id": "56905"
+          "id": "11618"
         },
         {
-          "id": "56906"
+          "id": "11622"
         },
         {
-          "id": "56907"
+          "id": "11625"
         },
         {
-          "id": "56908"
+          "id": "11628"
+        },
+        {
+          "id": "11629"
+        },
+        {
+          "id": "11630"
+        },
+        {
+          "id": "11632"
+        },
+        {
+          "id": "11633"
+        },
+        {
+          "id": "11635"
+        },
+        {
+          "id": "11641"
+        },
+        {
+          "id": "11644"
+        },
+        {
+          "id": "11646"
+        },
+        {
+          "id": "11649"
+        },
+        {
+          "id": "11652"
+        },
+        {
+          "id": "11653"
+        },
+        {
+          "id": "11654"
+        },
+        {
+          "id": "11656"
+        },
+        {
+          "id": "50142"
+        },
+        {
+          "id": "41839"
+        },
+        {
+          "id": "50610"
+        },
+        {
+          "id": "50611"
+        },
+        {
+          "id": "51287"
+        },
+        {
+          "id": "52750"
+        },
+        {
+          "id": "51791"
+        },
+        {
+          "id": "52680"
+        },
+        {
+          "id": "52682"
+        },
+        {
+          "id": "9086"
         },
         {
           "id": "9087"
         },
         {
-          "id": "9173"
+          "id": "9090"
         },
         {
-          "id": "56823"
+          "id": "9097"
         },
         {
-          "id": "56317"
+          "id": "9100"
+        },
+        {
+          "id": "9102"
+        },
+        {
+          "id": "9106"
+        },
+        {
+          "id": "56955"
+        },
+        {
+          "id": "56825"
         }
       ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-28T16:40:00.000Z",
-        "end": "2026-09-28T18:46:00.000Z"
+        "start": "2026-09-28T21:42:00.000Z",
+        "end": "2026-09-29T00:11:00.000Z"
       },
       "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-09-28T16:41:01.000Z",
-      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 11:33 AM will start from 8th & Nicollet Mall. Previous stops missed due to maintenance work",
+      "url": "https://www.metrotransit.org/route/22",
+      "updatedAt": "2026-09-28T21:35:35.000Z",
+      "rawHeader": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 4:42 PM will operate from 7th & Oak Lake at 5:11 PM today. Previous stops will be missed due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "53464",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 27: Service Canceled",
+      "summary": "Route 27 trips departing Uptown Transit Station - Gates D/E at 5:00 PM and departing Aldi Driveway & Wendys at 5:43 PM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "Route 27"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-28T22:45:00.000Z",
+        "end": "2026-09-29T00:07:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/27",
+      "updatedAt": "2026-09-28T22:46:17.000Z",
+      "rawHeader": "Route 27 trips departing Uptown Transit Station - Gates D/E at 5:00 PM and departing Aldi Driveway & Wendys at 5:43 PM canceled today due to maintenance work",
       "rawDescription": ""
     },
     {
@@ -240,32 +296,6 @@
       "updatedAt": "2026-09-28T17:39:06.000Z",
       "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 3:34 PM and six other trips canceled on Fri Oct 2",
       "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 4:24 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 6:26 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 8:25 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 3:34 PM\r\ndeparting Westgate Station - Gate B at 5:34 PM\r\ndeparting Westgate Station - Gate B at 7:36 PM\r\ndeparting Westgate Station - Gate B at 9:36 PM"
-    },
-    {
-      "id": "53445",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 54: Eastbound 1:00 PM Trip Canceled (MOA Transit Station Gate C)",
-      "summary": "Eastbound Route 54 trip departing MOA Transit Station Gate C at 1:00 PM canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 54"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-28T18:00:00.000Z",
-        "end": "2026-09-28T19:38:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/54",
-      "updatedAt": "2026-09-28T17:59:38.000Z",
-      "rawHeader": "Eastbound Route 54 trip departing MOA Transit Station Gate C at 1:00 PM canceled today due to maintenance work",
-      "rawDescription": ""
     },
     {
       "id": "53443",
@@ -319,9 +349,65 @@
       "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/323",
-      "updatedAt": "2026-09-28T18:00:25.000Z",
+      "updatedAt": "2026-09-28T23:16:00.000Z",
       "rawHeader": "Route 323 trip departing Sun Ray Transit Center & Gate C at 6:46 PM and three other trips canceled today due to traffic",
       "rawDescription": "Affected eastbound trips:\r\ndeparting Sun Ray Transit Center & Gate C at 6:46 PM\r\ndeparting Sun Ray Transit Center & Gate C at 7:46 PM\r\n\nAffected westbound trips:\r\ndeparting Woodlane Dr Station Gate B at 7:14 PM\r\ndeparting Woodlane Dr Station Gate B at 8:14 PM"
+    },
+    {
+      "id": "53458",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 542: Service Canceled",
+      "summary": "Route 542 trips departing American Blvd & Social Security Admin at 3:59 PM and departing American Blvd & Social Security Admin at 5:29 PM canceled today",
+      "affectedRoutes": [
+        "Route 542"
+      ],
+      "direction": "All",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-28T20:59:00.000Z",
+        "end": "2026-09-28T23:58:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/542",
+      "updatedAt": "2026-09-28T20:29:01.000Z",
+      "rawHeader": "Route 542 trips departing American Blvd & Social Security Admin at 3:59 PM and departing American Blvd & Social Security Admin at 5:29 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "53447",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 615: Service Canceled",
+      "summary": "Route 615 trip departing Excelsior Blvd & Quentin Ave at 1:51 PM and five other trips canceled today due to traffic",
+      "affectedRoutes": [
+        "Route 615"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 615 trip departing Excelsior Blvd & Quentin Ave",
+        "departing Excelsior Blvd & Quentin Ave",
+        "51 PM\ndeparting Excelsior Blvd & Quentin Ave"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-28T18:52:00.000Z",
+        "end": "2026-09-29T01:43:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/615",
+      "updatedAt": "2026-09-28T18:52:40.000Z",
+      "rawHeader": "Route 615 trip departing Excelsior Blvd & Quentin Ave at 1:51 PM and five other trips canceled today due to traffic",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Ridgedale Mall & East Entrance at 2:51 PM\r\ndeparting Ridgedale Mall & East Entrance at 4:51 PM\r\ndeparting Ridgedale Mall & East Entrance at 6:51 PM\r\n\nAffected westbound trips:\r\ndeparting Excelsior Blvd & Quentin Ave at 1:51 PM\r\ndeparting Excelsior Blvd & Quentin Ave at 3:51 PM\r\ndeparting Excelsior Blvd & Quentin Ave at 5:51 PM"
     },
     {
       "id": "53432",
@@ -1810,9 +1896,9 @@
         "17928",
         "17931",
         "177",
-        "102",
         "103",
-        "104"
+        "104",
+        "102"
       ],
       "closedStopDetails": [
         {
@@ -1960,13 +2046,13 @@
           "id": "177"
         },
         {
-          "id": "102"
-        },
-        {
           "id": "103"
         },
         {
           "id": "104"
+        },
+        {
+          "id": "102"
         }
       ],
       "riderAlternative": "Board at: Lyndale & 24th - Stop #175; Temporary stop on 24th & Nicollet; Nicollet & Franklin - Stop #1905",
@@ -9386,7 +9472,7 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-09-28T15:18:00.000Z",
-        "end": "2026-09-28T20:24:24.000Z"
+        "end": "2026-09-29T01:38:23.000Z"
       },
       "cause": "ACCIDENT",
       "effect": "OTHER_EFFECT",
