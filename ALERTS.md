@@ -2,21 +2,234 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-113-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-110-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-74-brightgreen)](#-routes-index)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-128-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-8-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-116-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-85-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-28T10:30:29.442Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-28T18:24:33.675Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (4) • **METRO E Line** (3) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (3) • **Route 4L** (1) • **Route 4P** (1) • **Route 5** (4) • **Route 7** (4) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 14** (3) • **Route 17** (3) • **Route 18** (7) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (2) • **METRO D Line** (6) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (4) • **Route 7** (4) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 14** (3) • **Route 17** (3) • **Route 18** (7) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (2) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (7) • **Route 68C** (2) • **Route 68D** (1) • **Route 68G** (1) • **Route 68R** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 87** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 323** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 METRO C Line: Northbound 11:50 AM Trip Canceled (7th St & Park Station)
+
+- **Affected Routes**: `METRO C Line`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Northbound C Line trip departing 7th St & Park St
+
+**Summary**: Northbound C Line trip departing 7th St & Park Station at 11:50 AM canceled today due to medical emergency
+
+[Official Agency Advisory](https://www.metrotransit.org/route/cline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound C Line trip departing 7th St & Park Station at 11:50 AM canceled today due to medical emergency
+
+</details>
+
+---
+
+### 🚨 METRO C Line: Service Advisory
+
+- **Affected Routes**: `METRO C Line`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #9087, Stop #57278, Stop #56826, Stop #56834, Stop #9173, Stop #9577, Stop #56400, Stop #56422 *(+5 more)*
+
+**Summary**: Southbound C Line trip departing Brooklyn Ctr Transit Ctr at 12:38 PM will start from Olson & Penn. Previous stops missed due to medical emergency
+
+[Official Agency Advisory](https://www.metrotransit.org/route/cline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound C Line trip departing Brooklyn Ctr Transit Ctr at 12:38 PM will start from Olson & Penn. Previous stops missed due to medical emergency
+
+</details>
+
+---
+
+### 🚨 METRO D Line: Service Advisory
+
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #11146, Stop #11161, Stop #17905, Stop #17906, Stop #9577, Stop #9589, Stop #9611, Stop #56903 *(+9 more)*
+
+**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 11:33 AM will start from 8th & Nicollet Mall. Previous stops missed due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 11:33 AM will start from 8th & Nicollet Mall. Previous stops missed due to maintenance work
+
+</details>
+
+---
+
+### 🚨 Route 30: Service Canceled
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 24 PM
+departing Knox Ave N & Golden Valley Rd
+
+**Summary**: Route 30 trip departing Westgate Station - Gate B at 3:34 PM and six other trips canceled on Fri Oct 2
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 30 trip departing Westgate Station - Gate B at 3:34 PM and six other trips canceled on Fri Oct 2
+
+```text
+Affected eastbound trips:
+departing Knox Ave N & Golden Valley Rd at 4:24 PM
+departing Knox Ave N & Golden Valley Rd at 6:26 PM
+departing Golden Valley Rd Turn & Xerxes Ave N at 8:25 PM
+
+Affected westbound trips:
+departing Westgate Station - Gate B at 3:34 PM
+departing Westgate Station - Gate B at 5:34 PM
+departing Westgate Station - Gate B at 7:36 PM
+departing Westgate Station - Gate B at 9:36 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 54: Eastbound 1:00 PM Trip Canceled (MOA Transit Station Gate C)
+
+- **Affected Routes**: `Route 54`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 1:00 PM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/54)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 1:00 PM canceled today due to maintenance work
+
+</details>
+
+---
+
+### 🚨 Route 72: Service Canceled
+
+- **Affected Routes**: `Route 72`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing Pascal St N & Central Ave W; 20 PM
+departing Pascal St N & Central Ave W; 21 PM
+departing Pascal St N & Central Ave W
+
+**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 12:20 PM and eight other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/72)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 12:20 PM and eight other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Pascal St N & Central Ave W at 2:20 PM
+departing Pascal St N & Central Ave W at 4:20 PM
+departing Pascal St N & Central Ave W at 6:21 PM
+departing Pascal St N & Central Ave W at 8:23 PM
+
+Affected westbound trips:
+departing Sun Ray Transit Center & Gate D at 12:20 PM
+departing Sun Ray Transit Center & Gate D at 3:19 PM
+departing Sun Ray Transit Center & Gate D at 5:18 PM
+departing Sun Ray Transit Center & Gate D at 7:21 PM
+departing Sun Ray Transit Center & Gate D at 9:21 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 323: Service Canceled
+
+- **Affected Routes**: `Route 323`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 323 trip departing Sun Ray Transit Center & Gate C at 6:46 PM and three other trips canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/323)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 323 trip departing Sun Ray Transit Center & Gate C at 6:46 PM and three other trips canceled today due to traffic
+
+```text
+Affected eastbound trips:
+departing Sun Ray Transit Center & Gate C at 6:46 PM
+departing Sun Ray Transit Center & Gate C at 7:46 PM
+
+Affected westbound trips:
+departing Woodlane Dr Station Gate B at 7:14 PM
+departing Woodlane Dr Station Gate B at 8:14 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 805: Service Canceled
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
+departing 1st Ave S & Monroe St; 38 PM
+departing 1st Ave S & Monroe St; 36 PM
+departing 1st Ave S & Monroe St
+
+**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to traffic
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate D at 12:34 PM
+departing Northtown Transit Ctr Gate D at 2:34 PM
+departing Northtown Transit Ctr Gate D at 4:34 PM
+
+Affected southbound trips:
+departing 1st Ave S & Monroe St at 11:38 AM
+departing 1st Ave S & Monroe St at 1:38 PM
+departing 1st Ave S & Monroe St at 3:36 PM
+departing 1st Ave S & Monroe St at 5:38 PM
+```
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -240,6 +453,36 @@ Southbound buses will travel regular route on American Blvd to Old Cedar, right 
 Affected stops:
 American & Thunderbird Station - Stop #4513 (westbound)
 American & Thunderbird Station - Stop #4530 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ METRO D Line: Stop Closed at Portland Ave & 61st St
+
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Northbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Portland Ave & 61st St; Chicago Ave & 56th St E
+- **Closed Stops**: Stop #81078, Stop #737
+
+**Summary**: Portland & 60th St Station - Stop #737 (northbound) is closed for D Line until further notice due to construction. Board at: Portland & 66th St Station - Stop #643 (northbound); Temporary stop on Portland Ave & 61st St (northbound); Chicago Ave & 56th St E - Stop #81078 (northbound).
+
+> 💡 **Rider Action**: Board at: Portland & 66th St Station - Stop #643 (northbound); Temporary stop on Portland Ave & 61st St (northbound); Chicago Ave & 56th St E - Stop #81078 (northbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Portland & 60th St Station - Stop #737 (northbound) is closed for D Line until further notice due to construction
+
+```text
+Get on/off buses at:
+Portland & 66th St Station - Stop #643 (northbound)
+Temporary stop on Portland Ave & 61st St (northbound)
+Chicago Ave & 56th St E - Stop #81078 (northbound)
 ```
 
 </details>
@@ -758,22 +1001,19 @@ Penn Ave S & 54th St W - Stop #1023 (southbound)
 
 ---
 
-### ⚠️ Route 4: Detour via Route 4 detoured off Lyndale Ave & Hennepin Ave
+### ⚠️ Route 4, Route 4B, Route 4P, Route 4L: Detour via Route 4 detoured off Lyndale Ave & Hennepin Ave
 
-- **Affected Routes**: `Route 4`
+- **Affected Routes**: `Route 4` `Route 4B` `Route 4P` `Route 4L`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Route 4 detoured off Lyndale Ave & Hennepin Ave; Lyndale Ave S & 24th St W; 175
-Temporary stop on 24th St E & Nicollet Ave
-N; icollet Ave S & Franklin Ave W; 1905
-Nicollet Ave S & 18th St E
-- **Closed Stops**: Lyndale Ave S & 22nd St W (Stop #20031), Lyndale Ave S & Franklin Ave W (Stop #177), Hennepin & Groveland Station (Stop #17936), Hennepin Ave & Oak Grove St (Stop #17937), Hennepin Ave & Maple St (16th St) (Stop #17939), Hennepin & Spruce Station (Stop #17941), Hennepin Ave & 12th St S (Stop #17942), Hennepin & 10th St Station (Stop #17944) *(+43 more)*
+- **Corridors & Intersections**: Route 4 detoured off Lyndale Ave & Hennepin Ave
+- **Closed Stops**: Stop #1905, Stop #1911, Stop #1914, Stop #1920, Stop #17988, Stop #17990, Stop #17992, Stop #17994 *(+43 more)*
 
-**Summary**: Route 4 detoured off Lyndale Ave/Hennepin Ave from 24th St W to Central Ave from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Lyndale Ave S & 24th St W - Stop #175; Temporary stop on 24th St E & Nicollet Ave; Nicollet Ave S & Franklin Ave W - Stop #1905.
+**Summary**: Route 4 detoured off Lyndale Ave/Hennepin Ave from 24th St W to Central Ave from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Lyndale & 24th - Stop #175; Temporary stop on 24th & Nicollet; Nicollet & Franklin - Stop #1905.
 
-> 💡 **Rider Action**: Board at: Lyndale Ave S & 24th St W - Stop #175; Temporary stop on 24th St E & Nicollet Ave; Nicollet Ave S & Franklin Ave W - Stop #1905
+> 💡 **Rider Action**: Board at: Lyndale & 24th - Stop #175; Temporary stop on 24th & Nicollet; Nicollet & Franklin - Stop #1905
 
-> 🔄 **Detour Path**: Northbound buses will travel regular route on Lyndale Ave to 24th St, right on 24th St, left on Nicollet Ave, right on Washington Ave, left on 3rd Ave, right on Hennepin Ave and resume regular route.
+> 🔄 **Detour Path**: buses will travel regular route on Lyndale to 24th St, right on 24th St, left on Nicollet, right on Washington, left on 3rd, right on Hennepin and resume regular route.
 
 [Official Agency Advisory](https://www.metrotransit.org/route/4)
 
@@ -783,71 +1023,77 @@ Nicollet Ave S & 18th St E
 **Header**: Route 4 detoured off Lyndale Ave/Hennepin Ave from 24th St W to Central Ave from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026
 
 ```text
+Updated 9/28 at 9AM to reflect additional detour directions for buses originating and terminating in downtown.
+
 Get on/off northbound buses at:
-Lyndale Ave S & 24th St W - Stop #175
-Temporary stop on 24th St E & Nicollet Ave
-Nicollet Ave S & Franklin Ave W - Stop #1905
-Nicollet Ave S & 18th St E - Stop #1911
-Nicollet Ave S & 16th St E - Stop #1914
-Nicollet Ave S & 14th St / Grant St E - Stop #1920
-Nicollet Mall & Alice Rainville Pl - Stop #17988
-Nicollet Mall & 11th St S - Stop #17990
-Nicollet Mall & 9th St S - Stop #17992
-Nicollet Mall & 7th St S - Stop #17994
-Nicollet Mall & 5th St S - Stop #17996
-Nicollet Mall & 3rd St S - Stop #17998
-Hennepin Ave E & 6th St SE - Stop #14955 
+Lyndale & 24th - Stop #175
+Temporary stop on 24th & Nicollet
+Nicollet & Franklin - Stop #1905
+Nicollet & 18th - Stop #1911
+Nicollet & 16th - Stop #1914
+Nicollet & 14th / Grant - Stop #1920
+Nicollet Mall & Alice Rainville - Stop #17988
+Nicollet Mall & 11th - Stop #17990
+Nicollet Mall & 9th - Stop #17992
+Nicollet Mall & 7th - Stop #17994
+Nicollet Mall & 5th - Stop #17996
+Nicollet Mall & 3rd - Stop #17998
+Hennepin & 6th St SE - Stop #14955 
 
 Get on/off southbound buses at:
-1st Ave NE & 4th St NE - Stop #15559
-Nicollet Mall & 3rd St - Stop #17998
-Nicollet Mall & 5th St S - Stop #17978
-Nicollet Mall & 7th St S - Stop #17980
-Nicollet Mall & 9th St S - Stop #17982
-Nicollet Mall & 11th St S - Stop #17984
-Nicollet Mall & Alice Rainville Place - Stop #17986
-Nicollet Ave S & Grant St E - Stop #1197
-Nicollet Ave S & 16th St / Hwy 94 - Stop #1199
-Nicollet Ave S & 18th St W - Stop #1200
-Nicollet Ave S & Franklin Ave W - Stop #1202
-Temporary stop on 24th St E just past Nicollet Ave
-Lyndale Ave S & 26th St W - Stop #106
+1st NE & 4th St NE - Stop #15559
+Nicollet Mall & 3rd - Stop #17998
+Nicollet Mall & 5th - Stop #17978
+Nicollet Mall & 7th - Stop #17980
+Nicollet Mall & 9th - Stop #17982
+Nicollet Mall & 11th - Stop #17984
+Nicollet Mall & Alice Rainville - Stop #17986
+Nicollet & Grant - Stop #1197
+Nicollet & 16th / Hwy 94 - Stop #1199
+Nicollet & 18th - Stop #1200
+Nicollet & Franklin - Stop #1202
+Temporary stop on 24th just past Nicollet
+Lyndale & 26th - Stop #106
 
-Northbound buses will travel regular route on Lyndale Ave to 24th St, right on 24th St, left on Nicollet Ave, right on Washington Ave, left on 3rd Ave, right on Hennepin Ave and resume regular route.
+Northbound Route 4B buses will travel regular route on Lyndale to 24th St, right on 24th St, left on Nicollet, right on Washington, left on 3rd, right on Hennepin and resume regular route.
 
-Southbound buses will travel regular route on 1st Ave NE, left on University Ave, right on Central Ave, right on Washington Ave, left on Nicollet Mall, right on 24th St, left on Lyndale Ave and resume regular route.
+Northbound Route 4 buses will travel the regular route on Lyndale to 24th St, right on 24th St, left on Nicollet, right on Washington, right on 4th Ave S, left into Gateway Ramp, and terminate.
+
+Southbound Route 4P buses will travel regular route on 1st St NE, left on University, right on Central, right on Washington, left on Nicollet Mall, right on 24th St, left on Lyndale and resume regular route.
+
+Southbound Route 4L will exit Gateway Ramp via 5th Ave S, left on 5th Ave S, left on Washington, left on Nicollet Mall, right on 24th St, left on Lyndale and resume regular route.
 
 Affected stops:
-Lyndale Ave S & 22nd St W - Stop #20031
-Lyndale Ave S & Franklin Ave W - Stop #177
-Hennepin & Groveland Station - Stop #17936
-Hennepin Ave & Oak Grove St - Stop #17937
-Hennepin Ave & Maple St (16th St) - Stop #17939
-Hennepin & Spruce Station - Stop #17941
-Hennepin Ave & 12th St S - Stop #17942
-Hennepin & 10th St Station - Stop #17944
-Hennepin & 8th St Station - Stop #53099
-Hennepin & 5th St Station - Stop #17947
-Hennepin & 4th St Station - Stop #17948
-Hennepin & Gateway Station - Stop #17951
-Hennepin Ave & 1st St S - Stop #17952
-Hennepin Ave E & Wilder St - Stop #17953
-Hennepin & 2nd St NE Station - Stop #15477
-Hennepin Ave E & 4th St SE - Stop #57457
-1st Ave & 2nd St NE Station - Stop #15562
-Hennepin Ave E & De LaSalle Dr - Stop #17916
-Hennepin Ave & 1st St N - Stop #17917
-Hennepin & Gateway Station - Stop #17919
-Hennepin & 3rd St Station - Stop #17921
-Hennepin & 5th St Station - Stop #17922
-Hennepin & 8th St Station - Stop #17923
-Hennepin & 11th St Station - Stop #17925
-Hennepin & Laurel Station - Stop #17927
-Hennepin Ave & 16th St (Maple) - Stop #17928
-Lyndale Ave S & Vineland Place - Stop #17931 
-Lyndale Ave S & Franklin Ave W - Stop #102
-Lyndale Ave S & 22nd St W - Stop #103
-Lyndale Ave S & 24th St W - Stop #104
+Lyndale & 22nd - #20031
+Lyndale & Franklin - #177
+Hennepin & Groveland Station - #17936
+Hennepin & Oak Grove St - #17937
+Hennepin & Maple (16th St) - #17939
+Hennepin & Spruce Station - #17941
+Hennepin & 12th - #17942
+Hennepin & 10th Station - #17944
+Hennepin & 8th Station - #53099
+Hennepin & 5th Station - #17947
+Hennepin & 4th Station - #17948
+Hennepin & Gateway Station - #17951
+Hennepin & 1st - #17952
+Hennepin & Wilder - #17953
+Hennepin & 2nd St NE Station - #15477
+Hennepin & 4th St SE - #57457
+1st & 2nd St NE Station - #15562
+Hennepin & De LaSalle - #17916
+Hennepin & 1st - #17917
+Hennepin & Gateway Station - #17919
+Hennepin & 3rd Station - #17921
+Hennepin & 5th Station - #17922
+Hennepin & 8th Station - #17923
+Hennepin & 11th Station - #17925
+Hennepin & Laurel Station - #17927
+Hennepin & 16th (Maple) - #17928
+Lyndale & Vineland - #17931 
+Lyndale & Franklin - #102
+Lyndale & 22nd - #103
+Lyndale & 24th - #104
 ```
 
 </details>
@@ -2872,6 +3118,49 @@ Hennepin Ave & 6th St / 7th St N - Stop #40168 (southbound)
 
 ---
 
+### ⚠️ Route 61: Detour via Larpenteur Ave & McMenemy St
+
+- **Affected Routes**: `Route 61`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Larpenteur Ave & McMenemy St; Arlington Ave & Jackson St; Arlington Ave & Sylvan St; Jackson St & Wheelock Pkwy; Jackson St & Arlington Ave
+- **Closed Stops**: Larpenteur Ave & Hwy 35E / Adolphus (Stop #50156), Jackson St & Wheelock Pkwy (Stop #49677), Jackson St & #1577 (Stop #49678), Jackson St & #1494 Unit D (Stop #49679), Jackson St & Arlington Ave (Stop #49680), Stop #41057, Stop #49682, Stop #1577 *(+1 more)*
+
+**Summary**: Route 61 detoured off Larpenteur Ave from L'Orient St to Jackson St and off Jackson St from Larpenteur Ave to Arlington Ave until further notice due to construction. Board at: Larpenteur Ave & McMenemy St - Stop #41057 (westbound); Temporary stop on Arlington Ave & Jackson St (westbound); Arlington Ave & Sylvan St - Stop #49682 (westbound).
+
+> 💡 **Rider Action**: Board at: Larpenteur Ave & McMenemy St - Stop #41057 (westbound); Temporary stop on Arlington Ave & Jackson St (westbound); Arlington Ave & Sylvan St - Stop #49682 (westbound)
+
+> 🔄 **Detour Path**: Westbound buses will travel the regular route on Larpenteur Ave to L'Orient St, left on L'Orient St, right on Arlington Ave to Jackson St, continue on Arlington Ave, and resume the regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/61)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 61 detoured off Larpenteur Ave from L'Orient St to Jackson St and off Jackson St from Larpenteur Ave to Arlington Ave until further notice due to construction.
+
+```text
+Get on/off buses at:
+Larpenteur Ave & McMenemy St - Stop #41057 (westbound)
+Temporary stop on Arlington Ave & Jackson St (westbound)
+Arlington Ave & Sylvan St - Stop #49682 (westbound)
+
+Westbound buses will travel the regular route on Larpenteur Ave to L'Orient St, left on L'Orient St, right on Arlington Ave to Jackson St, continue on Arlington Ave, and resume the regular route.
+
+Eastbound buses are not affected.
+
+Affected stops:
+Larpenteur Ave & Hwy 35E / Adolphus - Stop #50156 (westbound)
+Jackson St & Wheelock Pkwy - Stop #49677 (southbound)
+Jackson St & #1577 - Stop #49678 (southbound)
+Jackson St & #1494 Unit D - Stop #49679 (southbound)
+Jackson St & Arlington Ave - Stop #49680 (southbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 62: Detour via Rice St & Charles Ave
 
 - **Affected Routes**: `Route 62`
@@ -2934,6 +3223,49 @@ Rice St & Milford St - Stop #10480 (southbound)
 Rice St & Sycamore St - Stop #10482 (southbound)
 Rice St & Pennsylvania Ave - Stop #10483 (southbound)
 Rice St & Como Ave - Stop #10484 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 62: Detour via Galtier St & Cook Ave W
+
+- **Affected Routes**: `Route 62`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Galtier St & Cook Ave W; Rice St & Ivy Ave; Rice St & Orange Ave; Rice St & Maryland Ave
+- **Closed Stops**: Rice St & Orange Ave (Stop #10505), Rice St & Maryland Ave (Stop #10471), Stop #80934, Stop #10507, Stop #10470, Stop #80929
+
+**Summary**: Route 62 detoured off Maryland Ave from Galtier St to Rice St from 9:00 AM to 12:00 PM on Thu Oct 1. Board at: Galtier St & Cook Ave W - Stop #80934 (northbound); Rice St & Ivy Ave - Stop #10507 (northbound).
+
+> 💡 **Rider Action**: Board at: Galtier St & Cook Ave W - Stop #80934 (northbound); Rice St & Ivy Ave - Stop #10507 (northbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel the regular route on Galtier St to Maryland Ave, continue on Galtier St, right on Orange Ave, left on Rice St, and resume the regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/62)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 62 detoured off Maryland Ave from Galtier St to Rice St from 9:00 AM to 12:00 PM on Thu Oct 1
+
+```text
+For northbound Route 62 get on/off buses at:
+Galtier St & Cook Ave W - Stop #80934 (northbound)
+Rice St & Ivy Ave - Stop #10507 (northbound)
+
+For southbound Route 62 get on/off buses at:
+Rice St & Orange Ave - Stop #10470 (southbound)
+Galtier St & Cook Ave W - Stop #80929 (southbound)
+
+Northbound buses will travel the regular route on Galtier St to Maryland Ave, continue on Galtier St, right on Orange Ave, left on Rice St, and resume the regular route.
+
+Southbound buses will travel the regular route on Rice St to Orange Ave, right on Orange Ave, left on Galtier St to Maryland Ave, continue on Galtier St, and resume the regular route.
+
+Affected stops:
+Rice St & Orange Ave - Stop #10505 (northbound)
+Rice St & Maryland Ave - Stop #10471 (southbound)
 ```
 
 </details>
@@ -3543,6 +3875,126 @@ Arlington Ave E & LOrient St - Stop #40108 (eastbound)
 
 ---
 
+### ⚠️ Route 68, Route 68C: Detour via 5th Ave S & 4th St S
+
+- **Affected Routes**: `Route 68` `Route 68C`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 5th Ave S & 4th St S; 5th Ave N & 3rd St N; 3rd St N & 4th Ave N; 3rd Ave N & 2nd St; 12th Ave N & 4th St N
+- **Closed Stops**: 5th Ave S & 3rd St S (Stop #9821), 5th Ave S & Southview Blvd (Stop #9822), 5th Ave N & Marie Ave (Stop #9823), Southview Blvd & 3rd Ave S (Stop #9830), Southview Blvd & 5th Ave S (Stop #9832), Southview Blvd & 7th Ave S (Stop #9834), Southview Blvd & 8th Ave S (Stop #56770), Southview Blvd & 8th Ave S (Stop #56773) *(+12 more)*
+
+**Summary**: Route 68C detoured off Southview Blvd from 9th Ave N to 2nd Ave N from 6:00 AM to 8:00 PM on Sat Oct 3 due to On the Road Again event. Board at: 5th Ave S & 4th St S - Stop #9820 (northbound); 5th Ave N & 3rd St N - Stop #9825 (northbound); 3rd St N & 4th Ave N - Stop #9826 (eastbound).
+
+> 💡 **Rider Action**: Board at: 5th Ave S & 4th St S - Stop #9820 (northbound); 5th Ave N & 3rd St N - Stop #9825 (northbound); 3rd St N & 4th Ave N - Stop #9826 (eastbound)
+
+> 🔄 **Detour Path**: buses will travel the regular route on 5th Ave S to 4th St S, right on 4th St S, left on 2nd Ave S, left on Marie Ave, right on 5th Ave N, follow the regular route on 5th Ave N, right on 3rd St N, right on Grand Ave, right on 3rd Ave N, detour right on Marie Ave, right on 9th Ave, and resume the regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/68)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 68C detoured off Southview Blvd from 9th Ave N to 2nd Ave N from 6:00 AM to 8:00 PM on Sat Oct 3 due to On the Road Again event
+
+```text
+For northbound Route 68 get on/off buses at:
+5th Ave S & 4th St S - Stop #9820 (northbound)
+5th Ave N & 3rd St N - Stop #9825 (northbound)
+3rd St N & 4th Ave N - Stop #9826 (eastbound)
+3rd Ave N & 2nd St - Stop #9827 (southbound)
+12th Ave N & 4th St N - Stop #9843 (northbound)
+
+For southbound Route 68 get on/off buses at:
+12th Ave N & 4th St N - Stop #9959 (southbound)
+5th Ave N & 3rd St N - Stop #9825 (northbound)
+3rd St N & 4th Ave N - Stop #9826 (eastbound)
+3rd Ave N & 2nd St - Stop #9827 (southbound)
+Marie Ave & 2nd Ave S - Stop #9828 (eastbound)
+2nd Ave S & Southview Blvd - Stop #9829 (southbound)
+5th Ave S & 5th St S - Stop #9966 (southbound)
+
+Northbound route 68 buses will travel the regular route on 5th Ave S to 4th St S, right on 4th St S, left on 2nd Ave S, left on Marie Ave, right on 5th Ave N, follow the regular route on 5th Ave N, right on 3rd St N, right on Grand Ave, right on 3rd Ave N, detour right on Marie Ave, right on 9th Ave, and resume the regular route.
+
+Southbound Route 68C buses will follow the regular route on 9th Ave N to Marie Ave, left on Marie Ave, left on 5th Ave N, follow the regular route on 5th Ave N, right on 3rd St N, right on Grand Ave, right on 3rd Ave N, left on Marie Ave, right on 2nd Ave S to Southview Blvd, detour continuing straight on 2nd Ave S to 4th St S, right on 4th St S, left on 5th Ave S, and resume the regular route.
+
+Affected stops:
+5th Ave S & 3rd St S - Stop #9821 (northbound)
+5th Ave S & Southview Blvd - Stop #9822 (northbound)
+5th Ave N & Marie Ave - Stop #9823 (northbound)
+Southview Blvd & 3rd Ave S - Stop #9830 (westbound)
+Southview Blvd & 5th Ave S - Stop #9832 (westbound)
+Southview Blvd & 7th Ave S - Stop #9834 (westbound)
+Southview Blvd & 8th Ave S - Stop #56770 (westbound)
+Southview Blvd & 8th Ave S - Stop #56773 (eastbound)
+Southview Blvd & 5th Ave S - Stop #9938 (eastbound)
+5th Ave S & 3rd St S - Stop #9964 (southbound)
+5th Ave S & 4th St S - Stop #9965 (southbound)
+Marie Ave & 2nd Ave S - Stop #9828 (eastbound) closed northbound only
+2nd Ave S & Southview Blvd - Stop #9829 (southbound) closed northbound only
+```
+
+</details>
+
+---
+
+### ⚠️ Route 68, Route 68D, Route 68G, Route 68R: Detour via 5th Ave S & 4th St S
+
+- **Affected Routes**: `Route 68` `Route 68D` `Route 68G` `Route 68R`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 5th Ave S & 4th St S; Temporary stop 4th St S & 7th Ave S; Southview Blvd & 15th Ave S; Temporary stop 4th St S & 11th Ave S; 5th Ave S & 5th St S
+- **Closed Stops**: 5th Ave S & 3rd St S (Stop #9821), 5th Ave S & Southview Blvd (Stop #9822), Southview Blvd & 7th Ave S (Stop #9834), Southview Blvd & 8th Ave S (Stop #56770), Southview Blvd & 10th Ave S (Stop #56771), Southview Blvd & 12th Ave S (Stop #9839), Southview Blvd & 12th / 13th Ave S (Stop #9930), Southview Blvd & 11th Ave S (Stop #9932) *(+9 more)*
+
+**Summary**: Route 68D, 68G, and 68R detoured off Southview Blvd from 13th Ave S to 5th Ave S from 6:00 AM to 8:00 PM on Sat Oct 3 due to On the Road Again event. Board at: 5th Ave S & 4th St S - Stop #9820 (northbound); Temporary stop 4th St S & 7th Ave S (westbound); Temporary stop 4th S & 11th Ave S (westbound).
+
+> 💡 **Rider Action**: Board at: 5th Ave S & 4th St S - Stop #9820 (northbound); Temporary stop 4th St S & 7th Ave S (westbound); Temporary stop 4th S & 11th Ave S (westbound)
+
+> 🔄 **Detour Path**: buses will travel the regular route on 5th Ave S to 4th St S, left on 4th St S, right on 13th Ave S, left on Southview Blvd, and resume the regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/68)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 68D, 68G, and 68R detoured off Southview Blvd from 13th Ave S to 5th Ave S from 6:00 AM to 8:00 PM on Sat Oct 3 due to On the Road Again event
+
+```text
+For northbound Route 68 get on/off buses at:
+5th Ave S & 4th St S - Stop #9820 (northbound)
+Temporary stop 4th St S & 7th Ave S (westbound)
+Temporary stop 4th S & 11th Ave S (westbound)
+Southview Blvd & 15th Ave S - Stop #9862 (westbound)
+
+For southbound Route 68 get on/off buses at:
+Southview Blvd & 15th Ave S - Stop #9928 (eastbound)
+Temporary stop 4th St S & 11th Ave S (eastbound)
+Temporary stop 4th St S & 7th Ave S (eastbound)
+5th Ave S & 5th St S - Stop #9966 (southbound)
+
+Northbound Route 68R buses will travel the regular route on 5th Ave S to 4th St S, left on 4th St S, right on 13th Ave S, left on Southview Blvd, and resume the regular route.
+
+Southbound Route 68 D and 68G buses will travel the regular route on Southview Blvd to 13th Ave S, right on 13th Ave S, left on 4th St S, right on 5th Ave S, and resume the regular route.
+
+Affected stops:
+5th Ave S & 3rd St S - Stop #9821 (northbound)
+5th Ave S & Southview Blvd - Stop #9822 (northbound)
+Southview Blvd & 7th Ave S - Stop #9834 (westbound)
+Southview Blvd & 8th Ave S - Stop #56770 (westbound)
+Southview Blvd & 10th Ave S - Stop #56771 (westbound)
+Southview Blvd & 12th Ave S - Stop #9839 (westbound)
+Southview Blvd & 12th / 13th Ave S - Stop #9930 (eastbound)
+Southview Blvd & 11th Ave S - Stop #9932 (eastbound)
+Southview Blvd & 10th Ave S - Stop #56772 (eastbound)
+Southview Blvd & 8th Ave S - Stop #56773 (eastbound)
+Southview Blvd & 5th Ave S - Stop #9938 (eastbound)
+5th Ave S & 3rd St S - Stop #9964 (southbound)
+5th Ave S & 4th St S - Stop #9965 (southbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 71, Route 71K: Detour via Little Canada Rd & Centerville Rd
 
 - **Affected Routes**: `Route 71` `Route 71K`
@@ -3786,6 +4238,33 @@ Affected stops:
 6th St S & Park Ave / Chicago Ave S - Stop #17887 (eastbound)
 6th St S & Bud Grant Way - Stop #17888 (eastbound)
 6th St S & 11th Ave S - Stop #17890 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 134, Route 87: Stop Closed at Cleveland Ave & Ford Pkwy
+
+- **Affected Routes**: `Route 134` `Route 87`
+- **Direction**: Northbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Cleveland Ave & Ford Pkwy; Cleveland Ave & Hillcrest Ave; Cleveland Ave & Pinehurst Ave
+- **Closed Stops**: Stop #13095, Stop #13094, Stop #11760
+
+**Summary**: Cleveland Ave & Ford Pkwy - Stop #13095 (northbound) is closed for Routes 87 and 134 from Tue Sep 29 at 7:00 AM to Fri Oct 2 at 4:00 PM due to utility work. Board at: Cleveland Ave & Hillcrest Ave - Stop #13094 (northbound); Cleveland Ave & Pinehurst Ave - Stop #11760 (northbound).
+
+> 💡 **Rider Action**: Board at: Cleveland Ave & Hillcrest Ave - Stop #13094 (northbound); Cleveland Ave & Pinehurst Ave - Stop #11760 (northbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Cleveland Ave & Ford Pkwy - Stop #13095 (northbound) is closed for Routes 87 and 134 from Tue Sep 29 at 7:00 AM to Fri Oct 2 at 4:00 PM due to utility work
+
+```text
+Get on/off buses at:
+Cleveland Ave & Hillcrest Ave - Stop #13094 (northbound)
+Cleveland Ave & Pinehurst Ave - Stop #11760 (northbound)
 ```
 
 </details>
@@ -4986,6 +5465,30 @@ LaFayette Rd & Grove St - Stop #11923 (southbound)
 ---
 
 ## ℹ️ Minor Advisories
+
+### ℹ️ METRO Green Line: Service Advisory
+
+- **Affected Routes**: `METRO Green Line`
+- **Direction**: Westbound
+- **Severity**: `Minor`
+- **Closed Stops**: Stop #56038, Stop #56039
+
+**Summary**: Westbound Green Line trains delayed in area of University & Cromwell until later today due to train-vehicle collision
+
+[Official Agency Advisory](https://www.metrotransit.org/route/green)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Green Line trains delayed in area of University & Cromwell until later today due to train-vehicle collision
+
+```text
+We thank you for your patience while we work to restore service and apologize for any inconvenience this may cause
+```
+
+</details>
+
+---
 
 ### ℹ️ Route 2: Service Advisory
 
