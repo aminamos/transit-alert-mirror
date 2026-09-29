@@ -2,19 +2,136 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-139-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-6-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-130-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-148-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-14-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-131-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-87-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-90-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-29T17:34:08.265Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-29T21:48:48.326Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO B Line** (3) • **METRO Blue Line** (1) • **METRO D Line** (5) • **METRO E Line** (3) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (4) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (4) • **Route 7** (4) • **Route 9** (5) • **Route 10** (2) • **Route 11** (4) • **Route 11D** (1) • **Route 14** (3) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (4) • **Route 63** (3) • **Route 64** (5) • **Route 65** (1) • **Route 67** (4) • **Route 68** (7) • **Route 68C** (2) • **Route 68D** (1) • **Route 68G** (1) • **Route 68R** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (3) • **Route 83** (2) • **Route 87** (2) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 227** (1) • **Route 275** (1) • **Route 294** (1) • **Route 323** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 804** (1) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (3) • **METRO B Line** (3) • **METRO Blue Line** (1) • **METRO D Line** (6) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (2) • **Route 3** (4) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (4) • **Route 7** (5) • **Route 9** (5) • **Route 10** (2) • **Route 11** (4) • **Route 11D** (1) • **Route 14** (4) • **Route 17** (3) • **Route 18** (8) • **Route 22** (5) • **Route 22H** (1) • **Route 25** (3) • **Route 25F** (1) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (4) • **Route 63** (3) • **Route 64** (5) • **Route 65** (1) • **Route 67** (4) • **Route 68** (7) • **Route 68C** (2) • **Route 68D** (1) • **Route 68G** (1) • **Route 68R** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (2) • **Route 80** (1) • **Route 83** (2) • **Route 87** (2) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (2) • **Route 542** (4) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 777** (1) • **Route 802** (1) • **Route 804** (1) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
+
+### 🚨 METRO A Line: Southbound 4:12 PM Trip Canceled (Rosedale Transit Center Gate A)
+
+- **Affected Routes**: `METRO A Line`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound A Line trip departing Rosedale Transit Center Gate A at 4:12 PM canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/aline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound A Line trip departing Rosedale Transit Center Gate A at 4:12 PM canceled today due to traffic
+
+</details>
+
+---
+
+### 🚨 METRO D Line: Service Advisory
+
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #620, Stop #639, Stop #643, Stop #56921, Stop #56922, Stop #47447, Stop #56873, Stop #4513
+
+**Summary**: Northbound D Line trip departing MOA Transit Station Gate A at 2:30 PM will operate from Portland & 66th at 2:42 PM today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound D Line trip departing MOA Transit Station Gate A at 2:30 PM will operate from Portland & 66th at 2:42 PM today due to traffic
+
+</details>
+
+---
+
+### 🚨 METRO Orange Line: Northbound 3:19 PM Trip Canceled (Burnsville Heart of the City Station)
+
+- **Affected Routes**: `METRO Orange Line`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #19260, Stop #17780, Stop #53311, Stop #53313, Stop #53314, Stop #48084, Stop #56800, Stop #56828 *(+3 more)*
+
+**Summary**: Northbound Orange Line trip departing Burnsville Heart of the City Station at 3:19 PM canceled from I-35W & 98th St Station at 3:26 PM today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/orange)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Orange Line trip departing Burnsville Heart of the City Station at 3:19 PM canceled from I-35W & 98th St Station at 3:26 PM today due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 14: Southbound 3:25 PM Trip Canceled (Robbinsdale Transit Center & Gate A)
+
+- **Affected Routes**: `Route 14`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 3:25 PM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/14)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 3:25 PM canceled today due to maintenance work
+
+</details>
+
+---
+
+### 🚨 Route 22, Route 22H: Southbound 2:59 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)
+
+- **Affected Routes**: `Route 22` `Route 22H`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #4466, Stop #15378, Stop #15382, Stop #15429, Stop #15433, Stop #15446, Stop #15447, Stop #4468 *(+26 more)*
+
+**Summary**: Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 2:59 PM canceled from Cedar & Lake at 3:58 PM today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/22)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 2:59 PM canceled from Cedar & Lake at 3:58 PM today due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 25, Route 25F: Northbound 3:35 PM Trip Canceled (Leamington Ramp & Lower - Gate #7)
+
+- **Affected Routes**: `Route 25` `Route 25F`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 25F trip departing Leamington Ramp & Lower - Gate #7 at 3:35 PM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/25)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 25F trip departing Leamington Ramp & Lower - Gate #7 at 3:35 PM canceled today due to maintenance work
+
+</details>
+
+---
 
 ### 🚨 Route 30: Service Canceled
 
@@ -47,59 +164,128 @@ departing Westgate Station - Gate B at 10:06 PM
 
 ---
 
-### 🚨 Route 74: Eastbound 11:48 AM Trip Canceled (46th St Station & Gate C)
+### 🚨 Route 71: Service Canceled
 
-- **Affected Routes**: `Route 74`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #10401, Stop #10403, Stop #10395, Stop #10397, Stop #10399, Stop #10231, Stop #10234, Stop #10236 *(+31 more)*
-
-**Summary**: Eastbound Route 74 trip departing 46th St Station & Gate C at 11:48 AM canceled today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/74)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 74 trip departing 46th St Station & Gate C at 11:48 AM canceled today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 227: Northbound 11:19 AM Trip Canceled (Rosedale Transit Center)
-
-- **Affected Routes**: `Route 227`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Route 227 trip departing Rosedale Transit Center at 11:19 AM canceled today due to RR gate malfunction
-
-[Official Agency Advisory](https://www.metrotransit.org/route/227)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 227 trip departing Rosedale Transit Center at 11:19 AM canceled today due to RR gate malfunction
-
-</details>
-
----
-
-### 🚨 Route 323: Service Canceled
-
-- **Affected Routes**: `Route 323`
+- **Affected Routes**: `Route 71`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: Route 323 trip departing Sun Ray Transit Center & Gate C at 10:47 AM and two other trips canceled today due to mechanical issue
+**Summary**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and seven other trips canceled today due to mechanical issue
 
-[Official Agency Advisory](https://www.metrotransit.org/route/323)
+[Official Agency Advisory](https://www.metrotransit.org/route/71)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 323 trip departing Sun Ray Transit Center & Gate C at 10:47 AM and two other trips canceled today due to mechanical issue
+**Header**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and seven other trips canceled today due to mechanical issue
+
+```text
+Affected northbound trips:
+departing Inver Hills College & Shelter at 12:38 PM
+departing Inver Hills College & Shelter at 1:38 PM
+departing Inver Hills College & Shelter at 3:38 PM
+departing Inver Hills College & Shelter at 4:38 PM
+
+Affected southbound trips:
+departing Market Place Dr & The Marketplace Ctr at 2:12 PM
+departing Market Place Dr & The Marketplace Ctr at 3:10 PM
+departing Market Place Dr & The Marketplace Ctr at 5:13 PM
+departing Market Place Dr & The Marketplace Ctr at 6:15 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 80: Service Canceled
+
+- **Affected Routes**: `Route 80`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 80 trip departing Maplewood Mall Transit Center & Gate F at 3:12 PM and eleven other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/80)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 80 trip departing Maplewood Mall Transit Center & Gate F at 3:12 PM and eleven other trips canceled today
+
+```text
+Affected northbound trips:
+departing Sun Ray Transit Center & Gate E at 3:42 PM
+departing Sun Ray Transit Center & Gate E at 4:42 PM
+departing Sun Ray Transit Center & Gate E at 5:42 PM
+departing Sun Ray Transit Center & Gate E at 6:42 PM
+departing Sun Ray Transit Center & Gate E at 7:42 PM
+departing Sun Ray Transit Center & Gate E at 8:42 PM
+
+Affected southbound trips:
+departing Maplewood Mall Transit Center & Gate F at 3:12 PM
+departing Maplewood Mall Transit Center & Gate F at 4:12 PM
+departing Maplewood Mall Transit Center & Gate F at 5:12 PM
+departing Maplewood Mall Transit Center & Gate F at 6:12 PM
+departing Maplewood Mall Transit Center & Gate F at 7:12 PM
+departing Maplewood Mall Transit Center & Gate F at 8:12 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 540: Service Canceled
+
+- **Affected Routes**: `Route 540`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 540 trips departing MOA Transit Station Gate G at 3:25 PM and departing MOA Transit Station Gate G at 4:55 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/540)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 540 trips departing MOA Transit Station Gate G at 3:25 PM and departing MOA Transit Station Gate G at 4:55 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 542: Service Canceled
+
+- **Affected Routes**: `Route 542`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Eastbound Route 542 trips departing American Blvd & Social Security Admin at 3:59 PM and departing American Blvd & Social Security Admin at 5:29 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/542)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 542 trips departing American Blvd & Social Security Admin at 3:59 PM and departing American Blvd & Social Security Admin at 5:29 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 777: Westbound 4:15 PM Trip Canceled (Marquette Ave & Wash Ave S - Stop Grp A)
+
+- **Affected Routes**: `Route 777`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 777 trip departing Marquette Ave & Wash Ave S - Stop Grp A at 4:15 PM canceled today due to collision
+
+[Official Agency Advisory](https://www.metrotransit.org/route/777)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 777 trip departing Marquette Ave & Wash Ave S - Stop Grp A at 4:15 PM canceled today due to collision
 
 </details>
 
@@ -1581,6 +1767,36 @@ Affected stops:
 46th St E & 34th Ave S - Stop #48897 (westbound)
 34th Ave S & Minnehaha Pkwy - Stop #52737 (southbound)
 34th Ave S & 50th St E - Stop #52739 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 7: Stop Closed at 26th Ave S & 22nd St E
+
+- **Affected Routes**: `Route 7`
+- **Direction**: Northbound
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Mon Oct 5 at 5:00 AM until further notice
+- **Corridors & Intersections**: 26th Ave S & 22nd St E; 26th Ave S & 25th St E; 26th Ave S & Seward Tower West - St
+- **Closed Stops**: Stop #57484, Stop #57483, Stop #56702
+
+**Summary**: 26th Ave S & 22nd St E - Stop #57484 (northbound) is closed for Route 7 beginning Mon Oct 5 at 5:00 AM until further notice due to construction. Board at: 26th Ave S & 25th St E - Stop #57483 (northbound); 26th Ave S & Seward Tower West - Stop #56702 (northbound).
+
+> 💡 **Rider Action**: Board at: 26th Ave S & 25th St E - Stop #57483 (northbound); 26th Ave S & Seward Tower West - Stop #56702 (northbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/7)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: 26th Ave S & 22nd St E - Stop #57484 (northbound) is closed for Route 7 beginning Mon Oct 5 at 5:00 AM until further notice due to construction
+
+```text
+Get on/off buses at:
+26th Ave S & 25th St E - Stop #57483 (northbound)
+26th Ave S & Seward Tower West - Stop #56702 (northbound)
 ```
 
 </details>
