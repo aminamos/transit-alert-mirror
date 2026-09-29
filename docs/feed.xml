@@ -4,17 +4,62 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Tue, 29 Sep 2026 11:03:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 17:34:08 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
       <title>[Critical] Route 30: Service Canceled</title>
       <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-53444-2026-09-28T17:39:06.000Z</guid>
-      <pubDate>Mon, 28 Sep 2026 17:39:06 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53493-2026-09-29T16:46:27.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 16:46:27 GMT</pubDate>
       <category>Critical</category>
       <category>Route 30</category>
-      <description>Route 30 trip departing Westgate Station - Gate B at 3:34 PM and six other trips canceled on Fri Oct 2</description>
+      <description>Route 30 trip departing Westgate Station - Gate B at 6:05 PM and four other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 74: Eastbound 11:48 AM Trip Canceled (46th St Station &amp; Gate C)</title>
+      <link>https://www.metrotransit.org/route/74</link>
+      <guid isPermaLink="false">Metro Transit-53494-2026-09-29T17:17:34.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 17:17:34 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 74</category>
+      <description>Eastbound Route 74 trip departing 46th St Station &amp; Gate C at 11:48 AM canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 227: Northbound 11:19 AM Trip Canceled (Rosedale Transit Center)</title>
+      <link>https://www.metrotransit.org/route/227</link>
+      <guid isPermaLink="false">Metro Transit-53491-2026-09-29T16:32:52.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 16:32:52 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 227</category>
+      <description>Northbound Route 227 trip departing Rosedale Transit Center at 11:19 AM canceled today due to RR gate malfunction</description>
+    </item>
+    <item>
+      <title>[Critical] Route 323: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/323</link>
+      <guid isPermaLink="false">Metro Transit-53488-2026-09-29T16:51:54.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 16:51:54 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 323</category>
+      <description>Route 323 trip departing Sun Ray Transit Center &amp; Gate C at 10:47 AM and two other trips canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 802: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/802</link>
+      <guid isPermaLink="false">Metro Transit-53492-2026-09-29T16:42:10.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 16:42:10 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 802</category>
+      <description>Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 805: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/805</link>
+      <guid isPermaLink="false">Metro Transit-53489-2026-09-29T15:45:57.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 15:45:57 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 805</category>
+      <description>Route 805 trip departing 1st Ave S &amp; Monroe St at 11:38 AM and six other trips canceled today due to traffic</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -24,6 +69,33 @@
       <category>Moderate</category>
       <category>METRO A Line</category>
       <description>METRO A Line detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
+    </item>
+    <item>
+      <title>[Moderate] METRO A Line: Detour via Snelling Ave &amp; Stanford Ave</title>
+      <link>https://www.metrotransit.org/route/aline</link>
+      <guid isPermaLink="false">Metro Transit-53490-2026-09-29T15:52:00.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 15:52:00 GMT</pubDate>
+      <category>Moderate</category>
+      <category>METRO A Line</category>
+      <description>A Line detoured off Snelling Ave from St Clair Ave to Selby Ave from 5:00 AM to 4:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Snelling &amp; Randolph Station - Stop #56115 (northbound); Temporary stop on Snelling Ave &amp; Stanford Ave (northbound); Snelling &amp; Dayton Station - Stop #17371 (northbound). | Action: Board at: Snelling &amp; Randolph Station - Stop #56115 (northbound); Temporary stop on Snelling Ave &amp; Stanford Ave (northbound); Snelling &amp; Dayton Station - Stop #17371 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] METRO B Line: Detour via Selby Ave &amp; Dunlap St</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-53484-2026-09-29T15:09:44.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 15:09:44 GMT</pubDate>
+      <category>Moderate</category>
+      <category>METRO B Line</category>
+      <description>B Line detoured off Selby Ave from Lexington Pkwy to Summit Ave and off Kellogg Blvd from John Ireland Blvd to Smith Ave from 5:00 AM to 12:00 PM on Sat Oct 3 due to Twin Cities Marathon 2026. Board at: Selby &amp; Hamline Station - Stop #16996 (eastbound); Selby Ave &amp; Dunlap St - Stop #17003 (eastbound); 5th St &amp; 7th St W - Stop #11834 (eastbound). | Action: Board at: Selby &amp; Hamline Station - Stop #16996 (eastbound); Selby Ave &amp; Dunlap St - Stop #17003 (eastbound); 5th St &amp; 7th St W - Stop #11834 (eastbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] METRO B Line: Detour via Selby Ave &amp; Dunlap St</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-53485-2026-09-29T15:12:38.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 15:12:38 GMT</pubDate>
+      <category>Moderate</category>
+      <category>METRO B Line</category>
+      <description>B Line detoured off Selby Ave from Lexington Pkwy to Summit Ave and off Kellogg Blvd from John Ireland Blvd to Smith Ave from 5:00 AM to 4:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Selby &amp; Hamline Station - Stop #16996 (eastbound); Selby Ave &amp; Dunlap St - Stop #17003 (eastbound); 5th St &amp; 7th St W - Stop #11834 (eastbound). | Action: Board at: Selby &amp; Hamline Station - Stop #16996 (eastbound); Selby Ave &amp; Dunlap St - Stop #17003 (eastbound); 5th St &amp; 7th St W - Stop #11834 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] METRO Blue Line: Service Advisory</title>
@@ -143,6 +215,24 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 3</category>
       <description>Route 3 detoured off Washington Ave from 3rd Ave to I-35W from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Washington Ave S &amp; Marquette Ave - Stop #19315 (eastbound); Washington Ave S &amp; 15th Ave S - Stop #57023 (eastbound). | Action: Board at: Washington Ave S &amp; Marquette Ave - Stop #19315 (eastbound); Washington Ave S &amp; 15th Ave S - Stop #57023 (eastbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 3, Route 62, Route 67: Detour via Rice St &amp; Charles Ave</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-53478-2026-09-29T13:53:32.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 13:53:32 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 3, Route 62, Route 67</category>
+      <description>Routes 3, 67 and 62 detoured off Rice St from University Ave to 12th St and off 12th St from Rice St to Cedar St from 5:00 AM to 12:00 PM on Sat Oct 3 due to Twin Cities Marathon 2026. Board at: Rice St &amp; Charles Ave - Stop #974 (southbound); Cedar St &amp; 10th St - Stop #11912 (southbound). | Action: Board at: Rice St &amp; Charles Ave - Stop #974 (southbound); Cedar St &amp; 10th St - Stop #11912 (southbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 3, Route 62, Route 67: Detour via Rice St &amp; Charles Ave</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-53479-2026-09-29T13:58:01.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 13:58:01 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 3, Route 62, Route 67</category>
+      <description>Routes 3, 62 and 67 detoured off Rice St from University Ave to 12th St and off 12th St from Rice St to Cedar St from 5:00 AM to 4:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Rice St &amp; Charles Ave - Stop #974 (southbound); Cedar St &amp; 10th St - Stop #11912 (southbound). | Action: Board at: Rice St &amp; Charles Ave - Stop #974 (southbound); Cedar St &amp; 10th St - Stop #11912 (southbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 4, Route 4L: Detour via Lyndale Ave S &amp; 54th St W</title>
@@ -314,6 +404,15 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 11, Route 32</category>
       <description>Lowry Ave NE &amp; Grand St NE - Stop #12797 (westbound) and Lowry Ave NE &amp; Grand St NE - Stop #12798 (eastbound) are closed for Routes 11 and 32 beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Lowry Ave NE &amp; 2nd St / 1st St NE - Stop #42202 (westbound); Grand St NE &amp; 26th Ave NE - Stop #14640 (northbound). | Action: Board at: Lowry Ave NE &amp; 2nd St / 1st St NE - Stop #42202 (westbound); Grand St NE &amp; 26th Ave NE - Stop #14640 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 11, Route 18, Route 11D: Stop Closed at Nicollet Ave S &amp; 48th St W</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-53474-2026-09-29T13:35:38.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 13:35:38 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 11, Route 18, Route 11D</category>
+      <description>Nicollet Ave S &amp; 48th St W - Stop #1229 (southbound) is closed for Routes 11D and 18 from Mon Oct 5 at 7:00 AM to Mon Oct 12 at 7:00 AM due to construction. Board at: Nicollet Ave S &amp; 49th St W - Stop #1230 (southbound). | Action: Board at: Nicollet Ave S &amp; 49th St W - Stop #1230 (southbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 14, Route 5: Stop Closed at Selected Stop</title>
@@ -624,6 +723,15 @@ Affected st</title>
       <description>Route 63 detoured off Wacouta St from 5th St to 7th St and off 7th St from Wacouta St to Mounds Blvd until further notice due to construction. Board at: 5th St &amp; Jackson St - Stop #11838 (eastbound); 5th St &amp; Sibley St - Stop #11839 (eastbound); 3rd St E &amp; Maria Ave - Stop #3152 (eastbound). | Action: Board at: 5th St &amp; Jackson St - Stop #11838 (eastbound); 5th St &amp; Sibley St - Stop #11839 (eastbound); 3rd St E &amp; Maria Ave - Stop #3152 (eastbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 63: Detour via Grand Ave &amp; Cleveland Ave</title>
+      <link>https://www.metrotransit.org/route/63</link>
+      <guid isPermaLink="false">Metro Transit-53486-2026-09-29T15:26:00.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 15:26:00 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 63</category>
+      <description>Route 63 detoured off Cretin Ave from Grand Ave to University Ave and off University Ave from Cretin Ave to Westgate Station from 5:00 AM to 4:00 PM on Sun Oct 4. Board at: Grand Ave &amp; Cleveland Ave - Stop #56943 (eastbound). | Action: Board at: Grand Ave &amp; Cleveland Ave - Stop #56943 (eastbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 64: Detour via 5th St &amp; Jackson St</title>
       <link>https://www.metrotransit.org/route/64</link>
       <guid isPermaLink="false">Metro Transit-51765-2026-08-25T13:29:01.000Z</guid>
@@ -768,6 +876,24 @@ Affected st</title>
       <description>Route 72 detoured off Wacouta St from 5th St to 7th St and off 7th St from Wacouta St to Mounds Blvd until further notice due to construction. Board at: 5th St &amp; Jackson St - Stop #11838 (eastbound); 5th St &amp; Sibley St - Stop #11839 (eastbound); Plum St &amp; Mounds Blvd - Stop #13730 (eastbound). | Action: Board at: 5th St &amp; Jackson St - Stop #11838 (eastbound); 5th St &amp; Sibley St - Stop #11839 (eastbound); Plum St &amp; Mounds Blvd - Stop #13730 (eastbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 72: Detour via Selby Ave &amp; Dunlap St</title>
+      <link>https://www.metrotransit.org/route/72</link>
+      <guid isPermaLink="false">Metro Transit-53480-2026-09-29T14:15:57.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 14:15:57 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 72</category>
+      <description>Route 72 detoured off Selby Ave from Lexington Pkwy to Summit Ave and off Kellogg Blvd from John Ireland Blvd to Smith Ave from 5:00 AM to 12:00 PM on Sat Oct 3 due to Twin Cities Marathon 2026. Board at: Selby Ave &amp; Dunlap St - Stop #17003 (eastbound); 5th St &amp; 7th St W - Stop #11834 (eastbound). | Action: Board at: Selby Ave &amp; Dunlap St - Stop #17003 (eastbound); 5th St &amp; 7th St W - Stop #11834 (eastbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 72: Detour via Selby Ave &amp; Dunlap St</title>
+      <link>https://www.metrotransit.org/route/72</link>
+      <guid isPermaLink="false">Metro Transit-53481-2026-09-29T14:17:44.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 14:17:44 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 72</category>
+      <description>Route 72 detoured off Selby Ave from Lexington Pkwy to Summit Ave and off Kellogg Blvd from John Ireland Blvd to Smith Ave from 5:00 AM to 4:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Selby Ave &amp; Dunlap St - Stop #17003 (eastbound); 5th St &amp; 7th St W - Stop #11834 (eastbound). | Action: Board at: Selby Ave &amp; Dunlap St - Stop #17003 (eastbound); 5th St &amp; 7th St W - Stop #11834 (eastbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 74: Detour via 5th St E &amp; Sibley St</title>
       <link>https://www.metrotransit.org/route/74</link>
       <guid isPermaLink="false">Metro Transit-48757-2026-09-03T18:35:55.000Z</guid>
@@ -786,6 +912,33 @@ Affected st</title>
       <description>Route 74 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
     </item>
     <item>
+      <title>[Moderate] Route 83: Detour via Lexington Pkwy &amp; Jefferson Ave</title>
+      <link>https://www.metrotransit.org/route/83</link>
+      <guid isPermaLink="false">Metro Transit-53482-2026-09-29T14:59:49.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 14:59:49 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 83</category>
+      <description>Route 83 detoured off Lexington Ave from St Clair Ave to Selby Ave from 5:00 AM to 12:00 PM on Sat Oct 3 due to Twin Cities Marathon 2026. Board at: Lexington Pkwy &amp; Jefferson Ave - Stop #53729 (northbound); Lexington Pkwy &amp; Marshall Ave - Stop #53735 (northbound). | Action: Board at: Lexington Pkwy &amp; Jefferson Ave - Stop #53729 (northbound); Lexington Pkwy &amp; Marshall Ave - Stop #53735 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 83: Detour via Lexington Pkwy &amp; Jefferson Ave</title>
+      <link>https://www.metrotransit.org/route/83</link>
+      <guid isPermaLink="false">Metro Transit-53483-2026-09-29T15:01:10.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 15:01:10 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 83</category>
+      <description>Route 83 detoured off Lexington Ave from St Clair Ave to Selby Ave from 5:00 AM to 4:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Lexington Pkwy &amp; Jefferson Ave - Stop #53729 (northbound); Lexington Pkwy &amp; Marshall Ave - Stop #53735 (northbound). | Action: Board at: Lexington Pkwy &amp; Jefferson Ave - Stop #53729 (northbound); Lexington Pkwy &amp; Marshall Ave - Stop #53735 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 87: Detour via Cleveland Ave &amp; Iglehart Ave</title>
+      <link>https://www.metrotransit.org/route/87</link>
+      <guid isPermaLink="false">Metro Transit-53487-2026-09-29T15:35:31.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 15:35:31 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 87</category>
+      <description>Route 87 detoured off Cleveland Ave from St Clair Ave to Marshall Ave from 5:00 AM to 4:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Cleveland Ave &amp; Berkeley/St Clair Ave - Stop #48305 (northbound); Cleveland Ave &amp; Iglehart Ave - Stop #18793 (northbound). | Action: Board at: Cleveland Ave &amp; Berkeley/St Clair Ave - Stop #48305 (northbound); Cleveland Ave &amp; Iglehart Ave - Stop #18793 (northbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 94: Detour via 4th St N &amp; Hennepin Ave</title>
       <link>https://www.metrotransit.org/route/94</link>
       <guid isPermaLink="false">Metro Transit-53175-2026-09-28T05:00:01.000Z</guid>
@@ -797,8 +950,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 134, Route 87: Stop Closed at Cleveland Ave &amp; Ford Pkwy</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-53431-2026-09-29T05:00:02.000Z</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53431-2026-09-29T11:30:10.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 11:30:10 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 134, Route 87</category>
       <description>Cleveland Ave &amp; Ford Pkwy - Stop #13095 (northbound) is closed for Routes 87 and 134 from Tue Sep 29 at 7:00 AM to Fri Oct 2 at 4:00 PM due to utility work. Board at: Cleveland Ave &amp; Hillcrest Ave - Stop #13094 (northbound); Cleveland Ave &amp; Pinehurst Ave - Stop #11760 (northbound). | Action: Board at: Cleveland Ave &amp; Hillcrest Ave - Stop #13094 (northbound); Cleveland Ave &amp; Pinehurst Ave - Stop #11760 (northbound)</description>
@@ -941,8 +1094,8 @@ Affected st</title>
     <item>
       <title>[Moderate] Route 578: Stop Closed at 2nd Ave S &amp; 2nd St S</title>
       <link>https://www.metrotransit.org/route/578</link>
-      <guid isPermaLink="false">Metro Transit-53143-2026-09-22T12:15:33.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 12:15:33 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53143-2026-09-29T12:15:01.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 12:15:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 578</category>
       <description>Route 578 downtown layover closed until further notice due to construction. Board at: 2nd Ave S &amp; 2nd St S - Stop #19261 (northbound). | Action: Board at: 2nd Ave S &amp; 2nd St S - Stop #19261 (northbound)</description>
@@ -1038,6 +1191,15 @@ Affected st</title>
       <description>Route 804 detoured off 7th St NW/8th St NW loop beginning Mon Jul 6 at 5:00 AM until further notice due to construction. Board at: 8th Ave NW &amp; Old Hwy 8 - Stop #15935 (northbound); Temporary stop on 8th Ave NW &amp; 7th St NW (northbound); Temporary stop on 8th Ave NW &amp; 8th St NW (northbound). | Action: Board at: 8th Ave NW &amp; Old Hwy 8 - Stop #15935 (northbound); Temporary stop on 8th Ave NW &amp; 7th St NW (northbound); Temporary stop on 8th Ave NW &amp; 8th St NW (northbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 805: Detour via Robinson Dr &amp; Martin St</title>
+      <link>https://www.metrotransit.org/route/805</link>
+      <guid isPermaLink="false">Metro Transit-53477-2026-09-29T13:48:30.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 13:48:30 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 805</category>
+      <description>Route 805 detoured off Northdale Blvd from Hanson Blvd to Crooked Lake Blvd from 5:00 PM to 7:00 PM on Wed Sep 30 due Coon Rapids Homecoming Parade. Board at: Robinson Dr &amp; Martin St - Stop #10998 (northbound); Northdale Blvd &amp; 117th Ave N - Stop #42479 (northbound). | Action: Board at: Robinson Dr &amp; Martin St - Stop #10998 (northbound); Northdale Blvd &amp; 117th Ave N - Stop #42479 (northbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 827: Stop Closed at Marshall St NE &amp; 29th Ave N</title>
       <link>https://www.metrotransit.org/route/827</link>
       <guid isPermaLink="false">Metro Transit-53174-2026-09-29T05:00:02.000Z</guid>
@@ -1065,19 +1227,19 @@ Affected st</title>
       <description>Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction. Board at: Temporary stop on Grove St &amp; Lafayette Rd (eastbound); LaFayette Rd &amp; 8th St - Stop #11925 (southbound). | Action: Board at: Temporary stop on Grove St &amp; Lafayette Rd (eastbound); LaFayette Rd &amp; 8th St - Stop #11925 (southbound)</description>
     </item>
     <item>
-      <title>[Minor] Blue Line Trip Departing Mall of America Station at 5:37 AM Delayed 10 Minutes Today</title>
-      <link>https://www.metrotransit.org/route/blue</link>
-      <guid isPermaLink="false">Metro Transit-53472-2026-09-29T10:59:55.000Z</guid>
-      <pubDate>Tue, 29 Sep 2026 10:59:55 GMT</pubDate>
-      <category>Minor</category>
-      <category>METRO Blue Line</category>
-      <description>Blue Line trip departing Mall of America Station at 5:37 AM delayed 10 minutes today</description>
+      <title>[Moderate] Route 860: Detour via Northdale Blvd &amp; 118th Lane - St</title>
+      <link>https://www.metrotransit.org/route/860</link>
+      <guid isPermaLink="false">Metro Transit-53476-2026-09-29T13:39:26.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 13:39:26 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 860</category>
+      <description>Route 860 detoured off Northdale Blvd from Hanson Blvd to Crooked Lake Blvd from 5:00 PM to 7:00 PM on Wed Sep 30 due to Coon Rapids Homecoming Parade. Board at: Temporary stop on Hanson Blvd just past Northdale Blvd (southbound); Northdale Blvd &amp; 118th Lane - Stop #42481 (northbound). | Action: Board at: Temporary stop on Hanson Blvd just past Northdale Blvd (southbound); Northdale Blvd &amp; 118th Lane - Stop #42481 (northbound)</description>
     </item>
     <item>
       <title>[Minor] Route 2: Service Advisory</title>
       <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-53142-2026-09-22T12:08:20.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 12:08:20 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53142-2026-09-29T12:08:01.000Z</guid>
+      <pubDate>Tue, 29 Sep 2026 12:08:01 GMT</pubDate>
       <category>Minor</category>
       <category>Route 2</category>
       <description>8th St SE &amp; 10th Ave SE - Stop #16573 (eastbound) is permanently moving for Route 2 due to new bike lane</description>
