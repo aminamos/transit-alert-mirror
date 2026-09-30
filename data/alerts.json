@@ -1,390 +1,152 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-29T21:48:48.326Z",
-    "totalAlerts": 148,
-    "criticalCount": 14,
+    "generatedAt": "2026-09-30T01:01:30.047Z",
+    "totalAlerts": 144,
+    "criticalCount": 10,
     "moderateCount": 131,
     "minorCount": 3,
-    "affectedRoutesCount": 90,
+    "affectedRoutesCount": 87,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "53511",
+      "id": "53519",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO A Line: Southbound 4:12 PM Trip Canceled (Rosedale Transit Center Gate A)",
-      "summary": "Southbound A Line trip departing Rosedale Transit Center Gate A at 4:12 PM canceled today due to traffic",
+      "title": "METRO B Line: Westbound 7:19 PM Trip Canceled (Union Depot & Gate A1)",
+      "summary": "Westbound B Line trip departing Union Depot & Gate A1 at 7:19 PM canceled",
       "affectedRoutes": [
-        "METRO A Line"
+        "METRO B Line"
       ],
-      "direction": "Southbound",
+      "direction": "Westbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-29T21:46:00.000Z",
-        "end": "2026-09-29T22:53:00.000Z"
+        "start": "2026-09-30T00:42:00.000Z",
+        "end": "2026-09-30T02:21:00.000Z"
       },
-      "cause": "OTHER_CAUSE",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/aline",
-      "updatedAt": "2026-09-29T21:46:49.000Z",
-      "rawHeader": "Southbound A Line trip departing Rosedale Transit Center Gate A at 4:12 PM canceled today due to traffic",
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-09-30T00:42:37.000Z",
+      "rawHeader": "Westbound B Line trip departing Union Depot & Gate A1 at 7:19 PM canceled",
       "rawDescription": ""
     },
     {
-      "id": "53500",
+      "id": "53513",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO D Line: Service Advisory",
-      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 2:30 PM will operate from Portland & 66th at 2:42 PM today due to traffic",
+      "title": "METRO D Line: Service Canceled",
+      "summary": "D Line trips departing Brooklyn Ctr Transit Ctr Gate F at 5:49 PM and departing MOA Transit Station Gate A at 6:01 PM canceled today due to maintenance work",
       "affectedRoutes": [
         "METRO D Line"
       ],
-      "direction": "Northbound",
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-29T23:02:00.000Z",
+        "end": "2026-09-30T01:17:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-09-29T23:03:30.000Z",
+      "rawHeader": "D Line trips departing Brooklyn Ctr Transit Ctr Gate F at 5:49 PM and departing MOA Transit Station Gate A at 6:01 PM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "53517",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO D Line: Southbound 6:10 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)",
+      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 6:10 PM canceled from Portland & 66th at 7:15 PM today due to maintenance work",
+      "affectedRoutes": [
+        "METRO D Line"
+      ],
+      "direction": "Southbound",
       "intersections": [],
       "closedStopIds": [
-        "620",
-        "639",
-        "643",
-        "56921",
-        "56922",
-        "47447",
+        "436",
+        "42318",
+        "4530",
+        "441",
         "56873",
-        "4513"
+        "444",
+        "56920",
+        "449"
       ],
       "closedStopDetails": [
         {
-          "id": "620"
+          "id": "436"
         },
         {
-          "id": "639"
+          "id": "42318"
         },
         {
-          "id": "643"
+          "id": "4530"
         },
         {
-          "id": "56921"
-        },
-        {
-          "id": "56922"
-        },
-        {
-          "id": "47447"
+          "id": "441"
         },
         {
           "id": "56873"
         },
         {
-          "id": "4513"
+          "id": "444"
+        },
+        {
+          "id": "56920"
+        },
+        {
+          "id": "449"
         }
       ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-29T19:35:00.000Z",
-        "end": "2026-09-29T21:49:00.000Z"
+        "start": "2026-09-30T00:14:00.000Z",
+        "end": "2026-09-30T01:26:00.000Z"
       },
-      "cause": "OTHER_CAUSE",
+      "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-09-29T19:37:12.000Z",
-      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 2:30 PM will operate from Portland & 66th at 2:42 PM today due to traffic",
+      "updatedAt": "2026-09-30T00:16:10.000Z",
+      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 6:10 PM canceled from Portland & 66th at 7:15 PM today due to maintenance work",
       "rawDescription": ""
     },
     {
-      "id": "53505",
+      "id": "53515",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO Orange Line: Northbound 3:19 PM Trip Canceled (Burnsville Heart of the City Station)",
-      "summary": "Northbound Orange Line trip departing Burnsville Heart of the City Station at 3:19 PM canceled from I-35W & 98th St Station at 3:26 PM today due to traffic",
+      "title": "METRO Orange Line: Service Canceled",
+      "summary": "Orange Line trips departing Marquette Ave & 3rd St - Stop Group C at 5:42 PM and departing Burnsville Heart of the City Station at 6:36 PM canceled today",
       "affectedRoutes": [
         "METRO Orange Line"
       ],
-      "direction": "Northbound",
+      "direction": "Both Directions",
       "intersections": [],
-      "closedStopIds": [
-        "19260",
-        "17780",
-        "53311",
-        "53313",
-        "53314",
-        "48084",
-        "56800",
-        "56828",
-        "56831",
-        "53542",
-        "51110"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "19260"
-        },
-        {
-          "id": "17780"
-        },
-        {
-          "id": "53311"
-        },
-        {
-          "id": "53313"
-        },
-        {
-          "id": "53314"
-        },
-        {
-          "id": "48084"
-        },
-        {
-          "id": "56800"
-        },
-        {
-          "id": "56828"
-        },
-        {
-          "id": "56831"
-        },
-        {
-          "id": "53542"
-        },
-        {
-          "id": "51110"
-        }
-      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-29T20:52:00.000Z",
-        "end": "2026-09-29T21:55:00.000Z"
+        "start": "2026-09-29T23:20:00.000Z",
+        "end": "2026-09-30T01:09:00.000Z"
       },
-      "cause": "OTHER_CAUSE",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/orange",
-      "updatedAt": "2026-09-29T20:53:48.000Z",
-      "rawHeader": "Northbound Orange Line trip departing Burnsville Heart of the City Station at 3:19 PM canceled from I-35W & 98th St Station at 3:26 PM today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "53504",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 14: Southbound 3:25 PM Trip Canceled (Robbinsdale Transit Center & Gate A)",
-      "summary": "Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 3:25 PM canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 14"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-29T20:50:00.000Z",
-        "end": "2026-09-29T22:45:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/14",
-      "updatedAt": "2026-09-29T20:51:20.000Z",
-      "rawHeader": "Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 3:25 PM canceled today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "53509",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 22, Route 22H: Southbound 2:59 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)",
-      "summary": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 2:59 PM canceled from Cedar & Lake at 3:58 PM today due to traffic",
-      "affectedRoutes": [
-        "Route 22",
-        "Route 22H"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [
-        "4466",
-        "15378",
-        "15382",
-        "15429",
-        "15433",
-        "15446",
-        "15447",
-        "4468",
-        "4329",
-        "4557",
-        "4558",
-        "4328",
-        "19433",
-        "19435",
-        "19437",
-        "19468",
-        "19472",
-        "19476",
-        "19480",
-        "19484",
-        "19488",
-        "19492",
-        "19496",
-        "19501",
-        "19508",
-        "19512",
-        "19518",
-        "51541",
-        "51566",
-        "56459",
-        "81107",
-        "12561",
-        "12565",
-        "57191"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "4466"
-        },
-        {
-          "id": "15378"
-        },
-        {
-          "id": "15382"
-        },
-        {
-          "id": "15429"
-        },
-        {
-          "id": "15433"
-        },
-        {
-          "id": "15446"
-        },
-        {
-          "id": "15447"
-        },
-        {
-          "id": "4468"
-        },
-        {
-          "id": "4329"
-        },
-        {
-          "id": "4557"
-        },
-        {
-          "id": "4558"
-        },
-        {
-          "id": "4328"
-        },
-        {
-          "id": "19433"
-        },
-        {
-          "id": "19435"
-        },
-        {
-          "id": "19437"
-        },
-        {
-          "id": "19468"
-        },
-        {
-          "id": "19472"
-        },
-        {
-          "id": "19476"
-        },
-        {
-          "id": "19480"
-        },
-        {
-          "id": "19484"
-        },
-        {
-          "id": "19488"
-        },
-        {
-          "id": "19492"
-        },
-        {
-          "id": "19496"
-        },
-        {
-          "id": "19501"
-        },
-        {
-          "id": "19508"
-        },
-        {
-          "id": "19512"
-        },
-        {
-          "id": "19518"
-        },
-        {
-          "id": "51541"
-        },
-        {
-          "id": "51566"
-        },
-        {
-          "id": "56459"
-        },
-        {
-          "id": "81107"
-        },
-        {
-          "id": "12561"
-        },
-        {
-          "id": "12565"
-        },
-        {
-          "id": "57191"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-29T21:09:00.000Z",
-        "end": "2026-09-29T22:25:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-09-29T21:14:30.000Z",
-      "rawHeader": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 2:59 PM canceled from Cedar & Lake at 3:58 PM today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "53506",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 25, Route 25F: Northbound 3:35 PM Trip Canceled (Leamington Ramp & Lower - Gate #7)",
-      "summary": "Northbound Route 25F trip departing Leamington Ramp & Lower - Gate #7 at 3:35 PM canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 25",
-        "Route 25F"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-29T20:55:00.000Z",
-        "end": "2026-09-29T23:11:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/25",
-      "updatedAt": "2026-09-29T20:56:17.000Z",
-      "rawHeader": "Northbound Route 25F trip departing Leamington Ramp & Lower - Gate #7 at 3:35 PM canceled today due to maintenance work",
+      "updatedAt": "2026-09-29T23:20:44.000Z",
+      "rawHeader": "Orange Line trips departing Marquette Ave & 3rd St - Stop Group C at 5:42 PM and departing Burnsville Heart of the City Station at 6:36 PM canceled today",
       "rawDescription": ""
     },
     {
@@ -411,42 +173,16 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-09-29T16:46:27.000Z",
+      "updatedAt": "2026-09-29T22:35:01.000Z",
       "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 6:05 PM and four other trips canceled today",
       "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 6:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 8:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 6:05 PM\r\ndeparting Westgate Station - Gate B at 8:06 PM\r\ndeparting Westgate Station - Gate B at 10:06 PM"
-    },
-    {
-      "id": "53495",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 71: Service Canceled",
-      "summary": "Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and seven other trips canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 71"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-29T18:54:00.000Z",
-        "end": "2026-09-30T00:45:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/71",
-      "updatedAt": "2026-09-29T18:55:09.000Z",
-      "rawHeader": "Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and seven other trips canceled today due to mechanical issue",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 12:38 PM\r\ndeparting Inver Hills College & Shelter at 1:38 PM\r\ndeparting Inver Hills College & Shelter at 3:38 PM\r\ndeparting Inver Hills College & Shelter at 4:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 2:12 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 3:10 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 5:13 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 6:15 PM"
     },
     {
       "id": "53502",
       "agency": "Metro Transit",
       "severity": "Critical",
       "title": "Route 80: Service Canceled",
-      "summary": "Route 80 trip departing Maplewood Mall Transit Center & Gate F at 3:12 PM and eleven other trips canceled today",
+      "summary": "Route 80 trip departing Maplewood Mall Transit Center & Gate F at 6:12 PM and six other trips canceled today",
       "affectedRoutes": [
         "Route 80"
       ],
@@ -457,22 +193,22 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-09-29T20:15:00.000Z",
-        "end": "2026-09-30T03:04:00.000Z"
+        "start": "2026-09-30T00:11:00.000Z",
+        "end": "2026-09-30T03:34:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/80",
-      "updatedAt": "2026-09-29T20:16:03.000Z",
-      "rawHeader": "Route 80 trip departing Maplewood Mall Transit Center & Gate F at 3:12 PM and eleven other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate E at 3:42 PM\r\ndeparting Sun Ray Transit Center & Gate E at 4:42 PM\r\ndeparting Sun Ray Transit Center & Gate E at 5:42 PM\r\ndeparting Sun Ray Transit Center & Gate E at 6:42 PM\r\ndeparting Sun Ray Transit Center & Gate E at 7:42 PM\r\ndeparting Sun Ray Transit Center & Gate E at 8:42 PM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate F at 3:12 PM\r\ndeparting Maplewood Mall Transit Center & Gate F at 4:12 PM\r\ndeparting Maplewood Mall Transit Center & Gate F at 5:12 PM\r\ndeparting Maplewood Mall Transit Center & Gate F at 6:12 PM\r\ndeparting Maplewood Mall Transit Center & Gate F at 7:12 PM\r\ndeparting Maplewood Mall Transit Center & Gate F at 8:12 PM"
+      "updatedAt": "2026-09-30T00:12:21.000Z",
+      "rawHeader": "Route 80 trip departing Maplewood Mall Transit Center & Gate F at 6:12 PM and six other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate E at 6:42 PM\r\ndeparting Sun Ray Transit Center & Gate E at 7:42 PM\r\ndeparting Sun Ray Transit Center & Gate E at 8:42 PM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate F at 6:12 PM\r\ndeparting Maplewood Mall Transit Center & Gate F at 7:12 PM\r\ndeparting Maplewood Mall Transit Center & Gate F at 8:12 PM\r\ndeparting Maplewood Mall Transit Center & Gate F at 9:12 PM"
     },
     {
-      "id": "53507",
+      "id": "53516",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 540: Service Canceled",
-      "summary": "Westbound Route 540 trips departing MOA Transit Station Gate G at 3:25 PM and departing MOA Transit Station Gate G at 4:55 PM canceled today",
+      "title": "Route 540: Westbound 6:25 PM Trip Canceled (MOA Transit Station Gate G)",
+      "summary": "Westbound Route 540 trip departing MOA Transit Station Gate G at 6:25 PM canceled",
       "affectedRoutes": [
         "Route 540"
       ],
@@ -482,67 +218,12 @@
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-29T20:57:00.000Z",
-        "end": "2026-09-29T23:28:00.000Z"
-      },
+      "activePeriod": {},
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/540",
-      "updatedAt": "2026-09-29T20:58:25.000Z",
-      "rawHeader": "Westbound Route 540 trips departing MOA Transit Station Gate G at 3:25 PM and departing MOA Transit Station Gate G at 4:55 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "53508",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 542: Service Canceled",
-      "summary": "Eastbound Route 542 trips departing American Blvd & Social Security Admin at 3:59 PM and departing American Blvd & Social Security Admin at 5:29 PM canceled today",
-      "affectedRoutes": [
-        "Route 542"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-29T20:59:00.000Z",
-        "end": "2026-09-29T23:58:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/542",
-      "updatedAt": "2026-09-29T21:00:28.000Z",
-      "rawHeader": "Eastbound Route 542 trips departing American Blvd & Social Security Admin at 3:59 PM and departing American Blvd & Social Security Admin at 5:29 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "53510",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 777: Westbound 4:15 PM Trip Canceled (Marquette Ave & Wash Ave S - Stop Grp A)",
-      "summary": "Westbound Route 777 trip departing Marquette Ave & Wash Ave S - Stop Grp A at 4:15 PM canceled today due to collision",
-      "affectedRoutes": [
-        "Route 777"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-29T21:28:00.000Z",
-        "end": "2026-09-29T23:01:00.000Z"
-      },
-      "cause": "ACCIDENT",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/777",
-      "updatedAt": "2026-09-29T21:29:24.000Z",
-      "rawHeader": "Westbound Route 777 trip departing Marquette Ave & Wash Ave S - Stop Grp A at 4:15 PM canceled today due to collision",
+      "updatedAt": "2026-09-30T00:57:02.000Z",
+      "rawHeader": "Westbound Route 540 trip departing MOA Transit Station Gate G at 6:25 PM canceled",
       "rawDescription": ""
     },
     {
@@ -562,7 +243,7 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-09-29T16:42:00.000Z",
-        "end": "2026-09-29T23:48:24.000Z"
+        "end": "2026-09-30T03:00:23.000Z"
       },
       "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
@@ -594,7 +275,7 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-09-29T15:45:00.000Z",
-        "end": "2026-09-29T23:48:24.000Z"
+        "end": "2026-09-30T03:00:23.000Z"
       },
       "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
@@ -602,6 +283,50 @@
       "updatedAt": "2026-09-29T15:45:57.000Z",
       "rawHeader": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to traffic",
       "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 11:38 AM\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
+    },
+    {
+      "id": "53518",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 888: Northbound 6:10 PM Trip Canceled (2nd Ave S & 11th St - Stop Group G)",
+      "summary": "Northbound Route 888 trip departing 2nd Ave S & 11th St - Stop Group G at 6:10 PM canceled from 3rd & Hennepin at 6:18 PM today due to maintenance work",
+      "affectedRoutes": [
+        "Route 888"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [
+        "57646",
+        "53366",
+        "52563",
+        "17959"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "57646"
+        },
+        {
+          "id": "53366"
+        },
+        {
+          "id": "52563"
+        },
+        {
+          "id": "17959"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-09-30T00:20:00.000Z",
+        "end": "2026-09-30T01:06:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/888",
+      "updatedAt": "2026-09-30T00:22:51.000Z",
+      "rawHeader": "Northbound Route 888 trip departing 2nd Ave S & 11th St - Stop Group G at 6:10 PM canceled from 3rd & Hennepin at 6:18 PM today due to maintenance work",
+      "rawDescription": ""
     },
     {
       "id": "52943",
