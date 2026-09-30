@@ -2,21 +2,94 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-134-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-131-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-135-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-129-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-83-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-82-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-30T07:54:50.650Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-30T14:34:43.533Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO B Line** (3) • **METRO Blue Line** (1) • **METRO D Line** (5) • **METRO E Line** (3) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (4) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (4) • **Route 7** (5) • **Route 9** (5) • **Route 10** (2) • **Route 11** (4) • **Route 11D** (1) • **Route 14** (3) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (4) • **Route 63** (3) • **Route 64** (5) • **Route 65** (1) • **Route 67** (4) • **Route 68** (7) • **Route 68C** (2) • **Route 68D** (1) • **Route 68G** (1) • **Route 68R** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (2) • **Route 83** (2) • **Route 87** (2) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO B Line** (3) • **METRO Blue Line** (1) • **METRO D Line** (4) • **METRO E Line** (3) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (4) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (4) • **Route 7** (5) • **Route 9** (5) • **Route 10** (2) • **Route 11** (4) • **Route 11D** (1) • **Route 14** (3) • **Route 17** (3) • **Route 18** (9) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (4) • **Route 63** (3) • **Route 64** (5) • **Route 65** (1) • **Route 67** (4) • **Route 68** (8) • **Route 68C** (2) • **Route 68D** (1) • **Route 68G** (1) • **Route 68R** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (2) • **Route 83** (2) • **Route 87** (2) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (2) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 Route 18: Northbound 8:20 AM Trip Canceled (Nicollet Ave S & 46th St E)
+
+- **Affected Routes**: `Route 18`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #1900, Stop #1905, Stop #1911, Stop #1914, Stop #1920, Stop #1880, Stop #1882, Stop #1883 *(+20 more)*
+
+**Summary**: Northbound Route 18 trip departing Nicollet Ave S & 46th St E at 8:20 AM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/18)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 18 trip departing Nicollet Ave S & 46th St E at 8:20 AM canceled today due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 Route 540: Service Canceled
+
+- **Affected Routes**: `Route 540`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 8:02 AM and departing MOA Transit Station Gate G at 8:56 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/540)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 8:02 AM and departing MOA Transit Station Gate G at 8:56 AM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 805: Service Canceled
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
+departing 1st Ave S & Monroe St; 38 PM
+departing 1st Ave S & Monroe St; 36 PM
+departing 1st Ave S & Monroe St
+
+**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate D at 12:34 PM
+departing Northtown Transit Ctr Gate D at 2:34 PM
+departing Northtown Transit Ctr Gate D at 4:34 PM
+
+Affected southbound trips:
+departing 1st Ave S & Monroe St at 11:38 AM
+departing 1st Ave S & Monroe St at 1:38 PM
+departing 1st Ave S & Monroe St at 3:36 PM
+departing 1st Ave S & Monroe St at 5:38 PM
+```
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -356,51 +429,6 @@ Chicago & 46th St Station - Stop #56917 (southbound)
 Chicago & 48th St Station - Stop #56918 (southbound)
 Chicago & 52nd St Station - Stop #56919 (southbound)
 Chicago Ave & 56th St E - Stop #81079 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ METRO D Line: Detour via American Blvd & Old Cedar Ave S
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: American Blvd & Old Cedar Ave S
-- **Closed Stops**: American & Thunderbird Station (Stop #4513), American & Thunderbird Station (Stop #4530), Stop #56873, Stop #4514, Stop #56921, Stop #42318, Stop #4529
-
-**Summary**: METRO D Line detoured off American Blvd from Old Cedar Ave to 24th Ave from Tue Sep 29 at 9:00 PM to Wed Sep 30 at 5:00 AM due to construction. Board at: MOA Transit Station Gate A - Stop #56873 (southbound); American Blvd & Old Cedar Ave S - Stop #4514 (westbound); American & Bloomington Station - Stop #56921 (westbound).
-
-> 💡 **Rider Action**: Board at: MOA Transit Station Gate A - Stop #56873 (southbound); American Blvd & Old Cedar Ave S - Stop #4514 (westbound); American & Bloomington Station - Stop #56921 (westbound)
-
-> 🔄 **Detour Path**: Southbound buses will travel regular route on American Blvd to Old Cedar, right on Old Cedar Ave, left on 86th St, left on Old Shakopee Rd, left on Winstead Way, left on 82nd St, left on 24th Ave and right into Mall of America.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: METRO D Line detoured off American Blvd from Old Cedar Ave to 24th Ave from Tue Sep 29 at 9:00 PM to Wed Sep 30 at 5:00 AM due to construction
-
-```text
-Get on/off northbound buses at:
-MOA Transit Station Gate A - Stop #56873 (southbound)
-American Blvd & Old Cedar Ave S - Stop #4514 (westbound)
-American & Bloomington Station - Stop #56921 (westbound)
-
-Get on/off southbound buses at:
-American & Bloomington Station - Stop #42318 (eastbound)
-American Blvd & Old Cedar Ave S - Stop #4529 (eastbound)
-MOA Transit Station Gate A - Stop #56873 (southbound)
-
-Northbound buses will depart Mall of America, right on 24th Ave which turns into Old Shakopee Rd, right on 86th St, right on Old Cedar Ave, left on American Blvd and resume regular route.
-
-Southbound buses will travel regular route on American Blvd to Old Cedar, right on Old Cedar Ave, left on 86th St, left on Old Shakopee Rd, left on Winstead Way, left on 82nd St, left on 24th Ave and right into Mall of America. 
-
-Affected stops:
-American & Thunderbird Station - Stop #4513 (westbound)
-American & Thunderbird Station - Stop #4530 (eastbound)
 ```
 
 </details>
@@ -4161,6 +4189,47 @@ Southview Blvd & 5th Ave S - Stop #9938 (eastbound)
 
 ---
 
+### ⚠️ Route 68: Detour via LOrient St & Kmart - St
+
+- **Affected Routes**: `Route 68`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: LOrient St & Kmart - St; Jackson St & Winter St; Maryland Ave & LOrient St; Jackson St & Rose Ave E; Jackson St & Jessamine Ave
+- **Closed Stops**: Maryland Ave & LOrient St (Stop #40101), Jackson St & Rose Ave E (Stop #56323), Jackson St & Jessamine Ave (Stop #40098), Jackson St & Cook Ave (Stop #40067), Jackson St & Jenks Ave (Stop #40097), Jackson St & Sims Ave (Stop #40138), Stop #49949, Stop #40156
+
+**Summary**: Southbound Route 68 detoured off Maryland Ave from L'orient St to Jackson St and off Jackson St from Maryland Ave to Cayuga St until later today due to construction. Board at: LOrient St & Kmart - Stop #49949 (southbound); Jackson St & Winter St (Mount Airy) - Stop #40156 (southbound).
+
+> 💡 **Rider Action**: Board at: LOrient St & Kmart - Stop #49949 (southbound); Jackson St & Winter St (Mount Airy) - Stop #40156 (southbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/68)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 68 detoured off Maryland Ave from L'orient St to Jackson St and off Jackson St from Maryland Ave to Cayuga St until later today due to construction
+
+```text
+Get on/off buses at:
+LOrient St & Kmart - Stop #49949 (southbound)
+Jackson St & Winter St (Mount Airy) - Stop #40156 (southbound)
+
+Southbound buses that depart from Hwy 36 and Rice St Park & Ride will travel regular route on L'orient St to Maryland Ave, left on Maryland Ave, right onto southbound I-35E ramp, take Cayuga St exit, stay on L'orient St and resume regular route.
+
+Northbound buses will follow regular route.
+
+Affected stops:
+Maryland Ave & LOrient St - Stop #40101 (westbound)
+Jackson St & Rose Ave E - Stop #56323 (southbound)
+Jackson St & Jessamine Ave - Stop #40098 (southbound)
+Jackson St & Cook Ave - Stop #40067 (southbound)
+Jackson St & Jenks Ave - Stop #40097 (southbound)
+Jackson St & Sims Ave - Stop #40138 (southbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 71, Route 71K: Detour via Little Canada Rd & Centerville Rd
 
 - **Affected Routes**: `Route 71` `Route 71K`
@@ -5080,57 +5149,6 @@ Stillwater Blvd & Pine St W - Stop #6601 (southbound)
 
 ---
 
-### ⚠️ Route 515, Route 542: Detour via American Blvd & Old Cedar Ave S
-
-- **Affected Routes**: `Route 515` `Route 542`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: American Blvd & Old Cedar Ave S; left on American Blvd & resume regular route.
-
-Affected st; American Blvd & 24th Ave S
-- **Closed Stops**: American Blvd & Old Cedar Ave S (Stop #4529), American & Thunderbird Station (Stop #4530), American Blvd & 24th Ave S (Stop #4531), American Blvd & 24th Ave S (Stop #4511), American & Thunderbird Station (Stop #4513), American Blvd & Old Cedar Ave S (Stop #4514), Stop #42318, Stop #56877 *(+2 more)*
-
-**Summary**: Routes 515 and 542 detoured off American Blvd from Old Cedar Ave to 24th Ave from Tue Sep 29 at 9:00 PM to Wed Sep 30 at 5:00 AM due to construction. Board at: American & Bloomington Station - Stop #42318 (eastbound); American Blvd & Old Cedar Ave S - Stop #4529 (eastbound); MOA Transit Station Gate E - Stop #56877 (southbound, Route 515 only).
-
-> 💡 **Rider Action**: Board at: American & Bloomington Station - Stop #42318 (eastbound); American Blvd & Old Cedar Ave S - Stop #4529 (eastbound); MOA Transit Station Gate E - Stop #56877 (southbound, Route 515 only)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on American Blvd to Old Cedar, right on Old Cedar Ave, left on 86th St, left on Old Shakopee Rd, left on Winstead Way, left on 82nd St, left on 24th Ave and right into Mall of America.
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Routes 515 and 542 detoured off American Blvd from Old Cedar Ave to 24th Ave from Tue Sep 29 at 9:00 PM to Wed Sep 30 at 5:00 AM due to construction
-
-```text
-Get on/off eastbound buses at:
-American & Bloomington Station - Stop #42318 (eastbound)
-American Blvd & Old Cedar Ave S - Stop #4529 (eastbound)
-MOA Transit Station Gate E - Stop #56877 (southbound, route 515 only)
-MOA Transit Station Gate G - Stop #56879 (northbound, route 542 only)
-
-Get on/off westbound buses at:
-MOA Transit Station Gate G - Stop #56879 (northbound, route 542 only)
-MOA Transit Station Gate E - Stop #56877 (southbound, route 515 only)
-American Blvd & Old Cedar Ave S - Stop #4514 (westbound)
-American & Bloomington Station - Stop #56921 (westbound)
-
-Eastbound buses will travel regular route on American Blvd to Old Cedar, right on Old Cedar Ave, left on 86th St, left on Old Shakopee Rd, left on Winstead Way, left on 82nd St, left on 24th Ave and right into Mall of America.
-
-Westbound buses will depart Mall of America, right on 24th Ave which turns into Old Shakopee Rd, right on 86th St, right on Old Cedar Ave, left on American Blvd and resume regular route.
-
-Affected stops:
-American Blvd & Old Cedar Ave S - Stop #4529 (eastbound)
-American & Thunderbird Station - Stop #4530 (eastbound)
-American Blvd & 24th Ave S - Stop #4531 (eastbound)
-American Blvd & 24th Ave S - Stop #4511 (westbound)
-American & Thunderbird Station - Stop #4513 (westbound)
-American Blvd & Old Cedar Ave S - Stop #4514 (westbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 534: Detour via Lyndale Ave S & 82nd St W
 
 - **Affected Routes**: `Route 534`
@@ -5681,36 +5699,6 @@ Cedar Lake Rd & Sumter Ave S - Stop #80937 (eastbound)
 Get on/off buses at:
 West Broadway & College Park Dr - Stop #44659 (southbound)
 West Broadway & Dragon Star - Stop #53152 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 724: Stop Closed at Xylon Ave N & Zealand Ave N
-
-- **Affected Routes**: `Route 724`
-- **Direction**: Southbound
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Sep 28 at 7:00 AM until further notice
-- **Corridors & Intersections**: Xylon Ave N & Zealand Ave N; Xylon Ave N & 89th Ave N; Xylon Ave N & Xylon Court - St
-- **Closed Stops**: Stop #49376, Stop #49375, Stop #49377
-
-**Summary**: Xylon Ave N & Zealand Ave N - Stop #49376 (southbound) is closed for Route 724 beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Xylon Ave N & 89th Ave N - Stop #49375 (southbound); Xylon Ave N & Xylon Court - Stop #49377 (southbound).
-
-> 💡 **Rider Action**: Board at: Xylon Ave N & 89th Ave N - Stop #49375 (southbound); Xylon Ave N & Xylon Court - Stop #49377 (southbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/724)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Xylon Ave N & Zealand Ave N - Stop #49376 (southbound) is closed for Route 724 beginning Mon Sep 28 at 7:00 AM until further notice due to construction
-
-```text
-Get on/off buses at:
-Xylon Ave N & 89th Ave N - Stop #49375 (southbound)
-Xylon Ave N & Xylon Court - Stop #49377 (southbound)
 ```
 
 </details>
