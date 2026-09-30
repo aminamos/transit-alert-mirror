@@ -2,35 +2,205 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-135-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-129-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-144-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-13-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-128-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-82-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-83-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-30T14:34:43.533Z** across **Metro Transit**.*
+*Last synchronized: **2026-09-30T19:47:42.188Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO B Line** (3) • **METRO Blue Line** (1) • **METRO D Line** (4) • **METRO E Line** (3) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (4) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (4) • **Route 7** (5) • **Route 9** (5) • **Route 10** (2) • **Route 11** (4) • **Route 11D** (1) • **Route 14** (3) • **Route 17** (3) • **Route 18** (9) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (4) • **Route 63** (3) • **Route 64** (5) • **Route 65** (1) • **Route 67** (4) • **Route 68** (8) • **Route 68C** (2) • **Route 68D** (1) • **Route 68G** (1) • **Route 68R** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (2) • **Route 83** (2) • **Route 87** (2) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (2) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO B Line** (3) • **METRO Blue Line** (1) • **METRO D Line** (7) • **METRO E Line** (3) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (4) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (4) • **Route 7** (5) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (3) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 36** (3) • **Route 38** (4) • **Route 46** (2) • **Route 48** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (4) • **Route 63** (3) • **Route 64** (5) • **Route 65** (1) • **Route 67** (4) • **Route 68** (8) • **Route 68C** (2) • **Route 68D** (1) • **Route 68G** (1) • **Route 68R** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (2) • **Route 83** (2) • **Route 87** (2) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 804** (1) • **Route 805** (2) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 18: Northbound 8:20 AM Trip Canceled (Nicollet Ave S & 46th St E)
+### 🚨 METRO D Line: Service Canceled
 
-- **Affected Routes**: `Route 18`
-- **Direction**: Northbound
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #1900, Stop #1905, Stop #1911, Stop #1914, Stop #1920, Stop #1880, Stop #1882, Stop #1883 *(+20 more)*
 
-**Summary**: Northbound Route 18 trip departing Nicollet Ave S & 46th St E at 8:20 AM canceled today due to mechanical issue
+**Summary**: D Line trip departing MOA Transit Station Gate A at 2:03 PM and three other trips canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/18)
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound Route 18 trip departing Nicollet Ave S & 46th St E at 8:20 AM canceled today due to mechanical issue
+**Header**: D Line trip departing MOA Transit Station Gate A at 2:03 PM and three other trips canceled today
+
+```text
+Affected northbound trips:
+departing MOA Transit Station Gate A at 2:03 PM
+departing MOA Transit Station Gate A at 5:19 PM
+
+Affected southbound trips:
+departing Brooklyn Ctr Transit Ctr Gate F at 3:38 PM
+departing Brooklyn Ctr Transit Ctr Gate F at 6:58 PM
+```
+
+</details>
+
+---
+
+### 🚨 METRO D Line: Southbound 12:52 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)
+
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 7th St & Bryant St; 7th St & Olson St; 8th St & Hennepin St; 8th St & Nicollet St; 8th St & Park St
+- **Closed Stops**: Fremont & West Broadway Station (Stop #56907), Plymouth & Fremont Station (Stop #11161), 7th St & Bryant Station (Stop #56908), 7th St & Olson Station (Stop #56317), Ramp A/7th St Transit Center (Stop #17905), 8th St & Hennepin Station (Stop #17906), 8th St & Nicollet Station (Stop #17907), 8th St & 3rd/4th Ave Station (Stop #17910) *(+22 more)*
+
+**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 12:52 PM canceled today due to collision
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 12:52 PM canceled today due to collision
+
+```text
+Affected stops:
+Fremont & West Broadway Station - Stop #56907 (southbound)
+Plymouth & Fremont Station - Stop #11161 (eastbound)
+7th St & Bryant Station - Stop #56908 (eastbound)
+7th St & Olson Station - Stop #56317 (southbound)
+Ramp A/7th St Transit Center - Stop #17905 (eastbound)
+8th St & Hennepin Station - Stop #17906 (eastbound)
+8th St & Nicollet Station - Stop #17907 (eastbound)
+8th St & 3rd/4th Ave Station - Stop #17910 (eastbound)
+8th St & Park Station - Stop #17912 (eastbound)
+Chicago & 14th St Station - Stop #56909 (southbound)
+Chicago & Franklin Station - Stop #56910 (southbound)
+Chicago & 24th St Station - Stop #56911 (southbound)
+Chicago & 26th St Station - Stop #56912 (southbound)
+Chicago & Lake Station - Stop #56913 (southbound)
+Chicago & 34th St Station - Stop #56914 (southbound)
+Portland & 38th St Station - Stop #80139 (southbound)
+Chicago & 42nd St Station - Stop #56916 (southbound)
+Chicago & 46th St Station - Stop #56917 (southbound)
+Chicago & 48th St Station - Stop #56918 (southbound)
+Chicago & 52nd St Station - Stop #56919 (southbound)
+Chicago Ave & 56th St E - Stop #81079 (southbound)
+Portland & 60th St Station - Stop #431 (southbound)
+Portland & 66th St Station - Stop #436 (southbound)
+Portland & 70th St Station - Stop #441 (southbound)
+Portland & 73rd St Station - Stop #444 (southbound)
+Portland & 77th St Station - Stop #449 (southbound)
+American & Chicago Station - Stop #56920 (eastbound)
+American & Bloomington Station - Stop #42318 (eastbound)
+American & Thunderbird Station - Stop #4530 (eastbound)
+MOA Transit Station Gate A - Stop #56873 (southbound)
+```
+
+</details>
+
+---
+
+### 🚨 METRO D Line: Service Advisory
+
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #47447, Stop #779, Stop #737, Stop #620, Stop #639, Stop #643, Stop #56873, Stop #4513 *(+4 more)*
+
+**Summary**: Northbound D Line trip departing MOA Transit Station at 2:30 PM will start from Chicago & 46th. Previous stops missed due to maintenance
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound D Line trip departing MOA Transit Station at 2:30 PM will start from Chicago & 46th. Previous stops missed due to maintenance
+
+</details>
+
+---
+
+### 🚨 Route 46: Service Canceled
+
+- **Affected Routes**: `Route 46`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 46 trips departing 46th St Station & Gate G at 12:43 PM and departing Eden-Vernon Busway & Sherwood/Vernon Ave at 1:30 PM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/46)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 46 trips departing 46th St Station & Gate G at 12:43 PM and departing Eden-Vernon Busway & Sherwood/Vernon Ave at 1:30 PM canceled today due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 Route 48: Service Canceled
+
+- **Affected Routes**: `Route 48`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 48 trips departing Gateway Ramp & Platform at 12:05 PM and departing Robbinsdale Transit Center & Gate D at 1:07 PM canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/48)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 48 trips departing Gateway Ramp & Platform at 12:05 PM and departing Robbinsdale Transit Center & Gate D at 1:07 PM canceled today due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 48: Southbound 2:07 PM Trip Canceled (Robbinsdale Transit Center & Gate D)
+
+- **Affected Routes**: `Route 48`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Route 48 trip departing Robbinsdale Transit Center & Gate D at 2:07 PM canceled
+
+[Official Agency Advisory](https://www.metrotransit.org/route/48)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 48 trip departing Robbinsdale Transit Center & Gate D at 2:07 PM canceled
+
+</details>
+
+---
+
+### 🚨 Route 71: Service Canceled
+
+- **Affected Routes**: `Route 71`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/71)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today
+
+```text
+Affected northbound trips:
+departing Inver Hills College & Shelter at 12:38 PM
+departing Inver Hills College & Shelter at 3:38 PM
+
+Affected southbound trips:
+departing Market Place Dr & The Marketplace Ctr at 2:12 PM
+departing Market Place Dr & The Marketplace Ctr at 5:13 PM
+```
 
 </details>
 
@@ -39,17 +209,98 @@
 ### 🚨 Route 540: Service Canceled
 
 - **Affected Routes**: `Route 540`
-- **Direction**: Both Directions
+- **Direction**: All
 - **Severity**: `Critical`
 
-**Summary**: Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 8:02 AM and departing MOA Transit Station Gate G at 8:56 AM canceled today
+**Summary**: Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 3:02 PM and departing Normandale Lake Blvd & 83rd St / 84th St at 4:30 PM canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/540)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 8:02 AM and departing MOA Transit Station Gate G at 8:56 AM canceled today
+**Header**: Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 3:02 PM and departing Normandale Lake Blvd & 83rd St / 84th St at 4:30 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 542: Westbound 4:04 PM Trip Canceled (MOA Transit Station Gate G)
+
+- **Affected Routes**: `Route 542`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 542 trip departing MOA Transit Station Gate G at 4:04 PM canceled
+
+[Official Agency Advisory](https://www.metrotransit.org/route/542)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 542 trip departing MOA Transit Station Gate G at 4:04 PM canceled
+
+</details>
+
+---
+
+### 🚨 Route 724: Service Canceled
+
+- **Affected Routes**: `Route 724`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 724 trip departing Xenia Ave N & Oak Grove Pkwy N; departing Xenia Ave N & Oak Grove Pkwy N
+
+**Summary**: Route 724 trip departing Xenia Ave N & Oak Grove Pkwy N at 3:09 PM and three other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/724)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 724 trip departing Xenia Ave N & Oak Grove Pkwy N at 3:09 PM and three other trips canceled today
+
+```text
+Affected northbound trips:
+departing Brooklyn Ctr Transit Ctr Gate C at 4:00 PM
+departing Brooklyn Ctr Transit Ctr Gate C at 5:00 PM
+
+Affected southbound trips:
+departing Xenia Ave N & Oak Grove Pkwy N at 3:09 PM
+departing Starlite Transit Center & Gate A at 4:30 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 802: Service Canceled
+
+- **Affected Routes**: `Route 802`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/802)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate E at 11:34 AM
+departing Northtown Transit Ctr Gate E at 1:34 PM
+departing Northtown Transit Ctr Gate E at 3:34 PM
+departing Northtown Transit Ctr Gate E at 5:34 PM
+
+Affected southbound trips:
+departing Anoka Tech College & Main Entrance at 12:42 PM
+departing Anoka Tech College & Main Entrance at 2:42 PM
+departing Anoka Tech College & Main Entrance at 4:42 PM
+```
 
 </details>
 
@@ -85,6 +336,36 @@ departing 1st Ave S & Monroe St at 11:38 AM
 departing 1st Ave S & Monroe St at 1:38 PM
 departing 1st Ave S & Monroe St at 3:36 PM
 departing 1st Ave S & Monroe St at 5:38 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 827: Service Canceled
+
+- **Affected Routes**: `Route 827`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 827 trip departing 2nd Ave S & 11th St; departing 2nd Ave S & 11th St; 13 PM
+departing 2nd Ave S & 11th St
+
+**Summary**: Route 827 trip departing 2nd Ave S & 11th St - Stop Group G at 2:13 PM and two other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/827)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 827 trip departing 2nd Ave S & 11th St - Stop Group G at 2:13 PM and two other trips canceled today
+
+```text
+Affected northbound trips:
+departing 2nd Ave S & 11th St - Stop Group G at 2:13 PM
+departing 2nd Ave S & 11th St - Stop Group G at 4:42 PM
+
+Affected southbound trips:
+departing Northtown Transit Ctr Gate C at 3:11 PM
 ```
 
 </details>
@@ -1823,46 +2104,6 @@ Main St NE & 35th Ave NE - Stop #14614 (northbound)
 
 ---
 
-### ⚠️ Route 11, Route 32: Stop Closed at Lowry Ave NE & Grand St N
-
-- **Affected Routes**: `Route 11` `Route 32`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Sep 28 at 7:00 AM until further notice
-- **Corridors & Intersections**: Lowry Ave NE & Grand St N; and Lowry Ave NE & Grand St N; Lowry Ave NE & 2nd St; Grand St NE & 26th Ave N; Lowry Ave NE & 2nd St N
-- **Closed Stops**: Stop #12797, Stop #12798, Stop #42202, Stop #14640, Stop #14641, Stop #12802, Stop #12195, Stop #12196
-
-**Summary**: Lowry Ave NE & Grand St NE - Stop #12797 (westbound) and Lowry Ave NE & Grand St NE - Stop #12798 (eastbound) are closed for Routes 11 and 32 beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Lowry Ave NE & 2nd St / 1st St NE - Stop #42202 (westbound); Grand St NE & 26th Ave NE - Stop #14640 (northbound).
-
-> 💡 **Rider Action**: Board at: Lowry Ave NE & 2nd St / 1st St NE - Stop #42202 (westbound); Grand St NE & 26th Ave NE - Stop #14640 (northbound)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Lowry Ave NE & Grand St NE - Stop #12797 (westbound) and Lowry Ave NE & Grand St NE - Stop #12798 (eastbound) are closed for Routes 11 and 32 beginning Mon Sep 28 at 7:00 AM until further notice due to construction
-
-```text
-Get on/off northbound 11 buses at:
-Lowry Ave NE & 2nd St / 1st St NE - Stop #42202 (westbound)
-Grand St NE & 26th Ave NE - Stop #14640 (northbound)
-
-Get on/off southbound 11 buses at:
-Grand St NE & 26th Ave NE - Stop #14641 (southbound)
-Lowry Ave NE & 2nd St NE - Stop #12802 (eastbound)
-
-Get on/off eastbound 32 buses at:
-Lowry Ave NE & Marshall St NE - Stop #12195 (eastbound)
-Lowry Ave NE & 2nd St NE - Stop #12802 (eastbound)
-
-Get on/off westbound 32 buses at:
-Lowry Ave NE & 2nd St / 1st St NE - Stop #42202 (westbound)
-Lowry Ave NE & Marshall St NE - Stop #12196 (westbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 11, Route 18, Route 11D: Stop Closed at Nicollet Ave S & 48th St W
 
 - **Affected Routes**: `Route 11` `Route 18` `Route 11D`
@@ -3268,6 +3509,8 @@ Hennepin Ave & 6th St / 7th St N - Stop #40168 (southbound)
 **Header**: Route 61 detoured off Larpenteur Ave from L'Orient St to Jackson St and off Jackson St from Larpenteur Ave to Arlington Ave until further notice due to construction.
 
 ```text
+Added map 9/30 at 11 AM.
+
 Get on/off buses at:
 Larpenteur Ave & McMenemy St - Stop #41057 (westbound)
 Temporary stop on Arlington Ave & Jackson St (westbound)
@@ -3681,6 +3924,8 @@ LaFayette Rd & 8th St - Stop #11925 (southbound)
 **Header**: Route 64 detoured off Payne Ave from Case Ave to Maryland Ave and off Maryland Ave from Payne Ave to Walsh St beginning Mon Aug 24 at 4:00 AM until further notice due to construction
 
 ```text
+Added detour map 9/30 at 11AM.
+
 For eastbound Route 64 get on/off buses at:
 Payne Ave & Case Ave - Stop #11788 (northbound)
 Temporary stop on Greenbrier St & Lawson Ave (northbound)
@@ -4045,6 +4290,8 @@ Larpenteur Ave & Sylvan St - Stop #49945 (eastbound)
 **Header**: Southbound Route 68 detoured off Jackson St from Larpenteur Ave to Arlington Ave and off Timberlake Rd beginning Mon Sep 28 at 7:00 AM until further notice due to construction
 
 ```text
+Added map 9/30 at 11 AM.
+
 Get on/off buses at:
 Larpenteur Ave & Jackson St - Stop #49947 (eastbound)
 Temporary stop on Arlington at Klainert St (westbound)
@@ -4189,41 +4436,40 @@ Southview Blvd & 5th Ave S - Stop #9938 (eastbound)
 
 ---
 
-### ⚠️ Route 68: Detour via LOrient St & Kmart - St
+### ⚠️ Route 68: Detour via Jackson St & Rose Ave E
 
 - **Affected Routes**: `Route 68`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: LOrient St & Kmart - St; Jackson St & Winter St; Maryland Ave & LOrient St; Jackson St & Rose Ave E; Jackson St & Jessamine Ave
-- **Closed Stops**: Maryland Ave & LOrient St (Stop #40101), Jackson St & Rose Ave E (Stop #56323), Jackson St & Jessamine Ave (Stop #40098), Jackson St & Cook Ave (Stop #40067), Jackson St & Jenks Ave (Stop #40097), Jackson St & Sims Ave (Stop #40138), Stop #49949, Stop #40156
+- **Corridors & Intersections**: Jackson St & Rose Ave E; LOrient St & Kmart - St; Maryland Ave & LOrient St; L'orient St (Arlington Ave to Maryland Ave and off Maryland Ave from L'orient St to Jackson St)
+- **Closed Stops**: Stop #56323, Stop #1301, Stop #49948, Stop #49949, Stop #40101
 
-**Summary**: Southbound Route 68 detoured off Maryland Ave from L'orient St to Jackson St and off Jackson St from Maryland Ave to Cayuga St until later today due to construction. Board at: LOrient St & Kmart - Stop #49949 (southbound); Jackson St & Winter St (Mount Airy) - Stop #40156 (southbound).
+**Summary**: Southbound Route 68 detoured off L'orient St from Arlington Ave to Maryland Ave and off Maryland Ave from L'orient St to Jackson St until later today due to construction. Board at: Temporary stop on Arlington at Klainert St (westbound); Jackson St & Rose Ave E - Stop #56323 (southbound).
 
-> 💡 **Rider Action**: Board at: LOrient St & Kmart - Stop #49949 (southbound); Jackson St & Winter St (Mount Airy) - Stop #40156 (southbound)
+> 💡 **Rider Action**: Board at: Temporary stop on Arlington at Klainert St (westbound); Jackson St & Rose Ave E - Stop #56323 (southbound)
 
 [Official Agency Advisory](https://www.metrotransit.org/route/68)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 68 detoured off Maryland Ave from L'orient St to Jackson St and off Jackson St from Maryland Ave to Cayuga St until later today due to construction
+**Header**: Southbound Route 68 detoured off L'orient St from Arlington Ave to Maryland Ave and off Maryland Ave from L'orient St to Jackson St until later today due to construction
 
 ```text
-Get on/off buses at:
-LOrient St & Kmart - Stop #49949 (southbound)
-Jackson St & Winter St (Mount Airy) - Stop #40156 (southbound)
+Updated at 9:57 AM to revise detour, affected stops and get on/off stops.
 
-Southbound buses that depart from Hwy 36 and Rice St Park & Ride will travel regular route on L'orient St to Maryland Ave, left on Maryland Ave, right onto southbound I-35E ramp, take Cayuga St exit, stay on L'orient St and resume regular route.
+Get on/off buses at:
+Temporary stop on Arlington at Klainert St (westbound)
+Jackson St & Rose Ave E - Stop #56323 (southbound)
+
+Southbound buses that depart from Hwy 36 and Rice St Park & Ride will travel on detour routing on L'orient St to Arlington Ave, right on Arlington Ave, left on Rice St, left on Maryland Ave, right on Jackson St and resume regular route.
 
 Northbound buses will follow regular route.
 
 Affected stops:
+LOrient St & #1301 - Stop #49948 (southbound)
+LOrient St & Kmart - Stop #49949 (southbound)
 Maryland Ave & LOrient St - Stop #40101 (westbound)
-Jackson St & Rose Ave E - Stop #56323 (southbound)
-Jackson St & Jessamine Ave - Stop #40098 (southbound)
-Jackson St & Cook Ave - Stop #40067 (southbound)
-Jackson St & Jenks Ave - Stop #40097 (southbound)
-Jackson St & Sims Ave - Stop #40138 (southbound)
 ```
 
 </details>
