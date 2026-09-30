@@ -1,333 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-09-30T01:01:30.047Z",
-    "totalAlerts": 144,
-    "criticalCount": 10,
+    "generatedAt": "2026-09-30T07:54:50.650Z",
+    "totalAlerts": 134,
+    "criticalCount": 0,
     "moderateCount": 131,
     "minorCount": 3,
-    "affectedRoutesCount": 87,
+    "affectedRoutesCount": 83,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "53519",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO B Line: Westbound 7:19 PM Trip Canceled (Union Depot & Gate A1)",
-      "summary": "Westbound B Line trip departing Union Depot & Gate A1 at 7:19 PM canceled",
-      "affectedRoutes": [
-        "METRO B Line"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-30T00:42:00.000Z",
-        "end": "2026-09-30T02:21:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-09-30T00:42:37.000Z",
-      "rawHeader": "Westbound B Line trip departing Union Depot & Gate A1 at 7:19 PM canceled",
-      "rawDescription": ""
-    },
-    {
-      "id": "53513",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO D Line: Service Canceled",
-      "summary": "D Line trips departing Brooklyn Ctr Transit Ctr Gate F at 5:49 PM and departing MOA Transit Station Gate A at 6:01 PM canceled today due to maintenance work",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-29T23:02:00.000Z",
-        "end": "2026-09-30T01:17:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-09-29T23:03:30.000Z",
-      "rawHeader": "D Line trips departing Brooklyn Ctr Transit Ctr Gate F at 5:49 PM and departing MOA Transit Station Gate A at 6:01 PM canceled today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "53517",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO D Line: Southbound 6:10 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)",
-      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 6:10 PM canceled from Portland & 66th at 7:15 PM today due to maintenance work",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [
-        "436",
-        "42318",
-        "4530",
-        "441",
-        "56873",
-        "444",
-        "56920",
-        "449"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "436"
-        },
-        {
-          "id": "42318"
-        },
-        {
-          "id": "4530"
-        },
-        {
-          "id": "441"
-        },
-        {
-          "id": "56873"
-        },
-        {
-          "id": "444"
-        },
-        {
-          "id": "56920"
-        },
-        {
-          "id": "449"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-30T00:14:00.000Z",
-        "end": "2026-09-30T01:26:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-09-30T00:16:10.000Z",
-      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 6:10 PM canceled from Portland & 66th at 7:15 PM today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "53515",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO Orange Line: Service Canceled",
-      "summary": "Orange Line trips departing Marquette Ave & 3rd St - Stop Group C at 5:42 PM and departing Burnsville Heart of the City Station at 6:36 PM canceled today",
-      "affectedRoutes": [
-        "METRO Orange Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-29T23:20:00.000Z",
-        "end": "2026-09-30T01:09:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/orange",
-      "updatedAt": "2026-09-29T23:20:44.000Z",
-      "rawHeader": "Orange Line trips departing Marquette Ave & 3rd St - Stop Group C at 5:42 PM and departing Burnsville Heart of the City Station at 6:36 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "53493",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 30: Service Canceled",
-      "summary": "Route 30 trip departing Westgate Station - Gate B at 6:05 PM and four other trips canceled today",
-      "affectedRoutes": [
-        "Route 30"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing Knox Ave N & Golden Valley Rd"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-29T23:05:00.000Z",
-        "end": "2026-09-30T04:47:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-09-29T22:35:01.000Z",
-      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 6:05 PM and four other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 6:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 8:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 6:05 PM\r\ndeparting Westgate Station - Gate B at 8:06 PM\r\ndeparting Westgate Station - Gate B at 10:06 PM"
-    },
-    {
-      "id": "53502",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 80: Service Canceled",
-      "summary": "Route 80 trip departing Maplewood Mall Transit Center & Gate F at 6:12 PM and six other trips canceled today",
-      "affectedRoutes": [
-        "Route 80"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-30T00:11:00.000Z",
-        "end": "2026-09-30T03:34:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/80",
-      "updatedAt": "2026-09-30T00:12:21.000Z",
-      "rawHeader": "Route 80 trip departing Maplewood Mall Transit Center & Gate F at 6:12 PM and six other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate E at 6:42 PM\r\ndeparting Sun Ray Transit Center & Gate E at 7:42 PM\r\ndeparting Sun Ray Transit Center & Gate E at 8:42 PM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate F at 6:12 PM\r\ndeparting Maplewood Mall Transit Center & Gate F at 7:12 PM\r\ndeparting Maplewood Mall Transit Center & Gate F at 8:12 PM\r\ndeparting Maplewood Mall Transit Center & Gate F at 9:12 PM"
-    },
-    {
-      "id": "53516",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 540: Westbound 6:25 PM Trip Canceled (MOA Transit Station Gate G)",
-      "summary": "Westbound Route 540 trip departing MOA Transit Station Gate G at 6:25 PM canceled",
-      "affectedRoutes": [
-        "Route 540"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {},
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/540",
-      "updatedAt": "2026-09-30T00:57:02.000Z",
-      "rawHeader": "Westbound Route 540 trip departing MOA Transit Station Gate G at 6:25 PM canceled",
-      "rawDescription": ""
-    },
-    {
-      "id": "53492",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 802: Service Canceled",
-      "summary": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 802"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-29T16:42:00.000Z",
-        "end": "2026-09-30T03:00:23.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-09-29T16:42:10.000Z",
-      "rawHeader": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to mechanical issue",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 11:34 AM\r\ndeparting Northtown Transit Ctr Gate E at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 12:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 2:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 4:42 PM"
-    },
-    {
-      "id": "53489",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 805: Service Canceled",
-      "summary": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 805"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 805 trip departing 1st Ave S & Monroe St",
-        "departing 1st Ave S & Monroe St",
-        "38 AM\ndeparting 1st Ave S & Monroe St",
-        "38 PM\ndeparting 1st Ave S & Monroe St",
-        "36 PM\ndeparting 1st Ave S & Monroe St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-29T15:45:00.000Z",
-        "end": "2026-09-30T03:00:23.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-09-29T15:45:57.000Z",
-      "rawHeader": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to traffic",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 11:38 AM\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
-    },
-    {
-      "id": "53518",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 888: Northbound 6:10 PM Trip Canceled (2nd Ave S & 11th St - Stop Group G)",
-      "summary": "Northbound Route 888 trip departing 2nd Ave S & 11th St - Stop Group G at 6:10 PM canceled from 3rd & Hennepin at 6:18 PM today due to maintenance work",
-      "affectedRoutes": [
-        "Route 888"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [
-        "57646",
-        "53366",
-        "52563",
-        "17959"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "57646"
-        },
-        {
-          "id": "53366"
-        },
-        {
-          "id": "52563"
-        },
-        {
-          "id": "17959"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-30T00:20:00.000Z",
-        "end": "2026-09-30T01:06:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/888",
-      "updatedAt": "2026-09-30T00:22:51.000Z",
-      "rawHeader": "Northbound Route 888 trip departing 2nd Ave S & 11th St - Stop Group G at 6:10 PM canceled from 3rd & Hennepin at 6:18 PM today due to maintenance work",
-      "rawDescription": ""
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -966,7 +649,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-09-29T05:00:01.000Z",
+      "updatedAt": "2026-09-30T05:00:01.000Z",
       "rawHeader": "METRO D Line detoured off American Blvd from Old Cedar Ave to 24th Ave from Tue Sep 29 at 9:00 PM to Wed Sep 30 at 5:00 AM due to construction",
       "rawDescription": "Get on/off northbound buses at:\r\nMOA Transit Station Gate A - Stop #56873 (southbound)\r\nAmerican Blvd & Old Cedar Ave S - Stop #4514 (westbound)\r\nAmerican & Bloomington Station - Stop #56921 (westbound)\r\n\nGet on/off southbound buses at:\r\nAmerican & Bloomington Station - Stop #42318 (eastbound)\r\nAmerican Blvd & Old Cedar Ave S - Stop #4529 (eastbound)\r\nMOA Transit Station Gate A - Stop #56873 (southbound)\r\n\nNorthbound buses will depart Mall of America, right on 24th Ave which turns into Old Shakopee Rd, right on 86th St, right on Old Cedar Ave, left on American Blvd and resume regular route.\r\n\nSouthbound buses will travel regular route on American Blvd to Old Cedar, right on Old Cedar Ave, left on 86th St, left on Old Shakopee Rd, left on Winstead Way, left on 82nd St, left on 24th Ave and right into Mall of America. \r\n\nAffected stops:\r\nAmerican & Thunderbird Station - Stop #4513 (westbound)\r\nAmerican & Thunderbird Station - Stop #4530 (eastbound)"
     },
@@ -2327,9 +2010,9 @@
         "17928",
         "17931",
         "177",
+        "102",
         "103",
-        "104",
-        "102"
+        "104"
       ],
       "closedStopDetails": [
         {
@@ -2477,13 +2160,13 @@
           "id": "177"
         },
         {
+          "id": "102"
+        },
+        {
           "id": "103"
         },
         {
           "id": "104"
-        },
-        {
-          "id": "102"
         }
       ],
       "riderAlternative": "Board at: Lyndale & 24th - Stop #175; Temporary stop on 24th & Nicollet; Nicollet & Franklin - Stop #1905",
@@ -2572,8 +2255,8 @@
         "56919",
         "51212",
         "56923",
-        "73",
         "72",
+        "73",
         "66",
         "68",
         "69",
@@ -2647,10 +2330,10 @@
           "id": "56923"
         },
         {
-          "id": "73"
+          "id": "72"
         },
         {
-          "id": "72"
+          "id": "73"
         },
         {
           "id": "66"
@@ -6279,7 +5962,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/62",
-      "updatedAt": "2026-09-28T17:19:02.000Z",
+      "updatedAt": "2026-09-30T05:00:01.000Z",
       "rawHeader": "Route 62 detoured off Maryland Ave from Galtier St to Rice St from 9:00 AM to 12:00 PM on Thu Oct 1",
       "rawDescription": "For northbound Route 62 get on/off buses at:\r\nGaltier St & Cook Ave W - Stop #80934 (northbound)\r\nRice St & Ivy Ave - Stop #10507 (northbound)\r\n\nFor southbound Route 62 get on/off buses at:\r\nRice St & Orange Ave - Stop #10470 (southbound)\r\nGaltier St & Cook Ave W - Stop #80929 (southbound)\r\n\nNorthbound buses will travel the regular route on Galtier St to Maryland Ave, continue on Galtier St, right on Orange Ave, left on Rice St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Rice St to Orange Ave, right on Orange Ave, left on Galtier St to Maryland Ave, continue on Galtier St, and resume the regular route.\r\n\nAffected stops:\r\nRice St & Orange Ave - Stop #10505 (northbound)\r\nRice St & Maryland Ave - Stop #10471 (southbound)"
     },
@@ -9726,7 +9409,7 @@
       },
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
-      "updatedAt": "2026-09-29T05:00:02.000Z",
+      "updatedAt": "2026-09-30T05:00:02.000Z",
       "rawHeader": "Routes 515 and 542 detoured off American Blvd from Old Cedar Ave to 24th Ave from Tue Sep 29 at 9:00 PM to Wed Sep 30 at 5:00 AM due to construction",
       "rawDescription": "Get on/off eastbound buses at:\r\nAmerican & Bloomington Station - Stop #42318 (eastbound)\r\nAmerican Blvd & Old Cedar Ave S - Stop #4529 (eastbound)\r\nMOA Transit Station Gate E - Stop #56877 (southbound, route 515 only)\r\nMOA Transit Station Gate G - Stop #56879 (northbound, route 542 only)\r\n\nGet on/off westbound buses at:\r\nMOA Transit Station Gate G - Stop #56879 (northbound, route 542 only)\r\nMOA Transit Station Gate E - Stop #56877 (southbound, route 515 only)\r\nAmerican Blvd & Old Cedar Ave S - Stop #4514 (westbound)\r\nAmerican & Bloomington Station - Stop #56921 (westbound)\r\n\nEastbound buses will travel regular route on American Blvd to Old Cedar, right on Old Cedar Ave, left on 86th St, left on Old Shakopee Rd, left on Winstead Way, left on 82nd St, left on 24th Ave and right into Mall of America.\r\n\nWestbound buses will depart Mall of America, right on 24th Ave which turns into Old Shakopee Rd, right on 86th St, right on Old Cedar Ave, left on American Blvd and resume regular route.\r\n\nAffected stops:\r\nAmerican Blvd & Old Cedar Ave S - Stop #4529 (eastbound)\r\nAmerican & Thunderbird Station - Stop #4530 (eastbound)\r\nAmerican Blvd & 24th Ave S - Stop #4531 (eastbound)\r\nAmerican Blvd & 24th Ave S - Stop #4511 (westbound)\r\nAmerican & Thunderbird Station - Stop #4513 (westbound)\r\nAmerican Blvd & Old Cedar Ave S - Stop #4514 (westbound)"
     },
@@ -10950,7 +10633,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-09-29T13:48:30.000Z",
+      "updatedAt": "2026-09-30T05:00:01.000Z",
       "rawHeader": "Route 805 detoured off Northdale Blvd from Hanson Blvd to Crooked Lake Blvd from 5:00 PM to 7:00 PM on Wed Sep 30 due Coon Rapids Homecoming Parade",
       "rawDescription": "For northbound Route 805 get on/off buses at:\r\nRobinson Dr & Martin St - Stop #10998 (northbound)\r\nNorthdale Blvd & 117th Ave N - Stop #42479 (northbound)\r\n\nFor southbound Route 805 get on/off buses at:\r\nNorthdale Blvd & 117th Lane - Stop #43815 (southbound)\r\nRobinson Dr & Martin St - Stop #10999 (southbound)\r\n\nNorthbound buses will travel regular route on Robinson Dr to Hanson Blvd, left on Hanson Blvd, right on Coon Rapids Blvd, right on Crooked Lake Blvd, left on Northdale Blvd and resume regular route.\r\n\nSouthbound buses will travel regular route on Northdale Blvd to Crooked Lake Blvd, right on Crooked Lake Blvd, left on Coon Rapids Blvd, left on Hanson Blvd, right on Robinson Dr, and resume regular route.\r\n\nAffected stops:\r\nNorthdale Blvd & Hanson / Partridge - Stop #11001 (westbound)\r\nNorthdale Blvd & Raven St - Stop #11004 (westbound)\r\nNorthdale Blvd & Wren St - Stop #11005 (westbound)\r\nNorthdale Blvd & Xavis St - Stop #11008 (westbound)\r\nNorthdale Blvd & Zion St - Stop #11012 (westbound)\r\nNorthdale Blvd & Bittersweet St - Stop #11013 (westbound)\r\nNorthdale Blvd & Crocus St NW - Stop #11016 (westbound)\r\nNorthdale Blvd & Crooked Lake Blvd - Stop #11017 (westbound)\r\nNorthdale Blvd & Crooked Lake Blvd - Stop #43816 (eastbound)\r\nNorthdale Blvd & North Heights Dr NW - Stop #11015 (eastbound)\r\nNorthdale Blvd & Bittersweet St - Stop #11014 (eastbound)\r\nNorthdale Blvd & Zion St - Stop #11011 (eastbound)\r\nNorthdale Blvd & Xavis St - Stop #11007 (eastbound)\r\nNorthdale Blvd & Wren St - Stop #11006 (eastbound)\r\nNorthdale Blvd & Raven St - Stop #11003 (eastbound)\r\nNorthdale Blvd & Partridge / Hanson - Stop #11002 (eastbound)\r\nNorthdale Blvd & Hanson Blvd - Stop #11000 (eastbound)"
     },
@@ -10994,7 +10677,7 @@
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/827",
-      "updatedAt": "2026-09-29T05:00:02.000Z",
+      "updatedAt": "2026-09-30T05:00:02.000Z",
       "rawHeader": "Marshall St NE & 29th Ave NE - Stop #57558 (northbound) is closed for Route 827 from 7:30 AM to 4:00 PM on Wed Sep 30 due to construction",
       "rawDescription": "Get on/off buses at:\r\nMarshall St NE & 27th Ave NE - Stop #57557 (northbound)\r\nMarshall St NE & 31st Ave NE - Stop #57559 (northbound)"
     },
@@ -11176,7 +10859,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/860",
-      "updatedAt": "2026-09-29T13:39:26.000Z",
+      "updatedAt": "2026-09-30T05:00:01.000Z",
       "rawHeader": "Route 860 detoured off Northdale Blvd from Hanson Blvd to Crooked Lake Blvd from 5:00 PM to 7:00 PM on Wed Sep 30 due to Coon Rapids Homecoming Parade",
       "rawDescription": "Get on/off northbound buses at:\r\nTemporary stop on Hanson Blvd just past Northdale Blvd (southbound)\r\nNorthdale Blvd & 118th Lane - Stop #42481 (northbound)\r\n\nNorthbound buses will travel regular route on Hanson Blvd to Northdale Blvd, continue on Hanson Blvd to Coon Rapids Blvd, right on Coon Rapids Blvd, right on Crooked Lake Blvd, left on Northdale Blvd and resume regular route.\r\n\nSouthbound buses will travel regular route. No stops missed.\r\n\nAffected direction: Northbound\r\n\nAffected stops:\r\nNorthdale Blvd & Hanson / Partridge - Stop #11001 (westbound)\r\nNorthdale Blvd & Raven St - Stop #11004 (westbound)\r\nNorthdale Blvd & Wren St - Stop #11005 (westbound)\r\nNorthdale Blvd & Zion St - Stop #11012 (westbound)\r\nNorthdale Blvd & Bittersweet St - Stop #11013 (westbound)\r\nNorthdale Blvd & Crooked Lake Blvd - Stop #11017 (westbound)"
     },
