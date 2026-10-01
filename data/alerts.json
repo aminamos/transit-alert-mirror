@@ -1,180 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-01T03:59:03.665Z",
-    "totalAlerts": 135,
-    "criticalCount": 6,
-    "moderateCount": 126,
-    "minorCount": 3,
-    "affectedRoutesCount": 82,
+    "generatedAt": "2026-10-01T10:51:22.427Z",
+    "totalAlerts": 129,
+    "criticalCount": 0,
+    "moderateCount": 125,
+    "minorCount": 4,
+    "affectedRoutesCount": 81,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "53571",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO C Line: Service Canceled",
-      "summary": "C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 4:04 PM and eight other trips canceled today",
-      "affectedRoutes": [
-        "METRO C Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing 7th St & Park St",
-        "56 PM\ndeparting 7th St & Park St",
-        "43 PM\ndeparting 7th St & Park St",
-        "27 PM\ndeparting 7th St & Park St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-30T21:27:00.000Z",
-        "end": "2026-10-01T05:28:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/cline",
-      "updatedAt": "2026-09-30T21:28:57.000Z",
-      "rawHeader": "C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 4:04 PM and eight other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting 7th St & Park Station at 4:56 PM\r\ndeparting 7th St & Park Station at 6:43 PM\r\ndeparting 7th St & Park Station at 8:27 PM\r\ndeparting 7th St & Park Station at 9:59 PM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 4:04 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 5:48 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 7:33 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 9:15 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 10:56 PM"
-    },
-    {
-      "id": "53552",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO D Line: Service Canceled",
-      "summary": "D Line trip departing MOA Transit Station Gate A at 2:03 PM and nine other trips canceled today",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-30T20:17:00.000Z",
-        "end": "2026-10-01T06:57:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-09-30T20:18:18.000Z",
-      "rawHeader": "D Line trip departing MOA Transit Station Gate A at 2:03 PM and nine other trips canceled today",
-      "rawDescription": "Updated at 3:17 PM to cancel additional trips.\r\n\nAffected northbound trips:\r\ndeparting MOA Transit Station Gate A at 2:03 PM\r\ndeparting MOA Transit Station Gate A at 5:19 PM\r\ndeparting MOA Transit Station Gate A at 5:29 PM\r\ndeparting MOA Transit Station Gate A at 8:43 PM\r\ndeparting MOA Transit Station Gate A at 11:49 PM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 3:38 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 3:48 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 6:58 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 7:10 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 10:11 PM"
-    },
-    {
-      "id": "53583",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO D Line: Service Canceled",
-      "summary": "D Line trips departing MOA Transit Station Gate A at 8:58 PM and departing Brooklyn Ctr Transit Ctr Gate F at 10:31 PM canceled today",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-01T01:58:00.000Z",
-        "end": "2026-10-01T05:40:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-10-01T01:28:01.000Z",
-      "rawHeader": "D Line trips departing MOA Transit Station Gate A at 8:58 PM and departing Brooklyn Ctr Transit Ctr Gate F at 10:31 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "53581",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 22: Service Canceled",
-      "summary": "Route 22 trip departing VA Medical Center & Visitors Entrance at 6:03 PM and three other trips canceled today",
-      "affectedRoutes": [
-        "Route 22"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-30T23:04:00.000Z",
-        "end": "2026-10-01T06:53:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-09-30T23:04:36.000Z",
-      "rawHeader": "Route 22 trip departing VA Medical Center & Visitors Entrance at 6:03 PM and three other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting VA Medical Center & Visitors Entrance at 6:03 PM\r\ndeparting VA Medical Center & Visitors Entrance at 9:59 PM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate H at 8:00 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate H at 11:29 PM"
-    },
-    {
-      "id": "53572",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 48: Service Canceled",
-      "summary": "Route 48 trip departing Gateway Ramp & Platform at 7:04 PM and four other trips canceled today",
-      "affectedRoutes": [
-        "Route 48"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-01T00:04:00.000Z",
-        "end": "2026-10-01T05:40:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/48",
-      "updatedAt": "2026-09-30T23:34:01.000Z",
-      "rawHeader": "Route 48 trip departing Gateway Ramp & Platform at 7:04 PM and four other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Gateway Ramp & Platform at 7:04 PM\r\ndeparting Gateway Ramp & Platform at 9:04 PM\r\ndeparting Gateway Ramp & Platform at 11:04 PM\r\n\nAffected southbound trips:\r\ndeparting Robbinsdale Transit Center & Gate D at 8:10 PM\r\ndeparting Robbinsdale Transit Center & Gate D at 10:10 PM"
-    },
-    {
-      "id": "53579",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 72: Service Canceled",
-      "summary": "Route 72 trip departing Sun Ray Transit Center & Gate D at 5:48 PM and four other trips canceled today",
-      "affectedRoutes": [
-        "Route 72"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing Pascal St N & Central Ave W",
-        "52 PM\ndeparting Pascal St N & Central Ave W"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-30T22:57:00.000Z",
-        "end": "2026-10-01T04:35:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-09-30T22:57:24.000Z",
-      "rawHeader": "Route 72 trip departing Sun Ray Transit Center & Gate D at 5:48 PM and four other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 6:52 PM\r\ndeparting Pascal St N & Central Ave W at 8:53 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 5:48 PM\r\ndeparting Sun Ray Transit Center & Gate D at 7:51 PM\r\ndeparting Sun Ray Transit Center & Gate D at 9:51 PM"
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -830,7 +666,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-09-27T07:15:01.000Z",
+      "updatedAt": "2026-10-01T05:00:01.000Z",
       "rawHeader": "METRO E Line detoured off Hennepin Ave from 28th St to Lake St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM",
       "rawDescription": "Get on/off southbound buses at:\r\nUptown Transit Station - Gates D/E - Stop #52857 (westbound)\r\n\nNo northbound stations missed.\r\n\nNorthbound buses will travel regular route on Hennepin Ave to Lake St, right on Lake St, left on Dupont Ave, left on Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Hennepin Ave to 28th St, left on 28th St, right on Lyndale Ave, right on Lake St, right on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave and resume regular route.\r\n\nAffected stops:\r\nUptown Transit Station - Gate A - Stop #50196 (southbound)"
     },
@@ -3176,43 +3012,6 @@
       "rawDescription": "No northbound/eastbound stops missed.\r\n\nGet on/off southbound/westbound buses at:\r\nNicollet Mall & 9th St S - Stop #17982 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17986 (southbound)\r\n\nNorthbound/eastbound buses will travel regular route on Nicollet Mall to 11th St, left on 11th St, right on LaSalle Ave, right on 10th St, left on Nicollet Mall, and resume regular route.\r\n\nSouthbound/westbound buses will travel regular route on Nicollet Mall to 10th St, left on 10th St, right on Marquette Ave, right on 11th St, left on Nicollet Mall, and resume regular route.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)"
     },
     {
-      "id": "53584",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 10, Route 11, Route 17, Route 18, Route 25: Stop Closed at Nicollet Ave S & Grant St E",
-      "summary": "Nicollet Ave S & Grant St E - Stop #1197 (southbound) is closed for Routes 10, 11, 17, 18 and 25 until later today due to police activity",
-      "affectedRoutes": [
-        "Route 10",
-        "Route 11",
-        "Route 17",
-        "Route 18",
-        "Route 25"
-      ],
-      "direction": "Southbound",
-      "intersections": [
-        "Nicollet Ave S & Grant St E"
-      ],
-      "closedStopIds": [
-        "1197"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "1197"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-01T01:39:00.000Z",
-        "end": "2026-10-01T05:57:23.000Z"
-      },
-      "cause": "POLICE_ACTIVITY",
-      "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-01T01:39:13.000Z",
-      "rawHeader": "Nicollet Ave S & Grant St E - Stop #1197 (southbound) is closed for Routes 10, 11, 17, 18 and 25 until later today due to police activity",
-      "rawDescription": ""
-    },
-    {
       "id": "49659",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -3695,7 +3494,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-09-27T07:15:01.000Z",
+      "updatedAt": "2026-10-01T05:00:01.000Z",
       "rawHeader": "Route 17 detoured off Hennepin Ave from Lake St to 28th St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM",
       "rawDescription": "Get on/off westbound buses at:\r\nUptown Transit Station - Gate C - Stop #50160 (westbound)\r\n\nNo eastbound stops missed.\r\n\nEastbound buses will travel regular route on Lake St to Hennepin Ave, continue on Lake St to Dupont Ave, left on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.\r\n\nWestbound buses will travel regular route on Hennepin Ave to 28th St, left on 28th St, right on Lyndale Ave, right on Lake St, right on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave, right on Lagoon Ave and resume regular route.\r\n\nAffected stops:\r\nUptown Transit Station - Gate A - Stop #50196 (southbound)"
     },
@@ -4662,7 +4461,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/25",
-      "updatedAt": "2026-09-30T22:53:27.000Z",
+      "updatedAt": "2026-10-01T05:00:01.000Z",
       "rawHeader": "Route 25 detoured off Long Lake Rd from Co Rd H to Co Rd H2 and off Co Rd H2 from Silver Lake Rd to Long Lake Rd beginning Thu Oct 1 at 7:00 AM until further notice",
       "rawDescription": "For northbound Route 25 get on/off buses at:\r\nSilver Lake Rd & Co Rd H - Stop #14078 (northbound)\r\nTemporary stop on County Rd H2 at Skiba Dr (eastbound)\r\nCounty Rd H2 & Edgewood Dr - Stop #57221 (eastbound)\r\n\nFor southbound Route 25 get on/off buses at:\r\nCounty Rd H2 & Edgewood Dr - Stop #57234 (westbound)\r\nTemporary stop Co Rd H2 at Long Lake Rd (westbound)\r\nSilver Lake Rd & Gregory Dr - Stop #14081 (southbound)\r\n\nNorthbound buses will travel the regular route on Silver Lake Rd to Co Rd H, right on Co Rd H, left on Long Lake Rd, right on Co Rd H2, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Co Rd H2 to Long Lake Rd, left on Long Lake Rd, right on Co Rd H, left on Silver Lake Rd, and resume the regular route.\r\n\nAffected stops:\r\nSilver Lake Rd & Woodale Dr - Stop #57236 (northbound)\r\nCo Rd H-2 & Silver Lake Rd - Stop #14045 (eastbound)\r\nCo Rd H-2 & Red Oak Dr - Stop #14046 (eastbound)\r\nCo Rd H-2 & Scotland Green Apts (W) - Stop #40135 (eastbound)\r\nCo Rd H-2 & Scotland Green Apts (E) - Stop #14050 (eastbound)\r\nCo Rd H-2 & Long Lake Rd - Stop #14053 (eastbound)\r\nCo Rd H-2 & Long Lake Rd - Stop #40107 (westbound)\r\nCo Rd H-2 & Scotland Green Apts (E) - Stop #14052 (westbound)\r\nCo Rd H-2 & Scotland Green Apts (W) - Stop #14051 (westbound)\r\nCo Rd H-2 & Parkview Dr - Stop #14047 (westbound)\r\nCo Rd H-2 & Silver Lake Rd - Stop #14044 (westbound)\r\nSilver Lake Rd & Woodale Dr - Stop #57237 (southbound)\r\nSilver Lake Rd & County Rd H W - Stop #57642 (southbound)"
     },
@@ -5116,7 +4915,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-09-27T07:15:01.000Z",
+      "updatedAt": "2026-10-01T05:00:02.000Z",
       "rawHeader": "METRO B Line and Route 38 detoured off Lagoon Ave from Fremont Ave to Hennepin Ave until further notice every Friday and Saturday from 12:00 AM to 2:00 AM",
       "rawDescription": "No stations missed.\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on Lagoon Ave to Fremont Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave, right on Lagoon Ave and resume regular route."
     },
@@ -6145,7 +5944,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/62",
-      "updatedAt": "2026-09-30T05:00:01.000Z",
+      "updatedAt": "2026-10-01T05:00:01.000Z",
       "rawHeader": "Route 62 detoured off Maryland Ave from Galtier St to Rice St from 9:00 AM to 12:00 PM on Thu Oct 1",
       "rawDescription": "For northbound Route 62 get on/off buses at:\r\nGaltier St & Cook Ave W - Stop #80934 (northbound)\r\nRice St & Ivy Ave - Stop #10507 (northbound)\r\n\nFor southbound Route 62 get on/off buses at:\r\nRice St & Orange Ave - Stop #10470 (southbound)\r\nGaltier St & Cook Ave W - Stop #80929 (southbound)\r\n\nNorthbound buses will travel the regular route on Galtier St to Maryland Ave, continue on Galtier St, right on Orange Ave, left on Rice St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Rice St to Orange Ave, right on Orange Ave, left on Galtier St to Maryland Ave, continue on Galtier St, and resume the regular route.\r\n\nAffected stops:\r\nRice St & Orange Ave - Stop #10505 (northbound)\r\nRice St & Maryland Ave - Stop #10471 (southbound)"
     },
@@ -8898,7 +8697,7 @@
       },
       "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-09-29T11:30:10.000Z",
+      "updatedAt": "2026-10-01T05:00:02.000Z",
       "rawHeader": "Cleveland Ave & Ford Pkwy - Stop #13095 (northbound) is closed for Routes 87 and 134 from Tue Sep 29 at 7:00 AM to Fri Oct 2 at 4:00 PM due to utility work",
       "rawDescription": "Get on/off buses at:\r\nCleveland Ave & Hillcrest Ave - Stop #13094 (northbound)\r\nCleveland Ave & Pinehurst Ave - Stop #11760 (northbound)"
     },
@@ -10647,6 +10446,46 @@
       "updatedAt": "2026-09-03T18:51:20.000Z",
       "rawHeader": "Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction",
       "rawDescription": "Updated get on/off stops 6/9 1:30 pm.\r\n\nGet on/off buses at:\r\nTemporary stop on Grove St & Lafayette Rd (eastbound)\r\nLaFayette Rd & 8th St - Stop #11925 (southbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on southbound I-35E to University Ave, continue on I-35E and exit at Wacouta St, left on 9th St, left on Broadway St, right on Grove St, right on Lafayette Rd, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nUniversity Ave & Mississippi St - Stop #56109 (eastbound)\r\nUniversity Ave & Lafayette St - Stop #57630 (eastbound)\r\nLaFayette Rd & Grove St - Stop #11923 (southbound)"
+    },
+    {
+      "id": "53587",
+      "agency": "Metro Transit",
+      "severity": "Minor",
+      "title": "Green Line Trip Departing Union Depot Station at 4:41 AM Delayed 18 Minutes Today",
+      "summary": "Green Line trip departing Union Depot Station at 4:41 AM delayed 18 minutes today",
+      "affectedRoutes": [
+        "METRO Green Line"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [
+        "56332",
+        "56333",
+        "56339"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "56332"
+        },
+        {
+          "id": "56333"
+        },
+        {
+          "id": "56339"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-01T10:44:00.000Z",
+        "end": "2026-10-01T11:30:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "OTHER_EFFECT",
+      "url": "https://www.metrotransit.org/route/green",
+      "updatedAt": "2026-10-01T10:45:36.000Z",
+      "rawHeader": "Green Line trip departing Union Depot Station at 4:41 AM delayed 18 minutes today",
+      "rawDescription": "Affected direction: Westbound\r\n\nAffected stops:\r\nWarehouse District Hennepin Ave Station\r\nTarget Field Station Platform 1\r\nTarget Field Station Platform 2"
     },
     {
       "id": "53142",
