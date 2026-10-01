@@ -2,108 +2,134 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-139-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-7-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-129-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-147-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-12-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-132-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-83-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-84-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-01T17:15:18.780Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-01T22:18:41.979Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (3) • **METRO B Line** (3) • **METRO Blue Line** (1) • **METRO D Line** (4) • **METRO E Line** (5) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (4) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (4) • **Route 7** (5) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (3) • **Route 17** (3) • **Route 18** (9) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (2) • **Route 36** (4) • **Route 38** (5) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (3) • **Route 63** (3) • **Route 64** (4) • **Route 65** (3) • **Route 67** (4) • **Route 68** (7) • **Route 68C** (2) • **Route 68D** (1) • **Route 68G** (1) • **Route 68R** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (2) • **Route 83** (2) • **Route 87** (2) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO B Line** (3) • **METRO Blue Line** (1) • **METRO D Line** (7) • **METRO E Line** (4) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (4) • **Route 3** (5) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (4) • **Route 7** (5) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (3) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (4) • **Route 27** (2) • **Route 30** (1) • **Route 36** (4) • **Route 38** (5) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (3) • **Route 63** (4) • **Route 64** (4) • **Route 65** (3) • **Route 67** (5) • **Route 68** (7) • **Route 68C** (2) • **Route 68D** (1) • **Route 68G** (1) • **Route 68R** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (2) • **Route 83** (2) • **Route 87** (2) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO A Line: Service Advisory
+### 🚨 METRO D Line: Southbound 3:18 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)
 
-- **Affected Routes**: `METRO A Line`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #80653, Stop #17371, Stop #81109, Stop #17366, Stop #56111, Stop #56112, Stop #56114, Stop #56115 *(+5 more)*
-
-**Summary**: Northbound A Line trip departing 46th St Station Gate A at 11:18 AM will start from Snelling & University Station at 11:45 AM today. Previous stops will be missed
-
-[Official Agency Advisory](https://www.metrotransit.org/route/aline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound A Line trip departing 46th St Station Gate A at 11:18 AM will start from Snelling & University Station at 11:45 AM today. Previous stops will be missed
-
-</details>
-
----
-
-### 🚨 METRO E Line: Service Advisory
-
-- **Affected Routes**: `METRO E Line`
+- **Affected Routes**: `METRO D Line`
 - **Direction**: Southbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #15881, Stop #15884, Stop #16112, Stop #16116, Stop #16119, Stop #16124, Stop #15562, Stop #16569 *(+6 more)*
 
-**Summary**: Southbound E Line trip departing Westgate Station - Gate A at 10:33 AM will start from Hennepin & 8th St Station at 10:56 AM today. Previous stops will be missed
+**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:18 PM canceled today due to medical emergency
 
-[Official Agency Advisory](https://www.metrotransit.org/route/eline)
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound E Line trip departing Westgate Station - Gate A at 10:33 AM will start from Hennepin & 8th St Station at 10:56 AM today. Previous stops will be missed
+**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:18 PM canceled today due to medical emergency
 
 </details>
 
 ---
 
-### 🚨 Route 18: Northbound 11:19 AM Trip Canceled (104th St W & Bloomington Fwy W)
+### 🚨 METRO D Line: Southbound 3:28 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)
 
-- **Affected Routes**: `Route 18`
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #441, Stop #431, Stop #42318, Stop #4530, Stop #449, Stop #444, Stop #436, Stop #56873 *(+13 more)*
+
+**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:28 PM canceled today due to police activity
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:28 PM canceled today due to police activity
+
+</details>
+
+---
+
+### 🚨 METRO D Line: Service Advisory
+
+- **Affected Routes**: `METRO D Line`
 - **Direction**: Northbound
 - **Severity**: `Critical`
+- **Closed Stops**: Stop #620, Stop #56924, Stop #56925, Stop #81078, Stop #80138, Stop #784, Stop #779, Stop #737 *(+8 more)*
 
-**Summary**: Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 11:19 AM canceled
+**Summary**: Northbound D Line trip departing MOA Transit Station at 5:09 PM will start from Chicago & Lake Station
 
-[Official Agency Advisory](https://www.metrotransit.org/route/18)
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 11:19 AM canceled
+**Header**: Northbound D Line trip departing MOA Transit Station at 5:09 PM will start from Chicago & Lake Station
 
 </details>
 
 ---
 
-### 🚨 Route 30: Service Canceled
+### 🚨 METRO Orange Line: Southbound 3:52 PM Trip Canceled (Marquette Ave & 3rd St - Stop Group C)
 
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
+- **Affected Routes**: `METRO Orange Line`
+- **Direction**: Southbound
 - **Severity**: `Critical`
-- **Corridors & Intersections**: 53 AM
-departing Knox Ave N & Golden Valley Rd; 56 AM
-departing Knox Ave N & Golden Valley Rd
 
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today
+**Summary**: Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 3:52 PM canceled today due to mechanical issue
 
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
+[Official Agency Advisory](https://www.metrotransit.org/route/orange)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today
+**Header**: Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 3:52 PM canceled today due to mechanical issue
 
-```text
-Affected eastbound trips:
-departing Golden Valley Rd Turn & Xerxes Ave N at 7:53 AM
-departing Knox Ave N & Golden Valley Rd at 9:56 AM
-departing Knox Ave N & Golden Valley Rd at 11:56 AM
+</details>
 
-Affected westbound trips:
-departing Westgate Station - Gate B at 7:07 AM
-departing Westgate Station - Gate B at 9:06 AM
-departing Westgate Station - Gate B at 11:04 AM
-```
+---
+
+### 🚨 Route 2: Service Advisory
+
+- **Affected Routes**: `Route 2`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 19 PM will start from 26th Ave & Seward Tower. Previous st
+- **Closed Stops**: Stop #13211, Stop #13207, Stop #13231, Stop #13239, Stop #16058, Stop #16136, Stop #16137, Stop #16142 *(+12 more)*
+
+**Summary**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 3:19 PM will start from 26th Ave & Seward Tower. Previous stops missed
+
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 3:19 PM will start from 26th Ave & Seward Tower. Previous stops missed
+
+</details>
+
+---
+
+### 🚨 Route 25: Service Canceled
+
+- **Affected Routes**: `Route 25`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 25 trips departing Marquette Ave & 2nd St S
+
+**Summary**: Route 25 trips departing Marquette Ave & 2nd St S at 3:21 PM and departing Leamington Ramp & Lower - Gate #7 at 5:05 PM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/25)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 25 trips departing Marquette Ave & 2nd St S at 3:21 PM and departing Leamington Ramp & Lower - Gate #7 at 5:05 PM canceled today due to mechanical issue
 
 </details>
 
@@ -139,6 +165,85 @@ departing Westgate Station - Gate B at 1:04 PM
 departing Westgate Station - Gate B at 3:04 PM
 departing Westgate Station - Gate B at 5:04 PM
 departing Westgate Station - Gate B at 7:05 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 63: Eastbound 5:10 PM Trip Canceled (Smith & 5th St Station)
+
+- **Affected Routes**: `Route 63`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #81080, Stop #81082, Stop #56943, Stop #56946, Stop #42114, Stop #16956, Stop #3108, Stop #3110 *(+26 more)*
+
+**Summary**: Eastbound Route 63 trip departing Smith & 5th St Station at 5:10 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/63)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 63 trip departing Smith & 5th St Station at 5:10 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 540: Service Canceled
+
+- **Affected Routes**: `Route 540`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing Normandale Lake Blvd & 83rd St; 32 PM
+departing Normandale Lake Blvd & 83rd St; 02 PM
+departing Normandale Lake Blvd & 83rd St
+
+**Summary**: Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 1:32 PM and two other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/540)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 1:32 PM and two other trips canceled today
+
+```text
+Updated at 1:52 PM to restore previously canceled eastbound trips departing Normandale Lake Blvd & 83rd St / 84th St at 6:02 PM and at 7:32 PM. The trips listed below remain canceled.
+
+Affected eastbound trips:
+departing Normandale Lake Blvd & 83rd St / 84th St at 1:32 PM
+departing Normandale Lake Blvd & 83rd St / 84th St at 3:02 PM
+departing Normandale Lake Blvd & 83rd St / 84th St at 4:30 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 542: Service Canceled
+
+- **Affected Routes**: `Route 542`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Route 542 trip departing MOA Transit Station Gate G at 1:07 PM and two other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/542)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 542 trip departing MOA Transit Station Gate G at 1:07 PM and two other trips canceled today
+
+```text
+Updated at 1:49 PM to restore previously canceled westbound trips departing MOA Transit Station Gate G at 5:35 PM and at 7:07 PM. The trips listed below remain canceled.
+
+Affected westbound trips:
+departing MOA Transit Station Gate G at 1:07 PM
+departing MOA Transit Station Gate G at 2:37 PM
+departing MOA Transit Station Gate G at 4:04 PM
 ```
 
 </details>
@@ -867,6 +972,55 @@ Franklin Ave W & Pleasant Ave S - Stop #13328 (WB)
 
 ---
 
+### ⚠️ Route 2: Detour via Cedar Ave S & 3rd St S
+
+- **Affected Routes**: `Route 2`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Cedar Ave S & 3rd St S; 4th St & 15th Ave S; 3rd St S & Cedar Ave S; continue on Cedar to Washington Ave & 15th Ave S; Washington Ave & Anderson Hall - St
+- **Closed Stops**: Washington Ramp & Cedar Ave S (Stop #13221), Washington Ave & Anderson Hall (Stop #13223), Washington Ave & Coffman Union (Stop #13209), Oak St SE & University Ave SE (Stop #41243), 4th St & Ridder Arena Station (Stop #16154), Oak St SE & Washington Ave SE (Stop #41248), Washington Ave & Coffman Union (Stop #13207), Washington Ave & Willey Hall (Stop #13211) *(+4 more)*
+
+**Summary**: Route 2 detoured off Washington Ave from Oak St to Cedar Ave and off 4th St SE from Oak St to 15th Ave SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure. Board at: Cedar Ave S & 3rd St S - Stop #13219 (northbound); 4th St & 15th Ave Station - Stop #16112 (westbound).
+
+> 💡 **Rider Action**: Board at: Cedar Ave S & 3rd St S - Stop #13219 (northbound); 4th St & 15th Ave Station - Stop #16112 (westbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on Cedar Ave to 3rd St, continue on Cedar to Washington Ave/15th Ave S, right on Washington, left on 19th Ave S and continue across the bridge which becomes 10th Ave SE, right on 6th St SE, right on 15th Ave SE, right on 4th St SE, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 2 detoured off Washington Ave from Oak St to Cedar Ave and off 4th St SE from Oak St to 15th Ave SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure
+
+```text
+For eastbound Route 2 get on/off buses at:
+Cedar Ave S & 3rd St S - Stop #13219 (northbound)
+4th St & 15th Ave Station - Stop #16112 (westbound)
+
+For westbound Route 2 get on/off buses at:
+University & U of M Rec Center Station - Stop #16142 (eastbound)
+3rd St S & Cedar Ave S - Stop #42452 (eastbound)
+
+Eastbound buses will travel regular route on Cedar Ave to 3rd St, continue on Cedar to Washington Ave/15th Ave S, right on Washington, left on 19th Ave S and continue across the bridge which becomes 10th Ave SE, right on 6th St SE, right on 15th Ave SE, right on 4th St SE, and resume regular route.
+
+Westbound buses will travel regular route on Oak St to Washington Ave, left on Washington, right on Huron Blvd and continue onto westbound I-94 ramp, exit at Cedar Ave, right on Cedar, right on 3rd St, and resume regular route.
+
+Affected stops:
+Washington Ramp & Cedar Ave S - Stop #13221 (eastbound)
+Washington Ave & Anderson Hall - Stop #13223 (eastbound)
+Washington Ave & Coffman Union - Stop #13209 (eastbound)
+Oak St SE & University Ave SE - Stop #41243 (northbound)
+4th St & Ridder Arena Station - Stop #16154 (westbound)
+Oak St SE & Washington Ave SE - Stop #41248 (southbound)
+Washington Ave & Coffman Union - Stop #13207 (westbound)
+Washington Ave & Willey Hall - Stop #13211 (westbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 3, Route 3A: Detour via Maryland Ave & Galtier St
 
 - **Affected Routes**: `Route 3` `Route 3A`
@@ -1074,6 +1228,57 @@ Rice St & Aurora/Rondo Ave - Stop #11896 (southbound)
 12th St W & John Ireland Blvd - Stop #56164 (westbound)
 Rice St & Rondo/Aurora Ave - Stop #11891 (northbound)
 Rice St & University Ave - Stop #11893 (northbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 3: Detour via Washington Ave S & 15th Ave S
+
+- **Affected Routes**: `Route 3`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Washington Ave S & 15th Ave S; 3rd St S & Cedar Ave S; 15th Ave SE & 4th St S; Washington Ave & 15th Ave S; Washington Ave & Cedar Ave
+- **Closed Stops**: Washington Ramp & Cedar Ave S (Stop #13221), Washington Ave & Anderson Hall (Stop #13223), E River Pkwy & Appleby Hall (Stop #57013), Pleasant St & Jones Hall (Stop #49881), Pleasant St & Eddy Hall (Stop #49237), Pleasant St SE & Scholars Walk (Stop #54046), Washington Ave & Willey Hall (Stop #13211), Cedar Ave S & Washington Ave (15th Ave) (Stop #16325) *(+5 more)*
+
+**Summary**: Route 3 detoured off Washington Ave from Cedar Ave to Pleasant St and off Pleasant St from Washington Ave to 4th St SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure. Board at: Washington Ave S & 15th Ave S - Stop #57023 (eastbound); 3rd St S & Cedar Ave S - Stop #42452 (eastbound); 15th Ave SE & 4th St SE - Stop #16111 (northbound).
+
+> 💡 **Rider Action**: Board at: Washington Ave S & 15th Ave S - Stop #57023 (eastbound); 3rd St S & Cedar Ave S - Stop #42452 (eastbound); 15th Ave SE & 4th St SE - Stop #16111 (northbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on Cedar Ave to 3rd St, left on 3rd St (buses do not travel down ramp), left on 19th Ave S and continue across bridge which becomes 10th Ave SE, right on University Ave, left on 15th Ave SE, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/3)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 3 detoured off Washington Ave from Cedar Ave to Pleasant St and off Pleasant St from Washington Ave to 4th St SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure
+
+```text
+For eastbound Route 3 get on/off buses at:
+Washington Ave S & 15th Ave S - Stop #57023 (eastbound)
+3rd St S & Cedar Ave S - Stop #42452 (eastbound)
+15th Ave SE & 4th St SE - Stop #16111 (northbound)
+
+For westbound Route 3 get on/off buses at:
+15th Ave SE & 4th St SE - Stop #49242 (southbound)
+Temporary stop on Washington Ave/15th Ave S & Washington Ave/Cedar Ave, in front of Town Hall Brewery (southbound)
+Washington Ave S & 11th Ave S - Stop #19302 (westbound)
+
+Eastbound buses will travel regular route on Cedar Ave to 3rd St, left on 3rd St (buses do not travel down ramp), left on 19th Ave S and continue across bridge which becomes 10th Ave SE, right on University Ave, left on 15th Ave SE, and resume regular route.
+
+Westbound buses will travel regular route on 15th Ave SE to 4th St SE, right on 4th St, left on 10th Ave SE and continue across bridge which becomes 19th Ave S, right on Washington Ave/2nd St S, right on Washington Ave/Cedar Ave, and resume regular route.
+
+Affected stops:
+Washington Ramp & Cedar Ave S - Stop #13221 (eastbound)
+Washington Ave & Anderson Hall - Stop #13223 (eastbound)
+E River Pkwy & Appleby Hall - Stop #57013 (northbound)
+Pleasant St & Jones Hall - Stop #49881 (northbound)
+Pleasant St & Eddy Hall - Stop #49237 (southbound)
+Pleasant St SE & Scholars Walk - Stop #54046 (southbound)
+Washington Ave & Willey Hall - Stop #13211 (westbound)
+Cedar Ave S & Washington Ave (15th Ave) - Stop #16325 (westbound)
 ```
 
 </details>
@@ -4087,6 +4292,53 @@ Westbound buses will travel the regular route on Franklin Ave to 27th Ave, right
 Affected stops:
 Franklin Ave E & 31st Ave S - Stop #16514 (eastbound)
 Franklin Ave E & 31st Ave S - Stop #16558 (westbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 67: Detour via Minnehaha Ave & Dale St
+
+- **Affected Routes**: `Route 67`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Minnehaha Ave & Dale St; Thomas Ave & Mackubin St; Thomas Ave & Kent St; Dale St & Blair Ave; Thomas Ave & Dale St
+- **Closed Stops**: Dale St & Blair Ave (Stop #10740), Thomas Ave & Dale St (Stop #41971), Thomas Ave & Kent St (Stop #18834), Thomas Ave & Dale St (Stop #18853), Dale St & Blair Ave (Stop #10700), Stop #15065, Stop #18835, Stop #18852 *(+1 more)*
+
+**Summary**: Route 67 detoured off Dale St from Minnehaha Ave to Thomas Ave and off Thomas Ave from Dale St to Kent St until further notice due to construction. Board at: Minnehaha Ave & Dale St - Stop #15065 (eastbound); Temporary stop on Kent St at Thomas Ave (southbound); Thomas Ave & Mackubin St - Stop #18835 (eastbound).
+
+> 💡 **Rider Action**: Board at: Minnehaha Ave & Dale St - Stop #15065 (eastbound); Temporary stop on Kent St at Thomas Ave (southbound); Thomas Ave & Mackubin St - Stop #18835 (eastbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel the regular route on Minnehaha Ave to Dale St, continue on Minnehaha Ave, right on Kent St, left on Thomas Ave, and resume the regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/67)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 67 detoured off Dale St from Minnehaha Ave to Thomas Ave and off Thomas Ave from Dale St to Kent St until further notice due to construction
+
+```text
+For eastbound Route 67 get on/off buses at:
+Minnehaha Ave & Dale St - Stop #15065 (eastbound)
+Temporary stop on Kent St at Thomas Ave (southbound)
+Thomas Ave & Mackubin St - Stop #18835 (eastbound)
+
+For westbound Route 67 get on/off buses at:
+Thomas Ave & Kent St - Stop #18852 (westbound)
+Minnehaha Ave & Dale St - Stop #15090 (westbound)
+
+Eastbound buses will travel the regular route on Minnehaha Ave to Dale St, continue on Minnehaha Ave, right on Kent St, left on Thomas Ave, and resume the regular route.
+
+Westbound buses will follow the regular route on Thomas Ave to Kent St, right on Kent St, left on Minnehaha Ave to Dale St, continue on Minnehaha Ave, and resume the regular route.
+
+Affected stops:
+Dale St & Blair Ave - Stop #10740 (southbound)
+Thomas Ave & Dale St - Stop #41971 (eastbound)
+Thomas Ave & Kent St - Stop #18834 (eastbound)
+Thomas Ave & Dale St - Stop #18853 (westbound)
+Dale St & Blair Ave - Stop #10700 (northbound)
 ```
 
 </details>
