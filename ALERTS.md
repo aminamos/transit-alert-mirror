@@ -2,17 +2,17 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-153-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-22-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-128-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-135-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-6-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-126-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-88-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-82-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-09-30T23:25:40.159Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-01T03:59:03.665Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO B Line** (3) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (7) • **METRO E Line** (3) • **METRO Gold Line** (2) • **Route 2** (4) • **Route 2C** (1) • **Route 3** (4) • **Route 3A** (1) • **Route 4** (4) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (4) • **Route 7** (5) • **Route 9** (5) • **Route 10** (2) • **Route 11** (4) • **Route 11C** (1) • **Route 11D** (1) • **Route 14** (3) • **Route 17** (3) • **Route 18** (8) • **Route 22** (7) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (4) • **Route 63** (3) • **Route 64** (5) • **Route 65** (1) • **Route 67** (4) • **Route 68** (9) • **Route 68C** (2) • **Route 68D** (1) • **Route 68G** (1) • **Route 68R** (1) • **Route 71** (3) • **Route 71K** (1) • **Route 72** (4) • **Route 74** (2) • **Route 83** (2) • **Route 87** (2) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 804** (1) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO B Line** (3) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (6) • **METRO E Line** (3) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (4) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (4) • **Route 7** (5) • **Route 9** (5) • **Route 10** (3) • **Route 11** (4) • **Route 11D** (1) • **Route 14** (3) • **Route 17** (4) • **Route 18** (9) • **Route 22** (5) • **Route 25** (4) • **Route 27** (2) • **Route 36** (3) • **Route 38** (4) • **Route 46** (1) • **Route 48** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (4) • **Route 63** (3) • **Route 64** (5) • **Route 65** (1) • **Route 67** (4) • **Route 68** (7) • **Route 68C** (2) • **Route 68D** (1) • **Route 68G** (1) • **Route 68R** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (4) • **Route 74** (2) • **Route 83** (2) • **Route 87** (2) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
@@ -97,159 +97,14 @@ departing Brooklyn Ctr Transit Ctr Gate F at 10:11 PM
 - **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: D Line trips departing Brooklyn Ctr Transit Ctr Gate F at 2:28 PM and departing MOA Transit Station Gate A at 4:08 PM canceled today due to traffic
+**Summary**: D Line trips departing MOA Transit Station Gate A at 8:58 PM and departing Brooklyn Ctr Transit Ctr Gate F at 10:31 PM canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: D Line trips departing Brooklyn Ctr Transit Ctr Gate F at 2:28 PM and departing MOA Transit Station Gate A at 4:08 PM canceled today due to traffic
-
-</details>
-
----
-
-### 🚨 METRO D Line: Northbound 4:08 PM Trip Canceled (MOA Transit Station Gate A)
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound D Line trip departing MOA Transit Station Gate A at 4:08 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound D Line trip departing MOA Transit Station Gate A at 4:08 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 2: Westbound 4:48 PM Trip Canceled (2nd Ave SE & 7th St SE)
-
-- **Affected Routes**: `Route 2`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 4:48 PM canceled today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 4:48 PM canceled today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 2, Route 2C: Eastbound 5:22 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)
-
-- **Affected Routes**: `Route 2` `Route 2C`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-
-**Summary**: Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 5:22 PM canceled today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 5:22 PM canceled today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 4: Service Canceled
-
-- **Affected Routes**: `Route 4`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Cub Foods Svc Rd & 39th Ave; 54 PM and departing 81st St W & Humboldt Ave S
-
-**Summary**: Route 4 trips departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 3:54 PM and departing 81st St W & Humboldt Ave S at 5:36 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/4)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 4 trips departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 3:54 PM and departing 81st St W & Humboldt Ave S at 5:36 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 11, Route 11C: Northbound 4:50 PM Trip Canceled (Nicollet Ave S & 46th St E)
-
-- **Affected Routes**: `Route 11` `Route 11C`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #11660, Stop #11661, Stop #11662, Stop #11664, Stop #11665, Stop #11666, Stop #14605, Stop #14606 *(+34 more)*
-
-**Summary**: Northbound Route 11C trip departing Nicollet Ave S & 46th St E at 4:50 PM canceled from Nicollet Mall & 7th St at 5:22 PM today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/11)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 11C trip departing Nicollet Ave S & 46th St E at 4:50 PM canceled from Nicollet Mall & 7th St at 5:22 PM today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 22: Service Canceled
-
-- **Affected Routes**: `Route 22`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 2:28 PM and two other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/22)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 2:28 PM and two other trips canceled today
-
-```text
-Affected northbound trips:
-departing VA Medical Center & Visitors Entrance at 4:13 PM
-
-Affected southbound trips:
-departing Brooklyn Ctr Transit Ctr Gate H at 2:28 PM
-departing Brooklyn Ctr Transit Ctr Gate H at 6:13 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 22: Service Advisory
-
-- **Affected Routes**: `Route 22`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #12562, Stop #12566, Stop #12571, Stop #17618, Stop #19295, Stop #19296, Stop #17903, Stop #15264 *(+49 more)*
-
-**Summary**: Northbound Route 22 trip departing VA Medical Center at 5:31 PM will start from 7th & Oak Lake. Previous stops missed
-
-[Official Agency Advisory](https://www.metrotransit.org/route/22)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 22 trip departing VA Medical Center at 5:31 PM will start from 7th & Oak Lake. Previous stops missed
+**Header**: D Line trips departing MOA Transit Station Gate A at 8:58 PM and departing Brooklyn Ctr Transit Ctr Gate F at 10:31 PM canceled today
 
 </details>
 
@@ -278,64 +133,6 @@ departing VA Medical Center & Visitors Entrance at 9:59 PM
 Affected southbound trips:
 departing Brooklyn Ctr Transit Ctr Gate H at 8:00 PM
 departing Brooklyn Ctr Transit Ctr Gate H at 11:29 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 30: Service Canceled
-
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd
-
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 5:04 PM and three other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 30 trip departing Westgate Station - Gate B at 5:04 PM and three other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Knox Ave N & Golden Valley Rd at 5:56 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM
-
-Affected westbound trips:
-departing Westgate Station - Gate B at 5:04 PM
-departing Westgate Station - Gate B at 7:05 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 32: Service Canceled
-
-- **Affected Routes**: `Route 32`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 32 trip departing Robbinsdale Transit Center & Gate C at 3:51 PM and two other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/32)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 32 trip departing Robbinsdale Transit Center & Gate C at 3:51 PM and two other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Robbinsdale Transit Center & Gate C at 3:51 PM
-departing Robbinsdale Transit Center & Gate C at 5:53 PM
-
-Affected westbound trips:
-departing Rosedale Transit Center Gate D at 4:41 PM
 ```
 
 </details>
@@ -372,89 +169,6 @@ departing Robbinsdale Transit Center & Gate D at 10:10 PM
 
 ---
 
-### 🚨 Route 68: Southbound 4:21 PM Trip Canceled (Hwy 36 & Rice St Park & Ride & Shelter)
-
-- **Affected Routes**: `Route 68`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #10088, Stop #10000, Stop #10001, Stop #10002, Stop #10003, Stop #10004, Stop #10005, Stop #10006 *(+91 more)*
-
-**Summary**: Southbound Route 68 trip departing Hwy 36 & Rice St Park & Ride & Shelter at 4:21 PM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/68)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 68 trip departing Hwy 36 & Rice St P&R & Shelter at 4:21 PM canceled today due to mechanical issue
-
-</details>
-
----
-
-### 🚨 Route 71: Service Canceled
-
-- **Affected Routes**: `Route 71`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today
-
-```text
-Affected northbound trips:
-departing Inver Hills College & Shelter at 12:38 PM
-departing Inver Hills College & Shelter at 3:38 PM
-
-Affected southbound trips:
-departing Market Place Dr & The Marketplace Ctr at 2:12 PM
-departing Market Place Dr & The Marketplace Ctr at 5:13 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 71: Service Canceled
-
-- **Affected Routes**: `Route 71`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing McMenemy St & Roselawn Ave; 39 PM
-departing McMenemy St & Roselawn Ave; 41 PM
-departing McMenemy St & Roselawn Ave
-
-**Summary**: Route 71 trip departing Concord Exchange & Armour Ave at 3:46 PM and five other trips canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 71 trip departing Concord Exchange & Armour Ave at 3:46 PM and five other trips canceled today due to mechanical issue
-
-```text
-Affected northbound trips:
-departing Concord Exchange & Armour Ave at 3:46 PM
-departing Concord Exchange & Armour Ave at 5:46 PM
-departing Concord Exchange & Armour Ave at 7:46 PM
-
-Affected southbound trips:
-departing McMenemy St & Roselawn Ave at 4:39 PM
-departing McMenemy St & Roselawn Ave at 6:41 PM
-departing McMenemy St & Roselawn Ave at 8:42 PM
-```
-
-</details>
-
----
-
 ### 🚨 Route 72: Service Canceled
 
 - **Affected Routes**: `Route 72`
@@ -481,134 +195,6 @@ Affected westbound trips:
 departing Sun Ray Transit Center & Gate D at 5:48 PM
 departing Sun Ray Transit Center & Gate D at 7:51 PM
 departing Sun Ray Transit Center & Gate D at 9:51 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 724: Service Canceled
-
-- **Affected Routes**: `Route 724`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 724 trip departing Xenia Ave N & Oak Grove Pkwy N; departing Xenia Ave N & Oak Grove Pkwy N
-
-**Summary**: Route 724 trip departing Xenia Ave N & Oak Grove Pkwy N at 3:09 PM and three other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/724)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 724 trip departing Xenia Ave N & Oak Grove Pkwy N at 3:09 PM and three other trips canceled today
-
-```text
-Affected northbound trips:
-departing Brooklyn Ctr Transit Ctr Gate C at 4:00 PM
-departing Brooklyn Ctr Transit Ctr Gate C at 5:00 PM
-
-Affected southbound trips:
-departing Xenia Ave N & Oak Grove Pkwy N at 3:09 PM
-departing Starlite Transit Center & Gate A at 4:30 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 802: Service Canceled
-
-- **Affected Routes**: `Route 802`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/802)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate E at 11:34 AM
-departing Northtown Transit Ctr Gate E at 1:34 PM
-departing Northtown Transit Ctr Gate E at 3:34 PM
-departing Northtown Transit Ctr Gate E at 5:34 PM
-
-Affected southbound trips:
-departing Anoka Tech College & Main Entrance at 12:42 PM
-departing Anoka Tech College & Main Entrance at 2:42 PM
-departing Anoka Tech College & Main Entrance at 4:42 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 805: Service Canceled
-
-- **Affected Routes**: `Route 805`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
-departing 1st Ave S & Monroe St; 38 PM
-departing 1st Ave S & Monroe St; 36 PM
-departing 1st Ave S & Monroe St
-
-**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate D at 12:34 PM
-departing Northtown Transit Ctr Gate D at 2:34 PM
-departing Northtown Transit Ctr Gate D at 4:34 PM
-
-Affected southbound trips:
-departing 1st Ave S & Monroe St at 11:38 AM
-departing 1st Ave S & Monroe St at 1:38 PM
-departing 1st Ave S & Monroe St at 3:36 PM
-departing 1st Ave S & Monroe St at 5:38 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 827: Service Canceled
-
-- **Affected Routes**: `Route 827`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 827 trip departing 2nd Ave S & 11th St; departing 2nd Ave S & 11th St; 13 PM
-departing 2nd Ave S & 11th St
-
-**Summary**: Route 827 trip departing 2nd Ave S & 11th St - Stop Group G at 2:13 PM and two other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/827)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 827 trip departing 2nd Ave S & 11th St - Stop Group G at 2:13 PM and two other trips canceled today
-
-```text
-Affected northbound trips:
-departing 2nd Ave S & 11th St - Stop Group G at 2:13 PM
-departing 2nd Ave S & 11th St - Stop Group G at 4:42 PM
-
-Affected southbound trips:
-departing Northtown Transit Ctr Gate C at 3:11 PM
 ```
 
 </details>
@@ -2291,6 +1877,25 @@ Southbound/westbound buses will travel regular route on Nicollet Mall to 10th St
 Affected stops:
 Nicollet Mall & 11th St S - Stop #17984 (southbound)
 ```
+
+</details>
+
+---
+
+### ⚠️ Route 10, Route 11, Route 17, Route 18, Route 25: Stop Closed at Nicollet Ave S & Grant St E
+
+- **Affected Routes**: `Route 10` `Route 11` `Route 17` `Route 18` `Route 25`
+- **Direction**: Southbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Nicollet Ave S & Grant St E
+- **Closed Stops**: Stop #1197
+
+**Summary**: Nicollet Ave S & Grant St E - Stop #1197 (southbound) is closed for Routes 10, 11, 17, 18 and 25 until later today due to police activity
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Nicollet Ave S & Grant St E - Stop #1197 (southbound) is closed for Routes 10, 11, 17, 18 and 25 until later today due to police activity
 
 </details>
 
@@ -4737,46 +4342,6 @@ Southview Blvd & 5th Ave S - Stop #9938 (eastbound)
 
 ---
 
-### ⚠️ Route 68: Detour via Jackson St & Rose Ave E
-
-- **Affected Routes**: `Route 68`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Jackson St & Rose Ave E; LOrient St & Kmart - St; Maryland Ave & LOrient St; L'orient St (Arlington Ave to Maryland Ave and off Maryland Ave from L'orient St to Jackson St)
-- **Closed Stops**: Stop #56323, Stop #1301, Stop #49948, Stop #49949, Stop #40101
-
-**Summary**: Southbound Route 68 detoured off L'orient St from Arlington Ave to Maryland Ave and off Maryland Ave from L'orient St to Jackson St until later today due to construction. Board at: Temporary stop on Arlington at Klainert St (westbound); Jackson St & Rose Ave E - Stop #56323 (southbound).
-
-> 💡 **Rider Action**: Board at: Temporary stop on Arlington at Klainert St (westbound); Jackson St & Rose Ave E - Stop #56323 (southbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/68)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 68 detoured off L'orient St from Arlington Ave to Maryland Ave and off Maryland Ave from L'orient St to Jackson St until later today due to construction
-
-```text
-Updated at 9:57 AM to revise detour, affected stops and get on/off stops.
-
-Get on/off buses at:
-Temporary stop on Arlington at Klainert St (westbound)
-Jackson St & Rose Ave E - Stop #56323 (southbound)
-
-Southbound buses that depart from Hwy 36 and Rice St Park & Ride will travel on detour routing on L'orient St to Arlington Ave, right on Arlington Ave, left on Rice St, left on Maryland Ave, right on Jackson St and resume regular route.
-
-Northbound buses will follow regular route.
-
-Affected stops:
-LOrient St & #1301 - Stop #49948 (southbound)
-LOrient St & Kmart - Stop #49949 (southbound)
-Maryland Ave & LOrient St - Stop #40101 (westbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 71, Route 71K: Detour via Little Canada Rd & Centerville Rd
 
 - **Affected Routes**: `Route 71` `Route 71K`
@@ -6348,64 +5913,6 @@ Affected stops:
 
 ---
 
-### ⚠️ Route 805: Detour via Robinson Dr & Martin St
-
-- **Affected Routes**: `Route 805`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Robinson Dr & Martin St; Northdale Blvd & 117th Ave N; Northdale Blvd & 117th Lane - St; Northdale Blvd & Raven St; Northdale Blvd & Wren St
-- **Closed Stops**: Northdale Blvd & Hanson / Partridge (Stop #11001), Northdale Blvd & Raven St (Stop #11004), Northdale Blvd & Wren St (Stop #11005), Northdale Blvd & Xavis St (Stop #11008), Northdale Blvd & Zion St (Stop #11012), Northdale Blvd & Bittersweet St (Stop #11013), Northdale Blvd & Crocus St NW (Stop #11016), Northdale Blvd & Crooked Lake Blvd (Stop #11017) *(+13 more)*
-
-**Summary**: Route 805 detoured off Northdale Blvd from Hanson Blvd to Crooked Lake Blvd from 5:00 PM to 7:00 PM on Wed Sep 30 due Coon Rapids Homecoming Parade. Board at: Robinson Dr & Martin St - Stop #10998 (northbound); Northdale Blvd & 117th Ave N - Stop #42479 (northbound).
-
-> 💡 **Rider Action**: Board at: Robinson Dr & Martin St - Stop #10998 (northbound); Northdale Blvd & 117th Ave N - Stop #42479 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on Robinson Dr to Hanson Blvd, left on Hanson Blvd, right on Coon Rapids Blvd, right on Crooked Lake Blvd, left on Northdale Blvd and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 805 detoured off Northdale Blvd from Hanson Blvd to Crooked Lake Blvd from 5:00 PM to 7:00 PM on Wed Sep 30 due Coon Rapids Homecoming Parade
-
-```text
-For northbound Route 805 get on/off buses at:
-Robinson Dr & Martin St - Stop #10998 (northbound)
-Northdale Blvd & 117th Ave N - Stop #42479 (northbound)
-
-For southbound Route 805 get on/off buses at:
-Northdale Blvd & 117th Lane - Stop #43815 (southbound)
-Robinson Dr & Martin St - Stop #10999 (southbound)
-
-Northbound buses will travel regular route on Robinson Dr to Hanson Blvd, left on Hanson Blvd, right on Coon Rapids Blvd, right on Crooked Lake Blvd, left on Northdale Blvd and resume regular route.
-
-Southbound buses will travel regular route on Northdale Blvd to Crooked Lake Blvd, right on Crooked Lake Blvd, left on Coon Rapids Blvd, left on Hanson Blvd, right on Robinson Dr, and resume regular route.
-
-Affected stops:
-Northdale Blvd & Hanson / Partridge - Stop #11001 (westbound)
-Northdale Blvd & Raven St - Stop #11004 (westbound)
-Northdale Blvd & Wren St - Stop #11005 (westbound)
-Northdale Blvd & Xavis St - Stop #11008 (westbound)
-Northdale Blvd & Zion St - Stop #11012 (westbound)
-Northdale Blvd & Bittersweet St - Stop #11013 (westbound)
-Northdale Blvd & Crocus St NW - Stop #11016 (westbound)
-Northdale Blvd & Crooked Lake Blvd - Stop #11017 (westbound)
-Northdale Blvd & Crooked Lake Blvd - Stop #43816 (eastbound)
-Northdale Blvd & North Heights Dr NW - Stop #11015 (eastbound)
-Northdale Blvd & Bittersweet St - Stop #11014 (eastbound)
-Northdale Blvd & Zion St - Stop #11011 (eastbound)
-Northdale Blvd & Xavis St - Stop #11007 (eastbound)
-Northdale Blvd & Wren St - Stop #11006 (eastbound)
-Northdale Blvd & Raven St - Stop #11003 (eastbound)
-Northdale Blvd & Partridge / Hanson - Stop #11002 (eastbound)
-Northdale Blvd & Hanson Blvd - Stop #11000 (eastbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 860: Detour via 7th St E & Wall St
 
 - **Affected Routes**: `Route 860`
@@ -6485,51 +5992,6 @@ Affected stops:
 University Ave & Mississippi St - Stop #56109 (eastbound)
 University Ave & Lafayette St - Stop #57630 (eastbound)
 LaFayette Rd & Grove St - Stop #11923 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 860: Detour via Northdale Blvd & 118th Lane - St
-
-- **Affected Routes**: `Route 860`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Northdale Blvd & 118th Lane - St; Northdale Blvd & Raven St; Northdale Blvd & Wren St; Northdale Blvd & Zion St; Northdale Blvd & Bittersweet St
-- **Closed Stops**: Northdale Blvd & Hanson / Partridge (Stop #11001), Northdale Blvd & Raven St (Stop #11004), Northdale Blvd & Wren St (Stop #11005), Northdale Blvd & Zion St (Stop #11012), Northdale Blvd & Bittersweet St (Stop #11013), Northdale Blvd & Crooked Lake Blvd (Stop #11017), Stop #42481
-
-**Summary**: Route 860 detoured off Northdale Blvd from Hanson Blvd to Crooked Lake Blvd from 5:00 PM to 7:00 PM on Wed Sep 30 due to Coon Rapids Homecoming Parade. Board at: Temporary stop on Hanson Blvd just past Northdale Blvd (southbound); Northdale Blvd & 118th Lane - Stop #42481 (northbound).
-
-> 💡 **Rider Action**: Board at: Temporary stop on Hanson Blvd just past Northdale Blvd (southbound); Northdale Blvd & 118th Lane - Stop #42481 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on Hanson Blvd to Northdale Blvd, continue on Hanson Blvd to Coon Rapids Blvd, right on Coon Rapids Blvd, right on Crooked Lake Blvd, left on Northdale Blvd and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/860)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 860 detoured off Northdale Blvd from Hanson Blvd to Crooked Lake Blvd from 5:00 PM to 7:00 PM on Wed Sep 30 due to Coon Rapids Homecoming Parade
-
-```text
-Get on/off northbound buses at:
-Temporary stop on Hanson Blvd just past Northdale Blvd (southbound)
-Northdale Blvd & 118th Lane - Stop #42481 (northbound)
-
-Northbound buses will travel regular route on Hanson Blvd to Northdale Blvd, continue on Hanson Blvd to Coon Rapids Blvd, right on Coon Rapids Blvd, right on Crooked Lake Blvd, left on Northdale Blvd and resume regular route.
-
-Southbound buses will travel regular route. No stops missed.
-
-Affected direction: Northbound
-
-Affected stops:
-Northdale Blvd & Hanson / Partridge - Stop #11001 (westbound)
-Northdale Blvd & Raven St - Stop #11004 (westbound)
-Northdale Blvd & Wren St - Stop #11005 (westbound)
-Northdale Blvd & Zion St - Stop #11012 (westbound)
-Northdale Blvd & Bittersweet St - Stop #11013 (westbound)
-Northdale Blvd & Crooked Lake Blvd - Stop #11017 (westbound)
 ```
 
 </details>
