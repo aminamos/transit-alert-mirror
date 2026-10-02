@@ -4,62 +4,17 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Thu, 01 Oct 2026 22:18:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 01:58:13 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO D Line: Southbound 3:18 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-53618-2026-10-01T20:56:12.000Z</guid>
-      <pubDate>Thu, 01 Oct 2026 20:56:12 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:18 PM canceled today due to medical emergency</description>
-    </item>
-    <item>
-      <title>[Critical] METRO D Line: Southbound 3:28 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-53622-2026-10-01T21:48:38.000Z</guid>
-      <pubDate>Thu, 01 Oct 2026 21:48:38 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:28 PM canceled today due to police activity</description>
-    </item>
-    <item>
-      <title>[Critical] METRO D Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-53623-2026-10-01T21:59:16.000Z</guid>
-      <pubDate>Thu, 01 Oct 2026 21:59:16 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Northbound D Line trip departing MOA Transit Station at 5:09 PM will start from Chicago &amp; Lake Station</description>
-    </item>
-    <item>
-      <title>[Critical] METRO Orange Line: Southbound 3:52 PM Trip Canceled (Marquette Ave &amp; 3rd St - Stop Group C)</title>
+      <title>[Critical] METRO Orange Line: Northbound 7:21 PM Trip Canceled (Burnsville Heart of the City Station)</title>
       <link>https://www.metrotransit.org/route/orange</link>
-      <guid isPermaLink="false">Metro Transit-53617-2026-10-01T20:42:14.000Z</guid>
-      <pubDate>Thu, 01 Oct 2026 20:42:14 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53628-2026-10-02T01:54:01.000Z</guid>
+      <pubDate>Fri, 02 Oct 2026 01:54:01 GMT</pubDate>
       <category>Critical</category>
       <category>METRO Orange Line</category>
-      <description>Southbound Orange Line trip departing Marquette Ave &amp; 3rd St - Stop Group C at 3:52 PM canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 2: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-53613-2026-10-01T22:13:02.000Z</guid>
-      <pubDate>Thu, 01 Oct 2026 22:13:02 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 2</category>
-      <description>Westbound Route 2 trip departing 2nd Ave SE &amp; 7th St SE at 3:19 PM will start from 26th Ave &amp; Seward Tower. Previous stops missed</description>
-    </item>
-    <item>
-      <title>[Critical] Route 25: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/25</link>
-      <guid isPermaLink="false">Metro Transit-53619-2026-10-01T21:25:44.000Z</guid>
-      <pubDate>Thu, 01 Oct 2026 21:25:44 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 25</category>
-      <description>Route 25 trips departing Marquette Ave &amp; 2nd St S at 3:21 PM and departing Leamington Ramp &amp; Lower - Gate #7 at 5:05 PM canceled today due to mechanical issue</description>
+      <description>Northbound Orange Line trip departing Burnsville Heart of the City Station at 7:21 PM canceled today due to traffic</description>
     </item>
     <item>
       <title>[Critical] Route 30: Service Canceled</title>
@@ -69,51 +24,6 @@
       <category>Critical</category>
       <category>Route 30</category>
       <description>Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 63: Eastbound 5:10 PM Trip Canceled (Smith &amp; 5th St Station)</title>
-      <link>https://www.metrotransit.org/route/63</link>
-      <guid isPermaLink="false">Metro Transit-53621-2026-10-01T21:47:45.000Z</guid>
-      <pubDate>Thu, 01 Oct 2026 21:47:45 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 63</category>
-      <description>Eastbound Route 63 trip departing Smith &amp; 5th St Station at 5:10 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 540: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/540</link>
-      <guid isPermaLink="false">Metro Transit-53605-2026-10-01T18:52:02.000Z</guid>
-      <pubDate>Thu, 01 Oct 2026 18:52:02 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 540</category>
-      <description>Route 540 trip departing Normandale Lake Blvd &amp; 83rd St / 84th St at 1:32 PM and two other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 542: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/542</link>
-      <guid isPermaLink="false">Metro Transit-53604-2026-10-01T18:50:33.000Z</guid>
-      <pubDate>Thu, 01 Oct 2026 18:50:33 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 542</category>
-      <description>Route 542 trip departing MOA Transit Station Gate G at 1:07 PM and two other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 802: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/802</link>
-      <guid isPermaLink="false">Metro Transit-53598-2026-10-01T16:04:01.000Z</guid>
-      <pubDate>Thu, 01 Oct 2026 16:04:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 802</category>
-      <description>Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 805: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/805</link>
-      <guid isPermaLink="false">Metro Transit-53597-2026-10-01T16:04:01.000Z</guid>
-      <pubDate>Thu, 01 Oct 2026 16:04:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 805</category>
-      <description>Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -195,17 +105,6 @@
       <category>Moderate</category>
       <category>METRO D Line</category>
       <description>Portland &amp; 60th St Station - Stop #737 (northbound) is closed for D Line until further notice due to construction. Board at: Portland &amp; 66th St Station - Stop #643 (northbound); Temporary stop on Portland Ave &amp; 61st St (northbound); Chicago Ave &amp; 56th St E - Stop #81078 (northbound). | Action: Board at: Portland &amp; 66th St Station - Stop #643 (northbound); Temporary stop on Portland Ave &amp; 61st St (northbound); Chicago Ave &amp; 56th St E - Stop #81078 (northbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] METRO E Line: Detour via left on Hennepin Ave &amp; resume regular route.
-
-Affected st</title>
-      <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-52591-2026-10-01T05:00:01.000Z</guid>
-      <pubDate>Thu, 01 Oct 2026 05:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>METRO E Line</category>
-      <description>METRO E Line detoured off Hennepin Ave from 28th St to Lake St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM. Board at: Uptown Transit Station - Gates D/E - Stop #52857 (westbound). | Action: Board at: Uptown Transit Station - Gates D/E - Stop #52857 (westbound)</description>
     </item>
     <item>
       <title>[Moderate] METRO E Line: Detour via France Ave (62nd St to 65th St)</title>
@@ -505,17 +404,6 @@ Affected st</title>
       <description>Route 14 detoured off Bloomington Ave from 46th St to 54th St and off Chicago Ave from 54th St to 56th St from 4:00 AM to 1:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Chicago Ave S &amp; 58th St E - Stop #743 (northbound); Temporary stop on Chicago Ave &amp; 57th St (northbound); Temporary stop on Bloomington Ave &amp; 45th St (northbound). | Action: Board at: Chicago Ave S &amp; 58th St E - Stop #743 (northbound); Temporary stop on Chicago Ave &amp; 57th St (northbound); Temporary stop on Bloomington Ave &amp; 45th St (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 17: Detour via right on Lagoon Ave &amp; resume regular route.
-
-Affected st</title>
-      <link>https://www.metrotransit.org/route/17</link>
-      <guid isPermaLink="false">Metro Transit-52585-2026-10-01T05:00:01.000Z</guid>
-      <pubDate>Thu, 01 Oct 2026 05:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 17</category>
-      <description>Route 17 detoured off Hennepin Ave from Lake St to 28th St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM. Board at: Uptown Transit Station - Gate C - Stop #50160 (westbound). | Action: Board at: Uptown Transit Station - Gate C - Stop #50160 (westbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 17: Service Advisory</title>
       <link>https://www.metrotransit.org/route/17</link>
       <guid isPermaLink="false">Metro Transit-53169-2026-09-28T05:00:02.000Z</guid>
@@ -685,15 +573,6 @@ Affected st</title>
       <category>Moderate</category>
       <category>Route 38</category>
       <description>Route 38 detoured off 38th St E from Park Ave to Bloomington Ave beginning Mon Jun 8 at 4:00 AM until further notice due to construction. Board at: 38th St E &amp; Portland Ave S - Stop #12618 (eastbound); Park &amp; 38th St Station - Stop #80138 (northbound); Temporary stop on 36th St E &amp; Chicago Ave S (eastbound). | Action: Board at: 38th St E &amp; Portland Ave S - Stop #12618 (eastbound); Park &amp; 38th St Station - Stop #80138 (northbound); Temporary stop on 36th St E &amp; Chicago Ave S (eastbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 38, METRO B Line: Detour via Lagoon Ave (Fremont Ave to Hennepin Ave)</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-52592-2026-10-01T05:00:02.000Z</guid>
-      <pubDate>Thu, 01 Oct 2026 05:00:02 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 38, METRO B Line</category>
-      <description>METRO B Line and Route 38 detoured off Lagoon Ave from Fremont Ave to Hennepin Ave until further notice every Friday and Saturday from 12:00 AM to 2:00 AM</description>
     </item>
     <item>
       <title>[Moderate] Route 38: Detour via 46th Ave S &amp; 46th St E</title>

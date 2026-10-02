@@ -2,134 +2,34 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-147-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-12-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-132-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-134-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-129-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-84-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-82-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-01T22:18:41.979Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-02T01:58:13.137Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO B Line** (3) • **METRO Blue Line** (1) • **METRO D Line** (7) • **METRO E Line** (4) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (4) • **Route 3** (5) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (4) • **Route 7** (5) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (3) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 25** (4) • **Route 27** (2) • **Route 30** (1) • **Route 36** (4) • **Route 38** (5) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (3) • **Route 63** (4) • **Route 64** (4) • **Route 65** (3) • **Route 67** (5) • **Route 68** (7) • **Route 68C** (2) • **Route 68D** (1) • **Route 68G** (1) • **Route 68R** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (2) • **Route 83** (2) • **Route 87** (2) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (4) • **METRO E Line** (3) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (3) • **Route 3** (5) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (4) • **Route 7** (5) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (3) • **Route 17** (2) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 36** (4) • **Route 38** (4) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (3) • **Route 63** (3) • **Route 64** (4) • **Route 65** (3) • **Route 67** (5) • **Route 68** (7) • **Route 68C** (2) • **Route 68D** (1) • **Route 68G** (1) • **Route 68R** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (2) • **Route 83** (2) • **Route 87** (2) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO D Line: Southbound 3:18 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:18 PM canceled today due to medical emergency
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:18 PM canceled today due to medical emergency
-
-</details>
-
----
-
-### 🚨 METRO D Line: Southbound 3:28 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #441, Stop #431, Stop #42318, Stop #4530, Stop #449, Stop #444, Stop #436, Stop #56873 *(+13 more)*
-
-**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:28 PM canceled today due to police activity
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:28 PM canceled today due to police activity
-
-</details>
-
----
-
-### 🚨 METRO D Line: Service Advisory
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #620, Stop #56924, Stop #56925, Stop #81078, Stop #80138, Stop #784, Stop #779, Stop #737 *(+8 more)*
-
-**Summary**: Northbound D Line trip departing MOA Transit Station at 5:09 PM will start from Chicago & Lake Station
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound D Line trip departing MOA Transit Station at 5:09 PM will start from Chicago & Lake Station
-
-</details>
-
----
-
-### 🚨 METRO Orange Line: Southbound 3:52 PM Trip Canceled (Marquette Ave & 3rd St - Stop Group C)
+### 🚨 METRO Orange Line: Northbound 7:21 PM Trip Canceled (Burnsville Heart of the City Station)
 
 - **Affected Routes**: `METRO Orange Line`
-- **Direction**: Southbound
+- **Direction**: Northbound
 - **Severity**: `Critical`
 
-**Summary**: Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 3:52 PM canceled today due to mechanical issue
+**Summary**: Northbound Orange Line trip departing Burnsville Heart of the City Station at 7:21 PM canceled today due to traffic
 
 [Official Agency Advisory](https://www.metrotransit.org/route/orange)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 3:52 PM canceled today due to mechanical issue
-
-</details>
-
----
-
-### 🚨 Route 2: Service Advisory
-
-- **Affected Routes**: `Route 2`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-- **Corridors & Intersections**: 19 PM will start from 26th Ave & Seward Tower. Previous st
-- **Closed Stops**: Stop #13211, Stop #13207, Stop #13231, Stop #13239, Stop #16058, Stop #16136, Stop #16137, Stop #16142 *(+12 more)*
-
-**Summary**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 3:19 PM will start from 26th Ave & Seward Tower. Previous stops missed
-
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 3:19 PM will start from 26th Ave & Seward Tower. Previous stops missed
-
-</details>
-
----
-
-### 🚨 Route 25: Service Canceled
-
-- **Affected Routes**: `Route 25`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 25 trips departing Marquette Ave & 2nd St S
-
-**Summary**: Route 25 trips departing Marquette Ave & 2nd St S at 3:21 PM and departing Leamington Ramp & Lower - Gate #7 at 5:05 PM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/25)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 25 trips departing Marquette Ave & 2nd St S at 3:21 PM and departing Leamington Ramp & Lower - Gate #7 at 5:05 PM canceled today due to mechanical issue
+**Header**: Northbound Orange Line trip departing Burnsville Heart of the City Station at 7:21 PM canceled today due to traffic
 
 </details>
 
@@ -165,152 +65,6 @@ departing Westgate Station - Gate B at 1:04 PM
 departing Westgate Station - Gate B at 3:04 PM
 departing Westgate Station - Gate B at 5:04 PM
 departing Westgate Station - Gate B at 7:05 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 63: Eastbound 5:10 PM Trip Canceled (Smith & 5th St Station)
-
-- **Affected Routes**: `Route 63`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #81080, Stop #81082, Stop #56943, Stop #56946, Stop #42114, Stop #16956, Stop #3108, Stop #3110 *(+26 more)*
-
-**Summary**: Eastbound Route 63 trip departing Smith & 5th St Station at 5:10 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/63)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 63 trip departing Smith & 5th St Station at 5:10 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 540: Service Canceled
-
-- **Affected Routes**: `Route 540`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Normandale Lake Blvd & 83rd St; 32 PM
-departing Normandale Lake Blvd & 83rd St; 02 PM
-departing Normandale Lake Blvd & 83rd St
-
-**Summary**: Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 1:32 PM and two other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/540)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 1:32 PM and two other trips canceled today
-
-```text
-Updated at 1:52 PM to restore previously canceled eastbound trips departing Normandale Lake Blvd & 83rd St / 84th St at 6:02 PM and at 7:32 PM. The trips listed below remain canceled.
-
-Affected eastbound trips:
-departing Normandale Lake Blvd & 83rd St / 84th St at 1:32 PM
-departing Normandale Lake Blvd & 83rd St / 84th St at 3:02 PM
-departing Normandale Lake Blvd & 83rd St / 84th St at 4:30 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 542: Service Canceled
-
-- **Affected Routes**: `Route 542`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Route 542 trip departing MOA Transit Station Gate G at 1:07 PM and two other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/542)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 542 trip departing MOA Transit Station Gate G at 1:07 PM and two other trips canceled today
-
-```text
-Updated at 1:49 PM to restore previously canceled westbound trips departing MOA Transit Station Gate G at 5:35 PM and at 7:07 PM. The trips listed below remain canceled.
-
-Affected westbound trips:
-departing MOA Transit Station Gate G at 1:07 PM
-departing MOA Transit Station Gate G at 2:37 PM
-departing MOA Transit Station Gate G at 4:04 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 802: Service Canceled
-
-- **Affected Routes**: `Route 802`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/802)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate E at 11:34 AM
-departing Northtown Transit Ctr Gate E at 1:34 PM
-departing Northtown Transit Ctr Gate E at 3:34 PM
-departing Northtown Transit Ctr Gate E at 5:34 PM
-
-Affected southbound trips:
-departing Anoka Tech College & Main Entrance at 12:42 PM
-departing Anoka Tech College & Main Entrance at 2:42 PM
-departing Anoka Tech College & Main Entrance at 4:42 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 805: Service Canceled
-
-- **Affected Routes**: `Route 805`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing 1st Ave S & Monroe St; 38 PM
-departing 1st Ave S & Monroe St; 36 PM
-departing 1st Ave S & Monroe St
-
-**Summary**: Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate D at 11:34 AM
-departing Northtown Transit Ctr Gate D at 1:34 PM
-departing Northtown Transit Ctr Gate D at 3:34 PM
-departing Northtown Transit Ctr Gate D at 5:34 PM
-
-Affected southbound trips:
-departing 1st Ave S & Monroe St at 12:38 PM
-departing 1st Ave S & Monroe St at 2:36 PM
-departing 1st Ave S & Monroe St at 4:36 PM
 ```
 
 </details>
@@ -685,49 +439,6 @@ Get on/off buses at:
 Portland & 66th St Station - Stop #643 (northbound)
 Temporary stop on Portland Ave & 61st St (northbound)
 Chicago Ave & 56th St E - Stop #81078 (northbound)
-```
-
-</details>
-
----
-
-### ⚠️ METRO E Line: Detour via left on Hennepin Ave & resume regular route.
-
-Affected st
-
-- **Affected Routes**: `METRO E Line`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: left on Hennepin Ave & resume regular route.
-
-Affected st; Hennepin Ave (28th St to Lake St)
-- **Closed Stops**: Uptown Transit Station - Gate A (Stop #50196), Stop #52857
-
-**Summary**: METRO E Line detoured off Hennepin Ave from 28th St to Lake St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM. Board at: Uptown Transit Station - Gates D/E - Stop #52857 (westbound).
-
-> 💡 **Rider Action**: Board at: Uptown Transit Station - Gates D/E - Stop #52857 (westbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on Hennepin Ave to Lake St, right on Lake St, left on Dupont Ave, left on Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/eline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: METRO E Line detoured off Hennepin Ave from 28th St to Lake St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM
-
-```text
-Get on/off southbound buses at:
-Uptown Transit Station - Gates D/E - Stop #52857 (westbound)
-
-No northbound stations missed.
-
-Northbound buses will travel regular route on Hennepin Ave to Lake St, right on Lake St, left on Dupont Ave, left on Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.
-
-Southbound buses will travel regular route on Hennepin Ave to 28th St, left on 28th St, right on Lyndale Ave, right on Lake St, right on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave and resume regular route.
-
-Affected stops:
-Uptown Transit Station - Gate A - Stop #50196 (southbound)
 ```
 
 </details>
@@ -2322,49 +2033,6 @@ Bloomington Ave S & 54th St E - Stop #15567 (southbound)
 
 ---
 
-### ⚠️ Route 17: Detour via right on Lagoon Ave & resume regular route.
-
-Affected st
-
-- **Affected Routes**: `Route 17`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: right on Lagoon Ave & resume regular route.
-
-Affected st; Hennepin Ave (Lake St to 28th St)
-- **Closed Stops**: Uptown Transit Station - Gate A (Stop #50196), Stop #50160
-
-**Summary**: Route 17 detoured off Hennepin Ave from Lake St to 28th St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM. Board at: Uptown Transit Station - Gate C - Stop #50160 (westbound).
-
-> 💡 **Rider Action**: Board at: Uptown Transit Station - Gate C - Stop #50160 (westbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on Lake St to Hennepin Ave, continue on Lake St to Dupont Ave, left on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/17)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 17 detoured off Hennepin Ave from Lake St to 28th St until further notice every Friday and Saturday from 12:00 AM to 2:00 AM
-
-```text
-Get on/off westbound buses at:
-Uptown Transit Station - Gate C - Stop #50160 (westbound)
-
-No eastbound stops missed.
-
-Eastbound buses will travel regular route on Lake St to Hennepin Ave, continue on Lake St to Dupont Ave, left on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, right on Hennepin Ave and resume regular route.
-
-Westbound buses will travel regular route on Hennepin Ave to 28th St, left on 28th St, right on Lyndale Ave, right on Lake St, right on Dupont Ave which becomes Lagoon Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave, right on Lagoon Ave and resume regular route.
-
-Affected stops:
-Uptown Transit Station - Gate A - Stop #50196 (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 17: Service Advisory
 
 - **Affected Routes**: `Route 17`
@@ -3214,34 +2882,6 @@ Affected stops:
 38th St E & 10th Ave S - Stop #12605 (westbound)
 38th St E & Park Ave S - Stop #12613 (westbound)
 38th St E & Portland Ave S - Stop #12617 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 38, METRO B Line: Detour via Lagoon Ave (Fremont Ave to Hennepin Ave)
-
-- **Affected Routes**: `Route 38` `METRO B Line`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Lagoon Ave (Fremont Ave to Hennepin Ave)
-
-**Summary**: METRO B Line and Route 38 detoured off Lagoon Ave from Fremont Ave to Hennepin Ave until further notice every Friday and Saturday from 12:00 AM to 2:00 AM
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route.
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: METRO B Line and Route 38 detoured off Lagoon Ave from Fremont Ave to Hennepin Ave until further notice every Friday and Saturday from 12:00 AM to 2:00 AM
-
-```text
-No stations missed.
-
-Eastbound buses will travel regular route.
-
-Westbound buses will travel regular route on Lagoon Ave to Fremont Ave, right on Fremont Ave, left into Uptown Transit Station, left on Hennepin Ave, right on Lagoon Ave and resume regular route.
 ```
 
 </details>
