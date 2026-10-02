@@ -1,69 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-02T01:58:13.137Z",
-    "totalAlerts": 134,
-    "criticalCount": 2,
+    "generatedAt": "2026-10-02T08:13:04.400Z",
+    "totalAlerts": 132,
+    "criticalCount": 0,
     "moderateCount": 129,
     "minorCount": 3,
-    "affectedRoutesCount": 82,
+    "affectedRoutesCount": 80,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "53628",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO Orange Line: Northbound 7:21 PM Trip Canceled (Burnsville Heart of the City Station)",
-      "summary": "Northbound Orange Line trip departing Burnsville Heart of the City Station at 7:21 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "METRO Orange Line"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {},
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/orange",
-      "updatedAt": "2026-10-02T01:54:01.000Z",
-      "rawHeader": "Northbound Orange Line trip departing Burnsville Heart of the City Station at 7:21 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "53590",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 30: Service Canceled",
-      "summary": "Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today",
-      "affectedRoutes": [
-        "Route 30"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing Knox Ave N & Golden Valley Rd",
-        "56 PM\ndeparting Knox Ave N & Golden Valley Rd",
-        "54 PM\ndeparting Knox Ave N & Golden Valley Rd"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-01T18:04:00.000Z",
-        "end": "2026-10-02T02:35:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-10-01T17:34:01.000Z",
-      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 1:56 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 3:54 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 5:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 1:04 PM\r\ndeparting Westgate Station - Gate B at 3:04 PM\r\ndeparting Westgate Station - Gate B at 5:04 PM\r\ndeparting Westgate Station - Gate B at 7:05 PM"
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -305,7 +252,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-09-29T15:09:44.000Z",
+      "updatedAt": "2026-10-02T05:00:01.000Z",
       "rawHeader": "B Line detoured off Selby Ave from Lexington Pkwy to Summit Ave and off Kellogg Blvd from John Ireland Blvd to Smith Ave from 5:00 AM to 12:00 PM on Sat Oct 3 due to Twin Cities Marathon 2026",
       "rawDescription": "For eastbound B Line get on/off buses at:\r\nSelby & Hamline Station - Stop #16996 (eastbound)\r\nSelby Ave & Dunlap St - Stop #17003 (eastbound)\r\n5th St & 7th St W - Stop #11834 (eastbound)\r\nRice Park Station - Stop #3142 (eastbound)\r\n\nFor westbound B Line get on/off buses at:\r\n6th St & Washington Station - Stop #11863 (westbound)\r\nSelby Ave & Dunlap St - Stop #17002 (westbound)\r\nSelby & Hamline Station - Stop #16997 (westbound)\r\n\nEastbound buses will travel the regular route on Selby Ave to Lexington Pkwy, left on Lexington Pkwy, right onto eastbound I-94, exit for 5th St and continue to Smith Ave, continue on 5th St and resume the regular route.\r\n\nWestbound buses will travel the regular route on Old 6th St to Smith Ave, continue onto the 5th St ramp onto westbound I-94, exit for Lexington Pkwy, left on Lexington Pkwy, right on Selby Ave, and resume the regular route.\r\n\nAffected stops:\r\nSelby & Lexington Station - Stop #57328 (eastbound)\r\nSelby & Victoria Station - Stop #57329 (eastbound)\r\nSelby & Dale Station - Stop #17022 (eastbound)\r\nSelby & Arundel Station - Stop #17029 (eastbound)\r\nJohn Ireland & Marshall Station - Stop #11885 (northbound)\r\nSmith & 5th St Station - Stop #57416 (eastbound)\r\nSmith & Kellogg Station - Stop #52760 (westbound)\r\nJohn Ireland & Marshall Station - Stop #11888 (southbound)\r\nSelby & Western Station - Stop #17031 (westbound)\r\nSelby & Dale Station - Stop #57338 (westbound)\r\nSelby & Victoria Station - Stop #17013 (westbound)\r\nSelby & Lexington Station - Stop #17005 (westbound)"
     },
@@ -1602,7 +1549,7 @@
       },
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
-      "updatedAt": "2026-10-01T20:14:25.000Z",
+      "updatedAt": "2026-10-02T05:00:01.000Z",
       "rawHeader": "Routes 3, 67 and 62 detoured off Rice St from University Ave to 12th St and off 12th St from Rice St to Cedar St from 5:00 AM to 12:00 PM on Sat Oct 3 due to Twin Cities Marathon 2026",
       "rawDescription": "Correction to affected stops 9/30 at 3:40 PM.\r\n\nGet on/off eastbound Route 3 and 67 and southbound Route 62 buses at:\r\nRice St & Charles Ave - Stop #974 (southbound)\r\nCedar St & 10th St - Stop #11912 (southbound)\r\n\nGet on/off westbound Route 3 and 67 and northbound Route 62 buses at:\r\n10th St E & Cedar St - Stop #52329 (westbound)\r\nRice St & Charles Ave - Stop #10488 (northbound)\r\n\nEastbound and southbound buses will travel the regular route on Rice St to University Ave, left on University Ave, right on Robert St, right on 12th St, left on Cedar St, and resume the regular route.\r\n\nWestbound and northbound buses will travel the regular route on Cedar St to 11th St, right on 11th St, left on Robert St, left on University Ave, right on Rice St, and resume the regular route.\r\n\nAffected stops:\r\nRice St & University Ave - Stop #975 (southbound)\r\nRice St & Aurora/Rondo Ave - Stop #11896 (southbound)\r\n12th Street W/Rice St & John Ireland Blv - Stop #57018 (southbound)\r\n11th St W & St Peter St - Stop #49450 (eastbound)\r\n12th St E & Wabasha St - Stop #20008 (westbound)\r\n12th St W & John Ireland Blvd - Stop #56164 (westbound)\r\nRice St & Rondo/Aurora Ave - Stop #11891 (northbound)\r\nRice St & University Ave - Stop #11893 (northbound)"
     },
@@ -2142,9 +2089,9 @@
         "17928",
         "17931",
         "177",
+        "102",
         "103",
-        "104",
-        "102"
+        "104"
       ],
       "closedStopDetails": [
         {
@@ -2292,13 +2239,13 @@
           "id": "177"
         },
         {
+          "id": "102"
+        },
+        {
           "id": "103"
         },
         {
           "id": "104"
-        },
-        {
-          "id": "102"
         }
       ],
       "riderAlternative": "Board at: Lyndale & 24th - Stop #175; Temporary stop on 24th & Nicollet; Nicollet & Franklin - Stop #1905",
@@ -5024,7 +4971,7 @@
       },
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
-      "updatedAt": "2026-10-01T13:46:07.000Z",
+      "updatedAt": "2026-10-02T05:00:01.000Z",
       "rawHeader": "E Line and Route 36 detoured off Sheridan Ave from 39th St to 43rd St beginning Fri Oct 2 at 7:00 AM until further notice due to tree trimming",
       "rawDescription": "Get on/off northbound buses at:\r\nSheridan & 43rd St Station - Stop #6202 (northbound)\r\n39th St & Sheridan Station - Stop #1117 (westbound)\r\n\nGet on/off southbound buses at:\r\nTemporary stop on 39th St W & Sheridan Ave (eastbound)\r\nSheridan & 43rd St Station - Stop #6379 (southbound)\r\n\nNorthbound buses will travel regular route on Sheridan Ave to Upton Ave, left on Upton Ave, right on 40th St, left on Thomas Ave, right on 39th St and resume regular route.\r\n\nSouthbound buses will travel regular route on 39th St to Sheridan Ave, continue on 39th St to Thomas Ave, left on Thomas Ave, right on 40th St, left on Upton Ave, right on Sheridan Ave and resume regular route.\r\n\nAffected stops:\r\nSheridan & 39th St Station - Stop #6206 (northbound)\r\nSheridan Ave S & 40th St W - Stop #6205 (northbound)\r\nSheridan Ave S & 40th St W - Stop #6376 (southbound)\r\nSheridan Ave S & 42nd St W - Stop #6203 (northbound)\r\nSheridan Ave S & 42nd St W - Stop #6378 (southbound)"
     },
@@ -5242,7 +5189,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-01T12:20:52.000Z",
+      "updatedAt": "2026-10-02T05:00:02.000Z",
       "rawHeader": "Excelsior Blvd & Alabama Ave S - Stop #3545 (westbound) is closed for Route 38 until Fri Oct 2 at 7:00 AM",
       "rawDescription": "Get on/off buses at:\r\nExcelsior Blvd & Yosemite Ave - Stop #3544 (westbound)"
     },
@@ -6801,7 +6748,7 @@
       "cause": "CONSTRUCTION",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/65",
-      "updatedAt": "2026-10-01T14:19:47.000Z",
+      "updatedAt": "2026-10-02T05:00:01.000Z",
       "rawHeader": "Route 65 detoured off Dale St from Rondo Ave to Grand Ave beginning Mon May 18 at 7:00 AM until further notice due to construction",
       "rawDescription": "Updated get on/off stops 6/10 10:30 am.\r\n\nFor northbound Route 65 get on/off buses at:\r\nSummit Ave & Dale St - Stop #10761 (eastbound)\r\nTemporary stop on Kent St & Selby Ave (northbound)\r\nTemporary stop on Kent St & Marshall Ave (northbound)\r\nDale St & Fuller Ave - Stop #10693 (northbound)\r\n\nFor southbound Route 65 get on/off buses at:\r\nDale St & Fuller Ave - Stop #10748 (southbound)\r\nTemporary stop on Marshall Ave & Kent St (westbound)\r\nTemporary stop on Kent St & Selby Ave (southbound)\r\nSummit Ave & Dale St - Stop #10761 (eastbound)\r\n\nNorthbound buses will depart the temporary terminal on eastbound Summit Ave just past Dale St, continue on Summit Ave, left on Kent St, right on Marshall Ave, left on Arundel St, right on Concordia Ave, left on Western Ave, left on St Anthony Ave, right on Dale St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Dale St to Rondo Ave, left on Rondo Ave, right on Arundel St, right on Marshall Ave, left on Kent St, right on Summit Ave, left on Oakland Ave, right on Grand Ave, right on Dale St, right on Summit Ave and layover on eastbound Summit Ave just past Dale St.\r\n\nAffected stops:\r\nDale St & Grand Ave - Stop #10680 (northbound)\r\nDale St & Summit Ave / Portland Ave - Stop #10681 (northbound)\r\nDale St & Holly Ave - Stop #10684 (northbound)\r\nDale St & Selby Ave - Stop #10685 (northbound)\r\nDale St & Marshall Ave - Stop #10688 (northbound)\r\nDale St & Iglehart Ave - Stop #10689 (northbound)\r\nDale St & Rondo Ave - Stop #10691 (northbound)\r\nDale St & Carroll Ave - Stop #10752 (southbound)\r\nDale St & Iglehart Ave - Stop #10753 (southbound)\r\nDale St & Marshall Ave - Stop #10754 (southbound)\r\nDale St N & Selby Ave - Stop #53780 (southbound)\r\nDale St & Ashland Ave - Stop #10758 (southbound)\r\nSummit Ave & Dale St - Stop #10761 (eastbound)"
     },
@@ -7690,7 +7637,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/68",
-      "updatedAt": "2026-09-30T20:05:42.000Z",
+      "updatedAt": "2026-10-02T05:00:01.000Z",
       "rawHeader": "Route 68C detoured off Southview Blvd from 9th Ave N to 2nd Ave N from 6:00 AM to 8:00 PM on Sat Oct 3 due to On the Road Again event",
       "rawDescription": "For northbound Route 68 get on/off buses at:\r\n5th Ave S & 4th St S - Stop #9820 (northbound)\r\n5th Ave N & 3rd St N - Stop #9825 (northbound)\r\n3rd St N & 4th Ave N - Stop #9826 (eastbound)\r\n3rd Ave N & 2nd St - Stop #9827 (southbound)\r\n12th Ave N & 4th St N - Stop #9843 (northbound)\r\n\nFor southbound Route 68 get on/off buses at:\r\n12th Ave N & 4th St N - Stop #9959 (southbound)\r\n5th Ave N & 3rd St N - Stop #9825 (northbound)\r\n3rd St N & 4th Ave N - Stop #9826 (eastbound)\r\n3rd Ave N & 2nd St - Stop #9827 (southbound)\r\nMarie Ave & 2nd Ave S - Stop #9828 (eastbound)\r\n2nd Ave S & Southview Blvd - Stop #9829 (southbound)\r\n5th Ave S & 5th St S - Stop #9966 (southbound)\r\n\nNorthbound route 68 buses will travel the regular route on 5th Ave S to 4th St S, right on 4th St S, left on 2nd Ave S, left on Marie Ave, right on 5th Ave N, follow the regular route on 5th Ave N, right on 3rd St N, right on Grand Ave, right on 3rd Ave N, detour right on Marie Ave, right on 9th Ave, and resume the regular route.\r\n\nSouthbound Route 68C buses will follow the regular route on 9th Ave N to Marie Ave, left on Marie Ave, left on 5th Ave N, follow the regular route on 5th Ave N, right on 3rd St N, right on Grand Ave, right on 3rd Ave N, left on Marie Ave, right on 2nd Ave S to Southview Blvd, detour continuing straight on 2nd Ave S to 4th St S, right on 4th St S, left on 5th Ave S, and resume the regular route.\r\n\nAffected stops:\r\n5th Ave S & 3rd St S - Stop #9821 (northbound)\r\n5th Ave S & Southview Blvd - Stop #9822 (northbound)\r\n5th Ave N & Marie Ave - Stop #9823 (northbound)\r\nSouthview Blvd & 3rd Ave S - Stop #9830 (westbound)\r\nSouthview Blvd & 5th Ave S - Stop #9832 (westbound)\r\nSouthview Blvd & 7th Ave S - Stop #9834 (westbound)\r\nSouthview Blvd & 8th Ave S - Stop #56770 (westbound)\r\nSouthview Blvd & 8th Ave S - Stop #56773 (eastbound)\r\nSouthview Blvd & 5th Ave S - Stop #9938 (eastbound)\r\n5th Ave S & 3rd St S - Stop #9964 (southbound)\r\n5th Ave S & 4th St S - Stop #9965 (southbound)\r\nMarie Ave & 2nd Ave S - Stop #9828 (eastbound) closed northbound only\r\n2nd Ave S & Southview Blvd - Stop #9829 (southbound) closed northbound only"
     },
@@ -7821,7 +7768,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/68",
-      "updatedAt": "2026-09-30T20:06:16.000Z",
+      "updatedAt": "2026-10-02T05:00:01.000Z",
       "rawHeader": "Route 68D, 68G, and 68R detoured off Southview Blvd from 13th Ave S to 5th Ave S from 6:00 AM to 8:00 PM on Sat Oct 3 due to On the Road Again event",
       "rawDescription": "For northbound Route 68 get on/off buses at:\r\n5th Ave S & 4th St S - Stop #9820 (northbound)\r\nTemporary stop 4th St S & 7th Ave S (westbound)\r\nTemporary stop 4th S & 11th Ave S (westbound)\r\nSouthview Blvd & 15th Ave S - Stop #9862 (westbound)\r\n\nFor southbound Route 68 get on/off buses at:\r\nSouthview Blvd & 15th Ave S - Stop #9928 (eastbound)\r\nTemporary stop 4th St S & 11th Ave S (eastbound)\r\nTemporary stop 4th St S & 7th Ave S (eastbound)\r\n5th Ave S & 5th St S - Stop #9966 (southbound)\r\n\nNorthbound Route 68R buses will travel the regular route on 5th Ave S to 4th St S, left on 4th St S, right on 13th Ave S, left on Southview Blvd, and resume the regular route.\r\n\nSouthbound Route 68 D and 68G buses will travel the regular route on Southview Blvd to 13th Ave S, right on 13th Ave S, left on 4th St S, right on 5th Ave S, and resume the regular route.\r\n\nAffected stops:\r\n5th Ave S & 3rd St S - Stop #9821 (northbound)\r\n5th Ave S & Southview Blvd - Stop #9822 (northbound)\r\nSouthview Blvd & 7th Ave S - Stop #9834 (westbound)\r\nSouthview Blvd & 8th Ave S - Stop #56770 (westbound)\r\nSouthview Blvd & 10th Ave S - Stop #56771 (westbound)\r\nSouthview Blvd & 12th Ave S - Stop #9839 (westbound)\r\nSouthview Blvd & 12th / 13th Ave S - Stop #9930 (eastbound)\r\nSouthview Blvd & 11th Ave S - Stop #9932 (eastbound)\r\nSouthview Blvd & 10th Ave S - Stop #56772 (eastbound)\r\nSouthview Blvd & 8th Ave S - Stop #56773 (eastbound)\r\nSouthview Blvd & 5th Ave S - Stop #9938 (eastbound)\r\n5th Ave S & 3rd St S - Stop #9964 (southbound)\r\n5th Ave S & 4th St S - Stop #9965 (southbound)"
     },
@@ -8184,7 +8131,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-10-01T20:16:01.000Z",
+      "updatedAt": "2026-10-02T05:00:01.000Z",
       "rawHeader": "Route 72 detoured off Selby Ave from Lexington Pkwy to Summit Ave and off Kellogg Blvd from John Ireland Blvd to Smith Ave from 5:00 AM to 12:00 PM on Sat Oct 3 due to Twin Cities Marathon 2026",
       "rawDescription": "For eastbound Route 72 get on/off buses at:\r\nSelby Ave & Dunlap St - Stop #17003 (eastbound)\r\n5th St & 7th St W - Stop #11834 (eastbound)\r\n\nFor westbound Route 72 get on/off buses at:\r\n6th St & Washington St / 7th St - Stop #3264 (westbound)\r\nSelby Ave & Dunlap St - Stop #17002 (westbound)\r\n\nEastbound buses will travel the regular route on Selby Ave to Lexington Pkwy, left on Lexington Pkwy, right onto eastbound I-94, exit for 5th St and continue to Smith Ave, continue on 5th St and resume the regular route.\r\n\nWestbound buses will travel the regular route on Old 6th St to Smith Ave, continue onto the 5th St ramp onto westbound I-94, exit for Lexington Pkwy, left on Lexington Pkwy, right on Selby Ave, and resume the regular route.\r\n\nAffected stops:\r\nSelby & Lexington Station - Stop #57328 (eastbound)\r\nSelby Ave & Chatsworth St - Stop #17008 (eastbound)\r\nSelby & Victoria Station - Stop #57329 (eastbound)\r\nSelby Ave & Avon St - Stop #17016 (eastbound)\r\nSelby Ave & Grotto St - Stop #17019 (eastbound)\r\nKent St & Selby Ave - Stop #80982 (southbound)\r\nSelby Ave & Mackubin St - Stop #17026 (eastbound)\r\nSelby & Arundel Station - Stop #17029 (eastbound)\r\nSelby Ave & Western Ave - Stop #17030 (eastbound)\r\nSelby Ave & Farrington St - Stop #17034 (eastbound)\r\nSelby Ave & Nina St - Stop #17037 (eastbound)\r\nSelby Ave & Summit Ave - Stop #17038 (eastbound)\r\nJohn Ireland & Marshall Station - Stop #11885 (northbound)\r\nKellogg Blvd & Mulberry St - Stop #11884 (eastbound)\r\nSmith & 5th St Station - Stop #57416 (eastbound)\r\nSmith & Kellogg Station - Stop #52760 (westbound)\r\nKellogg Blvd & Mulberry St - Stop #11883 (westbound)\r\nJohn Ireland & Marshall Station - Stop #11888 (southbound)\r\nSelby Ave & Summit Ave - Stop #17039 (westbound)\r\nSelby Ave & Nina St - Stop #17036 (westbound)\r\nSelby Ave & Farrington St - Stop #17035 (westbound)\r\nSelby & Western Station - Stop #17031 (westbound)\r\nSelby Ave & Arundel St - Stop #17028 (westbound)\r\nSelby Ave & Mackubin St - Stop #17027 (westbound)\r\nSelby Ave & St Albans St / Grotto St - Stop #17018 (westbound)\r\nSelby Ave & Avon St - Stop #17017 (westbound)\r\nSelby & Victoria Station - Stop #17013 (westbound)\r\nSelby Ave & Chatsworth St - Stop #17009 (westbound)\r\nSelby & Lexington Station - Stop #17005 (westbound)"
     },
@@ -8709,7 +8656,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/83",
-      "updatedAt": "2026-10-01T20:15:07.000Z",
+      "updatedAt": "2026-10-02T05:00:01.000Z",
       "rawHeader": "Route 83 detoured off Lexington Ave from St Clair Ave to Selby Ave from 5:00 AM to 12:00 PM on Sat Oct 3 due to Twin Cities Marathon 2026",
       "rawDescription": "For northbound Route 83 get on/off buses at:\r\nLexington Pkwy & Jefferson Ave - Stop #53729 (northbound)\r\nLexington Pkwy & Marshall Ave - Stop #53735 (northbound)\r\n\nFor southbound Route 83 get on/off buses at:\r\nLexington Pkwy & Selby Ave - Stop #53753 (southbound)\r\nLexington Pkwy & Jefferson Ave - Stop #53758 (southbound)\r\n\nNorthbound buses will travel the regular route on Lexington Ave to St Clair Ave, left on St Clair Ave, left onto northbound Ayd Mill Rd, exit left for Hamline Ave, right on Hamline Ave, right on Selby Ave, left on Lexington Pkwy, and resume the regular route. \r\n\nSouthbound buses will travel the regular route on Lexington Pkwy to Selby Ave, right on Selby Ave, left on Hamline Ave, left onto southbound Ayd Mill R, exit right for St Clair Ave, left on St Clair Ave, right on Lexington Pkwy, and resume the regular route.\r\n\nAffected stops:\r\nLexington Pkwy & St Clair Ave - Stop #53730 (northbound)\r\nLexington Pkwy & Fairmount Ave - Stop #53731 (northbound)\r\nLexington Pkwy & Grand Ave - Stop #53732 (northbound)\r\nLexington Pkwy & Ashland Ave - Stop #53733 (northbound)\r\nLexington Pkwy & Selby Ave - Stop #53734 (northbound)\r\nLexington Pkwy & Ashland Ave - Stop #53754 (southbound)\r\nLexington Pkwy & Grand Ave - Stop #53755 (southbound)\r\nLexington Pkwy & Fairmount Ave - Stop #53756 (southbound)\r\nLexington Pkwy & St Clair Ave - Stop #53757 (southbound)"
     },
@@ -9097,7 +9044,7 @@
       },
       "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-01T05:00:02.000Z",
+      "updatedAt": "2026-10-02T05:00:02.000Z",
       "rawHeader": "Cleveland Ave & Ford Pkwy - Stop #13095 (northbound) is closed for Routes 87 and 134 from Tue Sep 29 at 7:00 AM to Fri Oct 2 at 4:00 PM due to utility work",
       "rawDescription": "Get on/off buses at:\r\nCleveland Ave & Hillcrest Ave - Stop #13094 (northbound)\r\nCleveland Ave & Pinehurst Ave - Stop #11760 (northbound)"
     },
