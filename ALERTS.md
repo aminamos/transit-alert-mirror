@@ -2,21 +2,58 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-132-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-134-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-129-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-80-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-81-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-02T08:13:04.400Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-02T15:20:09.437Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (4) • **METRO E Line** (3) • **METRO Gold Line** (2) • **Route 2** (3) • **Route 3** (5) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (4) • **Route 7** (5) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (3) • **Route 17** (2) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 36** (4) • **Route 38** (4) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (3) • **Route 63** (3) • **Route 64** (4) • **Route 65** (3) • **Route 67** (5) • **Route 68** (7) • **Route 68C** (2) • **Route 68D** (1) • **Route 68G** (1) • **Route 68R** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (2) • **Route 83** (2) • **Route 87** (2) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (4) • **METRO E Line** (3) • **METRO Gold Line** (2) • **Route 2** (4) • **Route 2C** (1) • **Route 3** (5) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (4) • **Route 7** (5) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (3) • **Route 17** (2) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 36** (4) • **Route 38** (4) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (3) • **Route 63** (3) • **Route 64** (4) • **Route 65** (3) • **Route 67** (5) • **Route 68** (7) • **Route 68C** (2) • **Route 68D** (1) • **Route 68G** (1) • **Route 68R** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (2) • **Route 83** (2) • **Route 87** (2) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 Route 2, Route 2C: Eastbound 10:05 AM Trip Canceled (Franklin Ave E & Franklin Station)
+
+- **Affected Routes**: `Route 2` `Route 2C`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #81077, Stop #80802, Stop #80925, Stop #80927, Stop #14331, Stop #52239, Stop #52240, Stop #806 *(+13 more)*
+
+**Summary**: Eastbound Route 2C trip departing Franklin Ave E & Franklin Station at 10:05 AM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 2C trip departing Franklin Ave E & Franklin Station at 10:05 AM canceled today due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 Route 71: Southbound 9:15 AM Trip Canceled (Market Place Dr & The Marketplace Ctr)
+
+- **Affected Routes**: `Route 71`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Route 71 trip departing Market Place Dr & The Marketplace Ctr at 9:15 AM canceled today due to collision
+
+[Official Agency Advisory](https://www.metrotransit.org/route/71)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 71 trip departing Market Place Dr & The Marketplace Ctr at 9:15 AM canceled today due to collision
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -2881,26 +2918,27 @@ Minnesota Veterans Home & Bldg 19 - Stop #16496 (westbound)
 
 ---
 
-### ⚠️ Route 38: Stop Closed at Excelsior Blvd & Alabama Ave S
+### ⚠️ Route 38: Stop Closed at Excelsior Blvd & 32nd St W
 
 - **Affected Routes**: `Route 38`
-- **Direction**: Westbound
+- **Direction**: Eastbound
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Excelsior Blvd & Alabama Ave S; Excelsior Blvd & Yosemite Ave
-- **Closed Stops**: Stop #3545, Stop #3544
+- **Corridors & Intersections**: Excelsior Blvd & 32nd St W; Excelsior Blvd & Glenhurst Ave
+- **Closed Stops**: Stop #4859, Stop #4858, Stop #3121, Stop #50109
 
-**Summary**: Excelsior Blvd & Alabama Ave S - Stop #3545 (westbound) is closed for Route 38 until Fri Oct 2 at 7:00 AM. Board at: Excelsior Blvd & Yosemite Ave - Stop #3544 (westbound).
+**Summary**: Excelsior Blvd & 32nd St W - Stop #4859 (eastbound) is closed for Route 38 until further notice due to construction. Board at: Excelsior Blvd & Glenhurst Ave / France - Stop #4858 (eastbound); Excelsior Blvd & #3121 - Stop #50109 (eastbound).
 
-> 💡 **Rider Action**: Board at: Excelsior Blvd & Yosemite Ave - Stop #3544 (westbound)
+> 💡 **Rider Action**: Board at: Excelsior Blvd & Glenhurst Ave / France - Stop #4858 (eastbound); Excelsior Blvd & #3121 - Stop #50109 (eastbound)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Excelsior Blvd & Alabama Ave S - Stop #3545 (westbound) is closed for Route 38 until Fri Oct 2 at 7:00 AM
+**Header**: Excelsior Blvd & 32nd St W - Stop #4859 (eastbound) is closed for Route 38 until further notice due to construction
 
 ```text
 Get on/off buses at:
-Excelsior Blvd & Yosemite Ave - Stop #3544 (westbound)
+Excelsior Blvd & Glenhurst Ave / France - Stop #4858 (eastbound)
+Excelsior Blvd & #3121 - Stop #50109 (eastbound)
 ```
 
 </details>
@@ -3768,45 +3806,62 @@ Summit Ave & Dale St - Stop #10761 (eastbound)
 
 ---
 
-### ⚠️ Route 65: Detour via Marshall St & Kent St
+### ⚠️ Route 65: Detour via Temporary terminal St Albans St & Laurel Ave
 
 - **Affected Routes**: `Route 65`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Marshall St & Kent St; Temporary terminal St Albans St & Laurel Ave; Kent St & Selby Ave; Summit Ave & Dale St
-- **Closed Stops**: Summit Ave & Dale St (Stop #10761), Kent St & Selby Ave (Stop #80984), Stop #80985, Stop #17022, Stop #57338, Stop #80982
+- **Corridors & Intersections**: Temporary terminal St Albans St & Laurel Ave; Marshall St & Kent St; Dale St & Fuller Ave; Marshall Ave & Kent St; Kent St & Selby Ave
+- **Closed Stops**: Stop #17022, Stop #80985, Stop #10693, Stop #10748, Stop #80981, Stop #80982, Stop #57338, Stop #80984 *(+13 more)*
 
-**Summary**: Route 65 detoured off Kent St from Selby Ave to Summit Ave from Sat Oct 3 at 5:00 AM to Sun Oct 4 at 4:00 PM due to Twin Cities Marathon 2026. Board at: Marshall St & Kent St - Stop #80985 (eastbound); Selby & Dale Station - Stop #17022 (eastbound); Temporary terminal St Albans St & Laurel Ave (southbound).
+**Summary**: Route 65 detoured off Dale St from Rondo Ave to Grand Ave from Sat Oct 3 at 5:00 AM to Sun Oct 4 at 4:00 PM due to Twin Cities Marathon 2026. Board at: Temporary terminal St Albans St & Laurel Ave (southbound); Selby & Dale Station - Stop #17022 (eastbound); Marshall St & Kent St - Stop #80985 (eastbound).
 
-> 💡 **Rider Action**: Board at: Marshall St & Kent St - Stop #80985 (eastbound); Selby & Dale Station - Stop #17022 (eastbound); Temporary terminal St Albans St & Laurel Ave (southbound)
+> 💡 **Rider Action**: Board at: Temporary terminal St Albans St & Laurel Ave (southbound); Selby & Dale Station - Stop #17022 (eastbound); Marshall St & Kent St - Stop #80985 (eastbound)
 
-> 🔄 **Detour Path**: Southbound buses will travel the regular detour route on Kent St to Selby Ave, right on Selby Ave, left on St Albans St to Laurel Ave, and terminate.
+> 🔄 **Detour Path**: Southbound buses will travel the regular route on Dale St to Rondo Ave, left on Rondo Ave, right on Arundel St, right on Marshall Ave, left on Kent St, right on Selby Ave, left on St Albans St to Laurel Ave, and terminate.
 
 [Official Agency Advisory](https://www.metrotransit.org/route/65)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 65 detoured off Kent St from Selby Ave to Summit Ave from Sat Oct 3 at 5:00 AM to Sun Oct 4 at 4:00 PM due to Twin Cities Marathon 2026
+**Header**: Route 65 detoured off Dale St from Rondo Ave to Grand Ave from Sat Oct 3 at 5:00 AM to Sun Oct 4 at 4:00 PM due to Twin Cities Marathon 2026
 
 ```text
+Updated 10/2 at 8:45 AM to clarify ongoing detour routing, affected stops, and alternate stops. 
+
 For northbound Route 65 get on/off buses at:
-Marshall St & Kent St - Stop #80985 (eastbound)
-Selby & Dale Station - Stop #17022 (eastbound)
 Temporary terminal St Albans St & Laurel Ave (southbound)
+Selby & Dale Station - Stop #17022 (eastbound)
+Marshall St & Kent St - Stop #80985 (eastbound)
+Dale St & Fuller Ave - Stop #10693 (northbound)
 
 For southbound Route 65 get on/off buses at:
-Temporary terminal St Albans St & Laurel Ave (southbound)
-Selby & Dale Station - Stop #57338 (westbound)
+Dale St & Fuller Ave - Stop #10748 (southbound)
+Marshall Ave & Kent St - Stop #80981 (westbound)
 Kent St & Selby Ave - Stop #80982 (southbound)
+Selby & Dale Station - Stop #57338 (westbound)
+Temporary terminal St Albans St & Laurel Ave (southbound)
 
-Northbound buses will depart the temporary terminal on St Albans St and Laurel Ave, turn around at the roundabout to go north on St Albans St, right on Selby Ave, left on Kent St, and resume the regular detour route.
+Northbound buses will depart the temporary terminal on St Albans St and Laurel Ave, turn around at the roundabout to go north on St Albans St, right on Selby Ave, left on Kent St, right on Marshall Ave, left on Arundel St, right on Concordia Ave, left on Western Ave, left on St Anthony Ave, right on Dale St, and resume the regular route.
 
-Southbound buses will travel the regular detour route on Kent St to Selby Ave, right on Selby Ave, left on St Albans St to Laurel Ave, and terminate.
+Southbound buses will travel the regular route on Dale St to Rondo Ave, left on Rondo Ave, right on Arundel St, right on Marshall Ave, left on Kent St, right on Selby Ave, left on St Albans St to Laurel Ave, and terminate.
 
 Affected stops:
-Summit Ave & Dale St - Stop #10761 (eastbound)
 Kent St & Selby Ave - Stop #80984 (northbound)
+Dale St & Grand Ave - Stop #10680 (northbound)
+Dale St & Summit Ave / Portland Ave - Stop #10681 (northbound)
+Dale St & Holly Ave - Stop #10684 (northbound)
+Dale St & Selby Ave - Stop #10685 (northbound)
+Dale St & Marshall Ave - Stop #10688 (northbound)
+Dale St & Iglehart Ave - Stop #10689 (northbound)
+Dale St & Rondo Ave - Stop #10691 (northbound)
+Dale St & Carroll Ave - Stop #10752 (southbound)
+Dale St & Iglehart Ave - Stop #10753 (southbound)
+Dale St & Marshall Ave - Stop #10754 (southbound)
+Dale St N & Selby Ave - Stop #53780 (southbound)
+Dale St & Ashland Ave - Stop #10758 (southbound)
+Summit Ave & Dale St - Stop #10761 (eastbound)
 ```
 
 </details>

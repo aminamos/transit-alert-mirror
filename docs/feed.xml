@@ -4,9 +4,27 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Fri, 02 Oct 2026 08:13:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 15:20:09 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] Route 2, Route 2C: Eastbound 10:05 AM Trip Canceled (Franklin Ave E &amp; Franklin Station)</title>
+      <link>https://www.metrotransit.org/route/2</link>
+      <guid isPermaLink="false">Metro Transit-53641-2026-10-02T15:11:40.000Z</guid>
+      <pubDate>Fri, 02 Oct 2026 15:11:40 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 2, Route 2C</category>
+      <description>Eastbound Route 2C trip departing Franklin Ave E &amp; Franklin Station at 10:05 AM canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 71: Southbound 9:15 AM Trip Canceled (Market Place Dr &amp; The Marketplace Ctr)</title>
+      <link>https://www.metrotransit.org/route/71</link>
+      <guid isPermaLink="false">Metro Transit-53639-2026-10-02T13:50:13.000Z</guid>
+      <pubDate>Fri, 02 Oct 2026 13:50:13 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 71</category>
+      <description>Southbound Route 71 trip departing Market Place Dr &amp; The Marketplace Ctr at 9:15 AM canceled today due to collision</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -541,8 +559,8 @@
     <item>
       <title>[Moderate] Route 36, METRO E Line: Detour via 39th St &amp; Sheridan St</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-53591-2026-10-02T05:00:01.000Z</guid>
-      <pubDate>Fri, 02 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53591-2026-10-02T11:30:08.000Z</guid>
+      <pubDate>Fri, 02 Oct 2026 11:30:08 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 36, METRO E Line</category>
       <description>E Line and Route 36 detoured off Sheridan Ave from 39th St to 43rd St beginning Fri Oct 2 at 7:00 AM until further notice due to tree trimming. Board at: Sheridan &amp; 43rd St Station - Stop #6202 (northbound); 39th St &amp; Sheridan Station - Stop #1117 (westbound). | Action: Board at: Sheridan &amp; 43rd St Station - Stop #6202 (northbound); 39th St &amp; Sheridan Station - Stop #1117 (westbound)</description>
@@ -566,13 +584,13 @@
       <description>Route 38 detoured off 46th Ave from 46th St to Minnesota Veterans Home from 4:00 AM to 1:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: 46th Ave S &amp; 46th St E - Stop #53134 (southbound). | Action: Board at: 46th Ave S &amp; 46th St E - Stop #53134 (southbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 38: Stop Closed at Excelsior Blvd &amp; Alabama Ave S</title>
+      <title>[Moderate] Route 38: Stop Closed at Excelsior Blvd &amp; 32nd St W</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-53589-2026-10-02T05:00:02.000Z</guid>
-      <pubDate>Fri, 02 Oct 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53637-2026-10-02T13:21:22.000Z</guid>
+      <pubDate>Fri, 02 Oct 2026 13:21:22 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 38</category>
-      <description>Excelsior Blvd &amp; Alabama Ave S - Stop #3545 (westbound) is closed for Route 38 until Fri Oct 2 at 7:00 AM. Board at: Excelsior Blvd &amp; Yosemite Ave - Stop #3544 (westbound). | Action: Board at: Excelsior Blvd &amp; Yosemite Ave - Stop #3544 (westbound)</description>
+      <description>Excelsior Blvd &amp; 32nd St W - Stop #4859 (eastbound) is closed for Route 38 until further notice due to construction. Board at: Excelsior Blvd &amp; Glenhurst Ave / France - Stop #4858 (eastbound); Excelsior Blvd &amp; #3121 - Stop #50109 (eastbound). | Action: Board at: Excelsior Blvd &amp; Glenhurst Ave / France - Stop #4858 (eastbound); Excelsior Blvd &amp; #3121 - Stop #50109 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 46: Detour via 50th St W &amp; Queen Ave S</title>
@@ -719,13 +737,13 @@
       <description>Route 65 detoured off Dale St from Rondo Ave to Grand Ave beginning Mon May 18 at 7:00 AM until further notice due to construction. Board at: Summit Ave &amp; Dale St - Stop #10761 (eastbound); Temporary stop on Kent St &amp; Selby Ave (northbound); Temporary stop on Kent St &amp; Marshall Ave (northbound). | Action: Board at: Summit Ave &amp; Dale St - Stop #10761 (eastbound); Temporary stop on Kent St &amp; Selby Ave (northbound); Temporary stop on Kent St &amp; Marshall Ave (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 65: Detour via Marshall St &amp; Kent St</title>
+      <title>[Moderate] Route 65: Detour via Temporary terminal St Albans St &amp; Laurel Ave</title>
       <link>https://www.metrotransit.org/route/65</link>
-      <guid isPermaLink="false">Metro Transit-53599-2026-10-01T16:08:59.000Z</guid>
-      <pubDate>Thu, 01 Oct 2026 16:08:59 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53599-2026-10-02T13:45:43.000Z</guid>
+      <pubDate>Fri, 02 Oct 2026 13:45:43 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 65</category>
-      <description>Route 65 detoured off Kent St from Selby Ave to Summit Ave from Sat Oct 3 at 5:00 AM to Sun Oct 4 at 4:00 PM due to Twin Cities Marathon 2026. Board at: Marshall St &amp; Kent St - Stop #80985 (eastbound); Selby &amp; Dale Station - Stop #17022 (eastbound); Temporary terminal St Albans St &amp; Laurel Ave (southbound). | Action: Board at: Marshall St &amp; Kent St - Stop #80985 (eastbound); Selby &amp; Dale Station - Stop #17022 (eastbound); Temporary terminal St Albans St &amp; Laurel Ave (southbound)</description>
+      <description>Route 65 detoured off Dale St from Rondo Ave to Grand Ave from Sat Oct 3 at 5:00 AM to Sun Oct 4 at 4:00 PM due to Twin Cities Marathon 2026. Board at: Temporary terminal St Albans St &amp; Laurel Ave (southbound); Selby &amp; Dale Station - Stop #17022 (eastbound); Marshall St &amp; Kent St - Stop #80985 (eastbound). | Action: Board at: Temporary terminal St Albans St &amp; Laurel Ave (southbound); Selby &amp; Dale Station - Stop #17022 (eastbound); Marshall St &amp; Kent St - Stop #80985 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 67: Stop Closed at Minnehaha Ave &amp; Dale St</title>

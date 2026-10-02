@@ -1,16 +1,155 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-02T08:13:04.400Z",
-    "totalAlerts": 132,
-    "criticalCount": 0,
+    "generatedAt": "2026-10-02T15:20:09.437Z",
+    "totalAlerts": 134,
+    "criticalCount": 2,
     "moderateCount": 129,
     "minorCount": 3,
-    "affectedRoutesCount": 80,
+    "affectedRoutesCount": 81,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
+    {
+      "id": "53641",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 2, Route 2C: Eastbound 10:05 AM Trip Canceled (Franklin Ave E & Franklin Station)",
+      "summary": "Eastbound Route 2C trip departing Franklin Ave E & Franklin Station at 10:05 AM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 2",
+        "Route 2C"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [
+        "81077",
+        "80802",
+        "80925",
+        "80927",
+        "14331",
+        "52239",
+        "52240",
+        "806",
+        "57469",
+        "50160",
+        "56926",
+        "56927",
+        "17713",
+        "40340",
+        "40342",
+        "15664",
+        "15668",
+        "103",
+        "13310",
+        "13334",
+        "13337"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "81077"
+        },
+        {
+          "id": "80802"
+        },
+        {
+          "id": "80925"
+        },
+        {
+          "id": "80927"
+        },
+        {
+          "id": "14331"
+        },
+        {
+          "id": "52239"
+        },
+        {
+          "id": "52240"
+        },
+        {
+          "id": "806"
+        },
+        {
+          "id": "57469"
+        },
+        {
+          "id": "50160"
+        },
+        {
+          "id": "56926"
+        },
+        {
+          "id": "56927"
+        },
+        {
+          "id": "17713"
+        },
+        {
+          "id": "40340"
+        },
+        {
+          "id": "40342"
+        },
+        {
+          "id": "15664"
+        },
+        {
+          "id": "15668"
+        },
+        {
+          "id": "103"
+        },
+        {
+          "id": "13310"
+        },
+        {
+          "id": "13334"
+        },
+        {
+          "id": "13337"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-02T15:10:00.000Z",
+        "end": "2026-10-02T16:32:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/2",
+      "updatedAt": "2026-10-02T15:11:40.000Z",
+      "rawHeader": "Eastbound Route 2C trip departing Franklin Ave E & Franklin Station at 10:05 AM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "53639",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 71: Southbound 9:15 AM Trip Canceled (Market Place Dr & The Marketplace Ctr)",
+      "summary": "Southbound Route 71 trip departing Market Place Dr & The Marketplace Ctr at 9:15 AM canceled today due to collision",
+      "affectedRoutes": [
+        "Route 71"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-02T14:15:00.000Z",
+        "end": "2026-10-02T15:45:00.000Z"
+      },
+      "cause": "ACCIDENT",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/71",
+      "updatedAt": "2026-10-02T13:50:13.000Z",
+      "rawHeader": "Southbound Route 71 trip departing Market Place Dr & The Marketplace Ctr at 9:15 AM canceled today due to collision",
+      "rawDescription": ""
+    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -2089,8 +2228,8 @@
         "17928",
         "17931",
         "177",
-        "102",
         "103",
+        "102",
         "104"
       ],
       "closedStopDetails": [
@@ -2239,10 +2378,10 @@
           "id": "177"
         },
         {
-          "id": "102"
+          "id": "103"
         },
         {
-          "id": "103"
+          "id": "102"
         },
         {
           "id": "104"
@@ -4971,7 +5110,7 @@
       },
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
-      "updatedAt": "2026-10-02T05:00:01.000Z",
+      "updatedAt": "2026-10-02T11:30:08.000Z",
       "rawHeader": "E Line and Route 36 detoured off Sheridan Ave from 39th St to 43rd St beginning Fri Oct 2 at 7:00 AM until further notice due to tree trimming",
       "rawDescription": "Get on/off northbound buses at:\r\nSheridan & 43rd St Station - Stop #6202 (northbound)\r\n39th St & Sheridan Station - Stop #1117 (westbound)\r\n\nGet on/off southbound buses at:\r\nTemporary stop on 39th St W & Sheridan Ave (eastbound)\r\nSheridan & 43rd St Station - Stop #6379 (southbound)\r\n\nNorthbound buses will travel regular route on Sheridan Ave to Upton Ave, left on Upton Ave, right on 40th St, left on Thomas Ave, right on 39th St and resume regular route.\r\n\nSouthbound buses will travel regular route on 39th St to Sheridan Ave, continue on 39th St to Thomas Ave, left on Thomas Ave, right on 40th St, left on Upton Ave, right on Sheridan Ave and resume regular route.\r\n\nAffected stops:\r\nSheridan & 39th St Station - Stop #6206 (northbound)\r\nSheridan Ave S & 40th St W - Stop #6205 (northbound)\r\nSheridan Ave S & 40th St W - Stop #6376 (southbound)\r\nSheridan Ave S & 42nd St W - Stop #6203 (northbound)\r\nSheridan Ave S & 42nd St W - Stop #6378 (southbound)"
     },
@@ -5156,42 +5295,49 @@
       "rawDescription": "For eastbound Route 38 get on/off buses at:\r\n46th Ave S & 46th St E - Stop #53134 (southbound)\r\n\nFor westbound Route 38 get on/off buses at:\r\n46th Ave S & 46th St E - Stop #16498 (northbound)\r\n\nEastbound 38C buses will travel regular route on 46th Ave to 46th St, right on 46th St, right on Minnehaha Ave, left on 42nd St, left on 34th Ave, left on 46th St, left into 46th St Station and layover at Gate E.\r\n\nWestbound 38 buses that normally depart Minnesota Veterans Home will depart temporary layover at 46th St Station and turn right on 46th St, right on 34th Ave, right on 42nd St, right on Minnehaha Ave, left on 46th St, left on 46th Ave and resume regular route.\r\n\nAffected stops:\r\n46th Ave S & Godfrey Pkwy - Stop #16492 (southbound)\r\nMinnesota Veterans Home & Bldg 19 - Stop #16493 (eastbound)\r\nMinnesota Veterans Home & Bldg 4 - Stop #16494 (eastbound)\r\nMinnesota Veterans Home & Bldg 19 - Stop #16496 (westbound)\r\n46th Ave S & Godfrey Pkwy - Stop #16497 (northbound)"
     },
     {
-      "id": "53589",
+      "id": "53637",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 38: Stop Closed at Excelsior Blvd & Alabama Ave S",
-      "summary": "Excelsior Blvd & Alabama Ave S - Stop #3545 (westbound) is closed for Route 38 until Fri Oct 2 at 7:00 AM. Board at: Excelsior Blvd & Yosemite Ave - Stop #3544 (westbound).",
+      "title": "Route 38: Stop Closed at Excelsior Blvd & 32nd St W",
+      "summary": "Excelsior Blvd & 32nd St W - Stop #4859 (eastbound) is closed for Route 38 until further notice due to construction. Board at: Excelsior Blvd & Glenhurst Ave / France - Stop #4858 (eastbound); Excelsior Blvd & #3121 - Stop #50109 (eastbound).",
       "affectedRoutes": [
         "Route 38"
       ],
-      "direction": "Westbound",
+      "direction": "Eastbound",
       "intersections": [
-        "Excelsior Blvd & Alabama Ave S",
-        "Excelsior Blvd & Yosemite Ave"
+        "Excelsior Blvd & 32nd St W",
+        "Excelsior Blvd & Glenhurst Ave"
       ],
       "closedStopIds": [
-        "3545",
-        "3544"
+        "4859",
+        "4858",
+        "3121",
+        "50109"
       ],
       "closedStopDetails": [
         {
-          "id": "3545"
+          "id": "4859"
         },
         {
-          "id": "3544"
+          "id": "4858"
+        },
+        {
+          "id": "3121"
+        },
+        {
+          "id": "50109"
         }
       ],
-      "riderAlternative": "Board at: Excelsior Blvd & Yosemite Ave - Stop #3544 (westbound)",
+      "riderAlternative": "Board at: Excelsior Blvd & Glenhurst Ave / France - Stop #4858 (eastbound); Excelsior Blvd & #3121 - Stop #50109 (eastbound)",
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-01T12:20:00.000Z",
-        "end": "2026-10-02T12:00:00.000Z"
+        "start": "2026-10-02T13:21:00.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-02T05:00:02.000Z",
-      "rawHeader": "Excelsior Blvd & Alabama Ave S - Stop #3545 (westbound) is closed for Route 38 until Fri Oct 2 at 7:00 AM",
-      "rawDescription": "Get on/off buses at:\r\nExcelsior Blvd & Yosemite Ave - Stop #3544 (westbound)"
+      "updatedAt": "2026-10-02T13:21:22.000Z",
+      "rawHeader": "Excelsior Blvd & 32nd St W - Stop #4859 (eastbound) is closed for Route 38 until further notice due to construction",
+      "rawDescription": "Get on/off buses at:\r\nExcelsior Blvd & Glenhurst Ave / France - Stop #4858 (eastbound)\r\nExcelsior Blvd & #3121 - Stop #50109 (eastbound)"
     },
     {
       "id": "53185",
@@ -6876,52 +7022,109 @@
       "id": "53599",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 65: Detour via Marshall St & Kent St",
-      "summary": "Route 65 detoured off Kent St from Selby Ave to Summit Ave from Sat Oct 3 at 5:00 AM to Sun Oct 4 at 4:00 PM due to Twin Cities Marathon 2026. Board at: Marshall St & Kent St - Stop #80985 (eastbound); Selby & Dale Station - Stop #17022 (eastbound); Temporary terminal St Albans St & Laurel Ave (southbound).",
+      "title": "Route 65: Detour via Temporary terminal St Albans St & Laurel Ave",
+      "summary": "Route 65 detoured off Dale St from Rondo Ave to Grand Ave from Sat Oct 3 at 5:00 AM to Sun Oct 4 at 4:00 PM due to Twin Cities Marathon 2026. Board at: Temporary terminal St Albans St & Laurel Ave (southbound); Selby & Dale Station - Stop #17022 (eastbound); Marshall St & Kent St - Stop #80985 (eastbound).",
       "affectedRoutes": [
         "Route 65"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "Marshall St & Kent St",
         "Temporary terminal St Albans St & Laurel Ave",
-        "Kent St & Selby Ave",
-        "Summit Ave & Dale St"
+        "Marshall St & Kent St",
+        "Dale St & Fuller Ave",
+        "Marshall Ave & Kent St",
+        "Kent St & Selby Ave"
       ],
       "closedStopIds": [
-        "10761",
-        "80984",
-        "80985",
         "17022",
+        "80985",
+        "10693",
+        "10748",
+        "80981",
+        "80982",
         "57338",
-        "80982"
+        "80984",
+        "10680",
+        "10681",
+        "10684",
+        "10685",
+        "10688",
+        "10689",
+        "10691",
+        "10752",
+        "10753",
+        "10754",
+        "53780",
+        "10758",
+        "10761"
       ],
       "closedStopDetails": [
         {
-          "id": "10761",
-          "name": "Summit Ave & Dale St",
-          "direction": "eastbound"
-        },
-        {
-          "id": "80984",
-          "name": "Kent St & Selby Ave",
-          "direction": "northbound"
+          "id": "17022"
         },
         {
           "id": "80985"
         },
         {
-          "id": "17022"
+          "id": "10693"
+        },
+        {
+          "id": "10748"
+        },
+        {
+          "id": "80981"
+        },
+        {
+          "id": "80982"
         },
         {
           "id": "57338"
         },
         {
-          "id": "80982"
+          "id": "80984"
+        },
+        {
+          "id": "10680"
+        },
+        {
+          "id": "10681"
+        },
+        {
+          "id": "10684"
+        },
+        {
+          "id": "10685"
+        },
+        {
+          "id": "10688"
+        },
+        {
+          "id": "10689"
+        },
+        {
+          "id": "10691"
+        },
+        {
+          "id": "10752"
+        },
+        {
+          "id": "10753"
+        },
+        {
+          "id": "10754"
+        },
+        {
+          "id": "53780"
+        },
+        {
+          "id": "10758"
+        },
+        {
+          "id": "10761"
         }
       ],
-      "riderAlternative": "Board at: Marshall St & Kent St - Stop #80985 (eastbound); Selby & Dale Station - Stop #17022 (eastbound); Temporary terminal St Albans St & Laurel Ave (southbound)",
-      "detourDetails": "Southbound buses will travel the regular detour route on Kent St to Selby Ave, right on Selby Ave, left on St Albans St to Laurel Ave, and terminate.",
+      "riderAlternative": "Board at: Temporary terminal St Albans St & Laurel Ave (southbound); Selby & Dale Station - Stop #17022 (eastbound); Marshall St & Kent St - Stop #80985 (eastbound)",
+      "detourDetails": "Southbound buses will travel the regular route on Dale St to Rondo Ave, left on Rondo Ave, right on Arundel St, right on Marshall Ave, left on Kent St, right on Selby Ave, left on St Albans St to Laurel Ave, and terminate.",
       "activePeriod": {
         "start": "2026-10-03T10:00:00.000Z",
         "end": "2026-10-04T21:00:00.000Z"
@@ -6929,9 +7132,9 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/65",
-      "updatedAt": "2026-10-01T16:08:59.000Z",
-      "rawHeader": "Route 65 detoured off Kent St from Selby Ave to Summit Ave from Sat Oct 3 at 5:00 AM to Sun Oct 4 at 4:00 PM due to Twin Cities Marathon 2026",
-      "rawDescription": "For northbound Route 65 get on/off buses at:\r\nMarshall St & Kent St - Stop #80985 (eastbound)\r\nSelby & Dale Station - Stop #17022 (eastbound)\r\nTemporary terminal St Albans St & Laurel Ave (southbound)\r\n\nFor southbound Route 65 get on/off buses at:\r\nTemporary terminal St Albans St & Laurel Ave (southbound)\r\nSelby & Dale Station - Stop #57338 (westbound)\r\nKent St & Selby Ave - Stop #80982 (southbound)\r\n\nNorthbound buses will depart the temporary terminal on St Albans St and Laurel Ave, turn around at the roundabout to go north on St Albans St, right on Selby Ave, left on Kent St, and resume the regular detour route.\r\n\nSouthbound buses will travel the regular detour route on Kent St to Selby Ave, right on Selby Ave, left on St Albans St to Laurel Ave, and terminate.\r\n\nAffected stops:\r\nSummit Ave & Dale St - Stop #10761 (eastbound)\r\nKent St & Selby Ave - Stop #80984 (northbound)"
+      "updatedAt": "2026-10-02T13:45:43.000Z",
+      "rawHeader": "Route 65 detoured off Dale St from Rondo Ave to Grand Ave from Sat Oct 3 at 5:00 AM to Sun Oct 4 at 4:00 PM due to Twin Cities Marathon 2026",
+      "rawDescription": "Updated 10/2 at 8:45 AM to clarify ongoing detour routing, affected stops, and alternate stops. \r\n\nFor northbound Route 65 get on/off buses at:\r\nTemporary terminal St Albans St & Laurel Ave (southbound)\r\nSelby & Dale Station - Stop #17022 (eastbound)\r\nMarshall St & Kent St - Stop #80985 (eastbound)\r\nDale St & Fuller Ave - Stop #10693 (northbound)\r\n\nFor southbound Route 65 get on/off buses at:\r\nDale St & Fuller Ave - Stop #10748 (southbound)\r\nMarshall Ave & Kent St - Stop #80981 (westbound)\r\nKent St & Selby Ave - Stop #80982 (southbound)\r\nSelby & Dale Station - Stop #57338 (westbound)\r\nTemporary terminal St Albans St & Laurel Ave (southbound)\r\n\nNorthbound buses will depart the temporary terminal on St Albans St and Laurel Ave, turn around at the roundabout to go north on St Albans St, right on Selby Ave, left on Kent St, right on Marshall Ave, left on Arundel St, right on Concordia Ave, left on Western Ave, left on St Anthony Ave, right on Dale St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Dale St to Rondo Ave, left on Rondo Ave, right on Arundel St, right on Marshall Ave, left on Kent St, right on Selby Ave, left on St Albans St to Laurel Ave, and terminate.\r\n\nAffected stops:\r\nKent St & Selby Ave - Stop #80984 (northbound)\r\nDale St & Grand Ave - Stop #10680 (northbound)\r\nDale St & Summit Ave / Portland Ave - Stop #10681 (northbound)\r\nDale St & Holly Ave - Stop #10684 (northbound)\r\nDale St & Selby Ave - Stop #10685 (northbound)\r\nDale St & Marshall Ave - Stop #10688 (northbound)\r\nDale St & Iglehart Ave - Stop #10689 (northbound)\r\nDale St & Rondo Ave - Stop #10691 (northbound)\r\nDale St & Carroll Ave - Stop #10752 (southbound)\r\nDale St & Iglehart Ave - Stop #10753 (southbound)\r\nDale St & Marshall Ave - Stop #10754 (southbound)\r\nDale St N & Selby Ave - Stop #53780 (southbound)\r\nDale St & Ashland Ave - Stop #10758 (southbound)\r\nSummit Ave & Dale St - Stop #10761 (eastbound)"
     },
     {
       "id": "51838",
