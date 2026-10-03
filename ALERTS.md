@@ -2,21 +2,39 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-131-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-128-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-133-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-129-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-81-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-03T11:32:27.784Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-03T15:40:17.301Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO B Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (4) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (3) • **Route 3** (5) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (3) • **Route 7** (5) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (3) • **Route 17** (2) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 36** (3) • **Route 38** (5) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (3) • **Route 63** (3) • **Route 64** (4) • **Route 65** (2) • **Route 67** (5) • **Route 68** (7) • **Route 68C** (2) • **Route 68D** (1) • **Route 68G** (1) • **Route 68R** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (2) • **Route 83** (2) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 225** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO B Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (4) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (3) • **Route 3** (5) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (3) • **Route 7** (5) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (3) • **Route 17** (2) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 36** (3) • **Route 38** (5) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (3) • **Route 63** (4) • **Route 64** (4) • **Route 65** (2) • **Route 67** (5) • **Route 68** (7) • **Route 68C** (2) • **Route 68D** (1) • **Route 68G** (1) • **Route 68R** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (3) • **Route 83** (2) • **Route 87** (1) • **Route 94** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 225** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 Route 63: Service Advisory
+
+- **Affected Routes**: `Route 63`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #18675, Stop #15801, Stop #15803, Stop #15798, Stop #15799, Stop #56943, Stop #56945, Stop #56946 *(+27 more)*
+
+**Summary**: Eastbound Route 63 trip departing Westgate Station - Gate C at 9:44 AM will start from Smith & 5th St Station at 10:11 AM today. Previous stops will be missed
+
+[Official Agency Advisory](https://www.metrotransit.org/route/63)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 63 trip departing Westgate Station - Gate C at 9:44 AM will start from Smith & 5th St Station at 10:11 AM today. Previous stops will be missed
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -4587,6 +4605,45 @@ No stops missed.
 Eastbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.
 
 Westbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.
+```
+
+</details>
+
+---
+
+### ⚠️ Route 74: Detour via Atlantic St & Minnehaha Ave
+
+- **Affected Routes**: `Route 74`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Atlantic St & Minnehaha Ave; 7th St E & Birmingham St; Atlantic St & 7th St E; 7th St E & Johnson Pkwy; Atlantic St (Ross Ave to 7th St E and off 7th St E from Atlantic St to Johnson Pkwy)
+- **Closed Stops**: Atlantic St & 7th St E (Stop #49611), 7th St E & Johnson Pkwy (Stop #10395), Stop #49609, Stop #10397
+
+**Summary**: Eastbound Route 74 detoured off Atlantic St from Ross Ave to 7th St E and off 7th St E from Atlantic St to Johnson Pkwy until later today due to non-transit related collision. Board at: Atlantic St & Minnehaha Ave - Stop #49609 (northbound); 7th St E & Birmingham St - Stop #10397 (eastbound).
+
+> 💡 **Rider Action**: Board at: Atlantic St & Minnehaha Ave - Stop #49609 (northbound); 7th St E & Birmingham St - Stop #10397 (eastbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on Atlantic St to Ross Ave, right on Ross Ave, left on Johnson Pkwy, right on 7th St E and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/74)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 74 detoured off Atlantic St from Ross Ave to 7th St E and off 7th St E from Atlantic St to Johnson Pkwy until later today due to non-transit related collision
+
+```text
+Get on/off buses at:
+Atlantic St & Minnehaha Ave - Stop #49609 (northbound)
+7th St E & Birmingham St - Stop #10397 (eastbound)
+
+Eastbound buses will travel regular route on Atlantic St to Ross Ave, right on Ross Ave, left on Johnson Pkwy, right on 7th St E and resume regular route.
+
+Westbound buses will follow regular route.
+
+Affected stops:
+Atlantic St & 7th St E - Stop #49611 (northbound)
+7th St E & Johnson Pkwy - Stop #10395 (eastbound)
 ```
 
 </details>

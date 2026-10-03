@@ -4,9 +4,18 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 03 Oct 2026 11:32:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 15:40:17 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] Route 63: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/63</link>
+      <guid isPermaLink="false">Metro Transit-53685-2026-10-03T14:56:58.000Z</guid>
+      <pubDate>Sat, 03 Oct 2026 14:56:58 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 63</category>
+      <description>Eastbound Route 63 trip departing Westgate Station - Gate C at 9:44 AM will start from Smith &amp; 5th St Station at 10:11 AM today. Previous stops will be missed</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -870,6 +879,15 @@
       <category>Moderate</category>
       <category>Route 74</category>
       <description>Route 74 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 74: Detour via Atlantic St &amp; Minnehaha Ave</title>
+      <link>https://www.metrotransit.org/route/74</link>
+      <guid isPermaLink="false">Metro Transit-53686-2026-10-03T15:38:16.000Z</guid>
+      <pubDate>Sat, 03 Oct 2026 15:38:16 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 74</category>
+      <description>Eastbound Route 74 detoured off Atlantic St from Ross Ave to 7th St E and off 7th St E from Atlantic St to Johnson Pkwy until later today due to non-transit related collision. Board at: Atlantic St &amp; Minnehaha Ave - Stop #49609 (northbound); 7th St E &amp; Birmingham St - Stop #10397 (eastbound). | Action: Board at: Atlantic St &amp; Minnehaha Ave - Stop #49609 (northbound); 7th St E &amp; Birmingham St - Stop #10397 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 83: Detour via Lexington Pkwy &amp; Jefferson Ave</title>
