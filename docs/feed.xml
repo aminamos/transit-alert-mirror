@@ -4,9 +4,18 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 03 Oct 2026 18:58:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 22:04:51 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] Route 14: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/14</link>
+      <guid isPermaLink="false">Metro Transit-53694-2026-10-03T20:19:57.000Z</guid>
+      <pubDate>Sat, 03 Oct 2026 20:19:57 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 14</category>
+      <description>Northbound Route 14 trip departing 66th St E &amp; Richfield Pkwy / 16th Ave at 3:05 PM will start from 7th St S &amp; Nicollet Mall at 3:41 PM today due to mechanical issue. Previous stops will be missed</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -872,6 +881,15 @@
       <description>Route 94 detoured off 6th St from 5th St Transit Center to 11th Ave from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: 5th St Transit Center Gate B - Stop #51200 (eastbound); 4th St N &amp; Hennepin Ave - Stop #17859 (eastbound); 4th St S &amp; Marquette Ave - Stop #17861 (eastbound). | Action: Board at: 5th St Transit Center Gate B - Stop #51200 (eastbound); 4th St N &amp; Hennepin Ave - Stop #17859 (eastbound); 4th St S &amp; Marquette Ave - Stop #17861 (eastbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 134, Route 87: Stop Closed at Cleveland Ave &amp; Ford Pkwy</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-53696-2026-10-03T20:40:57.000Z</guid>
+      <pubDate>Sat, 03 Oct 2026 20:40:57 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 134, Route 87</category>
+      <description>Cleveland Ave &amp; Ford Pkwy - Stop #13095 (northbound) is closed for Routes 87 and 134 until further notice due to utility work. Board at: Cleveland Ave &amp; Hillcrest Ave - Stop #13094 (northbound); Cleveland Ave &amp; Pinehurst Ave - Stop #11760 (northbound). | Action: Board at: Cleveland Ave &amp; Hillcrest Ave - Stop #13094 (northbound); Cleveland Ave &amp; Pinehurst Ave - Stop #11760 (northbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 156, Route 578, Route 824, Route 827, Route 850, Route 882, Route 888: Stop Closed at 2nd Ave S &amp; 9th St</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
       <guid isPermaLink="false">Metro Transit-41775-2026-01-14T05:59:48.000Z</guid>
@@ -1122,6 +1140,24 @@
       <category>Moderate</category>
       <category>Route 860</category>
       <description>Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction. Board at: Temporary stop on Grove St &amp; Lafayette Rd (eastbound); LaFayette Rd &amp; 8th St - Stop #11925 (southbound). | Action: Board at: Temporary stop on Grove St &amp; Lafayette Rd (eastbound); LaFayette Rd &amp; 8th St - Stop #11925 (southbound)</description>
+    </item>
+    <item>
+      <title>[Minor] METRO Blue Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/blue</link>
+      <guid isPermaLink="false">Metro Transit-53698-2026-10-03T21:10:40.000Z</guid>
+      <pubDate>Sat, 03 Oct 2026 21:10:40 GMT</pubDate>
+      <category>Minor</category>
+      <category>METRO Blue Line</category>
+      <description>Southbound Blue Line trip departing 50th St / Minnehaha Park Station at 3:54 PM delayed up to 17 minutes today due to police activity</description>
+    </item>
+    <item>
+      <title>[Minor] METRO Green Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/green</link>
+      <guid isPermaLink="false">Metro Transit-53699-2026-10-03T21:13:54.000Z</guid>
+      <pubDate>Sat, 03 Oct 2026 21:13:54 GMT</pubDate>
+      <category>Minor</category>
+      <category>METRO Green Line</category>
+      <description>Eastbound Green Line trip departing Snelling Ave Station at 3:56 PM delayed up to 16 minutes today due to police activity</description>
     </item>
     <item>
       <title>[Minor] Route 2: Service Advisory</title>

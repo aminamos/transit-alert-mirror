@@ -1,16 +1,232 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-03T18:58:52.401Z",
-    "totalAlerts": 127,
-    "criticalCount": 0,
-    "moderateCount": 124,
-    "minorCount": 3,
-    "affectedRoutesCount": 81,
+    "generatedAt": "2026-10-03T22:04:51.475Z",
+    "totalAlerts": 131,
+    "criticalCount": 1,
+    "moderateCount": 125,
+    "minorCount": 5,
+    "affectedRoutesCount": 82,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
+    {
+      "id": "53694",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 14: Service Advisory",
+      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 3:05 PM will start from 7th St S & Nicollet Mall at 3:41 PM today due to mechanical issue. Previous stops will be missed",
+      "affectedRoutes": [
+        "Route 14"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [
+        "777",
+        "56137",
+        "53941",
+        "51883",
+        "51884",
+        "51885",
+        "51886",
+        "53765",
+        "51836",
+        "51838",
+        "17901",
+        "17902",
+        "738",
+        "740",
+        "743",
+        "765",
+        "767",
+        "775",
+        "15581",
+        "15582",
+        "15578",
+        "15574",
+        "15586",
+        "15590",
+        "15594",
+        "15598",
+        "15602",
+        "15605",
+        "15606",
+        "15610",
+        "15614",
+        "15618",
+        "15622",
+        "15625",
+        "15626",
+        "15630",
+        "15638",
+        "15642",
+        "15644",
+        "15648",
+        "17894",
+        "17895",
+        "17897",
+        "17899",
+        "4345",
+        "4347",
+        "15570"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "777"
+        },
+        {
+          "id": "56137"
+        },
+        {
+          "id": "53941"
+        },
+        {
+          "id": "51883"
+        },
+        {
+          "id": "51884"
+        },
+        {
+          "id": "51885"
+        },
+        {
+          "id": "51886"
+        },
+        {
+          "id": "53765"
+        },
+        {
+          "id": "51836"
+        },
+        {
+          "id": "51838"
+        },
+        {
+          "id": "17901"
+        },
+        {
+          "id": "17902"
+        },
+        {
+          "id": "738"
+        },
+        {
+          "id": "740"
+        },
+        {
+          "id": "743"
+        },
+        {
+          "id": "765"
+        },
+        {
+          "id": "767"
+        },
+        {
+          "id": "775"
+        },
+        {
+          "id": "15581"
+        },
+        {
+          "id": "15582"
+        },
+        {
+          "id": "15578"
+        },
+        {
+          "id": "15574"
+        },
+        {
+          "id": "15586"
+        },
+        {
+          "id": "15590"
+        },
+        {
+          "id": "15594"
+        },
+        {
+          "id": "15598"
+        },
+        {
+          "id": "15602"
+        },
+        {
+          "id": "15605"
+        },
+        {
+          "id": "15606"
+        },
+        {
+          "id": "15610"
+        },
+        {
+          "id": "15614"
+        },
+        {
+          "id": "15618"
+        },
+        {
+          "id": "15622"
+        },
+        {
+          "id": "15625"
+        },
+        {
+          "id": "15626"
+        },
+        {
+          "id": "15630"
+        },
+        {
+          "id": "15638"
+        },
+        {
+          "id": "15642"
+        },
+        {
+          "id": "15644"
+        },
+        {
+          "id": "15648"
+        },
+        {
+          "id": "17894"
+        },
+        {
+          "id": "17895"
+        },
+        {
+          "id": "17897"
+        },
+        {
+          "id": "17899"
+        },
+        {
+          "id": "4345"
+        },
+        {
+          "id": "4347"
+        },
+        {
+          "id": "15570"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-03T20:18:00.000Z",
+        "end": "2026-10-03T22:11:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/14",
+      "updatedAt": "2026-10-03T20:19:57.000Z",
+      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 3:05 PM will start from 7th St S & Nicollet Mall at 3:41 PM today due to mechanical issue. Previous stops will be missed",
+      "rawDescription": ""
+    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -2159,11 +2375,11 @@
         "51212",
         "56923",
         "72",
-        "73",
         "66",
         "68",
         "69",
-        "70"
+        "70",
+        "73"
       ],
       "closedStopDetails": [
         {
@@ -2236,9 +2452,6 @@
           "id": "72"
         },
         {
-          "id": "73"
-        },
-        {
           "id": "66"
         },
         {
@@ -2249,6 +2462,9 @@
         },
         {
           "id": "70"
+        },
+        {
+          "id": "73"
         }
       ],
       "riderAlternative": "Board at: Chicago Ave S & 56th St E - Stop #51212 (southbound); Chicago & 46th St Station - Stop #56923 (northbound)",
@@ -8406,6 +8622,49 @@
       "rawDescription": "Get on/off buses at:\r\n5th St Transit Center Gate B - Stop #51200 (eastbound)\r\n4th St N & Hennepin Ave - Stop #17859 (eastbound)\r\n4th St S & Marquette Ave - Stop #17861 (eastbound)\r\n8th St & 3rd/4th Ave Station - Stop #17910 (eastbound)\r\n8th St S & 5th Ave S - Stop #17911 (eastbound)\r\n8th St S & 9th Ave S - Stop #56897 (eastbound)\r\n\nEastbound buses will depart 5th St Transit Center and take a left on 2nd Ave N, right on 4th St, right on Marquette Ave, left on 8th St, right on 11th Ave and resume regular route.\r\n\nWestbound buses are not affected.\r\n\nAffected stops:\r\n6th St S & Hennepin Ave S - Stop #17881 (eastbound)\r\n6th St S & Nicollet Mall - Stop #17882 (eastbound)\r\n6th St S & 2nd Ave / 3rd Ave S - Stop #17884 (eastbound)\r\n6th St S & 5th Ave S - Stop #17885 (eastbound)\r\n6th St S & Park Ave / Chicago Ave S - Stop #17887 (eastbound)\r\n6th St S & Bud Grant Way - Stop #17888 (eastbound)\r\n6th St S & 11th Ave S - Stop #17890 (eastbound)"
     },
     {
+      "id": "53696",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 134, Route 87: Stop Closed at Cleveland Ave & Ford Pkwy",
+      "summary": "Cleveland Ave & Ford Pkwy - Stop #13095 (northbound) is closed for Routes 87 and 134 until further notice due to utility work. Board at: Cleveland Ave & Hillcrest Ave - Stop #13094 (northbound); Cleveland Ave & Pinehurst Ave - Stop #11760 (northbound).",
+      "affectedRoutes": [
+        "Route 134",
+        "Route 87"
+      ],
+      "direction": "Northbound",
+      "intersections": [
+        "Cleveland Ave & Ford Pkwy",
+        "Cleveland Ave & Hillcrest Ave",
+        "Cleveland Ave & Pinehurst Ave"
+      ],
+      "closedStopIds": [
+        "13095",
+        "13094",
+        "11760"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "13095"
+        },
+        {
+          "id": "13094"
+        },
+        {
+          "id": "11760"
+        }
+      ],
+      "riderAlternative": "Board at: Cleveland Ave & Hillcrest Ave - Stop #13094 (northbound); Cleveland Ave & Pinehurst Ave - Stop #11760 (northbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-03T20:40:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "updatedAt": "2026-10-03T20:40:57.000Z",
+      "rawHeader": "Cleveland Ave & Ford Pkwy - Stop #13095 (northbound) is closed for Routes 87 and 134 until further notice due to utility work",
+      "rawDescription": "Get on/off buses at:\r\nCleveland Ave & Hillcrest Ave - Stop #13094 (northbound)\r\nCleveland Ave & Pinehurst Ave - Stop #11760 (northbound)"
+    },
+    {
       "id": "41775",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -10241,6 +10500,142 @@
       "updatedAt": "2026-09-03T18:51:20.000Z",
       "rawHeader": "Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction",
       "rawDescription": "Updated get on/off stops 6/9 1:30 pm.\r\n\nGet on/off buses at:\r\nTemporary stop on Grove St & Lafayette Rd (eastbound)\r\nLaFayette Rd & 8th St - Stop #11925 (southbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on southbound I-35E to University Ave, continue on I-35E and exit at Wacouta St, left on 9th St, left on Broadway St, right on Grove St, right on Lafayette Rd, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nUniversity Ave & Mississippi St - Stop #56109 (eastbound)\r\nUniversity Ave & Lafayette St - Stop #57630 (eastbound)\r\nLaFayette Rd & Grove St - Stop #11923 (southbound)"
+    },
+    {
+      "id": "53698",
+      "agency": "Metro Transit",
+      "severity": "Minor",
+      "title": "METRO Blue Line: Service Advisory",
+      "summary": "Southbound Blue Line trip departing 50th St / Minnehaha Park Station at 3:54 PM delayed up to 17 minutes today due to police activity",
+      "affectedRoutes": [
+        "METRO Blue Line"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [
+        "51416",
+        "51417",
+        "51418",
+        "51419",
+        "51420",
+        "51421",
+        "51422",
+        "51405",
+        "53279"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "51416"
+        },
+        {
+          "id": "51417"
+        },
+        {
+          "id": "51418"
+        },
+        {
+          "id": "51419"
+        },
+        {
+          "id": "51420"
+        },
+        {
+          "id": "51421"
+        },
+        {
+          "id": "51422"
+        },
+        {
+          "id": "51405"
+        },
+        {
+          "id": "53279"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-03T21:10:00.000Z",
+        "end": "2026-10-03T22:14:00.000Z"
+      },
+      "cause": "POLICE_ACTIVITY",
+      "effect": "OTHER_EFFECT",
+      "url": "https://www.metrotransit.org/route/blue",
+      "updatedAt": "2026-10-03T21:10:40.000Z",
+      "rawHeader": "Southbound Blue Line trip departing 50th St / Minnehaha Park Station at 3:54 PM delayed up to 17 minutes today due to police activity",
+      "rawDescription": ""
+    },
+    {
+      "id": "53699",
+      "agency": "Metro Transit",
+      "severity": "Minor",
+      "title": "METRO Green Line: Service Advisory",
+      "summary": "Eastbound Green Line trip departing Snelling Ave Station at 3:56 PM delayed up to 16 minutes today due to police activity",
+      "affectedRoutes": [
+        "METRO Green Line"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [
+        "56008",
+        "56009",
+        "56010",
+        "56011",
+        "56012",
+        "56013",
+        "56014",
+        "56015",
+        "56016",
+        "56017",
+        "56018"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "56008"
+        },
+        {
+          "id": "56009"
+        },
+        {
+          "id": "56010"
+        },
+        {
+          "id": "56011"
+        },
+        {
+          "id": "56012"
+        },
+        {
+          "id": "56013"
+        },
+        {
+          "id": "56014"
+        },
+        {
+          "id": "56015"
+        },
+        {
+          "id": "56016"
+        },
+        {
+          "id": "56017"
+        },
+        {
+          "id": "56018"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-03T21:12:00.000Z",
+        "end": "2026-10-03T22:18:00.000Z"
+      },
+      "cause": "POLICE_ACTIVITY",
+      "effect": "OTHER_EFFECT",
+      "url": "https://www.metrotransit.org/route/green",
+      "updatedAt": "2026-10-03T21:13:54.000Z",
+      "rawHeader": "Eastbound Green Line trip departing Snelling Ave Station at 3:56 PM delayed up to 16 minutes today due to police activity",
+      "rawDescription": ""
     },
     {
       "id": "53142",
