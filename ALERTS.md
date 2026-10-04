@@ -2,35 +2,93 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-131-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-125-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-5-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-82-brightgreen)](#-routes-index)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-130-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-123-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-79-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-03T22:04:51.475Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-04T02:21:44.557Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO B Line** (1) • **METRO Blue Line** (3) • **METRO D Line** (4) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (2) • **Route 2** (3) • **Route 3** (4) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (3) • **Route 7** (5) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (4) • **Route 17** (2) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 36** (3) • **Route 38** (5) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (2) • **Route 63** (3) • **Route 64** (4) • **Route 65** (2) • **Route 67** (4) • **Route 68** (7) • **Route 68C** (2) • **Route 68D** (1) • **Route 68G** (1) • **Route 68R** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 83** (1) • **Route 87** (2) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 225** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO B Line** (1) • **METRO Blue Line** (2) • **METRO D Line** (4) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (3) • **Route 3** (4) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (3) • **Route 7** (5) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (3) • **Route 17** (2) • **Route 18** (9) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 36** (3) • **Route 38** (6) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (3) • **Route 63** (3) • **Route 64** (4) • **Route 65** (2) • **Route 67** (4) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 83** (1) • **Route 87** (2) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 225** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 14: Service Advisory
+### 🚨 Route 9: Westbound 8:36 PM Trip Canceled (46th St Station & Gate H)
 
-- **Affected Routes**: `Route 14`
-- **Direction**: Northbound
+- **Affected Routes**: `Route 9`
+- **Direction**: Westbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #777, Stop #56137, Stop #53941, Stop #51883, Stop #51884, Stop #51885, Stop #51886, Stop #53765 *(+39 more)*
 
-**Summary**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 3:05 PM will start from 7th St S & Nicollet Mall at 3:41 PM today due to mechanical issue. Previous stops will be missed
+**Summary**: Westbound Route 9 trip departing 46th St Station & Gate H at 8:36 PM canceled today due to mechanical issue
 
-[Official Agency Advisory](https://www.metrotransit.org/route/14)
+[Official Agency Advisory](https://www.metrotransit.org/route/9)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 3:05 PM will start from 7th St S & Nicollet Mall at 3:41 PM today due to mechanical issue. Previous stops will be missed
+**Header**: Westbound Route 9 trip departing 46th St Station & Gate H at 8:36 PM canceled today due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 Route 18: Northbound 8:03 PM Trip Canceled (104th St W & Bloomington Fwy W)
+
+- **Affected Routes**: `Route 18`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 8:03 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/18)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 8:03 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 38: Service Canceled
+
+- **Affected Routes**: `Route 38`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 38 trips departing Bren Rd E & Blue Circle Dr
+
+**Summary**: Route 38 trips departing Bren Rd E & Blue Circle Dr at 8:52 PM and departing Minnesota Veterans Home & Bldg 4 at 10:24 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/38)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 38 trips departing Bren Rd E & Blue Circle Dr at 8:52 PM and departing Minnesota Veterans Home & Bldg 4 at 10:24 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 62: Northbound 8:31 PM Trip Canceled (Rice St & Orange Ave)
+
+- **Affected Routes**: `Route 62`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #10505, Stop #10507, Stop #10508, Stop #45401, Stop #45402, Stop #46702, Stop #46704, Stop #46705 *(+55 more)*
+
+**Summary**: Northbound Route 62 trip departing Rice St & Orange Ave at 8:31 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/62)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 62 trip departing Rice St & Orange Ave at 8:31 PM canceled today
 
 </details>
 
@@ -4043,126 +4101,6 @@ Maryland Ave & LOrient St - Stop #40101 (westbound)
 
 ---
 
-### ⚠️ Route 68, Route 68C: Detour via 5th Ave S & 4th St S
-
-- **Affected Routes**: `Route 68` `Route 68C`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 5th Ave S & 4th St S; 5th Ave N & 3rd St N; 3rd St N & 4th Ave N; 3rd Ave N & 2nd St; 12th Ave N & 4th St N
-- **Closed Stops**: 5th Ave S & 3rd St S (Stop #9821), 5th Ave S & Southview Blvd (Stop #9822), 5th Ave N & Marie Ave (Stop #9823), Southview Blvd & 3rd Ave S (Stop #9830), Southview Blvd & 5th Ave S (Stop #9832), Southview Blvd & 7th Ave S (Stop #9834), Southview Blvd & 8th Ave S (Stop #56770), Southview Blvd & 8th Ave S (Stop #56773) *(+12 more)*
-
-**Summary**: Route 68C detoured off Southview Blvd from 9th Ave N to 2nd Ave N from 6:00 AM to 8:00 PM on Sat Oct 3 due to On the Road Again event. Board at: 5th Ave S & 4th St S - Stop #9820 (northbound); 5th Ave N & 3rd St N - Stop #9825 (northbound); 3rd St N & 4th Ave N - Stop #9826 (eastbound).
-
-> 💡 **Rider Action**: Board at: 5th Ave S & 4th St S - Stop #9820 (northbound); 5th Ave N & 3rd St N - Stop #9825 (northbound); 3rd St N & 4th Ave N - Stop #9826 (eastbound)
-
-> 🔄 **Detour Path**: buses will travel the regular route on 5th Ave S to 4th St S, right on 4th St S, left on 2nd Ave S, left on Marie Ave, right on 5th Ave N, follow the regular route on 5th Ave N, right on 3rd St N, right on Grand Ave, right on 3rd Ave N, detour right on Marie Ave, right on 9th Ave, and resume the regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/68)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 68C detoured off Southview Blvd from 9th Ave N to 2nd Ave N from 6:00 AM to 8:00 PM on Sat Oct 3 due to On the Road Again event
-
-```text
-For northbound Route 68 get on/off buses at:
-5th Ave S & 4th St S - Stop #9820 (northbound)
-5th Ave N & 3rd St N - Stop #9825 (northbound)
-3rd St N & 4th Ave N - Stop #9826 (eastbound)
-3rd Ave N & 2nd St - Stop #9827 (southbound)
-12th Ave N & 4th St N - Stop #9843 (northbound)
-
-For southbound Route 68 get on/off buses at:
-12th Ave N & 4th St N - Stop #9959 (southbound)
-5th Ave N & 3rd St N - Stop #9825 (northbound)
-3rd St N & 4th Ave N - Stop #9826 (eastbound)
-3rd Ave N & 2nd St - Stop #9827 (southbound)
-Marie Ave & 2nd Ave S - Stop #9828 (eastbound)
-2nd Ave S & Southview Blvd - Stop #9829 (southbound)
-5th Ave S & 5th St S - Stop #9966 (southbound)
-
-Northbound route 68 buses will travel the regular route on 5th Ave S to 4th St S, right on 4th St S, left on 2nd Ave S, left on Marie Ave, right on 5th Ave N, follow the regular route on 5th Ave N, right on 3rd St N, right on Grand Ave, right on 3rd Ave N, detour right on Marie Ave, right on 9th Ave, and resume the regular route.
-
-Southbound Route 68C buses will follow the regular route on 9th Ave N to Marie Ave, left on Marie Ave, left on 5th Ave N, follow the regular route on 5th Ave N, right on 3rd St N, right on Grand Ave, right on 3rd Ave N, left on Marie Ave, right on 2nd Ave S to Southview Blvd, detour continuing straight on 2nd Ave S to 4th St S, right on 4th St S, left on 5th Ave S, and resume the regular route.
-
-Affected stops:
-5th Ave S & 3rd St S - Stop #9821 (northbound)
-5th Ave S & Southview Blvd - Stop #9822 (northbound)
-5th Ave N & Marie Ave - Stop #9823 (northbound)
-Southview Blvd & 3rd Ave S - Stop #9830 (westbound)
-Southview Blvd & 5th Ave S - Stop #9832 (westbound)
-Southview Blvd & 7th Ave S - Stop #9834 (westbound)
-Southview Blvd & 8th Ave S - Stop #56770 (westbound)
-Southview Blvd & 8th Ave S - Stop #56773 (eastbound)
-Southview Blvd & 5th Ave S - Stop #9938 (eastbound)
-5th Ave S & 3rd St S - Stop #9964 (southbound)
-5th Ave S & 4th St S - Stop #9965 (southbound)
-Marie Ave & 2nd Ave S - Stop #9828 (eastbound) closed northbound only
-2nd Ave S & Southview Blvd - Stop #9829 (southbound) closed northbound only
-```
-
-</details>
-
----
-
-### ⚠️ Route 68, Route 68D, Route 68G, Route 68R: Detour via 5th Ave S & 4th St S
-
-- **Affected Routes**: `Route 68` `Route 68D` `Route 68G` `Route 68R`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 5th Ave S & 4th St S; Temporary stop 4th St S & 7th Ave S; Southview Blvd & 15th Ave S; Temporary stop 4th St S & 11th Ave S; 5th Ave S & 5th St S
-- **Closed Stops**: 5th Ave S & 3rd St S (Stop #9821), 5th Ave S & Southview Blvd (Stop #9822), Southview Blvd & 7th Ave S (Stop #9834), Southview Blvd & 8th Ave S (Stop #56770), Southview Blvd & 10th Ave S (Stop #56771), Southview Blvd & 12th Ave S (Stop #9839), Southview Blvd & 12th / 13th Ave S (Stop #9930), Southview Blvd & 11th Ave S (Stop #9932) *(+9 more)*
-
-**Summary**: Route 68D, 68G, and 68R detoured off Southview Blvd from 13th Ave S to 5th Ave S from 6:00 AM to 8:00 PM on Sat Oct 3 due to On the Road Again event. Board at: 5th Ave S & 4th St S - Stop #9820 (northbound); Temporary stop 4th St S & 7th Ave S (westbound); Temporary stop 4th S & 11th Ave S (westbound).
-
-> 💡 **Rider Action**: Board at: 5th Ave S & 4th St S - Stop #9820 (northbound); Temporary stop 4th St S & 7th Ave S (westbound); Temporary stop 4th S & 11th Ave S (westbound)
-
-> 🔄 **Detour Path**: buses will travel the regular route on 5th Ave S to 4th St S, left on 4th St S, right on 13th Ave S, left on Southview Blvd, and resume the regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/68)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 68D, 68G, and 68R detoured off Southview Blvd from 13th Ave S to 5th Ave S from 6:00 AM to 8:00 PM on Sat Oct 3 due to On the Road Again event
-
-```text
-For northbound Route 68 get on/off buses at:
-5th Ave S & 4th St S - Stop #9820 (northbound)
-Temporary stop 4th St S & 7th Ave S (westbound)
-Temporary stop 4th S & 11th Ave S (westbound)
-Southview Blvd & 15th Ave S - Stop #9862 (westbound)
-
-For southbound Route 68 get on/off buses at:
-Southview Blvd & 15th Ave S - Stop #9928 (eastbound)
-Temporary stop 4th St S & 11th Ave S (eastbound)
-Temporary stop 4th St S & 7th Ave S (eastbound)
-5th Ave S & 5th St S - Stop #9966 (southbound)
-
-Northbound Route 68R buses will travel the regular route on 5th Ave S to 4th St S, left on 4th St S, right on 13th Ave S, left on Southview Blvd, and resume the regular route.
-
-Southbound Route 68 D and 68G buses will travel the regular route on Southview Blvd to 13th Ave S, right on 13th Ave S, left on 4th St S, right on 5th Ave S, and resume the regular route.
-
-Affected stops:
-5th Ave S & 3rd St S - Stop #9821 (northbound)
-5th Ave S & Southview Blvd - Stop #9822 (northbound)
-Southview Blvd & 7th Ave S - Stop #9834 (westbound)
-Southview Blvd & 8th Ave S - Stop #56770 (westbound)
-Southview Blvd & 10th Ave S - Stop #56771 (westbound)
-Southview Blvd & 12th Ave S - Stop #9839 (westbound)
-Southview Blvd & 12th / 13th Ave S - Stop #9930 (eastbound)
-Southview Blvd & 11th Ave S - Stop #9932 (eastbound)
-Southview Blvd & 10th Ave S - Stop #56772 (eastbound)
-Southview Blvd & 8th Ave S - Stop #56773 (eastbound)
-Southview Blvd & 5th Ave S - Stop #9938 (eastbound)
-5th Ave S & 3rd St S - Stop #9964 (southbound)
-5th Ave S & 4th St S - Stop #9965 (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 71, Route 71K: Detour via Little Canada Rd & Centerville Rd
 
 - **Affected Routes**: `Route 71` `Route 71K`
@@ -5763,46 +5701,6 @@ LaFayette Rd & Grove St - Stop #11923 (southbound)
 ---
 
 ## ℹ️ Minor Advisories
-
-### ℹ️ METRO Blue Line: Service Advisory
-
-- **Affected Routes**: `METRO Blue Line`
-- **Direction**: Southbound
-- **Severity**: `Minor`
-- **Closed Stops**: Stop #51416, Stop #51417, Stop #51418, Stop #51419, Stop #51420, Stop #51421, Stop #51422, Stop #51405 *(+1 more)*
-
-**Summary**: Southbound Blue Line trip departing 50th St / Minnehaha Park Station at 3:54 PM delayed up to 17 minutes today due to police activity
-
-[Official Agency Advisory](https://www.metrotransit.org/route/blue)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Blue Line trip departing 50th St / Minnehaha Park Station at 3:54 PM delayed up to 17 minutes today due to police activity
-
-</details>
-
----
-
-### ℹ️ METRO Green Line: Service Advisory
-
-- **Affected Routes**: `METRO Green Line`
-- **Direction**: Eastbound
-- **Severity**: `Minor`
-- **Closed Stops**: Stop #56008, Stop #56009, Stop #56010, Stop #56011, Stop #56012, Stop #56013, Stop #56014, Stop #56015 *(+3 more)*
-
-**Summary**: Eastbound Green Line trip departing Snelling Ave Station at 3:56 PM delayed up to 16 minutes today due to police activity
-
-[Official Agency Advisory](https://www.metrotransit.org/route/green)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Green Line trip departing Snelling Ave Station at 3:56 PM delayed up to 16 minutes today due to police activity
-
-</details>
-
----
 
 ### ℹ️ Route 2: Service Advisory
 

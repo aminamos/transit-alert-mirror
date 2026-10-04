@@ -4,17 +4,44 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 03 Oct 2026 22:04:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 02:21:44 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 14: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/14</link>
-      <guid isPermaLink="false">Metro Transit-53694-2026-10-03T20:19:57.000Z</guid>
-      <pubDate>Sat, 03 Oct 2026 20:19:57 GMT</pubDate>
+      <title>[Critical] Route 9: Westbound 8:36 PM Trip Canceled (46th St Station &amp; Gate H)</title>
+      <link>https://www.metrotransit.org/route/9</link>
+      <guid isPermaLink="false">Metro Transit-53709-2026-10-04T01:06:00.000Z</guid>
+      <pubDate>Sun, 04 Oct 2026 01:06:00 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 14</category>
-      <description>Northbound Route 14 trip departing 66th St E &amp; Richfield Pkwy / 16th Ave at 3:05 PM will start from 7th St S &amp; Nicollet Mall at 3:41 PM today due to mechanical issue. Previous stops will be missed</description>
+      <category>Route 9</category>
+      <description>Westbound Route 9 trip departing 46th St Station &amp; Gate H at 8:36 PM canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 18: Northbound 8:03 PM Trip Canceled (104th St W &amp; Bloomington Fwy W)</title>
+      <link>https://www.metrotransit.org/route/18</link>
+      <guid isPermaLink="false">Metro Transit-53710-2026-10-04T00:49:28.000Z</guid>
+      <pubDate>Sun, 04 Oct 2026 00:49:28 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 18</category>
+      <description>Northbound Route 18 trip departing 104th St W &amp; Bloomington Fwy W at 8:03 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 38: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/38</link>
+      <guid isPermaLink="false">Metro Transit-53707-2026-10-04T01:22:01.000Z</guid>
+      <pubDate>Sun, 04 Oct 2026 01:22:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 38</category>
+      <description>Route 38 trips departing Bren Rd E &amp; Blue Circle Dr at 8:52 PM and departing Minnesota Veterans Home &amp; Bldg 4 at 10:24 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 62: Northbound 8:31 PM Trip Canceled (Rice St &amp; Orange Ave)</title>
+      <link>https://www.metrotransit.org/route/62</link>
+      <guid isPermaLink="false">Metro Transit-53711-2026-10-04T01:40:08.000Z</guid>
+      <pubDate>Sun, 04 Oct 2026 01:40:08 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 62</category>
+      <description>Northbound Route 62 trip departing Rice St &amp; Orange Ave at 8:31 PM canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -791,24 +818,6 @@
       <description>Southbound Route 68 detoured off Jackson St from Larpenteur Ave to Maryland Ave and off Timberlake Rd beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Larpenteur Ave &amp; Jackson St - Stop #49947 (eastbound); Temporary stop on Arlington at Klainert St (westbound); Jackson St &amp; Rose Ave E - Stop #56323 (southbound). | Action: Board at: Larpenteur Ave &amp; Jackson St - Stop #49947 (eastbound); Temporary stop on Arlington at Klainert St (westbound); Jackson St &amp; Rose Ave E - Stop #56323 (southbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 68, Route 68C: Detour via 5th Ave S &amp; 4th St S</title>
-      <link>https://www.metrotransit.org/route/68</link>
-      <guid isPermaLink="false">Metro Transit-53435-2026-10-03T10:30:01.000Z</guid>
-      <pubDate>Sat, 03 Oct 2026 10:30:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 68, Route 68C</category>
-      <description>Route 68C detoured off Southview Blvd from 9th Ave N to 2nd Ave N from 6:00 AM to 8:00 PM on Sat Oct 3 due to On the Road Again event. Board at: 5th Ave S &amp; 4th St S - Stop #9820 (northbound); 5th Ave N &amp; 3rd St N - Stop #9825 (northbound); 3rd St N &amp; 4th Ave N - Stop #9826 (eastbound). | Action: Board at: 5th Ave S &amp; 4th St S - Stop #9820 (northbound); 5th Ave N &amp; 3rd St N - Stop #9825 (northbound); 3rd St N &amp; 4th Ave N - Stop #9826 (eastbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 68, Route 68D, Route 68G, Route 68R: Detour via 5th Ave S &amp; 4th St S</title>
-      <link>https://www.metrotransit.org/route/68</link>
-      <guid isPermaLink="false">Metro Transit-53436-2026-10-03T10:30:02.000Z</guid>
-      <pubDate>Sat, 03 Oct 2026 10:30:02 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 68, Route 68D, Route 68G, Route 68R</category>
-      <description>Route 68D, 68G, and 68R detoured off Southview Blvd from 13th Ave S to 5th Ave S from 6:00 AM to 8:00 PM on Sat Oct 3 due to On the Road Again event. Board at: 5th Ave S &amp; 4th St S - Stop #9820 (northbound); Temporary stop 4th St S &amp; 7th Ave S (westbound); Temporary stop 4th S &amp; 11th Ave S (westbound). | Action: Board at: 5th Ave S &amp; 4th St S - Stop #9820 (northbound); Temporary stop 4th St S &amp; 7th Ave S (westbound); Temporary stop 4th S &amp; 11th Ave S (westbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 71, Route 71K: Detour via Little Canada Rd &amp; Centerville Rd</title>
       <link>https://www.metrotransit.org/route/71</link>
       <guid isPermaLink="false">Metro Transit-53105-2026-09-28T13:56:01.000Z</guid>
@@ -1140,24 +1149,6 @@
       <category>Moderate</category>
       <category>Route 860</category>
       <description>Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction. Board at: Temporary stop on Grove St &amp; Lafayette Rd (eastbound); LaFayette Rd &amp; 8th St - Stop #11925 (southbound). | Action: Board at: Temporary stop on Grove St &amp; Lafayette Rd (eastbound); LaFayette Rd &amp; 8th St - Stop #11925 (southbound)</description>
-    </item>
-    <item>
-      <title>[Minor] METRO Blue Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/blue</link>
-      <guid isPermaLink="false">Metro Transit-53698-2026-10-03T21:10:40.000Z</guid>
-      <pubDate>Sat, 03 Oct 2026 21:10:40 GMT</pubDate>
-      <category>Minor</category>
-      <category>METRO Blue Line</category>
-      <description>Southbound Blue Line trip departing 50th St / Minnehaha Park Station at 3:54 PM delayed up to 17 minutes today due to police activity</description>
-    </item>
-    <item>
-      <title>[Minor] METRO Green Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/green</link>
-      <guid isPermaLink="false">Metro Transit-53699-2026-10-03T21:13:54.000Z</guid>
-      <pubDate>Sat, 03 Oct 2026 21:13:54 GMT</pubDate>
-      <category>Minor</category>
-      <category>METRO Green Line</category>
-      <description>Eastbound Green Line trip departing Snelling Ave Station at 3:56 PM delayed up to 16 minutes today due to police activity</description>
     </item>
     <item>
       <title>[Minor] Route 2: Service Advisory</title>

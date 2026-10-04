@@ -1,230 +1,374 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-03T22:04:51.475Z",
-    "totalAlerts": 131,
-    "criticalCount": 1,
-    "moderateCount": 125,
-    "minorCount": 5,
-    "affectedRoutesCount": 82,
+    "generatedAt": "2026-10-04T02:21:44.557Z",
+    "totalAlerts": 130,
+    "criticalCount": 4,
+    "moderateCount": 123,
+    "minorCount": 3,
+    "affectedRoutesCount": 79,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "53694",
+      "id": "53709",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 14: Service Advisory",
-      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 3:05 PM will start from 7th St S & Nicollet Mall at 3:41 PM today due to mechanical issue. Previous stops will be missed",
+      "title": "Route 9: Westbound 8:36 PM Trip Canceled (46th St Station & Gate H)",
+      "summary": "Westbound Route 9 trip departing 46th St Station & Gate H at 8:36 PM canceled today due to mechanical issue",
       "affectedRoutes": [
-        "Route 14"
+        "Route 9"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-04T01:36:00.000Z",
+        "end": "2026-10-04T03:45:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/9",
+      "updatedAt": "2026-10-04T01:06:00.000Z",
+      "rawHeader": "Westbound Route 9 trip departing 46th St Station & Gate H at 8:36 PM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "53710",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 18: Northbound 8:03 PM Trip Canceled (104th St W & Bloomington Fwy W)",
+      "summary": "Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 8:03 PM canceled today",
+      "affectedRoutes": [
+        "Route 18"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-04T01:03:00.000Z",
+        "end": "2026-10-04T03:12:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/18",
+      "updatedAt": "2026-10-04T00:49:28.000Z",
+      "rawHeader": "Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 8:03 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "53707",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 38: Service Canceled",
+      "summary": "Route 38 trips departing Bren Rd E & Blue Circle Dr at 8:52 PM and departing Minnesota Veterans Home & Bldg 4 at 10:24 PM canceled today",
+      "affectedRoutes": [
+        "Route 38"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 38 trips departing Bren Rd E & Blue Circle Dr"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-04T01:52:00.000Z",
+        "end": "2026-10-04T05:32:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/38",
+      "updatedAt": "2026-10-04T01:22:01.000Z",
+      "rawHeader": "Route 38 trips departing Bren Rd E & Blue Circle Dr at 8:52 PM and departing Minnesota Veterans Home & Bldg 4 at 10:24 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "53711",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 62: Northbound 8:31 PM Trip Canceled (Rice St & Orange Ave)",
+      "summary": "Northbound Route 62 trip departing Rice St & Orange Ave at 8:31 PM canceled today",
+      "affectedRoutes": [
+        "Route 62"
       ],
       "direction": "Northbound",
       "intersections": [],
       "closedStopIds": [
-        "777",
-        "56137",
-        "53941",
-        "51883",
-        "51884",
-        "51885",
-        "51886",
-        "53765",
-        "51836",
-        "51838",
-        "17901",
-        "17902",
-        "738",
-        "740",
-        "743",
-        "765",
-        "767",
-        "775",
-        "15581",
-        "15582",
-        "15578",
-        "15574",
-        "15586",
-        "15590",
-        "15594",
-        "15598",
-        "15602",
-        "15605",
-        "15606",
-        "15610",
-        "15614",
-        "15618",
-        "15622",
-        "15625",
-        "15626",
-        "15630",
-        "15638",
-        "15642",
-        "15644",
-        "15648",
-        "17894",
-        "17895",
-        "17897",
-        "17899",
-        "4345",
-        "4347",
-        "15570"
+        "10505",
+        "10507",
+        "10508",
+        "45401",
+        "45402",
+        "46702",
+        "46704",
+        "46705",
+        "46707",
+        "46708",
+        "46709",
+        "46710",
+        "46711",
+        "46712",
+        "46713",
+        "46715",
+        "46716",
+        "46718",
+        "46720",
+        "46721",
+        "46723",
+        "46786",
+        "46812",
+        "46813",
+        "46814",
+        "46815",
+        "46816",
+        "46817",
+        "46818",
+        "46819",
+        "46820",
+        "46978",
+        "46979",
+        "46980",
+        "46981",
+        "46982",
+        "46983",
+        "46984",
+        "46985",
+        "46986",
+        "46987",
+        "46988",
+        "46990",
+        "46992",
+        "47427",
+        "49137",
+        "49138",
+        "49139",
+        "49141",
+        "49142",
+        "49179",
+        "50574",
+        "49290",
+        "56096",
+        "53138",
+        "52555",
+        "53167",
+        "50674",
+        "56465",
+        "45189",
+        "45190",
+        "45191",
+        "45305"
       ],
       "closedStopDetails": [
         {
-          "id": "777"
+          "id": "10505"
         },
         {
-          "id": "56137"
+          "id": "10507"
         },
         {
-          "id": "53941"
+          "id": "10508"
         },
         {
-          "id": "51883"
+          "id": "45401"
         },
         {
-          "id": "51884"
+          "id": "45402"
         },
         {
-          "id": "51885"
+          "id": "46702"
         },
         {
-          "id": "51886"
+          "id": "46704"
         },
         {
-          "id": "53765"
+          "id": "46705"
         },
         {
-          "id": "51836"
+          "id": "46707"
         },
         {
-          "id": "51838"
+          "id": "46708"
         },
         {
-          "id": "17901"
+          "id": "46709"
         },
         {
-          "id": "17902"
+          "id": "46710"
         },
         {
-          "id": "738"
+          "id": "46711"
         },
         {
-          "id": "740"
+          "id": "46712"
         },
         {
-          "id": "743"
+          "id": "46713"
         },
         {
-          "id": "765"
+          "id": "46715"
         },
         {
-          "id": "767"
+          "id": "46716"
         },
         {
-          "id": "775"
+          "id": "46718"
         },
         {
-          "id": "15581"
+          "id": "46720"
         },
         {
-          "id": "15582"
+          "id": "46721"
         },
         {
-          "id": "15578"
+          "id": "46723"
         },
         {
-          "id": "15574"
+          "id": "46786"
         },
         {
-          "id": "15586"
+          "id": "46812"
         },
         {
-          "id": "15590"
+          "id": "46813"
         },
         {
-          "id": "15594"
+          "id": "46814"
         },
         {
-          "id": "15598"
+          "id": "46815"
         },
         {
-          "id": "15602"
+          "id": "46816"
         },
         {
-          "id": "15605"
+          "id": "46817"
         },
         {
-          "id": "15606"
+          "id": "46818"
         },
         {
-          "id": "15610"
+          "id": "46819"
         },
         {
-          "id": "15614"
+          "id": "46820"
         },
         {
-          "id": "15618"
+          "id": "46978"
         },
         {
-          "id": "15622"
+          "id": "46979"
         },
         {
-          "id": "15625"
+          "id": "46980"
         },
         {
-          "id": "15626"
+          "id": "46981"
         },
         {
-          "id": "15630"
+          "id": "46982"
         },
         {
-          "id": "15638"
+          "id": "46983"
         },
         {
-          "id": "15642"
+          "id": "46984"
         },
         {
-          "id": "15644"
+          "id": "46985"
         },
         {
-          "id": "15648"
+          "id": "46986"
         },
         {
-          "id": "17894"
+          "id": "46987"
         },
         {
-          "id": "17895"
+          "id": "46988"
         },
         {
-          "id": "17897"
+          "id": "46990"
         },
         {
-          "id": "17899"
+          "id": "46992"
         },
         {
-          "id": "4345"
+          "id": "47427"
         },
         {
-          "id": "4347"
+          "id": "49137"
         },
         {
-          "id": "15570"
+          "id": "49138"
+        },
+        {
+          "id": "49139"
+        },
+        {
+          "id": "49141"
+        },
+        {
+          "id": "49142"
+        },
+        {
+          "id": "49179"
+        },
+        {
+          "id": "50574"
+        },
+        {
+          "id": "49290"
+        },
+        {
+          "id": "56096"
+        },
+        {
+          "id": "53138"
+        },
+        {
+          "id": "52555"
+        },
+        {
+          "id": "53167"
+        },
+        {
+          "id": "50674"
+        },
+        {
+          "id": "56465"
+        },
+        {
+          "id": "45189"
+        },
+        {
+          "id": "45190"
+        },
+        {
+          "id": "45191"
+        },
+        {
+          "id": "45305"
         }
       ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-03T20:18:00.000Z",
-        "end": "2026-10-03T22:11:00.000Z"
+        "start": "2026-10-04T01:38:00.000Z",
+        "end": "2026-10-04T02:43:00.000Z"
       },
-      "cause": "TECHNICAL_PROBLEM",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/14",
-      "updatedAt": "2026-10-03T20:19:57.000Z",
-      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 3:05 PM will start from 7th St S & Nicollet Mall at 3:41 PM today due to mechanical issue. Previous stops will be missed",
+      "url": "https://www.metrotransit.org/route/62",
+      "updatedAt": "2026-10-04T01:40:08.000Z",
+      "rawHeader": "Northbound Route 62 trip departing Rice St & Orange Ave at 8:31 PM canceled today",
       "rawDescription": ""
     },
     {
@@ -2129,9 +2273,9 @@
         "17928",
         "17931",
         "177",
-        "102",
         "103",
-        "104"
+        "104",
+        "102"
       ],
       "closedStopDetails": [
         {
@@ -2279,13 +2423,13 @@
           "id": "177"
         },
         {
-          "id": "102"
-        },
-        {
           "id": "103"
         },
         {
           "id": "104"
+        },
+        {
+          "id": "102"
         }
       ],
       "riderAlternative": "Board at: Lyndale & 24th - Stop #175; Temporary stop on 24th & Nicollet; Nicollet & Franklin - Stop #1905",
@@ -2374,12 +2518,12 @@
         "56919",
         "51212",
         "56923",
+        "73",
         "72",
         "66",
         "68",
         "69",
-        "70",
-        "73"
+        "70"
       ],
       "closedStopDetails": [
         {
@@ -2449,6 +2593,9 @@
           "id": "56923"
         },
         {
+          "id": "73"
+        },
+        {
           "id": "72"
         },
         {
@@ -2462,9 +2609,6 @@
         },
         {
           "id": "70"
-        },
-        {
-          "id": "73"
         }
       ],
       "riderAlternative": "Board at: Chicago Ave S & 56th St E - Stop #51212 (southbound); Chicago & 46th St Station - Stop #56923 (northbound)",
@@ -7446,278 +7590,6 @@
       "rawDescription": "Updated detour routing, affected stops, and get on/off stops on 10/1 at 9AM.\r\n\nGet on/off buses at:\r\nLarpenteur Ave & Jackson St - Stop #49947 (eastbound)\r\nTemporary stop on Arlington at Klainert St (westbound)\r\nJackson St & Rose Ave E - Stop #56323 (southbound)\r\n\nSouthbound buses that depart from Hwy 36 and Rice St Park & Ride will travel regular route on Larpenteur Ave to Jackson St, continue on Larpenteur Ave to L'Orient St, right on L'Orient St, right on Arlington Ave, left on Rice St, left on Maryland Ave, left on Jackson St, and resume the regular route.\r\n\nNorthbound buses will follow regular route.\r\n\nAffected stops:\r\nJackson St & Wheelock Pkwy - Stop #49677 (southbound)\r\nTimberlake Rd N & #1581 - Stop #18095 (eastbound)\r\nTimberlake Rd & Biglow Lane (N) - Stop #18096 (southbound)\r\nTimberlake Rd N & Klainert St - Stop #18098 (southbound)\r\nTimberlake Rd S & #1479 - Stop #43773 (westbound)\r\nArlington Ave E & Jackson St - Stop #40095 (eastbound)\r\nArlington Ave E & #179 - Stop #51606 (eastbound)\r\nArlington Ave E & LOrient St - Stop #40108 (eastbound)\r\nLOrient St & #1301 - Stop #49948 (southbound)\r\nLOrient St & Kmart - Stop #49949 (southbound)\r\nMaryland Ave & LOrient St - Stop #40101 (westbound)"
     },
     {
-      "id": "53435",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 68, Route 68C: Detour via 5th Ave S & 4th St S",
-      "summary": "Route 68C detoured off Southview Blvd from 9th Ave N to 2nd Ave N from 6:00 AM to 8:00 PM on Sat Oct 3 due to On the Road Again event. Board at: 5th Ave S & 4th St S - Stop #9820 (northbound); 5th Ave N & 3rd St N - Stop #9825 (northbound); 3rd St N & 4th Ave N - Stop #9826 (eastbound).",
-      "affectedRoutes": [
-        "Route 68",
-        "Route 68C"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "5th Ave S & 4th St S",
-        "5th Ave N & 3rd St N",
-        "3rd St N & 4th Ave N",
-        "3rd Ave N & 2nd St",
-        "12th Ave N & 4th St N"
-      ],
-      "closedStopIds": [
-        "9821",
-        "9822",
-        "9823",
-        "9830",
-        "9832",
-        "9834",
-        "56770",
-        "56773",
-        "9938",
-        "9964",
-        "9965",
-        "9828",
-        "9829",
-        "9820",
-        "9825",
-        "9826",
-        "9827",
-        "9843",
-        "9959",
-        "9966"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "9821",
-          "name": "5th Ave S & 3rd St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "9822",
-          "name": "5th Ave S & Southview Blvd",
-          "direction": "northbound"
-        },
-        {
-          "id": "9823",
-          "name": "5th Ave N & Marie Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "9830",
-          "name": "Southview Blvd & 3rd Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "9832",
-          "name": "Southview Blvd & 5th Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "9834",
-          "name": "Southview Blvd & 7th Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "56770",
-          "name": "Southview Blvd & 8th Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "56773",
-          "name": "Southview Blvd & 8th Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "9938",
-          "name": "Southview Blvd & 5th Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "9964",
-          "name": "5th Ave S & 3rd St S",
-          "direction": "southbound"
-        },
-        {
-          "id": "9965",
-          "name": "5th Ave S & 4th St S",
-          "direction": "southbound"
-        },
-        {
-          "id": "9828",
-          "name": "Marie Ave & 2nd Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "9829",
-          "name": "2nd Ave S & Southview Blvd",
-          "direction": "southbound"
-        },
-        {
-          "id": "9820"
-        },
-        {
-          "id": "9825"
-        },
-        {
-          "id": "9826"
-        },
-        {
-          "id": "9827"
-        },
-        {
-          "id": "9843"
-        },
-        {
-          "id": "9959"
-        },
-        {
-          "id": "9966"
-        }
-      ],
-      "riderAlternative": "Board at: 5th Ave S & 4th St S - Stop #9820 (northbound); 5th Ave N & 3rd St N - Stop #9825 (northbound); 3rd St N & 4th Ave N - Stop #9826 (eastbound)",
-      "detourDetails": "buses will travel the regular route on 5th Ave S to 4th St S, right on 4th St S, left on 2nd Ave S, left on Marie Ave, right on 5th Ave N, follow the regular route on 5th Ave N, right on 3rd St N, right on Grand Ave, right on 3rd Ave N, detour right on Marie Ave, right on 9th Ave, and resume the regular route.",
-      "activePeriod": {
-        "start": "2026-10-03T11:00:00.000Z",
-        "end": "2026-10-04T01:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/68",
-      "updatedAt": "2026-10-03T10:30:01.000Z",
-      "rawHeader": "Route 68C detoured off Southview Blvd from 9th Ave N to 2nd Ave N from 6:00 AM to 8:00 PM on Sat Oct 3 due to On the Road Again event",
-      "rawDescription": "For northbound Route 68 get on/off buses at:\r\n5th Ave S & 4th St S - Stop #9820 (northbound)\r\n5th Ave N & 3rd St N - Stop #9825 (northbound)\r\n3rd St N & 4th Ave N - Stop #9826 (eastbound)\r\n3rd Ave N & 2nd St - Stop #9827 (southbound)\r\n12th Ave N & 4th St N - Stop #9843 (northbound)\r\n\nFor southbound Route 68 get on/off buses at:\r\n12th Ave N & 4th St N - Stop #9959 (southbound)\r\n5th Ave N & 3rd St N - Stop #9825 (northbound)\r\n3rd St N & 4th Ave N - Stop #9826 (eastbound)\r\n3rd Ave N & 2nd St - Stop #9827 (southbound)\r\nMarie Ave & 2nd Ave S - Stop #9828 (eastbound)\r\n2nd Ave S & Southview Blvd - Stop #9829 (southbound)\r\n5th Ave S & 5th St S - Stop #9966 (southbound)\r\n\nNorthbound route 68 buses will travel the regular route on 5th Ave S to 4th St S, right on 4th St S, left on 2nd Ave S, left on Marie Ave, right on 5th Ave N, follow the regular route on 5th Ave N, right on 3rd St N, right on Grand Ave, right on 3rd Ave N, detour right on Marie Ave, right on 9th Ave, and resume the regular route.\r\n\nSouthbound Route 68C buses will follow the regular route on 9th Ave N to Marie Ave, left on Marie Ave, left on 5th Ave N, follow the regular route on 5th Ave N, right on 3rd St N, right on Grand Ave, right on 3rd Ave N, left on Marie Ave, right on 2nd Ave S to Southview Blvd, detour continuing straight on 2nd Ave S to 4th St S, right on 4th St S, left on 5th Ave S, and resume the regular route.\r\n\nAffected stops:\r\n5th Ave S & 3rd St S - Stop #9821 (northbound)\r\n5th Ave S & Southview Blvd - Stop #9822 (northbound)\r\n5th Ave N & Marie Ave - Stop #9823 (northbound)\r\nSouthview Blvd & 3rd Ave S - Stop #9830 (westbound)\r\nSouthview Blvd & 5th Ave S - Stop #9832 (westbound)\r\nSouthview Blvd & 7th Ave S - Stop #9834 (westbound)\r\nSouthview Blvd & 8th Ave S - Stop #56770 (westbound)\r\nSouthview Blvd & 8th Ave S - Stop #56773 (eastbound)\r\nSouthview Blvd & 5th Ave S - Stop #9938 (eastbound)\r\n5th Ave S & 3rd St S - Stop #9964 (southbound)\r\n5th Ave S & 4th St S - Stop #9965 (southbound)\r\nMarie Ave & 2nd Ave S - Stop #9828 (eastbound) closed northbound only\r\n2nd Ave S & Southview Blvd - Stop #9829 (southbound) closed northbound only"
-    },
-    {
-      "id": "53436",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 68, Route 68D, Route 68G, Route 68R: Detour via 5th Ave S & 4th St S",
-      "summary": "Route 68D, 68G, and 68R detoured off Southview Blvd from 13th Ave S to 5th Ave S from 6:00 AM to 8:00 PM on Sat Oct 3 due to On the Road Again event. Board at: 5th Ave S & 4th St S - Stop #9820 (northbound); Temporary stop 4th St S & 7th Ave S (westbound); Temporary stop 4th S & 11th Ave S (westbound).",
-      "affectedRoutes": [
-        "Route 68",
-        "Route 68D",
-        "Route 68G",
-        "Route 68R"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "5th Ave S & 4th St S",
-        "Temporary stop 4th St S & 7th Ave S",
-        "Southview Blvd & 15th Ave S",
-        "Temporary stop 4th St S & 11th Ave S",
-        "5th Ave S & 5th St S"
-      ],
-      "closedStopIds": [
-        "9821",
-        "9822",
-        "9834",
-        "56770",
-        "56771",
-        "9839",
-        "9930",
-        "9932",
-        "56772",
-        "56773",
-        "9938",
-        "9964",
-        "9965",
-        "9820",
-        "9862",
-        "9928",
-        "9966"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "9821",
-          "name": "5th Ave S & 3rd St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "9822",
-          "name": "5th Ave S & Southview Blvd",
-          "direction": "northbound"
-        },
-        {
-          "id": "9834",
-          "name": "Southview Blvd & 7th Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "56770",
-          "name": "Southview Blvd & 8th Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "56771",
-          "name": "Southview Blvd & 10th Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "9839",
-          "name": "Southview Blvd & 12th Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "9930",
-          "name": "Southview Blvd & 12th / 13th Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "9932",
-          "name": "Southview Blvd & 11th Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "56772",
-          "name": "Southview Blvd & 10th Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "56773",
-          "name": "Southview Blvd & 8th Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "9938",
-          "name": "Southview Blvd & 5th Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "9964",
-          "name": "5th Ave S & 3rd St S",
-          "direction": "southbound"
-        },
-        {
-          "id": "9965",
-          "name": "5th Ave S & 4th St S",
-          "direction": "southbound"
-        },
-        {
-          "id": "9820"
-        },
-        {
-          "id": "9862"
-        },
-        {
-          "id": "9928"
-        },
-        {
-          "id": "9966"
-        }
-      ],
-      "riderAlternative": "Board at: 5th Ave S & 4th St S - Stop #9820 (northbound); Temporary stop 4th St S & 7th Ave S (westbound); Temporary stop 4th S & 11th Ave S (westbound)",
-      "detourDetails": "buses will travel the regular route on 5th Ave S to 4th St S, left on 4th St S, right on 13th Ave S, left on Southview Blvd, and resume the regular route.",
-      "activePeriod": {
-        "start": "2026-10-03T11:00:00.000Z",
-        "end": "2026-10-04T01:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/68",
-      "updatedAt": "2026-10-03T10:30:02.000Z",
-      "rawHeader": "Route 68D, 68G, and 68R detoured off Southview Blvd from 13th Ave S to 5th Ave S from 6:00 AM to 8:00 PM on Sat Oct 3 due to On the Road Again event",
-      "rawDescription": "For northbound Route 68 get on/off buses at:\r\n5th Ave S & 4th St S - Stop #9820 (northbound)\r\nTemporary stop 4th St S & 7th Ave S (westbound)\r\nTemporary stop 4th S & 11th Ave S (westbound)\r\nSouthview Blvd & 15th Ave S - Stop #9862 (westbound)\r\n\nFor southbound Route 68 get on/off buses at:\r\nSouthview Blvd & 15th Ave S - Stop #9928 (eastbound)\r\nTemporary stop 4th St S & 11th Ave S (eastbound)\r\nTemporary stop 4th St S & 7th Ave S (eastbound)\r\n5th Ave S & 5th St S - Stop #9966 (southbound)\r\n\nNorthbound Route 68R buses will travel the regular route on 5th Ave S to 4th St S, left on 4th St S, right on 13th Ave S, left on Southview Blvd, and resume the regular route.\r\n\nSouthbound Route 68 D and 68G buses will travel the regular route on Southview Blvd to 13th Ave S, right on 13th Ave S, left on 4th St S, right on 5th Ave S, and resume the regular route.\r\n\nAffected stops:\r\n5th Ave S & 3rd St S - Stop #9821 (northbound)\r\n5th Ave S & Southview Blvd - Stop #9822 (northbound)\r\nSouthview Blvd & 7th Ave S - Stop #9834 (westbound)\r\nSouthview Blvd & 8th Ave S - Stop #56770 (westbound)\r\nSouthview Blvd & 10th Ave S - Stop #56771 (westbound)\r\nSouthview Blvd & 12th Ave S - Stop #9839 (westbound)\r\nSouthview Blvd & 12th / 13th Ave S - Stop #9930 (eastbound)\r\nSouthview Blvd & 11th Ave S - Stop #9932 (eastbound)\r\nSouthview Blvd & 10th Ave S - Stop #56772 (eastbound)\r\nSouthview Blvd & 8th Ave S - Stop #56773 (eastbound)\r\nSouthview Blvd & 5th Ave S - Stop #9938 (eastbound)\r\n5th Ave S & 3rd St S - Stop #9964 (southbound)\r\n5th Ave S & 4th St S - Stop #9965 (southbound)"
-    },
-    {
       "id": "53105",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -10500,142 +10372,6 @@
       "updatedAt": "2026-09-03T18:51:20.000Z",
       "rawHeader": "Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction",
       "rawDescription": "Updated get on/off stops 6/9 1:30 pm.\r\n\nGet on/off buses at:\r\nTemporary stop on Grove St & Lafayette Rd (eastbound)\r\nLaFayette Rd & 8th St - Stop #11925 (southbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on southbound I-35E to University Ave, continue on I-35E and exit at Wacouta St, left on 9th St, left on Broadway St, right on Grove St, right on Lafayette Rd, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nUniversity Ave & Mississippi St - Stop #56109 (eastbound)\r\nUniversity Ave & Lafayette St - Stop #57630 (eastbound)\r\nLaFayette Rd & Grove St - Stop #11923 (southbound)"
-    },
-    {
-      "id": "53698",
-      "agency": "Metro Transit",
-      "severity": "Minor",
-      "title": "METRO Blue Line: Service Advisory",
-      "summary": "Southbound Blue Line trip departing 50th St / Minnehaha Park Station at 3:54 PM delayed up to 17 minutes today due to police activity",
-      "affectedRoutes": [
-        "METRO Blue Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [
-        "51416",
-        "51417",
-        "51418",
-        "51419",
-        "51420",
-        "51421",
-        "51422",
-        "51405",
-        "53279"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "51416"
-        },
-        {
-          "id": "51417"
-        },
-        {
-          "id": "51418"
-        },
-        {
-          "id": "51419"
-        },
-        {
-          "id": "51420"
-        },
-        {
-          "id": "51421"
-        },
-        {
-          "id": "51422"
-        },
-        {
-          "id": "51405"
-        },
-        {
-          "id": "53279"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-03T21:10:00.000Z",
-        "end": "2026-10-03T22:14:00.000Z"
-      },
-      "cause": "POLICE_ACTIVITY",
-      "effect": "OTHER_EFFECT",
-      "url": "https://www.metrotransit.org/route/blue",
-      "updatedAt": "2026-10-03T21:10:40.000Z",
-      "rawHeader": "Southbound Blue Line trip departing 50th St / Minnehaha Park Station at 3:54 PM delayed up to 17 minutes today due to police activity",
-      "rawDescription": ""
-    },
-    {
-      "id": "53699",
-      "agency": "Metro Transit",
-      "severity": "Minor",
-      "title": "METRO Green Line: Service Advisory",
-      "summary": "Eastbound Green Line trip departing Snelling Ave Station at 3:56 PM delayed up to 16 minutes today due to police activity",
-      "affectedRoutes": [
-        "METRO Green Line"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [
-        "56008",
-        "56009",
-        "56010",
-        "56011",
-        "56012",
-        "56013",
-        "56014",
-        "56015",
-        "56016",
-        "56017",
-        "56018"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "56008"
-        },
-        {
-          "id": "56009"
-        },
-        {
-          "id": "56010"
-        },
-        {
-          "id": "56011"
-        },
-        {
-          "id": "56012"
-        },
-        {
-          "id": "56013"
-        },
-        {
-          "id": "56014"
-        },
-        {
-          "id": "56015"
-        },
-        {
-          "id": "56016"
-        },
-        {
-          "id": "56017"
-        },
-        {
-          "id": "56018"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-03T21:12:00.000Z",
-        "end": "2026-10-03T22:18:00.000Z"
-      },
-      "cause": "POLICE_ACTIVITY",
-      "effect": "OTHER_EFFECT",
-      "url": "https://www.metrotransit.org/route/green",
-      "updatedAt": "2026-10-03T21:13:54.000Z",
-      "rawHeader": "Eastbound Green Line trip departing Snelling Ave Station at 3:56 PM delayed up to 16 minutes today due to police activity",
-      "rawDescription": ""
     },
     {
       "id": "53142",
