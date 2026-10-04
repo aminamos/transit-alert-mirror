@@ -1,430 +1,24 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-04T15:07:07.362Z",
-    "totalAlerts": 129,
-    "criticalCount": 11,
-    "moderateCount": 115,
+    "generatedAt": "2026-10-04T19:00:28.765Z",
+    "totalAlerts": 120,
+    "criticalCount": 12,
+    "moderateCount": 105,
     "minorCount": 3,
-    "affectedRoutesCount": 78,
+    "affectedRoutesCount": 77,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "53720",
+      "id": "53756",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO D Line: Northbound 8:34 AM Trip Canceled (MOA Transit Station Gate A)",
-      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 8:34 AM canceled today",
+      "title": "METRO A Line: Service Canceled",
+      "summary": "A Line trip departing 46th St Station Gate A at 1:15 PM and two other trips canceled today due to medical emergency",
       "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-04T13:39:00.000Z",
-        "end": "2026-10-04T15:39:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-10-04T13:39:25.000Z",
-      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 8:34 AM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "53722",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO D Line: Northbound 8:57 AM Trip Canceled (MOA Transit Station Gate A)",
-      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 8:57 AM canceled today due to traffic",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-04T14:21:00.000Z",
-        "end": "2026-10-04T16:03:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-10-04T14:21:39.000Z",
-      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 8:57 AM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "53723",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO D Line: Northbound 9:38 AM Trip Canceled (MOA Transit Station Gate A)",
-      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 9:38 AM canceled today due to traffic",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-04T14:38:00.000Z",
-        "end": "2026-10-04T16:46:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-10-04T14:24:32.000Z",
-      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 9:38 AM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "53724",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO E Line: Southbound 9:59 AM Trip Canceled (Westgate Station - Gate A)",
-      "summary": "Southbound E Line trip departing Westgate Station - Gate A at 9:59 AM canceled today due to traffic",
-      "affectedRoutes": [
-        "METRO E Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-04T14:59:00.000Z",
-        "end": "2026-10-04T16:55:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-10-04T14:31:17.000Z",
-      "rawHeader": "Southbound E Line trip departing Westgate Station - Gate A at 9:59 AM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "53725",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO E Line: Southbound 9:47 AM Trip Canceled (Westgate Station - Gate A)",
-      "summary": "Southbound E Line trip departing Westgate Station - Gate A at 9:47 AM canceled today due to traffic",
-      "affectedRoutes": [
-        "METRO E Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-04T14:47:00.000Z",
-        "end": "2026-10-04T16:42:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-10-04T14:32:16.000Z",
-      "rawHeader": "Southbound E Line trip departing Westgate Station - Gate A at 9:47 AM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "53726",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO E Line: Northbound 9:04 AM Trip Canceled (Southdale Transit Center - Gate A)",
-      "summary": "Northbound E Line trip departing Southdale Transit Center - Gate A at 9:04 AM canceled today due to traffic",
-      "affectedRoutes": [
-        "METRO E Line"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-04T14:32:00.000Z",
-        "end": "2026-10-04T15:56:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-10-04T14:32:51.000Z",
-      "rawHeader": "Northbound E Line trip departing Southdale Transit Center - Gate A at 9:04 AM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "53727",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO E Line: Northbound 9:00 AM Trip Canceled (Uptown Transit Station - Gate B)",
-      "summary": "Northbound E Line trip departing Uptown Transit Station - Gate B at 9:00 AM canceled today due to traffic",
-      "affectedRoutes": [
-        "METRO E Line"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [
-        "53099",
-        "17947",
-        "17948",
-        "16142",
-        "16143",
-        "16566",
-        "17951",
-        "57541",
-        "50195",
-        "17941",
-        "17944",
-        "15882",
-        "16130",
-        "16136",
-        "16137",
-        "17936",
-        "15792",
-        "1327",
-        "1330",
-        "15477",
-        "12281"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "53099"
-        },
-        {
-          "id": "17947"
-        },
-        {
-          "id": "17948"
-        },
-        {
-          "id": "16142"
-        },
-        {
-          "id": "16143"
-        },
-        {
-          "id": "16566"
-        },
-        {
-          "id": "17951"
-        },
-        {
-          "id": "57541"
-        },
-        {
-          "id": "50195"
-        },
-        {
-          "id": "17941"
-        },
-        {
-          "id": "17944"
-        },
-        {
-          "id": "15882"
-        },
-        {
-          "id": "16130"
-        },
-        {
-          "id": "16136"
-        },
-        {
-          "id": "16137"
-        },
-        {
-          "id": "17936"
-        },
-        {
-          "id": "15792"
-        },
-        {
-          "id": "1327"
-        },
-        {
-          "id": "1330"
-        },
-        {
-          "id": "15477"
-        },
-        {
-          "id": "12281"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-04T14:34:00.000Z",
-        "end": "2026-10-04T15:31:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-10-04T14:34:58.000Z",
-      "rawHeader": "Northbound E Line trip departing Uptown Transit Station - Gate B at 9:00 AM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "53728",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO E Line: Northbound 8:48 AM Trip Canceled (Uptown Transit Station - Gate B)",
-      "summary": "Northbound E Line trip departing Uptown Transit Station - Gate B at 8:48 AM canceled today due to traffic",
-      "affectedRoutes": [
-        "METRO E Line"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [
-        "1330",
-        "15792",
-        "15477",
-        "1327",
-        "12281",
-        "17936",
-        "17941",
-        "16137",
-        "16142",
-        "16130",
-        "16136",
-        "15882",
-        "17944",
-        "17947",
-        "16566",
-        "50195",
-        "57541",
-        "53099",
-        "16143",
-        "17948",
-        "17951"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "1330"
-        },
-        {
-          "id": "15792"
-        },
-        {
-          "id": "15477"
-        },
-        {
-          "id": "1327"
-        },
-        {
-          "id": "12281"
-        },
-        {
-          "id": "17936"
-        },
-        {
-          "id": "17941"
-        },
-        {
-          "id": "16137"
-        },
-        {
-          "id": "16142"
-        },
-        {
-          "id": "16130"
-        },
-        {
-          "id": "16136"
-        },
-        {
-          "id": "15882"
-        },
-        {
-          "id": "17944"
-        },
-        {
-          "id": "17947"
-        },
-        {
-          "id": "16566"
-        },
-        {
-          "id": "50195"
-        },
-        {
-          "id": "57541"
-        },
-        {
-          "id": "53099"
-        },
-        {
-          "id": "16143"
-        },
-        {
-          "id": "17948"
-        },
-        {
-          "id": "17951"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-04T14:35:00.000Z",
-        "end": "2026-10-04T15:19:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-10-04T14:36:49.000Z",
-      "rawHeader": "Northbound E Line trip departing Uptown Transit Station - Gate B at 8:48 AM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "53729",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO E Line: Northbound 9:16 AM Trip Canceled (Southdale Transit Center - Gate A)",
-      "summary": "Northbound E Line trip departing Southdale Transit Center - Gate A at 9:16 AM canceled today due to traffic",
-      "affectedRoutes": [
-        "METRO E Line"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-04T14:47:00.000Z",
-        "end": "2026-10-04T16:08:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-10-04T14:47:26.000Z",
-      "rawHeader": "Northbound E Line trip departing Southdale Transit Center - Gate A at 9:16 AM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "53721",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 27: Service Canceled",
-      "summary": "Route 27 trips departing Uptown Transit Station - Gates D/E at 9:00 AM and departing Aldi Driveway & Wendys at 9:47 AM canceled today",
-      "affectedRoutes": [
-        "Route 27"
+        "METRO A Line"
       ],
       "direction": "Both Directions",
       "intersections": [],
@@ -433,148 +27,829 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-04T14:11:00.000Z",
-        "end": "2026-10-04T16:07:00.000Z"
+        "start": "2026-10-04T18:40:00.000Z",
+        "end": "2026-10-04T21:32:00.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "MEDICAL_EMERGENCY",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/27",
-      "updatedAt": "2026-10-04T14:11:45.000Z",
-      "rawHeader": "Route 27 trips departing Uptown Transit Station - Gates D/E at 9:00 AM and departing Aldi Driveway & Wendys at 9:47 AM canceled today",
+      "url": "https://www.metrotransit.org/route/aline",
+      "updatedAt": "2026-10-04T18:40:57.000Z",
+      "rawHeader": "A Line trip departing 46th St Station Gate A at 1:15 PM and two other trips canceled today due to medical emergency",
+      "rawDescription": "Affected northbound trips:\r\ndeparting 46th St Station Gate A at 1:15 PM\r\ndeparting 46th St Station Gate A at 2:55 PM\r\n\nAffected southbound trips:\r\ndeparting Rosedale Transit Center Gate A at 2:02 PM"
+    },
+    {
+      "id": "53758",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO C Line: Southbound 1:41 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate I)",
+      "summary": "Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 1:41 PM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "METRO C Line"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-04T18:44:00.000Z",
+        "end": "2026-10-04T20:15:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/cline",
+      "updatedAt": "2026-10-04T18:45:24.000Z",
+      "rawHeader": "Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 1:41 PM canceled today due to mechanical issue",
       "rawDescription": ""
     },
     {
-      "id": "53730",
+      "id": "53750",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 63: Service Advisory",
-      "summary": "Eastbound Route 63 trip departing Westgate Station - Gate C at 9:25 AM will start from Grand Ave & Dale St at 9:46 AM today due to traffic. Previous stops will be missed",
+      "title": "METRO D Line: Service Canceled",
+      "summary": "D Line trips departing Brooklyn Ctr Transit Ctr Gate F at 11:43 AM and departing Brooklyn Ctr Transit Ctr Gate F at 12:13 PM canceled today due to Marathon",
       "affectedRoutes": [
-        "Route 63"
+        "METRO D Line"
       ],
-      "direction": "Eastbound",
-      "intersections": [
-        "25 AM will start from Grand Ave & Dale St"
+      "direction": "All",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-04T17:51:00.000Z",
+        "end": "2026-10-04T19:25:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-10-04T17:52:56.000Z",
+      "rawHeader": "D Line trips departing Brooklyn Ctr Transit Ctr Gate F at 11:43 AM and departing Brooklyn Ctr Transit Ctr Gate F at 12:13 PM canceled today due to Marathon",
+      "rawDescription": ""
+    },
+    {
+      "id": "53751",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO D Line: Service Advisory",
+      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 12:43 PM will operate from 7th & Olson at 1:07 PM today. Previous stops will be missed due to Marathon.",
+      "affectedRoutes": [
+        "METRO D Line"
       ],
+      "direction": "Southbound",
+      "intersections": [],
       "closedStopIds": [
-        "15798",
-        "15799",
-        "15795",
-        "15796",
-        "3104",
-        "3108",
-        "3112",
-        "3114",
-        "3116",
-        "3119",
-        "3121",
-        "3122",
-        "3124",
-        "3126",
-        "3128",
-        "16955",
-        "16956",
-        "15801",
-        "15803",
-        "18675",
-        "18669",
-        "18673",
-        "56943",
-        "56945",
-        "56946",
-        "56250"
+        "11146",
+        "11161",
+        "56317",
+        "9173",
+        "9577",
+        "9589",
+        "9611",
+        "9087",
+        "56823",
+        "56903",
+        "56904",
+        "56905",
+        "56906",
+        "56907",
+        "56908"
       ],
       "closedStopDetails": [
         {
-          "id": "15798"
+          "id": "11146"
         },
         {
-          "id": "15799"
+          "id": "11161"
         },
         {
-          "id": "15795"
+          "id": "56317"
         },
         {
-          "id": "15796"
+          "id": "9173"
         },
         {
-          "id": "3104"
+          "id": "9577"
         },
         {
-          "id": "3108"
+          "id": "9589"
         },
         {
-          "id": "3112"
+          "id": "9611"
         },
         {
-          "id": "3114"
+          "id": "9087"
         },
         {
-          "id": "3116"
+          "id": "56823"
         },
         {
-          "id": "3119"
+          "id": "56903"
         },
         {
-          "id": "3121"
+          "id": "56904"
         },
         {
-          "id": "3122"
+          "id": "56905"
         },
         {
-          "id": "3124"
+          "id": "56906"
         },
         {
-          "id": "3126"
+          "id": "56907"
         },
         {
-          "id": "3128"
-        },
-        {
-          "id": "16955"
-        },
-        {
-          "id": "16956"
-        },
-        {
-          "id": "15801"
-        },
-        {
-          "id": "15803"
-        },
-        {
-          "id": "18675"
-        },
-        {
-          "id": "18669"
-        },
-        {
-          "id": "18673"
-        },
-        {
-          "id": "56943"
-        },
-        {
-          "id": "56945"
-        },
-        {
-          "id": "56946"
-        },
-        {
-          "id": "56250"
+          "id": "56908"
         }
       ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-04T14:48:00.000Z",
-        "end": "2026-10-04T16:18:00.000Z"
+        "start": "2026-10-04T17:53:00.000Z",
+        "end": "2026-10-04T19:55:00.000Z"
       },
       "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/63",
-      "updatedAt": "2026-10-04T14:49:39.000Z",
-      "rawHeader": "Eastbound Route 63 trip departing Westgate Station - Gate C at 9:25 AM will start from Grand Ave & Dale St at 9:46 AM today due to traffic. Previous stops will be missed",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-10-04T17:55:18.000Z",
+      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 12:43 PM will operate from 7th & Olson at 1:07 PM today. Previous stops will be missed due to Marathon.",
+      "rawDescription": ""
+    },
+    {
+      "id": "53755",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO D Line: Service Advisory",
+      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 1:15 PM will operate from 7th & Olson at 1:52 PM today. Previous stops will be missed due to marathon",
+      "affectedRoutes": [
+        "METRO D Line"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [
+        "56873",
+        "52300",
+        "81078",
+        "779",
+        "784",
+        "80138",
+        "737",
+        "620",
+        "639",
+        "643",
+        "56921",
+        "56922",
+        "56923",
+        "56924",
+        "56925",
+        "56926",
+        "56927",
+        "56928",
+        "56929",
+        "56930",
+        "47447",
+        "17897",
+        "17900",
+        "17902",
+        "17903",
+        "4513"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "56873"
+        },
+        {
+          "id": "52300"
+        },
+        {
+          "id": "81078"
+        },
+        {
+          "id": "779"
+        },
+        {
+          "id": "784"
+        },
+        {
+          "id": "80138"
+        },
+        {
+          "id": "737"
+        },
+        {
+          "id": "620"
+        },
+        {
+          "id": "639"
+        },
+        {
+          "id": "643"
+        },
+        {
+          "id": "56921"
+        },
+        {
+          "id": "56922"
+        },
+        {
+          "id": "56923"
+        },
+        {
+          "id": "56924"
+        },
+        {
+          "id": "56925"
+        },
+        {
+          "id": "56926"
+        },
+        {
+          "id": "56927"
+        },
+        {
+          "id": "56928"
+        },
+        {
+          "id": "56929"
+        },
+        {
+          "id": "56930"
+        },
+        {
+          "id": "47447"
+        },
+        {
+          "id": "17897"
+        },
+        {
+          "id": "17900"
+        },
+        {
+          "id": "17902"
+        },
+        {
+          "id": "17903"
+        },
+        {
+          "id": "4513"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-04T18:18:00.000Z",
+        "end": "2026-10-04T20:26:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-10-04T18:20:24.000Z",
+      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 1:15 PM will operate from 7th & Olson at 1:52 PM today. Previous stops will be missed due to marathon",
+      "rawDescription": ""
+    },
+    {
+      "id": "53754",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO Gold Line: Eastbound 12:41 PM Trip Canceled (Smith & 5th St Station)",
+      "summary": "Eastbound Gold Line trip departing Smith & 5th St Station at 12:41 PM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "METRO Gold Line"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-04T18:16:00.000Z",
+        "end": "2026-10-04T19:15:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/gold",
+      "updatedAt": "2026-10-04T18:16:32.000Z",
+      "rawHeader": "Eastbound Gold Line trip departing Smith & 5th St Station at 12:41 PM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "53752",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 2, Route 2A: Eastbound 12:47 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)",
+      "summary": "Eastbound Route 2A trip departing Franklin Ave W & Hennepin Ave S at 12:47 PM canceled today due to Marathon",
+      "affectedRoutes": [
+        "Route 2",
+        "Route 2A"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-04T17:55:00.000Z",
+        "end": "2026-10-04T19:22:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/2",
+      "updatedAt": "2026-10-04T17:56:43.000Z",
+      "rawHeader": "Eastbound Route 2A trip departing Franklin Ave W & Hennepin Ave S at 12:47 PM canceled today due to Marathon",
+      "rawDescription": ""
+    },
+    {
+      "id": "53757",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 2: Westbound 1:00 PM Trip Canceled (2nd Ave SE & 7th St SE)",
+      "summary": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 1:00 PM canceled from Franklin & Hiawatha at 1:27 PM today due to traffic",
+      "affectedRoutes": [
+        "Route 2"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [
+        "1096",
+        "13309",
+        "13335",
+        "15630",
+        "4663",
+        "4667",
+        "20031",
+        "177",
+        "17761",
+        "50160",
+        "50164",
+        "52241",
+        "52242",
+        "51533",
+        "56137",
+        "56910",
+        "56911",
+        "80923",
+        "80924",
+        "80928",
+        "57469"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "1096"
+        },
+        {
+          "id": "13309"
+        },
+        {
+          "id": "13335"
+        },
+        {
+          "id": "15630"
+        },
+        {
+          "id": "4663"
+        },
+        {
+          "id": "4667"
+        },
+        {
+          "id": "20031"
+        },
+        {
+          "id": "177"
+        },
+        {
+          "id": "17761"
+        },
+        {
+          "id": "50160"
+        },
+        {
+          "id": "50164"
+        },
+        {
+          "id": "52241"
+        },
+        {
+          "id": "52242"
+        },
+        {
+          "id": "51533"
+        },
+        {
+          "id": "56137"
+        },
+        {
+          "id": "56910"
+        },
+        {
+          "id": "56911"
+        },
+        {
+          "id": "80923"
+        },
+        {
+          "id": "80924"
+        },
+        {
+          "id": "80928"
+        },
+        {
+          "id": "57469"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-04T18:42:00.000Z",
+        "end": "2026-10-04T19:45:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/2",
+      "updatedAt": "2026-10-04T18:44:26.000Z",
+      "rawHeader": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 1:00 PM canceled from Franklin & Hiawatha at 1:27 PM today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "53746",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 22, Route 22H: Southbound 12:51 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)",
+      "summary": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 12:51 PM canceled today",
+      "affectedRoutes": [
+        "Route 22",
+        "Route 22H"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-04T17:51:00.000Z",
+        "end": "2026-10-04T20:09:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/22",
+      "updatedAt": "2026-10-04T17:21:01.000Z",
+      "rawHeader": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 12:51 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "53748",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 22, Route 22H: Service Advisory",
+      "summary": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 11:51 AM will start from 7th St & Olson Station at 12:17 PM today. Previous stops will be missed",
+      "affectedRoutes": [
+        "Route 22",
+        "Route 22H"
+      ],
+      "direction": "Southbound",
+      "intersections": [
+        "51 AM will start from 7th St & Olson St"
+      ],
+      "closedStopIds": [
+        "11345",
+        "11351",
+        "11374",
+        "11378",
+        "11390",
+        "11394",
+        "11397",
+        "11608",
+        "11616",
+        "11618",
+        "11622",
+        "11625",
+        "11628",
+        "11629",
+        "11630",
+        "11632",
+        "11633",
+        "11635",
+        "11641",
+        "11644",
+        "11646",
+        "11649",
+        "11652",
+        "11653",
+        "11654",
+        "11656",
+        "41839",
+        "50142",
+        "9086",
+        "9087",
+        "9090",
+        "9097",
+        "9100",
+        "9102",
+        "9106",
+        "51791",
+        "56825",
+        "52680",
+        "52682",
+        "52750",
+        "56317",
+        "51287",
+        "50610",
+        "50611",
+        "56955"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "11345"
+        },
+        {
+          "id": "11351"
+        },
+        {
+          "id": "11374"
+        },
+        {
+          "id": "11378"
+        },
+        {
+          "id": "11390"
+        },
+        {
+          "id": "11394"
+        },
+        {
+          "id": "11397"
+        },
+        {
+          "id": "11608"
+        },
+        {
+          "id": "11616"
+        },
+        {
+          "id": "11618"
+        },
+        {
+          "id": "11622"
+        },
+        {
+          "id": "11625"
+        },
+        {
+          "id": "11628"
+        },
+        {
+          "id": "11629"
+        },
+        {
+          "id": "11630"
+        },
+        {
+          "id": "11632"
+        },
+        {
+          "id": "11633"
+        },
+        {
+          "id": "11635"
+        },
+        {
+          "id": "11641"
+        },
+        {
+          "id": "11644"
+        },
+        {
+          "id": "11646"
+        },
+        {
+          "id": "11649"
+        },
+        {
+          "id": "11652"
+        },
+        {
+          "id": "11653"
+        },
+        {
+          "id": "11654"
+        },
+        {
+          "id": "11656"
+        },
+        {
+          "id": "41839"
+        },
+        {
+          "id": "50142"
+        },
+        {
+          "id": "9086"
+        },
+        {
+          "id": "9087"
+        },
+        {
+          "id": "9090"
+        },
+        {
+          "id": "9097"
+        },
+        {
+          "id": "9100"
+        },
+        {
+          "id": "9102"
+        },
+        {
+          "id": "9106"
+        },
+        {
+          "id": "51791"
+        },
+        {
+          "id": "56825"
+        },
+        {
+          "id": "52680"
+        },
+        {
+          "id": "52682"
+        },
+        {
+          "id": "52750"
+        },
+        {
+          "id": "56317"
+        },
+        {
+          "id": "51287"
+        },
+        {
+          "id": "50610"
+        },
+        {
+          "id": "50611"
+        },
+        {
+          "id": "56955"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-04T16:58:00.000Z",
+        "end": "2026-10-04T19:09:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/22",
+      "updatedAt": "2026-10-04T17:00:01.000Z",
+      "rawHeader": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 11:51 AM will start from 7th St & Olson Station at 12:17 PM today. Previous stops will be missed",
+      "rawDescription": ""
+    },
+    {
+      "id": "53753",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 54: Westbound 12:05 PM Trip Canceled (Maplewood Mall Transit Center & Gate B)",
+      "summary": "Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 12:05 PM canceled from 7th St & 5th St at 12:44 PM today due to traffic",
+      "affectedRoutes": [
+        "Route 54"
+      ],
+      "direction": "Westbound",
+      "intersections": [
+        "05 PM canceled from 7th St & 5th St"
+      ],
+      "closedStopIds": [
+        "10359",
+        "10366",
+        "11865",
+        "13117",
+        "13121",
+        "13128",
+        "13130",
+        "13132",
+        "13140",
+        "41253",
+        "41258",
+        "11694",
+        "11698",
+        "47485",
+        "42441",
+        "4611",
+        "56939",
+        "57019",
+        "56598",
+        "56875",
+        "48548"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "10359"
+        },
+        {
+          "id": "10366"
+        },
+        {
+          "id": "11865"
+        },
+        {
+          "id": "13117"
+        },
+        {
+          "id": "13121"
+        },
+        {
+          "id": "13128"
+        },
+        {
+          "id": "13130"
+        },
+        {
+          "id": "13132"
+        },
+        {
+          "id": "13140"
+        },
+        {
+          "id": "41253"
+        },
+        {
+          "id": "41258"
+        },
+        {
+          "id": "11694"
+        },
+        {
+          "id": "11698"
+        },
+        {
+          "id": "47485"
+        },
+        {
+          "id": "42441"
+        },
+        {
+          "id": "4611"
+        },
+        {
+          "id": "56939"
+        },
+        {
+          "id": "57019"
+        },
+        {
+          "id": "56598"
+        },
+        {
+          "id": "56875"
+        },
+        {
+          "id": "48548"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-04T18:13:00.000Z",
+        "end": "2026-10-04T19:14:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/54",
+      "updatedAt": "2026-10-04T18:15:15.000Z",
+      "rawHeader": "Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 12:05 PM canceled from 7th St & 5th St at 12:44 PM today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "53759",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 83: Southbound 1:57 PM Trip Canceled (Rosedale Transit Center Gate B)",
+      "summary": "Southbound Route 83 trip departing Rosedale Transit Center Gate B at 1:57 PM canceled",
+      "affectedRoutes": [
+        "Route 83"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-04T18:57:00.000Z",
+        "end": "2026-10-04T20:32:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/83",
+      "updatedAt": "2026-10-04T18:55:14.000Z",
+      "rawHeader": "Southbound Route 83 trip departing Rosedale Transit Center Gate B at 1:57 PM canceled",
       "rawDescription": ""
     },
     {
@@ -889,7 +1164,7 @@
       },
       "cause": "OTHER_CAUSE",
       "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-10-04T05:00:02.000Z",
+      "updatedAt": "2026-10-04T15:30:02.000Z",
       "rawHeader": "METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 10/4 from 11am - 7pm",
       "rawDescription": "Due to street closures around U.S. Bank Stadium Station during the Vikings game, please transfer between the METRO Blue and Green lines at Government Plaza Station instead.\r\n\nAffected stops:\r\nU.S. Bank Stadium Station (eastbound)\r\nU.S. Bank Stadium Station (northbound)\r\nU.S. Bank Stadium Station (southbound)\r\nU.S. Bank Stadium Station (westbound)"
     },
@@ -972,93 +1247,6 @@
       "updatedAt": "2026-09-21T14:15:02.000Z",
       "rawHeader": "Portland & 60th St Station - Stop #431 (southbound) is closed for D Line until further notice due to utility work",
       "rawDescription": "Get on/off buses at:\r\nTemporary stop on Portland Ave between 60th St and 61st St (southbound)\r\nPortland & 66th St Station - Stop #436 (southbound)"
-    },
-    {
-      "id": "53171",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "METRO D Line: Detour via Chicago Ave S & 45th St E",
-      "summary": "D Line detoured off Chicago Ave from 56th St to 46th St from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Portland & 60th St Station - Stop #737 (northbound); Chicago Ave S & 45th St E - Stop #787 (northbound); Chicago & 42nd St Station - Stop #56924 (northbound).",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Chicago Ave S & 45th St E",
-        "Chicago Ave & 56th St E"
-      ],
-      "closedStopIds": [
-        "81078",
-        "779",
-        "784",
-        "56923",
-        "56917",
-        "56918",
-        "56919",
-        "81079",
-        "56924",
-        "56916"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "81078",
-          "name": "Chicago Ave & 56th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "779",
-          "name": "Chicago & 52nd St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "784",
-          "name": "Chicago & 48th St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "56923",
-          "name": "Chicago & 46th St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "56917",
-          "name": "Chicago & 46th St Station",
-          "direction": "southbound"
-        },
-        {
-          "id": "56918",
-          "name": "Chicago & 48th St Station",
-          "direction": "southbound"
-        },
-        {
-          "id": "56919",
-          "name": "Chicago & 52nd St Station",
-          "direction": "southbound"
-        },
-        {
-          "id": "81079",
-          "name": "Chicago Ave & 56th St E",
-          "direction": "southbound"
-        },
-        {
-          "id": "56924"
-        },
-        {
-          "id": "56916"
-        }
-      ],
-      "riderAlternative": "Board at: Portland & 60th St Station - Stop #737 (northbound); Chicago Ave S & 45th St E - Stop #787 (northbound); Chicago & 42nd St Station - Stop #56924 (northbound)",
-      "detourDetails": "Northbound buses will travel the regular route on Portland Ave to Diamond Lake Rd, left on Diamond Lake Rd, right onto northbound I-35W, exit at 46th St, right on 46th St, left on Chicago Ave and resume regular route.",
-      "activePeriod": {
-        "start": "2026-10-04T09:00:00.000Z",
-        "end": "2026-10-04T17:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-10-04T08:30:01.000Z",
-      "rawHeader": "D Line detoured off Chicago Ave from 56th St to 46th St from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
-      "rawDescription": "For northbound D Line get on/off buses at:\r\nPortland & 60th St Station - Stop #737 (northbound)\r\nChicago Ave S & 45th St E - Stop #787 (northbound)\r\nChicago & 42nd St Station - Stop #56924 (northbound)\r\n\nFor southbound D Line get on/off buses at:\r\nChicago & 42nd St Station - Stop #56916 (southbound)\r\nChicago Ave S & 45th St E - Stop #64 (southbound)\r\nPortland & 60th St Station - Stop #431 (southbound)\r\n\nNorthbound buses will travel the regular route on Portland Ave to Diamond Lake Rd, left on Diamond Lake Rd, right onto northbound I-35W, exit at 46th St, right on 46th St, left on Chicago Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Chicago Ave to 46th St, right on 46th St, left onto I-35W southbound, exit at Diamond Lake Rd, left on Diamond Lake Rd, right on Portland Ave, and resume the regular route.\r\n\nAffected stops:\r\nChicago Ave & 56th St E - Stop #81078 (northbound)\r\nChicago & 52nd St Station - Stop #779 (northbound)\r\nChicago & 48th St Station - Stop #784 (northbound)\r\nChicago & 46th St Station - Stop #56923 (northbound)\r\nChicago & 46th St Station - Stop #56917 (southbound)\r\nChicago & 48th St Station - Stop #56918 (southbound)\r\nChicago & 52nd St Station - Stop #56919 (southbound)\r\nChicago Ave & 56th St E - Stop #81079 (southbound)"
     },
     {
       "id": "53433",
@@ -1825,278 +2013,6 @@
       "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nWashington Ave S & 15th Ave S - Stop #57023 (eastbound)\r\n3rd St S & Cedar Ave S - Stop #42452 (eastbound)\r\n15th Ave SE & 4th St SE - Stop #16111 (northbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\n15th Ave SE & 4th St SE - Stop #49242 (southbound)\r\nTemporary stop on Washington Ave/15th Ave S & Washington Ave/Cedar Ave, in front of Town Hall Brewery (southbound)\r\nWashington Ave S & 11th Ave S - Stop #19302 (westbound)\r\n\nEastbound buses will travel regular route on Cedar Ave to 3rd St, left on 3rd St (buses do not travel down ramp), left on 19th Ave S and continue across bridge which becomes 10th Ave SE, right on University Ave, left on 15th Ave SE, and resume regular route.\r\n\nWestbound buses will travel regular route on 15th Ave SE to 4th St SE, right on 4th St, left on 10th Ave SE and continue across bridge which becomes 19th Ave S, right on Washington Ave/2nd St S, right on Washington Ave/Cedar Ave, and resume regular route.\r\n\nAffected stops:\r\nWashington Ramp & Cedar Ave S - Stop #13221 (eastbound)\r\nWashington Ave & Anderson Hall - Stop #13223 (eastbound)\r\nE River Pkwy & Appleby Hall - Stop #57013 (northbound)\r\nPleasant St & Jones Hall - Stop #49881 (northbound)\r\nPleasant St & Eddy Hall - Stop #49237 (southbound)\r\nPleasant St SE & Scholars Walk - Stop #54046 (southbound)\r\nWashington Ave & Willey Hall - Stop #13211 (westbound)\r\nCedar Ave S & Washington Ave (15th Ave) - Stop #16325 (westbound)"
     },
     {
-      "id": "53148",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 4, Route 4L: Detour via Lyndale Ave S & 54th St W",
-      "summary": "Route 4L detoured off Lyndale Ave from 46th St to 54th St from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cites Marathon 2026. Board at: Lyndale Ave S & 54th St W - Stop #1853 (northbound); Lyndale Ave S & 45th St W - Stop #40276 (northbound).",
-      "affectedRoutes": [
-        "Route 4",
-        "Route 4L"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Lyndale Ave S & 54th St W",
-        "Lyndale Ave S & 45th St W",
-        "left on Lyndale Ave & resume regular route.\n\nAffected st",
-        "Lyndale Ave S & 53rd St W",
-        "Lyndale Ave S & Minnehaha Pkwy"
-      ],
-      "closedStopIds": [
-        "1854",
-        "57377",
-        "1857",
-        "54058",
-        "57203",
-        "2855",
-        "2856",
-        "1776",
-        "135",
-        "136",
-        "1853",
-        "40276",
-        "40277"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "1854",
-          "name": "Lyndale Ave S & 53rd St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "57377",
-          "name": "Lyndale Ave S & Minnehaha Pkwy",
-          "direction": "northbound"
-        },
-        {
-          "id": "1857",
-          "name": "Lyndale Ave S & 50th St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "54058",
-          "name": "Lyndale Ave S & 48th St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "57203",
-          "name": "Lyndale Ave S & 46th St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "2855",
-          "name": "Lyndale Ave S & 46th St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "2856",
-          "name": "Lyndale Ave S & 48th St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "1776",
-          "name": "Lyndale Ave S & 50th St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "135",
-          "name": "Lyndale Ave S & Minnehaha Pkwy",
-          "direction": "southbound"
-        },
-        {
-          "id": "136",
-          "name": "Lyndale Ave S & 53rd St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "1853"
-        },
-        {
-          "id": "40276"
-        },
-        {
-          "id": "40277"
-        }
-      ],
-      "riderAlternative": "Board at: Lyndale Ave S & 54th St W - Stop #1853 (northbound); Lyndale Ave S & 45th St W - Stop #40276 (northbound)",
-      "detourDetails": "buses will travel regular route on Lyndale Ave to 46th St, left on 46th St, right onto I-35W southbound, exit at Diamond Lake Rd, right on Diamond Lake Rd, left on Lyndale Ave and resume regular route.",
-      "activePeriod": {
-        "start": "2026-10-04T09:00:00.000Z",
-        "end": "2026-10-04T17:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/4",
-      "updatedAt": "2026-10-04T08:30:02.000Z",
-      "rawHeader": "Route 4L detoured off Lyndale Ave from 46th St to 54th St from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cites Marathon 2026",
-      "rawDescription": "For northbound Route 4(via Lyndale Ave) get on/off buses at:\r\nLyndale Ave S & 54th St W - Stop #1853 (northbound)\r\nLyndale Ave S & 45th St W - Stop #40276 (northbound)\r\n\nFor southbound Route 4L get on/off buses at:\r\nLyndale Ave S & 45th St W - Stop #40277 (southbound)\r\nLyndale Ave S & 54th St W - Stop #137 (southbound)\r\n\nNorthbound 4 buses via Lyndale Ave will travel regular route on Lyndale Ave to 54th St, right on 54th St which turns into Diamond Lake Rd, left onto I-35W northbound. exit at 46th St, left on 46th St, right on Lyndale Ave and resume regular route.\r\n\nSouthbound 4L buses will travel regular route on Lyndale Ave to 46th St, left on 46th St, right onto I-35W southbound, exit at Diamond Lake Rd, right on Diamond Lake Rd, left on Lyndale Ave and resume regular route.\r\n\nAffected stops:\r\nLyndale Ave S & 53rd St W - Stop #1854 (northbound)\r\nLyndale Ave S & Minnehaha Pkwy - Stop #57377 (northbound)\r\nLyndale Ave S & 50th St W - Stop #1857 (northbound)\r\nLyndale Ave S & 48th St W - Stop #54058 (northbound)\r\nLyndale Ave S & 46th St W - Stop #57203 (northbound)\r\nLyndale Ave S & 46th St W - Stop #2855 (southbound)\r\nLyndale Ave S & 48th St W - Stop #2856 (southbound)\r\nLyndale Ave S & 50th St W - Stop #1776 (southbound)\r\nLyndale Ave S & Minnehaha Pkwy - Stop #135 (southbound)\r\nLyndale Ave S & 53rd St W - Stop #136 (southbound)"
-    },
-    {
-      "id": "53151",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 4, Route 4P: Detour via Penn Ave S & 54th St W",
-      "summary": "Route 4P detoured off Penn Ave from 54th St to 50th St, 50th St from Penn Ave to Lyndale Ave, and Lyndale from 50th St to 46th St from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Penn Ave S & 54th St W - Stop #1091 (northbound); Lyndale Ave S & 45th St W - Stop #40276 (northbound).",
-      "affectedRoutes": [
-        "Route 4",
-        "Route 4P"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Penn Ave S & 54th St W",
-        "Lyndale Ave S & 45th St W",
-        "Penn Ave S & 56th St W",
-        "left on Penn Ave & resume regular route.\n\nAffected st",
-        "Penn Ave S & 52nd St W"
-      ],
-      "closedStopIds": [
-        "1093",
-        "1005",
-        "1009",
-        "1011",
-        "1016",
-        "40385",
-        "1857",
-        "54058",
-        "57203",
-        "2855",
-        "2856",
-        "1776",
-        "40386",
-        "179",
-        "183",
-        "186",
-        "1018",
-        "1020",
-        "1023",
-        "1091",
-        "40276",
-        "40277",
-        "1025"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "1093",
-          "name": "Penn Ave S & 52nd St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "1005",
-          "name": "50th St W & Penn Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "1009",
-          "name": "50th St W & Logan Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "1011",
-          "name": "50th St W & Minnehaha Pkwy",
-          "direction": "eastbound"
-        },
-        {
-          "id": "1016",
-          "name": "50th St W & Dupont Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "40385",
-          "name": "50th St W & Bryant Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "1857",
-          "name": "Lyndale Ave S & 50th St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "54058",
-          "name": "Lyndale Ave S & 48th St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "57203",
-          "name": "Lyndale Ave S & 46th St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "2855",
-          "name": "Lyndale Ave S & 46th St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "2856",
-          "name": "Lyndale Ave S & 48th St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "1776",
-          "name": "Lyndale Ave S & 50th St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "40386",
-          "name": "50th St W & Bryant Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "179",
-          "name": "50th St W & Dupont Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "183",
-          "name": "50th St W & Minnehaha Pkwy",
-          "direction": "westbound"
-        },
-        {
-          "id": "186",
-          "name": "50th St W & Logan Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "1018",
-          "name": "Penn Ave S & 50th St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "1020",
-          "name": "Penn Ave S & 52nd St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "1023",
-          "name": "Penn Ave S & 54th St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "1091"
-        },
-        {
-          "id": "40276"
-        },
-        {
-          "id": "40277"
-        },
-        {
-          "id": "1025"
-        }
-      ],
-      "riderAlternative": "Board at: Penn Ave S & 54th St W - Stop #1091 (northbound); Lyndale Ave S & 45th St W - Stop #40276 (northbound)",
-      "detourDetails": "buses will travel regular route on Lyndale Ave to 46th St, left on 46th St, right on I-35W southbound, exit at Diamond Lake Rd, right on Diamond Lake Rd which turns into 54th St, left on Penn Ave and resume regular route.",
-      "activePeriod": {
-        "start": "2026-10-04T09:00:00.000Z",
-        "end": "2026-10-04T17:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/4",
-      "updatedAt": "2026-10-04T08:30:01.000Z",
-      "rawHeader": "Route 4P detoured off Penn Ave from 54th St to 50th St, 50th St from Penn Ave to Lyndale Ave, and Lyndale from 50th St to 46th St  from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
-      "rawDescription": "For northbound Route 4(via Penn Ave) get on/off buses at:\r\nPenn Ave S & 54th St W - Stop #1091 (northbound)\r\nLyndale Ave S & 45th St W - Stop #40276 (northbound)\r\n\nFor southbound Route 4P get on/off buses at:\r\nLyndale Ave S & 45th St W - Stop #40277 (southbound)\r\nPenn Ave S & 56th St W - Stop #1025 (southbound)\r\n\nNorthbound buses via Penn Ave will travel regular route on Penn Ave to 54th St, right on 54th St which turns into Diamond Lake Rd, left onto I-35W northbound, exit at 46th St, left on 46th St, right on Lyndale Ave and resume regular route.\r\n\nSouthbound 4P buses will travel regular route on Lyndale Ave to 46th St, left on 46th St, right on I-35W southbound, exit at Diamond Lake Rd, right on Diamond Lake Rd which turns into 54th St, left on Penn Ave and resume regular route.\r\n\nAffected stops:\r\nPenn Ave S & 52nd St W - Stop #1093 (northbound)\r\n50th St W & Penn Ave S - Stop #1005 (eastbound)\r\n50th St W & Logan Ave S - Stop #1009 (eastbound)\r\n50th St W & Minnehaha Pkwy - Stop #1011 (eastbound)\r\n50th St W & Dupont Ave S - Stop #1016 (eastbound)\r\n50th St W & Bryant Ave S - Stop #40385 (eastbound)\r\nLyndale Ave S & 50th St W - Stop #1857 (northbound)\r\nLyndale Ave S & 48th St W - Stop #54058 (northbound)\r\nLyndale Ave S & 46th St W - Stop #57203 (northbound)\r\nLyndale Ave S & 46th St W - Stop #2855 (southbound)\r\nLyndale Ave S & 48th St W - Stop #2856 (southbound)\r\nLyndale Ave S & 50th St W - Stop #1776 (southbound)\r\n50th St W & Bryant Ave S - Stop #40386 (westbound)\r\n50th St W & Dupont Ave S - Stop #179 (westbound)\r\n50th St W & Minnehaha Pkwy - Stop #183 (westbound)\r\n50th St W & Logan Ave S - Stop #186 (westbound)\r\nPenn Ave S & 50th St W - Stop #1018 (southbound)\r\nPenn Ave S & 52nd St W - Stop #1020 (southbound)\r\nPenn Ave S & 54th St W - Stop #1023 (southbound)"
-    },
-    {
       "id": "51930",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -2136,144 +2052,6 @@
       "updatedAt": "2026-09-03T16:21:48.000Z",
       "rawHeader": "Route 5 detoured off Chicago Ave from 41st St to 39th St until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nChicago Ave S & 41st St E - Stop #791 (northbound)\r\nPark & 38th St Station - Stop #80138 (northbound)\r\n\nNorthbound buses will travel regular route on Chicago Ave to 41st St, left on 41st St, right on Park Ave to 39th St, and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected direction: Northbound\r\n\nAffected stops:\r\nChicago Ave S & 40th St E - Stop #792 (northbound)"
-    },
-    {
-      "id": "53159",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 5: Detour via Chicago Ave S & 56th St E",
-      "summary": "Route 5 detoured off Chicago Ave from 56th St to 46th St from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Chicago Ave S & 56th St E - Stop #51212 (southbound); Chicago & 46th St Station - Stop #56923 (northbound).",
-      "affectedRoutes": [
-        "Route 5"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Chicago Ave S & 56th St E",
-        "Chicago Ave S & 45th St E",
-        "Chicago Ave S & 54th St E",
-        "Chicago Ave S & 53rd St E",
-        "Chicago Ave S & 51st St E"
-      ],
-      "closedStopIds": [
-        "775",
-        "777",
-        "778",
-        "779",
-        "780",
-        "781",
-        "783",
-        "784",
-        "785",
-        "56917",
-        "56918",
-        "56919",
-        "51212",
-        "56923",
-        "73",
-        "72",
-        "66",
-        "68",
-        "69",
-        "70"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "775",
-          "name": "Chicago & 56th St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "777",
-          "name": "Chicago Ave S & 54th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "778",
-          "name": "Chicago Ave S & 53rd St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "779",
-          "name": "Chicago & 52nd St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "780",
-          "name": "Chicago Ave S & 51st St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "781",
-          "name": "Chicago Ave S & 50th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "783",
-          "name": "Chicago Ave S & 49th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "784",
-          "name": "Chicago & 48th St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "785",
-          "name": "Chicago Ave S & 47th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "56917",
-          "name": "Chicago & 46th St Station",
-          "direction": "southbound"
-        },
-        {
-          "id": "56918",
-          "name": "Chicago & 48th St Station",
-          "direction": "southbound"
-        },
-        {
-          "id": "56919",
-          "name": "Chicago & 52nd St Station",
-          "direction": "southbound"
-        },
-        {
-          "id": "51212"
-        },
-        {
-          "id": "56923"
-        },
-        {
-          "id": "73"
-        },
-        {
-          "id": "72"
-        },
-        {
-          "id": "66"
-        },
-        {
-          "id": "68"
-        },
-        {
-          "id": "69"
-        },
-        {
-          "id": "70"
-        }
-      ],
-      "riderAlternative": "Board at: Chicago Ave S & 56th St E - Stop #51212 (southbound); Chicago & 46th St Station - Stop #56923 (northbound)",
-      "detourDetails": "Southbound buses will travel regular route on Chicago Ave to 46th St, right on 46th St, left onto I-35W southbound, exit at Diamond Lake Rd, left on Diamond Lake Rd, right on Portland Ave, left on 56th St to the terminal.",
-      "activePeriod": {
-        "start": "2026-10-04T09:00:00.000Z",
-        "end": "2026-10-04T17:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/5",
-      "updatedAt": "2026-10-04T08:30:01.000Z",
-      "rawHeader": "Route 5 detoured off Chicago Ave from 56th St to 46th St from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
-      "rawDescription": "For northbound Route 5 get on/off buses at:\r\nChicago Ave S & 56th St E - Stop #51212 (southbound)\r\nChicago & 46th St Station - Stop #56923 (northbound)\r\n\nFor southbound Route 5 get on/off buses at:\r\nChicago Ave S & 45th St E - Stop #64 (southbound)\r\nChicago Ave S & 56th St E - Stop #51212 (southbound)\r\n\nNorthbound buses will depart terminal, left on 56th St, right on Portland, left on Diamond Lake Rd, right on I-35W, exit at 46th St, right on 46th St, left on Chicago Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Chicago Ave to 46th St, right on 46th St, left onto I-35W southbound, exit at Diamond Lake Rd, left on Diamond Lake Rd, right on Portland Ave, left on 56th St to the terminal.\r\n\nAffected stops:\r\nChicago & 56th St Station - Stop #775 (northbound)\r\nChicago Ave S & 54th St E - Stop #777 (northbound)\r\nChicago Ave S & 53rd St E - Stop #778 (northbound)\r\nChicago & 52nd St Station - Stop #779 (northbound)\r\nChicago Ave S & 51st St E - Stop #780 (northbound)\r\nChicago Ave S & 50th St E - Stop #781 (northbound)\r\nChicago Ave S & 49th St E - Stop #783 (northbound)\r\nChicago & 48th St Station - Stop #784 (northbound)\r\nChicago Ave S & 47th St E - Stop #785 (northbound)\r\nChicago & 46th St Station - Stop #56917 (southbound)\r\nChicago Ave S & 47th St E - Stop #66 (southbound)\r\nChicago & 48th St Station - Stop #56918 (southbound)\r\nChicago Ave S & 49th St E - Stop #68 (southbound)\r\nChicago Ave S & 50th St E - Stop #69 (southbound)\r\nChicago Ave S & 51st St E - Stop #70 (southbound)\r\nChicago & 52nd St Station - Stop #56919 (southbound)\r\nChicago Ave S & 53rd St E - Stop #72 (southbound)\r\nChicago Ave S & 54th St E - Stop #73 (southbound)"
     },
     {
       "id": "52092",
@@ -2346,86 +2124,6 @@
       "updatedAt": "2026-09-28T08:00:01.000Z",
       "rawHeader": "Route 7 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
       "rawDescription": "No stops missed.\r\n\nNorthbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.\r\n\nSouthbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route."
-    },
-    {
-      "id": "53164",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 7: Detour via 34th Ave S & 50th St E",
-      "summary": "Route 7 detoured off 34th Ave from 50th St to 46th St from 4:00 AM to 1:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: 34th Ave S & 50th St E - Stop #15274 (northbound); 46th St Station & Gate F - Stop #51549 (northbound).",
-      "affectedRoutes": [
-        "Route 7"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "34th Ave S & 50th St E",
-        "34th Ave S & 51st St E",
-        "left on 34th Ave & resume regular route.\n\nAffected st",
-        "34th Ave S & Minnehaha Pkwy",
-        "34th Ave S & 46th St E"
-      ],
-      "closedStopIds": [
-        "52741",
-        "52743",
-        "48897",
-        "52737",
-        "52739",
-        "15274",
-        "51549",
-        "51545",
-        "15419"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "52741",
-          "name": "34th Ave S & Minnehaha Pkwy",
-          "direction": "northbound"
-        },
-        {
-          "id": "52743",
-          "name": "34th Ave S & 46th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "48897",
-          "name": "46th St E & 34th Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "52737",
-          "name": "34th Ave S & Minnehaha Pkwy",
-          "direction": "southbound"
-        },
-        {
-          "id": "52739",
-          "name": "34th Ave S & 50th St E",
-          "direction": "southbound"
-        },
-        {
-          "id": "15274"
-        },
-        {
-          "id": "51549"
-        },
-        {
-          "id": "51545"
-        },
-        {
-          "id": "15419"
-        }
-      ],
-      "riderAlternative": "Board at: 34th Ave S & 50th St E - Stop #15274 (northbound); 46th St Station & Gate F - Stop #51549 (northbound)",
-      "detourDetails": "Northbound buses will travel regular route on 34th Ave to 50th St, right on 50th St, left on Hiawatha Ave, left on 42nd St, left on 34th Ave, left on 46th St, eft into 46th St Station and resume regular route.",
-      "activePeriod": {
-        "start": "2026-10-04T09:00:00.000Z",
-        "end": "2026-10-04T18:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/7",
-      "updatedAt": "2026-10-04T08:30:01.000Z",
-      "rawHeader": "Route 7 detoured off 34th Ave from 50th St to 46th St from 4:00 AM to 1:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
-      "rawDescription": "For northbound Route 7 get on/off buses at:\r\n34th Ave S & 50th St E - Stop #15274 (northbound)\r\n46th St Station & Gate F - Stop #51549 (northbound)\r\n\nFor southbound Route 7 get on/off buses at:\r\n46th St Station & Gate B - Stop #51545 (northbound)\r\n34th Ave S & 51st St E - Stop #15419 (southbound)\r\n\nNorthbound buses will travel regular route on 34th Ave to 50th St, right on 50th St, left on Hiawatha Ave, left on 42nd St, left on 34th Ave, left on 46th St, eft into 46th St Station and resume regular route.\r\n\nSouthbound buses will depart 46th St Station, right on 34th Ave, right on 42nd St, right on Hiawatha Ave, right on 50th St, left on 34th Ave and resume regular route.\r\n\nAffected stops:\r\n34th Ave S & Minnehaha Pkwy - Stop #52741 (northbound)\r\n34th Ave S & 46th St E - Stop #52743 (northbound)\r\n46th St E & 34th Ave S - Stop #48897 (westbound)\r\n34th Ave S & Minnehaha Pkwy - Stop #52737 (southbound)\r\n34th Ave S & 50th St E - Stop #52739 (southbound)"
     },
     {
       "id": "53499",
@@ -3015,176 +2713,6 @@
       "rawDescription": "Get on/off buses at:\r\nTemporary stop on Chicago Ave just past 56th St (northbound)"
     },
     {
-      "id": "53168",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 14: Detour via Chicago Ave S & 58th St E",
-      "summary": "Route 14 detoured off Bloomington Ave from 46th St to 54th St and off Chicago Ave from 54th St to 56th St from 4:00 AM to 1:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Chicago Ave S & 58th St E - Stop #743 (northbound); Temporary stop on Chicago Ave & 57th St (northbound); Temporary stop on Bloomington Ave & 45th St (northbound).",
-      "affectedRoutes": [
-        "Route 14"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Chicago Ave S & 58th St E",
-        "Chicago Ave & 57th St",
-        "Bloomington Ave & 45th St",
-        "Bloomington Ave S & 44th St E",
-        "Bloomington Ave S & 46th St E"
-      ],
-      "closedStopIds": [
-        "775",
-        "777",
-        "51836",
-        "51838",
-        "15570",
-        "15574",
-        "15578",
-        "15581",
-        "15582",
-        "15580",
-        "15579",
-        "15575",
-        "15571",
-        "15567",
-        "51832",
-        "51834",
-        "15586",
-        "15583",
-        "40472"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "775",
-          "name": "Chicago & 56th St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "777",
-          "name": "Chicago Ave S & 54th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "51836",
-          "name": "54th St E & 12th Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "51838",
-          "name": "54th St E & Bloomington Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "15570",
-          "name": "Bloomington Ave S & 52nd St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "15574",
-          "name": "Bloomington Ave S & 50th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "15578",
-          "name": "Bloomington Ave S & 48th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "15581",
-          "name": "Bloomington Ave S & 47th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "15582",
-          "name": "Bloomington Ave S & 46th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "15580",
-          "name": "Bloomington Ave S & 47th St E",
-          "direction": "southbound"
-        },
-        {
-          "id": "15579",
-          "name": "Bloomington Ave S & 48th St E",
-          "direction": "southbound"
-        },
-        {
-          "id": "15575",
-          "name": "Bloomington Ave S & 50th St E",
-          "direction": "southbound"
-        },
-        {
-          "id": "15571",
-          "name": "Bloomington Ave S & 52nd St E",
-          "direction": "southbound"
-        },
-        {
-          "id": "15567",
-          "name": "Bloomington Ave S & 54th St E",
-          "direction": "southbound"
-        },
-        {
-          "id": "51832",
-          "name": "54th St E & 12th Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "51834",
-          "name": "54th St E & Chicago Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "15586"
-        },
-        {
-          "id": "15583"
-        },
-        {
-          "id": "40472"
-        }
-      ],
-      "riderAlternative": "Board at: Chicago Ave S & 58th St E - Stop #743 (northbound); Temporary stop on Chicago Ave & 57th St (northbound); Temporary stop on Bloomington Ave & 45th St (northbound)",
-      "detourDetails": "Northbound buses will travel regular route on Chicago Ave to 56th St, left on 56th St, right on Portland Ave, left on Diamond Lake Rd, right onto I-35W northbound, exit at 46th St, right on 46th St, left on Bloomington Ave and resume regular route.",
-      "activePeriod": {
-        "start": "2026-10-04T09:00:00.000Z",
-        "end": "2026-10-04T18:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/14",
-      "updatedAt": "2026-10-04T08:30:01.000Z",
-      "rawHeader": "Route 14 detoured off Bloomington Ave from 46th St to 54th St and off Chicago Ave from 54th St to 56th St from 4:00 AM to 1:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
-      "rawDescription": "For northbound Route 14 get on/off buses at:\r\nChicago Ave S & 58th St E - Stop #743 (northbound)\r\nTemporary stop on Chicago Ave & 57th St (northbound)\r\nTemporary stop on Bloomington Ave & 45th St (northbound)\r\nBloomington Ave S & 44th St E - Stop #15586 (northbound)\r\n\nFor southbound Route 14 get on/off buses at:\r\nBloomington Ave S & 46th St E - Stop #15583 (southbound)\r\nTemporary stop on Chicago Ave & 55th St (southbound)\r\nChicago & 56th St Station - Stop #40472 (southbound)\r\n\nNorthbound buses will travel regular route on Chicago Ave to 56th St, left on 56th St, right on Portland Ave, left on Diamond Lake Rd, right onto I-35W northbound, exit at 46th St, right on 46th St, left on Bloomington Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Bloomington Ave to 46th St, right on 46th St, left onto I-35W southbound, exit at Diamond Lake Rd, left on Diamond Lake Rd, left on Portland Ave, right on 54th St, right on Chicago Ave and resume regular route.\r\n\nAffected stops:\r\nChicago & 56th St Station - Stop #775 (northbound)\r\nChicago Ave S & 54th St E - Stop #777 (northbound)\r\n54th St E & 12th Ave S - Stop #51836 (eastbound)\r\n54th St E & Bloomington Ave S - Stop #51838 (eastbound)\r\nBloomington Ave S & 52nd St E - Stop #15570 (northbound)\r\nBloomington Ave S & 50th St E - Stop #15574 (northbound)\r\nBloomington Ave S & 48th St E - Stop #15578 (northbound)\r\nBloomington Ave S & 47th St E - Stop #15581 (northbound)\r\nBloomington Ave S & 46th St E - Stop #15582 (northbound)\r\nBloomington Ave S & 47th St E - Stop #15580 (southbound)\r\nBloomington Ave S & 48th St E - Stop #15579 (southbound)\r\nBloomington Ave S & 50th St E - Stop #15575 (southbound)\r\nBloomington Ave S & 52nd St E - Stop #15571 (southbound)\r\nBloomington Ave S & 54th St E - Stop #15567 (southbound)\r\n54th St E & 12th Ave S - Stop #51832 (westbound)\r\n54th St E & Chicago Ave S - Stop #51834 (westbound)"
-    },
-    {
-      "id": "53169",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 17: Service Advisory",
-      "summary": "Route 17 service advisory near Lake St & E Bde Maka Ska Pkwy from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026",
-      "affectedRoutes": [
-        "Route 17"
-      ],
-      "direction": "All",
-      "intersections": [
-        "Route 17 service advisory near Lake St & E Bde Maka Ska Pkwy"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-04T09:00:00.000Z",
-        "end": "2026-10-04T16:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "OTHER_EFFECT",
-      "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-10-04T08:30:02.000Z",
-      "rawHeader": "Route 17 service advisory near Lake St & E Bde Maka Ska Pkwy from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026",
-      "rawDescription": "Due to Twin Cities Marathon, Route 17 buses will not detour near Lake St & E Bde Maka Ska Pkwy area, buses will drive around barricades. Expect delays due to runners."
-    },
-    {
       "id": "53646",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -3495,140 +3023,6 @@
       "updatedAt": "2026-09-22T14:42:50.000Z",
       "rawHeader": "Route 18 detoured off Nicollet Ave from 70th St to 77th St beginning Wed Sep 9 at 4:00 AM until further notice due to construction",
       "rawDescription": "Updated detour, affected stops, and get on/off stops 9/22 9:45 am.\r\n\nFor northbound Route 18 get on/off buses at:\r\n2nd Ave S Loop & American Blvd - Stop #51852 (18 buses departing 2nd Ave/American Blvd only)\r\nNicollet Ave & 77th St - Stop #1436 (northbound)\r\nPortland & 77th St Station - Stop #620 (northbound)\r\nPortland & 73rd St Station - Stop #56922 (northbound)\r\nNicollet Ave S & 69th St E - Stop #1444 (northbound)\r\n\nFor southbound Route 18 get on/off buses at:\r\nNicollet Ave S & 69th St W - Stop #1352 (southbound)\r\nPortland & 73rd St Station - Stop #444 (southbound)\r\nNicollet Ave S & 78th St W - Stop #1361 (southbound)\r\n2nd Ave S Loop & American Blvd - Stop #51852 (18D only)\r\n\nNorthbound buses that depart 104th St/Bloomington Frwy will travel regular route on Nicollet Ave to 77th St, right on 77th St, left on Portland Ave, left on 70th St, right on Nicollet Ave and resume regular route.\r\n\nNorthbound buses that depart 2nd Ave/American Blvd will travel regular route on 2nd Ave to American Blvd, right on American Blvd, right on Nicollet Ave, right on 77th St, left on Portland Ave, left on 70th St, right on Nicollet Ave, and resume regular route.\r\n\nSouthbound 18E buses will travel regular route on Nicollet Ave to 70th St, left on 70th St, right on Portland Ave, right on 77th St, left on Nicollet Ave and resume regular route.\r\n\nSouthbound 18D buses will travel regular route on Nicollet Ave to 70th St, left on 70th St, right on Portland Ave, right on 77th St, left on Nicollet Ave, left on American Blvd, left on 2nd Ave, left into turnaround and layover.\r\n\nAffected stops:\r\nAll northbound stops on Nicollet Ave from 76th St to 70th St\r\nAll southbound stops on Nicollet Ave from 70th St to 77th St"
-    },
-    {
-      "id": "53176",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 18: Detour via Nicollet Ave S & 56th St E",
-      "summary": "Route 18 detoured off Nicollet Ave from 46th St to Diamond Lake Rd from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: Nicollet Ave S & 56th St E - Stop #1765 (northbound); Nicollet Ave S & 44th St E - Stop #1874 (northbound).",
-      "affectedRoutes": [
-        "Route 18"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Nicollet Ave S & 56th St E",
-        "Nicollet Ave S & 44th St E",
-        "Nicollet Ave S & 46th St W",
-        "Nicollet Ave S & 56th St W",
-        "left on Nicollet Ave & resume regular route.\n\nAffected st"
-      ],
-      "closedStopIds": [
-        "3393",
-        "3395",
-        "1854",
-        "57377",
-        "1770",
-        "1863",
-        "1869",
-        "1872",
-        "1229",
-        "1230",
-        "1231",
-        "135",
-        "136",
-        "3386",
-        "1765",
-        "1874",
-        "1227",
-        "1339"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "3393",
-          "name": "Diamond Lake Rd & Nicollet Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "3395",
-          "name": "Diamond Lake Rd & Wentworth Ave",
-          "direction": "westbound"
-        },
-        {
-          "id": "1854",
-          "name": "Lyndale Ave S & 53rd St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "57377",
-          "name": "Lyndale Ave S & Minnehaha Pkwy",
-          "direction": "northbound"
-        },
-        {
-          "id": "1770",
-          "name": "Nicollet Ave S & 50th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "1863",
-          "name": "Nicollet Ave S & 49th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "1869",
-          "name": "Nicollet Ave S & 48th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "1872",
-          "name": "Nicollet Ave S & 46th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "1229",
-          "name": "Nicollet Ave S & 48th St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "1230",
-          "name": "Nicollet Ave S & 49th St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "1231",
-          "name": "Nicollet Ave S & 50th St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "135",
-          "name": "Lyndale Ave S & Minnehaha Pkwy",
-          "direction": "southbound"
-        },
-        {
-          "id": "136",
-          "name": "Lyndale Ave S & 53rd St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "3386",
-          "name": "Diamond Lake Rd & Wentworth Ave",
-          "direction": "eastbound"
-        },
-        {
-          "id": "1765"
-        },
-        {
-          "id": "1874"
-        },
-        {
-          "id": "1227"
-        },
-        {
-          "id": "1339"
-        }
-      ],
-      "riderAlternative": "Board at: Nicollet Ave S & 56th St E - Stop #1765 (northbound); Nicollet Ave S & 44th St E - Stop #1874 (northbound)",
-      "detourDetails": "Northbound buses will travel regular route on Nicollet to Diamond Lake Rd, right on Diamond Lake Rd, left onto I-35W northbound, exit at 46th St, left on 46th St, right on Nicollet Ave and resume regular route.",
-      "activePeriod": {
-        "start": "2026-10-04T09:00:00.000Z",
-        "end": "2026-10-04T17:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/18",
-      "updatedAt": "2026-10-04T08:30:01.000Z",
-      "rawHeader": "Route 18 detoured off Nicollet Ave from 46th St to Diamond Lake Rd from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
-      "rawDescription": "For northbound Route 18 get on/off buses at:\r\nNicollet Ave S & 56th St E - Stop #1765 (northbound)\r\nNicollet Ave S & 44th St E - Stop #1874 (northbound)\r\n\nFor southbound Route 18 get on/off buses at:\r\nNicollet Ave S & 46th St W - Stop #1227 (southbound)\r\nNicollet Ave S & 56th St W - Stop #1339 (southbound)\r\n\nNorthbound buses will travel regular route on Nicollet to Diamond Lake Rd, right on Diamond Lake Rd, left onto I-35W northbound, exit at 46th St, left on 46th St, right on Nicollet Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Nicollet Ave to 46th St, left on 46th St, right onto I-35W southbound, exit at Diamond Lake Rd, right on Diamond Lake Rd, left on Nicollet Ave and resume regular route.\r\n\nAffected stops:\r\nDiamond Lake Rd & Nicollet Ave S - Stop #3393 (westbound)\r\nDiamond Lake Rd & Wentworth Ave - Stop #3395 (westbound)\r\nLyndale Ave S & 53rd St W - Stop #1854 (northbound)\r\nLyndale Ave S & Minnehaha Pkwy - Stop #57377 (northbound)\r\nNicollet Ave S & 50th St E - Stop #1770 (northbound)\r\nNicollet Ave S & 49th St E - Stop #1863 (northbound)\r\nNicollet Ave S & 48th St E - Stop #1869 (northbound)\r\nNicollet Ave S & 46th St E - Stop #1872 (northbound)\r\nNicollet Ave S & 48th St W - Stop #1229 (southbound)\r\nNicollet Ave S & 49th St W - Stop #1230 (southbound)\r\nNicollet Ave S & 50th St W - Stop #1231 (southbound)\r\nLyndale Ave S & Minnehaha Pkwy - Stop #135 (southbound)\r\nLyndale Ave S & 53rd St W - Stop #136 (southbound)\r\nDiamond Lake Rd & Wentworth Ave - Stop #3386 (eastbound)"
     },
     {
       "id": "53320",
@@ -4448,76 +3842,6 @@
       "rawDescription": "For eastbound Route 38 get on/off buses at:\r\n38th St E & Portland Ave S - Stop #12618 (eastbound)\r\nPark & 38th St Station - Stop #80138 (northbound)\r\nTemporary stop on 36th St E & Chicago Ave S (eastbound)\r\nTemporary stop on 36th St E & 10th Ave S (eastbound)\r\nTemporary stop on 36th St E & 13th Ave S (eastbound)\r\nBloomington Ave S & 38th St E - Stop #51562 (southbound)\r\n38th St E & 17th Ave S - Stop #12589 (eastbound)\r\n\nFor westbound Route 38 get on/off buses at:\r\n38th St E & Bloomington Ave S - Stop #12593 (westbound)\r\nTemporary stop on 35th St E & 13th Ave S (westbound)\r\nTemporary stop on 35th St E & 10th Ave S (westbound)\r\nTemporary stop on 35th St E & Chicago Ave S (westbound)\r\nPortland & 38th St Station - Stop #80139 (southbound)\r\n38th St E & 4th Ave S - Stop #40366 (westbound)\r\n\nEastbound buses will travel the regular route on 38th St E to Park Ave, left on Park Ave, right on 36th St E, right on Bloomington Ave, left on 38th St E, and resume the regular route.\r\n\nWestbound buses will travel the regular route on 38th St E to Bloomington Ave, right on Bloomington Ave, left on 35th St E, left on Portland Ave, right on 38th St E, and resume the regular route.\r\n\nAffected stops:\r\n38th St E & Park Ave S - Stop #41920 (eastbound)\r\n38th St E & 10th Ave S - Stop #12606 (eastbound)\r\n38th St E & 13th Ave S - Stop #12599 (eastbound)\r\n38th St E & Bloomington Ave S - Stop #12594 (eastbound)\r\n38th St E & 13th Ave S - Stop #12600 (westbound)\r\n38th St E & 10th Ave S - Stop #12605 (westbound)\r\n38th St E & Park Ave S - Stop #12613 (westbound)\r\n38th St E & Portland Ave S - Stop #12617 (westbound)"
     },
     {
-      "id": "53182",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 38: Detour via 46th Ave S & 46th St E",
-      "summary": "Route 38 detoured off 46th Ave from 46th St to Minnesota Veterans Home from 4:00 AM to 1:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: 46th Ave S & 46th St E - Stop #53134 (southbound).",
-      "affectedRoutes": [
-        "Route 38"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "46th Ave S & 46th St E",
-        "left on 46th Ave & resume regular route.\n\nAffected st",
-        "46th Ave S & Godfrey Pkwy"
-      ],
-      "closedStopIds": [
-        "16492",
-        "16493",
-        "16494",
-        "16496",
-        "16497",
-        "53134",
-        "16498"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "16492",
-          "name": "46th Ave S & Godfrey Pkwy",
-          "direction": "southbound"
-        },
-        {
-          "id": "16493",
-          "name": "Minnesota Veterans Home & Bldg 19",
-          "direction": "eastbound"
-        },
-        {
-          "id": "16494",
-          "name": "Minnesota Veterans Home & Bldg 4",
-          "direction": "eastbound"
-        },
-        {
-          "id": "16496",
-          "name": "Minnesota Veterans Home & Bldg 19",
-          "direction": "westbound"
-        },
-        {
-          "id": "16497",
-          "name": "46th Ave S & Godfrey Pkwy",
-          "direction": "northbound"
-        },
-        {
-          "id": "53134"
-        },
-        {
-          "id": "16498"
-        }
-      ],
-      "riderAlternative": "Board at: 46th Ave S & 46th St E - Stop #53134 (southbound)",
-      "detourDetails": "buses will travel regular route on 46th Ave to 46th St, right on 46th St, right on Minnehaha Ave, left on 42nd St, left on 34th Ave, left on 46th St, left into 46th St Station and layover at Gate E.",
-      "activePeriod": {
-        "start": "2026-10-04T09:00:00.000Z",
-        "end": "2026-10-04T18:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/38",
-      "updatedAt": "2026-10-04T08:30:01.000Z",
-      "rawHeader": "Route 38 detoured off 46th Ave from 46th St to Minnesota Veterans Home from 4:00 AM to 1:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
-      "rawDescription": "For eastbound Route 38 get on/off buses at:\r\n46th Ave S & 46th St E - Stop #53134 (southbound)\r\n\nFor westbound Route 38 get on/off buses at:\r\n46th Ave S & 46th St E - Stop #16498 (northbound)\r\n\nEastbound 38C buses will travel regular route on 46th Ave to 46th St, right on 46th St, right on Minnehaha Ave, left on 42nd St, left on 34th Ave, left on 46th St, left into 46th St Station and layover at Gate E.\r\n\nWestbound 38 buses that normally depart Minnesota Veterans Home will depart temporary layover at 46th St Station and turn right on 46th St, right on 34th Ave, right on 42nd St, right on Minnehaha Ave, left on 46th St, left on 46th Ave and resume regular route.\r\n\nAffected stops:\r\n46th Ave S & Godfrey Pkwy - Stop #16492 (southbound)\r\nMinnesota Veterans Home & Bldg 19 - Stop #16493 (eastbound)\r\nMinnesota Veterans Home & Bldg 4 - Stop #16494 (eastbound)\r\nMinnesota Veterans Home & Bldg 19 - Stop #16496 (westbound)\r\n46th Ave S & Godfrey Pkwy - Stop #16497 (northbound)"
-    },
-    {
       "id": "53637",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -4606,110 +3930,52 @@
       "rawDescription": "Get on/off buses at:\r\nExcelsior Blvd & Wooddale Ave - Stop #3542 (westbound)\r\nExcelsior Blvd & Alabama Ave S - Stop #3545 (westbound)"
     },
     {
-      "id": "53185",
+      "id": "53747",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 46: Detour via 50th St W & Queen Ave S",
-      "summary": "Route 46 detoured off 50th St from Penn Ave to Lyndale Ave from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026. Board at: 50th St W & Queen Ave S - Stop #1004 (eastbound); Lyndale Ave S & 50th St W - Stop #1857 (northbound).",
+      "title": "Route 38: Detour via 38th St E & 42nd Ave S",
+      "summary": "Route 38 detoured off 38th St E from 43rd Ave S to 45th Ave S until later today due to non-transit related collision. Board at: 38th St E & 42nd Ave S - Stop #12533 (eastbound); 38th St E & 46th Ave S - Stop #12525 (eastbound); No westbound stops missed.",
       "affectedRoutes": [
-        "Route 46"
+        "Route 38"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "50th St W & Queen Ave S",
-        "Lyndale Ave S & 50th St W",
-        "50th St W & Sheridan Ave S",
-        "left on 50th St & resume regular route. \n\nAffected st",
-        "50th St W & Penn Ave S"
+        "38th St E & 42nd Ave S",
+        "38th St E & 46th Ave S",
+        "left on 38th St E & resume regular route.\n\nAffected st",
+        "38th St E & 44th Ave S",
+        "38th St E (43rd Ave S to 45th Ave S)"
       ],
       "closedStopIds": [
-        "1005",
-        "1009",
-        "1011",
-        "1016",
-        "40385",
-        "40386",
-        "179",
-        "183",
-        "186",
-        "190",
-        "1004",
-        "1857",
-        "1776"
+        "12529",
+        "12533",
+        "12525"
       ],
       "closedStopDetails": [
         {
-          "id": "1005",
-          "name": "50th St W & Penn Ave S",
+          "id": "12529",
+          "name": "38th St E & 44th Ave S",
           "direction": "eastbound"
         },
         {
-          "id": "1009",
-          "name": "50th St W & Logan Ave S",
-          "direction": "eastbound"
+          "id": "12533"
         },
         {
-          "id": "1011",
-          "name": "50th St W & Minnehaha Pkwy",
-          "direction": "eastbound"
-        },
-        {
-          "id": "1016",
-          "name": "50th St W & Dupont Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "40385",
-          "name": "50th St W & Bryant Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "40386",
-          "name": "50th St W & Bryant Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "179",
-          "name": "50th St W & Dupont Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "183",
-          "name": "50th St W & Minnehaha Pkwy",
-          "direction": "westbound"
-        },
-        {
-          "id": "186",
-          "name": "50th St W & Logan Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "190",
-          "name": "50th St W & Penn Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "1004"
-        },
-        {
-          "id": "1857"
-        },
-        {
-          "id": "1776"
+          "id": "12525"
         }
       ],
-      "riderAlternative": "Board at: 50th St W & Queen Ave S - Stop #1004 (eastbound); Lyndale Ave S & 50th St W - Stop #1857 (northbound)",
-      "detourDetails": "Eastbound buses will travel regular route on 50th St to Penn Ave, right on Penn Ave, left on 54th St which becomes Diamond Lake Rd, left onto I-35W northbound, exit at 46th St, left on 46th St, left on Nicollet Ave, right on 50th St, right on Lyndale Ave and resume regular route.",
+      "riderAlternative": "Board at: 38th St E & 42nd Ave S - Stop #12533 (eastbound); 38th St E & 46th Ave S - Stop #12525 (eastbound); No westbound stops missed",
+      "detourDetails": "Eastbound buses will travel regular route on 38th St E to 43rd Ave S, right on 43rd Ave S, left on 39th St E, left on 45th Ave S, right on 38th St E and resume regular route.",
       "activePeriod": {
-        "start": "2026-10-04T09:00:00.000Z",
-        "end": "2026-10-04T17:00:00.000Z"
+        "start": "2026-10-04T16:54:00.000Z",
+        "end": "2026-10-04T21:00:08.000Z"
       },
-      "cause": "OTHER_CAUSE",
+      "cause": "ACCIDENT",
       "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/46",
-      "updatedAt": "2026-10-04T08:30:01.000Z",
-      "rawHeader": "Route 46 detoured off 50th St from Penn Ave to Lyndale Ave from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
-      "rawDescription": "For eastbound Route 46 get on/off buses at:\r\n50th St W & Queen Ave S - Stop #1004 (eastbound)\r\nLyndale Ave S & 50th St W - Stop #1857 (northbound)\r\n\nFor westbound Route 46 get on/off buses at:\r\nLyndale Ave S & 50th St W - Stop #1776 (southbound)\r\n50th St W & Sheridan Ave S - Stop #193 (westbound)\r\n\nEastbound buses will travel regular route on 50th St to Penn Ave, right on Penn Ave, left on 54th St which becomes Diamond Lake Rd, left onto I-35W northbound, exit at 46th St, left on 46th St, left on Nicollet Ave, right on 50th St, right on Lyndale Ave and resume regular route.\r\n\nWestbound buses will travel regular route on Lyndale Ave to 50th St, left on 50th St, left on Nicollet Ave, right on 46th St, right onto I-35W southbound, exit at Diamond Lake Rd, right on Diamond Lake Rd which turns into 54th St, right on Penn Av, left on 50th St and resume regular route. \r\n\nAffected stops:\r\n50th St W & Penn Ave S - Stop #1005 (eastbound)\r\n50th St W & Logan Ave S - Stop #1009 (eastbound)\r\n50th St W & Minnehaha Pkwy - Stop #1011 (eastbound)\r\n50th St W & Dupont Ave S - Stop #1016 (eastbound)\r\n50th St W & Bryant Ave S - Stop #40385 (eastbound)\r\n50th St W & Bryant Ave S - Stop #40386 (westbound)\r\n50th St W & Dupont Ave S - Stop #179 (westbound)\r\n50th St W & Minnehaha Pkwy - Stop #183 (westbound)\r\n50th St W & Logan Ave S - Stop #186 (westbound)\r\n50th St W & Penn Ave S - Stop #190 (westbound)"
+      "url": "https://www.metrotransit.org/route/38",
+      "updatedAt": "2026-10-04T16:54:10.000Z",
+      "rawHeader": "Route 38 detoured off 38th St E from 43rd Ave S to 45th Ave S until later today due to non-transit related collision",
+      "rawDescription": "Get on/off buses at:\r\n38th St E & 42nd Ave S - Stop #12533 (eastbound)\r\n38th St E & 46th Ave S - Stop #12525 (eastbound)\r\nNo westbound stops missed\r\n\nEastbound buses will travel regular route on 38th St E to 43rd Ave S, right on 43rd Ave S, left on 39th St E, left on 45th Ave S, right on 38th St E and resume regular route.\r\n\nWestbound buses will travel regular route on 38th St E to 45th Ave S, left on 45th Ave S, right on 39th St E, right on 43rd Ave S, left on 38th St E and resume regular route.\r\n\nAffected stops:\r\n38th St E & 44th Ave S - Stop #12529 (eastbound)"
     },
     {
       "id": "51972",
@@ -5573,14 +4839,11 @@
       ],
       "riderAlternative": "Board at: Grand Ave & Cleveland Ave - Stop #56943 (eastbound)",
       "detourDetails": "Westbound buses will travel the regular route on Grand Ave to Cleveland Ave, left on Cleveland Ave, right on Lincoln Ave, right on Finn St, right on Grand Ave, and terminate at Grand Ave & Cleveland Ave - Stop #56943.",
-      "activePeriod": {
-        "start": "2026-10-04T10:00:00.000Z",
-        "end": "2026-10-04T21:00:00.000Z"
-      },
+      "activePeriod": {},
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/63",
-      "updatedAt": "2026-10-04T09:30:01.000Z",
+      "updatedAt": "2026-10-04T18:59:59.000Z",
       "rawHeader": "Route 63 detoured off Cretin Ave from Grand Ave to University Ave and off University Ave from Cretin Ave to Westgate Station from 5:00 AM to 4:00 PM on Sun Oct 4",
       "rawDescription": "For eastbound Route 63 get on/off buses at:\r\nGrand Ave & Cleveland Ave - Stop #56943 (eastbound)\r\n\nFor westbound Route 63 get on/off buses at:\r\nGrand Ave & Prior Ave - Stop #3095 (westbound)\r\nGrand Ave & Cleveland Ave - Stop #56943 (eastbound)\r\n\nEastbound buses will depart the temporary terminal at Grand Ave & Cleveland Ave - Stop #56943, continue eastbound on Grand Ave, and resume the regular route.\r\n\nWestbound buses will travel the regular route on Grand Ave to Cleveland Ave, left on Cleveland Ave, right on Lincoln Ave, right on Finn St, right on Grand Ave, and terminate at Grand Ave & Cleveland Ave - Stop #56943.\r\n\nAffected stops:\r\nWestgate Station - Gate C - Stop #15795 (southbound)\r\nUniversity Ave & Eustis St - Stop #15796 (eastbound)\r\nUniversity Ave & Raymond Ave - Stop #15798 (eastbound)\r\nUniversity Ave & Carleton St - Stop #15799 (eastbound)\r\nUniversity Ave & Hampden Ave - Stop #15801 (eastbound)\r\nUniversity Ave & Vandalia St - Stop #15803 (eastbound)\r\nVandalia St & Wabash Ave - Stop #56250 (southbound)\r\nCretin Ave & Temple Court - Stop #18669 (southbound)\r\nCretin Ave & Roblyn Ave - Stop #16955 (southbound)\r\nCretin Ave & Marshall Ave - Stop #16956 (southbound)\r\nCretin Ave & Selby Ave - Stop #18673 (southbound)\r\nCretin Ave & Summit Ave - Stop #18675 (southbound)\r\nGrand Ave & Cretin Ave - Stop #3104 (eastbound)\r\nGrand Ave & Cleveland Ave - Stop #56942 (westbound)\r\nGrand Ave & Cretin Ave - Stop #3099 (westbound)\r\nCretin Ave & Summit Ave - Stop #18683 (northbound)\r\nCretin Ave & Selby Ave - Stop #18685 (northbound)\r\nCretin Ave & Marshall Ave - Stop #18686 (northbound)\r\nCretin Ave & Roblyn Ave - Stop #16952 (northbound)\r\nCretin Ave & Temple Court - Stop #16953 (northbound)\r\nVandalia St & Wabash Ave - Stop #56249 (northbound)\r\nUniversity Ave & Vandalia St - Stop #56941 (westbound)\r\nUniversity Ave & Hampden Ave - Stop #15874 (westbound)\r\nUniversity Ave & Carleton St - Stop #15876 (westbound)\r\nUniversity Ave & Raymond Ave - Stop #15877 (westbound)\r\nTerritorial Rd & Westgate Dr - Stop #18640 (westbound)"
     },
@@ -6159,68 +5422,6 @@
       "updatedAt": "2026-08-26T18:48:01.000Z",
       "rawHeader": "Minnehaha Ave & Dale St - Stop #15065 (eastbound) is closed for Route 67 until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nMinnehaha Ave & St Albans St - Stop #15064 (eastbound)\r\nDale St & Blair Ave - Stop #10740 (southbound)"
-    },
-    {
-      "id": "53183",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 67: Detour via Franklin Ave E & 29th Ave S",
-      "summary": "Route 67 detoured off Franklin Ave from 30th Ave to 27th Ave from 4:00 AM to 4:00 PM on Sun Oct 4 due to Twin Cites Marathon 2026. Board at: Franklin Ave E & 29th Ave S - Stop #16512 (eastbound); Franklin Ave SE & East River Rd - Stop #52059 (eastbound).",
-      "affectedRoutes": [
-        "Route 67"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Franklin Ave E & 29th Ave S",
-        "Franklin Ave SE & East River Rd",
-        "Franklin Ave SE & 27th Ave S",
-        "Franklin Ave E & Riverside Ave",
-        "Franklin Ave E & 31st Ave S"
-      ],
-      "closedStopIds": [
-        "16514",
-        "16558",
-        "16512",
-        "52059",
-        "16534",
-        "57627"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "16514",
-          "name": "Franklin Ave E & 31st Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "16558",
-          "name": "Franklin Ave E & 31st Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "16512"
-        },
-        {
-          "id": "52059"
-        },
-        {
-          "id": "16534"
-        },
-        {
-          "id": "57627"
-        }
-      ],
-      "riderAlternative": "Board at: Franklin Ave E & 29th Ave S - Stop #16512 (eastbound); Franklin Ave SE & East River Rd - Stop #52059 (eastbound)",
-      "detourDetails": "Eastbound buses will travel the regular route on Franklin Ave to 30th Ave, right on 30th Ave, right on 22nd St, right on 29th Ave onto Riverside Ave, right onto eastbound I-94, exit for Huron Blvd, right on Delaware St, right on 27th Ave, left on Franklin Ave, and resume the regular route.",
-      "activePeriod": {
-        "start": "2026-10-04T09:00:00.000Z",
-        "end": "2026-10-04T21:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/67",
-      "updatedAt": "2026-10-04T08:30:01.000Z",
-      "rawHeader": "Route 67 detoured off Franklin Ave from 30th Ave to 27th Ave from 4:00 AM to 4:00 PM on Sun Oct 4 due to Twin Cites Marathon 2026",
-      "rawDescription": "For eastbound Route 67 get on/off buses at:\r\nFranklin Ave E & 29th Ave S - Stop #16512 (eastbound)\r\nFranklin Ave SE & East River Rd - Stop #52059 (eastbound)\r\n\nFor westbound Route 67 get on/off buses at:\r\nFranklin Ave SE & 27th Ave SE - Stop #16534 (westbound)\r\nFranklin Ave E & Riverside Ave - Stop #57627 (westbound)\r\n\nEastbound buses will travel the regular route on Franklin Ave to 30th Ave, right on 30th Ave, right on 22nd St, right on 29th Ave onto Riverside Ave, right onto eastbound I-94, exit for Huron Blvd, right on Delaware St, right on 27th Ave, left on Franklin Ave, and resume the regular route.\r\n\nWestbound buses will travel the regular route on Franklin Ave to 27th Ave, right on 27th Ave, left on Essex St, left on Huron Blvd, continue onto westbound I-94, exit for Riverside Ave, left Riverside Ave onto 29th Ave, left on 22nd St, left on 30th Ave, left on Franklin Ave, and resume the regular route.\r\n\nAffected stops:\r\nFranklin Ave E & 31st Ave S - Stop #16514 (eastbound)\r\nFranklin Ave E & 31st Ave S - Stop #16558 (westbound)"
     },
     {
       "id": "53620",
