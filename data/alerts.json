@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-04T02:21:44.557Z",
-    "totalAlerts": 130,
-    "criticalCount": 4,
+    "generatedAt": "2026-10-04T09:18:02.487Z",
+    "totalAlerts": 126,
+    "criticalCount": 0,
     "moderateCount": 123,
     "minorCount": 3,
     "affectedRoutesCount": 79,
@@ -11,366 +11,6 @@
     ]
   },
   "alerts": [
-    {
-      "id": "53709",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 9: Westbound 8:36 PM Trip Canceled (46th St Station & Gate H)",
-      "summary": "Westbound Route 9 trip departing 46th St Station & Gate H at 8:36 PM canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 9"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-04T01:36:00.000Z",
-        "end": "2026-10-04T03:45:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/9",
-      "updatedAt": "2026-10-04T01:06:00.000Z",
-      "rawHeader": "Westbound Route 9 trip departing 46th St Station & Gate H at 8:36 PM canceled today due to mechanical issue",
-      "rawDescription": ""
-    },
-    {
-      "id": "53710",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 18: Northbound 8:03 PM Trip Canceled (104th St W & Bloomington Fwy W)",
-      "summary": "Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 8:03 PM canceled today",
-      "affectedRoutes": [
-        "Route 18"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-04T01:03:00.000Z",
-        "end": "2026-10-04T03:12:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/18",
-      "updatedAt": "2026-10-04T00:49:28.000Z",
-      "rawHeader": "Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 8:03 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "53707",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 38: Service Canceled",
-      "summary": "Route 38 trips departing Bren Rd E & Blue Circle Dr at 8:52 PM and departing Minnesota Veterans Home & Bldg 4 at 10:24 PM canceled today",
-      "affectedRoutes": [
-        "Route 38"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 38 trips departing Bren Rd E & Blue Circle Dr"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-04T01:52:00.000Z",
-        "end": "2026-10-04T05:32:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/38",
-      "updatedAt": "2026-10-04T01:22:01.000Z",
-      "rawHeader": "Route 38 trips departing Bren Rd E & Blue Circle Dr at 8:52 PM and departing Minnesota Veterans Home & Bldg 4 at 10:24 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "53711",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 62: Northbound 8:31 PM Trip Canceled (Rice St & Orange Ave)",
-      "summary": "Northbound Route 62 trip departing Rice St & Orange Ave at 8:31 PM canceled today",
-      "affectedRoutes": [
-        "Route 62"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [
-        "10505",
-        "10507",
-        "10508",
-        "45401",
-        "45402",
-        "46702",
-        "46704",
-        "46705",
-        "46707",
-        "46708",
-        "46709",
-        "46710",
-        "46711",
-        "46712",
-        "46713",
-        "46715",
-        "46716",
-        "46718",
-        "46720",
-        "46721",
-        "46723",
-        "46786",
-        "46812",
-        "46813",
-        "46814",
-        "46815",
-        "46816",
-        "46817",
-        "46818",
-        "46819",
-        "46820",
-        "46978",
-        "46979",
-        "46980",
-        "46981",
-        "46982",
-        "46983",
-        "46984",
-        "46985",
-        "46986",
-        "46987",
-        "46988",
-        "46990",
-        "46992",
-        "47427",
-        "49137",
-        "49138",
-        "49139",
-        "49141",
-        "49142",
-        "49179",
-        "50574",
-        "49290",
-        "56096",
-        "53138",
-        "52555",
-        "53167",
-        "50674",
-        "56465",
-        "45189",
-        "45190",
-        "45191",
-        "45305"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "10505"
-        },
-        {
-          "id": "10507"
-        },
-        {
-          "id": "10508"
-        },
-        {
-          "id": "45401"
-        },
-        {
-          "id": "45402"
-        },
-        {
-          "id": "46702"
-        },
-        {
-          "id": "46704"
-        },
-        {
-          "id": "46705"
-        },
-        {
-          "id": "46707"
-        },
-        {
-          "id": "46708"
-        },
-        {
-          "id": "46709"
-        },
-        {
-          "id": "46710"
-        },
-        {
-          "id": "46711"
-        },
-        {
-          "id": "46712"
-        },
-        {
-          "id": "46713"
-        },
-        {
-          "id": "46715"
-        },
-        {
-          "id": "46716"
-        },
-        {
-          "id": "46718"
-        },
-        {
-          "id": "46720"
-        },
-        {
-          "id": "46721"
-        },
-        {
-          "id": "46723"
-        },
-        {
-          "id": "46786"
-        },
-        {
-          "id": "46812"
-        },
-        {
-          "id": "46813"
-        },
-        {
-          "id": "46814"
-        },
-        {
-          "id": "46815"
-        },
-        {
-          "id": "46816"
-        },
-        {
-          "id": "46817"
-        },
-        {
-          "id": "46818"
-        },
-        {
-          "id": "46819"
-        },
-        {
-          "id": "46820"
-        },
-        {
-          "id": "46978"
-        },
-        {
-          "id": "46979"
-        },
-        {
-          "id": "46980"
-        },
-        {
-          "id": "46981"
-        },
-        {
-          "id": "46982"
-        },
-        {
-          "id": "46983"
-        },
-        {
-          "id": "46984"
-        },
-        {
-          "id": "46985"
-        },
-        {
-          "id": "46986"
-        },
-        {
-          "id": "46987"
-        },
-        {
-          "id": "46988"
-        },
-        {
-          "id": "46990"
-        },
-        {
-          "id": "46992"
-        },
-        {
-          "id": "47427"
-        },
-        {
-          "id": "49137"
-        },
-        {
-          "id": "49138"
-        },
-        {
-          "id": "49139"
-        },
-        {
-          "id": "49141"
-        },
-        {
-          "id": "49142"
-        },
-        {
-          "id": "49179"
-        },
-        {
-          "id": "50574"
-        },
-        {
-          "id": "49290"
-        },
-        {
-          "id": "56096"
-        },
-        {
-          "id": "53138"
-        },
-        {
-          "id": "52555"
-        },
-        {
-          "id": "53167"
-        },
-        {
-          "id": "50674"
-        },
-        {
-          "id": "56465"
-        },
-        {
-          "id": "45189"
-        },
-        {
-          "id": "45190"
-        },
-        {
-          "id": "45191"
-        },
-        {
-          "id": "45305"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-04T01:38:00.000Z",
-        "end": "2026-10-04T02:43:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/62",
-      "updatedAt": "2026-10-04T01:40:08.000Z",
-      "rawHeader": "Northbound Route 62 trip departing Rice St & Orange Ave at 8:31 PM canceled today",
-      "rawDescription": ""
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -479,7 +119,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/aline",
-      "updatedAt": "2026-10-03T05:00:02.000Z",
+      "updatedAt": "2026-10-04T05:00:00.000Z",
       "rawHeader": "A Line detoured off Snelling Ave from St Clair Ave to Selby Ave from 5:00 AM to 4:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "For northbound A Line get on/off buses at:\r\nSnelling & Randolph Station - Stop #56115 (northbound)\r\nTemporary stop on Snelling Ave & Stanford Ave (northbound)\r\nSnelling & Dayton Station - Stop #17371 (northbound)\r\n\nFor southbound A Line get on/off buses at:\r\nSnelling & Dayton Station - Stop #17307 (southbound)\r\nTemporary stop on Snelling Ave & Stanford Ave (southbound)\r\nSnelling & Randolph Station - Stop #56123 (southbound)\r\n\nNorthbound buses will travel the regular route on Snelling Ave to St Clair Ave, right on St Clair ave, right onto northbound Ayd Mill Rd, left on Selby Ave, right on Snelling Ave, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Snelling Ave to Selby Ave, left on Selby Ave, right onto southbound Ayd Mill Rd, exit right for St Clair Ave, right on St Clair Ave, left on Snelling Ave, and resume the regular route.\r\n\nAffected stops:\r\nSnelling & St Clair Station - Stop #56116 (northbound)\r\nSnelling & Grand Station - Stop #17366 (northbound)\r\nSnelling Ave S & Summit Ave - Stop #80653 (northbound)\r\nSnelling Ave & Summit Ave - Stop #17311 (southbound)\r\nSnelling & Grand Station - Stop #17312 (southbound)\r\nSnelling & St Clair Station - Stop #17318 (southbound)"
     },
@@ -612,7 +252,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-10-03T05:00:02.000Z",
+      "updatedAt": "2026-10-04T05:00:00.000Z",
       "rawHeader": "B Line detoured off Selby Ave from Lexington Pkwy to Summit Ave and off Kellogg Blvd from John Ireland Blvd to Smith Ave from 5:00 AM to 4:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "For eastbound B Line get on/off buses at:\r\nSelby & Hamline Station - Stop #16996 (eastbound)\r\nSelby Ave & Dunlap St - Stop #17003 (eastbound)\r\n5th St & 7th St W - Stop #11834 (eastbound)\r\nRice Park Station - Stop #3142 (eastbound)\r\n\nFor westbound B Line get on/off buses at:\r\n6th St & Washington Station - Stop #11863 (westbound)\r\nSelby Ave & Dunlap St - Stop #17002 (westbound)\r\nSelby & Hamline Station - Stop #16997 (westbound)\r\n\nEastbound buses will travel the regular route on Selby Ave to Lexington Pkwy, left on Lexington Pkwy, right onto eastbound I-94, exit for 5th St and continue to Smith Ave, continue on 5th St and resume the regular route.\r\n\nWestbound buses will travel the regular route on Old 6th St to Smith Ave, continue onto the 5th St ramp onto westbound I-94, exit for Lexington Pkwy, left on Lexington Pkwy, right on Selby Ave, and resume the regular route.\r\n\nAffected stops:\r\nSelby & Lexington Station - Stop #57328 (eastbound)\r\nSelby & Victoria Station - Stop #57329 (eastbound)\r\nSelby & Dale Station - Stop #17022 (eastbound)\r\nSelby & Arundel Station - Stop #17029 (eastbound)\r\nJohn Ireland & Marshall Station - Stop #11885 (northbound)\r\nSmith & 5th St Station - Stop #57416 (eastbound)\r\nSmith & Kellogg Station - Stop #52760 (westbound)\r\nJohn Ireland & Marshall Station - Stop #11888 (southbound)\r\nSelby & Western Station - Stop #17031 (westbound)\r\nSelby & Dale Station - Stop #57338 (westbound)\r\nSelby & Victoria Station - Stop #17013 (westbound)\r\nSelby & Lexington Station - Stop #17005 (westbound)"
     },
@@ -683,7 +323,7 @@
       },
       "cause": "OTHER_CAUSE",
       "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-10-03T05:00:02.000Z",
+      "updatedAt": "2026-10-04T05:00:02.000Z",
       "rawHeader": "METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 10/4 from 11am - 7pm",
       "rawDescription": "Due to street closures around U.S. Bank Stadium Station during the Vikings game, please transfer between the METRO Blue and Green lines at Government Plaza Station instead.\r\n\nAffected stops:\r\nU.S. Bank Stadium Station (eastbound)\r\nU.S. Bank Stadium Station (northbound)\r\nU.S. Bank Stadium Station (southbound)\r\nU.S. Bank Stadium Station (westbound)"
     },
@@ -850,7 +490,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-10-03T05:00:01.000Z",
+      "updatedAt": "2026-10-04T08:30:01.000Z",
       "rawHeader": "D Line detoured off Chicago Ave from 56th St to 46th St from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "For northbound D Line get on/off buses at:\r\nPortland & 60th St Station - Stop #737 (northbound)\r\nChicago Ave S & 45th St E - Stop #787 (northbound)\r\nChicago & 42nd St Station - Stop #56924 (northbound)\r\n\nFor southbound D Line get on/off buses at:\r\nChicago & 42nd St Station - Stop #56916 (southbound)\r\nChicago Ave S & 45th St E - Stop #64 (southbound)\r\nPortland & 60th St Station - Stop #431 (southbound)\r\n\nNorthbound buses will travel the regular route on Portland Ave to Diamond Lake Rd, left on Diamond Lake Rd, right onto northbound I-35W, exit at 46th St, right on 46th St, left on Chicago Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Chicago Ave to 46th St, right on 46th St, left onto I-35W southbound, exit at Diamond Lake Rd, left on Diamond Lake Rd, right on Portland Ave, and resume the regular route.\r\n\nAffected stops:\r\nChicago Ave & 56th St E - Stop #81078 (northbound)\r\nChicago & 52nd St Station - Stop #779 (northbound)\r\nChicago & 48th St Station - Stop #784 (northbound)\r\nChicago & 46th St Station - Stop #56923 (northbound)\r\nChicago & 46th St Station - Stop #56917 (southbound)\r\nChicago & 48th St Station - Stop #56918 (southbound)\r\nChicago & 52nd St Station - Stop #56919 (southbound)\r\nChicago Ave & 56th St E - Stop #81079 (southbound)"
     },
@@ -1151,7 +791,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-10-03T05:00:01.000Z",
+      "updatedAt": "2026-10-04T08:30:01.000Z",
       "rawHeader": "E Line detoured from Hennepin Ave from 24th St W to University Ave from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "For northbound E Line get on/off buses at:\r\nHennepin & 25th St Station - Stop #1327 (northbound)\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\nNicollet Mall & 7th St S - Stop #17994 (northbound)\r\nNicollet Mall & 5th St S - Stop #17996 (northbound)\r\nNicollet Mall & 3rd St S - Stop #17998 (northbound)\r\nCentral Ave & University Ave SE - Stop #14952 (northbound) \r\nUniversity & Central Station - Stop #12281 (eastbound)\r\n\nFor southbound E Line get on/off buses at:\r\n4th St & 6th Ave Station - Stop #16119 (westbound)\r\nCentral Ave & 4th St SE - Stop #46801 (southbound)\r\nNicollet Mall & 3rd St - Stop #17976 (southbound)\r\nNicollet Mall & 5th St S - Stop #17978 (southbound)\r\nNicollet Mall & 7th St S - Stop #17980 (southbound)\r\nNicollet Mall & 9th St S - Stop #17982 (southbound)\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17986 (southbound)\r\nHennepin & 25th St Station - Stop #1100 (southbound)\r\n\nNorthbound buses will travel regular route on Hennepin Ave to 24th St, right on 24th St, left on Nicollet Ave, right on Washington Ave, left on 3rd Ave, right on University Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on 4th St SE, left on Central Ave, right on Washington Ave, left on Nicollet Mall, right on 24th St, left on Hennepin Ave, and resume regular route.\r\n\nAffected stops:\r\nHennepin & Franklin Station - Stop #1330 (northbound)\r\nHennepin & Groveland Station - Stop #17936 (northbound)\r\nHennepin & Spruce Station - Stop #17941 (northbound)\r\nHennepin & 10th St Station - Stop #17944 (northbound)\r\nHennepin & 8th St Station - Stop #53099 (northbound)\r\nHennepin & 5th St Station - Stop #17947 (northbound)\r\nHennepin & 4th St Station - Stop #17948 (northbound)\r\nHennepin & Gateway Station - Stop #17951 (northbound)\r\nHennepin & 2nd St NE Station - Stop #15477 (eastbound)\r\n4th St & Central Station - Stop #16124 (westbound)\r\n1st Ave & 2nd St NE Station - Stop #15562 (westbound)\r\nHennepin & Gateway Station - Stop #17919 (southbound)\r\nHennepin & 3rd St Station - Stop #17921 (southbound)\r\nHennepin & 5th St Station - Stop #17922 (southbound)\r\nHennepin & 8th St Station - Stop #17923 (southbound)\r\nHennepin & 11th St Station - Stop #17925 (southbound)\r\nHennepin & Laurel Station - Stop #17927 (southbound)\r\nHennepin & Groveland Station - Stop #17932 (southbound)\r\nHennepin & Franklin Station - Stop #1096 (southbound)"
     },
@@ -1482,7 +1122,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-10-03T05:00:02.000Z",
+      "updatedAt": "2026-10-04T05:00:00.000Z",
       "rawHeader": "Route 2 detoured off Washington Ave from Oak St to Cedar Ave and off 4th St SE from Oak St to 15th Ave SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure",
       "rawDescription": "For eastbound Route 2 get on/off buses at:\r\nCedar Ave S & 3rd St S - Stop #13219 (northbound)\r\n4th St & 15th Ave Station - Stop #16112 (westbound)\r\n\nFor westbound Route 2 get on/off buses at:\r\nUniversity & U of M Rec Center Station - Stop #16142 (eastbound)\r\n3rd St S & Cedar Ave S - Stop #42452 (eastbound)\r\n\nEastbound buses will travel regular route on Cedar Ave to 3rd St, continue on Cedar to Washington Ave/15th Ave S, right on Washington, left on 19th Ave S and continue across the bridge which becomes 10th Ave SE, right on 6th St SE, right on 15th Ave SE, right on 4th St SE, and resume regular route.\r\n\nWestbound buses will travel regular route on Oak St to Washington Ave, left on Washington, right on Huron Blvd and continue onto westbound I-94 ramp, exit at Cedar Ave, right on Cedar, right on 3rd St, and resume regular route.\r\n\nAffected stops:\r\nWashington Ramp & Cedar Ave S - Stop #13221 (eastbound)\r\nWashington Ave & Anderson Hall - Stop #13223 (eastbound)\r\nWashington Ave & Coffman Union - Stop #13209 (eastbound)\r\nOak St SE & University Ave SE - Stop #41243 (northbound)\r\n4th St & Ridder Arena Station - Stop #16154 (westbound)\r\nOak St SE & Washington Ave SE - Stop #41248 (southbound)\r\nWashington Ave & Coffman Union - Stop #13207 (westbound)\r\nWashington Ave & Willey Hall - Stop #13211 (westbound)"
     },
@@ -1733,7 +1373,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-10-03T05:00:01.000Z",
+      "updatedAt": "2026-10-04T08:30:01.000Z",
       "rawHeader": "Route 3 detoured off Washington Ave from 3rd Ave to I-35W from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nWashington Ave S & Marquette Ave - Stop #19315 (eastbound)\r\nWashington Ave S & 15th Ave S - Stop #57023 (eastbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\nCedar Ave S & Washington Ave (15th Ave) - Stop #16325 (westbound)\r\nWashington Ave S & 3rd Ave / 2nd Ave - Stop #19308 (westbound)\r\n\nEastbound buses will travel regular route on Washington Ave to 3rd Ave S, left on 3rd Ave S, right on University Ave SE, right onto ramp to I-35W southbound, exit at Washington Ave, left on Washington Ave and resume regular route.\r\n\nWestbound buses will travel regular route on Washington Ave to I-35W, right onto ramp to I-35W northbound, exit at University Ave/4th St SE, left on 4th St SE, left on Central Ave, right on Washington Ave and resume regular route.\r\n\nAffected stops:\r\nWashington Ave S & 3rd Ave / 4th Ave - Stop #19317 (eastbound)\r\nWashington Ave S & Portland Ave - Stop #19318 (eastbound)\r\nWashington Ave S & Chicago Ave S - Stop #19320 (eastbound)\r\nWashington Ave S & 11th Ave S - Stop #19322 (eastbound)\r\nWashington Ave S & 11th Ave S - Stop #19302 (westbound)\r\nWashington Ave S & Chicago Ave - Stop #19304 (westbound)\r\nWashington Ave S & Park Ave - Stop #19306 (westbound)\r\nWashington Ave S & 5th Ave S - Stop #19307 (westbound)"
     },
@@ -1830,7 +1470,7 @@
       },
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
-      "updatedAt": "2026-10-03T05:00:02.000Z",
+      "updatedAt": "2026-10-04T05:00:01.000Z",
       "rawHeader": "Routes 3, 62 and 67 detoured off Rice St from University Ave to 12th St and off 12th St from Rice St to Cedar St from 5:00 AM to 4:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "Get on/off eastbound Route 3 and 67 and southbound Route 62 buses at:\r\nRice St & Charles Ave - Stop #974 (southbound)\r\nCedar St & 10th St - Stop #11912 (southbound)\r\n\nGet on/off westbound Route 3 and 67 and northbound Route 62 buses at:\r\n10th St E & Cedar St - Stop #52329 (westbound)\r\nRice St & Charles Ave - Stop #10488 (northbound)\r\n\nEastbound and southbound buses will travel the regular route on Rice St to University Ave, left on University Ave, right on Robert St, right on 12th St, left on Cedar St, and resume the regular route.\r\n\nWestbound and northbound buses will travel the regular route on Cedar St to 11th St, right on 11th St, left on Robert St, left on University Ave, right on Rice St, and resume the regular route.\r\n\nAffected stops:\r\nRice St & University Ave - Stop #975 (southbound)\r\nRice St & Aurora/Rondo Ave - Stop #11896 (southbound)\r\n12th Street W/Rice St & John Ireland Blv - Stop #57018 (southbound)\r\n11th St W & St Peter St - Stop #49450 (eastbound)\r\n10th St E & Cedar St - Stop #52329 (westbound)\r\n12th St E & Wabasha St - Stop #20008 (westbound)\r\n12th St W & John Ireland Blvd - Stop #56164 (westbound)\r\nRice St & Rondo/Aurora Ave - Stop #11891 (northbound)\r\nRice St & University Ave - Stop #11893 (northbound)"
     },
@@ -1932,7 +1572,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-10-03T05:00:02.000Z",
+      "updatedAt": "2026-10-04T05:00:00.000Z",
       "rawHeader": "Route 3 detoured off Washington Ave from Cedar Ave to Pleasant St and off Pleasant St from Washington Ave to 4th St SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure",
       "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nWashington Ave S & 15th Ave S - Stop #57023 (eastbound)\r\n3rd St S & Cedar Ave S - Stop #42452 (eastbound)\r\n15th Ave SE & 4th St SE - Stop #16111 (northbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\n15th Ave SE & 4th St SE - Stop #49242 (southbound)\r\nTemporary stop on Washington Ave/15th Ave S & Washington Ave/Cedar Ave, in front of Town Hall Brewery (southbound)\r\nWashington Ave S & 11th Ave S - Stop #19302 (westbound)\r\n\nEastbound buses will travel regular route on Cedar Ave to 3rd St, left on 3rd St (buses do not travel down ramp), left on 19th Ave S and continue across bridge which becomes 10th Ave SE, right on University Ave, left on 15th Ave SE, and resume regular route.\r\n\nWestbound buses will travel regular route on 15th Ave SE to 4th St SE, right on 4th St, left on 10th Ave SE and continue across bridge which becomes 19th Ave S, right on Washington Ave/2nd St S, right on Washington Ave/Cedar Ave, and resume regular route.\r\n\nAffected stops:\r\nWashington Ramp & Cedar Ave S - Stop #13221 (eastbound)\r\nWashington Ave & Anderson Hall - Stop #13223 (eastbound)\r\nE River Pkwy & Appleby Hall - Stop #57013 (northbound)\r\nPleasant St & Jones Hall - Stop #49881 (northbound)\r\nPleasant St & Eddy Hall - Stop #49237 (southbound)\r\nPleasant St SE & Scholars Walk - Stop #54046 (southbound)\r\nWashington Ave & Willey Hall - Stop #13211 (westbound)\r\nCedar Ave S & Washington Ave (15th Ave) - Stop #16325 (westbound)"
     },
@@ -2039,7 +1679,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/4",
-      "updatedAt": "2026-10-03T05:00:02.000Z",
+      "updatedAt": "2026-10-04T08:30:02.000Z",
       "rawHeader": "Route 4L detoured off Lyndale Ave from 46th St to 54th St from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cites Marathon 2026",
       "rawDescription": "For northbound Route 4(via Lyndale Ave) get on/off buses at:\r\nLyndale Ave S & 54th St W - Stop #1853 (northbound)\r\nLyndale Ave S & 45th St W - Stop #40276 (northbound)\r\n\nFor southbound Route 4L get on/off buses at:\r\nLyndale Ave S & 45th St W - Stop #40277 (southbound)\r\nLyndale Ave S & 54th St W - Stop #137 (southbound)\r\n\nNorthbound 4 buses via Lyndale Ave will travel regular route on Lyndale Ave to 54th St, right on 54th St which turns into Diamond Lake Rd, left onto I-35W northbound. exit at 46th St, left on 46th St, right on Lyndale Ave and resume regular route.\r\n\nSouthbound 4L buses will travel regular route on Lyndale Ave to 46th St, left on 46th St, right onto I-35W southbound, exit at Diamond Lake Rd, right on Diamond Lake Rd, left on Lyndale Ave and resume regular route.\r\n\nAffected stops:\r\nLyndale Ave S & 53rd St W - Stop #1854 (northbound)\r\nLyndale Ave S & Minnehaha Pkwy - Stop #57377 (northbound)\r\nLyndale Ave S & 50th St W - Stop #1857 (northbound)\r\nLyndale Ave S & 48th St W - Stop #54058 (northbound)\r\nLyndale Ave S & 46th St W - Stop #57203 (northbound)\r\nLyndale Ave S & 46th St W - Stop #2855 (southbound)\r\nLyndale Ave S & 48th St W - Stop #2856 (southbound)\r\nLyndale Ave S & 50th St W - Stop #1776 (southbound)\r\nLyndale Ave S & Minnehaha Pkwy - Stop #135 (southbound)\r\nLyndale Ave S & 53rd St W - Stop #136 (southbound)"
     },
@@ -2204,7 +1844,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/4",
-      "updatedAt": "2026-10-03T05:00:01.000Z",
+      "updatedAt": "2026-10-04T08:30:01.000Z",
       "rawHeader": "Route 4P detoured off Penn Ave from 54th St to 50th St, 50th St from Penn Ave to Lyndale Ave, and Lyndale from 50th St to 46th St  from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "For northbound Route 4(via Penn Ave) get on/off buses at:\r\nPenn Ave S & 54th St W - Stop #1091 (northbound)\r\nLyndale Ave S & 45th St W - Stop #40276 (northbound)\r\n\nFor southbound Route 4P get on/off buses at:\r\nLyndale Ave S & 45th St W - Stop #40277 (southbound)\r\nPenn Ave S & 56th St W - Stop #1025 (southbound)\r\n\nNorthbound buses via Penn Ave will travel regular route on Penn Ave to 54th St, right on 54th St which turns into Diamond Lake Rd, left onto I-35W northbound, exit at 46th St, left on 46th St, right on Lyndale Ave and resume regular route.\r\n\nSouthbound 4P buses will travel regular route on Lyndale Ave to 46th St, left on 46th St, right on I-35W southbound, exit at Diamond Lake Rd, right on Diamond Lake Rd which turns into 54th St, left on Penn Ave and resume regular route.\r\n\nAffected stops:\r\nPenn Ave S & 52nd St W - Stop #1093 (northbound)\r\n50th St W & Penn Ave S - Stop #1005 (eastbound)\r\n50th St W & Logan Ave S - Stop #1009 (eastbound)\r\n50th St W & Minnehaha Pkwy - Stop #1011 (eastbound)\r\n50th St W & Dupont Ave S - Stop #1016 (eastbound)\r\n50th St W & Bryant Ave S - Stop #40385 (eastbound)\r\nLyndale Ave S & 50th St W - Stop #1857 (northbound)\r\nLyndale Ave S & 48th St W - Stop #54058 (northbound)\r\nLyndale Ave S & 46th St W - Stop #57203 (northbound)\r\nLyndale Ave S & 46th St W - Stop #2855 (southbound)\r\nLyndale Ave S & 48th St W - Stop #2856 (southbound)\r\nLyndale Ave S & 50th St W - Stop #1776 (southbound)\r\n50th St W & Bryant Ave S - Stop #40386 (westbound)\r\n50th St W & Dupont Ave S - Stop #179 (westbound)\r\n50th St W & Minnehaha Pkwy - Stop #183 (westbound)\r\n50th St W & Logan Ave S - Stop #186 (westbound)\r\nPenn Ave S & 50th St W - Stop #1018 (southbound)\r\nPenn Ave S & 52nd St W - Stop #1020 (southbound)\r\nPenn Ave S & 54th St W - Stop #1023 (southbound)"
     },
@@ -2441,7 +2081,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/4",
-      "updatedAt": "2026-10-03T05:00:01.000Z",
+      "updatedAt": "2026-10-04T08:30:01.000Z",
       "rawHeader": "Route 4 detoured off Lyndale Ave/Hennepin Ave from 24th St W to Central Ave from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "Updated 9/28 at 9AM to reflect additional detour directions for buses originating and terminating in downtown.\r\n\nGet on/off northbound buses at:\r\nLyndale & 24th - Stop #175\r\nTemporary stop on 24th & Nicollet\r\nNicollet & Franklin - Stop #1905\r\nNicollet & 18th - Stop #1911\r\nNicollet & 16th - Stop #1914\r\nNicollet & 14th / Grant - Stop #1920\r\nNicollet Mall & Alice Rainville - Stop #17988\r\nNicollet Mall & 11th - Stop #17990\r\nNicollet Mall & 9th - Stop #17992\r\nNicollet Mall & 7th - Stop #17994\r\nNicollet Mall & 5th - Stop #17996\r\nNicollet Mall & 3rd - Stop #17998\r\nHennepin & 6th St SE - Stop #14955 \r\n\nGet on/off southbound buses at:\r\n1st NE & 4th St NE - Stop #15559\r\nNicollet Mall & 3rd - Stop #17998\r\nNicollet Mall & 5th - Stop #17978\r\nNicollet Mall & 7th - Stop #17980\r\nNicollet Mall & 9th - Stop #17982\r\nNicollet Mall & 11th - Stop #17984\r\nNicollet Mall & Alice Rainville - Stop #17986\r\nNicollet & Grant - Stop #1197\r\nNicollet & 16th / Hwy 94 - Stop #1199\r\nNicollet & 18th - Stop #1200\r\nNicollet & Franklin - Stop #1202\r\nTemporary stop on 24th just past Nicollet\r\nLyndale & 26th - Stop #106\r\n\nNorthbound Route 4B buses will travel regular route on Lyndale to 24th St, right on 24th St, left on Nicollet, right on Washington, left on 3rd, right on Hennepin and resume regular route.\r\n\nNorthbound Route 4 buses will travel the regular route on Lyndale to 24th St, right on 24th St, left on Nicollet, right on Washington, right on 4th Ave S, left into Gateway Ramp, and terminate.\r\n\nSouthbound Route 4P buses will travel regular route on 1st St NE, left on University, right on Central, right on Washington, left on Nicollet Mall, right on 24th St, left on Lyndale and resume regular route.\r\n\nSouthbound Route 4L will exit Gateway Ramp via 5th Ave S, left on 5th Ave S, left on Washington, left on Nicollet Mall, right on 24th St, left on Lyndale and resume regular route.\r\n\nAffected stops:\r\nLyndale & 22nd - #20031\r\nLyndale & Franklin - #177\r\nHennepin & Groveland Station - #17936\r\nHennepin & Oak Grove St - #17937\r\nHennepin & Maple (16th St) - #17939\r\nHennepin & Spruce Station - #17941\r\nHennepin & 12th - #17942\r\nHennepin & 10th Station - #17944\r\nHennepin & 8th Station - #53099\r\nHennepin & 5th Station - #17947\r\nHennepin & 4th Station - #17948\r\nHennepin & Gateway Station - #17951\r\nHennepin & 1st - #17952\r\nHennepin & Wilder - #17953\r\nHennepin & 2nd St NE Station - #15477\r\nHennepin & 4th St SE - #57457\r\n1st & 2nd St NE Station - #15562\r\nHennepin & De LaSalle - #17916\r\nHennepin & 1st - #17917\r\nHennepin & Gateway Station - #17919\r\nHennepin & 3rd Station - #17921\r\nHennepin & 5th Station - #17922\r\nHennepin & 8th Station - #17923\r\nHennepin & 11th Station - #17925\r\nHennepin & Laurel Station - #17927\r\nHennepin & 16th (Maple) - #17928\r\nLyndale & Vineland - #17931 \r\nLyndale & Franklin - #102\r\nLyndale & 22nd - #103\r\nLyndale & 24th - #104"
     },
@@ -2620,7 +2260,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/5",
-      "updatedAt": "2026-10-03T05:00:01.000Z",
+      "updatedAt": "2026-10-04T08:30:01.000Z",
       "rawHeader": "Route 5 detoured off Chicago Ave from 56th St to 46th St from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "For northbound Route 5 get on/off buses at:\r\nChicago Ave S & 56th St E - Stop #51212 (southbound)\r\nChicago & 46th St Station - Stop #56923 (northbound)\r\n\nFor southbound Route 5 get on/off buses at:\r\nChicago Ave S & 45th St E - Stop #64 (southbound)\r\nChicago Ave S & 56th St E - Stop #51212 (southbound)\r\n\nNorthbound buses will depart terminal, left on 56th St, right on Portland, left on Diamond Lake Rd, right on I-35W, exit at 46th St, right on 46th St, left on Chicago Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Chicago Ave to 46th St, right on 46th St, left onto I-35W southbound, exit at Diamond Lake Rd, left on Diamond Lake Rd, right on Portland Ave, left on 56th St to the terminal.\r\n\nAffected stops:\r\nChicago & 56th St Station - Stop #775 (northbound)\r\nChicago Ave S & 54th St E - Stop #777 (northbound)\r\nChicago Ave S & 53rd St E - Stop #778 (northbound)\r\nChicago & 52nd St Station - Stop #779 (northbound)\r\nChicago Ave S & 51st St E - Stop #780 (northbound)\r\nChicago Ave S & 50th St E - Stop #781 (northbound)\r\nChicago Ave S & 49th St E - Stop #783 (northbound)\r\nChicago & 48th St Station - Stop #784 (northbound)\r\nChicago Ave S & 47th St E - Stop #785 (northbound)\r\nChicago & 46th St Station - Stop #56917 (southbound)\r\nChicago Ave S & 47th St E - Stop #66 (southbound)\r\nChicago & 48th St Station - Stop #56918 (southbound)\r\nChicago Ave S & 49th St E - Stop #68 (southbound)\r\nChicago Ave S & 50th St E - Stop #69 (southbound)\r\nChicago Ave S & 51st St E - Stop #70 (southbound)\r\nChicago & 52nd St Station - Stop #56919 (southbound)\r\nChicago Ave S & 53rd St E - Stop #72 (southbound)\r\nChicago Ave S & 54th St E - Stop #73 (southbound)"
     },
@@ -2794,7 +2434,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/7",
-      "updatedAt": "2026-10-03T05:00:01.000Z",
+      "updatedAt": "2026-10-04T08:30:01.000Z",
       "rawHeader": "Route 7 detoured off Washington Ave from 3rd Ave to I-35W from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "For northbound Route 7 get on/off buses at:\r\nCedar Ave S & Washington Ave (15th Ave) - Stop #16325 (westbound)\r\nWashington Ave S & 3rd Ave / 2nd Ave - Stop #19308 (westbound)\r\n\nFor southbound Route 7 get on/off buses at:\r\nWashington Ave S & Marquette Ave - Stop #19315 (eastbound)\r\n2nd Ave S & Washington Ave S - Stop #19260 (northbound, early morning trip only)\r\nWashington Ave S & 15th Ave S - Stop #57023 (eastbound)\r\n\nNorthbound buses will travel regular route on Washington Ave to I-35W, right onto ramp to I-35W northbound, exit at University Ave/4th St SE, left on 4th St SE, left on Central Ave, right on Washington Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Washington Ave to 3rd Ave S, left on 3rd Ave S, right on University Ave SE, right onto ramp to I-35W southbound, exit at Washington Ave, left on Washington Ave and resume regular route.\r\n\nAffected stops:\r\nWashington Ave S & 11th Ave S - Stop #19302 (westbound)\r\nWashington Ave S & Chicago Ave - Stop #19304 (westbound)\r\nWashington Ave S & Park Ave - Stop #19306 (westbound)\r\nWashington Ave S & 5th Ave S - Stop #19307 (westbound)\r\nWashington Ave S & 3rd Ave / 4th Ave - Stop #19317 (eastbound)\r\nWashington Ave S & Portland Ave - Stop #19318 (eastbound)\r\nWashington Ave S & Chicago Ave S - Stop #19320 (eastbound)\r\nWashington Ave S & 11th Ave S - Stop #19322 (eastbound)"
     },
@@ -2874,7 +2514,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/7",
-      "updatedAt": "2026-10-03T05:00:01.000Z",
+      "updatedAt": "2026-10-04T08:30:01.000Z",
       "rawHeader": "Route 7 detoured off 34th Ave from 50th St to 46th St from 4:00 AM to 1:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "For northbound Route 7 get on/off buses at:\r\n34th Ave S & 50th St E - Stop #15274 (northbound)\r\n46th St Station & Gate F - Stop #51549 (northbound)\r\n\nFor southbound Route 7 get on/off buses at:\r\n46th St Station & Gate B - Stop #51545 (northbound)\r\n34th Ave S & 51st St E - Stop #15419 (southbound)\r\n\nNorthbound buses will travel regular route on 34th Ave to 50th St, right on 50th St, left on Hiawatha Ave, left on 42nd St, left on 34th Ave, left on 46th St, eft into 46th St Station and resume regular route.\r\n\nSouthbound buses will depart 46th St Station, right on 34th Ave, right on 42nd St, right on Hiawatha Ave, right on 50th St, left on 34th Ave and resume regular route.\r\n\nAffected stops:\r\n34th Ave S & Minnehaha Pkwy - Stop #52741 (northbound)\r\n34th Ave S & 46th St E - Stop #52743 (northbound)\r\n46th St E & 34th Ave S - Stop #48897 (westbound)\r\n34th Ave S & Minnehaha Pkwy - Stop #52737 (southbound)\r\n34th Ave S & 50th St E - Stop #52739 (southbound)"
     },
@@ -2918,7 +2558,7 @@
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/7",
-      "updatedAt": "2026-09-29T19:26:25.000Z",
+      "updatedAt": "2026-10-04T05:00:02.000Z",
       "rawHeader": "26th Ave S & 22nd St E - Stop #57484 (northbound) is closed for Route 7 beginning Mon Oct 5 at 5:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\n26th Ave S & 25th St E - Stop #57483 (northbound)\r\n26th Ave S & Seward Tower West - Stop #56702 (northbound)"
     },
@@ -3303,7 +2943,7 @@
       },
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
-      "updatedAt": "2026-10-02T16:55:15.000Z",
+      "updatedAt": "2026-10-04T05:00:01.000Z",
       "rawHeader": "Routes 10, 11, 18 and 25 detoured off Nicollet Mall from 12th St to 11th St from Mon Oct 5 at 9:00 AM to Wed Oct 7 at 4:00 PM due to construction",
       "rawDescription": "This detour will only be in effect when the road is blocked. \r\n\nGet on/off northbound buses at:\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\n\nNorthbound buses will travel the regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Nicollet Mall to 11th St, right on 11th st, left on Lasalle Ave, left on 12th St, right on Nicollet Mall, and resume the regular route. No southbound stops are missed.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)"
     },
@@ -3429,7 +3069,7 @@
       },
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-09-29T13:35:38.000Z",
+      "updatedAt": "2026-10-04T05:00:02.000Z",
       "rawHeader": "Nicollet Ave S & 48th St W - Stop #1229 (southbound) is closed for Routes 11D and 18 from Mon Oct 5 at 7:00 AM to Mon Oct 12 at 7:00 AM due to construction",
       "rawDescription": "Get on/off buses at:\r\nNicollet Ave S & 49th St W - Stop #1230 (southbound)"
     },
@@ -3607,7 +3247,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/14",
-      "updatedAt": "2026-10-03T05:00:01.000Z",
+      "updatedAt": "2026-10-04T08:30:01.000Z",
       "rawHeader": "Route 14 detoured off 6th St from 5th St Transit Center to 11th Ave from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "For northbound Route 14 get on/off buses at:\r\n7th St S & 3rd Ave / 2nd Ave S - Stop #17901 (westbound)\r\nNicollet Mall & 5th St S - Stop #17996 (northbound)\r\nWashington Ave & Hennepin Ave - Stop #19311 (westbound)\r\n\nFor southbound Route 14 get on/off buses at:\r\n5th St Transit Center Gate A - Stop #17857 (eastbound)\r\n4th St N & Hennepin Ave - Stop #17859 (eastbound)\r\n4th St S & Marquette Ave - Stop #17861 (eastbound)\r\n8th St & 3rd/4th Ave Station - Stop #17910 (eastbound)\r\n8th St S & 5th Ave S - Stop #17911 (eastbound)\r\n8th St S & 9th Ave S - Stop #56897 (eastbound)\r\n11th Ave S & 15th St E - Stop #15655 (southbound)\r\n\nNorthbound buses will travel regular route on 7th St to Nicollet Mall, right on Nicollet Mall, left on Washington Ave, continue on Washington Ave to Hennepin Ave and resume regular route.\r\n\nSouthbound buses will depart 5th St Transit Center and take a left on 2nd Ave N, right on 4th St, right on Marquette Ave, left on 8th St, right on 11th Ave and resume regular route.\r\n\nAffected stops:\r\n7th St & Nicollet Station - Stop #17902 (westbound)\r\nHennepin & 5th St Station - Stop #17947 (northbound)\r\nHennepin & 4th St Station - Stop #17948 (northbound)\r\n6th St S & Hennepin Ave S - Stop #17881 (eastbound)\r\n6th St S & Nicollet Mall - Stop #17882 (eastbound)\r\n6th St S & 2nd Ave / 3rd Ave S - Stop #17884 (eastbound)\r\n6th St S & 5th Ave S - Stop #17885 (eastbound)\r\n6th St S & Park Ave / Chicago Ave S - Stop #17887 (eastbound)\r\n6th St S & Bud Grant Way - Stop #17888 (eastbound)\r\n6th St S & 11th Ave S - Stop #17890 (eastbound)\r\n11th Ave S & 7th St S - Stop #17891 (southbound)\r\n11th Ave S & 8th St S - Stop #15650 (southbound)"
     },
@@ -3749,7 +3389,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/14",
-      "updatedAt": "2026-10-03T05:00:01.000Z",
+      "updatedAt": "2026-10-04T08:30:01.000Z",
       "rawHeader": "Route 14 detoured off Bloomington Ave from 46th St to 54th St and off Chicago Ave from 54th St to 56th St from 4:00 AM to 1:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "For northbound Route 14 get on/off buses at:\r\nChicago Ave S & 58th St E - Stop #743 (northbound)\r\nTemporary stop on Chicago Ave & 57th St (northbound)\r\nTemporary stop on Bloomington Ave & 45th St (northbound)\r\nBloomington Ave S & 44th St E - Stop #15586 (northbound)\r\n\nFor southbound Route 14 get on/off buses at:\r\nBloomington Ave S & 46th St E - Stop #15583 (southbound)\r\nTemporary stop on Chicago Ave & 55th St (southbound)\r\nChicago & 56th St Station - Stop #40472 (southbound)\r\n\nNorthbound buses will travel regular route on Chicago Ave to 56th St, left on 56th St, right on Portland Ave, left on Diamond Lake Rd, right onto I-35W northbound, exit at 46th St, right on 46th St, left on Bloomington Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Bloomington Ave to 46th St, right on 46th St, left onto I-35W southbound, exit at Diamond Lake Rd, left on Diamond Lake Rd, left on Portland Ave, right on 54th St, right on Chicago Ave and resume regular route.\r\n\nAffected stops:\r\nChicago & 56th St Station - Stop #775 (northbound)\r\nChicago Ave S & 54th St E - Stop #777 (northbound)\r\n54th St E & 12th Ave S - Stop #51836 (eastbound)\r\n54th St E & Bloomington Ave S - Stop #51838 (eastbound)\r\nBloomington Ave S & 52nd St E - Stop #15570 (northbound)\r\nBloomington Ave S & 50th St E - Stop #15574 (northbound)\r\nBloomington Ave S & 48th St E - Stop #15578 (northbound)\r\nBloomington Ave S & 47th St E - Stop #15581 (northbound)\r\nBloomington Ave S & 46th St E - Stop #15582 (northbound)\r\nBloomington Ave S & 47th St E - Stop #15580 (southbound)\r\nBloomington Ave S & 48th St E - Stop #15579 (southbound)\r\nBloomington Ave S & 50th St E - Stop #15575 (southbound)\r\nBloomington Ave S & 52nd St E - Stop #15571 (southbound)\r\nBloomington Ave S & 54th St E - Stop #15567 (southbound)\r\n54th St E & 12th Ave S - Stop #51832 (westbound)\r\n54th St E & Chicago Ave S - Stop #51834 (westbound)"
     },
@@ -3777,7 +3417,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-10-03T05:00:02.000Z",
+      "updatedAt": "2026-10-04T08:30:02.000Z",
       "rawHeader": "Route 17 service advisory near Lake St & E Bde Maka Ska Pkwy from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "Due to Twin Cities Marathon, Route 17 buses will not detour near Lake St & E Bde Maka Ska Pkwy area, buses will drive around barricades. Expect delays due to runners."
     },
@@ -3819,7 +3459,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-10-02T16:52:27.000Z",
+      "updatedAt": "2026-10-04T05:00:00.000Z",
       "rawHeader": "Route 17 detoured off Nicollet Mall from 12th St to 11th St from Mon Oct 5 at 9:00 AM to Wed Oct 7 at 4:00 PM due to construction",
       "rawDescription": "This detour will only be in effect when the road is blocked. \r\n\nGet on/off eastbound buses at:\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\n\nEastbound buses will travel the regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume the regular route.\r\n\nWestbound buses will travel the regular route on Nicollet Mall to 11th St, right on 11th st, left on Lasalle Ave, left on 12th St, right on Nicollet Mall, and resume the regular route. No westbound stops are missed.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)"
     },
@@ -4223,7 +3863,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/18",
-      "updatedAt": "2026-10-03T05:00:01.000Z",
+      "updatedAt": "2026-10-04T08:30:01.000Z",
       "rawHeader": "Route 18 detoured off Nicollet Ave from 46th St to Diamond Lake Rd from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "For northbound Route 18 get on/off buses at:\r\nNicollet Ave S & 56th St E - Stop #1765 (northbound)\r\nNicollet Ave S & 44th St E - Stop #1874 (northbound)\r\n\nFor southbound Route 18 get on/off buses at:\r\nNicollet Ave S & 46th St W - Stop #1227 (southbound)\r\nNicollet Ave S & 56th St W - Stop #1339 (southbound)\r\n\nNorthbound buses will travel regular route on Nicollet to Diamond Lake Rd, right on Diamond Lake Rd, left onto I-35W northbound, exit at 46th St, left on 46th St, right on Nicollet Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Nicollet Ave to 46th St, left on 46th St, right onto I-35W southbound, exit at Diamond Lake Rd, right on Diamond Lake Rd, left on Nicollet Ave and resume regular route.\r\n\nAffected stops:\r\nDiamond Lake Rd & Nicollet Ave S - Stop #3393 (westbound)\r\nDiamond Lake Rd & Wentworth Ave - Stop #3395 (westbound)\r\nLyndale Ave S & 53rd St W - Stop #1854 (northbound)\r\nLyndale Ave S & Minnehaha Pkwy - Stop #57377 (northbound)\r\nNicollet Ave S & 50th St E - Stop #1770 (northbound)\r\nNicollet Ave S & 49th St E - Stop #1863 (northbound)\r\nNicollet Ave S & 48th St E - Stop #1869 (northbound)\r\nNicollet Ave S & 46th St E - Stop #1872 (northbound)\r\nNicollet Ave S & 48th St W - Stop #1229 (southbound)\r\nNicollet Ave S & 49th St W - Stop #1230 (southbound)\r\nNicollet Ave S & 50th St W - Stop #1231 (southbound)\r\nLyndale Ave S & Minnehaha Pkwy - Stop #135 (southbound)\r\nLyndale Ave S & 53rd St W - Stop #136 (southbound)\r\nDiamond Lake Rd & Wentworth Ave - Stop #3386 (eastbound)"
     },
@@ -4630,7 +4270,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-10-03T05:00:01.000Z",
+      "updatedAt": "2026-10-04T08:30:01.000Z",
       "rawHeader": "Route 22 detoured off Washington Ave from 11th Ave to 5th Ave and off 5th Ave from Washington Ave to 7th St/8th St from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cites Marathon 2026",
       "rawDescription": "For northbound Route 22 get on/off buses at:\r\nWashington Ave S & 11th Ave S - Stop #19302 (westbound)\r\n7th St S & 10th Ave S - Stop #17894 (westbound)\r\n7th St & Park Station - Stop #17897 (westbound)\r\n7th St S & 5th Ave S - Stop #17899 (westbound)\r\n7th St S & 3rd Ave S - Stop #53941 (westbound)\r\n\nFor southbound Route 22 get on/off buses at:\r\n8th St & 3rd/4th Ave Station - Stop #17910 (eastbound)\r\n8th St & Park Station - Stop #17912 (eastbound)\r\nWashington Ave S & 15th Ave S - Stop #57023 (eastbound)\r\n\nNorthbound buses will travel regular route on Washington Ave to 11th Ave, left on 11th Ave, right on 7th St, continue on 7th St to 5th Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 8th St to 5th Ave, continue on 8th St to 11th Ave, left on 11th Ave, right on Washington Ave and resume regular route.\r\n\nAffected stops:\r\nWashington Ave S & Chicago Ave - Stop #19304 (westbound)\r\nWashington Ave S & Park Ave - Stop #19306 (westbound)\r\n4th Ave S & 3rd St S - Stop #19294 (southbound)\r\n4th Ave S & 4th St S - Stop #19295 (southbound)\r\n4th Ave S & 5th St S - Stop #19296 (southbound)\r\n5th Ave S & 7th St S - Stop #18007 (northbound)\r\n5th Ave S & 6th St S - Stop #18008 (northbound)\r\n5th Ave S & 5th St S - Stop #18009 (northbound)\r\n5th Ave S & 4th St S - Stop #42314 (northbound)\r\n5th Ave S & Washington Ave S - Stop #18011 (northbound)\r\nWashington Ave S & Portland Ave - Stop #19318 (eastbound)\r\nWashington Ave S & Chicago Ave S - Stop #19320 (eastbound)\r\nWashington Ave S & 11th Ave S - Stop #19322 (eastbound)"
     },
@@ -5254,7 +4894,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/38",
-      "updatedAt": "2026-10-03T05:00:01.000Z",
+      "updatedAt": "2026-10-04T08:30:01.000Z",
       "rawHeader": "Route 38 detoured off 46th Ave from 46th St to Minnesota Veterans Home from 4:00 AM to 1:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "For eastbound Route 38 get on/off buses at:\r\n46th Ave S & 46th St E - Stop #53134 (southbound)\r\n\nFor westbound Route 38 get on/off buses at:\r\n46th Ave S & 46th St E - Stop #16498 (northbound)\r\n\nEastbound 38C buses will travel regular route on 46th Ave to 46th St, right on 46th St, right on Minnehaha Ave, left on 42nd St, left on 34th Ave, left on 46th St, left into 46th St Station and layover at Gate E.\r\n\nWestbound 38 buses that normally depart Minnesota Veterans Home will depart temporary layover at 46th St Station and turn right on 46th St, right on 34th Ave, right on 42nd St, right on Minnehaha Ave, left on 46th St, left on 46th Ave and resume regular route.\r\n\nAffected stops:\r\n46th Ave S & Godfrey Pkwy - Stop #16492 (southbound)\r\nMinnesota Veterans Home & Bldg 19 - Stop #16493 (eastbound)\r\nMinnesota Veterans Home & Bldg 4 - Stop #16494 (eastbound)\r\nMinnesota Veterans Home & Bldg 19 - Stop #16496 (westbound)\r\n46th Ave S & Godfrey Pkwy - Stop #16497 (northbound)"
     },
@@ -5448,7 +5088,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/46",
-      "updatedAt": "2026-10-03T05:00:01.000Z",
+      "updatedAt": "2026-10-04T08:30:01.000Z",
       "rawHeader": "Route 46 detoured off 50th St from Penn Ave to Lyndale Ave from 4:00 AM to 12:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "For eastbound Route 46 get on/off buses at:\r\n50th St W & Queen Ave S - Stop #1004 (eastbound)\r\nLyndale Ave S & 50th St W - Stop #1857 (northbound)\r\n\nFor westbound Route 46 get on/off buses at:\r\nLyndale Ave S & 50th St W - Stop #1776 (southbound)\r\n50th St W & Sheridan Ave S - Stop #193 (westbound)\r\n\nEastbound buses will travel regular route on 50th St to Penn Ave, right on Penn Ave, left on 54th St which becomes Diamond Lake Rd, left onto I-35W northbound, exit at 46th St, left on 46th St, left on Nicollet Ave, right on 50th St, right on Lyndale Ave and resume regular route.\r\n\nWestbound buses will travel regular route on Lyndale Ave to 50th St, left on 50th St, left on Nicollet Ave, right on 46th St, right onto I-35W southbound, exit at Diamond Lake Rd, right on Diamond Lake Rd which turns into 54th St, right on Penn Av, left on 50th St and resume regular route. \r\n\nAffected stops:\r\n50th St W & Penn Ave S - Stop #1005 (eastbound)\r\n50th St W & Logan Ave S - Stop #1009 (eastbound)\r\n50th St W & Minnehaha Pkwy - Stop #1011 (eastbound)\r\n50th St W & Dupont Ave S - Stop #1016 (eastbound)\r\n50th St W & Bryant Ave S - Stop #40385 (eastbound)\r\n50th St W & Bryant Ave S - Stop #40386 (westbound)\r\n50th St W & Dupont Ave S - Stop #179 (westbound)\r\n50th St W & Minnehaha Pkwy - Stop #183 (westbound)\r\n50th St W & Logan Ave S - Stop #186 (westbound)\r\n50th St W & Penn Ave S - Stop #190 (westbound)"
     },
@@ -5962,7 +5602,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/61",
-      "updatedAt": "2026-10-03T05:00:01.000Z",
+      "updatedAt": "2026-10-04T08:30:01.000Z",
       "rawHeader": "Route 61 detoured off Hennepin Ave from 8th St to Central Ave from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "For eastbound Route 61 get on/off buses at:\r\nRamp A/7th St Transit Center - Stop #17905 (eastbound)\r\nNicollet Mall & 3rd St S - Stop #17998 (northbound)\r\nNicollet Mall & 5th St S - Stop #17996 (northbound)\r\nNicollet Mall & 7th St S - Stop #17994 (northbound)\r\nCentral Ave & University Ave SE - Stop #14952 (northbound)\r\nHennepin Ave E & 6th St SE - Stop #14955 (eastbound)\r\n\nFor westbound Route 61 get on/off buses at:\r\n1st Ave NE & 4th St NE - Stop #15559 (westbound)\r\nNicollet Mall & 3rd St - Stop #17976 (southbound)\r\nNicollet Mall & 5th St S - Stop #17978 (southbound)\r\n7th St & Hennepin Station - Stop #17903 (westbound)\r\nRamp A/7th St Transit Center - Stop #17905 (eastbound)\r\n\nEastbound buses will travel the regular route on 8th St to Hennepin Ave, continue on 8th st, left on Nicollet Mall, right on Washington Ave, left on 3rd Ave, right on Hennepin Ave, and resume the regular route.\r\n\nWestbound buses will travel the regular route on 1st Ave NE to University Ave, left on University Ave, right on Central Ave, right on Washington Ave, left on Nicollet Mall, right on 7th St to Hennepin Ave, continue on 7th St, and resume the regular route.\r\n\nAffected stops:\r\nHennepin & 8th St Station - Stop #53099 (northbound)\r\nHennepin & 5th St Station - Stop #17947 (northbound)\r\nHennepin & 4th St Station - Stop #17948 (northbound)\r\nHennepin & Gateway Station - Stop #17951 (northbound)\r\nHennepin Ave & 1st St S - Stop #17952 (northbound)\r\nHennepin Ave E & Wilder St - Stop #17953 (eastbound)\r\nHennepin & 2nd St NE Station - Stop #15477 (eastbound)\r\nHennepin Ave E & 4th St SE - Stop #57457 (eastbound)\r\n1st Ave & 2nd St NE Station - Stop #15562 (westbound)\r\nHennepin Ave E & De LaSalle Dr - Stop #17916 (southbound)\r\nHennepin Ave & 1st St N - Stop #17917 (southbound)\r\nHennepin & Gateway Station - Stop #17919 (southbound)\r\nHennepin & 3rd St Station - Stop #17921 (southbound)\r\nHennepin & 5th St Station - Stop #17922 (southbound)\r\nHennepin Ave & 6th St / 7th St N - Stop #40168 (southbound)"
     },
@@ -6485,7 +6125,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/63",
-      "updatedAt": "2026-10-03T05:00:02.000Z",
+      "updatedAt": "2026-10-04T05:00:00.000Z",
       "rawHeader": "Route 63 detoured off Cretin Ave from Grand Ave to University Ave and off University Ave from Cretin Ave to Westgate Station from 5:00 AM to 4:00 PM on Sun Oct 4",
       "rawDescription": "For eastbound Route 63 get on/off buses at:\r\nGrand Ave & Cleveland Ave - Stop #56943 (eastbound)\r\n\nFor westbound Route 63 get on/off buses at:\r\nGrand Ave & Prior Ave - Stop #3095 (westbound)\r\nGrand Ave & Cleveland Ave - Stop #56943 (eastbound)\r\n\nEastbound buses will depart the temporary terminal at Grand Ave & Cleveland Ave - Stop #56943, continue eastbound on Grand Ave, and resume the regular route.\r\n\nWestbound buses will travel the regular route on Grand Ave to Cleveland Ave, left on Cleveland Ave, right on Lincoln Ave, right on Finn St, right on Grand Ave, and terminate at Grand Ave & Cleveland Ave - Stop #56943.\r\n\nAffected stops:\r\nWestgate Station - Gate C - Stop #15795 (southbound)\r\nUniversity Ave & Eustis St - Stop #15796 (eastbound)\r\nUniversity Ave & Raymond Ave - Stop #15798 (eastbound)\r\nUniversity Ave & Carleton St - Stop #15799 (eastbound)\r\nUniversity Ave & Hampden Ave - Stop #15801 (eastbound)\r\nUniversity Ave & Vandalia St - Stop #15803 (eastbound)\r\nVandalia St & Wabash Ave - Stop #56250 (southbound)\r\nCretin Ave & Temple Court - Stop #18669 (southbound)\r\nCretin Ave & Roblyn Ave - Stop #16955 (southbound)\r\nCretin Ave & Marshall Ave - Stop #16956 (southbound)\r\nCretin Ave & Selby Ave - Stop #18673 (southbound)\r\nCretin Ave & Summit Ave - Stop #18675 (southbound)\r\nGrand Ave & Cretin Ave - Stop #3104 (eastbound)\r\nGrand Ave & Cleveland Ave - Stop #56942 (westbound)\r\nGrand Ave & Cretin Ave - Stop #3099 (westbound)\r\nCretin Ave & Summit Ave - Stop #18683 (northbound)\r\nCretin Ave & Selby Ave - Stop #18685 (northbound)\r\nCretin Ave & Marshall Ave - Stop #18686 (northbound)\r\nCretin Ave & Roblyn Ave - Stop #16952 (northbound)\r\nCretin Ave & Temple Court - Stop #16953 (northbound)\r\nVandalia St & Wabash Ave - Stop #56249 (northbound)\r\nUniversity Ave & Vandalia St - Stop #56941 (westbound)\r\nUniversity Ave & Hampden Ave - Stop #15874 (westbound)\r\nUniversity Ave & Carleton St - Stop #15876 (westbound)\r\nUniversity Ave & Raymond Ave - Stop #15877 (westbound)\r\nTerritorial Rd & Westgate Dr - Stop #18640 (westbound)"
     },
@@ -6900,7 +6540,7 @@
       "cause": "CONSTRUCTION",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/65",
-      "updatedAt": "2026-10-03T05:00:02.000Z",
+      "updatedAt": "2026-10-04T05:00:01.000Z",
       "rawHeader": "Route 65 detoured off Dale St from Rondo Ave to Grand Ave beginning Mon May 18 at 7:00 AM until further notice due to construction",
       "rawDescription": "Updated get on/off stops 6/10 10:30 am.\r\n\nFor northbound Route 65 get on/off buses at:\r\nSummit Ave & Dale St - Stop #10761 (eastbound)\r\nTemporary stop on Kent St & Selby Ave (northbound)\r\nTemporary stop on Kent St & Marshall Ave (northbound)\r\nDale St & Fuller Ave - Stop #10693 (northbound)\r\n\nFor southbound Route 65 get on/off buses at:\r\nDale St & Fuller Ave - Stop #10748 (southbound)\r\nTemporary stop on Marshall Ave & Kent St (westbound)\r\nTemporary stop on Kent St & Selby Ave (southbound)\r\nSummit Ave & Dale St - Stop #10761 (eastbound)\r\n\nNorthbound buses will depart the temporary terminal on eastbound Summit Ave just past Dale St, continue on Summit Ave, left on Kent St, right on Marshall Ave, left on Arundel St, right on Concordia Ave, left on Western Ave, left on St Anthony Ave, right on Dale St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Dale St to Rondo Ave, left on Rondo Ave, right on Arundel St, right on Marshall Ave, left on Kent St, right on Summit Ave, left on Oakland Ave, right on Grand Ave, right on Dale St, right on Summit Ave and layover on eastbound Summit Ave just past Dale St.\r\n\nAffected stops:\r\nDale St & Grand Ave - Stop #10680 (northbound)\r\nDale St & Summit Ave / Portland Ave - Stop #10681 (northbound)\r\nDale St & Holly Ave - Stop #10684 (northbound)\r\nDale St & Selby Ave - Stop #10685 (northbound)\r\nDale St & Marshall Ave - Stop #10688 (northbound)\r\nDale St & Iglehart Ave - Stop #10689 (northbound)\r\nDale St & Rondo Ave - Stop #10691 (northbound)\r\nDale St & Carroll Ave - Stop #10752 (southbound)\r\nDale St & Iglehart Ave - Stop #10753 (southbound)\r\nDale St & Marshall Ave - Stop #10754 (southbound)\r\nDale St N & Selby Ave - Stop #53780 (southbound)\r\nDale St & Ashland Ave - Stop #10758 (southbound)\r\nSummit Ave & Dale St - Stop #10761 (eastbound)"
     },
@@ -7123,7 +6763,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/67",
-      "updatedAt": "2026-10-03T05:00:01.000Z",
+      "updatedAt": "2026-10-04T08:30:01.000Z",
       "rawHeader": "Route 67 detoured off Franklin Ave from 30th Ave to 27th Ave from 4:00 AM to 4:00 PM on Sun Oct 4 due to Twin Cites Marathon 2026",
       "rawDescription": "For eastbound Route 67 get on/off buses at:\r\nFranklin Ave E & 29th Ave S - Stop #16512 (eastbound)\r\nFranklin Ave SE & East River Rd - Stop #52059 (eastbound)\r\n\nFor westbound Route 67 get on/off buses at:\r\nFranklin Ave SE & 27th Ave SE - Stop #16534 (westbound)\r\nFranklin Ave E & Riverside Ave - Stop #57627 (westbound)\r\n\nEastbound buses will travel the regular route on Franklin Ave to 30th Ave, right on 30th Ave, right on 22nd St, right on 29th Ave onto Riverside Ave, right onto eastbound I-94, exit for Huron Blvd, right on Delaware St, right on 27th Ave, left on Franklin Ave, and resume the regular route.\r\n\nWestbound buses will travel the regular route on Franklin Ave to 27th Ave, right on 27th Ave, left on Essex St, left on Huron Blvd, continue onto westbound I-94, exit for Riverside Ave, left Riverside Ave onto 29th Ave, left on 22nd St, left on 30th Ave, left on Franklin Ave, and resume the regular route.\r\n\nAffected stops:\r\nFranklin Ave E & 31st Ave S - Stop #16514 (eastbound)\r\nFranklin Ave E & 31st Ave S - Stop #16558 (westbound)"
     },
@@ -7948,7 +7588,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-10-03T05:00:02.000Z",
+      "updatedAt": "2026-10-04T05:00:00.000Z",
       "rawHeader": "Route 72 detoured off Selby Ave from Lexington Pkwy to Summit Ave and off Kellogg Blvd from John Ireland Blvd to Smith Ave from 5:00 AM to 4:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "For eastbound Route 72 get on/off buses at:\r\nSelby Ave & Dunlap St - Stop #17003 (eastbound)\r\n5th St & 7th St W - Stop #11834 (eastbound)\r\n\nFor westbound Route 72 get on/off buses at:\r\n6th St & Washington St / 7th St - Stop #3264 (westbound)\r\nSelby Ave & Dunlap St - Stop #17002 (westbound)\r\n\nEastbound buses will travel the regular route on Selby Ave to Lexington Pkwy, left on Lexington Pkwy, right onto eastbound I-94, exit for 5th St and continue to Smith Ave, continue on 5th St and resume the regular route.\r\n\nWestbound buses will travel the regular route on Old 6th St to Smith Ave, continue onto the 5th St ramp onto westbound I-94, exit for Lexington Pkwy, left on Lexington Pkwy, right on Selby Ave, and resume the regular route.\r\n\nAffected stops:\r\nSelby & Lexington Station - Stop #57328 (eastbound)\r\nSelby Ave & Chatsworth St - Stop #17008 (eastbound)\r\nSelby & Victoria Station - Stop #57329 (eastbound)\r\nSelby Ave & Avon St - Stop #17016 (eastbound)\r\nSelby Ave & Grotto St - Stop #17019 (eastbound)\r\nKent St & Selby Ave - Stop #80982 (southbound)\r\nSelby Ave & Mackubin St - Stop #17026 (eastbound)\r\nSelby & Arundel Station - Stop #17029 (eastbound)\r\nSelby Ave & Western Ave - Stop #17030 (eastbound)\r\nSelby Ave & Farrington St - Stop #17034 (eastbound)\r\nSelby Ave & Nina St - Stop #17037 (eastbound)\r\nSelby Ave & Summit Ave - Stop #17038 (eastbound)\r\nJohn Ireland & Marshall Station - Stop #11885 (northbound)\r\nKellogg Blvd & Mulberry St - Stop #11884 (eastbound)\r\nSmith & 5th St Station - Stop #57416 (eastbound)\r\nSmith & Kellogg Station - Stop #52760 (westbound)\r\nKellogg Blvd & Mulberry St - Stop #11883 (westbound)\r\nJohn Ireland & Marshall Station - Stop #11888 (southbound)\r\nSelby Ave & Summit Ave - Stop #17039 (westbound)\r\nSelby Ave & Nina St - Stop #17036 (westbound)\r\nSelby Ave & Farrington St - Stop #17035 (westbound)\r\nSelby & Western Station - Stop #17031 (westbound)\r\nSelby Ave & Arundel St - Stop #17028 (westbound)\r\nSelby Ave & Mackubin St - Stop #17027 (westbound)\r\nSelby Ave & St Albans St / Grotto St - Stop #17018 (westbound)\r\nSelby Ave & Avon St - Stop #17017 (westbound)\r\nSelby & Victoria Station - Stop #17013 (westbound)\r\nSelby Ave & Chatsworth St - Stop #17009 (westbound)\r\nSelby & Lexington Station - Stop #17005 (westbound)"
     },
@@ -8249,7 +7889,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/83",
-      "updatedAt": "2026-10-03T05:00:02.000Z",
+      "updatedAt": "2026-10-04T05:00:00.000Z",
       "rawHeader": "Route 83 detoured off Lexington Ave from St Clair Ave to Selby Ave from 5:00 AM to 4:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "For northbound Route 83 get on/off buses at:\r\nLexington Pkwy & Jefferson Ave - Stop #53729 (northbound)\r\nLexington Pkwy & Marshall Ave - Stop #53735 (northbound)\r\n\nFor southbound Route 83 get on/off buses at:\r\nLexington Pkwy & Selby Ave - Stop #53753 (southbound)\r\nLexington Pkwy & Jefferson Ave - Stop #53758 (southbound)\r\n\nNorthbound buses will travel the regular route on Lexington Ave to St Clair Ave, left on St Clair Ave, left onto northbound Ayd Mill Rd, exit left for Hamline Ave, right on Hamline Ave, right on Selby Ave, left on Lexington Pkwy, and resume the regular route. \r\n\nSouthbound buses will travel the regular route on Lexington Pkwy to Selby Ave, right on Selby Ave, left on Hamline Ave, left onto southbound Ayd Mill Rd, exit right for St Clair Ave, left on St Clair Ave, right on Lexington Pkwy, and resume the regular route.\r\n\nAffected stops:\r\nLexington Pkwy & St Clair Ave - Stop #53730 (northbound)\r\nLexington Pkwy & Fairmount Ave - Stop #53731 (northbound)\r\nLexington Pkwy & Grand Ave - Stop #53732 (northbound)\r\nLexington Pkwy & Ashland Ave - Stop #53733 (northbound)\r\nLexington Pkwy & Selby Ave - Stop #53734 (northbound)\r\nLexington Pkwy & Ashland Ave - Stop #53754 (southbound)\r\nLexington Pkwy & Grand Ave - Stop #53755 (southbound)\r\nLexington Pkwy & Fairmount Ave - Stop #53756 (southbound)\r\nLexington Pkwy & St Clair Ave - Stop #53757 (southbound)"
     },
@@ -8389,7 +8029,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/87",
-      "updatedAt": "2026-10-03T05:00:02.000Z",
+      "updatedAt": "2026-10-04T05:00:00.000Z",
       "rawHeader": "Route 87 detoured off Cleveland Ave from St Clair Ave to Marshall Ave from 5:00 AM to 4:00 PM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "For northbound Route 87 get on/off buses at:\r\nCleveland Ave & Berkeley/St Clair Ave - Stop #48305 (northbound)\r\nCleveland Ave & Iglehart Ave - Stop #18793 (northbound)\r\n\nFor southbound Route 87 get on/off buses at:\r\nCleveland Ave & Iglehart Ave - Stop #18902 (southbound)\r\nCleveland Ave & Stanford Ave - Stop #18919 (southbound)\r\n\nNorthbound buses will travel the regular route on Cleveland Ave to St Clair Ave, right on St Clair Ave, right onto northbound Ayd Mill Rd, exit left for Hamline Ave, right on Hamline Ave, left on Marshall Ave, right on Cleveland Ave, and resume the regular route. \r\n\nSouthbound buses will travel the regular route on Cleveland Ave to Marshall Ave, left on Marshall Ave, right on Hamline Ave, left onto southbound Ayd Mill Rd, exit right for St Clair Ave, right on St Clair Ave, left on Cleveland Ave, and resume the regular route.\r\n\n\r\nAffected stops:\r\nCleveland Ave & Princeton Ave - Stop #18781 (northbound)\r\nCleveland Ave & Goodrich Ave - Stop #18783 (northbound)\r\nCleveland Ave & Grand Ave - Stop #18785 (northbound)\r\nCleveland Ave & Portland Ave - Stop #51053 (northbound)\r\nCleveland Ave & Ashland Ave - Stop #18788 (northbound)\r\nCleveland Ave & Selby Ave - Stop #18790 (northbound)\r\nCleveland Ave & Marshall Ave - Stop #18792 (northbound)\r\nCleveland Ave & Marshall Ave - Stop #18903 (southbound)\r\nCleveland Ave & Selby Ave - Stop #18905 (southbound)\r\nCleveland Ave & Ashland Ave/Portland Ave - Stop #18907 (southbound)\r\nCleveland Ave & Summit Ave - Stop #18909 (southbound)\r\nCleveland Ave & Grand Ave - Stop #18910 (southbound)\r\nCleveland Ave & Goodrich Ave - Stop #18912 (southbound)\r\nCleveland Ave & Princeton Ave - Stop #18914 (southbound)\r\nCleveland Ave & St Clair Ave - Stop #18916 (southbound)"
     },
@@ -8489,7 +8129,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/94",
-      "updatedAt": "2026-10-03T05:00:01.000Z",
+      "updatedAt": "2026-10-04T08:30:01.000Z",
       "rawHeader": "Route 94 detoured off 6th St from 5th St Transit Center to 11th Ave from 4:00 AM to 11:00 AM on Sun Oct 4 due to Twin Cities Marathon 2026",
       "rawDescription": "Get on/off buses at:\r\n5th St Transit Center Gate B - Stop #51200 (eastbound)\r\n4th St N & Hennepin Ave - Stop #17859 (eastbound)\r\n4th St S & Marquette Ave - Stop #17861 (eastbound)\r\n8th St & 3rd/4th Ave Station - Stop #17910 (eastbound)\r\n8th St S & 5th Ave S - Stop #17911 (eastbound)\r\n8th St S & 9th Ave S - Stop #56897 (eastbound)\r\n\nEastbound buses will depart 5th St Transit Center and take a left on 2nd Ave N, right on 4th St, right on Marquette Ave, left on 8th St, right on 11th Ave and resume regular route.\r\n\nWestbound buses are not affected.\r\n\nAffected stops:\r\n6th St S & Hennepin Ave S - Stop #17881 (eastbound)\r\n6th St S & Nicollet Mall - Stop #17882 (eastbound)\r\n6th St S & 2nd Ave / 3rd Ave S - Stop #17884 (eastbound)\r\n6th St S & 5th Ave S - Stop #17885 (eastbound)\r\n6th St S & Park Ave / Chicago Ave S - Stop #17887 (eastbound)\r\n6th St S & Bud Grant Way - Stop #17888 (eastbound)\r\n6th St S & 11th Ave S - Stop #17890 (eastbound)"
     },
@@ -8974,7 +8614,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/225",
-      "updatedAt": "2026-10-03T01:30:01.000Z",
+      "updatedAt": "2026-10-04T05:00:00.000Z",
       "rawHeader": "Route 225 detoured off Snelling Ave from Co Rd E to Lydia Ave from 9:00 PM today to Mon Oct 5 at 5:00 AM due to construction",
       "rawDescription": "Get on/off southbound buses at:\r\nCo Rd E & #1200 - Stop #49194 (westbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on Co Rd E to Pine Tree Dr, left on Pine Tree Dr which turns into Harriet Ave, right on Lexington Ave, right on Josephine Rd, left on Hamline Ave, right on Lydia Ave, left on E Snelling service road and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nCo Rd E & Pine Tree Dr - Stop #49195 (westbound)"
     },
@@ -10218,7 +9858,7 @@
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/827",
-      "updatedAt": "2026-10-01T15:50:09.000Z",
+      "updatedAt": "2026-10-04T05:00:02.000Z",
       "rawHeader": "East River Rd & 62nd Way - Stop #12153 (southbound) is closed for Route 827 beginning Mon Oct 5 at 7:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nEast River Rd & 63rd Way - Stop #12152 (southbound)\r\nEast River Rd & 61st Way NE - Stop #12156 (southbound)"
     },

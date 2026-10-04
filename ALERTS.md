@@ -2,97 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-130-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-126-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-123-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-79-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-04T02:21:44.557Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-04T09:18:02.487Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO B Line** (1) • **METRO Blue Line** (2) • **METRO D Line** (4) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (3) • **Route 3** (4) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (3) • **Route 7** (5) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (3) • **Route 17** (2) • **Route 18** (9) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 36** (3) • **Route 38** (6) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (3) • **Route 63** (3) • **Route 64** (4) • **Route 65** (2) • **Route 67** (4) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 83** (1) • **Route 87** (2) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 225** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO B Line** (1) • **METRO Blue Line** (2) • **METRO D Line** (4) • **METRO E Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (3) • **Route 3** (4) • **Route 3A** (1) • **Route 4** (3) • **Route 4B** (1) • **Route 4L** (2) • **Route 4P** (2) • **Route 5** (3) • **Route 7** (5) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (3) • **Route 17** (2) • **Route 18** (8) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 36** (3) • **Route 38** (5) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (2) • **Route 63** (3) • **Route 64** (4) • **Route 65** (2) • **Route 67** (4) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 83** (1) • **Route 87** (2) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 225** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 9: Westbound 8:36 PM Trip Canceled (46th St Station & Gate H)
-
-- **Affected Routes**: `Route 9`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 9 trip departing 46th St Station & Gate H at 8:36 PM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/9)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 9 trip departing 46th St Station & Gate H at 8:36 PM canceled today due to mechanical issue
-
-</details>
-
----
-
-### 🚨 Route 18: Northbound 8:03 PM Trip Canceled (104th St W & Bloomington Fwy W)
-
-- **Affected Routes**: `Route 18`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 8:03 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/18)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 8:03 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 38: Service Canceled
-
-- **Affected Routes**: `Route 38`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 38 trips departing Bren Rd E & Blue Circle Dr
-
-**Summary**: Route 38 trips departing Bren Rd E & Blue Circle Dr at 8:52 PM and departing Minnesota Veterans Home & Bldg 4 at 10:24 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/38)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 38 trips departing Bren Rd E & Blue Circle Dr at 8:52 PM and departing Minnesota Veterans Home & Bldg 4 at 10:24 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 62: Northbound 8:31 PM Trip Canceled (Rice St & Orange Ave)
-
-- **Affected Routes**: `Route 62`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #10505, Stop #10507, Stop #10508, Stop #45401, Stop #45402, Stop #46702, Stop #46704, Stop #46705 *(+55 more)*
-
-**Summary**: Northbound Route 62 trip departing Rice St & Orange Ave at 8:31 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/62)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 62 trip departing Rice St & Orange Ave at 8:31 PM canceled today
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
