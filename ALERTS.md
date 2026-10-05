@@ -2,21 +2,364 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-98-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-95-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-71-brightgreen)](#-routes-index)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-111-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-11-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-96-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-75-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-05T08:15:33.417Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-05T17:49:33.014Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (3) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (3) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (2) • **Route 7** (3) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (1) • **Route 18** (7) • **Route 22** (3) • **Route 25** (3) • **Route 27** (2) • **Route 36** (3) • **Route 38** (4) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (4) • **Route 65** (1) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 225** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (2) • **METRO C Line** (1) • **METRO D Line** (4) • **METRO Gold Line** (2) • **Route 2** (3) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (2) • **Route 7** (3) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (1) • **Route 18** (7) • **Route 22** (3) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 36** (3) • **Route 38** (4) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (3) • **Route 80** (1) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 804** (1) • **Route 805** (2) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 METRO Blue Line: Service Advisory
+
+- **Affected Routes**: `METRO Blue Line`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #51405
+
+**Summary**: Northbound Blue Line trip departing Mall of America Station at 11:40 AM will start from 30th Ave Station. Mall of America Station will be missed due to train-bird collision
+
+[Official Agency Advisory](https://www.metrotransit.org/route/blue)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Blue Line trip departing Mall of America Station at 11:40 AM will start from 30th Ave Station. Mall of America Station will be missed due to train-bird collision
+
+</details>
+
+---
+
+### 🚨 METRO C Line: Service Canceled
+
+- **Affected Routes**: `METRO C Line`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing 7th St & Park St; 57 AM
+departing 7th St & Park St; 34 AM
+departing 7th St & Park St; 09 AM
+departing 7th St & Park St; 49 PM
+departing 7th St & Park St
+
+**Summary**: C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 7:07 AM and ten other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/cline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 7:07 AM and ten other trips canceled today
+
+```text
+Affected northbound trips:
+departing 7th St & Park Station at 7:57 AM
+departing 7th St & Park Station at 9:34 AM
+departing 7th St & Park Station at 11:09 AM
+departing 7th St & Park Station at 12:49 PM
+departing 7th St & Park Station at 2:27 PM
+
+Affected southbound trips:
+departing Brooklyn Ctr Transit Ctr Gate I at 7:07 AM
+departing Brooklyn Ctr Transit Ctr Gate I at 8:42 AM
+departing Brooklyn Ctr Transit Ctr Gate I at 10:19 AM
+departing Brooklyn Ctr Transit Ctr Gate I at 11:58 AM
+departing Brooklyn Ctr Transit Ctr Gate I at 1:38 PM
+departing Brooklyn Ctr Transit Ctr Gate I at 3:24 PM
+```
+
+</details>
+
+---
+
+### 🚨 METRO D Line: Northbound 11:44 AM Trip Canceled (MOA Transit Station Gate A)
+
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound D Line trip departing MOA Transit Station Gate A at 11:44 AM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound D Line trip departing MOA Transit Station Gate A at 11:44 AM canceled today due to maintenance work
+
+</details>
+
+---
+
+### 🚨 Route 30: Service Canceled
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 56 AM
+departing Knox Ave N & Golden Valley Rd; 56 PM
+departing Knox Ave N & Golden Valley Rd; 54 PM
+departing Knox Ave N & Golden Valley Rd
+
+**Summary**: Route 30 trip departing Westgate Station - Gate B at 11:04 AM and nine other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 30 trip departing Westgate Station - Gate B at 11:04 AM and nine other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Knox Ave N & Golden Valley Rd at 11:56 AM
+departing Knox Ave N & Golden Valley Rd at 1:56 PM
+departing Knox Ave N & Golden Valley Rd at 3:54 PM
+departing Knox Ave N & Golden Valley Rd at 5:56 PM
+departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM
+
+Affected westbound trips:
+departing Westgate Station - Gate B at 11:04 AM
+departing Westgate Station - Gate B at 1:04 PM
+departing Westgate Station - Gate B at 3:04 PM
+departing Westgate Station - Gate B at 5:04 PM
+departing Westgate Station - Gate B at 7:05 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 71: Service Canceled
+
+- **Affected Routes**: `Route 71`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/71)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today due to mechanical issue
+
+```text
+Affected northbound trips:
+departing Inver Hills College & Shelter at 1:38 PM
+departing Inver Hills College & Shelter at 4:38 PM
+
+Affected southbound trips:
+departing Market Place Dr & The Marketplace Ctr at 3:10 PM
+departing Market Place Dr & The Marketplace Ctr at 6:15 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 72: Service Canceled
+
+- **Affected Routes**: `Route 72`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 72 trip departing Pascal St N & Central Ave W; departing Pascal St N & Central Ave W; 22 AM
+departing Pascal St N & Central Ave W
+
+**Summary**: Route 72 trip departing Pascal St N & Central Ave W at 10:22 AM and two other trips canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/72)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 72 trip departing Pascal St N & Central Ave W at 10:22 AM and two other trips canceled today due to maintenance work
+
+```text
+Affected eastbound trips:
+departing Pascal St N & Central Ave W at 10:22 AM
+departing Pascal St N & Central Ave W at 12:21 PM
+
+Affected westbound trips:
+departing Sun Ray Transit Center & Gate D at 11:20 AM
+```
+
+</details>
+
+---
+
+### 🚨 Route 80: Service Canceled
+
+- **Affected Routes**: `Route 80`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 80 trip departing Sun Ray Transit Center & Gate E at 7:12 AM and thirteen other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/80)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 80 trip departing Sun Ray Transit Center & Gate E at 7:12 AM and thirteen other trips canceled today
+
+```text
+Affected northbound trips:
+departing Sun Ray Transit Center & Gate E at 7:12 AM
+departing Sun Ray Transit Center & Gate E at 8:12 AM
+departing Sun Ray Transit Center & Gate E at 9:12 AM
+departing Sun Ray Transit Center & Gate E at 10:12 AM
+departing Sun Ray Transit Center & Gate E at 11:12 AM
+departing Sun Ray Transit Center & Gate E at 12:12 PM
+departing Sun Ray Transit Center & Gate E at 1:12 PM
+
+Affected southbound trips:
+departing Maplewood Mall Transit Center & Gate F at 7:42 AM
+departing Maplewood Mall Transit Center & Gate F at 8:42 AM
+departing Maplewood Mall Transit Center & Gate F at 9:42 AM
+departing Maplewood Mall Transit Center & Gate F at 10:42 AM
+departing Maplewood Mall Transit Center & Gate F at 11:42 AM
+departing Maplewood Mall Transit Center & Gate F at 12:42 PM
+departing Maplewood Mall Transit Center & Gate F at 1:42 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 724: Service Canceled
+
+- **Affected Routes**: `Route 724`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 724 trip departing Starlite Transit Center & Gate A at 7:43 AM and fifteen other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/724)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 724 trip departing Starlite Transit Center & Gate A at 7:43 AM and fifteen other trips canceled today
+
+```text
+Affected northbound trips:
+departing Brooklyn Ctr Transit Ctr Gate C at 8:15 AM
+departing Brooklyn Ctr Transit Ctr Gate C at 9:15 AM
+departing Brooklyn Ctr Transit Ctr Gate C at 10:15 AM
+departing Brooklyn Ctr Transit Ctr Gate C at 11:15 AM
+departing Brooklyn Ctr Transit Ctr Gate C at 12:15 PM
+departing Brooklyn Ctr Transit Ctr Gate C at 1:15 PM
+departing Brooklyn Ctr Transit Ctr Gate C at 2:30 PM
+departing Brooklyn Ctr Transit Ctr Gate C at 3:30 PM
+
+Affected southbound trips:
+departing Starlite Transit Center & Gate A at 7:43 AM
+departing Starlite Transit Center & Gate A at 8:45 AM
+departing Starlite Transit Center & Gate A at 9:45 AM
+departing Starlite Transit Center & Gate A at 10:45 AM
+departing Starlite Transit Center & Gate A at 11:45 AM
+departing Starlite Transit Center & Gate A at 12:45 PM
+departing Starlite Transit Center & Gate A at 2:00 PM
+departing Starlite Transit Center & Gate A at 3:00 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 802: Service Canceled
+
+- **Affected Routes**: `Route 802`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/802)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate E at 11:34 AM
+departing Northtown Transit Ctr Gate E at 1:34 PM
+departing Northtown Transit Ctr Gate E at 3:34 PM
+departing Northtown Transit Ctr Gate E at 5:34 PM
+
+Affected southbound trips:
+departing Anoka Tech College & Main Entrance at 12:42 PM
+departing Anoka Tech College & Main Entrance at 2:42 PM
+departing Anoka Tech College & Main Entrance at 4:42 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 805: Service Canceled
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
+departing 1st Ave S & Monroe St; 38 PM
+departing 1st Ave S & Monroe St; 36 PM
+departing 1st Ave S & Monroe St
+
+**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate D at 12:34 PM
+departing Northtown Transit Ctr Gate D at 2:34 PM
+departing Northtown Transit Ctr Gate D at 4:34 PM
+
+Affected southbound trips:
+departing 1st Ave S & Monroe St at 11:38 AM
+departing 1st Ave S & Monroe St at 1:38 PM
+departing 1st Ave S & Monroe St at 3:36 PM
+departing 1st Ave S & Monroe St at 5:38 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 805: Northbound 11:04 AM Trip Canceled (Northtown Transit Ctr Gate D)
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 805 trip departing Northtown Transit Ctr Gate D at 11:04 AM canceled due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 805 trip departing Northtown Transit Ctr Gate D at 11:04 AM canceled due to maintenance work
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -174,46 +517,6 @@ Get on/off buses at:
 Portland & 66th St Station - Stop #643 (northbound)
 Temporary stop on Portland Ave & 61st St (northbound)
 Chicago Ave & 56th St E - Stop #81078 (northbound)
-```
-
-</details>
-
----
-
-### ⚠️ METRO E Line: Detour via France Ave (62nd St to 65th St)
-
-- **Affected Routes**: `METRO E Line`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: France Ave (62nd St to 65th St)
-- **Closed Stops**: France & 62nd St Station (Stop #1153), Stop #1149, Stop #1156
-
-**Summary**: METRO E Line detoured off France Ave from 62nd St to 65th St until further notice due to construction. Board at: France & 58th St Station - Stop #1149 (southbound); Southdale Hospital Station - Stop #1156 (eastbound).
-
-> 💡 **Rider Action**: Board at: France & 58th St Station - Stop #1149 (southbound); Southdale Hospital Station - Stop #1156 (eastbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/eline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: METRO E Line detoured off France Ave from 62nd St to 65th St until further notice due to construction
-
-```text
-Get on/off buses at:
-France & 58th St Station - Stop #1149 (southbound)
-Southdale Hospital Station - Stop #1156 (eastbound)
-
-Northbound buses will travel regular route.
-
-Southbound buses will travel regular route on France Ave to 62nd St, right on 62nd St, left on Brookview Ave, left on Valley View Rd, left on 65th St to France Ave, and resume regular route. 
-
-Affected direction: Southbound
-
-Affected stops:
-France & 62nd St Station - Stop #1153 (southbound)
 ```
 
 </details>
@@ -833,6 +1136,52 @@ For eastbound Route 9 get on/off buses at:
 For westbound Route 9 get on/off buses at:
 25th St E & 35th Ave S - Stop #17595 (westbound)
 25th St E & 31st Ave S - Stop #17599 (westbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 9: Detour via 25th St E & 31st Ave S
+
+- **Affected Routes**: `Route 9`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Tue Oct 6 at 7:00 AM until further notice
+- **Corridors & Intersections**: 25th St E & 31st Ave S; 25th St E & 35th Ave S; left on 25th St & resume regular route.
+
+Affected st; 25th St E & 33rd Ave S; 25th St (32nd Ave to 34th Ave)
+- **Closed Stops**: 25th St E & 33rd Ave S (Stop #16457), 25th St E & 33rd Ave S (Stop #17597), Stop #16455, Stop #16459, Stop #17595, Stop #17599
+
+**Summary**: Route 9 detoured off 25th St from 32nd Ave to 34th Ave beginning Tue Oct 6 at 7:00 AM until further notice due to construction. Board at: 25th St E & 31st Ave S - Stop #16455 (eastbound); 25th St E & 35th Ave S - Stop #16459 (eastbound).
+
+> 💡 **Rider Action**: Board at: 25th St E & 31st Ave S - Stop #16455 (eastbound); 25th St E & 35th Ave S - Stop #16459 (eastbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on 25th St to 32nd Ave, right on 32nd Ave, left on 26th St, left on 34th Ave, right on 25th St and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/9)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 9 detoured off 25th St from 32nd Ave to 34th Ave beginning Tue Oct 6 at 7:00 AM until further notice due to construction
+
+```text
+For eastbound Route 9 get on/off buses at:
+25th St E & 31st Ave S - Stop #16455 (eastbound)
+25th St E & 35th Ave S - Stop #16459 (eastbound)
+
+For westbound Route 9 get on/off buses at:
+25th St E & 35th Ave S - Stop #17595 (westbound)
+25th St E & 31st Ave S - Stop #17599 (westbound)
+
+Eastbound buses will travel regular route on 25th St to 32nd Ave, right on 32nd Ave, left on 26th St, left on 34th Ave, right on 25th St and resume regular route.
+
+Westbound buses will travel regular route on 25th St to 34th Ave, left on 34th Ave, right on 26th St, right on 32nd Ave, left on 25th St and resume regular route.
+
+Affected stops:
+25th St E & 33rd Ave S - Stop #16457 (eastbound)
+25th St E & 33rd Ave S - Stop #17597 (westbound)
 ```
 
 </details>
@@ -3172,45 +3521,6 @@ Co Rd C & Avon St - Stop #45335 (westbound)
 
 ---
 
-### ⚠️ Route 225: Detour via Co Rd E & Pine Tree Dr
-
-- **Affected Routes**: `Route 225`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Co Rd E & Pine Tree Dr
-- **Closed Stops**: Co Rd E & Pine Tree Dr (Stop #49195), Stop #1200, Stop #49194
-
-**Summary**: Route 225 detoured off Snelling Ave from Co Rd E to Lydia Ave from 9:00 PM today to Mon Oct 5 at 5:00 AM due to construction. Board at: Co Rd E & #1200 - Stop #49194 (westbound).
-
-> 💡 **Rider Action**: Board at: Co Rd E & #1200 - Stop #49194 (westbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/225)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 225 detoured off Snelling Ave from Co Rd E to Lydia Ave from 9:00 PM today to Mon Oct 5 at 5:00 AM due to construction
-
-```text
-Get on/off southbound buses at:
-Co Rd E & #1200 - Stop #49194 (westbound)
-
-Northbound buses will travel regular route.
-
-Southbound buses will travel regular route on Co Rd E to Pine Tree Dr, left on Pine Tree Dr which turns into Harriet Ave, right on Lexington Ave, right on Josephine Rd, left on Hamline Ave, right on Lydia Ave, left on E Snelling service road and resume regular route.
-
-Affected direction: Southbound
-
-Affected stops:
-Co Rd E & Pine Tree Dr - Stop #49195 (westbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 275, Route 860: Detour via 5th St & Minnesota St
 
 - **Affected Routes**: `Route 275` `Route 860`
@@ -3771,6 +4081,52 @@ Ridgedale Dr & Cartway Lane - Stop #56601 (northbound)
 
 ---
 
+### ⚠️ Route 645: Detour via Route 645 detoured off Ferndale Rd & off Way
+
+- **Affected Routes**: `Route 645`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Route 645 detoured off Ferndale Rd & off Way; Ferndale Rd & Lake St W; Wayzata Blvd & Ferndale Rd; Wayzata Blvd & Edgewood Ave; Wayzata Blvd & Wayzata Jr High School - St
+- **Closed Stops**: Ferndale Rd & Lake St W (Stop #52816), Wayzata Blvd & Ferndale Rd (Stop #7193), Wayzata Blvd & Edgewood Ave / Barry Ave (Stop #51718), Wayzata Blvd & Wayzata Jr High School (Stop #51717), Ferndale Rd & Lake St W (Stop #52817), Stop #6982, Stop #6990, Stop #6784 *(+1 more)*
+
+**Summary**: Route 645 detoured off Ferndale Rd and off Wayzata Blvd between Barry and Ferndale until later today due to downed power lines. Board at: Shoreline Dr (Co Rd 15) & Peavey Rd - Stop #6982 (eastbound); Wayzata Blvd Park & Ride & Gate B - Stop #6990 (eastbound).
+
+> 💡 **Rider Action**: Board at: Shoreline Dr (Co Rd 15) & Peavey Rd - Stop #6982 (eastbound); Wayzata Blvd Park & Ride & Gate B - Stop #6990 (eastbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel north on Ferndale to Lake St, right on Lake, left on Barry, right on Wayzata Blvd and resume regular route
+
+[Official Agency Advisory](https://www.metrotransit.org/route/645)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 645 detoured off Ferndale Rd and off Wayzata Blvd between Barry and Ferndale until later today due to downed power lines.
+
+```text
+For eastbound Route 645 get on/off buses at:
+Shoreline Dr (Co Rd 15) & Peavey Rd - Stop #6982 (eastbound)
+Wayzata Blvd P&R & Gate B - Stop #6990 (eastbound)
+
+For westbound Route 645 get on/off buses at:
+Wayzata Blvd P&R & Gate A - Stop #6784 (westbound)
+Shoreline Dr (Co Rd 15) & Peavey Rd - Stop #6790 (westbound)
+
+Eastbound buses will travel north on Ferndale to Lake St, right on Lake, left on Barry, right on Wayzata Blvd and resume regular route
+
+Westbound buses will travel west on Wayzata Blvd to Barry, left on Barry, right on Lake St W, left on Ferndale and resume regular route
+
+Affected stops:
+Ferndale Rd & Lake St W - Stop #52816 (northbound)
+Wayzata Blvd & Ferndale Rd - Stop #7193 (eastbound)
+Wayzata Blvd & Edgewood Ave / Barry Ave - Stop #51718 (eastbound)
+Wayzata Blvd & Wayzata Jr High School - Stop #51717 (westbound)
+Ferndale Rd & Lake St W - Stop #52817 (southbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 673, Route 673B: Detour via Cedar Lake Rd & Texas Ave
 
 - **Affected Routes**: `Route 673` `Route 673B`
@@ -3812,6 +4168,53 @@ Westbound buses will travel regular route on Cedar Lake Rd to Texas Ave, left on
 Affected stops:
 Cedar Lake Rd & Rhode Island Ave S - Stop #80936 (westbound)
 Cedar Lake Rd & Sumter Ave S - Stop #80937 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 721: Detour via Bass Lake Rd (West Broadway to Co Rd 81)
+
+- **Affected Routes**: `Route 721`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Bass Lake Rd (West Broadway to Co Rd 81)
+- **Closed Stops**: Bass Lake Rd (Co Rd 10) & Elmhurst Ave (Stop #48941), Bass Lake Rd (Co Rd 10) & Sherburne Av N (Stop #9491), Bass Lake Rd (Co Rd 10) & West Broadway (Stop #9492), Bass Lake Rd (Co Rd 10) & West Broadway (Stop #9555), Bass Lake Rd (Co Rd 10) & Sherburne Av N (Stop #9556), Bass Lake Rd (Co Rd 10) & Elmhurst Ave (Stop #48942), Stop #9489, Stop #9493 *(+2 more)*
+
+**Summary**: Route 721 detoured off Bass Lake Rd from West Broadway to Co Rd 81 until further notice due to construction. Board at: Bass Lake Rd (Co Rd 10) & Adair Ave N - Stop #9489 (westbound); Bass Lake Rd (Co Rd 10) & Jersey Ave N - Stop #9493 (westbound).
+
+> 💡 **Rider Action**: Board at: Bass Lake Rd (Co Rd 10) & Adair Ave N - Stop #9489 (westbound); Bass Lake Rd (Co Rd 10) & Jersey Ave N - Stop #9493 (westbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel the regular route on Bass Lake Rd to Co Rd 81, right on Co Rd 81, left on 63rd Ave N, left on West Broadway, right on Bass Lake Rd, and resume the regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/721)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 721 detoured off Bass Lake Rd from West Broadway to Co Rd 81 until further notice due to construction
+
+```text
+For northbound Route 721 get on/off buses at:
+Bass Lake Rd (Co Rd 10) & Adair Ave N - Stop #9489 (westbound)
+Bass Lake Rd (Co Rd 10) & Jersey Ave N - Stop #9493 (westbound)
+
+For southbound Route 721 get on/off buses at:
+Bass Lake Rd (Co Rd 10) & Jersey Ave N - Stop #9554 (eastbound)
+Bass Lake Rd (Co Rd 10) & Adair Ave N - Stop #9557 (eastbound)
+
+Northbound buses will travel the regular route on Bass Lake Rd to Co Rd 81, right on Co Rd 81, left on 63rd Ave N, left on West Broadway, right on Bass Lake Rd, and resume the regular route.
+
+Southbound buses will travel the regular route on Bass Lake Rd to West Broadway, left on West Broadway, right on 63rd Ave N, right on Co Rd 81, left on Bass Lake Rd, and resume the regular route.
+
+Affected stops:
+Bass Lake Rd (Co Rd 10) & Elmhurst Ave - Stop #48941 (westbound)
+Bass Lake Rd (Co Rd 10) & Sherburne Av N - Stop #9491 (westbound)
+Bass Lake Rd (Co Rd 10) & West Broadway - Stop #9492 (westbound)
+Bass Lake Rd (Co Rd 10) & West Broadway - Stop #9555 (eastbound)
+Bass Lake Rd (Co Rd 10) & Sherburne Av N - Stop #9556 (eastbound)
+Bass Lake Rd (Co Rd 10) & Elmhurst Ave - Stop #48942 (eastbound)
 ```
 
 </details>
@@ -4129,6 +4532,31 @@ The bus stop has been moved to southbound 10th Ave SE just past 8th St SE.
 
 ```text
 The bus stop has moved 150 feet east due to construction.
+```
+
+</details>
+
+---
+
+### ℹ️ Route 64, Route 74: Service Advisory
+
+- **Affected Routes**: `Route 64` `Route 74`
+- **Direction**: Northbound
+- **Severity**: `Minor`
+- **Schedule**: Beginning Mon Oct 12
+- **Closed Stops**: Stop #53948, Stop #54048
+
+**Summary**: Routes 64 and 74 school trips that serve Johnson High School will switch gates beginning Mon Oct 12
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Routes 64 and 74 school trips that serve Johnson High School will switch gates beginning Mon Oct 12
+
+```text
+Route 74 will drop off in the morning and pickup in the afternoon at Johnson High School & Gate B - Stop #53948 (northbound)
+
+Route 64 trips will pickup in the afternoon at Johnson High School & Gate C - Stop #54048 (eastbound)
 ```
 
 </details>
