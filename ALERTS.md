@@ -2,95 +2,93 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-111-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-11-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-96-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-115-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-14-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-97-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-75-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-76-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-05T17:49:33.014Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-05T23:41:31.019Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (2) • **METRO C Line** (1) • **METRO D Line** (4) • **METRO Gold Line** (2) • **Route 2** (3) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (2) • **Route 7** (3) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (1) • **Route 18** (7) • **Route 22** (3) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 36** (3) • **Route 38** (4) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (3) • **Route 80** (1) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (2) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 804** (1) • **Route 805** (2) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (3) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (3) • **Route 3** (3) • **Route 3A** (1) • **Route 3B** (1) • **Route 5** (2) • **Route 7** (3) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (2) • **Route 17** (1) • **Route 18** (7) • **Route 22** (4) • **Route 25** (3) • **Route 27** (2) • **Route 30** (2) • **Route 36** (3) • **Route 38** (4) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (3) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (2) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 467** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (2) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO Blue Line: Service Advisory
-
-- **Affected Routes**: `METRO Blue Line`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #51405
-
-**Summary**: Northbound Blue Line trip departing Mall of America Station at 11:40 AM will start from 30th Ave Station. Mall of America Station will be missed due to train-bird collision
-
-[Official Agency Advisory](https://www.metrotransit.org/route/blue)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Blue Line trip departing Mall of America Station at 11:40 AM will start from 30th Ave Station. Mall of America Station will be missed due to train-bird collision
-
-</details>
-
----
-
-### 🚨 METRO C Line: Service Canceled
-
-- **Affected Routes**: `METRO C Line`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing 7th St & Park St; 57 AM
-departing 7th St & Park St; 34 AM
-departing 7th St & Park St; 09 AM
-departing 7th St & Park St; 49 PM
-departing 7th St & Park St
-
-**Summary**: C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 7:07 AM and ten other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/cline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 7:07 AM and ten other trips canceled today
-
-```text
-Affected northbound trips:
-departing 7th St & Park Station at 7:57 AM
-departing 7th St & Park Station at 9:34 AM
-departing 7th St & Park Station at 11:09 AM
-departing 7th St & Park Station at 12:49 PM
-departing 7th St & Park Station at 2:27 PM
-
-Affected southbound trips:
-departing Brooklyn Ctr Transit Ctr Gate I at 7:07 AM
-departing Brooklyn Ctr Transit Ctr Gate I at 8:42 AM
-departing Brooklyn Ctr Transit Ctr Gate I at 10:19 AM
-departing Brooklyn Ctr Transit Ctr Gate I at 11:58 AM
-departing Brooklyn Ctr Transit Ctr Gate I at 1:38 PM
-departing Brooklyn Ctr Transit Ctr Gate I at 3:24 PM
-```
-
-</details>
-
----
-
-### 🚨 METRO D Line: Northbound 11:44 AM Trip Canceled (MOA Transit Station Gate A)
+### 🚨 METRO D Line: Southbound 5:28 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)
 
 - **Affected Routes**: `METRO D Line`
-- **Direction**: Northbound
+- **Direction**: Southbound
 - **Severity**: `Critical`
+- **Closed Stops**: Stop #11161, Stop #56873, Stop #56317, Stop #431, Stop #436, Stop #449, Stop #444, Stop #441 *(+22 more)*
 
-**Summary**: Northbound D Line trip departing MOA Transit Station Gate A at 11:44 AM canceled today due to maintenance work
+**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:28 PM canceled from Fremont & West Broadway at 5:48 PM today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound D Line trip departing MOA Transit Station Gate A at 11:44 AM canceled today due to maintenance work
+**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:28 PM canceled from Fremont & West Broadway at 5:48 PM today
+
+</details>
+
+---
+
+### 🚨 METRO E Line: Northbound 5:50 PM Trip Canceled (Southdale Transit Center - Gate A)
+
+- **Affected Routes**: `METRO E Line`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound E Line trip departing Southdale Transit Center - Gate A at 5:50 PM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/eline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound E Line trip departing Southdale Transit Center - Gate A at 5:50 PM canceled today due to maintenance work
+
+</details>
+
+---
+
+### 🚨 Route 3, Route 3B: Eastbound 6:10 PM Trip Canceled (Washington Ave & 10th Ave N)
+
+- **Affected Routes**: `Route 3` `Route 3B`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Eastbound Route 3B trip departing Washington Ave & 10th Ave N at 6:10 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/3)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 3B trip departing Washington Ave & 10th Ave N at 6:10 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 22: Service Advisory
+
+- **Affected Routes**: `Route 22`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #11178, Stop #11179, Stop #13219, Stop #15444, Stop #15445, Stop #15618, Stop #15625, Stop #15626 *(+54 more)*
+
+**Summary**: Northbound Route 22 trip departing VA Medical Center at 5:31 PM will start from Lyndale & Broadway. Previous stops missed
+
+[Official Agency Advisory](https://www.metrotransit.org/route/22)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 22 trip departing VA Medical Center at 5:31 PM will start from Lyndale & Broadway. Previous stops missed
 
 </details>
 
@@ -135,6 +133,25 @@ departing Westgate Station - Gate B at 7:05 PM
 
 ---
 
+### 🚨 Route 54: Eastbound 7:51 PM Trip Canceled (MOA Transit Station Gate C)
+
+- **Affected Routes**: `Route 54`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 7:51 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/54)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 7:51 PM canceled today
+
+</details>
+
+---
+
 ### 🚨 Route 71: Service Canceled
 
 - **Affected Routes**: `Route 71`
@@ -169,106 +186,136 @@ departing Market Place Dr & The Marketplace Ctr at 6:15 PM
 - **Affected Routes**: `Route 72`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: Route 72 trip departing Pascal St N & Central Ave W; departing Pascal St N & Central Ave W; 22 AM
+- **Corridors & Intersections**: departing Pascal St N & Central Ave W; 21 PM
+departing Pascal St N & Central Ave W; 20 PM
 departing Pascal St N & Central Ave W
 
-**Summary**: Route 72 trip departing Pascal St N & Central Ave W at 10:22 AM and two other trips canceled today due to maintenance work
+**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 11:20 AM and ten other trips canceled today due to maintenance work
 
 [Official Agency Advisory](https://www.metrotransit.org/route/72)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 72 trip departing Pascal St N & Central Ave W at 10:22 AM and two other trips canceled today due to maintenance work
+**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 11:20 AM and ten other trips canceled today due to maintenance work
 
 ```text
 Affected eastbound trips:
-departing Pascal St N & Central Ave W at 10:22 AM
 departing Pascal St N & Central Ave W at 12:21 PM
+departing Pascal St N & Central Ave W at 2:20 PM
+departing Pascal St N & Central Ave W at 4:20 PM
+departing Pascal St N & Central Ave W at 6:21 PM
+departing Pascal St N & Central Ave W at 8:23 PM
 
 Affected westbound trips:
 departing Sun Ray Transit Center & Gate D at 11:20 AM
+departing Sun Ray Transit Center & Gate D at 1:20 PM
+departing Sun Ray Transit Center & Gate D at 3:19 PM
+departing Sun Ray Transit Center & Gate D at 5:18 PM
+departing Sun Ray Transit Center & Gate D at 7:21 PM
+departing Sun Ray Transit Center & Gate D at 9:21 PM
 ```
 
 </details>
 
 ---
 
-### 🚨 Route 80: Service Canceled
+### 🚨 Route 72: Service Canceled
 
-- **Affected Routes**: `Route 80`
+- **Affected Routes**: `Route 72`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
+- **Corridors & Intersections**: departing Pascal St N & Central Ave W
 
-**Summary**: Route 80 trip departing Sun Ray Transit Center & Gate E at 7:12 AM and thirteen other trips canceled today
+**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 4:48 PM and two other trips canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/80)
+[Official Agency Advisory](https://www.metrotransit.org/route/72)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 80 trip departing Sun Ray Transit Center & Gate E at 7:12 AM and thirteen other trips canceled today
+**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 4:48 PM and two other trips canceled today
 
 ```text
-Affected northbound trips:
-departing Sun Ray Transit Center & Gate E at 7:12 AM
-departing Sun Ray Transit Center & Gate E at 8:12 AM
-departing Sun Ray Transit Center & Gate E at 9:12 AM
-departing Sun Ray Transit Center & Gate E at 10:12 AM
-departing Sun Ray Transit Center & Gate E at 11:12 AM
-departing Sun Ray Transit Center & Gate E at 12:12 PM
-departing Sun Ray Transit Center & Gate E at 1:12 PM
+Affected eastbound trips:
+departing Pascal St N & Central Ave W at 5:50 PM
 
-Affected southbound trips:
-departing Maplewood Mall Transit Center & Gate F at 7:42 AM
-departing Maplewood Mall Transit Center & Gate F at 8:42 AM
-departing Maplewood Mall Transit Center & Gate F at 9:42 AM
-departing Maplewood Mall Transit Center & Gate F at 10:42 AM
-departing Maplewood Mall Transit Center & Gate F at 11:42 AM
-departing Maplewood Mall Transit Center & Gate F at 12:42 PM
-departing Maplewood Mall Transit Center & Gate F at 1:42 PM
+Affected westbound trips:
+departing Sun Ray Transit Center & Gate D at 4:48 PM
+departing Sun Ray Transit Center & Gate D at 6:51 PM
 ```
 
 </details>
 
 ---
 
-### 🚨 Route 724: Service Canceled
+### 🚨 Route 219: Service Canceled
 
-- **Affected Routes**: `Route 724`
+- **Affected Routes**: `Route 219`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: Route 724 trip departing Starlite Transit Center & Gate A at 7:43 AM and fifteen other trips canceled today
+**Summary**: Route 219 trip departing Sun Ray Transit Center & Gate B at 2:13 PM and seven other trips canceled today due to traffic
 
-[Official Agency Advisory](https://www.metrotransit.org/route/724)
+[Official Agency Advisory](https://www.metrotransit.org/route/219)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 724 trip departing Starlite Transit Center & Gate A at 7:43 AM and fifteen other trips canceled today
+**Header**: Route 219 trip departing Sun Ray Transit Center & Gate B at 2:13 PM and seven other trips canceled today due to traffic
 
 ```text
 Affected northbound trips:
-departing Brooklyn Ctr Transit Ctr Gate C at 8:15 AM
-departing Brooklyn Ctr Transit Ctr Gate C at 9:15 AM
-departing Brooklyn Ctr Transit Ctr Gate C at 10:15 AM
-departing Brooklyn Ctr Transit Ctr Gate C at 11:15 AM
-departing Brooklyn Ctr Transit Ctr Gate C at 12:15 PM
-departing Brooklyn Ctr Transit Ctr Gate C at 1:15 PM
-departing Brooklyn Ctr Transit Ctr Gate C at 2:30 PM
-departing Brooklyn Ctr Transit Ctr Gate C at 3:30 PM
+departing Sun Ray Transit Center & Gate B at 2:13 PM
+departing Sun Ray Transit Center & Gate B at 4:13 PM
+departing Sun Ray Transit Center & Gate B at 6:13 PM
+departing Sun Ray Transit Center & Gate B at 8:13 PM
 
 Affected southbound trips:
-departing Starlite Transit Center & Gate A at 7:43 AM
-departing Starlite Transit Center & Gate A at 8:45 AM
-departing Starlite Transit Center & Gate A at 9:45 AM
-departing Starlite Transit Center & Gate A at 10:45 AM
-departing Starlite Transit Center & Gate A at 11:45 AM
-departing Starlite Transit Center & Gate A at 12:45 PM
-departing Starlite Transit Center & Gate A at 2:00 PM
-departing Starlite Transit Center & Gate A at 3:00 PM
+departing Maplewood Mall Transit Center & Gate A at 3:12 PM
+departing Maplewood Mall Transit Center & Gate A at 5:12 PM
+departing Maplewood Mall Transit Center & Gate A at 7:12 PM
+departing Maplewood Mall Transit Center & Gate A at 9:12 PM
 ```
+
+</details>
+
+---
+
+### 🚨 Route 467: Service Canceled
+
+- **Affected Routes**: `Route 467`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Route 467 trips departing Gateway Ramp & Platform at 3:37 PM and departing Gateway Ramp & Platform at 5:07 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/467)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 467 trips departing Gateway Ramp & Platform at 3:37 PM and departing Gateway Ramp & Platform at 5:07 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 540: Service Advisory
+
+- **Affected Routes**: `Route 540`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #57318, Stop #57319, Stop #57320, Stop #56879, Stop #47844, Stop #48623, Stop #48624, Stop #43340
+
+**Summary**: Westbound Route 540 trip departing MOA Transit Station Gate G at 5:25 PM will operate from 77th & Portland at 5:33 PM today. Previous stops will be missed due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/540)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 540 trip departing MOA Transit Station Gate G at 5:25 PM will operate from 77th & Portland at 5:33 PM today. Previous stops will be missed due to maintenance work
 
 </details>
 
@@ -342,25 +389,6 @@ departing 1st Ave S & Monroe St at 5:38 PM
 
 ---
 
-### 🚨 Route 805: Northbound 11:04 AM Trip Canceled (Northtown Transit Ctr Gate D)
-
-- **Affected Routes**: `Route 805`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Route 805 trip departing Northtown Transit Ctr Gate D at 11:04 AM canceled due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 805 trip departing Northtown Transit Ctr Gate D at 11:04 AM canceled due to maintenance work
-
-</details>
-
----
-
 ## ⚠️ Moderate Detours & Changes
 
 ### ⚠️ METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)
@@ -412,52 +440,6 @@ Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on 
 
 ```text
 Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station.
-```
-
-</details>
-
----
-
-### ⚠️ METRO D Line: Detour via Chicago Ave & 56th St
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Wed Jul 15 at 2:00 AM until further notice
-- **Corridors & Intersections**: Chicago Ave & 56th St; Chicago Ave (56th St to 60th St)
-- **Closed Stops**: Chicago & 56th St Station (Stop #775), Chicago & 56th St Station (Stop #40472), Stop #56919
-
-**Summary**: D Line detoured off Chicago Ave from 56th St to 60th St beginning Wed Jul 15 at 2:00 AM until further notice. Board at: Portland & 60th St Station - Stop #737 (northbound); Temporary stop on Chicago Ave just past 56th St (northbound); Chicago & 52nd St Station - Stop #779 (northbound).
-
-> 💡 **Rider Action**: Board at: Portland & 60th St Station - Stop #737 (northbound); Temporary stop on Chicago Ave just past 56th St (northbound); Chicago & 52nd St Station - Stop #779 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel the regular route on Portland Ave to 60th St, continue on Portland Ave, right on 56th St, left on Chicago Ave, and resume the regular route.
-Southbound buses will travel the regular route on Chicago Ave to 56th St, right on 56th St, left on Portland Ave to 60th St, continue on Portland Ave, and resume the regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: D Line detoured off Chicago Ave from 56th St to 60th St beginning Wed Jul 15 at 2:00 AM until further notice
-
-```text
-For northbound D Line get on/off buses at:
-Portland & 60th St Station - Stop #737 (northbound)
-Temporary stop on Chicago Ave just past 56th St (northbound)
-Chicago & 52nd St Station - Stop #779 (northbound)
-
-For southbound D Line get on/off buses at:
-Chicago & 52nd St Station - Stop #56919 (southbound)
-Temporary stop on Chicago Ave & 56th St (southbound)
-Portland & 60th St Station - Stop #431 (southbound)
-
-Northbound buses will travel the regular route on Portland Ave to 60th St, continue on Portland Ave, right on 56th St, left on Chicago Ave, and resume the regular route.
-Southbound buses will travel the regular route on Chicago Ave to 56th St, right on 56th St, left on Portland Ave to 60th St, continue on Portland Ave, and resume the regular route.
-
-Affected stops:
-Chicago & 56th St Station - Stop #775 (northbound)
-Chicago & 56th St Station - Stop #40472 (southbound)
 ```
 
 </details>
@@ -1373,6 +1355,50 @@ Temporary stop on Chicago Ave just past 56th St (northbound)
 
 ---
 
+### ⚠️ Route 14: Detour via Washington Ave & 17th Ave N
+
+- **Affected Routes**: `Route 14`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Washington Ave & 17th Ave N; Washington Ave & West Broadway - St; 5th St & 4th St N
+- **Closed Stops**: West Broadway & 4th St N (Stop #8316), West Broadway & Lyndale Ave N (Stop #8308), West Broadway & 5th St / 4th St N (Stop #8312), Stop #16353, Stop #8306, Stop #8305, Stop #16393
+
+**Summary**: Route 14 detoured off West Broadway from Washington Ave to Lyndale Ave from 8:30 AM to 3:00 PM on Fri Oct 9 due to construction. Board at: Washington Ave & 17th Ave N - Stop #16353 (northbound); West Broadway & Aldrich Ave N - Stop #8306 (westbound).
+
+> 💡 **Rider Action**: Board at: Washington Ave & 17th Ave N - Stop #16353 (northbound); West Broadway & Aldrich Ave N - Stop #8306 (westbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel the regular route on Washington Ave to West Broadway, continue on Washington Ave, left on 26th Ave N, left on Lyndale Ave, right on West Broadway, and resume the regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/14)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 14 detoured off West Broadway from Washington Ave to Lyndale Ave from 8:30 AM to 3:00 PM on Fri Oct 9 due to construction
+
+```text
+For northbound Route 14 get on/off buses at:
+Washington Ave & 17th Ave N - Stop #16353 (northbound)
+West Broadway & Aldrich Ave N - Stop #8306 (westbound)
+
+For southbound Route 14 get on/off buses at:
+West Broadway & Aldrich Ave N - Stop #8305 (eastbound)
+Washington Ave & West Broadway - Stop #16393 (southbound)
+
+Northbound buses will travel the regular route on Washington Ave to West Broadway, continue on Washington Ave, left on 26th Ave N, left on Lyndale Ave, right on West Broadway, and resume the regular route.
+
+Southbound buses will travel the regular route on West Broadway to Lyndale Ave, left on Lyndale Ave, right on 26th Ave N, right on Washington Ave to West Broadway, continue on Washington Ave, and resume the regular route.
+
+Affected stops:
+West Broadway & 4th St N - Stop #8316 (westbound)
+West Broadway & Lyndale Ave N - Stop #8308 (eastbound)
+West Broadway & 5th St / 4th St N - Stop #8312 (eastbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 17: Detour via Regular Corridor
 
 - **Affected Routes**: `Route 17`
@@ -1913,6 +1939,50 @@ Cedar Ave S & Lake St E - Stop #15317 (northbound)
 Cedar Ave S & 28th St E - Stop #15319 (northbound)
 26th St E & 18th Ave S - Stop #14340 (westbound)
 26th St E & Bloomington Ave S - Stop #43004 (westbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 30: Detour via West Broadway Ave & 2nd St N
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: West Broadway Ave & 2nd St N; 5th St & 4th St N
+- **Closed Stops**: West Broadway & Lyndale Ave N (Stop #8308), West Broadway & 5th St / 4th St N (Stop #8312), West Broadway & 4th St N (Stop #8316), Stop #8305, Stop #12255, Stop #12257, Stop #8306
+
+**Summary**: Route 30 detoured off West Broadway from Washington Ave to Lyndale Ave from 8:30 AM to 3:00 PM on Fri Oct 9 due to construction. Board at: West Broadway & Aldrich Ave N - Stop #8305 (eastbound); West Broadway Ave & 2nd St N - Stop #12255 (eastbound).
+
+> 💡 **Rider Action**: Board at: West Broadway & Aldrich Ave N - Stop #8305 (eastbound); West Broadway Ave & 2nd St N - Stop #12255 (eastbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel the regular route on West Broadway to Lyndale Ave, left on Lyndale Ave, right on 26th Ave N, right on Washington Ave, left on West Broadway, and resume the regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 30 detoured off West Broadway from Washington Ave to Lyndale Ave from 8:30 AM to 3:00 PM on Fri Oct 9 due to construction
+
+```text
+For eastbound Route 30 get on/off buses at:
+West Broadway & Aldrich Ave N - Stop #8305 (eastbound)
+West Broadway Ave & 2nd St N - Stop #12255 (eastbound)
+
+For westbound Route 30 get on/off buses at:
+West Broadway Ave & 2nd St N - Stop #12257 (westbound)
+West Broadway & Aldrich Ave N - Stop #8306 (westbound)
+
+Eastbound buses will travel the regular route on West Broadway to Lyndale Ave, left on Lyndale Ave, right on 26th Ave N, right on Washington Ave, left on West Broadway, and resume the regular route.
+
+Westbound buses will travel the regular route on West Broadway to Washington Ave, right on Washington Ave, left on 26th Ave N, left on Lyndale Ave, right on West Broadway, and resume the regular route.
+
+Affected stops:
+West Broadway & Lyndale Ave N - Stop #8308 (eastbound)
+West Broadway & 5th St / 4th St N - Stop #8312 (eastbound)
+West Broadway & 4th St N - Stop #8316 (westbound)
 ```
 
 </details>
@@ -3013,31 +3083,33 @@ Larpenteur Ave & Sylvan St - Stop #49945 (eastbound)
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Sep 28 at 7:00 AM until further notice
-- **Corridors & Intersections**: Larpenteur Ave & Jackson St; Jackson St & Rose Ave E; Jackson St & Wheelock Pkwy; Timberlake Rd N & Klainert St; Arlington Ave E & Jackson St
-- **Closed Stops**: Stop #49947, Stop #56323, Stop #49677, Stop #1581, Stop #18095, Stop #18096, Stop #18098, Stop #1479 *(+8 more)*
+- **Corridors & Intersections**: Larpenteur Ave & Jackson St; Arlington Ave & Klainert St; Jackson St & Wheelock Pkwy; Timberlake Rd N & Klainert St; Arlington Ave E & Jackson St
+- **Closed Stops**: Stop #49947, Stop #1301, Stop #49948, Stop #49677, Stop #1581, Stop #18095, Stop #18096, Stop #18098 *(+5 more)*
 
-**Summary**: Southbound Route 68 detoured off Jackson St from Larpenteur Ave to Maryland Ave and off Timberlake Rd beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Larpenteur Ave & Jackson St - Stop #49947 (eastbound); Temporary stop on Arlington at Klainert St (westbound); Jackson St & Rose Ave E - Stop #56323 (southbound).
+**Summary**: Route 68 detoured off Jackson St from Larpenteur Ave to Maryland Ave and off Timberlake Rd beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Larpenteur Ave & Jackson St - Stop #49947 (eastbound); Temporary stop on Arlington Ave & Klainert St (westbound); L'Orient St & #1301 - Stop #49948 (southbound).
 
-> 💡 **Rider Action**: Board at: Larpenteur Ave & Jackson St - Stop #49947 (eastbound); Temporary stop on Arlington at Klainert St (westbound); Jackson St & Rose Ave E - Stop #56323 (southbound)
+> 💡 **Rider Action**: Board at: Larpenteur Ave & Jackson St - Stop #49947 (eastbound); Temporary stop on Arlington Ave & Klainert St (westbound); L'Orient St & #1301 - Stop #49948 (southbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route.
 
 [Official Agency Advisory](https://www.metrotransit.org/route/68)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 68 detoured off Jackson St from Larpenteur Ave to Maryland Ave and off Timberlake Rd beginning Mon Sep 28 at 7:00 AM until further notice due to construction
+**Header**: Route 68 detoured off Jackson St from Larpenteur Ave to Maryland Ave and off Timberlake Rd beginning Mon Sep 28 at 7:00 AM until further notice due to construction
 
 ```text
-Updated detour routing, affected stops, and get on/off stops on 10/1 at 9AM.
+Updated detour routing, affected stops, and get on/off stops 10/5 1:20 pm.
 
 Get on/off buses at:
 Larpenteur Ave & Jackson St - Stop #49947 (eastbound)
-Temporary stop on Arlington at Klainert St (westbound)
-Jackson St & Rose Ave E - Stop #56323 (southbound)
+Temporary stop on Arlington Ave & Klainert St (westbound)
+L'Orient St & #1301 - Stop #49948 (southbound)
 
-Southbound buses that depart from Hwy 36 and Rice St Park & Ride will travel regular route on Larpenteur Ave to Jackson St, continue on Larpenteur Ave to L'Orient St, right on L'Orient St, right on Arlington Ave, left on Rice St, left on Maryland Ave, left on Jackson St, and resume the regular route.
+Northbound buses will travel regular route.
 
-Northbound buses will follow regular route.
+Southbound buses that depart from Hwy 36 and Rice St Park & Ride will travel regular route on Larpenteur Ave to Jackson St, continue on Larpenteur to L'Orient St, right on L'Orient St, right on Arlington Ave, left on L'Orient St, and resume regular route.
 
 Affected stops:
 Jackson St & Wheelock Pkwy - Stop #49677 (southbound)
@@ -3048,9 +3120,6 @@ Timberlake Rd S & #1479 - Stop #43773 (westbound)
 Arlington Ave E & Jackson St - Stop #40095 (eastbound)
 Arlington Ave E & #179 - Stop #51606 (eastbound)
 Arlington Ave E & LOrient St - Stop #40108 (eastbound)
-LOrient St & #1301 - Stop #49948 (southbound)
-LOrient St & Kmart - Stop #49949 (southbound)
-Maryland Ave & LOrient St - Stop #40101 (westbound)
 ```
 
 </details>
