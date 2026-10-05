@@ -4,35 +4,62 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 04 Oct 2026 22:41:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 01:33:40 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO A Line: Northbound 5:05 PM Trip Canceled (46th St Station Gate A)</title>
-      <link>https://www.metrotransit.org/route/aline</link>
-      <guid isPermaLink="false">Metro Transit-53767-2026-10-04T22:01:20.000Z</guid>
-      <pubDate>Sun, 04 Oct 2026 22:01:20 GMT</pubDate>
+      <title>[Critical] METRO C Line: Southbound 6:54 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate I)</title>
+      <link>https://www.metrotransit.org/route/cline</link>
+      <guid isPermaLink="false">Metro Transit-53770-2026-10-05T01:28:01.000Z</guid>
+      <pubDate>Mon, 05 Oct 2026 01:28:01 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO A Line</category>
-      <description>Northbound A Line trip departing 46th St Station Gate A at 5:05 PM canceled</description>
+      <category>METRO C Line</category>
+      <description>Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 6:54 PM canceled today due to traffic</description>
     </item>
     <item>
-      <title>[Critical] Route 14: Service Advisory</title>
+      <title>[Critical] METRO D Line: Southbound 7:27 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-53774-2026-10-05T01:09:20.000Z</guid>
+      <pubDate>Mon, 05 Oct 2026 01:09:20 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO D Line</category>
+      <description>Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 7:27 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 3, Route 3A: Westbound 7:42 PM Trip Canceled (Union Depot &amp; Gate A1)</title>
+      <link>https://www.metrotransit.org/route/3</link>
+      <guid isPermaLink="false">Metro Transit-53775-2026-10-05T01:10:01.000Z</guid>
+      <pubDate>Mon, 05 Oct 2026 01:10:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 3, Route 3A</category>
+      <description>Westbound Route 3A trip departing Union Depot &amp; Gate A1 at 7:42 PM canceled</description>
+    </item>
+    <item>
+      <title>[Critical] Route 14: Northbound 6:46 PM Trip Canceled (66th St E &amp; Richfield Pkwy / 16th Ave)</title>
       <link>https://www.metrotransit.org/route/14</link>
-      <guid isPermaLink="false">Metro Transit-53762-2026-10-04T20:24:07.000Z</guid>
-      <pubDate>Sun, 04 Oct 2026 20:24:07 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53769-2026-10-04T23:51:13.000Z</guid>
+      <pubDate>Sun, 04 Oct 2026 23:51:13 GMT</pubDate>
       <category>Critical</category>
       <category>Route 14</category>
-      <description>Southbound Route 14 trip departing Robbinsdale Transit Center &amp; Gate A at 3:50 PM will operate from Washington &amp; 10th at 4:10 PM today. Previous stops will be missed due to maintenance work</description>
+      <description>Northbound Route 14 trip departing 66th St E &amp; Richfield Pkwy / 16th Ave at 6:46 PM canceled today due to traffic</description>
     </item>
     <item>
-      <title>[Critical] Route 63: Westbound 3:55 PM Trip Canceled (Sun Ray Transit Center &amp; Gate A)</title>
-      <link>https://www.metrotransit.org/route/63</link>
-      <guid isPermaLink="false">Metro Transit-53765-2026-10-04T20:41:04.000Z</guid>
-      <pubDate>Sun, 04 Oct 2026 20:41:04 GMT</pubDate>
+      <title>[Critical] Route 14: Southbound 7:13 PM Trip Canceled (Robbinsdale Transit Center &amp; Gate A)</title>
+      <link>https://www.metrotransit.org/route/14</link>
+      <guid isPermaLink="false">Metro Transit-53771-2026-10-05T00:52:21.000Z</guid>
+      <pubDate>Mon, 05 Oct 2026 00:52:21 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 63</category>
-      <description>Westbound Route 63 trip departing Sun Ray Transit Center &amp; Gate A at 3:55 PM canceled today</description>
+      <category>Route 14</category>
+      <description>Southbound Route 14 trip departing Robbinsdale Transit Center &amp; Gate A at 7:13 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 14: Northbound 7:06 PM Trip Canceled (66th St E &amp; Richfield Pkwy / 16th Ave)</title>
+      <link>https://www.metrotransit.org/route/14</link>
+      <guid isPermaLink="false">Metro Transit-53772-2026-10-05T00:53:20.000Z</guid>
+      <pubDate>Mon, 05 Oct 2026 00:53:20 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 14</category>
+      <description>Northbound Route 14 trip departing 66th St E &amp; Richfield Pkwy / 16th Ave at 7:06 PM canceled</description>
     </item>
     <item>
       <title>[Critical] Route 72: Service Canceled</title>
@@ -60,15 +87,6 @@
       <category>Moderate</category>
       <category>METRO Blue Line</category>
       <description>Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues</description>
-    </item>
-    <item>
-      <title>[Moderate] METRO Blue Line, METRO Green Line: Service Advisory</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-52268-2026-10-04T15:30:02.000Z</guid>
-      <pubDate>Sun, 04 Oct 2026 15:30:02 GMT</pubDate>
-      <category>Moderate</category>
-      <category>METRO Blue Line, METRO Green Line</category>
-      <description>METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 10/4 from 11am - 7pm</description>
     </item>
     <item>
       <title>[Moderate] METRO D Line: Detour via Chicago Ave &amp; 56th St</title>
@@ -915,6 +933,15 @@
       <category>Moderate</category>
       <category>Route 860</category>
       <description>Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction. Board at: Temporary stop on Grove St &amp; Lafayette Rd (eastbound); LaFayette Rd &amp; 8th St - Stop #11925 (southbound). | Action: Board at: Temporary stop on Grove St &amp; Lafayette Rd (eastbound); LaFayette Rd &amp; 8th St - Stop #11925 (southbound)</description>
+    </item>
+    <item>
+      <title>[Minor] Blue Line Trip Departing Target Field Station Platform 2 at 7:04 PM Delayed 30 Minutes</title>
+      <link>https://www.metrotransit.org/route/blue</link>
+      <guid isPermaLink="false">Metro Transit-53773-2026-10-05T00:59:39.000Z</guid>
+      <pubDate>Mon, 05 Oct 2026 00:59:39 GMT</pubDate>
+      <category>Minor</category>
+      <category>METRO Blue Line</category>
+      <description>Blue Line trip departing Target Field Station Platform 2 at 7:04 PM delayed 30 minutes</description>
     </item>
     <item>
       <title>[Minor] Route 2: Service Advisory</title>

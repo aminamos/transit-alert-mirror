@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-04T22:41:40.877Z",
-    "totalAlerts": 104,
-    "criticalCount": 4,
-    "moderateCount": 97,
-    "minorCount": 3,
+    "generatedAt": "2026-10-05T01:33:40.583Z",
+    "totalAlerts": 107,
+    "criticalCount": 7,
+    "moderateCount": 96,
+    "minorCount": 4,
     "affectedRoutesCount": 72,
     "agencies": [
       "Metro Transit"
@@ -12,187 +12,63 @@
   },
   "alerts": [
     {
-      "id": "53767",
+      "id": "53770",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO A Line: Northbound 5:05 PM Trip Canceled (46th St Station Gate A)",
-      "summary": "Northbound A Line trip departing 46th St Station Gate A at 5:05 PM canceled",
+      "title": "METRO C Line: Southbound 6:54 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate I)",
+      "summary": "Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 6:54 PM canceled today due to traffic",
       "affectedRoutes": [
-        "METRO A Line"
+        "METRO C Line"
       ],
-      "direction": "Northbound",
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {},
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/cline",
+      "updatedAt": "2026-10-05T01:28:01.000Z",
+      "rawHeader": "Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 6:54 PM canceled today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "53774",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO D Line: Southbound 7:27 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)",
+      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 7:27 PM canceled today",
+      "affectedRoutes": [
+        "METRO D Line"
+      ],
+      "direction": "Southbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-04T22:05:00.000Z",
-        "end": "2026-10-04T23:42:00.000Z"
+        "start": "2026-10-05T01:09:00.000Z",
+        "end": "2026-10-05T02:38:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/aline",
-      "updatedAt": "2026-10-04T22:01:20.000Z",
-      "rawHeader": "Northbound A Line trip departing 46th St Station Gate A at 5:05 PM canceled",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-10-05T01:09:20.000Z",
+      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 7:27 PM canceled today",
       "rawDescription": ""
     },
     {
-      "id": "53762",
+      "id": "53775",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 14: Service Advisory",
-      "summary": "Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 3:50 PM will operate from Washington & 10th at 4:10 PM today. Previous stops will be missed due to maintenance work",
+      "title": "Route 3, Route 3A: Westbound 7:42 PM Trip Canceled (Union Depot & Gate A1)",
+      "summary": "Westbound Route 3A trip departing Union Depot & Gate A1 at 7:42 PM canceled",
       "affectedRoutes": [
-        "Route 14"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [
-        "16393",
-        "16395",
-        "16401",
-        "16406",
-        "50153",
-        "41982",
-        "52527",
-        "8265",
-        "8274",
-        "8286",
-        "8292",
-        "8305",
-        "8308",
-        "8312",
-        "8320",
-        "8328",
-        "8332",
-        "8337",
-        "8339",
-        "8342",
-        "8345",
-        "8348",
-        "8370",
-        "8374",
-        "8378",
-        "8385",
-        "8387",
-        "8389",
-        "8391",
-        "57669"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "16393"
-        },
-        {
-          "id": "16395"
-        },
-        {
-          "id": "16401"
-        },
-        {
-          "id": "16406"
-        },
-        {
-          "id": "50153"
-        },
-        {
-          "id": "41982"
-        },
-        {
-          "id": "52527"
-        },
-        {
-          "id": "8265"
-        },
-        {
-          "id": "8274"
-        },
-        {
-          "id": "8286"
-        },
-        {
-          "id": "8292"
-        },
-        {
-          "id": "8305"
-        },
-        {
-          "id": "8308"
-        },
-        {
-          "id": "8312"
-        },
-        {
-          "id": "8320"
-        },
-        {
-          "id": "8328"
-        },
-        {
-          "id": "8332"
-        },
-        {
-          "id": "8337"
-        },
-        {
-          "id": "8339"
-        },
-        {
-          "id": "8342"
-        },
-        {
-          "id": "8345"
-        },
-        {
-          "id": "8348"
-        },
-        {
-          "id": "8370"
-        },
-        {
-          "id": "8374"
-        },
-        {
-          "id": "8378"
-        },
-        {
-          "id": "8385"
-        },
-        {
-          "id": "8387"
-        },
-        {
-          "id": "8389"
-        },
-        {
-          "id": "8391"
-        },
-        {
-          "id": "57669"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-04T20:50:00.000Z",
-        "end": "2026-10-04T22:55:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/14",
-      "updatedAt": "2026-10-04T20:24:07.000Z",
-      "rawHeader": "Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 3:50 PM will operate from Washington & 10th at 4:10 PM today. Previous stops will be missed due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "53765",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 63: Westbound 3:55 PM Trip Canceled (Sun Ray Transit Center & Gate A)",
-      "summary": "Westbound Route 63 trip departing Sun Ray Transit Center & Gate A at 3:55 PM canceled today",
-      "affectedRoutes": [
-        "Route 63"
+        "Route 3",
+        "Route 3A"
       ],
       "direction": "Westbound",
       "intersections": [],
@@ -201,14 +77,92 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-04T20:55:00.000Z",
-        "end": "2026-10-04T22:51:00.000Z"
+        "start": "2026-10-05T01:09:00.000Z",
+        "end": "2026-10-05T02:40:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/63",
-      "updatedAt": "2026-10-04T20:41:04.000Z",
-      "rawHeader": "Westbound Route 63 trip departing Sun Ray Transit Center & Gate A at 3:55 PM canceled today",
+      "url": "https://www.metrotransit.org/route/3",
+      "updatedAt": "2026-10-05T01:10:01.000Z",
+      "rawHeader": "Westbound Route 3A trip departing Union Depot & Gate A1 at 7:42 PM canceled",
+      "rawDescription": ""
+    },
+    {
+      "id": "53769",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 14: Northbound 6:46 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)",
+      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 6:46 PM canceled today due to traffic",
+      "affectedRoutes": [
+        "Route 14"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-04T23:50:00.000Z",
+        "end": "2026-10-05T01:47:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/14",
+      "updatedAt": "2026-10-04T23:51:13.000Z",
+      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 6:46 PM canceled today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "53771",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 14: Southbound 7:13 PM Trip Canceled (Robbinsdale Transit Center & Gate A)",
+      "summary": "Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 7:13 PM canceled today",
+      "affectedRoutes": [
+        "Route 14"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-05T00:52:00.000Z",
+        "end": "2026-10-05T02:14:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/14",
+      "updatedAt": "2026-10-05T00:52:21.000Z",
+      "rawHeader": "Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 7:13 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "53772",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 14: Northbound 7:06 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)",
+      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:06 PM canceled",
+      "affectedRoutes": [
+        "Route 14"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-05T00:53:00.000Z",
+        "end": "2026-10-05T02:07:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/14",
+      "updatedAt": "2026-10-05T00:53:20.000Z",
+      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:06 PM canceled",
       "rawDescription": ""
     },
     {
@@ -302,42 +256,6 @@
       "updatedAt": "2025-12-12T16:20:01.000Z",
       "rawHeader": "Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues",
       "rawDescription": "Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station."
-    },
-    {
-      "id": "52268",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "METRO Blue Line, METRO Green Line: Service Advisory",
-      "summary": "METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 10/4 from 11am - 7pm",
-      "affectedRoutes": [
-        "METRO Blue Line",
-        "METRO Green Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [
-        "56330",
-        "56338"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "56330"
-        },
-        {
-          "id": "56338"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-04T16:00:00.000Z",
-        "end": "2026-10-05T00:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-10-04T15:30:02.000Z",
-      "rawHeader": "METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 10/4 from 11am - 7pm",
-      "rawDescription": "Due to street closures around U.S. Bank Stadium Station during the Vikings game, please transfer between the METRO Blue and Green lines at Government Plaza Station instead.\r\n\nAffected stops:\r\nU.S. Bank Stadium Station (eastbound)\r\nU.S. Bank Stadium Station (northbound)\r\nU.S. Bank Stadium Station (southbound)\r\nU.S. Bank Stadium Station (westbound)"
     },
     {
       "id": "49950",
@@ -3042,7 +2960,7 @@
       "detourDetails": "Eastbound buses will travel regular route on 38th St E to 43rd Ave S, right on 43rd Ave S, left on 39th St E, left on 45th Ave S, right on 38th St E and resume regular route.",
       "activePeriod": {
         "start": "2026-10-04T16:54:00.000Z",
-        "end": "2026-10-05T00:40:23.000Z"
+        "end": "2026-10-05T03:32:23.000Z"
       },
       "cause": "ACCIDENT",
       "effect": "DETOUR",
@@ -6861,6 +6779,58 @@
       "updatedAt": "2026-09-03T18:51:20.000Z",
       "rawHeader": "Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction",
       "rawDescription": "Updated get on/off stops 6/9 1:30 pm.\r\n\nGet on/off buses at:\r\nTemporary stop on Grove St & Lafayette Rd (eastbound)\r\nLaFayette Rd & 8th St - Stop #11925 (southbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on southbound I-35E to University Ave, continue on I-35E and exit at Wacouta St, left on 9th St, left on Broadway St, right on Grove St, right on Lafayette Rd, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nUniversity Ave & Mississippi St - Stop #56109 (eastbound)\r\nUniversity Ave & Lafayette St - Stop #57630 (eastbound)\r\nLaFayette Rd & Grove St - Stop #11923 (southbound)"
+    },
+    {
+      "id": "53773",
+      "agency": "Metro Transit",
+      "severity": "Minor",
+      "title": "Blue Line Trip Departing Target Field Station Platform 2 at 7:04 PM Delayed 30 Minutes",
+      "summary": "Blue Line trip departing Target Field Station Platform 2 at 7:04 PM delayed 30 minutes",
+      "affectedRoutes": [
+        "METRO Blue Line"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [
+        "51419",
+        "51420",
+        "51421",
+        "51422",
+        "53279",
+        "51405"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "51419"
+        },
+        {
+          "id": "51420"
+        },
+        {
+          "id": "51421"
+        },
+        {
+          "id": "51422"
+        },
+        {
+          "id": "53279"
+        },
+        {
+          "id": "51405"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-05T00:58:00.000Z",
+        "end": "2026-10-05T01:44:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "OTHER_EFFECT",
+      "url": "https://www.metrotransit.org/route/blue",
+      "updatedAt": "2026-10-05T00:59:39.000Z",
+      "rawHeader": "Blue Line trip departing Target Field Station Platform 2 at 7:04 PM delayed 30 minutes",
+      "rawDescription": "Affected direction: Southbound\r\n\nAffected stops:\r\nTerminal 1 Station\r\nTerminal 2 Station\r\nAmerican Blvd Station\r\nBloomington Central Station\r\n30th Ave Station\r\nMall of America Station"
     },
     {
       "id": "53142",
