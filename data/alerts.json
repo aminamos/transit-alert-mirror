@@ -1,199 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-05T01:33:40.583Z",
-    "totalAlerts": 107,
-    "criticalCount": 7,
-    "moderateCount": 96,
-    "minorCount": 4,
-    "affectedRoutesCount": 72,
+    "generatedAt": "2026-10-05T08:15:33.417Z",
+    "totalAlerts": 98,
+    "criticalCount": 0,
+    "moderateCount": 95,
+    "minorCount": 3,
+    "affectedRoutesCount": 71,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "53770",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO C Line: Southbound 6:54 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate I)",
-      "summary": "Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 6:54 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "METRO C Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {},
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/cline",
-      "updatedAt": "2026-10-05T01:28:01.000Z",
-      "rawHeader": "Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 6:54 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "53774",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO D Line: Southbound 7:27 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)",
-      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 7:27 PM canceled today",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-05T01:09:00.000Z",
-        "end": "2026-10-05T02:38:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-10-05T01:09:20.000Z",
-      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 7:27 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "53775",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 3, Route 3A: Westbound 7:42 PM Trip Canceled (Union Depot & Gate A1)",
-      "summary": "Westbound Route 3A trip departing Union Depot & Gate A1 at 7:42 PM canceled",
-      "affectedRoutes": [
-        "Route 3",
-        "Route 3A"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-05T01:09:00.000Z",
-        "end": "2026-10-05T02:40:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-10-05T01:10:01.000Z",
-      "rawHeader": "Westbound Route 3A trip departing Union Depot & Gate A1 at 7:42 PM canceled",
-      "rawDescription": ""
-    },
-    {
-      "id": "53769",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 14: Northbound 6:46 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)",
-      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 6:46 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 14"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-04T23:50:00.000Z",
-        "end": "2026-10-05T01:47:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/14",
-      "updatedAt": "2026-10-04T23:51:13.000Z",
-      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 6:46 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "53771",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 14: Southbound 7:13 PM Trip Canceled (Robbinsdale Transit Center & Gate A)",
-      "summary": "Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 7:13 PM canceled today",
-      "affectedRoutes": [
-        "Route 14"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-05T00:52:00.000Z",
-        "end": "2026-10-05T02:14:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/14",
-      "updatedAt": "2026-10-05T00:52:21.000Z",
-      "rawHeader": "Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 7:13 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "53772",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 14: Northbound 7:06 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)",
-      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:06 PM canceled",
-      "affectedRoutes": [
-        "Route 14"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-05T00:53:00.000Z",
-        "end": "2026-10-05T02:07:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/14",
-      "updatedAt": "2026-10-05T00:53:20.000Z",
-      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:06 PM canceled",
-      "rawDescription": ""
-    },
-    {
-      "id": "53764",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 72: Service Canceled",
-      "summary": "Route 72 trip departing Sun Ray Transit Center & Gate D at 2:52 PM and six other trips canceled today due to medical emergency",
-      "affectedRoutes": [
-        "Route 72"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing Pascal St N & Central Ave W",
-        "52 PM\ndeparting Pascal St N & Central Ave W"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-04T20:37:00.000Z",
-        "end": "2026-10-05T03:34:00.000Z"
-      },
-      "cause": "MEDICAL_EMERGENCY",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-10-04T20:38:49.000Z",
-      "rawHeader": "Route 72 trip departing Sun Ray Transit Center & Gate D at 2:52 PM and six other trips canceled today due to medical emergency",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 3:52 PM\r\ndeparting Pascal St N & Central Ave W at 5:52 PM\r\ndeparting Pascal St N & Central Ave W at 7:53 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 2:52 PM\r\ndeparting Sun Ray Transit Center & Gate D at 4:51 PM\r\ndeparting Sun Ray Transit Center & Gate D at 6:53 PM\r\ndeparting Sun Ray Transit Center & Gate D at 8:53 PM"
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -739,13 +556,13 @@
       "riderAlternative": "Board at: Cedar Ave S & 3rd St S - Stop #13219 (northbound); 4th St & 15th Ave Station - Stop #16112 (westbound)",
       "detourDetails": "Eastbound buses will travel regular route on Cedar Ave to 3rd St, continue on Cedar to Washington Ave/15th Ave S, right on Washington, left on 19th Ave S and continue across the bridge which becomes 10th Ave SE, right on 6th St SE, right on 15th Ave SE, right on 4th St SE, and resume regular route.",
       "activePeriod": {
-        "start": "2026-10-05T02:30:00.000Z",
-        "end": "2026-10-05T10:00:00.000Z"
+        "start": "2026-10-06T02:30:00.000Z",
+        "end": "2026-10-06T10:00:00.000Z"
       },
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-10-04T05:00:00.000Z",
+      "updatedAt": "2026-10-05T07:56:00.000Z",
       "rawHeader": "Route 2 detoured off Washington Ave from Oak St to Cedar Ave and off 4th St SE from Oak St to 15th Ave SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure",
       "rawDescription": "For eastbound Route 2 get on/off buses at:\r\nCedar Ave S & 3rd St S - Stop #13219 (northbound)\r\n4th St & 15th Ave Station - Stop #16112 (westbound)\r\n\nFor westbound Route 2 get on/off buses at:\r\nUniversity & U of M Rec Center Station - Stop #16142 (eastbound)\r\n3rd St S & Cedar Ave S - Stop #42452 (eastbound)\r\n\nEastbound buses will travel regular route on Cedar Ave to 3rd St, continue on Cedar to Washington Ave/15th Ave S, right on Washington, left on 19th Ave S and continue across the bridge which becomes 10th Ave SE, right on 6th St SE, right on 15th Ave SE, right on 4th St SE, and resume regular route.\r\n\nWestbound buses will travel regular route on Oak St to Washington Ave, left on Washington, right on Huron Blvd and continue onto westbound I-94 ramp, exit at Cedar Ave, right on Cedar, right on 3rd St, and resume regular route.\r\n\nAffected stops:\r\nWashington Ramp & Cedar Ave S - Stop #13221 (eastbound)\r\nWashington Ave & Anderson Hall - Stop #13223 (eastbound)\r\nWashington Ave & Coffman Union - Stop #13209 (eastbound)\r\nOak St SE & University Ave SE - Stop #41243 (northbound)\r\n4th St & Ridder Arena Station - Stop #16154 (westbound)\r\nOak St SE & Washington Ave SE - Stop #41248 (southbound)\r\nWashington Ave & Coffman Union - Stop #13207 (westbound)\r\nWashington Ave & Willey Hall - Stop #13211 (westbound)"
     },
@@ -994,13 +811,13 @@
       "riderAlternative": "Board at: Washington Ave S & 15th Ave S - Stop #57023 (eastbound); 3rd St S & Cedar Ave S - Stop #42452 (eastbound); 15th Ave SE & 4th St SE - Stop #16111 (northbound)",
       "detourDetails": "Eastbound buses will travel regular route on Cedar Ave to 3rd St, left on 3rd St (buses do not travel down ramp), left on 19th Ave S and continue across bridge which becomes 10th Ave SE, right on University Ave, left on 15th Ave SE, and resume regular route.",
       "activePeriod": {
-        "start": "2026-10-05T02:30:00.000Z",
-        "end": "2026-10-05T10:00:00.000Z"
+        "start": "2026-10-06T02:30:00.000Z",
+        "end": "2026-10-06T10:00:00.000Z"
       },
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-10-04T05:00:00.000Z",
+      "updatedAt": "2026-10-05T07:56:00.000Z",
       "rawHeader": "Route 3 detoured off Washington Ave from Cedar Ave to Pleasant St and off Pleasant St from Washington Ave to 4th St SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure",
       "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nWashington Ave S & 15th Ave S - Stop #57023 (eastbound)\r\n3rd St S & Cedar Ave S - Stop #42452 (eastbound)\r\n15th Ave SE & 4th St SE - Stop #16111 (northbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\n15th Ave SE & 4th St SE - Stop #49242 (southbound)\r\nTemporary stop on Washington Ave/15th Ave S & Washington Ave/Cedar Ave, in front of Town Hall Brewery (southbound)\r\nWashington Ave S & 11th Ave S - Stop #19302 (westbound)\r\n\nEastbound buses will travel regular route on Cedar Ave to 3rd St, left on 3rd St (buses do not travel down ramp), left on 19th Ave S and continue across bridge which becomes 10th Ave SE, right on University Ave, left on 15th Ave SE, and resume regular route.\r\n\nWestbound buses will travel regular route on 15th Ave SE to 4th St SE, right on 4th St, left on 10th Ave SE and continue across bridge which becomes 19th Ave S, right on Washington Ave/2nd St S, right on Washington Ave/Cedar Ave, and resume regular route.\r\n\nAffected stops:\r\nWashington Ramp & Cedar Ave S - Stop #13221 (eastbound)\r\nWashington Ave & Anderson Hall - Stop #13223 (eastbound)\r\nE River Pkwy & Appleby Hall - Stop #57013 (northbound)\r\nPleasant St & Jones Hall - Stop #49881 (northbound)\r\nPleasant St & Eddy Hall - Stop #49237 (southbound)\r\nPleasant St SE & Scholars Walk - Stop #54046 (southbound)\r\nWashington Ave & Willey Hall - Stop #13211 (westbound)\r\nCedar Ave S & Washington Ave (15th Ave) - Stop #16325 (westbound)"
     },
@@ -1157,7 +974,7 @@
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/7",
-      "updatedAt": "2026-10-04T05:00:02.000Z",
+      "updatedAt": "2026-10-05T05:00:02.000Z",
       "rawHeader": "26th Ave S & 22nd St E - Stop #57484 (northbound) is closed for Route 7 beginning Mon Oct 5 at 5:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\n26th Ave S & 25th St E - Stop #57483 (northbound)\r\n26th Ave S & Seward Tower West - Stop #56702 (northbound)"
     },
@@ -1542,7 +1359,7 @@
       },
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
-      "updatedAt": "2026-10-04T05:00:01.000Z",
+      "updatedAt": "2026-10-05T05:00:01.000Z",
       "rawHeader": "Routes 10, 11, 18 and 25 detoured off Nicollet Mall from 12th St to 11th St from Mon Oct 5 at 9:00 AM to Wed Oct 7 at 4:00 PM due to construction",
       "rawDescription": "This detour will only be in effect when the road is blocked. \r\n\nGet on/off northbound buses at:\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\n\nNorthbound buses will travel the regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Nicollet Mall to 11th St, right on 11th st, left on Lasalle Ave, left on 12th St, right on Nicollet Mall, and resume the regular route. No southbound stops are missed.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)"
     },
@@ -1668,7 +1485,7 @@
       },
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-04T05:00:02.000Z",
+      "updatedAt": "2026-10-05T05:00:02.000Z",
       "rawHeader": "Nicollet Ave S & 48th St W - Stop #1229 (southbound) is closed for Routes 11D and 18 from Mon Oct 5 at 7:00 AM to Mon Oct 12 at 7:00 AM due to construction",
       "rawDescription": "Get on/off buses at:\r\nNicollet Ave S & 49th St W - Stop #1230 (southbound)"
     },
@@ -1742,7 +1559,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-10-04T05:00:00.000Z",
+      "updatedAt": "2026-10-05T05:00:01.000Z",
       "rawHeader": "Route 17 detoured off Nicollet Mall from 12th St to 11th St from Mon Oct 5 at 9:00 AM to Wed Oct 7 at 4:00 PM due to construction",
       "rawDescription": "This detour will only be in effect when the road is blocked. \r\n\nGet on/off eastbound buses at:\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\n\nEastbound buses will travel the regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume the regular route.\r\n\nWestbound buses will travel the regular route on Nicollet Mall to 11th St, right on 11th st, left on Lasalle Ave, left on 12th St, right on Nicollet Mall, and resume the regular route. No westbound stops are missed.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)"
     },
@@ -2920,54 +2737,6 @@
       "updatedAt": "2026-10-02T21:00:40.000Z",
       "rawHeader": "Excelsior Blvd & Yosemite Ave - Stop #3544 (westbound) is closed for Route 38 from 8:00 AM to 3:00 PM on Thu Oct 8 due to construction",
       "rawDescription": "Get on/off buses at:\r\nExcelsior Blvd & Wooddale Ave - Stop #3542 (westbound)\r\nExcelsior Blvd & Alabama Ave S - Stop #3545 (westbound)"
-    },
-    {
-      "id": "53747",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 38: Detour via 38th St E & 42nd Ave S",
-      "summary": "Route 38 detoured off 38th St E from 43rd Ave S to 45th Ave S until later today due to non-transit related collision. Board at: 38th St E & 42nd Ave S - Stop #12533 (eastbound); 38th St E & 46th Ave S - Stop #12525 (eastbound); No westbound stops missed.",
-      "affectedRoutes": [
-        "Route 38"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "38th St E & 42nd Ave S",
-        "38th St E & 46th Ave S",
-        "left on 38th St E & resume regular route.\n\nAffected st",
-        "38th St E & 44th Ave S",
-        "38th St E (43rd Ave S to 45th Ave S)"
-      ],
-      "closedStopIds": [
-        "12529",
-        "12533",
-        "12525"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "12529",
-          "name": "38th St E & 44th Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "12533"
-        },
-        {
-          "id": "12525"
-        }
-      ],
-      "riderAlternative": "Board at: 38th St E & 42nd Ave S - Stop #12533 (eastbound); 38th St E & 46th Ave S - Stop #12525 (eastbound); No westbound stops missed",
-      "detourDetails": "Eastbound buses will travel regular route on 38th St E to 43rd Ave S, right on 43rd Ave S, left on 39th St E, left on 45th Ave S, right on 38th St E and resume regular route.",
-      "activePeriod": {
-        "start": "2026-10-04T16:54:00.000Z",
-        "end": "2026-10-05T03:32:23.000Z"
-      },
-      "cause": "ACCIDENT",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/38",
-      "updatedAt": "2026-10-04T16:54:10.000Z",
-      "rawHeader": "Route 38 detoured off 38th St E from 43rd Ave S to 45th Ave S until later today due to non-transit related collision",
-      "rawDescription": "Get on/off buses at:\r\n38th St E & 42nd Ave S - Stop #12533 (eastbound)\r\n38th St E & 46th Ave S - Stop #12525 (eastbound)\r\nNo westbound stops missed\r\n\nEastbound buses will travel regular route on 38th St E to 43rd Ave S, right on 43rd Ave S, left on 39th St E, left on 45th Ave S, right on 38th St E and resume regular route.\r\n\nWestbound buses will travel regular route on 38th St E to 45th Ave S, left on 45th Ave S, right on 39th St E, right on 43rd Ave S, left on 38th St E and resume regular route.\r\n\nAffected stops:\r\n38th St E & 44th Ave S - Stop #12529 (eastbound)"
     },
     {
       "id": "51972",
@@ -5381,7 +5150,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/225",
-      "updatedAt": "2026-10-04T05:00:00.000Z",
+      "updatedAt": "2026-10-05T05:00:01.000Z",
       "rawHeader": "Route 225 detoured off Snelling Ave from Co Rd E to Lydia Ave from 9:00 PM today to Mon Oct 5 at 5:00 AM due to construction",
       "rawDescription": "Get on/off southbound buses at:\r\nCo Rd E & #1200 - Stop #49194 (westbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on Co Rd E to Pine Tree Dr, left on Pine Tree Dr which turns into Harriet Ave, right on Lexington Ave, right on Josephine Rd, left on Hamline Ave, right on Lydia Ave, left on E Snelling service road and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nCo Rd E & Pine Tree Dr - Stop #49195 (westbound)"
     },
@@ -6625,7 +6394,7 @@
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/827",
-      "updatedAt": "2026-10-04T05:00:02.000Z",
+      "updatedAt": "2026-10-05T05:00:02.000Z",
       "rawHeader": "East River Rd & 62nd Way - Stop #12153 (southbound) is closed for Route 827 beginning Mon Oct 5 at 7:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nEast River Rd & 63rd Way - Stop #12152 (southbound)\r\nEast River Rd & 61st Way NE - Stop #12156 (southbound)"
     },
@@ -6779,58 +6548,6 @@
       "updatedAt": "2026-09-03T18:51:20.000Z",
       "rawHeader": "Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction",
       "rawDescription": "Updated get on/off stops 6/9 1:30 pm.\r\n\nGet on/off buses at:\r\nTemporary stop on Grove St & Lafayette Rd (eastbound)\r\nLaFayette Rd & 8th St - Stop #11925 (southbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on southbound I-35E to University Ave, continue on I-35E and exit at Wacouta St, left on 9th St, left on Broadway St, right on Grove St, right on Lafayette Rd, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nUniversity Ave & Mississippi St - Stop #56109 (eastbound)\r\nUniversity Ave & Lafayette St - Stop #57630 (eastbound)\r\nLaFayette Rd & Grove St - Stop #11923 (southbound)"
-    },
-    {
-      "id": "53773",
-      "agency": "Metro Transit",
-      "severity": "Minor",
-      "title": "Blue Line Trip Departing Target Field Station Platform 2 at 7:04 PM Delayed 30 Minutes",
-      "summary": "Blue Line trip departing Target Field Station Platform 2 at 7:04 PM delayed 30 minutes",
-      "affectedRoutes": [
-        "METRO Blue Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [
-        "51419",
-        "51420",
-        "51421",
-        "51422",
-        "53279",
-        "51405"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "51419"
-        },
-        {
-          "id": "51420"
-        },
-        {
-          "id": "51421"
-        },
-        {
-          "id": "51422"
-        },
-        {
-          "id": "53279"
-        },
-        {
-          "id": "51405"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-05T00:58:00.000Z",
-        "end": "2026-10-05T01:44:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "OTHER_EFFECT",
-      "url": "https://www.metrotransit.org/route/blue",
-      "updatedAt": "2026-10-05T00:59:39.000Z",
-      "rawHeader": "Blue Line trip departing Target Field Station Platform 2 at 7:04 PM delayed 30 minutes",
-      "rawDescription": "Affected direction: Southbound\r\n\nAffected stops:\r\nTerminal 1 Station\r\nTerminal 2 Station\r\nAmerican Blvd Station\r\nBloomington Central Station\r\n30th Ave Station\r\nMall of America Station"
     },
     {
       "id": "53142",

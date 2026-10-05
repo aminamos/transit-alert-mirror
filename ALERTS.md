@@ -2,167 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-107-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-7-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-96-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-72-brightgreen)](#-routes-index)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-98-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-95-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-71-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-05T01:33:40.583Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-05T08:15:33.417Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (2) • **METRO C Line** (1) • **METRO D Line** (4) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (3) • **Route 3** (3) • **Route 3A** (2) • **Route 5** (2) • **Route 7** (3) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (4) • **Route 17** (1) • **Route 18** (7) • **Route 22** (3) • **Route 25** (3) • **Route 27** (2) • **Route 36** (3) • **Route 38** (5) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (4) • **Route 65** (1) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 225** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (3) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (3) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (2) • **Route 7** (3) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (1) • **Route 18** (7) • **Route 22** (3) • **Route 25** (3) • **Route 27** (2) • **Route 36** (3) • **Route 38** (4) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (4) • **Route 65** (1) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 225** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO C Line: Southbound 6:54 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate I)
-
-- **Affected Routes**: `METRO C Line`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 6:54 PM canceled today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/cline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 6:54 PM canceled today due to traffic
-
-</details>
-
----
-
-### 🚨 METRO D Line: Southbound 7:27 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 7:27 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 7:27 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 3, Route 3A: Westbound 7:42 PM Trip Canceled (Union Depot & Gate A1)
-
-- **Affected Routes**: `Route 3` `Route 3A`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 3A trip departing Union Depot & Gate A1 at 7:42 PM canceled
-
-[Official Agency Advisory](https://www.metrotransit.org/route/3)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 3A trip departing Union Depot & Gate A1 at 7:42 PM canceled
-
-</details>
-
----
-
-### 🚨 Route 14: Northbound 6:46 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)
-
-- **Affected Routes**: `Route 14`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 6:46 PM canceled today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/14)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 6:46 PM canceled today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 14: Southbound 7:13 PM Trip Canceled (Robbinsdale Transit Center & Gate A)
-
-- **Affected Routes**: `Route 14`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 7:13 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/14)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 7:13 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 14: Northbound 7:06 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)
-
-- **Affected Routes**: `Route 14`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:06 PM canceled
-
-[Official Agency Advisory](https://www.metrotransit.org/route/14)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:06 PM canceled
-
-</details>
-
----
-
-### 🚨 Route 72: Service Canceled
-
-- **Affected Routes**: `Route 72`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Pascal St N & Central Ave W; 52 PM
-departing Pascal St N & Central Ave W
-
-**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 2:52 PM and six other trips canceled today due to medical emergency
-
-[Official Agency Advisory](https://www.metrotransit.org/route/72)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 2:52 PM and six other trips canceled today due to medical emergency
-
-```text
-Affected eastbound trips:
-departing Pascal St N & Central Ave W at 3:52 PM
-departing Pascal St N & Central Ave W at 5:52 PM
-departing Pascal St N & Central Ave W at 7:53 PM
-
-Affected westbound trips:
-departing Sun Ray Transit Center & Gate D at 2:52 PM
-departing Sun Ray Transit Center & Gate D at 4:51 PM
-departing Sun Ray Transit Center & Gate D at 6:53 PM
-departing Sun Ray Transit Center & Gate D at 8:53 PM
-```
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -1926,47 +1780,6 @@ Excelsior Blvd & #3121 - Stop #50109 (eastbound)
 Get on/off buses at:
 Excelsior Blvd & Wooddale Ave - Stop #3542 (westbound)
 Excelsior Blvd & Alabama Ave S - Stop #3545 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 38: Detour via 38th St E & 42nd Ave S
-
-- **Affected Routes**: `Route 38`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 38th St E & 42nd Ave S; 38th St E & 46th Ave S; left on 38th St E & resume regular route.
-
-Affected st; 38th St E & 44th Ave S; 38th St E (43rd Ave S to 45th Ave S)
-- **Closed Stops**: 38th St E & 44th Ave S (Stop #12529), Stop #12533, Stop #12525
-
-**Summary**: Route 38 detoured off 38th St E from 43rd Ave S to 45th Ave S until later today due to non-transit related collision. Board at: 38th St E & 42nd Ave S - Stop #12533 (eastbound); 38th St E & 46th Ave S - Stop #12525 (eastbound); No westbound stops missed.
-
-> 💡 **Rider Action**: Board at: 38th St E & 42nd Ave S - Stop #12533 (eastbound); 38th St E & 46th Ave S - Stop #12525 (eastbound); No westbound stops missed
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on 38th St E to 43rd Ave S, right on 43rd Ave S, left on 39th St E, left on 45th Ave S, right on 38th St E and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/38)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 38 detoured off 38th St E from 43rd Ave S to 45th Ave S until later today due to non-transit related collision
-
-```text
-Get on/off buses at:
-38th St E & 42nd Ave S - Stop #12533 (eastbound)
-38th St E & 46th Ave S - Stop #12525 (eastbound)
-No westbound stops missed
-
-Eastbound buses will travel regular route on 38th St E to 43rd Ave S, right on 43rd Ave S, left on 39th St E, left on 45th Ave S, right on 38th St E and resume regular route.
-
-Westbound buses will travel regular route on 38th St E to 45th Ave S, left on 45th Ave S, right on 39th St E, right on 43rd Ave S, left on 38th St E and resume regular route.
-
-Affected stops:
-38th St E & 44th Ave S - Stop #12529 (eastbound)
 ```
 
 </details>
@@ -4272,38 +4085,6 @@ LaFayette Rd & Grove St - Stop #11923 (southbound)
 ---
 
 ## ℹ️ Minor Advisories
-
-### ℹ️ Blue Line Trip Departing Target Field Station Platform 2 at 7:04 PM Delayed 30 Minutes
-
-- **Affected Routes**: `METRO Blue Line`
-- **Direction**: Southbound
-- **Severity**: `Minor`
-- **Closed Stops**: Stop #51419, Stop #51420, Stop #51421, Stop #51422, Stop #53279, Stop #51405
-
-**Summary**: Blue Line trip departing Target Field Station Platform 2 at 7:04 PM delayed 30 minutes
-
-[Official Agency Advisory](https://www.metrotransit.org/route/blue)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Blue Line trip departing Target Field Station Platform 2 at 7:04 PM delayed 30 minutes
-
-```text
-Affected direction: Southbound
-
-Affected stops:
-Terminal 1 Station
-Terminal 2 Station
-American Blvd Station
-Bloomington Central Station
-30th Ave Station
-Mall of America Station
-```
-
-</details>
-
----
 
 ### ℹ️ Route 2: Service Advisory
 
