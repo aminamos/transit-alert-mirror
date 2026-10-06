@@ -1,10 +1,9 @@
 name: Update Transit Alerts Mirror
 
 on:
-  # NOTE: the hourly schedule was removed 2026-10-06. The Cloudflare Worker
-  # (wrangler.json triggers.crons `0 * * * *`, src/worker/index.ts
-  # scheduled()) owns the hourly sync on the free tier. This workflow remains
-  # for manual backfill via workflow_dispatch and runs on code pushes.
+  schedule:
+    # Run hourly at minute 0
+    - cron: '0 * * * *'
   workflow_dispatch:
   push:
     branches:
