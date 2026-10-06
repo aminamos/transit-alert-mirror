@@ -2,17 +2,17 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-114-blue)](#)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-116-blue)](#)
 [![Critical](https://img.shields.io/badge/Critical-6-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-105-orange)](#-moderate-detours--changes)
+[![Moderate](https://img.shields.io/badge/Moderate-107-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-78-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-79-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-06T17:03:23.913Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-06T17:08:43.610Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (3) • **Route 11** (4) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (3) • **Route 18** (8) • **Route 22** (3) • **Route 25** (4) • **Route 27** (3) • **Route 30** (2) • **Route 36** (4) • **Route 38** (4) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (3) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (2) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (3) • **Route 11** (4) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 22C** (1) • **Route 25** (4) • **Route 27** (3) • **Route 30** (2) • **Route 36** (4) • **Route 38** (4) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (3) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (2) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
@@ -1707,6 +1707,47 @@ Cedar Ave S & 24th St E - Stop #40460 (northbound)
 Cedar Ave S & 26th St E - Stop #15368 (southbound)
 Cedar Ave S & 28th St E - Stop #15372 (southbound)
 Cedar Ave S & Lake St E - Stop #15374 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 22, Route 22C: Detour via 53rd Ave N & Colfax Ave
+
+- **Affected Routes**: `Route 22` `Route 22C`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Thu Oct 8 at 7:00 AM until further notice
+- **Corridors & Intersections**: 53rd Ave N & Colfax Ave; Dupont Ave N & 57th Ave N; Dupont Ave N & 55th Ave N; Dupont Ave (54th Ave to 55th Ave)
+- **Closed Stops**: Dupont Ave N & 55th Ave N (Stop #52676), Stop #52675, Stop #11442
+
+**Summary**: Route 22C detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice. Board at: 53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N & 57th Ave N - Stop #11442 (northbound).
+
+> 💡 **Rider Action**: Board at: 53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N & 57th Ave N - Stop #11442 (northbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel the regular route on Dupont Ave to 54th Ave, left on 54th Ave, right on Emerson Ave, right on 55th Ave, left on Dupont Ave, and resume the regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/22)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 22C detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice
+
+```text
+Get on/off northbound buses at:
+53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound)
+Dupont Ave N & 57th Ave N - Stop #11442 (northbound)
+
+No southbound stops are missed.
+
+Northbound buses will travel the regular route on Dupont Ave to 54th Ave, left on 54th Ave, right on Emerson Ave, right on 55th Ave, left on Dupont Ave, and resume the regular route.
+
+Southbound buses will travel the regular route on Dupont Ave to 55th Ave, right on 55th Ave, left on Emerson Ave, left on 54th Ave, right on Dupont Ave, and resume the regular route.
+
+Affected stops:
+Dupont Ave N & 55th Ave N - Stop #52676 (northbound)
 ```
 
 </details>
@@ -4471,6 +4512,47 @@ Southbound buses will travel regular route.
 Affected stops:
 3rd St S & Nicollet Mall - Stop #40172 (westbound)
 3rd St N & 1st Ave N - Stop #17960 (westbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 763: Detour via 53rd Ave N & Colfax Ave
+
+- **Affected Routes**: `Route 763`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Thu Oct 8 at 7:00 AM until further notice
+- **Corridors & Intersections**: 53rd Ave N & Colfax Ave; Dupont Ave N & 57th Ave N; Dupont Ave N & 55th Ave N; Dupont Ave (54th Ave to 55th Ave)
+- **Closed Stops**: Dupont Ave N & 55th Ave N (Stop #52676), Stop #52675, Stop #11442
+
+**Summary**: Route 763 detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice. Board at: 53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N & 57th Ave N - Stop #11442 (northbound).
+
+> 💡 **Rider Action**: Board at: 53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N & 57th Ave N - Stop #11442 (northbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel the regular route on Dupont Ave to 54th Ave, left on 54th Ave, right on Emerson Ave, right on 55th Ave, left on Dupont Ave, and resume the regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/763)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 763 detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice
+
+```text
+Get on/off northbound buses at:
+53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound)
+Dupont Ave N & 57th Ave N - Stop #11442 (northbound)
+
+No southbound stops are missed.
+
+Northbound buses will travel the regular route on Dupont Ave to 54th Ave, left on 54th Ave, right on Emerson Ave, right on 55th Ave, left on Dupont Ave, and resume the regular route.
+
+Southbound buses will travel the regular route on Dupont Ave to 55th Ave, right on 55th Ave, left on Emerson Ave, left on 54th Ave, right on Dupont Ave, and resume the regular route.
+
+Affected stops:
+Dupont Ave N & 55th Ave N - Stop #52676 (northbound)
 ```
 
 </details>

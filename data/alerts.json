@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-06T17:03:23.913Z",
-    "totalAlerts": 114,
+    "generatedAt": "2026-10-06T17:08:43.610Z",
+    "totalAlerts": 116,
     "criticalCount": 6,
-    "moderateCount": 105,
+    "moderateCount": 107,
     "minorCount": 3,
-    "affectedRoutesCount": 78,
+    "affectedRoutesCount": 79,
     "agencies": [
       "Metro Transit"
     ]
@@ -2525,6 +2525,54 @@
       "updatedAt": "2026-09-21T08:00:01.000Z",
       "rawHeader": "Route 22 detoured off Cedar Ave from Lake St to 24th St beginning Mon Sep 14 until further notice due to construction",
       "rawDescription": "Update on 9/9 11:37am: southbound detour routing, southbound affected stops, and southbound alternative stops changed.\r\n\nFor northbound Route 22 get on/off buses at:\r\nCedar Ave S & 32nd St E - Stop #15313 (northbound)\r\nLake & Cedar Station - Stop #57362 (westbound)\r\nBloomington Ave S & 28th St E - Stop #15618 (northbound)\r\nBloomington Ave S & 25th St E - Stop #15625 (northbound)\r\nCedar Ave S & Franklin Ave E - Stop #57194 (northbound)\r\n\nFor southbound Route 22 get on/off buses at:\r\nCedar Ave S & #2501 - Stop #15366 (southbound)\r\nBloomington Ave S & 28th St E - Stop #15619 (southbound)\r\nTemporary stop on Cedar Ave just past Lake St (southbound)\r\nCedar Ave S & 32nd St E - Stop #15378 (southbound)\r\n\nNorthbound buses will travel regular route on Cedar Ave to Lake St, left on Lake, right on Bloomington Ave, right on 24th St, left on Cedar Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on Cedar Ave to 26th St, right on 26th St, left on Bloomington Ave, left on Lake St, right on Cedar Ave, and resume regular route.\r\n\nAffected stops:\r\nCedar Ave S & Lake St E - Stop #57193 (northbound)\r\nCedar Ave S & 28th St E - Stop #15319 (northbound)\r\nCedar Ave S & 26th St E - Stop #15323 (northbound)\r\nCedar Ave S & #2501 - Stop #15325 (northbound)\r\nCedar Ave S & 24th St E - Stop #40460 (northbound)\r\nCedar Ave S & 26th St E - Stop #15368 (southbound)\r\nCedar Ave S & 28th St E - Stop #15372 (southbound)\r\nCedar Ave S & Lake St E - Stop #15374 (southbound)"
+    },
+    {
+      "id": "53865",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 22, Route 22C: Detour via 53rd Ave N & Colfax Ave",
+      "summary": "Route 22C detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice. Board at: 53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N & 57th Ave N - Stop #11442 (northbound).",
+      "affectedRoutes": [
+        "Route 22",
+        "Route 22C"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "53rd Ave N & Colfax Ave",
+        "Dupont Ave N & 57th Ave N",
+        "Dupont Ave N & 55th Ave N",
+        "Dupont Ave (54th Ave to 55th Ave)"
+      ],
+      "closedStopIds": [
+        "52676",
+        "52675",
+        "11442"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "52676",
+          "name": "Dupont Ave N & 55th Ave N",
+          "direction": "northbound"
+        },
+        {
+          "id": "52675"
+        },
+        {
+          "id": "11442"
+        }
+      ],
+      "riderAlternative": "Board at: 53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N & 57th Ave N - Stop #11442 (northbound)",
+      "detourDetails": "Northbound buses will travel the regular route on Dupont Ave to 54th Ave, left on 54th Ave, right on Emerson Ave, right on 55th Ave, left on Dupont Ave, and resume the regular route.",
+      "activePeriod": {
+        "start": "2026-10-08T12:00:00.000Z",
+        "textDescription": "Beginning Thu Oct 8 at 7:00 AM until further notice"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/22",
+      "updatedAt": "2026-10-06T17:03:08.000Z",
+      "rawHeader": "Route 22C detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice",
+      "rawDescription": "Get on/off northbound buses at:\r\n53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound)\r\nDupont Ave N & 57th Ave N - Stop #11442 (northbound)\r\n\nNo southbound stops are missed.\r\n\nNorthbound buses will travel the regular route on Dupont Ave to 54th Ave, left on 54th Ave, right on Emerson Ave, right on 55th Ave, left on Dupont Ave, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Dupont Ave to 55th Ave, right on 55th Ave, left on Emerson Ave, left on 54th Ave, right on Dupont Ave, and resume the regular route.\r\n\nAffected stops:\r\nDupont Ave N & 55th Ave N - Stop #52676 (northbound)"
     },
     {
       "id": "53578",
@@ -7100,6 +7148,53 @@
       "updatedAt": "2026-10-06T13:30:21.000Z",
       "rawHeader": "Routes 760, 763, 765, 766 and 768 detoured off 3rd St from Marquette Ave to I-94 and off I-94 from downtown Minneapolis to Lyndale Ave until further notice due to traffic congestion",
       "rawDescription": "Get on/off buses at:\r\n3rd St & Marquette Ave - Stop #52832 (westbound)\r\n\nNorthbound buses will travel regular route on 3rd St to Marquette Ave, right on Marquette, left on Washington Ave, left on 10th Ave N, right on 5th St, left on 11th Ave N, right on E Lyndale Ave N and continue onto I-94 ramp, and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected stops:\r\n3rd St S & Nicollet Mall - Stop #40172 (westbound)\r\n3rd St N & 1st Ave N - Stop #17960 (westbound)"
+    },
+    {
+      "id": "53866",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 763: Detour via 53rd Ave N & Colfax Ave",
+      "summary": "Route 763 detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice. Board at: 53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N & 57th Ave N - Stop #11442 (northbound).",
+      "affectedRoutes": [
+        "Route 763"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "53rd Ave N & Colfax Ave",
+        "Dupont Ave N & 57th Ave N",
+        "Dupont Ave N & 55th Ave N",
+        "Dupont Ave (54th Ave to 55th Ave)"
+      ],
+      "closedStopIds": [
+        "52676",
+        "52675",
+        "11442"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "52676",
+          "name": "Dupont Ave N & 55th Ave N",
+          "direction": "northbound"
+        },
+        {
+          "id": "52675"
+        },
+        {
+          "id": "11442"
+        }
+      ],
+      "riderAlternative": "Board at: 53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N & 57th Ave N - Stop #11442 (northbound)",
+      "detourDetails": "Northbound buses will travel the regular route on Dupont Ave to 54th Ave, left on 54th Ave, right on Emerson Ave, right on 55th Ave, left on Dupont Ave, and resume the regular route.",
+      "activePeriod": {
+        "start": "2026-10-08T12:00:00.000Z",
+        "textDescription": "Beginning Thu Oct 8 at 7:00 AM until further notice"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/763",
+      "updatedAt": "2026-10-06T17:04:09.000Z",
+      "rawHeader": "Route 763 detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice",
+      "rawDescription": "Get on/off northbound buses at:\r\n53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound)\r\nDupont Ave N & 57th Ave N - Stop #11442 (northbound)\r\n\nNo southbound stops are missed.\r\n\nNorthbound buses will travel the regular route on Dupont Ave to 54th Ave, left on 54th Ave, right on Emerson Ave, right on 55th Ave, left on Dupont Ave, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Dupont Ave to 55th Ave, right on 55th Ave, left on Emerson Ave, left on 54th Ave, right on Dupont Ave, and resume the regular route.\r\n\nAffected stops:\r\nDupont Ave N & 55th Ave N - Stop #52676 (northbound)"
     },
     {
       "id": "53852",
