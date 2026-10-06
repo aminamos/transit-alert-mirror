@@ -2,21 +2,156 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-102-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-98-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-103-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-96-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-71-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-06T04:42:58.780Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-06T11:45:17.971Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (3) • **METRO Gold Line** (2) • **Route 2** (3) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (2) • **Route 7** (3) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (2) • **Route 17** (1) • **Route 18** (7) • **Route 22** (3) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 36** (3) • **Route 38** (4) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (3) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (2) • **Route 7** (3) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (2) • **Route 17** (1) • **Route 18** (7) • **Route 22** (3) • **Route 25** (3) • **Route 27** (2) • **Route 30** (2) • **Route 36** (3) • **Route 38** (4) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (3) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 METRO D Line: Service Advisory
+
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Chicago Ave & 56th St E
+- **Closed Stops**: MOA Transit Station Gate A (Stop #56873), American & Thunderbird Station (Stop #4513), American & Bloomington Station (Stop #56921), American & Chicago Station (Stop #47447), Portland & 77th St Station (Stop #620), Portland & 73rd St Station (Stop #56922), Portland & 70th St Station (Stop #639), Portland & 66th St Station (Stop #643) *(+4 more)*
+
+**Summary**: Northbound D Line trip departing MOA Transit Station Gate A at 5:35 AM starting from Chicago and 46th St Station. No previous stops
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound D Line trip departing MOA Transit Station Gate A at 5:35 AM starting from Chicago and 46th St Station. No previous stops
+
+```text
+Affected stops:
+MOA Transit Station Gate A - Stop #56873 (southbound)
+American & Thunderbird Station - Stop #4513 (westbound)
+American & Bloomington Station - Stop #56921 (westbound)
+American & Chicago Station - Stop #47447 (westbound)
+Portland & 77th St Station - Stop #620 (northbound)
+Portland & 73rd St Station - Stop #56922 (northbound)
+Portland & 70th St Station - Stop #639 (northbound)
+Portland & 66th St Station - Stop #643 (northbound)
+Portland & 60th St Station - Stop #737 (northbound)
+Chicago Ave & 56th St E - Stop #81078 (northbound)
+Chicago & 52nd St Station - Stop #779 (northbound)
+Chicago & 48th St Station - Stop #784 (northbound)
+```
+
+</details>
+
+---
+
+### 🚨 Route 30: Service Canceled
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 53 AM
+departing Knox Ave N & Golden Valley Rd; 56 AM
+departing Knox Ave N & Golden Valley Rd
+
+**Summary**: Route 30 trip departing Westgate Station - Gate B at 6:07 AM and seven other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 30 trip departing Westgate Station - Gate B at 6:07 AM and seven other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Golden Valley Rd Turn & Xerxes Ave N at 6:53 AM
+departing Golden Valley Rd Turn & Xerxes Ave N at 8:53 AM
+departing Knox Ave N & Golden Valley Rd at 10:56 AM
+departing Knox Ave N & Golden Valley Rd at 12:56 PM
+
+Affected westbound trips:
+departing Westgate Station - Gate B at 6:07 AM
+departing Westgate Station - Gate B at 8:07 AM
+departing Westgate Station - Gate B at 10:06 AM
+departing Westgate Station - Gate B at 12:04 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 71: Service Canceled
+
+- **Affected Routes**: `Route 71`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 71 trip departing Market Place Dr & The Marketplace Ctr at 6:18 AM and two other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/71)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 71 trip departing Market Place Dr & The Marketplace Ctr at 6:18 AM and two other trips canceled today
+
+```text
+Affected northbound trips:
+departing Inver Hills College & Shelter at 7:43 AM
+
+Affected southbound trips:
+departing Market Place Dr & The Marketplace Ctr at 6:18 AM
+departing Market Place Dr & The Marketplace Ctr at 9:15 AM
+```
+
+</details>
+
+---
+
+### 🚨 Route 72: Service Canceled
+
+- **Affected Routes**: `Route 72`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing Pascal St N & Central Ave W; 23 AM
+departing Pascal St N & Central Ave W; 22 AM
+departing Pascal St N & Central Ave W
+
+**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 6:10 AM and seven other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/72)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 6:10 AM and seven other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Pascal St N & Central Ave W at 7:23 AM
+departing Pascal St N & Central Ave W at 9:22 AM
+departing Pascal St N & Central Ave W at 11:22 AM
+departing Pascal St N & Central Ave W at 1:21 PM
+
+Affected westbound trips:
+departing Sun Ray Transit Center & Gate D at 6:10 AM
+departing Sun Ray Transit Center & Gate D at 8:17 AM
+departing Sun Ray Transit Center & Gate D at 10:20 AM
+departing Sun Ray Transit Center & Gate D at 12:20 PM
+```
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -128,49 +263,6 @@ Get on/off buses at:
 Portland & 66th St Station - Stop #643 (northbound)
 Temporary stop on Portland Ave & 61st St (northbound)
 Chicago Ave & 56th St E - Stop #81078 (northbound)
-```
-
-</details>
-
----
-
-### ⚠️ METRO D Line: Detour via Chicago (Franklin to 17th St E)
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Chicago (Franklin to 17th St E)
-- **Closed Stops**: Chicago & Franklin Station (Stop #56928), Chicago & Franklin Station (Stop #56910), Stop #56927, Stop #56929, Stop #56909, Stop #56911
-
-**Summary**: D Line detoured off Chicago from Franklin to 17th St E until later today. Board at: Chicago & 24th St Station - Stop #56927 (northbound); Chicago & 14th St Station - Stop #56929 (northbound).
-
-> 💡 **Rider Action**: Board at: Chicago & 24th St Station - Stop #56927 (northbound); Chicago & 14th St Station - Stop #56929 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on Chicago to Franklin, right on Franklin, left on 11th Ave S, left on 17th St E, right on Chicago and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: D Line detoured off Chicago from Franklin to 17th St E until later today
-
-```text
-For northbound D Line get on/off buses at:
-Chicago & 24th St Station - Stop #56927 (northbound)
-Chicago & 14th St Station - Stop #56929 (northbound)
-
-For southbound D Line get on/off buses at:
-Chicago & 14th St Station - Stop #56909 (southbound)
-Chicago & 24th St Station - Stop #56911 (southbound)
-
-Northbound buses will travel regular route on Chicago to Franklin, right on Franklin, left on 11th Ave S, left on 17th St E, right on Chicago and resume regular route. 
-
-Southbound buses will travel regular route on Chicago to 17th St E, right on 17th St, left on Portland, left on 24th St E, right on Chicago and resume regular route. 
-
-Affected stops:
-Chicago & Franklin Station - Stop #56928 (northbound)
-Chicago & Franklin Station - Stop #56910 (southbound)
 ```
 
 </details>
@@ -3822,52 +3914,6 @@ Ridgedale Dr & Cartway Lane - Stop #56601 (northbound)
 
 ---
 
-### ⚠️ Route 645: Detour via Route 645 detoured off Ferndale Rd & off Way
-
-- **Affected Routes**: `Route 645`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Route 645 detoured off Ferndale Rd & off Way; Ferndale Rd & Lake St W; Wayzata Blvd & Ferndale Rd; Wayzata Blvd & Edgewood Ave; Wayzata Blvd & Wayzata Jr High School - St
-- **Closed Stops**: Ferndale Rd & Lake St W (Stop #52816), Wayzata Blvd & Ferndale Rd (Stop #7193), Wayzata Blvd & Edgewood Ave / Barry Ave (Stop #51718), Wayzata Blvd & Wayzata Jr High School (Stop #51717), Ferndale Rd & Lake St W (Stop #52817), Stop #6982, Stop #6990, Stop #6784 *(+1 more)*
-
-**Summary**: Route 645 detoured off Ferndale Rd and off Wayzata Blvd between Barry and Ferndale until later today due to downed power lines. Board at: Shoreline Dr (Co Rd 15) & Peavey Rd - Stop #6982 (eastbound); Wayzata Blvd Park & Ride & Gate B - Stop #6990 (eastbound).
-
-> 💡 **Rider Action**: Board at: Shoreline Dr (Co Rd 15) & Peavey Rd - Stop #6982 (eastbound); Wayzata Blvd Park & Ride & Gate B - Stop #6990 (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel north on Ferndale to Lake St, right on Lake, left on Barry, right on Wayzata Blvd and resume regular route
-
-[Official Agency Advisory](https://www.metrotransit.org/route/645)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 645 detoured off Ferndale Rd and off Wayzata Blvd between Barry and Ferndale until later today due to downed power lines.
-
-```text
-For eastbound Route 645 get on/off buses at:
-Shoreline Dr (Co Rd 15) & Peavey Rd - Stop #6982 (eastbound)
-Wayzata Blvd P&R & Gate B - Stop #6990 (eastbound)
-
-For westbound Route 645 get on/off buses at:
-Wayzata Blvd P&R & Gate A - Stop #6784 (westbound)
-Shoreline Dr (Co Rd 15) & Peavey Rd - Stop #6790 (westbound)
-
-Eastbound buses will travel north on Ferndale to Lake St, right on Lake, left on Barry, right on Wayzata Blvd and resume regular route
-
-Westbound buses will travel west on Wayzata Blvd to Barry, left on Barry, right on Lake St W, left on Ferndale and resume regular route
-
-Affected stops:
-Ferndale Rd & Lake St W - Stop #52816 (northbound)
-Wayzata Blvd & Ferndale Rd - Stop #7193 (eastbound)
-Wayzata Blvd & Edgewood Ave / Barry Ave - Stop #51718 (eastbound)
-Wayzata Blvd & Wayzata Jr High School - Stop #51717 (westbound)
-Ferndale Rd & Lake St W - Stop #52817 (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 673, Route 673B: Detour via Cedar Lake Rd & Texas Ave
 
 - **Affected Routes**: `Route 673` `Route 673B`
@@ -4229,31 +4275,6 @@ LaFayette Rd & Grove St - Stop #11923 (southbound)
 ---
 
 ## ℹ️ Minor Advisories
-
-### ℹ️ Route 2: Service Advisory
-
-- **Affected Routes**: `Route 2`
-- **Direction**: Southbound
-- **Severity**: `Minor`
-- **Corridors & Intersections**: 8th St SE & 10th Ave S
-- **Closed Stops**: Stop #16573
-
-**Summary**: 8th St SE & 10th Ave SE - Stop #16573 (eastbound) is permanently moving for Route 2 due to new bike lane
-
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: 8th St SE & 10th Ave SE - Stop #16573 (eastbound) is permanently moving for Route 2 due to new bike lane
-
-```text
-The bus stop has been moved to southbound 10th Ave SE just past 8th St SE.
-```
-
-</details>
-
----
 
 ### ℹ️ Route 38: Service Advisory
 
