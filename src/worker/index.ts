@@ -3,11 +3,16 @@ import { enrichAlerts } from '../enricher/index.js';
 import { generateHtml } from '../generator/html.js';
 import { generateJson } from '../generator/json.js';
 import { generateRss } from '../generator/rss.js';
+import { publishDataset } from './publish.js';
 import type { AlertDataset } from '../types/index.js';
 
 interface Env {
-  ALERTS_CACHE?: any; // KV or Cache
+  ALERTS_CACHE?: unknown; // KV or Cache
   CLOUDFLARE_ACCOUNT_ID?: string;
+  /** Fine-grained PAT (contents read+write on this repo). Absent: cron only warms cache. */
+  GITHUB_TOKEN?: string;
+  GITHUB_REPO?: string;
+  GITHUB_BRANCH?: string;
 }
 
 let cachedDataset: { data: AlertDataset; timestamp: number } | null = null;
@@ -121,6 +126,15 @@ export default {
   },
 
   async scheduled(event: unknown, env: Env, ctx: { waitUntil: (promise: Promise<unknown>) => void }): Promise<void> {
-    ctx.waitUntil(getOrFetchAlerts());
+    ctx.waitUntil((async () => {
+      const dataset = await getOrFetchAlerts();
+      // Dormant until the GITHUB_TOKEN secret is set via `wrangler secret put`.
+      if (env.GITHUB_TOKEN) {
+        await publishDataset(
+          { token: env.GITHUB_TOKEN, repo: env.GITHUB_REPO, branch: env.GITHUB_BRANCH },
+          dataset,
+        );
+      }
+    })());
   },
 };
