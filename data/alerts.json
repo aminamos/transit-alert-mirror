@@ -1,117 +1,41 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-06T11:45:17.971Z",
-    "totalAlerts": 103,
-    "criticalCount": 4,
-    "moderateCount": 96,
+    "generatedAt": "2026-10-06T17:02:18.729Z",
+    "totalAlerts": 114,
+    "criticalCount": 6,
+    "moderateCount": 105,
     "minorCount": 3,
-    "affectedRoutesCount": 71,
+    "affectedRoutesCount": 78,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "53842",
+      "id": "53864",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO D Line: Service Advisory",
-      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 5:35 AM starting from Chicago and 46th St Station. No previous stops",
+      "title": "METRO A Line: Northbound 11:33 AM Trip Canceled (46th St Station Gate A)",
+      "summary": "Northbound A Line trip departing 46th St Station Gate A at 11:33 AM canceled today due to traffic",
       "affectedRoutes": [
-        "METRO D Line"
+        "METRO A Line"
       ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Chicago Ave & 56th St E"
-      ],
-      "closedStopIds": [
-        "56873",
-        "4513",
-        "56921",
-        "47447",
-        "620",
-        "56922",
-        "639",
-        "643",
-        "737",
-        "81078",
-        "779",
-        "784"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "56873",
-          "name": "MOA Transit Station Gate A",
-          "direction": "southbound"
-        },
-        {
-          "id": "4513",
-          "name": "American & Thunderbird Station",
-          "direction": "westbound"
-        },
-        {
-          "id": "56921",
-          "name": "American & Bloomington Station",
-          "direction": "westbound"
-        },
-        {
-          "id": "47447",
-          "name": "American & Chicago Station",
-          "direction": "westbound"
-        },
-        {
-          "id": "620",
-          "name": "Portland & 77th St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "56922",
-          "name": "Portland & 73rd St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "639",
-          "name": "Portland & 70th St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "643",
-          "name": "Portland & 66th St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "737",
-          "name": "Portland & 60th St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "81078",
-          "name": "Chicago Ave & 56th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "779",
-          "name": "Chicago & 52nd St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "784",
-          "name": "Chicago & 48th St Station",
-          "direction": "northbound"
-        }
-      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-06T10:35:00.000Z",
-        "end": "2026-10-06T12:42:00.000Z"
+        "start": "2026-10-06T16:33:00.000Z",
+        "end": "2026-10-06T18:13:00.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-10-06T10:35:28.000Z",
-      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 5:35 AM starting from Chicago and 46th St Station. No previous stops",
-      "rawDescription": "Affected stops:\r\nMOA Transit Station Gate A - Stop #56873 (southbound)\r\nAmerican & Thunderbird Station - Stop #4513 (westbound)\r\nAmerican & Bloomington Station - Stop #56921 (westbound)\r\nAmerican & Chicago Station - Stop #47447 (westbound)\r\nPortland & 77th St Station - Stop #620 (northbound)\r\nPortland & 73rd St Station - Stop #56922 (northbound)\r\nPortland & 70th St Station - Stop #639 (northbound)\r\nPortland & 66th St Station - Stop #643 (northbound)\r\nPortland & 60th St Station - Stop #737 (northbound)\r\nChicago Ave & 56th St E - Stop #81078 (northbound)\r\nChicago & 52nd St Station - Stop #779 (northbound)\r\nChicago & 48th St Station - Stop #784 (northbound)"
+      "url": "https://www.metrotransit.org/route/aline",
+      "updatedAt": "2026-10-06T16:32:42.000Z",
+      "rawHeader": "Northbound A Line trip departing 46th St Station Gate A at 11:33 AM canceled today due to traffic",
+      "rawDescription": ""
     },
     {
       "id": "53845",
@@ -143,32 +67,6 @@
       "rawDescription": "Affected eastbound trips:\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 6:53 AM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 8:53 AM\r\ndeparting Knox Ave N & Golden Valley Rd at 10:56 AM\r\ndeparting Knox Ave N & Golden Valley Rd at 12:56 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 6:07 AM\r\ndeparting Westgate Station - Gate B at 8:07 AM\r\ndeparting Westgate Station - Gate B at 10:06 AM\r\ndeparting Westgate Station - Gate B at 12:04 PM"
     },
     {
-      "id": "53843",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 71: Service Canceled",
-      "summary": "Route 71 trip departing Market Place Dr & The Marketplace Ctr at 6:18 AM and two other trips canceled today",
-      "affectedRoutes": [
-        "Route 71"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-06T11:18:00.000Z",
-        "end": "2026-10-06T15:45:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/71",
-      "updatedAt": "2026-10-06T10:48:01.000Z",
-      "rawHeader": "Route 71 trip departing Market Place Dr & The Marketplace Ctr at 6:18 AM and two other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 7:43 AM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 6:18 AM\r\ndeparting Market Place Dr & The Marketplace Ctr at 9:15 AM"
-    },
-    {
       "id": "53844",
       "agency": "Metro Transit",
       "severity": "Critical",
@@ -197,6 +95,90 @@
       "updatedAt": "2026-10-06T10:42:45.000Z",
       "rawHeader": "Route 72 trip departing Sun Ray Transit Center & Gate D at 6:10 AM and seven other trips canceled today",
       "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 7:23 AM\r\ndeparting Pascal St N & Central Ave W at 9:22 AM\r\ndeparting Pascal St N & Central Ave W at 11:22 AM\r\ndeparting Pascal St N & Central Ave W at 1:21 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 6:10 AM\r\ndeparting Sun Ray Transit Center & Gate D at 8:17 AM\r\ndeparting Sun Ray Transit Center & Gate D at 10:20 AM\r\ndeparting Sun Ray Transit Center & Gate D at 12:20 PM"
+    },
+    {
+      "id": "53863",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 721: Service Canceled",
+      "summary": "Route 721 trips departing Brooklyn Ctr Transit Ctr Gate A at 11:30 AM and departing Hennepin Technical College & Main Door at 11:58 AM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "Route 721"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-06T16:56:00.000Z",
+        "end": "2026-10-06T18:23:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/721",
+      "updatedAt": "2026-10-06T16:56:34.000Z",
+      "rawHeader": "Route 721 trips departing Brooklyn Ctr Transit Ctr Gate A at 11:30 AM and departing Hennepin Technical College & Main Door at 11:58 AM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "53860",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 802: Service Canceled",
+      "summary": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 802"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-06T16:34:00.000Z",
+        "end": "2026-10-07T00:14:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/802",
+      "updatedAt": "2026-10-06T16:04:01.000Z",
+      "rawHeader": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to mechanical issue",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 11:34 AM\r\ndeparting Northtown Transit Ctr Gate E at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 12:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 2:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 4:42 PM"
+    },
+    {
+      "id": "53861",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 805: Service Canceled",
+      "summary": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 805"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 805 trip departing 1st Ave S & Monroe St",
+        "departing 1st Ave S & Monroe St",
+        "38 AM\ndeparting 1st Ave S & Monroe St",
+        "38 PM\ndeparting 1st Ave S & Monroe St",
+        "36 PM\ndeparting 1st Ave S & Monroe St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-06T16:38:00.000Z",
+        "end": "2026-10-07T00:24:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/805",
+      "updatedAt": "2026-10-06T16:08:01.000Z",
+      "rawHeader": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 11:38 AM\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
     },
     {
       "id": "52943",
@@ -331,6 +313,93 @@
       "updatedAt": "2026-10-05T14:28:02.000Z",
       "rawHeader": "Portland & 60th St Station - Stop #737 (northbound) is closed for D Line until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nPortland & 66th St Station - Stop #643 (northbound)\r\nTemporary stop on Portland Ave & 61st St (northbound)\r\nChicago Ave & 56th St E - Stop #81078 (northbound)"
+    },
+    {
+      "id": "53854",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "METRO E Line: Detour via Richfield Rd & Bde Maka Ska St",
+      "summary": "E Line detoured off Hennepin ave from 36th St W to 25th St W from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: Richfield Rd & Bde Maka Ska Station - Stop #57539 (northbound); 36th St W & Hennepin Ave - Stop #41337 (eastbound); Lyndale Ave S & Lake St W - Stop #170 (northbound).",
+      "affectedRoutes": [
+        "METRO E Line"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Richfield Rd & Bde Maka Ska St",
+        "36th St W & Hennepin Ave",
+        "Lyndale Ave S & Lake St W",
+        "36th St W & Irving Ave S"
+      ],
+      "closedStopIds": [
+        "1316",
+        "42216",
+        "1100",
+        "42219",
+        "1111",
+        "57539",
+        "41337",
+        "1327",
+        "1096",
+        "1114",
+        "57540"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "1316",
+          "name": "Hennepin & 36th St Station",
+          "direction": "northbound"
+        },
+        {
+          "id": "42216",
+          "name": "Hennepin & 33rd St Station",
+          "direction": "northbound"
+        },
+        {
+          "id": "1100",
+          "name": "Hennepin & 25th St Station",
+          "direction": "southbound"
+        },
+        {
+          "id": "42219",
+          "name": "Hennepin & 33rd St Station",
+          "direction": "southbound"
+        },
+        {
+          "id": "1111",
+          "name": "Hennepin & 36th St Station",
+          "direction": "southbound"
+        },
+        {
+          "id": "57539"
+        },
+        {
+          "id": "41337"
+        },
+        {
+          "id": "1327"
+        },
+        {
+          "id": "1096"
+        },
+        {
+          "id": "1114"
+        },
+        {
+          "id": "57540"
+        }
+      ],
+      "riderAlternative": "Board at: Richfield Rd & Bde Maka Ska Station - Stop #57539 (northbound); 36th St W & Hennepin Ave - Stop #41337 (eastbound); Lyndale Ave S & Lake St W - Stop #170 (northbound)",
+      "detourDetails": "Northbound buses will travel the regular route on 36th St W to Hennepin Ave, continue on 36th St W, left on Lyndale Ave, left on 25th St W, right on Hennepin Ave, and resume the regular route.",
+      "activePeriod": {
+        "start": "2026-10-11T14:00:00.000Z",
+        "end": "2026-10-11T23:00:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/eline",
+      "updatedAt": "2026-10-06T13:55:37.000Z",
+      "rawHeader": "E Line detoured off Hennepin ave from 36th St W to 25th St W from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets",
+      "rawDescription": "For northbound E Line get on/off buses at:\r\nRichfield Rd & Bde Maka Ska Station - Stop #57539 (northbound)\r\n36th St W & Hennepin Ave - Stop #41337 (eastbound)\r\nLyndale Ave S & Lake St W - Stop #170 (northbound)\r\nHennepin & 25th St Station - Stop #1327 (northbound)\r\n\nFor southbound E Line get on/off buses at:\r\nHennepin & Franklin Station - Stop #1096 (southbound)\r\n36th St W & Irving Ave S - Stop #1114 (westbound) \r\nRichfield Rd & Bde Maka Ska Station - Stop #57540 (southbound)\r\n\nNorthbound buses will travel the regular route on 36th St W to Hennepin Ave, continue on 36th St W, left on Lyndale Ave, left on 25th St W, right on Hennepin Ave, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Hennepin Ave to 24th St W, left on 24th St W, right on Lyndale Ave, right on 36th St W to Hennepin Ave, continue on 36th St W, and resume the regular route.\r\n\nAffected stops:\r\nHennepin & 36th St Station - Stop #1316 (northbound)\r\nHennepin & 33rd St Station - Stop #42216 (northbound)\r\nHennepin & 25th St Station - Stop #1100 (southbound)\r\nHennepin & 33rd St Station - Stop #42219 (southbound)\r\nHennepin & 36th St Station - Stop #1111 (southbound)"
     },
     {
       "id": "50989",
@@ -1523,6 +1592,52 @@
       "rawDescription": "This detour will only be in effect when the road is blocked. \r\n\nGet on/off northbound buses at:\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\n\nNorthbound buses will travel the regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Nicollet Mall to 11th St, right on 11th st, left on Lasalle Ave, left on 12th St, right on Nicollet Mall, and resume the regular route. No southbound stops are missed.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)"
     },
     {
+      "id": "53859",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor",
+      "summary": "Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 10th St to 11th St from Thu Oct 8 at 6:00 AM to Fri Oct 9 at 6:00 PM due to utility work. Board at: Nicollet Mall & 9th St S - Stop #17982 (southbound); Nicollet Mall & Alice Rainville Place - Stop #17986 (southbound).",
+      "affectedRoutes": [
+        "Route 10",
+        "Route 11",
+        "Route 17",
+        "Route 18",
+        "Route 25"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [
+        "17984",
+        "17982",
+        "17986"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "17984",
+          "name": "Nicollet Mall & 11th St S",
+          "direction": "southbound"
+        },
+        {
+          "id": "17982"
+        },
+        {
+          "id": "17986"
+        }
+      ],
+      "riderAlternative": "Board at: Nicollet Mall & 9th St S - Stop #17982 (southbound); Nicollet Mall & Alice Rainville Place - Stop #17986 (southbound)",
+      "detourDetails": "eastbound buses will travel regular route on Nicollet Mall to 11th St, left on 11th St, right on LaSalle Ave, right on 10th St, left on Nicollet Mall, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-10-08T11:00:00.000Z",
+        "end": "2026-10-09T23:00:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/10",
+      "updatedAt": "2026-10-06T14:21:04.000Z",
+      "rawHeader": "Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 10th St to 11th St from Thu Oct 8 at 6:00 AM to Fri Oct 9 at 6:00 PM due to utility work",
+      "rawDescription": "No northbound/eastbound stops missed. Buses will only detour when the road is blocked.\r\n\nGet on/off southbound/westbound buses at:\r\nNicollet Mall & 9th St S - Stop #17982 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17986 (southbound)\r\n\nNorthbound/eastbound buses will travel regular route on Nicollet Mall to 11th St, left on 11th St, right on LaSalle Ave, right on 10th St, left on Nicollet Mall, and resume regular route.\r\n\nSouthbound/westbound buses will travel regular route on Nicollet Mall to 10th St, left on 10th St, right on Marquette Ave, right on 11th St, left on Nicollet Mall, and resume regular route.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)"
+    },
+    {
       "id": "49659",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -1649,38 +1764,6 @@
       "rawDescription": "Get on/off buses at:\r\nNicollet Ave S & 49th St W - Stop #1230 (southbound)"
     },
     {
-      "id": "52650",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 14, Route 5: Stop Closed at Selected Stop",
-      "summary": "Chicago & 56th St Station - Stop #775 (northbound) is closed for Routes 5 and 14 until further notice due to utility work. Board at: Temporary stop on Chicago Ave just past 56th St (northbound).",
-      "affectedRoutes": [
-        "Route 14",
-        "Route 5"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [
-        "775"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "775"
-        }
-      ],
-      "riderAlternative": "Board at: Temporary stop on Chicago Ave just past 56th St (northbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-10T13:58:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/5",
-      "updatedAt": "2026-09-17T13:58:01.000Z",
-      "rawHeader": "Chicago & 56th St Station - Stop #775 (northbound) is closed for Routes 5 and 14 until further notice due to utility work",
-      "rawDescription": "Get on/off buses at:\r\nTemporary stop on Chicago Ave just past 56th St (northbound)"
-    },
-    {
       "id": "53818",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -1787,6 +1870,128 @@
       "updatedAt": "2026-10-06T05:00:00.000Z",
       "rawHeader": "Route 17 detoured off Nicollet Mall from 12th St to 11th St from Mon Oct 5 at 9:00 AM to Wed Oct 7 at 4:00 PM due to construction",
       "rawDescription": "This detour will only be in effect when the road is blocked. \r\n\nGet on/off eastbound buses at:\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\n\nEastbound buses will travel the regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume the regular route.\r\n\nWestbound buses will travel the regular route on Nicollet Mall to 11th St, right on 11th st, left on Lasalle Ave, left on 12th St, right on Nicollet Mall, and resume the regular route. No westbound stops are missed.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)"
+    },
+    {
+      "id": "53856",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 17: Detour via Lake St W & Humboldt Ave S",
+      "summary": "Route 17 detoured off Hennepin Ave from 24th St W to Lagoon Ave from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: Lake St W & Humboldt Ave S - Stop #16827 (eastbound); 24th St W & Pleasant Ave S - Stop #40342 (eastbound).",
+      "affectedRoutes": [
+        "Route 17"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Lake St W & Humboldt Ave S",
+        "24th St W & Pleasant Ave S",
+        "24th St W & Garfield Ave",
+        "Hennepin Ave & 27th St W",
+        "24th St W & Dupont Ave S"
+      ],
+      "closedStopIds": [
+        "50195",
+        "1325",
+        "1327",
+        "40335",
+        "40333",
+        "40339",
+        "4667",
+        "4669",
+        "4672",
+        "1100",
+        "1102",
+        "50196",
+        "16827",
+        "40342",
+        "4663",
+        "3523"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "50195",
+          "name": "Uptown Transit Station - Gate B",
+          "direction": "northbound"
+        },
+        {
+          "id": "1325",
+          "name": "Hennepin Ave & 27th St W",
+          "direction": "northbound"
+        },
+        {
+          "id": "1327",
+          "name": "Hennepin & 25th St Station",
+          "direction": "northbound"
+        },
+        {
+          "id": "40335",
+          "name": "24th St W & Dupont Ave S",
+          "direction": "eastbound"
+        },
+        {
+          "id": "40333",
+          "name": "24th St W & Bryant Ave S",
+          "direction": "eastbound"
+        },
+        {
+          "id": "40339",
+          "name": "24th St W & Lyndale Ave S",
+          "direction": "eastbound"
+        },
+        {
+          "id": "4667",
+          "name": "24th St W & Lyndale Ave S",
+          "direction": "westbound"
+        },
+        {
+          "id": "4669",
+          "name": "24th St W & Bryant Ave S",
+          "direction": "westbound"
+        },
+        {
+          "id": "4672",
+          "name": "24th St W & Hennepin Ave S",
+          "direction": "westbound"
+        },
+        {
+          "id": "1100",
+          "name": "Hennepin & 25th St Station",
+          "direction": "southbound"
+        },
+        {
+          "id": "1102",
+          "name": "Hennepin Ave S & 27th St W",
+          "direction": "southbound"
+        },
+        {
+          "id": "50196",
+          "name": "Uptown Transit Station - Gate A",
+          "direction": "southbound"
+        },
+        {
+          "id": "16827"
+        },
+        {
+          "id": "40342"
+        },
+        {
+          "id": "4663"
+        },
+        {
+          "id": "3523"
+        }
+      ],
+      "riderAlternative": "Board at: Lake St W & Humboldt Ave S - Stop #16827 (eastbound); 24th St W & Pleasant Ave S - Stop #40342 (eastbound)",
+      "detourDetails": "Eastbound buses will travel the regular route on Lake St to Hennepin Ave, continue on Lake St, left on Lyndale Ave, right on 24th St W, and resume the regular route.",
+      "activePeriod": {
+        "start": "2026-10-11T14:00:00.000Z",
+        "end": "2026-10-11T23:00:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/17",
+      "updatedAt": "2026-10-06T14:06:27.000Z",
+      "rawHeader": "Route 17 detoured off Hennepin Ave from 24th St W to Lagoon Ave from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets",
+      "rawDescription": "For eastbound Route 17 get on/off buses at:\r\nLake St W & Humboldt Ave S - Stop #16827 (eastbound)\r\n24th St W & Pleasant Ave S - Stop #40342 (eastbound)\r\n\nFor westbound Route 17 get on/off buses at:\r\n24th St W & Pleasant Ave S - Stop #4663 (westbound)\r\nTemporary stop on 24th St W & Garfield Ave (westbound)\r\nLagoon & Hennepin Station - Stop #3523 (westbound)\r\n\nEastbound buses will travel the regular route on Lake St to Hennepin Ave, continue on Lake St, left on Lyndale Ave, right on 24th St W, and resume the regular route.\r\n\nWestbound buses will travel the regular route on 24th St W to Lyndale Ave, left on Lyndale Ave, right on Lake St, continue on Lagoon Ave to Hennepin Ave, continue on Lagoon Ave, and resume the regular route.\r\n\nAffected stops:\r\nUptown Transit Station - Gate B - Stop #50195 (northbound)\r\nHennepin Ave & 27th St W - Stop #1325 (northbound)\r\nHennepin & 25th St Station - Stop #1327 (northbound)\r\n24th St W & Dupont Ave S - Stop #40335 (eastbound)\r\n24th St W & Bryant Ave S - Stop #40333 (eastbound)\r\n24th St W & Lyndale Ave S - Stop #40339 (eastbound)\r\n24th St W & Lyndale Ave S - Stop #4667 (westbound)\r\n24th St W & Bryant Ave S - Stop #4669 (westbound)\r\n24th St W & Hennepin Ave S - Stop #4672 (westbound)\r\nHennepin & 25th St Station - Stop #1100 (southbound)\r\nHennepin Ave S & 27th St W - Stop #1102 (southbound)\r\nUptown Transit Station - Gate A - Stop #50196 (southbound)"
     },
     {
       "id": "48754",
@@ -2592,6 +2797,58 @@
       "rawDescription": "For eastbound Route 27 get on/off buses at:\r\n28th St E & Bloomington Ave S - Stop #43016 (eastbound)\r\nLake & Cedar Station - Stop #51579 (eastbound)\r\n\nFor westbound Route 27 get on/off buses at:\r\nLake St E & 21st Ave S - Stop #16894 (westbound)\r\nLake & Cedar Station - Stop #57362 (westbound)\r\nBloomington Ave S & 28th St E - Stop #15618 (northbound)\r\n26th St E & 12th Ave S - Stop #51507 (westbound)\r\n\nEastbound buses will travel regular route on 28th St to Bloomington Ave, right on Bloomington, left on Lake St to Cedar Ave, and resume regular route.\r\n\nWestbound buses will travel regular route on Lake St to Cedar Ave, continue on Lake to Bloomington Ave, right on Bloomington, left on 26th St, and resume regular route.\r\n\nAffected stops:\r\n28th St E & Cedar Ave S - Stop #43021 (eastbound)\r\nCedar Ave S & Lake St E - Stop #15317 (northbound)\r\nCedar Ave S & 28th St E - Stop #15319 (northbound)\r\n26th St E & 18th Ave S - Stop #14340 (westbound)\r\n26th St E & Bloomington Ave S - Stop #43004 (westbound)"
     },
     {
+      "id": "53858",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 27: Detour via Lagoon Ave & Emerson Ave S",
+      "summary": "Route 27 detoured out of Uptown Transit Station from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: Lagoon Ave & Emerson Ave S - Stop #17040 (westbound); Lake & Hennepin Station - Stop #57355 (eastbound).",
+      "affectedRoutes": [
+        "Route 27"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Lagoon Ave & Emerson Ave S",
+        "Lake St W & Bryant Ave S",
+        "Temporary bus stop on Lagoon Ave & Emerson Ave S"
+      ],
+      "closedStopIds": [
+        "52857",
+        "17040",
+        "57355",
+        "16836"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "52857",
+          "name": "Uptown Transit Station - Gates D/E",
+          "direction": "westbound"
+        },
+        {
+          "id": "17040",
+          "name": "Lagoon Ave & Emerson Ave S",
+          "direction": "westbound"
+        },
+        {
+          "id": "57355"
+        },
+        {
+          "id": "16836"
+        }
+      ],
+      "riderAlternative": "Board at: Lagoon Ave & Emerson Ave S - Stop #17040 (westbound); Lake & Hennepin Station - Stop #57355 (eastbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-11T14:00:00.000Z",
+        "end": "2026-10-11T23:00:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/27",
+      "updatedAt": "2026-10-06T14:13:01.000Z",
+      "rawHeader": "Route 27 detoured out of Uptown Transit Station from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets",
+      "rawDescription": "For eastbound Route 27 get on/off buses at:\r\nLagoon Ave & Emerson Ave S - Stop #17040 (westbound)\r\nLake & Hennepin Station - Stop #57355 (eastbound)\r\n\nFor westbound Route 27 get on/off buses at:\r\nLake St W & Bryant Ave S - Stop #16836 (westbound)\r\nTemporary bus stop on Lagoon Ave & Emerson Ave S (westbound)\r\n\nEastbound buses will depart the temporary terminal on Lagoon Ave, continue on Lagoon Ave, left on Irving Ave, left on Lake St to Hennepin Ave, continue on Lake St, and resume the regular route.\r\n\nWestbound buses will follow the regular route on Lake St to Lagoon Ave, continue on Lagoon Ave, and terminate at the temporary bus stop on Lagoon Ave and Emerson Ave.\r\n\nAffected stops:\r\nUptown Transit Station - Gates D/E - Stop #52857 (westbound)\r\nLagoon Ave & Emerson Ave S - Stop #17040 (westbound)"
+    },
+    {
       "id": "53819",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -2831,6 +3088,118 @@
       "rawDescription": "For northbound Route 36 get on/off buses at:\r\nGallagher Dr & France Ave S - Stop #41097 (eastbound)\r\nYork Ave S & 70th St W - Stop #50601 (northbound)\r\n\nFor southbound Route 36 get on/off buses at:\r\nYork Ave S & 69th St W - Stop #48182 (southbound)\r\nGallagher Dr & France Ave S - Stop #41126 (westbound)\r\n\nNorthbound buses will travel regular route on Gallagher Dr to France Ave, right on France Ave, left on 76th St, left on York Ave, continue on York Ave to Hazleton Rd and resume regular route.\r\n\nSouthbound buses will travel regular route on York Ave, continue on York Ave to 76th St, right on 76th St, right on France Ave, left on Gallagher Dr and resume regular route.\r\n\nAffected stops:\r\nFrance Ave S & 72nd St W - Stop #44393 (northbound)\r\nHazelton Rd & France Ave S - Stop #53866 (eastbound)\r\nHazelton Rd & #3535 - Federal Express - Stop #53156 (eastbound)\r\nHazelton Rd & York Ave S - Stop #53436 (westbound)\r\nHazelton Rd & Target Loading Dock - Stop #53155 (westbound)\r\nFrance Ave S & 72nd St W - Stop #4374 (southbound)"
     },
     {
+      "id": "53853",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 36: Detour via 36th St W & Irving Ave S",
+      "summary": "Route 36 detoured off Hennepin Ave from 36th St W to 29th St W from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: 36th St W & Irving Ave S - Stop #1313 (eastbound); Temporary terminal Lagoon Ave & Emerson Ave S (westbound).",
+      "affectedRoutes": [
+        "Route 36"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "36th St W & Irving Ave S",
+        "Temporary terminal Lagoon Ave & Emerson Ave S",
+        "Lagoon Ave & Emerson Ave S",
+        "Hennepin Ave & 34th St W",
+        "Hennepin Ave & 31st St W"
+      ],
+      "closedStopIds": [
+        "1316",
+        "1318",
+        "42216",
+        "1321",
+        "1322",
+        "50160",
+        "1105",
+        "1106",
+        "42219",
+        "1109",
+        "1111",
+        "1313",
+        "17040",
+        "1114"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "1316",
+          "name": "Hennepin & 36th St Station",
+          "direction": "northbound"
+        },
+        {
+          "id": "1318",
+          "name": "Hennepin Ave & 34th St W",
+          "direction": "northbound"
+        },
+        {
+          "id": "42216",
+          "name": "Hennepin & 33rd St Station",
+          "direction": "northbound"
+        },
+        {
+          "id": "1321",
+          "name": "Hennepin Ave & 31st St W",
+          "direction": "northbound"
+        },
+        {
+          "id": "1322",
+          "name": "Hennepin Ave & Lake St W",
+          "direction": "northbound"
+        },
+        {
+          "id": "50160",
+          "name": "Uptown Transit Station - Gate C",
+          "direction": "westbound"
+        },
+        {
+          "id": "1105",
+          "name": "Hennepin Ave S & Lagoon Ave",
+          "direction": "southbound"
+        },
+        {
+          "id": "1106",
+          "name": "Hennepin Ave S & 31st St W",
+          "direction": "southbound"
+        },
+        {
+          "id": "42219",
+          "name": "Hennepin & 33rd St Station",
+          "direction": "southbound"
+        },
+        {
+          "id": "1109",
+          "name": "Hennepin Ave S & 34th St W",
+          "direction": "southbound"
+        },
+        {
+          "id": "1111",
+          "name": "Hennepin & 36th St Station",
+          "direction": "southbound"
+        },
+        {
+          "id": "1313"
+        },
+        {
+          "id": "17040"
+        },
+        {
+          "id": "1114"
+        }
+      ],
+      "riderAlternative": "Board at: 36th St W & Irving Ave S - Stop #1313 (eastbound); Temporary terminal Lagoon Ave & Emerson Ave S (westbound)",
+      "detourDetails": "Northbound buses will travel the regular route on 36th Sty W to Hennepin Ave, continue on 36th St W, left on Lyndale Ave, left on Lake St, continue on Lagoon Ave to Emerson Ave, and terminate at a temporary bus stop.",
+      "activePeriod": {
+        "start": "2026-10-11T14:00:00.000Z",
+        "end": "2026-10-11T23:00:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/36",
+      "updatedAt": "2026-10-06T13:39:23.000Z",
+      "rawHeader": "Route 36 detoured off Hennepin Ave from 36th St W to 29th St W from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets",
+      "rawDescription": "For northbound Route 36 get on/off buses at:\r\n36th St W & Irving Ave S - Stop #1313 (eastbound)\r\nTemporary terminal Lagoon Ave & Emerson Ave S (westbound)\r\n\nFor southbound Route 36 get on/off buses at:\r\nLagoon Ave & Emerson Ave S - Stop #17040 (westbound)\r\n36th St W & Irving Ave S - Stop #1114 (westbound)\r\n\nNorthbound buses will travel the regular route on 36th Sty W to Hennepin Ave, continue on 36th St W, left on Lyndale Ave, left on Lake St, continue on Lagoon Ave to Emerson Ave, and terminate at a temporary bus stop.\r\n\nSouthbound buses will depart the temporary terminal on Lagoon Ave and Emerson Ave, left on Irving Ave, left on Lake St, right on Lyndale Ave, right on 36th St W to Hennepin Ave, continue on 36th St W, and resume the regular route.\r\n\nAffected stops:\r\nHennepin & 36th St Station - Stop #1316 (northbound)\r\nHennepin Ave & 34th St W - Stop #1318 (northbound)\r\nHennepin & 33rd St Station - Stop #42216 (northbound)\r\nHennepin Ave & 31st St W - Stop #1321 (northbound)\r\nHennepin Ave & Lake St W - Stop #1322 (northbound)\r\nUptown Transit Station - Gate C - Stop #50160 (westbound)\r\nHennepin Ave S & Lagoon Ave - Stop #1105 (southbound)\r\nHennepin Ave S & 31st St W - Stop #1106 (southbound)\r\nHennepin & 33rd St Station - Stop #42219 (southbound)\r\nHennepin Ave S & 34th St W - Stop #1109 (southbound)\r\nHennepin & 36th St Station - Stop #1111 (southbound)"
+    },
+    {
       "id": "48498",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -3027,6 +3396,43 @@
       "updatedAt": "2026-10-02T21:00:40.000Z",
       "rawHeader": "Excelsior Blvd & Yosemite Ave - Stop #3544 (westbound) is closed for Route 38 from 8:00 AM to 3:00 PM on Thu Oct 8 due to construction",
       "rawDescription": "Get on/off buses at:\r\nExcelsior Blvd & Wooddale Ave - Stop #3542 (westbound)\r\nExcelsior Blvd & Alabama Ave S - Stop #3545 (westbound)"
+    },
+    {
+      "id": "53862",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 46: Detour via 50th St W & Washburn Ave",
+      "summary": "Route 46 school trips detoured off Abbott Ave, 48th St, and Chowen Ave from 3:00 PM to 3:45 PM due to road paving. Board at: 50th St W & Washburn Ave / Vincent Ave - Stop #998 (eastbound).",
+      "affectedRoutes": [
+        "Route 46"
+      ],
+      "direction": "Eastbound",
+      "intersections": [
+        "50th St W & Washburn Ave",
+        "50th St W & Xerxes Ave S"
+      ],
+      "closedStopIds": [
+        "997"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "997",
+          "name": "50th St W & Xerxes Ave S",
+          "direction": "eastbound"
+        }
+      ],
+      "riderAlternative": "Board at: 50th St W & Washburn Ave / Vincent Ave - Stop #998 (eastbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-06T20:00:00.000Z",
+        "end": "2026-10-06T20:45:00.000Z"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/46",
+      "updatedAt": "2026-10-06T14:48:54.000Z",
+      "rawHeader": "Route 46 school trips detoured off Abbott Ave, 48th St, and Chowen Ave from 3:00 PM to 3:45 PM due to road paving",
+      "rawDescription": "Get on/off buses at:\r\n50th St W & Washburn Ave / Vincent Ave - Stop #998 (eastbound)\r\n\nEastbound route 46 school trips will depart Southwest High School, left on 47th St, right on York Ave, left on 48th St, right on Xerxes Ave, left on 50th St and resume regular route.\r\n\nAffected direction: Eastbound\r\n\nAffected stops:\r\n50th St W & Xerxes Ave S - Stop #997 (eastbound)"
     },
     {
       "id": "51972",
@@ -4239,6 +4645,51 @@
       "updatedAt": "2026-10-01T21:37:25.000Z",
       "rawHeader": "Route 67 detoured off Dale St from Minnehaha Ave to Thomas Ave and off Thomas Ave from Dale St to Kent St until further notice due to construction",
       "rawDescription": "For eastbound Route 67 get on/off buses at:\r\nMinnehaha Ave & Dale St - Stop #15065 (eastbound)\r\nTemporary stop on Kent St at Thomas Ave (southbound)\r\nThomas Ave & Mackubin St - Stop #18835 (eastbound)\r\n\nFor westbound Route 67 get on/off buses at:\r\nThomas Ave & Kent St - Stop #18852 (westbound)\r\nMinnehaha Ave & Dale St - Stop #15090 (westbound)\r\n\nEastbound buses will travel the regular route on Minnehaha Ave to Dale St, continue on Minnehaha Ave, right on Kent St, left on Thomas Ave, and resume the regular route.\r\n\nWestbound buses will follow the regular route on Thomas Ave to Kent St, right on Kent St, left on Minnehaha Ave to Dale St, continue on Minnehaha Ave, and resume the regular route.\r\n\nAffected stops:\r\nDale St & Blair Ave - Stop #10740 (southbound)\r\nThomas Ave & Dale St - Stop #41971 (eastbound)\r\nThomas Ave & Kent St - Stop #18834 (eastbound)\r\nThomas Ave & Dale St - Stop #18853 (westbound)\r\nDale St & Blair Ave - Stop #10700 (northbound)"
+    },
+    {
+      "id": "53848",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 67: Detour via Franklin Ave SE & Seymour Ave",
+      "summary": "Eastbound Route 67 detoured off Franklin Ave E between Seymour and Emerald until further notice due to water work. Board at: Franklin Ave SE & Seymour Ave - Stop #52062 (eastbound); Franklin Ave & Berry St - Stop #54099 (eastbound).",
+      "affectedRoutes": [
+        "Route 67"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Franklin Ave SE & Seymour Ave",
+        "Franklin Ave & Berry St",
+        "Franklin Ave SE & Bedford St"
+      ],
+      "closedStopIds": [
+        "52063",
+        "52062",
+        "54099"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "52063",
+          "name": "Franklin Ave SE & Bedford St",
+          "direction": "eastbound"
+        },
+        {
+          "id": "52062"
+        },
+        {
+          "id": "54099"
+        }
+      ],
+      "riderAlternative": "Board at: Franklin Ave SE & Seymour Ave - Stop #52062 (eastbound); Franklin Ave & Berry St - Stop #54099 (eastbound)",
+      "detourDetails": "Eastbound buses will travel east on Franklin Ave SE to Seymour Ave SE, right on Seymour, left on Sharon Ave, left on Emerald St, right on Franklin and resume regular route",
+      "activePeriod": {
+        "start": "2026-10-06T12:51:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/67",
+      "updatedAt": "2026-10-06T13:27:04.000Z",
+      "rawHeader": "Eastbound Route 67 detoured off Franklin Ave E between Seymour and Emerald until further notice due to water work",
+      "rawDescription": "Updated the timeline of the detour 10/6 at 8:30 AM.\r\n\nGet on/off buses at:\r\nFranklin Ave SE & Seymour Ave - Stop #52062 (eastbound)\r\nFranklin Ave & Berry St - Stop #54099 (eastbound)\r\n\nEastbound buses will travel east on Franklin Ave SE to Seymour Ave SE, right on Seymour, left on Sharon Ave, left on Emerald St, right on Franklin and resume regular route\r\n\nWestbound buses not affected\r\n\nAffected stops:\r\nFranklin Ave SE & Bedford St - Stop #52063 (eastbound)"
     },
     {
       "id": "49088",
@@ -5828,6 +6279,59 @@
       "rawDescription": "For northbound Route 537 get on/off buses at:\r\nFrance Ave S & Minnesota Dr - Stop #57520 (northbound)\r\n76th St W & Centennial Lakes Office Park - Stop #52038 (eastbound)\r\nYork Ave S & 70th St W - Stop #50601 (northbound)\r\n\nFor southbound Route 537 get on/off buses at:\r\nYork Ave S & 69th St W - Stop #48182 (southbound)\r\nYork Ave S & Hazelton Rd - Stop #1925 (southbound)\r\n76th St W & Office Depot - Stop #52038 (westbound)\r\nFrance Ave S & Minnesota Dr - Stop #57524 (southbound)\r\n\nNorthbound buses will travel regular route on France Ave to 76th St, right on 76th St, left on York Ave, continue on York Ave to 70th St and resume regular route.\r\n\nSouthbound buses will travel regular route on York Ave to 70th St, continue on York Ave to 76th St, right on 76th St, left on France Ave and resume regular route.\r\n\nAffected stops:\r\nFrance Ave S & 76th St W - Stop #57521 (northbound)\r\nFrance Ave S & Parklawn Ave - Stop #56530 (northbound)\r\nFrance Ave S & Gallagher Dr - Stop #57522 (northbound)\r\nFrance Ave S & 72nd St W - Stop #44393 (northbound)\r\nFrance Ave S & 70th St W - Stop #57523 (northbound)\r\n70th St W & Target driveway - Stop #50600 (eastbound)\r\n70th St W & Target - Stop #50603 (westbound)\r\nFrance Ave S & 70th St W - Stop #50604 (southbound)\r\nFrance Ave S & 72nd St W - Stop #4374 (southbound)\r\nFrance Ave S & Gallagher Dr - Stop #4375 (southbound)\r\nFrance Ave S & Parklawn Ave - Stop #20197 (southbound)\r\nFrance Ave S & 76th St W - Stop #4376 (southbound)"
     },
     {
+      "id": "53855",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 537: Detour via 108th St W & France Ave S",
+      "summary": "Route 537 detoured off Beard Ave from Old Shakopee Rd to 108th St until further notice due to construction. Board at: 108th St W & France Ave S - Stop #56794 (westbound).",
+      "affectedRoutes": [
+        "Route 537"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "108th St W & France Ave S",
+        "Old Shakopee Rd & Beard Ave S",
+        "right on 108th St & westbound 108th St",
+        "Beard Ave S & Old Shakopee Rd",
+        "Beard Ave S & 108th St W"
+      ],
+      "closedStopIds": [
+        "56791",
+        "56793",
+        "56794",
+        "3521"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "56791",
+          "name": "Beard Ave S & Old Shakopee Rd",
+          "direction": "southbound"
+        },
+        {
+          "id": "56793",
+          "name": "Beard Ave S & 108th St W",
+          "direction": "southbound"
+        },
+        {
+          "id": "56794"
+        },
+        {
+          "id": "3521"
+        }
+      ],
+      "riderAlternative": "Board at: 108th St W & France Ave S - Stop #56794 (westbound)",
+      "detourDetails": "Southbound buses will travel regular route on Old Shakopee Rd to Beard Ave, continue on Old Shakopee Rd to Zenith Ave, right on Zenith, right on 108th St and layover on westbound 108th St at Beard Ave.",
+      "activePeriod": {
+        "start": "2026-10-06T14:05:00.000Z"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/537",
+      "updatedAt": "2026-10-06T14:05:12.000Z",
+      "rawHeader": "Route 537 detoured off Beard Ave from Old Shakopee Rd to 108th St until further notice due to construction",
+      "rawDescription": "For northbound Route 537 get on/off buses at:\r\n108th St W & France Ave S - Stop #56794 (westbound)\r\n\nFor southbound Route 537 get on/off buses at:\r\nOld Shakopee Rd & Beard Ave S - Stop #3521 (eastbound)\r\n\nNorthbound buses will depart temporary layover on westbound 108th St at Beard Ave, continue on 108th St, and resume regular route.\r\n\nSouthbound buses will travel regular route on Old Shakopee Rd to Beard Ave, continue on Old Shakopee Rd to Zenith Ave, right on Zenith, right on 108th St and layover on westbound 108th St at Beard Ave.\r\n\nAffected stops:\r\nBeard Ave S & Old Shakopee Rd - Stop #56791 (southbound)\r\nBeard Ave S & 108th St W - Stop #56793 (southbound)"
+    },
+    {
       "id": "50581",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -6544,6 +7048,104 @@
       "updatedAt": "2026-09-15T12:58:13.000Z",
       "rawHeader": "Routes 760, 763, 765, 766 and 768 detoured off 3rd St from Hennepin Ave to Hwy 94 beginning Mon Aug 10 at 2:00 AM until further notice due to construction",
       "rawDescription": "Note: Buses will only follow detour if road is blocked. If road is open, buses will follow regular route.\r\n\nGet on/off buses at:\r\n3rd St S & Nicollet Mall - Stop #40172 (westbound)\r\n\nNorthbound buses will travel regular route on 3rd St to Hennepin Ave, right on Hennepin, left on Washington Ave, left on 10th Ave N, right on 5th St, left on 11th Ave N, right on E Lyndale Ave N, veer right onto westbound Hwy 94 ramp, and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected stops:\r\n3rd St N & 1st Ave N - Stop #17960 (westbound)"
+    },
+    {
+      "id": "53850",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 760, Route 763, Route 765, Route 766, Route 768: Detour via 3rd St & Marquette Ave",
+      "summary": "Routes 760, 763, 765, 766 and 768 detoured off 3rd St from Marquette Ave to I-94 and off I-94 from downtown Minneapolis to Lyndale Ave until further notice due to traffic congestion. Board at: 3rd St & Marquette Ave - Stop #52832 (westbound).",
+      "affectedRoutes": [
+        "Route 760",
+        "Route 763",
+        "Route 765",
+        "Route 766",
+        "Route 768"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "3rd St & Marquette Ave",
+        "3rd St S & Nicollet Mall - St",
+        "3rd St N & 1st Ave N",
+        "3rd St (Marquette Ave to I-94 and off I-94 from downtown Minneapolis to Lyndale Ave)"
+      ],
+      "closedStopIds": [
+        "40172",
+        "17960",
+        "52832"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "40172",
+          "name": "3rd St S & Nicollet Mall",
+          "direction": "westbound"
+        },
+        {
+          "id": "17960",
+          "name": "3rd St N & 1st Ave N",
+          "direction": "westbound"
+        },
+        {
+          "id": "52832"
+        }
+      ],
+      "riderAlternative": "Board at: 3rd St & Marquette Ave - Stop #52832 (westbound)",
+      "detourDetails": "Northbound buses will travel regular route on 3rd St to Marquette Ave, right on Marquette, left on Washington Ave, left on 10th Ave N, right on 5th St, left on 11th Ave N, right on E Lyndale Ave N and continue onto I-94 ramp, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-10-06T13:30:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/760",
+      "updatedAt": "2026-10-06T13:30:21.000Z",
+      "rawHeader": "Routes 760, 763, 765, 766 and 768 detoured off 3rd St from Marquette Ave to I-94 and off I-94 from downtown Minneapolis to Lyndale Ave until further notice due to traffic congestion",
+      "rawDescription": "Get on/off buses at:\r\n3rd St & Marquette Ave - Stop #52832 (westbound)\r\n\nNorthbound buses will travel regular route on 3rd St to Marquette Ave, right on Marquette, left on Washington Ave, left on 10th Ave N, right on 5th St, left on 11th Ave N, right on E Lyndale Ave N and continue onto I-94 ramp, and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected stops:\r\n3rd St S & Nicollet Mall - Stop #40172 (westbound)\r\n3rd St N & 1st Ave N - Stop #17960 (westbound)"
+    },
+    {
+      "id": "53852",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 781, Route 784, Route 785, Route 850, Route 882, Route 888: Detour via 3rd St S & Marquette Ave S",
+      "summary": "Routes 781 and five other routes detoured off 3rd St from Marquette Ave to I-94 and off I-94 from downtown Minneapolis to Lyndale Ave until further notice due to traffic congestion. Board at: 3rd St S & Marquette Ave S - Stop #52832 (westbound).",
+      "affectedRoutes": [
+        "Route 781",
+        "Route 784",
+        "Route 785",
+        "Route 850",
+        "Route 882",
+        "Route 888"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "3rd St S & Marquette Ave S",
+        "3rd St S & Hennepin Ave",
+        "3rd St (Marquette Ave to I-94 and off I-94 from downtown Minneapolis to Lyndale Ave)"
+      ],
+      "closedStopIds": [
+        "17959",
+        "52832"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "17959",
+          "name": "3rd St S & Hennepin Ave",
+          "direction": "westbound"
+        },
+        {
+          "id": "52832"
+        }
+      ],
+      "riderAlternative": "Board at: 3rd St S & Marquette Ave S - Stop #52832 (westbound)",
+      "detourDetails": "Northbound buses will travel regular route on 3rd St to Marquette Ave, right on Marquette, left on Washington Ave, left on 10th Ave N, right on 5th St, left on 11th Ave N, right on E Lyndale Ave N and continue onto I-94 ramp, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-10-06T13:32:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/781",
+      "updatedAt": "2026-10-06T13:32:42.000Z",
+      "rawHeader": "Routes 781 and five other routes detoured off 3rd St from Marquette Ave to I-94 and off I-94 from downtown Minneapolis to Lyndale Ave until further notice due to traffic congestion",
+      "rawDescription": "Get on/off buses at:\r\n3rd St S & Marquette Ave S - Stop #52832 (westbound)\r\n\nNorthbound buses will travel regular route on 3rd St to Marquette Ave, right on Marquette, left on Washington Ave, left on 10th Ave N, right on 5th St, left on 11th Ave N, right on E Lyndale Ave N and continue onto I-94 ramp, and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected routes:\r\n781\r\n784\r\n785\r\n850\r\n882\r\n888\r\n\nAffected stops:\r\n3rd St S & Hennepin Ave - Stop #17959 (westbound)"
     },
     {
       "id": "51297",
