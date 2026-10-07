@@ -1,151 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-07T02:13:29.060Z",
-    "totalAlerts": 114,
-    "criticalCount": 5,
+    "generatedAt": "2026-10-07T10:07:31.856Z",
+    "totalAlerts": 110,
+    "criticalCount": 0,
     "moderateCount": 106,
-    "minorCount": 3,
-    "affectedRoutesCount": 78,
+    "minorCount": 4,
+    "affectedRoutesCount": 76,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "53890",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO B Line: Westbound 7:32 PM Trip Canceled (Union Depot & Gate A1)",
-      "summary": "Westbound B Line trip departing Union Depot & Gate A1 at 7:32 PM canceled today due to maintenance work",
-      "affectedRoutes": [
-        "METRO B Line"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-07T00:32:00.000Z",
-        "end": "2026-10-07T02:34:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-10-07T00:33:03.000Z",
-      "rawHeader": "Westbound B Line trip departing Union Depot & Gate A1 at 7:32 PM canceled today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "53893",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 9, Route 9C: Westbound 8:36 PM Trip Canceled (46th St Station & Gate H)",
-      "summary": "Westbound Route 9C trip departing 46th St Station & Gate H at 8:36 PM canceled",
-      "affectedRoutes": [
-        "Route 9",
-        "Route 9C"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-07T01:36:00.000Z",
-        "end": "2026-10-07T03:42:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/9",
-      "updatedAt": "2026-10-07T01:35:30.000Z",
-      "rawHeader": "Westbound Route 9C trip departing 46th St Station & Gate H at 8:36 PM canceled",
-      "rawDescription": ""
-    },
-    {
-      "id": "53882",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 65: Service Canceled",
-      "summary": "Route 65 canceled until later today",
-      "affectedRoutes": [
-        "Route 65"
-      ],
-      "direction": "All",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-06T21:18:00.000Z",
-        "end": "2026-10-07T04:12:23.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/65",
-      "updatedAt": "2026-10-06T21:18:51.000Z",
-      "rawHeader": "Route 65 canceled until later today",
-      "rawDescription": ""
-    },
-    {
-      "id": "53872",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 72: Service Canceled",
-      "summary": "Route 72 trip departing Sun Ray Transit Center & Gate D at 1:50 PM and eight other trips canceled today",
-      "affectedRoutes": [
-        "Route 72"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing Pascal St N & Central Ave W",
-        "50 PM\ndeparting Pascal St N & Central Ave W",
-        "52 PM\ndeparting Pascal St N & Central Ave W"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-06T18:50:00.000Z",
-        "end": "2026-10-07T04:35:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-10-06T18:20:01.000Z",
-      "rawHeader": "Route 72 trip departing Sun Ray Transit Center & Gate D at 1:50 PM and eight other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 2:50 PM\r\ndeparting Pascal St N & Central Ave W at 4:50 PM\r\ndeparting Pascal St N & Central Ave W at 6:52 PM\r\ndeparting Pascal St N & Central Ave W at 8:53 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 1:50 PM\r\ndeparting Sun Ray Transit Center & Gate D at 3:48 PM\r\ndeparting Sun Ray Transit Center & Gate D at 5:48 PM\r\ndeparting Sun Ray Transit Center & Gate D at 7:51 PM\r\ndeparting Sun Ray Transit Center & Gate D at 9:51 PM"
-    },
-    {
-      "id": "53892",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 219: Service Canceled",
-      "summary": "Route 219 trips departing Sun Ray Transit Center & Gate B at 8:13 PM and departing Maplewood Mall Transit Center & Gate A at 9:12 PM canceled today",
-      "affectedRoutes": [
-        "Route 219"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-07T01:13:00.000Z",
-        "end": "2026-10-07T04:01:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/219",
-      "updatedAt": "2026-10-07T01:12:47.000Z",
-      "rawHeader": "Route 219 trips departing Sun Ray Transit Center & Gate B at 8:13 PM and departing Maplewood Mall Transit Center & Gate A at 9:12 PM canceled today",
-      "rawDescription": ""
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -688,13 +553,13 @@
       "riderAlternative": "Board at: Cedar Ave S & 3rd St S - Stop #13219 (northbound); 4th St & 15th Ave Station - Stop #16112 (westbound)",
       "detourDetails": "Eastbound buses will travel regular route on Cedar Ave to 3rd St, continue on Cedar to Washington Ave/15th Ave S, right on Washington, left on 19th Ave S and continue across the bridge which becomes 10th Ave SE, right on 6th St SE, right on 15th Ave SE, right on 4th St SE, and resume regular route.",
       "activePeriod": {
-        "start": "2026-10-07T02:30:00.000Z",
-        "end": "2026-10-07T10:00:00.000Z"
+        "start": "2026-10-08T02:30:00.000Z",
+        "end": "2026-10-08T10:00:00.000Z"
       },
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-10-07T02:00:00.000Z",
+      "updatedAt": "2026-10-07T07:56:01.000Z",
       "rawHeader": "Route 2 detoured off Washington Ave from Oak St to Cedar Ave and off 4th St SE from Oak St to 15th Ave SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure",
       "rawDescription": "For eastbound Route 2 get on/off buses at:\r\nCedar Ave S & 3rd St S - Stop #13219 (northbound)\r\n4th St & 15th Ave Station - Stop #16112 (westbound)\r\n\nFor westbound Route 2 get on/off buses at:\r\nUniversity & U of M Rec Center Station - Stop #16142 (eastbound)\r\n3rd St S & Cedar Ave S - Stop #42452 (eastbound)\r\n\nEastbound buses will travel regular route on Cedar Ave to 3rd St, continue on Cedar to Washington Ave/15th Ave S, right on Washington, left on 19th Ave S and continue across the bridge which becomes 10th Ave SE, right on 6th St SE, right on 15th Ave SE, right on 4th St SE, and resume regular route.\r\n\nWestbound buses will travel regular route on Oak St to Washington Ave, left on Washington, right on Huron Blvd and continue onto westbound I-94 ramp, exit at Cedar Ave, right on Cedar, right on 3rd St, and resume regular route.\r\n\nAffected stops:\r\nWashington Ramp & Cedar Ave S - Stop #13221 (eastbound)\r\nWashington Ave & Anderson Hall - Stop #13223 (eastbound)\r\nWashington Ave & Coffman Union - Stop #13209 (eastbound)\r\nOak St SE & University Ave SE - Stop #41243 (northbound)\r\n4th St & Ridder Arena Station - Stop #16154 (westbound)\r\nOak St SE & Washington Ave SE - Stop #41248 (southbound)\r\nWashington Ave & Coffman Union - Stop #13207 (westbound)\r\nWashington Ave & Willey Hall - Stop #13211 (westbound)"
     },
@@ -943,13 +808,13 @@
       "riderAlternative": "Board at: Washington Ave S & 15th Ave S - Stop #57023 (eastbound); 3rd St S & Cedar Ave S - Stop #42452 (eastbound); 15th Ave SE & 4th St SE - Stop #16111 (northbound)",
       "detourDetails": "Eastbound buses will travel regular route on Cedar Ave to 3rd St, left on 3rd St (buses do not travel down ramp), left on 19th Ave S and continue across bridge which becomes 10th Ave SE, right on University Ave, left on 15th Ave SE, and resume regular route.",
       "activePeriod": {
-        "start": "2026-10-07T02:30:00.000Z",
-        "end": "2026-10-07T10:00:00.000Z"
+        "start": "2026-10-08T02:30:00.000Z",
+        "end": "2026-10-08T10:00:00.000Z"
       },
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-10-07T02:00:00.000Z",
+      "updatedAt": "2026-10-07T07:56:01.000Z",
       "rawHeader": "Route 3 detoured off Washington Ave from Cedar Ave to Pleasant St and off Pleasant St from Washington Ave to 4th St SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure",
       "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nWashington Ave S & 15th Ave S - Stop #57023 (eastbound)\r\n3rd St S & Cedar Ave S - Stop #42452 (eastbound)\r\n15th Ave SE & 4th St SE - Stop #16111 (northbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\n15th Ave SE & 4th St SE - Stop #49242 (southbound)\r\nTemporary stop on Washington Ave/15th Ave S & Washington Ave/Cedar Ave, in front of Town Hall Brewery (southbound)\r\nWashington Ave S & 11th Ave S - Stop #19302 (westbound)\r\n\nEastbound buses will travel regular route on Cedar Ave to 3rd St, left on 3rd St (buses do not travel down ramp), left on 19th Ave S and continue across bridge which becomes 10th Ave SE, right on University Ave, left on 15th Ave SE, and resume regular route.\r\n\nWestbound buses will travel regular route on 15th Ave SE to 4th St SE, right on 4th St, left on 10th Ave SE and continue across bridge which becomes 19th Ave S, right on Washington Ave/2nd St S, right on Washington Ave/Cedar Ave, and resume regular route.\r\n\nAffected stops:\r\nWashington Ramp & Cedar Ave S - Stop #13221 (eastbound)\r\nWashington Ave & Anderson Hall - Stop #13223 (eastbound)\r\nE River Pkwy & Appleby Hall - Stop #57013 (northbound)\r\nPleasant St & Jones Hall - Stop #49881 (northbound)\r\nPleasant St & Eddy Hall - Stop #49237 (southbound)\r\nPleasant St SE & Scholars Walk - Stop #54046 (southbound)\r\nWashington Ave & Willey Hall - Stop #13211 (westbound)\r\nCedar Ave S & Washington Ave (15th Ave) - Stop #16325 (westbound)"
     },
@@ -1553,7 +1418,7 @@
       },
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
-      "updatedAt": "2026-10-06T05:00:01.000Z",
+      "updatedAt": "2026-10-07T05:00:01.000Z",
       "rawHeader": "Routes 10, 11, 18 and 25 detoured off Nicollet Mall from 12th St to 11th St from Mon Oct 5 at 9:00 AM to Wed Oct 7 at 4:00 PM due to construction",
       "rawDescription": "This detour will only be in effect when the road is blocked. \r\n\nGet on/off northbound buses at:\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\n\nNorthbound buses will travel the regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Nicollet Mall to 11th St, right on 11th st, left on Lasalle Ave, left on 12th St, right on Nicollet Mall, and resume the regular route. No southbound stops are missed.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)"
     },
@@ -1599,7 +1464,7 @@
       "cause": "MAINTENANCE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/10",
-      "updatedAt": "2026-10-06T14:21:04.000Z",
+      "updatedAt": "2026-10-07T05:00:01.000Z",
       "rawHeader": "Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 10th St to 11th St from Thu Oct 8 at 6:00 AM to Fri Oct 9 at 6:00 PM due to utility work",
       "rawDescription": "No northbound/eastbound stops missed. Buses will only detour when the road is blocked.\r\n\nGet on/off southbound/westbound buses at:\r\nNicollet Mall & 9th St S - Stop #17982 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17986 (southbound)\r\n\nNorthbound/eastbound buses will travel regular route on Nicollet Mall to 11th St, left on 11th St, right on LaSalle Ave, right on 10th St, left on Nicollet Mall, and resume regular route.\r\n\nSouthbound/westbound buses will travel regular route on Nicollet Mall to 10th St, left on 10th St, right on Marquette Ave, right on 11th St, left on Nicollet Mall, and resume regular route.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)"
     },
@@ -1811,7 +1676,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-10-06T05:00:00.000Z",
+      "updatedAt": "2026-10-07T05:00:01.000Z",
       "rawHeader": "Route 17 detoured off Nicollet Mall from 12th St to 11th St from Mon Oct 5 at 9:00 AM to Wed Oct 7 at 4:00 PM due to construction",
       "rawDescription": "This detour will only be in effect when the road is blocked. \r\n\nGet on/off eastbound buses at:\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\n\nEastbound buses will travel the regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume the regular route.\r\n\nWestbound buses will travel the regular route on Nicollet Mall to 11th St, right on 11th st, left on Lasalle Ave, left on 12th St, right on Nicollet Mall, and resume the regular route. No westbound stops are missed.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)"
     },
@@ -2514,7 +2379,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-10-06T17:03:08.000Z",
+      "updatedAt": "2026-10-07T05:00:01.000Z",
       "rawHeader": "Route 22C detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice",
       "rawDescription": "Get on/off northbound buses at:\r\n53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound)\r\nDupont Ave N & 57th Ave N - Stop #11442 (northbound)\r\n\nNo southbound stops are missed.\r\n\nNorthbound buses will travel the regular route on Dupont Ave to 54th Ave, left on 54th Ave, right on Emerson Ave, right on 55th Ave, left on Dupont Ave, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Dupont Ave to 55th Ave, right on 55th Ave, left on Emerson Ave, left on 54th Ave, right on Dupont Ave, and resume the regular route.\r\n\nAffected stops:\r\nDupont Ave N & 55th Ave N - Stop #52676 (northbound)"
     },
@@ -3364,7 +3229,7 @@
       },
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-02T21:00:40.000Z",
+      "updatedAt": "2026-10-07T05:00:02.000Z",
       "rawHeader": "Excelsior Blvd & Yosemite Ave - Stop #3544 (westbound) is closed for Route 38 from 8:00 AM to 3:00 PM on Thu Oct 8 due to construction",
       "rawDescription": "Get on/off buses at:\r\nExcelsior Blvd & Wooddale Ave - Stop #3542 (westbound)\r\nExcelsior Blvd & Alabama Ave S - Stop #3545 (westbound)"
     },
@@ -7078,7 +6943,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/763",
-      "updatedAt": "2026-10-06T17:04:09.000Z",
+      "updatedAt": "2026-10-07T05:00:01.000Z",
       "rawHeader": "Route 763 detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice",
       "rawDescription": "Get on/off northbound buses at:\r\n53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound)\r\nDupont Ave N & 57th Ave N - Stop #11442 (northbound)\r\n\nNo southbound stops are missed.\r\n\nNorthbound buses will travel the regular route on Dupont Ave to 54th Ave, left on 54th Ave, right on Emerson Ave, right on 55th Ave, left on Dupont Ave, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Dupont Ave to 55th Ave, right on 55th Ave, left on Emerson Ave, left on 54th Ave, right on Dupont Ave, and resume the regular route.\r\n\nAffected stops:\r\nDupont Ave N & 55th Ave N - Stop #52676 (northbound)"
     },
@@ -7515,6 +7380,32 @@
       "updatedAt": "2026-10-06T05:00:01.000Z",
       "rawHeader": "Routes 64 and 74 school trips that serve Johnson High School will switch gates beginning Mon Oct 12",
       "rawDescription": "Route 74 will drop off in the morning and pickup in the afternoon at Johnson High School & Gate B - Stop #53948 (northbound)\r\n\nRoute 64 trips will pickup in the afternoon at Johnson High School & Gate C - Stop #54048 (eastbound)"
+    },
+    {
+      "id": "53895",
+      "agency": "Metro Transit",
+      "severity": "Minor",
+      "title": "Route 74: Service Advisory",
+      "summary": "Westbound Route 74 trip departing Sun Ray Transit Center & Gate D at 3:28 AM experiencing 20-25 minute delays today",
+      "affectedRoutes": [
+        "Route 74"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-07T09:22:00.000Z",
+        "end": "2026-10-07T10:32:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "OTHER_EFFECT",
+      "url": "https://www.metrotransit.org/route/74",
+      "updatedAt": "2026-10-07T09:23:37.000Z",
+      "rawHeader": "Westbound Route 74 trip departing Sun Ray Transit Center & Gate D at 3:28 AM experiencing 20-25 minute delays today",
+      "rawDescription": ""
     },
     {
       "id": "51213",

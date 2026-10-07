@@ -2,132 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-114-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-5-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-110-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-106-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-78-brightgreen)](#-routes-index)
+[![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-76-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-07T02:13:29.060Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-07T10:07:31.856Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (7) • **Route 9C** (1) • **Route 10** (3) • **Route 11** (4) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 22C** (1) • **Route 25** (4) • **Route 27** (3) • **Route 30** (1) • **Route 36** (4) • **Route 38** (4) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (2) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (3) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (2) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (3) • **Route 11** (4) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 22C** (1) • **Route 25** (4) • **Route 27** (3) • **Route 30** (1) • **Route 36** (4) • **Route 38** (4) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO B Line: Westbound 7:32 PM Trip Canceled (Union Depot & Gate A1)
-
-- **Affected Routes**: `METRO B Line`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound B Line trip departing Union Depot & Gate A1 at 7:32 PM canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/bline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound B Line trip departing Union Depot & Gate A1 at 7:32 PM canceled today due to maintenance work
-
-</details>
-
----
-
-### 🚨 Route 9, Route 9C: Westbound 8:36 PM Trip Canceled (46th St Station & Gate H)
-
-- **Affected Routes**: `Route 9` `Route 9C`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 9C trip departing 46th St Station & Gate H at 8:36 PM canceled
-
-[Official Agency Advisory](https://www.metrotransit.org/route/9)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 9C trip departing 46th St Station & Gate H at 8:36 PM canceled
-
-</details>
-
----
-
-### 🚨 Route 65: Service Canceled
-
-- **Affected Routes**: `Route 65`
-- **Direction**: All
-- **Severity**: `Critical`
-
-**Summary**: Route 65 canceled until later today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/65)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 65 canceled until later today
-
-</details>
-
----
-
-### 🚨 Route 72: Service Canceled
-
-- **Affected Routes**: `Route 72`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Pascal St N & Central Ave W; 50 PM
-departing Pascal St N & Central Ave W; 52 PM
-departing Pascal St N & Central Ave W
-
-**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 1:50 PM and eight other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/72)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 1:50 PM and eight other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Pascal St N & Central Ave W at 2:50 PM
-departing Pascal St N & Central Ave W at 4:50 PM
-departing Pascal St N & Central Ave W at 6:52 PM
-departing Pascal St N & Central Ave W at 8:53 PM
-
-Affected westbound trips:
-departing Sun Ray Transit Center & Gate D at 1:50 PM
-departing Sun Ray Transit Center & Gate D at 3:48 PM
-departing Sun Ray Transit Center & Gate D at 5:48 PM
-departing Sun Ray Transit Center & Gate D at 7:51 PM
-departing Sun Ray Transit Center & Gate D at 9:51 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 219: Service Canceled
-
-- **Affected Routes**: `Route 219`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 219 trips departing Sun Ray Transit Center & Gate B at 8:13 PM and departing Maplewood Mall Transit Center & Gate A at 9:12 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/219)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 219 trips departing Sun Ray Transit Center & Gate B at 8:13 PM and departing Maplewood Mall Transit Center & Gate A at 9:12 PM canceled today
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -4741,6 +4630,25 @@ Route 74 will drop off in the morning and pickup in the afternoon at Johnson Hig
 
 Route 64 trips will pickup in the afternoon at Johnson High School & Gate C - Stop #54048 (eastbound)
 ```
+
+</details>
+
+---
+
+### ℹ️ Route 74: Service Advisory
+
+- **Affected Routes**: `Route 74`
+- **Direction**: Westbound
+- **Severity**: `Minor`
+
+**Summary**: Westbound Route 74 trip departing Sun Ray Transit Center & Gate D at 3:28 AM experiencing 20-25 minute delays today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/74)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 74 trip departing Sun Ray Transit Center & Gate D at 3:28 AM experiencing 20-25 minute delays today
 
 </details>
 
