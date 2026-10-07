@@ -1,397 +1,67 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-06T22:35:28.849Z",
-    "totalAlerts": 121,
-    "criticalCount": 12,
+    "generatedAt": "2026-10-07T02:13:29.060Z",
+    "totalAlerts": 114,
+    "criticalCount": 5,
     "moderateCount": 106,
     "minorCount": 3,
-    "affectedRoutesCount": 79,
+    "affectedRoutesCount": 78,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "53869",
+      "id": "53890",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO D Line: Service Canceled",
-      "summary": "D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 1:41 PM and two other trips canceled today",
+      "title": "METRO B Line: Westbound 7:32 PM Trip Canceled (Union Depot & Gate A1)",
+      "summary": "Westbound B Line trip departing Union Depot & Gate A1 at 7:32 PM canceled today due to maintenance work",
       "affectedRoutes": [
-        "METRO D Line"
+        "METRO B Line"
       ],
-      "direction": "Both Directions",
+      "direction": "Westbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-06T18:41:00.000Z",
-        "end": "2026-10-07T00:20:00.000Z"
+        "start": "2026-10-07T00:32:00.000Z",
+        "end": "2026-10-07T02:34:00.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-10-06T18:11:01.000Z",
-      "rawHeader": "D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 1:41 PM and two other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting MOA Transit Station Gate A at 3:19 PM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 1:41 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 4:58 PM"
-    },
-    {
-      "id": "53885",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 9, Route 9A: Eastbound 3:38 PM Trip Canceled (Hedberg Dr & Cedar Lake Rd/Greenbrier Rd)",
-      "summary": "Eastbound Route 9A trip departing Hedberg Dr & Cedar Lake Rd/Greenbrier Rd at 3:38 PM canceled from 8th & Nicollet at 4:15 PM today due to collision",
-      "affectedRoutes": [
-        "Route 9",
-        "Route 9A"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [
-        "80925",
-        "80926",
-        "57498",
-        "17907",
-        "17908",
-        "17910",
-        "17911",
-        "40176",
-        "51532",
-        "51551",
-        "51557",
-        "51649",
-        "15664",
-        "15668",
-        "16444",
-        "16445",
-        "16447",
-        "16453",
-        "16455",
-        "16457",
-        "16459",
-        "16460",
-        "16461",
-        "16462",
-        "16463",
-        "16464",
-        "16465",
-        "16466",
-        "16467",
-        "16468",
-        "16469",
-        "16476",
-        "16477",
-        "16478",
-        "16479",
-        "16480",
-        "16481",
-        "16482",
-        "16603",
-        "16605",
-        "16606",
-        "16607",
-        "16795",
-        "16797",
-        "16799",
-        "19338",
-        "15346",
-        "15347",
-        "15348",
-        "13275",
-        "13310"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "80925"
-        },
-        {
-          "id": "80926"
-        },
-        {
-          "id": "57498"
-        },
-        {
-          "id": "17907"
-        },
-        {
-          "id": "17908"
-        },
-        {
-          "id": "17910"
-        },
-        {
-          "id": "17911"
-        },
-        {
-          "id": "40176"
-        },
-        {
-          "id": "51532"
-        },
-        {
-          "id": "51551"
-        },
-        {
-          "id": "51557"
-        },
-        {
-          "id": "51649"
-        },
-        {
-          "id": "15664"
-        },
-        {
-          "id": "15668"
-        },
-        {
-          "id": "16444"
-        },
-        {
-          "id": "16445"
-        },
-        {
-          "id": "16447"
-        },
-        {
-          "id": "16453"
-        },
-        {
-          "id": "16455"
-        },
-        {
-          "id": "16457"
-        },
-        {
-          "id": "16459"
-        },
-        {
-          "id": "16460"
-        },
-        {
-          "id": "16461"
-        },
-        {
-          "id": "16462"
-        },
-        {
-          "id": "16463"
-        },
-        {
-          "id": "16464"
-        },
-        {
-          "id": "16465"
-        },
-        {
-          "id": "16466"
-        },
-        {
-          "id": "16467"
-        },
-        {
-          "id": "16468"
-        },
-        {
-          "id": "16469"
-        },
-        {
-          "id": "16476"
-        },
-        {
-          "id": "16477"
-        },
-        {
-          "id": "16478"
-        },
-        {
-          "id": "16479"
-        },
-        {
-          "id": "16480"
-        },
-        {
-          "id": "16481"
-        },
-        {
-          "id": "16482"
-        },
-        {
-          "id": "16603"
-        },
-        {
-          "id": "16605"
-        },
-        {
-          "id": "16606"
-        },
-        {
-          "id": "16607"
-        },
-        {
-          "id": "16795"
-        },
-        {
-          "id": "16797"
-        },
-        {
-          "id": "16799"
-        },
-        {
-          "id": "19338"
-        },
-        {
-          "id": "15346"
-        },
-        {
-          "id": "15347"
-        },
-        {
-          "id": "15348"
-        },
-        {
-          "id": "13275"
-        },
-        {
-          "id": "13310"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-06T21:42:00.000Z",
-        "end": "2026-10-06T23:01:00.000Z"
-      },
-      "cause": "ACCIDENT",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/9",
-      "updatedAt": "2026-10-06T21:43:46.000Z",
-      "rawHeader": "Eastbound Route 9A trip departing Hedberg Dr & Cedar Lake Rd/Greenbrier Rd at 3:38 PM canceled from 8th & Nicollet at 4:15 PM today due to collision",
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-10-07T00:33:03.000Z",
+      "rawHeader": "Westbound B Line trip departing Union Depot & Gate A1 at 7:32 PM canceled today due to maintenance work",
       "rawDescription": ""
     },
     {
-      "id": "53886",
+      "id": "53893",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 54: Westbound 4:05 PM Trip Canceled (Maplewood Mall Transit Center & Gate B)",
-      "summary": "Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 4:05 PM canceled from 6th & Minnesota at 4:41 PM today due to traffic",
+      "title": "Route 9, Route 9C: Westbound 8:36 PM Trip Canceled (46th St Station & Gate H)",
+      "summary": "Westbound Route 9C trip departing 46th St Station & Gate H at 8:36 PM canceled",
       "affectedRoutes": [
-        "Route 54"
+        "Route 9",
+        "Route 9C"
       ],
       "direction": "Westbound",
       "intersections": [],
-      "closedStopIds": [
-        "10359",
-        "10366",
-        "13117",
-        "13121",
-        "13128",
-        "13130",
-        "13132",
-        "13140",
-        "11863",
-        "11865",
-        "11694",
-        "11698",
-        "4611",
-        "41253",
-        "41258",
-        "3264",
-        "48548",
-        "57019",
-        "57417",
-        "56875",
-        "56939",
-        "47485",
-        "42441",
-        "56598"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "10359"
-        },
-        {
-          "id": "10366"
-        },
-        {
-          "id": "13117"
-        },
-        {
-          "id": "13121"
-        },
-        {
-          "id": "13128"
-        },
-        {
-          "id": "13130"
-        },
-        {
-          "id": "13132"
-        },
-        {
-          "id": "13140"
-        },
-        {
-          "id": "11863"
-        },
-        {
-          "id": "11865"
-        },
-        {
-          "id": "11694"
-        },
-        {
-          "id": "11698"
-        },
-        {
-          "id": "4611"
-        },
-        {
-          "id": "41253"
-        },
-        {
-          "id": "41258"
-        },
-        {
-          "id": "3264"
-        },
-        {
-          "id": "48548"
-        },
-        {
-          "id": "57019"
-        },
-        {
-          "id": "57417"
-        },
-        {
-          "id": "56875"
-        },
-        {
-          "id": "56939"
-        },
-        {
-          "id": "47485"
-        },
-        {
-          "id": "42441"
-        },
-        {
-          "id": "56598"
-        }
-      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-06T22:08:00.000Z",
-        "end": "2026-10-06T23:17:00.000Z"
+        "start": "2026-10-07T01:36:00.000Z",
+        "end": "2026-10-07T03:42:00.000Z"
       },
-      "cause": "OTHER_CAUSE",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/54",
-      "updatedAt": "2026-10-06T22:09:58.000Z",
-      "rawHeader": "Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 4:05 PM canceled from 6th & Minnesota at 4:41 PM today due to traffic",
+      "url": "https://www.metrotransit.org/route/9",
+      "updatedAt": "2026-10-07T01:35:30.000Z",
+      "rawHeader": "Westbound Route 9C trip departing 46th St Station & Gate H at 8:36 PM canceled",
       "rawDescription": ""
     },
     {
@@ -411,7 +81,7 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-10-06T21:18:00.000Z",
-        "end": "2026-10-07T00:34:24.000Z"
+        "end": "2026-10-07T04:12:23.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
@@ -451,207 +121,30 @@
       "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 2:50 PM\r\ndeparting Pascal St N & Central Ave W at 4:50 PM\r\ndeparting Pascal St N & Central Ave W at 6:52 PM\r\ndeparting Pascal St N & Central Ave W at 8:53 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 1:50 PM\r\ndeparting Sun Ray Transit Center & Gate D at 3:48 PM\r\ndeparting Sun Ray Transit Center & Gate D at 5:48 PM\r\ndeparting Sun Ray Transit Center & Gate D at 7:51 PM\r\ndeparting Sun Ray Transit Center & Gate D at 9:51 PM"
     },
     {
-      "id": "53884",
+      "id": "53892",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 542: Eastbound 4:29 PM Trip Canceled (American Blvd & Social Security Admin)",
-      "summary": "Eastbound Route 542 trip departing American Blvd & Social Security Admin at 4:29 PM canceled today",
+      "title": "Route 219: Service Canceled",
+      "summary": "Route 219 trips departing Sun Ray Transit Center & Gate B at 8:13 PM and departing Maplewood Mall Transit Center & Gate A at 9:12 PM canceled today",
       "affectedRoutes": [
-        "Route 542"
+        "Route 219"
       ],
-      "direction": "Eastbound",
+      "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-06T21:29:00.000Z",
-        "end": "2026-10-06T22:58:00.000Z"
+        "start": "2026-10-07T01:13:00.000Z",
+        "end": "2026-10-07T04:01:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/542",
-      "updatedAt": "2026-10-06T21:23:19.000Z",
-      "rawHeader": "Eastbound Route 542 trip departing American Blvd & Social Security Admin at 4:29 PM canceled today",
+      "url": "https://www.metrotransit.org/route/219",
+      "updatedAt": "2026-10-07T01:12:47.000Z",
+      "rawHeader": "Route 219 trips departing Sun Ray Transit Center & Gate B at 8:13 PM and departing Maplewood Mall Transit Center & Gate A at 9:12 PM canceled today",
       "rawDescription": ""
-    },
-    {
-      "id": "53879",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 724: Service Canceled",
-      "summary": "Route 724 trip departing Xenia Ave N & Oak Grove Pkwy N at 3:09 PM and three other trips canceled today",
-      "affectedRoutes": [
-        "Route 724"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 724 trip departing Xenia Ave N & Oak Grove Pkwy N",
-        "departing Xenia Ave N & Oak Grove Pkwy N"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-06T20:09:00.000Z",
-        "end": "2026-10-06T23:23:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/724",
-      "updatedAt": "2026-10-06T19:39:00.000Z",
-      "rawHeader": "Route 724 trip departing Xenia Ave N & Oak Grove Pkwy N at 3:09 PM and three other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate C at 4:00 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate C at 5:00 PM\r\n\nAffected southbound trips:\r\ndeparting Xenia Ave N & Oak Grove Pkwy N at 3:09 PM\r\ndeparting Starlite Transit Center & Gate A at 4:30 PM"
-    },
-    {
-      "id": "53860",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 802: Service Canceled",
-      "summary": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 802"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-06T16:34:00.000Z",
-        "end": "2026-10-07T00:14:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-10-06T16:04:01.000Z",
-      "rawHeader": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to mechanical issue",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 11:34 AM\r\ndeparting Northtown Transit Ctr Gate E at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 12:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 2:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 4:42 PM"
-    },
-    {
-      "id": "53861",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 805: Service Canceled",
-      "summary": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 805"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 805 trip departing 1st Ave S & Monroe St",
-        "departing 1st Ave S & Monroe St",
-        "38 AM\ndeparting 1st Ave S & Monroe St",
-        "38 PM\ndeparting 1st Ave S & Monroe St",
-        "36 PM\ndeparting 1st Ave S & Monroe St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-06T16:38:00.000Z",
-        "end": "2026-10-07T00:24:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-10-06T16:08:01.000Z",
-      "rawHeader": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 11:38 AM\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
-    },
-    {
-      "id": "53870",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 827: Service Canceled",
-      "summary": "Route 827 trip departing 2nd Ave S & 11th St - Stop Group G at 2:13 PM and two other trips canceled today",
-      "affectedRoutes": [
-        "Route 827"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 827 trip departing 2nd Ave S & 11th St",
-        "departing 2nd Ave S & 11th St",
-        "13 PM\ndeparting 2nd Ave S & 11th St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-06T19:13:00.000Z",
-        "end": "2026-10-06T23:28:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/827",
-      "updatedAt": "2026-10-06T18:43:01.000Z",
-      "rawHeader": "Route 827 trip departing 2nd Ave S & 11th St - Stop Group G at 2:13 PM and two other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting 2nd Ave S & 11th St - Stop Group G at 2:13 PM\r\ndeparting 2nd Ave S & 11th St - Stop Group G at 4:42 PM\r\n\nAffected southbound trips:\r\ndeparting Northtown Transit Ctr Gate C at 3:11 PM"
-    },
-    {
-      "id": "53876",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 827: Service Canceled",
-      "summary": "Route 827 trip departing 2nd Ave S & 11th St - Stop Group G at 2:13 PM and two other trips canceled today",
-      "affectedRoutes": [
-        "Route 827"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 827 trip departing 2nd Ave S & 11th St",
-        "departing 2nd Ave S & 11th St",
-        "13 PM\ndeparting 2nd Ave S & 11th St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-06T19:13:00.000Z",
-        "end": "2026-10-06T23:28:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/827",
-      "updatedAt": "2026-10-06T19:14:22.000Z",
-      "rawHeader": "Route 827 trip departing 2nd Ave S & 11th St - Stop Group G at 2:13 PM and two other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting 2nd Ave S & 11th St - Stop Group G at 2:13 PM\r\ndeparting 2nd Ave S & 11th St - Stop Group G at 4:42 PM\r\n\nAffected southbound trips:\r\ndeparting Northtown Transit Ctr Gate C at 3:11 PM"
-    },
-    {
-      "id": "53880",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 888: Service Canceled",
-      "summary": "Route 888 trip departing 2nd Ave S & 11th St - Stop Group G at 3:40 PM and two other trips canceled today",
-      "affectedRoutes": [
-        "Route 888"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 888 trip departing 2nd Ave S & 11th St",
-        "departing 2nd Ave S & 11th St",
-        "40 PM\ndeparting 2nd Ave S & 11th St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-06T20:40:00.000Z",
-        "end": "2026-10-07T01:06:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/888",
-      "updatedAt": "2026-10-06T20:10:01.000Z",
-      "rawHeader": "Route 888 trip departing 2nd Ave S & 11th St - Stop Group G at 3:40 PM and two other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting 2nd Ave S & 11th St - Stop Group G at 3:40 PM\r\ndeparting 2nd Ave S & 11th St - Stop Group G at 6:10 PM\r\n\nAffected southbound trips:\r\ndeparting Veterans Dr & Ramsey P&R at 4:48 PM"
     },
     {
       "id": "52943",
@@ -1201,7 +694,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-10-06T07:56:01.000Z",
+      "updatedAt": "2026-10-07T02:00:00.000Z",
       "rawHeader": "Route 2 detoured off Washington Ave from Oak St to Cedar Ave and off 4th St SE from Oak St to 15th Ave SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure",
       "rawDescription": "For eastbound Route 2 get on/off buses at:\r\nCedar Ave S & 3rd St S - Stop #13219 (northbound)\r\n4th St & 15th Ave Station - Stop #16112 (westbound)\r\n\nFor westbound Route 2 get on/off buses at:\r\nUniversity & U of M Rec Center Station - Stop #16142 (eastbound)\r\n3rd St S & Cedar Ave S - Stop #42452 (eastbound)\r\n\nEastbound buses will travel regular route on Cedar Ave to 3rd St, continue on Cedar to Washington Ave/15th Ave S, right on Washington, left on 19th Ave S and continue across the bridge which becomes 10th Ave SE, right on 6th St SE, right on 15th Ave SE, right on 4th St SE, and resume regular route.\r\n\nWestbound buses will travel regular route on Oak St to Washington Ave, left on Washington, right on Huron Blvd and continue onto westbound I-94 ramp, exit at Cedar Ave, right on Cedar, right on 3rd St, and resume regular route.\r\n\nAffected stops:\r\nWashington Ramp & Cedar Ave S - Stop #13221 (eastbound)\r\nWashington Ave & Anderson Hall - Stop #13223 (eastbound)\r\nWashington Ave & Coffman Union - Stop #13209 (eastbound)\r\nOak St SE & University Ave SE - Stop #41243 (northbound)\r\n4th St & Ridder Arena Station - Stop #16154 (westbound)\r\nOak St SE & Washington Ave SE - Stop #41248 (southbound)\r\nWashington Ave & Coffman Union - Stop #13207 (westbound)\r\nWashington Ave & Willey Hall - Stop #13211 (westbound)"
     },
@@ -1456,7 +949,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-10-06T07:56:01.000Z",
+      "updatedAt": "2026-10-07T02:00:00.000Z",
       "rawHeader": "Route 3 detoured off Washington Ave from Cedar Ave to Pleasant St and off Pleasant St from Washington Ave to 4th St SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure",
       "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nWashington Ave S & 15th Ave S - Stop #57023 (eastbound)\r\n3rd St S & Cedar Ave S - Stop #42452 (eastbound)\r\n15th Ave SE & 4th St SE - Stop #16111 (northbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\n15th Ave SE & 4th St SE - Stop #49242 (southbound)\r\nTemporary stop on Washington Ave/15th Ave S & Washington Ave/Cedar Ave, in front of Town Hall Brewery (southbound)\r\nWashington Ave S & 11th Ave S - Stop #19302 (westbound)\r\n\nEastbound buses will travel regular route on Cedar Ave to 3rd St, left on 3rd St (buses do not travel down ramp), left on 19th Ave S and continue across bridge which becomes 10th Ave SE, right on University Ave, left on 15th Ave SE, and resume regular route.\r\n\nWestbound buses will travel regular route on 15th Ave SE to 4th St SE, right on 4th St, left on 10th Ave SE and continue across bridge which becomes 19th Ave S, right on Washington Ave/2nd St S, right on Washington Ave/Cedar Ave, and resume regular route.\r\n\nAffected stops:\r\nWashington Ramp & Cedar Ave S - Stop #13221 (eastbound)\r\nWashington Ave & Anderson Hall - Stop #13223 (eastbound)\r\nE River Pkwy & Appleby Hall - Stop #57013 (northbound)\r\nPleasant St & Jones Hall - Stop #49881 (northbound)\r\nPleasant St & Eddy Hall - Stop #49237 (southbound)\r\nPleasant St SE & Scholars Walk - Stop #54046 (southbound)\r\nWashington Ave & Willey Hall - Stop #13211 (westbound)\r\nCedar Ave S & Washington Ave (15th Ave) - Stop #16325 (westbound)"
     },

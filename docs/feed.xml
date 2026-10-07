@@ -4,35 +4,26 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Tue, 06 Oct 2026 22:35:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 02:13:29 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO D Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-53869-2026-10-06T18:11:01.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 18:11:01 GMT</pubDate>
+      <title>[Critical] METRO B Line: Westbound 7:32 PM Trip Canceled (Union Depot &amp; Gate A1)</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-53890-2026-10-07T00:33:03.000Z</guid>
+      <pubDate>Wed, 07 Oct 2026 00:33:03 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 1:41 PM and two other trips canceled today</description>
+      <category>METRO B Line</category>
+      <description>Westbound B Line trip departing Union Depot &amp; Gate A1 at 7:32 PM canceled today due to maintenance work</description>
     </item>
     <item>
-      <title>[Critical] Route 9, Route 9A: Eastbound 3:38 PM Trip Canceled (Hedberg Dr &amp; Cedar Lake Rd/Greenbrier Rd)</title>
+      <title>[Critical] Route 9, Route 9C: Westbound 8:36 PM Trip Canceled (46th St Station &amp; Gate H)</title>
       <link>https://www.metrotransit.org/route/9</link>
-      <guid isPermaLink="false">Metro Transit-53885-2026-10-06T21:43:46.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 21:43:46 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53893-2026-10-07T01:35:30.000Z</guid>
+      <pubDate>Wed, 07 Oct 2026 01:35:30 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 9, Route 9A</category>
-      <description>Eastbound Route 9A trip departing Hedberg Dr &amp; Cedar Lake Rd/Greenbrier Rd at 3:38 PM canceled from 8th &amp; Nicollet at 4:15 PM today due to collision</description>
-    </item>
-    <item>
-      <title>[Critical] Route 54: Westbound 4:05 PM Trip Canceled (Maplewood Mall Transit Center &amp; Gate B)</title>
-      <link>https://www.metrotransit.org/route/54</link>
-      <guid isPermaLink="false">Metro Transit-53886-2026-10-06T22:09:58.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 22:09:58 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 54</category>
-      <description>Westbound Route 54 trip departing Maplewood Mall Transit Center &amp; Gate B at 4:05 PM canceled from 6th &amp; Minnesota at 4:41 PM today due to traffic</description>
+      <category>Route 9, Route 9C</category>
+      <description>Westbound Route 9C trip departing 46th St Station &amp; Gate H at 8:36 PM canceled</description>
     </item>
     <item>
       <title>[Critical] Route 65: Service Canceled</title>
@@ -53,67 +44,13 @@
       <description>Route 72 trip departing Sun Ray Transit Center &amp; Gate D at 1:50 PM and eight other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 542: Eastbound 4:29 PM Trip Canceled (American Blvd &amp; Social Security Admin)</title>
-      <link>https://www.metrotransit.org/route/542</link>
-      <guid isPermaLink="false">Metro Transit-53884-2026-10-06T21:23:19.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 21:23:19 GMT</pubDate>
+      <title>[Critical] Route 219: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/219</link>
+      <guid isPermaLink="false">Metro Transit-53892-2026-10-07T01:12:47.000Z</guid>
+      <pubDate>Wed, 07 Oct 2026 01:12:47 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 542</category>
-      <description>Eastbound Route 542 trip departing American Blvd &amp; Social Security Admin at 4:29 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 724: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/724</link>
-      <guid isPermaLink="false">Metro Transit-53879-2026-10-06T19:39:00.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 19:39:00 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 724</category>
-      <description>Route 724 trip departing Xenia Ave N &amp; Oak Grove Pkwy N at 3:09 PM and three other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 802: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/802</link>
-      <guid isPermaLink="false">Metro Transit-53860-2026-10-06T16:04:01.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 16:04:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 802</category>
-      <description>Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 805: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/805</link>
-      <guid isPermaLink="false">Metro Transit-53861-2026-10-06T16:08:01.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 16:08:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 805</category>
-      <description>Route 805 trip departing 1st Ave S &amp; Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 827: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/827</link>
-      <guid isPermaLink="false">Metro Transit-53870-2026-10-06T18:43:01.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 18:43:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 827</category>
-      <description>Route 827 trip departing 2nd Ave S &amp; 11th St - Stop Group G at 2:13 PM and two other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 827: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/827</link>
-      <guid isPermaLink="false">Metro Transit-53876-2026-10-06T19:14:22.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 19:14:22 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 827</category>
-      <description>Route 827 trip departing 2nd Ave S &amp; 11th St - Stop Group G at 2:13 PM and two other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 888: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/888</link>
-      <guid isPermaLink="false">Metro Transit-53880-2026-10-06T20:10:01.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 20:10:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 888</category>
-      <description>Route 888 trip departing 2nd Ave S &amp; 11th St - Stop Group G at 3:40 PM and two other trips canceled today</description>
+      <category>Route 219</category>
+      <description>Route 219 trips departing Sun Ray Transit Center &amp; Gate B at 8:13 PM and departing Maplewood Mall Transit Center &amp; Gate A at 9:12 PM canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -181,8 +118,8 @@
     <item>
       <title>[Moderate] Route 2: Detour via Cedar Ave S &amp; 3rd St S</title>
       <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-53614-2026-10-06T07:56:01.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 07:56:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53614-2026-10-07T02:00:00.000Z</guid>
+      <pubDate>Wed, 07 Oct 2026 02:00:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 2</category>
       <description>Route 2 detoured off Washington Ave from Oak St to Cedar Ave and off 4th St SE from Oak St to 15th Ave SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure. Board at: Cedar Ave S &amp; 3rd St S - Stop #13219 (northbound); 4th St &amp; 15th Ave Station - Stop #16112 (westbound). | Action: Board at: Cedar Ave S &amp; 3rd St S - Stop #13219 (northbound); 4th St &amp; 15th Ave Station - Stop #16112 (westbound)</description>
@@ -199,8 +136,8 @@
     <item>
       <title>[Moderate] Route 3: Detour via Washington Ave S &amp; 15th Ave S</title>
       <link>https://www.metrotransit.org/route/3</link>
-      <guid isPermaLink="false">Metro Transit-53615-2026-10-06T07:56:01.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 07:56:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53615-2026-10-07T02:00:00.000Z</guid>
+      <pubDate>Wed, 07 Oct 2026 02:00:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 3</category>
       <description>Route 3 detoured off Washington Ave from Cedar Ave to Pleasant St and off Pleasant St from Washington Ave to 4th St SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure. Board at: Washington Ave S &amp; 15th Ave S - Stop #57023 (eastbound); 3rd St S &amp; Cedar Ave S - Stop #42452 (eastbound); 15th Ave SE &amp; 4th St SE - Stop #16111 (northbound). | Action: Board at: Washington Ave S &amp; 15th Ave S - Stop #57023 (eastbound); 3rd St S &amp; Cedar Ave S - Stop #42452 (eastbound); 15th Ave SE &amp; 4th St SE - Stop #16111 (northbound)</description>
