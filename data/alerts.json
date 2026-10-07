@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-07T17:45:22.299Z",
-    "totalAlerts": 111,
-    "criticalCount": 2,
-    "moderateCount": 106,
+    "generatedAt": "2026-10-07T22:59:49.726Z",
+    "totalAlerts": 117,
+    "criticalCount": 10,
+    "moderateCount": 104,
     "minorCount": 3,
     "affectedRoutesCount": 78,
     "agencies": [
@@ -12,31 +12,793 @@
   },
   "alerts": [
     {
-      "id": "53904",
+      "id": "53917",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 801: Service Canceled",
-      "summary": "Route 801 trips departing Rosedale Transit Center Gate B at 12:21 PM and departing Bass Lake Rd & Northway Dr at 1:22 PM canceled today",
+      "title": "METRO E Line: Southbound 4:49 PM Trip Canceled (Westgate Station - Gate A)",
+      "summary": "Southbound E Line trip departing Westgate Station - Gate A at 4:49 PM canceled today",
       "affectedRoutes": [
-        "Route 801"
+        "METRO E Line"
       ],
-      "direction": "Both Directions",
-      "intersections": [
-        "21 PM and departing Bass Lake Rd & Northway Dr"
-      ],
+      "direction": "Southbound",
+      "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-07T17:21:00.000Z",
-        "end": "2026-10-07T20:06:00.000Z"
+        "start": "2026-10-07T21:59:00.000Z",
+        "end": "2026-10-07T23:53:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/801",
-      "updatedAt": "2026-10-07T16:51:01.000Z",
-      "rawHeader": "Route 801 trips departing Rosedale Transit Center Gate B at 12:21 PM and departing Bass Lake Rd & Northway Dr at 1:22 PM canceled today",
+      "url": "https://www.metrotransit.org/route/eline",
+      "updatedAt": "2026-10-07T22:00:15.000Z",
+      "rawHeader": "Southbound E Line trip departing Westgate Station - Gate A at 4:49 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "53920",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO E Line: Northbound 5:10 PM Trip Canceled (Southdale Transit Center - Gate A)",
+      "summary": "Northbound E Line trip departing Southdale Transit Center - Gate A at 5:10 PM canceled today",
+      "affectedRoutes": [
+        "METRO E Line"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-07T22:54:00.000Z",
+        "end": "2026-10-08T00:11:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/eline",
+      "updatedAt": "2026-10-07T22:55:46.000Z",
+      "rawHeader": "Northbound E Line trip departing Southdale Transit Center - Gate A at 5:10 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "53918",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 2: Westbound 4:08 PM Trip Canceled (2nd Ave SE & 7th St SE)",
+      "summary": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 4:08 PM canceled from Franklin & Hiawatha at 4:39 PM today due to traffic",
+      "affectedRoutes": [
+        "Route 2"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [
+        "80923",
+        "80924",
+        "80928",
+        "56910",
+        "56911",
+        "56137",
+        "57469",
+        "51533",
+        "52241",
+        "52242",
+        "50164",
+        "4667",
+        "20031",
+        "50160",
+        "4663",
+        "17761",
+        "13309",
+        "13335",
+        "177",
+        "15630",
+        "1096"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "80923"
+        },
+        {
+          "id": "80924"
+        },
+        {
+          "id": "80928"
+        },
+        {
+          "id": "56910"
+        },
+        {
+          "id": "56911"
+        },
+        {
+          "id": "56137"
+        },
+        {
+          "id": "57469"
+        },
+        {
+          "id": "51533"
+        },
+        {
+          "id": "52241"
+        },
+        {
+          "id": "52242"
+        },
+        {
+          "id": "50164"
+        },
+        {
+          "id": "4667"
+        },
+        {
+          "id": "20031"
+        },
+        {
+          "id": "50160"
+        },
+        {
+          "id": "4663"
+        },
+        {
+          "id": "17761"
+        },
+        {
+          "id": "13309"
+        },
+        {
+          "id": "13335"
+        },
+        {
+          "id": "177"
+        },
+        {
+          "id": "15630"
+        },
+        {
+          "id": "1096"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-07T22:00:00.000Z",
+        "end": "2026-10-07T23:03:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/2",
+      "updatedAt": "2026-10-07T22:01:37.000Z",
+      "rawHeader": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 4:08 PM canceled from Franklin & Hiawatha at 4:39 PM today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "53921",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 2: Both Directions 5:38 PM Trip Canceled (2nd Ave SE & 7th St SE)",
+      "summary": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 5:38 PM canceled from University & 15th at 5:47 PM today",
+      "affectedRoutes": [
+        "Route 2"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Ontario St SE & Beacon St",
+        "Oak St SE & Washington Ave S",
+        "Washington Ave & Coffman Union - St",
+        "Washington Ave & Willey Hall - St",
+        "3rd St S & Cedar Ave S"
+      ],
+      "closedStopIds": [
+        "16137",
+        "16142",
+        "50670",
+        "41248",
+        "13207",
+        "13211",
+        "42452",
+        "42454",
+        "56706",
+        "13231",
+        "13239",
+        "56704",
+        "56703",
+        "13259",
+        "13267",
+        "13279",
+        "51533",
+        "15630",
+        "56137",
+        "13309",
+        "56910",
+        "56911",
+        "50164",
+        "52241",
+        "52242",
+        "17761",
+        "80923",
+        "80924",
+        "80928",
+        "4663",
+        "4667",
+        "20031",
+        "177",
+        "13335",
+        "1096",
+        "57469",
+        "50160"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "16137",
+          "name": "University & 15th Ave Station",
+          "direction": "eastbound"
+        },
+        {
+          "id": "16142",
+          "name": "University & U of M Rec Center Station",
+          "direction": "eastbound"
+        },
+        {
+          "id": "50670",
+          "name": "Ontario St SE & Beacon St",
+          "direction": "southbound"
+        },
+        {
+          "id": "41248",
+          "name": "Oak St SE & Washington Ave SE",
+          "direction": "southbound"
+        },
+        {
+          "id": "13207",
+          "name": "Washington Ave & Coffman Union",
+          "direction": "westbound"
+        },
+        {
+          "id": "13211",
+          "name": "Washington Ave & Willey Hall",
+          "direction": "westbound"
+        },
+        {
+          "id": "42452",
+          "name": "3rd St S & Cedar Ave S",
+          "direction": "eastbound"
+        },
+        {
+          "id": "42454",
+          "name": "19th Ave S & 4th St/ Riverside Ave",
+          "direction": "southbound"
+        },
+        {
+          "id": "56706",
+          "name": "Riverside Ave S & 20th Ave S",
+          "direction": "eastbound"
+        },
+        {
+          "id": "13231",
+          "name": "Riverside Ave & 22nd Ave S",
+          "direction": "eastbound"
+        },
+        {
+          "id": "13239",
+          "name": "Riverside Ave & 25th Ave S",
+          "direction": "eastbound"
+        },
+        {
+          "id": "56704",
+          "name": "25th Ave S & Butler Place",
+          "direction": "southbound"
+        },
+        {
+          "id": "56703",
+          "name": "26th Ave S & Seward Tower West",
+          "direction": "southbound"
+        },
+        {
+          "id": "13259",
+          "name": "Franklin Ave E & 24th Ave S",
+          "direction": "westbound"
+        },
+        {
+          "id": "13267",
+          "name": "Franklin Ave E & 22nd Ave S",
+          "direction": "westbound"
+        },
+        {
+          "id": "13279",
+          "name": "Franklin Ave E & Cedar Ave",
+          "direction": "westbound"
+        },
+        {
+          "id": "51533",
+          "name": "Franklin Ave E & Franklin Station",
+          "direction": "westbound"
+        },
+        {
+          "id": "15630",
+          "name": "Franklin Ave E & Bloomington Ave S",
+          "direction": "westbound"
+        },
+        {
+          "id": "56137",
+          "name": "Franklin Ave E & 14th Ave S",
+          "direction": "westbound"
+        },
+        {
+          "id": "13309",
+          "name": "Franklin Ave E & 10th Ave S",
+          "direction": "westbound"
+        },
+        {
+          "id": "56910",
+          "name": "Chicago & Franklin Station",
+          "direction": "southbound"
+        },
+        {
+          "id": "56911",
+          "name": "Chicago & 24th St Station",
+          "direction": "southbound"
+        },
+        {
+          "id": "50164",
+          "name": "26th St E & Chicago Ave S",
+          "direction": "westbound"
+        },
+        {
+          "id": "52241",
+          "name": "26th St E & Park Ave S",
+          "direction": "westbound"
+        },
+        {
+          "id": "52242",
+          "name": "26th St E & 5th Ave S",
+          "direction": "westbound"
+        },
+        {
+          "id": "17761",
+          "name": "26th St E & 3rd Ave S",
+          "direction": "westbound"
+        },
+        {
+          "id": "80923",
+          "name": "26th St E & 1st Ave S",
+          "direction": "westbound"
+        },
+        {
+          "id": "80924",
+          "name": "26th St E & Nicollet Ave",
+          "direction": "westbound"
+        },
+        {
+          "id": "80928",
+          "name": "24th St W & Nicollet Ave",
+          "direction": "westbound"
+        },
+        {
+          "id": "4663",
+          "name": "24th St W & Pleasant Ave S",
+          "direction": "westbound"
+        },
+        {
+          "id": "4667",
+          "name": "24th St W & Lyndale Ave S",
+          "direction": "westbound"
+        },
+        {
+          "id": "20031",
+          "name": "Lyndale Ave S & 22nd St W",
+          "direction": "northbound"
+        },
+        {
+          "id": "177",
+          "name": "Lyndale Ave S & Franklin Ave W",
+          "direction": "northbound"
+        },
+        {
+          "id": "13335",
+          "name": "Franklin Ave W & Lyndale Ave S",
+          "direction": "westbound"
+        },
+        {
+          "id": "1096",
+          "name": "Hennepin & Franklin Station",
+          "direction": "southbound"
+        },
+        {
+          "id": "57469",
+          "name": "Dupont Ave S & 22nd St E / Franklin Ave",
+          "direction": "northbound"
+        },
+        {
+          "id": "50160",
+          "name": "Uptown Transit Station - Gate C",
+          "direction": "westbound"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-07T22:56:00.000Z",
+        "end": "2026-10-08T00:28:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/2",
+      "updatedAt": "2026-10-07T22:57:50.000Z",
+      "rawHeader": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 5:38 PM canceled from University & 15th at 5:47 PM today",
+      "rawDescription": "Affected stops:\r\nUniversity & 15th Ave Station - Stop #16137 (eastbound)\r\nUniversity & U of M Rec Center Station - Stop #16142 (eastbound)\r\nOntario St SE & Beacon St - Stop #50670 (southbound)\r\nOak St SE & Washington Ave SE - Stop #41248 (southbound)\r\nWashington Ave & Coffman Union - Stop #13207 (westbound)\r\nWashington Ave & Willey Hall - Stop #13211 (westbound)\r\n3rd St S & Cedar Ave S - Stop #42452 (eastbound)\r\n19th Ave S & 4th St/ Riverside Ave - Stop #42454 (southbound)\r\nRiverside Ave S & 20th Ave S - Stop #56706 (eastbound)\r\nRiverside Ave & 22nd Ave S - Stop #13231 (eastbound)\r\nRiverside Ave & 25th Ave S - Stop #13239 (eastbound)\r\n25th Ave S & Butler Place - Stop #56704 (southbound)\r\n26th Ave S & Seward Tower West - Stop #56703 (southbound)\r\nFranklin Ave E & 24th Ave S - Stop #13259 (westbound)\r\nFranklin Ave E & 22nd Ave S - Stop #13267 (westbound)\r\nFranklin Ave E & Cedar Ave - Stop #13279 (westbound)\r\nFranklin Ave E & Franklin Station - Stop #51533 (westbound)\r\nFranklin Ave E & Bloomington Ave S - Stop #15630 (westbound)\r\nFranklin Ave E & 14th Ave S - Stop #56137 (westbound)\r\nFranklin Ave E & 10th Ave S - Stop #13309 (westbound)\r\nChicago & Franklin Station - Stop #56910 (southbound)\r\nChicago & 24th St Station - Stop #56911 (southbound)\r\n26th St E & Chicago Ave S - Stop #50164 (westbound)\r\n26th St E & Park Ave S - Stop #52241 (westbound)\r\n26th St E & 5th Ave S - Stop #52242 (westbound)\r\n26th St E & 3rd Ave S - Stop #17761 (westbound)\r\n26th St E & 1st Ave S - Stop #80923 (westbound)\r\n26th St E & Nicollet Ave - Stop #80924 (westbound)\r\n24th St W & Nicollet Ave - Stop #80928 (westbound)\r\n24th St W & Pleasant Ave S - Stop #4663 (westbound)\r\n24th St W & Lyndale Ave S - Stop #4667 (westbound)\r\nLyndale Ave S & 22nd St W - Stop #20031 (northbound)\r\nLyndale Ave S & Franklin Ave W - Stop #177 (northbound)\r\nFranklin Ave W & Lyndale Ave S - Stop #13335 (westbound)\r\nHennepin & Franklin Station - Stop #1096 (southbound)\r\nDupont Ave S & 22nd St E / Franklin Ave - Stop #57469 (northbound)\r\nUptown Transit Station - Gate C - Stop #50160 (westbound)"
+    },
+    {
+      "id": "53916",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 11, Route 11A: Southbound 4:09 PM Trip Canceled (Columbia Heights Transit Center C)",
+      "summary": "Southbound Route 11A trip departing Columbia Heights Transit Center C at 4:09 PM canceled from Lowry & 2nd at 4:24 PM today due to traffic",
+      "affectedRoutes": [
+        "Route 11",
+        "Route 11A"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [
+        "1197",
+        "1230",
+        "1231",
+        "12802",
+        "1229",
+        "15562",
+        "14650",
+        "14661",
+        "14665",
+        "14669",
+        "14673",
+        "14678",
+        "14681",
+        "14685",
+        "14689",
+        "14331",
+        "53461",
+        "53462",
+        "53544",
+        "53550",
+        "19294",
+        "19301",
+        "17821",
+        "17916",
+        "17917",
+        "42455",
+        "17986",
+        "17976",
+        "17978",
+        "17980",
+        "17982",
+        "17984",
+        "17704",
+        "17705",
+        "17706",
+        "17707",
+        "17708",
+        "17709",
+        "17711",
+        "17712",
+        "17713",
+        "17715",
+        "17716",
+        "17717",
+        "17718",
+        "17719",
+        "17720",
+        "17721",
+        "17722",
+        "17723",
+        "17724",
+        "17725",
+        "17726",
+        "17727",
+        "17728",
+        "17729",
+        "17730",
+        "57548",
+        "51827",
+        "51828"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "1197"
+        },
+        {
+          "id": "1230"
+        },
+        {
+          "id": "1231"
+        },
+        {
+          "id": "12802"
+        },
+        {
+          "id": "1229"
+        },
+        {
+          "id": "15562"
+        },
+        {
+          "id": "14650"
+        },
+        {
+          "id": "14661"
+        },
+        {
+          "id": "14665"
+        },
+        {
+          "id": "14669"
+        },
+        {
+          "id": "14673"
+        },
+        {
+          "id": "14678"
+        },
+        {
+          "id": "14681"
+        },
+        {
+          "id": "14685"
+        },
+        {
+          "id": "14689"
+        },
+        {
+          "id": "14331"
+        },
+        {
+          "id": "53461"
+        },
+        {
+          "id": "53462"
+        },
+        {
+          "id": "53544"
+        },
+        {
+          "id": "53550"
+        },
+        {
+          "id": "19294"
+        },
+        {
+          "id": "19301"
+        },
+        {
+          "id": "17821"
+        },
+        {
+          "id": "17916"
+        },
+        {
+          "id": "17917"
+        },
+        {
+          "id": "42455"
+        },
+        {
+          "id": "17986"
+        },
+        {
+          "id": "17976"
+        },
+        {
+          "id": "17978"
+        },
+        {
+          "id": "17980"
+        },
+        {
+          "id": "17982"
+        },
+        {
+          "id": "17984"
+        },
+        {
+          "id": "17704"
+        },
+        {
+          "id": "17705"
+        },
+        {
+          "id": "17706"
+        },
+        {
+          "id": "17707"
+        },
+        {
+          "id": "17708"
+        },
+        {
+          "id": "17709"
+        },
+        {
+          "id": "17711"
+        },
+        {
+          "id": "17712"
+        },
+        {
+          "id": "17713"
+        },
+        {
+          "id": "17715"
+        },
+        {
+          "id": "17716"
+        },
+        {
+          "id": "17717"
+        },
+        {
+          "id": "17718"
+        },
+        {
+          "id": "17719"
+        },
+        {
+          "id": "17720"
+        },
+        {
+          "id": "17721"
+        },
+        {
+          "id": "17722"
+        },
+        {
+          "id": "17723"
+        },
+        {
+          "id": "17724"
+        },
+        {
+          "id": "17725"
+        },
+        {
+          "id": "17726"
+        },
+        {
+          "id": "17727"
+        },
+        {
+          "id": "17728"
+        },
+        {
+          "id": "17729"
+        },
+        {
+          "id": "17730"
+        },
+        {
+          "id": "57548"
+        },
+        {
+          "id": "51827"
+        },
+        {
+          "id": "51828"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-07T21:42:00.000Z",
+        "end": "2026-10-07T23:14:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/11",
+      "updatedAt": "2026-10-07T21:46:18.000Z",
+      "rawHeader": "Southbound Route 11A trip departing Columbia Heights Transit Center C at 4:09 PM canceled from Lowry & 2nd at 4:24 PM today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "53910",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 30: Service Canceled",
+      "summary": "Route 30 trips departing Westgate Station - Gate B at 7:05 PM and departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM canceled today",
+      "affectedRoutes": [
+        "Route 30"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-08T00:05:00.000Z",
+        "end": "2026-10-08T02:35:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/30",
+      "updatedAt": "2026-10-07T17:57:28.000Z",
+      "rawHeader": "Route 30 trips departing Westgate Station - Gate B at 7:05 PM and departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "53908",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 71: Service Canceled",
+      "summary": "Route 71 trip departing Market Place Dr & The Marketplace Ctr at 1:14 PM and three other trips canceled today due to collision",
+      "affectedRoutes": [
+        "Route 71"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-07T18:14:00.000Z",
+        "end": "2026-10-08T00:51:00.000Z"
+      },
+      "cause": "ACCIDENT",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/71",
+      "updatedAt": "2026-10-07T17:51:47.000Z",
+      "rawHeader": "Route 71 trip departing Market Place Dr & The Marketplace Ctr at 1:14 PM and three other trips canceled today due to collision",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 2:38 PM\r\ndeparting Inver Hills College & Shelter at 5:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 1:14 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 4:10 PM"
+    },
+    {
+      "id": "53919",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 94: Westbound 4:39 PM Trip Canceled (Union Depot & Gate A1)",
+      "summary": "Westbound Route 94 trip departing Union Depot & Gate A1 at 4:39 PM canceled today due to traffic",
+      "affectedRoutes": [
+        "Route 94"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-07T22:11:00.000Z",
+        "end": "2026-10-07T23:21:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/94",
+      "updatedAt": "2026-10-07T22:12:12.000Z",
+      "rawHeader": "Westbound Route 94 trip departing Union Depot & Gate A1 at 4:39 PM canceled today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "53914",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 542: Eastbound 4:29 PM Trip Canceled (American Blvd & Social Security Admin)",
+      "summary": "Eastbound Route 542 trip departing American Blvd & Social Security Admin at 4:29 PM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "Route 542"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {},
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/542",
+      "updatedAt": "2026-10-07T22:58:01.000Z",
+      "rawHeader": "Eastbound Route 542 trip departing American Blvd & Social Security Admin at 4:29 PM canceled today due to maintenance work",
       "rawDescription": ""
     },
     {
@@ -1439,50 +2201,6 @@
       "rawDescription": "Get on/off northbound buses at:\r\n3rd Ave S & 11th St S - Stop #19277 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17988 (northbound)\r\n\nGet on/off southbound buses at:\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)\r\nLeamington Ramp & Lower - Gate #7 - Stop #19337\r\n\nNorthbound buses will travel regular route on 3rd Ave S to 11th St, continue on 3rd Ave to 16th St, right on 16th St which becomes 15th St, right on Nicollet Ave to Grant St, and resume regular route.\r\n\nSouthbound buses will travel regular route on Nicollet Mall to Grant St, continue on Nicollet Ave to 15th St, left on 15th St which becomes 16th St, left on 3rd Ave S, left on 11th St, and resume regular route.\r\n\nAffected stops:\r\n2nd Ave S & Convention Center - Stop #41911 (southbound)\r\nGrant St E & Nicollet Ave S - Stop #19327 (eastbound)\r\n2nd Ave S & Convention Center - Stop #19250 (northbound)"
     },
     {
-      "id": "53647",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 10, Route 11, Route 18, Route 25: Detour via Regular Corridor",
-      "summary": "Routes 10, 11, 18 and 25 detoured off Nicollet Mall from 12th St to 11th St from Mon Oct 5 at 9:00 AM to Wed Oct 7 at 4:00 PM due to construction. Board at: Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall & 9th St S - Stop #17992 (northbound).",
-      "affectedRoutes": [
-        "Route 10",
-        "Route 11",
-        "Route 18",
-        "Route 25"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [
-        "17990",
-        "17988",
-        "17992"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "17990",
-          "name": "Nicollet Mall & 11th St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "17988"
-        },
-        {
-          "id": "17992"
-        }
-      ],
-      "riderAlternative": "Board at: Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall & 9th St S - Stop #17992 (northbound)",
-      "detourDetails": "Northbound buses will travel the regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume the regular route.",
-      "activePeriod": {
-        "start": "2026-10-05T14:00:00.000Z",
-        "end": "2026-10-07T21:00:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
-      "updatedAt": "2026-10-07T05:00:01.000Z",
-      "rawHeader": "Routes 10, 11, 18 and 25 detoured off Nicollet Mall from 12th St to 11th St from Mon Oct 5 at 9:00 AM to Wed Oct 7 at 4:00 PM due to construction",
-      "rawDescription": "This detour will only be in effect when the road is blocked. \r\n\nGet on/off northbound buses at:\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\n\nNorthbound buses will travel the regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Nicollet Mall to 11th St, right on 11th st, left on Lasalle Ave, left on 12th St, right on Nicollet Mall, and resume the regular route. No southbound stops are missed.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)"
-    },
-    {
       "id": "53859",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -1697,48 +2415,6 @@
       "updatedAt": "2026-10-06T19:28:07.000Z",
       "rawHeader": "Northbound Route 14 detoured off West Broadway from Washington Ave to Lyndale Ave from 8:30 AM to 3:00 PM on Fri Oct 9 due to construction",
       "rawDescription": "Detour updated 10/6 at 2:30 PM to reflect regular southbound routing. \r\n\nGet on/off buses at:\r\nWashington Ave & 17th Ave N - Stop #16353 (northbound)\r\nWest Broadway & Aldrich Ave N - Stop #8306 (westbound)\r\n\nNorthbound buses will travel the regular route on Washington Ave to West Broadway, continue on Washington Ave, left on 26th Ave N, left on Lyndale Ave, right on West Broadway, and resume the regular route.\r\n\nSouthbound buses are not affected.\r\n\nAffected stops:\r\nWest Broadway & 4th St N - Stop #8316 (westbound)"
-    },
-    {
-      "id": "53646",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 17: Detour via Regular Corridor",
-      "summary": "Route 17 detoured off Nicollet Mall from 12th St to 11th St from Mon Oct 5 at 9:00 AM to Wed Oct 7 at 4:00 PM due to construction. Board at: Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall & 9th St S - Stop #17992 (northbound).",
-      "affectedRoutes": [
-        "Route 17"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [
-        "17990",
-        "17988",
-        "17992"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "17990",
-          "name": "Nicollet Mall & 11th St S",
-          "direction": "northbound"
-        },
-        {
-          "id": "17988"
-        },
-        {
-          "id": "17992"
-        }
-      ],
-      "riderAlternative": "Board at: Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall & 9th St S - Stop #17992 (northbound)",
-      "detourDetails": "Eastbound buses will travel the regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume the regular route.",
-      "activePeriod": {
-        "start": "2026-10-05T14:00:00.000Z",
-        "end": "2026-10-07T21:00:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-10-07T05:00:01.000Z",
-      "rawHeader": "Route 17 detoured off Nicollet Mall from 12th St to 11th St from Mon Oct 5 at 9:00 AM to Wed Oct 7 at 4:00 PM due to construction",
-      "rawDescription": "This detour will only be in effect when the road is blocked. \r\n\nGet on/off eastbound buses at:\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\n\nEastbound buses will travel the regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume the regular route.\r\n\nWestbound buses will travel the regular route on Nicollet Mall to 11th St, right on 11th st, left on Lasalle Ave, left on 12th St, right on Nicollet Mall, and resume the regular route. No westbound stops are missed.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)"
     },
     {
       "id": "53856",

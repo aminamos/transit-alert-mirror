@@ -4,17 +4,89 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Wed, 07 Oct 2026 17:45:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:59:49 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 801: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/801</link>
-      <guid isPermaLink="false">Metro Transit-53904-2026-10-07T16:51:01.000Z</guid>
-      <pubDate>Wed, 07 Oct 2026 16:51:01 GMT</pubDate>
+      <title>[Critical] METRO E Line: Southbound 4:49 PM Trip Canceled (Westgate Station - Gate A)</title>
+      <link>https://www.metrotransit.org/route/eline</link>
+      <guid isPermaLink="false">Metro Transit-53917-2026-10-07T22:00:15.000Z</guid>
+      <pubDate>Wed, 07 Oct 2026 22:00:15 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 801</category>
-      <description>Route 801 trips departing Rosedale Transit Center Gate B at 12:21 PM and departing Bass Lake Rd &amp; Northway Dr at 1:22 PM canceled today</description>
+      <category>METRO E Line</category>
+      <description>Southbound E Line trip departing Westgate Station - Gate A at 4:49 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] METRO E Line: Northbound 5:10 PM Trip Canceled (Southdale Transit Center - Gate A)</title>
+      <link>https://www.metrotransit.org/route/eline</link>
+      <guid isPermaLink="false">Metro Transit-53920-2026-10-07T22:55:46.000Z</guid>
+      <pubDate>Wed, 07 Oct 2026 22:55:46 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO E Line</category>
+      <description>Northbound E Line trip departing Southdale Transit Center - Gate A at 5:10 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 2: Westbound 4:08 PM Trip Canceled (2nd Ave SE &amp; 7th St SE)</title>
+      <link>https://www.metrotransit.org/route/2</link>
+      <guid isPermaLink="false">Metro Transit-53918-2026-10-07T22:01:37.000Z</guid>
+      <pubDate>Wed, 07 Oct 2026 22:01:37 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 2</category>
+      <description>Westbound Route 2 trip departing 2nd Ave SE &amp; 7th St SE at 4:08 PM canceled from Franklin &amp; Hiawatha at 4:39 PM today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 2: Both Directions 5:38 PM Trip Canceled (2nd Ave SE &amp; 7th St SE)</title>
+      <link>https://www.metrotransit.org/route/2</link>
+      <guid isPermaLink="false">Metro Transit-53921-2026-10-07T22:57:50.000Z</guid>
+      <pubDate>Wed, 07 Oct 2026 22:57:50 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 2</category>
+      <description>Westbound Route 2 trip departing 2nd Ave SE &amp; 7th St SE at 5:38 PM canceled from University &amp; 15th at 5:47 PM today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 11, Route 11A: Southbound 4:09 PM Trip Canceled (Columbia Heights Transit Center C)</title>
+      <link>https://www.metrotransit.org/route/11</link>
+      <guid isPermaLink="false">Metro Transit-53916-2026-10-07T21:46:18.000Z</guid>
+      <pubDate>Wed, 07 Oct 2026 21:46:18 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 11, Route 11A</category>
+      <description>Southbound Route 11A trip departing Columbia Heights Transit Center C at 4:09 PM canceled from Lowry &amp; 2nd at 4:24 PM today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 30: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/30</link>
+      <guid isPermaLink="false">Metro Transit-53910-2026-10-07T17:57:28.000Z</guid>
+      <pubDate>Wed, 07 Oct 2026 17:57:28 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 30</category>
+      <description>Route 30 trips departing Westgate Station - Gate B at 7:05 PM and departing Golden Valley Rd Turn &amp; Xerxes Ave N at 7:55 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 71: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/71</link>
+      <guid isPermaLink="false">Metro Transit-53908-2026-10-07T17:51:47.000Z</guid>
+      <pubDate>Wed, 07 Oct 2026 17:51:47 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 71</category>
+      <description>Route 71 trip departing Market Place Dr &amp; The Marketplace Ctr at 1:14 PM and three other trips canceled today due to collision</description>
+    </item>
+    <item>
+      <title>[Critical] Route 94: Westbound 4:39 PM Trip Canceled (Union Depot &amp; Gate A1)</title>
+      <link>https://www.metrotransit.org/route/94</link>
+      <guid isPermaLink="false">Metro Transit-53919-2026-10-07T22:12:12.000Z</guid>
+      <pubDate>Wed, 07 Oct 2026 22:12:12 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 94</category>
+      <description>Westbound Route 94 trip departing Union Depot &amp; Gate A1 at 4:39 PM canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 542: Eastbound 4:29 PM Trip Canceled (American Blvd &amp; Social Security Admin)</title>
+      <link>https://www.metrotransit.org/route/542</link>
+      <guid isPermaLink="false">Metro Transit-53914-2026-10-07T22:58:01.000Z</guid>
+      <pubDate>Wed, 07 Oct 2026 22:58:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 542</category>
+      <description>Eastbound Route 542 trip departing American Blvd &amp; Social Security Admin at 4:29 PM canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Critical] Route 805: Service Canceled</title>
@@ -215,15 +287,6 @@
       <description>Routes 10 and 25 detoured off Grant St and 2nd Ave S from Nicollet Mall to 3rd Ave S beginning Wed Aug 12 at 4:00 AM until further notice due to construction. Board at: 3rd Ave S &amp; 11th St S - Stop #19277 (southbound); Nicollet Mall &amp; Alice Rainville Place - Stop #17988 (northbound). | Action: Board at: 3rd Ave S &amp; 11th St S - Stop #19277 (southbound); Nicollet Mall &amp; Alice Rainville Place - Stop #17988 (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 10, Route 11, Route 18, Route 25: Detour via Regular Corridor</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-53647-2026-10-07T05:00:01.000Z</guid>
-      <pubDate>Wed, 07 Oct 2026 05:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 10, Route 11, Route 18, Route 25</category>
-      <description>Routes 10, 11, 18 and 25 detoured off Nicollet Mall from 12th St to 11th St from Mon Oct 5 at 9:00 AM to Wed Oct 7 at 4:00 PM due to construction. Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 9th St S - Stop #17992 (northbound). | Action: Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 9th St S - Stop #17992 (northbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor</title>
       <link>https://www.metrotransit.org/route/10</link>
       <guid isPermaLink="false">Metro Transit-53859-2026-10-07T05:00:01.000Z</guid>
@@ -258,15 +321,6 @@
       <category>Moderate</category>
       <category>Route 14</category>
       <description>Northbound Route 14 detoured off West Broadway from Washington Ave to Lyndale Ave from 8:30 AM to 3:00 PM on Fri Oct 9 due to construction. Board at: Washington Ave &amp; 17th Ave N - Stop #16353 (northbound); West Broadway &amp; Aldrich Ave N - Stop #8306 (westbound). | Action: Board at: Washington Ave &amp; 17th Ave N - Stop #16353 (northbound); West Broadway &amp; Aldrich Ave N - Stop #8306 (westbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 17: Detour via Regular Corridor</title>
-      <link>https://www.metrotransit.org/route/17</link>
-      <guid isPermaLink="false">Metro Transit-53646-2026-10-07T05:00:01.000Z</guid>
-      <pubDate>Wed, 07 Oct 2026 05:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 17</category>
-      <description>Route 17 detoured off Nicollet Mall from 12th St to 11th St from Mon Oct 5 at 9:00 AM to Wed Oct 7 at 4:00 PM due to construction. Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 9th St S - Stop #17992 (northbound). | Action: Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 9th St S - Stop #17992 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 17: Detour via Lake St W &amp; Humboldt Ave S</title>
