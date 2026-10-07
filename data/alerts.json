@@ -1,16 +1,76 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-07T10:07:31.856Z",
-    "totalAlerts": 110,
-    "criticalCount": 0,
+    "generatedAt": "2026-10-07T17:45:22.299Z",
+    "totalAlerts": 111,
+    "criticalCount": 2,
     "moderateCount": 106,
-    "minorCount": 4,
-    "affectedRoutesCount": 76,
+    "minorCount": 3,
+    "affectedRoutesCount": 78,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
+    {
+      "id": "53904",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 801: Service Canceled",
+      "summary": "Route 801 trips departing Rosedale Transit Center Gate B at 12:21 PM and departing Bass Lake Rd & Northway Dr at 1:22 PM canceled today",
+      "affectedRoutes": [
+        "Route 801"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "21 PM and departing Bass Lake Rd & Northway Dr"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-07T17:21:00.000Z",
+        "end": "2026-10-07T20:06:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/801",
+      "updatedAt": "2026-10-07T16:51:01.000Z",
+      "rawHeader": "Route 801 trips departing Rosedale Transit Center Gate B at 12:21 PM and departing Bass Lake Rd & Northway Dr at 1:22 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "53906",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 805: Service Canceled",
+      "summary": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today",
+      "affectedRoutes": [
+        "Route 805"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 805 trip departing 1st Ave S & Monroe St",
+        "departing 1st Ave S & Monroe St",
+        "38 AM\ndeparting 1st Ave S & Monroe St",
+        "38 PM\ndeparting 1st Ave S & Monroe St",
+        "36 PM\ndeparting 1st Ave S & Monroe St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-07T16:38:00.000Z",
+        "end": "2026-10-08T00:24:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/805",
+      "updatedAt": "2026-10-07T16:08:01.000Z",
+      "rawHeader": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 11:38 AM\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
+    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -6299,6 +6359,52 @@
       "rawDescription": "Get on/off buses at:\r\nAmerican Blvd W & Home Depot - Stop #57108 (westbound)\r\nAmerican Blvd & Knox Ave S - Stop #41217 (westbound)\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on American Blvd to Lyndale Ave, left on Lyndale, right on 82nd St, right on Knox Ave, left on American Blvd, and resume regular route.\r\n\nAffected direction: Westbound\r\n\nAffected stops:\r\nAmerican Blvd & Lyndale Ave S - Stop #52216 (westbound)\r\nAmerican Blvd W & Lyndale Av/Bryant Av S - Stop #56604 (westbound)\r\nAmerican Blvd W & Fremont Ave S - Stop #57095 (westbound)"
     },
     {
+      "id": "53905",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 578: Detour via 2nd Ave S & Washington Ave S",
+      "summary": "Route 578 detoured off 2nd St S from 2nd Ave S to 3rd Ave S until further notice due to construction. Board at: 2nd Ave S & Washington Ave S - Stop #19260 (northbound); Temporary terminal 2nd Ave S & 2nd St S - Stop #19261 (northbound).",
+      "affectedRoutes": [
+        "Route 578"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "2nd Ave S & Washington Ave S",
+        "Temporary terminal 2nd Ave S & 2nd St S",
+        "2nd St S & 3rd Ave S",
+        "2nd St S (2nd Ave S to 3rd Ave S)"
+      ],
+      "closedStopIds": [
+        "53341",
+        "19260",
+        "19261"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "53341",
+          "name": "2nd St S & 3rd Ave S",
+          "direction": "eastbound"
+        },
+        {
+          "id": "19260"
+        },
+        {
+          "id": "19261"
+        }
+      ],
+      "riderAlternative": "Board at: 2nd Ave S & Washington Ave S - Stop #19260 (northbound); Temporary terminal 2nd Ave S & 2nd St S - Stop #19261 (northbound)",
+      "detourDetails": "Northbound buses will travel the regular route on 2nd Ave S to 2nd St S and terminate.",
+      "activePeriod": {
+        "start": "2026-10-07T15:40:00.000Z"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/578",
+      "updatedAt": "2026-10-07T15:40:39.000Z",
+      "rawHeader": "Route 578 detoured off 2nd St S from 2nd Ave S to 3rd Ave S until further notice due to construction",
+      "rawDescription": "For northbound Route 578 get on/off buses at:\r\n2nd Ave S & Washington Ave S - Stop #19260 (northbound)\r\nTemporary terminal 2nd Ave S & 2nd St S - Stop #19261 (northbound)\r\n\nFor southbound Route 578 get on/off buses at:\r\nTemporary terminal 2nd Ave S & 2nd St S - Stop #19261 (northbound)\r\n2nd St S & 3rd Ave S - Stop #53341 (eastbound)\r\n\nNorthbound buses will travel the regular route on 2nd Ave S to 2nd St S and terminate.\r\n\nSouthbound buses will depart the temporary terminal on 2nd Ave S to 2nd St S, continue on 2nd Ave S, left on 1st St S, and resume the regular route.\r\n\nAffected stops:\r\n2nd St S & 3rd Ave S - Stop #53341 (eastbound)"
+    },
+    {
       "id": "49838",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -7162,49 +7268,6 @@
       "rawDescription": "Get on/off buses at:\r\nEast River Rd & 63rd Way - Stop #12152 (southbound)\r\nEast River Rd & 61st Way NE - Stop #12156 (southbound)"
     },
     {
-      "id": "53600",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 827: Stop Closed at Marshall St NE & 29th Ave N",
-      "summary": "Marshall St NE & 29th Ave NE - Stop #57558 (northbound) is closed for Route 827 until further notice due to construction. Board at: Marshall St NE & 27th Ave NE - Stop #57557 (northbound); Marshall St NE & 31st Ave NE - Stop #57559 (northbound).",
-      "affectedRoutes": [
-        "Route 827"
-      ],
-      "direction": "Northbound",
-      "intersections": [
-        "Marshall St NE & 29th Ave N",
-        "Marshall St NE & 27th Ave N",
-        "Marshall St NE & 31st Ave N"
-      ],
-      "closedStopIds": [
-        "57558",
-        "57557",
-        "57559"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "57558"
-        },
-        {
-          "id": "57557"
-        },
-        {
-          "id": "57559"
-        }
-      ],
-      "riderAlternative": "Board at: Marshall St NE & 27th Ave NE - Stop #57557 (northbound); Marshall St NE & 31st Ave NE - Stop #57559 (northbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-01T16:10:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/827",
-      "updatedAt": "2026-10-01T16:10:16.000Z",
-      "rawHeader": "Marshall St NE & 29th Ave NE - Stop #57558 (northbound) is closed for Route 827 until further notice due to construction",
-      "rawDescription": "Get on/off buses at:\r\nMarshall St NE & 27th Ave NE - Stop #57557 (northbound)\r\nMarshall St NE & 31st Ave NE - Stop #57559 (northbound)"
-    },
-    {
       "id": "46251",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -7380,32 +7443,6 @@
       "updatedAt": "2026-10-06T05:00:01.000Z",
       "rawHeader": "Routes 64 and 74 school trips that serve Johnson High School will switch gates beginning Mon Oct 12",
       "rawDescription": "Route 74 will drop off in the morning and pickup in the afternoon at Johnson High School & Gate B - Stop #53948 (northbound)\r\n\nRoute 64 trips will pickup in the afternoon at Johnson High School & Gate C - Stop #54048 (eastbound)"
-    },
-    {
-      "id": "53895",
-      "agency": "Metro Transit",
-      "severity": "Minor",
-      "title": "Route 74: Service Advisory",
-      "summary": "Westbound Route 74 trip departing Sun Ray Transit Center & Gate D at 3:28 AM experiencing 20-25 minute delays today",
-      "affectedRoutes": [
-        "Route 74"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-07T09:22:00.000Z",
-        "end": "2026-10-07T10:32:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "OTHER_EFFECT",
-      "url": "https://www.metrotransit.org/route/74",
-      "updatedAt": "2026-10-07T09:23:37.000Z",
-      "rawHeader": "Westbound Route 74 trip departing Sun Ray Transit Center & Gate D at 3:28 AM experiencing 20-25 minute delays today",
-      "rawDescription": ""
     },
     {
       "id": "51213",

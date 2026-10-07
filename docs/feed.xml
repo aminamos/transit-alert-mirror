@@ -4,9 +4,27 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Wed, 07 Oct 2026 10:07:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:45:22 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] Route 801: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/801</link>
+      <guid isPermaLink="false">Metro Transit-53904-2026-10-07T16:51:01.000Z</guid>
+      <pubDate>Wed, 07 Oct 2026 16:51:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 801</category>
+      <description>Route 801 trips departing Rosedale Transit Center Gate B at 12:21 PM and departing Bass Lake Rd &amp; Northway Dr at 1:22 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 805: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/805</link>
+      <guid isPermaLink="false">Metro Transit-53906-2026-10-07T16:08:01.000Z</guid>
+      <pubDate>Wed, 07 Oct 2026 16:08:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 805</category>
+      <description>Route 805 trip departing 1st Ave S &amp; Monroe St at 11:38 AM and six other trips canceled today</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -809,6 +827,15 @@
       <description>Route 542 detoured off American Blvd from Lyndale Ave to Knox Ave beginning Mon Aug 17 at 4:00 AM until further notice due to construction. Board at: American Blvd W &amp; Home Depot - Stop #57108 (westbound); American Blvd &amp; Knox Ave S - Stop #41217 (westbound). | Action: Board at: American Blvd W &amp; Home Depot - Stop #57108 (westbound); American Blvd &amp; Knox Ave S - Stop #41217 (westbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 578: Detour via 2nd Ave S &amp; Washington Ave S</title>
+      <link>https://www.metrotransit.org/route/578</link>
+      <guid isPermaLink="false">Metro Transit-53905-2026-10-07T15:40:39.000Z</guid>
+      <pubDate>Wed, 07 Oct 2026 15:40:39 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 578</category>
+      <description>Route 578 detoured off 2nd St S from 2nd Ave S to 3rd Ave S until further notice due to construction. Board at: 2nd Ave S &amp; Washington Ave S - Stop #19260 (northbound); Temporary terminal 2nd Ave S &amp; 2nd St S - Stop #19261 (northbound). | Action: Board at: 2nd Ave S &amp; Washington Ave S - Stop #19260 (northbound); Temporary terminal 2nd Ave S &amp; 2nd St S - Stop #19261 (northbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 615: Stop Closed at 5th Ave N &amp; Mainstreet - St</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
       <guid isPermaLink="false">Metro Transit-49838-2026-07-14T13:27:01.000Z</guid>
@@ -935,15 +962,6 @@
       <description>East River Rd &amp; 62nd Way - Stop #12153 (southbound) is closed for Route 827 beginning Mon Oct 5 at 7:00 AM until further notice due to construction. Board at: East River Rd &amp; 63rd Way - Stop #12152 (southbound); East River Rd &amp; 61st Way NE - Stop #12156 (southbound). | Action: Board at: East River Rd &amp; 63rd Way - Stop #12152 (southbound); East River Rd &amp; 61st Way NE - Stop #12156 (southbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 827: Stop Closed at Marshall St NE &amp; 29th Ave N</title>
-      <link>https://www.metrotransit.org/route/827</link>
-      <guid isPermaLink="false">Metro Transit-53600-2026-10-01T16:10:16.000Z</guid>
-      <pubDate>Thu, 01 Oct 2026 16:10:16 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 827</category>
-      <description>Marshall St NE &amp; 29th Ave NE - Stop #57558 (northbound) is closed for Route 827 until further notice due to construction. Board at: Marshall St NE &amp; 27th Ave NE - Stop #57557 (northbound); Marshall St NE &amp; 31st Ave NE - Stop #57559 (northbound). | Action: Board at: Marshall St NE &amp; 27th Ave NE - Stop #57557 (northbound); Marshall St NE &amp; 31st Ave NE - Stop #57559 (northbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 860: Detour via 7th St E &amp; Wall St</title>
       <link>https://www.metrotransit.org/route/860</link>
       <guid isPermaLink="false">Metro Transit-46251-2026-09-03T18:52:31.000Z</guid>
@@ -978,15 +996,6 @@
       <category>Minor</category>
       <category>Route 64, Route 74</category>
       <description>Routes 64 and 74 school trips that serve Johnson High School will switch gates beginning Mon Oct 12</description>
-    </item>
-    <item>
-      <title>[Minor] Route 74: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/74</link>
-      <guid isPermaLink="false">Metro Transit-53895-2026-10-07T09:23:37.000Z</guid>
-      <pubDate>Wed, 07 Oct 2026 09:23:37 GMT</pubDate>
-      <category>Minor</category>
-      <category>Route 74</category>
-      <description>Westbound Route 74 trip departing Sun Ray Transit Center &amp; Gate D at 3:28 AM experiencing 20-25 minute delays today</description>
     </item>
     <item>
       <title>[Minor] Route 94, METRO Gold Line: Service Advisory</title>

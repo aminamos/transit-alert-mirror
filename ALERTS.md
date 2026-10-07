@@ -2,21 +2,75 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-110-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-111-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-106-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-76-brightgreen)](#-routes-index)
+[![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-78-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-07T10:07:31.856Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-07T17:45:22.299Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (3) • **Route 11** (4) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 22C** (1) • **Route 25** (4) • **Route 27** (3) • **Route 30** (1) • **Route 36** (4) • **Route 38** (4) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (3) • **Route 11** (4) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (3) • **Route 18** (8) • **Route 22** (4) • **Route 22C** (1) • **Route 25** (4) • **Route 27** (3) • **Route 30** (1) • **Route 36** (4) • **Route 38** (4) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 801** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 Route 801: Service Canceled
+
+- **Affected Routes**: `Route 801`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 21 PM and departing Bass Lake Rd & Northway Dr
+
+**Summary**: Route 801 trips departing Rosedale Transit Center Gate B at 12:21 PM and departing Bass Lake Rd & Northway Dr at 1:22 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/801)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 801 trips departing Rosedale Transit Center Gate B at 12:21 PM and departing Bass Lake Rd & Northway Dr at 1:22 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 805: Service Canceled
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
+departing 1st Ave S & Monroe St; 38 PM
+departing 1st Ave S & Monroe St; 36 PM
+departing 1st Ave S & Monroe St
+
+**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate D at 12:34 PM
+departing Northtown Transit Ctr Gate D at 2:34 PM
+departing Northtown Transit Ctr Gate D at 4:34 PM
+
+Affected southbound trips:
+departing 1st Ave S & Monroe St at 11:38 AM
+departing 1st Ave S & Monroe St at 1:38 PM
+departing 1st Ave S & Monroe St at 3:36 PM
+departing 1st Ave S & Monroe St at 5:38 PM
+```
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -3890,6 +3944,48 @@ American Blvd W & Fremont Ave S - Stop #57095 (westbound)
 
 ---
 
+### ⚠️ Route 578: Detour via 2nd Ave S & Washington Ave S
+
+- **Affected Routes**: `Route 578`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 2nd Ave S & Washington Ave S; Temporary terminal 2nd Ave S & 2nd St S; 2nd St S & 3rd Ave S; 2nd St S (2nd Ave S to 3rd Ave S)
+- **Closed Stops**: 2nd St S & 3rd Ave S (Stop #53341), Stop #19260, Stop #19261
+
+**Summary**: Route 578 detoured off 2nd St S from 2nd Ave S to 3rd Ave S until further notice due to construction. Board at: 2nd Ave S & Washington Ave S - Stop #19260 (northbound); Temporary terminal 2nd Ave S & 2nd St S - Stop #19261 (northbound).
+
+> 💡 **Rider Action**: Board at: 2nd Ave S & Washington Ave S - Stop #19260 (northbound); Temporary terminal 2nd Ave S & 2nd St S - Stop #19261 (northbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel the regular route on 2nd Ave S to 2nd St S and terminate.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/578)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 578 detoured off 2nd St S from 2nd Ave S to 3rd Ave S until further notice due to construction
+
+```text
+For northbound Route 578 get on/off buses at:
+2nd Ave S & Washington Ave S - Stop #19260 (northbound)
+Temporary terminal 2nd Ave S & 2nd St S - Stop #19261 (northbound)
+
+For southbound Route 578 get on/off buses at:
+Temporary terminal 2nd Ave S & 2nd St S - Stop #19261 (northbound)
+2nd St S & 3rd Ave S - Stop #53341 (eastbound)
+
+Northbound buses will travel the regular route on 2nd Ave S to 2nd St S and terminate.
+
+Southbound buses will depart the temporary terminal on 2nd Ave S to 2nd St S, continue on 2nd Ave S, left on 1st St S, and resume the regular route.
+
+Affected stops:
+2nd St S & 3rd Ave S - Stop #53341 (eastbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 615: Stop Closed at 5th Ave N & Mainstreet - St
 
 - **Affected Routes**: `Route 615`
@@ -4470,35 +4566,6 @@ East River Rd & 61st Way NE - Stop #12156 (southbound)
 
 ---
 
-### ⚠️ Route 827: Stop Closed at Marshall St NE & 29th Ave N
-
-- **Affected Routes**: `Route 827`
-- **Direction**: Northbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Marshall St NE & 29th Ave N; Marshall St NE & 27th Ave N; Marshall St NE & 31st Ave N
-- **Closed Stops**: Stop #57558, Stop #57557, Stop #57559
-
-**Summary**: Marshall St NE & 29th Ave NE - Stop #57558 (northbound) is closed for Route 827 until further notice due to construction. Board at: Marshall St NE & 27th Ave NE - Stop #57557 (northbound); Marshall St NE & 31st Ave NE - Stop #57559 (northbound).
-
-> 💡 **Rider Action**: Board at: Marshall St NE & 27th Ave NE - Stop #57557 (northbound); Marshall St NE & 31st Ave NE - Stop #57559 (northbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/827)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Marshall St NE & 29th Ave NE - Stop #57558 (northbound) is closed for Route 827 until further notice due to construction
-
-```text
-Get on/off buses at:
-Marshall St NE & 27th Ave NE - Stop #57557 (northbound)
-Marshall St NE & 31st Ave NE - Stop #57559 (northbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 860: Detour via 7th St E & Wall St
 
 - **Affected Routes**: `Route 860`
@@ -4630,25 +4697,6 @@ Route 74 will drop off in the morning and pickup in the afternoon at Johnson Hig
 
 Route 64 trips will pickup in the afternoon at Johnson High School & Gate C - Stop #54048 (eastbound)
 ```
-
-</details>
-
----
-
-### ℹ️ Route 74: Service Advisory
-
-- **Affected Routes**: `Route 74`
-- **Direction**: Westbound
-- **Severity**: `Minor`
-
-**Summary**: Westbound Route 74 trip departing Sun Ray Transit Center & Gate D at 3:28 AM experiencing 20-25 minute delays today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/74)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 74 trip departing Sun Ray Transit Center & Gate D at 3:28 AM experiencing 20-25 minute delays today
 
 </details>
 
