@@ -2,155 +2,53 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-117-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-10-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-111-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-104-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-78-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-07T22:59:49.726Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-08T02:39:56.581Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (3) • **METRO Gold Line** (2) • **Route 2** (4) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (2) • **Route 11** (4) • **Route 11A** (1) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (4) • **Route 22C** (1) • **Route 25** (3) • **Route 27** (3) • **Route 30** (2) • **Route 36** (4) • **Route 38** (4) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (3) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (3) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (4) • **Route 22C** (1) • **Route 25** (3) • **Route 27** (3) • **Route 30** (2) • **Route 36** (4) • **Route 38** (4) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 68G** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO E Line: Southbound 4:49 PM Trip Canceled (Westgate Station - Gate A)
+### 🚨 METRO D Line: Northbound 8:43 PM Trip Canceled (MOA Transit Station Gate A)
 
-- **Affected Routes**: `METRO E Line`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound E Line trip departing Westgate Station - Gate A at 4:49 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/eline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound E Line trip departing Westgate Station - Gate A at 4:49 PM canceled today
-
-</details>
-
----
-
-### 🚨 METRO E Line: Northbound 5:10 PM Trip Canceled (Southdale Transit Center - Gate A)
-
-- **Affected Routes**: `METRO E Line`
+- **Affected Routes**: `METRO D Line`
 - **Direction**: Northbound
 - **Severity**: `Critical`
 
-**Summary**: Northbound E Line trip departing Southdale Transit Center - Gate A at 5:10 PM canceled today
+**Summary**: Northbound D Line trip departing MOA Transit Station Gate A at 8:43 PM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/eline)
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound E Line trip departing Southdale Transit Center - Gate A at 5:10 PM canceled today
+**Header**: Northbound D Line trip departing MOA Transit Station Gate A at 8:43 PM canceled today
 
 </details>
 
 ---
 
-### 🚨 Route 2: Westbound 4:08 PM Trip Canceled (2nd Ave SE & 7th St SE)
+### 🚨 Route 10: Northbound 8:41 PM Trip Canceled (Leamington Ramp & Lower - Gate #7)
 
-- **Affected Routes**: `Route 2`
-- **Direction**: Westbound
+- **Affected Routes**: `Route 10`
+- **Direction**: Northbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #80923, Stop #80924, Stop #80928, Stop #56910, Stop #56911, Stop #56137, Stop #57469, Stop #51533 *(+13 more)*
 
-**Summary**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 4:08 PM canceled from Franklin & Hiawatha at 4:39 PM today due to traffic
+**Summary**: Northbound Route 10 trip departing Leamington Ramp & Lower - Gate #7 at 8:41 PM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
+[Official Agency Advisory](https://www.metrotransit.org/route/10)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 4:08 PM canceled from Franklin & Hiawatha at 4:39 PM today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 2: Both Directions 5:38 PM Trip Canceled (2nd Ave SE & 7th St SE)
-
-- **Affected Routes**: `Route 2`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Ontario St SE & Beacon St; Oak St SE & Washington Ave S; Washington Ave & Coffman Union - St; Washington Ave & Willey Hall - St; 3rd St S & Cedar Ave S
-- **Closed Stops**: University & 15th Ave Station (Stop #16137), University & U of M Rec Center Station (Stop #16142), Ontario St SE & Beacon St (Stop #50670), Oak St SE & Washington Ave SE (Stop #41248), Washington Ave & Coffman Union (Stop #13207), Washington Ave & Willey Hall (Stop #13211), 3rd St S & Cedar Ave S (Stop #42452), 19th Ave S & 4th St/ Riverside Ave (Stop #42454) *(+29 more)*
-
-**Summary**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 5:38 PM canceled from University & 15th at 5:47 PM today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 5:38 PM canceled from University & 15th at 5:47 PM today
-
-```text
-Affected stops:
-University & 15th Ave Station - Stop #16137 (eastbound)
-University & U of M Rec Center Station - Stop #16142 (eastbound)
-Ontario St SE & Beacon St - Stop #50670 (southbound)
-Oak St SE & Washington Ave SE - Stop #41248 (southbound)
-Washington Ave & Coffman Union - Stop #13207 (westbound)
-Washington Ave & Willey Hall - Stop #13211 (westbound)
-3rd St S & Cedar Ave S - Stop #42452 (eastbound)
-19th Ave S & 4th St/ Riverside Ave - Stop #42454 (southbound)
-Riverside Ave S & 20th Ave S - Stop #56706 (eastbound)
-Riverside Ave & 22nd Ave S - Stop #13231 (eastbound)
-Riverside Ave & 25th Ave S - Stop #13239 (eastbound)
-25th Ave S & Butler Place - Stop #56704 (southbound)
-26th Ave S & Seward Tower West - Stop #56703 (southbound)
-Franklin Ave E & 24th Ave S - Stop #13259 (westbound)
-Franklin Ave E & 22nd Ave S - Stop #13267 (westbound)
-Franklin Ave E & Cedar Ave - Stop #13279 (westbound)
-Franklin Ave E & Franklin Station - Stop #51533 (westbound)
-Franklin Ave E & Bloomington Ave S - Stop #15630 (westbound)
-Franklin Ave E & 14th Ave S - Stop #56137 (westbound)
-Franklin Ave E & 10th Ave S - Stop #13309 (westbound)
-Chicago & Franklin Station - Stop #56910 (southbound)
-Chicago & 24th St Station - Stop #56911 (southbound)
-26th St E & Chicago Ave S - Stop #50164 (westbound)
-26th St E & Park Ave S - Stop #52241 (westbound)
-26th St E & 5th Ave S - Stop #52242 (westbound)
-26th St E & 3rd Ave S - Stop #17761 (westbound)
-26th St E & 1st Ave S - Stop #80923 (westbound)
-26th St E & Nicollet Ave - Stop #80924 (westbound)
-24th St W & Nicollet Ave - Stop #80928 (westbound)
-24th St W & Pleasant Ave S - Stop #4663 (westbound)
-24th St W & Lyndale Ave S - Stop #4667 (westbound)
-Lyndale Ave S & 22nd St W - Stop #20031 (northbound)
-Lyndale Ave S & Franklin Ave W - Stop #177 (northbound)
-Franklin Ave W & Lyndale Ave S - Stop #13335 (westbound)
-Hennepin & Franklin Station - Stop #1096 (southbound)
-Dupont Ave S & 22nd St E / Franklin Ave - Stop #57469 (northbound)
-Uptown Transit Station - Gate C - Stop #50160 (westbound)
-```
-
-</details>
-
----
-
-### 🚨 Route 11, Route 11A: Southbound 4:09 PM Trip Canceled (Columbia Heights Transit Center C)
-
-- **Affected Routes**: `Route 11` `Route 11A`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #1197, Stop #1230, Stop #1231, Stop #12802, Stop #1229, Stop #15562, Stop #14650, Stop #14661 *(+52 more)*
-
-**Summary**: Southbound Route 11A trip departing Columbia Heights Transit Center C at 4:09 PM canceled from Lowry & 2nd at 4:24 PM today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/11)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 11A trip departing Columbia Heights Transit Center C at 4:09 PM canceled from Lowry & 2nd at 4:24 PM today due to traffic
+**Header**: Northbound Route 10 trip departing Leamington Ramp & Lower - Gate #7 at 8:41 PM canceled today
 
 </details>
 
@@ -175,104 +73,21 @@ Uptown Transit Station - Gate C - Stop #50160 (westbound)
 
 ---
 
-### 🚨 Route 71: Service Canceled
+### 🚨 Route 68, Route 68G: Service Advisory
 
-- **Affected Routes**: `Route 71`
-- **Direction**: Both Directions
+- **Affected Routes**: `Route 68` `Route 68G`
+- **Direction**: Southbound
 - **Severity**: `Critical`
+- **Closed Stops**: Stop #46692, Stop #46693, Stop #46694, Stop #46695, Stop #46696, Stop #40101, Stop #81112, Stop #81115 *(+8 more)*
 
-**Summary**: Route 71 trip departing Market Place Dr & The Marketplace Ctr at 1:14 PM and three other trips canceled today due to collision
+**Summary**: Southbound Route 68G trip departing Hwy 36 & Rice St Park & Ride & Shelter at 7:23 PM will operate from Jackson & Rose at 7:33 PM today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
+[Official Agency Advisory](https://www.metrotransit.org/route/68)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 71 trip departing Market Place Dr & The Marketplace Ctr at 1:14 PM and three other trips canceled today due to collision
-
-```text
-Affected northbound trips:
-departing Inver Hills College & Shelter at 2:38 PM
-departing Inver Hills College & Shelter at 5:38 PM
-
-Affected southbound trips:
-departing Market Place Dr & The Marketplace Ctr at 1:14 PM
-departing Market Place Dr & The Marketplace Ctr at 4:10 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 94: Westbound 4:39 PM Trip Canceled (Union Depot & Gate A1)
-
-- **Affected Routes**: `Route 94`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 94 trip departing Union Depot & Gate A1 at 4:39 PM canceled today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/94)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 94 trip departing Union Depot & Gate A1 at 4:39 PM canceled today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 542: Eastbound 4:29 PM Trip Canceled (American Blvd & Social Security Admin)
-
-- **Affected Routes**: `Route 542`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-
-**Summary**: Eastbound Route 542 trip departing American Blvd & Social Security Admin at 4:29 PM canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/542)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 542 trip departing American Blvd & Social Security Admin at 4:29 PM canceled today due to maintenance work
-
-</details>
-
----
-
-### 🚨 Route 805: Service Canceled
-
-- **Affected Routes**: `Route 805`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
-departing 1st Ave S & Monroe St; 38 PM
-departing 1st Ave S & Monroe St; 36 PM
-departing 1st Ave S & Monroe St
-
-**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate D at 12:34 PM
-departing Northtown Transit Ctr Gate D at 2:34 PM
-departing Northtown Transit Ctr Gate D at 4:34 PM
-
-Affected southbound trips:
-departing 1st Ave S & Monroe St at 11:38 AM
-departing 1st Ave S & Monroe St at 1:38 PM
-departing 1st Ave S & Monroe St at 3:36 PM
-departing 1st Ave S & Monroe St at 5:38 PM
-```
+**Header**: Southbound Route 68G trip departing Hwy 36 & Rice St P&R & Shelter at 7:23 PM will operate from Jackson & Rose at 7:33 PM today
 
 </details>
 

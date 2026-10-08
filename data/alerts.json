@@ -1,50 +1,24 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-07T22:59:49.726Z",
-    "totalAlerts": 117,
-    "criticalCount": 10,
+    "generatedAt": "2026-10-08T02:39:56.581Z",
+    "totalAlerts": 111,
+    "criticalCount": 4,
     "moderateCount": 104,
     "minorCount": 3,
-    "affectedRoutesCount": 78,
+    "affectedRoutesCount": 77,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "53917",
+      "id": "53925",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO E Line: Southbound 4:49 PM Trip Canceled (Westgate Station - Gate A)",
-      "summary": "Southbound E Line trip departing Westgate Station - Gate A at 4:49 PM canceled today",
+      "title": "METRO D Line: Northbound 8:43 PM Trip Canceled (MOA Transit Station Gate A)",
+      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 8:43 PM canceled today",
       "affectedRoutes": [
-        "METRO E Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-07T21:59:00.000Z",
-        "end": "2026-10-07T23:53:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-10-07T22:00:15.000Z",
-      "rawHeader": "Southbound E Line trip departing Westgate Station - Gate A at 4:49 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "53920",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO E Line: Northbound 5:10 PM Trip Canceled (Southdale Transit Center - Gate A)",
-      "summary": "Northbound E Line trip departing Southdale Transit Center - Gate A at 5:10 PM canceled today",
-      "affectedRoutes": [
-        "METRO E Line"
+        "METRO D Line"
       ],
       "direction": "Northbound",
       "intersections": [],
@@ -53,651 +27,40 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-07T22:54:00.000Z",
-        "end": "2026-10-08T00:11:00.000Z"
+        "start": "2026-10-08T02:06:00.000Z",
+        "end": "2026-10-08T03:55:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-10-07T22:55:46.000Z",
-      "rawHeader": "Northbound E Line trip departing Southdale Transit Center - Gate A at 5:10 PM canceled today",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-10-08T02:06:41.000Z",
+      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 8:43 PM canceled today",
       "rawDescription": ""
     },
     {
-      "id": "53918",
+      "id": "53926",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 2: Westbound 4:08 PM Trip Canceled (2nd Ave SE & 7th St SE)",
-      "summary": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 4:08 PM canceled from Franklin & Hiawatha at 4:39 PM today due to traffic",
+      "title": "Route 10: Northbound 8:41 PM Trip Canceled (Leamington Ramp & Lower - Gate #7)",
+      "summary": "Northbound Route 10 trip departing Leamington Ramp & Lower - Gate #7 at 8:41 PM canceled today",
       "affectedRoutes": [
-        "Route 2"
+        "Route 10"
       ],
-      "direction": "Westbound",
+      "direction": "Northbound",
       "intersections": [],
-      "closedStopIds": [
-        "80923",
-        "80924",
-        "80928",
-        "56910",
-        "56911",
-        "56137",
-        "57469",
-        "51533",
-        "52241",
-        "52242",
-        "50164",
-        "4667",
-        "20031",
-        "50160",
-        "4663",
-        "17761",
-        "13309",
-        "13335",
-        "177",
-        "15630",
-        "1096"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "80923"
-        },
-        {
-          "id": "80924"
-        },
-        {
-          "id": "80928"
-        },
-        {
-          "id": "56910"
-        },
-        {
-          "id": "56911"
-        },
-        {
-          "id": "56137"
-        },
-        {
-          "id": "57469"
-        },
-        {
-          "id": "51533"
-        },
-        {
-          "id": "52241"
-        },
-        {
-          "id": "52242"
-        },
-        {
-          "id": "50164"
-        },
-        {
-          "id": "4667"
-        },
-        {
-          "id": "20031"
-        },
-        {
-          "id": "50160"
-        },
-        {
-          "id": "4663"
-        },
-        {
-          "id": "17761"
-        },
-        {
-          "id": "13309"
-        },
-        {
-          "id": "13335"
-        },
-        {
-          "id": "177"
-        },
-        {
-          "id": "15630"
-        },
-        {
-          "id": "1096"
-        }
-      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-07T22:00:00.000Z",
-        "end": "2026-10-07T23:03:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-10-07T22:01:37.000Z",
-      "rawHeader": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 4:08 PM canceled from Franklin & Hiawatha at 4:39 PM today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "53921",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 2: Both Directions 5:38 PM Trip Canceled (2nd Ave SE & 7th St SE)",
-      "summary": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 5:38 PM canceled from University & 15th at 5:47 PM today",
-      "affectedRoutes": [
-        "Route 2"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Ontario St SE & Beacon St",
-        "Oak St SE & Washington Ave S",
-        "Washington Ave & Coffman Union - St",
-        "Washington Ave & Willey Hall - St",
-        "3rd St S & Cedar Ave S"
-      ],
-      "closedStopIds": [
-        "16137",
-        "16142",
-        "50670",
-        "41248",
-        "13207",
-        "13211",
-        "42452",
-        "42454",
-        "56706",
-        "13231",
-        "13239",
-        "56704",
-        "56703",
-        "13259",
-        "13267",
-        "13279",
-        "51533",
-        "15630",
-        "56137",
-        "13309",
-        "56910",
-        "56911",
-        "50164",
-        "52241",
-        "52242",
-        "17761",
-        "80923",
-        "80924",
-        "80928",
-        "4663",
-        "4667",
-        "20031",
-        "177",
-        "13335",
-        "1096",
-        "57469",
-        "50160"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "16137",
-          "name": "University & 15th Ave Station",
-          "direction": "eastbound"
-        },
-        {
-          "id": "16142",
-          "name": "University & U of M Rec Center Station",
-          "direction": "eastbound"
-        },
-        {
-          "id": "50670",
-          "name": "Ontario St SE & Beacon St",
-          "direction": "southbound"
-        },
-        {
-          "id": "41248",
-          "name": "Oak St SE & Washington Ave SE",
-          "direction": "southbound"
-        },
-        {
-          "id": "13207",
-          "name": "Washington Ave & Coffman Union",
-          "direction": "westbound"
-        },
-        {
-          "id": "13211",
-          "name": "Washington Ave & Willey Hall",
-          "direction": "westbound"
-        },
-        {
-          "id": "42452",
-          "name": "3rd St S & Cedar Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "42454",
-          "name": "19th Ave S & 4th St/ Riverside Ave",
-          "direction": "southbound"
-        },
-        {
-          "id": "56706",
-          "name": "Riverside Ave S & 20th Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "13231",
-          "name": "Riverside Ave & 22nd Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "13239",
-          "name": "Riverside Ave & 25th Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "56704",
-          "name": "25th Ave S & Butler Place",
-          "direction": "southbound"
-        },
-        {
-          "id": "56703",
-          "name": "26th Ave S & Seward Tower West",
-          "direction": "southbound"
-        },
-        {
-          "id": "13259",
-          "name": "Franklin Ave E & 24th Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "13267",
-          "name": "Franklin Ave E & 22nd Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "13279",
-          "name": "Franklin Ave E & Cedar Ave",
-          "direction": "westbound"
-        },
-        {
-          "id": "51533",
-          "name": "Franklin Ave E & Franklin Station",
-          "direction": "westbound"
-        },
-        {
-          "id": "15630",
-          "name": "Franklin Ave E & Bloomington Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "56137",
-          "name": "Franklin Ave E & 14th Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "13309",
-          "name": "Franklin Ave E & 10th Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "56910",
-          "name": "Chicago & Franklin Station",
-          "direction": "southbound"
-        },
-        {
-          "id": "56911",
-          "name": "Chicago & 24th St Station",
-          "direction": "southbound"
-        },
-        {
-          "id": "50164",
-          "name": "26th St E & Chicago Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "52241",
-          "name": "26th St E & Park Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "52242",
-          "name": "26th St E & 5th Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "17761",
-          "name": "26th St E & 3rd Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "80923",
-          "name": "26th St E & 1st Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "80924",
-          "name": "26th St E & Nicollet Ave",
-          "direction": "westbound"
-        },
-        {
-          "id": "80928",
-          "name": "24th St W & Nicollet Ave",
-          "direction": "westbound"
-        },
-        {
-          "id": "4663",
-          "name": "24th St W & Pleasant Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "4667",
-          "name": "24th St W & Lyndale Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "20031",
-          "name": "Lyndale Ave S & 22nd St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "177",
-          "name": "Lyndale Ave S & Franklin Ave W",
-          "direction": "northbound"
-        },
-        {
-          "id": "13335",
-          "name": "Franklin Ave W & Lyndale Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "1096",
-          "name": "Hennepin & Franklin Station",
-          "direction": "southbound"
-        },
-        {
-          "id": "57469",
-          "name": "Dupont Ave S & 22nd St E / Franklin Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "50160",
-          "name": "Uptown Transit Station - Gate C",
-          "direction": "westbound"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-07T22:56:00.000Z",
-        "end": "2026-10-08T00:28:00.000Z"
+        "start": "2026-10-08T02:33:00.000Z",
+        "end": "2026-10-08T03:35:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-10-07T22:57:50.000Z",
-      "rawHeader": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 5:38 PM canceled from University & 15th at 5:47 PM today",
-      "rawDescription": "Affected stops:\r\nUniversity & 15th Ave Station - Stop #16137 (eastbound)\r\nUniversity & U of M Rec Center Station - Stop #16142 (eastbound)\r\nOntario St SE & Beacon St - Stop #50670 (southbound)\r\nOak St SE & Washington Ave SE - Stop #41248 (southbound)\r\nWashington Ave & Coffman Union - Stop #13207 (westbound)\r\nWashington Ave & Willey Hall - Stop #13211 (westbound)\r\n3rd St S & Cedar Ave S - Stop #42452 (eastbound)\r\n19th Ave S & 4th St/ Riverside Ave - Stop #42454 (southbound)\r\nRiverside Ave S & 20th Ave S - Stop #56706 (eastbound)\r\nRiverside Ave & 22nd Ave S - Stop #13231 (eastbound)\r\nRiverside Ave & 25th Ave S - Stop #13239 (eastbound)\r\n25th Ave S & Butler Place - Stop #56704 (southbound)\r\n26th Ave S & Seward Tower West - Stop #56703 (southbound)\r\nFranklin Ave E & 24th Ave S - Stop #13259 (westbound)\r\nFranklin Ave E & 22nd Ave S - Stop #13267 (westbound)\r\nFranklin Ave E & Cedar Ave - Stop #13279 (westbound)\r\nFranklin Ave E & Franklin Station - Stop #51533 (westbound)\r\nFranklin Ave E & Bloomington Ave S - Stop #15630 (westbound)\r\nFranklin Ave E & 14th Ave S - Stop #56137 (westbound)\r\nFranklin Ave E & 10th Ave S - Stop #13309 (westbound)\r\nChicago & Franklin Station - Stop #56910 (southbound)\r\nChicago & 24th St Station - Stop #56911 (southbound)\r\n26th St E & Chicago Ave S - Stop #50164 (westbound)\r\n26th St E & Park Ave S - Stop #52241 (westbound)\r\n26th St E & 5th Ave S - Stop #52242 (westbound)\r\n26th St E & 3rd Ave S - Stop #17761 (westbound)\r\n26th St E & 1st Ave S - Stop #80923 (westbound)\r\n26th St E & Nicollet Ave - Stop #80924 (westbound)\r\n24th St W & Nicollet Ave - Stop #80928 (westbound)\r\n24th St W & Pleasant Ave S - Stop #4663 (westbound)\r\n24th St W & Lyndale Ave S - Stop #4667 (westbound)\r\nLyndale Ave S & 22nd St W - Stop #20031 (northbound)\r\nLyndale Ave S & Franklin Ave W - Stop #177 (northbound)\r\nFranklin Ave W & Lyndale Ave S - Stop #13335 (westbound)\r\nHennepin & Franklin Station - Stop #1096 (southbound)\r\nDupont Ave S & 22nd St E / Franklin Ave - Stop #57469 (northbound)\r\nUptown Transit Station - Gate C - Stop #50160 (westbound)"
-    },
-    {
-      "id": "53916",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 11, Route 11A: Southbound 4:09 PM Trip Canceled (Columbia Heights Transit Center C)",
-      "summary": "Southbound Route 11A trip departing Columbia Heights Transit Center C at 4:09 PM canceled from Lowry & 2nd at 4:24 PM today due to traffic",
-      "affectedRoutes": [
-        "Route 11",
-        "Route 11A"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [
-        "1197",
-        "1230",
-        "1231",
-        "12802",
-        "1229",
-        "15562",
-        "14650",
-        "14661",
-        "14665",
-        "14669",
-        "14673",
-        "14678",
-        "14681",
-        "14685",
-        "14689",
-        "14331",
-        "53461",
-        "53462",
-        "53544",
-        "53550",
-        "19294",
-        "19301",
-        "17821",
-        "17916",
-        "17917",
-        "42455",
-        "17986",
-        "17976",
-        "17978",
-        "17980",
-        "17982",
-        "17984",
-        "17704",
-        "17705",
-        "17706",
-        "17707",
-        "17708",
-        "17709",
-        "17711",
-        "17712",
-        "17713",
-        "17715",
-        "17716",
-        "17717",
-        "17718",
-        "17719",
-        "17720",
-        "17721",
-        "17722",
-        "17723",
-        "17724",
-        "17725",
-        "17726",
-        "17727",
-        "17728",
-        "17729",
-        "17730",
-        "57548",
-        "51827",
-        "51828"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "1197"
-        },
-        {
-          "id": "1230"
-        },
-        {
-          "id": "1231"
-        },
-        {
-          "id": "12802"
-        },
-        {
-          "id": "1229"
-        },
-        {
-          "id": "15562"
-        },
-        {
-          "id": "14650"
-        },
-        {
-          "id": "14661"
-        },
-        {
-          "id": "14665"
-        },
-        {
-          "id": "14669"
-        },
-        {
-          "id": "14673"
-        },
-        {
-          "id": "14678"
-        },
-        {
-          "id": "14681"
-        },
-        {
-          "id": "14685"
-        },
-        {
-          "id": "14689"
-        },
-        {
-          "id": "14331"
-        },
-        {
-          "id": "53461"
-        },
-        {
-          "id": "53462"
-        },
-        {
-          "id": "53544"
-        },
-        {
-          "id": "53550"
-        },
-        {
-          "id": "19294"
-        },
-        {
-          "id": "19301"
-        },
-        {
-          "id": "17821"
-        },
-        {
-          "id": "17916"
-        },
-        {
-          "id": "17917"
-        },
-        {
-          "id": "42455"
-        },
-        {
-          "id": "17986"
-        },
-        {
-          "id": "17976"
-        },
-        {
-          "id": "17978"
-        },
-        {
-          "id": "17980"
-        },
-        {
-          "id": "17982"
-        },
-        {
-          "id": "17984"
-        },
-        {
-          "id": "17704"
-        },
-        {
-          "id": "17705"
-        },
-        {
-          "id": "17706"
-        },
-        {
-          "id": "17707"
-        },
-        {
-          "id": "17708"
-        },
-        {
-          "id": "17709"
-        },
-        {
-          "id": "17711"
-        },
-        {
-          "id": "17712"
-        },
-        {
-          "id": "17713"
-        },
-        {
-          "id": "17715"
-        },
-        {
-          "id": "17716"
-        },
-        {
-          "id": "17717"
-        },
-        {
-          "id": "17718"
-        },
-        {
-          "id": "17719"
-        },
-        {
-          "id": "17720"
-        },
-        {
-          "id": "17721"
-        },
-        {
-          "id": "17722"
-        },
-        {
-          "id": "17723"
-        },
-        {
-          "id": "17724"
-        },
-        {
-          "id": "17725"
-        },
-        {
-          "id": "17726"
-        },
-        {
-          "id": "17727"
-        },
-        {
-          "id": "17728"
-        },
-        {
-          "id": "17729"
-        },
-        {
-          "id": "17730"
-        },
-        {
-          "id": "57548"
-        },
-        {
-          "id": "51827"
-        },
-        {
-          "id": "51828"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-07T21:42:00.000Z",
-        "end": "2026-10-07T23:14:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-10-07T21:46:18.000Z",
-      "rawHeader": "Southbound Route 11A trip departing Columbia Heights Transit Center C at 4:09 PM canceled from Lowry & 2nd at 4:24 PM today due to traffic",
+      "url": "https://www.metrotransit.org/route/10",
+      "updatedAt": "2026-10-08T02:33:23.000Z",
+      "rawHeader": "Northbound Route 10 trip departing Leamington Ramp & Lower - Gate #7 at 8:41 PM canceled today",
       "rawDescription": ""
     },
     {
@@ -715,123 +78,103 @@
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-08T00:05:00.000Z",
-        "end": "2026-10-08T02:35:00.000Z"
-      },
+      "activePeriod": {},
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-10-07T17:57:28.000Z",
+      "updatedAt": "2026-10-08T02:35:01.000Z",
       "rawHeader": "Route 30 trips departing Westgate Station - Gate B at 7:05 PM and departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM canceled today",
       "rawDescription": ""
     },
     {
-      "id": "53908",
+      "id": "53924",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 71: Service Canceled",
-      "summary": "Route 71 trip departing Market Place Dr & The Marketplace Ctr at 1:14 PM and three other trips canceled today due to collision",
+      "title": "Route 68, Route 68G: Service Advisory",
+      "summary": "Southbound Route 68G trip departing Hwy 36 & Rice St Park & Ride & Shelter at 7:23 PM will operate from Jackson & Rose at 7:33 PM today",
       "affectedRoutes": [
-        "Route 71"
+        "Route 68",
+        "Route 68G"
       ],
-      "direction": "Both Directions",
+      "direction": "Southbound",
       "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-07T18:14:00.000Z",
-        "end": "2026-10-08T00:51:00.000Z"
-      },
-      "cause": "ACCIDENT",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/71",
-      "updatedAt": "2026-10-07T17:51:47.000Z",
-      "rawHeader": "Route 71 trip departing Market Place Dr & The Marketplace Ctr at 1:14 PM and three other trips canceled today due to collision",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 2:38 PM\r\ndeparting Inver Hills College & Shelter at 5:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 1:14 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 4:10 PM"
-    },
-    {
-      "id": "53919",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 94: Westbound 4:39 PM Trip Canceled (Union Depot & Gate A1)",
-      "summary": "Westbound Route 94 trip departing Union Depot & Gate A1 at 4:39 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 94"
+      "closedStopIds": [
+        "46692",
+        "46693",
+        "46694",
+        "46695",
+        "46696",
+        "40101",
+        "81112",
+        "81115",
+        "57511",
+        "49945",
+        "49946",
+        "49947",
+        "49948",
+        "49949",
+        "56096",
+        "56323"
       ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-07T22:11:00.000Z",
-        "end": "2026-10-07T23:21:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/94",
-      "updatedAt": "2026-10-07T22:12:12.000Z",
-      "rawHeader": "Westbound Route 94 trip departing Union Depot & Gate A1 at 4:39 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "53914",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 542: Eastbound 4:29 PM Trip Canceled (American Blvd & Social Security Admin)",
-      "summary": "Eastbound Route 542 trip departing American Blvd & Social Security Admin at 4:29 PM canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 542"
+      "closedStopDetails": [
+        {
+          "id": "46692"
+        },
+        {
+          "id": "46693"
+        },
+        {
+          "id": "46694"
+        },
+        {
+          "id": "46695"
+        },
+        {
+          "id": "46696"
+        },
+        {
+          "id": "40101"
+        },
+        {
+          "id": "81112"
+        },
+        {
+          "id": "81115"
+        },
+        {
+          "id": "57511"
+        },
+        {
+          "id": "49945"
+        },
+        {
+          "id": "49946"
+        },
+        {
+          "id": "49947"
+        },
+        {
+          "id": "49948"
+        },
+        {
+          "id": "49949"
+        },
+        {
+          "id": "56096"
+        },
+        {
+          "id": "56323"
+        }
       ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {},
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/542",
-      "updatedAt": "2026-10-07T22:58:01.000Z",
-      "rawHeader": "Eastbound Route 542 trip departing American Blvd & Social Security Admin at 4:29 PM canceled today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "53906",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 805: Service Canceled",
-      "summary": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today",
-      "affectedRoutes": [
-        "Route 805"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 805 trip departing 1st Ave S & Monroe St",
-        "departing 1st Ave S & Monroe St",
-        "38 AM\ndeparting 1st Ave S & Monroe St",
-        "38 PM\ndeparting 1st Ave S & Monroe St",
-        "36 PM\ndeparting 1st Ave S & Monroe St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-07T16:38:00.000Z",
-        "end": "2026-10-08T00:24:00.000Z"
-      },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-10-07T16:08:01.000Z",
-      "rawHeader": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 11:38 AM\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
+      "url": "https://www.metrotransit.org/route/68",
+      "updatedAt": "2026-10-08T02:37:01.000Z",
+      "rawHeader": "Southbound Route 68G trip departing Hwy 36 & Rice St P&R & Shelter at 7:23 PM will operate from Jackson & Rose at 7:33 PM today",
+      "rawDescription": ""
     },
     {
       "id": "52943",
@@ -1381,7 +724,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-10-07T07:56:01.000Z",
+      "updatedAt": "2026-10-08T02:00:01.000Z",
       "rawHeader": "Route 2 detoured off Washington Ave from Oak St to Cedar Ave and off 4th St SE from Oak St to 15th Ave SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure",
       "rawDescription": "For eastbound Route 2 get on/off buses at:\r\nCedar Ave S & 3rd St S - Stop #13219 (northbound)\r\n4th St & 15th Ave Station - Stop #16112 (westbound)\r\n\nFor westbound Route 2 get on/off buses at:\r\nUniversity & U of M Rec Center Station - Stop #16142 (eastbound)\r\n3rd St S & Cedar Ave S - Stop #42452 (eastbound)\r\n\nEastbound buses will travel regular route on Cedar Ave to 3rd St, continue on Cedar to Washington Ave/15th Ave S, right on Washington, left on 19th Ave S and continue across the bridge which becomes 10th Ave SE, right on 6th St SE, right on 15th Ave SE, right on 4th St SE, and resume regular route.\r\n\nWestbound buses will travel regular route on Oak St to Washington Ave, left on Washington, right on Huron Blvd and continue onto westbound I-94 ramp, exit at Cedar Ave, right on Cedar, right on 3rd St, and resume regular route.\r\n\nAffected stops:\r\nWashington Ramp & Cedar Ave S - Stop #13221 (eastbound)\r\nWashington Ave & Anderson Hall - Stop #13223 (eastbound)\r\nWashington Ave & Coffman Union - Stop #13209 (eastbound)\r\nOak St SE & University Ave SE - Stop #41243 (northbound)\r\n4th St & Ridder Arena Station - Stop #16154 (westbound)\r\nOak St SE & Washington Ave SE - Stop #41248 (southbound)\r\nWashington Ave & Coffman Union - Stop #13207 (westbound)\r\nWashington Ave & Willey Hall - Stop #13211 (westbound)"
     },
@@ -1636,7 +979,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-10-07T07:56:01.000Z",
+      "updatedAt": "2026-10-08T02:00:01.000Z",
       "rawHeader": "Route 3 detoured off Washington Ave from Cedar Ave to Pleasant St and off Pleasant St from Washington Ave to 4th St SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure",
       "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nWashington Ave S & 15th Ave S - Stop #57023 (eastbound)\r\n3rd St S & Cedar Ave S - Stop #42452 (eastbound)\r\n15th Ave SE & 4th St SE - Stop #16111 (northbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\n15th Ave SE & 4th St SE - Stop #49242 (southbound)\r\nTemporary stop on Washington Ave/15th Ave S & Washington Ave/Cedar Ave, in front of Town Hall Brewery (southbound)\r\nWashington Ave S & 11th Ave S - Stop #19302 (westbound)\r\n\nEastbound buses will travel regular route on Cedar Ave to 3rd St, left on 3rd St (buses do not travel down ramp), left on 19th Ave S and continue across bridge which becomes 10th Ave SE, right on University Ave, left on 15th Ave SE, and resume regular route.\r\n\nWestbound buses will travel regular route on 15th Ave SE to 4th St SE, right on 4th St, left on 10th Ave SE and continue across bridge which becomes 19th Ave S, right on Washington Ave/2nd St S, right on Washington Ave/Cedar Ave, and resume regular route.\r\n\nAffected stops:\r\nWashington Ramp & Cedar Ave S - Stop #13221 (eastbound)\r\nWashington Ave & Anderson Hall - Stop #13223 (eastbound)\r\nE River Pkwy & Appleby Hall - Stop #57013 (northbound)\r\nPleasant St & Jones Hall - Stop #49881 (northbound)\r\nPleasant St & Eddy Hall - Stop #49237 (southbound)\r\nPleasant St SE & Scholars Walk - Stop #54046 (southbound)\r\nWashington Ave & Willey Hall - Stop #13211 (westbound)\r\nCedar Ave S & Washington Ave (15th Ave) - Stop #16325 (westbound)"
     },
