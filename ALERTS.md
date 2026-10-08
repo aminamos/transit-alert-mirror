@@ -2,67 +2,141 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-108-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-102-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-76-brightgreen)](#-routes-index)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-116-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-11-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-101-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-78-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-08T17:49:47.959Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-08T23:14:21.692Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (4) • **Route 22C** (1) • **Route 25** (3) • **Route 27** (3) • **Route 30** (3) • **Route 36** (4) • **Route 38** (4) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (3) • **METRO E Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (2) • **Route 3** (1) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (5) • **Route 22C** (1) • **Route 25** (3) • **Route 27** (3) • **Route 30** (2) • **Route 36** (4) • **Route 38** (3) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 467** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (2) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO E Line: Southbound 11:03 AM Trip Canceled (Westgate Station - Gate A)
+### 🚨 METRO A Line: Service Canceled
 
-- **Affected Routes**: `METRO E Line`
-- **Direction**: Southbound
+- **Affected Routes**: `METRO A Line`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: Southbound E Line trip departing Westgate Station - Gate A at 11:03 AM canceled today due to maintenance work
+**Summary**: A Line trips departing 46th St Station Gate A at 4:52 PM and departing Rosedale Transit Center Gate A at 5:52 PM canceled today due to maintenance work
 
-[Official Agency Advisory](https://www.metrotransit.org/route/eline)
+[Official Agency Advisory](https://www.metrotransit.org/route/aline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound E Line trip departing Westgate Station - Gate A at 11:03 AM canceled today due to maintenance work
+**Header**: A Line trips departing 46th St Station Gate A at 4:52 PM and departing Rosedale Transit Center Gate A at 5:52 PM canceled today due to maintenance work
 
 </details>
 
 ---
 
-### 🚨 Route 30: Service Canceled
+### 🚨 METRO D Line: Service Advisory
 
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Northbound
 - **Severity**: `Critical`
-- **Corridors & Intersections**: 53 AM
-departing Knox Ave N & Golden Valley Rd; 56 AM
-departing Knox Ave N & Golden Valley Rd
+- **Closed Stops**: Stop #47447, Stop #81078, Stop #779, Stop #784, Stop #80138, Stop #737, Stop #52300, Stop #56873 *(+18 more)*
 
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today
+**Summary**: Northbound D Line trip departing MOA Transit Station at 4:29 PM will start from 7th & Bryant. Previous stops missed due to mechanical issue
 
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today
+**Header**: Northbound D Line trip departing MOA Transit Station at 4:29 PM will start from 7th & Bryant. Previous stops missed due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 METRO Orange Line: Southbound 5:12 PM Trip Canceled (Marquette Ave & 3rd St - Stop Group C)
+
+- **Affected Routes**: `METRO Orange Line`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 5:12 PM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/orange)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 5:12 PM canceled today due to maintenance work
+
+</details>
+
+---
+
+### 🚨 METRO Orange Line: Service Advisory
+
+- **Affected Routes**: `METRO Orange Line`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #51110, Stop #56828, Stop #56829, Stop #56830, Stop #56831
+
+**Summary**: Northbound Orange Line trip departing Burnsville Heart of the City Station at 6:06 PM will start from I-35W & 66th. Previous stops missed due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/orange)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Orange Line trip departing Burnsville Heart of the City Station at 6:06 PM will start from I-35W & 66th. Previous stops missed due to maintenance work
+
+</details>
+
+---
+
+### 🚨 Route 2: Westbound 5:28 PM Trip Canceled (2nd Ave SE & 7th St SE)
+
+- **Affected Routes**: `Route 2`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 5:28 PM canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 5:28 PM canceled today due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 22: Service Canceled
+
+- **Affected Routes**: `Route 22`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 3:12 PM and four other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/22)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 3:12 PM and four other trips canceled today
 
 ```text
-Affected eastbound trips:
-departing Golden Valley Rd Turn & Xerxes Ave N at 7:53 AM
-departing Knox Ave N & Golden Valley Rd at 9:56 AM
-departing Knox Ave N & Golden Valley Rd at 11:56 AM
+Affected northbound trips:
+departing VA Medical Center & Visitors Entrance at 4:59 PM
+departing VA Medical Center & Visitors Entrance at 8:29 PM
 
-Affected westbound trips:
-departing Westgate Station - Gate B at 7:07 AM
-departing Westgate Station - Gate B at 9:06 AM
-departing Westgate Station - Gate B at 11:04 AM
+Affected southbound trips:
+departing Brooklyn Ctr Transit Ctr Gate H at 3:12 PM
+departing Brooklyn Ctr Transit Ctr Gate H at 6:43 PM
+departing Brooklyn Ctr Transit Ctr Gate H at 10:01 PM
 ```
 
 </details>
@@ -100,6 +174,89 @@ departing Westgate Station - Gate B at 3:04 PM
 departing Westgate Station - Gate B at 5:04 PM
 departing Westgate Station - Gate B at 7:05 PM
 ```
+
+</details>
+
+---
+
+### 🚨 Route 467: Service Canceled
+
+- **Affected Routes**: `Route 467`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Route 467 trip departing Gateway Ramp & Platform at 3:37 PM and two other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/467)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 467 trip departing Gateway Ramp & Platform at 3:37 PM and two other trips canceled today
+
+```text
+Affected southbound trips:
+departing Gateway Ramp & Platform at 3:37 PM
+departing Gateway Ramp & Platform at 4:37 PM
+departing Gateway Ramp & Platform at 5:07 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 540: Service Canceled
+
+- **Affected Routes**: `Route 540`
+- **Direction**: All
+- **Severity**: `Critical`
+
+**Summary**: Route 540 trips departing MOA Transit Station Gate G at 3:25 PM and departing MOA Transit Station Gate G at 4:55 PM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/540)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 540 trips departing MOA Transit Station Gate G at 3:25 PM and departing MOA Transit Station Gate G at 4:55 PM canceled today due to maintenance work
+
+</details>
+
+---
+
+### 🚨 Route 542: Service Canceled
+
+- **Affected Routes**: `Route 542`
+- **Direction**: All
+- **Severity**: `Critical`
+
+**Summary**: Route 542 trips departing American Blvd & Social Security Admin at 3:59 PM and departing American Blvd & Social Security Admin at 5:29 PM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/542)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 542 trips departing American Blvd & Social Security Admin at 3:59 PM and departing American Blvd & Social Security Admin at 5:29 PM canceled today due to maintenance work
+
+</details>
+
+---
+
+### 🚨 Route 721: Service Canceled
+
+- **Affected Routes**: `Route 721`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 721 trips departing Hennepin Technical College & Main Door at 5:32 PM and departing Brooklyn Ctr Transit Ctr Gate A at 6:05 PM canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/721)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 721 trips departing Hennepin Technical College & Main Door at 5:32 PM and departing Brooklyn Ctr Transit Ctr Gate A at 6:05 PM canceled today due to traffic
 
 </details>
 
@@ -229,7 +386,7 @@ Chicago Ave & 56th St E - Stop #81078 (northbound)
 - **Corridors & Intersections**: Richfield Rd & Bde Maka Ska St; 36th St W & Hennepin Ave; Lyndale Ave S & Lake St W; 36th St W & Irving Ave S
 - **Closed Stops**: Hennepin & 36th St Station (Stop #1316), Hennepin & 33rd St Station (Stop #42216), Hennepin & 25th St Station (Stop #1100), Hennepin & 33rd St Station (Stop #42219), Hennepin & 36th St Station (Stop #1111), Stop #57539, Stop #41337, Stop #1327 *(+3 more)*
 
-**Summary**: E Line detoured off Hennepin ave from 36th St W to 25th St W from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: Richfield Rd & Bde Maka Ska Station - Stop #57539 (northbound); 36th St W & Hennepin Ave - Stop #41337 (eastbound); Lyndale Ave S & Lake St W - Stop #170 (northbound).
+**Summary**: E Line detoured off Hennepin Ave from 36th St W to 25th St W from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: Richfield Rd & Bde Maka Ska Station - Stop #57539 (northbound); 36th St W & Hennepin Ave - Stop #41337 (eastbound); Lyndale Ave S & Lake St W - Stop #170 (northbound).
 
 > 💡 **Rider Action**: Board at: Richfield Rd & Bde Maka Ska Station - Stop #57539 (northbound); 36th St W & Hennepin Ave - Stop #41337 (eastbound); Lyndale Ave S & Lake St W - Stop #170 (northbound)
 
@@ -240,7 +397,7 @@ Chicago Ave & 56th St E - Stop #81078 (northbound)
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: E Line detoured off Hennepin ave from 36th St W to 25th St W from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets
+**Header**: E Line detoured off Hennepin Ave from 36th St W to 25th St W from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets
 
 ```text
 For northbound E Line get on/off buses at:
@@ -1952,33 +2109,6 @@ Affected stops:
 Get on/off buses at:
 Excelsior Blvd & Glenhurst Ave / France - Stop #4858 (eastbound)
 Excelsior Blvd & #3121 - Stop #50109 (eastbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 38: Stop Closed at Excelsior Blvd & Yosemite Ave
-
-- **Affected Routes**: `Route 38`
-- **Direction**: Westbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Excelsior Blvd & Yosemite Ave; Excelsior Blvd & Wooddale Ave; Excelsior Blvd & Alabama Ave S
-- **Closed Stops**: Stop #3544, Stop #3542, Stop #3545
-
-**Summary**: Excelsior Blvd & Yosemite Ave - Stop #3544 (westbound) is closed for Route 38 from 8:00 AM to 3:00 PM on Thu Oct 8 due to construction. Board at: Excelsior Blvd & Wooddale Ave - Stop #3542 (westbound); Excelsior Blvd & Alabama Ave S - Stop #3545 (westbound).
-
-> 💡 **Rider Action**: Board at: Excelsior Blvd & Wooddale Ave - Stop #3542 (westbound); Excelsior Blvd & Alabama Ave S - Stop #3545 (westbound)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Excelsior Blvd & Yosemite Ave - Stop #3544 (westbound) is closed for Route 38 from 8:00 AM to 3:00 PM on Thu Oct 8 due to construction
-
-```text
-Get on/off buses at:
-Excelsior Blvd & Wooddale Ave - Stop #3542 (westbound)
-Excelsior Blvd & Alabama Ave S - Stop #3545 (westbound)
 ```
 
 </details>
@@ -4582,6 +4712,40 @@ Concordia Ave & Asbury St (eastbound)
 
 Get on/off westbound buses at:
 St Anthony Ave & Fry St (westbound)
+```
+
+</details>
+
+---
+
+### ℹ️ Route 615, Route 645: Service Advisory
+
+- **Affected Routes**: `Route 615` `Route 645`
+- **Direction**: Southbound
+- **Severity**: `Minor`
+- **Corridors & Intersections**: Fairfield Rd & Co Rd; Wayzata Blvd N & Westridge Market - St
+- **Closed Stops**: Stop #6069, Stop #47149, Stop #8016, Stop #8122, Stop #7004
+
+**Summary**: Co Rd 73 & Wayzata Blvd N - Stop #6069 (southbound) is permanently moving for Routes 615 and 645. Board at: Fairfield Rd & Co Rd 73 (Hopkins Xroad) - Stop #47149 (eastbound); Co Rd 73/Hopkins Crossroad & Wayzata Blvd (southbound); Hopkins Crossroad & Oak Knoll Terrace S - Stop #8016 (southbound).
+
+> 💡 **Rider Action**: Board at: Fairfield Rd & Co Rd 73 (Hopkins Xroad) - Stop #47149 (eastbound); Co Rd 73/Hopkins Crossroad & Wayzata Blvd (southbound); Hopkins Crossroad & Oak Knoll Terrace S - Stop #8016 (southbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Co Rd 73 & Wayzata Blvd N - Stop #6069 (southbound) is permanently moving for Routes 615 and 645
+
+```text
+Updated to reflect permanent change 10/8 1 pm.
+
+Get on/off Route 615 buses at:
+Fairfield Rd & Co Rd 73 (Hopkins Xroad) - Stop #47149 (eastbound)
+Co Rd 73/Hopkins Crossroad & Wayzata Blvd (southbound)
+Hopkins Crossroad & Oak Knoll Terrace S - Stop #8016 (southbound)
+
+Get on/off Route 645 buses at:
+Wayzata Blvd N & Westridge Market - Stop #8122 (eastbound)
+Co Rd 73 P&R & B Bay - Stop #7004 (eastbound)
 ```
 
 </details>

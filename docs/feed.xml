@@ -4,26 +4,62 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Thu, 08 Oct 2026 17:49:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 23:14:21 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO E Line: Southbound 11:03 AM Trip Canceled (Westgate Station - Gate A)</title>
-      <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-53938-2026-10-08T16:52:01.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 16:52:01 GMT</pubDate>
+      <title>[Critical] METRO A Line: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/aline</link>
+      <guid isPermaLink="false">Metro Transit-53956-2026-10-08T23:12:40.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 23:12:40 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO E Line</category>
-      <description>Southbound E Line trip departing Westgate Station - Gate A at 11:03 AM canceled today due to maintenance work</description>
+      <category>METRO A Line</category>
+      <description>A Line trips departing 46th St Station Gate A at 4:52 PM and departing Rosedale Transit Center Gate A at 5:52 PM canceled today due to maintenance work</description>
     </item>
     <item>
-      <title>[Critical] Route 30: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-53930-2026-10-08T11:47:50.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 11:47:50 GMT</pubDate>
+      <title>[Critical] METRO D Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-53951-2026-10-08T22:09:19.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 22:09:19 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 30</category>
-      <description>Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today</description>
+      <category>METRO D Line</category>
+      <description>Northbound D Line trip departing MOA Transit Station at 4:29 PM will start from 7th &amp; Bryant. Previous stops missed due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] METRO Orange Line: Southbound 5:12 PM Trip Canceled (Marquette Ave &amp; 3rd St - Stop Group C)</title>
+      <link>https://www.metrotransit.org/route/orange</link>
+      <guid isPermaLink="false">Metro Transit-53952-2026-10-08T22:29:36.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 22:29:36 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO Orange Line</category>
+      <description>Southbound Orange Line trip departing Marquette Ave &amp; 3rd St - Stop Group C at 5:12 PM canceled today due to maintenance work</description>
+    </item>
+    <item>
+      <title>[Critical] METRO Orange Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/orange</link>
+      <guid isPermaLink="false">Metro Transit-53954-2026-10-08T23:07:24.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 23:07:24 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO Orange Line</category>
+      <description>Northbound Orange Line trip departing Burnsville Heart of the City Station at 6:06 PM will start from I-35W &amp; 66th. Previous stops missed due to maintenance work</description>
+    </item>
+    <item>
+      <title>[Critical] Route 2: Westbound 5:28 PM Trip Canceled (2nd Ave SE &amp; 7th St SE)</title>
+      <link>https://www.metrotransit.org/route/2</link>
+      <guid isPermaLink="false">Metro Transit-53953-2026-10-08T23:05:34.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 23:05:34 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 2</category>
+      <description>Westbound Route 2 trip departing 2nd Ave SE &amp; 7th St SE at 5:28 PM canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 22: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/22</link>
+      <guid isPermaLink="false">Metro Transit-53941-2026-10-08T19:42:01.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 19:42:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 22</category>
+      <description>Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 3:12 PM and four other trips canceled today</description>
     </item>
     <item>
       <title>[Critical] Route 30: Service Canceled</title>
@@ -33,6 +69,42 @@
       <category>Critical</category>
       <category>Route 30</category>
       <description>Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 467: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/467</link>
+      <guid isPermaLink="false">Metro Transit-53947-2026-10-08T20:51:24.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 20:51:24 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 467</category>
+      <description>Route 467 trip departing Gateway Ramp &amp; Platform at 3:37 PM and two other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 540: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/540</link>
+      <guid isPermaLink="false">Metro Transit-53944-2026-10-08T19:55:01.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 19:55:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 540</category>
+      <description>Route 540 trips departing MOA Transit Station Gate G at 3:25 PM and departing MOA Transit Station Gate G at 4:55 PM canceled today due to maintenance work</description>
+    </item>
+    <item>
+      <title>[Critical] Route 542: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/542</link>
+      <guid isPermaLink="false">Metro Transit-53945-2026-10-08T20:29:00.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 20:29:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 542</category>
+      <description>Route 542 trips departing American Blvd &amp; Social Security Admin at 3:59 PM and departing American Blvd &amp; Social Security Admin at 5:29 PM canceled today due to maintenance work</description>
+    </item>
+    <item>
+      <title>[Critical] Route 721: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/721</link>
+      <guid isPermaLink="false">Metro Transit-53955-2026-10-08T23:08:31.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 23:08:31 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 721</category>
+      <description>Route 721 trips departing Hennepin Technical College &amp; Main Door at 5:32 PM and departing Brooklyn Ctr Transit Ctr Gate A at 6:05 PM canceled today due to traffic</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -73,11 +145,11 @@
     <item>
       <title>[Moderate] METRO E Line: Detour via Richfield Rd &amp; Bde Maka Ska St</title>
       <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-53854-2026-10-06T13:55:37.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 13:55:37 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53854-2026-10-08T18:48:08.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 18:48:08 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO E Line</category>
-      <description>E Line detoured off Hennepin ave from 36th St W to 25th St W from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: Richfield Rd &amp; Bde Maka Ska Station - Stop #57539 (northbound); 36th St W &amp; Hennepin Ave - Stop #41337 (eastbound); Lyndale Ave S &amp; Lake St W - Stop #170 (northbound). | Action: Board at: Richfield Rd &amp; Bde Maka Ska Station - Stop #57539 (northbound); 36th St W &amp; Hennepin Ave - Stop #41337 (eastbound); Lyndale Ave S &amp; Lake St W - Stop #170 (northbound)</description>
+      <description>E Line detoured off Hennepin Ave from 36th St W to 25th St W from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: Richfield Rd &amp; Bde Maka Ska Station - Stop #57539 (northbound); 36th St W &amp; Hennepin Ave - Stop #41337 (eastbound); Lyndale Ave S &amp; Lake St W - Stop #170 (northbound). | Action: Board at: Richfield Rd &amp; Bde Maka Ska Station - Stop #57539 (northbound); 36th St W &amp; Hennepin Ave - Stop #41337 (eastbound); Lyndale Ave S &amp; Lake St W - Stop #170 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] METRO Gold Line: Detour via 6th St &amp; Jackson St</title>
@@ -244,8 +316,8 @@
     <item>
       <title>[Moderate] Route 17: Detour via Lake St W &amp; Humboldt Ave S</title>
       <link>https://www.metrotransit.org/route/17</link>
-      <guid isPermaLink="false">Metro Transit-53856-2026-10-06T14:06:27.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 14:06:27 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53856-2026-10-08T18:49:30.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 18:49:30 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 17</category>
       <description>Route 17 detoured off Hennepin Ave from 24th St W to Lagoon Ave from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: Lake St W &amp; Humboldt Ave S - Stop #16827 (eastbound); 24th St W &amp; Pleasant Ave S - Stop #40342 (eastbound). | Action: Board at: Lake St W &amp; Humboldt Ave S - Stop #16827 (eastbound); 24th St W &amp; Pleasant Ave S - Stop #40342 (eastbound)</description>
@@ -361,8 +433,8 @@
     <item>
       <title>[Moderate] Route 27: Detour via Lagoon Ave &amp; Emerson Ave S</title>
       <link>https://www.metrotransit.org/route/27</link>
-      <guid isPermaLink="false">Metro Transit-53858-2026-10-06T14:13:01.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 14:13:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53858-2026-10-08T18:50:11.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 18:50:11 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 27</category>
       <description>Route 27 detoured out of Uptown Transit Station from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: Lagoon Ave &amp; Emerson Ave S - Stop #17040 (westbound); Lake &amp; Hennepin Station - Stop #57355 (eastbound). | Action: Board at: Lagoon Ave &amp; Emerson Ave S - Stop #17040 (westbound); Lake &amp; Hennepin Station - Stop #57355 (eastbound)</description>
@@ -406,8 +478,8 @@
     <item>
       <title>[Moderate] Route 36: Detour via 36th St W &amp; Irving Ave S</title>
       <link>https://www.metrotransit.org/route/36</link>
-      <guid isPermaLink="false">Metro Transit-53853-2026-10-06T13:39:23.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 13:39:23 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53853-2026-10-08T18:47:15.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 18:47:15 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 36</category>
       <description>Route 36 detoured off Hennepin Ave from 36th St W to 29th St W from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: 36th St W &amp; Irving Ave S - Stop #1313 (eastbound); Temporary terminal Lagoon Ave &amp; Emerson Ave S (westbound). | Action: Board at: 36th St W &amp; Irving Ave S - Stop #1313 (eastbound); Temporary terminal Lagoon Ave &amp; Emerson Ave S (westbound)</description>
@@ -429,15 +501,6 @@
       <category>Moderate</category>
       <category>Route 38</category>
       <description>Excelsior Blvd &amp; 32nd St W - Stop #4859 (eastbound) is closed for Route 38 until further notice due to construction. Board at: Excelsior Blvd &amp; Glenhurst Ave / France - Stop #4858 (eastbound); Excelsior Blvd &amp; #3121 - Stop #50109 (eastbound). | Action: Board at: Excelsior Blvd &amp; Glenhurst Ave / France - Stop #4858 (eastbound); Excelsior Blvd &amp; #3121 - Stop #50109 (eastbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 38: Stop Closed at Excelsior Blvd &amp; Yosemite Ave</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-53671-2026-10-08T12:30:01.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 12:30:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 38</category>
-      <description>Excelsior Blvd &amp; Yosemite Ave - Stop #3544 (westbound) is closed for Route 38 from 8:00 AM to 3:00 PM on Thu Oct 8 due to construction. Board at: Excelsior Blvd &amp; Wooddale Ave - Stop #3542 (westbound); Excelsior Blvd &amp; Alabama Ave S - Stop #3545 (westbound). | Action: Board at: Excelsior Blvd &amp; Wooddale Ave - Stop #3542 (westbound); Excelsior Blvd &amp; Alabama Ave S - Stop #3545 (westbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 54, Route 54M: Detour via 5th St &amp; Robert St</title>
@@ -559,8 +622,8 @@
     <item>
       <title>[Moderate] Route 67: Detour via Minnehaha Ave &amp; Dale St</title>
       <link>https://www.metrotransit.org/route/67</link>
-      <guid isPermaLink="false">Metro Transit-53620-2026-10-06T17:51:45.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 17:51:45 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53620-2026-10-08T21:37:01.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 21:37:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 67</category>
       <description>Route 67 detoured off Dale St from Minnehaha Ave to Thomas Ave and off Thomas Ave from Dale St to Kent St until further notice due to construction. Board at: Minnehaha Ave &amp; Dale St - Stop #15065 (eastbound); Temporary stop on Kent St at Thomas Ave (southbound); Thomas Ave &amp; Mackubin St - Stop #18835 (eastbound). | Action: Board at: Minnehaha Ave &amp; Dale St - Stop #15065 (eastbound); Temporary stop on Kent St at Thomas Ave (southbound); Thomas Ave &amp; Mackubin St - Stop #18835 (eastbound)</description>
@@ -766,8 +829,8 @@
     <item>
       <title>[Moderate] Route 537: Detour via 108th St W &amp; France Ave S</title>
       <link>https://www.metrotransit.org/route/537</link>
-      <guid isPermaLink="false">Metro Transit-53855-2026-10-06T14:05:12.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 14:05:12 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53855-2026-10-08T18:48:51.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 18:48:51 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 537</category>
       <description>Route 537 detoured off Beard Ave from Old Shakopee Rd to 108th St until further notice due to construction. Board at: 108th St W &amp; France Ave S - Stop #56794 (westbound). | Action: Board at: 108th St W &amp; France Ave S - Stop #56794 (westbound)</description>
@@ -978,6 +1041,15 @@
       <category>Minor</category>
       <category>Route 94, METRO Gold Line</category>
       <description>Concordia Ave &amp; Snelling Ave - Stop #18665 (eastbound) and St Anthony Ave &amp; Snelling Ave N - Stop #57088 (westbound) are temporarily moving for Route 94 beginning Fri Jul 31 at 4:00 AM until further notice due to Gold Line Extension construction. Board at: Concordia Ave &amp; Asbury St (eastbound). | Action: Board at: Concordia Ave &amp; Asbury St (eastbound)</description>
+    </item>
+    <item>
+      <title>[Minor] Route 615, Route 645: Service Advisory</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-53940-2026-10-08T17:54:58.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 17:54:58 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 615, Route 645</category>
+      <description>Co Rd 73 &amp; Wayzata Blvd N - Stop #6069 (southbound) is permanently moving for Routes 615 and 645. Board at: Fairfield Rd &amp; Co Rd 73 (Hopkins Xroad) - Stop #47149 (eastbound); Co Rd 73/Hopkins Crossroad &amp; Wayzata Blvd (southbound); Hopkins Crossroad &amp; Oak Knoll Terrace S - Stop #8016 (southbound). | Action: Board at: Fairfield Rd &amp; Co Rd 73 (Hopkins Xroad) - Stop #47149 (eastbound); Co Rd 73/Hopkins Crossroad &amp; Wayzata Blvd (southbound); Hopkins Crossroad &amp; Oak Knoll Terrace S - Stop #8016 (southbound)</description>
     </item>
   </channel>
 </rss>
