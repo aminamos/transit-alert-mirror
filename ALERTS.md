@@ -2,92 +2,35 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-111-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-104-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-106-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-102-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-08T02:39:56.581Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-08T10:22:09.880Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (3) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (3) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (4) • **Route 22C** (1) • **Route 25** (3) • **Route 27** (3) • **Route 30** (2) • **Route 36** (4) • **Route 38** (4) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 68G** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (4) • **Route 22C** (1) • **Route 25** (3) • **Route 27** (3) • **Route 30** (1) • **Route 36** (4) • **Route 38** (4) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO D Line: Northbound 8:43 PM Trip Canceled (MOA Transit Station Gate A)
+### 🚨 Route 4: Southbound 4:24 AM Trip Canceled (Silver Lk & Cub Foods Svc Rd / 39th Ave)
 
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound D Line trip departing MOA Transit Station Gate A at 8:43 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound D Line trip departing MOA Transit Station Gate A at 8:43 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 10: Northbound 8:41 PM Trip Canceled (Leamington Ramp & Lower - Gate #7)
-
-- **Affected Routes**: `Route 10`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Route 10 trip departing Leamington Ramp & Lower - Gate #7 at 8:41 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/10)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 10 trip departing Leamington Ramp & Lower - Gate #7 at 8:41 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 30: Service Canceled
-
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 30 trips departing Westgate Station - Gate B at 7:05 PM and departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 30 trips departing Westgate Station - Gate B at 7:05 PM and departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 68, Route 68G: Service Advisory
-
-- **Affected Routes**: `Route 68` `Route 68G`
+- **Affected Routes**: `Route 4`
 - **Direction**: Southbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #46692, Stop #46693, Stop #46694, Stop #46695, Stop #46696, Stop #40101, Stop #81112, Stop #81115 *(+8 more)*
+- **Corridors & Intersections**: Cub Foods Svc Rd & 39th Ave
 
-**Summary**: Southbound Route 68G trip departing Hwy 36 & Rice St Park & Ride & Shelter at 7:23 PM will operate from Jackson & Rose at 7:33 PM today
+**Summary**: Southbound Route 4 trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 4:24 AM canceled today due to maintenance work
 
-[Official Agency Advisory](https://www.metrotransit.org/route/68)
+[Official Agency Advisory](https://www.metrotransit.org/route/4)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 68G trip departing Hwy 36 & Rice St P&R & Shelter at 7:23 PM will operate from Jackson & Rose at 7:33 PM today
+**Header**: Southbound Route 4 trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 4:24 AM canceled today due to maintenance work
 
 </details>
 
@@ -382,55 +325,6 @@ Franklin Ave W & Pleasant Ave S - Stop #13328 (WB)
 
 ---
 
-### ⚠️ Route 2: Detour via Cedar Ave S & 3rd St S
-
-- **Affected Routes**: `Route 2`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Cedar Ave S & 3rd St S; 4th St & 15th Ave S; 3rd St S & Cedar Ave S; continue on Cedar to Washington Ave & 15th Ave S; Washington Ave & Anderson Hall - St
-- **Closed Stops**: Washington Ramp & Cedar Ave S (Stop #13221), Washington Ave & Anderson Hall (Stop #13223), Washington Ave & Coffman Union (Stop #13209), Oak St SE & University Ave SE (Stop #41243), 4th St & Ridder Arena Station (Stop #16154), Oak St SE & Washington Ave SE (Stop #41248), Washington Ave & Coffman Union (Stop #13207), Washington Ave & Willey Hall (Stop #13211) *(+4 more)*
-
-**Summary**: Route 2 detoured off Washington Ave from Oak St to Cedar Ave and off 4th St SE from Oak St to 15th Ave SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure. Board at: Cedar Ave S & 3rd St S - Stop #13219 (northbound); 4th St & 15th Ave Station - Stop #16112 (westbound).
-
-> 💡 **Rider Action**: Board at: Cedar Ave S & 3rd St S - Stop #13219 (northbound); 4th St & 15th Ave Station - Stop #16112 (westbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on Cedar Ave to 3rd St, continue on Cedar to Washington Ave/15th Ave S, right on Washington, left on 19th Ave S and continue across the bridge which becomes 10th Ave SE, right on 6th St SE, right on 15th Ave SE, right on 4th St SE, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 2 detoured off Washington Ave from Oak St to Cedar Ave and off 4th St SE from Oak St to 15th Ave SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure
-
-```text
-For eastbound Route 2 get on/off buses at:
-Cedar Ave S & 3rd St S - Stop #13219 (northbound)
-4th St & 15th Ave Station - Stop #16112 (westbound)
-
-For westbound Route 2 get on/off buses at:
-University & U of M Rec Center Station - Stop #16142 (eastbound)
-3rd St S & Cedar Ave S - Stop #42452 (eastbound)
-
-Eastbound buses will travel regular route on Cedar Ave to 3rd St, continue on Cedar to Washington Ave/15th Ave S, right on Washington, left on 19th Ave S and continue across the bridge which becomes 10th Ave SE, right on 6th St SE, right on 15th Ave SE, right on 4th St SE, and resume regular route.
-
-Westbound buses will travel regular route on Oak St to Washington Ave, left on Washington, right on Huron Blvd and continue onto westbound I-94 ramp, exit at Cedar Ave, right on Cedar, right on 3rd St, and resume regular route.
-
-Affected stops:
-Washington Ramp & Cedar Ave S - Stop #13221 (eastbound)
-Washington Ave & Anderson Hall - Stop #13223 (eastbound)
-Washington Ave & Coffman Union - Stop #13209 (eastbound)
-Oak St SE & University Ave SE - Stop #41243 (northbound)
-4th St & Ridder Arena Station - Stop #16154 (westbound)
-Oak St SE & Washington Ave SE - Stop #41248 (southbound)
-Washington Ave & Coffman Union - Stop #13207 (westbound)
-Washington Ave & Willey Hall - Stop #13211 (westbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 3, Route 3A: Detour via Maryland Ave & Galtier St
 
 - **Affected Routes**: `Route 3` `Route 3A`
@@ -492,57 +386,6 @@ Rice St & Lawson Ave - Stop #10498 (northbound)
 Rice St & Geranium Ave - Stop #10501 (northbound)
 Maryland Ave & Rice St - Stop #47074 (westbound)
 Maryland Ave & Galtier St - Stop #5579 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 3: Detour via Washington Ave S & 15th Ave S
-
-- **Affected Routes**: `Route 3`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Washington Ave S & 15th Ave S; 3rd St S & Cedar Ave S; 15th Ave SE & 4th St S; Washington Ave & 15th Ave S; Washington Ave & Cedar Ave
-- **Closed Stops**: Washington Ramp & Cedar Ave S (Stop #13221), Washington Ave & Anderson Hall (Stop #13223), E River Pkwy & Appleby Hall (Stop #57013), Pleasant St & Jones Hall (Stop #49881), Pleasant St & Eddy Hall (Stop #49237), Pleasant St SE & Scholars Walk (Stop #54046), Washington Ave & Willey Hall (Stop #13211), Cedar Ave S & Washington Ave (15th Ave) (Stop #16325) *(+5 more)*
-
-**Summary**: Route 3 detoured off Washington Ave from Cedar Ave to Pleasant St and off Pleasant St from Washington Ave to 4th St SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure. Board at: Washington Ave S & 15th Ave S - Stop #57023 (eastbound); 3rd St S & Cedar Ave S - Stop #42452 (eastbound); 15th Ave SE & 4th St SE - Stop #16111 (northbound).
-
-> 💡 **Rider Action**: Board at: Washington Ave S & 15th Ave S - Stop #57023 (eastbound); 3rd St S & Cedar Ave S - Stop #42452 (eastbound); 15th Ave SE & 4th St SE - Stop #16111 (northbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on Cedar Ave to 3rd St, left on 3rd St (buses do not travel down ramp), left on 19th Ave S and continue across bridge which becomes 10th Ave SE, right on University Ave, left on 15th Ave SE, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/3)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 3 detoured off Washington Ave from Cedar Ave to Pleasant St and off Pleasant St from Washington Ave to 4th St SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure
-
-```text
-For eastbound Route 3 get on/off buses at:
-Washington Ave S & 15th Ave S - Stop #57023 (eastbound)
-3rd St S & Cedar Ave S - Stop #42452 (eastbound)
-15th Ave SE & 4th St SE - Stop #16111 (northbound)
-
-For westbound Route 3 get on/off buses at:
-15th Ave SE & 4th St SE - Stop #49242 (southbound)
-Temporary stop on Washington Ave/15th Ave S & Washington Ave/Cedar Ave, in front of Town Hall Brewery (southbound)
-Washington Ave S & 11th Ave S - Stop #19302 (westbound)
-
-Eastbound buses will travel regular route on Cedar Ave to 3rd St, left on 3rd St (buses do not travel down ramp), left on 19th Ave S and continue across bridge which becomes 10th Ave SE, right on University Ave, left on 15th Ave SE, and resume regular route.
-
-Westbound buses will travel regular route on 15th Ave SE to 4th St SE, right on 4th St, left on 10th Ave SE and continue across bridge which becomes 19th Ave S, right on Washington Ave/2nd St S, right on Washington Ave/Cedar Ave, and resume regular route.
-
-Affected stops:
-Washington Ramp & Cedar Ave S - Stop #13221 (eastbound)
-Washington Ave & Anderson Hall - Stop #13223 (eastbound)
-E River Pkwy & Appleby Hall - Stop #57013 (northbound)
-Pleasant St & Jones Hall - Stop #49881 (northbound)
-Pleasant St & Eddy Hall - Stop #49237 (southbound)
-Pleasant St SE & Scholars Walk - Stop #54046 (southbound)
-Washington Ave & Willey Hall - Stop #13211 (westbound)
-Cedar Ave S & Washington Ave (15th Ave) - Stop #16325 (westbound)
 ```
 
 </details>

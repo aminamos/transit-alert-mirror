@@ -4,44 +4,17 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Thu, 08 Oct 2026 02:39:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 10:22:09 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO D Line: Northbound 8:43 PM Trip Canceled (MOA Transit Station Gate A)</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-53925-2026-10-08T02:06:41.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 02:06:41 GMT</pubDate>
+      <title>[Critical] Route 4: Southbound 4:24 AM Trip Canceled (Silver Lk &amp; Cub Foods Svc Rd / 39th Ave)</title>
+      <link>https://www.metrotransit.org/route/4</link>
+      <guid isPermaLink="false">Metro Transit-53928-2026-10-08T09:32:05.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 09:32:05 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Northbound D Line trip departing MOA Transit Station Gate A at 8:43 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 10: Northbound 8:41 PM Trip Canceled (Leamington Ramp &amp; Lower - Gate #7)</title>
-      <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-53926-2026-10-08T02:33:23.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 02:33:23 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 10</category>
-      <description>Northbound Route 10 trip departing Leamington Ramp &amp; Lower - Gate #7 at 8:41 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 30: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-53910-2026-10-08T02:35:01.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 02:35:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 30</category>
-      <description>Route 30 trips departing Westgate Station - Gate B at 7:05 PM and departing Golden Valley Rd Turn &amp; Xerxes Ave N at 7:55 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 68, Route 68G: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/68</link>
-      <guid isPermaLink="false">Metro Transit-53924-2026-10-08T02:37:01.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 02:37:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 68, Route 68G</category>
-      <description>Southbound Route 68G trip departing Hwy 36 &amp; Rice St Park &amp; Ride &amp; Shelter at 7:23 PM will operate from Jackson &amp; Rose at 7:33 PM today</description>
+      <category>Route 4</category>
+      <description>Southbound Route 4 trip departing Silver Lk &amp; Cub Foods Svc Rd / 39th Ave at 4:24 AM canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -107,15 +80,6 @@
       <description>Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction. Temporary stop at 24th St just past Lyndale Ave (eastbound). | Action: Temporary stop at 24th St just past Lyndale Ave (eastbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 2: Detour via Cedar Ave S &amp; 3rd St S</title>
-      <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-53614-2026-10-08T02:00:01.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 02:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 2</category>
-      <description>Route 2 detoured off Washington Ave from Oak St to Cedar Ave and off 4th St SE from Oak St to 15th Ave SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure. Board at: Cedar Ave S &amp; 3rd St S - Stop #13219 (northbound); 4th St &amp; 15th Ave Station - Stop #16112 (westbound). | Action: Board at: Cedar Ave S &amp; 3rd St S - Stop #13219 (northbound); 4th St &amp; 15th Ave Station - Stop #16112 (westbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 3, Route 3A: Detour via Maryland Ave &amp; Galtier St</title>
       <link>https://www.metrotransit.org/route/3</link>
       <guid isPermaLink="false">Metro Transit-45893-2026-04-13T09:00:01.000Z</guid>
@@ -123,15 +87,6 @@
       <category>Moderate</category>
       <category>Route 3, Route 3A</category>
       <description>Route 3A detoured off Maryland Ave from Galtier St to Rice St and off Rice St from Maryland Ave to Como Ave beginning Mon Apr 6 at 4:00 AM until further notice due to construction. Board at: Maryland Ave &amp; Galtier St - Stop #5571 (eastbound); Temporary stop on Galtier St &amp; Cook Ave (southbound); Temporary stop on Galtier St &amp; Front Ave (southbound). | Action: Board at: Maryland Ave &amp; Galtier St - Stop #5571 (eastbound); Temporary stop on Galtier St &amp; Cook Ave (southbound); Temporary stop on Galtier St &amp; Front Ave (southbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 3: Detour via Washington Ave S &amp; 15th Ave S</title>
-      <link>https://www.metrotransit.org/route/3</link>
-      <guid isPermaLink="false">Metro Transit-53615-2026-10-08T02:00:01.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 02:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 3</category>
-      <description>Route 3 detoured off Washington Ave from Cedar Ave to Pleasant St and off Pleasant St from Washington Ave to 4th St SE from Sun Oct 4 to Thu Oct 8 every night from 9:30 PM to 5:00 AM due to Washington Bridge closure. Board at: Washington Ave S &amp; 15th Ave S - Stop #57023 (eastbound); 3rd St S &amp; Cedar Ave S - Stop #42452 (eastbound); 15th Ave SE &amp; 4th St SE - Stop #16111 (northbound). | Action: Board at: Washington Ave S &amp; 15th Ave S - Stop #57023 (eastbound); 3rd St S &amp; Cedar Ave S - Stop #42452 (eastbound); 15th Ave SE &amp; 4th St SE - Stop #16111 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 5: Detour via Chicago Ave S &amp; 41st St E</title>
@@ -235,8 +190,8 @@
     <item>
       <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor</title>
       <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-53859-2026-10-07T05:00:01.000Z</guid>
-      <pubDate>Wed, 07 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53859-2026-10-08T05:00:01.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 10, Route 11, Route 17, Route 18, Route 25</category>
       <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 10th St to 11th St from Thu Oct 8 at 6:00 AM to Fri Oct 9 at 6:00 PM due to utility work. Board at: Nicollet Mall &amp; 9th St S - Stop #17982 (southbound); Nicollet Mall &amp; Alice Rainville Place - Stop #17986 (southbound). | Action: Board at: Nicollet Mall &amp; 9th St S - Stop #17982 (southbound); Nicollet Mall &amp; Alice Rainville Place - Stop #17986 (southbound)</description>
@@ -262,8 +217,8 @@
     <item>
       <title>[Moderate] Route 14: Detour via Washington Ave &amp; 17th Ave N</title>
       <link>https://www.metrotransit.org/route/14</link>
-      <guid isPermaLink="false">Metro Transit-53818-2026-10-06T19:28:07.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 19:28:07 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53818-2026-10-08T05:00:01.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 14</category>
       <description>Northbound Route 14 detoured off West Broadway from Washington Ave to Lyndale Ave from 8:30 AM to 3:00 PM on Fri Oct 9 due to construction. Board at: Washington Ave &amp; 17th Ave N - Stop #16353 (northbound); West Broadway &amp; Aldrich Ave N - Stop #8306 (westbound). | Action: Board at: Washington Ave &amp; 17th Ave N - Stop #16353 (northbound); West Broadway &amp; Aldrich Ave N - Stop #8306 (westbound)</description>
@@ -352,8 +307,8 @@
     <item>
       <title>[Moderate] Route 22, Route 22C: Detour via 53rd Ave N &amp; Colfax Ave</title>
       <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-53865-2026-10-07T05:00:01.000Z</guid>
-      <pubDate>Wed, 07 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53865-2026-10-08T05:00:01.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 22, Route 22C</category>
       <description>Route 22C detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice. Board at: 53rd Ave N &amp; Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N &amp; 57th Ave N - Stop #11442 (northbound). | Action: Board at: 53rd Ave N &amp; Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N &amp; 57th Ave N - Stop #11442 (northbound)</description>
@@ -397,8 +352,8 @@
     <item>
       <title>[Moderate] Route 30: Detour via West Broadway Ave &amp; 2nd St N</title>
       <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-53819-2026-10-06T19:31:45.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 19:31:45 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53819-2026-10-08T05:00:01.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 30</category>
       <description>Westbound Route 30 detoured off West Broadway from Washington Ave to Lyndale Ave from 8:30 AM to 3:00 PM on Fri Oct 9 due to construction. Board at: West Broadway Ave &amp; 2nd St N - Stop #12257 (westbound); West Broadway &amp; Aldrich Ave N - Stop #8306 (westbound). | Action: Board at: West Broadway Ave &amp; 2nd St N - Stop #12257 (westbound); West Broadway &amp; Aldrich Ave N - Stop #8306 (westbound)</description>
@@ -460,8 +415,8 @@
     <item>
       <title>[Moderate] Route 38: Stop Closed at Excelsior Blvd &amp; Yosemite Ave</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-53671-2026-10-07T05:00:02.000Z</guid>
-      <pubDate>Wed, 07 Oct 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53671-2026-10-08T05:00:01.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 38</category>
       <description>Excelsior Blvd &amp; Yosemite Ave - Stop #3544 (westbound) is closed for Route 38 from 8:00 AM to 3:00 PM on Thu Oct 8 due to construction. Board at: Excelsior Blvd &amp; Wooddale Ave - Stop #3542 (westbound); Excelsior Blvd &amp; Alabama Ave S - Stop #3545 (westbound). | Action: Board at: Excelsior Blvd &amp; Wooddale Ave - Stop #3542 (westbound); Excelsior Blvd &amp; Alabama Ave S - Stop #3545 (westbound)</description>
@@ -928,8 +883,8 @@
     <item>
       <title>[Moderate] Route 763: Detour via 53rd Ave N &amp; Colfax Ave</title>
       <link>https://www.metrotransit.org/route/763</link>
-      <guid isPermaLink="false">Metro Transit-53866-2026-10-07T05:00:01.000Z</guid>
-      <pubDate>Wed, 07 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53866-2026-10-08T05:00:01.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 763</category>
       <description>Route 763 detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice. Board at: 53rd Ave N &amp; Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N &amp; 57th Ave N - Stop #11442 (northbound). | Action: Board at: 53rd Ave N &amp; Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N &amp; 57th Ave N - Stop #11442 (northbound)</description>
