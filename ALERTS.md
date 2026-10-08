@@ -2,35 +2,104 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-106-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-108-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-102-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-76-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-08T10:22:09.880Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-08T17:49:47.959Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (4) • **Route 22C** (1) • **Route 25** (3) • **Route 27** (3) • **Route 30** (1) • **Route 36** (4) • **Route 38** (4) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (4) • **Route 22C** (1) • **Route 25** (3) • **Route 27** (3) • **Route 30** (3) • **Route 36** (4) • **Route 38** (4) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 4: Southbound 4:24 AM Trip Canceled (Silver Lk & Cub Foods Svc Rd / 39th Ave)
+### 🚨 METRO E Line: Southbound 11:03 AM Trip Canceled (Westgate Station - Gate A)
 
-- **Affected Routes**: `Route 4`
+- **Affected Routes**: `METRO E Line`
 - **Direction**: Southbound
 - **Severity**: `Critical`
-- **Corridors & Intersections**: Cub Foods Svc Rd & 39th Ave
 
-**Summary**: Southbound Route 4 trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 4:24 AM canceled today due to maintenance work
+**Summary**: Southbound E Line trip departing Westgate Station - Gate A at 11:03 AM canceled today due to maintenance work
 
-[Official Agency Advisory](https://www.metrotransit.org/route/4)
+[Official Agency Advisory](https://www.metrotransit.org/route/eline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 4 trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 4:24 AM canceled today due to maintenance work
+**Header**: Southbound E Line trip departing Westgate Station - Gate A at 11:03 AM canceled today due to maintenance work
+
+</details>
+
+---
+
+### 🚨 Route 30: Service Canceled
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 53 AM
+departing Knox Ave N & Golden Valley Rd; 56 AM
+departing Knox Ave N & Golden Valley Rd
+
+**Summary**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Golden Valley Rd Turn & Xerxes Ave N at 7:53 AM
+departing Knox Ave N & Golden Valley Rd at 9:56 AM
+departing Knox Ave N & Golden Valley Rd at 11:56 AM
+
+Affected westbound trips:
+departing Westgate Station - Gate B at 7:07 AM
+departing Westgate Station - Gate B at 9:06 AM
+departing Westgate Station - Gate B at 11:04 AM
+```
+
+</details>
+
+---
+
+### 🚨 Route 30: Service Canceled
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 56 PM
+departing Knox Ave N & Golden Valley Rd; 54 PM
+departing Knox Ave N & Golden Valley Rd
+
+**Summary**: Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled due to mechanical issue
+
+```text
+Affected eastbound trips:
+departing Knox Ave N & Golden Valley Rd at 1:56 PM
+departing Knox Ave N & Golden Valley Rd at 3:54 PM
+departing Knox Ave N & Golden Valley Rd at 5:56 PM
+departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM
+
+Affected westbound trips:
+departing Westgate Station - Gate B at 1:04 PM
+departing Westgate Station - Gate B at 3:04 PM
+departing Westgate Station - Gate B at 5:04 PM
+departing Westgate Station - Gate B at 7:05 PM
+```
 
 </details>
 
@@ -2615,30 +2684,29 @@ Dale St & Blair Ave - Stop #10700 (northbound)
 - **Affected Routes**: `Route 67`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Franklin Ave SE & Seymour Ave; Franklin Ave & Berry St; Franklin Ave SE & Bedford St
+- **Schedule**: Beginning Tue Oct 13 at 6:00 AM until further notice
+- **Corridors & Intersections**: Franklin Ave SE & Seymour Ave; Franklin Ave & Berry St; Franklin Ave SE & Bedford St; Franklin Ave (Seymour Ave to Emerald St)
 - **Closed Stops**: Franklin Ave SE & Bedford St (Stop #52063), Stop #52062, Stop #54099
 
-**Summary**: Eastbound Route 67 detoured off Franklin Ave E between Seymour and Emerald until further notice due to water work. Board at: Franklin Ave SE & Seymour Ave - Stop #52062 (eastbound); Franklin Ave & Berry St - Stop #54099 (eastbound).
+**Summary**: Route 67 detoured off Franklin Ave from Seymour Ave to Emerald St beginning Tue Oct 13 at 6:00 AM until further notice due to utility work. Board at: Franklin Ave SE & Seymour Ave - Stop #52062 (eastbound); Franklin Ave & Berry St - Stop #54099 (eastbound).
 
 > 💡 **Rider Action**: Board at: Franklin Ave SE & Seymour Ave - Stop #52062 (eastbound); Franklin Ave & Berry St - Stop #54099 (eastbound)
 
-> 🔄 **Detour Path**: Eastbound buses will travel east on Franklin Ave SE to Seymour Ave SE, right on Seymour, left on Sharon Ave, left on Emerald St, right on Franklin and resume regular route
+> 🔄 **Detour Path**: Eastbound buses will travel east on Franklin Ave to Seymour Ave, right on Seymour, left on Sharon Ave, left on Emerald St, right on Franklin and resume regular route
 
 [Official Agency Advisory](https://www.metrotransit.org/route/67)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Route 67 detoured off Franklin Ave E between Seymour and Emerald until further notice due to water work
+**Header**: Route 67 detoured off Franklin Ave from Seymour Ave to Emerald St beginning Tue Oct 13 at 6:00 AM until further notice due to utility work
 
 ```text
-Updated the timeline of the detour 10/6 at 8:30 AM.
-
 Get on/off buses at:
 Franklin Ave SE & Seymour Ave - Stop #52062 (eastbound)
 Franklin Ave & Berry St - Stop #54099 (eastbound)
 
-Eastbound buses will travel east on Franklin Ave SE to Seymour Ave SE, right on Seymour, left on Sharon Ave, left on Emerald St, right on Franklin and resume regular route
+Eastbound buses will travel east on Franklin Ave to Seymour Ave, right on Seymour, left on Sharon Ave, left on Emerald St, right on Franklin and resume regular route
 
 Westbound buses not affected
 

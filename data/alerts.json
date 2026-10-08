@@ -1,43 +1,100 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-08T10:22:09.880Z",
-    "totalAlerts": 106,
-    "criticalCount": 1,
+    "generatedAt": "2026-10-08T17:49:47.959Z",
+    "totalAlerts": 108,
+    "criticalCount": 3,
     "moderateCount": 102,
     "minorCount": 3,
-    "affectedRoutesCount": 77,
+    "affectedRoutesCount": 76,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "53928",
+      "id": "53938",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 4: Southbound 4:24 AM Trip Canceled (Silver Lk & Cub Foods Svc Rd / 39th Ave)",
-      "summary": "Southbound Route 4 trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 4:24 AM canceled today due to maintenance work",
+      "title": "METRO E Line: Southbound 11:03 AM Trip Canceled (Westgate Station - Gate A)",
+      "summary": "Southbound E Line trip departing Westgate Station - Gate A at 11:03 AM canceled today due to maintenance work",
       "affectedRoutes": [
-        "Route 4"
+        "METRO E Line"
       ],
       "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-08T16:51:00.000Z",
+        "end": "2026-10-08T18:01:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/eline",
+      "updatedAt": "2026-10-08T16:52:01.000Z",
+      "rawHeader": "Southbound E Line trip departing Westgate Station - Gate A at 11:03 AM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "53930",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 30: Service Canceled",
+      "summary": "Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today",
+      "affectedRoutes": [
+        "Route 30"
+      ],
+      "direction": "Both Directions",
       "intersections": [
-        "Cub Foods Svc Rd & 39th Ave"
+        "53 AM\ndeparting Knox Ave N & Golden Valley Rd",
+        "56 AM\ndeparting Knox Ave N & Golden Valley Rd"
       ],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-08T09:31:00.000Z",
-        "end": "2026-10-08T11:36:00.000Z"
+        "start": "2026-10-08T12:07:00.000Z",
+        "end": "2026-10-08T18:36:00.000Z"
       },
-      "cause": "MAINTENANCE",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/4",
-      "updatedAt": "2026-10-08T09:32:05.000Z",
-      "rawHeader": "Southbound Route 4 trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 4:24 AM canceled today due to maintenance work",
-      "rawDescription": ""
+      "url": "https://www.metrotransit.org/route/30",
+      "updatedAt": "2026-10-08T11:47:50.000Z",
+      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:53 AM\r\ndeparting Knox Ave N & Golden Valley Rd at 9:56 AM\r\ndeparting Knox Ave N & Golden Valley Rd at 11:56 AM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 7:07 AM\r\ndeparting Westgate Station - Gate B at 9:06 AM\r\ndeparting Westgate Station - Gate B at 11:04 AM"
+    },
+    {
+      "id": "53931",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 30: Service Canceled",
+      "summary": "Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled due to mechanical issue",
+      "affectedRoutes": [
+        "Route 30"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "departing Knox Ave N & Golden Valley Rd",
+        "56 PM\ndeparting Knox Ave N & Golden Valley Rd",
+        "54 PM\ndeparting Knox Ave N & Golden Valley Rd"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-08T12:59:00.000Z",
+        "end": "2026-10-08T19:48:24.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/30",
+      "updatedAt": "2026-10-08T12:59:55.000Z",
+      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled due to mechanical issue",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 1:56 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 3:54 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 5:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 1:04 PM\r\ndeparting Westgate Station - Gate B at 3:04 PM\r\ndeparting Westgate Station - Gate B at 5:04 PM\r\ndeparting Westgate Station - Gate B at 7:05 PM"
     },
     {
       "id": "52943",
@@ -1248,7 +1305,7 @@
       "cause": "MAINTENANCE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/10",
-      "updatedAt": "2026-10-08T05:00:01.000Z",
+      "updatedAt": "2026-10-08T10:30:01.000Z",
       "rawHeader": "Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 10th St to 11th St from Thu Oct 8 at 6:00 AM to Fri Oct 9 at 6:00 PM due to utility work",
       "rawDescription": "No northbound/eastbound stops missed. Buses will only detour when the road is blocked.\r\n\nGet on/off southbound/westbound buses at:\r\nNicollet Mall & 9th St S - Stop #17982 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17986 (southbound)\r\n\nNorthbound/eastbound buses will travel regular route on Nicollet Mall to 11th St, left on 11th St, right on LaSalle Ave, right on 10th St, left on Nicollet Mall, and resume regular route.\r\n\nSouthbound/westbound buses will travel regular route on Nicollet Mall to 10th St, left on 10th St, right on Marquette Ave, right on 11th St, left on Nicollet Mall, and resume regular route.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)"
     },
@@ -2121,7 +2178,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-10-08T05:00:01.000Z",
+      "updatedAt": "2026-10-08T11:30:08.000Z",
       "rawHeader": "Route 22C detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice",
       "rawDescription": "Get on/off northbound buses at:\r\n53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound)\r\nDupont Ave N & 57th Ave N - Stop #11442 (northbound)\r\n\nNo southbound stops are missed.\r\n\nNorthbound buses will travel the regular route on Dupont Ave to 54th Ave, left on 54th Ave, right on Emerson Ave, right on 55th Ave, left on Dupont Ave, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Dupont Ave to 55th Ave, right on 55th Ave, left on Emerson Ave, left on 54th Ave, right on Dupont Ave, and resume the regular route.\r\n\nAffected stops:\r\nDupont Ave N & 55th Ave N - Stop #52676 (northbound)"
     },
@@ -2249,7 +2306,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/25",
-      "updatedAt": "2026-10-02T21:09:22.000Z",
+      "updatedAt": "2026-10-08T12:00:02.000Z",
       "rawHeader": "Route 25 detoured off Long Lake Rd from Co Rd H to Co Rd H2 and off Co Rd H2 from Silver Lake Rd to Long Lake Rd beginning Thu Oct 1 at 7:00 AM until further notice",
       "rawDescription": "For northbound Route 25 get on/off buses at:\r\nSilver Lake Rd & Co Rd H - Stop #14078 (northbound)\r\nTemporary stop on County Rd H2 at Skiba Dr (eastbound)\r\nCounty Rd H2 & Edgewood Dr - Stop #57221 (eastbound)\r\n\nFor southbound Route 25 get on/off buses at:\r\nCounty Rd H2 & Edgewood Dr - Stop #57234 (westbound)\r\nTemporary stop Co Rd H2 at Long Lake Rd (westbound)\r\nSilver Lake Rd & Gregory Dr - Stop #14081 (southbound)\r\n\nNorthbound buses will travel the regular route on Silver Lake Rd to Co Rd H, right on Co Rd H, left on Long Lake Rd, right on Co Rd H2, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Co Rd H2 to Long Lake Rd, left on Long Lake Rd, right on Co Rd H, left on Silver Lake Rd, and resume the regular route.\r\n\nAffected stops:\r\nSilver Lake Rd & Woodale Dr - Stop #57236 (northbound)\r\nCo Rd H-2 & Silver Lake Rd - Stop #14045 (eastbound)\r\nCo Rd H-2 & Red Oak Dr - Stop #14046 (eastbound)\r\nCo Rd H-2 & Scotland Green Apts (W) - Stop #40135 (eastbound)\r\nCo Rd H-2 & Scotland Green Apts (E) - Stop #14050 (eastbound)\r\nCo Rd H-2 & Long Lake Rd - Stop #14053 (eastbound)\r\nCo Rd H-2 & Long Lake Rd - Stop #40107 (westbound)\r\nCo Rd H-2 & Scotland Green Apts (E) - Stop #14052 (westbound)\r\nCo Rd H-2 & Scotland Green Apts (W) - Stop #14051 (westbound)\r\nCo Rd H-2 & Parkview Dr - Stop #14047 (westbound)\r\nCo Rd H-2 & Silver Lake Rd - Stop #14044 (westbound)\r\nSilver Lake Rd & Woodale Dr - Stop #57237 (southbound)\r\nSilver Lake Rd & County Rd H W - Stop #57642 (southbound)"
     },
@@ -2971,7 +3028,7 @@
       },
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-08T05:00:01.000Z",
+      "updatedAt": "2026-10-08T12:30:01.000Z",
       "rawHeader": "Excelsior Blvd & Yosemite Ave - Stop #3544 (westbound) is closed for Route 38 from 8:00 AM to 3:00 PM on Thu Oct 8 due to construction",
       "rawDescription": "Get on/off buses at:\r\nExcelsior Blvd & Wooddale Ave - Stop #3542 (westbound)\r\nExcelsior Blvd & Alabama Ave S - Stop #3545 (westbound)"
     },
@@ -4188,11 +4245,11 @@
       "rawDescription": "For eastbound Route 67 get on/off buses at:\r\nMinnehaha Ave & Dale St - Stop #15065 (eastbound)\r\nTemporary stop on Kent St at Thomas Ave (southbound)\r\nThomas Ave & Mackubin St - Stop #18835 (eastbound)\r\n\nFor westbound Route 67 get on/off buses at:\r\nThomas Ave & Kent St - Stop #18852 (westbound)\r\nMinnehaha Ave & Dale St - Stop #15090 (westbound)\r\n\nEastbound buses will travel the regular route on Minnehaha Ave to Dale St, continue on Minnehaha Ave, right on Kent St, left on Thomas Ave, and resume the regular route.\r\n\nWestbound buses will follow the regular route on Thomas Ave to Kent St, right on Kent St, left on Minnehaha Ave to Dale St, continue on Minnehaha Ave, and resume the regular route.\r\n\nAffected stops:\r\nDale St & Blair Ave - Stop #10740 (southbound)\r\nThomas Ave & Dale St - Stop #41971 (eastbound)\r\nThomas Ave & Kent St - Stop #18834 (eastbound)\r\nThomas Ave & Dale St - Stop #18853 (westbound)\r\nDale St & Blair Ave - Stop #10700 (northbound)"
     },
     {
-      "id": "53848",
+      "id": "53935",
       "agency": "Metro Transit",
       "severity": "Moderate",
       "title": "Route 67: Detour via Franklin Ave SE & Seymour Ave",
-      "summary": "Eastbound Route 67 detoured off Franklin Ave E between Seymour and Emerald until further notice due to water work. Board at: Franklin Ave SE & Seymour Ave - Stop #52062 (eastbound); Franklin Ave & Berry St - Stop #54099 (eastbound).",
+      "summary": "Route 67 detoured off Franklin Ave from Seymour Ave to Emerald St beginning Tue Oct 13 at 6:00 AM until further notice due to utility work. Board at: Franklin Ave SE & Seymour Ave - Stop #52062 (eastbound); Franklin Ave & Berry St - Stop #54099 (eastbound).",
       "affectedRoutes": [
         "Route 67"
       ],
@@ -4200,7 +4257,8 @@
       "intersections": [
         "Franklin Ave SE & Seymour Ave",
         "Franklin Ave & Berry St",
-        "Franklin Ave SE & Bedford St"
+        "Franklin Ave SE & Bedford St",
+        "Franklin Ave (Seymour Ave to Emerald St)"
       ],
       "closedStopIds": [
         "52063",
@@ -4221,16 +4279,17 @@
         }
       ],
       "riderAlternative": "Board at: Franklin Ave SE & Seymour Ave - Stop #52062 (eastbound); Franklin Ave & Berry St - Stop #54099 (eastbound)",
-      "detourDetails": "Eastbound buses will travel east on Franklin Ave SE to Seymour Ave SE, right on Seymour, left on Sharon Ave, left on Emerald St, right on Franklin and resume regular route",
+      "detourDetails": "Eastbound buses will travel east on Franklin Ave to Seymour Ave, right on Seymour, left on Sharon Ave, left on Emerald St, right on Franklin and resume regular route",
       "activePeriod": {
-        "start": "2026-10-06T12:51:00.000Z"
+        "start": "2026-10-13T11:00:00.000Z",
+        "textDescription": "Beginning Tue Oct 13 at 6:00 AM until further notice"
       },
       "cause": "MAINTENANCE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/67",
-      "updatedAt": "2026-10-06T13:27:04.000Z",
-      "rawHeader": "Eastbound Route 67 detoured off Franklin Ave E between Seymour and Emerald until further notice due to water work",
-      "rawDescription": "Updated the timeline of the detour 10/6 at 8:30 AM.\r\n\nGet on/off buses at:\r\nFranklin Ave SE & Seymour Ave - Stop #52062 (eastbound)\r\nFranklin Ave & Berry St - Stop #54099 (eastbound)\r\n\nEastbound buses will travel east on Franklin Ave SE to Seymour Ave SE, right on Seymour, left on Sharon Ave, left on Emerald St, right on Franklin and resume regular route\r\n\nWestbound buses not affected\r\n\nAffected stops:\r\nFranklin Ave SE & Bedford St - Stop #52063 (eastbound)"
+      "updatedAt": "2026-10-08T15:29:57.000Z",
+      "rawHeader": "Route 67 detoured off Franklin Ave from Seymour Ave to Emerald St beginning Tue Oct 13 at 6:00 AM until further notice due to utility work",
+      "rawDescription": "Get on/off buses at:\r\nFranklin Ave SE & Seymour Ave - Stop #52062 (eastbound)\r\nFranklin Ave & Berry St - Stop #54099 (eastbound)\r\n\nEastbound buses will travel east on Franklin Ave to Seymour Ave, right on Seymour, left on Sharon Ave, left on Emerald St, right on Franklin and resume regular route\r\n\nWestbound buses not affected\r\n\nAffected stops:\r\nFranklin Ave SE & Bedford St - Stop #52063 (eastbound)"
     },
     {
       "id": "49088",
@@ -6731,7 +6790,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/763",
-      "updatedAt": "2026-10-08T05:00:01.000Z",
+      "updatedAt": "2026-10-08T11:30:08.000Z",
       "rawHeader": "Route 763 detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice",
       "rawDescription": "Get on/off northbound buses at:\r\n53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound)\r\nDupont Ave N & 57th Ave N - Stop #11442 (northbound)\r\n\nNo southbound stops are missed.\r\n\nNorthbound buses will travel the regular route on Dupont Ave to 54th Ave, left on 54th Ave, right on Emerson Ave, right on 55th Ave, left on Dupont Ave, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Dupont Ave to 55th Ave, right on 55th Ave, left on Emerson Ave, left on 54th Ave, right on Dupont Ave, and resume the regular route.\r\n\nAffected stops:\r\nDupont Ave N & 55th Ave N - Stop #52676 (northbound)"
     },

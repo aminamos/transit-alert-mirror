@@ -4,17 +4,35 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Thu, 08 Oct 2026 10:22:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:49:47 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 4: Southbound 4:24 AM Trip Canceled (Silver Lk &amp; Cub Foods Svc Rd / 39th Ave)</title>
-      <link>https://www.metrotransit.org/route/4</link>
-      <guid isPermaLink="false">Metro Transit-53928-2026-10-08T09:32:05.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 09:32:05 GMT</pubDate>
+      <title>[Critical] METRO E Line: Southbound 11:03 AM Trip Canceled (Westgate Station - Gate A)</title>
+      <link>https://www.metrotransit.org/route/eline</link>
+      <guid isPermaLink="false">Metro Transit-53938-2026-10-08T16:52:01.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 16:52:01 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 4</category>
-      <description>Southbound Route 4 trip departing Silver Lk &amp; Cub Foods Svc Rd / 39th Ave at 4:24 AM canceled today due to maintenance work</description>
+      <category>METRO E Line</category>
+      <description>Southbound E Line trip departing Westgate Station - Gate A at 11:03 AM canceled today due to maintenance work</description>
+    </item>
+    <item>
+      <title>[Critical] Route 30: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/30</link>
+      <guid isPermaLink="false">Metro Transit-53930-2026-10-08T11:47:50.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 11:47:50 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 30</category>
+      <description>Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 30: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/30</link>
+      <guid isPermaLink="false">Metro Transit-53931-2026-10-08T12:59:55.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 12:59:55 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 30</category>
+      <description>Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled due to mechanical issue</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -190,8 +208,8 @@
     <item>
       <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor</title>
       <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-53859-2026-10-08T05:00:01.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53859-2026-10-08T10:30:01.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 10:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 10, Route 11, Route 17, Route 18, Route 25</category>
       <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 10th St to 11th St from Thu Oct 8 at 6:00 AM to Fri Oct 9 at 6:00 PM due to utility work. Board at: Nicollet Mall &amp; 9th St S - Stop #17982 (southbound); Nicollet Mall &amp; Alice Rainville Place - Stop #17986 (southbound). | Action: Board at: Nicollet Mall &amp; 9th St S - Stop #17982 (southbound); Nicollet Mall &amp; Alice Rainville Place - Stop #17986 (southbound)</description>
@@ -307,8 +325,8 @@
     <item>
       <title>[Moderate] Route 22, Route 22C: Detour via 53rd Ave N &amp; Colfax Ave</title>
       <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-53865-2026-10-08T05:00:01.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53865-2026-10-08T11:30:08.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 11:30:08 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 22, Route 22C</category>
       <description>Route 22C detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice. Board at: 53rd Ave N &amp; Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N &amp; 57th Ave N - Stop #11442 (northbound). | Action: Board at: 53rd Ave N &amp; Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N &amp; 57th Ave N - Stop #11442 (northbound)</description>
@@ -316,8 +334,8 @@
     <item>
       <title>[Moderate] Route 25: Detour via Silver Lake Rd &amp; Co Rd</title>
       <link>https://www.metrotransit.org/route/25</link>
-      <guid isPermaLink="false">Metro Transit-53578-2026-10-02T21:09:22.000Z</guid>
-      <pubDate>Fri, 02 Oct 2026 21:09:22 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53578-2026-10-08T12:00:02.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 12:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 25</category>
       <description>Route 25 detoured off Long Lake Rd from Co Rd H to Co Rd H2 and off Co Rd H2 from Silver Lake Rd to Long Lake Rd beginning Thu Oct 1 at 7:00 AM until further notice. Board at: Silver Lake Rd &amp; Co Rd H - Stop #14078 (northbound); Temporary stop on County Rd H2 at Skiba Dr (eastbound); County Rd H2 &amp; Edgewood Dr - Stop #57221 (eastbound). | Action: Board at: Silver Lake Rd &amp; Co Rd H - Stop #14078 (northbound); Temporary stop on County Rd H2 at Skiba Dr (eastbound); County Rd H2 &amp; Edgewood Dr - Stop #57221 (eastbound)</description>
@@ -415,8 +433,8 @@
     <item>
       <title>[Moderate] Route 38: Stop Closed at Excelsior Blvd &amp; Yosemite Ave</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-53671-2026-10-08T05:00:01.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53671-2026-10-08T12:30:01.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 12:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 38</category>
       <description>Excelsior Blvd &amp; Yosemite Ave - Stop #3544 (westbound) is closed for Route 38 from 8:00 AM to 3:00 PM on Thu Oct 8 due to construction. Board at: Excelsior Blvd &amp; Wooddale Ave - Stop #3542 (westbound); Excelsior Blvd &amp; Alabama Ave S - Stop #3545 (westbound). | Action: Board at: Excelsior Blvd &amp; Wooddale Ave - Stop #3542 (westbound); Excelsior Blvd &amp; Alabama Ave S - Stop #3545 (westbound)</description>
@@ -550,11 +568,11 @@
     <item>
       <title>[Moderate] Route 67: Detour via Franklin Ave SE &amp; Seymour Ave</title>
       <link>https://www.metrotransit.org/route/67</link>
-      <guid isPermaLink="false">Metro Transit-53848-2026-10-06T13:27:04.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 13:27:04 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53935-2026-10-08T15:29:57.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 15:29:57 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 67</category>
-      <description>Eastbound Route 67 detoured off Franklin Ave E between Seymour and Emerald until further notice due to water work. Board at: Franklin Ave SE &amp; Seymour Ave - Stop #52062 (eastbound); Franklin Ave &amp; Berry St - Stop #54099 (eastbound). | Action: Board at: Franklin Ave SE &amp; Seymour Ave - Stop #52062 (eastbound); Franklin Ave &amp; Berry St - Stop #54099 (eastbound)</description>
+      <description>Route 67 detoured off Franklin Ave from Seymour Ave to Emerald St beginning Tue Oct 13 at 6:00 AM until further notice due to utility work. Board at: Franklin Ave SE &amp; Seymour Ave - Stop #52062 (eastbound); Franklin Ave &amp; Berry St - Stop #54099 (eastbound). | Action: Board at: Franklin Ave SE &amp; Seymour Ave - Stop #52062 (eastbound); Franklin Ave &amp; Berry St - Stop #54099 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 68: Detour via Jackson St &amp; Sims Ave</title>
@@ -883,8 +901,8 @@
     <item>
       <title>[Moderate] Route 763: Detour via 53rd Ave N &amp; Colfax Ave</title>
       <link>https://www.metrotransit.org/route/763</link>
-      <guid isPermaLink="false">Metro Transit-53866-2026-10-08T05:00:01.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53866-2026-10-08T11:30:08.000Z</guid>
+      <pubDate>Thu, 08 Oct 2026 11:30:08 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 763</category>
       <description>Route 763 detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice. Board at: 53rd Ave N &amp; Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N &amp; 57th Ave N - Stop #11442 (northbound). | Action: Board at: 53rd Ave N &amp; Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N &amp; 57th Ave N - Stop #11442 (northbound)</description>
