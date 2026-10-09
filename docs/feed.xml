@@ -4,62 +4,17 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Thu, 08 Oct 2026 23:14:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 05:52:38 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO A Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/aline</link>
-      <guid isPermaLink="false">Metro Transit-53956-2026-10-08T23:12:40.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 23:12:40 GMT</pubDate>
+      <title>[Critical] METRO Gold Line: Eastbound 11:41 PM Trip Canceled (Smith &amp; 5th St Station)</title>
+      <link>https://www.metrotransit.org/route/gold</link>
+      <guid isPermaLink="false">Metro Transit-53963-2026-10-09T05:08:51.000Z</guid>
+      <pubDate>Fri, 09 Oct 2026 05:08:51 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO A Line</category>
-      <description>A Line trips departing 46th St Station Gate A at 4:52 PM and departing Rosedale Transit Center Gate A at 5:52 PM canceled today due to maintenance work</description>
-    </item>
-    <item>
-      <title>[Critical] METRO D Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-53951-2026-10-08T22:09:19.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 22:09:19 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Northbound D Line trip departing MOA Transit Station at 4:29 PM will start from 7th &amp; Bryant. Previous stops missed due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] METRO Orange Line: Southbound 5:12 PM Trip Canceled (Marquette Ave &amp; 3rd St - Stop Group C)</title>
-      <link>https://www.metrotransit.org/route/orange</link>
-      <guid isPermaLink="false">Metro Transit-53952-2026-10-08T22:29:36.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 22:29:36 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO Orange Line</category>
-      <description>Southbound Orange Line trip departing Marquette Ave &amp; 3rd St - Stop Group C at 5:12 PM canceled today due to maintenance work</description>
-    </item>
-    <item>
-      <title>[Critical] METRO Orange Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/orange</link>
-      <guid isPermaLink="false">Metro Transit-53954-2026-10-08T23:07:24.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 23:07:24 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO Orange Line</category>
-      <description>Northbound Orange Line trip departing Burnsville Heart of the City Station at 6:06 PM will start from I-35W &amp; 66th. Previous stops missed due to maintenance work</description>
-    </item>
-    <item>
-      <title>[Critical] Route 2: Westbound 5:28 PM Trip Canceled (2nd Ave SE &amp; 7th St SE)</title>
-      <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-53953-2026-10-08T23:05:34.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 23:05:34 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 2</category>
-      <description>Westbound Route 2 trip departing 2nd Ave SE &amp; 7th St SE at 5:28 PM canceled today due to traffic</description>
-    </item>
-    <item>
-      <title>[Critical] Route 22: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-53941-2026-10-08T19:42:01.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 19:42:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 22</category>
-      <description>Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 3:12 PM and four other trips canceled today</description>
+      <category>METRO Gold Line</category>
+      <description>Eastbound Gold Line trip departing Smith &amp; 5th St Station at 11:41 PM canceled</description>
     </item>
     <item>
       <title>[Critical] Route 30: Service Canceled</title>
@@ -69,42 +24,6 @@
       <category>Critical</category>
       <category>Route 30</category>
       <description>Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 467: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/467</link>
-      <guid isPermaLink="false">Metro Transit-53947-2026-10-08T20:51:24.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 20:51:24 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 467</category>
-      <description>Route 467 trip departing Gateway Ramp &amp; Platform at 3:37 PM and two other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 540: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/540</link>
-      <guid isPermaLink="false">Metro Transit-53944-2026-10-08T19:55:01.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 19:55:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 540</category>
-      <description>Route 540 trips departing MOA Transit Station Gate G at 3:25 PM and departing MOA Transit Station Gate G at 4:55 PM canceled today due to maintenance work</description>
-    </item>
-    <item>
-      <title>[Critical] Route 542: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/542</link>
-      <guid isPermaLink="false">Metro Transit-53945-2026-10-08T20:29:00.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 20:29:00 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 542</category>
-      <description>Route 542 trips departing American Blvd &amp; Social Security Admin at 3:59 PM and departing American Blvd &amp; Social Security Admin at 5:29 PM canceled today due to maintenance work</description>
-    </item>
-    <item>
-      <title>[Critical] Route 721: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/721</link>
-      <guid isPermaLink="false">Metro Transit-53955-2026-10-08T23:08:31.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 23:08:31 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 721</category>
-      <description>Route 721 trips departing Hennepin Technical College &amp; Main Door at 5:32 PM and departing Brooklyn Ctr Transit Ctr Gate A at 6:05 PM canceled today due to traffic</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -170,6 +89,15 @@
       <description>Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction. Temporary stop at 24th St just past Lyndale Ave (eastbound). | Action: Temporary stop at 24th St just past Lyndale Ave (eastbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 2: Detour via Cedar Ave S &amp; 3rd St S</title>
+      <link>https://www.metrotransit.org/route/2</link>
+      <guid isPermaLink="false">Metro Transit-53899-2026-10-09T05:00:02.000Z</guid>
+      <pubDate>Fri, 09 Oct 2026 05:00:02 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 2</category>
+      <description>Route 2 detoured off Washington Ave from Oak St to Cedar Ave and off 4th St SE from Fri Oct 9 to Wed Oct 14 every Monday, Tuesday, Friday, Saturday and Sunday from 9:00 PM to 6:00 AM due to Washington Bridge closure. Board at: Cedar Ave S &amp; 3rd St S - Stop #13219 (northbound); 4th St &amp; 15th Ave Station - Stop #16112 (westbound). | Action: Board at: Cedar Ave S &amp; 3rd St S - Stop #13219 (northbound); 4th St &amp; 15th Ave Station - Stop #16112 (westbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 3, Route 3A: Detour via Maryland Ave &amp; Galtier St</title>
       <link>https://www.metrotransit.org/route/3</link>
       <guid isPermaLink="false">Metro Transit-45893-2026-04-13T09:00:01.000Z</guid>
@@ -179,13 +107,13 @@
       <description>Route 3A detoured off Maryland Ave from Galtier St to Rice St and off Rice St from Maryland Ave to Como Ave beginning Mon Apr 6 at 4:00 AM until further notice due to construction. Board at: Maryland Ave &amp; Galtier St - Stop #5571 (eastbound); Temporary stop on Galtier St &amp; Cook Ave (southbound); Temporary stop on Galtier St &amp; Front Ave (southbound). | Action: Board at: Maryland Ave &amp; Galtier St - Stop #5571 (eastbound); Temporary stop on Galtier St &amp; Cook Ave (southbound); Temporary stop on Galtier St &amp; Front Ave (southbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 5: Detour via Chicago Ave S &amp; 41st St E</title>
-      <link>https://www.metrotransit.org/route/5</link>
-      <guid isPermaLink="false">Metro Transit-51930-2026-09-03T16:21:48.000Z</guid>
-      <pubDate>Thu, 03 Sep 2026 16:21:48 GMT</pubDate>
+      <title>[Moderate] Route 3: Detour via Washington Ave S &amp; 15th Ave S</title>
+      <link>https://www.metrotransit.org/route/3</link>
+      <guid isPermaLink="false">Metro Transit-53900-2026-10-09T05:00:02.000Z</guid>
+      <pubDate>Fri, 09 Oct 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
-      <category>Route 5</category>
-      <description>Route 5 detoured off Chicago Ave from 41st St to 39th St until further notice due to construction. Board at: Chicago Ave S &amp; 41st St E - Stop #791 (northbound); Park &amp; 38th St Station - Stop #80138 (northbound). | Action: Board at: Chicago Ave S &amp; 41st St E - Stop #791 (northbound); Park &amp; 38th St Station - Stop #80138 (northbound)</description>
+      <category>Route 3</category>
+      <description>Route 3 detoured off Washington Ave from Cedar Ave to Pleasant St and off Pleasant St from Washington Ave to 4th St SE from Fri Oct 9 to Wed Oct 14 every Mon, Tue, Fri, Sat and Sun from 9:00 PM to 6:00 AM due to Washington Bridge closure. Board at: Washington Ave S &amp; 15th Ave S - Stop #57023 (eastbound); 3rd St S &amp; Cedar Ave S - Stop #42452 (eastbound); 15th Ave SE &amp; 4th St SE - Stop #16111 (northbound). | Action: Board at: Washington Ave S &amp; 15th Ave S - Stop #57023 (eastbound); 3rd St S &amp; Cedar Ave S - Stop #42452 (eastbound); 15th Ave SE &amp; 4th St SE - Stop #16111 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 7: Stop Closed at Plymouth Ave &amp; Lyndale Ave N</title>
@@ -269,19 +197,10 @@
       <description>Route 9 detoured off 25th St from 32nd Ave to 34th Ave beginning Tue Oct 6 at 7:00 AM until further notice due to construction. Board at: 25th St E &amp; 31st Ave S - Stop #16455 (eastbound); 25th St E &amp; 35th Ave S - Stop #16459 (eastbound). | Action: Board at: 25th St E &amp; 31st Ave S - Stop #16455 (eastbound); 25th St E &amp; 35th Ave S - Stop #16459 (eastbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 10, Route 25: Detour via Routes 10 and 25 detoured off Grant St &amp; 2nd Ave S</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-53005-2026-10-05T18:06:49.000Z</guid>
-      <pubDate>Mon, 05 Oct 2026 18:06:49 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 10, Route 25</category>
-      <description>Routes 10 and 25 detoured off Grant St and 2nd Ave S from Nicollet Mall to 3rd Ave S beginning Wed Aug 12 at 4:00 AM until further notice due to construction. Board at: 3rd Ave S &amp; 11th St S - Stop #19277 (southbound); Nicollet Mall &amp; Alice Rainville Place - Stop #17988 (northbound). | Action: Board at: 3rd Ave S &amp; 11th St S - Stop #19277 (southbound); Nicollet Mall &amp; Alice Rainville Place - Stop #17988 (northbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor</title>
       <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-53859-2026-10-08T10:30:01.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 10:30:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53859-2026-10-09T05:00:01.000Z</guid>
+      <pubDate>Fri, 09 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 10, Route 11, Route 17, Route 18, Route 25</category>
       <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 10th St to 11th St from Thu Oct 8 at 6:00 AM to Fri Oct 9 at 6:00 PM due to utility work. Board at: Nicollet Mall &amp; 9th St S - Stop #17982 (southbound); Nicollet Mall &amp; Alice Rainville Place - Stop #17986 (southbound). | Action: Board at: Nicollet Mall &amp; 9th St S - Stop #17982 (southbound); Nicollet Mall &amp; Alice Rainville Place - Stop #17986 (southbound)</description>
@@ -307,8 +226,8 @@
     <item>
       <title>[Moderate] Route 14: Detour via Washington Ave &amp; 17th Ave N</title>
       <link>https://www.metrotransit.org/route/14</link>
-      <guid isPermaLink="false">Metro Transit-53818-2026-10-08T05:00:01.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53818-2026-10-09T05:00:01.000Z</guid>
+      <pubDate>Fri, 09 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 14</category>
       <description>Northbound Route 14 detoured off West Broadway from Washington Ave to Lyndale Ave from 8:30 AM to 3:00 PM on Fri Oct 9 due to construction. Board at: Washington Ave &amp; 17th Ave N - Stop #16353 (northbound); West Broadway &amp; Aldrich Ave N - Stop #8306 (westbound). | Action: Board at: Washington Ave &amp; 17th Ave N - Stop #16353 (northbound); West Broadway &amp; Aldrich Ave N - Stop #8306 (westbound)</description>
@@ -442,8 +361,8 @@
     <item>
       <title>[Moderate] Route 30: Detour via West Broadway Ave &amp; 2nd St N</title>
       <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-53819-2026-10-08T05:00:01.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53819-2026-10-09T05:00:01.000Z</guid>
+      <pubDate>Fri, 09 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 30</category>
       <description>Westbound Route 30 detoured off West Broadway from Washington Ave to Lyndale Ave from 8:30 AM to 3:00 PM on Fri Oct 9 due to construction. Board at: West Broadway Ave &amp; 2nd St N - Stop #12257 (westbound); West Broadway &amp; Aldrich Ave N - Stop #8306 (westbound). | Action: Board at: West Broadway Ave &amp; 2nd St N - Stop #12257 (westbound); West Broadway &amp; Aldrich Ave N - Stop #8306 (westbound)</description>
