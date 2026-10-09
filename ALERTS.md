@@ -2,17 +2,17 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-113-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-8-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-101-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-121-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-14-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-103-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-76-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-79-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-09T13:03:36.488Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-09T19:25:00.148Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (3) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (1) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (4) • **Route 22C** (1) • **Route 25** (2) • **Route 27** (4) • **Route 30** (2) • **Route 36** (5) • **Route 38** (3) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (3) • **Route 87** (1) • **Route 94** (1) • **Route 114** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (5) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (3) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (7) • **Route 10** (5) • **Route 11** (5) • **Route 11D** (1) • **Route 14** (2) • **Route 17** (2) • **Route 18** (7) • **Route 22** (4) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (3) • **Route 30** (2) • **Route 36** (4) • **Route 38** (3) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (1) • **Route 63** (3) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (3) • **Route 87** (1) • **Route 94** (2) • **Route 134** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (2) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
@@ -35,20 +35,168 @@
 
 ---
 
-### 🚨 Route 27: 8:00 AM Trip Canceled (Uptown Transit Station - Gates D/E)
+### 🚨 Route 9: Service Canceled
 
-- **Affected Routes**: `Route 27`
-- **Direction**: All
+- **Affected Routes**: `Route 9`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
+- **Corridors & Intersections**: 44 PM
+departing Hedberg Dr & Cedar Lake Rd
 
-**Summary**: Route 27 trip departing Uptown Transit Station - Gates D/E at 8:00 AM canceled
+**Summary**: Route 9 trip departing Louisiana Transit Center & Gate C at 1:44 PM and two other trips canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/27)
+[Official Agency Advisory](https://www.metrotransit.org/route/9)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 27 trip departing Uptown Transit Station - Gates D/E at 8:00 AM canceled
+**Header**: Route 9 trip departing Louisiana Transit Center & Gate C at 1:44 PM and two other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Louisiana Transit Center & Gate C at 1:44 PM
+departing Hedberg Dr & Cedar Lake Rd/Greenbrier Rd at 5:09 PM
+
+Affected westbound trips:
+departing 46th St Station & Gate H at 3:30 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 10: Service Canceled
+
+- **Affected Routes**: `Route 10`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 10 trip departing 53rd Ave NE & Petco at 11:44 AM and five other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/10)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 10 trip departing 53rd Ave NE & Petco at 11:44 AM and five other trips canceled today
+
+```text
+Affected northbound trips:
+departing Leamington Ramp & Lower - Gate #7 at 12:42 PM
+departing Leamington Ramp & Lower - Gate #7 at 2:41 PM
+departing Leamington Ramp & Lower - Gate #7 at 4:51 PM
+
+Affected southbound trips:
+departing 53rd Ave NE & Petco at 11:44 AM
+departing 53rd Ave NE & Petco at 1:42 PM
+departing 53rd Ave NE & Petco at 3:41 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 10: Service Canceled
+
+- **Affected Routes**: `Route 10`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 10 trip departing 53rd Ave NE & Petco at 5:44 PM and three other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/10)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 10 trip departing 53rd Ave NE & Petco at 5:44 PM and three other trips canceled today
+
+```text
+Affected northbound trips:
+departing Leamington Ramp & Lower - Gate #7 at 6:47 PM
+departing Leamington Ramp & Lower - Gate #7 at 9:06 PM
+
+Affected southbound trips:
+departing 53rd Ave NE & Petco at 5:44 PM
+departing Northtown Transit Ctr Gate A at 8:04 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 10: Service Canceled
+
+- **Affected Routes**: `Route 10`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 10 trips departing Leamington Ramp & Lower - Gate #7 at 2:02 PM and departing Northtown Transit Ctr Gate A at 3:30 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/10)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 10 trips departing Leamington Ramp & Lower - Gate #7 at 2:02 PM and departing Northtown Transit Ctr Gate A at 3:30 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 10: Service Canceled
+
+- **Affected Routes**: `Route 10`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 10 trip departing Leamington Ramp & Lower - Gate #7 at 3:21 PM and two other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/10)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 10 trip departing Leamington Ramp & Lower - Gate #7 at 3:21 PM and two other trips canceled today
+
+```text
+Affected northbound trips:
+departing Leamington Ramp & Lower - Gate #7 at 3:21 PM
+departing Leamington Ramp & Lower - Gate #7 at 6:13 PM
+
+Affected southbound trips:
+departing Northtown Transit Ctr Gate A at 4:46 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 11: Service Canceled
+
+- **Affected Routes**: `Route 11`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 11 trip departing Nicollet Ave S & 46th St E; departing Nicollet Ave S & 46th St E; 22 PM
+departing Nicollet Ave S & 46th St E
+
+**Summary**: Route 11 trip departing Nicollet Ave S & 46th St E at 1:22 PM and two other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/11)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 11 trip departing Nicollet Ave S & 46th St E at 1:22 PM and two other trips canceled today
+
+```text
+Affected northbound trips:
+departing Nicollet Ave S & 46th St E at 1:22 PM
+departing Nicollet Ave S & 46th St E at 4:05 PM
+
+Affected southbound trips:
+departing Columbia Heights Transit Center C at 2:39 PM
+```
 
 </details>
 
@@ -59,136 +207,211 @@
 - **Affected Routes**: `Route 30`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: 53 AM
-departing Knox Ave N & Golden Valley Rd; 56 AM
+- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 55 PM
+departing Knox Ave N & Golden Valley Rd; 54 PM
 departing Knox Ave N & Golden Valley Rd
 
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today
+**Summary**: Route 30 trip departing Westgate Station - Gate B at 2:04 PM and eight other trips canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/30)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today
+**Header**: Route 30 trip departing Westgate Station - Gate B at 2:04 PM and eight other trips canceled today
 
 ```text
 Affected eastbound trips:
-departing Golden Valley Rd Turn & Xerxes Ave N at 7:53 AM
-departing Knox Ave N & Golden Valley Rd at 9:56 AM
-departing Knox Ave N & Golden Valley Rd at 11:56 AM
+departing Knox Ave N & Golden Valley Rd at 2:55 PM
+departing Knox Ave N & Golden Valley Rd at 4:54 PM
+departing Knox Ave N & Golden Valley Rd at 6:56 PM
+departing Golden Valley Rd Turn & Xerxes Ave N at 8:55 PM
 
 Affected westbound trips:
-departing Westgate Station - Gate B at 7:07 AM
-departing Westgate Station - Gate B at 9:06 AM
-departing Westgate Station - Gate B at 11:04 AM
+departing Westgate Station - Gate B at 2:04 PM
+departing Westgate Station - Gate B at 4:04 PM
+departing Westgate Station - Gate B at 6:05 PM
+departing Westgate Station - Gate B at 8:06 PM
+departing Westgate Station - Gate B at 10:06 PM
 ```
 
 </details>
 
 ---
 
-### 🚨 Route 36: Service Canceled
+### 🚨 Route 54: Service Canceled
 
-- **Affected Routes**: `Route 36`
+- **Affected Routes**: `Route 54`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: departing Johnson Ave & 78th St
 
-**Summary**: Route 36 trip departing Uptown Transit Station - Gate C at 6:17 AM and two other trips canceled today
+**Summary**: Route 54 trip departing MOA Transit Station Gate C at 12:41 PM and three other trips canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/36)
+[Official Agency Advisory](https://www.metrotransit.org/route/54)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 36 trip departing Uptown Transit Station - Gate C at 6:17 AM and two other trips canceled today
+**Header**: Route 54 trip departing MOA Transit Station Gate C at 12:41 PM and three other trips canceled today
 
 ```text
-Affected northbound trips:
-departing Johnson Ave & 78th St / Minnesota Dr at 7:10 AM
+Affected eastbound trips:
+departing MOA Transit Station Gate C at 12:41 PM
+departing MOA Transit Station Gate C at 3:28 PM
 
-Affected southbound trips:
-departing Uptown Transit Station - Gate C at 6:17 AM
-departing Uptown Transit Station - Gate C at 9:17 AM
+Affected westbound trips:
+departing Maplewood Mall Transit Center & Gate B at 2:05 PM
+departing Union Depot & Gate A1 at 4:25 PM
 ```
 
 </details>
 
 ---
 
-### 🚨 Route 72: 6:24 AM Trip Canceled (Pascal St N & Central Ave W)
+### 🚨 Route 61: Service Canceled
+
+- **Affected Routes**: `Route 61`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 61 trip departing Smith & 5th St Station at 12:31 PM and two other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/61)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 61 trip departing Smith & 5th St Station at 12:31 PM and two other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Ramp A/7th St Transit Center at 2:12 PM
+
+Affected westbound trips:
+departing Smith & 5th St Station at 12:31 PM
+departing Smith & 5th St Station at 4:05 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 63: Service Canceled
+
+- **Affected Routes**: `Route 63`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 63 trip departing Westgate Station - Gate C at 3:24 PM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/63)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 63 trip departing Westgate Station - Gate C at 3:24 PM and six other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Westgate Station - Gate C at 3:24 PM
+departing Westgate Station - Gate C at 5:57 PM
+departing Westgate Station - Gate C at 8:44 PM
+departing Westgate Station - Gate C at 11:16 PM
+
+Affected westbound trips:
+departing Sun Ray Transit Center & Gate A at 4:42 PM
+departing Sun Ray Transit Center & Gate A at 7:20 PM
+departing Sun Ray Transit Center & Gate A at 9:51 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 72: Service Canceled
 
 - **Affected Routes**: `Route 72`
-- **Direction**: All
+- **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: Route 72 trip departing Pascal St N & Central Ave W
+- **Corridors & Intersections**: departing Pascal St N & Central Ave W; 52 AM
+departing Pascal St N & Central Ave W; 50 PM
+departing Pascal St N & Central Ave W
 
-**Summary**: Route 72 trip departing Pascal St N & Central Ave W at 6:24 AM canceled today due to maintenance work
+**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 10:50 AM and five other trips canceled today due to mechanical issue
 
 [Official Agency Advisory](https://www.metrotransit.org/route/72)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 72 trip departing Pascal St N & Central Ave W at 6:24 AM canceled today due to maintenance work
+**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 10:50 AM and five other trips canceled today due to mechanical issue
+
+```text
+Affected eastbound trips:
+departing Pascal St N & Central Ave W at 11:52 AM
+departing Pascal St N & Central Ave W at 1:50 PM
+departing Pascal St N & Central Ave W at 3:49 PM
+
+Affected westbound trips:
+departing Sun Ray Transit Center & Gate D at 10:50 AM
+departing Sun Ray Transit Center & Gate D at 12:50 PM
+departing Sun Ray Transit Center & Gate D at 2:47 PM
+```
 
 </details>
 
 ---
 
-### 🚨 Route 114: Northbound 7:16 AM Trip Canceled (38th St W & Bryant Ave S)
+### 🚨 Route 721: Service Canceled
 
-- **Affected Routes**: `Route 114`
-- **Direction**: Northbound
+- **Affected Routes**: `Route 721`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: Northbound Route 114 trip departing 38th St W & Bryant Ave S at 7:16 AM canceled today
+**Summary**: Route 721 trips departing Brooklyn Ctr Transit Ctr Gate A at 1:30 PM and departing Hennepin Technical College & Main Door at 1:58 PM canceled today due to traffic
 
-[Official Agency Advisory](https://www.metrotransit.org/route/114)
+[Official Agency Advisory](https://www.metrotransit.org/route/721)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound Route 114 trip departing 38th St W & Bryant Ave S at 7:16 AM canceled today
+**Header**: Route 721 trips departing Brooklyn Ctr Transit Ctr Gate A at 1:30 PM and departing Hennepin Technical College & Main Door at 1:58 PM canceled today due to traffic
 
 </details>
 
 ---
 
-### 🚨 Route 537: Southbound 7:30 AM Trip Canceled (Southdale Transit Center & Gate B)
+### 🚨 Route 805: Service Canceled
 
-- **Affected Routes**: `Route 537`
-- **Direction**: Southbound
+- **Affected Routes**: `Route 805`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
+- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
+departing 1st Ave S & Monroe St; 38 PM
+departing 1st Ave S & Monroe St; 36 PM
+departing 1st Ave S & Monroe St
 
-**Summary**: Southbound Route 537 trip departing Southdale Transit Center & Gate B at 7:30 AM canceled today
+**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue
 
-[Official Agency Advisory](https://www.metrotransit.org/route/537)
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 537 trip departing Southdale Transit Center & Gate B at 7:30 AM canceled today
+**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue
 
-</details>
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate D at 12:34 PM
+departing Northtown Transit Ctr Gate D at 2:34 PM
+departing Northtown Transit Ctr Gate D at 4:34 PM
 
----
-
-### 🚨 Route 537: Northbound 8:00 AM Trip Canceled (Beard Ave S & Old Shakopee Rd)
-
-- **Affected Routes**: `Route 537`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Route 537 trip departing Beard Ave S & Old Shakopee Rd at 8:00 AM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/537)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 537 trip departing Beard Ave S & Old Shakopee Rd at 8:00 AM canceled today
+Affected southbound trips:
+departing 1st Ave S & Monroe St at 11:38 AM
+departing 1st Ave S & Monroe St at 1:38 PM
+departing 1st Ave S & Monroe St at 3:36 PM
+departing 1st Ave S & Monroe St at 5:38 PM
+```
 
 </details>
 
@@ -1101,6 +1324,53 @@ Nicollet Ave S & 49th St W - Stop #1230 (southbound)
 
 ---
 
+### ⚠️ Route 11: Detour via Grand St NE & 30th Ave N
+
+- **Affected Routes**: `Route 11`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Mon Oct 12 at 7:00 AM until further notice
+- **Corridors & Intersections**: Grand St NE & 30th Ave N; Temporary stop Columbia Ave NE & 31st Ave N; Columbia Ave NE & St Anthony Pkwy; Columbia Ave NE & 31st Ave N; Grand St NE & 29th Ave N
+- **Closed Stops**: Grand St NE & 31st Ave NE (Stop #14631), 31st Ave NE & Columbia Ave NE (Stop #14624), 31st Ave NE & Grand St NE (Stop #14630), Grand St NE & 30 Ave NE (Stop #14633), Stop #14632, Stop #14622, Stop #14623, Stop #14634
+
+**Summary**: Route 11 detoured off Grand St from 30th Ave to 31st Ave and off 31st Ave from Grand St to Columbia Ave beginning Mon Oct 12 at 7:00 AM until further notice due to construction. Board at: Grand St NE & 30th Ave NE - Stop #14632 (northbound); Temporary stop Columbia Ave NE & 31st Ave NE (northbound); Columbia Ave NE & St Anthony Pkwy - Stop #14622 (northbound).
+
+> 💡 **Rider Action**: Board at: Grand St NE & 30th Ave NE - Stop #14632 (northbound); Temporary stop Columbia Ave NE & 31st Ave NE (northbound); Columbia Ave NE & St Anthony Pkwy - Stop #14622 (northbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel the regular route on Grand St to 30th Ave, left on 30th Ave, right on Columbia Ave to 31st Ave, continue on Columbia Ave, and resume the regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/11)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 11 detoured off Grand St from 30th Ave to 31st Ave and off 31st Ave from Grand St to Columbia Ave beginning Mon Oct 12 at 7:00 AM until further notice due to construction
+
+```text
+For northbound Route 11 get on/off buses at:
+Grand St NE & 30th Ave NE - Stop #14632 (northbound)
+Temporary stop Columbia Ave NE & 31st Ave NE (northbound)
+Columbia Ave NE & St Anthony Pkwy - Stop #14622 (northbound)
+
+For southbound Route 11 get on/off buses at:
+Columbia Ave NE & 31st Ave NE - Stop #14623 (southbound)
+Grand St NE & 29th Ave NE - Stop #14634 (southbound)
+
+Northbound buses will travel the regular route on Grand St to 30th Ave, left on 30th Ave, right on Columbia Ave to 31st Ave, continue on Columbia Ave, and resume the regular route.
+
+Southbound buses will travel the regular route on Columbia Ave to 31st Ave, continue on Columbia Ave, left on 30th Ave, right on Grand St, and resume the regular route.
+
+Affected stops:
+Grand St NE & 31st Ave NE - Stop #14631 (northbound)
+31st Ave NE & Columbia Ave NE - Stop #14624 (westbound)
+31st Ave NE & Grand St NE - Stop #14630 (eastbound)
+Grand St NE & 30 Ave NE - Stop #14633 (southbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 14: Detour via Washington Ave & 17th Ave N
 
 - **Affected Routes**: `Route 14`
@@ -1591,63 +1861,6 @@ Dupont Ave N & 55th Ave N - Stop #52676 (northbound)
 
 ---
 
-### ⚠️ Route 25: Detour via Silver Lake Rd & Co Rd
-
-- **Affected Routes**: `Route 25`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Thu Oct 1 at 7:00 AM until further notice
-- **Corridors & Intersections**: Silver Lake Rd & Co Rd; Silver Lake Rd & Gregory Dr; Silver Lake Rd & Woodale Dr; Silver Lake Rd & County Rd; Long Lake Rd (Co Rd H to Co Rd H2 and off Co Rd H2 from Silver Lake Rd to Long Lake Rd)
-- **Closed Stops**: Silver Lake Rd & Woodale Dr (Stop #57236), Co Rd H-2 & Silver Lake Rd (Stop #14045), Co Rd H-2 & Red Oak Dr (Stop #14046), Co Rd H-2 & Scotland Green Apts (W) (Stop #40135), Co Rd H-2 & Scotland Green Apts (E) (Stop #14050), Co Rd H-2 & Long Lake Rd (Stop #14053), Co Rd H-2 & Long Lake Rd (Stop #40107), Co Rd H-2 & Scotland Green Apts (E) (Stop #14052) *(+9 more)*
-
-**Summary**: Route 25 detoured off Long Lake Rd from Co Rd H to Co Rd H2 and off Co Rd H2 from Silver Lake Rd to Long Lake Rd beginning Thu Oct 1 at 7:00 AM until further notice. Board at: Silver Lake Rd & Co Rd H - Stop #14078 (northbound); Temporary stop on County Rd H2 at Skiba Dr (eastbound); County Rd H2 & Edgewood Dr - Stop #57221 (eastbound).
-
-> 💡 **Rider Action**: Board at: Silver Lake Rd & Co Rd H - Stop #14078 (northbound); Temporary stop on County Rd H2 at Skiba Dr (eastbound); County Rd H2 & Edgewood Dr - Stop #57221 (eastbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel the regular route on Silver Lake Rd to Co Rd H, right on Co Rd H, left on Long Lake Rd, right on Co Rd H2, and resume the regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/25)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 25 detoured off Long Lake Rd from Co Rd H to Co Rd H2 and off Co Rd H2 from Silver Lake Rd to Long Lake Rd beginning Thu Oct 1 at 7:00 AM until further notice
-
-```text
-For northbound Route 25 get on/off buses at:
-Silver Lake Rd & Co Rd H - Stop #14078 (northbound)
-Temporary stop on County Rd H2 at Skiba Dr (eastbound)
-County Rd H2 & Edgewood Dr - Stop #57221 (eastbound)
-
-For southbound Route 25 get on/off buses at:
-County Rd H2 & Edgewood Dr - Stop #57234 (westbound)
-Temporary stop Co Rd H2 at Long Lake Rd (westbound)
-Silver Lake Rd & Gregory Dr - Stop #14081 (southbound)
-
-Northbound buses will travel the regular route on Silver Lake Rd to Co Rd H, right on Co Rd H, left on Long Lake Rd, right on Co Rd H2, and resume the regular route.
-
-Southbound buses will travel the regular route on Co Rd H2 to Long Lake Rd, left on Long Lake Rd, right on Co Rd H, left on Silver Lake Rd, and resume the regular route.
-
-Affected stops:
-Silver Lake Rd & Woodale Dr - Stop #57236 (northbound)
-Co Rd H-2 & Silver Lake Rd - Stop #14045 (eastbound)
-Co Rd H-2 & Red Oak Dr - Stop #14046 (eastbound)
-Co Rd H-2 & Scotland Green Apts (W) - Stop #40135 (eastbound)
-Co Rd H-2 & Scotland Green Apts (E) - Stop #14050 (eastbound)
-Co Rd H-2 & Long Lake Rd - Stop #14053 (eastbound)
-Co Rd H-2 & Long Lake Rd - Stop #40107 (westbound)
-Co Rd H-2 & Scotland Green Apts (E) - Stop #14052 (westbound)
-Co Rd H-2 & Scotland Green Apts (W) - Stop #14051 (westbound)
-Co Rd H-2 & Parkview Dr - Stop #14047 (westbound)
-Co Rd H-2 & Silver Lake Rd - Stop #14044 (westbound)
-Silver Lake Rd & Woodale Dr - Stop #57237 (southbound)
-Silver Lake Rd & County Rd H W - Stop #57642 (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 27: Detour via 26th St E & 3rd Ave S
 
 - **Affected Routes**: `Route 27`
@@ -2058,6 +2271,41 @@ Affected stops:
 Get on/off buses at:
 Excelsior Blvd & Glenhurst Ave / France - Stop #4858 (eastbound)
 Excelsior Blvd & #3121 - Stop #50109 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 46: Detour via 50th St W & Washburn Ave
+
+- **Affected Routes**: `Route 46`
+- **Direction**: Eastbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 50th St W & Washburn Ave; 50th St W & Xerxes Ave S
+- **Closed Stops**: 50th St W & Xerxes Ave S (Stop #997)
+
+**Summary**: Route 46 school trips detoured off Abbott Ave, 48th St, and Chowen Ave until further notice due to road paving. Board at: 50th St W & Washburn Ave / Vincent Ave - Stop #998 (eastbound).
+
+> 💡 **Rider Action**: Board at: 50th St W & Washburn Ave / Vincent Ave - Stop #998 (eastbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/46)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 46 school trips detoured off Abbott Ave, 48th St, and Chowen Ave until further notice due to road paving
+
+```text
+Get on/off buses at:
+50th St W & Washburn Ave / Vincent Ave - Stop #998 (eastbound)
+
+Eastbound route 46 school trips will depart Southwest High School, left on 47th St, right on York Ave, left on 48th St, right on Xerxes Ave, left on 50th St and resume regular route.
+
+Affected direction: Eastbound
+
+Affected stops:
+50th St W & Xerxes Ave S - Stop #997 (eastbound)
 ```
 
 </details>
@@ -3248,6 +3496,35 @@ Westbound buses will travel regular route on 46th St to Hiawatha Ave, right on H
 Get on/off buses at:
 Cleveland Ave & Hillcrest Ave - Stop #13094 (northbound)
 Cleveland Ave & Pinehurst Ave - Stop #11760 (northbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 134, Route 14, Route 355, Route 363, Route 94: Stop Closed at 6th St S & 11th Ave S
+
+- **Affected Routes**: `Route 134` `Route 14` `Route 355` `Route 363` `Route 94`
+- **Direction**: Eastbound
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Mon Oct 12 at 7:00 AM until further notice
+- **Corridors & Intersections**: 6th St S & 11th Ave S; 6th St S & Bud Grant Way
+- **Closed Stops**: Stop #17890, Stop #17888
+
+**Summary**: 6th St S & 11th Ave S - Stop #17890 (eastbound) is closed for Routes 14, 94, 134, 355 and 363 beginning Mon Oct 12 at 7:00 AM until further notice due to construction. Board at: 6th St S & Bud Grant Way - Stop #17888 (eastbound).
+
+> 💡 **Rider Action**: Board at: 6th St S & Bud Grant Way - Stop #17888 (eastbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/134)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: 6th St S & 11th Ave S - Stop #17890 (eastbound) is closed for Routes 14, 94, 134, 355 and 363 beginning Mon Oct 12 at 7:00 AM until further notice due to construction
+
+```text
+Get on/off buses at:
+6th St S & Bud Grant Way - Stop #17888 (eastbound)
 ```
 
 </details>
@@ -4672,12 +4949,9 @@ St Anthony Ave & Fry St (westbound)
 - **Affected Routes**: `Route 615` `Route 645`
 - **Direction**: Southbound
 - **Severity**: `Minor`
-- **Corridors & Intersections**: Fairfield Rd & Co Rd; Wayzata Blvd N & Westridge Market - St
-- **Closed Stops**: Stop #6069, Stop #47149, Stop #8016, Stop #8122, Stop #7004
+- **Closed Stops**: Stop #6069
 
-**Summary**: Co Rd 73 & Wayzata Blvd N - Stop #6069 (southbound) is permanently moving for Routes 615 and 645. Board at: Fairfield Rd & Co Rd 73 (Hopkins Xroad) - Stop #47149 (eastbound); Co Rd 73/Hopkins Crossroad & Wayzata Blvd (southbound); Hopkins Crossroad & Oak Knoll Terrace S - Stop #8016 (southbound).
-
-> 💡 **Rider Action**: Board at: Fairfield Rd & Co Rd 73 (Hopkins Xroad) - Stop #47149 (eastbound); Co Rd 73/Hopkins Crossroad & Wayzata Blvd (southbound); Hopkins Crossroad & Oak Knoll Terrace S - Stop #8016 (southbound)
+**Summary**: Co Rd 73 & Wayzata Blvd N - Stop #6069 (southbound) is permanently moving for Routes 615 and 645
 
 <details>
 <summary>Raw Dispatcher Message</summary>
@@ -4685,16 +4959,9 @@ St Anthony Ave & Fry St (westbound)
 **Header**: Co Rd 73 & Wayzata Blvd N - Stop #6069 (southbound) is permanently moving for Routes 615 and 645
 
 ```text
-Updated to reflect permanent change 10/8 1 pm.
+Updated to reflect the new bus stop location 10/9 at 9:20 AM.
 
-Get on/off Route 615 buses at:
-Fairfield Rd & Co Rd 73 (Hopkins Xroad) - Stop #47149 (eastbound)
-Co Rd 73/Hopkins Crossroad & Wayzata Blvd (southbound)
-Hopkins Crossroad & Oak Knoll Terrace S - Stop #8016 (southbound)
-
-Get on/off Route 645 buses at:
-Wayzata Blvd N & Westridge Market - Stop #8122 (eastbound)
-Co Rd 73 P&R & B Bay - Stop #7004 (eastbound)
+The bus stop has been moved to eastbound Wayzata Blvd N & Co Rd 73.
 ```
 
 </details>
