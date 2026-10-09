@@ -2,34 +2,53 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-107-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-113-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-8-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-101-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-75-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-76-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-09T05:52:38.799Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-09T13:03:36.488Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (1) • **METRO Gold Line** (3) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (1) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (4) • **Route 22C** (1) • **Route 25** (2) • **Route 27** (3) • **Route 30** (2) • **Route 36** (4) • **Route 38** (3) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (1) • **Route 94** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (3) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (1) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (4) • **Route 22C** (1) • **Route 25** (2) • **Route 27** (4) • **Route 30** (2) • **Route 36** (5) • **Route 38** (3) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (3) • **Route 87** (1) • **Route 94** (1) • **Route 114** (1) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (5) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO Gold Line: Eastbound 11:41 PM Trip Canceled (Smith & 5th St Station)
+### 🚨 Route 2: Eastbound 6:27 AM Trip Canceled (Franklin Ave W & Hennepin Ave S)
 
-- **Affected Routes**: `METRO Gold Line`
+- **Affected Routes**: `Route 2`
 - **Direction**: Eastbound
 - **Severity**: `Critical`
 
-**Summary**: Eastbound Gold Line trip departing Smith & 5th St Station at 11:41 PM canceled
+**Summary**: Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 6:27 AM canceled today due to traffic
 
-[Official Agency Advisory](https://www.metrotransit.org/route/gold)
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Gold Line trip departing Smith & 5th St Station at 11:41 PM canceled
+**Header**: Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 6:27 AM canceled today due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 27: 8:00 AM Trip Canceled (Uptown Transit Station - Gates D/E)
+
+- **Affected Routes**: `Route 27`
+- **Direction**: All
+- **Severity**: `Critical`
+
+**Summary**: Route 27 trip departing Uptown Transit Station - Gates D/E at 8:00 AM canceled
+
+[Official Agency Advisory](https://www.metrotransit.org/route/27)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 27 trip departing Uptown Transit Station - Gates D/E at 8:00 AM canceled
 
 </details>
 
@@ -40,32 +59,136 @@
 - **Affected Routes**: `Route 30`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 56 PM
-departing Knox Ave N & Golden Valley Rd; 54 PM
+- **Corridors & Intersections**: 53 AM
+departing Knox Ave N & Golden Valley Rd; 56 AM
 departing Knox Ave N & Golden Valley Rd
 
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled due to mechanical issue
+**Summary**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/30)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled due to mechanical issue
+**Header**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today
 
 ```text
 Affected eastbound trips:
-departing Knox Ave N & Golden Valley Rd at 1:56 PM
-departing Knox Ave N & Golden Valley Rd at 3:54 PM
-departing Knox Ave N & Golden Valley Rd at 5:56 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM
+departing Golden Valley Rd Turn & Xerxes Ave N at 7:53 AM
+departing Knox Ave N & Golden Valley Rd at 9:56 AM
+departing Knox Ave N & Golden Valley Rd at 11:56 AM
 
 Affected westbound trips:
-departing Westgate Station - Gate B at 1:04 PM
-departing Westgate Station - Gate B at 3:04 PM
-departing Westgate Station - Gate B at 5:04 PM
-departing Westgate Station - Gate B at 7:05 PM
+departing Westgate Station - Gate B at 7:07 AM
+departing Westgate Station - Gate B at 9:06 AM
+departing Westgate Station - Gate B at 11:04 AM
 ```
+
+</details>
+
+---
+
+### 🚨 Route 36: Service Canceled
+
+- **Affected Routes**: `Route 36`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing Johnson Ave & 78th St
+
+**Summary**: Route 36 trip departing Uptown Transit Station - Gate C at 6:17 AM and two other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/36)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 36 trip departing Uptown Transit Station - Gate C at 6:17 AM and two other trips canceled today
+
+```text
+Affected northbound trips:
+departing Johnson Ave & 78th St / Minnesota Dr at 7:10 AM
+
+Affected southbound trips:
+departing Uptown Transit Station - Gate C at 6:17 AM
+departing Uptown Transit Station - Gate C at 9:17 AM
+```
+
+</details>
+
+---
+
+### 🚨 Route 72: 6:24 AM Trip Canceled (Pascal St N & Central Ave W)
+
+- **Affected Routes**: `Route 72`
+- **Direction**: All
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 72 trip departing Pascal St N & Central Ave W
+
+**Summary**: Route 72 trip departing Pascal St N & Central Ave W at 6:24 AM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/72)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 72 trip departing Pascal St N & Central Ave W at 6:24 AM canceled today due to maintenance work
+
+</details>
+
+---
+
+### 🚨 Route 114: Northbound 7:16 AM Trip Canceled (38th St W & Bryant Ave S)
+
+- **Affected Routes**: `Route 114`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 114 trip departing 38th St W & Bryant Ave S at 7:16 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/114)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 114 trip departing 38th St W & Bryant Ave S at 7:16 AM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 537: Southbound 7:30 AM Trip Canceled (Southdale Transit Center & Gate B)
+
+- **Affected Routes**: `Route 537`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Route 537 trip departing Southdale Transit Center & Gate B at 7:30 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/537)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 537 trip departing Southdale Transit Center & Gate B at 7:30 AM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 537: Northbound 8:00 AM Trip Canceled (Beard Ave S & Old Shakopee Rd)
+
+- **Affected Routes**: `Route 537`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 537 trip departing Beard Ave S & Old Shakopee Rd at 8:00 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/537)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 537 trip departing Beard Ave S & Old Shakopee Rd at 8:00 AM canceled today
 
 </details>
 

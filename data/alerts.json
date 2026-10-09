@@ -1,24 +1,24 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-09T05:52:38.799Z",
-    "totalAlerts": 107,
-    "criticalCount": 2,
+    "generatedAt": "2026-10-09T13:03:36.488Z",
+    "totalAlerts": 113,
+    "criticalCount": 8,
     "moderateCount": 101,
     "minorCount": 4,
-    "affectedRoutesCount": 75,
+    "affectedRoutesCount": 76,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "53963",
+      "id": "53974",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO Gold Line: Eastbound 11:41 PM Trip Canceled (Smith & 5th St Station)",
-      "summary": "Eastbound Gold Line trip departing Smith & 5th St Station at 11:41 PM canceled",
+      "title": "Route 2: Eastbound 6:27 AM Trip Canceled (Franklin Ave W & Hennepin Ave S)",
+      "summary": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 6:27 AM canceled today due to traffic",
       "affectedRoutes": [
-        "METRO Gold Line"
+        "Route 2"
       ],
       "direction": "Eastbound",
       "intersections": [],
@@ -27,45 +27,204 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-09T05:08:00.000Z",
-        "end": "2026-10-09T06:15:00.000Z"
+        "start": "2026-10-09T11:59:00.000Z",
+        "end": "2026-10-09T15:02:23.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/gold",
-      "updatedAt": "2026-10-09T05:08:51.000Z",
-      "rawHeader": "Eastbound Gold Line trip departing Smith & 5th St Station at 11:41 PM canceled",
+      "url": "https://www.metrotransit.org/route/2",
+      "updatedAt": "2026-10-09T11:59:21.000Z",
+      "rawHeader": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 6:27 AM canceled today due to traffic",
       "rawDescription": ""
     },
     {
-      "id": "53931",
+      "id": "53968",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 27: 8:00 AM Trip Canceled (Uptown Transit Station - Gates D/E)",
+      "summary": "Route 27 trip departing Uptown Transit Station - Gates D/E at 8:00 AM canceled",
+      "affectedRoutes": [
+        "Route 27"
+      ],
+      "direction": "All",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-09T13:00:00.000Z",
+        "end": "2026-10-09T14:21:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/27",
+      "updatedAt": "2026-10-09T12:30:01.000Z",
+      "rawHeader": "Route 27 trip departing Uptown Transit Station - Gates D/E at 8:00 AM canceled",
+      "rawDescription": ""
+    },
+    {
+      "id": "53966",
       "agency": "Metro Transit",
       "severity": "Critical",
       "title": "Route 30: Service Canceled",
-      "summary": "Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled due to mechanical issue",
+      "summary": "Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today",
       "affectedRoutes": [
         "Route 30"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "departing Knox Ave N & Golden Valley Rd",
-        "56 PM\ndeparting Knox Ave N & Golden Valley Rd",
-        "54 PM\ndeparting Knox Ave N & Golden Valley Rd"
+        "53 AM\ndeparting Knox Ave N & Golden Valley Rd",
+        "56 AM\ndeparting Knox Ave N & Golden Valley Rd"
       ],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-08T12:59:00.000Z",
-        "end": "2026-10-09T07:30:00.000Z"
+        "start": "2026-10-09T12:07:00.000Z",
+        "end": "2026-10-09T18:36:00.000Z"
       },
-      "cause": "TECHNICAL_PROBLEM",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-10-08T12:59:55.000Z",
-      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled due to mechanical issue",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 1:56 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 3:54 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 5:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 1:04 PM\r\ndeparting Westgate Station - Gate B at 3:04 PM\r\ndeparting Westgate Station - Gate B at 5:04 PM\r\ndeparting Westgate Station - Gate B at 7:05 PM"
+      "updatedAt": "2026-10-09T11:37:01.000Z",
+      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:53 AM\r\ndeparting Knox Ave N & Golden Valley Rd at 9:56 AM\r\ndeparting Knox Ave N & Golden Valley Rd at 11:56 AM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 7:07 AM\r\ndeparting Westgate Station - Gate B at 9:06 AM\r\ndeparting Westgate Station - Gate B at 11:04 AM"
+    },
+    {
+      "id": "53967",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 36: Service Canceled",
+      "summary": "Route 36 trip departing Uptown Transit Station - Gate C at 6:17 AM and two other trips canceled today",
+      "affectedRoutes": [
+        "Route 36"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "departing Johnson Ave & 78th St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-09T11:17:00.000Z",
+        "end": "2026-10-09T15:51:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/36",
+      "updatedAt": "2026-10-09T11:10:33.000Z",
+      "rawHeader": "Route 36 trip departing Uptown Transit Station - Gate C at 6:17 AM and two other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Johnson Ave & 78th St / Minnesota Dr at 7:10 AM\r\n\nAffected southbound trips:\r\ndeparting Uptown Transit Station - Gate C at 6:17 AM\r\ndeparting Uptown Transit Station - Gate C at 9:17 AM"
+    },
+    {
+      "id": "53969",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 72: 6:24 AM Trip Canceled (Pascal St N & Central Ave W)",
+      "summary": "Route 72 trip departing Pascal St N & Central Ave W at 6:24 AM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "Route 72"
+      ],
+      "direction": "All",
+      "intersections": [
+        "Route 72 trip departing Pascal St N & Central Ave W"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-09T11:30:00.000Z",
+        "end": "2026-10-09T13:07:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/72",
+      "updatedAt": "2026-10-09T11:30:33.000Z",
+      "rawHeader": "Route 72 trip departing Pascal St N & Central Ave W at 6:24 AM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "53970",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 114: Northbound 7:16 AM Trip Canceled (38th St W & Bryant Ave S)",
+      "summary": "Northbound Route 114 trip departing 38th St W & Bryant Ave S at 7:16 AM canceled today",
+      "affectedRoutes": [
+        "Route 114"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-09T12:16:00.000Z",
+        "end": "2026-10-09T13:46:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/114",
+      "updatedAt": "2026-10-09T11:46:01.000Z",
+      "rawHeader": "Northbound Route 114 trip departing 38th St W & Bryant Ave S at 7:16 AM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "53975",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 537: Southbound 7:30 AM Trip Canceled (Southdale Transit Center & Gate B)",
+      "summary": "Southbound Route 537 trip departing Southdale Transit Center & Gate B at 7:30 AM canceled today",
+      "affectedRoutes": [
+        "Route 537"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-09T12:35:00.000Z",
+        "end": "2026-10-09T13:51:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/537",
+      "updatedAt": "2026-10-09T12:35:39.000Z",
+      "rawHeader": "Southbound Route 537 trip departing Southdale Transit Center & Gate B at 7:30 AM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "53976",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 537: Northbound 8:00 AM Trip Canceled (Beard Ave S & Old Shakopee Rd)",
+      "summary": "Northbound Route 537 trip departing Beard Ave S & Old Shakopee Rd at 8:00 AM canceled today",
+      "affectedRoutes": [
+        "Route 537"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-09T13:00:00.000Z",
+        "end": "2026-10-09T14:23:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/537",
+      "updatedAt": "2026-10-09T12:46:39.000Z",
+      "rawHeader": "Northbound Route 537 trip departing Beard Ave S & Old Shakopee Rd at 8:00 AM canceled today",
+      "rawDescription": ""
     },
     {
       "id": "52943",
@@ -1537,7 +1696,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/14",
-      "updatedAt": "2026-10-09T05:00:01.000Z",
+      "updatedAt": "2026-10-09T13:00:01.000Z",
       "rawHeader": "Northbound Route 14 detoured off West Broadway from Washington Ave to Lyndale Ave from 8:30 AM to 3:00 PM on Fri Oct 9 due to construction",
       "rawDescription": "Detour updated 10/6 at 2:30 PM to reflect regular southbound routing. \r\n\nGet on/off buses at:\r\nWashington Ave & 17th Ave N - Stop #16353 (northbound)\r\nWest Broadway & Aldrich Ave N - Stop #8306 (westbound)\r\n\nNorthbound buses will travel the regular route on Washington Ave to West Broadway, continue on Washington Ave, left on 26th Ave N, left on Lyndale Ave, right on West Broadway, and resume the regular route.\r\n\nSouthbound buses are not affected.\r\n\nAffected stops:\r\nWest Broadway & 4th St N - Stop #8316 (westbound)"
     },
@@ -2606,7 +2765,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-10-09T05:00:01.000Z",
+      "updatedAt": "2026-10-09T13:00:01.000Z",
       "rawHeader": "Westbound Route 30 detoured off West Broadway from Washington Ave to Lyndale Ave from 8:30 AM to 3:00 PM on Fri Oct 9 due to construction",
       "rawDescription": "Updated 10/6 at 2:30 PM to reflect regular eastbound routing.\r\nGet on/off buses at:\r\nWest Broadway Ave & 2nd St N - Stop #12257 (westbound)\r\nWest Broadway & Aldrich Ave N - Stop #8306 (westbound)\r\n\nEastbound buses are not affected.\r\n\nWestbound buses will travel the regular route on West Broadway to Washington Ave, right on Washington Ave, left on 26th Ave N, left on Lyndale Ave, right on West Broadway, and resume the regular route.\r\n\nAffected stops:\r\nWest Broadway & 4th St N - Stop #8316 (westbound)"
     },
