@@ -4,9 +4,45 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Fri, 09 Oct 2026 19:25:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 23:57:46 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] METRO C Line: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/cline</link>
+      <guid isPermaLink="false">Metro Transit-54019-2026-10-09T22:11:37.000Z</guid>
+      <pubDate>Fri, 09 Oct 2026 22:11:37 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO C Line</category>
+      <description>C Line trip departing 7th St &amp; Park Station at 4:16 PM and two other trips canceled today due to police activity</description>
+    </item>
+    <item>
+      <title>[Critical] METRO D Line: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-54018-2026-10-09T21:29:36.000Z</guid>
+      <pubDate>Fri, 09 Oct 2026 21:29:36 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO D Line</category>
+      <description>D Line trips departing Brooklyn Ctr Transit Ctr Gate F at 3:08 PM and departing MOA Transit Station Gate A at 4:49 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] METRO D Line: Northbound 5:50 PM Trip Canceled (MOA Transit Station Gate A)</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-54025-2026-10-09T23:21:50.000Z</guid>
+      <pubDate>Fri, 09 Oct 2026 23:21:50 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO D Line</category>
+      <description>Northbound D Line trip departing MOA Transit Station Gate A at 5:50 PM canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] METRO E Line: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/eline</link>
+      <guid isPermaLink="false">Metro Transit-54020-2026-10-09T22:35:54.000Z</guid>
+      <pubDate>Fri, 09 Oct 2026 22:35:54 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO E Line</category>
+      <description>E Line trip departing Westgate Station - Gate A at 4:09 PM and two other trips canceled today due to traffic</description>
+    </item>
     <item>
       <title>[Critical] Route 2: Eastbound 6:27 AM Trip Canceled (Franklin Ave W &amp; Hennepin Ave S)</title>
       <link>https://www.metrotransit.org/route/2</link>
@@ -37,8 +73,8 @@
     <item>
       <title>[Critical] Route 10: Service Canceled</title>
       <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-53992-2026-10-09T16:26:53.000Z</guid>
-      <pubDate>Fri, 09 Oct 2026 16:26:53 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53992-2026-10-09T22:14:01.000Z</guid>
+      <pubDate>Fri, 09 Oct 2026 22:14:01 GMT</pubDate>
       <category>Critical</category>
       <category>Route 10</category>
       <description>Route 10 trip departing 53rd Ave NE &amp; Petco at 5:44 PM and three other trips canceled today</description>
@@ -46,29 +82,20 @@
     <item>
       <title>[Critical] Route 10: Service Canceled</title>
       <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-54002-2026-10-09T19:15:37.000Z</guid>
-      <pubDate>Fri, 09 Oct 2026 19:15:37 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 10</category>
-      <description>Route 10 trips departing Leamington Ramp &amp; Lower - Gate #7 at 2:02 PM and departing Northtown Transit Ctr Gate A at 3:30 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 10: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-54004-2026-10-09T19:20:56.000Z</guid>
-      <pubDate>Fri, 09 Oct 2026 19:20:56 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54004-2026-10-09T19:51:01.000Z</guid>
+      <pubDate>Fri, 09 Oct 2026 19:51:01 GMT</pubDate>
       <category>Critical</category>
       <category>Route 10</category>
       <description>Route 10 trip departing Leamington Ramp &amp; Lower - Gate #7 at 3:21 PM and two other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 11: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/11</link>
-      <guid isPermaLink="false">Metro Transit-53991-2026-10-09T17:52:01.000Z</guid>
-      <pubDate>Fri, 09 Oct 2026 17:52:01 GMT</pubDate>
+      <title>[Critical] Route 10: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/10</link>
+      <guid isPermaLink="false">Metro Transit-54013-2026-10-09T20:40:35.000Z</guid>
+      <pubDate>Fri, 09 Oct 2026 20:40:35 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 11</category>
-      <description>Route 11 trip departing Nicollet Ave S &amp; 46th St E at 1:22 PM and two other trips canceled today</description>
+      <category>Route 10</category>
+      <description>Route 10 trips departing Leamington Ramp &amp; Lower - Gate #7 at 3:51 PM and departing Northtown Transit Ctr Gate A at 5:18 PM canceled today</description>
     </item>
     <item>
       <title>[Critical] Route 30: Service Canceled</title>
@@ -80,49 +107,67 @@
       <description>Route 30 trip departing Westgate Station - Gate B at 2:04 PM and eight other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 54: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/54</link>
-      <guid isPermaLink="false">Metro Transit-53998-2026-10-09T17:52:27.000Z</guid>
-      <pubDate>Fri, 09 Oct 2026 17:52:27 GMT</pubDate>
+      <title>[Critical] Route 32: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/32</link>
+      <guid isPermaLink="false">Metro Transit-54005-2026-10-09T19:50:01.000Z</guid>
+      <pubDate>Fri, 09 Oct 2026 19:50:01 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 54</category>
-      <description>Route 54 trip departing MOA Transit Station Gate C at 12:41 PM and three other trips canceled today</description>
+      <category>Route 32</category>
+      <description>Route 32 trip departing Quincy St NE &amp; Edison High - Gate B at 3:20 PM and four other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 61: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/61</link>
-      <guid isPermaLink="false">Metro Transit-53990-2026-10-09T17:01:01.000Z</guid>
-      <pubDate>Fri, 09 Oct 2026 17:01:01 GMT</pubDate>
+      <title>[Critical] Route 62: 5:09 PM Trip Canceled (Livingston Ave &amp; Butler Ave / Orme St)</title>
+      <link>https://www.metrotransit.org/route/62</link>
+      <guid isPermaLink="false">Metro Transit-54016-2026-10-09T23:08:22.000Z</guid>
+      <pubDate>Fri, 09 Oct 2026 23:08:22 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 61</category>
-      <description>Route 61 trip departing Smith &amp; 5th St Station at 12:31 PM and two other trips canceled today</description>
+      <category>Route 62</category>
+      <description>Route 62 trip departing Livingston Ave &amp; Butler Ave / Orme St at 5:09 PM canceled today. Two trips restored</description>
     </item>
     <item>
-      <title>[Critical] Route 63: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/63</link>
-      <guid isPermaLink="false">Metro Transit-54003-2026-10-09T19:18:01.000Z</guid>
-      <pubDate>Fri, 09 Oct 2026 19:18:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 63</category>
-      <description>Route 63 trip departing Westgate Station - Gate C at 3:24 PM and six other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 72: Service Canceled</title>
+      <title>[Critical] Route 72: 5:50 PM Trip Canceled (Pascal St N &amp; Central Ave W)</title>
       <link>https://www.metrotransit.org/route/72</link>
-      <guid isPermaLink="false">Metro Transit-53986-2026-10-09T15:20:01.000Z</guid>
-      <pubDate>Fri, 09 Oct 2026 15:20:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54024-2026-10-09T23:12:55.000Z</guid>
+      <pubDate>Fri, 09 Oct 2026 23:12:55 GMT</pubDate>
       <category>Critical</category>
       <category>Route 72</category>
-      <description>Route 72 trip departing Sun Ray Transit Center &amp; Gate D at 10:50 AM and five other trips canceled today due to mechanical issue</description>
+      <description>Route 72 trip departing Pascal St N &amp; Central Ave W at 5:50 PM canceled</description>
+    </item>
+    <item>
+      <title>[Critical] Route 72: Eastbound 6:21 PM Trip Canceled (Pascal St N &amp; Central Ave W)</title>
+      <link>https://www.metrotransit.org/route/72</link>
+      <guid isPermaLink="false">Metro Transit-54026-2026-10-09T23:26:42.000Z</guid>
+      <pubDate>Fri, 09 Oct 2026 23:26:42 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 72</category>
+      <description>Eastbound Route 72 trip departing Pascal St N &amp; Central Ave W at 6:21 PM canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 542: Eastbound 5:29 PM Trip Canceled (American Blvd &amp; Social Security Admin)</title>
+      <link>https://www.metrotransit.org/route/542</link>
+      <guid isPermaLink="false">Metro Transit-54009-2026-10-09T22:45:39.000Z</guid>
+      <pubDate>Fri, 09 Oct 2026 22:45:39 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 542</category>
+      <description>Update: Eastbound Route 542 trip departing American Blvd &amp; Social Security Admin at 5:29 PM canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Critical] Route 721: Service Canceled</title>
       <link>https://www.metrotransit.org/route/721</link>
-      <guid isPermaLink="false">Metro Transit-54001-2026-10-09T18:58:53.000Z</guid>
-      <pubDate>Fri, 09 Oct 2026 18:58:53 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54023-2026-10-09T22:33:04.000Z</guid>
+      <pubDate>Fri, 09 Oct 2026 22:33:04 GMT</pubDate>
       <category>Critical</category>
       <category>Route 721</category>
-      <description>Route 721 trips departing Brooklyn Ctr Transit Ctr Gate A at 1:30 PM and departing Hennepin Technical College &amp; Main Door at 1:58 PM canceled today due to traffic</description>
+      <description>Route 721 trips departing Brooklyn Ctr Transit Ctr Gate A at 5:02 PM and departing Hennepin Technical College &amp; Main Door at 5:32 PM canceled today due to construction</description>
+    </item>
+    <item>
+      <title>[Critical] Route 722: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/722</link>
+      <guid isPermaLink="false">Metro Transit-54010-2026-10-09T21:48:01.000Z</guid>
+      <pubDate>Fri, 09 Oct 2026 21:48:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 722</category>
+      <description>Route 722 trip departing Xenia Ave N &amp; Oak Grove Pkwy N at 5:18 PM and two other trips canceled today</description>
     </item>
     <item>
       <title>[Critical] Route 805: Service Canceled</title>
@@ -305,15 +350,6 @@
       <description>Route 9 detoured off 25th St from 32nd Ave to 34th Ave beginning Tue Oct 6 at 7:00 AM until further notice due to construction. Board at: 25th St E &amp; 31st Ave S - Stop #16455 (eastbound); 25th St E &amp; 35th Ave S - Stop #16459 (eastbound). | Action: Board at: 25th St E &amp; 31st Ave S - Stop #16455 (eastbound); 25th St E &amp; 35th Ave S - Stop #16459 (eastbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor</title>
-      <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-53859-2026-10-09T05:00:01.000Z</guid>
-      <pubDate>Fri, 09 Oct 2026 05:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 10, Route 11, Route 17, Route 18, Route 25</category>
-      <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 10th St to 11th St from Thu Oct 8 at 6:00 AM to Fri Oct 9 at 6:00 PM due to utility work. Board at: Nicollet Mall &amp; 9th St S - Stop #17982 (southbound); Nicollet Mall &amp; Alice Rainville Place - Stop #17986 (southbound). | Action: Board at: Nicollet Mall &amp; 9th St S - Stop #17982 (southbound); Nicollet Mall &amp; Alice Rainville Place - Stop #17986 (southbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 11: Detour via Main St NE &amp; St Anthony Pkwy</title>
       <link>https://www.metrotransit.org/route/11</link>
       <guid isPermaLink="false">Metro Transit-49659-2026-09-03T18:11:02.000Z</guid>
@@ -339,15 +375,6 @@
       <category>Moderate</category>
       <category>Route 11</category>
       <description>Route 11 detoured off Grand St from 30th Ave to 31st Ave and off 31st Ave from Grand St to Columbia Ave beginning Mon Oct 12 at 7:00 AM until further notice due to construction. Board at: Grand St NE &amp; 30th Ave NE - Stop #14632 (northbound); Temporary stop Columbia Ave NE &amp; 31st Ave NE (northbound); Columbia Ave NE &amp; St Anthony Pkwy - Stop #14622 (northbound). | Action: Board at: Grand St NE &amp; 30th Ave NE - Stop #14632 (northbound); Temporary stop Columbia Ave NE &amp; 31st Ave NE (northbound); Columbia Ave NE &amp; St Anthony Pkwy - Stop #14622 (northbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 14: Detour via Washington Ave &amp; 17th Ave N</title>
-      <link>https://www.metrotransit.org/route/14</link>
-      <guid isPermaLink="false">Metro Transit-53818-2026-10-09T13:00:01.000Z</guid>
-      <pubDate>Fri, 09 Oct 2026 13:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 14</category>
-      <description>Northbound Route 14 detoured off West Broadway from Washington Ave to Lyndale Ave from 8:30 AM to 3:00 PM on Fri Oct 9 due to construction. Board at: Washington Ave &amp; 17th Ave N - Stop #16353 (northbound); West Broadway &amp; Aldrich Ave N - Stop #8306 (westbound). | Action: Board at: Washington Ave &amp; 17th Ave N - Stop #16353 (northbound); West Broadway &amp; Aldrich Ave N - Stop #8306 (westbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 17: Detour via Lake St W &amp; Humboldt Ave S</title>
@@ -465,15 +492,6 @@
       <category>Moderate</category>
       <category>Route 27</category>
       <description>Route 27 detoured out of Uptown Transit Station from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: Lagoon Ave &amp; Emerson Ave S - Stop #17040 (westbound); Lake &amp; Hennepin Station - Stop #57355 (eastbound). | Action: Board at: Lagoon Ave &amp; Emerson Ave S - Stop #17040 (westbound); Lake &amp; Hennepin Station - Stop #57355 (eastbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 30: Detour via West Broadway Ave &amp; 2nd St N</title>
-      <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-53819-2026-10-09T13:00:01.000Z</guid>
-      <pubDate>Fri, 09 Oct 2026 13:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 30</category>
-      <description>Westbound Route 30 detoured off West Broadway from Washington Ave to Lyndale Ave from 8:30 AM to 3:00 PM on Fri Oct 9 due to construction. Board at: West Broadway Ave &amp; 2nd St N - Stop #12257 (westbound); West Broadway &amp; Aldrich Ave N - Stop #8306 (westbound). | Action: Board at: West Broadway Ave &amp; 2nd St N - Stop #12257 (westbound); West Broadway &amp; Aldrich Ave N - Stop #8306 (westbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 36, Route 538, Route 578: Stop Closed at York Ave S &amp; Hazelton Rd</title>

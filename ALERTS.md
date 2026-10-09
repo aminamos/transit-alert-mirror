@@ -2,19 +2,115 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-121-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-14-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-103-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-123-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-19-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-100-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-79-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-81-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-09T19:25:00.148Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-09T23:57:46.633Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (3) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (7) • **Route 10** (5) • **Route 11** (5) • **Route 11D** (1) • **Route 14** (2) • **Route 17** (2) • **Route 18** (7) • **Route 22** (4) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (3) • **Route 30** (2) • **Route 36** (4) • **Route 38** (3) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (4) • **Route 62** (1) • **Route 63** (3) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (3) • **Route 87** (1) • **Route 94** (2) • **Route 134** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (2) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (4) • **METRO E Line** (2) • **METRO Gold Line** (2) • **Route 2** (3) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (7) • **Route 10** (4) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (1) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (3) • **Route 30** (1) • **Route 32** (1) • **Route 36** (4) • **Route 38** (3) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (3) • **Route 87** (1) • **Route 94** (2) • **Route 134** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (2) • **Route 722** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
+
+### 🚨 METRO C Line: Service Canceled
+
+- **Affected Routes**: `METRO C Line`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: C Line trip departing 7th St & Park St; departing 7th St & Park St; 16 PM
+departing 7th St & Park St
+
+**Summary**: C Line trip departing 7th St & Park Station at 4:16 PM and two other trips canceled today due to police activity
+
+[Official Agency Advisory](https://www.metrotransit.org/route/cline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: C Line trip departing 7th St & Park Station at 4:16 PM and two other trips canceled today due to police activity
+
+```text
+Affected northbound trips:
+departing 7th St & Park Station at 4:16 PM
+departing 7th St & Park Station at 6:07 PM
+
+Affected southbound trips:
+departing Brooklyn Ctr Transit Ctr Gate I at 5:17 PM
+```
+
+</details>
+
+---
+
+### 🚨 METRO D Line: Service Canceled
+
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: D Line trips departing Brooklyn Ctr Transit Ctr Gate F at 3:08 PM and departing MOA Transit Station Gate A at 4:49 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: D Line trips departing Brooklyn Ctr Transit Ctr Gate F at 3:08 PM and departing MOA Transit Station Gate A at 4:49 PM canceled today
+
+</details>
+
+---
+
+### 🚨 METRO D Line: Northbound 5:50 PM Trip Canceled (MOA Transit Station Gate A)
+
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound D Line trip departing MOA Transit Station Gate A at 5:50 PM canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound D Line trip departing MOA Transit Station Gate A at 5:50 PM canceled today due to traffic
+
+</details>
+
+---
+
+### 🚨 METRO E Line: Service Canceled
+
+- **Affected Routes**: `METRO E Line`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: E Line trip departing Westgate Station - Gate A at 4:09 PM and two other trips canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/eline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: E Line trip departing Westgate Station - Gate A at 4:09 PM and two other trips canceled today due to traffic
+
+```text
+Affected northbound trips:
+departing Southdale Transit Center - Gate A at 4:20 PM
+departing Southdale Transit Center - Gate A at 5:30 PM
+
+Affected southbound trips:
+departing Westgate Station - Gate A at 4:09 PM
+```
+
+</details>
+
+---
 
 ### 🚨 Route 2: Eastbound 6:27 AM Trip Canceled (Franklin Ave W & Hennepin Ave S)
 
@@ -131,25 +227,6 @@ departing Northtown Transit Ctr Gate A at 8:04 PM
 - **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: Route 10 trips departing Leamington Ramp & Lower - Gate #7 at 2:02 PM and departing Northtown Transit Ctr Gate A at 3:30 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/10)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 10 trips departing Leamington Ramp & Lower - Gate #7 at 2:02 PM and departing Northtown Transit Ctr Gate A at 3:30 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 10: Service Canceled
-
-- **Affected Routes**: `Route 10`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
 **Summary**: Route 10 trip departing Leamington Ramp & Lower - Gate #7 at 3:21 PM and two other trips canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/10)
@@ -172,31 +249,20 @@ departing Northtown Transit Ctr Gate A at 4:46 PM
 
 ---
 
-### 🚨 Route 11: Service Canceled
+### 🚨 Route 10: Service Canceled
 
-- **Affected Routes**: `Route 11`
+- **Affected Routes**: `Route 10`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: Route 11 trip departing Nicollet Ave S & 46th St E; departing Nicollet Ave S & 46th St E; 22 PM
-departing Nicollet Ave S & 46th St E
 
-**Summary**: Route 11 trip departing Nicollet Ave S & 46th St E at 1:22 PM and two other trips canceled today
+**Summary**: Route 10 trips departing Leamington Ramp & Lower - Gate #7 at 3:51 PM and departing Northtown Transit Ctr Gate A at 5:18 PM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/11)
+[Official Agency Advisory](https://www.metrotransit.org/route/10)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 11 trip departing Nicollet Ave S & 46th St E at 1:22 PM and two other trips canceled today
-
-```text
-Affected northbound trips:
-departing Nicollet Ave S & 46th St E at 1:22 PM
-departing Nicollet Ave S & 46th St E at 4:05 PM
-
-Affected southbound trips:
-departing Columbia Heights Transit Center C at 2:39 PM
-```
+**Header**: Route 10 trips departing Leamington Ramp & Lower - Gate #7 at 3:51 PM and departing Northtown Transit Ctr Gate A at 5:18 PM canceled today
 
 </details>
 
@@ -239,124 +305,109 @@ departing Westgate Station - Gate B at 10:06 PM
 
 ---
 
-### 🚨 Route 54: Service Canceled
+### 🚨 Route 32: Service Canceled
 
-- **Affected Routes**: `Route 54`
+- **Affected Routes**: `Route 32`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: Route 54 trip departing MOA Transit Station Gate C at 12:41 PM and three other trips canceled today
+**Summary**: Route 32 trip departing Quincy St NE & Edison High - Gate B at 3:20 PM and four other trips canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/54)
+[Official Agency Advisory](https://www.metrotransit.org/route/32)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 54 trip departing MOA Transit Station Gate C at 12:41 PM and three other trips canceled today
+**Header**: Route 32 trip departing Quincy St NE & Edison High - Gate B at 3:20 PM and four other trips canceled today
 
 ```text
 Affected eastbound trips:
-departing MOA Transit Station Gate C at 12:41 PM
-departing MOA Transit Station Gate C at 3:28 PM
+departing Robbinsdale Transit Center & Gate C at 4:11 PM
+departing Robbinsdale Transit Center & Gate C at 6:13 PM
 
 Affected westbound trips:
-departing Maplewood Mall Transit Center & Gate B at 2:05 PM
-departing Union Depot & Gate A1 at 4:25 PM
+departing Quincy St NE & Edison High - Gate B at 3:20 PM
+departing Rosedale Transit Center Gate D at 5:01 PM
+departing Rosedale Transit Center Gate D at 7:03 PM
 ```
 
 </details>
 
 ---
 
-### 🚨 Route 61: Service Canceled
+### 🚨 Route 62: 5:09 PM Trip Canceled (Livingston Ave & Butler Ave / Orme St)
 
-- **Affected Routes**: `Route 61`
-- **Direction**: Both Directions
+- **Affected Routes**: `Route 62`
+- **Direction**: All
 - **Severity**: `Critical`
+- **Corridors & Intersections**: Route 62 trip departing Livingston Ave & Butler Ave
 
-**Summary**: Route 61 trip departing Smith & 5th St Station at 12:31 PM and two other trips canceled today
+**Summary**: Route 62 trip departing Livingston Ave & Butler Ave / Orme St at 5:09 PM canceled today. Two trips restored
 
-[Official Agency Advisory](https://www.metrotransit.org/route/61)
+[Official Agency Advisory](https://www.metrotransit.org/route/62)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 61 trip departing Smith & 5th St Station at 12:31 PM and two other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Ramp A/7th St Transit Center at 2:12 PM
-
-Affected westbound trips:
-departing Smith & 5th St Station at 12:31 PM
-departing Smith & 5th St Station at 4:05 PM
-```
+**Header**: Route 62 trip departing Livingston Ave & Butler Ave / Orme St at 5:09 PM canceled today. Two trips restored
 
 </details>
 
 ---
 
-### 🚨 Route 63: Service Canceled
-
-- **Affected Routes**: `Route 63`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 63 trip departing Westgate Station - Gate C at 3:24 PM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/63)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 63 trip departing Westgate Station - Gate C at 3:24 PM and six other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Westgate Station - Gate C at 3:24 PM
-departing Westgate Station - Gate C at 5:57 PM
-departing Westgate Station - Gate C at 8:44 PM
-departing Westgate Station - Gate C at 11:16 PM
-
-Affected westbound trips:
-departing Sun Ray Transit Center & Gate A at 4:42 PM
-departing Sun Ray Transit Center & Gate A at 7:20 PM
-departing Sun Ray Transit Center & Gate A at 9:51 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 72: Service Canceled
+### 🚨 Route 72: 5:50 PM Trip Canceled (Pascal St N & Central Ave W)
 
 - **Affected Routes**: `Route 72`
-- **Direction**: Both Directions
+- **Direction**: All
 - **Severity**: `Critical`
-- **Corridors & Intersections**: departing Pascal St N & Central Ave W; 52 AM
-departing Pascal St N & Central Ave W; 50 PM
-departing Pascal St N & Central Ave W
+- **Corridors & Intersections**: Route 72 trip departing Pascal St N & Central Ave W
 
-**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 10:50 AM and five other trips canceled today due to mechanical issue
+**Summary**: Route 72 trip departing Pascal St N & Central Ave W at 5:50 PM canceled
 
 [Official Agency Advisory](https://www.metrotransit.org/route/72)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 10:50 AM and five other trips canceled today due to mechanical issue
+**Header**: Route 72 trip departing Pascal St N & Central Ave W at 5:50 PM canceled
 
-```text
-Affected eastbound trips:
-departing Pascal St N & Central Ave W at 11:52 AM
-departing Pascal St N & Central Ave W at 1:50 PM
-departing Pascal St N & Central Ave W at 3:49 PM
+</details>
 
-Affected westbound trips:
-departing Sun Ray Transit Center & Gate D at 10:50 AM
-departing Sun Ray Transit Center & Gate D at 12:50 PM
-departing Sun Ray Transit Center & Gate D at 2:47 PM
-```
+---
+
+### 🚨 Route 72: Eastbound 6:21 PM Trip Canceled (Pascal St N & Central Ave W)
+
+- **Affected Routes**: `Route 72`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Eastbound Route 72 trip departing Pascal St N & Central Ave W at 6:21 PM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/72)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 72 trip departing Pascal St N & Central Ave W at 6:21 PM canceled today due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 Route 542: Eastbound 5:29 PM Trip Canceled (American Blvd & Social Security Admin)
+
+- **Affected Routes**: `Route 542`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Update: Eastbound Route 542 trip departing American Blvd & Social Security Admin at 5:29 PM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/542)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Update: Eastbound Route 542 trip departing American Blvd & Social Security Admin at 5:29 PM canceled today due to maintenance work
 
 </details>
 
@@ -368,14 +419,44 @@ departing Sun Ray Transit Center & Gate D at 2:47 PM
 - **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: Route 721 trips departing Brooklyn Ctr Transit Ctr Gate A at 1:30 PM and departing Hennepin Technical College & Main Door at 1:58 PM canceled today due to traffic
+**Summary**: Route 721 trips departing Brooklyn Ctr Transit Ctr Gate A at 5:02 PM and departing Hennepin Technical College & Main Door at 5:32 PM canceled today due to construction
 
 [Official Agency Advisory](https://www.metrotransit.org/route/721)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 721 trips departing Brooklyn Ctr Transit Ctr Gate A at 1:30 PM and departing Hennepin Technical College & Main Door at 1:58 PM canceled today due to traffic
+**Header**: Route 721 trips departing Brooklyn Ctr Transit Ctr Gate A at 5:02 PM and departing Hennepin Technical College & Main Door at 5:32 PM canceled today due to construction
+
+</details>
+
+---
+
+### 🚨 Route 722: Service Canceled
+
+- **Affected Routes**: `Route 722`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 722 trip departing Xenia Ave N & Oak Grove Pkwy N; departing Xenia Ave N & Oak Grove Pkwy N; 18 PM
+departing Humboldt Ave N & 69th Ave N
+
+**Summary**: Route 722 trip departing Xenia Ave N & Oak Grove Pkwy N at 5:18 PM and two other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/722)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 722 trip departing Xenia Ave N & Oak Grove Pkwy N at 5:18 PM and two other trips canceled today
+
+```text
+Affected northbound trips:
+departing Brooklyn Ctr Transit Ctr Gate J at 6:00 PM
+
+Affected southbound trips:
+departing Xenia Ave N & Oak Grove Pkwy N at 5:18 PM
+departing Humboldt Ave N & 69th Ave N at 6:10 PM
+```
 
 </details>
 
@@ -1207,45 +1288,6 @@ Affected stops:
 
 ---
 
-### ⚠️ Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor
-
-- **Affected Routes**: `Route 10` `Route 11` `Route 17` `Route 18` `Route 25`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Closed Stops**: Nicollet Mall & 11th St S (Stop #17984), Stop #17982, Stop #17986
-
-**Summary**: Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 10th St to 11th St from Thu Oct 8 at 6:00 AM to Fri Oct 9 at 6:00 PM due to utility work. Board at: Nicollet Mall & 9th St S - Stop #17982 (southbound); Nicollet Mall & Alice Rainville Place - Stop #17986 (southbound).
-
-> 💡 **Rider Action**: Board at: Nicollet Mall & 9th St S - Stop #17982 (southbound); Nicollet Mall & Alice Rainville Place - Stop #17986 (southbound)
-
-> 🔄 **Detour Path**: eastbound buses will travel regular route on Nicollet Mall to 11th St, left on 11th St, right on LaSalle Ave, right on 10th St, left on Nicollet Mall, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/10)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 10th St to 11th St from Thu Oct 8 at 6:00 AM to Fri Oct 9 at 6:00 PM due to utility work
-
-```text
-No northbound/eastbound stops missed. Buses will only detour when the road is blocked.
-
-Get on/off southbound/westbound buses at:
-Nicollet Mall & 9th St S - Stop #17982 (southbound)
-Nicollet Mall & Alice Rainville Place - Stop #17986 (southbound)
-
-Northbound/eastbound buses will travel regular route on Nicollet Mall to 11th St, left on 11th St, right on LaSalle Ave, right on 10th St, left on Nicollet Mall, and resume regular route.
-
-Southbound/westbound buses will travel regular route on Nicollet Mall to 10th St, left on 10th St, right on Marquette Ave, right on 11th St, left on Nicollet Mall, and resume regular route.
-
-Affected stops:
-Nicollet Mall & 11th St S - Stop #17984 (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 11: Detour via Main St NE & St Anthony Pkwy
 
 - **Affected Routes**: `Route 11`
@@ -1365,46 +1407,6 @@ Grand St NE & 31st Ave NE - Stop #14631 (northbound)
 31st Ave NE & Columbia Ave NE - Stop #14624 (westbound)
 31st Ave NE & Grand St NE - Stop #14630 (eastbound)
 Grand St NE & 30 Ave NE - Stop #14633 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 14: Detour via Washington Ave & 17th Ave N
-
-- **Affected Routes**: `Route 14`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Washington Ave & 17th Ave N
-- **Closed Stops**: West Broadway & 4th St N (Stop #8316), Stop #16353, Stop #8306
-
-**Summary**: Northbound Route 14 detoured off West Broadway from Washington Ave to Lyndale Ave from 8:30 AM to 3:00 PM on Fri Oct 9 due to construction. Board at: Washington Ave & 17th Ave N - Stop #16353 (northbound); West Broadway & Aldrich Ave N - Stop #8306 (westbound).
-
-> 💡 **Rider Action**: Board at: Washington Ave & 17th Ave N - Stop #16353 (northbound); West Broadway & Aldrich Ave N - Stop #8306 (westbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel the regular route on Washington Ave to West Broadway, continue on Washington Ave, left on 26th Ave N, left on Lyndale Ave, right on West Broadway, and resume the regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/14)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 14 detoured off West Broadway from Washington Ave to Lyndale Ave from 8:30 AM to 3:00 PM on Fri Oct 9 due to construction
-
-```text
-Detour updated 10/6 at 2:30 PM to reflect regular southbound routing. 
-
-Get on/off buses at:
-Washington Ave & 17th Ave N - Stop #16353 (northbound)
-West Broadway & Aldrich Ave N - Stop #8306 (westbound)
-
-Northbound buses will travel the regular route on Washington Ave to West Broadway, continue on Washington Ave, left on 26th Ave N, left on Lyndale Ave, right on West Broadway, and resume the regular route.
-
-Southbound buses are not affected.
-
-Affected stops:
-West Broadway & 4th St N - Stop #8316 (westbound)
 ```
 
 </details>
@@ -1991,45 +1993,6 @@ Westbound buses will follow the regular route on Lake St to Lagoon Ave, continue
 Affected stops:
 Uptown Transit Station - Gates D/E - Stop #52857 (westbound)
 Lagoon Ave & Emerson Ave S - Stop #17040 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 30: Detour via West Broadway Ave & 2nd St N
-
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: West Broadway Ave & 2nd St N
-- **Closed Stops**: West Broadway & 4th St N (Stop #8316), Stop #12257, Stop #8306
-
-**Summary**: Westbound Route 30 detoured off West Broadway from Washington Ave to Lyndale Ave from 8:30 AM to 3:00 PM on Fri Oct 9 due to construction. Board at: West Broadway Ave & 2nd St N - Stop #12257 (westbound); West Broadway & Aldrich Ave N - Stop #8306 (westbound).
-
-> 💡 **Rider Action**: Board at: West Broadway Ave & 2nd St N - Stop #12257 (westbound); West Broadway & Aldrich Ave N - Stop #8306 (westbound)
-
-> 🔄 **Detour Path**: Westbound buses will travel the regular route on West Broadway to Washington Ave, right on Washington Ave, left on 26th Ave N, left on Lyndale Ave, right on West Broadway, and resume the regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 30 detoured off West Broadway from Washington Ave to Lyndale Ave from 8:30 AM to 3:00 PM on Fri Oct 9 due to construction
-
-```text
-Updated 10/6 at 2:30 PM to reflect regular eastbound routing.
-Get on/off buses at:
-West Broadway Ave & 2nd St N - Stop #12257 (westbound)
-West Broadway & Aldrich Ave N - Stop #8306 (westbound)
-
-Eastbound buses are not affected.
-
-Westbound buses will travel the regular route on West Broadway to Washington Ave, right on Washington Ave, left on 26th Ave N, left on Lyndale Ave, right on West Broadway, and resume the regular route.
-
-Affected stops:
-West Broadway & 4th St N - Stop #8316 (westbound)
 ```
 
 </details>
