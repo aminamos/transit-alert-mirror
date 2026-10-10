@@ -3,91 +3,71 @@
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
 [![Alerts](https://img.shields.io/badge/Total%20Alerts-104-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-96-orange)](#-moderate-detours--changes)
+[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-97-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-76-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-10T17:45:30.026Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-10T21:30:53.704Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (1) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (2) • **Route 17** (1) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (3) • **Route 36** (4) • **Route 38** (3) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (1) • **Route 94** (2) • **Route 134** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (3) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (4) • **Route 9** (6) • **Route 10** (1) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (2) • **Route 17** (2) • **Route 18** (6) • **Route 22** (5) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (3) • **Route 36** (4) • **Route 38** (3) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (1) • **Route 94** (2) • **Route 134** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 2: Eastbound 12:36 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)
+### 🚨 METRO B Line: Westbound 3:23 PM Trip Canceled (Union Depot & Gate A1)
 
-- **Affected Routes**: `Route 2`
+- **Affected Routes**: `METRO B Line`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound B Line trip departing Union Depot & Gate A1 at 3:23 PM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/bline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound B Line trip departing Union Depot & Gate A1 at 3:23 PM canceled today due to maintenance work
+
+</details>
+
+---
+
+### 🚨 METRO Gold Line: Eastbound 3:41 PM Trip Canceled (Smith & 5th St Station)
+
+- **Affected Routes**: `METRO Gold Line`
 - **Direction**: Eastbound
 - **Severity**: `Critical`
 
-**Summary**: Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 12:36 PM canceled today due to traffic
+**Summary**: Eastbound Gold Line trip departing Smith & 5th St Station at 3:41 PM canceled today due to maintenance work
 
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
+[Official Agency Advisory](https://www.metrotransit.org/route/gold)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 12:36 PM canceled today due to traffic
+**Header**: Eastbound Gold Line trip departing Smith & 5th St Station at 3:41 PM canceled today due to maintenance work
 
 </details>
 
 ---
 
-### 🚨 Route 4: Service Advisory
+### 🚨 Route 22: Southbound 2:30 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)
 
-- **Affected Routes**: `Route 4`
+- **Affected Routes**: `Route 22`
 - **Direction**: Southbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #17925, Stop #17927, Stop #17928, Stop #17931, Stop #14937, Stop #14947, Stop #17916, Stop #17917 *(+37 more)*
 
-**Summary**: Southbound Route 4 trip departing 1st St N & Hennepin Ave at 11:40 AM will start from Lyndale & Franklin. Previous stops missed
+**Summary**: Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 2:30 PM canceled today due to traffic
 
-[Official Agency Advisory](https://www.metrotransit.org/route/4)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 4 trip departing 1st St N & Hennepin Ave at 11:40 AM will start from Lyndale & Franklin. Previous stops missed
-
-</details>
-
----
-
-### 🚨 Route 10: 11:06 AM Trip Canceled (Leamington Ramp & Lower - Gate #7)
-
-- **Affected Routes**: `Route 10`
-- **Direction**: All
-- **Severity**: `Critical`
-
-**Summary**: Route 10 trip departing Leamington Ramp & Lower - Gate #7 at 11:06 AM canceled today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/10)
+[Official Agency Advisory](https://www.metrotransit.org/route/22)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 10 trip departing Leamington Ramp & Lower - Gate #7 at 11:06 AM canceled today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 14: Northbound 10:45 AM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)
-
-- **Affected Routes**: `Route 14`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 10:45 AM canceled today due to medical emergency
-
-[Official Agency Advisory](https://www.metrotransit.org/route/14)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 10:45 AM canceled today due to medical emergency
+**Header**: Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 2:30 PM canceled today due to traffic
 
 </details>
 
@@ -719,6 +699,23 @@ Affected stops:
 25th St E & 33rd Ave S - Stop #16457 (eastbound)
 25th St E & 33rd Ave S - Stop #17597 (westbound)
 ```
+
+</details>
+
+---
+
+### ⚠️ Route 10, Route 14, Route 17, Route 25, Route 3, Route 7: Detour via Regular Corridor
+
+- **Affected Routes**: `Route 10` `Route 14` `Route 17` `Route 25` `Route 3` `Route 7`
+- **Direction**: All
+- **Severity**: `Moderate`
+
+**Summary**: Routes 3. 7, 10, 14, 17 and 25 may be detoured or delayed on Washington Ave S between Hennepin Ave and 5th Ave S due to demonstration
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Routes 3. 7, 10, 14, 17 and 25 may be detoured or delayed on Washington Ave S between Hennepin Ave and 5th Ave S due to demonstration
 
 </details>
 

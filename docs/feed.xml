@@ -4,44 +4,35 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 10 Oct 2026 17:45:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 21:30:53 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 2: Eastbound 12:36 PM Trip Canceled (Franklin Ave W &amp; Hennepin Ave S)</title>
-      <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-54037-2026-10-10T17:28:03.000Z</guid>
-      <pubDate>Sat, 10 Oct 2026 17:28:03 GMT</pubDate>
+      <title>[Critical] METRO B Line: Westbound 3:23 PM Trip Canceled (Union Depot &amp; Gate A1)</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-54048-2026-10-10T20:42:21.000Z</guid>
+      <pubDate>Sat, 10 Oct 2026 20:42:21 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 2</category>
-      <description>Eastbound Route 2 trip departing Franklin Ave W &amp; Hennepin Ave S at 12:36 PM canceled today due to traffic</description>
+      <category>METRO B Line</category>
+      <description>Westbound B Line trip departing Union Depot &amp; Gate A1 at 3:23 PM canceled today due to maintenance work</description>
     </item>
     <item>
-      <title>[Critical] Route 4: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/4</link>
-      <guid isPermaLink="false">Metro Transit-54036-2026-10-10T16:47:42.000Z</guid>
-      <pubDate>Sat, 10 Oct 2026 16:47:42 GMT</pubDate>
+      <title>[Critical] METRO Gold Line: Eastbound 3:41 PM Trip Canceled (Smith &amp; 5th St Station)</title>
+      <link>https://www.metrotransit.org/route/gold</link>
+      <guid isPermaLink="false">Metro Transit-54047-2026-10-10T20:35:28.000Z</guid>
+      <pubDate>Sat, 10 Oct 2026 20:35:28 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 4</category>
-      <description>Southbound Route 4 trip departing 1st St N &amp; Hennepin Ave at 11:40 AM will start from Lyndale &amp; Franklin. Previous stops missed</description>
+      <category>METRO Gold Line</category>
+      <description>Eastbound Gold Line trip departing Smith &amp; 5th St Station at 3:41 PM canceled today due to maintenance work</description>
     </item>
     <item>
-      <title>[Critical] Route 10: 11:06 AM Trip Canceled (Leamington Ramp &amp; Lower - Gate #7)</title>
-      <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-54035-2026-10-10T16:32:56.000Z</guid>
-      <pubDate>Sat, 10 Oct 2026 16:32:56 GMT</pubDate>
+      <title>[Critical] Route 22: Southbound 2:30 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)</title>
+      <link>https://www.metrotransit.org/route/22</link>
+      <guid isPermaLink="false">Metro Transit-54045-2026-10-10T19:49:18.000Z</guid>
+      <pubDate>Sat, 10 Oct 2026 19:49:18 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 10</category>
-      <description>Route 10 trip departing Leamington Ramp &amp; Lower - Gate #7 at 11:06 AM canceled today due to traffic</description>
-    </item>
-    <item>
-      <title>[Critical] Route 14: Northbound 10:45 AM Trip Canceled (66th St E &amp; Richfield Pkwy / 16th Ave)</title>
-      <link>https://www.metrotransit.org/route/14</link>
-      <guid isPermaLink="false">Metro Transit-54034-2026-10-10T16:10:01.000Z</guid>
-      <pubDate>Sat, 10 Oct 2026 16:10:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 14</category>
-      <description>Northbound Route 14 trip departing 66th St E &amp; Richfield Pkwy / 16th Ave at 10:45 AM canceled today due to medical emergency</description>
+      <category>Route 22</category>
+      <description>Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 2:30 PM canceled today due to traffic</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -177,6 +168,15 @@
       <category>Moderate</category>
       <category>Route 9</category>
       <description>Route 9 detoured off 25th St from 32nd Ave to 34th Ave beginning Tue Oct 6 at 7:00 AM until further notice due to construction. Board at: 25th St E &amp; 31st Ave S - Stop #16455 (eastbound); 25th St E &amp; 35th Ave S - Stop #16459 (eastbound). | Action: Board at: 25th St E &amp; 31st Ave S - Stop #16455 (eastbound); 25th St E &amp; 35th Ave S - Stop #16459 (eastbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 10, Route 14, Route 17, Route 25, Route 3, Route 7: Detour via Regular Corridor</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-54046-2026-10-10T20:16:27.000Z</guid>
+      <pubDate>Sat, 10 Oct 2026 20:16:27 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 10, Route 14, Route 17, Route 25, Route 3, Route 7</category>
+      <description>Routes 3. 7, 10, 14, 17 and 25 may be detoured or delayed on Washington Ave S between Hennepin Ave and 5th Ave S due to demonstration</description>
     </item>
     <item>
       <title>[Moderate] Route 11: Detour via Main St NE &amp; St Anthony Pkwy</title>
@@ -604,8 +604,8 @@
     <item>
       <title>[Moderate] Route 134, Route 87: Stop Closed at Cleveland Ave &amp; Ford Pkwy</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-53696-2026-10-03T20:40:57.000Z</guid>
-      <pubDate>Sat, 03 Oct 2026 20:40:57 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53696-2026-10-10T20:40:02.000Z</guid>
+      <pubDate>Sat, 10 Oct 2026 20:40:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 134, Route 87</category>
       <description>Cleveland Ave &amp; Ford Pkwy - Stop #13095 (northbound) is closed for Routes 87 and 134 until further notice due to utility work. Board at: Cleveland Ave &amp; Hillcrest Ave - Stop #13094 (northbound); Cleveland Ave &amp; Pinehurst Ave - Stop #11760 (northbound). | Action: Board at: Cleveland Ave &amp; Hillcrest Ave - Stop #13094 (northbound); Cleveland Ave &amp; Pinehurst Ave - Stop #11760 (northbound)</description>

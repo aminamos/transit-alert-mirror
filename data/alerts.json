@@ -1,24 +1,50 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-10T17:45:30.026Z",
+    "generatedAt": "2026-10-10T21:30:53.704Z",
     "totalAlerts": 104,
-    "criticalCount": 4,
-    "moderateCount": 96,
+    "criticalCount": 3,
+    "moderateCount": 97,
     "minorCount": 4,
-    "affectedRoutesCount": 76,
+    "affectedRoutesCount": 77,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "54037",
+      "id": "54048",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 2: Eastbound 12:36 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)",
-      "summary": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 12:36 PM canceled today due to traffic",
+      "title": "METRO B Line: Westbound 3:23 PM Trip Canceled (Union Depot & Gate A1)",
+      "summary": "Westbound B Line trip departing Union Depot & Gate A1 at 3:23 PM canceled today due to maintenance work",
       "affectedRoutes": [
-        "Route 2"
+        "METRO B Line"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-10T20:42:00.000Z",
+        "end": "2026-10-10T22:32:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-10-10T20:42:21.000Z",
+      "rawHeader": "Westbound B Line trip departing Union Depot & Gate A1 at 3:23 PM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "54047",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO Gold Line: Eastbound 3:41 PM Trip Canceled (Smith & 5th St Station)",
+      "summary": "Eastbound Gold Line trip departing Smith & 5th St Station at 3:41 PM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "METRO Gold Line"
       ],
       "direction": "Eastbound",
       "intersections": [],
@@ -27,274 +53,40 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-10T17:36:00.000Z",
-        "end": "2026-10-10T19:21:00.000Z"
+        "start": "2026-10-10T20:41:00.000Z",
+        "end": "2026-10-10T22:15:00.000Z"
       },
-      "cause": "OTHER_CAUSE",
+      "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-10-10T17:28:03.000Z",
-      "rawHeader": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 12:36 PM canceled today due to traffic",
+      "url": "https://www.metrotransit.org/route/gold",
+      "updatedAt": "2026-10-10T20:35:28.000Z",
+      "rawHeader": "Eastbound Gold Line trip departing Smith & 5th St Station at 3:41 PM canceled today due to maintenance work",
       "rawDescription": ""
     },
     {
-      "id": "54036",
+      "id": "54045",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 4: Service Advisory",
-      "summary": "Southbound Route 4 trip departing 1st St N & Hennepin Ave at 11:40 AM will start from Lyndale & Franklin. Previous stops missed",
+      "title": "Route 22: Southbound 2:30 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)",
+      "summary": "Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 2:30 PM canceled today due to traffic",
       "affectedRoutes": [
-        "Route 4"
+        "Route 22"
       ],
       "direction": "Southbound",
       "intersections": [],
-      "closedStopIds": [
-        "17925",
-        "17927",
-        "17928",
-        "17931",
-        "14937",
-        "14947",
-        "17916",
-        "17917",
-        "17919",
-        "17921",
-        "17922",
-        "17923",
-        "42298",
-        "42303",
-        "42306",
-        "42448",
-        "17971",
-        "15553",
-        "15559",
-        "15562",
-        "15711",
-        "15991",
-        "15992",
-        "15998",
-        "15999",
-        "16002",
-        "16003",
-        "16015",
-        "16019",
-        "16023",
-        "16031",
-        "16032",
-        "16035",
-        "16041",
-        "16044",
-        "16045",
-        "16046",
-        "16057",
-        "14153",
-        "11684",
-        "20046",
-        "56679",
-        "56700",
-        "56762",
-        "52033"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "17925"
-        },
-        {
-          "id": "17927"
-        },
-        {
-          "id": "17928"
-        },
-        {
-          "id": "17931"
-        },
-        {
-          "id": "14937"
-        },
-        {
-          "id": "14947"
-        },
-        {
-          "id": "17916"
-        },
-        {
-          "id": "17917"
-        },
-        {
-          "id": "17919"
-        },
-        {
-          "id": "17921"
-        },
-        {
-          "id": "17922"
-        },
-        {
-          "id": "17923"
-        },
-        {
-          "id": "42298"
-        },
-        {
-          "id": "42303"
-        },
-        {
-          "id": "42306"
-        },
-        {
-          "id": "42448"
-        },
-        {
-          "id": "17971"
-        },
-        {
-          "id": "15553"
-        },
-        {
-          "id": "15559"
-        },
-        {
-          "id": "15562"
-        },
-        {
-          "id": "15711"
-        },
-        {
-          "id": "15991"
-        },
-        {
-          "id": "15992"
-        },
-        {
-          "id": "15998"
-        },
-        {
-          "id": "15999"
-        },
-        {
-          "id": "16002"
-        },
-        {
-          "id": "16003"
-        },
-        {
-          "id": "16015"
-        },
-        {
-          "id": "16019"
-        },
-        {
-          "id": "16023"
-        },
-        {
-          "id": "16031"
-        },
-        {
-          "id": "16032"
-        },
-        {
-          "id": "16035"
-        },
-        {
-          "id": "16041"
-        },
-        {
-          "id": "16044"
-        },
-        {
-          "id": "16045"
-        },
-        {
-          "id": "16046"
-        },
-        {
-          "id": "16057"
-        },
-        {
-          "id": "14153"
-        },
-        {
-          "id": "11684"
-        },
-        {
-          "id": "20046"
-        },
-        {
-          "id": "56679"
-        },
-        {
-          "id": "56700"
-        },
-        {
-          "id": "56762"
-        },
-        {
-          "id": "52033"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-10T16:47:00.000Z",
-        "end": "2026-10-10T18:26:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/4",
-      "updatedAt": "2026-10-10T16:47:42.000Z",
-      "rawHeader": "Southbound Route 4 trip departing 1st St N & Hennepin Ave at 11:40 AM will start from Lyndale & Franklin. Previous stops missed",
-      "rawDescription": ""
-    },
-    {
-      "id": "54035",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 10: 11:06 AM Trip Canceled (Leamington Ramp & Lower - Gate #7)",
-      "summary": "Route 10 trip departing Leamington Ramp & Lower - Gate #7 at 11:06 AM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 10"
-      ],
-      "direction": "All",
-      "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-10T16:32:00.000Z",
-        "end": "2026-10-10T18:03:00.000Z"
+        "start": "2026-10-10T19:48:00.000Z",
+        "end": "2026-10-10T21:50:00.000Z"
       },
       "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/10",
-      "updatedAt": "2026-10-10T16:32:56.000Z",
-      "rawHeader": "Route 10 trip departing Leamington Ramp & Lower - Gate #7 at 11:06 AM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "54034",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 14: Northbound 10:45 AM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)",
-      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 10:45 AM canceled today due to medical emergency",
-      "affectedRoutes": [
-        "Route 14"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-10T16:09:00.000Z",
-        "end": "2026-10-10T17:49:00.000Z"
-      },
-      "cause": "MEDICAL_EMERGENCY",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/14",
-      "updatedAt": "2026-10-10T16:10:01.000Z",
-      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 10:45 AM canceled today due to medical emergency",
+      "url": "https://www.metrotransit.org/route/22",
+      "updatedAt": "2026-10-10T19:49:18.000Z",
+      "rawHeader": "Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 2:30 PM canceled today due to traffic",
       "rawDescription": ""
     },
     {
@@ -1283,6 +1075,36 @@
       "updatedAt": "2026-10-06T11:30:06.000Z",
       "rawHeader": "Route 9 detoured off 25th St from 32nd Ave to 34th Ave beginning Tue Oct 6 at 7:00 AM until further notice due to construction",
       "rawDescription": "For eastbound Route 9 get on/off buses at:\r\n25th St E & 31st Ave S - Stop #16455 (eastbound)\r\n25th St E & 35th Ave S - Stop #16459 (eastbound)\r\n\nFor westbound Route 9 get on/off buses at:\r\n25th St E & 35th Ave S - Stop #17595 (westbound)\r\n25th St E & 31st Ave S - Stop #17599 (westbound)\r\n\nEastbound buses will travel regular route on 25th St to 32nd Ave, right on 32nd Ave, left on 26th St, left on 34th Ave, right on 25th St and resume regular route.\r\n\nWestbound buses will travel regular route on 25th St to 34th Ave, left on 34th Ave, right on 26th St, right on 32nd Ave, left on 25th St and resume regular route.\r\n\nAffected stops:\r\n25th St E & 33rd Ave S - Stop #16457 (eastbound)\r\n25th St E & 33rd Ave S - Stop #17597 (westbound)"
+    },
+    {
+      "id": "54046",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 10, Route 14, Route 17, Route 25, Route 3, Route 7: Detour via Regular Corridor",
+      "summary": "Routes 3. 7, 10, 14, 17 and 25 may be detoured or delayed on Washington Ave S between Hennepin Ave and 5th Ave S due to demonstration",
+      "affectedRoutes": [
+        "Route 10",
+        "Route 14",
+        "Route 17",
+        "Route 25",
+        "Route 3",
+        "Route 7"
+      ],
+      "direction": "All",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-10T19:56:00.000Z",
+        "end": "2026-10-10T23:30:24.000Z"
+      },
+      "cause": "DEMONSTRATION",
+      "effect": "OTHER_EFFECT",
+      "updatedAt": "2026-10-10T20:16:27.000Z",
+      "rawHeader": "Routes 3. 7, 10, 14, 17 and 25 may be detoured or delayed on Washington Ave S between Hennepin Ave and 5th Ave S due to demonstration",
+      "rawDescription": ""
     },
     {
       "id": "49659",
@@ -4863,7 +4685,7 @@
       },
       "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-03T20:40:57.000Z",
+      "updatedAt": "2026-10-10T20:40:02.000Z",
       "rawHeader": "Cleveland Ave & Ford Pkwy - Stop #13095 (northbound) is closed for Routes 87 and 134 until further notice due to utility work",
       "rawDescription": "Get on/off buses at:\r\nCleveland Ave & Hillcrest Ave - Stop #13094 (northbound)\r\nCleveland Ave & Pinehurst Ave - Stop #11760 (northbound)"
     },
