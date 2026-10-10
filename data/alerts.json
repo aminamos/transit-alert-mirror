@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-10T05:39:52.264Z",
+    "generatedAt": "2026-10-10T12:20:32.788Z",
     "totalAlerts": 103,
     "criticalCount": 1,
     "moderateCount": 98,
@@ -12,29 +12,29 @@
   },
   "alerts": [
     {
-      "id": "53974",
+      "id": "54029",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 2: Eastbound 6:27 AM Trip Canceled (Franklin Ave W & Hennepin Ave S)",
-      "summary": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 6:27 AM canceled today due to traffic",
+      "title": "Route 18: Northbound 7:05 AM Trip Canceled (2nd Ave S Loop & American Blvd)",
+      "summary": "Northbound Route 18 trip departing 2nd Ave S Loop & American Blvd at 7:05 AM canceled today due to traffic",
       "affectedRoutes": [
-        "Route 2"
+        "Route 18"
       ],
-      "direction": "Eastbound",
+      "direction": "Northbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-09T11:59:00.000Z",
-        "end": "2026-10-10T07:30:00.000Z"
+        "start": "2026-10-10T12:17:00.000Z",
+        "end": "2026-10-10T13:56:00.000Z"
       },
       "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-10-09T11:59:21.000Z",
-      "rawHeader": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 6:27 AM canceled today due to traffic",
+      "url": "https://www.metrotransit.org/route/18",
+      "updatedAt": "2026-10-10T12:17:36.000Z",
+      "rawHeader": "Northbound Route 18 trip departing 2nd Ave S Loop & American Blvd at 7:05 AM canceled today due to traffic",
       "rawDescription": ""
     },
     {
