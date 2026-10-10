@@ -1,24 +1,284 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-10T12:20:32.788Z",
-    "totalAlerts": 103,
-    "criticalCount": 1,
-    "moderateCount": 98,
+    "generatedAt": "2026-10-10T17:45:30.026Z",
+    "totalAlerts": 104,
+    "criticalCount": 4,
+    "moderateCount": 96,
     "minorCount": 4,
-    "affectedRoutesCount": 75,
+    "affectedRoutesCount": 76,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "54029",
+      "id": "54037",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 18: Northbound 7:05 AM Trip Canceled (2nd Ave S Loop & American Blvd)",
-      "summary": "Northbound Route 18 trip departing 2nd Ave S Loop & American Blvd at 7:05 AM canceled today due to traffic",
+      "title": "Route 2: Eastbound 12:36 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)",
+      "summary": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 12:36 PM canceled today due to traffic",
       "affectedRoutes": [
-        "Route 18"
+        "Route 2"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-10T17:36:00.000Z",
+        "end": "2026-10-10T19:21:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/2",
+      "updatedAt": "2026-10-10T17:28:03.000Z",
+      "rawHeader": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 12:36 PM canceled today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "54036",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 4: Service Advisory",
+      "summary": "Southbound Route 4 trip departing 1st St N & Hennepin Ave at 11:40 AM will start from Lyndale & Franklin. Previous stops missed",
+      "affectedRoutes": [
+        "Route 4"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [
+        "17925",
+        "17927",
+        "17928",
+        "17931",
+        "14937",
+        "14947",
+        "17916",
+        "17917",
+        "17919",
+        "17921",
+        "17922",
+        "17923",
+        "42298",
+        "42303",
+        "42306",
+        "42448",
+        "17971",
+        "15553",
+        "15559",
+        "15562",
+        "15711",
+        "15991",
+        "15992",
+        "15998",
+        "15999",
+        "16002",
+        "16003",
+        "16015",
+        "16019",
+        "16023",
+        "16031",
+        "16032",
+        "16035",
+        "16041",
+        "16044",
+        "16045",
+        "16046",
+        "16057",
+        "14153",
+        "11684",
+        "20046",
+        "56679",
+        "56700",
+        "56762",
+        "52033"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "17925"
+        },
+        {
+          "id": "17927"
+        },
+        {
+          "id": "17928"
+        },
+        {
+          "id": "17931"
+        },
+        {
+          "id": "14937"
+        },
+        {
+          "id": "14947"
+        },
+        {
+          "id": "17916"
+        },
+        {
+          "id": "17917"
+        },
+        {
+          "id": "17919"
+        },
+        {
+          "id": "17921"
+        },
+        {
+          "id": "17922"
+        },
+        {
+          "id": "17923"
+        },
+        {
+          "id": "42298"
+        },
+        {
+          "id": "42303"
+        },
+        {
+          "id": "42306"
+        },
+        {
+          "id": "42448"
+        },
+        {
+          "id": "17971"
+        },
+        {
+          "id": "15553"
+        },
+        {
+          "id": "15559"
+        },
+        {
+          "id": "15562"
+        },
+        {
+          "id": "15711"
+        },
+        {
+          "id": "15991"
+        },
+        {
+          "id": "15992"
+        },
+        {
+          "id": "15998"
+        },
+        {
+          "id": "15999"
+        },
+        {
+          "id": "16002"
+        },
+        {
+          "id": "16003"
+        },
+        {
+          "id": "16015"
+        },
+        {
+          "id": "16019"
+        },
+        {
+          "id": "16023"
+        },
+        {
+          "id": "16031"
+        },
+        {
+          "id": "16032"
+        },
+        {
+          "id": "16035"
+        },
+        {
+          "id": "16041"
+        },
+        {
+          "id": "16044"
+        },
+        {
+          "id": "16045"
+        },
+        {
+          "id": "16046"
+        },
+        {
+          "id": "16057"
+        },
+        {
+          "id": "14153"
+        },
+        {
+          "id": "11684"
+        },
+        {
+          "id": "20046"
+        },
+        {
+          "id": "56679"
+        },
+        {
+          "id": "56700"
+        },
+        {
+          "id": "56762"
+        },
+        {
+          "id": "52033"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-10T16:47:00.000Z",
+        "end": "2026-10-10T18:26:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/4",
+      "updatedAt": "2026-10-10T16:47:42.000Z",
+      "rawHeader": "Southbound Route 4 trip departing 1st St N & Hennepin Ave at 11:40 AM will start from Lyndale & Franklin. Previous stops missed",
+      "rawDescription": ""
+    },
+    {
+      "id": "54035",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 10: 11:06 AM Trip Canceled (Leamington Ramp & Lower - Gate #7)",
+      "summary": "Route 10 trip departing Leamington Ramp & Lower - Gate #7 at 11:06 AM canceled today due to traffic",
+      "affectedRoutes": [
+        "Route 10"
+      ],
+      "direction": "All",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-10T16:32:00.000Z",
+        "end": "2026-10-10T18:03:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/10",
+      "updatedAt": "2026-10-10T16:32:56.000Z",
+      "rawHeader": "Route 10 trip departing Leamington Ramp & Lower - Gate #7 at 11:06 AM canceled today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "54034",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 14: Northbound 10:45 AM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)",
+      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 10:45 AM canceled today due to medical emergency",
+      "affectedRoutes": [
+        "Route 14"
       ],
       "direction": "Northbound",
       "intersections": [],
@@ -27,14 +287,14 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-10T12:17:00.000Z",
-        "end": "2026-10-10T13:56:00.000Z"
+        "start": "2026-10-10T16:09:00.000Z",
+        "end": "2026-10-10T17:49:00.000Z"
       },
-      "cause": "OTHER_CAUSE",
+      "cause": "MEDICAL_EMERGENCY",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/18",
-      "updatedAt": "2026-10-10T12:17:36.000Z",
-      "rawHeader": "Northbound Route 18 trip departing 2nd Ave S Loop & American Blvd at 7:05 AM canceled today due to traffic",
+      "url": "https://www.metrotransit.org/route/14",
+      "updatedAt": "2026-10-10T16:10:01.000Z",
+      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 10:45 AM canceled today due to medical emergency",
       "rawDescription": ""
     },
     {
@@ -99,77 +359,6 @@
       "updatedAt": "2025-12-12T16:20:01.000Z",
       "rawHeader": "Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues",
       "rawDescription": "Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station."
-    },
-    {
-      "id": "52783",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "METRO D Line: Stop Closed at Portland Ave between 60th St & 61st St",
-      "summary": "Portland & 60th St Station - Stop #431 (southbound) is closed for D Line until further notice due to utility work. Board at: Temporary stop on Portland Ave between 60th St and 61st St (southbound); Portland & 66th St Station - Stop #436 (southbound).",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [
-        "Portland Ave between 60th St & 61st St"
-      ],
-      "closedStopIds": [
-        "431"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "431"
-        }
-      ],
-      "riderAlternative": "Board at: Temporary stop on Portland Ave between 60th St and 61st St (southbound); Portland & 66th St Station - Stop #436 (southbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-14T14:15:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-09-21T14:15:02.000Z",
-      "rawHeader": "Portland & 60th St Station - Stop #431 (southbound) is closed for D Line until further notice due to utility work",
-      "rawDescription": "Get on/off buses at:\r\nTemporary stop on Portland Ave between 60th St and 61st St (southbound)\r\nPortland & 66th St Station - Stop #436 (southbound)"
-    },
-    {
-      "id": "53433",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "METRO D Line: Stop Closed at Portland Ave & 61st St",
-      "summary": "Portland & 60th St Station - Stop #737 (northbound) is closed for D Line until further notice due to construction. Board at: Portland & 66th St Station - Stop #643 (northbound); Temporary stop on Portland Ave & 61st St (northbound); Chicago Ave & 56th St E - Stop #81078 (northbound).",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Northbound",
-      "intersections": [
-        "Portland Ave & 61st St",
-        "Chicago Ave & 56th St E"
-      ],
-      "closedStopIds": [
-        "81078",
-        "737"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "81078"
-        },
-        {
-          "id": "737"
-        }
-      ],
-      "riderAlternative": "Board at: Portland & 66th St Station - Stop #643 (northbound); Temporary stop on Portland Ave & 61st St (northbound); Chicago Ave & 56th St E - Stop #81078 (northbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-28T14:28:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-10-05T14:28:02.000Z",
-      "rawHeader": "Portland & 60th St Station - Stop #737 (northbound) is closed for D Line until further notice due to construction",
-      "rawDescription": "Get on/off buses at:\r\nPortland & 66th St Station - Stop #643 (northbound)\r\nTemporary stop on Portland Ave & 61st St (northbound)\r\nChicago Ave & 56th St E - Stop #81078 (northbound)"
     },
     {
       "id": "53854",

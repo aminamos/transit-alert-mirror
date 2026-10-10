@@ -4,17 +4,44 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 10 Oct 2026 12:20:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 17:45:30 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 18: Northbound 7:05 AM Trip Canceled (2nd Ave S Loop &amp; American Blvd)</title>
-      <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-54029-2026-10-10T12:17:36.000Z</guid>
-      <pubDate>Sat, 10 Oct 2026 12:17:36 GMT</pubDate>
+      <title>[Critical] Route 2: Eastbound 12:36 PM Trip Canceled (Franklin Ave W &amp; Hennepin Ave S)</title>
+      <link>https://www.metrotransit.org/route/2</link>
+      <guid isPermaLink="false">Metro Transit-54037-2026-10-10T17:28:03.000Z</guid>
+      <pubDate>Sat, 10 Oct 2026 17:28:03 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 18</category>
-      <description>Northbound Route 18 trip departing 2nd Ave S Loop &amp; American Blvd at 7:05 AM canceled today due to traffic</description>
+      <category>Route 2</category>
+      <description>Eastbound Route 2 trip departing Franklin Ave W &amp; Hennepin Ave S at 12:36 PM canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 4: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/4</link>
+      <guid isPermaLink="false">Metro Transit-54036-2026-10-10T16:47:42.000Z</guid>
+      <pubDate>Sat, 10 Oct 2026 16:47:42 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 4</category>
+      <description>Southbound Route 4 trip departing 1st St N &amp; Hennepin Ave at 11:40 AM will start from Lyndale &amp; Franklin. Previous stops missed</description>
+    </item>
+    <item>
+      <title>[Critical] Route 10: 11:06 AM Trip Canceled (Leamington Ramp &amp; Lower - Gate #7)</title>
+      <link>https://www.metrotransit.org/route/10</link>
+      <guid isPermaLink="false">Metro Transit-54035-2026-10-10T16:32:56.000Z</guid>
+      <pubDate>Sat, 10 Oct 2026 16:32:56 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 10</category>
+      <description>Route 10 trip departing Leamington Ramp &amp; Lower - Gate #7 at 11:06 AM canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 14: Northbound 10:45 AM Trip Canceled (66th St E &amp; Richfield Pkwy / 16th Ave)</title>
+      <link>https://www.metrotransit.org/route/14</link>
+      <guid isPermaLink="false">Metro Transit-54034-2026-10-10T16:10:01.000Z</guid>
+      <pubDate>Sat, 10 Oct 2026 16:10:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 14</category>
+      <description>Northbound Route 14 trip departing 66th St E &amp; Richfield Pkwy / 16th Ave at 10:45 AM canceled today due to medical emergency</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -33,24 +60,6 @@
       <category>Moderate</category>
       <category>METRO Blue Line</category>
       <description>Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues</description>
-    </item>
-    <item>
-      <title>[Moderate] METRO D Line: Stop Closed at Portland Ave between 60th St &amp; 61st St</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-52783-2026-09-21T14:15:02.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 14:15:02 GMT</pubDate>
-      <category>Moderate</category>
-      <category>METRO D Line</category>
-      <description>Portland &amp; 60th St Station - Stop #431 (southbound) is closed for D Line until further notice due to utility work. Board at: Temporary stop on Portland Ave between 60th St and 61st St (southbound); Portland &amp; 66th St Station - Stop #436 (southbound). | Action: Board at: Temporary stop on Portland Ave between 60th St and 61st St (southbound); Portland &amp; 66th St Station - Stop #436 (southbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] METRO D Line: Stop Closed at Portland Ave &amp; 61st St</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-53433-2026-10-05T14:28:02.000Z</guid>
-      <pubDate>Mon, 05 Oct 2026 14:28:02 GMT</pubDate>
-      <category>Moderate</category>
-      <category>METRO D Line</category>
-      <description>Portland &amp; 60th St Station - Stop #737 (northbound) is closed for D Line until further notice due to construction. Board at: Portland &amp; 66th St Station - Stop #643 (northbound); Temporary stop on Portland Ave &amp; 61st St (northbound); Chicago Ave &amp; 56th St E - Stop #81078 (northbound). | Action: Board at: Portland &amp; 66th St Station - Stop #643 (northbound); Temporary stop on Portland Ave &amp; 61st St (northbound); Chicago Ave &amp; 56th St E - Stop #81078 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] METRO E Line: Detour via Richfield Rd &amp; Bde Maka Ska St</title>

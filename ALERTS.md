@@ -2,34 +2,92 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-103-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-98-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-104-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-96-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-75-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-76-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-10T12:20:32.788Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-10T17:45:30.026Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (6) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (1) • **Route 18** (7) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (3) • **Route 36** (4) • **Route 38** (3) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (1) • **Route 94** (2) • **Route 134** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (1) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (2) • **Route 17** (1) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (3) • **Route 36** (4) • **Route 38** (3) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (1) • **Route 94** (2) • **Route 134** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 18: Northbound 7:05 AM Trip Canceled (2nd Ave S Loop & American Blvd)
+### 🚨 Route 2: Eastbound 12:36 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)
 
-- **Affected Routes**: `Route 18`
-- **Direction**: Northbound
+- **Affected Routes**: `Route 2`
+- **Direction**: Eastbound
 - **Severity**: `Critical`
 
-**Summary**: Northbound Route 18 trip departing 2nd Ave S Loop & American Blvd at 7:05 AM canceled today due to traffic
+**Summary**: Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 12:36 PM canceled today due to traffic
 
-[Official Agency Advisory](https://www.metrotransit.org/route/18)
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound Route 18 trip departing 2nd Ave S Loop & American Blvd at 7:05 AM canceled today due to traffic
+**Header**: Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 12:36 PM canceled today due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 4: Service Advisory
+
+- **Affected Routes**: `Route 4`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #17925, Stop #17927, Stop #17928, Stop #17931, Stop #14937, Stop #14947, Stop #17916, Stop #17917 *(+37 more)*
+
+**Summary**: Southbound Route 4 trip departing 1st St N & Hennepin Ave at 11:40 AM will start from Lyndale & Franklin. Previous stops missed
+
+[Official Agency Advisory](https://www.metrotransit.org/route/4)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 4 trip departing 1st St N & Hennepin Ave at 11:40 AM will start from Lyndale & Franklin. Previous stops missed
+
+</details>
+
+---
+
+### 🚨 Route 10: 11:06 AM Trip Canceled (Leamington Ramp & Lower - Gate #7)
+
+- **Affected Routes**: `Route 10`
+- **Direction**: All
+- **Severity**: `Critical`
+
+**Summary**: Route 10 trip departing Leamington Ramp & Lower - Gate #7 at 11:06 AM canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/10)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 10 trip departing Leamington Ramp & Lower - Gate #7 at 11:06 AM canceled today due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 14: Northbound 10:45 AM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)
+
+- **Affected Routes**: `Route 14`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 10:45 AM canceled today due to medical emergency
+
+[Official Agency Advisory](https://www.metrotransit.org/route/14)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 10:45 AM canceled today due to medical emergency
 
 </details>
 
@@ -86,65 +144,6 @@ Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on 
 
 ```text
 Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station.
-```
-
-</details>
-
----
-
-### ⚠️ METRO D Line: Stop Closed at Portland Ave between 60th St & 61st St
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Southbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Portland Ave between 60th St & 61st St
-- **Closed Stops**: Stop #431
-
-**Summary**: Portland & 60th St Station - Stop #431 (southbound) is closed for D Line until further notice due to utility work. Board at: Temporary stop on Portland Ave between 60th St and 61st St (southbound); Portland & 66th St Station - Stop #436 (southbound).
-
-> 💡 **Rider Action**: Board at: Temporary stop on Portland Ave between 60th St and 61st St (southbound); Portland & 66th St Station - Stop #436 (southbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Portland & 60th St Station - Stop #431 (southbound) is closed for D Line until further notice due to utility work
-
-```text
-Get on/off buses at:
-Temporary stop on Portland Ave between 60th St and 61st St (southbound)
-Portland & 66th St Station - Stop #436 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ METRO D Line: Stop Closed at Portland Ave & 61st St
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Northbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Portland Ave & 61st St; Chicago Ave & 56th St E
-- **Closed Stops**: Stop #81078, Stop #737
-
-**Summary**: Portland & 60th St Station - Stop #737 (northbound) is closed for D Line until further notice due to construction. Board at: Portland & 66th St Station - Stop #643 (northbound); Temporary stop on Portland Ave & 61st St (northbound); Chicago Ave & 56th St E - Stop #81078 (northbound).
-
-> 💡 **Rider Action**: Board at: Portland & 66th St Station - Stop #643 (northbound); Temporary stop on Portland Ave & 61st St (northbound); Chicago Ave & 56th St E - Stop #81078 (northbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Portland & 60th St Station - Stop #737 (northbound) is closed for D Line until further notice due to construction
-
-```text
-Get on/off buses at:
-Portland & 66th St Station - Stop #643 (northbound)
-Temporary stop on Portland Ave & 61st St (northbound)
-Chicago Ave & 56th St E - Stop #81078 (northbound)
 ```
 
 </details>
