@@ -13,6 +13,8 @@ interface Env {
   GITHUB_TOKEN?: string;
   GITHUB_REPO?: string;
   GITHUB_BRANCH?: string;
+  /** Any value other than "false" means warm cache only, never commit. Default true. */
+  DRY_RUN?: string;
 }
 
 let cachedDataset: { data: AlertDataset; timestamp: number } | null = null;
@@ -128,8 +130,8 @@ export default {
   async scheduled(event: unknown, env: Env, ctx: { waitUntil: (promise: Promise<unknown>) => void }): Promise<void> {
     ctx.waitUntil((async () => {
       const dataset = await getOrFetchAlerts();
-      // Dormant until the GITHUB_TOKEN secret is set via `wrangler secret put`.
-      if (env.GITHUB_TOKEN) {
+      // Live only with an explicit opt-in: token set plus DRY_RUN=false.
+      if (env.GITHUB_TOKEN && (env.DRY_RUN ?? 'true') === 'false') {
         await publishDataset(
           { token: env.GITHUB_TOKEN, repo: env.GITHUB_REPO, branch: env.GITHUB_BRANCH },
           dataset,

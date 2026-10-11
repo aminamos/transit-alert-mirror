@@ -166,7 +166,7 @@ describe('Cloudflare Worker handler', () => {
     await waitedPromise;
   });
 
-  it('publishes files to GitHub on schedule when GITHUB_TOKEN is set', async () => {
+  it('publishes files to GitHub on schedule when live', async () => {
     const puts: string[] = [];
     const fetchMock = vi.fn(async (url: unknown, init?: RequestInit) => {
       if ((init as RequestInit | undefined)?.method === 'PUT') {
@@ -186,13 +186,35 @@ describe('Cloudflare Worker handler', () => {
 
       vi.spyOn(defaultRegistry, 'fetchAll').mockResolvedValue([]);
       await worker.fetch(new Request('https://worker.local/api/sync'), {});
-      await worker.scheduled({}, { GITHUB_TOKEN: 'test-token' }, ctx);
+      await worker.scheduled({}, { GITHUB_TOKEN: 'test-token', DRY_RUN: 'false' }, ctx);
       expect(waitedPromise).not.toBeNull();
       await waitedPromise;
       expect(puts).toHaveLength(4);
       expect(fetchMock.mock.calls[0][1]).toMatchObject({
         headers: expect.objectContaining({ Authorization: 'Bearer test-token' }),
       });
+    } finally {
+      vi.unstubAllGlobals();
+    }
+  });
+
+  it('warms cache only with a token in dry-run', async () => {
+    const fetchMock = vi.fn(async () => new Response('not found', { status: 404 }));
+    vi.stubGlobal('fetch', fetchMock);
+    try {
+      let waitedPromise: Promise<unknown> | null = null;
+      const ctx = {
+        waitUntil: (p: Promise<unknown>) => {
+          waitedPromise = p;
+        },
+      };
+
+      vi.spyOn(defaultRegistry, 'fetchAll').mockResolvedValue([]);
+      await worker.scheduled({}, { GITHUB_TOKEN: 'test-token' }, ctx);
+      await waitedPromise;
+      expect(fetchMock.mock.calls.some(([, init]) => (init as RequestInit | undefined)?.method === 'PUT')).toBe(
+        false,
+      );
     } finally {
       vi.unstubAllGlobals();
     }
