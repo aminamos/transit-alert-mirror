@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-11T17:49:38.149Z",
-    "totalAlerts": 104,
-    "criticalCount": 4,
+    "generatedAt": "2026-10-11T18:47:23.546Z",
+    "totalAlerts": 102,
+    "criticalCount": 2,
     "moderateCount": 96,
     "minorCount": 4,
     "affectedRoutesCount": 76,
@@ -68,58 +68,6 @@
       "updatedAt": "2026-10-11T16:24:45.000Z",
       "rawHeader": "D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 9:21 AM and seven other trips canceled today",
       "rawDescription": "Affected northbound trips:\r\ndeparting MOA Transit Station Gate A at 10:46 AM\r\ndeparting MOA Transit Station Gate A at 11:16 AM\r\ndeparting MOA Transit Station Gate A at 1:44 PM\r\ndeparting MOA Transit Station Gate A at 4:45 PM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 9:21 AM\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 11:03 AM\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 12:13 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 3:13 PM"
-    },
-    {
-      "id": "54075",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 2: Eastbound 11:27 AM Trip Canceled (Franklin Ave W & Hennepin Ave S)",
-      "summary": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 11:27 AM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 2"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-11T16:47:00.000Z",
-        "end": "2026-10-11T18:02:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-10-11T16:47:14.000Z",
-      "rawHeader": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 11:27 AM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "54074",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 645: Westbound 11:17 AM Trip Canceled (Marquette Ave & 5th St - Stop Group B)",
-      "summary": "Westbound Route 645 trip departing Marquette Ave & 5th St - Stop Group B at 11:17 AM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 645"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-11T16:32:00.000Z",
-        "end": "2026-10-11T18:06:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/645",
-      "updatedAt": "2026-10-11T16:32:59.000Z",
-      "rawHeader": "Westbound Route 645 trip departing Marquette Ave & 5th St - Stop Group B at 11:17 AM canceled today due to traffic",
-      "rawDescription": ""
     },
     {
       "id": "52943",
