@@ -2,72 +2,134 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-104-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-97-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-106-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-6-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-96-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-74-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-10T21:30:53.704Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-11T00:48:01.768Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (3) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (4) • **Route 9** (6) • **Route 10** (1) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (2) • **Route 17** (2) • **Route 18** (6) • **Route 22** (5) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (3) • **Route 36** (4) • **Route 38** (3) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (1) • **Route 94** (2) • **Route 134** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO E Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (6) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (2) • **Route 17** (1) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (3) • **Route 36** (4) • **Route 38** (4) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (3) • **Route 94** (2) • **Route 134** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO B Line: Westbound 3:23 PM Trip Canceled (Union Depot & Gate A1)
+### 🚨 METRO E Line: Service Advisory
 
-- **Affected Routes**: `METRO B Line`
-- **Direction**: Westbound
+- **Affected Routes**: `METRO E Line`
+- **Direction**: Southbound
 - **Severity**: `Critical`
+- **Corridors & Intersections**: 12 PM will operate from 4th St & Central St
+- **Closed Stops**: Stop #16569, Stop #15881, Stop #15884, Stop #16112, Stop #16116, Stop #16119, Stop #16154, Stop #56521 *(+1 more)*
 
-**Summary**: Westbound B Line trip departing Union Depot & Gate A1 at 3:23 PM canceled today due to maintenance work
+**Summary**: Southbound E Line trip departing Westgate Station - Gate A at 7:12 PM will operate from 4th St & Central Station at 7:24 PM today due to medical emergency
 
-[Official Agency Advisory](https://www.metrotransit.org/route/bline)
+[Official Agency Advisory](https://www.metrotransit.org/route/eline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Westbound B Line trip departing Union Depot & Gate A1 at 3:23 PM canceled today due to maintenance work
+**Header**: Southbound E Line trip departing Westgate Station - Gate A at 7:12 PM will operate from 4th St & Central Station at 7:24 PM today due to medical emergency
 
 </details>
 
 ---
 
-### 🚨 METRO Gold Line: Eastbound 3:41 PM Trip Canceled (Smith & 5th St Station)
+### 🚨 Route 14: Northbound 7:06 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)
 
-- **Affected Routes**: `METRO Gold Line`
+- **Affected Routes**: `Route 14`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:06 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/14)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:06 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 38: Service Advisory
+
+- **Affected Routes**: `Route 38`
 - **Direction**: Eastbound
 - **Severity**: `Critical`
+- **Corridors & Intersections**: 20 PM will operate from Excelsior Blvd & Quentin Ave
+- **Closed Stops**: Stop #43380, Stop #43587, Stop #40250, Stop #3592, Stop #3615, Stop #4719, Stop #4721, Stop #4803 *(+40 more)*
 
-**Summary**: Eastbound Gold Line trip departing Smith & 5th St Station at 3:41 PM canceled today due to maintenance work
+**Summary**: Eastbound Route 38 trip departing Bren Rd E & Blue Circle Dr at 6:20 PM will operate from Excelsior Blvd & Quentin Ave at 6:53 PM today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/gold)
+[Official Agency Advisory](https://www.metrotransit.org/route/38)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Gold Line trip departing Smith & 5th St Station at 3:41 PM canceled today due to maintenance work
+**Header**: Eastbound Route 38 trip departing Bren Rd E & Blue Circle Dr at 6:20 PM will operate from Excelsior Blvd & Quentin Ave at 6:53 PM today
 
 </details>
 
 ---
 
-### 🚨 Route 22: Southbound 2:30 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)
+### 🚨 Route 68: Service Advisory
 
-- **Affected Routes**: `Route 22`
+- **Affected Routes**: `Route 68`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #56770, Stop #56771, Stop #9806, Stop #9808, Stop #9810, Stop #9812, Stop #9815, Stop #9816 *(+115 more)*
+
+**Summary**: Northbound Route 68 trip departing South St & 5th Ave S at 6:12 PM will start from Robert & FIllmore. Previous stops missed due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/68)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 68 trip departing South St & 5th Ave S at 6:12 PM will start from Robert & FIllmore. Previous stops missed due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 87: Service Canceled
+
+- **Affected Routes**: `Route 87`
 - **Direction**: Southbound
 - **Severity**: `Critical`
 
-**Summary**: Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 2:30 PM canceled today due to traffic
+**Summary**: Southbound Route 87 canceled until later today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/22)
+[Official Agency Advisory](https://www.metrotransit.org/route/87)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 2:30 PM canceled today due to traffic
+**Header**: Southbound Route 87 canceled until later today
+
+</details>
+
+---
+
+### 🚨 Route 87: Service Canceled
+
+- **Affected Routes**: `Route 87`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 87 canceled until later today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/87)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 87 canceled until later today
 
 </details>
 
@@ -699,23 +761,6 @@ Affected stops:
 25th St E & 33rd Ave S - Stop #16457 (eastbound)
 25th St E & 33rd Ave S - Stop #17597 (westbound)
 ```
-
-</details>
-
----
-
-### ⚠️ Route 10, Route 14, Route 17, Route 25, Route 3, Route 7: Detour via Regular Corridor
-
-- **Affected Routes**: `Route 10` `Route 14` `Route 17` `Route 25` `Route 3` `Route 7`
-- **Direction**: All
-- **Severity**: `Moderate`
-
-**Summary**: Routes 3. 7, 10, 14, 17 and 25 may be detoured or delayed on Washington Ave S between Hennepin Ave and 5th Ave S due to demonstration
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Routes 3. 7, 10, 14, 17 and 25 may be detoured or delayed on Washington Ave S between Hennepin Ave and 5th Ave S due to demonstration
 
 </details>
 

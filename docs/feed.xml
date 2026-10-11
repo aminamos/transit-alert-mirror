@@ -4,35 +4,62 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 10 Oct 2026 21:30:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 00:48:01 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO B Line: Westbound 3:23 PM Trip Canceled (Union Depot &amp; Gate A1)</title>
-      <link>https://www.metrotransit.org/route/bline</link>
-      <guid isPermaLink="false">Metro Transit-54048-2026-10-10T20:42:21.000Z</guid>
-      <pubDate>Sat, 10 Oct 2026 20:42:21 GMT</pubDate>
+      <title>[Critical] METRO E Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/eline</link>
+      <guid isPermaLink="false">Metro Transit-54055-2026-10-11T00:09:58.000Z</guid>
+      <pubDate>Sun, 11 Oct 2026 00:09:58 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO B Line</category>
-      <description>Westbound B Line trip departing Union Depot &amp; Gate A1 at 3:23 PM canceled today due to maintenance work</description>
+      <category>METRO E Line</category>
+      <description>Southbound E Line trip departing Westgate Station - Gate A at 7:12 PM will operate from 4th St &amp; Central Station at 7:24 PM today due to medical emergency</description>
     </item>
     <item>
-      <title>[Critical] METRO Gold Line: Eastbound 3:41 PM Trip Canceled (Smith &amp; 5th St Station)</title>
-      <link>https://www.metrotransit.org/route/gold</link>
-      <guid isPermaLink="false">Metro Transit-54047-2026-10-10T20:35:28.000Z</guid>
-      <pubDate>Sat, 10 Oct 2026 20:35:28 GMT</pubDate>
+      <title>[Critical] Route 14: Northbound 7:06 PM Trip Canceled (66th St E &amp; Richfield Pkwy / 16th Ave)</title>
+      <link>https://www.metrotransit.org/route/14</link>
+      <guid isPermaLink="false">Metro Transit-54056-2026-10-11T00:17:38.000Z</guid>
+      <pubDate>Sun, 11 Oct 2026 00:17:38 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO Gold Line</category>
-      <description>Eastbound Gold Line trip departing Smith &amp; 5th St Station at 3:41 PM canceled today due to maintenance work</description>
+      <category>Route 14</category>
+      <description>Northbound Route 14 trip departing 66th St E &amp; Richfield Pkwy / 16th Ave at 7:06 PM canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 22: Southbound 2:30 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)</title>
-      <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-54045-2026-10-10T19:49:18.000Z</guid>
-      <pubDate>Sat, 10 Oct 2026 19:49:18 GMT</pubDate>
+      <title>[Critical] Route 38: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/38</link>
+      <guid isPermaLink="false">Metro Transit-54054-2026-10-10T23:47:01.000Z</guid>
+      <pubDate>Sat, 10 Oct 2026 23:47:01 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 22</category>
-      <description>Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 2:30 PM canceled today due to traffic</description>
+      <category>Route 38</category>
+      <description>Eastbound Route 38 trip departing Bren Rd E &amp; Blue Circle Dr at 6:20 PM will operate from Excelsior Blvd &amp; Quentin Ave at 6:53 PM today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 68: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/68</link>
+      <guid isPermaLink="false">Metro Transit-54053-2026-10-10T23:33:08.000Z</guid>
+      <pubDate>Sat, 10 Oct 2026 23:33:08 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 68</category>
+      <description>Northbound Route 68 trip departing South St &amp; 5th Ave S at 6:12 PM will start from Robert &amp; FIllmore. Previous stops missed due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 87: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/87</link>
+      <guid isPermaLink="false">Metro Transit-54051-2026-10-10T22:47:43.000Z</guid>
+      <pubDate>Sat, 10 Oct 2026 22:47:43 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 87</category>
+      <description>Southbound Route 87 canceled until later today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 87: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/87</link>
+      <guid isPermaLink="false">Metro Transit-54052-2026-10-10T23:28:36.000Z</guid>
+      <pubDate>Sat, 10 Oct 2026 23:28:36 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 87</category>
+      <description>Northbound Route 87 canceled until later today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -168,15 +195,6 @@
       <category>Moderate</category>
       <category>Route 9</category>
       <description>Route 9 detoured off 25th St from 32nd Ave to 34th Ave beginning Tue Oct 6 at 7:00 AM until further notice due to construction. Board at: 25th St E &amp; 31st Ave S - Stop #16455 (eastbound); 25th St E &amp; 35th Ave S - Stop #16459 (eastbound). | Action: Board at: 25th St E &amp; 31st Ave S - Stop #16455 (eastbound); 25th St E &amp; 35th Ave S - Stop #16459 (eastbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 10, Route 14, Route 17, Route 25, Route 3, Route 7: Detour via Regular Corridor</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54046-2026-10-10T20:16:27.000Z</guid>
-      <pubDate>Sat, 10 Oct 2026 20:16:27 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 10, Route 14, Route 17, Route 25, Route 3, Route 7</category>
-      <description>Routes 3. 7, 10, 14, 17 and 25 may be detoured or delayed on Washington Ave S between Hennepin Ave and 5th Ave S due to demonstration</description>
     </item>
     <item>
       <title>[Moderate] Route 11: Detour via Main St NE &amp; St Anthony Pkwy</title>

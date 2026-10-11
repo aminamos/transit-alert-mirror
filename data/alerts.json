@@ -1,76 +1,858 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-10T21:30:53.704Z",
-    "totalAlerts": 104,
-    "criticalCount": 3,
-    "moderateCount": 97,
+    "generatedAt": "2026-10-11T00:48:01.768Z",
+    "totalAlerts": 106,
+    "criticalCount": 6,
+    "moderateCount": 96,
     "minorCount": 4,
-    "affectedRoutesCount": 77,
+    "affectedRoutesCount": 74,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "54048",
+      "id": "54055",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO B Line: Westbound 3:23 PM Trip Canceled (Union Depot & Gate A1)",
-      "summary": "Westbound B Line trip departing Union Depot & Gate A1 at 3:23 PM canceled today due to maintenance work",
+      "title": "METRO E Line: Service Advisory",
+      "summary": "Southbound E Line trip departing Westgate Station - Gate A at 7:12 PM will operate from 4th St & Central Station at 7:24 PM today due to medical emergency",
       "affectedRoutes": [
-        "METRO B Line"
+        "METRO E Line"
       ],
-      "direction": "Westbound",
+      "direction": "Southbound",
+      "intersections": [
+        "12 PM will operate from 4th St & Central St"
+      ],
+      "closedStopIds": [
+        "16569",
+        "15881",
+        "15884",
+        "16112",
+        "16116",
+        "16119",
+        "16154",
+        "56521",
+        "57541"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "16569"
+        },
+        {
+          "id": "15881"
+        },
+        {
+          "id": "15884"
+        },
+        {
+          "id": "16112"
+        },
+        {
+          "id": "16116"
+        },
+        {
+          "id": "16119"
+        },
+        {
+          "id": "16154"
+        },
+        {
+          "id": "56521"
+        },
+        {
+          "id": "57541"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-11T00:12:00.000Z",
+        "end": "2026-10-11T02:09:00.000Z"
+      },
+      "cause": "MEDICAL_EMERGENCY",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/eline",
+      "updatedAt": "2026-10-11T00:09:58.000Z",
+      "rawHeader": "Southbound E Line trip departing Westgate Station - Gate A at 7:12 PM will operate from 4th St & Central Station at 7:24 PM today due to medical emergency",
+      "rawDescription": ""
+    },
+    {
+      "id": "54056",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 14: Northbound 7:06 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)",
+      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:06 PM canceled today",
+      "affectedRoutes": [
+        "Route 14"
+      ],
+      "direction": "Northbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-10T20:42:00.000Z",
-        "end": "2026-10-10T22:32:00.000Z"
+        "start": "2026-10-11T00:17:00.000Z",
+        "end": "2026-10-11T02:09:00.000Z"
       },
-      "cause": "MAINTENANCE",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-10-10T20:42:21.000Z",
-      "rawHeader": "Westbound B Line trip departing Union Depot & Gate A1 at 3:23 PM canceled today due to maintenance work",
+      "url": "https://www.metrotransit.org/route/14",
+      "updatedAt": "2026-10-11T00:17:38.000Z",
+      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:06 PM canceled today",
       "rawDescription": ""
     },
     {
-      "id": "54047",
+      "id": "54054",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO Gold Line: Eastbound 3:41 PM Trip Canceled (Smith & 5th St Station)",
-      "summary": "Eastbound Gold Line trip departing Smith & 5th St Station at 3:41 PM canceled today due to maintenance work",
+      "title": "Route 38: Service Advisory",
+      "summary": "Eastbound Route 38 trip departing Bren Rd E & Blue Circle Dr at 6:20 PM will operate from Excelsior Blvd & Quentin Ave at 6:53 PM today",
       "affectedRoutes": [
-        "METRO Gold Line"
+        "Route 38"
       ],
       "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
+      "intersections": [
+        "20 PM will operate from Excelsior Blvd & Quentin Ave"
+      ],
+      "closedStopIds": [
+        "43380",
+        "43587",
+        "40250",
+        "3592",
+        "3615",
+        "4719",
+        "4721",
+        "4803",
+        "4804",
+        "4805",
+        "4806",
+        "4807",
+        "4808",
+        "4809",
+        "4810",
+        "4812",
+        "4813",
+        "4814",
+        "4818",
+        "4819",
+        "4820",
+        "48208",
+        "48209",
+        "41302",
+        "41311",
+        "50095",
+        "48212",
+        "48213",
+        "4822",
+        "4828",
+        "4829",
+        "48312",
+        "48313",
+        "4834",
+        "4836",
+        "48379",
+        "48392",
+        "4844",
+        "4848",
+        "4849",
+        "4850",
+        "51029",
+        "51030",
+        "51120",
+        "52266",
+        "52523",
+        "56512",
+        "81108"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "43380"
+        },
+        {
+          "id": "43587"
+        },
+        {
+          "id": "40250"
+        },
+        {
+          "id": "3592"
+        },
+        {
+          "id": "3615"
+        },
+        {
+          "id": "4719"
+        },
+        {
+          "id": "4721"
+        },
+        {
+          "id": "4803"
+        },
+        {
+          "id": "4804"
+        },
+        {
+          "id": "4805"
+        },
+        {
+          "id": "4806"
+        },
+        {
+          "id": "4807"
+        },
+        {
+          "id": "4808"
+        },
+        {
+          "id": "4809"
+        },
+        {
+          "id": "4810"
+        },
+        {
+          "id": "4812"
+        },
+        {
+          "id": "4813"
+        },
+        {
+          "id": "4814"
+        },
+        {
+          "id": "4818"
+        },
+        {
+          "id": "4819"
+        },
+        {
+          "id": "4820"
+        },
+        {
+          "id": "48208"
+        },
+        {
+          "id": "48209"
+        },
+        {
+          "id": "41302"
+        },
+        {
+          "id": "41311"
+        },
+        {
+          "id": "50095"
+        },
+        {
+          "id": "48212"
+        },
+        {
+          "id": "48213"
+        },
+        {
+          "id": "4822"
+        },
+        {
+          "id": "4828"
+        },
+        {
+          "id": "4829"
+        },
+        {
+          "id": "48312"
+        },
+        {
+          "id": "48313"
+        },
+        {
+          "id": "4834"
+        },
+        {
+          "id": "4836"
+        },
+        {
+          "id": "48379"
+        },
+        {
+          "id": "48392"
+        },
+        {
+          "id": "4844"
+        },
+        {
+          "id": "4848"
+        },
+        {
+          "id": "4849"
+        },
+        {
+          "id": "4850"
+        },
+        {
+          "id": "51029"
+        },
+        {
+          "id": "51030"
+        },
+        {
+          "id": "51120"
+        },
+        {
+          "id": "52266"
+        },
+        {
+          "id": "52523"
+        },
+        {
+          "id": "56512"
+        },
+        {
+          "id": "81108"
+        }
+      ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-10T20:41:00.000Z",
-        "end": "2026-10-10T22:15:00.000Z"
+        "start": "2026-10-10T23:45:00.000Z",
+        "end": "2026-10-11T01:38:00.000Z"
       },
-      "cause": "MAINTENANCE",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/gold",
-      "updatedAt": "2026-10-10T20:35:28.000Z",
-      "rawHeader": "Eastbound Gold Line trip departing Smith & 5th St Station at 3:41 PM canceled today due to maintenance work",
+      "url": "https://www.metrotransit.org/route/38",
+      "updatedAt": "2026-10-10T23:47:01.000Z",
+      "rawHeader": "Eastbound Route 38 trip departing Bren Rd E & Blue Circle Dr at 6:20 PM will operate from Excelsior Blvd & Quentin Ave at 6:53 PM today",
       "rawDescription": ""
     },
     {
-      "id": "54045",
+      "id": "54053",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 22: Southbound 2:30 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)",
-      "summary": "Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 2:30 PM canceled today due to traffic",
+      "title": "Route 68: Service Advisory",
+      "summary": "Northbound Route 68 trip departing South St & 5th Ave S at 6:12 PM will start from Robert & FIllmore. Previous stops missed due to traffic",
       "affectedRoutes": [
-        "Route 22"
+        "Route 68"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [
+        "56770",
+        "56771",
+        "9806",
+        "9808",
+        "9810",
+        "9812",
+        "9815",
+        "9816",
+        "9817",
+        "9818",
+        "9819",
+        "9820",
+        "9821",
+        "9822",
+        "9823",
+        "9825",
+        "9826",
+        "9827",
+        "9828",
+        "9829",
+        "9830",
+        "9832",
+        "9834",
+        "9839",
+        "9843",
+        "9844",
+        "9845",
+        "9846",
+        "9847",
+        "9849",
+        "9850",
+        "9852",
+        "9854",
+        "9855",
+        "9859",
+        "9862",
+        "9864",
+        "9866",
+        "9870",
+        "9871",
+        "9872",
+        "9874",
+        "9875",
+        "9876",
+        "9877",
+        "9878",
+        "9881",
+        "9883",
+        "9884",
+        "9885",
+        "9886",
+        "9888",
+        "9890",
+        "9891",
+        "9893",
+        "9894",
+        "50101",
+        "51470",
+        "56425",
+        "53402",
+        "53403",
+        "53404",
+        "53405",
+        "53340",
+        "50667",
+        "9676",
+        "9695",
+        "9696",
+        "9698",
+        "9754",
+        "9756",
+        "9757",
+        "9758",
+        "9759",
+        "9760",
+        "9761",
+        "9766",
+        "9767",
+        "9768",
+        "9769",
+        "9773",
+        "9775",
+        "9776",
+        "9778",
+        "9779",
+        "9780",
+        "9781",
+        "9782",
+        "9783",
+        "9784",
+        "9785",
+        "9786",
+        "9787",
+        "9788",
+        "9790",
+        "9791",
+        "4988",
+        "426",
+        "48568",
+        "48569",
+        "41293",
+        "47054",
+        "47055",
+        "10116",
+        "40033",
+        "40088",
+        "40110",
+        "43286",
+        "43287",
+        "43288",
+        "42445",
+        "425",
+        "2565",
+        "2566",
+        "258",
+        "259",
+        "260",
+        "2605",
+        "2606",
+        "2607",
+        "2608",
+        "2609",
+        "261"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "56770"
+        },
+        {
+          "id": "56771"
+        },
+        {
+          "id": "9806"
+        },
+        {
+          "id": "9808"
+        },
+        {
+          "id": "9810"
+        },
+        {
+          "id": "9812"
+        },
+        {
+          "id": "9815"
+        },
+        {
+          "id": "9816"
+        },
+        {
+          "id": "9817"
+        },
+        {
+          "id": "9818"
+        },
+        {
+          "id": "9819"
+        },
+        {
+          "id": "9820"
+        },
+        {
+          "id": "9821"
+        },
+        {
+          "id": "9822"
+        },
+        {
+          "id": "9823"
+        },
+        {
+          "id": "9825"
+        },
+        {
+          "id": "9826"
+        },
+        {
+          "id": "9827"
+        },
+        {
+          "id": "9828"
+        },
+        {
+          "id": "9829"
+        },
+        {
+          "id": "9830"
+        },
+        {
+          "id": "9832"
+        },
+        {
+          "id": "9834"
+        },
+        {
+          "id": "9839"
+        },
+        {
+          "id": "9843"
+        },
+        {
+          "id": "9844"
+        },
+        {
+          "id": "9845"
+        },
+        {
+          "id": "9846"
+        },
+        {
+          "id": "9847"
+        },
+        {
+          "id": "9849"
+        },
+        {
+          "id": "9850"
+        },
+        {
+          "id": "9852"
+        },
+        {
+          "id": "9854"
+        },
+        {
+          "id": "9855"
+        },
+        {
+          "id": "9859"
+        },
+        {
+          "id": "9862"
+        },
+        {
+          "id": "9864"
+        },
+        {
+          "id": "9866"
+        },
+        {
+          "id": "9870"
+        },
+        {
+          "id": "9871"
+        },
+        {
+          "id": "9872"
+        },
+        {
+          "id": "9874"
+        },
+        {
+          "id": "9875"
+        },
+        {
+          "id": "9876"
+        },
+        {
+          "id": "9877"
+        },
+        {
+          "id": "9878"
+        },
+        {
+          "id": "9881"
+        },
+        {
+          "id": "9883"
+        },
+        {
+          "id": "9884"
+        },
+        {
+          "id": "9885"
+        },
+        {
+          "id": "9886"
+        },
+        {
+          "id": "9888"
+        },
+        {
+          "id": "9890"
+        },
+        {
+          "id": "9891"
+        },
+        {
+          "id": "9893"
+        },
+        {
+          "id": "9894"
+        },
+        {
+          "id": "50101"
+        },
+        {
+          "id": "51470"
+        },
+        {
+          "id": "56425"
+        },
+        {
+          "id": "53402"
+        },
+        {
+          "id": "53403"
+        },
+        {
+          "id": "53404"
+        },
+        {
+          "id": "53405"
+        },
+        {
+          "id": "53340"
+        },
+        {
+          "id": "50667"
+        },
+        {
+          "id": "9676"
+        },
+        {
+          "id": "9695"
+        },
+        {
+          "id": "9696"
+        },
+        {
+          "id": "9698"
+        },
+        {
+          "id": "9754"
+        },
+        {
+          "id": "9756"
+        },
+        {
+          "id": "9757"
+        },
+        {
+          "id": "9758"
+        },
+        {
+          "id": "9759"
+        },
+        {
+          "id": "9760"
+        },
+        {
+          "id": "9761"
+        },
+        {
+          "id": "9766"
+        },
+        {
+          "id": "9767"
+        },
+        {
+          "id": "9768"
+        },
+        {
+          "id": "9769"
+        },
+        {
+          "id": "9773"
+        },
+        {
+          "id": "9775"
+        },
+        {
+          "id": "9776"
+        },
+        {
+          "id": "9778"
+        },
+        {
+          "id": "9779"
+        },
+        {
+          "id": "9780"
+        },
+        {
+          "id": "9781"
+        },
+        {
+          "id": "9782"
+        },
+        {
+          "id": "9783"
+        },
+        {
+          "id": "9784"
+        },
+        {
+          "id": "9785"
+        },
+        {
+          "id": "9786"
+        },
+        {
+          "id": "9787"
+        },
+        {
+          "id": "9788"
+        },
+        {
+          "id": "9790"
+        },
+        {
+          "id": "9791"
+        },
+        {
+          "id": "4988"
+        },
+        {
+          "id": "426"
+        },
+        {
+          "id": "48568"
+        },
+        {
+          "id": "48569"
+        },
+        {
+          "id": "41293"
+        },
+        {
+          "id": "47054"
+        },
+        {
+          "id": "47055"
+        },
+        {
+          "id": "10116"
+        },
+        {
+          "id": "40033"
+        },
+        {
+          "id": "40088"
+        },
+        {
+          "id": "40110"
+        },
+        {
+          "id": "43286"
+        },
+        {
+          "id": "43287"
+        },
+        {
+          "id": "43288"
+        },
+        {
+          "id": "42445"
+        },
+        {
+          "id": "425"
+        },
+        {
+          "id": "2565"
+        },
+        {
+          "id": "2566"
+        },
+        {
+          "id": "258"
+        },
+        {
+          "id": "259"
+        },
+        {
+          "id": "260"
+        },
+        {
+          "id": "2605"
+        },
+        {
+          "id": "2606"
+        },
+        {
+          "id": "2607"
+        },
+        {
+          "id": "2608"
+        },
+        {
+          "id": "2609"
+        },
+        {
+          "id": "261"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-10T23:32:00.000Z",
+        "end": "2026-10-11T01:06:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/68",
+      "updatedAt": "2026-10-10T23:33:08.000Z",
+      "rawHeader": "Northbound Route 68 trip departing South St & 5th Ave S at 6:12 PM will start from Robert & FIllmore. Previous stops missed due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "54051",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 87: Service Canceled",
+      "summary": "Southbound Route 87 canceled until later today",
+      "affectedRoutes": [
+        "Route 87"
       ],
       "direction": "Southbound",
       "intersections": [],
@@ -79,14 +861,40 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-10T19:48:00.000Z",
-        "end": "2026-10-10T21:50:00.000Z"
+        "start": "2026-10-10T22:47:00.000Z",
+        "end": "2026-10-11T02:46:23.000Z"
       },
-      "cause": "OTHER_CAUSE",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-10-10T19:49:18.000Z",
-      "rawHeader": "Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 2:30 PM canceled today due to traffic",
+      "url": "https://www.metrotransit.org/route/87",
+      "updatedAt": "2026-10-10T22:47:43.000Z",
+      "rawHeader": "Southbound Route 87 canceled until later today",
+      "rawDescription": ""
+    },
+    {
+      "id": "54052",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 87: Service Canceled",
+      "summary": "Northbound Route 87 canceled until later today",
+      "affectedRoutes": [
+        "Route 87"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-10T23:28:00.000Z",
+        "end": "2026-10-11T02:46:23.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/87",
+      "updatedAt": "2026-10-10T23:28:36.000Z",
+      "rawHeader": "Northbound Route 87 canceled until later today",
       "rawDescription": ""
     },
     {
@@ -1075,36 +1883,6 @@
       "updatedAt": "2026-10-06T11:30:06.000Z",
       "rawHeader": "Route 9 detoured off 25th St from 32nd Ave to 34th Ave beginning Tue Oct 6 at 7:00 AM until further notice due to construction",
       "rawDescription": "For eastbound Route 9 get on/off buses at:\r\n25th St E & 31st Ave S - Stop #16455 (eastbound)\r\n25th St E & 35th Ave S - Stop #16459 (eastbound)\r\n\nFor westbound Route 9 get on/off buses at:\r\n25th St E & 35th Ave S - Stop #17595 (westbound)\r\n25th St E & 31st Ave S - Stop #17599 (westbound)\r\n\nEastbound buses will travel regular route on 25th St to 32nd Ave, right on 32nd Ave, left on 26th St, left on 34th Ave, right on 25th St and resume regular route.\r\n\nWestbound buses will travel regular route on 25th St to 34th Ave, left on 34th Ave, right on 26th St, right on 32nd Ave, left on 25th St and resume regular route.\r\n\nAffected stops:\r\n25th St E & 33rd Ave S - Stop #16457 (eastbound)\r\n25th St E & 33rd Ave S - Stop #17597 (westbound)"
-    },
-    {
-      "id": "54046",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 10, Route 14, Route 17, Route 25, Route 3, Route 7: Detour via Regular Corridor",
-      "summary": "Routes 3. 7, 10, 14, 17 and 25 may be detoured or delayed on Washington Ave S between Hennepin Ave and 5th Ave S due to demonstration",
-      "affectedRoutes": [
-        "Route 10",
-        "Route 14",
-        "Route 17",
-        "Route 25",
-        "Route 3",
-        "Route 7"
-      ],
-      "direction": "All",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-10T19:56:00.000Z",
-        "end": "2026-10-10T23:30:24.000Z"
-      },
-      "cause": "DEMONSTRATION",
-      "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-10-10T20:16:27.000Z",
-      "rawHeader": "Routes 3. 7, 10, 14, 17 and 25 may be detoured or delayed on Washington Ave S between Hennepin Ave and 5th Ave S due to demonstration",
-      "rawDescription": ""
     },
     {
       "id": "49659",
