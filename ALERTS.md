@@ -2,53 +2,46 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-102-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-101-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-96-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-74-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-75-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-11T07:00:11.221Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-11T13:57:41.408Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (6) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (1) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (3) • **Route 36** (4) • **Route 38** (3) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (3) • **Route 94** (2) • **Route 134** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (6) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (1) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (3) • **Route 36** (4) • **Route 38** (3) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (1) • **Route 94** (2) • **Route 134** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 87: Service Canceled
+### 🚨 METRO D Line: Service Canceled
 
-- **Affected Routes**: `Route 87`
-- **Direction**: Southbound
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: Southbound Route 87 canceled until later today
+**Summary**: D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 9:21 AM and five other trips canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/87)
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 87 canceled until later today
+**Header**: D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 9:21 AM and five other trips canceled today
 
-</details>
+```text
+Affected northbound trips:
+departing MOA Transit Station Gate A at 10:46 AM
+departing MOA Transit Station Gate A at 1:44 PM
+departing MOA Transit Station Gate A at 4:45 PM
 
----
-
-### 🚨 Route 87: Service Canceled
-
-- **Affected Routes**: `Route 87`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Route 87 canceled until later today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/87)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 87 canceled until later today
+Affected southbound trips:
+departing Brooklyn Ctr Transit Ctr Gate F at 9:21 AM
+departing Brooklyn Ctr Transit Ctr Gate F at 12:13 PM
+departing Brooklyn Ctr Transit Ctr Gate F at 3:13 PM
+```
 
 </details>
 
