@@ -4,45 +4,9 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 11 Oct 2026 00:48:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 07:00:11 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
-    <item>
-      <title>[Critical] METRO E Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-54055-2026-10-11T00:09:58.000Z</guid>
-      <pubDate>Sun, 11 Oct 2026 00:09:58 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO E Line</category>
-      <description>Southbound E Line trip departing Westgate Station - Gate A at 7:12 PM will operate from 4th St &amp; Central Station at 7:24 PM today due to medical emergency</description>
-    </item>
-    <item>
-      <title>[Critical] Route 14: Northbound 7:06 PM Trip Canceled (66th St E &amp; Richfield Pkwy / 16th Ave)</title>
-      <link>https://www.metrotransit.org/route/14</link>
-      <guid isPermaLink="false">Metro Transit-54056-2026-10-11T00:17:38.000Z</guid>
-      <pubDate>Sun, 11 Oct 2026 00:17:38 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 14</category>
-      <description>Northbound Route 14 trip departing 66th St E &amp; Richfield Pkwy / 16th Ave at 7:06 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 38: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/38</link>
-      <guid isPermaLink="false">Metro Transit-54054-2026-10-10T23:47:01.000Z</guid>
-      <pubDate>Sat, 10 Oct 2026 23:47:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 38</category>
-      <description>Eastbound Route 38 trip departing Bren Rd E &amp; Blue Circle Dr at 6:20 PM will operate from Excelsior Blvd &amp; Quentin Ave at 6:53 PM today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 68: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/68</link>
-      <guid isPermaLink="false">Metro Transit-54053-2026-10-10T23:33:08.000Z</guid>
-      <pubDate>Sat, 10 Oct 2026 23:33:08 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 68</category>
-      <description>Northbound Route 68 trip departing South St &amp; 5th Ave S at 6:12 PM will start from Robert &amp; FIllmore. Previous stops missed due to traffic</description>
-    </item>
     <item>
       <title>[Critical] Route 87: Service Canceled</title>
       <link>https://www.metrotransit.org/route/87</link>
@@ -82,8 +46,8 @@
     <item>
       <title>[Moderate] METRO E Line: Detour via Richfield Rd &amp; Bde Maka Ska St</title>
       <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-53854-2026-10-10T05:00:01.000Z</guid>
-      <pubDate>Sat, 10 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53854-2026-10-11T05:00:01.000Z</guid>
+      <pubDate>Sun, 11 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO E Line</category>
       <description>E Line detoured off Hennepin Ave from 36th St W to 25th St W from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: Richfield Rd &amp; Bde Maka Ska Station - Stop #57539 (northbound); 36th St W &amp; Hennepin Ave - Stop #41337 (eastbound); Lyndale Ave S &amp; Lake St W - Stop #170 (northbound). | Action: Board at: Richfield Rd &amp; Bde Maka Ska Station - Stop #57539 (northbound); 36th St W &amp; Hennepin Ave - Stop #41337 (eastbound); Lyndale Ave S &amp; Lake St W - Stop #170 (northbound)</description>
@@ -208,8 +172,8 @@
     <item>
       <title>[Moderate] Route 11, Route 18, Route 11D: Stop Closed at Nicollet Ave S &amp; 48th St W</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-53474-2026-10-06T05:00:01.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53474-2026-10-11T05:00:02.000Z</guid>
+      <pubDate>Sun, 11 Oct 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 11, Route 18, Route 11D</category>
       <description>Nicollet Ave S &amp; 48th St W - Stop #1229 (southbound) is closed for Routes 11D and 18 from Mon Oct 5 at 7:00 AM to Mon Oct 12 at 7:00 AM due to construction. Board at: Nicollet Ave S &amp; 49th St W - Stop #1230 (southbound). | Action: Board at: Nicollet Ave S &amp; 49th St W - Stop #1230 (southbound)</description>
@@ -217,8 +181,8 @@
     <item>
       <title>[Moderate] Route 11: Detour via Grand St NE &amp; 30th Ave N</title>
       <link>https://www.metrotransit.org/route/11</link>
-      <guid isPermaLink="false">Metro Transit-53983-2026-10-09T13:48:00.000Z</guid>
-      <pubDate>Fri, 09 Oct 2026 13:48:00 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53983-2026-10-11T05:00:01.000Z</guid>
+      <pubDate>Sun, 11 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 11</category>
       <description>Route 11 detoured off Grand St from 30th Ave to 31st Ave and off 31st Ave from Grand St to Columbia Ave beginning Mon Oct 12 at 7:00 AM until further notice due to construction. Board at: Grand St NE &amp; 30th Ave NE - Stop #14632 (northbound); Temporary stop Columbia Ave NE &amp; 31st Ave NE (northbound); Columbia Ave NE &amp; St Anthony Pkwy - Stop #14622 (northbound). | Action: Board at: Grand St NE &amp; 30th Ave NE - Stop #14632 (northbound); Temporary stop Columbia Ave NE &amp; 31st Ave NE (northbound); Columbia Ave NE &amp; St Anthony Pkwy - Stop #14622 (northbound)</description>
@@ -226,8 +190,8 @@
     <item>
       <title>[Moderate] Route 17: Detour via Lake St W &amp; Humboldt Ave S</title>
       <link>https://www.metrotransit.org/route/17</link>
-      <guid isPermaLink="false">Metro Transit-53856-2026-10-10T05:00:01.000Z</guid>
-      <pubDate>Sat, 10 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53856-2026-10-11T05:00:01.000Z</guid>
+      <pubDate>Sun, 11 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 17</category>
       <description>Route 17 detoured off Hennepin Ave from 24th St W to Lagoon Ave from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: Lake St W &amp; Humboldt Ave S - Stop #16827 (eastbound); 24th St W &amp; Pleasant Ave S - Stop #40342 (eastbound). | Action: Board at: Lake St W &amp; Humboldt Ave S - Stop #16827 (eastbound); 24th St W &amp; Pleasant Ave S - Stop #40342 (eastbound)</description>
@@ -334,8 +298,8 @@
     <item>
       <title>[Moderate] Route 27: Detour via Lagoon Ave &amp; Emerson Ave S</title>
       <link>https://www.metrotransit.org/route/27</link>
-      <guid isPermaLink="false">Metro Transit-53858-2026-10-10T05:00:01.000Z</guid>
-      <pubDate>Sat, 10 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53858-2026-10-11T05:00:01.000Z</guid>
+      <pubDate>Sun, 11 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 27</category>
       <description>Route 27 detoured out of Uptown Transit Station from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: Lagoon Ave &amp; Emerson Ave S - Stop #17040 (westbound); Lake &amp; Hennepin Station - Stop #57355 (eastbound). | Action: Board at: Lagoon Ave &amp; Emerson Ave S - Stop #17040 (westbound); Lake &amp; Hennepin Station - Stop #57355 (eastbound)</description>
@@ -370,8 +334,8 @@
     <item>
       <title>[Moderate] Route 36: Detour via 36th St W &amp; Irving Ave S</title>
       <link>https://www.metrotransit.org/route/36</link>
-      <guid isPermaLink="false">Metro Transit-53853-2026-10-10T05:00:01.000Z</guid>
-      <pubDate>Sat, 10 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53853-2026-10-11T05:00:01.000Z</guid>
+      <pubDate>Sun, 11 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 36</category>
       <description>Route 36 detoured off Hennepin Ave from 36th St W to 29th St W from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: 36th St W &amp; Irving Ave S - Stop #1313 (eastbound); Temporary terminal Lagoon Ave &amp; Emerson Ave S (westbound). | Action: Board at: 36th St W &amp; Irving Ave S - Stop #1313 (eastbound); Temporary terminal Lagoon Ave &amp; Emerson Ave S (westbound)</description>
@@ -631,8 +595,8 @@
     <item>
       <title>[Moderate] Route 134, Route 14, Route 355, Route 363, Route 94: Stop Closed at 6th St S &amp; 11th Ave S</title>
       <link>https://www.metrotransit.org/route/134</link>
-      <guid isPermaLink="false">Metro Transit-53982-2026-10-09T13:37:23.000Z</guid>
-      <pubDate>Fri, 09 Oct 2026 13:37:23 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53982-2026-10-11T05:00:02.000Z</guid>
+      <pubDate>Sun, 11 Oct 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 134, Route 14, Route 355, Route 363, Route 94</category>
       <description>6th St S &amp; 11th Ave S - Stop #17890 (eastbound) is closed for Routes 14, 94, 134, 355 and 363 beginning Mon Oct 12 at 7:00 AM until further notice due to construction. Board at: 6th St S &amp; Bud Grant Way - Stop #17888 (eastbound). | Action: Board at: 6th St S &amp; Bud Grant Way - Stop #17888 (eastbound)</description>
@@ -937,8 +901,8 @@
     <item>
       <title>[Minor] Route 64, Route 74: Service Advisory</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-53804-2026-10-06T05:00:01.000Z</guid>
-      <pubDate>Tue, 06 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53804-2026-10-11T05:00:02.000Z</guid>
+      <pubDate>Sun, 11 Oct 2026 05:00:02 GMT</pubDate>
       <category>Minor</category>
       <category>Route 64, Route 74</category>
       <description>Routes 64 and 74 school trips that serve Johnson High School will switch gates beginning Mon Oct 12</description>

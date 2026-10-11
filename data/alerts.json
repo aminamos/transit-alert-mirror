@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-11T00:48:01.768Z",
-    "totalAlerts": 106,
-    "criticalCount": 6,
+    "generatedAt": "2026-10-11T07:00:11.221Z",
+    "totalAlerts": 102,
+    "criticalCount": 2,
     "moderateCount": 96,
     "minorCount": 4,
     "affectedRoutesCount": 74,
@@ -11,840 +11,6 @@
     ]
   },
   "alerts": [
-    {
-      "id": "54055",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO E Line: Service Advisory",
-      "summary": "Southbound E Line trip departing Westgate Station - Gate A at 7:12 PM will operate from 4th St & Central Station at 7:24 PM today due to medical emergency",
-      "affectedRoutes": [
-        "METRO E Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [
-        "12 PM will operate from 4th St & Central St"
-      ],
-      "closedStopIds": [
-        "16569",
-        "15881",
-        "15884",
-        "16112",
-        "16116",
-        "16119",
-        "16154",
-        "56521",
-        "57541"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "16569"
-        },
-        {
-          "id": "15881"
-        },
-        {
-          "id": "15884"
-        },
-        {
-          "id": "16112"
-        },
-        {
-          "id": "16116"
-        },
-        {
-          "id": "16119"
-        },
-        {
-          "id": "16154"
-        },
-        {
-          "id": "56521"
-        },
-        {
-          "id": "57541"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-11T00:12:00.000Z",
-        "end": "2026-10-11T02:09:00.000Z"
-      },
-      "cause": "MEDICAL_EMERGENCY",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-10-11T00:09:58.000Z",
-      "rawHeader": "Southbound E Line trip departing Westgate Station - Gate A at 7:12 PM will operate from 4th St & Central Station at 7:24 PM today due to medical emergency",
-      "rawDescription": ""
-    },
-    {
-      "id": "54056",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 14: Northbound 7:06 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)",
-      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:06 PM canceled today",
-      "affectedRoutes": [
-        "Route 14"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-11T00:17:00.000Z",
-        "end": "2026-10-11T02:09:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/14",
-      "updatedAt": "2026-10-11T00:17:38.000Z",
-      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:06 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "54054",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 38: Service Advisory",
-      "summary": "Eastbound Route 38 trip departing Bren Rd E & Blue Circle Dr at 6:20 PM will operate from Excelsior Blvd & Quentin Ave at 6:53 PM today",
-      "affectedRoutes": [
-        "Route 38"
-      ],
-      "direction": "Eastbound",
-      "intersections": [
-        "20 PM will operate from Excelsior Blvd & Quentin Ave"
-      ],
-      "closedStopIds": [
-        "43380",
-        "43587",
-        "40250",
-        "3592",
-        "3615",
-        "4719",
-        "4721",
-        "4803",
-        "4804",
-        "4805",
-        "4806",
-        "4807",
-        "4808",
-        "4809",
-        "4810",
-        "4812",
-        "4813",
-        "4814",
-        "4818",
-        "4819",
-        "4820",
-        "48208",
-        "48209",
-        "41302",
-        "41311",
-        "50095",
-        "48212",
-        "48213",
-        "4822",
-        "4828",
-        "4829",
-        "48312",
-        "48313",
-        "4834",
-        "4836",
-        "48379",
-        "48392",
-        "4844",
-        "4848",
-        "4849",
-        "4850",
-        "51029",
-        "51030",
-        "51120",
-        "52266",
-        "52523",
-        "56512",
-        "81108"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "43380"
-        },
-        {
-          "id": "43587"
-        },
-        {
-          "id": "40250"
-        },
-        {
-          "id": "3592"
-        },
-        {
-          "id": "3615"
-        },
-        {
-          "id": "4719"
-        },
-        {
-          "id": "4721"
-        },
-        {
-          "id": "4803"
-        },
-        {
-          "id": "4804"
-        },
-        {
-          "id": "4805"
-        },
-        {
-          "id": "4806"
-        },
-        {
-          "id": "4807"
-        },
-        {
-          "id": "4808"
-        },
-        {
-          "id": "4809"
-        },
-        {
-          "id": "4810"
-        },
-        {
-          "id": "4812"
-        },
-        {
-          "id": "4813"
-        },
-        {
-          "id": "4814"
-        },
-        {
-          "id": "4818"
-        },
-        {
-          "id": "4819"
-        },
-        {
-          "id": "4820"
-        },
-        {
-          "id": "48208"
-        },
-        {
-          "id": "48209"
-        },
-        {
-          "id": "41302"
-        },
-        {
-          "id": "41311"
-        },
-        {
-          "id": "50095"
-        },
-        {
-          "id": "48212"
-        },
-        {
-          "id": "48213"
-        },
-        {
-          "id": "4822"
-        },
-        {
-          "id": "4828"
-        },
-        {
-          "id": "4829"
-        },
-        {
-          "id": "48312"
-        },
-        {
-          "id": "48313"
-        },
-        {
-          "id": "4834"
-        },
-        {
-          "id": "4836"
-        },
-        {
-          "id": "48379"
-        },
-        {
-          "id": "48392"
-        },
-        {
-          "id": "4844"
-        },
-        {
-          "id": "4848"
-        },
-        {
-          "id": "4849"
-        },
-        {
-          "id": "4850"
-        },
-        {
-          "id": "51029"
-        },
-        {
-          "id": "51030"
-        },
-        {
-          "id": "51120"
-        },
-        {
-          "id": "52266"
-        },
-        {
-          "id": "52523"
-        },
-        {
-          "id": "56512"
-        },
-        {
-          "id": "81108"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-10T23:45:00.000Z",
-        "end": "2026-10-11T01:38:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/38",
-      "updatedAt": "2026-10-10T23:47:01.000Z",
-      "rawHeader": "Eastbound Route 38 trip departing Bren Rd E & Blue Circle Dr at 6:20 PM will operate from Excelsior Blvd & Quentin Ave at 6:53 PM today",
-      "rawDescription": ""
-    },
-    {
-      "id": "54053",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 68: Service Advisory",
-      "summary": "Northbound Route 68 trip departing South St & 5th Ave S at 6:12 PM will start from Robert & FIllmore. Previous stops missed due to traffic",
-      "affectedRoutes": [
-        "Route 68"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [
-        "56770",
-        "56771",
-        "9806",
-        "9808",
-        "9810",
-        "9812",
-        "9815",
-        "9816",
-        "9817",
-        "9818",
-        "9819",
-        "9820",
-        "9821",
-        "9822",
-        "9823",
-        "9825",
-        "9826",
-        "9827",
-        "9828",
-        "9829",
-        "9830",
-        "9832",
-        "9834",
-        "9839",
-        "9843",
-        "9844",
-        "9845",
-        "9846",
-        "9847",
-        "9849",
-        "9850",
-        "9852",
-        "9854",
-        "9855",
-        "9859",
-        "9862",
-        "9864",
-        "9866",
-        "9870",
-        "9871",
-        "9872",
-        "9874",
-        "9875",
-        "9876",
-        "9877",
-        "9878",
-        "9881",
-        "9883",
-        "9884",
-        "9885",
-        "9886",
-        "9888",
-        "9890",
-        "9891",
-        "9893",
-        "9894",
-        "50101",
-        "51470",
-        "56425",
-        "53402",
-        "53403",
-        "53404",
-        "53405",
-        "53340",
-        "50667",
-        "9676",
-        "9695",
-        "9696",
-        "9698",
-        "9754",
-        "9756",
-        "9757",
-        "9758",
-        "9759",
-        "9760",
-        "9761",
-        "9766",
-        "9767",
-        "9768",
-        "9769",
-        "9773",
-        "9775",
-        "9776",
-        "9778",
-        "9779",
-        "9780",
-        "9781",
-        "9782",
-        "9783",
-        "9784",
-        "9785",
-        "9786",
-        "9787",
-        "9788",
-        "9790",
-        "9791",
-        "4988",
-        "426",
-        "48568",
-        "48569",
-        "41293",
-        "47054",
-        "47055",
-        "10116",
-        "40033",
-        "40088",
-        "40110",
-        "43286",
-        "43287",
-        "43288",
-        "42445",
-        "425",
-        "2565",
-        "2566",
-        "258",
-        "259",
-        "260",
-        "2605",
-        "2606",
-        "2607",
-        "2608",
-        "2609",
-        "261"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "56770"
-        },
-        {
-          "id": "56771"
-        },
-        {
-          "id": "9806"
-        },
-        {
-          "id": "9808"
-        },
-        {
-          "id": "9810"
-        },
-        {
-          "id": "9812"
-        },
-        {
-          "id": "9815"
-        },
-        {
-          "id": "9816"
-        },
-        {
-          "id": "9817"
-        },
-        {
-          "id": "9818"
-        },
-        {
-          "id": "9819"
-        },
-        {
-          "id": "9820"
-        },
-        {
-          "id": "9821"
-        },
-        {
-          "id": "9822"
-        },
-        {
-          "id": "9823"
-        },
-        {
-          "id": "9825"
-        },
-        {
-          "id": "9826"
-        },
-        {
-          "id": "9827"
-        },
-        {
-          "id": "9828"
-        },
-        {
-          "id": "9829"
-        },
-        {
-          "id": "9830"
-        },
-        {
-          "id": "9832"
-        },
-        {
-          "id": "9834"
-        },
-        {
-          "id": "9839"
-        },
-        {
-          "id": "9843"
-        },
-        {
-          "id": "9844"
-        },
-        {
-          "id": "9845"
-        },
-        {
-          "id": "9846"
-        },
-        {
-          "id": "9847"
-        },
-        {
-          "id": "9849"
-        },
-        {
-          "id": "9850"
-        },
-        {
-          "id": "9852"
-        },
-        {
-          "id": "9854"
-        },
-        {
-          "id": "9855"
-        },
-        {
-          "id": "9859"
-        },
-        {
-          "id": "9862"
-        },
-        {
-          "id": "9864"
-        },
-        {
-          "id": "9866"
-        },
-        {
-          "id": "9870"
-        },
-        {
-          "id": "9871"
-        },
-        {
-          "id": "9872"
-        },
-        {
-          "id": "9874"
-        },
-        {
-          "id": "9875"
-        },
-        {
-          "id": "9876"
-        },
-        {
-          "id": "9877"
-        },
-        {
-          "id": "9878"
-        },
-        {
-          "id": "9881"
-        },
-        {
-          "id": "9883"
-        },
-        {
-          "id": "9884"
-        },
-        {
-          "id": "9885"
-        },
-        {
-          "id": "9886"
-        },
-        {
-          "id": "9888"
-        },
-        {
-          "id": "9890"
-        },
-        {
-          "id": "9891"
-        },
-        {
-          "id": "9893"
-        },
-        {
-          "id": "9894"
-        },
-        {
-          "id": "50101"
-        },
-        {
-          "id": "51470"
-        },
-        {
-          "id": "56425"
-        },
-        {
-          "id": "53402"
-        },
-        {
-          "id": "53403"
-        },
-        {
-          "id": "53404"
-        },
-        {
-          "id": "53405"
-        },
-        {
-          "id": "53340"
-        },
-        {
-          "id": "50667"
-        },
-        {
-          "id": "9676"
-        },
-        {
-          "id": "9695"
-        },
-        {
-          "id": "9696"
-        },
-        {
-          "id": "9698"
-        },
-        {
-          "id": "9754"
-        },
-        {
-          "id": "9756"
-        },
-        {
-          "id": "9757"
-        },
-        {
-          "id": "9758"
-        },
-        {
-          "id": "9759"
-        },
-        {
-          "id": "9760"
-        },
-        {
-          "id": "9761"
-        },
-        {
-          "id": "9766"
-        },
-        {
-          "id": "9767"
-        },
-        {
-          "id": "9768"
-        },
-        {
-          "id": "9769"
-        },
-        {
-          "id": "9773"
-        },
-        {
-          "id": "9775"
-        },
-        {
-          "id": "9776"
-        },
-        {
-          "id": "9778"
-        },
-        {
-          "id": "9779"
-        },
-        {
-          "id": "9780"
-        },
-        {
-          "id": "9781"
-        },
-        {
-          "id": "9782"
-        },
-        {
-          "id": "9783"
-        },
-        {
-          "id": "9784"
-        },
-        {
-          "id": "9785"
-        },
-        {
-          "id": "9786"
-        },
-        {
-          "id": "9787"
-        },
-        {
-          "id": "9788"
-        },
-        {
-          "id": "9790"
-        },
-        {
-          "id": "9791"
-        },
-        {
-          "id": "4988"
-        },
-        {
-          "id": "426"
-        },
-        {
-          "id": "48568"
-        },
-        {
-          "id": "48569"
-        },
-        {
-          "id": "41293"
-        },
-        {
-          "id": "47054"
-        },
-        {
-          "id": "47055"
-        },
-        {
-          "id": "10116"
-        },
-        {
-          "id": "40033"
-        },
-        {
-          "id": "40088"
-        },
-        {
-          "id": "40110"
-        },
-        {
-          "id": "43286"
-        },
-        {
-          "id": "43287"
-        },
-        {
-          "id": "43288"
-        },
-        {
-          "id": "42445"
-        },
-        {
-          "id": "425"
-        },
-        {
-          "id": "2565"
-        },
-        {
-          "id": "2566"
-        },
-        {
-          "id": "258"
-        },
-        {
-          "id": "259"
-        },
-        {
-          "id": "260"
-        },
-        {
-          "id": "2605"
-        },
-        {
-          "id": "2606"
-        },
-        {
-          "id": "2607"
-        },
-        {
-          "id": "2608"
-        },
-        {
-          "id": "2609"
-        },
-        {
-          "id": "261"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-10T23:32:00.000Z",
-        "end": "2026-10-11T01:06:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/68",
-      "updatedAt": "2026-10-10T23:33:08.000Z",
-      "rawHeader": "Northbound Route 68 trip departing South St & 5th Ave S at 6:12 PM will start from Robert & FIllmore. Previous stops missed due to traffic",
-      "rawDescription": ""
-    },
     {
       "id": "54051",
       "agency": "Metro Transit",
@@ -862,7 +28,7 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-10-10T22:47:00.000Z",
-        "end": "2026-10-11T02:46:23.000Z"
+        "end": "2026-10-11T07:30:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
@@ -888,7 +54,7 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-10-10T23:28:00.000Z",
-        "end": "2026-10-11T02:46:23.000Z"
+        "end": "2026-10-11T07:30:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
@@ -1043,7 +209,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-10-10T05:00:01.000Z",
+      "updatedAt": "2026-10-11T05:00:01.000Z",
       "rawHeader": "E Line detoured off Hennepin Ave from 36th St W to 25th St W from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets",
       "rawDescription": "For northbound E Line get on/off buses at:\r\nRichfield Rd & Bde Maka Ska Station - Stop #57539 (northbound)\r\n36th St W & Hennepin Ave - Stop #41337 (eastbound)\r\nLyndale Ave S & Lake St W - Stop #170 (northbound)\r\nHennepin & 25th St Station - Stop #1327 (northbound)\r\n\nFor southbound E Line get on/off buses at:\r\nHennepin & Franklin Station - Stop #1096 (southbound)\r\n36th St W & Irving Ave S - Stop #1114 (westbound) \r\nRichfield Rd & Bde Maka Ska Station - Stop #57540 (southbound)\r\n\nNorthbound buses will travel the regular route on 36th St W to Hennepin Ave, continue on 36th St W, left on Lyndale Ave, left on 25th St W, right on Hennepin Ave, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Hennepin Ave to 24th St W, left on 24th St W, right on Lyndale Ave, right on 36th St W to Hennepin Ave, continue on 36th St W, and resume the regular route.\r\n\nAffected stops:\r\nHennepin & 36th St Station - Stop #1316 (northbound)\r\nHennepin & 33rd St Station - Stop #42216 (northbound)\r\nHennepin & 25th St Station - Stop #1100 (southbound)\r\nHennepin & 33rd St Station - Stop #42219 (southbound)\r\nHennepin & 36th St Station - Stop #1111 (southbound)"
     },
@@ -2006,7 +1172,7 @@
       },
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-06T05:00:01.000Z",
+      "updatedAt": "2026-10-11T05:00:02.000Z",
       "rawHeader": "Nicollet Ave S & 48th St W - Stop #1229 (southbound) is closed for Routes 11D and 18 from Mon Oct 5 at 7:00 AM to Mon Oct 12 at 7:00 AM due to construction",
       "rawDescription": "Get on/off buses at:\r\nNicollet Ave S & 49th St W - Stop #1230 (southbound)"
     },
@@ -2080,7 +1246,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-10-09T13:48:00.000Z",
+      "updatedAt": "2026-10-11T05:00:01.000Z",
       "rawHeader": "Route 11 detoured off Grand St from 30th Ave to 31st Ave and off 31st Ave from Grand St to Columbia Ave beginning Mon Oct 12 at 7:00 AM until further notice due to construction",
       "rawDescription": "For northbound Route 11 get on/off buses at:\r\nGrand St NE & 30th Ave NE - Stop #14632 (northbound)\r\nTemporary stop Columbia Ave NE & 31st Ave NE (northbound)\r\nColumbia Ave NE & St Anthony Pkwy - Stop #14622 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\nColumbia Ave NE & 31st Ave NE - Stop #14623 (southbound)\r\nGrand St NE & 29th Ave NE - Stop #14634 (southbound)\r\n\nNorthbound buses will travel the regular route on Grand St to 30th Ave, left on 30th Ave, right on Columbia Ave to 31st Ave, continue on Columbia Ave, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Columbia Ave to 31st Ave, continue on Columbia Ave, left on 30th Ave, right on Grand St, and resume the regular route.\r\n\nAffected stops:\r\nGrand St NE & 31st Ave NE - Stop #14631 (northbound)\r\n31st Ave NE & Columbia Ave NE - Stop #14624 (westbound)\r\n31st Ave NE & Grand St NE - Stop #14630 (eastbound)\r\nGrand St NE & 30 Ave NE - Stop #14633 (southbound)"
     },
@@ -2202,7 +1368,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-10-10T05:00:01.000Z",
+      "updatedAt": "2026-10-11T05:00:01.000Z",
       "rawHeader": "Route 17 detoured off Hennepin Ave from 24th St W to Lagoon Ave from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets",
       "rawDescription": "For eastbound Route 17 get on/off buses at:\r\nLake St W & Humboldt Ave S - Stop #16827 (eastbound)\r\n24th St W & Pleasant Ave S - Stop #40342 (eastbound)\r\n\nFor westbound Route 17 get on/off buses at:\r\n24th St W & Pleasant Ave S - Stop #4663 (westbound)\r\nTemporary stop on 24th St W & Garfield Ave (westbound)\r\nLagoon & Hennepin Station - Stop #3523 (westbound)\r\n\nEastbound buses will travel the regular route on Lake St to Hennepin Ave, continue on Lake St, left on Lyndale Ave, right on 24th St W, and resume the regular route.\r\n\nWestbound buses will travel the regular route on 24th St W to Lyndale Ave, left on Lyndale Ave, right on Lake St, continue on Lagoon Ave to Hennepin Ave, continue on Lagoon Ave, and resume the regular route.\r\n\nAffected stops:\r\nUptown Transit Station - Gate B - Stop #50195 (northbound)\r\nHennepin Ave & 27th St W - Stop #1325 (northbound)\r\nHennepin & 25th St Station - Stop #1327 (northbound)\r\n24th St W & Dupont Ave S - Stop #40335 (eastbound)\r\n24th St W & Bryant Ave S - Stop #40333 (eastbound)\r\n24th St W & Lyndale Ave S - Stop #40339 (eastbound)\r\n24th St W & Lyndale Ave S - Stop #4667 (westbound)\r\n24th St W & Bryant Ave S - Stop #4669 (westbound)\r\n24th St W & Hennepin Ave S - Stop #4672 (westbound)\r\nHennepin & 25th St Station - Stop #1100 (southbound)\r\nHennepin Ave S & 27th St W - Stop #1102 (southbound)\r\nUptown Transit Station - Gate A - Stop #50196 (southbound)"
     },
@@ -2977,7 +2143,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/27",
-      "updatedAt": "2026-10-10T05:00:01.000Z",
+      "updatedAt": "2026-10-11T05:00:01.000Z",
       "rawHeader": "Route 27 detoured out of Uptown Transit Station from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets",
       "rawDescription": "For eastbound Route 27 get on/off buses at:\r\nLagoon Ave & Emerson Ave S - Stop #17040 (westbound)\r\nLake & Hennepin Station - Stop #57355 (eastbound)\r\n\nFor westbound Route 27 get on/off buses at:\r\nLake St W & Bryant Ave S - Stop #16836 (westbound)\r\nTemporary bus stop on Lagoon Ave & Emerson Ave S (westbound)\r\n\nEastbound buses will depart the temporary terminal on Lagoon Ave, continue on Lagoon Ave, left on Irving Ave, left on Lake St to Hennepin Ave, continue on Lake St, and resume the regular route.\r\n\nWestbound buses will follow the regular route on Lake St to Lagoon Ave, continue on Lagoon Ave, and terminate at the temporary bus stop on Lagoon Ave and Emerson Ave.\r\n\nAffected stops:\r\nUptown Transit Station - Gates D/E - Stop #52857 (westbound)\r\nLagoon Ave & Emerson Ave S - Stop #17040 (westbound)"
     },
@@ -3263,7 +2429,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/36",
-      "updatedAt": "2026-10-10T05:00:01.000Z",
+      "updatedAt": "2026-10-11T05:00:01.000Z",
       "rawHeader": "Route 36 detoured off Hennepin Ave from 36th St W to 29th St W from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets",
       "rawDescription": "For northbound Route 36 get on/off buses at:\r\n36th St W & Irving Ave S - Stop #1313 (eastbound)\r\nTemporary terminal Lagoon Ave & Emerson Ave S (westbound)\r\n\nFor southbound Route 36 get on/off buses at:\r\nLagoon Ave & Emerson Ave S - Stop #17040 (westbound)\r\n36th St W & Irving Ave S - Stop #1114 (westbound)\r\n\nNorthbound buses will travel the regular route on 36th Sty W to Hennepin Ave, continue on 36th St W, left on Lyndale Ave, left on Lake St, continue on Lagoon Ave to Emerson Ave, and terminate at a temporary bus stop.\r\n\nSouthbound buses will depart the temporary terminal on Lagoon Ave and Emerson Ave, left on Irving Ave, left on Lake St, right on Lyndale Ave, right on 36th St W to Hennepin Ave, continue on 36th St W, and resume the regular route.\r\n\nAffected stops:\r\nHennepin & 36th St Station - Stop #1316 (northbound)\r\nHennepin Ave & 34th St W - Stop #1318 (northbound)\r\nHennepin & 33rd St Station - Stop #42216 (northbound)\r\nHennepin Ave & 31st St W - Stop #1321 (northbound)\r\nHennepin Ave & Lake St W - Stop #1322 (northbound)\r\nUptown Transit Station - Gate C - Stop #50160 (westbound)\r\nHennepin Ave S & Lagoon Ave - Stop #1105 (southbound)\r\nHennepin Ave S & 31st St W - Stop #1106 (southbound)\r\nHennepin & 33rd St Station - Stop #42219 (southbound)\r\nHennepin Ave S & 34th St W - Stop #1109 (southbound)\r\nHennepin & 36th St Station - Stop #1111 (southbound)"
     },
@@ -5506,7 +4672,7 @@
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/134",
-      "updatedAt": "2026-10-09T13:37:23.000Z",
+      "updatedAt": "2026-10-11T05:00:02.000Z",
       "rawHeader": "6th St S & 11th Ave S - Stop #17890 (eastbound) is closed for Routes 14, 94, 134, 355 and 363 beginning Mon Oct 12 at 7:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\n6th St S & Bud Grant Way - Stop #17888 (eastbound)"
     },
@@ -7650,7 +6816,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-10-06T05:00:01.000Z",
+      "updatedAt": "2026-10-11T05:00:02.000Z",
       "rawHeader": "Routes 64 and 74 school trips that serve Johnson High School will switch gates beginning Mon Oct 12",
       "rawDescription": "Route 74 will drop off in the morning and pickup in the afternoon at Johnson High School & Gate B - Stop #53948 (northbound)\r\n\nRoute 64 trips will pickup in the afternoon at Johnson High School & Gate C - Stop #54048 (eastbound)"
     },
