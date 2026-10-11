@@ -4,7 +4,7 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 11 Oct 2026 18:47:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 22:46:19 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
@@ -24,6 +24,15 @@
       <category>Critical</category>
       <category>METRO D Line</category>
       <description>D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 9:21 AM and seven other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 538: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/538</link>
+      <guid isPermaLink="false">Metro Transit-54076-2026-10-11T20:41:56.000Z</guid>
+      <pubDate>Sun, 11 Oct 2026 20:41:56 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 538</category>
+      <description>Route 538 canceled until later today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -469,8 +478,8 @@
     <item>
       <title>[Moderate] Route 65: Detour via Summit Ave &amp; Dale St</title>
       <link>https://www.metrotransit.org/route/65</link>
-      <guid isPermaLink="false">Metro Transit-53594-2026-10-05T18:07:52.000Z</guid>
-      <pubDate>Mon, 05 Oct 2026 18:07:52 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53594-2026-10-11T21:00:01.000Z</guid>
+      <pubDate>Sun, 11 Oct 2026 21:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 65</category>
       <description>Route 65 detoured off Dale St from Rondo Ave to Grand Ave beginning Mon May 18 at 7:00 AM until further notice due to construction. Board at: Summit Ave &amp; Dale St - Stop #10761 (eastbound); Temporary stop on Kent St &amp; Selby Ave (northbound); Temporary stop on Kent St &amp; Marshall Ave (northbound). | Action: Board at: Summit Ave &amp; Dale St - Stop #10761 (eastbound); Temporary stop on Kent St &amp; Selby Ave (northbound); Temporary stop on Kent St &amp; Marshall Ave (northbound)</description>

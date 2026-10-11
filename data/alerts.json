@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-11T18:47:23.546Z",
-    "totalAlerts": 102,
-    "criticalCount": 2,
+    "generatedAt": "2026-10-11T22:46:19.993Z",
+    "totalAlerts": 103,
+    "criticalCount": 3,
     "moderateCount": 96,
     "minorCount": 4,
     "affectedRoutesCount": 76,
@@ -68,6 +68,32 @@
       "updatedAt": "2026-10-11T16:24:45.000Z",
       "rawHeader": "D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 9:21 AM and seven other trips canceled today",
       "rawDescription": "Affected northbound trips:\r\ndeparting MOA Transit Station Gate A at 10:46 AM\r\ndeparting MOA Transit Station Gate A at 11:16 AM\r\ndeparting MOA Transit Station Gate A at 1:44 PM\r\ndeparting MOA Transit Station Gate A at 4:45 PM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 9:21 AM\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 11:03 AM\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 12:13 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 3:13 PM"
+    },
+    {
+      "id": "54076",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 538: Service Canceled",
+      "summary": "Route 538 canceled until later today",
+      "affectedRoutes": [
+        "Route 538"
+      ],
+      "direction": "All",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-11T20:41:00.000Z",
+        "end": "2026-10-12T00:45:23.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/538",
+      "updatedAt": "2026-10-11T20:41:56.000Z",
+      "rawHeader": "Route 538 canceled until later today",
+      "rawDescription": ""
     },
     {
       "id": "52943",
@@ -3716,7 +3742,7 @@
       "cause": "CONSTRUCTION",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/65",
-      "updatedAt": "2026-10-05T18:07:52.000Z",
+      "updatedAt": "2026-10-11T21:00:01.000Z",
       "rawHeader": "Route 65 detoured off Dale St from Rondo Ave to Grand Ave beginning Mon May 18 at 7:00 AM until further notice due to construction",
       "rawDescription": "Updated get on/off stops 6/10 10:30 am.\r\n\nFor northbound Route 65 get on/off buses at:\r\nSummit Ave & Dale St - Stop #10761 (eastbound)\r\nTemporary stop on Kent St & Selby Ave (northbound)\r\nTemporary stop on Kent St & Marshall Ave (northbound)\r\nDale St & Fuller Ave - Stop #10693 (northbound)\r\n\nFor southbound Route 65 get on/off buses at:\r\nDale St & Fuller Ave - Stop #10748 (southbound)\r\nTemporary stop on Marshall Ave & Kent St (westbound)\r\nTemporary stop on Kent St & Selby Ave (southbound)\r\nSummit Ave & Dale St - Stop #10761 (eastbound)\r\n\nNorthbound buses will depart the temporary terminal on eastbound Summit Ave just past Dale St, continue on Summit Ave, left on Kent St, right on Marshall Ave, left on Arundel St, right on Concordia Ave, left on Western Ave, left on St Anthony Ave, right on Dale St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Dale St to Rondo Ave, left on Rondo Ave, right on Arundel St, right on Marshall Ave, left on Kent St, right on Summit Ave, left on Oakland Ave, right on Grand Ave, right on Dale St, right on Summit Ave and layover on eastbound Summit Ave just past Dale St.\r\n\nAffected stops:\r\nDale St & Grand Ave - Stop #10680 (northbound)\r\nDale St & Summit Ave / Portland Ave - Stop #10681 (northbound)\r\nDale St & Holly Ave - Stop #10684 (northbound)\r\nDale St & Selby Ave - Stop #10685 (northbound)\r\nDale St & Marshall Ave - Stop #10688 (northbound)\r\nDale St & Iglehart Ave - Stop #10689 (northbound)\r\nDale St & Rondo Ave - Stop #10691 (northbound)\r\nDale St & Carroll Ave - Stop #10752 (southbound)\r\nDale St & Iglehart Ave - Stop #10753 (southbound)\r\nDale St & Marshall Ave - Stop #10754 (southbound)\r\nDale St N & Selby Ave - Stop #53780 (southbound)\r\nDale St & Ashland Ave - Stop #10758 (southbound)\r\nSummit Ave & Dale St - Stop #10761 (eastbound)"
     },
