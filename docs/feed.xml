@@ -4,17 +4,26 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Mon, 12 Oct 2026 02:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 10:36:11 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 538: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/538</link>
-      <guid isPermaLink="false">Metro Transit-54076-2026-10-11T20:41:56.000Z</guid>
-      <pubDate>Sun, 11 Oct 2026 20:41:56 GMT</pubDate>
+      <title>[Critical] Route 11: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/11</link>
+      <guid isPermaLink="false">Metro Transit-54081-2026-10-12T10:29:54.000Z</guid>
+      <pubDate>Mon, 12 Oct 2026 10:29:54 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 538</category>
-      <description>Route 538 canceled until later today</description>
+      <category>Route 11</category>
+      <description>Southbound Route 11 trip departing Columbia Heights Transit Center C at 5:46 AM will start from Nicollet Mall &amp; 3rd St. No Previous stops</description>
+    </item>
+    <item>
+      <title>[Critical] Route 725: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/725</link>
+      <guid isPermaLink="false">Metro Transit-54080-2026-10-12T10:27:40.000Z</guid>
+      <pubDate>Mon, 12 Oct 2026 10:27:40 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 725</category>
+      <description>Route 725 trips departing 5th St NW &amp; 1st Ave NW at 6:25 AM and departing Northtown Transit Ctr Gate D at 7:15 AM canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -82,8 +91,8 @@
     <item>
       <title>[Moderate] Route 7: Stop Closed at 26th Ave S &amp; 22nd St E</title>
       <link>https://www.metrotransit.org/route/7</link>
-      <guid isPermaLink="false">Metro Transit-53499-2026-10-05T09:30:01.000Z</guid>
-      <pubDate>Mon, 05 Oct 2026 09:30:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53499-2026-10-12T10:00:01.000Z</guid>
+      <pubDate>Mon, 12 Oct 2026 10:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 7</category>
       <description>26th Ave S &amp; 22nd St E - Stop #57484 (northbound) is closed for Route 7 beginning Mon Oct 5 at 5:00 AM until further notice due to construction. Board at: 26th Ave S &amp; 25th St E - Stop #57483 (northbound); 26th Ave S &amp; Seward Tower West - Stop #56702 (northbound). | Action: Board at: 26th Ave S &amp; 25th St E - Stop #57483 (northbound); 26th Ave S &amp; Seward Tower West - Stop #56702 (northbound)</description>
@@ -154,8 +163,8 @@
     <item>
       <title>[Moderate] Route 11, Route 18, Route 11D: Stop Closed at Nicollet Ave S &amp; 48th St W</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-53474-2026-10-11T05:00:02.000Z</guid>
-      <pubDate>Sun, 11 Oct 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53474-2026-10-12T05:00:02.000Z</guid>
+      <pubDate>Mon, 12 Oct 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 11, Route 18, Route 11D</category>
       <description>Nicollet Ave S &amp; 48th St W - Stop #1229 (southbound) is closed for Routes 11D and 18 from Mon Oct 5 at 7:00 AM to Mon Oct 12 at 7:00 AM due to construction. Board at: Nicollet Ave S &amp; 49th St W - Stop #1230 (southbound). | Action: Board at: Nicollet Ave S &amp; 49th St W - Stop #1230 (southbound)</description>
@@ -163,8 +172,8 @@
     <item>
       <title>[Moderate] Route 11: Detour via Grand St NE &amp; 30th Ave N</title>
       <link>https://www.metrotransit.org/route/11</link>
-      <guid isPermaLink="false">Metro Transit-53983-2026-10-11T05:00:01.000Z</guid>
-      <pubDate>Sun, 11 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53983-2026-10-12T05:00:01.000Z</guid>
+      <pubDate>Mon, 12 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 11</category>
       <description>Route 11 detoured off Grand St from 30th Ave to 31st Ave and off 31st Ave from Grand St to Columbia Ave beginning Mon Oct 12 at 7:00 AM until further notice due to construction. Board at: Grand St NE &amp; 30th Ave NE - Stop #14632 (northbound); Temporary stop Columbia Ave NE &amp; 31st Ave NE (northbound); Columbia Ave NE &amp; St Anthony Pkwy - Stop #14622 (northbound). | Action: Board at: Grand St NE &amp; 30th Ave NE - Stop #14632 (northbound); Temporary stop Columbia Ave NE &amp; 31st Ave NE (northbound); Columbia Ave NE &amp; St Anthony Pkwy - Stop #14622 (northbound)</description>
@@ -451,8 +460,8 @@
     <item>
       <title>[Moderate] Route 67: Detour via Franklin Ave SE &amp; Seymour Ave</title>
       <link>https://www.metrotransit.org/route/67</link>
-      <guid isPermaLink="false">Metro Transit-53935-2026-10-08T15:29:57.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 15:29:57 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53935-2026-10-12T05:00:01.000Z</guid>
+      <pubDate>Mon, 12 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 67</category>
       <description>Route 67 detoured off Franklin Ave from Seymour Ave to Emerald St beginning Tue Oct 13 at 6:00 AM until further notice due to utility work. Board at: Franklin Ave SE &amp; Seymour Ave - Stop #52062 (eastbound); Franklin Ave &amp; Berry St - Stop #54099 (eastbound). | Action: Board at: Franklin Ave SE &amp; Seymour Ave - Stop #52062 (eastbound); Franklin Ave &amp; Berry St - Stop #54099 (eastbound)</description>
@@ -550,8 +559,8 @@
     <item>
       <title>[Moderate] Route 134, Route 14, Route 355, Route 363, Route 94: Stop Closed at 6th St S &amp; 11th Ave S</title>
       <link>https://www.metrotransit.org/route/134</link>
-      <guid isPermaLink="false">Metro Transit-53982-2026-10-11T05:00:02.000Z</guid>
-      <pubDate>Sun, 11 Oct 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53982-2026-10-12T05:00:02.000Z</guid>
+      <pubDate>Mon, 12 Oct 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 134, Route 14, Route 355, Route 363, Route 94</category>
       <description>6th St S &amp; 11th Ave S - Stop #17890 (eastbound) is closed for Routes 14, 94, 134, 355 and 363 beginning Mon Oct 12 at 7:00 AM until further notice due to construction. Board at: 6th St S &amp; Bud Grant Way - Stop #17888 (eastbound). | Action: Board at: 6th St S &amp; Bud Grant Way - Stop #17888 (eastbound)</description>
@@ -856,8 +865,8 @@
     <item>
       <title>[Minor] Route 64, Route 74: Service Advisory</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-53804-2026-10-11T05:00:02.000Z</guid>
-      <pubDate>Sun, 11 Oct 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53804-2026-10-12T07:30:01.000Z</guid>
+      <pubDate>Mon, 12 Oct 2026 07:30:01 GMT</pubDate>
       <category>Minor</category>
       <category>Route 64, Route 74</category>
       <description>Routes 64 and 74 school trips that serve Johnson High School will switch gates beginning Mon Oct 12</description>

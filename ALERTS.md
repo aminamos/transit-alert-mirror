@@ -2,34 +2,101 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-97-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-98-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-92-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-72-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-73-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-12T02:14:33.699Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-12T10:36:11.789Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (6) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (1) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (2) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (1) • **Route 94** (2) • **Route 134** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (2) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (6) • **Route 11** (4) • **Route 11D** (1) • **Route 14** (1) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (2) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (1) • **Route 94** (2) • **Route 134** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 725** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 538: Service Canceled
+### 🚨 Route 11: Service Advisory
 
-- **Affected Routes**: `Route 538`
-- **Direction**: All
+- **Affected Routes**: `Route 11`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
+- **Corridors & Intersections**: Central Ave NE & 40th Ave N; 40th Ave NE & Jackson St; 40th Ave NE & Monroe St; 40th Ave NE & Madison St; 40th Ave NE & Washington St
+- **Closed Stops**: Columbia Heights Transit Center C (Stop #49304), Central Ave NE & 40th Ave NE (Stop #17165), 40th Ave NE & Jackson St (Stop #14594), 40th Ave NE & Monroe St (Stop #14595), 40th Ave NE & Madison St (Stop #14596), 40th Ave NE & Washington St (Stop #14597), 40th Ave NE & 6th St NE (Stop #14598), 40th Ave NE & 5th St NE (Stop #14599) *(+33 more)*
 
-**Summary**: Route 538 canceled until later today
+**Summary**: Southbound Route 11 trip departing Columbia Heights Transit Center C at 5:46 AM will start from Nicollet Mall & 3rd St. No Previous stops
 
-[Official Agency Advisory](https://www.metrotransit.org/route/538)
+[Official Agency Advisory](https://www.metrotransit.org/route/11)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 538 canceled until later today
+**Header**: Southbound Route 11 trip departing Columbia Heights Transit Center C at 5:46 AM will start from Nicollet Mall & 3rd St. No Previous stops
+
+```text
+Affected stops:
+Columbia Heights Transit Center C - Stop #49304 (northbound)
+Central Ave NE & 40th Ave NE - Stop #17165 (southbound)
+40th Ave NE & Jackson St - Stop #14594 (westbound)
+40th Ave NE & Monroe St - Stop #14595 (westbound)
+40th Ave NE & Madison St - Stop #14596 (westbound)
+40th Ave NE & Washington St - Stop #14597 (westbound)
+40th Ave NE & 6th St NE - Stop #14598 (westbound)
+40th Ave NE & 5th St NE - Stop #14599 (westbound)
+40th Ave NE & 4th St NE - Stop #14600 (westbound)
+University Ave (Hwy 47) & 40th Ave NE - Stop #40882 (southbound)
+37th Ave NE & 3rd St NE - Stop #14604 (westbound)
+2nd 1/2 St NE & 37th Ave NE - Stop #14607 (southbound)
+2nd 1/2 St NE & 36th Ave NE - Stop #14608 (southbound)
+2nd 1/2 St NE & 35th Ave NE - Stop #14611 (southbound)
+Main St NE & Edge Place NE - Stop #14616 (southbound)
+Main St NE & St Anthony Pkwy - Stop #14619 (southbound)
+Columbia Ave NE & Saint Anthony Pkwy - Stop #14620 (southbound)
+Columbia Ave NE & 31st Ave NE - Stop #14623 (southbound)
+31st Ave NE & Grand St NE - Stop #14630 (eastbound)
+Grand St NE & 30 Ave NE - Stop #14633 (southbound)
+Grand St NE & 29th Ave NE - Stop #14634 (southbound)
+Grand St NE & 28th Ave NE - Stop #14637 (southbound)
+Grand St NE & 27th Ave NE - Stop #14638 (southbound)
+Grand St NE & 26th Ave NE - Stop #14641 (southbound)
+Lowry Ave NE & Grand St NE - Stop #12798 (eastbound)
+Lowry Ave NE & 2nd St NE - Stop #12802 (eastbound)
+2nd St NE & 23rd Ave NE - Stop #14650 (southbound)
+2nd St NE & 19th Ave NE - Stop #57548 (southbound)
+2nd St NE & 17th Ave NE - Stop #14661 (southbound)
+2nd St NE & 15th Ave NE - Stop #14665 (southbound)
+2nd St NE & 12th Ave NE - Stop #14669 (southbound)
+2nd St NE & Broadway St - Stop #14673 (southbound)
+2nd St NE & 8th Ave NE - Stop #14678 (southbound)
+2nd St NE & 7th Ave NE - Stop #14681 (southbound)
+2nd St NE & 5th Ave NE - Stop #14685 (southbound)
+2nd St NE & 3rd Ave NE - Stop #14689 (southbound)
+1st Ave & 2nd St NE Station - Stop #15562 (westbound)
+Hennepin Ave E & De LaSalle Dr - Stop #17916 (southbound)
+Hennepin Ave & 1st St N - Stop #17917 (southbound)
+Gateway Ramp & Platform - Stop #19301 (eastbound)
+4th Ave S & 3rd St S - Stop #19294 (southbound)
+```
+
+</details>
+
+---
+
+### 🚨 Route 725: Service Canceled
+
+- **Affected Routes**: `Route 725`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 725 trips departing 5th St NW & 1st Ave N
+
+**Summary**: Route 725 trips departing 5th St NW & 1st Ave NW at 6:25 AM and departing Northtown Transit Ctr Gate D at 7:15 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/725)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 725 trips departing 5th St NW & 1st Ave NW at 6:25 AM and departing Northtown Transit Ctr Gate D at 7:15 AM canceled today
 
 </details>
 

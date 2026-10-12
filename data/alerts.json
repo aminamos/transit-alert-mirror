@@ -1,40 +1,322 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-12T02:14:33.699Z",
-    "totalAlerts": 97,
-    "criticalCount": 1,
+    "generatedAt": "2026-10-12T10:36:11.789Z",
+    "totalAlerts": 98,
+    "criticalCount": 2,
     "moderateCount": 92,
     "minorCount": 4,
-    "affectedRoutesCount": 72,
+    "affectedRoutesCount": 73,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "54076",
+      "id": "54081",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 538: Service Canceled",
-      "summary": "Route 538 canceled until later today",
+      "title": "Route 11: Service Advisory",
+      "summary": "Southbound Route 11 trip departing Columbia Heights Transit Center C at 5:46 AM will start from Nicollet Mall & 3rd St. No Previous stops",
       "affectedRoutes": [
-        "Route 538"
+        "Route 11"
       ],
-      "direction": "All",
-      "intersections": [],
+      "direction": "Both Directions",
+      "intersections": [
+        "Central Ave NE & 40th Ave N",
+        "40th Ave NE & Jackson St",
+        "40th Ave NE & Monroe St",
+        "40th Ave NE & Madison St",
+        "40th Ave NE & Washington St"
+      ],
+      "closedStopIds": [
+        "49304",
+        "17165",
+        "14594",
+        "14595",
+        "14596",
+        "14597",
+        "14598",
+        "14599",
+        "14600",
+        "40882",
+        "14604",
+        "14607",
+        "14608",
+        "14611",
+        "14616",
+        "14619",
+        "14620",
+        "14623",
+        "14630",
+        "14633",
+        "14634",
+        "14637",
+        "14638",
+        "14641",
+        "12798",
+        "12802",
+        "14650",
+        "57548",
+        "14661",
+        "14665",
+        "14669",
+        "14673",
+        "14678",
+        "14681",
+        "14685",
+        "14689",
+        "15562",
+        "17916",
+        "17917",
+        "19301",
+        "19294"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "49304",
+          "name": "Columbia Heights Transit Center C",
+          "direction": "northbound"
+        },
+        {
+          "id": "17165",
+          "name": "Central Ave NE & 40th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "14594",
+          "name": "40th Ave NE & Jackson St",
+          "direction": "westbound"
+        },
+        {
+          "id": "14595",
+          "name": "40th Ave NE & Monroe St",
+          "direction": "westbound"
+        },
+        {
+          "id": "14596",
+          "name": "40th Ave NE & Madison St",
+          "direction": "westbound"
+        },
+        {
+          "id": "14597",
+          "name": "40th Ave NE & Washington St",
+          "direction": "westbound"
+        },
+        {
+          "id": "14598",
+          "name": "40th Ave NE & 6th St NE",
+          "direction": "westbound"
+        },
+        {
+          "id": "14599",
+          "name": "40th Ave NE & 5th St NE",
+          "direction": "westbound"
+        },
+        {
+          "id": "14600",
+          "name": "40th Ave NE & 4th St NE",
+          "direction": "westbound"
+        },
+        {
+          "id": "40882",
+          "name": "University Ave (Hwy 47) & 40th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "14604",
+          "name": "37th Ave NE & 3rd St NE",
+          "direction": "westbound"
+        },
+        {
+          "id": "14607",
+          "name": "2nd 1/2 St NE & 37th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "14608",
+          "name": "2nd 1/2 St NE & 36th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "14611",
+          "name": "2nd 1/2 St NE & 35th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "14616",
+          "name": "Main St NE & Edge Place NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "14619",
+          "name": "Main St NE & St Anthony Pkwy",
+          "direction": "southbound"
+        },
+        {
+          "id": "14620",
+          "name": "Columbia Ave NE & Saint Anthony Pkwy",
+          "direction": "southbound"
+        },
+        {
+          "id": "14623",
+          "name": "Columbia Ave NE & 31st Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "14630",
+          "name": "31st Ave NE & Grand St NE",
+          "direction": "eastbound"
+        },
+        {
+          "id": "14633",
+          "name": "Grand St NE & 30 Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "14634",
+          "name": "Grand St NE & 29th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "14637",
+          "name": "Grand St NE & 28th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "14638",
+          "name": "Grand St NE & 27th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "14641",
+          "name": "Grand St NE & 26th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "12798",
+          "name": "Lowry Ave NE & Grand St NE",
+          "direction": "eastbound"
+        },
+        {
+          "id": "12802",
+          "name": "Lowry Ave NE & 2nd St NE",
+          "direction": "eastbound"
+        },
+        {
+          "id": "14650",
+          "name": "2nd St NE & 23rd Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "57548",
+          "name": "2nd St NE & 19th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "14661",
+          "name": "2nd St NE & 17th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "14665",
+          "name": "2nd St NE & 15th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "14669",
+          "name": "2nd St NE & 12th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "14673",
+          "name": "2nd St NE & Broadway St",
+          "direction": "southbound"
+        },
+        {
+          "id": "14678",
+          "name": "2nd St NE & 8th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "14681",
+          "name": "2nd St NE & 7th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "14685",
+          "name": "2nd St NE & 5th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "14689",
+          "name": "2nd St NE & 3rd Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "15562",
+          "name": "1st Ave & 2nd St NE Station",
+          "direction": "westbound"
+        },
+        {
+          "id": "17916",
+          "name": "Hennepin Ave E & De LaSalle Dr",
+          "direction": "southbound"
+        },
+        {
+          "id": "17917",
+          "name": "Hennepin Ave & 1st St N",
+          "direction": "southbound"
+        },
+        {
+          "id": "19301",
+          "name": "Gateway Ramp & Platform",
+          "direction": "eastbound"
+        },
+        {
+          "id": "19294",
+          "name": "4th Ave S & 3rd St S",
+          "direction": "southbound"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-12T10:46:00.000Z",
+        "end": "2026-10-12T12:40:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/11",
+      "updatedAt": "2026-10-12T10:29:54.000Z",
+      "rawHeader": "Southbound Route 11 trip departing Columbia Heights Transit Center C at 5:46 AM will start from Nicollet Mall & 3rd St. No Previous stops",
+      "rawDescription": "Affected stops:\r\nColumbia Heights Transit Center C - Stop #49304 (northbound)\r\nCentral Ave NE & 40th Ave NE - Stop #17165 (southbound)\r\n40th Ave NE & Jackson St - Stop #14594 (westbound)\r\n40th Ave NE & Monroe St - Stop #14595 (westbound)\r\n40th Ave NE & Madison St - Stop #14596 (westbound)\r\n40th Ave NE & Washington St - Stop #14597 (westbound)\r\n40th Ave NE & 6th St NE - Stop #14598 (westbound)\r\n40th Ave NE & 5th St NE - Stop #14599 (westbound)\r\n40th Ave NE & 4th St NE - Stop #14600 (westbound)\r\nUniversity Ave (Hwy 47) & 40th Ave NE - Stop #40882 (southbound)\r\n37th Ave NE & 3rd St NE - Stop #14604 (westbound)\r\n2nd 1/2 St NE & 37th Ave NE - Stop #14607 (southbound)\r\n2nd 1/2 St NE & 36th Ave NE - Stop #14608 (southbound)\r\n2nd 1/2 St NE & 35th Ave NE - Stop #14611 (southbound)\r\nMain St NE & Edge Place NE - Stop #14616 (southbound)\r\nMain St NE & St Anthony Pkwy - Stop #14619 (southbound)\r\nColumbia Ave NE & Saint Anthony Pkwy - Stop #14620 (southbound)\r\nColumbia Ave NE & 31st Ave NE - Stop #14623 (southbound)\r\n31st Ave NE & Grand St NE - Stop #14630 (eastbound)\r\nGrand St NE & 30 Ave NE - Stop #14633 (southbound)\r\nGrand St NE & 29th Ave NE - Stop #14634 (southbound)\r\nGrand St NE & 28th Ave NE - Stop #14637 (southbound)\r\nGrand St NE & 27th Ave NE - Stop #14638 (southbound)\r\nGrand St NE & 26th Ave NE - Stop #14641 (southbound)\r\nLowry Ave NE & Grand St NE - Stop #12798 (eastbound)\r\nLowry Ave NE & 2nd St NE - Stop #12802 (eastbound)\r\n2nd St NE & 23rd Ave NE - Stop #14650 (southbound)\r\n2nd St NE & 19th Ave NE - Stop #57548 (southbound)\r\n2nd St NE & 17th Ave NE - Stop #14661 (southbound)\r\n2nd St NE & 15th Ave NE - Stop #14665 (southbound)\r\n2nd St NE & 12th Ave NE - Stop #14669 (southbound)\r\n2nd St NE & Broadway St - Stop #14673 (southbound)\r\n2nd St NE & 8th Ave NE - Stop #14678 (southbound)\r\n2nd St NE & 7th Ave NE - Stop #14681 (southbound)\r\n2nd St NE & 5th Ave NE - Stop #14685 (southbound)\r\n2nd St NE & 3rd Ave NE - Stop #14689 (southbound)\r\n1st Ave & 2nd St NE Station - Stop #15562 (westbound)\r\nHennepin Ave E & De LaSalle Dr - Stop #17916 (southbound)\r\nHennepin Ave & 1st St N - Stop #17917 (southbound)\r\nGateway Ramp & Platform - Stop #19301 (eastbound)\r\n4th Ave S & 3rd St S - Stop #19294 (southbound)"
+    },
+    {
+      "id": "54080",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 725: Service Canceled",
+      "summary": "Route 725 trips departing 5th St NW & 1st Ave NW at 6:25 AM and departing Northtown Transit Ctr Gate D at 7:15 AM canceled today",
+      "affectedRoutes": [
+        "Route 725"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 725 trips departing 5th St NW & 1st Ave N"
+      ],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-11T20:41:00.000Z",
-        "end": "2026-10-12T04:13:23.000Z"
+        "start": "2026-10-12T11:25:00.000Z",
+        "end": "2026-10-12T13:58:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/538",
-      "updatedAt": "2026-10-11T20:41:56.000Z",
-      "rawHeader": "Route 538 canceled until later today",
+      "url": "https://www.metrotransit.org/route/725",
+      "updatedAt": "2026-10-12T10:27:40.000Z",
+      "rawHeader": "Route 725 trips departing 5th St NW & 1st Ave NW at 6:25 AM and departing Northtown Transit Ctr Gate D at 7:15 AM canceled today",
       "rawDescription": ""
     },
     {
@@ -598,7 +880,7 @@
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/7",
-      "updatedAt": "2026-10-05T09:30:01.000Z",
+      "updatedAt": "2026-10-12T10:00:01.000Z",
       "rawHeader": "26th Ave S & 22nd St E - Stop #57484 (northbound) is closed for Route 7 beginning Mon Oct 5 at 5:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\n26th Ave S & 25th St E - Stop #57483 (northbound)\r\n26th Ave S & Seward Tower West - Stop #56702 (northbound)"
     },
@@ -1059,7 +1341,7 @@
       },
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-11T05:00:02.000Z",
+      "updatedAt": "2026-10-12T05:00:02.000Z",
       "rawHeader": "Nicollet Ave S & 48th St W - Stop #1229 (southbound) is closed for Routes 11D and 18 from Mon Oct 5 at 7:00 AM to Mon Oct 12 at 7:00 AM due to construction",
       "rawDescription": "Get on/off buses at:\r\nNicollet Ave S & 49th St W - Stop #1230 (southbound)"
     },
@@ -1133,7 +1415,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-10-11T05:00:01.000Z",
+      "updatedAt": "2026-10-12T05:00:01.000Z",
       "rawHeader": "Route 11 detoured off Grand St from 30th Ave to 31st Ave and off 31st Ave from Grand St to Columbia Ave beginning Mon Oct 12 at 7:00 AM until further notice due to construction",
       "rawDescription": "For northbound Route 11 get on/off buses at:\r\nGrand St NE & 30th Ave NE - Stop #14632 (northbound)\r\nTemporary stop Columbia Ave NE & 31st Ave NE (northbound)\r\nColumbia Ave NE & St Anthony Pkwy - Stop #14622 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\nColumbia Ave NE & 31st Ave NE - Stop #14623 (southbound)\r\nGrand St NE & 29th Ave NE - Stop #14634 (southbound)\r\n\nNorthbound buses will travel the regular route on Grand St to 30th Ave, left on 30th Ave, right on Columbia Ave to 31st Ave, continue on Columbia Ave, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Columbia Ave to 31st Ave, continue on Columbia Ave, left on 30th Ave, right on Grand St, and resume the regular route.\r\n\nAffected stops:\r\nGrand St NE & 31st Ave NE - Stop #14631 (northbound)\r\n31st Ave NE & Columbia Ave NE - Stop #14624 (westbound)\r\n31st Ave NE & Grand St NE - Stop #14630 (eastbound)\r\nGrand St NE & 30 Ave NE - Stop #14633 (southbound)"
     },
@@ -3480,7 +3762,7 @@
       "cause": "MAINTENANCE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/67",
-      "updatedAt": "2026-10-08T15:29:57.000Z",
+      "updatedAt": "2026-10-12T05:00:01.000Z",
       "rawHeader": "Route 67 detoured off Franklin Ave from Seymour Ave to Emerald St beginning Tue Oct 13 at 6:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off buses at:\r\nFranklin Ave SE & Seymour Ave - Stop #52062 (eastbound)\r\nFranklin Ave & Berry St - Stop #54099 (eastbound)\r\n\nEastbound buses will travel east on Franklin Ave to Seymour Ave, right on Seymour, left on Sharon Ave, left on Emerald St, right on Franklin and resume regular route\r\n\nWestbound buses not affected\r\n\nAffected stops:\r\nFranklin Ave SE & Bedford St - Stop #52063 (eastbound)"
     },
@@ -4273,7 +4555,7 @@
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/134",
-      "updatedAt": "2026-10-11T05:00:02.000Z",
+      "updatedAt": "2026-10-12T05:00:02.000Z",
       "rawHeader": "6th St S & 11th Ave S - Stop #17890 (eastbound) is closed for Routes 14, 94, 134, 355 and 363 beginning Mon Oct 12 at 7:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\n6th St S & Bud Grant Way - Stop #17888 (eastbound)"
     },
@@ -6417,7 +6699,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-10-11T05:00:02.000Z",
+      "updatedAt": "2026-10-12T07:30:01.000Z",
       "rawHeader": "Routes 64 and 74 school trips that serve Johnson High School will switch gates beginning Mon Oct 12",
       "rawDescription": "Route 74 will drop off in the morning and pickup in the afternoon at Johnson High School & Gate B - Stop #53948 (northbound)\r\n\nRoute 64 trips will pickup in the afternoon at Johnson High School & Gate C - Stop #54048 (eastbound)"
     },
