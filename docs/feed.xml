@@ -4,27 +4,9 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 11 Oct 2026 22:46:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 02:14:33 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
-    <item>
-      <title>[Critical] METRO C Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/cline</link>
-      <guid isPermaLink="false">Metro Transit-54071-2026-10-11T14:44:30.000Z</guid>
-      <pubDate>Sun, 11 Oct 2026 14:44:30 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO C Line</category>
-      <description>C Line trip departing 7th St &amp; Park Station at 10:11 AM and nine other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] METRO D Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-54066-2026-10-11T16:24:45.000Z</guid>
-      <pubDate>Sun, 11 Oct 2026 16:24:45 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 9:21 AM and seven other trips canceled today</description>
-    </item>
     <item>
       <title>[Critical] Route 538: Service Canceled</title>
       <link>https://www.metrotransit.org/route/538</link>
@@ -51,15 +33,6 @@
       <category>Moderate</category>
       <category>METRO Blue Line</category>
       <description>Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues</description>
-    </item>
-    <item>
-      <title>[Moderate] METRO E Line: Detour via Richfield Rd &amp; Bde Maka Ska St</title>
-      <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-53854-2026-10-11T13:30:00.000Z</guid>
-      <pubDate>Sun, 11 Oct 2026 13:30:00 GMT</pubDate>
-      <category>Moderate</category>
-      <category>METRO E Line</category>
-      <description>E Line detoured off Hennepin Ave from 36th St W to 25th St W from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: Richfield Rd &amp; Bde Maka Ska Station - Stop #57539 (northbound); 36th St W &amp; Hennepin Ave - Stop #41337 (eastbound); Lyndale Ave S &amp; Lake St W - Stop #170 (northbound). | Action: Board at: Richfield Rd &amp; Bde Maka Ska Station - Stop #57539 (northbound); 36th St W &amp; Hennepin Ave - Stop #41337 (eastbound); Lyndale Ave S &amp; Lake St W - Stop #170 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] METRO Gold Line: Detour via 6th St &amp; Jackson St</title>
@@ -197,15 +170,6 @@
       <description>Route 11 detoured off Grand St from 30th Ave to 31st Ave and off 31st Ave from Grand St to Columbia Ave beginning Mon Oct 12 at 7:00 AM until further notice due to construction. Board at: Grand St NE &amp; 30th Ave NE - Stop #14632 (northbound); Temporary stop Columbia Ave NE &amp; 31st Ave NE (northbound); Columbia Ave NE &amp; St Anthony Pkwy - Stop #14622 (northbound). | Action: Board at: Grand St NE &amp; 30th Ave NE - Stop #14632 (northbound); Temporary stop Columbia Ave NE &amp; 31st Ave NE (northbound); Columbia Ave NE &amp; St Anthony Pkwy - Stop #14622 (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 17: Detour via Lake St W &amp; Humboldt Ave S</title>
-      <link>https://www.metrotransit.org/route/17</link>
-      <guid isPermaLink="false">Metro Transit-53856-2026-10-11T13:30:00.000Z</guid>
-      <pubDate>Sun, 11 Oct 2026 13:30:00 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 17</category>
-      <description>Route 17 detoured off Hennepin Ave from 24th St W to Lagoon Ave from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: Lake St W &amp; Humboldt Ave S - Stop #16827 (eastbound); 24th St W &amp; Pleasant Ave S - Stop #40342 (eastbound). | Action: Board at: Lake St W &amp; Humboldt Ave S - Stop #16827 (eastbound); 24th St W &amp; Pleasant Ave S - Stop #40342 (eastbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 18: Detour via Nicollet Ave S &amp; 56th St E</title>
       <link>https://www.metrotransit.org/route/18</link>
       <guid isPermaLink="false">Metro Transit-48754-2026-09-03T18:13:08.000Z</guid>
@@ -305,15 +269,6 @@
       <description>Route 27 detoured off 26th St/28th St from Bloomington Ave to Cedar Ave and off Cedar Ave from 26th St to Lake St beginning Mon Sep 14 until further notice due to construction. Board at: 28th St E &amp; Bloomington Ave S - Stop #43016 (eastbound); Lake &amp; Cedar Station - Stop #51579 (eastbound). | Action: Board at: 28th St E &amp; Bloomington Ave S - Stop #43016 (eastbound); Lake &amp; Cedar Station - Stop #51579 (eastbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 27: Detour via Lagoon Ave &amp; Emerson Ave S</title>
-      <link>https://www.metrotransit.org/route/27</link>
-      <guid isPermaLink="false">Metro Transit-53858-2026-10-11T13:30:00.000Z</guid>
-      <pubDate>Sun, 11 Oct 2026 13:30:00 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 27</category>
-      <description>Route 27 detoured out of Uptown Transit Station from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: Lagoon Ave &amp; Emerson Ave S - Stop #17040 (westbound); Lake &amp; Hennepin Station - Stop #57355 (eastbound). | Action: Board at: Lagoon Ave &amp; Emerson Ave S - Stop #17040 (westbound); Lake &amp; Hennepin Station - Stop #57355 (eastbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 36, Route 538, Route 578: Stop Closed at York Ave S &amp; Hazelton Rd</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
       <guid isPermaLink="false">Metro Transit-42305-2025-12-15T14:06:01.000Z</guid>
@@ -339,15 +294,6 @@
       <category>Moderate</category>
       <category>Route 36</category>
       <description>Route 36 detoured off Hazleton Rd from France Ave to York Ave and off France Ave from Hazleton Rd to Gallagher Dr beginning Wed Sep 16 at 6:00 PM until further notice due to construction. Board at: Gallagher Dr &amp; France Ave S - Stop #41097 (eastbound); York Ave S &amp; 70th St W - Stop #50601 (northbound). | Action: Board at: Gallagher Dr &amp; France Ave S - Stop #41097 (eastbound); York Ave S &amp; 70th St W - Stop #50601 (northbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 36: Detour via 36th St W &amp; Irving Ave S</title>
-      <link>https://www.metrotransit.org/route/36</link>
-      <guid isPermaLink="false">Metro Transit-53853-2026-10-11T13:30:00.000Z</guid>
-      <pubDate>Sun, 11 Oct 2026 13:30:00 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 36</category>
-      <description>Route 36 detoured off Hennepin Ave from 36th St W to 29th St W from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: 36th St W &amp; Irving Ave S - Stop #1313 (eastbound); Temporary terminal Lagoon Ave &amp; Emerson Ave S (westbound). | Action: Board at: 36th St W &amp; Irving Ave S - Stop #1313 (eastbound); Temporary terminal Lagoon Ave &amp; Emerson Ave S (westbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 38: Detour via 38th St E &amp; Portland Ave S</title>

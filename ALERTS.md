@@ -2,91 +2,19 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-103-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-96-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-97-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-92-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-76-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-72-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-11T22:46:19.993Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-12T02:14:33.699Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (6) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (1) • **Route 17** (1) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (3) • **Route 36** (4) • **Route 38** (3) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (1) • **Route 94** (2) • **Route 134** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (2) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (6) • **Route 11** (3) • **Route 11D** (1) • **Route 14** (1) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (2) • **Route 36** (3) • **Route 38** (3) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 87** (1) • **Route 94** (2) • **Route 134** (2) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (1) • **Route 537** (3) • **Route 538** (2) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
-
-### 🚨 METRO C Line: Service Canceled
-
-- **Affected Routes**: `METRO C Line`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: C Line trip departing 7th St & Park St; departing 7th St & Park St; 11 AM
-departing 7th St & Park St; 40 AM
-departing 7th St & Park St; 19 PM
-departing 7th St & Park St
-
-**Summary**: C Line trip departing 7th St & Park Station at 10:11 AM and nine other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/cline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: C Line trip departing 7th St & Park Station at 10:11 AM and nine other trips canceled today
-
-```text
-Affected northbound trips:
-departing 7th St & Park Station at 10:11 AM
-departing 7th St & Park Station at 11:40 AM
-departing 7th St & Park Station at 1:19 PM
-departing 7th St & Park Station at 2:59 PM
-departing 7th St & Park Station at 4:39 PM
-
-Affected southbound trips:
-departing Brooklyn Ctr Transit Ctr Gate I at 10:51 AM
-departing Brooklyn Ctr Transit Ctr Gate I at 12:31 PM
-departing Brooklyn Ctr Transit Ctr Gate I at 2:11 PM
-departing Brooklyn Ctr Transit Ctr Gate I at 3:51 PM
-departing Brooklyn Ctr Transit Ctr Gate I at 5:31 PM
-```
-
-</details>
-
----
-
-### 🚨 METRO D Line: Service Canceled
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 9:21 AM and seven other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 9:21 AM and seven other trips canceled today
-
-```text
-Affected northbound trips:
-departing MOA Transit Station Gate A at 10:46 AM
-departing MOA Transit Station Gate A at 11:16 AM
-departing MOA Transit Station Gate A at 1:44 PM
-departing MOA Transit Station Gate A at 4:45 PM
-
-Affected southbound trips:
-departing Brooklyn Ctr Transit Ctr Gate F at 9:21 AM
-departing Brooklyn Ctr Transit Ctr Gate F at 11:03 AM
-departing Brooklyn Ctr Transit Ctr Gate F at 12:13 PM
-departing Brooklyn Ctr Transit Ctr Gate F at 3:13 PM
-```
-
-</details>
-
----
 
 ### 🚨 Route 538: Service Canceled
 
@@ -158,55 +86,6 @@ Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on 
 
 ```text
 Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station.
-```
-
-</details>
-
----
-
-### ⚠️ METRO E Line: Detour via Richfield Rd & Bde Maka Ska St
-
-- **Affected Routes**: `METRO E Line`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Richfield Rd & Bde Maka Ska St; 36th St W & Hennepin Ave; Lyndale Ave S & Lake St W; 36th St W & Irving Ave S
-- **Closed Stops**: Hennepin & 36th St Station (Stop #1316), Hennepin & 33rd St Station (Stop #42216), Hennepin & 25th St Station (Stop #1100), Hennepin & 33rd St Station (Stop #42219), Hennepin & 36th St Station (Stop #1111), Stop #57539, Stop #41337, Stop #1327 *(+3 more)*
-
-**Summary**: E Line detoured off Hennepin Ave from 36th St W to 25th St W from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: Richfield Rd & Bde Maka Ska Station - Stop #57539 (northbound); 36th St W & Hennepin Ave - Stop #41337 (eastbound); Lyndale Ave S & Lake St W - Stop #170 (northbound).
-
-> 💡 **Rider Action**: Board at: Richfield Rd & Bde Maka Ska Station - Stop #57539 (northbound); 36th St W & Hennepin Ave - Stop #41337 (eastbound); Lyndale Ave S & Lake St W - Stop #170 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel the regular route on 36th St W to Hennepin Ave, continue on 36th St W, left on Lyndale Ave, left on 25th St W, right on Hennepin Ave, and resume the regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/eline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: E Line detoured off Hennepin Ave from 36th St W to 25th St W from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets
-
-```text
-For northbound E Line get on/off buses at:
-Richfield Rd & Bde Maka Ska Station - Stop #57539 (northbound)
-36th St W & Hennepin Ave - Stop #41337 (eastbound)
-Lyndale Ave S & Lake St W - Stop #170 (northbound)
-Hennepin & 25th St Station - Stop #1327 (northbound)
-
-For southbound E Line get on/off buses at:
-Hennepin & Franklin Station - Stop #1096 (southbound)
-36th St W & Irving Ave S - Stop #1114 (westbound) 
-Richfield Rd & Bde Maka Ska Station - Stop #57540 (southbound)
-
-Northbound buses will travel the regular route on 36th St W to Hennepin Ave, continue on 36th St W, left on Lyndale Ave, left on 25th St W, right on Hennepin Ave, and resume the regular route.
-
-Southbound buses will travel the regular route on Hennepin Ave to 24th St W, left on 24th St W, right on Lyndale Ave, right on 36th St W to Hennepin Ave, continue on 36th St W, and resume the regular route.
-
-Affected stops:
-Hennepin & 36th St Station - Stop #1316 (northbound)
-Hennepin & 33rd St Station - Stop #42216 (northbound)
-Hennepin & 25th St Station - Stop #1100 (southbound)
-Hennepin & 33rd St Station - Stop #42219 (southbound)
-Hennepin & 36th St Station - Stop #1111 (southbound)
 ```
 
 </details>
@@ -863,60 +742,6 @@ Grand St NE & 30 Ave NE - Stop #14633 (southbound)
 
 ---
 
-### ⚠️ Route 17: Detour via Lake St W & Humboldt Ave S
-
-- **Affected Routes**: `Route 17`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Lake St W & Humboldt Ave S; 24th St W & Pleasant Ave S; 24th St W & Garfield Ave; Hennepin Ave & 27th St W; 24th St W & Dupont Ave S
-- **Closed Stops**: Uptown Transit Station - Gate B (Stop #50195), Hennepin Ave & 27th St W (Stop #1325), Hennepin & 25th St Station (Stop #1327), 24th St W & Dupont Ave S (Stop #40335), 24th St W & Bryant Ave S (Stop #40333), 24th St W & Lyndale Ave S (Stop #40339), 24th St W & Lyndale Ave S (Stop #4667), 24th St W & Bryant Ave S (Stop #4669) *(+8 more)*
-
-**Summary**: Route 17 detoured off Hennepin Ave from 24th St W to Lagoon Ave from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: Lake St W & Humboldt Ave S - Stop #16827 (eastbound); 24th St W & Pleasant Ave S - Stop #40342 (eastbound).
-
-> 💡 **Rider Action**: Board at: Lake St W & Humboldt Ave S - Stop #16827 (eastbound); 24th St W & Pleasant Ave S - Stop #40342 (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel the regular route on Lake St to Hennepin Ave, continue on Lake St, left on Lyndale Ave, right on 24th St W, and resume the regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/17)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 17 detoured off Hennepin Ave from 24th St W to Lagoon Ave from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets
-
-```text
-For eastbound Route 17 get on/off buses at:
-Lake St W & Humboldt Ave S - Stop #16827 (eastbound)
-24th St W & Pleasant Ave S - Stop #40342 (eastbound)
-
-For westbound Route 17 get on/off buses at:
-24th St W & Pleasant Ave S - Stop #4663 (westbound)
-Temporary stop on 24th St W & Garfield Ave (westbound)
-Lagoon & Hennepin Station - Stop #3523 (westbound)
-
-Eastbound buses will travel the regular route on Lake St to Hennepin Ave, continue on Lake St, left on Lyndale Ave, right on 24th St W, and resume the regular route.
-
-Westbound buses will travel the regular route on 24th St W to Lyndale Ave, left on Lyndale Ave, right on Lake St, continue on Lagoon Ave to Hennepin Ave, continue on Lagoon Ave, and resume the regular route.
-
-Affected stops:
-Uptown Transit Station - Gate B - Stop #50195 (northbound)
-Hennepin Ave & 27th St W - Stop #1325 (northbound)
-Hennepin & 25th St Station - Stop #1327 (northbound)
-24th St W & Dupont Ave S - Stop #40335 (eastbound)
-24th St W & Bryant Ave S - Stop #40333 (eastbound)
-24th St W & Lyndale Ave S - Stop #40339 (eastbound)
-24th St W & Lyndale Ave S - Stop #4667 (westbound)
-24th St W & Bryant Ave S - Stop #4669 (westbound)
-24th St W & Hennepin Ave S - Stop #4672 (westbound)
-Hennepin & 25th St Station - Stop #1100 (southbound)
-Hennepin Ave S & 27th St W - Stop #1102 (southbound)
-Uptown Transit Station - Gate A - Stop #50196 (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 18: Detour via Nicollet Ave S & 56th St E
 
 - **Affected Routes**: `Route 18`
@@ -1408,47 +1233,6 @@ Cedar Ave S & 28th St E - Stop #15319 (northbound)
 
 ---
 
-### ⚠️ Route 27: Detour via Lagoon Ave & Emerson Ave S
-
-- **Affected Routes**: `Route 27`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Lagoon Ave & Emerson Ave S; Lake St W & Bryant Ave S; Temporary bus stop on Lagoon Ave & Emerson Ave S
-- **Closed Stops**: Uptown Transit Station - Gates D/E (Stop #52857), Lagoon Ave & Emerson Ave S (Stop #17040), Stop #57355, Stop #16836
-
-**Summary**: Route 27 detoured out of Uptown Transit Station from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: Lagoon Ave & Emerson Ave S - Stop #17040 (westbound); Lake & Hennepin Station - Stop #57355 (eastbound).
-
-> 💡 **Rider Action**: Board at: Lagoon Ave & Emerson Ave S - Stop #17040 (westbound); Lake & Hennepin Station - Stop #57355 (eastbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/27)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 27 detoured out of Uptown Transit Station from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets
-
-```text
-For eastbound Route 27 get on/off buses at:
-Lagoon Ave & Emerson Ave S - Stop #17040 (westbound)
-Lake & Hennepin Station - Stop #57355 (eastbound)
-
-For westbound Route 27 get on/off buses at:
-Lake St W & Bryant Ave S - Stop #16836 (westbound)
-Temporary bus stop on Lagoon Ave & Emerson Ave S (westbound)
-
-Eastbound buses will depart the temporary terminal on Lagoon Ave, continue on Lagoon Ave, left on Irving Ave, left on Lake St to Hennepin Ave, continue on Lake St, and resume the regular route.
-
-Westbound buses will follow the regular route on Lake St to Lagoon Ave, continue on Lagoon Ave, and terminate at the temporary bus stop on Lagoon Ave and Emerson Ave.
-
-Affected stops:
-Uptown Transit Station - Gates D/E - Stop #52857 (westbound)
-Lagoon Ave & Emerson Ave S - Stop #17040 (westbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 36, Route 538, Route 578: Stop Closed at York Ave S & Hazelton Rd
 
 - **Affected Routes**: `Route 36` `Route 538` `Route 578`
@@ -1546,58 +1330,6 @@ Hazelton Rd & #3535 - Federal Express - Stop #53156 (eastbound)
 Hazelton Rd & York Ave S - Stop #53436 (westbound)
 Hazelton Rd & Target Loading Dock - Stop #53155 (westbound)
 France Ave S & 72nd St W - Stop #4374 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 36: Detour via 36th St W & Irving Ave S
-
-- **Affected Routes**: `Route 36`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 36th St W & Irving Ave S; Temporary terminal Lagoon Ave & Emerson Ave S; Lagoon Ave & Emerson Ave S; Hennepin Ave & 34th St W; Hennepin Ave & 31st St W
-- **Closed Stops**: Hennepin & 36th St Station (Stop #1316), Hennepin Ave & 34th St W (Stop #1318), Hennepin & 33rd St Station (Stop #42216), Hennepin Ave & 31st St W (Stop #1321), Hennepin Ave & Lake St W (Stop #1322), Uptown Transit Station - Gate C (Stop #50160), Hennepin Ave S & Lagoon Ave (Stop #1105), Hennepin Ave S & 31st St W (Stop #1106) *(+6 more)*
-
-**Summary**: Route 36 detoured off Hennepin Ave from 36th St W to 29th St W from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets. Board at: 36th St W & Irving Ave S - Stop #1313 (eastbound); Temporary terminal Lagoon Ave & Emerson Ave S (westbound).
-
-> 💡 **Rider Action**: Board at: 36th St W & Irving Ave S - Stop #1313 (eastbound); Temporary terminal Lagoon Ave & Emerson Ave S (westbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel the regular route on 36th Sty W to Hennepin Ave, continue on 36th St W, left on Lyndale Ave, left on Lake St, continue on Lagoon Ave to Emerson Ave, and terminate at a temporary bus stop.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/36)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 36 detoured off Hennepin Ave from 36th St W to 29th St W from 9:00 AM to 6:00 PM on Sun Oct 11 due to Hennepin Open Streets
-
-```text
-For northbound Route 36 get on/off buses at:
-36th St W & Irving Ave S - Stop #1313 (eastbound)
-Temporary terminal Lagoon Ave & Emerson Ave S (westbound)
-
-For southbound Route 36 get on/off buses at:
-Lagoon Ave & Emerson Ave S - Stop #17040 (westbound)
-36th St W & Irving Ave S - Stop #1114 (westbound)
-
-Northbound buses will travel the regular route on 36th Sty W to Hennepin Ave, continue on 36th St W, left on Lyndale Ave, left on Lake St, continue on Lagoon Ave to Emerson Ave, and terminate at a temporary bus stop.
-
-Southbound buses will depart the temporary terminal on Lagoon Ave and Emerson Ave, left on Irving Ave, left on Lake St, right on Lyndale Ave, right on 36th St W to Hennepin Ave, continue on 36th St W, and resume the regular route.
-
-Affected stops:
-Hennepin & 36th St Station - Stop #1316 (northbound)
-Hennepin Ave & 34th St W - Stop #1318 (northbound)
-Hennepin & 33rd St Station - Stop #42216 (northbound)
-Hennepin Ave & 31st St W - Stop #1321 (northbound)
-Hennepin Ave & Lake St W - Stop #1322 (northbound)
-Uptown Transit Station - Gate C - Stop #50160 (westbound)
-Hennepin Ave S & Lagoon Ave - Stop #1105 (southbound)
-Hennepin Ave S & 31st St W - Stop #1106 (southbound)
-Hennepin & 33rd St Station - Stop #42219 (southbound)
-Hennepin Ave S & 34th St W - Stop #1109 (southbound)
-Hennepin & 36th St Station - Stop #1111 (southbound)
 ```
 
 </details>
