@@ -1,16 +1,396 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-13T10:24:16.833Z",
-    "totalAlerts": 92,
-    "criticalCount": 0,
-    "moderateCount": 88,
+    "generatedAt": "2026-10-13T18:06:11.672Z",
+    "totalAlerts": 98,
+    "criticalCount": 5,
+    "moderateCount": 89,
     "minorCount": 4,
-    "affectedRoutesCount": 70,
+    "affectedRoutesCount": 71,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
+    {
+      "id": "54140",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO D Line: Northbound 11:44 AM Trip Canceled (MOA Transit Station Gate A)",
+      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 11:44 AM canceled today due to police activity",
+      "affectedRoutes": [
+        "METRO D Line"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [
+        "43275",
+        "9089",
+        "8935",
+        "8945",
+        "8948",
+        "56949",
+        "56950",
+        "56951",
+        "56823",
+        "9646",
+        "9658",
+        "9263"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "43275"
+        },
+        {
+          "id": "9089"
+        },
+        {
+          "id": "8935"
+        },
+        {
+          "id": "8945"
+        },
+        {
+          "id": "8948"
+        },
+        {
+          "id": "56949"
+        },
+        {
+          "id": "56950"
+        },
+        {
+          "id": "56951"
+        },
+        {
+          "id": "56823"
+        },
+        {
+          "id": "9646"
+        },
+        {
+          "id": "9658"
+        },
+        {
+          "id": "9263"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-13T17:51:00.000Z",
+        "end": "2026-10-13T18:57:00.000Z"
+      },
+      "cause": "POLICE_ACTIVITY",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-10-13T17:52:18.000Z",
+      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 11:44 AM canceled today due to police activity",
+      "rawDescription": ""
+    },
+    {
+      "id": "54141",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO D Line: Service Advisory",
+      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 12:13 PM will start from 7th & Olson Hwy. Previous stops missed due to police activity",
+      "affectedRoutes": [
+        "METRO D Line"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [
+        "56823",
+        "56903",
+        "56904",
+        "56905",
+        "56906",
+        "56907",
+        "56908",
+        "9087",
+        "9173",
+        "9577",
+        "9589",
+        "9611",
+        "11146",
+        "11161"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "56823"
+        },
+        {
+          "id": "56903"
+        },
+        {
+          "id": "56904"
+        },
+        {
+          "id": "56905"
+        },
+        {
+          "id": "56906"
+        },
+        {
+          "id": "56907"
+        },
+        {
+          "id": "56908"
+        },
+        {
+          "id": "9087"
+        },
+        {
+          "id": "9173"
+        },
+        {
+          "id": "9577"
+        },
+        {
+          "id": "9589"
+        },
+        {
+          "id": "9611"
+        },
+        {
+          "id": "11146"
+        },
+        {
+          "id": "11161"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-13T17:52:00.000Z",
+        "end": "2026-10-13T19:26:00.000Z"
+      },
+      "cause": "POLICE_ACTIVITY",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-10-13T17:54:37.000Z",
+      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 12:13 PM will start from 7th & Olson Hwy. Previous stops missed due to police activity",
+      "rawDescription": ""
+    },
+    {
+      "id": "54138",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 14: Southbound 10:58 AM Trip Canceled (Robbinsdale Transit Center & Gate A)",
+      "summary": "Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 10:58 AM canceled today due to traffic",
+      "affectedRoutes": [
+        "Route 14"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [
+        "430",
+        "40472",
+        "51648",
+        "51832",
+        "51834",
+        "51880",
+        "51881",
+        "4429",
+        "755",
+        "758",
+        "77",
+        "79",
+        "57672",
+        "19495",
+        "15391",
+        "15393",
+        "15395",
+        "15397",
+        "15399",
+        "15401",
+        "15567",
+        "15571",
+        "15575",
+        "15579",
+        "15580",
+        "15583",
+        "15587",
+        "15591",
+        "15595",
+        "15599",
+        "15603",
+        "15604",
+        "15607",
+        "15611",
+        "15615"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "430"
+        },
+        {
+          "id": "40472"
+        },
+        {
+          "id": "51648"
+        },
+        {
+          "id": "51832"
+        },
+        {
+          "id": "51834"
+        },
+        {
+          "id": "51880"
+        },
+        {
+          "id": "51881"
+        },
+        {
+          "id": "4429"
+        },
+        {
+          "id": "755"
+        },
+        {
+          "id": "758"
+        },
+        {
+          "id": "77"
+        },
+        {
+          "id": "79"
+        },
+        {
+          "id": "57672"
+        },
+        {
+          "id": "19495"
+        },
+        {
+          "id": "15391"
+        },
+        {
+          "id": "15393"
+        },
+        {
+          "id": "15395"
+        },
+        {
+          "id": "15397"
+        },
+        {
+          "id": "15399"
+        },
+        {
+          "id": "15401"
+        },
+        {
+          "id": "15567"
+        },
+        {
+          "id": "15571"
+        },
+        {
+          "id": "15575"
+        },
+        {
+          "id": "15579"
+        },
+        {
+          "id": "15580"
+        },
+        {
+          "id": "15583"
+        },
+        {
+          "id": "15587"
+        },
+        {
+          "id": "15591"
+        },
+        {
+          "id": "15595"
+        },
+        {
+          "id": "15599"
+        },
+        {
+          "id": "15603"
+        },
+        {
+          "id": "15604"
+        },
+        {
+          "id": "15607"
+        },
+        {
+          "id": "15611"
+        },
+        {
+          "id": "15615"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-13T17:06:00.000Z",
+        "end": "2026-10-13T18:08:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/14",
+      "updatedAt": "2026-10-13T17:06:40.000Z",
+      "rawHeader": "Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 10:58 AM canceled today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "54142",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 18: Northbound 12:23 PM Trip Canceled (Nicollet Ave S & 66th St E)",
+      "summary": "Northbound Route 18 trip departing Nicollet Ave S & 66th St E at 12:23 PM canceled today due to traffic",
+      "affectedRoutes": [
+        "Route 18"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-13T17:55:00.000Z",
+        "end": "2026-10-13T19:13:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/18",
+      "updatedAt": "2026-10-13T17:55:43.000Z",
+      "rawHeader": "Northbound Route 18 trip departing Nicollet Ave S & 66th St E at 12:23 PM canceled today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "54139",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 223: Service Canceled",
+      "summary": "Route 223 trip departing Maplewood Mall Transit Center & Gate A at 3:11 PM and six other trips canceled today",
+      "affectedRoutes": [
+        "Route 223"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-13T20:11:00.000Z",
+        "end": "2026-10-14T02:13:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/223",
+      "updatedAt": "2026-10-13T17:16:15.000Z",
+      "rawHeader": "Route 223 trip departing Maplewood Mall Transit Center & Gate A at 3:11 PM and six other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Rosedale Transit Center Gate F at 3:46 PM\r\ndeparting Rosedale Transit Center Gate F at 5:16 PM\r\ndeparting Rosedale Transit Center Gate F at 6:46 PM\r\n\nAffected westbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate A at 3:11 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 4:41 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 6:11 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 7:41 PM"
+    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -86,18 +466,18 @@
       "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [
-        "53280",
+        "51405",
         "51436",
         "51437",
-        "51405",
+        "53280",
+        "53279",
         "51420",
         "51421",
-        "51422",
-        "53279"
+        "51422"
       ],
       "closedStopDetails": [
         {
-          "id": "53280"
+          "id": "51405"
         },
         {
           "id": "51436"
@@ -106,7 +486,10 @@
           "id": "51437"
         },
         {
-          "id": "51405"
+          "id": "53280"
+        },
+        {
+          "id": "53279"
         },
         {
           "id": "51420"
@@ -116,9 +499,6 @@
         },
         {
           "id": "51422"
-        },
-        {
-          "id": "53279"
         }
       ],
       "riderAlternative": null,
@@ -967,7 +1347,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/9",
-      "updatedAt": "2026-10-06T11:30:06.000Z",
+      "updatedAt": "2026-10-13T12:00:01.000Z",
       "rawHeader": "Route 9 detoured off 25th St from 32nd Ave to 34th Ave beginning Tue Oct 6 at 7:00 AM until further notice due to construction",
       "rawDescription": "For eastbound Route 9 get on/off buses at:\r\n25th St E & 31st Ave S - Stop #16455 (eastbound)\r\n25th St E & 35th Ave S - Stop #16459 (eastbound)\r\n\nFor westbound Route 9 get on/off buses at:\r\n25th St E & 35th Ave S - Stop #17595 (westbound)\r\n25th St E & 31st Ave S - Stop #17599 (westbound)\r\n\nEastbound buses will travel regular route on 25th St to 32nd Ave, right on 32nd Ave, left on 26th St, left on 34th Ave, right on 25th St and resume regular route.\r\n\nWestbound buses will travel regular route on 25th St to 34th Ave, left on 34th Ave, right on 26th St, right on 32nd Ave, left on 25th St and resume regular route.\r\n\nAffected stops:\r\n25th St E & 33rd Ave S - Stop #16457 (eastbound)\r\n25th St E & 33rd Ave S - Stop #17597 (westbound)"
     },
@@ -1130,6 +1510,55 @@
       "updatedAt": "2026-10-12T11:30:05.000Z",
       "rawHeader": "Route 11 detoured off Grand St from 30th Ave to 31st Ave and off 31st Ave from Grand St to Columbia Ave beginning Mon Oct 12 at 7:00 AM until further notice due to construction",
       "rawDescription": "For northbound Route 11 get on/off buses at:\r\nGrand St NE & 30th Ave NE - Stop #14632 (northbound)\r\nTemporary stop Columbia Ave NE & 31st Ave NE (northbound)\r\nColumbia Ave NE & St Anthony Pkwy - Stop #14622 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\nColumbia Ave NE & 31st Ave NE - Stop #14623 (southbound)\r\nGrand St NE & 29th Ave NE - Stop #14634 (southbound)\r\n\nNorthbound buses will travel the regular route on Grand St to 30th Ave, left on 30th Ave, right on Columbia Ave to 31st Ave, continue on Columbia Ave, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Columbia Ave to 31st Ave, continue on Columbia Ave, left on 30th Ave, right on Grand St, and resume the regular route.\r\n\nAffected stops:\r\nGrand St NE & 31st Ave NE - Stop #14631 (northbound)\r\n31st Ave NE & Columbia Ave NE - Stop #14624 (westbound)\r\n31st Ave NE & Grand St NE - Stop #14630 (eastbound)\r\nGrand St NE & 30 Ave NE - Stop #14633 (southbound)"
+    },
+    {
+      "id": "54131",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 11, Route 18: Stop Closed at Nicollet Ave S & 48th St W",
+      "summary": "Nicollet Ave S & 48th St W - Stop #1229 (southbound) is closed for Routes 11 and 18 until further notice due to construction. Board at: 46th St & I-35W - Stop #53544 (westbound, Route 11 only); Nicollet Ave S & 46th St W - Stop #1227 (southbound, Route 18 only); Nicollet Ave S & 49th St W - Stop #1230 (southbound).",
+      "affectedRoutes": [
+        "Route 11",
+        "Route 18"
+      ],
+      "direction": "Southbound",
+      "intersections": [
+        "Nicollet Ave S & 48th St W",
+        "46th St & I-35w - St",
+        "Nicollet Ave S & 46th St W",
+        "Nicollet Ave S & 49th St W"
+      ],
+      "closedStopIds": [
+        "1229",
+        "53544",
+        "1227",
+        "1230"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "1229"
+        },
+        {
+          "id": "53544"
+        },
+        {
+          "id": "1227"
+        },
+        {
+          "id": "1230"
+        }
+      ],
+      "riderAlternative": "Board at: 46th St & I-35W - Stop #53544 (westbound, Route 11 only); Nicollet Ave S & 46th St W - Stop #1227 (southbound, Route 18 only); Nicollet Ave S & 49th St W - Stop #1230 (southbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-13T13:40:00.000Z"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/11",
+      "updatedAt": "2026-10-13T13:40:02.000Z",
+      "rawHeader": "Nicollet Ave S & 48th St W - Stop #1229 (southbound) is closed for Routes 11 and 18 until further notice due to construction",
+      "rawDescription": "Get on/off buses at:\r\n46th St & I-35W - Stop #53544 (westbound, Route 11 only)\r\nNicollet Ave S & 46th St W - Stop #1227 (southbound, Route 18 only)\r\nNicollet Ave S & 49th St W - Stop #1230 (southbound)"
     },
     {
       "id": "48754",
@@ -2990,126 +3419,6 @@
       "rawDescription": "Added detour map 9/30 at 11AM.\r\n\nFor eastbound Route 64 get on/off buses at:\r\nPayne Ave & Case Ave - Stop #11788 (northbound)\r\nTemporary stop on Greenbrier St & Lawson Ave (northbound)\r\nTemporary stop on Greenbrier St & Geranium Ave (northbound)\r\nMaryland Ave & Walsh St - Stop #11795 (eastbound)\r\n\nFor westbound Route 64 get on/off buses at:\r\nMaryland Ave & Walsh St - Stop #11800 (westbound)\r\nTemporary stop on Greenbrier St & Geranium Ave (southbound)\r\nTemporary stop on Greenbrier St & Lawson Ave (southbound)\r\nPayne Ave & York Ave - Stop #11807 (southbound)\r\n\nEastbound buses will travel regular route on Payne Ave to Case Ave, right on Case Ave, left on Greenbrier St, right on Maryland Ave and resume regular route.\r\n\nWestbound buses will travel regular route on Maryland Ave to Walsh St, left on Walsh St, right on Rose Ave, left on Greenbrier St, right on Case Ave, left on Payne Ave and resume regular route.\r\n\nAffected stops:\r\nPayne Ave & Lawson Ave - Stop #11790 (northbound)\r\nPayne Ave & Magnolia Ave - Stop #11791 (northbound)\r\nPayne Ave & Rose Ave - Stop #11792 (northbound)\r\nMaryland Ave & Greenbrier St - Stop #11794 (eastbound)\r\nMaryland Ave & Greenbrier St - Stop #11801 (westbound)\r\nPayne Ave & Geranium Ave - Stop #11803 (southbound)\r\nPayne Ave & Magnolia Ave - Stop #11804 (southbound)\r\nPayne Ave & Lawson Ave - Stop #11812 (southbound)\r\nPayne Ave & Case Ave - Stop #11806 (southbound)"
     },
     {
-      "id": "53594",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 65: Detour via Summit Ave & Dale St",
-      "summary": "Route 65 detoured off Dale St from Rondo Ave to Grand Ave beginning Mon May 18 at 7:00 AM until further notice due to construction. Board at: Summit Ave & Dale St - Stop #10761 (eastbound); Temporary stop on Kent St & Selby Ave (northbound); Temporary stop on Kent St & Marshall Ave (northbound).",
-      "affectedRoutes": [
-        "Route 65"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Summit Ave & Dale St",
-        "Kent St & Selby Ave",
-        "Kent St & Marshall Ave",
-        "Dale St & Fuller Ave",
-        "Marshall Ave & Kent St"
-      ],
-      "closedStopIds": [
-        "10680",
-        "10681",
-        "10684",
-        "10685",
-        "10688",
-        "10689",
-        "10691",
-        "10752",
-        "10753",
-        "10754",
-        "53780",
-        "10758",
-        "10761",
-        "10693",
-        "10748"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "10680",
-          "name": "Dale St & Grand Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "10681",
-          "name": "Dale St & Summit Ave / Portland Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "10684",
-          "name": "Dale St & Holly Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "10685",
-          "name": "Dale St & Selby Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "10688",
-          "name": "Dale St & Marshall Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "10689",
-          "name": "Dale St & Iglehart Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "10691",
-          "name": "Dale St & Rondo Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "10752",
-          "name": "Dale St & Carroll Ave",
-          "direction": "southbound"
-        },
-        {
-          "id": "10753",
-          "name": "Dale St & Iglehart Ave",
-          "direction": "southbound"
-        },
-        {
-          "id": "10754",
-          "name": "Dale St & Marshall Ave",
-          "direction": "southbound"
-        },
-        {
-          "id": "53780",
-          "name": "Dale St N & Selby Ave",
-          "direction": "southbound"
-        },
-        {
-          "id": "10758",
-          "name": "Dale St & Ashland Ave",
-          "direction": "southbound"
-        },
-        {
-          "id": "10761",
-          "name": "Summit Ave & Dale St",
-          "direction": "eastbound"
-        },
-        {
-          "id": "10693"
-        },
-        {
-          "id": "10748"
-        }
-      ],
-      "riderAlternative": "Board at: Summit Ave & Dale St - Stop #10761 (eastbound); Temporary stop on Kent St & Selby Ave (northbound); Temporary stop on Kent St & Marshall Ave (northbound)",
-      "detourDetails": "Southbound buses will travel the regular route on Dale St to Rondo Ave, left on Rondo Ave, right on Arundel St, right on Marshall Ave, left on Kent St, right on Summit Ave, left on Oakland Ave, right on Grand Ave, right on Dale St, right on Summit Ave and layover on eastbound Summit Ave just past Dale St.",
-      "activePeriod": {
-        "start": "2026-10-04T21:00:00.000Z",
-        "textDescription": "Beginning Mon May 18 at 7:00 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "OTHER_EFFECT",
-      "url": "https://www.metrotransit.org/route/65",
-      "updatedAt": "2026-10-11T21:00:01.000Z",
-      "rawHeader": "Route 65 detoured off Dale St from Rondo Ave to Grand Ave beginning Mon May 18 at 7:00 AM until further notice due to construction",
-      "rawDescription": "Updated get on/off stops 6/10 10:30 am.\r\n\nFor northbound Route 65 get on/off buses at:\r\nSummit Ave & Dale St - Stop #10761 (eastbound)\r\nTemporary stop on Kent St & Selby Ave (northbound)\r\nTemporary stop on Kent St & Marshall Ave (northbound)\r\nDale St & Fuller Ave - Stop #10693 (northbound)\r\n\nFor southbound Route 65 get on/off buses at:\r\nDale St & Fuller Ave - Stop #10748 (southbound)\r\nTemporary stop on Marshall Ave & Kent St (westbound)\r\nTemporary stop on Kent St & Selby Ave (southbound)\r\nSummit Ave & Dale St - Stop #10761 (eastbound)\r\n\nNorthbound buses will depart the temporary terminal on eastbound Summit Ave just past Dale St, continue on Summit Ave, left on Kent St, right on Marshall Ave, left on Arundel St, right on Concordia Ave, left on Western Ave, left on St Anthony Ave, right on Dale St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Dale St to Rondo Ave, left on Rondo Ave, right on Arundel St, right on Marshall Ave, left on Kent St, right on Summit Ave, left on Oakland Ave, right on Grand Ave, right on Dale St, right on Summit Ave and layover on eastbound Summit Ave just past Dale St.\r\n\nAffected stops:\r\nDale St & Grand Ave - Stop #10680 (northbound)\r\nDale St & Summit Ave / Portland Ave - Stop #10681 (northbound)\r\nDale St & Holly Ave - Stop #10684 (northbound)\r\nDale St & Selby Ave - Stop #10685 (northbound)\r\nDale St & Marshall Ave - Stop #10688 (northbound)\r\nDale St & Iglehart Ave - Stop #10689 (northbound)\r\nDale St & Rondo Ave - Stop #10691 (northbound)\r\nDale St & Carroll Ave - Stop #10752 (southbound)\r\nDale St & Iglehart Ave - Stop #10753 (southbound)\r\nDale St & Marshall Ave - Stop #10754 (southbound)\r\nDale St N & Selby Ave - Stop #53780 (southbound)\r\nDale St & Ashland Ave - Stop #10758 (southbound)\r\nSummit Ave & Dale St - Stop #10761 (eastbound)"
-    },
-    {
       "id": "51838",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -3195,7 +3504,7 @@
       "cause": "MAINTENANCE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/67",
-      "updatedAt": "2026-10-13T05:00:01.000Z",
+      "updatedAt": "2026-10-13T10:30:01.000Z",
       "rawHeader": "Route 67 detoured off Franklin Ave from Seymour Ave to Emerald St beginning Tue Oct 13 at 6:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off buses at:\r\nFranklin Ave SE & Seymour Ave - Stop #52062 (eastbound)\r\nFranklin Ave & Berry St - Stop #54099 (eastbound)\r\n\nEastbound buses will travel east on Franklin Ave to Seymour Ave, right on Seymour, left on Sharon Ave, left on Emerald St, right on Franklin and resume regular route\r\n\nWestbound buses not affected\r\n\nAffected stops:\r\nFranklin Ave SE & Bedford St - Stop #52063 (eastbound)"
     },
@@ -4713,7 +5022,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/534",
-      "updatedAt": "2026-10-13T05:00:02.000Z",
+      "updatedAt": "2026-10-13T17:39:49.000Z",
       "rawHeader": "Route 534 detoured off 98th St W from Penn Ave S to France Ave S beginning Wed Oct 14 at 5:00 AM until further notice",
       "rawDescription": "For eastbound Route 534 get on/off buses at:\r\n98th St W & Normandale College - Stop #2078 (eastbound)\r\nPenn Ave S & 98th St W - Stop #53773 (northbound)\r\n\nFor westbound Route 534 get on/off buses at:\r\nPenn Ave S & 98th St W - Stop #57518 (southbound)\r\n98th St W & Normandale College - Stop #2069 (westbound)\r\n\nEastbound buses will travel the regular route on 98th St W to France Ave S, right on France Ave S, left on 102nd St W, left on Penn Ave S to 98th St W, continue on Penn Ave S, and resume the regular route.\r\n\nWestbound buses will travel the regular route on Penn Ave S to 98th St W, continue on Penn Ave S, right on 102nd St W, right on France Ave S, left on 98th St W, and resume the regular route.\r\n\nAffected stops:\r\n98th St W & Chowen Ave S - Stop #2079 (eastbound)\r\n98th St W & Abbott Ave S - Stop #2081 (eastbound)\r\n98th St W & Xerxes Ave S - Stop #2082 (eastbound)\r\n98th St W & Upton Circle - Stop #1734 (eastbound)\r\n98th St W & Russell Ave S - Stop #1735 (eastbound)\r\n98th St W & Russell Ave S - Stop #1626 (westbound)\r\n98th St W & Upton Rd - Stop #1627 (westbound)\r\n98th St W & Xerxes Ave S - Stop #2065 (westbound)\r\n98th St W & Abbott Ave S - Stop #2066 (westbound)"
     },
@@ -4809,7 +5118,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/537",
-      "updatedAt": "2026-10-08T18:48:51.000Z",
+      "updatedAt": "2026-10-13T14:05:01.000Z",
       "rawHeader": "Route 537 detoured off Beard Ave from Old Shakopee Rd to 108th St until further notice due to construction",
       "rawDescription": "For northbound Route 537 get on/off buses at:\r\n108th St W & France Ave S - Stop #56794 (westbound)\r\n\nFor southbound Route 537 get on/off buses at:\r\nOld Shakopee Rd & Beard Ave S - Stop #3521 (eastbound)\r\n\nNorthbound buses will depart temporary layover on westbound 108th St at Beard Ave, continue on 108th St, and resume regular route.\r\n\nSouthbound buses will travel regular route on Old Shakopee Rd to Beard Ave, continue on Old Shakopee Rd to Zenith Ave, right on Zenith, right on 108th St and layover on westbound 108th St at Beard Ave.\r\n\nAffected stops:\r\nBeard Ave S & Old Shakopee Rd - Stop #56791 (southbound)\r\nBeard Ave S & 108th St W - Stop #56793 (southbound)"
     },
@@ -5532,6 +5841,49 @@
       "rawDescription": "Get on/off buses at:\r\nWest Broadway & College Park Dr - Stop #44659 (southbound)\r\nWest Broadway & Dragon Star - Stop #53152 (southbound)"
     },
     {
+      "id": "54143",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 755, METRO C Line: Stop Closed at 7th St N & Twins Way",
+      "summary": "Olson & 7th St Station - Stop #17856 (westbound) is closed for C Line and Route 755 beginning at 12:58 PM until later today due to police activity. Board at: 7th St N & Twins Way - Stop #2875 (westbound); Olson & Penn Station - Stop #17840 (westbound).",
+      "affectedRoutes": [
+        "Route 755",
+        "METRO C Line"
+      ],
+      "direction": "Westbound",
+      "intersections": [
+        "7th St N & Twins Way"
+      ],
+      "closedStopIds": [
+        "17856",
+        "2875",
+        "17840"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "17856"
+        },
+        {
+          "id": "2875"
+        },
+        {
+          "id": "17840"
+        }
+      ],
+      "riderAlternative": "Board at: 7th St N & Twins Way - Stop #2875 (westbound); Olson & Penn Station - Stop #17840 (westbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-13T18:05:00.000Z",
+        "end": "2026-10-13T20:05:24.000Z",
+        "textDescription": "Beginning at 12:58 PM until later today"
+      },
+      "cause": "POLICE_ACTIVITY",
+      "effect": "NO_SERVICE",
+      "updatedAt": "2026-10-13T18:05:05.000Z",
+      "rawHeader": "Olson & 7th St Station - Stop #17856 (westbound) is closed for C Line and Route 755 beginning at 12:58 PM until later today due to police activity",
+      "rawDescription": "Get on/off buses at:\r\n7th St N & Twins Way - Stop #2875 (westbound)\r\nOlson & Penn Station - Stop #17840 (westbound)"
+    },
+    {
       "id": "50957",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -5625,7 +5977,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/760",
-      "updatedAt": "2026-10-06T17:50:58.000Z",
+      "updatedAt": "2026-10-13T13:30:01.000Z",
       "rawHeader": "Routes 760, 763, 765, 766 and 768 detoured off 3rd St from Marquette Ave to I-94 and off I-94 from downtown Minneapolis to Lyndale Ave until further notice due to traffic congestion",
       "rawDescription": "Get on/off buses at:\r\n3rd St & Marquette Ave - Stop #52832 (westbound)\r\n\nNorthbound buses will travel regular route on 3rd St to Marquette Ave, right on Marquette, left on Washington Ave, left on 10th Ave N, right on 5th St, left on 11th Ave N, right on E Lyndale Ave N and continue onto I-94 ramp, and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected stops:\r\n3rd St S & Nicollet Mall - Stop #40172 (westbound)\r\n3rd St N & 1st Ave N - Stop #17960 (westbound)"
     },
@@ -5718,133 +6070,9 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/781",
-      "updatedAt": "2026-10-06T17:52:16.000Z",
+      "updatedAt": "2026-10-13T13:32:01.000Z",
       "rawHeader": "Routes 781 and five other routes detoured off 3rd St from Marquette Ave to I-94 and off I-94 from downtown Minneapolis to Lyndale Ave until further notice due to traffic congestion",
       "rawDescription": "Get on/off buses at:\r\n3rd St S & Marquette Ave S - Stop #52832 (westbound)\r\n\nNorthbound buses will travel regular route on 3rd St to Marquette Ave, right on Marquette, left on Washington Ave, left on 10th Ave N, right on 5th St, left on 11th Ave N, right on E Lyndale Ave N and continue onto I-94 ramp, and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected routes:\r\n781\r\n784\r\n785\r\n850\r\n882\r\n888\r\n\nAffected stops:\r\n3rd St S & Hennepin Ave - Stop #17959 (westbound)"
-    },
-    {
-      "id": "51297",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 804: Detour via Route 804 detoured off 7th St NW & 8th St N",
-      "summary": "Route 804 detoured off 7th St NW/8th St NW loop beginning Mon Jul 6 at 5:00 AM until further notice due to construction. Board at: 8th Ave NW & Old Hwy 8 - Stop #15935 (northbound); Temporary stop on 8th Ave NW & 7th St NW (northbound); Temporary stop on 8th Ave NW & 8th St NW (northbound).",
-      "affectedRoutes": [
-        "Route 804"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 804 detoured off 7th St NW & 8th St N",
-        "8th Ave NW & Old Hwy",
-        "8th Ave NW & 7th St N",
-        "8th Ave NW & 8th St N",
-        "8th St NW & Old Hwy"
-      ],
-      "closedStopIds": [
-        "15932",
-        "15928",
-        "20039",
-        "15907",
-        "15904",
-        "15897",
-        "15903",
-        "15906",
-        "15909",
-        "15927",
-        "15934",
-        "15935",
-        "15892",
-        "15898",
-        "15936",
-        "1362",
-        "1381"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "15932",
-          "name": "7th St NW & 9th Ave",
-          "direction": "westbound"
-        },
-        {
-          "id": "15928",
-          "name": "7th St NW & 11th Ave",
-          "direction": "westbound"
-        },
-        {
-          "id": "20039",
-          "name": "7th St NW & 8th St NW",
-          "direction": "westbound"
-        },
-        {
-          "id": "15907",
-          "name": "8th St NW & #1362",
-          "direction": "northbound"
-        },
-        {
-          "id": "15904",
-          "name": "8th St NW & 11th Ave NW",
-          "direction": "eastbound"
-        },
-        {
-          "id": "15897",
-          "name": "8th St NW & 8th Ave NW",
-          "direction": "eastbound"
-        },
-        {
-          "id": "15903",
-          "name": "8th St NW & 11th Ave NW",
-          "direction": "westbound"
-        },
-        {
-          "id": "15906",
-          "name": "8th St NW & #1381",
-          "direction": "southbound"
-        },
-        {
-          "id": "15909",
-          "name": "8th St NW & 7th St NW",
-          "direction": "southbound"
-        },
-        {
-          "id": "15927",
-          "name": "7th St NW & 11th Ave",
-          "direction": "eastbound"
-        },
-        {
-          "id": "15934",
-          "name": "7th St NW & 8th Ave",
-          "direction": "eastbound"
-        },
-        {
-          "id": "15935"
-        },
-        {
-          "id": "15892"
-        },
-        {
-          "id": "15898"
-        },
-        {
-          "id": "15936"
-        },
-        {
-          "id": "1362"
-        },
-        {
-          "id": "1381"
-        }
-      ],
-      "riderAlternative": "Board at: 8th Ave NW & Old Hwy 8 - Stop #15935 (northbound); Temporary stop on 8th Ave NW & 7th St NW (northbound); Temporary stop on 8th Ave NW & 8th St NW (northbound)",
-      "detourDetails": "Northbound buses will travel regular route on 8th Ave NW to 7th St NW, continue on 8th Ave NW to 8th St NW, right on 8th St NW and resume regular route.",
-      "activePeriod": {
-        "start": "2026-08-07T14:45:00.000Z",
-        "textDescription": "Beginning Mon Jul 6 at 5:00 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "OTHER_EFFECT",
-      "url": "https://www.metrotransit.org/route/804",
-      "updatedAt": "2026-09-03T18:50:42.000Z",
-      "rawHeader": "Route 804 detoured off 7th St NW/8th St NW loop beginning Mon Jul 6 at 5:00 AM until further notice due to construction",
-      "rawDescription": "For northbound Route 804 get on/off buses at:\r\n8th Ave NW & Old Hwy 8 - Stop #15935 (northbound)\r\nTemporary stop on 8th Ave NW & 7th St NW (northbound)\r\nTemporary stop on 8th Ave NW & 8th St NW (northbound)\r\n8th St NW & Old Hwy 8 (5th Ave) - Stop #15892 (eastbound)\r\n\nFor southbound Route 804 get on/off buses at:\r\n8th St NW & 8th Ave NW - Stop #15898 (westbound)\r\nTemporary stop on 8th Ave NW & 7th St NW (southbound)\r\n8th Ave & Old Hwy 8 - Stop #15936 (southbound)\r\n\nNorthbound buses will travel regular route on 8th Ave NW to 7th St NW, continue on 8th Ave NW to 8th St NW, right on 8th St NW and resume regular route.\r\n\nSouthbound buses will travel regular route on 8th St NW to 8th Ave NW, left on 8th Ave NW, continue on 8th Ave NW to 7th St NW and resume regular route.\r\n\nAffected stops:\r\n7th St NW & 9th Ave - Stop #15932 (westbound)\r\n7th St NW & 11th Ave - Stop #15928 (westbound)\r\n7th St NW & 8th St NW - Stop #20039 (westbound)\r\n8th St NW & #1362 - Stop #15907 (northbound)\r\n8th St NW & 11th Ave NW - Stop #15904 (eastbound)\r\n8th St NW & 8th Ave NW - Stop #15897 (eastbound)\r\n8th St NW & 11th Ave NW - Stop #15903 (westbound)\r\n8th St NW & #1381 - Stop #15906 (southbound)\r\n8th St NW & 7th St NW - Stop #15909 (southbound)\r\n7th St NW & 11th Ave - Stop #15927 (eastbound)\r\n7th St NW & 8th Ave - Stop #15934 (eastbound)"
     },
     {
       "id": "53596",
@@ -5889,6 +6117,214 @@
       "updatedAt": "2026-10-12T12:00:02.000Z",
       "rawHeader": "East River Rd & 62nd Way - Stop #12153 (southbound) is closed for Route 827 beginning Mon Oct 5 at 7:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nEast River Rd & 63rd Way - Stop #12152 (southbound)\r\nEast River Rd & 61st Way NE - Stop #12156 (southbound)"
+    },
+    {
+      "id": "54134",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 827: Detour via East River Rd & Logan Pkwy",
+      "summary": "Route 827 detoured off East River Road from Osborne Rd to 85th Ave from 4:00 PM to 10:00 PM on Sat Oct 17 due to Pumpkin Night in the Park. Board at: East River Rd & Logan Pkwy - Stop #12133 (northbound); Northtown Transit Ctr Gate C - Stop #57167 (westbound).",
+      "affectedRoutes": [
+        "Route 827"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "East River Rd & Logan Pkwy",
+        "East River Rd & Osborne Rd N",
+        "left on East River Rd & resume regular route.\n\nAffected st",
+        "East River Rd & Rickard Rd",
+        "East River Rd & 77th Way"
+      ],
+      "closedStopIds": [
+        "12129",
+        "12126",
+        "12125",
+        "12122",
+        "12121",
+        "12117",
+        "12113",
+        "12110",
+        "10906",
+        "10910",
+        "10928",
+        "10930",
+        "10932",
+        "56934",
+        "53418",
+        "10931",
+        "53761",
+        "10929",
+        "10911",
+        "10907",
+        "12111",
+        "51258",
+        "12116",
+        "12119",
+        "12123",
+        "12124",
+        "12127",
+        "12133",
+        "57167",
+        "12128"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "12129",
+          "name": "East River Rd & Osborne Rd NE",
+          "direction": "northbound"
+        },
+        {
+          "id": "12126",
+          "name": "East River Rd & Rickard Rd",
+          "direction": "northbound"
+        },
+        {
+          "id": "12125",
+          "name": "East River Rd & 77th Way",
+          "direction": "northbound"
+        },
+        {
+          "id": "12122",
+          "name": "East River Rd & Pearson Way",
+          "direction": "northbound"
+        },
+        {
+          "id": "12121",
+          "name": "East River Rd & 79th Way",
+          "direction": "northbound"
+        },
+        {
+          "id": "12117",
+          "name": "East River Rd & Liberty St",
+          "direction": "northbound"
+        },
+        {
+          "id": "12113",
+          "name": "East River Rd & Fairmont St",
+          "direction": "northbound"
+        },
+        {
+          "id": "12110",
+          "name": "East River Rd & Hugo St",
+          "direction": "northbound"
+        },
+        {
+          "id": "10906",
+          "name": "East River Rd & Larch St NW",
+          "direction": "northbound"
+        },
+        {
+          "id": "10910",
+          "name": "East River Rd & 84th Lane NE",
+          "direction": "northbound"
+        },
+        {
+          "id": "10928",
+          "name": "85th Ave NW & Norway St NW",
+          "direction": "eastbound"
+        },
+        {
+          "id": "10930",
+          "name": "85th Ave NW & Evergreen Blvd",
+          "direction": "eastbound"
+        },
+        {
+          "id": "10932",
+          "name": "85th Ave NW & Cottonwood St",
+          "direction": "eastbound"
+        },
+        {
+          "id": "56934",
+          "name": "85th Ave NE & Springbrook Dr NE",
+          "direction": "eastbound"
+        },
+        {
+          "id": "53418",
+          "name": "85th Ave NW & Cottonwood St",
+          "direction": "westbound"
+        },
+        {
+          "id": "10931",
+          "name": "85th Ave NW & Evergreen Blvd",
+          "direction": "westbound"
+        },
+        {
+          "id": "53761",
+          "name": "85th Ave NW & #455 Ryerson Co",
+          "direction": "westbound"
+        },
+        {
+          "id": "10929",
+          "name": "85th Ave NW & Norway St NW",
+          "direction": "westbound"
+        },
+        {
+          "id": "10911",
+          "name": "East River Rd & 85th Ave / 84th Lane",
+          "direction": "southbound"
+        },
+        {
+          "id": "10907",
+          "name": "East River Rd & Kimball St NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "12111",
+          "name": "East River Rd & Hugo St",
+          "direction": "southbound"
+        },
+        {
+          "id": "51258",
+          "name": "East River Rd & Ely St",
+          "direction": "southbound"
+        },
+        {
+          "id": "12116",
+          "name": "East River Rd & Liberty St",
+          "direction": "southbound"
+        },
+        {
+          "id": "12119",
+          "name": "East River Rd & Longfellow St NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "12123",
+          "name": "East River & Pearson Way/Craigbrook Way",
+          "direction": "southbound"
+        },
+        {
+          "id": "12124",
+          "name": "East River Rd & Stonybrook Way",
+          "direction": "southbound"
+        },
+        {
+          "id": "12127",
+          "name": "East River Rd & Rickard Rd",
+          "direction": "southbound"
+        },
+        {
+          "id": "12133"
+        },
+        {
+          "id": "57167"
+        },
+        {
+          "id": "12128"
+        }
+      ],
+      "riderAlternative": "Board at: East River Rd & Logan Pkwy - Stop #12133 (northbound); Northtown Transit Ctr Gate C - Stop #57167 (westbound)",
+      "detourDetails": "Northbound buses will travel regular route on East River Rd to Osborne Rd, right on Osborne Rd, left on University Ave, right on 85th Ave and resume regular route.",
+      "activePeriod": {
+        "start": "2026-10-17T21:00:00.000Z",
+        "end": "2026-10-18T03:00:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/827",
+      "updatedAt": "2026-10-13T15:02:34.000Z",
+      "rawHeader": "Route 827 detoured off East River Road from Osborne Rd to 85th Ave from 4:00 PM to 10:00 PM on Sat Oct 17 due to Pumpkin Night in the Park",
+      "rawDescription": "For northbound Route 827 get on/off buses at:\r\nEast River Rd & Logan Pkwy - Stop #12133 (northbound)\r\nNorthtown Transit Ctr Gate C - Stop #57167 (westbound)\r\n\nFor southbound Route 827 get on/off buses at:\r\nNorthtown Transit Ctr Gate C - Stop #57167 (westbound)\r\nEast River Rd & Osborne Rd NE - Stop #12128 (southbound)\r\n\nNorthbound buses will travel regular route on East River Rd to Osborne Rd, right on Osborne Rd, left on University Ave, right on 85th Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 85th Ave to University Ave, left on University Ave, right on Osborne Rd, left on East River Rd and resume regular route.\r\n\nAffected stops:\r\nEast River Rd & Osborne Rd NE - Stop #12129 (northbound)\r\nEast River Rd & Rickard Rd - Stop #12126 (northbound)\r\nEast River Rd & 77th Way - Stop #12125 (northbound)\r\nEast River Rd & Pearson Way - Stop #12122 (northbound)\r\nEast River Rd & 79th Way - Stop #12121 (northbound)\r\nEast River Rd & Liberty St - Stop #12117 (northbound)\r\nEast River Rd & Fairmont St - Stop #12113 (northbound)\r\nEast River Rd & Hugo St - Stop #12110 (northbound)\r\nEast River Rd & Larch St NW - Stop #10906 (northbound)\r\nEast River Rd & 84th Lane NE - Stop #10910 (northbound)\r\n85th Ave NW & Norway St NW - Stop #10928 (eastbound)\r\n85th Ave NW & Evergreen Blvd - Stop #10930 (eastbound)\r\n85th Ave NW & Cottonwood St - Stop #10932 (eastbound)\r\n85th Ave NE & Springbrook Dr NE - Stop #56934 (eastbound)\r\n85th Ave NW & Cottonwood St - Stop #53418 (westbound)\r\n85th Ave NW & Evergreen Blvd - Stop #10931 (westbound)\r\n85th Ave NW & #455 Ryerson Co - Stop #53761 (westbound)\r\n85th Ave NW & Norway St NW - Stop #10929 (westbound)\r\nEast River Rd & 85th Ave / 84th Lane - Stop #10911 (southbound)\r\nEast River Rd & Kimball St NE - Stop #10907 (southbound)\r\nEast River Rd & Hugo St - Stop #12111 (southbound)\r\nEast River Rd & Ely St - Stop #51258 (southbound)\r\nEast River Rd & Liberty St - Stop #12116 (southbound)\r\nEast River Rd & Longfellow St NE - Stop #12119 (southbound)\r\nEast River & Pearson Way/Craigbrook Way - Stop #12123 (southbound)\r\nEast River Rd & Stonybrook Way - Stop #12124 (southbound)\r\nEast River Rd & Rickard Rd - Stop #12127 (southbound)"
     },
     {
       "id": "46251",
