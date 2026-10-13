@@ -2,122 +2,34 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-99-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-6-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-89-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-94-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-88-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-74-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-73-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-12T20:13:26.607Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-13T02:30:58.393Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (6) • **Route 11** (2) • **Route 14** (1) • **Route 18** (5) • **Route 22** (5) • **Route 22C** (1) • **Route 27** (3) • **Route 30** (1) • **Route 36** (2) • **Route 38** (2) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (1) • **METRO Blue Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (6) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 17W** (1) • **Route 18** (5) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 38** (2) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO B Line: Service Advisory
+### 🚨 Route 17, Route 17W: Eastbound 8:12 PM Trip Canceled (Blake Rd Station)
 
-- **Affected Routes**: `METRO B Line`
-- **Direction**: Both Directions
+- **Affected Routes**: `Route 17` `Route 17W`
+- **Direction**: Eastbound
 - **Severity**: `Critical`
-- **Corridors & Intersections**: 6th St & Jackson St; 6th St & Minnesota St; 6th St & Washington St
-- **Closed Stops**: Union Depot & Gate A1 (Stop #56100), Union Depot & Sibley Station (Stop #57419), 6th St & Jackson Station (Stop #57456), 6th St & Minnesota Station (Stop #57417), 6th St & Washington Station (Stop #11863), Smith & Kellogg Station (Stop #52760), John Ireland & Marshall Station (Stop #11888), Selby & Western Station (Stop #17031) *(+6 more)*
 
-**Summary**: Westbound B Line trip departing Union Depot at 2:30 PM will start from Marshall & Cleveland. Previous stops missed due to traffic
+**Summary**: Eastbound Route 17W trip departing Blake Rd Station at 8:12 PM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/bline)
+[Official Agency Advisory](https://www.metrotransit.org/route/17)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Westbound B Line trip departing Union Depot at 2:30 PM will start from Marshall & Cleveland. Previous stops missed due to traffic
-
-```text
-Affected stops:
-Union Depot & Gate A1 - Stop #56100 (eastbound)
-Union Depot & Sibley Station - Stop #57419 (northbound)
-6th St & Jackson Station - Stop #57456 (westbound)
-6th St & Minnesota Station - Stop #57417 (westbound)
-6th St & Washington Station - Stop #11863 (westbound)
-Smith & Kellogg Station - Stop #52760 (westbound)
-John Ireland & Marshall Station - Stop #11888 (southbound)
-Selby & Western Station - Stop #17031 (westbound)
-Selby & Dale Station - Stop #57338 (westbound)
-Selby & Victoria Station - Stop #17013 (westbound)
-Selby & Lexington Station - Stop #17005 (westbound)
-Selby & Hamline Station - Stop #16997 (westbound)
-Snelling & Dayton Station - Stop #17371 (northbound)
-Marshall & Fairview Station - Stop #57335 (westbound)
-```
-
-</details>
-
----
-
-### 🚨 METRO D Line: Service Advisory
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #4513, Stop #737, Stop #775, Stop #779, Stop #784, Stop #80138, Stop #620, Stop #639 *(+8 more)*
-
-**Summary**: Northbound D Line trip departing MOA Transit Station at 2:30 PM will start from Chicago & Lake St. Previous stops missed due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound D Line trip departing MOA Transit Station at 2:30 PM will start from Chicago & Lake St. Previous stops missed due to traffic
-
-</details>
-
----
-
-### 🚨 Route 22: Service Canceled
-
-- **Affected Routes**: `Route 22`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 9:11 AM and three other trips canceled today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/22)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 9:11 AM and three other trips canceled today due to traffic
-
-```text
-Affected northbound trips:
-departing VA Medical Center & Visitors Entrance at 10:53 AM
-departing VA Medical Center & Visitors Entrance at 2:17 PM
-
-Affected southbound trips:
-departing Brooklyn Ctr Transit Ctr Gate H at 9:11 AM
-departing Brooklyn Ctr Transit Ctr Gate H at 12:28 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 27: Westbound 3:20 PM Trip Canceled (32nd St E & 20th Ave S)
-
-- **Affected Routes**: `Route 27`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 27 trip departing 32nd St E & 20th Ave S at 3:20 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/27)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 27 trip departing 32nd St E & 20th Ave S at 3:20 PM canceled today
+**Header**: Eastbound Route 17W trip departing Blake Rd Station at 8:12 PM canceled today
 
 </details>
 
@@ -152,42 +64,6 @@ departing Westgate Station - Gate B at 2:34 PM
 departing Westgate Station - Gate B at 4:34 PM
 departing Westgate Station - Gate B at 6:35 PM
 departing Westgate Station - Gate B at 8:36 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 805: Service Canceled
-
-- **Affected Routes**: `Route 805`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
-departing 1st Ave S & Monroe St; 38 PM
-departing 1st Ave S & Monroe St; 36 PM
-departing 1st Ave S & Monroe St
-
-**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate D at 12:34 PM
-departing Northtown Transit Ctr Gate D at 2:34 PM
-departing Northtown Transit Ctr Gate D at 4:34 PM
-
-Affected southbound trips:
-departing 1st Ave S & Monroe St at 11:38 AM
-departing 1st Ave S & Monroe St at 1:38 PM
-departing 1st Ave S & Monroe St at 3:36 PM
-departing 1st Ave S & Monroe St at 5:38 PM
 ```
 
 </details>
@@ -256,7 +132,7 @@ Due to mechanical issues, both elevators at Franklin Ave Station are unavailable
 - **Affected Routes**: `METRO Blue Line`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Closed Stops**: Stop #53280, Stop #51436, Stop #51437, Stop #51405, Stop #53279, Stop #51420, Stop #51421, Stop #51422
+- **Closed Stops**: Stop #53280, Stop #51436, Stop #51437, Stop #51405, Stop #51420, Stop #51421, Stop #51422, Stop #53279
 
 **Summary**: Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Friday, Oct. 16 at 8 p.m.
 
@@ -2164,53 +2040,6 @@ Summit Ave & Dale St - Stop #10761 (eastbound)
 Get on/off buses at:
 Minnehaha Ave & St Albans St - Stop #15064 (eastbound)
 Dale St & Blair Ave - Stop #10740 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 67: Detour via Minnehaha Ave & Dale St
-
-- **Affected Routes**: `Route 67`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Minnehaha Ave & Dale St; Thomas Ave & Mackubin St; Thomas Ave & Kent St; Dale St & Blair Ave; Thomas Ave & Dale St
-- **Closed Stops**: Dale St & Blair Ave (Stop #10740), Thomas Ave & Dale St (Stop #41971), Thomas Ave & Kent St (Stop #18834), Thomas Ave & Dale St (Stop #18853), Dale St & Blair Ave (Stop #10700), Stop #15065, Stop #18835, Stop #18852 *(+1 more)*
-
-**Summary**: Route 67 detoured off Dale St from Minnehaha Ave to Thomas Ave and off Thomas Ave from Dale St to Kent St until further notice due to construction. Board at: Minnehaha Ave & Dale St - Stop #15065 (eastbound); Temporary stop on Kent St at Thomas Ave (southbound); Thomas Ave & Mackubin St - Stop #18835 (eastbound).
-
-> 💡 **Rider Action**: Board at: Minnehaha Ave & Dale St - Stop #15065 (eastbound); Temporary stop on Kent St at Thomas Ave (southbound); Thomas Ave & Mackubin St - Stop #18835 (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel the regular route on Minnehaha Ave to Dale St, continue on Minnehaha Ave, right on Kent St, left on Thomas Ave, and resume the regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/67)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 67 detoured off Dale St from Minnehaha Ave to Thomas Ave and off Thomas Ave from Dale St to Kent St until further notice due to construction
-
-```text
-For eastbound Route 67 get on/off buses at:
-Minnehaha Ave & Dale St - Stop #15065 (eastbound)
-Temporary stop on Kent St at Thomas Ave (southbound)
-Thomas Ave & Mackubin St - Stop #18835 (eastbound)
-
-For westbound Route 67 get on/off buses at:
-Thomas Ave & Kent St - Stop #18852 (westbound)
-Minnehaha Ave & Dale St - Stop #15090 (westbound)
-
-Eastbound buses will travel the regular route on Minnehaha Ave to Dale St, continue on Minnehaha Ave, right on Kent St, left on Thomas Ave, and resume the regular route.
-
-Westbound buses will follow the regular route on Thomas Ave to Kent St, right on Kent St, left on Minnehaha Ave to Dale St, continue on Minnehaha Ave, and resume the regular route.
-
-Affected stops:
-Dale St & Blair Ave - Stop #10740 (southbound)
-Thomas Ave & Dale St - Stop #41971 (eastbound)
-Thomas Ave & Kent St - Stop #18834 (eastbound)
-Thomas Ave & Dale St - Stop #18853 (westbound)
-Dale St & Blair Ave - Stop #10700 (northbound)
 ```
 
 </details>
