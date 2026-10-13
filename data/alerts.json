@@ -1,72 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-13T02:30:58.393Z",
-    "totalAlerts": 94,
-    "criticalCount": 2,
+    "generatedAt": "2026-10-13T10:24:16.833Z",
+    "totalAlerts": 92,
+    "criticalCount": 0,
     "moderateCount": 88,
     "minorCount": 4,
-    "affectedRoutesCount": 73,
+    "affectedRoutesCount": 70,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "54125",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 17, Route 17W: Eastbound 8:12 PM Trip Canceled (Blake Rd Station)",
-      "summary": "Eastbound Route 17W trip departing Blake Rd Station at 8:12 PM canceled today",
-      "affectedRoutes": [
-        "Route 17",
-        "Route 17W"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-13T01:13:00.000Z",
-        "end": "2026-10-13T03:23:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-10-13T01:13:54.000Z",
-      "rawHeader": "Eastbound Route 17W trip departing Blake Rd Station at 8:12 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "54101",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 30: Service Canceled",
-      "summary": "Route 30 trip departing Westgate Station - Gate B at 2:34 PM and seven other trips canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 30"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing Knox Ave N & Golden Valley Rd",
-        "25 PM\ndeparting Knox Ave N & Golden Valley Rd"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-12T19:34:00.000Z",
-        "end": "2026-10-13T04:05:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-10-12T19:04:01.000Z",
-      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 2:34 PM and seven other trips canceled today due to traffic",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 3:25 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 5:25 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:25 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 9:25 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 2:34 PM\r\ndeparting Westgate Station - Gate B at 4:34 PM\r\ndeparting Westgate Station - Gate B at 6:35 PM\r\ndeparting Westgate Station - Gate B at 8:36 PM"
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -186,7 +130,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/closure",
-      "updatedAt": "2026-10-12T15:30:02.000Z",
+      "updatedAt": "2026-10-13T05:00:02.000Z",
       "rawHeader": "Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Friday, Oct. 16 at 8 p.m.",
       "rawDescription": "Starting at 8 p.m. on Friday, Oct. 16, buses will replace trains on the METRO Blue Line between Airport-Terminal 2 and Mall of America stations to allow for needed maintenance.\r\n\nPlease plan extra time for your trip. Replacement bus timing can vary and trips may take longer.\r\n\nTrain service will resume Monday, Oct. 19.\r\n\n Visit metrotransit.org/closure for bus boarding locations. \r\n\n\r\nAffected stops:\r\nMall of America Station (northbound)\r\n30th Ave Station (northbound)\r\nBloomington Central Station (northbound)\r\nAmerican Blvd Station (northbound)\r\nTerminal 2 Station (southbound)\r\nAmerican Blvd Station (southbound)\r\nBloomington Central Station (southbound)\r\n30th Ave Station (southbound)\r\nMall of America Station (southbound)"
     },
@@ -3251,7 +3195,7 @@
       "cause": "MAINTENANCE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/67",
-      "updatedAt": "2026-10-12T05:00:01.000Z",
+      "updatedAt": "2026-10-13T05:00:01.000Z",
       "rawHeader": "Route 67 detoured off Franklin Ave from Seymour Ave to Emerald St beginning Tue Oct 13 at 6:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off buses at:\r\nFranklin Ave SE & Seymour Ave - Stop #52062 (eastbound)\r\nFranklin Ave & Berry St - Stop #54099 (eastbound)\r\n\nEastbound buses will travel east on Franklin Ave to Seymour Ave, right on Seymour, left on Sharon Ave, left on Emerald St, right on Franklin and resume regular route\r\n\nWestbound buses not affected\r\n\nAffected stops:\r\nFranklin Ave SE & Bedford St - Stop #52063 (eastbound)"
     },
@@ -4769,7 +4713,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/534",
-      "updatedAt": "2026-10-12T13:58:49.000Z",
+      "updatedAt": "2026-10-13T05:00:02.000Z",
       "rawHeader": "Route 534 detoured off 98th St W from Penn Ave S to France Ave S beginning Wed Oct 14 at 5:00 AM until further notice",
       "rawDescription": "For eastbound Route 534 get on/off buses at:\r\n98th St W & Normandale College - Stop #2078 (eastbound)\r\nPenn Ave S & 98th St W - Stop #53773 (northbound)\r\n\nFor westbound Route 534 get on/off buses at:\r\nPenn Ave S & 98th St W - Stop #57518 (southbound)\r\n98th St W & Normandale College - Stop #2069 (westbound)\r\n\nEastbound buses will travel the regular route on 98th St W to France Ave S, right on France Ave S, left on 102nd St W, left on Penn Ave S to 98th St W, continue on Penn Ave S, and resume the regular route.\r\n\nWestbound buses will travel the regular route on Penn Ave S to 98th St W, continue on Penn Ave S, right on 102nd St W, right on France Ave S, left on 98th St W, and resume the regular route.\r\n\nAffected stops:\r\n98th St W & Chowen Ave S - Stop #2079 (eastbound)\r\n98th St W & Abbott Ave S - Stop #2081 (eastbound)\r\n98th St W & Xerxes Ave S - Stop #2082 (eastbound)\r\n98th St W & Upton Circle - Stop #1734 (eastbound)\r\n98th St W & Russell Ave S - Stop #1735 (eastbound)\r\n98th St W & Russell Ave S - Stop #1626 (westbound)\r\n98th St W & Upton Rd - Stop #1627 (westbound)\r\n98th St W & Xerxes Ave S - Stop #2065 (westbound)\r\n98th St W & Abbott Ave S - Stop #2066 (westbound)"
     },

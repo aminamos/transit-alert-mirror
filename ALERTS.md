@@ -2,73 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-94-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-92-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-88-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-73-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-70-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-13T02:30:58.393Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-13T10:24:16.833Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (6) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 17W** (1) • **Route 18** (5) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 38** (2) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (1) • **METRO Blue Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (6) • **Route 11** (2) • **Route 14** (1) • **Route 18** (5) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (2) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 65** (1) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 804** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 17, Route 17W: Eastbound 8:12 PM Trip Canceled (Blake Rd Station)
-
-- **Affected Routes**: `Route 17` `Route 17W`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-
-**Summary**: Eastbound Route 17W trip departing Blake Rd Station at 8:12 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/17)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 17W trip departing Blake Rd Station at 8:12 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 30: Service Canceled
-
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 25 PM
-departing Knox Ave N & Golden Valley Rd
-
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 2:34 PM and seven other trips canceled today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 30 trip departing Westgate Station - Gate B at 2:34 PM and seven other trips canceled today due to traffic
-
-```text
-Affected eastbound trips:
-departing Knox Ave N & Golden Valley Rd at 3:25 PM
-departing Knox Ave N & Golden Valley Rd at 5:25 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 7:25 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 9:25 PM
-
-Affected westbound trips:
-departing Westgate Station - Gate B at 2:34 PM
-departing Westgate Station - Gate B at 4:34 PM
-departing Westgate Station - Gate B at 6:35 PM
-departing Westgate Station - Gate B at 8:36 PM
-```
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
