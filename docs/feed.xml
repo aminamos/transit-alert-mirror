@@ -4,53 +4,62 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Tue, 13 Oct 2026 18:06:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 23:14:53 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO D Line: Northbound 11:44 AM Trip Canceled (MOA Transit Station Gate A)</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-54140-2026-10-13T17:52:18.000Z</guid>
-      <pubDate>Tue, 13 Oct 2026 17:52:18 GMT</pubDate>
+      <title>[Critical] Route 54, Route 54M: Eastbound 4:38 PM Trip Canceled (MOA Transit Station Gate C)</title>
+      <link>https://www.metrotransit.org/route/54</link>
+      <guid isPermaLink="false">Metro Transit-54162-2026-10-13T22:18:23.000Z</guid>
+      <pubDate>Tue, 13 Oct 2026 22:18:23 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Northbound D Line trip departing MOA Transit Station Gate A at 11:44 AM canceled today due to police activity</description>
+      <category>Route 54, Route 54M</category>
+      <description>Eastbound Route 54M trip departing MOA Transit Station Gate C at 4:38 PM canceled today due to traffic</description>
     </item>
     <item>
-      <title>[Critical] METRO D Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-54141-2026-10-13T17:54:37.000Z</guid>
-      <pubDate>Tue, 13 Oct 2026 17:54:37 GMT</pubDate>
+      <title>[Critical] Route 61: Eastbound 4:42 PM Trip Canceled (Ramp A/7th St Transit Center)</title>
+      <link>https://www.metrotransit.org/route/61</link>
+      <guid isPermaLink="false">Metro Transit-54164-2026-10-13T22:56:27.000Z</guid>
+      <pubDate>Tue, 13 Oct 2026 22:56:27 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 12:13 PM will start from 7th &amp; Olson Hwy. Previous stops missed due to police activity</description>
+      <category>Route 61</category>
+      <description>Eastbound Route 61 trip departing Ramp A/7th St Transit Center at 4:42 PM canceled from Larpenteur &amp; Cleveland at 5:08 PM today due to collision</description>
     </item>
     <item>
-      <title>[Critical] Route 14: Southbound 10:58 AM Trip Canceled (Robbinsdale Transit Center &amp; Gate A)</title>
-      <link>https://www.metrotransit.org/route/14</link>
-      <guid isPermaLink="false">Metro Transit-54138-2026-10-13T17:06:40.000Z</guid>
-      <pubDate>Tue, 13 Oct 2026 17:06:40 GMT</pubDate>
+      <title>[Critical] Route 71: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/71</link>
+      <guid isPermaLink="false">Metro Transit-54149-2026-10-13T18:56:19.000Z</guid>
+      <pubDate>Tue, 13 Oct 2026 18:56:19 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 14</category>
-      <description>Southbound Route 14 trip departing Robbinsdale Transit Center &amp; Gate A at 10:58 AM canceled today due to traffic</description>
+      <category>Route 71</category>
+      <description>Route 71 trip departing Market Place Dr &amp; The Marketplace Ctr at 1:14 PM and three other trips canceled today due to collision</description>
     </item>
     <item>
-      <title>[Critical] Route 18: Northbound 12:23 PM Trip Canceled (Nicollet Ave S &amp; 66th St E)</title>
-      <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-54142-2026-10-13T17:55:43.000Z</guid>
-      <pubDate>Tue, 13 Oct 2026 17:55:43 GMT</pubDate>
+      <title>[Critical] Route 72: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/72</link>
+      <guid isPermaLink="false">Metro Transit-54163-2026-10-13T22:53:45.000Z</guid>
+      <pubDate>Tue, 13 Oct 2026 22:53:45 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 18</category>
-      <description>Northbound Route 18 trip departing Nicollet Ave S &amp; 66th St E at 12:23 PM canceled today due to traffic</description>
+      <category>Route 72</category>
+      <description>Route 72 trips departing Sun Ray Transit Center &amp; Gate D at 4:48 PM and departing Pascal St N &amp; Central Ave W at 5:50 PM canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Critical] Route 223: Service Canceled</title>
       <link>https://www.metrotransit.org/route/223</link>
-      <guid isPermaLink="false">Metro Transit-54139-2026-10-13T17:16:15.000Z</guid>
-      <pubDate>Tue, 13 Oct 2026 17:16:15 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54139-2026-10-13T19:41:00.000Z</guid>
+      <pubDate>Tue, 13 Oct 2026 19:41:00 GMT</pubDate>
       <category>Critical</category>
       <category>Route 223</category>
       <description>Route 223 trip departing Maplewood Mall Transit Center &amp; Gate A at 3:11 PM and six other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 721: Southbound 5:32 PM Trip Canceled (Hennepin Technical College &amp; Main Door)</title>
+      <link>https://www.metrotransit.org/route/721</link>
+      <guid isPermaLink="false">Metro Transit-54165-2026-10-13T22:57:23.000Z</guid>
+      <pubDate>Tue, 13 Oct 2026 22:57:23 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 721</category>
+      <description>Southbound Route 721 trip departing Hennepin Technical College &amp; Main Door at 5:32 PM canceled today due to traffic</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -60,6 +69,15 @@
       <category>Moderate</category>
       <category>METRO A Line</category>
       <description>METRO A Line detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
+    </item>
+    <item>
+      <title>[Moderate] METRO A Line: Detour via Ford Pkwy (Fairview Ave to Davern St)</title>
+      <link>https://www.metrotransit.org/route/aline</link>
+      <guid isPermaLink="false">Metro Transit-54156-2026-10-13T19:52:49.000Z</guid>
+      <pubDate>Tue, 13 Oct 2026 19:52:49 GMT</pubDate>
+      <category>Moderate</category>
+      <category>METRO A Line</category>
+      <description>A Line detoured off Ford Pkwy from Fairview Ave to Davern St beginning Mon Oct 19 at 6:00 AM until further notice. Board at: Ford &amp; Kenneth Station - Stop #4283 (eastbound); Snelling &amp; Highland Station - Stop #56114 (northbound). | Action: Board at: Ford &amp; Kenneth Station - Stop #4283 (eastbound); Snelling &amp; Highland Station - Stop #56114 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] METRO Blue Line: Service Advisory</title>
@@ -78,6 +96,15 @@
       <category>Moderate</category>
       <category>METRO Blue Line</category>
       <description>Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Friday, Oct. 16 at 8 p.m.</description>
+    </item>
+    <item>
+      <title>[Moderate] Elevators at Blue Line Lake St - Midtown Station Unavailable until Further Notice</title>
+      <link>https://www.metrotransit.org/route/blue</link>
+      <guid isPermaLink="false">Metro Transit-54145-2026-10-13T20:25:21.000Z</guid>
+      <pubDate>Tue, 13 Oct 2026 20:25:21 GMT</pubDate>
+      <category>Moderate</category>
+      <category>METRO Blue Line</category>
+      <description>Elevators at Blue Line Lake St - Midtown Station unavailable until further notice</description>
     </item>
     <item>
       <title>[Moderate] METRO Gold Line: Detour via 6th St &amp; Jackson St</title>
@@ -692,6 +719,15 @@
       <description>Route 542 detoured off American Blvd from Lyndale Ave to Knox Ave beginning Mon Aug 17 at 4:00 AM until further notice due to construction. Board at: American Blvd W &amp; Home Depot - Stop #57108 (westbound); American Blvd &amp; Knox Ave S - Stop #41217 (westbound). | Action: Board at: American Blvd W &amp; Home Depot - Stop #57108 (westbound); American Blvd &amp; Knox Ave S - Stop #41217 (westbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 542: Detour via Route 542 detoured off 83rd St &amp; 84th St</title>
+      <link>https://www.metrotransit.org/route/542</link>
+      <guid isPermaLink="false">Metro Transit-54146-2026-10-13T18:24:15.000Z</guid>
+      <pubDate>Tue, 13 Oct 2026 18:24:15 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 542</category>
+      <description>Route 542 detoured off 83rd St/84th St from Norman Center Dr to Normandale Lake Blvd from Thu Oct 15 at 7:00 PM to Fri Oct 16 at 6:00 AM due to construction. Board at: Norman Center Dr &amp; 83rd St W - Stop #57476 (southbound); 82nd St W &amp; American Blvd - Stop #1510 (eastbound). | Action: Board at: Norman Center Dr &amp; 83rd St W - Stop #57476 (southbound); 82nd St W &amp; American Blvd - Stop #1510 (eastbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 578: Detour via 2nd Ave S &amp; Washington Ave S</title>
       <link>https://www.metrotransit.org/route/578</link>
       <guid isPermaLink="false">Metro Transit-53905-2026-10-07T15:40:39.000Z</guid>
@@ -773,15 +809,6 @@
       <description>West Broadway &amp; 82nd Ave N - Stop #44660 (southbound) is closed for Routes 723 and 724 until further notice due to construction. Board at: West Broadway &amp; College Park Dr - Stop #44659 (southbound); West Broadway &amp; Dragon Star - Stop #53152 (southbound). | Action: Board at: West Broadway &amp; College Park Dr - Stop #44659 (southbound); West Broadway &amp; Dragon Star - Stop #53152 (southbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 755, METRO C Line: Stop Closed at 7th St N &amp; Twins Way</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54143-2026-10-13T18:05:05.000Z</guid>
-      <pubDate>Tue, 13 Oct 2026 18:05:05 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 755, METRO C Line</category>
-      <description>Olson &amp; 7th St Station - Stop #17856 (westbound) is closed for C Line and Route 755 beginning at 12:58 PM until later today due to police activity. Board at: 7th St N &amp; Twins Way - Stop #2875 (westbound); Olson &amp; Penn Station - Stop #17840 (westbound). | Action: Board at: 7th St N &amp; Twins Way - Stop #2875 (westbound); Olson &amp; Penn Station - Stop #17840 (westbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 760, Route 763, Route 765, Route 766, Route 768: Detour via 3rd St S &amp; Nicollet Mall - St</title>
       <link>https://www.metrotransit.org/route/760</link>
       <guid isPermaLink="false">Metro Transit-50957-2026-09-15T12:58:13.000Z</guid>
@@ -816,6 +843,51 @@
       <category>Moderate</category>
       <category>Route 781, Route 784, Route 785, Route 850, Route 882, Route 888</category>
       <description>Routes 781 and five other routes detoured off 3rd St from Marquette Ave to I-94 and off I-94 from downtown Minneapolis to Lyndale Ave until further notice due to traffic congestion. Board at: 3rd St S &amp; Marquette Ave S - Stop #52832 (westbound). | Action: Board at: 3rd St S &amp; Marquette Ave S - Stop #52832 (westbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 802: Detour via East River Rd &amp; 7th Ave</title>
+      <link>https://www.metrotransit.org/route/802</link>
+      <guid isPermaLink="false">Metro Transit-54150-2026-10-13T19:26:17.000Z</guid>
+      <pubDate>Tue, 13 Oct 2026 19:26:17 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 802</category>
+      <description>Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 6:00 PM to 8:30 PM on Sat Oct 17 due to Anoka Light Up the Night Parade. Board at: East River Rd &amp; 7th Ave - Stop #12066 (northbound); Green Haven Pkwy &amp; Fairoak Ave - Stop #57211 (northbound). | Action: Board at: East River Rd &amp; 7th Ave - Stop #12066 (northbound); Green Haven Pkwy &amp; Fairoak Ave - Stop #57211 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 802: Detour via East River Rd &amp; 7th Ave</title>
+      <link>https://www.metrotransit.org/route/802</link>
+      <guid isPermaLink="false">Metro Transit-54151-2026-10-13T19:37:27.000Z</guid>
+      <pubDate>Tue, 13 Oct 2026 19:37:27 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 802</category>
+      <description>Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 12:30 PM to 3:00 PM on Fri Oct 23 due to Anoka Big Parade of Little People. Board at: East River Rd &amp; 7th Ave - Stop #12066 (northbound); Green Haven Pkwy &amp; Fairoak Ave - Stop #57211 (northbound). | Action: Board at: East River Rd &amp; 7th Ave - Stop #12066 (northbound); Green Haven Pkwy &amp; Fairoak Ave - Stop #57211 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 802: Detour via East River Rd &amp; 7th Ave</title>
+      <link>https://www.metrotransit.org/route/802</link>
+      <guid isPermaLink="false">Metro Transit-54153-2026-10-13T19:46:53.000Z</guid>
+      <pubDate>Tue, 13 Oct 2026 19:46:53 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 802</category>
+      <description>Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 12:00 PM to 5:00 PM on Sat Oct 24 due to Anoka Grand Day Parade. Board at: East River Rd &amp; 7th Ave - Stop #12066 (northbound); Green Haven Pkwy &amp; Fairoak Ave - Stop #57211 (northbound). | Action: Board at: East River Rd &amp; 7th Ave - Stop #12066 (northbound); Green Haven Pkwy &amp; Fairoak Ave - Stop #57211 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 805: Detour via Harrison St &amp; 3rd Ave</title>
+      <link>https://www.metrotransit.org/route/805</link>
+      <guid isPermaLink="false">Metro Transit-54152-2026-10-13T19:44:47.000Z</guid>
+      <pubDate>Tue, 13 Oct 2026 19:44:47 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 805</category>
+      <description>Route 805 detoured off 3rd Ave from Van Buren Ave to Madison St from 12:30 PM to 3:00 PM on Fri Oct 23 due to Anoka Big Parade of Little People. Board at: Harrison St &amp; 3rd Ave - Stop #51301 (westbound); 3rd Ave &amp; Van Buren Ave / Harrison St - Stop #50711 (northbound). | Action: Board at: Harrison St &amp; 3rd Ave - Stop #51301 (westbound); 3rd Ave &amp; Van Buren Ave / Harrison St - Stop #50711 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 805: Detour via Harrison St &amp; 3rd Ave</title>
+      <link>https://www.metrotransit.org/route/805</link>
+      <guid isPermaLink="false">Metro Transit-54154-2026-10-13T19:47:57.000Z</guid>
+      <pubDate>Tue, 13 Oct 2026 19:47:57 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 805</category>
+      <description>Route 805 detoured off 3rd Ave from Van Buren Ave to Madison St from 12:00 PM to 5:00 PM on Sat Oct 24 due to Anoka Grand Day Parade. Board at: Harrison St &amp; 3rd Ave - Stop #51301 (westbound); 3rd Ave &amp; Van Buren Ave / Harrison St - Stop #50711 (northbound). | Action: Board at: Harrison St &amp; 3rd Ave - Stop #51301 (westbound); 3rd Ave &amp; Van Buren Ave / Harrison St - Stop #50711 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 827: Stop Closed at East River Rd &amp; 62nd Way</title>
