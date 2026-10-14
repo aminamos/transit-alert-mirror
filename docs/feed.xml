@@ -4,62 +4,35 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Wed, 14 Oct 2026 20:08:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 23:50:22 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 7: Southbound 2:18 PM Trip Canceled (Plymouth Ave &amp; Theo Wirth Pkwy)</title>
-      <link>https://www.metrotransit.org/route/7</link>
-      <guid isPermaLink="false">Metro Transit-54186-2026-10-14T19:00:06.000Z</guid>
-      <pubDate>Wed, 14 Oct 2026 19:00:06 GMT</pubDate>
+      <title>[Critical] METRO E Line: Southbound 4:49 PM Trip Canceled (Westgate Station - Gate A)</title>
+      <link>https://www.metrotransit.org/route/eline</link>
+      <guid isPermaLink="false">Metro Transit-54201-2026-10-14T22:19:31.000Z</guid>
+      <pubDate>Wed, 14 Oct 2026 22:19:31 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 7</category>
-      <description>Southbound Route 7 trip departing Plymouth Ave &amp; Theo Wirth Pkwy at 2:18 PM canceled today due to collision</description>
+      <category>METRO E Line</category>
+      <description>Southbound E Line trip departing Westgate Station - Gate A at 4:49 PM canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 10: Southbound 1:47 PM Trip Canceled (Northtown Transit Ctr Gate A)</title>
-      <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-54193-2026-10-14T19:40:50.000Z</guid>
-      <pubDate>Wed, 14 Oct 2026 19:40:50 GMT</pubDate>
+      <title>[Critical] Route 25: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/25</link>
+      <guid isPermaLink="false">Metro Transit-54196-2026-10-14T20:29:19.000Z</guid>
+      <pubDate>Wed, 14 Oct 2026 20:29:19 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 10</category>
-      <description>Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 1:47 PM canceled from Central &amp; University at 2:28 PM today due to traffic</description>
+      <category>Route 25</category>
+      <description>Route 25 trip departing Leamington Ramp &amp; Lower - Gate #7 at 1:36 PM and two other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 64: Eastbound 1:37 PM Trip Canceled (Smith &amp; 5th St Station)</title>
-      <link>https://www.metrotransit.org/route/64</link>
-      <guid isPermaLink="false">Metro Transit-54188-2026-10-14T19:09:32.000Z</guid>
-      <pubDate>Wed, 14 Oct 2026 19:09:32 GMT</pubDate>
+      <title>[Critical] Route 61: Westbound 5:08 PM Trip Canceled (Smith &amp; 5th St Station)</title>
+      <link>https://www.metrotransit.org/route/61</link>
+      <guid isPermaLink="false">Metro Transit-54202-2026-10-14T23:31:07.000Z</guid>
+      <pubDate>Wed, 14 Oct 2026 23:31:07 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 64</category>
-      <description>Eastbound Route 64 trip departing Smith &amp; 5th St Station at 1:37 PM canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 64: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/64</link>
-      <guid isPermaLink="false">Metro Transit-54191-2026-10-14T19:39:41.000Z</guid>
-      <pubDate>Wed, 14 Oct 2026 19:39:41 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 64</category>
-      <description>Westbound Route 64 trip departing Maplewood Mall Transit Center at 4:35 PM will start from Greenbrier &amp; Geranium. Previous stops missed</description>
-    </item>
-    <item>
-      <title>[Critical] Route 540: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/540</link>
-      <guid isPermaLink="false">Metro Transit-54189-2026-10-14T19:16:42.000Z</guid>
-      <pubDate>Wed, 14 Oct 2026 19:16:42 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 540</category>
-      <description>Eastbound Route 540 trip departing Normandale Lake Blvd &amp; 83rd St at 1:32 PM will start from 76th &amp; Knox. Previous stops missed due to traffic</description>
-    </item>
-    <item>
-      <title>[Critical] Route 760: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/760</link>
-      <guid isPermaLink="false">Metro Transit-54192-2026-10-14T20:06:00.000Z</guid>
-      <pubDate>Wed, 14 Oct 2026 20:06:00 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 760</category>
-      <description>Route 760 trips departing 12th St S &amp; Hennepin Ave S at 3:36 PM and departing 12th St S &amp; Hennepin Ave S at 4:36 PM canceled today</description>
+      <category>Route 61</category>
+      <description>Westbound Route 61 trip departing Smith &amp; 5th St Station at 5:08 PM canceled today due to traffic</description>
     </item>
     <item>
       <title>[Critical] Route 805: Service Canceled</title>
@@ -69,15 +42,6 @@
       <category>Critical</category>
       <category>Route 805</category>
       <description>Route 805 trip departing 1st Ave S &amp; Monroe St at 1:38 PM and four other trips canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 860: Northbound 3:37 PM Trip Canceled (Smith &amp; 5th St Station)</title>
-      <link>https://www.metrotransit.org/route/860</link>
-      <guid isPermaLink="false">Metro Transit-54190-2026-10-14T20:07:00.000Z</guid>
-      <pubDate>Wed, 14 Oct 2026 20:07:00 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 860</category>
-      <description>Northbound Route 860 trip departing Smith &amp; 5th St Station at 3:37 PM canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
