@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-14T04:38:54.212Z",
-    "totalAlerts": 98,
+    "generatedAt": "2026-10-14T10:02:25.263Z",
+    "totalAlerts": 97,
     "criticalCount": 0,
-    "moderateCount": 95,
+    "moderateCount": 94,
     "minorCount": 3,
     "affectedRoutesCount": 70,
     "agencies": [
@@ -177,42 +177,6 @@
       "updatedAt": "2026-10-13T05:00:02.000Z",
       "rawHeader": "Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Friday, Oct. 16 at 8 p.m.",
       "rawDescription": "Starting at 8 p.m. on Friday, Oct. 16, buses will replace trains on the METRO Blue Line between Airport-Terminal 2 and Mall of America stations to allow for needed maintenance.\r\n\nPlease plan extra time for your trip. Replacement bus timing can vary and trips may take longer.\r\n\nTrain service will resume Monday, Oct. 19.\r\n\n Visit metrotransit.org/closure for bus boarding locations. \r\n\n\r\nAffected stops:\r\nMall of America Station (northbound)\r\n30th Ave Station (northbound)\r\nBloomington Central Station (northbound)\r\nAmerican Blvd Station (northbound)\r\nTerminal 2 Station (southbound)\r\nAmerican Blvd Station (southbound)\r\nBloomington Central Station (southbound)\r\n30th Ave Station (southbound)\r\nMall of America Station (southbound)"
-    },
-    {
-      "id": "54145",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Elevators at Blue Line Lake St - Midtown Station Unavailable until Further Notice",
-      "summary": "Elevators at Blue Line Lake St - Midtown Station unavailable until further notice",
-      "affectedRoutes": [
-        "METRO Blue Line"
-      ],
-      "direction": "All",
-      "intersections": [],
-      "closedStopIds": [
-        "51428",
-        "51413"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "51428"
-        },
-        {
-          "id": "51413"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-13T18:13:00.000Z",
-        "end": "2026-10-14T06:37:23.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "ACCESSIBILITY_ISSUE",
-      "url": "https://www.metrotransit.org/route/blue",
-      "updatedAt": "2026-10-13T20:25:21.000Z",
-      "rawHeader": "Elevators at Blue Line Lake St - Midtown Station unavailable until further notice",
-      "rawDescription": "There is currently no elevator service at Lake St.-Midtown Station. ADA customers should get off Blue Line trains at Franklin Ave Station or 38th St Station and take local bus service to Lake Street Midtown Station until the issue is resolved. We apologize for the inconvenience."
     },
     {
       "id": "50989",
@@ -4678,7 +4642,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/534",
-      "updatedAt": "2026-10-13T17:39:49.000Z",
+      "updatedAt": "2026-10-14T09:30:01.000Z",
       "rawHeader": "Route 534 detoured off 98th St W from Penn Ave S to France Ave S beginning Wed Oct 14 at 5:00 AM until further notice",
       "rawDescription": "For eastbound Route 534 get on/off buses at:\r\n98th St W & Normandale College - Stop #2078 (eastbound)\r\nPenn Ave S & 98th St W - Stop #53773 (northbound)\r\n\nFor westbound Route 534 get on/off buses at:\r\nPenn Ave S & 98th St W - Stop #57518 (southbound)\r\n98th St W & Normandale College - Stop #2069 (westbound)\r\n\nEastbound buses will travel the regular route on 98th St W to France Ave S, right on France Ave S, left on 102nd St W, left on Penn Ave S to 98th St W, continue on Penn Ave S, and resume the regular route.\r\n\nWestbound buses will travel the regular route on Penn Ave S to 98th St W, continue on Penn Ave S, right on 102nd St W, right on France Ave S, left on 98th St W, and resume the regular route.\r\n\nAffected stops:\r\n98th St W & Chowen Ave S - Stop #2079 (eastbound)\r\n98th St W & Abbott Ave S - Stop #2081 (eastbound)\r\n98th St W & Xerxes Ave S - Stop #2082 (eastbound)\r\n98th St W & Upton Circle - Stop #1734 (eastbound)\r\n98th St W & Russell Ave S - Stop #1735 (eastbound)\r\n98th St W & Russell Ave S - Stop #1626 (westbound)\r\n98th St W & Upton Rd - Stop #1627 (westbound)\r\n98th St W & Xerxes Ave S - Stop #2065 (westbound)\r\n98th St W & Abbott Ave S - Stop #2066 (westbound)"
     },
@@ -5002,7 +4966,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/542",
-      "updatedAt": "2026-10-13T18:24:15.000Z",
+      "updatedAt": "2026-10-14T05:00:01.000Z",
       "rawHeader": "Route 542 detoured off 83rd St/84th St from Norman Center Dr to Normandale Lake Blvd from Thu Oct 15 at 7:00 PM to Fri Oct 16 at 6:00 AM due to construction",
       "rawDescription": "For eastbound Route 542 get on/off buses at:\r\nNorman Center Dr & 83rd St W - Stop #57476 (southbound)\r\n82nd St W & American Blvd - Stop #1510 (eastbound)\r\n\nFor westbound Route 542 get on/off buses at:\r\n82nd St W & American Blvd - Stop #1483 (westbound)\r\nNormandale Lake Blvd & 83rd St / 84th St - Stop #53052 (southbound)\r\n\nEastbound buses will travel regular route on 83rd St to Normandale Lake Blvd, right on Normandale Lake Blvd, right on American Blvd, left on American Blvd and resume regular route.\r\n\nWestbound buses will travel regular route on American Blvd to American Blvd, right on American Blvd, left on Normandale Lake Blvd and layover on Normandale Lake Blvd at 83rd St.\r\n\nAffected stops:\r\nNorman Center Dr & 83rd St W - Stop #57476 (southbound)\r\nNormandale Lake Blvd & 83rd St / 84th St - Stop #53052 (southbound)\r\nNorman Center Dr & 84th St W - Stop #48164 (northbound)"
     },
