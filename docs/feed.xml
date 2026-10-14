@@ -4,9 +4,18 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Wed, 14 Oct 2026 10:02:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 15:47:23 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] Route 17: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/17</link>
+      <guid isPermaLink="false">Metro Transit-54179-2026-10-14T14:23:51.000Z</guid>
+      <pubDate>Wed, 14 Oct 2026 14:23:51 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 17</category>
+      <description>Eastbound Route 17 trip departing Blake Rd Station at 9:31 AM will start from Uptown Transit Station. Previous stops missed due to traffic</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -69,6 +78,15 @@
       <category>Moderate</category>
       <category>Route 3, Route 3A</category>
       <description>Route 3A detoured off Maryland Ave from Galtier St to Rice St and off Rice St from Maryland Ave to Como Ave beginning Mon Apr 6 at 4:00 AM until further notice due to construction. Board at: Maryland Ave &amp; Galtier St - Stop #5571 (eastbound); Temporary stop on Galtier St &amp; Cook Ave (southbound); Temporary stop on Galtier St &amp; Front Ave (southbound). | Action: Board at: Maryland Ave &amp; Galtier St - Stop #5571 (eastbound); Temporary stop on Galtier St &amp; Cook Ave (southbound); Temporary stop on Galtier St &amp; Front Ave (southbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 3, Route 62, Route 67: Detour via 11th St W &amp; St Peter St</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-54181-2026-10-14T15:43:11.000Z</guid>
+      <pubDate>Wed, 14 Oct 2026 15:43:11 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 3, Route 62, Route 67</category>
+      <description>Routes 3, 62 and 67 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work. Board at: 11th St W &amp; St Peter St - Stop #49450 (eastbound); Cedar St &amp; 7th Place / 6th St - Stop #20013 (southbound). | Action: Board at: 11th St W &amp; St Peter St - Stop #49450 (eastbound); Cedar St &amp; 7th Place / 6th St - Stop #20013 (southbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 7: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -629,6 +647,15 @@
       <description>77th St W &amp; Nicollet Ave S - Stop #48617 (eastbound) and 77th St E &amp; Nicollet Ave S - Stop #48627 (westbound) are closed for Route 540 until further notice due to construction. Board at: 77th St W &amp; Pillsbury Ave S - Stop #48616 (eastbound); 77th St E &amp; 2nd Ave S - Stop #48618 (eastbound). | Action: Board at: 77th St W &amp; Pillsbury Ave S - Stop #48616 (eastbound); 77th St E &amp; 2nd Ave S - Stop #48618 (eastbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 540, Route 542: Detour via Norman Center Dr &amp; 83rd St W</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-54180-2026-10-14T14:43:20.000Z</guid>
+      <pubDate>Wed, 14 Oct 2026 14:43:20 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 540, Route 542</category>
+      <description>Routes 540 and 542 detoured off 84th St from Normandale Lake Blvd to Norman Center Dr from Thu Oct 15 at 7:00 PM to Fri Oct 16 at 6:00 AM. Board at: Norman Center Dr &amp; 83rd St W - Stop #57476 (southbound). | Action: Board at: Norman Center Dr &amp; 83rd St W - Stop #57476 (southbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 542, Route 686: Stop Closed at American Blvd &amp; Lyndale Ave S</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
       <guid isPermaLink="false">Metro Transit-49795-2026-07-13T13:15:01.000Z</guid>
@@ -647,19 +674,10 @@
       <description>Route 542 detoured off American Blvd from Lyndale Ave to Knox Ave beginning Mon Aug 17 at 4:00 AM until further notice due to construction. Board at: American Blvd W &amp; Home Depot - Stop #57108 (westbound); American Blvd &amp; Knox Ave S - Stop #41217 (westbound). | Action: Board at: American Blvd W &amp; Home Depot - Stop #57108 (westbound); American Blvd &amp; Knox Ave S - Stop #41217 (westbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 542: Detour via Route 542 detoured off 83rd St &amp; 84th St</title>
-      <link>https://www.metrotransit.org/route/542</link>
-      <guid isPermaLink="false">Metro Transit-54146-2026-10-14T05:00:01.000Z</guid>
-      <pubDate>Wed, 14 Oct 2026 05:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 542</category>
-      <description>Route 542 detoured off 83rd St/84th St from Norman Center Dr to Normandale Lake Blvd from Thu Oct 15 at 7:00 PM to Fri Oct 16 at 6:00 AM due to construction. Board at: Norman Center Dr &amp; 83rd St W - Stop #57476 (southbound); 82nd St W &amp; American Blvd - Stop #1510 (eastbound). | Action: Board at: Norman Center Dr &amp; 83rd St W - Stop #57476 (southbound); 82nd St W &amp; American Blvd - Stop #1510 (eastbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 578: Detour via 2nd Ave S &amp; Washington Ave S</title>
       <link>https://www.metrotransit.org/route/578</link>
-      <guid isPermaLink="false">Metro Transit-53905-2026-10-07T15:40:39.000Z</guid>
-      <pubDate>Wed, 07 Oct 2026 15:40:39 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53905-2026-10-14T15:40:01.000Z</guid>
+      <pubDate>Wed, 14 Oct 2026 15:40:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 578</category>
       <description>Route 578 detoured off 2nd St S from 2nd Ave S to 3rd Ave S until further notice due to construction. Board at: 2nd Ave S &amp; Washington Ave S - Stop #19260 (northbound); Temporary terminal 2nd Ave S &amp; 2nd St S - Stop #19261 (northbound). | Action: Board at: 2nd Ave S &amp; Washington Ave S - Stop #19260 (northbound); Temporary terminal 2nd Ave S &amp; 2nd St S - Stop #19261 (northbound)</description>
@@ -708,6 +726,15 @@
       <category>Moderate</category>
       <category>Route 645</category>
       <description>Route 645 detoured off Ridgedale Dr from Cartway Lane to Plymouth Rd beginning Mon Sep 21 at 7:00 AM until further notice due to construction. Board at: Ridgedale Dr &amp; Target Entrance - Stop #7033 (eastbound); Ridgedale Dr &amp; Hennepin Service Center - Stop #7000 (eastbound). | Action: Board at: Ridgedale Dr &amp; Target Entrance - Stop #7033 (eastbound); Ridgedale Dr &amp; Hennepin Service Center - Stop #7000 (eastbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 645: Detour via I-394 (Dunwoody Blvd to 12th St)</title>
+      <link>https://www.metrotransit.org/route/645</link>
+      <guid isPermaLink="false">Metro Transit-54178-2026-10-14T13:49:48.000Z</guid>
+      <pubDate>Wed, 14 Oct 2026 13:49:48 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 645</category>
+      <description>Route 645 detoured off I-394 from Dunwoody Blvd to 12th St beginning Sat Oct 17 at 5:00 AM until further notice due to construction</description>
     </item>
     <item>
       <title>[Moderate] Route 673, Route 673B: Detour via Cedar Lake Rd &amp; Texas Ave</title>
@@ -852,6 +879,15 @@
       <category>Moderate</category>
       <category>Route 860</category>
       <description>Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction. Board at: Temporary stop on Grove St &amp; Lafayette Rd (eastbound); LaFayette Rd &amp; 8th St - Stop #11925 (southbound). | Action: Board at: Temporary stop on Grove St &amp; Lafayette Rd (eastbound); LaFayette Rd &amp; 8th St - Stop #11925 (southbound)</description>
+    </item>
+    <item>
+      <title>[Minor] Route 14 Service Advisory: New Bus Stops Have Been Added at Bloomington Ave &amp; 22nd St</title>
+      <link>https://www.metrotransit.org/route/14</link>
+      <guid isPermaLink="false">Metro Transit-54177-2026-10-14T13:45:15.000Z</guid>
+      <pubDate>Wed, 14 Oct 2026 13:45:15 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 14</category>
+      <description>Route 14 service advisory: New bus stops have been added at Bloomington Ave &amp; 22nd St</description>
     </item>
     <item>
       <title>[Minor] Route 64, Route 74: Service Advisory</title>

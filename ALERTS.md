@@ -2,21 +2,39 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-97-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-94-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-70-brightgreen)](#-routes-index)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-101-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-96-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-71-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-14T10:02:25.263Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-14T15:47:23.204Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (6) • **Route 11** (3) • **Route 14** (1) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (2) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (6) • **Route 11** (3) • **Route 14** (2) • **Route 17** (1) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (5) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (6) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (2) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 Route 17: Service Advisory
+
+- **Affected Routes**: `Route 17`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #4864, Stop #4866, Stop #5771, Stop #5773, Stop #5775, Stop #5778, Stop #5781, Stop #5784 *(+30 more)*
+
+**Summary**: Eastbound Route 17 trip departing Blake Rd Station at 9:31 AM will start from Uptown Transit Station. Previous stops missed due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/17)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 17 trip departing Blake Rd Station at 9:31 AM will start from Uptown Transit Station. Previous stops missed due to traffic
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -119,7 +137,7 @@ Due to mechanical issues, both elevators at Franklin Ave Station are unavailable
 - **Affected Routes**: `METRO Blue Line`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Closed Stops**: Stop #51436, Stop #51437, Stop #51405, Stop #53280, Stop #53279, Stop #51420, Stop #51421, Stop #51422
+- **Closed Stops**: Stop #51436, Stop #51437, Stop #53280, Stop #51405, Stop #53279, Stop #51420, Stop #51421, Stop #51422
 
 **Summary**: Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Friday, Oct. 16 at 8 p.m.
 
@@ -341,6 +359,44 @@ Rice St & Lawson Ave - Stop #10498 (northbound)
 Rice St & Geranium Ave - Stop #10501 (northbound)
 Maryland Ave & Rice St - Stop #47074 (westbound)
 Maryland Ave & Galtier St - Stop #5579 (westbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 3, Route 62, Route 67: Detour via 11th St W & St Peter St
+
+- **Affected Routes**: `Route 3` `Route 62` `Route 67`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Thu Oct 15 at 6:00 AM until further notice
+- **Corridors & Intersections**: 11th St W & St Peter St; Cedar St & 10th St; Cedar St & 7th St E; Cedar St (11th St to 7th St)
+- **Closed Stops**: Cedar St & 10th St (Stop #11912), Cedar St & 7th St E (Stop #57623), Stop #49450, Stop #20013
+
+**Summary**: Routes 3, 62 and 67 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work. Board at: 11th St W & St Peter St - Stop #49450 (eastbound); Cedar St & 7th Place / 6th St - Stop #20013 (southbound).
+
+> 💡 **Rider Action**: Board at: 11th St W & St Peter St - Stop #49450 (eastbound); Cedar St & 7th Place / 6th St - Stop #20013 (southbound)
+
+> 🔄 **Detour Path**: southbound buses will travel regular route on 11th St to Cedar St, continue on 11th St to Robert St, right on Robert, right on 7th St, left on Cedar St, and resume regular route.
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Routes 3, 62 and 67 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work
+
+```text
+Get on/off buses at:
+11th St W & St Peter St - Stop #49450 (eastbound)
+Cedar St & 7th Place / 6th St - Stop #20013 (southbound)
+
+Eastbound/southbound buses will travel regular route on 11th St to Cedar St, continue on 11th St to Robert St, right on Robert, right on 7th St, left on Cedar St, and resume regular route.
+
+Westbound/northbound buses will travel regular route.
+
+Affected stops:
+Cedar St & 10th St - Stop #11912 (southbound)
+Cedar St & 7th St E - Stop #57623 (southbound)
 ```
 
 </details>
@@ -3015,6 +3071,44 @@ For westbound Route 540 get on/off buses at:
 
 ---
 
+### ⚠️ Route 540, Route 542: Detour via Norman Center Dr & 83rd St W
+
+- **Affected Routes**: `Route 540` `Route 542`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Norman Center Dr & 83rd St W; American Blvd W & Normandale Lake Blvd; Norman Center Dr & 84th St W; Normandale Lake Blvd & 83rd St
+- **Closed Stops**: American Blvd W & Normandale Lake Blvd (Stop #53950), Norman Center Dr & 83rd St W (Stop #50735), Norman Center Dr & 84th St W (Stop #48164), Normandale Lake Blvd & 83rd St / 84th St (Stop #53052), Stop #57476
+
+**Summary**: Routes 540 and 542 detoured off 84th St from Normandale Lake Blvd to Norman Center Dr from Thu Oct 15 at 7:00 PM to Fri Oct 16 at 6:00 AM. Board at: Norman Center Dr & 83rd St W - Stop #57476 (southbound).
+
+> 💡 **Rider Action**: Board at: Norman Center Dr & 83rd St W - Stop #57476 (southbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on 83rd St to Normandale Lake Blvd, right on Normandale Lake Blvd, continue on Normandale Lake Blvd to American Blvd and resume regular route.
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Routes 540 and 542 detoured off 84th St from Normandale Lake Blvd to Norman Center Dr from Thu Oct 15 at 7:00 PM to Fri Oct 16 at 6:00 AM
+
+```text
+Get on/off buses at:
+Norman Center Dr & 83rd St W - Stop #57476 (southbound)
+
+Eastbound buses will travel regular route on 83rd St to Normandale Lake Blvd, right on Normandale Lake Blvd, continue on Normandale Lake Blvd to American Blvd and resume regular route.
+
+Westbound buses will travel regular route on 83rd St to Normandale Lake Blvd, right on Normandale Lake Blvd, continue on Normandale Lake Blvd to American Blvd and resume regular route.
+
+Affected stops:
+American Blvd W & Normandale Lake Blvd - Stop #53950 (westbound)
+Norman Center Dr & 83rd St W - Stop #50735 (northbound)
+Norman Center Dr & 84th St W - Stop #48164 (northbound)
+Normandale Lake Blvd & 83rd St / 84th St - Stop #53052 (southbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 542, Route 686: Stop Closed at American Blvd & Lyndale Ave S
 
 - **Affected Routes**: `Route 542` `Route 686`
@@ -3089,57 +3183,13 @@ American Blvd W & Fremont Ave S - Stop #57095 (westbound)
 
 ---
 
-### ⚠️ Route 542: Detour via Route 542 detoured off 83rd St & 84th St
-
-- **Affected Routes**: `Route 542`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Route 542 detoured off 83rd St & 84th St; Norman Center Dr & 83rd St W; 82nd St W & American Blvd; Normandale Lake Blvd & 83rd St; left on Normandale Lake Blvd & Normandale Lake Blvd
-- **Closed Stops**: Norman Center Dr & 83rd St W (Stop #57476), Normandale Lake Blvd & 83rd St / 84th St (Stop #53052), Norman Center Dr & 84th St W (Stop #48164), Stop #1510, Stop #1483
-
-**Summary**: Route 542 detoured off 83rd St/84th St from Norman Center Dr to Normandale Lake Blvd from Thu Oct 15 at 7:00 PM to Fri Oct 16 at 6:00 AM due to construction. Board at: Norman Center Dr & 83rd St W - Stop #57476 (southbound); 82nd St W & American Blvd - Stop #1510 (eastbound).
-
-> 💡 **Rider Action**: Board at: Norman Center Dr & 83rd St W - Stop #57476 (southbound); 82nd St W & American Blvd - Stop #1510 (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on 83rd St to Normandale Lake Blvd, right on Normandale Lake Blvd, right on American Blvd, left on American Blvd and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/542)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 542 detoured off 83rd St/84th St from Norman Center Dr to Normandale Lake Blvd from Thu Oct 15 at 7:00 PM to Fri Oct 16 at 6:00 AM due to construction
-
-```text
-For eastbound Route 542 get on/off buses at:
-Norman Center Dr & 83rd St W - Stop #57476 (southbound)
-82nd St W & American Blvd - Stop #1510 (eastbound)
-
-For westbound Route 542 get on/off buses at:
-82nd St W & American Blvd - Stop #1483 (westbound)
-Normandale Lake Blvd & 83rd St / 84th St - Stop #53052 (southbound)
-
-Eastbound buses will travel regular route on 83rd St to Normandale Lake Blvd, right on Normandale Lake Blvd, right on American Blvd, left on American Blvd and resume regular route.
-
-Westbound buses will travel regular route on American Blvd to American Blvd, right on American Blvd, left on Normandale Lake Blvd and layover on Normandale Lake Blvd at 83rd St.
-
-Affected stops:
-Norman Center Dr & 83rd St W - Stop #57476 (southbound)
-Normandale Lake Blvd & 83rd St / 84th St - Stop #53052 (southbound)
-Norman Center Dr & 84th St W - Stop #48164 (northbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 578: Detour via 2nd Ave S & Washington Ave S
 
 - **Affected Routes**: `Route 578`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: 2nd Ave S & Washington Ave S; Temporary terminal 2nd Ave S & 2nd St S; 2nd St S & 3rd Ave S; 2nd St S (2nd Ave S to 3rd Ave S)
-- **Closed Stops**: 2nd St S & 3rd Ave S (Stop #53341), Stop #19260, Stop #19261
+- **Corridors & Intersections**: 2nd Ave S & Washington Ave S; Temporary terminal 2nd Ave S & 2nd St S; Marquette Ave & 2nd St S; 2nd St S & 3rd Ave S; 2nd St S (2nd Ave S to 3rd Ave S)
+- **Closed Stops**: 2nd St S & 3rd Ave S (Stop #53341), Stop #19260, Stop #19261, Stop #19238
 
 **Summary**: Route 578 detoured off 2nd St S from 2nd Ave S to 3rd Ave S until further notice due to construction. Board at: 2nd Ave S & Washington Ave S - Stop #19260 (northbound); Temporary terminal 2nd Ave S & 2nd St S - Stop #19261 (northbound).
 
@@ -3155,13 +3205,15 @@ Norman Center Dr & 84th St W - Stop #48164 (northbound)
 **Header**: Route 578 detoured off 2nd St S from 2nd Ave S to 3rd Ave S until further notice due to construction
 
 ```text
+Alternate stops updated 10/14826 at 8:15 AM.
+
 For northbound Route 578 get on/off buses at:
 2nd Ave S & Washington Ave S - Stop #19260 (northbound)
 Temporary terminal 2nd Ave S & 2nd St S - Stop #19261 (northbound)
 
 For southbound Route 578 get on/off buses at:
 Temporary terminal 2nd Ave S & 2nd St S - Stop #19261 (northbound)
-2nd St S & 3rd Ave S - Stop #53341 (eastbound)
+Marquette Ave & 2nd St S - Stop #19238 (southbound)
 
 Northbound buses will travel the regular route on 2nd Ave S to 2nd St S and terminate.
 
@@ -3379,6 +3431,37 @@ Ridgedale Dr & Ridgehaven / Cartway Lane - Stop #7034 (southbound)
 Ridgedale Dr & Cartway Lane - Stop #7035 (southbound)
 Ridgedale Dr & Plymouth Rd / Cartway Ln - Stop #49391 (northbound)
 Ridgedale Dr & Cartway Lane - Stop #56601 (northbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 645: Detour via I-394 (Dunwoody Blvd to 12th St)
+
+- **Affected Routes**: `Route 645`
+- **Direction**: Eastbound
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Sat Oct 17 at 5:00 AM until further notice
+- **Corridors & Intersections**: I-394 (Dunwoody Blvd to 12th St)
+
+**Summary**: Route 645 detoured off I-394 from Dunwoody Blvd to 12th St beginning Sat Oct 17 at 5:00 AM until further notice due to construction
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on I-394 to Dunwoody Blvd, right on Dunwoody Blvd which turns into Hennepin Ave, right on 12th St and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/645)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 645 detoured off I-394 from Dunwoody Blvd to 12th St beginning Sat Oct 17 at 5:00 AM until further notice due to construction
+
+```text
+Expect delays due to added travel time to access downtown Minneapolis.
+
+Eastbound buses will travel regular route on I-394 to Dunwoody Blvd, right on Dunwoody Blvd which turns into Hennepin Ave, right on 12th St and resume regular route.
+
+Affected direction: Eastbound
 ```
 
 </details>
@@ -4127,6 +4210,29 @@ LaFayette Rd & Grove St - Stop #11923 (southbound)
 ---
 
 ## ℹ️ Minor Advisories
+
+### ℹ️ Route 14 Service Advisory: New Bus Stops Have Been Added at Bloomington Ave & 22nd St
+
+- **Affected Routes**: `Route 14`
+- **Direction**: Both Directions
+- **Severity**: `Minor`
+
+**Summary**: Route 14 service advisory: New bus stops have been added at Bloomington Ave & 22nd St
+
+[Official Agency Advisory](https://www.metrotransit.org/route/14)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 14 service advisory: New bus stops have been added at Bloomington Ave & 22nd St
+
+```text
+Route 14 will now serve new bus stops at Bloomington Avenue and 22nd Street in both directions on a permanent basis.
+```
+
+</details>
+
+---
 
 ### ℹ️ Route 64, Route 74: Service Advisory
 

@@ -1,16 +1,196 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-14T10:02:25.263Z",
-    "totalAlerts": 97,
-    "criticalCount": 0,
-    "moderateCount": 94,
-    "minorCount": 3,
-    "affectedRoutesCount": 70,
+    "generatedAt": "2026-10-14T15:47:23.204Z",
+    "totalAlerts": 101,
+    "criticalCount": 1,
+    "moderateCount": 96,
+    "minorCount": 4,
+    "affectedRoutesCount": 71,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
+    {
+      "id": "54179",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 17: Service Advisory",
+      "summary": "Eastbound Route 17 trip departing Blake Rd Station at 9:31 AM will start from Uptown Transit Station. Previous stops missed due to traffic",
+      "affectedRoutes": [
+        "Route 17"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [
+        "4864",
+        "4866",
+        "5771",
+        "5773",
+        "5775",
+        "5778",
+        "5781",
+        "5784",
+        "5788",
+        "5791",
+        "5795",
+        "5797",
+        "5802",
+        "5804",
+        "5805",
+        "5807",
+        "5763",
+        "5765",
+        "5767",
+        "5769",
+        "57449",
+        "57458",
+        "57462",
+        "4862",
+        "57291",
+        "57303",
+        "57309",
+        "57354",
+        "56138",
+        "51083",
+        "49499",
+        "4735",
+        "4736",
+        "4738",
+        "4739",
+        "43325",
+        "3566",
+        "16827"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "4864"
+        },
+        {
+          "id": "4866"
+        },
+        {
+          "id": "5771"
+        },
+        {
+          "id": "5773"
+        },
+        {
+          "id": "5775"
+        },
+        {
+          "id": "5778"
+        },
+        {
+          "id": "5781"
+        },
+        {
+          "id": "5784"
+        },
+        {
+          "id": "5788"
+        },
+        {
+          "id": "5791"
+        },
+        {
+          "id": "5795"
+        },
+        {
+          "id": "5797"
+        },
+        {
+          "id": "5802"
+        },
+        {
+          "id": "5804"
+        },
+        {
+          "id": "5805"
+        },
+        {
+          "id": "5807"
+        },
+        {
+          "id": "5763"
+        },
+        {
+          "id": "5765"
+        },
+        {
+          "id": "5767"
+        },
+        {
+          "id": "5769"
+        },
+        {
+          "id": "57449"
+        },
+        {
+          "id": "57458"
+        },
+        {
+          "id": "57462"
+        },
+        {
+          "id": "4862"
+        },
+        {
+          "id": "57291"
+        },
+        {
+          "id": "57303"
+        },
+        {
+          "id": "57309"
+        },
+        {
+          "id": "57354"
+        },
+        {
+          "id": "56138"
+        },
+        {
+          "id": "51083"
+        },
+        {
+          "id": "49499"
+        },
+        {
+          "id": "4735"
+        },
+        {
+          "id": "4736"
+        },
+        {
+          "id": "4738"
+        },
+        {
+          "id": "4739"
+        },
+        {
+          "id": "43325"
+        },
+        {
+          "id": "3566"
+        },
+        {
+          "id": "16827"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-14T14:31:00.000Z",
+        "end": "2026-10-14T16:43:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/17",
+      "updatedAt": "2026-10-14T14:23:51.000Z",
+      "rawHeader": "Eastbound Route 17 trip departing Blake Rd Station at 9:31 AM will start from Uptown Transit Station. Previous stops missed due to traffic",
+      "rawDescription": ""
+    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -132,8 +312,8 @@
       "closedStopIds": [
         "51436",
         "51437",
-        "51405",
         "53280",
+        "51405",
         "53279",
         "51420",
         "51421",
@@ -147,10 +327,10 @@
           "id": "51437"
         },
         {
-          "id": "51405"
+          "id": "53280"
         },
         {
-          "id": "53280"
+          "id": "51405"
         },
         {
           "id": "53279"
@@ -563,6 +743,60 @@
       "updatedAt": "2026-04-13T09:00:01.000Z",
       "rawHeader": "Route 3A detoured off Maryland Ave from Galtier St to Rice St and off Rice St from Maryland Ave to Como Ave beginning Mon Apr 6 at 4:00 AM until further notice due to construction",
       "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nMaryland Ave & Galtier St - Stop #5571 (eastbound)\r\nTemporary stop on Galtier St & Cook Ave (southbound)\r\nTemporary stop on Galtier St & Front Ave (southbound)\r\nTemporary stop on Galtier St & Atwater St (southbound)\r\nComo Ave & Rice St - Stop #973 (eastbound)\r\nRice St & Charles Ave - Stop #974 (southbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\nRice St & Charles Ave - Stop #10488 (northbound)\r\nComo Ave & Rice St - Stop #49895 (westbound)\r\nTemporary stop on Atwater St & Galtier St (eastbound)\r\nTemporary stop on Galtier St & Front Ave (northbound)\r\nTemporary stop on Galtier St & Maryland Ave (northbound)\r\nMaryland Ave & Western Ave - Stop #5583 (westbound)\r\n\nEastbound 3A buses will travel regular route on Maryland Ave to Galtier St, right on Galtier, right on Atwater St, left on Western Ave, left on Como Ave, right on Rice St, and resume regular route.\r\n\nWestbound 3A buses will travel regular route on Rice St to Como Ave, left on Como, right on Western Ave, right on Atwater St, left on Galtier St, left on Maryland Ave, and resume regular route.\r\n\nAffected stops:\r\nMaryland Ave & Rice St - Stop #5575 (eastbound)\r\nRice St & Geranium Ave - Stop #10473 (southbound)\r\nRice St & Lawson Ave - Stop #10476 (southbound)\r\nRice St & Litchfield St - Stop #10479 (southbound)\r\nRice St & Milford St - Stop #10480 (southbound)\r\nRice St & Sycamore St - Stop #10482 (southbound)\r\nRice St & Pennsylvania Ave - Stop #10483 (southbound)\r\nRice St & Como Ave - Stop #10484 (southbound)\r\nRice St & Como Ave - Stop #10489 (northbound)\r\nRice St & Pennsylvania Ave - Stop #10490 (northbound)\r\nRice St & Sycamore St - Stop #10491 (northbound)\r\nRice St & Manitoba Ave - Stop #10494 (northbound)\r\nRice St & Front Ave - Stop #10496 (northbound)\r\nRice St & Lawson Ave - Stop #10498 (northbound)\r\nRice St & Geranium Ave - Stop #10501 (northbound)\r\nMaryland Ave & Rice St - Stop #47074 (westbound)\r\nMaryland Ave & Galtier St - Stop #5579 (westbound)"
+    },
+    {
+      "id": "54181",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 3, Route 62, Route 67: Detour via 11th St W & St Peter St",
+      "summary": "Routes 3, 62 and 67 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work. Board at: 11th St W & St Peter St - Stop #49450 (eastbound); Cedar St & 7th Place / 6th St - Stop #20013 (southbound).",
+      "affectedRoutes": [
+        "Route 3",
+        "Route 62",
+        "Route 67"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "11th St W & St Peter St",
+        "Cedar St & 10th St",
+        "Cedar St & 7th St E",
+        "Cedar St (11th St to 7th St)"
+      ],
+      "closedStopIds": [
+        "11912",
+        "57623",
+        "49450",
+        "20013"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "11912",
+          "name": "Cedar St & 10th St",
+          "direction": "southbound"
+        },
+        {
+          "id": "57623",
+          "name": "Cedar St & 7th St E",
+          "direction": "southbound"
+        },
+        {
+          "id": "49450"
+        },
+        {
+          "id": "20013"
+        }
+      ],
+      "riderAlternative": "Board at: 11th St W & St Peter St - Stop #49450 (eastbound); Cedar St & 7th Place / 6th St - Stop #20013 (southbound)",
+      "detourDetails": "southbound buses will travel regular route on 11th St to Cedar St, continue on 11th St to Robert St, right on Robert, right on 7th St, left on Cedar St, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-10-15T11:00:00.000Z",
+        "textDescription": "Beginning Thu Oct 15 at 6:00 AM until further notice"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "DETOUR",
+      "updatedAt": "2026-10-14T15:43:11.000Z",
+      "rawHeader": "Routes 3, 62 and 67 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work",
+      "rawDescription": "Get on/off buses at:\r\n11th St W & St Peter St - Stop #49450 (eastbound)\r\nCedar St & 7th Place / 6th St - Stop #20013 (southbound)\r\n\nEastbound/southbound buses will travel regular route on 11th St to Cedar St, continue on 11th St to Robert St, right on Robert, right on 7th St, left on Cedar St, and resume regular route.\r\n\nWestbound/northbound buses will travel regular route.\r\n\nAffected stops:\r\nCedar St & 10th St - Stop #11912 (southbound)\r\nCedar St & 7th St E - Stop #57623 (southbound)"
     },
     {
       "id": "52942",
@@ -4799,6 +5033,67 @@
       "rawDescription": "For eastbound Route 540 get on/off buses at:\r\n77th St W & Pillsbury Ave S - Stop #48616 (eastbound)\r\n77th St E & 2nd Ave S - Stop #48618 (eastbound)\r\n\nFor westbound Route 540 get on/off buses at:\r\n77th St E & 2nd Ave S - Stop #48626 (westbound)\r\n77th St W & Pillsbury Ave S - Stop #48628 (westbound)"
     },
     {
+      "id": "54180",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 540, Route 542: Detour via Norman Center Dr & 83rd St W",
+      "summary": "Routes 540 and 542 detoured off 84th St from Normandale Lake Blvd to Norman Center Dr from Thu Oct 15 at 7:00 PM to Fri Oct 16 at 6:00 AM. Board at: Norman Center Dr & 83rd St W - Stop #57476 (southbound).",
+      "affectedRoutes": [
+        "Route 540",
+        "Route 542"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Norman Center Dr & 83rd St W",
+        "American Blvd W & Normandale Lake Blvd",
+        "Norman Center Dr & 84th St W",
+        "Normandale Lake Blvd & 83rd St"
+      ],
+      "closedStopIds": [
+        "53950",
+        "50735",
+        "48164",
+        "53052",
+        "57476"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "53950",
+          "name": "American Blvd W & Normandale Lake Blvd",
+          "direction": "westbound"
+        },
+        {
+          "id": "50735",
+          "name": "Norman Center Dr & 83rd St W",
+          "direction": "northbound"
+        },
+        {
+          "id": "48164",
+          "name": "Norman Center Dr & 84th St W",
+          "direction": "northbound"
+        },
+        {
+          "id": "53052",
+          "name": "Normandale Lake Blvd & 83rd St / 84th St",
+          "direction": "southbound"
+        },
+        {
+          "id": "57476"
+        }
+      ],
+      "riderAlternative": "Board at: Norman Center Dr & 83rd St W - Stop #57476 (southbound)",
+      "detourDetails": "Eastbound buses will travel regular route on 83rd St to Normandale Lake Blvd, right on Normandale Lake Blvd, continue on Normandale Lake Blvd to American Blvd and resume regular route.",
+      "activePeriod": {
+        "start": "2026-10-16T00:00:00.000Z",
+        "end": "2026-10-16T11:00:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "DETOUR",
+      "updatedAt": "2026-10-14T14:43:20.000Z",
+      "rawHeader": "Routes 540 and 542 detoured off 84th St from Normandale Lake Blvd to Norman Center Dr from Thu Oct 15 at 7:00 PM to Fri Oct 16 at 6:00 AM",
+      "rawDescription": "Get on/off buses at:\r\nNorman Center Dr & 83rd St W - Stop #57476 (southbound)\r\n\nEastbound buses will travel regular route on 83rd St to Normandale Lake Blvd, right on Normandale Lake Blvd, continue on Normandale Lake Blvd to American Blvd and resume regular route.\r\n\nWestbound buses will travel regular route on 83rd St to Normandale Lake Blvd, right on Normandale Lake Blvd, continue on Normandale Lake Blvd to American Blvd and resume regular route.\r\n\nAffected stops:\r\nAmerican Blvd W & Normandale Lake Blvd - Stop #53950 (westbound)\r\nNorman Center Dr & 83rd St W - Stop #50735 (northbound)\r\nNorman Center Dr & 84th St W - Stop #48164 (northbound)\r\nNormandale Lake Blvd & 83rd St / 84th St - Stop #53052 (southbound)"
+    },
+    {
       "id": "49795",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -4911,66 +5206,6 @@
       "rawDescription": "Get on/off buses at:\r\nAmerican Blvd W & Home Depot - Stop #57108 (westbound)\r\nAmerican Blvd & Knox Ave S - Stop #41217 (westbound)\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on American Blvd to Lyndale Ave, left on Lyndale, right on 82nd St, right on Knox Ave, left on American Blvd, and resume regular route.\r\n\nAffected direction: Westbound\r\n\nAffected stops:\r\nAmerican Blvd & Lyndale Ave S - Stop #52216 (westbound)\r\nAmerican Blvd W & Lyndale Av/Bryant Av S - Stop #56604 (westbound)\r\nAmerican Blvd W & Fremont Ave S - Stop #57095 (westbound)"
     },
     {
-      "id": "54146",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 542: Detour via Route 542 detoured off 83rd St & 84th St",
-      "summary": "Route 542 detoured off 83rd St/84th St from Norman Center Dr to Normandale Lake Blvd from Thu Oct 15 at 7:00 PM to Fri Oct 16 at 6:00 AM due to construction. Board at: Norman Center Dr & 83rd St W - Stop #57476 (southbound); 82nd St W & American Blvd - Stop #1510 (eastbound).",
-      "affectedRoutes": [
-        "Route 542"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 542 detoured off 83rd St & 84th St",
-        "Norman Center Dr & 83rd St W",
-        "82nd St W & American Blvd",
-        "Normandale Lake Blvd & 83rd St",
-        "left on Normandale Lake Blvd & Normandale Lake Blvd"
-      ],
-      "closedStopIds": [
-        "57476",
-        "53052",
-        "48164",
-        "1510",
-        "1483"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "57476",
-          "name": "Norman Center Dr & 83rd St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "53052",
-          "name": "Normandale Lake Blvd & 83rd St / 84th St",
-          "direction": "southbound"
-        },
-        {
-          "id": "48164",
-          "name": "Norman Center Dr & 84th St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "1510"
-        },
-        {
-          "id": "1483"
-        }
-      ],
-      "riderAlternative": "Board at: Norman Center Dr & 83rd St W - Stop #57476 (southbound); 82nd St W & American Blvd - Stop #1510 (eastbound)",
-      "detourDetails": "Eastbound buses will travel regular route on 83rd St to Normandale Lake Blvd, right on Normandale Lake Blvd, right on American Blvd, left on American Blvd and resume regular route.",
-      "activePeriod": {
-        "start": "2026-10-16T00:00:00.000Z",
-        "end": "2026-10-16T11:00:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/542",
-      "updatedAt": "2026-10-14T05:00:01.000Z",
-      "rawHeader": "Route 542 detoured off 83rd St/84th St from Norman Center Dr to Normandale Lake Blvd from Thu Oct 15 at 7:00 PM to Fri Oct 16 at 6:00 AM due to construction",
-      "rawDescription": "For eastbound Route 542 get on/off buses at:\r\nNorman Center Dr & 83rd St W - Stop #57476 (southbound)\r\n82nd St W & American Blvd - Stop #1510 (eastbound)\r\n\nFor westbound Route 542 get on/off buses at:\r\n82nd St W & American Blvd - Stop #1483 (westbound)\r\nNormandale Lake Blvd & 83rd St / 84th St - Stop #53052 (southbound)\r\n\nEastbound buses will travel regular route on 83rd St to Normandale Lake Blvd, right on Normandale Lake Blvd, right on American Blvd, left on American Blvd and resume regular route.\r\n\nWestbound buses will travel regular route on American Blvd to American Blvd, right on American Blvd, left on Normandale Lake Blvd and layover on Normandale Lake Blvd at 83rd St.\r\n\nAffected stops:\r\nNorman Center Dr & 83rd St W - Stop #57476 (southbound)\r\nNormandale Lake Blvd & 83rd St / 84th St - Stop #53052 (southbound)\r\nNorman Center Dr & 84th St W - Stop #48164 (northbound)"
-    },
-    {
       "id": "53905",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -4983,13 +5218,15 @@
       "intersections": [
         "2nd Ave S & Washington Ave S",
         "Temporary terminal 2nd Ave S & 2nd St S",
+        "Marquette Ave & 2nd St S",
         "2nd St S & 3rd Ave S",
         "2nd St S (2nd Ave S to 3rd Ave S)"
       ],
       "closedStopIds": [
         "53341",
         "19260",
-        "19261"
+        "19261",
+        "19238"
       ],
       "closedStopDetails": [
         {
@@ -5002,6 +5239,9 @@
         },
         {
           "id": "19261"
+        },
+        {
+          "id": "19238"
         }
       ],
       "riderAlternative": "Board at: 2nd Ave S & Washington Ave S - Stop #19260 (northbound); Temporary terminal 2nd Ave S & 2nd St S - Stop #19261 (northbound)",
@@ -5012,9 +5252,9 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/578",
-      "updatedAt": "2026-10-07T15:40:39.000Z",
+      "updatedAt": "2026-10-14T15:40:01.000Z",
       "rawHeader": "Route 578 detoured off 2nd St S from 2nd Ave S to 3rd Ave S until further notice due to construction",
-      "rawDescription": "For northbound Route 578 get on/off buses at:\r\n2nd Ave S & Washington Ave S - Stop #19260 (northbound)\r\nTemporary terminal 2nd Ave S & 2nd St S - Stop #19261 (northbound)\r\n\nFor southbound Route 578 get on/off buses at:\r\nTemporary terminal 2nd Ave S & 2nd St S - Stop #19261 (northbound)\r\n2nd St S & 3rd Ave S - Stop #53341 (eastbound)\r\n\nNorthbound buses will travel the regular route on 2nd Ave S to 2nd St S and terminate.\r\n\nSouthbound buses will depart the temporary terminal on 2nd Ave S to 2nd St S, continue on 2nd Ave S, left on 1st St S, and resume the regular route.\r\n\nAffected stops:\r\n2nd St S & 3rd Ave S - Stop #53341 (eastbound)"
+      "rawDescription": "Alternate stops updated 10/14826 at 8:15 AM.\r\n\nFor northbound Route 578 get on/off buses at:\r\n2nd Ave S & Washington Ave S - Stop #19260 (northbound)\r\nTemporary terminal 2nd Ave S & 2nd St S - Stop #19261 (northbound)\r\n\nFor southbound Route 578 get on/off buses at:\r\nTemporary terminal 2nd Ave S & 2nd St S - Stop #19261 (northbound)\r\nMarquette Ave & 2nd St S - Stop #19238 (southbound)\r\n\nNorthbound buses will travel the regular route on 2nd Ave S to 2nd St S and terminate.\r\n\nSouthbound buses will depart the temporary terminal on 2nd Ave S to 2nd St S, continue on 2nd Ave S, left on 1st St S, and resume the regular route.\r\n\nAffected stops:\r\n2nd St S & 3rd Ave S - Stop #53341 (eastbound)"
     },
     {
       "id": "49838",
@@ -5344,6 +5584,34 @@
       "updatedAt": "2026-09-28T12:00:00.000Z",
       "rawHeader": "Route 645 detoured off Ridgedale Dr from Cartway Lane to Plymouth Rd beginning Mon Sep 21 at 7:00 AM until further notice due to construction",
       "rawDescription": "For eastbound Route 645 get on/off buses at:\r\nRidgedale Dr & Target Entrance - Stop #7033 (eastbound)\r\nRidgedale Dr & Hennepin Service Center - Stop #7000 (eastbound)\r\n\nFor westbound Route 645 get on/off buses at:\r\nRidgedale Dr & Hennepin Service Center - Stop #6771 (westbound)\r\nRidgedale Dr & Essex Rd - Stop #7077 (westbound)\r\n\nEastbound buses will travel regular route on Ridgedale Dr to Ridgehaven Ln, continue up the ramp and turn right on Plymouth Rd, left on Ridgedale Dr, and resume regular route.\r\n\nWestbound buses will travel regular route on Ridgedale Dr to Plymouth Rd, right on Plymouth Rd, left on Ridgehaven Dr and continue down ramp to Ridgedale Dr, and resume regular route.\r\n\nAffected stops:\r\nRidgedale Dr & Ridgehaven / Cartway Lane - Stop #7034 (southbound)\r\nRidgedale Dr & Cartway Lane - Stop #7035 (southbound)\r\nRidgedale Dr & Plymouth Rd / Cartway Ln - Stop #49391 (northbound)\r\nRidgedale Dr & Cartway Lane - Stop #56601 (northbound)"
+    },
+    {
+      "id": "54178",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 645: Detour via I-394 (Dunwoody Blvd to 12th St)",
+      "summary": "Route 645 detoured off I-394 from Dunwoody Blvd to 12th St beginning Sat Oct 17 at 5:00 AM until further notice due to construction",
+      "affectedRoutes": [
+        "Route 645"
+      ],
+      "direction": "Eastbound",
+      "intersections": [
+        "I-394 (Dunwoody Blvd to 12th St)"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": "Eastbound buses will travel regular route on I-394 to Dunwoody Blvd, right on Dunwoody Blvd which turns into Hennepin Ave, right on 12th St and resume regular route.",
+      "activePeriod": {
+        "start": "2026-10-17T10:00:00.000Z",
+        "textDescription": "Beginning Sat Oct 17 at 5:00 AM until further notice"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "OTHER_EFFECT",
+      "url": "https://www.metrotransit.org/route/645",
+      "updatedAt": "2026-10-14T13:49:48.000Z",
+      "rawHeader": "Route 645 detoured off I-394 from Dunwoody Blvd to 12th St beginning Sat Oct 17 at 5:00 AM until further notice due to construction",
+      "rawDescription": "Expect delays due to added travel time to access downtown Minneapolis.\r\n\nEastbound buses will travel regular route on I-394 to Dunwoody Blvd, right on Dunwoody Blvd which turns into Hennepin Ave, right on 12th St and resume regular route.\r\n\nAffected direction: Eastbound"
     },
     {
       "id": "47699",
@@ -6718,6 +6986,31 @@
       "updatedAt": "2026-09-03T18:51:20.000Z",
       "rawHeader": "Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction",
       "rawDescription": "Updated get on/off stops 6/9 1:30 pm.\r\n\nGet on/off buses at:\r\nTemporary stop on Grove St & Lafayette Rd (eastbound)\r\nLaFayette Rd & 8th St - Stop #11925 (southbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on southbound I-35E to University Ave, continue on I-35E and exit at Wacouta St, left on 9th St, left on Broadway St, right on Grove St, right on Lafayette Rd, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nUniversity Ave & Mississippi St - Stop #56109 (eastbound)\r\nUniversity Ave & Lafayette St - Stop #57630 (eastbound)\r\nLaFayette Rd & Grove St - Stop #11923 (southbound)"
+    },
+    {
+      "id": "54177",
+      "agency": "Metro Transit",
+      "severity": "Minor",
+      "title": "Route 14 Service Advisory: New Bus Stops Have Been Added at Bloomington Ave & 22nd St",
+      "summary": "Route 14 service advisory: New bus stops have been added at Bloomington Ave & 22nd St",
+      "affectedRoutes": [
+        "Route 14"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-14T13:45:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "OTHER_EFFECT",
+      "url": "https://www.metrotransit.org/route/14",
+      "updatedAt": "2026-10-14T13:45:15.000Z",
+      "rawHeader": "Route 14 service advisory: New bus stops have been added at Bloomington Ave & 22nd St",
+      "rawDescription": "Route 14 will now serve new bus stops at Bloomington Avenue and 22nd Street in both directions on a permanent basis."
     },
     {
       "id": "53804",
