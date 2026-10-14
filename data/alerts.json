@@ -1,381 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-13T23:14:53.975Z",
-    "totalAlerts": 106,
-    "criticalCount": 6,
-    "moderateCount": 96,
-    "minorCount": 4,
+    "generatedAt": "2026-10-14T04:38:54.212Z",
+    "totalAlerts": 98,
+    "criticalCount": 0,
+    "moderateCount": 95,
+    "minorCount": 3,
     "affectedRoutesCount": 70,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "54162",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 54, Route 54M: Eastbound 4:38 PM Trip Canceled (MOA Transit Station Gate C)",
-      "summary": "Eastbound Route 54M trip departing MOA Transit Station Gate C at 4:38 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 54",
-        "Route 54M"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-13T22:16:00.000Z",
-        "end": "2026-10-13T23:51:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/54",
-      "updatedAt": "2026-10-13T22:18:23.000Z",
-      "rawHeader": "Eastbound Route 54M trip departing MOA Transit Station Gate C at 4:38 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "54164",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 61: Eastbound 4:42 PM Trip Canceled (Ramp A/7th St Transit Center)",
-      "summary": "Eastbound Route 61 trip departing Ramp A/7th St Transit Center at 4:42 PM canceled from Larpenteur & Cleveland at 5:08 PM today due to collision",
-      "affectedRoutes": [
-        "Route 61"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [
-        "11859",
-        "11861",
-        "11863",
-        "10621",
-        "10624",
-        "10628",
-        "10629",
-        "10630",
-        "10633",
-        "10638",
-        "10641",
-        "12374",
-        "12378",
-        "12382",
-        "13819",
-        "13823",
-        "57324",
-        "5624",
-        "5628",
-        "5632",
-        "5633",
-        "5635",
-        "5639",
-        "43282",
-        "51128",
-        "53981",
-        "53983",
-        "5539",
-        "5543",
-        "5546",
-        "557",
-        "52759",
-        "52761",
-        "49669",
-        "49670",
-        "49671",
-        "49672",
-        "49673",
-        "49676",
-        "47076",
-        "41069",
-        "41071",
-        "41075",
-        "3264",
-        "40124",
-        "57535",
-        "80716",
-        "80958",
-        "80959",
-        "81104",
-        "81105"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "11859"
-        },
-        {
-          "id": "11861"
-        },
-        {
-          "id": "11863"
-        },
-        {
-          "id": "10621"
-        },
-        {
-          "id": "10624"
-        },
-        {
-          "id": "10628"
-        },
-        {
-          "id": "10629"
-        },
-        {
-          "id": "10630"
-        },
-        {
-          "id": "10633"
-        },
-        {
-          "id": "10638"
-        },
-        {
-          "id": "10641"
-        },
-        {
-          "id": "12374"
-        },
-        {
-          "id": "12378"
-        },
-        {
-          "id": "12382"
-        },
-        {
-          "id": "13819"
-        },
-        {
-          "id": "13823"
-        },
-        {
-          "id": "57324"
-        },
-        {
-          "id": "5624"
-        },
-        {
-          "id": "5628"
-        },
-        {
-          "id": "5632"
-        },
-        {
-          "id": "5633"
-        },
-        {
-          "id": "5635"
-        },
-        {
-          "id": "5639"
-        },
-        {
-          "id": "43282"
-        },
-        {
-          "id": "51128"
-        },
-        {
-          "id": "53981"
-        },
-        {
-          "id": "53983"
-        },
-        {
-          "id": "5539"
-        },
-        {
-          "id": "5543"
-        },
-        {
-          "id": "5546"
-        },
-        {
-          "id": "557"
-        },
-        {
-          "id": "52759"
-        },
-        {
-          "id": "52761"
-        },
-        {
-          "id": "49669"
-        },
-        {
-          "id": "49670"
-        },
-        {
-          "id": "49671"
-        },
-        {
-          "id": "49672"
-        },
-        {
-          "id": "49673"
-        },
-        {
-          "id": "49676"
-        },
-        {
-          "id": "47076"
-        },
-        {
-          "id": "41069"
-        },
-        {
-          "id": "41071"
-        },
-        {
-          "id": "41075"
-        },
-        {
-          "id": "3264"
-        },
-        {
-          "id": "40124"
-        },
-        {
-          "id": "57535"
-        },
-        {
-          "id": "80716"
-        },
-        {
-          "id": "80958"
-        },
-        {
-          "id": "80959"
-        },
-        {
-          "id": "81104"
-        },
-        {
-          "id": "81105"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-13T22:54:00.000Z",
-        "end": "2026-10-14T00:04:00.000Z"
-      },
-      "cause": "ACCIDENT",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/61",
-      "updatedAt": "2026-10-13T22:56:27.000Z",
-      "rawHeader": "Eastbound Route 61 trip departing Ramp A/7th St Transit Center at 4:42 PM canceled from Larpenteur & Cleveland at 5:08 PM today due to collision",
-      "rawDescription": ""
-    },
-    {
-      "id": "54149",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 71: Service Canceled",
-      "summary": "Route 71 trip departing Market Place Dr & The Marketplace Ctr at 1:14 PM and three other trips canceled today due to collision",
-      "affectedRoutes": [
-        "Route 71"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-13T18:55:00.000Z",
-        "end": "2026-10-14T00:51:00.000Z"
-      },
-      "cause": "ACCIDENT",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/71",
-      "updatedAt": "2026-10-13T18:56:19.000Z",
-      "rawHeader": "Route 71 trip departing Market Place Dr & The Marketplace Ctr at 1:14 PM and three other trips canceled today due to collision",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 2:38 PM\r\ndeparting Inver Hills College & Shelter at 5:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 1:14 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 4:10 PM"
-    },
-    {
-      "id": "54163",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 72: Service Canceled",
-      "summary": "Route 72 trips departing Sun Ray Transit Center & Gate D at 4:48 PM and departing Pascal St N & Central Ave W at 5:50 PM canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 72"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "48 PM and departing Pascal St N & Central Ave W"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-13T22:53:00.000Z",
-        "end": "2026-10-14T00:39:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-10-13T22:53:45.000Z",
-      "rawHeader": "Route 72 trips departing Sun Ray Transit Center & Gate D at 4:48 PM and departing Pascal St N & Central Ave W at 5:50 PM canceled today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "54139",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 223: Service Canceled",
-      "summary": "Route 223 trip departing Maplewood Mall Transit Center & Gate A at 3:11 PM and six other trips canceled today",
-      "affectedRoutes": [
-        "Route 223"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-13T20:11:00.000Z",
-        "end": "2026-10-14T02:13:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/223",
-      "updatedAt": "2026-10-13T19:41:00.000Z",
-      "rawHeader": "Route 223 trip departing Maplewood Mall Transit Center & Gate A at 3:11 PM and six other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Rosedale Transit Center Gate F at 3:46 PM\r\ndeparting Rosedale Transit Center Gate F at 5:16 PM\r\ndeparting Rosedale Transit Center Gate F at 6:46 PM\r\n\nAffected westbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate A at 3:11 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 4:41 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 6:11 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 7:41 PM"
-    },
-    {
-      "id": "54165",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 721: Southbound 5:32 PM Trip Canceled (Hennepin Technical College & Main Door)",
-      "summary": "Southbound Route 721 trip departing Hennepin Technical College & Main Door at 5:32 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 721"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-13T22:57:00.000Z",
-        "end": "2026-10-13T23:58:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/721",
-      "updatedAt": "2026-10-13T22:57:23.000Z",
-      "rawHeader": "Southbound Route 721 trip departing Hennepin Technical College & Main Door at 5:32 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -495,19 +130,16 @@
       "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [
-        "51405",
         "51436",
         "51437",
+        "51405",
         "53280",
+        "53279",
         "51420",
         "51421",
-        "51422",
-        "53279"
+        "51422"
       ],
       "closedStopDetails": [
-        {
-          "id": "51405"
-        },
         {
           "id": "51436"
         },
@@ -515,7 +147,13 @@
           "id": "51437"
         },
         {
+          "id": "51405"
+        },
+        {
           "id": "53280"
+        },
+        {
+          "id": "53279"
         },
         {
           "id": "51420"
@@ -525,9 +163,6 @@
         },
         {
           "id": "51422"
-        },
-        {
-          "id": "53279"
         }
       ],
       "riderAlternative": null,
@@ -570,7 +205,7 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-10-13T18:13:00.000Z",
-        "end": "2026-10-14T01:14:24.000Z"
+        "end": "2026-10-14T06:37:23.000Z"
       },
       "cause": "TECHNICAL_PROBLEM",
       "effect": "ACCESSIBILITY_ISSUE",
@@ -964,50 +599,6 @@
       "updatedAt": "2026-04-13T09:00:01.000Z",
       "rawHeader": "Route 3A detoured off Maryland Ave from Galtier St to Rice St and off Rice St from Maryland Ave to Como Ave beginning Mon Apr 6 at 4:00 AM until further notice due to construction",
       "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nMaryland Ave & Galtier St - Stop #5571 (eastbound)\r\nTemporary stop on Galtier St & Cook Ave (southbound)\r\nTemporary stop on Galtier St & Front Ave (southbound)\r\nTemporary stop on Galtier St & Atwater St (southbound)\r\nComo Ave & Rice St - Stop #973 (eastbound)\r\nRice St & Charles Ave - Stop #974 (southbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\nRice St & Charles Ave - Stop #10488 (northbound)\r\nComo Ave & Rice St - Stop #49895 (westbound)\r\nTemporary stop on Atwater St & Galtier St (eastbound)\r\nTemporary stop on Galtier St & Front Ave (northbound)\r\nTemporary stop on Galtier St & Maryland Ave (northbound)\r\nMaryland Ave & Western Ave - Stop #5583 (westbound)\r\n\nEastbound 3A buses will travel regular route on Maryland Ave to Galtier St, right on Galtier, right on Atwater St, left on Western Ave, left on Como Ave, right on Rice St, and resume regular route.\r\n\nWestbound 3A buses will travel regular route on Rice St to Como Ave, left on Como, right on Western Ave, right on Atwater St, left on Galtier St, left on Maryland Ave, and resume regular route.\r\n\nAffected stops:\r\nMaryland Ave & Rice St - Stop #5575 (eastbound)\r\nRice St & Geranium Ave - Stop #10473 (southbound)\r\nRice St & Lawson Ave - Stop #10476 (southbound)\r\nRice St & Litchfield St - Stop #10479 (southbound)\r\nRice St & Milford St - Stop #10480 (southbound)\r\nRice St & Sycamore St - Stop #10482 (southbound)\r\nRice St & Pennsylvania Ave - Stop #10483 (southbound)\r\nRice St & Como Ave - Stop #10484 (southbound)\r\nRice St & Como Ave - Stop #10489 (northbound)\r\nRice St & Pennsylvania Ave - Stop #10490 (northbound)\r\nRice St & Sycamore St - Stop #10491 (northbound)\r\nRice St & Manitoba Ave - Stop #10494 (northbound)\r\nRice St & Front Ave - Stop #10496 (northbound)\r\nRice St & Lawson Ave - Stop #10498 (northbound)\r\nRice St & Geranium Ave - Stop #10501 (northbound)\r\nMaryland Ave & Rice St - Stop #47074 (westbound)\r\nMaryland Ave & Galtier St - Stop #5579 (westbound)"
-    },
-    {
-      "id": "52092",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 7: Stop Closed at Plymouth Ave & Lyndale Ave N",
-      "summary": "Plymouth Ave & Lyndale Ave N - Stop #17654 (westbound) is closed for Route 7 beginning Mon Aug 31 at 7:00 PM until further notice due to construction. Board at: Plymouth Ave & Washington Ave - Stop #17653 (westbound); Plymouth Ave & Bryant Ave N - Stop #17656 (westbound).",
-      "affectedRoutes": [
-        "Route 7"
-      ],
-      "direction": "Westbound",
-      "intersections": [
-        "Plymouth Ave & Lyndale Ave N",
-        "Plymouth Ave & Washington Ave",
-        "Plymouth Ave & Bryant Ave N"
-      ],
-      "closedStopIds": [
-        "17654",
-        "17653",
-        "17656"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "17654"
-        },
-        {
-          "id": "17653"
-        },
-        {
-          "id": "17656"
-        }
-      ],
-      "riderAlternative": "Board at: Plymouth Ave & Washington Ave - Stop #17653 (westbound); Plymouth Ave & Bryant Ave N - Stop #17656 (westbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-01T00:00:00.000Z",
-        "textDescription": "Beginning Mon Aug 31 at 7:00 PM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/7",
-      "updatedAt": "2026-09-08T00:00:02.000Z",
-      "rawHeader": "Plymouth Ave & Lyndale Ave N - Stop #17654 (westbound) is closed for Route 7 beginning Mon Aug 31 at 7:00 PM until further notice due to construction",
-      "rawDescription": "Get on/off buses at:\r\nPlymouth Ave & Washington Ave - Stop #17653 (westbound)\r\nPlymouth Ave & Bryant Ave N - Stop #17656 (westbound)"
     },
     {
       "id": "52942",
@@ -7163,39 +6754,6 @@
       "updatedAt": "2026-09-03T18:51:20.000Z",
       "rawHeader": "Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction",
       "rawDescription": "Updated get on/off stops 6/9 1:30 pm.\r\n\nGet on/off buses at:\r\nTemporary stop on Grove St & Lafayette Rd (eastbound)\r\nLaFayette Rd & 8th St - Stop #11925 (southbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on southbound I-35E to University Ave, continue on I-35E and exit at Wacouta St, left on 9th St, left on Broadway St, right on Grove St, right on Lafayette Rd, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nUniversity Ave & Mississippi St - Stop #56109 (eastbound)\r\nUniversity Ave & Lafayette St - Stop #57630 (eastbound)\r\nLaFayette Rd & Grove St - Stop #11923 (southbound)"
-    },
-    {
-      "id": "52355",
-      "agency": "Metro Transit",
-      "severity": "Minor",
-      "title": "Route 38: Service Advisory",
-      "summary": "Red Circle Dr & Shady Oak Rd - Stop #48211 (eastbound) is temporarily moving for Route 38 beginning Fri Sep 4 at 5:00 AM until further notice due to construction",
-      "affectedRoutes": [
-        "Route 38"
-      ],
-      "direction": "Eastbound",
-      "intersections": [
-        "Red Circle Dr & Shady Oak Rd"
-      ],
-      "closedStopIds": [
-        "48211"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "48211"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-04T10:00:00.000Z",
-        "textDescription": "Beginning Fri Sep 4 at 5:00 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "STOP_MOVED",
-      "updatedAt": "2026-09-11T10:00:01.000Z",
-      "rawHeader": "Red Circle Dr & Shady Oak Rd - Stop #48211 (eastbound) is temporarily moving for Route 38 beginning Fri Sep 4 at 5:00 AM until further notice due to construction",
-      "rawDescription": "The bus stop has moved 150 feet east due to construction."
     },
     {
       "id": "53804",

@@ -2,158 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-106-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-6-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-96-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-98-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-95-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-70-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-13T23:14:53.975Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-14T04:38:54.212Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (3) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (6) • **Route 11** (3) • **Route 14** (1) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (2) • **Route 61** (4) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (3) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (4) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (2) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (2) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (3) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (6) • **Route 11** (3) • **Route 14** (1) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (5) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (2) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 54, Route 54M: Eastbound 4:38 PM Trip Canceled (MOA Transit Station Gate C)
-
-- **Affected Routes**: `Route 54` `Route 54M`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-
-**Summary**: Eastbound Route 54M trip departing MOA Transit Station Gate C at 4:38 PM canceled today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/54)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 54M trip departing MOA Transit Station Gate C at 4:38 PM canceled today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 61: Eastbound 4:42 PM Trip Canceled (Ramp A/7th St Transit Center)
-
-- **Affected Routes**: `Route 61`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #11859, Stop #11861, Stop #11863, Stop #10621, Stop #10624, Stop #10628, Stop #10629, Stop #10630 *(+43 more)*
-
-**Summary**: Eastbound Route 61 trip departing Ramp A/7th St Transit Center at 4:42 PM canceled from Larpenteur & Cleveland at 5:08 PM today due to collision
-
-[Official Agency Advisory](https://www.metrotransit.org/route/61)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 61 trip departing Ramp A/7th St Transit Center at 4:42 PM canceled from Larpenteur & Cleveland at 5:08 PM today due to collision
-
-</details>
-
----
-
-### 🚨 Route 71: Service Canceled
-
-- **Affected Routes**: `Route 71`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 71 trip departing Market Place Dr & The Marketplace Ctr at 1:14 PM and three other trips canceled today due to collision
-
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 71 trip departing Market Place Dr & The Marketplace Ctr at 1:14 PM and three other trips canceled today due to collision
-
-```text
-Affected northbound trips:
-departing Inver Hills College & Shelter at 2:38 PM
-departing Inver Hills College & Shelter at 5:38 PM
-
-Affected southbound trips:
-departing Market Place Dr & The Marketplace Ctr at 1:14 PM
-departing Market Place Dr & The Marketplace Ctr at 4:10 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 72: Service Canceled
-
-- **Affected Routes**: `Route 72`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: 48 PM and departing Pascal St N & Central Ave W
-
-**Summary**: Route 72 trips departing Sun Ray Transit Center & Gate D at 4:48 PM and departing Pascal St N & Central Ave W at 5:50 PM canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/72)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 72 trips departing Sun Ray Transit Center & Gate D at 4:48 PM and departing Pascal St N & Central Ave W at 5:50 PM canceled today due to maintenance work
-
-</details>
-
----
-
-### 🚨 Route 223: Service Canceled
-
-- **Affected Routes**: `Route 223`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 223 trip departing Maplewood Mall Transit Center & Gate A at 3:11 PM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/223)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 223 trip departing Maplewood Mall Transit Center & Gate A at 3:11 PM and six other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Rosedale Transit Center Gate F at 3:46 PM
-departing Rosedale Transit Center Gate F at 5:16 PM
-departing Rosedale Transit Center Gate F at 6:46 PM
-
-Affected westbound trips:
-departing Maplewood Mall Transit Center & Gate A at 3:11 PM
-departing Maplewood Mall Transit Center & Gate A at 4:41 PM
-departing Maplewood Mall Transit Center & Gate A at 6:11 PM
-departing Maplewood Mall Transit Center & Gate A at 7:41 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 721: Southbound 5:32 PM Trip Canceled (Hennepin Technical College & Main Door)
-
-- **Affected Routes**: `Route 721`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound Route 721 trip departing Hennepin Technical College & Main Door at 5:32 PM canceled today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/721)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 721 trip departing Hennepin Technical College & Main Door at 5:32 PM canceled today due to traffic
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -256,7 +119,7 @@ Due to mechanical issues, both elevators at Franklin Ave Station are unavailable
 - **Affected Routes**: `METRO Blue Line`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Closed Stops**: Stop #51405, Stop #51436, Stop #51437, Stop #53280, Stop #51420, Stop #51421, Stop #51422, Stop #53279
+- **Closed Stops**: Stop #51436, Stop #51437, Stop #51405, Stop #53280, Stop #53279, Stop #51420, Stop #51421, Stop #51422
 
 **Summary**: Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Friday, Oct. 16 at 8 p.m.
 
@@ -502,36 +365,6 @@ Rice St & Lawson Ave - Stop #10498 (northbound)
 Rice St & Geranium Ave - Stop #10501 (northbound)
 Maryland Ave & Rice St - Stop #47074 (westbound)
 Maryland Ave & Galtier St - Stop #5579 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 7: Stop Closed at Plymouth Ave & Lyndale Ave N
-
-- **Affected Routes**: `Route 7`
-- **Direction**: Westbound
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Aug 31 at 7:00 PM until further notice
-- **Corridors & Intersections**: Plymouth Ave & Lyndale Ave N; Plymouth Ave & Washington Ave; Plymouth Ave & Bryant Ave N
-- **Closed Stops**: Stop #17654, Stop #17653, Stop #17656
-
-**Summary**: Plymouth Ave & Lyndale Ave N - Stop #17654 (westbound) is closed for Route 7 beginning Mon Aug 31 at 7:00 PM until further notice due to construction. Board at: Plymouth Ave & Washington Ave - Stop #17653 (westbound); Plymouth Ave & Bryant Ave N - Stop #17656 (westbound).
-
-> 💡 **Rider Action**: Board at: Plymouth Ave & Washington Ave - Stop #17653 (westbound); Plymouth Ave & Bryant Ave N - Stop #17656 (westbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/7)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Plymouth Ave & Lyndale Ave N - Stop #17654 (westbound) is closed for Route 7 beginning Mon Aug 31 at 7:00 PM until further notice due to construction
-
-```text
-Get on/off buses at:
-Plymouth Ave & Washington Ave - Stop #17653 (westbound)
-Plymouth Ave & Bryant Ave N - Stop #17656 (westbound)
 ```
 
 </details>
@@ -4318,30 +4151,6 @@ LaFayette Rd & Grove St - Stop #11923 (southbound)
 ---
 
 ## ℹ️ Minor Advisories
-
-### ℹ️ Route 38: Service Advisory
-
-- **Affected Routes**: `Route 38`
-- **Direction**: Eastbound
-- **Severity**: `Minor`
-- **Schedule**: Beginning Fri Sep 4 at 5:00 AM until further notice
-- **Corridors & Intersections**: Red Circle Dr & Shady Oak Rd
-- **Closed Stops**: Stop #48211
-
-**Summary**: Red Circle Dr & Shady Oak Rd - Stop #48211 (eastbound) is temporarily moving for Route 38 beginning Fri Sep 4 at 5:00 AM until further notice due to construction
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Red Circle Dr & Shady Oak Rd - Stop #48211 (eastbound) is temporarily moving for Route 38 beginning Fri Sep 4 at 5:00 AM until further notice due to construction
-
-```text
-The bus stop has moved 150 feet east due to construction.
-```
-
-</details>
-
----
 
 ### ℹ️ Route 64, Route 74: Service Advisory
 
