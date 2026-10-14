@@ -1,194 +1,834 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-14T15:47:23.204Z",
-    "totalAlerts": 101,
-    "criticalCount": 1,
-    "moderateCount": 96,
+    "generatedAt": "2026-10-14T20:08:03.101Z",
+    "totalAlerts": 109,
+    "criticalCount": 8,
+    "moderateCount": 97,
     "minorCount": 4,
-    "affectedRoutesCount": 71,
+    "affectedRoutesCount": 72,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "54179",
+      "id": "54186",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 17: Service Advisory",
-      "summary": "Eastbound Route 17 trip departing Blake Rd Station at 9:31 AM will start from Uptown Transit Station. Previous stops missed due to traffic",
+      "title": "Route 7: Southbound 2:18 PM Trip Canceled (Plymouth Ave & Theo Wirth Pkwy)",
+      "summary": "Southbound Route 7 trip departing Plymouth Ave & Theo Wirth Pkwy at 2:18 PM canceled today due to collision",
       "affectedRoutes": [
-        "Route 17"
+        "Route 7"
       ],
-      "direction": "Eastbound",
+      "direction": "Southbound",
       "intersections": [],
       "closedStopIds": [
-        "4864",
-        "4866",
-        "5771",
-        "5773",
-        "5775",
-        "5778",
-        "5781",
-        "5784",
-        "5788",
-        "5791",
-        "5795",
-        "5797",
-        "5802",
-        "5804",
-        "5805",
-        "5807",
-        "5763",
-        "5765",
-        "5767",
-        "5769",
-        "57449",
-        "57458",
-        "57462",
-        "4862",
-        "57291",
-        "57303",
-        "57309",
-        "57354",
-        "56138",
-        "51083",
-        "49499",
-        "4735",
-        "4736",
-        "4738",
-        "4739",
-        "43325",
-        "3566",
-        "16827"
+        "52737",
+        "52739",
+        "51779",
+        "51545",
+        "48897",
+        "4442",
+        "19434",
+        "19436",
+        "15419",
+        "15420",
+        "15422",
+        "15424",
+        "15444",
+        "15445"
       ],
       "closedStopDetails": [
         {
-          "id": "4864"
+          "id": "52737"
         },
         {
-          "id": "4866"
+          "id": "52739"
         },
         {
-          "id": "5771"
+          "id": "51779"
         },
         {
-          "id": "5773"
+          "id": "51545"
         },
         {
-          "id": "5775"
+          "id": "48897"
         },
         {
-          "id": "5778"
+          "id": "4442"
         },
         {
-          "id": "5781"
+          "id": "19434"
         },
         {
-          "id": "5784"
+          "id": "19436"
         },
         {
-          "id": "5788"
+          "id": "15419"
         },
         {
-          "id": "5791"
+          "id": "15420"
         },
         {
-          "id": "5795"
+          "id": "15422"
         },
         {
-          "id": "5797"
+          "id": "15424"
         },
         {
-          "id": "5802"
+          "id": "15444"
         },
         {
-          "id": "5804"
-        },
-        {
-          "id": "5805"
-        },
-        {
-          "id": "5807"
-        },
-        {
-          "id": "5763"
-        },
-        {
-          "id": "5765"
-        },
-        {
-          "id": "5767"
-        },
-        {
-          "id": "5769"
-        },
-        {
-          "id": "57449"
-        },
-        {
-          "id": "57458"
-        },
-        {
-          "id": "57462"
-        },
-        {
-          "id": "4862"
-        },
-        {
-          "id": "57291"
-        },
-        {
-          "id": "57303"
-        },
-        {
-          "id": "57309"
-        },
-        {
-          "id": "57354"
-        },
-        {
-          "id": "56138"
-        },
-        {
-          "id": "51083"
-        },
-        {
-          "id": "49499"
-        },
-        {
-          "id": "4735"
-        },
-        {
-          "id": "4736"
-        },
-        {
-          "id": "4738"
-        },
-        {
-          "id": "4739"
-        },
-        {
-          "id": "43325"
-        },
-        {
-          "id": "3566"
-        },
-        {
-          "id": "16827"
+          "id": "15445"
         }
       ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-14T14:31:00.000Z",
-        "end": "2026-10-14T16:43:00.000Z"
+        "start": "2026-10-14T19:18:00.000Z",
+        "end": "2026-10-14T21:25:00.000Z"
+      },
+      "cause": "ACCIDENT",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/7",
+      "updatedAt": "2026-10-14T19:00:06.000Z",
+      "rawHeader": "Southbound Route 7 trip departing Plymouth Ave & Theo Wirth Pkwy at 2:18 PM canceled today due to collision",
+      "rawDescription": ""
+    },
+    {
+      "id": "54193",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 10: Southbound 1:47 PM Trip Canceled (Northtown Transit Ctr Gate A)",
+      "summary": "Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 1:47 PM canceled from Central & University at 2:28 PM today due to traffic",
+      "affectedRoutes": [
+        "Route 10"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [
+        "12282",
+        "19308",
+        "17976",
+        "17978",
+        "17980",
+        "17982",
+        "17984",
+        "17986",
+        "52344",
+        "53966",
+        "80867"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "12282"
+        },
+        {
+          "id": "19308"
+        },
+        {
+          "id": "17976"
+        },
+        {
+          "id": "17978"
+        },
+        {
+          "id": "17980"
+        },
+        {
+          "id": "17982"
+        },
+        {
+          "id": "17984"
+        },
+        {
+          "id": "17986"
+        },
+        {
+          "id": "52344"
+        },
+        {
+          "id": "53966"
+        },
+        {
+          "id": "80867"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-14T19:38:00.000Z",
+        "end": "2026-10-14T20:47:00.000Z"
       },
       "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-10-14T14:23:51.000Z",
-      "rawHeader": "Eastbound Route 17 trip departing Blake Rd Station at 9:31 AM will start from Uptown Transit Station. Previous stops missed due to traffic",
+      "url": "https://www.metrotransit.org/route/10",
+      "updatedAt": "2026-10-14T19:40:50.000Z",
+      "rawHeader": "Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 1:47 PM canceled from Central & University at 2:28 PM today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "54188",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 64: Eastbound 1:37 PM Trip Canceled (Smith & 5th St Station)",
+      "summary": "Eastbound Route 64 trip departing Smith & 5th St Station at 1:37 PM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 64"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-14T19:09:00.000Z",
+        "end": "2026-10-14T20:30:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/64",
+      "updatedAt": "2026-10-14T19:09:32.000Z",
+      "rawHeader": "Eastbound Route 64 trip departing Smith & 5th St Station at 1:37 PM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "54191",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 64: Service Advisory",
+      "summary": "Westbound Route 64 trip departing Maplewood Mall Transit Center at 4:35 PM will start from Greenbrier & Geranium. Previous stops missed",
+      "affectedRoutes": [
+        "Route 64"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [
+        "3813",
+        "3870",
+        "3871",
+        "3874",
+        "3875",
+        "3884",
+        "3885",
+        "3886",
+        "3888",
+        "40023",
+        "42000",
+        "42001",
+        "42002",
+        "42004",
+        "42006",
+        "42157",
+        "49760",
+        "49769",
+        "49770",
+        "49771",
+        "49772",
+        "49775",
+        "49781",
+        "49782",
+        "49910",
+        "12874",
+        "12876",
+        "12878",
+        "12880",
+        "12882",
+        "12884",
+        "12886",
+        "12927",
+        "12929",
+        "12932",
+        "12933",
+        "12934",
+        "12935",
+        "12936",
+        "12937",
+        "12969",
+        "12971",
+        "12972",
+        "12973",
+        "12974",
+        "13031",
+        "13033",
+        "13035",
+        "13037",
+        "13038",
+        "13039",
+        "13041",
+        "13851",
+        "13853",
+        "11798",
+        "11799",
+        "11800",
+        "48194",
+        "48260",
+        "52015",
+        "5166",
+        "5307",
+        "53149",
+        "5283",
+        "5285",
+        "5286",
+        "5287",
+        "5290",
+        "5292",
+        "5293",
+        "5294",
+        "5295",
+        "5296",
+        "5297",
+        "5298",
+        "5299",
+        "5300",
+        "5301",
+        "5303",
+        "5305",
+        "52544",
+        "52554",
+        "54048",
+        "5533",
+        "5347",
+        "5348",
+        "5349",
+        "5352",
+        "5354",
+        "5337",
+        "5338"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "3813"
+        },
+        {
+          "id": "3870"
+        },
+        {
+          "id": "3871"
+        },
+        {
+          "id": "3874"
+        },
+        {
+          "id": "3875"
+        },
+        {
+          "id": "3884"
+        },
+        {
+          "id": "3885"
+        },
+        {
+          "id": "3886"
+        },
+        {
+          "id": "3888"
+        },
+        {
+          "id": "40023"
+        },
+        {
+          "id": "42000"
+        },
+        {
+          "id": "42001"
+        },
+        {
+          "id": "42002"
+        },
+        {
+          "id": "42004"
+        },
+        {
+          "id": "42006"
+        },
+        {
+          "id": "42157"
+        },
+        {
+          "id": "49760"
+        },
+        {
+          "id": "49769"
+        },
+        {
+          "id": "49770"
+        },
+        {
+          "id": "49771"
+        },
+        {
+          "id": "49772"
+        },
+        {
+          "id": "49775"
+        },
+        {
+          "id": "49781"
+        },
+        {
+          "id": "49782"
+        },
+        {
+          "id": "49910"
+        },
+        {
+          "id": "12874"
+        },
+        {
+          "id": "12876"
+        },
+        {
+          "id": "12878"
+        },
+        {
+          "id": "12880"
+        },
+        {
+          "id": "12882"
+        },
+        {
+          "id": "12884"
+        },
+        {
+          "id": "12886"
+        },
+        {
+          "id": "12927"
+        },
+        {
+          "id": "12929"
+        },
+        {
+          "id": "12932"
+        },
+        {
+          "id": "12933"
+        },
+        {
+          "id": "12934"
+        },
+        {
+          "id": "12935"
+        },
+        {
+          "id": "12936"
+        },
+        {
+          "id": "12937"
+        },
+        {
+          "id": "12969"
+        },
+        {
+          "id": "12971"
+        },
+        {
+          "id": "12972"
+        },
+        {
+          "id": "12973"
+        },
+        {
+          "id": "12974"
+        },
+        {
+          "id": "13031"
+        },
+        {
+          "id": "13033"
+        },
+        {
+          "id": "13035"
+        },
+        {
+          "id": "13037"
+        },
+        {
+          "id": "13038"
+        },
+        {
+          "id": "13039"
+        },
+        {
+          "id": "13041"
+        },
+        {
+          "id": "13851"
+        },
+        {
+          "id": "13853"
+        },
+        {
+          "id": "11798"
+        },
+        {
+          "id": "11799"
+        },
+        {
+          "id": "11800"
+        },
+        {
+          "id": "48194"
+        },
+        {
+          "id": "48260"
+        },
+        {
+          "id": "52015"
+        },
+        {
+          "id": "5166"
+        },
+        {
+          "id": "5307"
+        },
+        {
+          "id": "53149"
+        },
+        {
+          "id": "5283"
+        },
+        {
+          "id": "5285"
+        },
+        {
+          "id": "5286"
+        },
+        {
+          "id": "5287"
+        },
+        {
+          "id": "5290"
+        },
+        {
+          "id": "5292"
+        },
+        {
+          "id": "5293"
+        },
+        {
+          "id": "5294"
+        },
+        {
+          "id": "5295"
+        },
+        {
+          "id": "5296"
+        },
+        {
+          "id": "5297"
+        },
+        {
+          "id": "5298"
+        },
+        {
+          "id": "5299"
+        },
+        {
+          "id": "5300"
+        },
+        {
+          "id": "5301"
+        },
+        {
+          "id": "5303"
+        },
+        {
+          "id": "5305"
+        },
+        {
+          "id": "52544"
+        },
+        {
+          "id": "52554"
+        },
+        {
+          "id": "54048"
+        },
+        {
+          "id": "5533"
+        },
+        {
+          "id": "5347"
+        },
+        {
+          "id": "5348"
+        },
+        {
+          "id": "5349"
+        },
+        {
+          "id": "5352"
+        },
+        {
+          "id": "5354"
+        },
+        {
+          "id": "5337"
+        },
+        {
+          "id": "5338"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-14T21:35:00.000Z",
+        "end": "2026-10-14T23:30:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/64",
+      "updatedAt": "2026-10-14T19:39:41.000Z",
+      "rawHeader": "Westbound Route 64 trip departing Maplewood Mall TC at 4:35 PM will start from Greenbrier & Geranium. Previous stops missed",
+      "rawDescription": ""
+    },
+    {
+      "id": "54189",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 540: Service Advisory",
+      "summary": "Eastbound Route 540 trip departing Normandale Lake Blvd & 83rd St at 1:32 PM will start from 76th & Knox. Previous stops missed due to traffic",
+      "affectedRoutes": [
+        "Route 540"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [
+        "56554",
+        "56104",
+        "56106",
+        "57099",
+        "6226",
+        "6227",
+        "6233",
+        "53950",
+        "53339",
+        "53052",
+        "51839",
+        "50735",
+        "48609",
+        "48611",
+        "48613",
+        "48164",
+        "47489",
+        "43795",
+        "43796",
+        "4386",
+        "41389",
+        "41390",
+        "41102",
+        "41103",
+        "41104",
+        "41161",
+        "41164",
+        "40415",
+        "2153",
+        "1932",
+        "1933",
+        "1935",
+        "1937"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "56554"
+        },
+        {
+          "id": "56104"
+        },
+        {
+          "id": "56106"
+        },
+        {
+          "id": "57099"
+        },
+        {
+          "id": "6226"
+        },
+        {
+          "id": "6227"
+        },
+        {
+          "id": "6233"
+        },
+        {
+          "id": "53950"
+        },
+        {
+          "id": "53339"
+        },
+        {
+          "id": "53052"
+        },
+        {
+          "id": "51839"
+        },
+        {
+          "id": "50735"
+        },
+        {
+          "id": "48609"
+        },
+        {
+          "id": "48611"
+        },
+        {
+          "id": "48613"
+        },
+        {
+          "id": "48164"
+        },
+        {
+          "id": "47489"
+        },
+        {
+          "id": "43795"
+        },
+        {
+          "id": "43796"
+        },
+        {
+          "id": "4386"
+        },
+        {
+          "id": "41389"
+        },
+        {
+          "id": "41390"
+        },
+        {
+          "id": "41102"
+        },
+        {
+          "id": "41103"
+        },
+        {
+          "id": "41104"
+        },
+        {
+          "id": "41161"
+        },
+        {
+          "id": "41164"
+        },
+        {
+          "id": "40415"
+        },
+        {
+          "id": "2153"
+        },
+        {
+          "id": "1932"
+        },
+        {
+          "id": "1933"
+        },
+        {
+          "id": "1935"
+        },
+        {
+          "id": "1937"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-14T19:15:00.000Z",
+        "end": "2026-10-14T20:10:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/540",
+      "updatedAt": "2026-10-14T19:16:42.000Z",
+      "rawHeader": "Eastbound Route 540 trip departing Normandale Lake Blvd & 83rd St at 1:32 PM will start from 76th & Knox. Previous stops missed due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "54192",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 760: Service Canceled",
+      "summary": "Route 760 trips departing 12th St S & Hennepin Ave S at 3:36 PM and departing 12th St S & Hennepin Ave S at 4:36 PM canceled today",
+      "affectedRoutes": [
+        "Route 760"
+      ],
+      "direction": "All",
+      "intersections": [
+        "Route 760 trips departing 12th St S & Hennepin Ave S",
+        "36 PM and departing 12th St S & Hennepin Ave S"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-14T20:36:00.000Z",
+        "end": "2026-10-14T23:02:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/760",
+      "updatedAt": "2026-10-14T20:06:00.000Z",
+      "rawHeader": "Route 760 trips departing 12th St S & Hennepin Ave S at 3:36 PM and departing 12th St S & Hennepin Ave S at 4:36 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "54187",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 805: Service Canceled",
+      "summary": "Route 805 trip departing 1st Ave S & Monroe St at 1:38 PM and four other trips canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 805"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 805 trip departing 1st Ave S & Monroe St",
+        "departing 1st Ave S & Monroe St",
+        "38 PM\ndeparting 1st Ave S & Monroe St",
+        "36 PM\ndeparting 1st Ave S & Monroe St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-14T19:07:00.000Z",
+        "end": "2026-10-15T00:24:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/805",
+      "updatedAt": "2026-10-14T19:08:02.000Z",
+      "rawHeader": "Route 805 trip departing 1st Ave S & Monroe St at 1:38 PM and four other trips canceled today due to mechanical issue",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
+    },
+    {
+      "id": "54190",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 860: Northbound 3:37 PM Trip Canceled (Smith & 5th St Station)",
+      "summary": "Northbound Route 860 trip departing Smith & 5th St Station at 3:37 PM canceled today",
+      "affectedRoutes": [
+        "Route 860"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-14T20:37:00.000Z",
+        "end": "2026-10-14T22:39:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/860",
+      "updatedAt": "2026-10-14T20:07:00.000Z",
+      "rawHeader": "Northbound Route 860 trip departing Smith & 5th St Station at 3:37 PM canceled today",
       "rawDescription": ""
     },
     {
@@ -312,8 +952,8 @@
       "closedStopIds": [
         "51436",
         "51437",
-        "53280",
         "51405",
+        "53280",
         "53279",
         "51420",
         "51421",
@@ -327,10 +967,10 @@
           "id": "51437"
         },
         {
-          "id": "53280"
+          "id": "51405"
         },
         {
-          "id": "51405"
+          "id": "53280"
         },
         {
           "id": "53279"
@@ -4068,6 +4708,59 @@
       "updatedAt": "2026-09-28T08:00:01.000Z",
       "rawHeader": "Route 74 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
       "rawDescription": "No stops missed.\r\n\nEastbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.\r\n\nWestbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route."
+    },
+    {
+      "id": "54182",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 75: Detour via Minnesota St & 11th St",
+      "summary": "Route 75 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work. Board at: Minnesota St & 11th St - Stop #80701 (northbound); Cedar St & 7th Place / 6th St - Stop #20013 (southbound).",
+      "affectedRoutes": [
+        "Route 75"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Minnesota St & 11th St",
+        "Cedar St & 10th St",
+        "Cedar St & 7th St E",
+        "Cedar St (11th St to 7th St)"
+      ],
+      "closedStopIds": [
+        "11912",
+        "57623",
+        "80701",
+        "20013"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "11912",
+          "name": "Cedar St & 10th St",
+          "direction": "southbound"
+        },
+        {
+          "id": "57623",
+          "name": "Cedar St & 7th St E",
+          "direction": "southbound"
+        },
+        {
+          "id": "80701"
+        },
+        {
+          "id": "20013"
+        }
+      ],
+      "riderAlternative": "Board at: Minnesota St & 11th St - Stop #80701 (northbound); Cedar St & 7th Place / 6th St - Stop #20013 (southbound)",
+      "detourDetails": "Northbound buses will travel regular route.",
+      "activePeriod": {
+        "start": "2026-10-15T11:00:00.000Z",
+        "textDescription": "Beginning Thu Oct 15 at 6:00 AM until further notice"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/75",
+      "updatedAt": "2026-10-14T16:01:29.000Z",
+      "rawHeader": "Route 75 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work",
+      "rawDescription": "Get on/off buses at:\r\nMinnesota St & 11th St - Stop #80701 (northbound)\r\nCedar St & 7th Place / 6th St - Stop #20013 (southbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on Cedar St to 11th St, left on 11th St, right on Robert St, right on 7th St, left on Cedar St, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nCedar St & 10th St - Stop #11912 (southbound)\r\nCedar St & 7th St E - Stop #57623 (southbound)"
     },
     {
       "id": "53982",

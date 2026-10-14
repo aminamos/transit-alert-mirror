@@ -2,35 +2,186 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-101-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-96-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-109-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-8-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-97-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-71-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-72-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-14T15:47:23.204Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-14T20:08:03.101Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (6) • **Route 11** (3) • **Route 14** (2) • **Route 17** (1) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (5) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (6) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (2) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (1) • **Route 11** (3) • **Route 14** (2) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (7) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (3) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (6) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (3) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (3) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (4) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 17: Service Advisory
+### 🚨 Route 7: Southbound 2:18 PM Trip Canceled (Plymouth Ave & Theo Wirth Pkwy)
 
-- **Affected Routes**: `Route 17`
-- **Direction**: Eastbound
+- **Affected Routes**: `Route 7`
+- **Direction**: Southbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #4864, Stop #4866, Stop #5771, Stop #5773, Stop #5775, Stop #5778, Stop #5781, Stop #5784 *(+30 more)*
+- **Closed Stops**: Stop #52737, Stop #52739, Stop #51779, Stop #51545, Stop #48897, Stop #4442, Stop #19434, Stop #19436 *(+6 more)*
 
-**Summary**: Eastbound Route 17 trip departing Blake Rd Station at 9:31 AM will start from Uptown Transit Station. Previous stops missed due to traffic
+**Summary**: Southbound Route 7 trip departing Plymouth Ave & Theo Wirth Pkwy at 2:18 PM canceled today due to collision
 
-[Official Agency Advisory](https://www.metrotransit.org/route/17)
+[Official Agency Advisory](https://www.metrotransit.org/route/7)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Route 17 trip departing Blake Rd Station at 9:31 AM will start from Uptown Transit Station. Previous stops missed due to traffic
+**Header**: Southbound Route 7 trip departing Plymouth Ave & Theo Wirth Pkwy at 2:18 PM canceled today due to collision
+
+</details>
+
+---
+
+### 🚨 Route 10: Southbound 1:47 PM Trip Canceled (Northtown Transit Ctr Gate A)
+
+- **Affected Routes**: `Route 10`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #12282, Stop #19308, Stop #17976, Stop #17978, Stop #17980, Stop #17982, Stop #17984, Stop #17986 *(+3 more)*
+
+**Summary**: Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 1:47 PM canceled from Central & University at 2:28 PM today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/10)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 1:47 PM canceled from Central & University at 2:28 PM today due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 64: Eastbound 1:37 PM Trip Canceled (Smith & 5th St Station)
+
+- **Affected Routes**: `Route 64`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Eastbound Route 64 trip departing Smith & 5th St Station at 1:37 PM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/64)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 64 trip departing Smith & 5th St Station at 1:37 PM canceled today due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 Route 64: Service Advisory
+
+- **Affected Routes**: `Route 64`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #3813, Stop #3870, Stop #3871, Stop #3874, Stop #3875, Stop #3884, Stop #3885, Stop #3886 *(+83 more)*
+
+**Summary**: Westbound Route 64 trip departing Maplewood Mall Transit Center at 4:35 PM will start from Greenbrier & Geranium. Previous stops missed
+
+[Official Agency Advisory](https://www.metrotransit.org/route/64)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 64 trip departing Maplewood Mall TC at 4:35 PM will start from Greenbrier & Geranium. Previous stops missed
+
+</details>
+
+---
+
+### 🚨 Route 540: Service Advisory
+
+- **Affected Routes**: `Route 540`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #56554, Stop #56104, Stop #56106, Stop #57099, Stop #6226, Stop #6227, Stop #6233, Stop #53950 *(+25 more)*
+
+**Summary**: Eastbound Route 540 trip departing Normandale Lake Blvd & 83rd St at 1:32 PM will start from 76th & Knox. Previous stops missed due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/540)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 540 trip departing Normandale Lake Blvd & 83rd St at 1:32 PM will start from 76th & Knox. Previous stops missed due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 760: Service Canceled
+
+- **Affected Routes**: `Route 760`
+- **Direction**: All
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 760 trips departing 12th St S & Hennepin Ave S; 36 PM and departing 12th St S & Hennepin Ave S
+
+**Summary**: Route 760 trips departing 12th St S & Hennepin Ave S at 3:36 PM and departing 12th St S & Hennepin Ave S at 4:36 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/760)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 760 trips departing 12th St S & Hennepin Ave S at 3:36 PM and departing 12th St S & Hennepin Ave S at 4:36 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 805: Service Canceled
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 PM
+departing 1st Ave S & Monroe St; 36 PM
+departing 1st Ave S & Monroe St
+
+**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 1:38 PM and four other trips canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 805 trip departing 1st Ave S & Monroe St at 1:38 PM and four other trips canceled today due to mechanical issue
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate D at 2:34 PM
+departing Northtown Transit Ctr Gate D at 4:34 PM
+
+Affected southbound trips:
+departing 1st Ave S & Monroe St at 1:38 PM
+departing 1st Ave S & Monroe St at 3:36 PM
+departing 1st Ave S & Monroe St at 5:38 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 860: Northbound 3:37 PM Trip Canceled (Smith & 5th St Station)
+
+- **Affected Routes**: `Route 860`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 860 trip departing Smith & 5th St Station at 3:37 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/860)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 860 trip departing Smith & 5th St Station at 3:37 PM canceled today
 
 </details>
 
@@ -137,7 +288,7 @@ Due to mechanical issues, both elevators at Franklin Ave Station are unavailable
 - **Affected Routes**: `METRO Blue Line`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Closed Stops**: Stop #51436, Stop #51437, Stop #53280, Stop #51405, Stop #53279, Stop #51420, Stop #51421, Stop #51422
+- **Closed Stops**: Stop #51436, Stop #51437, Stop #51405, Stop #53280, Stop #53279, Stop #51420, Stop #51421, Stop #51422
 
 **Summary**: Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Friday, Oct. 16 at 8 p.m.
 
@@ -2491,6 +2642,48 @@ No stops missed.
 Eastbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.
 
 Westbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.
+```
+
+</details>
+
+---
+
+### ⚠️ Route 75: Detour via Minnesota St & 11th St
+
+- **Affected Routes**: `Route 75`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Thu Oct 15 at 6:00 AM until further notice
+- **Corridors & Intersections**: Minnesota St & 11th St; Cedar St & 10th St; Cedar St & 7th St E; Cedar St (11th St to 7th St)
+- **Closed Stops**: Cedar St & 10th St (Stop #11912), Cedar St & 7th St E (Stop #57623), Stop #80701, Stop #20013
+
+**Summary**: Route 75 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work. Board at: Minnesota St & 11th St - Stop #80701 (northbound); Cedar St & 7th Place / 6th St - Stop #20013 (southbound).
+
+> 💡 **Rider Action**: Board at: Minnesota St & 11th St - Stop #80701 (northbound); Cedar St & 7th Place / 6th St - Stop #20013 (southbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/75)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 75 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work
+
+```text
+Get on/off buses at:
+Minnesota St & 11th St - Stop #80701 (northbound)
+Cedar St & 7th Place / 6th St - Stop #20013 (southbound)
+
+Northbound buses will travel regular route.
+
+Southbound buses will travel regular route on Cedar St to 11th St, left on 11th St, right on Robert St, right on 7th St, left on Cedar St, and resume regular route.
+
+Affected direction: Southbound
+
+Affected stops:
+Cedar St & 10th St - Stop #11912 (southbound)
+Cedar St & 7th St E - Stop #57623 (southbound)
 ```
 
 </details>

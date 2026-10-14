@@ -4,17 +4,80 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Wed, 14 Oct 2026 15:47:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 20:08:03 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 17: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/17</link>
-      <guid isPermaLink="false">Metro Transit-54179-2026-10-14T14:23:51.000Z</guid>
-      <pubDate>Wed, 14 Oct 2026 14:23:51 GMT</pubDate>
+      <title>[Critical] Route 7: Southbound 2:18 PM Trip Canceled (Plymouth Ave &amp; Theo Wirth Pkwy)</title>
+      <link>https://www.metrotransit.org/route/7</link>
+      <guid isPermaLink="false">Metro Transit-54186-2026-10-14T19:00:06.000Z</guid>
+      <pubDate>Wed, 14 Oct 2026 19:00:06 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 17</category>
-      <description>Eastbound Route 17 trip departing Blake Rd Station at 9:31 AM will start from Uptown Transit Station. Previous stops missed due to traffic</description>
+      <category>Route 7</category>
+      <description>Southbound Route 7 trip departing Plymouth Ave &amp; Theo Wirth Pkwy at 2:18 PM canceled today due to collision</description>
+    </item>
+    <item>
+      <title>[Critical] Route 10: Southbound 1:47 PM Trip Canceled (Northtown Transit Ctr Gate A)</title>
+      <link>https://www.metrotransit.org/route/10</link>
+      <guid isPermaLink="false">Metro Transit-54193-2026-10-14T19:40:50.000Z</guid>
+      <pubDate>Wed, 14 Oct 2026 19:40:50 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 10</category>
+      <description>Southbound Route 10 trip departing Northtown Transit Ctr Gate A at 1:47 PM canceled from Central &amp; University at 2:28 PM today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 64: Eastbound 1:37 PM Trip Canceled (Smith &amp; 5th St Station)</title>
+      <link>https://www.metrotransit.org/route/64</link>
+      <guid isPermaLink="false">Metro Transit-54188-2026-10-14T19:09:32.000Z</guid>
+      <pubDate>Wed, 14 Oct 2026 19:09:32 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 64</category>
+      <description>Eastbound Route 64 trip departing Smith &amp; 5th St Station at 1:37 PM canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 64: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/64</link>
+      <guid isPermaLink="false">Metro Transit-54191-2026-10-14T19:39:41.000Z</guid>
+      <pubDate>Wed, 14 Oct 2026 19:39:41 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 64</category>
+      <description>Westbound Route 64 trip departing Maplewood Mall Transit Center at 4:35 PM will start from Greenbrier &amp; Geranium. Previous stops missed</description>
+    </item>
+    <item>
+      <title>[Critical] Route 540: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/540</link>
+      <guid isPermaLink="false">Metro Transit-54189-2026-10-14T19:16:42.000Z</guid>
+      <pubDate>Wed, 14 Oct 2026 19:16:42 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 540</category>
+      <description>Eastbound Route 540 trip departing Normandale Lake Blvd &amp; 83rd St at 1:32 PM will start from 76th &amp; Knox. Previous stops missed due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 760: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/760</link>
+      <guid isPermaLink="false">Metro Transit-54192-2026-10-14T20:06:00.000Z</guid>
+      <pubDate>Wed, 14 Oct 2026 20:06:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 760</category>
+      <description>Route 760 trips departing 12th St S &amp; Hennepin Ave S at 3:36 PM and departing 12th St S &amp; Hennepin Ave S at 4:36 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 805: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/805</link>
+      <guid isPermaLink="false">Metro Transit-54187-2026-10-14T19:08:02.000Z</guid>
+      <pubDate>Wed, 14 Oct 2026 19:08:02 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 805</category>
+      <description>Route 805 trip departing 1st Ave S &amp; Monroe St at 1:38 PM and four other trips canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 860: Northbound 3:37 PM Trip Canceled (Smith &amp; 5th St Station)</title>
+      <link>https://www.metrotransit.org/route/860</link>
+      <guid isPermaLink="false">Metro Transit-54190-2026-10-14T20:07:00.000Z</guid>
+      <pubDate>Wed, 14 Oct 2026 20:07:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 860</category>
+      <description>Northbound Route 860 trip departing Smith &amp; 5th St Station at 3:37 PM canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -519,6 +582,15 @@
       <category>Moderate</category>
       <category>Route 74</category>
       <description>Route 74 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 75: Detour via Minnesota St &amp; 11th St</title>
+      <link>https://www.metrotransit.org/route/75</link>
+      <guid isPermaLink="false">Metro Transit-54182-2026-10-14T16:01:29.000Z</guid>
+      <pubDate>Wed, 14 Oct 2026 16:01:29 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 75</category>
+      <description>Route 75 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work. Board at: Minnesota St &amp; 11th St - Stop #80701 (northbound); Cedar St &amp; 7th Place / 6th St - Stop #20013 (southbound). | Action: Board at: Minnesota St &amp; 11th St - Stop #80701 (northbound); Cedar St &amp; 7th Place / 6th St - Stop #20013 (southbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 134, Route 14, Route 355, Route 363, Route 94: Stop Closed at 6th St S &amp; 11th Ave S</title>
