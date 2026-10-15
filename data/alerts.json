@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-15T14:50:05.330Z",
-    "totalAlerts": 105,
+    "generatedAt": "2026-10-15T19:00:56.203Z",
+    "totalAlerts": 104,
     "criticalCount": 4,
-    "moderateCount": 97,
+    "moderateCount": 96,
     "minorCount": 4,
     "affectedRoutesCount": 71,
     "agencies": [
@@ -12,55 +12,29 @@
   },
   "alerts": [
     {
-      "id": "54211",
+      "id": "54218",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 2: Westbound 9:34 AM Trip Canceled (2nd Ave SE & 7th St SE)",
-      "summary": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 9:34 AM canceled today due to traffic",
+      "title": "METRO Orange Line: Service Canceled",
+      "summary": "Orange Line trips departing Marquette Ave & 3rd St - Stop Group C at 1:03 PM and departing Burnsville Heart of the City Station at 1:20 PM canceled today due to mechanical issue",
       "affectedRoutes": [
-        "Route 2"
+        "METRO Orange Line"
       ],
-      "direction": "Westbound",
+      "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-15T14:37:00.000Z",
-        "end": "2026-10-15T15:51:00.000Z"
+        "start": "2026-10-15T18:44:00.000Z",
+        "end": "2026-10-15T19:54:00.000Z"
       },
-      "cause": "OTHER_CAUSE",
+      "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-10-15T14:37:22.000Z",
-      "rawHeader": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 9:34 AM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "54210",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 7: Southbound 7:49 AM Trip Canceled (Plymouth Ave & Theo Wirth Pkwy)",
-      "summary": "Southbound Route 7 trip departing Plymouth Ave & Theo Wirth Pkwy at 7:49 AM canceled today due to collision",
-      "affectedRoutes": [
-        "Route 7"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-15T13:15:00.000Z",
-        "end": "2026-10-15T14:55:00.000Z"
-      },
-      "cause": "ACCIDENT",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/7",
-      "updatedAt": "2026-10-15T13:17:16.000Z",
-      "rawHeader": "Southbound Route 7 trip departing Plymouth Ave & Theo Wirth Pkwy at 7:49 AM canceled today due to collision",
+      "url": "https://www.metrotransit.org/route/orange",
+      "updatedAt": "2026-10-15T18:44:40.000Z",
+      "rawHeader": "Orange Line trips departing Marquette Ave & 3rd St - Stop Group C at 1:03 PM and departing Burnsville Heart of the City Station at 1:20 PM canceled today due to mechanical issue",
       "rawDescription": ""
     },
     {
@@ -90,30 +64,60 @@
       "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate B at 8:13 AM\r\ndeparting Sun Ray Transit Center & Gate B at 10:13 AM\r\ndeparting Sun Ray Transit Center & Gate B at 12:13 PM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate A at 9:12 AM\r\ndeparting Maplewood Mall Transit Center & Gate A at 11:12 AM\r\ndeparting Maplewood Mall Transit Center & Gate A at 1:12 PM"
     },
     {
-      "id": "54212",
+      "id": "54214",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 645: Westbound 9:15 AM Trip Canceled (Marquette Ave & 3rd St - Stop Group B)",
-      "summary": "Westbound Route 645 trip departing Marquette Ave & 3rd St - Stop Group B at 9:15 AM canceled today due to maintenance work",
+      "title": "Route 802: Service Canceled",
+      "summary": "Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue",
       "affectedRoutes": [
-        "Route 645"
+        "Route 802"
       ],
-      "direction": "Westbound",
+      "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-15T14:48:00.000Z",
-        "end": "2026-10-15T16:27:00.000Z"
+        "start": "2026-10-15T16:43:00.000Z",
+        "end": "2026-10-16T00:24:00.000Z"
       },
-      "cause": "MAINTENANCE",
+      "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/645",
-      "updatedAt": "2026-10-15T14:48:52.000Z",
-      "rawHeader": "Westbound Route 645 trip departing Marquette Ave & 3rd St - Stop Group B at 9:15 AM canceled today due to maintenance work",
-      "rawDescription": ""
+      "url": "https://www.metrotransit.org/route/802",
+      "updatedAt": "2026-10-15T16:13:01.000Z",
+      "rawHeader": "Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 11:43 AM\r\ndeparting Anoka Tech College & Main Entrance at 1:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 3:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 5:45 PM"
+    },
+    {
+      "id": "54213",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 805: Service Canceled",
+      "summary": "Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 805"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "departing 1st Ave S & Monroe St",
+        "38 PM\ndeparting 1st Ave S & Monroe St",
+        "36 PM\ndeparting 1st Ave S & Monroe St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-15T16:34:00.000Z",
+        "end": "2026-10-16T00:19:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/805",
+      "updatedAt": "2026-10-15T16:04:01.000Z",
+      "rawHeader": "Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today due to mechanical issue",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 11:34 AM\r\ndeparting Northtown Transit Ctr Gate D at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 12:38 PM\r\ndeparting 1st Ave S & Monroe St at 2:36 PM\r\ndeparting 1st Ave S & Monroe St at 4:36 PM"
     },
     {
       "id": "52943",
@@ -234,9 +238,9 @@
       "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [
+        "53280",
         "51436",
         "51437",
-        "53280",
         "51405",
         "51420",
         "51421",
@@ -245,13 +249,13 @@
       ],
       "closedStopDetails": [
         {
+          "id": "53280"
+        },
+        {
           "id": "51436"
         },
         {
           "id": "51437"
-        },
-        {
-          "id": "53280"
         },
         {
           "id": "51405"
@@ -2072,51 +2076,6 @@
       "rawDescription": "Get on/off buses at:\r\n76th St W & #4100 - Stop #52039 (westbound)\r\nParklawn Ave & Parklawn Court - Stop #41091 (northbound)"
     },
     {
-      "id": "53994",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 38: Stop Closed at Excelsior Blvd & 32nd St W",
-      "summary": "Excelsior Blvd & 32nd St W - Stop #4859 (eastbound) is closed for Route 38 until further notice due to construction. Board at: Excelsior Blvd & Glenhurst Ave / France - Stop #4858 (eastbound); Excelsior Blvd & #3121 - Stop #50109 (eastbound).",
-      "affectedRoutes": [
-        "Route 38"
-      ],
-      "direction": "Eastbound",
-      "intersections": [
-        "Excelsior Blvd & 32nd St W",
-        "Excelsior Blvd & Glenhurst Ave"
-      ],
-      "closedStopIds": [
-        "4859",
-        "4858",
-        "3121",
-        "50109"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "4859"
-        },
-        {
-          "id": "4858"
-        },
-        {
-          "id": "3121"
-        },
-        {
-          "id": "50109"
-        }
-      ],
-      "riderAlternative": "Board at: Excelsior Blvd & Glenhurst Ave / France - Stop #4858 (eastbound); Excelsior Blvd & #3121 - Stop #50109 (eastbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-09T17:22:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-09T17:22:30.000Z",
-      "rawHeader": "Excelsior Blvd & 32nd St W - Stop #4859 (eastbound) is closed for Route 38 until further notice due to construction",
-      "rawDescription": "Get on/off buses at:\r\nExcelsior Blvd & Glenhurst Ave / France - Stop #4858 (eastbound)\r\nExcelsior Blvd & #3121 - Stop #50109 (eastbound)"
-    },
-    {
       "id": "53995",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -2299,6 +2258,45 @@
       "updatedAt": "2026-09-03T18:21:39.000Z",
       "rawHeader": "Route 54 detoured off 7th St from Wacouta St to Arcade St and off Arcade St from 7th St to Sims Ave until further notice due to construction",
       "rawDescription": "Updated 8/28 to add additional get on/off stops.\r\n\nFor eastbound Route 54M get on/off buses at:\r\n5th St & Robert Station - Stop #57418 (eastbound)\r\n5th St E & Sibley St - Stop #1839 (eastbound)\r\nTemporary stop on 6th St E & Maria Ave (eastbound)\r\nTemporary stop on 6th St E & Maple St (eastbound)\r\n6th St E & Hope St - Stop #53982 (eastbound)\r\nTemporary stop on 6th St E & Arcade St (eastbound)\r\nTemporary stop on 6th St E & Mendota St (eastbound)\r\nTemporary stop on Forest St & 7th St E (northbound)\r\nTemporary stop on Forest St & York Ave (northbound)\r\nTemporary stop on Forest St & Sims Ave (northbound)\r\nTemporary stop on Arcade St & Jenks Ave (northbound)\r\nArcade St & Maryland Ave - Stop #42053 (northbound)\r\n\nFor westbound Route 54 departing Maplewood Mall get on/off buses at:\r\nArcade St & Rose Ave E - Stop #56680 (southbound)\r\nTemporary stop on Arcade St & Jenks Ave (southbound)\r\nTemporary stop on Sims Ave & Forest St (eastbound)\r\nTemporary stop on Forest St & York Ave (southbound)\r\nTemporary stop on Forest St & 7th St E (southbound)\r\nTemporary stop on Forest St & Minnehaha Ave E (southbound)\r\nTemporary stop on 6th St E & Mendota (westbound)\r\nTemporary stop on 6th St E & Arcade St (westbound)\r\nTemporary stop on 6th St E & Hope St (westbound)\r\nTemporary stop on 6th St E & Maple St (westbound)\r\nTemporary stop on 6th St E & Maria Ave (westbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound)\r\nTemporary stop on 6th St E & Sibley St (westbound)\r\n\nEastbound Route 54M buses will travel regular route on 5th St E to Wacouta St, continue on 5th St, left on Broadway St onto eastbound I-94, exit for Mounds Blvd, continue straight on 6th St E, left on Forest St, left on Sims Ave, right on Arcade St and resume regular route.\r\n\nWestbound buses departing Maplewood Mall will travel regular route on Arcade St to Sims Ave, left on Sims Ave, right on Forest St, right on 6th St, continue onto westbound I-94, exit for 12th St, left on Jackson St, left on 7th St, right on Wall St, and resume regular route.\r\n\nAffected stops:\r\n7th St E & Maria Ave - Stop #11849 (eastbound)\r\n7th St E & Hope St - Stop #10242 (eastbound)\r\nArcade St & Minnehaha Ave - Stop #51089 (northbound)\r\nArcade St & York Ave - Stop #10247 (northbound)\r\n7th St E & Maria Ave - Stop #11850 (westbound)\r\nArcade St & York Ave - Stop #10288 (southbound)\r\nArcade St & Minnehaha Ave - Stop #10291 (southbound)\r\nForest St & Sims Ave - Stop #80817 (northbound)\r\nCase Ave & Forest St - Stop #80996 (eastbound)\r\nForest St & Sims Ave - Stop #80818 (southbound) \r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\n7th St E & Lafayette Rd - Stop #11845 (eastbound)\r\n7th St E & Payne Ave - Stop #11847 (eastbound)\r\n7th St E & Olive St - Stop #57415 (westbound)"
+    },
+    {
+      "id": "54217",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 54, Route 64: Stop Closed at Maryland Ave & Earl St",
+      "summary": "Maryland Ave & Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction. Board at: Maryland Ave & Cypress St - Stop #12918 (eastbound).",
+      "affectedRoutes": [
+        "Route 54",
+        "Route 64"
+      ],
+      "direction": "Eastbound",
+      "intersections": [
+        "Maryland Ave & Earl St",
+        "Maryland Ave & Cypress St"
+      ],
+      "closedStopIds": [
+        "12919",
+        "12918"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "12919"
+        },
+        {
+          "id": "12918"
+        }
+      ],
+      "riderAlternative": "Board at: Maryland Ave & Cypress St - Stop #12918 (eastbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-15T16:40:00.000Z"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/54",
+      "updatedAt": "2026-10-15T16:40:12.000Z",
+      "rawHeader": "Maryland Ave & Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction",
+      "rawDescription": "Get on/off buses at:\r\nMaryland Ave & Cypress St - Stop #12918 (eastbound)"
     },
     {
       "id": "48758",
@@ -5449,80 +5447,6 @@
       "rawDescription": "Get on/off buses at:\r\nOakland Rd & Oakways Rd - Stop #7083 (westbound)\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on Oakland Rd to Carlson Pkwy/Wayzata Blvd S, left on Wayzata Blvd S, right on Bushaway Rd, left on Wayzata Blvd, and resume regular route.\r\n\nAffected direction: Westbound\r\n\nAffected stops:\r\nOakland Rd & Carlson Pkwy - Stop #42502 (westbound)"
     },
     {
-      "id": "52999",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 645: Detour via Ridgedale Dr & Target Entrance - St",
-      "summary": "Route 645 detoured off Ridgedale Dr from Cartway Lane to Plymouth Rd beginning Mon Sep 21 at 7:00 AM until further notice due to construction. Board at: Ridgedale Dr & Target Entrance - Stop #7033 (eastbound); Ridgedale Dr & Hennepin Service Center - Stop #7000 (eastbound).",
-      "affectedRoutes": [
-        "Route 645"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Ridgedale Dr & Target Entrance - St",
-        "Ridgedale Dr & Hennepin Service Center - St",
-        "Ridgedale Dr & Essex Rd",
-        "left on Ridgehaven Dr & continue down ramp to Ridgedale Dr",
-        "Ridgedale Dr & Cartway Lane - St"
-      ],
-      "closedStopIds": [
-        "7034",
-        "7035",
-        "49391",
-        "56601",
-        "7033",
-        "7000",
-        "6771",
-        "7077"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "7034",
-          "name": "Ridgedale Dr & Ridgehaven / Cartway Lane",
-          "direction": "southbound"
-        },
-        {
-          "id": "7035",
-          "name": "Ridgedale Dr & Cartway Lane",
-          "direction": "southbound"
-        },
-        {
-          "id": "49391",
-          "name": "Ridgedale Dr & Plymouth Rd / Cartway Ln",
-          "direction": "northbound"
-        },
-        {
-          "id": "56601",
-          "name": "Ridgedale Dr & Cartway Lane",
-          "direction": "northbound"
-        },
-        {
-          "id": "7033"
-        },
-        {
-          "id": "7000"
-        },
-        {
-          "id": "6771"
-        },
-        {
-          "id": "7077"
-        }
-      ],
-      "riderAlternative": "Board at: Ridgedale Dr & Target Entrance - Stop #7033 (eastbound); Ridgedale Dr & Hennepin Service Center - Stop #7000 (eastbound)",
-      "detourDetails": "Eastbound buses will travel regular route on Ridgedale Dr to Ridgehaven Ln, continue up the ramp and turn right on Plymouth Rd, left on Ridgedale Dr, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-21T12:00:00.000Z",
-        "textDescription": "Beginning Mon Sep 21 at 7:00 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/645",
-      "updatedAt": "2026-09-28T12:00:00.000Z",
-      "rawHeader": "Route 645 detoured off Ridgedale Dr from Cartway Lane to Plymouth Rd beginning Mon Sep 21 at 7:00 AM until further notice due to construction",
-      "rawDescription": "For eastbound Route 645 get on/off buses at:\r\nRidgedale Dr & Target Entrance - Stop #7033 (eastbound)\r\nRidgedale Dr & Hennepin Service Center - Stop #7000 (eastbound)\r\n\nFor westbound Route 645 get on/off buses at:\r\nRidgedale Dr & Hennepin Service Center - Stop #6771 (westbound)\r\nRidgedale Dr & Essex Rd - Stop #7077 (westbound)\r\n\nEastbound buses will travel regular route on Ridgedale Dr to Ridgehaven Ln, continue up the ramp and turn right on Plymouth Rd, left on Ridgedale Dr, and resume regular route.\r\n\nWestbound buses will travel regular route on Ridgedale Dr to Plymouth Rd, right on Plymouth Rd, left on Ridgehaven Dr and continue down ramp to Ridgedale Dr, and resume regular route.\r\n\nAffected stops:\r\nRidgedale Dr & Ridgehaven / Cartway Lane - Stop #7034 (southbound)\r\nRidgedale Dr & Cartway Lane - Stop #7035 (southbound)\r\nRidgedale Dr & Plymouth Rd / Cartway Ln - Stop #49391 (northbound)\r\nRidgedale Dr & Cartway Lane - Stop #56601 (northbound)"
-    },
-    {
       "id": "54178",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -6076,7 +6000,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-10-13T19:26:17.000Z",
+      "updatedAt": "2026-10-15T18:19:50.000Z",
       "rawHeader": "Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 6:00 PM to 8:30 PM on Sat Oct 17 due to Anoka Light Up the Night Parade",
       "rawDescription": "For northbound Route 802 get on/off buses at:\r\nEast River Rd & 7th Ave - Stop #12066 (northbound)\r\nGreen Haven Pkwy & Fairoak Ave - Stop #57211 (northbound)\r\n\nFor southbound Route 802 get on/off buses at:\r\nGreen Haven Pkwy & Fairoak Ave - Stop #57212 (southbound)\r\nEast River Rd & Kings Lane - Stop #12068 (southbound)\r\n\nNorthbound buses will travel regular route on East River Rd to 7th Ave, right on 7th Ave, left on westbound Hwy 10, exit at Greenhaven Pkwy, continue on Green Haven Pkwy, and resume regular route.\r\n\nSouthbound buses will travel regular route on Green Haven Pkwy to Hwy 10, left onto eastbound Hwy 10, exit at 7th Ave, right on 7th Ave, left on East River Rd, and resume regular route.\r\n\nAffected stops:\r\nEast River Rd & South St - Stop #12065 (northbound)\r\n5th Ave & Washington St - Stop #12063 (northbound)\r\n5th Ave & Jefferson St - Stop #12058 (northbound)\r\n5th Ave & Monroe St - Stop #12054 (northbound)\r\nMain St & 3rd Ave - Stop #12051 (westbound)\r\nMain St & 2nd Ave - Stop #12049 (westbound)\r\nMain St & Ferry St - Stop #12046 (westbound)\r\nMain St & State Ave - Stop #12027 (westbound)\r\nMain St & Cutter St - Stop #12026 (westbound)\r\nMain St & Cutter St - Stop #12025 (eastbound)\r\nMain St & State Ave - Stop #12028 (eastbound)\r\nMain St & Branch Ave - Stop #12029 (eastbound)\r\nMain St & 2nd Ave - Stop #12047 (eastbound)\r\nMain St & 3rd Ave - Stop #12050 (eastbound)\r\n5th Ave & Monroe St - Stop #12055 (southbound)\r\n5th Ave & Jefferson St - Stop #12059 (southbound)\r\n5th Ave & Washington St - Stop #12062 (southbound)\r\n5th Ave & Military Rd - Stop #12064 (southbound)\r\nEast River Rd & 7th Ave - Stop #12067 (southbound)"
     },
@@ -6240,7 +6164,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-10-13T19:37:27.000Z",
+      "updatedAt": "2026-10-15T18:19:26.000Z",
       "rawHeader": "Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 12:30 PM to 3:00 PM on Fri Oct 23 due to Anoka Big Parade of Little People",
       "rawDescription": "For northbound Route 802 get on/off buses at:\r\nEast River Rd & 7th Ave - Stop #12066 (northbound)\r\nGreen Haven Pkwy & Fairoak Ave - Stop #57211 (northbound)\r\n\nFor southbound Route 802 get on/off buses at:\r\nGreen Haven Pkwy & Fairoak Ave - Stop #57212 (southbound)\r\nEast River Rd & Kings Lane - Stop #12068 (southbound)\r\n\nNorthbound buses will travel regular route on East River Rd to 7th Ave, right on 7th Ave, left on westbound Hwy 10, exit at Greenhaven Pkwy, continue on Green Haven Pkwy, and resume regular route.\r\n\nSouthbound buses will travel regular route on Green Haven Pkwy to Hwy 10, left onto eastbound Hwy 10, exit at 7th Ave, right on 7th Ave, left on East River Rd, and resume regular route.\r\n\nAffected stops:\r\nEast River Rd & South St - Stop #12065 (northbound)\r\n5th Ave & Washington St - Stop #12063 (northbound)\r\n5th Ave & Jefferson St - Stop #12058 (northbound)\r\n5th Ave & Monroe St - Stop #12054 (northbound)\r\nMain St & 3rd Ave - Stop #12051 (westbound)\r\nMain St & 2nd Ave - Stop #12049 (westbound)\r\nMain St & Ferry St - Stop #12046 (westbound)\r\nMain St & State Ave - Stop #12027 (westbound)\r\nMain St & Cutter St - Stop #12026 (westbound)\r\nMain St & Cutter St - Stop #12025 (eastbound)\r\nMain St & State Ave - Stop #12028 (eastbound)\r\nMain St & Branch Ave - Stop #12029 (eastbound)\r\nMain St & 2nd Ave - Stop #12047 (eastbound)\r\nMain St & 3rd Ave - Stop #12050 (eastbound)\r\n5th Ave & Monroe St - Stop #12055 (southbound)\r\n5th Ave & Jefferson St - Stop #12059 (southbound)\r\n5th Ave & Washington St - Stop #12062 (southbound)\r\n5th Ave & Military Rd - Stop #12064 (southbound)\r\nEast River Rd & 7th Ave - Stop #12067 (southbound)"
     },
@@ -6404,7 +6328,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-10-13T19:46:53.000Z",
+      "updatedAt": "2026-10-15T18:19:03.000Z",
       "rawHeader": "Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 12:00 PM to 5:00 PM on Sat Oct 24 due to Anoka Grand Day Parade",
       "rawDescription": "For northbound Route 802 get on/off buses at:\r\nEast River Rd & 7th Ave - Stop #12066 (northbound)\r\nGreen Haven Pkwy & Fairoak Ave - Stop #57211 (northbound)\r\n\nFor southbound Route 802 get on/off buses at:\r\nGreen Haven Pkwy & Fairoak Ave - Stop #57212 (southbound)\r\nEast River Rd & Kings Lane - Stop #12068 (southbound)\r\n\nNorthbound buses will travel regular route on East River Rd to 7th Ave, right on 7th Ave, left on westbound Hwy 10, exit at Greenhaven Pkwy, continue on Green Haven Pkwy, and resume regular route.\r\n\nSouthbound buses will travel regular route on Green Haven Pkwy to Hwy 10, left onto eastbound Hwy 10, exit at 7th Ave, right on 7th Ave, left on East River Rd, and resume regular route.\r\n\nAffected stops:\r\nEast River Rd & South St - Stop #12065 (northbound)\r\n5th Ave & Washington St - Stop #12063 (northbound)\r\n5th Ave & Jefferson St - Stop #12058 (northbound)\r\n5th Ave & Monroe St - Stop #12054 (northbound)\r\nMain St & 3rd Ave - Stop #12051 (westbound)\r\nMain St & 2nd Ave - Stop #12049 (westbound)\r\nMain St & Ferry St - Stop #12046 (westbound)\r\nMain St & State Ave - Stop #12027 (westbound)\r\nMain St & Cutter St - Stop #12026 (westbound)\r\nMain St & Cutter St - Stop #12025 (eastbound)\r\nMain St & State Ave - Stop #12028 (eastbound)\r\nMain St & Branch Ave - Stop #12029 (eastbound)\r\nMain St & 2nd Ave - Stop #12047 (eastbound)\r\nMain St & 3rd Ave - Stop #12050 (eastbound)\r\n5th Ave & Monroe St - Stop #12055 (southbound)\r\n5th Ave & Jefferson St - Stop #12059 (southbound)\r\n5th Ave & Washington St - Stop #12062 (southbound)\r\n5th Ave & Military Rd - Stop #12064 (southbound)\r\nEast River Rd & 7th Ave - Stop #12067 (southbound)"
     },
@@ -6482,7 +6406,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-10-13T19:44:47.000Z",
+      "updatedAt": "2026-10-15T18:18:36.000Z",
       "rawHeader": "Route 805 detoured off 3rd Ave from Van Buren Ave to Madison St from 12:30 PM to 3:00 PM on Fri Oct 23 due to Anoka Big Parade of Little People",
       "rawDescription": "For northbound Route 805 get on/off buses at:\r\nHarrison St & 3rd Ave - Stop #51301 (westbound)\r\n3rd Ave & Van Buren Ave / Harrison St - Stop #50711 (northbound)\r\n\nFor southbound Route 805 get on/off buses at:\r\n3rd Ave & Van Buren Ave / Harrison St - Stop #50711 (northbound)\r\n\nNorthbound buses will travel regular route on Harrison St to 3rd Ave, continue on Harrison to 2nd Ave, left on 2nd Ave, left on Van Buren St, left on 3rd Ave and layover on northbound 3rd Ave between Van Buren Ave and Harrison St.\r\n\nSouthbound buses will depart temporary layover on northbound 3rd Ave between Van Buren Ave and Harrison St, continue on 3rd Ave, and resume regular route.\r\n\nAffected stops:\r\n3rd Ave & Golf St - Stop #51302 (southbound)\r\n3rd Ave & Jackson St - Stop #57200 (southbound)\r\n1st Ave S & Monroe St - Stop #50716 (southbound)\r\nMadison St & 3rd Ave - Stop #57209 (eastbound)\r\n3rd Ave & Jackson St - Stop #48739 (northbound)\r\n3rd Ave & Van Buren St - Stop #43897 (northbound)"
     },
@@ -6560,7 +6484,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-10-13T19:47:57.000Z",
+      "updatedAt": "2026-10-15T18:18:07.000Z",
       "rawHeader": "Route 805 detoured off 3rd Ave from Van Buren Ave to Madison St from 12:00 PM to 5:00 PM on Sat Oct 24 due to Anoka Grand Day Parade",
       "rawDescription": "For northbound Route 805 get on/off buses at:\r\nHarrison St & 3rd Ave - Stop #51301 (westbound)\r\n3rd Ave & Van Buren Ave / Harrison St - Stop #50711 (northbound)\r\n\nFor southbound Route 805 get on/off buses at:\r\n3rd Ave & Van Buren Ave / Harrison St - Stop #50711 (northbound)\r\n\nNorthbound buses will travel regular route on Harrison St to 3rd Ave, continue on Harrison to 2nd Ave, left on 2nd Ave, left on Van Buren St, left on 3rd Ave and layover on northbound 3rd Ave between Van Buren Ave and Harrison St.\r\n\nSouthbound buses will depart temporary layover on northbound 3rd Ave between Van Buren Ave and Harrison St, continue on 3rd Ave, and resume regular route.\r\n\nAffected stops:\r\n3rd Ave & Golf St - Stop #51302 (southbound)\r\n3rd Ave & Jackson St - Stop #57200 (southbound)\r\n1st Ave S & Monroe St - Stop #50716 (southbound)\r\nMadison St & 3rd Ave - Stop #57209 (eastbound)\r\n3rd Ave & Jackson St - Stop #48739 (northbound)\r\n3rd Ave & Van Buren St - Stop #43897 (northbound)"
     },
@@ -6812,7 +6736,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/827",
-      "updatedAt": "2026-10-13T15:02:34.000Z",
+      "updatedAt": "2026-10-15T18:20:14.000Z",
       "rawHeader": "Route 827 detoured off East River Road from Osborne Rd to 85th Ave from 4:00 PM to 10:00 PM on Sat Oct 17 due to Pumpkin Night in the Park",
       "rawDescription": "For northbound Route 827 get on/off buses at:\r\nEast River Rd & Logan Pkwy - Stop #12133 (northbound)\r\nNorthtown Transit Ctr Gate C - Stop #57167 (westbound)\r\n\nFor southbound Route 827 get on/off buses at:\r\nNorthtown Transit Ctr Gate C - Stop #57167 (westbound)\r\nEast River Rd & Osborne Rd NE - Stop #12128 (southbound)\r\n\nNorthbound buses will travel regular route on East River Rd to Osborne Rd, right on Osborne Rd, left on University Ave, right on 85th Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 85th Ave to University Ave, left on University Ave, right on Osborne Rd, left on East River Rd and resume regular route.\r\n\nAffected stops:\r\nEast River Rd & Osborne Rd NE - Stop #12129 (northbound)\r\nEast River Rd & Rickard Rd - Stop #12126 (northbound)\r\nEast River Rd & 77th Way - Stop #12125 (northbound)\r\nEast River Rd & Pearson Way - Stop #12122 (northbound)\r\nEast River Rd & 79th Way - Stop #12121 (northbound)\r\nEast River Rd & Liberty St - Stop #12117 (northbound)\r\nEast River Rd & Fairmont St - Stop #12113 (northbound)\r\nEast River Rd & Hugo St - Stop #12110 (northbound)\r\nEast River Rd & Larch St NW - Stop #10906 (northbound)\r\nEast River Rd & 84th Lane NE - Stop #10910 (northbound)\r\n85th Ave NW & Norway St NW - Stop #10928 (eastbound)\r\n85th Ave NW & Evergreen Blvd - Stop #10930 (eastbound)\r\n85th Ave NW & Cottonwood St - Stop #10932 (eastbound)\r\n85th Ave NE & Springbrook Dr NE - Stop #56934 (eastbound)\r\n85th Ave NW & Cottonwood St - Stop #53418 (westbound)\r\n85th Ave NW & Evergreen Blvd - Stop #10931 (westbound)\r\n85th Ave NW & #455 Ryerson Co - Stop #53761 (westbound)\r\n85th Ave NW & Norway St NW - Stop #10929 (westbound)\r\nEast River Rd & 85th Ave / 84th Lane - Stop #10911 (southbound)\r\nEast River Rd & Kimball St NE - Stop #10907 (southbound)\r\nEast River Rd & Hugo St - Stop #12111 (southbound)\r\nEast River Rd & Ely St - Stop #51258 (southbound)\r\nEast River Rd & Liberty St - Stop #12116 (southbound)\r\nEast River Rd & Longfellow St NE - Stop #12119 (southbound)\r\nEast River & Pearson Way/Craigbrook Way - Stop #12123 (southbound)\r\nEast River Rd & Stonybrook Way - Stop #12124 (southbound)\r\nEast River Rd & Rickard Rd - Stop #12127 (southbound)"
     },
@@ -7053,7 +6977,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "STOP_MOVED",
-      "updatedAt": "2026-10-09T14:21:40.000Z",
+      "updatedAt": "2026-10-15T17:54:01.000Z",
       "rawHeader": "Co Rd 73 & Wayzata Blvd N - Stop #6069 (southbound) is permanently moving for Routes 615 and 645",
       "rawDescription": "Updated to reflect the new bus stop location 10/9 at 9:20 AM.\r\n\nThe bus stop has been moved to eastbound Wayzata Blvd N & Co Rd 73."
     }

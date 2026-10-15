@@ -2,53 +2,34 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-105-blue)](#)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-104-blue)](#)
 [![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-97-orange)](#-moderate-detours--changes)
+[![Moderate](https://img.shields.io/badge/Moderate-96-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-71-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-15T14:50:05.330Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-15T19:00:56.203Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (6) • **Route 11** (2) • **Route 14** (2) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (5) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (2) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (7) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (2) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (6) • **Route 11** (2) • **Route 14** (2) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (2) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (2) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (4) • **Route 805** (3) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 2: Westbound 9:34 AM Trip Canceled (2nd Ave SE & 7th St SE)
+### 🚨 METRO Orange Line: Service Canceled
 
-- **Affected Routes**: `Route 2`
-- **Direction**: Westbound
+- **Affected Routes**: `METRO Orange Line`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 9:34 AM canceled today due to traffic
+**Summary**: Orange Line trips departing Marquette Ave & 3rd St - Stop Group C at 1:03 PM and departing Burnsville Heart of the City Station at 1:20 PM canceled today due to mechanical issue
 
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
+[Official Agency Advisory](https://www.metrotransit.org/route/orange)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 9:34 AM canceled today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 7: Southbound 7:49 AM Trip Canceled (Plymouth Ave & Theo Wirth Pkwy)
-
-- **Affected Routes**: `Route 7`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound Route 7 trip departing Plymouth Ave & Theo Wirth Pkwy at 7:49 AM canceled today due to collision
-
-[Official Agency Advisory](https://www.metrotransit.org/route/7)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 7 trip departing Plymouth Ave & Theo Wirth Pkwy at 7:49 AM canceled today due to collision
+**Header**: Orange Line trips departing Marquette Ave & 3rd St - Stop Group C at 1:03 PM and departing Burnsville Heart of the City Station at 1:20 PM canceled today due to mechanical issue
 
 </details>
 
@@ -85,20 +66,68 @@ departing Maplewood Mall Transit Center & Gate A at 1:12 PM
 
 ---
 
-### 🚨 Route 645: Westbound 9:15 AM Trip Canceled (Marquette Ave & 3rd St - Stop Group B)
+### 🚨 Route 802: Service Canceled
 
-- **Affected Routes**: `Route 645`
-- **Direction**: Westbound
+- **Affected Routes**: `Route 802`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: Westbound Route 645 trip departing Marquette Ave & 3rd St - Stop Group B at 9:15 AM canceled today due to maintenance work
+**Summary**: Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue
 
-[Official Agency Advisory](https://www.metrotransit.org/route/645)
+[Official Agency Advisory](https://www.metrotransit.org/route/802)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Westbound Route 645 trip departing Marquette Ave & 3rd St - Stop Group B at 9:15 AM canceled today due to maintenance work
+**Header**: Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate E at 12:34 PM
+departing Northtown Transit Ctr Gate E at 2:34 PM
+departing Northtown Transit Ctr Gate E at 4:34 PM
+
+Affected southbound trips:
+departing Anoka Tech College & Main Entrance at 11:43 AM
+departing Anoka Tech College & Main Entrance at 1:42 PM
+departing Anoka Tech College & Main Entrance at 3:42 PM
+departing Anoka Tech College & Main Entrance at 5:45 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 805: Service Canceled
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing 1st Ave S & Monroe St; 38 PM
+departing 1st Ave S & Monroe St; 36 PM
+departing 1st Ave S & Monroe St
+
+**Summary**: Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today due to mechanical issue
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate D at 11:34 AM
+departing Northtown Transit Ctr Gate D at 1:34 PM
+departing Northtown Transit Ctr Gate D at 3:34 PM
+departing Northtown Transit Ctr Gate D at 5:34 PM
+
+Affected southbound trips:
+departing 1st Ave S & Monroe St at 12:38 PM
+departing 1st Ave S & Monroe St at 2:36 PM
+departing 1st Ave S & Monroe St at 4:36 PM
+```
 
 </details>
 
@@ -205,7 +234,7 @@ Due to mechanical issues, both elevators at Franklin Ave Station are unavailable
 - **Affected Routes**: `METRO Blue Line`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Closed Stops**: Stop #51436, Stop #51437, Stop #53280, Stop #51405, Stop #51420, Stop #51421, Stop #51422, Stop #53279
+- **Closed Stops**: Stop #53280, Stop #51436, Stop #51437, Stop #51405, Stop #51420, Stop #51421, Stop #51422, Stop #53279
 
 **Summary**: Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Friday, Oct. 16 at 8 p.m.
 
@@ -1401,33 +1430,6 @@ Parklawn Ave & Parklawn Court - Stop #41091 (northbound)
 
 ---
 
-### ⚠️ Route 38: Stop Closed at Excelsior Blvd & 32nd St W
-
-- **Affected Routes**: `Route 38`
-- **Direction**: Eastbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Excelsior Blvd & 32nd St W; Excelsior Blvd & Glenhurst Ave
-- **Closed Stops**: Stop #4859, Stop #4858, Stop #3121, Stop #50109
-
-**Summary**: Excelsior Blvd & 32nd St W - Stop #4859 (eastbound) is closed for Route 38 until further notice due to construction. Board at: Excelsior Blvd & Glenhurst Ave / France - Stop #4858 (eastbound); Excelsior Blvd & #3121 - Stop #50109 (eastbound).
-
-> 💡 **Rider Action**: Board at: Excelsior Blvd & Glenhurst Ave / France - Stop #4858 (eastbound); Excelsior Blvd & #3121 - Stop #50109 (eastbound)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Excelsior Blvd & 32nd St W - Stop #4859 (eastbound) is closed for Route 38 until further notice due to construction
-
-```text
-Get on/off buses at:
-Excelsior Blvd & Glenhurst Ave / France - Stop #4858 (eastbound)
-Excelsior Blvd & #3121 - Stop #50109 (eastbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 46: Detour via 50th St W & Washburn Ave
 
 - **Affected Routes**: `Route 46`
@@ -1536,6 +1538,34 @@ Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 7th St E & Lafayette Rd - Stop #11845 (eastbound)
 7th St E & Payne Ave - Stop #11847 (eastbound)
 7th St E & Olive St - Stop #57415 (westbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 54, Route 64: Stop Closed at Maryland Ave & Earl St
+
+- **Affected Routes**: `Route 54` `Route 64`
+- **Direction**: Eastbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Maryland Ave & Earl St; Maryland Ave & Cypress St
+- **Closed Stops**: Stop #12919, Stop #12918
+
+**Summary**: Maryland Ave & Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction. Board at: Maryland Ave & Cypress St - Stop #12918 (eastbound).
+
+> 💡 **Rider Action**: Board at: Maryland Ave & Cypress St - Stop #12918 (eastbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/54)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Maryland Ave & Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction
+
+```text
+Get on/off buses at:
+Maryland Ave & Cypress St - Stop #12918 (eastbound)
 ```
 
 </details>
@@ -3475,52 +3505,6 @@ Affected direction: Westbound
 
 Affected stops:
 Oakland Rd & Carlson Pkwy - Stop #42502 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 645: Detour via Ridgedale Dr & Target Entrance - St
-
-- **Affected Routes**: `Route 645`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Sep 21 at 7:00 AM until further notice
-- **Corridors & Intersections**: Ridgedale Dr & Target Entrance - St; Ridgedale Dr & Hennepin Service Center - St; Ridgedale Dr & Essex Rd; left on Ridgehaven Dr & continue down ramp to Ridgedale Dr; Ridgedale Dr & Cartway Lane - St
-- **Closed Stops**: Ridgedale Dr & Ridgehaven / Cartway Lane (Stop #7034), Ridgedale Dr & Cartway Lane (Stop #7035), Ridgedale Dr & Plymouth Rd / Cartway Ln (Stop #49391), Ridgedale Dr & Cartway Lane (Stop #56601), Stop #7033, Stop #7000, Stop #6771, Stop #7077
-
-**Summary**: Route 645 detoured off Ridgedale Dr from Cartway Lane to Plymouth Rd beginning Mon Sep 21 at 7:00 AM until further notice due to construction. Board at: Ridgedale Dr & Target Entrance - Stop #7033 (eastbound); Ridgedale Dr & Hennepin Service Center - Stop #7000 (eastbound).
-
-> 💡 **Rider Action**: Board at: Ridgedale Dr & Target Entrance - Stop #7033 (eastbound); Ridgedale Dr & Hennepin Service Center - Stop #7000 (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on Ridgedale Dr to Ridgehaven Ln, continue up the ramp and turn right on Plymouth Rd, left on Ridgedale Dr, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/645)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 645 detoured off Ridgedale Dr from Cartway Lane to Plymouth Rd beginning Mon Sep 21 at 7:00 AM until further notice due to construction
-
-```text
-For eastbound Route 645 get on/off buses at:
-Ridgedale Dr & Target Entrance - Stop #7033 (eastbound)
-Ridgedale Dr & Hennepin Service Center - Stop #7000 (eastbound)
-
-For westbound Route 645 get on/off buses at:
-Ridgedale Dr & Hennepin Service Center - Stop #6771 (westbound)
-Ridgedale Dr & Essex Rd - Stop #7077 (westbound)
-
-Eastbound buses will travel regular route on Ridgedale Dr to Ridgehaven Ln, continue up the ramp and turn right on Plymouth Rd, left on Ridgedale Dr, and resume regular route.
-
-Westbound buses will travel regular route on Ridgedale Dr to Plymouth Rd, right on Plymouth Rd, left on Ridgehaven Dr and continue down ramp to Ridgedale Dr, and resume regular route.
-
-Affected stops:
-Ridgedale Dr & Ridgehaven / Cartway Lane - Stop #7034 (southbound)
-Ridgedale Dr & Cartway Lane - Stop #7035 (southbound)
-Ridgedale Dr & Plymouth Rd / Cartway Ln - Stop #49391 (northbound)
-Ridgedale Dr & Cartway Lane - Stop #56601 (northbound)
 ```
 
 </details>
