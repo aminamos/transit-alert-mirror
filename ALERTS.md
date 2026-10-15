@@ -2,65 +2,73 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-104-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-96-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-71-brightgreen)](#-routes-index)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-109-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-6-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-98-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-5-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-75-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-15T19:00:56.203Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-15T22:59:25.762Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (6) • **Route 11** (2) • **Route 14** (2) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (2) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (2) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (4) • **Route 805** (3) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (3) • **METRO Blue Line** (3) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (2) • **Route 14** (2) • **Route 18** (6) • **Route 22** (6) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (4) • **Route 805** (3) • **Route 824** (1) • **Route 827** (3) • **Route 850** (3) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO Orange Line: Service Canceled
+### 🚨 METRO A Line: Northbound 5:33 PM Trip Canceled (46th St Station Gate A)
 
-- **Affected Routes**: `METRO Orange Line`
-- **Direction**: Both Directions
+- **Affected Routes**: `METRO A Line`
+- **Direction**: Northbound
 - **Severity**: `Critical`
 
-**Summary**: Orange Line trips departing Marquette Ave & 3rd St - Stop Group C at 1:03 PM and departing Burnsville Heart of the City Station at 1:20 PM canceled today due to mechanical issue
+**Summary**: Northbound A Line trip departing 46th St Station Gate A at 5:33 PM canceled due to mechanical issue
 
-[Official Agency Advisory](https://www.metrotransit.org/route/orange)
+[Official Agency Advisory](https://www.metrotransit.org/route/aline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Orange Line trips departing Marquette Ave & 3rd St - Stop Group C at 1:03 PM and departing Burnsville Heart of the City Station at 1:20 PM canceled today due to mechanical issue
+**Header**: Northbound A Line trip departing 46th St Station Gate A at 5:33 PM canceled due to mechanical issue
 
 </details>
 
 ---
 
-### 🚨 Route 219: Service Canceled
+### 🚨 Route 22: Southbound 3:42 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)
 
-- **Affected Routes**: `Route 219`
-- **Direction**: Both Directions
+- **Affected Routes**: `Route 22`
+- **Direction**: Southbound
 - **Severity**: `Critical`
 
-**Summary**: Route 219 trip departing Sun Ray Transit Center & Gate B at 8:13 AM and five other trips canceled today
+**Summary**: Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 3:42 PM canceled
 
-[Official Agency Advisory](https://www.metrotransit.org/route/219)
+[Official Agency Advisory](https://www.metrotransit.org/route/22)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 219 trip departing Sun Ray Transit Center & Gate B at 8:13 AM and five other trips canceled today
+**Header**: Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 3:42 PM canceled
 
-```text
-Affected northbound trips:
-departing Sun Ray Transit Center & Gate B at 8:13 AM
-departing Sun Ray Transit Center & Gate B at 10:13 AM
-departing Sun Ray Transit Center & Gate B at 12:13 PM
+</details>
 
-Affected southbound trips:
-departing Maplewood Mall Transit Center & Gate A at 9:12 AM
-departing Maplewood Mall Transit Center & Gate A at 11:12 AM
-departing Maplewood Mall Transit Center & Gate A at 1:12 PM
-```
+---
+
+### 🚨 Route 22: Service Advisory
+
+- **Affected Routes**: `Route 22`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #57362, Stop #81110, Stop #57194, Stop #4509, Stop #4558, Stop #4559, Stop #4662, Stop #4442 *(+49 more)*
+
+**Summary**: Northbound Route 22 trip departing VA Medical Center at 5:31 PM will start from 7th & Olson Mem Hwy. Previous stops missed
+
+[Official Agency Advisory](https://www.metrotransit.org/route/22)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 22 trip departing VA Medical Center at 5:31 PM will start from 7th & Olson Mem Hwy. Previous stops missed
 
 </details>
 
@@ -128,6 +136,25 @@ departing 1st Ave S & Monroe St at 12:38 PM
 departing 1st Ave S & Monroe St at 2:36 PM
 departing 1st Ave S & Monroe St at 4:36 PM
 ```
+
+</details>
+
+---
+
+### 🚨 Route 850: Northbound 4:37 PM Trip Canceled (2nd Ave S & 11th St - Stop Group G)
+
+- **Affected Routes**: `Route 850`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 850 trip departing 2nd Ave S & 11th St - Stop Group G at 4:37 PM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/850)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 850 trip departing 2nd Ave S & 11th St - Stop Group G at 4:37 PM canceled today due to mechanical issue
 
 </details>
 
@@ -234,7 +261,7 @@ Due to mechanical issues, both elevators at Franklin Ave Station are unavailable
 - **Affected Routes**: `METRO Blue Line`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Closed Stops**: Stop #53280, Stop #51436, Stop #51437, Stop #51405, Stop #51420, Stop #51421, Stop #51422, Stop #53279
+- **Closed Stops**: Stop #51436, Stop #51437, Stop #53280, Stop #51405, Stop #53279, Stop #51420, Stop #51421, Stop #51422
 
 **Summary**: Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Friday, Oct. 16 at 8 p.m.
 
@@ -798,6 +825,36 @@ Westbound buses will travel regular route on 25th St to 34th Ave, left on 34th A
 Affected stops:
 25th St E & 33rd Ave S - Stop #16457 (eastbound)
 25th St E & 33rd Ave S - Stop #17597 (westbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 10, Route 25, Route 470: Stop Closed at 3rd Ave S & 11th St S
+
+- **Affected Routes**: `Route 10` `Route 25` `Route 470`
+- **Direction**: Southbound
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Tue Oct 20 at 7:00 AM until further notice
+- **Corridors & Intersections**: 3rd Ave S & 11th St S; 4th Ave S & 7th St S
+- **Closed Stops**: Stop #19277, Stop #19337, Stop #19297
+
+**Summary**: 3rd Ave S & 11th St S - Stop #19277 (southbound) is closed for Routes 10, 25 and 470 beginning Tue Oct 20 at 7:00 AM until further notice due to utility work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/10)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: 3rd Ave S & 11th St S - Stop #19277 (southbound) is closed for Routes 10, 25 and 470 beginning Tue Oct 20 at 7:00 AM until further notice due to utility work
+
+```text
+Get on Route 10 and 25 buses at:
+Leamington Ramp & Lower - Gate #7 - Stop #19337
+
+Get on Route 470 buses at:
+4th Ave S & 7th St S - Stop #19297 (southbound)
 ```
 
 </details>
@@ -3158,6 +3215,58 @@ Beard Ave S & 108th St W - Stop #56793 (southbound)
 
 ---
 
+### ⚠️ Route 539: Detour via 98th St W & Normandale College - St
+
+- **Affected Routes**: `Route 539`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 98th St W & Normandale College - St; Penn Ave S & 98th St W; 98th St W & Penn Ave; 98th St W & Penn Ave S; 98th St W & Chowen Ave S
+- **Closed Stops**: 98th St W & Chowen Ave S (Stop #2079), 98th St W & Abbott Ave S (Stop #2081), 98th St W & Xerxes Ave S (Stop #2082), 98th St W & Upton Circle (Stop #1734), 98th St W & Russell Ave S (Stop #1735), 98th St W & Penn Ave S (Stop #57096), 98th St W & Russell Ave S (Stop #1626), 98th St W & Upton Rd (Stop #1627) *(+6 more)*
+
+**Summary**: Route 539 detoured off 98th St W from Penn Ave S to France Ave S until further notice due to construction. Board at: 98th St W & Normandale College - Stop #2078 (eastbound); Penn Ave S & 98th St W - Stop #57125 (northbound); 98th St W & Penn Ave / Newton Ave S - Stop #1737 (eastbound).
+
+> 💡 **Rider Action**: Board at: 98th St W & Normandale College - Stop #2078 (eastbound); Penn Ave S & 98th St W - Stop #57125 (northbound); 98th St W & Penn Ave / Newton Ave S - Stop #1737 (eastbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel the regular route on 98th St W to France Ave S, right on France Ave S, left on 102nd St W, left on Penn Ave S, right on 98th St W, and resume the regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/539)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 539 detoured off 98th St W from Penn Ave S to France Ave S until further notice due to construction.
+
+```text
+For eastbound Route 539 get on/off buses at:
+98th St W & Normandale College - Stop #2078 (eastbound)
+Penn Ave S & 98th St W - Stop #57125 (northbound) 
+98th St W & Penn Ave / Newton Ave S - Stop #1737 (eastbound)
+
+For westbound Route 539 get on/off buses at:
+98th St W & Penn Ave S - Stop #1624 (westbound)
+Penn Ave S & 98th St W - Stop #57125 (northbound)
+
+Eastbound buses will travel the regular route on 98th St W to France Ave S, right on France Ave S, left on 102nd St W, left on Penn Ave S, right on 98th St W, and resume the regular route.
+
+Westbound buses will travel the regular route on 98th St W to Penn Ave S, left on Penn Ave S, right on 102nd St W, right on France Ave S, left on 98th St W, and resume the regular route.
+
+Affected stops:
+98th St W & Chowen Ave S - Stop #2079 (eastbound)
+98th St W & Abbott Ave S - Stop #2081 (eastbound)
+98th St W & Xerxes Ave S - Stop #2082 (eastbound)
+98th St W & Upton Circle - Stop #1734 (eastbound)
+98th St W & Russell Ave S - Stop #1735 (eastbound)
+98th St W & Penn Ave S - Stop #57096 (eastbound)
+98th St W & Russell Ave S - Stop #1626 (westbound)
+98th St W & Upton Rd - Stop #1627 (westbound)
+98th St W & Xerxes Ave S - Stop #2065 (westbound)
+98th St W & Abbott Ave S - Stop #2066 (westbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 540: Stop Closed at 77th St W & Nicollet Ave S
 
 - **Affected Routes**: `Route 540`
@@ -4284,6 +4393,24 @@ LaFayette Rd & Grove St - Stop #11923 (southbound)
 ---
 
 ## ℹ️ Minor Advisories
+
+### ℹ️ METRO Blue Line, METRO Green Line: Service Advisory
+
+- **Affected Routes**: `METRO Blue Line` `METRO Green Line`
+- **Direction**: All
+- **Severity**: `Minor`
+- **Closed Stops**: Stop #56333, Stop #56339, Stop #56335, Stop #56334
+
+**Summary**: Green Line and Blue Line trains may be delayed due to train stopped at Target Field Station
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Green Line and Blue Line trains may be delayed due to train stopped at Target Field Station
+
+</details>
+
+---
 
 ### ℹ️ Route 14 Service Advisory: New Bus Stops Have Been Added at Bloomington Ave & 22nd St
 
