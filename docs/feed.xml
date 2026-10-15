@@ -4,9 +4,45 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Thu, 15 Oct 2026 09:44:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 14:50:05 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] Route 2: Westbound 9:34 AM Trip Canceled (2nd Ave SE &amp; 7th St SE)</title>
+      <link>https://www.metrotransit.org/route/2</link>
+      <guid isPermaLink="false">Metro Transit-54211-2026-10-15T14:37:22.000Z</guid>
+      <pubDate>Thu, 15 Oct 2026 14:37:22 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 2</category>
+      <description>Westbound Route 2 trip departing 2nd Ave SE &amp; 7th St SE at 9:34 AM canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 7: Southbound 7:49 AM Trip Canceled (Plymouth Ave &amp; Theo Wirth Pkwy)</title>
+      <link>https://www.metrotransit.org/route/7</link>
+      <guid isPermaLink="false">Metro Transit-54210-2026-10-15T13:17:16.000Z</guid>
+      <pubDate>Thu, 15 Oct 2026 13:17:16 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 7</category>
+      <description>Southbound Route 7 trip departing Plymouth Ave &amp; Theo Wirth Pkwy at 7:49 AM canceled today due to collision</description>
+    </item>
+    <item>
+      <title>[Critical] Route 219: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/219</link>
+      <guid isPermaLink="false">Metro Transit-54209-2026-10-15T12:43:00.000Z</guid>
+      <pubDate>Thu, 15 Oct 2026 12:43:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 219</category>
+      <description>Route 219 trip departing Sun Ray Transit Center &amp; Gate B at 8:13 AM and five other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 645: Westbound 9:15 AM Trip Canceled (Marquette Ave &amp; 3rd St - Stop Group B)</title>
+      <link>https://www.metrotransit.org/route/645</link>
+      <guid isPermaLink="false">Metro Transit-54212-2026-10-15T14:48:52.000Z</guid>
+      <pubDate>Thu, 15 Oct 2026 14:48:52 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 645</category>
+      <description>Westbound Route 645 trip departing Marquette Ave &amp; 3rd St - Stop Group B at 9:15 AM canceled today due to maintenance work</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -73,8 +109,8 @@
     <item>
       <title>[Moderate] Route 3, Route 62, Route 67: Detour via 11th St W &amp; St Peter St</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54181-2026-10-15T05:00:02.000Z</guid>
-      <pubDate>Thu, 15 Oct 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54181-2026-10-15T10:30:02.000Z</guid>
+      <pubDate>Thu, 15 Oct 2026 10:30:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 3, Route 62, Route 67</category>
       <description>Routes 3, 62 and 67 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work. Board at: 11th St W &amp; St Peter St - Stop #49450 (eastbound); Cedar St &amp; 7th Place / 6th St - Stop #20013 (southbound). | Action: Board at: 11th St W &amp; St Peter St - Stop #49450 (eastbound); Cedar St &amp; 7th Place / 6th St - Stop #20013 (southbound)</description>
@@ -161,15 +197,6 @@
       <description>Route 11 detoured off Main St NE from Edge Pl to 35th Ave and off 35th Ave from Main St NE to 2 1/2 St beginning Tue May 26 at 7:00 AM until further notice due to construction. Board at: Main St NE &amp; St Anthony Pkwy - Stop #14618 (northbound); Temporary stop on Main St NE just before Edge Place NE (northbound); Temporary stop on 2nd 1/2 St NE &amp; 35th Ave NE (northbound). | Action: Board at: Main St NE &amp; St Anthony Pkwy - Stop #14618 (northbound); Temporary stop on Main St NE just before Edge Place NE (northbound); Temporary stop on 2nd 1/2 St NE &amp; 35th Ave NE (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 11: Detour via Grand St NE &amp; 30th Ave N</title>
-      <link>https://www.metrotransit.org/route/11</link>
-      <guid isPermaLink="false">Metro Transit-53983-2026-10-12T11:30:05.000Z</guid>
-      <pubDate>Mon, 12 Oct 2026 11:30:05 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 11</category>
-      <description>Route 11 detoured off Grand St from 30th Ave to 31st Ave and off 31st Ave from Grand St to Columbia Ave beginning Mon Oct 12 at 7:00 AM until further notice due to construction. Board at: Grand St NE &amp; 30th Ave NE - Stop #14632 (northbound); Temporary stop Columbia Ave NE &amp; 31st Ave NE (northbound); Columbia Ave NE &amp; St Anthony Pkwy - Stop #14622 (northbound). | Action: Board at: Grand St NE &amp; 30th Ave NE - Stop #14632 (northbound); Temporary stop Columbia Ave NE &amp; 31st Ave NE (northbound); Columbia Ave NE &amp; St Anthony Pkwy - Stop #14622 (northbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 11, Route 18: Stop Closed at Nicollet Ave S &amp; 48th St W</title>
       <link>https://www.metrotransit.org/route/11</link>
       <guid isPermaLink="false">Metro Transit-54131-2026-10-13T13:40:02.000Z</guid>
@@ -253,8 +280,8 @@
     <item>
       <title>[Moderate] Route 22, Route 22C: Detour via 53rd Ave N &amp; Colfax Ave</title>
       <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-53865-2026-10-08T11:30:08.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 11:30:08 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53865-2026-10-15T12:00:00.000Z</guid>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 22, Route 22C</category>
       <description>Route 22C detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice. Board at: 53rd Ave N &amp; Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N &amp; 57th Ave N - Stop #11442 (northbound). | Action: Board at: 53rd Ave N &amp; Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N &amp; 57th Ave N - Stop #11442 (northbound)</description>
@@ -496,11 +523,11 @@
     <item>
       <title>[Moderate] Route 72, Route 74: Stop Closed at Pedersen St &amp; Wilson Ave</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54207-2026-10-15T07:30:18.000Z</guid>
-      <pubDate>Thu, 15 Oct 2026 07:30:18 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54207-2026-10-15T13:43:13.000Z</guid>
+      <pubDate>Thu, 15 Oct 2026 13:43:13 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 72, Route 74</category>
-      <description>Sun Ray Transit Center &amp; Gate D - Stop #13667 (northbound) is closed for Routes 72 and 74 beginning at 6:00 AM until further notice. Board at: Pedersen St &amp; Wilson Ave - Temporary Stop (eastbound); Pedersen St &amp; Wilson Ave - Temporary Stop (westbound). | Action: Board at: Pedersen St &amp; Wilson Ave - Temporary Stop (eastbound); Pedersen St &amp; Wilson Ave - Temporary Stop (westbound)</description>
+      <description>Sun Ray Transit Center &amp; Gate D - Stop #13667 (northbound) is closed for Routes 72 and 74 beginning at 6:00 AM until further notice. Board at: Temporary stop on Pedersen St &amp; Wilson Ave (northbound). | Action: Board at: Temporary stop on Pedersen St &amp; Wilson Ave (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 74: Detour via 5th St E &amp; Sibley St</title>
@@ -523,8 +550,8 @@
     <item>
       <title>[Moderate] Route 75: Detour via Minnesota St &amp; 11th St</title>
       <link>https://www.metrotransit.org/route/75</link>
-      <guid isPermaLink="false">Metro Transit-54182-2026-10-15T05:00:01.000Z</guid>
-      <pubDate>Thu, 15 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54182-2026-10-15T10:30:02.000Z</guid>
+      <pubDate>Thu, 15 Oct 2026 10:30:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 75</category>
       <description>Route 75 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work. Board at: Minnesota St &amp; 11th St - Stop #80701 (northbound); Cedar St &amp; 7th Place / 6th St - Stop #20013 (southbound). | Action: Board at: Minnesota St &amp; 11th St - Stop #80701 (northbound); Cedar St &amp; 7th Place / 6th St - Stop #20013 (southbound)</description>
@@ -793,8 +820,8 @@
     <item>
       <title>[Moderate] Route 763: Detour via 53rd Ave N &amp; Colfax Ave</title>
       <link>https://www.metrotransit.org/route/763</link>
-      <guid isPermaLink="false">Metro Transit-53866-2026-10-08T11:30:08.000Z</guid>
-      <pubDate>Thu, 08 Oct 2026 11:30:08 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53866-2026-10-15T12:00:00.000Z</guid>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 763</category>
       <description>Route 763 detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice. Board at: 53rd Ave N &amp; Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N &amp; 57th Ave N - Stop #11442 (northbound). | Action: Board at: 53rd Ave N &amp; Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N &amp; 57th Ave N - Stop #11442 (northbound)</description>

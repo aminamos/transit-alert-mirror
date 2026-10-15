@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-15T09:44:57.831Z",
-    "totalAlerts": 102,
-    "criticalCount": 0,
-    "moderateCount": 98,
+    "generatedAt": "2026-10-15T14:50:05.330Z",
+    "totalAlerts": 105,
+    "criticalCount": 4,
+    "moderateCount": 97,
     "minorCount": 4,
     "affectedRoutesCount": 71,
     "agencies": [
@@ -11,6 +11,110 @@
     ]
   },
   "alerts": [
+    {
+      "id": "54211",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 2: Westbound 9:34 AM Trip Canceled (2nd Ave SE & 7th St SE)",
+      "summary": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 9:34 AM canceled today due to traffic",
+      "affectedRoutes": [
+        "Route 2"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-15T14:37:00.000Z",
+        "end": "2026-10-15T15:51:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/2",
+      "updatedAt": "2026-10-15T14:37:22.000Z",
+      "rawHeader": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 9:34 AM canceled today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "54210",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 7: Southbound 7:49 AM Trip Canceled (Plymouth Ave & Theo Wirth Pkwy)",
+      "summary": "Southbound Route 7 trip departing Plymouth Ave & Theo Wirth Pkwy at 7:49 AM canceled today due to collision",
+      "affectedRoutes": [
+        "Route 7"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-15T13:15:00.000Z",
+        "end": "2026-10-15T14:55:00.000Z"
+      },
+      "cause": "ACCIDENT",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/7",
+      "updatedAt": "2026-10-15T13:17:16.000Z",
+      "rawHeader": "Southbound Route 7 trip departing Plymouth Ave & Theo Wirth Pkwy at 7:49 AM canceled today due to collision",
+      "rawDescription": ""
+    },
+    {
+      "id": "54209",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 219: Service Canceled",
+      "summary": "Route 219 trip departing Sun Ray Transit Center & Gate B at 8:13 AM and five other trips canceled today",
+      "affectedRoutes": [
+        "Route 219"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-15T13:13:00.000Z",
+        "end": "2026-10-15T20:02:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/219",
+      "updatedAt": "2026-10-15T12:43:00.000Z",
+      "rawHeader": "Route 219 trip departing Sun Ray Transit Center & Gate B at 8:13 AM and five other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate B at 8:13 AM\r\ndeparting Sun Ray Transit Center & Gate B at 10:13 AM\r\ndeparting Sun Ray Transit Center & Gate B at 12:13 PM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate A at 9:12 AM\r\ndeparting Maplewood Mall Transit Center & Gate A at 11:12 AM\r\ndeparting Maplewood Mall Transit Center & Gate A at 1:12 PM"
+    },
+    {
+      "id": "54212",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 645: Westbound 9:15 AM Trip Canceled (Marquette Ave & 3rd St - Stop Group B)",
+      "summary": "Westbound Route 645 trip departing Marquette Ave & 3rd St - Stop Group B at 9:15 AM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "Route 645"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-15T14:48:00.000Z",
+        "end": "2026-10-15T16:27:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/645",
+      "updatedAt": "2026-10-15T14:48:52.000Z",
+      "rawHeader": "Westbound Route 645 trip departing Marquette Ave & 3rd St - Stop Group B at 9:15 AM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -130,9 +234,9 @@
       "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [
-        "53280",
         "51436",
         "51437",
+        "53280",
         "51405",
         "51420",
         "51421",
@@ -141,13 +245,13 @@
       ],
       "closedStopDetails": [
         {
-          "id": "53280"
-        },
-        {
           "id": "51436"
         },
         {
           "id": "51437"
+        },
+        {
+          "id": "53280"
         },
         {
           "id": "51405"
@@ -614,7 +718,7 @@
       },
       "cause": "MAINTENANCE",
       "effect": "DETOUR",
-      "updatedAt": "2026-10-15T05:00:02.000Z",
+      "updatedAt": "2026-10-15T10:30:02.000Z",
       "rawHeader": "Routes 3, 62 and 67 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off buses at:\r\n11th St W & St Peter St - Stop #49450 (eastbound)\r\nCedar St & 7th Place / 6th St - Stop #20013 (southbound)\r\n\nEastbound/southbound buses will travel regular route on 11th St to Cedar St, continue on 11th St to Robert St, right on Robert, right on 7th St, left on Cedar St, and resume regular route.\r\n\nWestbound/northbound buses will travel regular route.\r\n\nAffected stops:\r\nCedar St & 10th St - Stop #11912 (southbound)\r\nCedar St & 7th St E - Stop #57623 (southbound)"
     },
@@ -1110,80 +1214,6 @@
       "updatedAt": "2026-09-03T18:11:02.000Z",
       "rawHeader": "Route 11 detoured off Main St NE from Edge Pl to 35th Ave and off 35th Ave from Main St NE to 2 1/2 St beginning Tue May 26 at 7:00 AM until further notice due to construction",
       "rawDescription": "For northbound Route 11 get on/off buses at:\r\nMain St NE & St Anthony Pkwy - Stop #14618 (northbound)\r\nTemporary stop on Main St NE just before Edge Place NE (northbound)\r\nTemporary stop on 2nd 1/2 St NE & 35th Ave NE (northbound)\r\n2nd 1/2 St NE & 36th Ave NE - Stop #14609 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\n2nd 1/2 St NE & 35th Ave NE - Stop #14611 (southbound)\r\nMain St NE & Edge Place NE - Stop #14616 (southbound)\r\n\nNorthbound buses will travel regular route on Main St NE to Edge Place, right on Edge Place, left on 2nd 1/2 St, continue on 2 1/2 St to 35th Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 2nd 1/2 St to 35th Ave, continue on 2 1/2 St to Edge Place, right on Edge Place, left on Main St NE and resume regular route.\r\n\nAffected stops:\r\nMain St NE & Edge Place NE - Stop #14617 (northbound)\r\nMain St NE & 35th Ave NE - Stop #14614 (northbound)\r\n35th Ave NE & 2nd St NE - Stop #14613 (eastbound)\r\n35th Ave NE & 2nd 1/2 St NE - Stop #14610 (eastbound)\r\n35th Ave NE & 2nd St NE - Stop #14612 (westbound)\r\n35th Ave NE & Main St NE - Stop #14615 (westbound)"
-    },
-    {
-      "id": "53983",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 11: Detour via Grand St NE & 30th Ave N",
-      "summary": "Route 11 detoured off Grand St from 30th Ave to 31st Ave and off 31st Ave from Grand St to Columbia Ave beginning Mon Oct 12 at 7:00 AM until further notice due to construction. Board at: Grand St NE & 30th Ave NE - Stop #14632 (northbound); Temporary stop Columbia Ave NE & 31st Ave NE (northbound); Columbia Ave NE & St Anthony Pkwy - Stop #14622 (northbound).",
-      "affectedRoutes": [
-        "Route 11"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Grand St NE & 30th Ave N",
-        "Temporary stop Columbia Ave NE & 31st Ave N",
-        "Columbia Ave NE & St Anthony Pkwy",
-        "Columbia Ave NE & 31st Ave N",
-        "Grand St NE & 29th Ave N"
-      ],
-      "closedStopIds": [
-        "14631",
-        "14624",
-        "14630",
-        "14633",
-        "14632",
-        "14622",
-        "14623",
-        "14634"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "14631",
-          "name": "Grand St NE & 31st Ave NE",
-          "direction": "northbound"
-        },
-        {
-          "id": "14624",
-          "name": "31st Ave NE & Columbia Ave NE",
-          "direction": "westbound"
-        },
-        {
-          "id": "14630",
-          "name": "31st Ave NE & Grand St NE",
-          "direction": "eastbound"
-        },
-        {
-          "id": "14633",
-          "name": "Grand St NE & 30 Ave NE",
-          "direction": "southbound"
-        },
-        {
-          "id": "14632"
-        },
-        {
-          "id": "14622"
-        },
-        {
-          "id": "14623"
-        },
-        {
-          "id": "14634"
-        }
-      ],
-      "riderAlternative": "Board at: Grand St NE & 30th Ave NE - Stop #14632 (northbound); Temporary stop Columbia Ave NE & 31st Ave NE (northbound); Columbia Ave NE & St Anthony Pkwy - Stop #14622 (northbound)",
-      "detourDetails": "Northbound buses will travel the regular route on Grand St to 30th Ave, left on 30th Ave, right on Columbia Ave to 31st Ave, continue on Columbia Ave, and resume the regular route.",
-      "activePeriod": {
-        "start": "2026-10-12T12:00:00.000Z",
-        "textDescription": "Beginning Mon Oct 12 at 7:00 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-10-12T11:30:05.000Z",
-      "rawHeader": "Route 11 detoured off Grand St from 30th Ave to 31st Ave and off 31st Ave from Grand St to Columbia Ave beginning Mon Oct 12 at 7:00 AM until further notice due to construction",
-      "rawDescription": "For northbound Route 11 get on/off buses at:\r\nGrand St NE & 30th Ave NE - Stop #14632 (northbound)\r\nTemporary stop Columbia Ave NE & 31st Ave NE (northbound)\r\nColumbia Ave NE & St Anthony Pkwy - Stop #14622 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\nColumbia Ave NE & 31st Ave NE - Stop #14623 (southbound)\r\nGrand St NE & 29th Ave NE - Stop #14634 (southbound)\r\n\nNorthbound buses will travel the regular route on Grand St to 30th Ave, left on 30th Ave, right on Columbia Ave to 31st Ave, continue on Columbia Ave, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Columbia Ave to 31st Ave, continue on Columbia Ave, left on 30th Ave, right on Grand St, and resume the regular route.\r\n\nAffected stops:\r\nGrand St NE & 31st Ave NE - Stop #14631 (northbound)\r\n31st Ave NE & Columbia Ave NE - Stop #14624 (westbound)\r\n31st Ave NE & Grand St NE - Stop #14630 (eastbound)\r\nGrand St NE & 30 Ave NE - Stop #14633 (southbound)"
     },
     {
       "id": "54131",
@@ -1811,7 +1841,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-10-08T11:30:08.000Z",
+      "updatedAt": "2026-10-15T12:00:00.000Z",
       "rawHeader": "Route 22C detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice",
       "rawDescription": "Get on/off northbound buses at:\r\n53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound)\r\nDupont Ave N & 57th Ave N - Stop #11442 (northbound)\r\n\nNo southbound stops are missed.\r\n\nNorthbound buses will travel the regular route on Dupont Ave to 54th Ave, left on 54th Ave, right on Emerson Ave, right on 55th Ave, left on Dupont Ave, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Dupont Ave to 55th Ave, right on 55th Ave, left on Emerson Ave, left on 54th Ave, right on Dupont Ave, and resume the regular route.\r\n\nAffected stops:\r\nDupont Ave N & 55th Ave N - Stop #52676 (northbound)"
     },
@@ -3697,12 +3727,12 @@
       "agency": "Metro Transit",
       "severity": "Moderate",
       "title": "Route 72, Route 74: Stop Closed at Pedersen St & Wilson Ave",
-      "summary": "Sun Ray Transit Center & Gate D - Stop #13667 (northbound) is closed for Routes 72 and 74 beginning at 6:00 AM until further notice. Board at: Pedersen St & Wilson Ave - Temporary Stop (eastbound); Pedersen St & Wilson Ave - Temporary Stop (westbound).",
+      "summary": "Sun Ray Transit Center & Gate D - Stop #13667 (northbound) is closed for Routes 72 and 74 beginning at 6:00 AM until further notice. Board at: Temporary stop on Pedersen St & Wilson Ave (northbound).",
       "affectedRoutes": [
         "Route 72",
         "Route 74"
       ],
-      "direction": "Both Directions",
+      "direction": "Northbound",
       "intersections": [
         "Pedersen St & Wilson Ave"
       ],
@@ -3714,7 +3744,7 @@
           "id": "13667"
         }
       ],
-      "riderAlternative": "Board at: Pedersen St & Wilson Ave - Temporary Stop (eastbound); Pedersen St & Wilson Ave - Temporary Stop (westbound)",
+      "riderAlternative": "Board at: Temporary stop on Pedersen St & Wilson Ave (northbound)",
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-10-15T11:00:00.000Z",
@@ -3722,9 +3752,9 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-15T07:30:18.000Z",
+      "updatedAt": "2026-10-15T13:43:13.000Z",
       "rawHeader": "Sun Ray Transit Center & Gate D - Stop #13667 (northbound) is closed for Routes 72 and 74 beginning at 6:00 AM until further notice",
-      "rawDescription": "Get on/off buses at:\r\nPedersen St & Wilson Ave - Temporary Stop (eastbound)\r\nPedersen St & Wilson Ave - Temporary Stop (westbound)"
+      "rawDescription": "Get on/off buses at:\r\nTemporary stop on Pedersen St & Wilson Ave (northbound)"
     },
     {
       "id": "48757",
@@ -3972,7 +4002,7 @@
       "cause": "MAINTENANCE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/75",
-      "updatedAt": "2026-10-15T05:00:01.000Z",
+      "updatedAt": "2026-10-15T10:30:02.000Z",
       "rawHeader": "Route 75 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off buses at:\r\nMinnesota St & 11th St - Stop #80701 (northbound)\r\nCedar St & 7th Place / 6th St - Stop #20013 (southbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on Cedar St to 11th St, left on 11th St, right on Robert St, right on 7th St, left on Cedar St, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nCedar St & 10th St - Stop #11912 (southbound)\r\nCedar St & 7th St E - Stop #57623 (southbound)"
     },
@@ -5836,7 +5866,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/763",
-      "updatedAt": "2026-10-08T11:30:08.000Z",
+      "updatedAt": "2026-10-15T12:00:00.000Z",
       "rawHeader": "Route 763 detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice",
       "rawDescription": "Get on/off northbound buses at:\r\n53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound)\r\nDupont Ave N & 57th Ave N - Stop #11442 (northbound)\r\n\nNo southbound stops are missed.\r\n\nNorthbound buses will travel the regular route on Dupont Ave to 54th Ave, left on 54th Ave, right on Emerson Ave, right on 55th Ave, left on Dupont Ave, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Dupont Ave to 55th Ave, right on 55th Ave, left on Emerson Ave, left on 54th Ave, right on Dupont Ave, and resume the regular route.\r\n\nAffected stops:\r\nDupont Ave N & 55th Ave N - Stop #52676 (northbound)"
     },

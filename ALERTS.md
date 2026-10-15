@@ -2,21 +2,107 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-102-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-98-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-105-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-97-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-71-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-15T09:44:57.831Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-15T14:50:05.330Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (6) • **Route 11** (3) • **Route 14** (2) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (5) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (6) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (2) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (6) • **Route 11** (2) • **Route 14** (2) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (5) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (2) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (7) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (2) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 Route 2: Westbound 9:34 AM Trip Canceled (2nd Ave SE & 7th St SE)
+
+- **Affected Routes**: `Route 2`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 9:34 AM canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 9:34 AM canceled today due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 7: Southbound 7:49 AM Trip Canceled (Plymouth Ave & Theo Wirth Pkwy)
+
+- **Affected Routes**: `Route 7`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Route 7 trip departing Plymouth Ave & Theo Wirth Pkwy at 7:49 AM canceled today due to collision
+
+[Official Agency Advisory](https://www.metrotransit.org/route/7)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 7 trip departing Plymouth Ave & Theo Wirth Pkwy at 7:49 AM canceled today due to collision
+
+</details>
+
+---
+
+### 🚨 Route 219: Service Canceled
+
+- **Affected Routes**: `Route 219`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 219 trip departing Sun Ray Transit Center & Gate B at 8:13 AM and five other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/219)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 219 trip departing Sun Ray Transit Center & Gate B at 8:13 AM and five other trips canceled today
+
+```text
+Affected northbound trips:
+departing Sun Ray Transit Center & Gate B at 8:13 AM
+departing Sun Ray Transit Center & Gate B at 10:13 AM
+departing Sun Ray Transit Center & Gate B at 12:13 PM
+
+Affected southbound trips:
+departing Maplewood Mall Transit Center & Gate A at 9:12 AM
+departing Maplewood Mall Transit Center & Gate A at 11:12 AM
+departing Maplewood Mall Transit Center & Gate A at 1:12 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 645: Westbound 9:15 AM Trip Canceled (Marquette Ave & 3rd St - Stop Group B)
+
+- **Affected Routes**: `Route 645`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 645 trip departing Marquette Ave & 3rd St - Stop Group B at 9:15 AM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/645)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 645 trip departing Marquette Ave & 3rd St - Stop Group B at 9:15 AM canceled today due to maintenance work
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -119,7 +205,7 @@ Due to mechanical issues, both elevators at Franklin Ave Station are unavailable
 - **Affected Routes**: `METRO Blue Line`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Closed Stops**: Stop #53280, Stop #51436, Stop #51437, Stop #51405, Stop #51420, Stop #51421, Stop #51422, Stop #53279
+- **Closed Stops**: Stop #51436, Stop #51437, Stop #53280, Stop #51405, Stop #51420, Stop #51421, Stop #51422, Stop #53279
 
 **Summary**: Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Friday, Oct. 16 at 8 p.m.
 
@@ -735,53 +821,6 @@ Main St NE & 35th Ave NE - Stop #14614 (northbound)
 35th Ave NE & 2nd 1/2 St NE - Stop #14610 (eastbound)
 35th Ave NE & 2nd St NE - Stop #14612 (westbound)
 35th Ave NE & Main St NE - Stop #14615 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 11: Detour via Grand St NE & 30th Ave N
-
-- **Affected Routes**: `Route 11`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Oct 12 at 7:00 AM until further notice
-- **Corridors & Intersections**: Grand St NE & 30th Ave N; Temporary stop Columbia Ave NE & 31st Ave N; Columbia Ave NE & St Anthony Pkwy; Columbia Ave NE & 31st Ave N; Grand St NE & 29th Ave N
-- **Closed Stops**: Grand St NE & 31st Ave NE (Stop #14631), 31st Ave NE & Columbia Ave NE (Stop #14624), 31st Ave NE & Grand St NE (Stop #14630), Grand St NE & 30 Ave NE (Stop #14633), Stop #14632, Stop #14622, Stop #14623, Stop #14634
-
-**Summary**: Route 11 detoured off Grand St from 30th Ave to 31st Ave and off 31st Ave from Grand St to Columbia Ave beginning Mon Oct 12 at 7:00 AM until further notice due to construction. Board at: Grand St NE & 30th Ave NE - Stop #14632 (northbound); Temporary stop Columbia Ave NE & 31st Ave NE (northbound); Columbia Ave NE & St Anthony Pkwy - Stop #14622 (northbound).
-
-> 💡 **Rider Action**: Board at: Grand St NE & 30th Ave NE - Stop #14632 (northbound); Temporary stop Columbia Ave NE & 31st Ave NE (northbound); Columbia Ave NE & St Anthony Pkwy - Stop #14622 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel the regular route on Grand St to 30th Ave, left on 30th Ave, right on Columbia Ave to 31st Ave, continue on Columbia Ave, and resume the regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/11)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 11 detoured off Grand St from 30th Ave to 31st Ave and off 31st Ave from Grand St to Columbia Ave beginning Mon Oct 12 at 7:00 AM until further notice due to construction
-
-```text
-For northbound Route 11 get on/off buses at:
-Grand St NE & 30th Ave NE - Stop #14632 (northbound)
-Temporary stop Columbia Ave NE & 31st Ave NE (northbound)
-Columbia Ave NE & St Anthony Pkwy - Stop #14622 (northbound)
-
-For southbound Route 11 get on/off buses at:
-Columbia Ave NE & 31st Ave NE - Stop #14623 (southbound)
-Grand St NE & 29th Ave NE - Stop #14634 (southbound)
-
-Northbound buses will travel the regular route on Grand St to 30th Ave, left on 30th Ave, right on Columbia Ave to 31st Ave, continue on Columbia Ave, and resume the regular route.
-
-Southbound buses will travel the regular route on Columbia Ave to 31st Ave, continue on Columbia Ave, left on 30th Ave, right on Grand St, and resume the regular route.
-
-Affected stops:
-Grand St NE & 31st Ave NE - Stop #14631 (northbound)
-31st Ave NE & Columbia Ave NE - Stop #14624 (westbound)
-31st Ave NE & Grand St NE - Stop #14630 (eastbound)
-Grand St NE & 30 Ave NE - Stop #14633 (southbound)
 ```
 
 </details>
@@ -2376,15 +2415,15 @@ Wall St & 7th St / 6th St - Stop #43282 (southbound)
 ### ⚠️ Route 72, Route 74: Stop Closed at Pedersen St & Wilson Ave
 
 - **Affected Routes**: `Route 72` `Route 74`
-- **Direction**: Both Directions
+- **Direction**: Northbound
 - **Severity**: `Moderate`
 - **Schedule**: Beginning at 6:00 AM until further notice
 - **Corridors & Intersections**: Pedersen St & Wilson Ave
 - **Closed Stops**: Stop #13667
 
-**Summary**: Sun Ray Transit Center & Gate D - Stop #13667 (northbound) is closed for Routes 72 and 74 beginning at 6:00 AM until further notice. Board at: Pedersen St & Wilson Ave - Temporary Stop (eastbound); Pedersen St & Wilson Ave - Temporary Stop (westbound).
+**Summary**: Sun Ray Transit Center & Gate D - Stop #13667 (northbound) is closed for Routes 72 and 74 beginning at 6:00 AM until further notice. Board at: Temporary stop on Pedersen St & Wilson Ave (northbound).
 
-> 💡 **Rider Action**: Board at: Pedersen St & Wilson Ave - Temporary Stop (eastbound); Pedersen St & Wilson Ave - Temporary Stop (westbound)
+> 💡 **Rider Action**: Board at: Temporary stop on Pedersen St & Wilson Ave (northbound)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
@@ -2393,8 +2432,7 @@ Wall St & 7th St / 6th St - Stop #43282 (southbound)
 
 ```text
 Get on/off buses at:
-Pedersen St & Wilson Ave - Temporary Stop (eastbound)
-Pedersen St & Wilson Ave - Temporary Stop (westbound)
+Temporary stop on Pedersen St & Wilson Ave (northbound)
 ```
 
 </details>
