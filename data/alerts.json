@@ -1,323 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-14T23:50:22.874Z",
-    "totalAlerts": 105,
-    "criticalCount": 4,
-    "moderateCount": 97,
+    "generatedAt": "2026-10-15T04:21:06.481Z",
+    "totalAlerts": 102,
+    "criticalCount": 0,
+    "moderateCount": 98,
     "minorCount": 4,
-    "affectedRoutesCount": 73,
+    "affectedRoutesCount": 72,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "54201",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO E Line: Southbound 4:49 PM Trip Canceled (Westgate Station - Gate A)",
-      "summary": "Southbound E Line trip departing Westgate Station - Gate A at 4:49 PM canceled today",
-      "affectedRoutes": [
-        "METRO E Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-14T22:18:00.000Z",
-        "end": "2026-10-14T23:53:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-10-14T22:19:31.000Z",
-      "rawHeader": "Southbound E Line trip departing Westgate Station - Gate A at 4:49 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "54196",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 25: Service Canceled",
-      "summary": "Route 25 trip departing Leamington Ramp & Lower - Gate #7 at 1:36 PM and two other trips canceled today",
-      "affectedRoutes": [
-        "Route 25"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-14T20:29:00.000Z",
-        "end": "2026-10-15T00:55:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/25",
-      "updatedAt": "2026-10-14T20:29:19.000Z",
-      "rawHeader": "Route 25 trip departing Leamington Ramp & Lower - Gate #7 at 1:36 PM and two other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Leamington Ramp & Lower - Gate #7 at 1:36 PM\r\ndeparting Leamington Ramp & Lower - Gate #7 at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting Foley Blvd Park & Ride at 3:27 PM"
-    },
-    {
-      "id": "54202",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 61: Westbound 5:08 PM Trip Canceled (Smith & 5th St Station)",
-      "summary": "Westbound Route 61 trip departing Smith & 5th St Station at 5:08 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 61"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [
-        "17905",
-        "17916",
-        "17917",
-        "17919",
-        "17921",
-        "17922",
-        "15553",
-        "15559",
-        "15562",
-        "15776",
-        "15777",
-        "15779",
-        "15783",
-        "14941",
-        "14943",
-        "14947",
-        "7232",
-        "7233",
-        "7235",
-        "5605",
-        "5609",
-        "49682",
-        "49907",
-        "49909",
-        "4260",
-        "4261",
-        "4264",
-        "41628",
-        "41629",
-        "41632",
-        "41972",
-        "42420",
-        "42421",
-        "41057",
-        "10651",
-        "10652",
-        "10653",
-        "10655",
-        "10657",
-        "10661",
-        "3980",
-        "40168",
-        "81115",
-        "5613",
-        "5647",
-        "5651",
-        "5655",
-        "43584",
-        "47075"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "17905"
-        },
-        {
-          "id": "17916"
-        },
-        {
-          "id": "17917"
-        },
-        {
-          "id": "17919"
-        },
-        {
-          "id": "17921"
-        },
-        {
-          "id": "17922"
-        },
-        {
-          "id": "15553"
-        },
-        {
-          "id": "15559"
-        },
-        {
-          "id": "15562"
-        },
-        {
-          "id": "15776"
-        },
-        {
-          "id": "15777"
-        },
-        {
-          "id": "15779"
-        },
-        {
-          "id": "15783"
-        },
-        {
-          "id": "14941"
-        },
-        {
-          "id": "14943"
-        },
-        {
-          "id": "14947"
-        },
-        {
-          "id": "7232"
-        },
-        {
-          "id": "7233"
-        },
-        {
-          "id": "7235"
-        },
-        {
-          "id": "5605"
-        },
-        {
-          "id": "5609"
-        },
-        {
-          "id": "49682"
-        },
-        {
-          "id": "49907"
-        },
-        {
-          "id": "49909"
-        },
-        {
-          "id": "4260"
-        },
-        {
-          "id": "4261"
-        },
-        {
-          "id": "4264"
-        },
-        {
-          "id": "41628"
-        },
-        {
-          "id": "41629"
-        },
-        {
-          "id": "41632"
-        },
-        {
-          "id": "41972"
-        },
-        {
-          "id": "42420"
-        },
-        {
-          "id": "42421"
-        },
-        {
-          "id": "41057"
-        },
-        {
-          "id": "10651"
-        },
-        {
-          "id": "10652"
-        },
-        {
-          "id": "10653"
-        },
-        {
-          "id": "10655"
-        },
-        {
-          "id": "10657"
-        },
-        {
-          "id": "10661"
-        },
-        {
-          "id": "3980"
-        },
-        {
-          "id": "40168"
-        },
-        {
-          "id": "81115"
-        },
-        {
-          "id": "5613"
-        },
-        {
-          "id": "5647"
-        },
-        {
-          "id": "5651"
-        },
-        {
-          "id": "5655"
-        },
-        {
-          "id": "43584"
-        },
-        {
-          "id": "47075"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-14T23:29:00.000Z",
-        "end": "2026-10-15T00:29:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/61",
-      "updatedAt": "2026-10-14T23:31:07.000Z",
-      "rawHeader": "Westbound Route 61 trip departing Smith & 5th St Station at 5:08 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "54187",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 805: Service Canceled",
-      "summary": "Route 805 trip departing 1st Ave S & Monroe St at 1:38 PM and four other trips canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 805"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 805 trip departing 1st Ave S & Monroe St",
-        "departing 1st Ave S & Monroe St",
-        "38 PM\ndeparting 1st Ave S & Monroe St",
-        "36 PM\ndeparting 1st Ave S & Monroe St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-14T19:07:00.000Z",
-        "end": "2026-10-15T00:24:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-10-14T19:08:02.000Z",
-      "rawHeader": "Route 805 trip departing 1st Ave S & Monroe St at 1:38 PM and four other trips canceled today due to mechanical issue",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -391,6 +84,48 @@
       "rawDescription": "Get on/off northbound buses at:\r\nFord & Kenneth Station - Stop #4283 (eastbound)\r\nSnelling & Highland Station - Stop #56114 (northbound)\r\n\nNorthbound buses will travel the regular route on Ford Pkwy to Fairview Ave, right on Fairview Ave, left on Hillcrest Ave, left on Davern St, right on Ford Pkwy, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Ford Pkwy to Davern St, right on Davern St, left on Highland Pkwy, left on Fairview Ave, right on Ford Pkwy, and resume the regular route. No southbound stops are missed.\r\n\nAffected stops:\r\nFord & Fairview Station - Stop #56113 (eastbound)"
     },
     {
+      "id": "54203",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "METRO B Line: Detour via Regular Corridor",
+      "summary": "Westbound B Line detoured off Lake between Chicago & Park until later today due to non-transit collision. Board at: Lake & Bloomington Station - Stop #16882 (westbound); Lake & 5th Ave Station - Stop #47529 (westbound).",
+      "affectedRoutes": [
+        "METRO B Line"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [
+        "16871",
+        "16882",
+        "47529"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "16871",
+          "name": "Lake & Chicago Station",
+          "direction": "westbound"
+        },
+        {
+          "id": "16882"
+        },
+        {
+          "id": "47529"
+        }
+      ],
+      "riderAlternative": "Board at: Lake & Bloomington Station - Stop #16882 (westbound); Lake & 5th Ave Station - Stop #47529 (westbound)",
+      "detourDetails": "Westbound buses will travel west on Lake to Chicago, left on Chicago, right on 31st, right on Park, left on Lake and resume regular route",
+      "activePeriod": {
+        "start": "2026-10-15T00:44:00.000Z",
+        "end": "2026-10-15T06:20:23.000Z"
+      },
+      "cause": "ACCIDENT",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-10-15T00:44:19.000Z",
+      "rawHeader": "Westbound B Line detoured off Lake between Chicago & Park until later today due to non-transit collision",
+      "rawDescription": "Get on/off buses at:\r\nLake & Bloomington Station - Stop #16882 (westbound)\r\nLake & 5th Ave Station - Stop #47529 (westbound)\r\n\nWestbound buses will travel west on Lake to Chicago, left on Chicago, right on 31st, right on Park, left on Lake and resume regular route\r\n\nEastbound buses are not affected\r\n\nAffected stops:\r\nLake & Chicago Station - Stop #16871 (westbound)"
+    },
+    {
       "id": "42192",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -437,10 +172,10 @@
       "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [
-        "51405",
-        "53280",
         "51436",
         "51437",
+        "51405",
+        "53280",
         "53279",
         "51420",
         "51421",
@@ -448,16 +183,16 @@
       ],
       "closedStopDetails": [
         {
-          "id": "51405"
-        },
-        {
-          "id": "53280"
-        },
-        {
           "id": "51436"
         },
         {
           "id": "51437"
+        },
+        {
+          "id": "51405"
+        },
+        {
+          "id": "53280"
         },
         {
           "id": "53279"

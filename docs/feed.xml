@@ -4,45 +4,9 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Wed, 14 Oct 2026 23:50:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 04:21:06 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
-    <item>
-      <title>[Critical] METRO E Line: Southbound 4:49 PM Trip Canceled (Westgate Station - Gate A)</title>
-      <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-54201-2026-10-14T22:19:31.000Z</guid>
-      <pubDate>Wed, 14 Oct 2026 22:19:31 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO E Line</category>
-      <description>Southbound E Line trip departing Westgate Station - Gate A at 4:49 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 25: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/25</link>
-      <guid isPermaLink="false">Metro Transit-54196-2026-10-14T20:29:19.000Z</guid>
-      <pubDate>Wed, 14 Oct 2026 20:29:19 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 25</category>
-      <description>Route 25 trip departing Leamington Ramp &amp; Lower - Gate #7 at 1:36 PM and two other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 61: Westbound 5:08 PM Trip Canceled (Smith &amp; 5th St Station)</title>
-      <link>https://www.metrotransit.org/route/61</link>
-      <guid isPermaLink="false">Metro Transit-54202-2026-10-14T23:31:07.000Z</guid>
-      <pubDate>Wed, 14 Oct 2026 23:31:07 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 61</category>
-      <description>Westbound Route 61 trip departing Smith &amp; 5th St Station at 5:08 PM canceled today due to traffic</description>
-    </item>
-    <item>
-      <title>[Critical] Route 805: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/805</link>
-      <guid isPermaLink="false">Metro Transit-54187-2026-10-14T19:08:02.000Z</guid>
-      <pubDate>Wed, 14 Oct 2026 19:08:02 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 805</category>
-      <description>Route 805 trip departing 1st Ave S &amp; Monroe St at 1:38 PM and four other trips canceled today due to mechanical issue</description>
-    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -60,6 +24,15 @@
       <category>Moderate</category>
       <category>METRO A Line</category>
       <description>A Line detoured off Ford Pkwy from Fairview Ave to Davern St beginning Mon Oct 19 at 6:00 AM until further notice. Board at: Ford &amp; Kenneth Station - Stop #4283 (eastbound); Snelling &amp; Highland Station - Stop #56114 (northbound). | Action: Board at: Ford &amp; Kenneth Station - Stop #4283 (eastbound); Snelling &amp; Highland Station - Stop #56114 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] METRO B Line: Detour via Regular Corridor</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-54203-2026-10-15T00:44:19.000Z</guid>
+      <pubDate>Thu, 15 Oct 2026 00:44:19 GMT</pubDate>
+      <category>Moderate</category>
+      <category>METRO B Line</category>
+      <description>Westbound B Line detoured off Lake between Chicago &amp; Park until later today due to non-transit collision. Board at: Lake &amp; Bloomington Station - Stop #16882 (westbound); Lake &amp; 5th Ave Station - Stop #47529 (westbound). | Action: Board at: Lake &amp; Bloomington Station - Stop #16882 (westbound); Lake &amp; 5th Ave Station - Stop #47529 (westbound)</description>
     </item>
     <item>
       <title>[Moderate] METRO Blue Line: Service Advisory</title>
