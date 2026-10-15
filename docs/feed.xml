@@ -4,7 +4,7 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Thu, 15 Oct 2026 04:21:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 09:44:57 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
@@ -26,15 +26,6 @@
       <description>A Line detoured off Ford Pkwy from Fairview Ave to Davern St beginning Mon Oct 19 at 6:00 AM until further notice. Board at: Ford &amp; Kenneth Station - Stop #4283 (eastbound); Snelling &amp; Highland Station - Stop #56114 (northbound). | Action: Board at: Ford &amp; Kenneth Station - Stop #4283 (eastbound); Snelling &amp; Highland Station - Stop #56114 (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] METRO B Line: Detour via Regular Corridor</title>
-      <link>https://www.metrotransit.org/route/bline</link>
-      <guid isPermaLink="false">Metro Transit-54203-2026-10-15T00:44:19.000Z</guid>
-      <pubDate>Thu, 15 Oct 2026 00:44:19 GMT</pubDate>
-      <category>Moderate</category>
-      <category>METRO B Line</category>
-      <description>Westbound B Line detoured off Lake between Chicago &amp; Park until later today due to non-transit collision. Board at: Lake &amp; Bloomington Station - Stop #16882 (westbound); Lake &amp; 5th Ave Station - Stop #47529 (westbound). | Action: Board at: Lake &amp; Bloomington Station - Stop #16882 (westbound); Lake &amp; 5th Ave Station - Stop #47529 (westbound)</description>
-    </item>
-    <item>
       <title>[Moderate] METRO Blue Line: Service Advisory</title>
       <link>https://www.metrotransit.org/route/blue</link>
       <guid isPermaLink="false">Metro Transit-42192-2025-12-12T16:20:01.000Z</guid>
@@ -46,8 +37,8 @@
     <item>
       <title>[Moderate] METRO Blue Line: Service Advisory</title>
       <link>https://www.metrotransit.org/closure</link>
-      <guid isPermaLink="false">Metro Transit-54099-2026-10-13T05:00:02.000Z</guid>
-      <pubDate>Tue, 13 Oct 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54099-2026-10-15T05:00:02.000Z</guid>
+      <pubDate>Thu, 15 Oct 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO Blue Line</category>
       <description>Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Friday, Oct. 16 at 8 p.m.</description>
@@ -82,8 +73,8 @@
     <item>
       <title>[Moderate] Route 3, Route 62, Route 67: Detour via 11th St W &amp; St Peter St</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54181-2026-10-14T15:43:11.000Z</guid>
-      <pubDate>Wed, 14 Oct 2026 15:43:11 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54181-2026-10-15T05:00:02.000Z</guid>
+      <pubDate>Thu, 15 Oct 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 3, Route 62, Route 67</category>
       <description>Routes 3, 62 and 67 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work. Board at: 11th St W &amp; St Peter St - Stop #49450 (eastbound); Cedar St &amp; 7th Place / 6th St - Stop #20013 (southbound). | Action: Board at: 11th St W &amp; St Peter St - Stop #49450 (eastbound); Cedar St &amp; 7th Place / 6th St - Stop #20013 (southbound)</description>
@@ -503,6 +494,15 @@
       <description>Route 72 detoured off Wacouta St from 5th St to 7th St and off 7th St from Wacouta St to Mounds Blvd until further notice due to construction. Board at: 5th St &amp; Jackson St - Stop #11838 (eastbound); 5th St &amp; Sibley St - Stop #11839 (eastbound); Plum St &amp; Mounds Blvd - Stop #13730 (eastbound). | Action: Board at: 5th St &amp; Jackson St - Stop #11838 (eastbound); 5th St &amp; Sibley St - Stop #11839 (eastbound); Plum St &amp; Mounds Blvd - Stop #13730 (eastbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 72, Route 74: Stop Closed at Pedersen St &amp; Wilson Ave</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-54207-2026-10-15T07:30:18.000Z</guid>
+      <pubDate>Thu, 15 Oct 2026 07:30:18 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 72, Route 74</category>
+      <description>Sun Ray Transit Center &amp; Gate D - Stop #13667 (northbound) is closed for Routes 72 and 74 beginning at 6:00 AM until further notice. Board at: Pedersen St &amp; Wilson Ave - Temporary Stop (eastbound); Pedersen St &amp; Wilson Ave - Temporary Stop (westbound). | Action: Board at: Pedersen St &amp; Wilson Ave - Temporary Stop (eastbound); Pedersen St &amp; Wilson Ave - Temporary Stop (westbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 74: Detour via 5th St E &amp; Sibley St</title>
       <link>https://www.metrotransit.org/route/74</link>
       <guid isPermaLink="false">Metro Transit-48757-2026-09-03T18:35:55.000Z</guid>
@@ -523,8 +523,8 @@
     <item>
       <title>[Moderate] Route 75: Detour via Minnesota St &amp; 11th St</title>
       <link>https://www.metrotransit.org/route/75</link>
-      <guid isPermaLink="false">Metro Transit-54182-2026-10-14T16:01:29.000Z</guid>
-      <pubDate>Wed, 14 Oct 2026 16:01:29 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54182-2026-10-15T05:00:01.000Z</guid>
+      <pubDate>Thu, 15 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 75</category>
       <description>Route 75 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work. Board at: Minnesota St &amp; 11th St - Stop #80701 (northbound); Cedar St &amp; 7th Place / 6th St - Stop #20013 (southbound). | Action: Board at: Minnesota St &amp; 11th St - Stop #80701 (northbound); Cedar St &amp; 7th Place / 6th St - Stop #20013 (southbound)</description>
@@ -658,8 +658,8 @@
     <item>
       <title>[Moderate] Route 540, Route 542: Detour via Norman Center Dr &amp; 83rd St W</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54180-2026-10-14T14:43:20.000Z</guid>
-      <pubDate>Wed, 14 Oct 2026 14:43:20 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54180-2026-10-15T05:00:02.000Z</guid>
+      <pubDate>Thu, 15 Oct 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 540, Route 542</category>
       <description>Routes 540 and 542 detoured off 84th St from Normandale Lake Blvd to Norman Center Dr from Thu Oct 15 at 7:00 PM to Fri Oct 16 at 6:00 AM. Board at: Norman Center Dr &amp; 83rd St W - Stop #57476 (southbound). | Action: Board at: Norman Center Dr &amp; 83rd St W - Stop #57476 (southbound)</description>

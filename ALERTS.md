@@ -6,13 +6,13 @@
 [![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-98-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-72-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-71-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-15T04:21:06.481Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-15T09:44:57.831Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO B Line** (1) • **METRO Blue Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (6) • **Route 11** (3) • **Route 14** (2) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (5) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (6) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (2) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (6) • **Route 11** (3) • **Route 14** (2) • **Route 18** (6) • **Route 22** (4) • **Route 22C** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 46** (1) • **Route 54** (1) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (5) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (6) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (2) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
@@ -90,43 +90,6 @@ Ford & Fairview Station - Stop #56113 (eastbound)
 
 ---
 
-### ⚠️ METRO B Line: Detour via Regular Corridor
-
-- **Affected Routes**: `METRO B Line`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Closed Stops**: Lake & Chicago Station (Stop #16871), Stop #16882, Stop #47529
-
-**Summary**: Westbound B Line detoured off Lake between Chicago & Park until later today due to non-transit collision. Board at: Lake & Bloomington Station - Stop #16882 (westbound); Lake & 5th Ave Station - Stop #47529 (westbound).
-
-> 💡 **Rider Action**: Board at: Lake & Bloomington Station - Stop #16882 (westbound); Lake & 5th Ave Station - Stop #47529 (westbound)
-
-> 🔄 **Detour Path**: Westbound buses will travel west on Lake to Chicago, left on Chicago, right on 31st, right on Park, left on Lake and resume regular route
-
-[Official Agency Advisory](https://www.metrotransit.org/route/bline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound B Line detoured off Lake between Chicago & Park until later today due to non-transit collision
-
-```text
-Get on/off buses at:
-Lake & Bloomington Station - Stop #16882 (westbound)
-Lake & 5th Ave Station - Stop #47529 (westbound)
-
-Westbound buses will travel west on Lake to Chicago, left on Chicago, right on 31st, right on Park, left on Lake and resume regular route
-
-Eastbound buses are not affected
-
-Affected stops:
-Lake & Chicago Station - Stop #16871 (westbound)
-```
-
-</details>
-
----
-
 ### ⚠️ METRO Blue Line: Service Advisory
 
 - **Affected Routes**: `METRO Blue Line`
@@ -156,7 +119,7 @@ Due to mechanical issues, both elevators at Franklin Ave Station are unavailable
 - **Affected Routes**: `METRO Blue Line`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Closed Stops**: Stop #51436, Stop #51437, Stop #51405, Stop #53280, Stop #53279, Stop #51420, Stop #51421, Stop #51422
+- **Closed Stops**: Stop #53280, Stop #51436, Stop #51437, Stop #51405, Stop #51420, Stop #51421, Stop #51422, Stop #53279
 
 **Summary**: Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Friday, Oct. 16 at 8 p.m.
 
@@ -2404,6 +2367,34 @@ Affected stops:
 Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 7th St E & Wall St - Stop #57215 (eastbound)
 Wall St & 7th St / 6th St - Stop #43282 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 72, Route 74: Stop Closed at Pedersen St & Wilson Ave
+
+- **Affected Routes**: `Route 72` `Route 74`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning at 6:00 AM until further notice
+- **Corridors & Intersections**: Pedersen St & Wilson Ave
+- **Closed Stops**: Stop #13667
+
+**Summary**: Sun Ray Transit Center & Gate D - Stop #13667 (northbound) is closed for Routes 72 and 74 beginning at 6:00 AM until further notice. Board at: Pedersen St & Wilson Ave - Temporary Stop (eastbound); Pedersen St & Wilson Ave - Temporary Stop (westbound).
+
+> 💡 **Rider Action**: Board at: Pedersen St & Wilson Ave - Temporary Stop (eastbound); Pedersen St & Wilson Ave - Temporary Stop (westbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Sun Ray Transit Center & Gate D - Stop #13667 (northbound) is closed for Routes 72 and 74 beginning at 6:00 AM until further notice
+
+```text
+Get on/off buses at:
+Pedersen St & Wilson Ave - Temporary Stop (eastbound)
+Pedersen St & Wilson Ave - Temporary Stop (westbound)
 ```
 
 </details>

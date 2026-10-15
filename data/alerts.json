@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-15T04:21:06.481Z",
+    "generatedAt": "2026-10-15T09:44:57.831Z",
     "totalAlerts": 102,
     "criticalCount": 0,
     "moderateCount": 98,
     "minorCount": 4,
-    "affectedRoutesCount": 72,
+    "affectedRoutesCount": 71,
     "agencies": [
       "Metro Transit"
     ]
@@ -84,48 +84,6 @@
       "rawDescription": "Get on/off northbound buses at:\r\nFord & Kenneth Station - Stop #4283 (eastbound)\r\nSnelling & Highland Station - Stop #56114 (northbound)\r\n\nNorthbound buses will travel the regular route on Ford Pkwy to Fairview Ave, right on Fairview Ave, left on Hillcrest Ave, left on Davern St, right on Ford Pkwy, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Ford Pkwy to Davern St, right on Davern St, left on Highland Pkwy, left on Fairview Ave, right on Ford Pkwy, and resume the regular route. No southbound stops are missed.\r\n\nAffected stops:\r\nFord & Fairview Station - Stop #56113 (eastbound)"
     },
     {
-      "id": "54203",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "METRO B Line: Detour via Regular Corridor",
-      "summary": "Westbound B Line detoured off Lake between Chicago & Park until later today due to non-transit collision. Board at: Lake & Bloomington Station - Stop #16882 (westbound); Lake & 5th Ave Station - Stop #47529 (westbound).",
-      "affectedRoutes": [
-        "METRO B Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [
-        "16871",
-        "16882",
-        "47529"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "16871",
-          "name": "Lake & Chicago Station",
-          "direction": "westbound"
-        },
-        {
-          "id": "16882"
-        },
-        {
-          "id": "47529"
-        }
-      ],
-      "riderAlternative": "Board at: Lake & Bloomington Station - Stop #16882 (westbound); Lake & 5th Ave Station - Stop #47529 (westbound)",
-      "detourDetails": "Westbound buses will travel west on Lake to Chicago, left on Chicago, right on 31st, right on Park, left on Lake and resume regular route",
-      "activePeriod": {
-        "start": "2026-10-15T00:44:00.000Z",
-        "end": "2026-10-15T06:20:23.000Z"
-      },
-      "cause": "ACCIDENT",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-10-15T00:44:19.000Z",
-      "rawHeader": "Westbound B Line detoured off Lake between Chicago & Park until later today due to non-transit collision",
-      "rawDescription": "Get on/off buses at:\r\nLake & Bloomington Station - Stop #16882 (westbound)\r\nLake & 5th Ave Station - Stop #47529 (westbound)\r\n\nWestbound buses will travel west on Lake to Chicago, left on Chicago, right on 31st, right on Park, left on Lake and resume regular route\r\n\nEastbound buses are not affected\r\n\nAffected stops:\r\nLake & Chicago Station - Stop #16871 (westbound)"
-    },
-    {
       "id": "42192",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -172,16 +130,19 @@
       "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [
+        "53280",
         "51436",
         "51437",
         "51405",
-        "53280",
-        "53279",
         "51420",
         "51421",
-        "51422"
+        "51422",
+        "53279"
       ],
       "closedStopDetails": [
+        {
+          "id": "53280"
+        },
         {
           "id": "51436"
         },
@@ -192,12 +153,6 @@
           "id": "51405"
         },
         {
-          "id": "53280"
-        },
-        {
-          "id": "53279"
-        },
-        {
           "id": "51420"
         },
         {
@@ -205,6 +160,9 @@
         },
         {
           "id": "51422"
+        },
+        {
+          "id": "53279"
         }
       ],
       "riderAlternative": null,
@@ -216,7 +174,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/closure",
-      "updatedAt": "2026-10-13T05:00:02.000Z",
+      "updatedAt": "2026-10-15T05:00:02.000Z",
       "rawHeader": "Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Friday, Oct. 16 at 8 p.m.",
       "rawDescription": "Starting at 8 p.m. on Friday, Oct. 16, buses will replace trains on the METRO Blue Line between Airport-Terminal 2 and Mall of America stations to allow for needed maintenance.\r\n\nPlease plan extra time for your trip. Replacement bus timing can vary and trips may take longer.\r\n\nTrain service will resume Monday, Oct. 19.\r\n\n Visit metrotransit.org/closure for bus boarding locations. \r\n\n\r\nAffected stops:\r\nMall of America Station (northbound)\r\n30th Ave Station (northbound)\r\nBloomington Central Station (northbound)\r\nAmerican Blvd Station (northbound)\r\nTerminal 2 Station (southbound)\r\nAmerican Blvd Station (southbound)\r\nBloomington Central Station (southbound)\r\n30th Ave Station (southbound)\r\nMall of America Station (southbound)"
     },
@@ -656,7 +614,7 @@
       },
       "cause": "MAINTENANCE",
       "effect": "DETOUR",
-      "updatedAt": "2026-10-14T15:43:11.000Z",
+      "updatedAt": "2026-10-15T05:00:02.000Z",
       "rawHeader": "Routes 3, 62 and 67 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off buses at:\r\n11th St W & St Peter St - Stop #49450 (eastbound)\r\nCedar St & 7th Place / 6th St - Stop #20013 (southbound)\r\n\nEastbound/southbound buses will travel regular route on 11th St to Cedar St, continue on 11th St to Robert St, right on Robert, right on 7th St, left on Cedar St, and resume regular route.\r\n\nWestbound/northbound buses will travel regular route.\r\n\nAffected stops:\r\nCedar St & 10th St - Stop #11912 (southbound)\r\nCedar St & 7th St E - Stop #57623 (southbound)"
     },
@@ -3735,6 +3693,40 @@
       "rawDescription": "Update 8/11 at 8:30 AM: Change to westbound detour routing, affected stops, and get on/off stops.\r\n\nFor eastbound Route 72 get on/off buses at:\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\n5th St & Sibley St - Stop #11839 (eastbound)\r\nPlum St & Mounds Blvd - Stop #13730 (eastbound)\r\n\nNo westbound stops are missed.\r\n\nEastbound buses will travel regular route on 5th St to Wacouta St, continue on 5th St to Broadway St, left on Broadway St, right onto eastbound I-94, take left exit to Mounds Blvd, right on Mounds Blvd and resume regular route.\r\n\nWestbound buses will travel regular route on Mounds Blvd to westbound I-94 exit, take left exit onto westbound I-94, exit right onto 12th St, left on Jackson St, left on 7th St, right on Wall St, and resume the regular route.\r\n\nAffected stops:\r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound)"
     },
     {
+      "id": "54207",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 72, Route 74: Stop Closed at Pedersen St & Wilson Ave",
+      "summary": "Sun Ray Transit Center & Gate D - Stop #13667 (northbound) is closed for Routes 72 and 74 beginning at 6:00 AM until further notice. Board at: Pedersen St & Wilson Ave - Temporary Stop (eastbound); Pedersen St & Wilson Ave - Temporary Stop (westbound).",
+      "affectedRoutes": [
+        "Route 72",
+        "Route 74"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Pedersen St & Wilson Ave"
+      ],
+      "closedStopIds": [
+        "13667"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "13667"
+        }
+      ],
+      "riderAlternative": "Board at: Pedersen St & Wilson Ave - Temporary Stop (eastbound); Pedersen St & Wilson Ave - Temporary Stop (westbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-15T11:00:00.000Z",
+        "textDescription": "Beginning at 6:00 AM until further notice"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "updatedAt": "2026-10-15T07:30:18.000Z",
+      "rawHeader": "Sun Ray Transit Center & Gate D - Stop #13667 (northbound) is closed for Routes 72 and 74 beginning at 6:00 AM until further notice",
+      "rawDescription": "Get on/off buses at:\r\nPedersen St & Wilson Ave - Temporary Stop (eastbound)\r\nPedersen St & Wilson Ave - Temporary Stop (westbound)"
+    },
+    {
       "id": "48757",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -3980,7 +3972,7 @@
       "cause": "MAINTENANCE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/75",
-      "updatedAt": "2026-10-14T16:01:29.000Z",
+      "updatedAt": "2026-10-15T05:00:01.000Z",
       "rawHeader": "Route 75 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off buses at:\r\nMinnesota St & 11th St - Stop #80701 (northbound)\r\nCedar St & 7th Place / 6th St - Stop #20013 (southbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on Cedar St to 11th St, left on 11th St, right on Robert St, right on 7th St, left on Cedar St, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nCedar St & 10th St - Stop #11912 (southbound)\r\nCedar St & 7th St E - Stop #57623 (southbound)"
     },
@@ -5004,7 +4996,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
-      "updatedAt": "2026-10-14T14:43:20.000Z",
+      "updatedAt": "2026-10-15T05:00:02.000Z",
       "rawHeader": "Routes 540 and 542 detoured off 84th St from Normandale Lake Blvd to Norman Center Dr from Thu Oct 15 at 7:00 PM to Fri Oct 16 at 6:00 AM",
       "rawDescription": "Get on/off buses at:\r\nNorman Center Dr & 83rd St W - Stop #57476 (southbound)\r\n\nEastbound buses will travel regular route on 83rd St to Normandale Lake Blvd, right on Normandale Lake Blvd, continue on Normandale Lake Blvd to American Blvd and resume regular route.\r\n\nWestbound buses will travel regular route on 83rd St to Normandale Lake Blvd, right on Normandale Lake Blvd, continue on Normandale Lake Blvd to American Blvd and resume regular route.\r\n\nAffected stops:\r\nAmerican Blvd W & Normandale Lake Blvd - Stop #53950 (westbound)\r\nNorman Center Dr & 83rd St W - Stop #50735 (northbound)\r\nNorman Center Dr & 84th St W - Stop #48164 (northbound)\r\nNormandale Lake Blvd & 83rd St / 84th St - Stop #53052 (southbound)"
     },
