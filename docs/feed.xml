@@ -4,9 +4,27 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Fri, 16 Oct 2026 07:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 13:10:54 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] METRO B Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-54242-2026-10-16T13:00:28.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 13:00:28 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO B Line</category>
+      <description>Westbound B Line trip departing Union Depot at 7:49 AM will start from Marshall &amp; Cretin. Previous stops missed due to maintenance work</description>
+    </item>
+    <item>
+      <title>[Critical] Route 61: Eastbound 6:29 AM Trip Canceled (Ramp A/7th St Transit Center)</title>
+      <link>https://www.metrotransit.org/route/61</link>
+      <guid isPermaLink="false">Metro Transit-54241-2026-10-16T12:02:15.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 12:02:15 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 61</category>
+      <description>Eastbound Route 61 trip departing Ramp A/7th St Transit Center at 6:29 AM canceled today due to traffic</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -665,15 +683,6 @@
       <description>77th St W &amp; Nicollet Ave S - Stop #48617 (eastbound) and 77th St E &amp; Nicollet Ave S - Stop #48627 (westbound) are closed for Route 540 until further notice due to construction. Board at: 77th St W &amp; Pillsbury Ave S - Stop #48616 (eastbound); 77th St E &amp; 2nd Ave S - Stop #48618 (eastbound). | Action: Board at: 77th St W &amp; Pillsbury Ave S - Stop #48616 (eastbound); 77th St E &amp; 2nd Ave S - Stop #48618 (eastbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 540, Route 542: Detour via Norman Center Dr &amp; 83rd St W</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54180-2026-10-16T05:00:02.000Z</guid>
-      <pubDate>Fri, 16 Oct 2026 05:00:02 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 540, Route 542</category>
-      <description>Routes 540 and 542 detoured off 84th St from Normandale Lake Blvd to Norman Center Dr from Thu Oct 15 at 7:00 PM to Fri Oct 16 at 6:00 AM. Board at: Norman Center Dr &amp; 83rd St W - Stop #57476 (southbound). | Action: Board at: Norman Center Dr &amp; 83rd St W - Stop #57476 (southbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 542, Route 686: Stop Closed at American Blvd &amp; Lyndale Ave S</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
       <guid isPermaLink="false">Metro Transit-49795-2026-07-13T13:15:01.000Z</guid>
@@ -892,20 +901,11 @@
     <item>
       <title>[Minor] METRO Blue Line, METRO Green Line: Service Advisory</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54223-2026-10-15T20:40:17.000Z</guid>
-      <pubDate>Thu, 15 Oct 2026 20:40:17 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54238-2026-10-16T11:18:55.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 11:18:55 GMT</pubDate>
       <category>Minor</category>
       <category>METRO Blue Line, METRO Green Line</category>
-      <description>Green Line and Blue Line trains may be delayed due to train stopped at Target Field Station</description>
-    </item>
-    <item>
-      <title>[Minor] METRO C Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/cline</link>
-      <guid isPermaLink="false">Metro Transit-54237-2026-10-16T06:18:06.000Z</guid>
-      <pubDate>Fri, 16 Oct 2026 06:18:06 GMT</pubDate>
-      <category>Minor</category>
-      <category>METRO C Line</category>
-      <description>Northbound C Line trip departing 7th St &amp; Park Station at 1:11 AM experiencing moderate delays</description>
+      <description>Eastbound Green Line and all Blue Line trains may be delayed in the area of US Bank Stadium until later today due to a mechanical issue</description>
     </item>
     <item>
       <title>[Minor] Route 14 Service Advisory: New Bus Stops Have Been Added at Bloomington Ave &amp; 22nd St</title>

@@ -1,16 +1,130 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-16T07:00:56.568Z",
+    "generatedAt": "2026-10-16T13:10:54.043Z",
     "totalAlerts": 104,
-    "criticalCount": 0,
-    "moderateCount": 98,
-    "minorCount": 6,
+    "criticalCount": 2,
+    "moderateCount": 97,
+    "minorCount": 5,
     "affectedRoutesCount": 76,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
+    {
+      "id": "54242",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO B Line: Service Advisory",
+      "summary": "Westbound B Line trip departing Union Depot at 7:49 AM will start from Marshall & Cretin. Previous stops missed due to maintenance work",
+      "affectedRoutes": [
+        "METRO B Line"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [
+        "57417",
+        "57419",
+        "57456",
+        "17371",
+        "57335",
+        "57336",
+        "57338",
+        "56100",
+        "11863",
+        "11888",
+        "52760",
+        "16997",
+        "17005",
+        "17013",
+        "17031"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "57417"
+        },
+        {
+          "id": "57419"
+        },
+        {
+          "id": "57456"
+        },
+        {
+          "id": "17371"
+        },
+        {
+          "id": "57335"
+        },
+        {
+          "id": "57336"
+        },
+        {
+          "id": "57338"
+        },
+        {
+          "id": "56100"
+        },
+        {
+          "id": "11863"
+        },
+        {
+          "id": "11888"
+        },
+        {
+          "id": "52760"
+        },
+        {
+          "id": "16997"
+        },
+        {
+          "id": "17005"
+        },
+        {
+          "id": "17013"
+        },
+        {
+          "id": "17031"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-16T12:57:00.000Z",
+        "end": "2026-10-16T14:53:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-10-16T13:00:28.000Z",
+      "rawHeader": "Westbound B Line trip departing Union Depot at 7:49 AM will start from Marshall & Cretin. Previous stops missed due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "54241",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 61: Eastbound 6:29 AM Trip Canceled (Ramp A/7th St Transit Center)",
+      "summary": "Eastbound Route 61 trip departing Ramp A/7th St Transit Center at 6:29 AM canceled today due to traffic",
+      "affectedRoutes": [
+        "Route 61"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-16T12:01:00.000Z",
+        "end": "2026-10-16T13:43:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/61",
+      "updatedAt": "2026-10-16T12:02:15.000Z",
+      "rawHeader": "Eastbound Route 61 trip departing Ramp A/7th St Transit Center at 6:29 AM canceled today due to traffic",
+      "rawDescription": ""
+    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -132,8 +246,8 @@
       "closedStopIds": [
         "51436",
         "51437",
-        "53280",
         "51405",
+        "53280",
         "53279",
         "51420",
         "51421",
@@ -147,10 +261,10 @@
           "id": "51437"
         },
         {
-          "id": "53280"
+          "id": "51405"
         },
         {
-          "id": "51405"
+          "id": "53280"
         },
         {
           "id": "53279"
@@ -5014,67 +5128,6 @@
       "rawDescription": "For eastbound Route 540 get on/off buses at:\r\n77th St W & Pillsbury Ave S - Stop #48616 (eastbound)\r\n77th St E & 2nd Ave S - Stop #48618 (eastbound)\r\n\nFor westbound Route 540 get on/off buses at:\r\n77th St E & 2nd Ave S - Stop #48626 (westbound)\r\n77th St W & Pillsbury Ave S - Stop #48628 (westbound)"
     },
     {
-      "id": "54180",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 540, Route 542: Detour via Norman Center Dr & 83rd St W",
-      "summary": "Routes 540 and 542 detoured off 84th St from Normandale Lake Blvd to Norman Center Dr from Thu Oct 15 at 7:00 PM to Fri Oct 16 at 6:00 AM. Board at: Norman Center Dr & 83rd St W - Stop #57476 (southbound).",
-      "affectedRoutes": [
-        "Route 540",
-        "Route 542"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Norman Center Dr & 83rd St W",
-        "American Blvd W & Normandale Lake Blvd",
-        "Norman Center Dr & 84th St W",
-        "Normandale Lake Blvd & 83rd St"
-      ],
-      "closedStopIds": [
-        "53950",
-        "50735",
-        "48164",
-        "53052",
-        "57476"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "53950",
-          "name": "American Blvd W & Normandale Lake Blvd",
-          "direction": "westbound"
-        },
-        {
-          "id": "50735",
-          "name": "Norman Center Dr & 83rd St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "48164",
-          "name": "Norman Center Dr & 84th St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "53052",
-          "name": "Normandale Lake Blvd & 83rd St / 84th St",
-          "direction": "southbound"
-        },
-        {
-          "id": "57476"
-        }
-      ],
-      "riderAlternative": "Board at: Norman Center Dr & 83rd St W - Stop #57476 (southbound)",
-      "detourDetails": "Eastbound buses will travel regular route on 83rd St to Normandale Lake Blvd, right on Normandale Lake Blvd, continue on Normandale Lake Blvd to American Blvd and resume regular route.",
-      "activePeriod": {
-        "start": "2026-10-16T00:00:00.000Z",
-        "end": "2026-10-16T11:00:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "DETOUR",
-      "updatedAt": "2026-10-16T05:00:02.000Z",
-      "rawHeader": "Routes 540 and 542 detoured off 84th St from Normandale Lake Blvd to Norman Center Dr from Thu Oct 15 at 7:00 PM to Fri Oct 16 at 6:00 AM",
-      "rawDescription": "Get on/off buses at:\r\nNorman Center Dr & 83rd St W - Stop #57476 (southbound)\r\n\nEastbound buses will travel regular route on 83rd St to Normandale Lake Blvd, right on Normandale Lake Blvd, continue on Normandale Lake Blvd to American Blvd and resume regular route.\r\n\nWestbound buses will travel regular route on 83rd St to Normandale Lake Blvd, right on Normandale Lake Blvd, continue on Normandale Lake Blvd to American Blvd and resume regular route.\r\n\nAffected stops:\r\nAmerican Blvd W & Normandale Lake Blvd - Stop #53950 (westbound)\r\nNorman Center Dr & 83rd St W - Stop #50735 (northbound)\r\nNorman Center Dr & 84th St W - Stop #48164 (northbound)\r\nNormandale Lake Blvd & 83rd St / 84th St - Stop #53052 (southbound)"
-    },
-    {
       "id": "49795",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -6895,75 +6948,47 @@
       "rawDescription": "Updated get on/off stops 6/9 1:30 pm.\r\n\nGet on/off buses at:\r\nTemporary stop on Grove St & Lafayette Rd (eastbound)\r\nLaFayette Rd & 8th St - Stop #11925 (southbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on southbound I-35E to University Ave, continue on I-35E and exit at Wacouta St, left on 9th St, left on Broadway St, right on Grove St, right on Lafayette Rd, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nUniversity Ave & Mississippi St - Stop #56109 (eastbound)\r\nUniversity Ave & Lafayette St - Stop #57630 (eastbound)\r\nLaFayette Rd & Grove St - Stop #11923 (southbound)"
     },
     {
-      "id": "54223",
+      "id": "54238",
       "agency": "Metro Transit",
       "severity": "Minor",
       "title": "METRO Blue Line, METRO Green Line: Service Advisory",
-      "summary": "Green Line and Blue Line trains may be delayed due to train stopped at Target Field Station",
+      "summary": "Eastbound Green Line and all Blue Line trains may be delayed in the area of US Bank Stadium until later today due to a mechanical issue",
       "affectedRoutes": [
         "METRO Blue Line",
         "METRO Green Line"
       ],
-      "direction": "All",
+      "direction": "Eastbound",
       "intersections": [],
       "closedStopIds": [
-        "56333",
-        "56339",
-        "56335",
-        "56334"
+        "56330",
+        "56338",
+        "51411",
+        "56001"
       ],
       "closedStopDetails": [
         {
-          "id": "56333"
+          "id": "56330"
         },
         {
-          "id": "56339"
+          "id": "56338"
         },
         {
-          "id": "56335"
+          "id": "51411"
         },
         {
-          "id": "56334"
+          "id": "56001"
         }
       ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-15T20:40:00.000Z",
-        "end": "2026-10-16T07:30:00.000Z"
+        "start": "2026-10-16T11:18:00.000Z",
+        "end": "2026-10-16T15:10:24.000Z"
       },
       "cause": "TECHNICAL_PROBLEM",
       "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-10-15T20:40:17.000Z",
-      "rawHeader": "Green Line and Blue Line trains may be delayed due to train stopped at Target Field Station",
-      "rawDescription": ""
-    },
-    {
-      "id": "54237",
-      "agency": "Metro Transit",
-      "severity": "Minor",
-      "title": "METRO C Line: Service Advisory",
-      "summary": "Northbound C Line trip departing 7th St & Park Station at 1:11 AM experiencing moderate delays",
-      "affectedRoutes": [
-        "METRO C Line"
-      ],
-      "direction": "Northbound",
-      "intersections": [
-        "Northbound C Line trip departing 7th St & Park St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-16T06:17:00.000Z",
-        "end": "2026-10-16T07:38:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "OTHER_EFFECT",
-      "url": "https://www.metrotransit.org/route/cline",
-      "updatedAt": "2026-10-16T06:18:06.000Z",
-      "rawHeader": "Northbound C Line trip departing 7th St & Park Station at 1:11 AM experiencing moderate delays",
+      "updatedAt": "2026-10-16T11:18:55.000Z",
+      "rawHeader": "Eastbound Green Line and all Blue Line trains may be delayed in the area of US Bank Stadium until later today due to a mechanical issue",
       "rawDescription": ""
     },
     {
