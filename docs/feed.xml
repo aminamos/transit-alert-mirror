@@ -4,26 +4,80 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Fri, 16 Oct 2026 13:10:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 17:56:00 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO B Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/bline</link>
-      <guid isPermaLink="false">Metro Transit-54242-2026-10-16T13:00:28.000Z</guid>
-      <pubDate>Fri, 16 Oct 2026 13:00:28 GMT</pubDate>
+      <title>[Critical] Route 30: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/30</link>
+      <guid isPermaLink="false">Metro Transit-54255-2026-10-16T17:34:01.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 17:34:01 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO B Line</category>
-      <description>Westbound B Line trip departing Union Depot at 7:49 AM will start from Marshall &amp; Cretin. Previous stops missed due to maintenance work</description>
+      <category>Route 30</category>
+      <description>Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today due to mechanical issue</description>
     </item>
     <item>
-      <title>[Critical] Route 61: Eastbound 6:29 AM Trip Canceled (Ramp A/7th St Transit Center)</title>
-      <link>https://www.metrotransit.org/route/61</link>
-      <guid isPermaLink="false">Metro Transit-54241-2026-10-16T12:02:15.000Z</guid>
-      <pubDate>Fri, 16 Oct 2026 12:02:15 GMT</pubDate>
+      <title>[Critical] Route 30: Eastbound 11:56 AM Trip Canceled (Knox Ave N &amp; Golden Valley Rd)</title>
+      <link>https://www.metrotransit.org/route/30</link>
+      <guid isPermaLink="false">Metro Transit-54257-2026-10-16T16:57:54.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 16:57:54 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 61</category>
-      <description>Eastbound Route 61 trip departing Ramp A/7th St Transit Center at 6:29 AM canceled today due to traffic</description>
+      <category>Route 30</category>
+      <description>Eastbound Route 30 trip departing Knox Ave N &amp; Golden Valley Rd at 11:56 AM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 67: Westbound 11:48 AM Trip Canceled (Union Depot &amp; Gate A1)</title>
+      <link>https://www.metrotransit.org/route/67</link>
+      <guid isPermaLink="false">Metro Transit-54258-2026-10-16T17:31:28.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 17:31:28 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 67</category>
+      <description>Westbound Route 67 trip departing Union Depot &amp; Gate A1 at 11:48 AM canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 71: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/71</link>
+      <guid isPermaLink="false">Metro Transit-54254-2026-10-16T17:08:00.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 17:08:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 71</category>
+      <description>Route 71 trip departing Inver Hills College &amp; Shelter at 12:38 PM and three other trips canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 72: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/72</link>
+      <guid isPermaLink="false">Metro Transit-54256-2026-10-16T16:03:25.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 16:03:25 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 72</category>
+      <description>Route 72 trip departing Sun Ray Transit Center &amp; Gate D at 4:48 PM and five other trips canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 802: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/802</link>
+      <guid isPermaLink="false">Metro Transit-54252-2026-10-16T16:04:01.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 16:04:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 802</category>
+      <description>Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 802: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/802</link>
+      <guid isPermaLink="false">Metro Transit-54259-2026-10-16T17:34:50.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 17:34:50 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 802</category>
+      <description>Route 802 trips departing Anoka Tech College &amp; Main Entrance at 11:43 AM and departing Northtown Transit Ctr Gate E at 12:34 PM canceled today due to maintenance work</description>
+    </item>
+    <item>
+      <title>[Critical] Route 805: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/805</link>
+      <guid isPermaLink="false">Metro Transit-54253-2026-10-16T16:04:01.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 16:04:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 805</category>
+      <description>Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today due to mechanical issue</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -55,11 +109,11 @@
     <item>
       <title>[Moderate] METRO Blue Line: Service Advisory</title>
       <link>https://www.metrotransit.org/closure</link>
-      <guid isPermaLink="false">Metro Transit-54099-2026-10-16T05:00:03.000Z</guid>
-      <pubDate>Fri, 16 Oct 2026 05:00:03 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54099-2026-10-16T13:38:03.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 13:38:03 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO Blue Line</category>
-      <description>Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Friday, Oct. 16 at 8 p.m.</description>
+      <description>UPDATE: Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Saturday, Oct. 17 at 3 a.m.</description>
     </item>
     <item>
       <title>[Moderate] METRO Gold Line: Detour via 6th St &amp; Jackson St</title>
@@ -188,15 +242,6 @@
       <description>Route 11 detoured off Main St NE from Edge Pl to 35th Ave and off 35th Ave from Main St NE to 2 1/2 St beginning Tue May 26 at 7:00 AM until further notice due to construction. Board at: Main St NE &amp; St Anthony Pkwy - Stop #14618 (northbound); Temporary stop on Main St NE just before Edge Place NE (northbound); Temporary stop on 2nd 1/2 St NE &amp; 35th Ave NE (northbound). | Action: Board at: Main St NE &amp; St Anthony Pkwy - Stop #14618 (northbound); Temporary stop on Main St NE just before Edge Place NE (northbound); Temporary stop on 2nd 1/2 St NE &amp; 35th Ave NE (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 11, Route 18: Stop Closed at Nicollet Ave S &amp; 48th St W</title>
-      <link>https://www.metrotransit.org/route/11</link>
-      <guid isPermaLink="false">Metro Transit-54131-2026-10-13T13:40:02.000Z</guid>
-      <pubDate>Tue, 13 Oct 2026 13:40:02 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 11, Route 18</category>
-      <description>Nicollet Ave S &amp; 48th St W - Stop #1229 (southbound) is closed for Routes 11 and 18 until further notice due to construction. Board at: 46th St &amp; I-35W - Stop #53544 (westbound, Route 11 only); Nicollet Ave S &amp; 46th St W - Stop #1227 (southbound, Route 18 only); Nicollet Ave S &amp; 49th St W - Stop #1230 (southbound). | Action: Board at: 46th St &amp; I-35W - Stop #53544 (westbound, Route 11 only); Nicollet Ave S &amp; 46th St W - Stop #1227 (southbound, Route 18 only); Nicollet Ave S &amp; 49th St W - Stop #1230 (southbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 18: Detour via Nicollet Ave S &amp; 56th St E</title>
       <link>https://www.metrotransit.org/route/18</link>
       <guid isPermaLink="false">Metro Transit-48754-2026-09-03T18:13:08.000Z</guid>
@@ -260,15 +305,6 @@
       <description>Route 22 detoured off Lyndale Ave N from Lowry Ave N to Dowling Ave N until further notice due to construction. Board at: Lyndale Ave N &amp; Lowry Ave N - Stop #81098 (northbound); Lyndale Ave N &amp; 40th Ave N - Stop #11199 (northbound). | Action: Board at: Lyndale Ave N &amp; Lowry Ave N - Stop #81098 (northbound); Lyndale Ave N &amp; 40th Ave N - Stop #11199 (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 22: Detour via Cedar Ave S &amp; 32nd St E</title>
-      <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-52562-2026-09-21T08:00:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 08:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 22</category>
-      <description>Route 22 detoured off Cedar Ave from Lake St to 24th St beginning Mon Sep 14 until further notice due to construction. Board at: Cedar Ave S &amp; 32nd St E - Stop #15313 (northbound); Lake &amp; Cedar Station - Stop #57362 (westbound); Bloomington Ave S &amp; 28th St E - Stop #15618 (northbound). | Action: Board at: Cedar Ave S &amp; 32nd St E - Stop #15313 (northbound); Lake &amp; Cedar Station - Stop #57362 (westbound); Bloomington Ave S &amp; 28th St E - Stop #15618 (northbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 22, Route 22C: Detour via 53rd Ave N &amp; Colfax Ave</title>
       <link>https://www.metrotransit.org/route/22</link>
       <guid isPermaLink="false">Metro Transit-53865-2026-10-15T12:00:00.000Z</guid>
@@ -276,6 +312,24 @@
       <category>Moderate</category>
       <category>Route 22, Route 22C</category>
       <description>Route 22C detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice. Board at: 53rd Ave N &amp; Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N &amp; 57th Ave N - Stop #11442 (northbound). | Action: Board at: 53rd Ave N &amp; Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N &amp; 57th Ave N - Stop #11442 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 22: Detour via 58th St E &amp; Sander Dr</title>
+      <link>https://www.metrotransit.org/route/22</link>
+      <guid isPermaLink="false">Metro Transit-54247-2026-10-16T14:20:23.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 14:20:23 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 22</category>
+      <description>Route 22 detoured off 28th Ave S from 51st St E to 58th St E beginning Tue Oct 20 at 7:00 AM until further notice due to construction. Board at: 58th St E &amp; Sander Dr - Stop #19434 (westbound); Temporary stop 30th Ave S &amp; 54th St E (northbound); 28th Ave S &amp; 50th St E - Stop #19475 (northbound). | Action: Board at: 58th St E &amp; Sander Dr - Stop #19434 (westbound); Temporary stop 30th Ave S &amp; 54th St E (northbound); 28th Ave S &amp; 50th St E - Stop #19475 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 22: Detour via Cedar Ave S &amp; 32nd St E</title>
+      <link>https://www.metrotransit.org/route/22</link>
+      <guid isPermaLink="false">Metro Transit-54251-2026-10-16T14:42:10.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 14:42:10 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 22</category>
+      <description>Route 22 detoured off Cedar Ave from Lake St to 24th St beginning Mon Sep 14 until further notice due to construction. Board at: Cedar Ave S &amp; 32nd St E - Stop #15313 (northbound); Lake &amp; Cedar Station - Stop #57362 (westbound); Bloomington Ave S &amp; 28th St E - Stop #15618 (northbound). | Action: Board at: Cedar Ave S &amp; 32nd St E - Stop #15313 (northbound); Lake &amp; Cedar Station - Stop #57362 (westbound); Bloomington Ave S &amp; 28th St E - Stop #15618 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 27: Detour via 26th St E &amp; 3rd Ave S</title>
@@ -289,8 +343,8 @@
     <item>
       <title>[Moderate] Route 27: Detour via Route 27 detoured off 26th St &amp; 28th St</title>
       <link>https://www.metrotransit.org/route/27</link>
-      <guid isPermaLink="false">Metro Transit-52564-2026-09-21T08:00:01.000Z</guid>
-      <pubDate>Mon, 21 Sep 2026 08:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54250-2026-10-16T14:40:37.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 14:40:37 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 27</category>
       <description>Route 27 detoured off 26th St/28th St from Bloomington Ave to Cedar Ave and off Cedar Ave from 26th St to Lake St beginning Mon Sep 14 until further notice due to construction. Board at: 28th St E &amp; Bloomington Ave S - Stop #43016 (eastbound); Lake &amp; Cedar Station - Stop #51579 (eastbound). | Action: Board at: 28th St E &amp; Bloomington Ave S - Stop #43016 (eastbound); Lake &amp; Cedar Station - Stop #51579 (eastbound)</description>
@@ -316,8 +370,8 @@
     <item>
       <title>[Moderate] Route 46: Detour via 50th St W &amp; Washburn Ave</title>
       <link>https://www.metrotransit.org/route/46</link>
-      <guid isPermaLink="false">Metro Transit-53995-2026-10-09T17:25:27.000Z</guid>
-      <pubDate>Fri, 09 Oct 2026 17:25:27 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-53995-2026-10-16T17:25:01.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 17:25:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 46</category>
       <description>Route 46 school trips detoured off Abbott Ave, 48th St, and Chowen Ave until further notice due to road paving. Board at: 50th St W &amp; Washburn Ave / Vincent Ave - Stop #998 (eastbound). | Action: Board at: 50th St W &amp; Washburn Ave / Vincent Ave - Stop #998 (eastbound)</description>
@@ -492,6 +546,15 @@
       <category>Moderate</category>
       <category>Route 68</category>
       <description>Route 68 detoured off Jackson St from Larpenteur Ave to Maryland Ave and off Timberlake Rd beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Larpenteur Ave &amp; Jackson St - Stop #49947 (eastbound); Temporary stop on Arlington Ave &amp; Klainert St (westbound); L&apos;Orient St &amp; #1301 - Stop #49948 (southbound). | Action: Board at: Larpenteur Ave &amp; Jackson St - Stop #49947 (eastbound); Temporary stop on Arlington Ave &amp; Klainert St (westbound); L&apos;Orient St &amp; #1301 - Stop #49948 (southbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 68: Detour via 5th Ave S &amp; Richmond St</title>
+      <link>https://www.metrotransit.org/route/68</link>
+      <guid isPermaLink="false">Metro Transit-54244-2026-10-16T13:28:53.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 13:28:53 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 68</category>
+      <description>Route 68 detoured off 5th Ave from I-494 to 5th St beginning Mon Oct 19 at 7:00 AM until further notice due to construction. Board at: 5th Ave S &amp; Richmond St - Stop #9812 (northbound); 5th Ave S &amp; 4th St S - Stop #9820 (northbound). | Action: Board at: 5th Ave S &amp; Richmond St - Stop #9812 (northbound); 5th Ave S &amp; 4th St S - Stop #9820 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 71, Route 71K: Detour via Little Canada Rd &amp; Centerville Rd</title>
@@ -737,15 +800,6 @@
       <description>Route 645 detoured off Zarthan Ave from 16th St to Wayzata Blvd and off Wayzata Blvd from Zarthan Ave to Louisiana Transit Center beginning Mon Jul 6 at 4:00 AM until further notice due to construction. Board at: Louisiana Transit Ctr &amp; temporary Gate B - Stop #80969 (eastbound); 16th St W &amp; Park Place East - Stop #40325 (eastbound). | Action: Board at: Louisiana Transit Ctr &amp; temporary Gate B - Stop #80969 (eastbound); 16th St W &amp; Park Place East - Stop #40325 (eastbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 645: Detour via Oakland Rd &amp; Oakways Rd</title>
-      <link>https://www.metrotransit.org/route/645</link>
-      <guid isPermaLink="false">Metro Transit-52828-2026-09-22T13:09:01.000Z</guid>
-      <pubDate>Tue, 22 Sep 2026 13:09:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 645</category>
-      <description>Route 645 detoured off Hwy 394/Hwy 12 from Oakland Rd to Bushaway Rd until further notice due to construction. Board at: Oakland Rd &amp; Oakways Rd - Stop #7083 (westbound). | Action: Board at: Oakland Rd &amp; Oakways Rd - Stop #7083 (westbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 645: Detour via I-394 (Dunwoody Blvd to 12th St)</title>
       <link>https://www.metrotransit.org/route/645</link>
       <guid isPermaLink="false">Metro Transit-54178-2026-10-16T05:00:02.000Z</guid>
@@ -906,6 +960,15 @@
       <category>Minor</category>
       <category>METRO Blue Line, METRO Green Line</category>
       <description>Eastbound Green Line and all Blue Line trains may be delayed in the area of US Bank Stadium until later today due to a mechanical issue</description>
+    </item>
+    <item>
+      <title>[Minor] METRO Blue Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/blue</link>
+      <guid isPermaLink="false">Metro Transit-54246-2026-10-16T14:39:00.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 14:39:00 GMT</pubDate>
+      <category>Minor</category>
+      <category>METRO Blue Line</category>
+      <description>Starting at 8 p.m. Friday, Oct. 16, METRO Blue Line customers may experience slight delays between Airport-Terminal 2 and Mall of America stations due to single-track service going into effect in that area.</description>
     </item>
     <item>
       <title>[Minor] Route 14 Service Advisory: New Bus Stops Have Been Added at Bloomington Ave &amp; 22nd St</title>
