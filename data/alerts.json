@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-16T17:56:00.297Z",
-    "totalAlerts": 111,
-    "criticalCount": 8,
-    "moderateCount": 97,
+    "generatedAt": "2026-10-16T20:54:43.216Z",
+    "totalAlerts": 113,
+    "criticalCount": 6,
+    "moderateCount": 101,
     "minorCount": 6,
-    "affectedRoutesCount": 76,
+    "affectedRoutesCount": 79,
     "agencies": [
       "Metro Transit"
     ]
@@ -42,13 +42,13 @@
       "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 1:56 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 3:54 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 5:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 1:04 PM\r\ndeparting Westgate Station - Gate B at 3:04 PM\r\ndeparting Westgate Station - Gate B at 5:04 PM\r\ndeparting Westgate Station - Gate B at 7:05 PM"
     },
     {
-      "id": "54257",
+      "id": "54267",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 30: Eastbound 11:56 AM Trip Canceled (Knox Ave N & Golden Valley Rd)",
-      "summary": "Eastbound Route 30 trip departing Knox Ave N & Golden Valley Rd at 11:56 AM canceled today",
+      "title": "Route 54: Eastbound 2:28 PM Trip Canceled (MOA Transit Station Gate C)",
+      "summary": "Eastbound Route 54 trip departing MOA Transit Station Gate C at 2:28 PM canceled today due to road conditions",
       "affectedRoutes": [
-        "Route 30"
+        "Route 54"
       ],
       "direction": "Eastbound",
       "intersections": [],
@@ -57,40 +57,14 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-16T16:57:00.000Z",
-        "end": "2026-10-16T18:36:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-10-16T16:57:54.000Z",
-      "rawHeader": "Eastbound Route 30 trip departing Knox Ave N & Golden Valley Rd at 11:56 AM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "54258",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 67: Westbound 11:48 AM Trip Canceled (Union Depot & Gate A1)",
-      "summary": "Westbound Route 67 trip departing Union Depot & Gate A1 at 11:48 AM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 67"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-16T17:31:00.000Z",
-        "end": "2026-10-16T18:33:00.000Z"
+        "start": "2026-10-16T20:03:00.000Z",
+        "end": "2026-10-16T21:09:00.000Z"
       },
       "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/67",
-      "updatedAt": "2026-10-16T17:31:28.000Z",
-      "rawHeader": "Westbound Route 67 trip departing Union Depot & Gate A1 at 11:48 AM canceled today due to traffic",
+      "url": "https://www.metrotransit.org/route/54",
+      "updatedAt": "2026-10-16T20:03:25.000Z",
+      "rawHeader": "Eastbound Route 54 trip departing MOA Transit Station Gate C at 2:28 PM canceled today due to road conditions",
       "rawDescription": ""
     },
     {
@@ -174,32 +148,6 @@
       "updatedAt": "2026-10-16T16:04:01.000Z",
       "rawHeader": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to mechanical issue",
       "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 11:34 AM\r\ndeparting Northtown Transit Ctr Gate E at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 12:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 2:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 4:42 PM"
-    },
-    {
-      "id": "54259",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 802: Service Canceled",
-      "summary": "Route 802 trips departing Anoka Tech College & Main Entrance at 11:43 AM and departing Northtown Transit Ctr Gate E at 12:34 PM canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 802"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-16T17:34:00.000Z",
-        "end": "2026-10-16T19:14:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-10-16T17:34:50.000Z",
-      "rawHeader": "Route 802 trips departing Anoka Tech College & Main Entrance at 11:43 AM and departing Northtown Transit Ctr Gate E at 12:34 PM canceled today due to maintenance work",
-      "rawDescription": ""
     },
     {
       "id": "54253",
@@ -351,8 +299,8 @@
       "intersections": [],
       "closedStopIds": [
         "53280",
-        "51436",
         "51437",
+        "51436",
         "51405",
         "51420",
         "51421",
@@ -364,10 +312,10 @@
           "id": "53280"
         },
         {
-          "id": "51436"
+          "id": "51437"
         },
         {
-          "id": "51437"
+          "id": "51436"
         },
         {
           "id": "51405"
@@ -397,6 +345,94 @@
       "updatedAt": "2026-10-16T13:38:03.000Z",
       "rawHeader": "UPDATE: Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Saturday, Oct. 17 at 3 a.m.",
       "rawDescription": "UPDATE: Starting at 3 a.m. on Saturday, Oct. 17, buses will replace trains on the METRO Blue Line between Airport-Terminal 2 and Mall of America stations to allow for needed maintenance.\r\n\nPlease plan extra time for your trip. Replacement bus timing can vary and trips may take longer.\r\n\nTrain service will resume Monday, Oct. 19.\r\n\n Visit metrotransit.org/closure for bus boarding locations. \r\n\n\r\nAffected stops:\r\nMall of America Station (northbound)\r\n30th Ave Station (northbound)\r\nBloomington Central Station (northbound)\r\nAmerican Blvd Station (northbound)\r\nTerminal 2 Station (southbound)\r\nAmerican Blvd Station (southbound)\r\nBloomington Central Station (southbound)\r\n30th Ave Station (southbound)\r\nMall of America Station (southbound)"
+    },
+    {
+      "id": "54265",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "METRO D Line: Detour via Chicago Ave S & 58th St E",
+      "summary": "METRO D Line detoured off Chicago Ave from 46th St to 57th St beginning Tue Oct 20 at 5:00 AM until further notice due to construction. Board at: Portland & 60th St Station - Stop #737 (northbound); Chicago Ave S & 58th St E - Stop #743 (northbound); Temporary stop on Portland Ave & 52nd St (northbound).",
+      "affectedRoutes": [
+        "METRO D Line"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Chicago Ave S & 58th St E",
+        "Portland Ave & 52nd St",
+        "Portland Ave & 48th St",
+        "46th St E & Park Ave S",
+        "Chicago Ave (46th St to 57th St)"
+      ],
+      "closedStopIds": [
+        "775",
+        "779",
+        "784",
+        "56917",
+        "56918",
+        "56919",
+        "40472",
+        "56923",
+        "56916",
+        "17815"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "775",
+          "name": "Chicago & 56th St Station",
+          "direction": "northbound"
+        },
+        {
+          "id": "779",
+          "name": "Chicago & 52nd St Station",
+          "direction": "northbound"
+        },
+        {
+          "id": "784",
+          "name": "Chicago & 48th St Station",
+          "direction": "northbound"
+        },
+        {
+          "id": "56917",
+          "name": "Chicago & 46th St Station",
+          "direction": "southbound"
+        },
+        {
+          "id": "56918",
+          "name": "Chicago & 48th St Station",
+          "direction": "southbound"
+        },
+        {
+          "id": "56919",
+          "name": "Chicago & 52nd St Station",
+          "direction": "southbound"
+        },
+        {
+          "id": "40472",
+          "name": "Chicago & 56th St Station",
+          "direction": "southbound"
+        },
+        {
+          "id": "56923"
+        },
+        {
+          "id": "56916"
+        },
+        {
+          "id": "17815"
+        }
+      ],
+      "riderAlternative": "Board at: Portland & 60th St Station - Stop #737 (northbound); Chicago Ave S & 58th St E - Stop #743 (northbound); Temporary stop on Portland Ave & 52nd St (northbound)",
+      "detourDetails": "Northbound buses will travel regular route on Chicago Ave to 57th St, left on 57th St, right on Portland Ave, right on 46th St, left on Chicago Ave, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-10-20T10:00:00.000Z",
+        "textDescription": "Beginning Tue Oct 20 at 5:00 AM until further notice"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-10-16T19:49:17.000Z",
+      "rawHeader": "METRO D Line detoured off Chicago Ave from 46th St to 57th St beginning Tue Oct 20 at 5:00 AM until further notice due to construction",
+      "rawDescription": "For northbound D Line get on/off buses at:\r\nPortland & 60th St Station - Stop #737 (northbound)\r\nChicago Ave S & 58th St E - Stop #743 (northbound)\r\nTemporary stop on Portland Ave & 52nd St (northbound)\r\nTemporary stop on Portland Ave & 48th St (northbound)\r\nChicago & 46th St Station - Stop #56923 (northbound)\r\n\nFor southbound D Line get on/off buses at:\r\nChicago & 42nd St Station - Stop #56916 (southbound)\r\n46th St E & Park Ave S - Stop #17815 (westbound)\r\nTemporary stop on Portland Ave & 48th St (southbound)\r\nTemporary stop on Portland Ave & 52nd St (southbound)\r\nChicago Ave S & 58th St E - Stop #77 (southbound)\r\nPortland & 60th St Station - Stop #431 (southbound)\r\n\nNorthbound buses will travel regular route on Chicago Ave to 57th St, left on 57th St, right on Portland Ave, right on 46th St, left on Chicago Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on Chicago Ave to 46th St, right on 46th St, left on Portland Ave, left on 57th St, right on Chicago Ave, and resume regular route.\r\n\nAffected stops:\r\nChicago & 56th St Station - Stop #775 (northbound)\r\nChicago & 52nd St Station - Stop #779 (northbound)\r\nChicago & 48th St Station - Stop #784 (northbound)\r\nChicago & 46th St Station - Stop #56917 (southbound)\r\nChicago & 48th St Station - Stop #56918 (southbound)\r\nChicago & 52nd St Station - Stop #56919 (southbound)\r\nChicago & 56th St Station - Stop #40472 (southbound)"
     },
     {
       "id": "50989",
@@ -837,6 +873,142 @@
       "updatedAt": "2026-10-15T10:30:02.000Z",
       "rawHeader": "Routes 3, 62 and 67 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off buses at:\r\n11th St W & St Peter St - Stop #49450 (eastbound)\r\nCedar St & 7th Place / 6th St - Stop #20013 (southbound)\r\n\nEastbound/southbound buses will travel regular route on 11th St to Cedar St, continue on 11th St to Robert St, right on Robert, right on 7th St, left on Cedar St, and resume regular route.\r\n\nWestbound/northbound buses will travel regular route.\r\n\nAffected stops:\r\nCedar St & 10th St - Stop #11912 (southbound)\r\nCedar St & 7th St E - Stop #57623 (southbound)"
+    },
+    {
+      "id": "54263",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 5: Detour via Portland Ave & 52nd St",
+      "summary": "Route 5 detoured off Chicago Ave from 46th St to 56th St beginning Tue Oct 20 at 4:00 AM until further notice due to construction. Board at: Chicago & 56th St Station - Stop #775 (northbound); Temporary stop on Portland Ave & 52nd St (northbound); Temporary stop on Portland Ave & 48th St (northbound).",
+      "affectedRoutes": [
+        "Route 5"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Portland Ave & 52nd St",
+        "Portland Ave & 48th St",
+        "Chicago Ave S & 45th St E",
+        "46th St E & Park Ave S",
+        "Chicago Ave S & 56th St E"
+      ],
+      "closedStopIds": [
+        "777",
+        "778",
+        "779",
+        "780",
+        "781",
+        "783",
+        "784",
+        "785",
+        "56917",
+        "56918",
+        "56919",
+        "56923",
+        "17815",
+        "51212",
+        "73",
+        "66",
+        "68",
+        "69",
+        "70",
+        "72"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "777",
+          "name": "Chicago Ave S & 54th St E",
+          "direction": "northbound"
+        },
+        {
+          "id": "778",
+          "name": "Chicago Ave S & 53rd St E",
+          "direction": "northbound"
+        },
+        {
+          "id": "779",
+          "name": "Chicago & 52nd St Station",
+          "direction": "northbound"
+        },
+        {
+          "id": "780",
+          "name": "Chicago Ave S & 51st St E",
+          "direction": "northbound"
+        },
+        {
+          "id": "781",
+          "name": "Chicago Ave S & 50th St E",
+          "direction": "northbound"
+        },
+        {
+          "id": "783",
+          "name": "Chicago Ave S & 49th St E",
+          "direction": "northbound"
+        },
+        {
+          "id": "784",
+          "name": "Chicago & 48th St Station",
+          "direction": "northbound"
+        },
+        {
+          "id": "785",
+          "name": "Chicago Ave S & 47th St E",
+          "direction": "northbound"
+        },
+        {
+          "id": "56917",
+          "name": "Chicago & 46th St Station",
+          "direction": "southbound"
+        },
+        {
+          "id": "56918",
+          "name": "Chicago & 48th St Station",
+          "direction": "southbound"
+        },
+        {
+          "id": "56919",
+          "name": "Chicago & 52nd St Station",
+          "direction": "southbound"
+        },
+        {
+          "id": "56923"
+        },
+        {
+          "id": "17815"
+        },
+        {
+          "id": "51212"
+        },
+        {
+          "id": "73"
+        },
+        {
+          "id": "66"
+        },
+        {
+          "id": "68"
+        },
+        {
+          "id": "69"
+        },
+        {
+          "id": "70"
+        },
+        {
+          "id": "72"
+        }
+      ],
+      "riderAlternative": "Board at: Chicago & 56th St Station - Stop #775 (northbound); Temporary stop on Portland Ave & 52nd St (northbound); Temporary stop on Portland Ave & 48th St (northbound)",
+      "detourDetails": "Northbound buses will travel regular route on Chicago Ave to 56th St, left on 56th St, right on Portland Ave, right on 46th St, left on Chicago Ave, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-10-20T09:00:00.000Z",
+        "textDescription": "Beginning Tue Oct 20 at 4:00 AM until further notice"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/5",
+      "updatedAt": "2026-10-16T19:30:49.000Z",
+      "rawHeader": "Route 5 detoured off Chicago Ave from 46th St to 56th St beginning Tue Oct 20 at 4:00 AM until further notice due to construction",
+      "rawDescription": "For northbound Route 5 get on/off buses at:\r\nChicago & 56th St Station - Stop #775 (northbound)\r\nTemporary stop on Portland Ave & 52nd St (northbound)\r\nTemporary stop on Portland Ave & 48th St (northbound)\r\nChicago & 46th St Station - Stop #56923 (northbound)\r\n\nFor southbound Route 5 get on/off buses at:\r\nChicago Ave S & 45th St E - Stop #64 (southbound)\r\n46th St E & Park Ave S - Stop #17815 (westbound)\r\nTemporary stop on Portland Ave & 48th St (southbound)\r\nTemporary stop on Portland Ave & 52nd St (southbound)\r\nChicago Ave S & 56th St E - Stop #51212 (southbound)\r\n\nNorthbound buses will travel regular route on Chicago Ave to 56th St, left on 56th St, right on Portland Ave, right on 46th St, left on Chicago Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on Chicago Ave to 46th St, right on 46th St, left on Portland Ave, left on 57th St, left on Chicago Ave to 56th St turnaround, and resume regular route.\r\n\nAffected stops:\r\nChicago Ave S & 54th St E - Stop #777 (northbound)\r\nChicago Ave S & 53rd St E - Stop #778 (northbound)\r\nChicago & 52nd St Station - Stop #779 (northbound)\r\nChicago Ave S & 51st St E - Stop #780 (northbound)\r\nChicago Ave S & 50th St E - Stop #781 (northbound)\r\nChicago Ave S & 49th St E - Stop #783 (northbound)\r\nChicago & 48th St Station - Stop #784 (northbound)\r\nChicago Ave S & 47th St E - Stop #785 (northbound)\r\nChicago & 46th St Station - Stop #56917 (southbound)\r\nChicago Ave S & 47th St E - Stop #66 (southbound)\r\nChicago & 48th St Station - Stop #56918 (southbound)\r\nChicago Ave S & 49th St E - Stop #68 (southbound)\r\nChicago Ave S & 50th St E - Stop #69 (southbound)\r\nChicago Ave S & 51st St E - Stop #70 (southbound)\r\nChicago & 52nd St Station - Stop #56919 (southbound)\r\nChicago Ave S & 53rd St E - Stop #72 (southbound)\r\nChicago Ave S & 54th St E - Stop #73 (southbound)"
     },
     {
       "id": "52942",
@@ -1375,6 +1547,59 @@
       "updatedAt": "2026-09-03T18:11:02.000Z",
       "rawHeader": "Route 11 detoured off Main St NE from Edge Pl to 35th Ave and off 35th Ave from Main St NE to 2 1/2 St beginning Tue May 26 at 7:00 AM until further notice due to construction",
       "rawDescription": "For northbound Route 11 get on/off buses at:\r\nMain St NE & St Anthony Pkwy - Stop #14618 (northbound)\r\nTemporary stop on Main St NE just before Edge Place NE (northbound)\r\nTemporary stop on 2nd 1/2 St NE & 35th Ave NE (northbound)\r\n2nd 1/2 St NE & 36th Ave NE - Stop #14609 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\n2nd 1/2 St NE & 35th Ave NE - Stop #14611 (southbound)\r\nMain St NE & Edge Place NE - Stop #14616 (southbound)\r\n\nNorthbound buses will travel regular route on Main St NE to Edge Place, right on Edge Place, left on 2nd 1/2 St, continue on 2 1/2 St to 35th Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 2nd 1/2 St to 35th Ave, continue on 2 1/2 St to Edge Place, right on Edge Place, left on Main St NE and resume regular route.\r\n\nAffected stops:\r\nMain St NE & Edge Place NE - Stop #14617 (northbound)\r\nMain St NE & 35th Ave NE - Stop #14614 (northbound)\r\n35th Ave NE & 2nd St NE - Stop #14613 (eastbound)\r\n35th Ave NE & 2nd 1/2 St NE - Stop #14610 (eastbound)\r\n35th Ave NE & 2nd St NE - Stop #14612 (westbound)\r\n35th Ave NE & Main St NE - Stop #14615 (westbound)"
+    },
+    {
+      "id": "54264",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 14: Detour via Chicago Ave S & 58th St E",
+      "summary": "Route 14 detoured off Chicago fro 57th St E to 54th St E beginning Tue Oct 20 at 4:00 AM until further notice due to construction. Board at: Chicago Ave S & 58th St E - Stop #743 (northbound); 54th St E & 12th Ave S - Stop #51836 (eastbound).",
+      "affectedRoutes": [
+        "Route 14"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Chicago Ave S & 58th St E",
+        "54th St E & 12th Ave S",
+        "54th St E & Chicago Ave S",
+        "Chicago Ave S & 54th St E"
+      ],
+      "closedStopIds": [
+        "775",
+        "777",
+        "51836",
+        "51834"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "775",
+          "name": "Chicago & 56th St Station",
+          "direction": "northbound"
+        },
+        {
+          "id": "777",
+          "name": "Chicago Ave S & 54th St E",
+          "direction": "northbound"
+        },
+        {
+          "id": "51836"
+        },
+        {
+          "id": "51834"
+        }
+      ],
+      "riderAlternative": "Board at: Chicago Ave S & 58th St E - Stop #743 (northbound); 54th St E & 12th Ave S - Stop #51836 (eastbound)",
+      "detourDetails": "Northbound buses will travel the regular route on Chicago Ave to 57th St E, left on 57th St E, right on Portland Ave, right on 54th St E to Chicago Ave, continue on 54th St E, and resume the regular route.",
+      "activePeriod": {
+        "start": "2026-10-20T09:00:00.000Z",
+        "textDescription": "Beginning Tue Oct 20 at 4:00 AM until further notice"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/14",
+      "updatedAt": "2026-10-16T19:48:42.000Z",
+      "rawHeader": "Route 14 detoured off Chicago fro 57th St E to 54th St E beginning Tue Oct 20 at 4:00 AM until further notice due to construction",
+      "rawDescription": "For northbound Route 14 get on/off buses at:\r\nChicago Ave S & 58th St E - Stop #743 (northbound)\r\n54th St E & 12th Ave S - Stop #51836 (eastbound)\r\n\nFor southbound Route 14 get on/off buses at:\r\n54th St E & Chicago Ave S - Stop #51834 (westbound)\r\nChicago Ave S & 58th St E - Stop #77 (southbound)\r\n\nNorthbound buses will travel the regular route on Chicago Ave to 57th St E, left on 57th St E, right on Portland Ave, right on 54th St E to Chicago Ave, continue on 54th St E, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on 54th St E to Chicago Ave, continue on 54th St E, left on Portland Ave, left on 57th St E, right on Chicago Ave, and resume the regular route.\r\n\nAffected stops:\r\nChicago & 56th St Station - Stop #775 (northbound)\r\nChicago Ave S & 54th St E - Stop #777 (northbound)"
     },
     {
       "id": "48754",
@@ -2214,6 +2439,37 @@
       "updatedAt": "2026-10-16T14:40:37.000Z",
       "rawHeader": "Route 27 detoured off 26th St/28th St from Bloomington Ave to Cedar Ave and off Cedar Ave from 26th St to Lake St beginning Mon Sep 14 until further notice due to construction",
       "rawDescription": "For eastbound Route 27 get on/off buses at:\r\n28th St E & Bloomington Ave S - Stop #43016 (eastbound)\r\nLake & Cedar Station - Stop #51579 (eastbound)\r\n\nFor westbound Route 27 get on/off buses at:\r\nLake St E & 21st Ave S - Stop #16894 (westbound)\r\nLake & Cedar Station - Stop #57362 (westbound)\r\nBloomington Ave S & 28th St E - Stop #15618 (northbound)\r\n26th St E & 12th Ave S - Stop #51507 (westbound)\r\n\nEastbound buses will travel regular route on 28th St to Bloomington Ave, right on Bloomington, left on Lake St to Cedar Ave, and resume regular route.\r\n\nWestbound buses will travel regular route on Lake St to Cedar Ave, continue on Lake to Bloomington Ave, right on Bloomington, left on 26th St, and resume regular route.\r\n\nAffected stops:\r\n28th St E & Cedar Ave S - Stop #43021 (eastbound)\r\nCedar Ave S & Lake St E - Stop #15317 (northbound)\r\nCedar Ave S & 28th St E - Stop #15319 (northbound)\r\n26th St E & 18th Ave S - Stop #14340 (westbound)\r\n26th St E & Bloomington Ave S - Stop #43004 (westbound)"
+    },
+    {
+      "id": "54266",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 32: Stop Closed at Selected Stop",
+      "summary": "Rosedale Transit Center Gate D - Stop #57685 (southbound) is closed for Route 32 beginning Mon Oct 19 at 6:00 AM until further notice due to construction. Board at: Temporary stop at Rosedale Transit Center, across from Gate F (southbound).",
+      "affectedRoutes": [
+        "Route 32"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [
+        "57685"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "57685"
+        }
+      ],
+      "riderAlternative": "Board at: Temporary stop at Rosedale Transit Center, across from Gate F (southbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-19T11:00:00.000Z",
+        "textDescription": "Beginning Mon Oct 19 at 6:00 AM until further notice"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "NO_SERVICE",
+      "updatedAt": "2026-10-16T20:18:03.000Z",
+      "rawHeader": "Rosedale Transit Center Gate D - Stop #57685 (southbound) is closed for Route 32 beginning Mon Oct 19 at 6:00 AM until further notice due to construction",
+      "rawDescription": "Updated 10/16 at 3:20 PM to reflect that only Route 32 is affected by this stop closure. \r\n\nGet on/off buses at:\r\nTemporary stop at Rosedale Transit Center, across from Gate F (southbound)"
     },
     {
       "id": "42305",
@@ -7219,7 +7475,7 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-10-16T11:18:00.000Z",
-        "end": "2026-10-16T19:54:23.000Z"
+        "end": "2026-10-16T22:54:23.000Z"
       },
       "cause": "TECHNICAL_PROBLEM",
       "effect": "OTHER_EFFECT",
@@ -7241,8 +7497,8 @@
       "closedStopIds": [
         "53280",
         "51436",
-        "53279",
-        "51421"
+        "51421",
+        "53279"
       ],
       "closedStopDetails": [
         {
@@ -7252,10 +7508,10 @@
           "id": "51436"
         },
         {
-          "id": "53279"
+          "id": "51421"
         },
         {
-          "id": "51421"
+          "id": "53279"
         }
       ],
       "riderAlternative": null,
