@@ -1,42 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-16T01:13:40.951Z",
+    "generatedAt": "2026-10-16T07:00:56.568Z",
     "totalAlerts": 104,
-    "criticalCount": 1,
+    "criticalCount": 0,
     "moderateCount": 98,
-    "minorCount": 5,
-    "affectedRoutesCount": 75,
+    "minorCount": 6,
+    "affectedRoutesCount": 76,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "54232",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 3: Eastbound 6:57 PM Trip Canceled (Washington Ave & 10th Ave N)",
-      "summary": "Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 6:57 PM canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 3"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-16T00:01:00.000Z",
-        "end": "2026-10-16T02:01:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-10-16T00:01:55.000Z",
-      "rawHeader": "Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 6:57 PM canceled today due to maintenance work",
-      "rawDescription": ""
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -158,8 +132,8 @@
       "closedStopIds": [
         "51436",
         "51437",
-        "51405",
         "53280",
+        "51405",
         "53279",
         "51420",
         "51421",
@@ -173,10 +147,10 @@
           "id": "51437"
         },
         {
-          "id": "51405"
+          "id": "53280"
         },
         {
-          "id": "53280"
+          "id": "51405"
         },
         {
           "id": "53279"
@@ -200,7 +174,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/closure",
-      "updatedAt": "2026-10-15T05:00:02.000Z",
+      "updatedAt": "2026-10-16T05:00:03.000Z",
       "rawHeader": "Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Friday, Oct. 16 at 8 p.m.",
       "rawDescription": "Starting at 8 p.m. on Friday, Oct. 16, buses will replace trains on the METRO Blue Line between Airport-Terminal 2 and Mall of America stations to allow for needed maintenance.\r\n\nPlease plan extra time for your trip. Replacement bus timing can vary and trips may take longer.\r\n\nTrain service will resume Monday, Oct. 19.\r\n\n Visit metrotransit.org/closure for bus boarding locations. \r\n\n\r\nAffected stops:\r\nMall of America Station (northbound)\r\n30th Ave Station (northbound)\r\nBloomington Central Station (northbound)\r\nAmerican Blvd Station (northbound)\r\nTerminal 2 Station (southbound)\r\nAmerican Blvd Station (southbound)\r\nBloomington Central Station (southbound)\r\n30th Ave Station (southbound)\r\nMall of America Station (southbound)"
     },
@@ -5096,7 +5070,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
-      "updatedAt": "2026-10-15T23:30:01.000Z",
+      "updatedAt": "2026-10-16T05:00:02.000Z",
       "rawHeader": "Routes 540 and 542 detoured off 84th St from Normandale Lake Blvd to Norman Center Dr from Thu Oct 15 at 7:00 PM to Fri Oct 16 at 6:00 AM",
       "rawDescription": "Get on/off buses at:\r\nNorman Center Dr & 83rd St W - Stop #57476 (southbound)\r\n\nEastbound buses will travel regular route on 83rd St to Normandale Lake Blvd, right on Normandale Lake Blvd, continue on Normandale Lake Blvd to American Blvd and resume regular route.\r\n\nWestbound buses will travel regular route on 83rd St to Normandale Lake Blvd, right on Normandale Lake Blvd, continue on Normandale Lake Blvd to American Blvd and resume regular route.\r\n\nAffected stops:\r\nAmerican Blvd W & Normandale Lake Blvd - Stop #53950 (westbound)\r\nNorman Center Dr & 83rd St W - Stop #50735 (northbound)\r\nNorman Center Dr & 84th St W - Stop #48164 (northbound)\r\nNormandale Lake Blvd & 83rd St / 84th St - Stop #53052 (southbound)"
     },
@@ -5542,7 +5516,7 @@
       "cause": "CONSTRUCTION",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/645",
-      "updatedAt": "2026-10-14T13:49:48.000Z",
+      "updatedAt": "2026-10-16T05:00:02.000Z",
       "rawHeader": "Route 645 detoured off I-394 from Dunwoody Blvd to 12th St beginning Sat Oct 17 at 5:00 AM until further notice due to construction",
       "rawDescription": "Expect delays due to added travel time to access downtown Minneapolis.\r\n\nEastbound buses will travel regular route on I-394 to Dunwoody Blvd, right on Dunwoody Blvd which turns into Hennepin Ave, right on 12th St and resume regular route.\r\n\nAffected direction: Eastbound"
     },
@@ -6072,7 +6046,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-10-15T18:19:50.000Z",
+      "updatedAt": "2026-10-16T05:00:02.000Z",
       "rawHeader": "Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 6:00 PM to 8:30 PM on Sat Oct 17 due to Anoka Light Up the Night Parade",
       "rawDescription": "For northbound Route 802 get on/off buses at:\r\nEast River Rd & 7th Ave - Stop #12066 (northbound)\r\nGreen Haven Pkwy & Fairoak Ave - Stop #57211 (northbound)\r\n\nFor southbound Route 802 get on/off buses at:\r\nGreen Haven Pkwy & Fairoak Ave - Stop #57212 (southbound)\r\nEast River Rd & Kings Lane - Stop #12068 (southbound)\r\n\nNorthbound buses will travel regular route on East River Rd to 7th Ave, right on 7th Ave, left on westbound Hwy 10, exit at Greenhaven Pkwy, continue on Green Haven Pkwy, and resume regular route.\r\n\nSouthbound buses will travel regular route on Green Haven Pkwy to Hwy 10, left onto eastbound Hwy 10, exit at 7th Ave, right on 7th Ave, left on East River Rd, and resume regular route.\r\n\nAffected stops:\r\nEast River Rd & South St - Stop #12065 (northbound)\r\n5th Ave & Washington St - Stop #12063 (northbound)\r\n5th Ave & Jefferson St - Stop #12058 (northbound)\r\n5th Ave & Monroe St - Stop #12054 (northbound)\r\nMain St & 3rd Ave - Stop #12051 (westbound)\r\nMain St & 2nd Ave - Stop #12049 (westbound)\r\nMain St & Ferry St - Stop #12046 (westbound)\r\nMain St & State Ave - Stop #12027 (westbound)\r\nMain St & Cutter St - Stop #12026 (westbound)\r\nMain St & Cutter St - Stop #12025 (eastbound)\r\nMain St & State Ave - Stop #12028 (eastbound)\r\nMain St & Branch Ave - Stop #12029 (eastbound)\r\nMain St & 2nd Ave - Stop #12047 (eastbound)\r\nMain St & 3rd Ave - Stop #12050 (eastbound)\r\n5th Ave & Monroe St - Stop #12055 (southbound)\r\n5th Ave & Jefferson St - Stop #12059 (southbound)\r\n5th Ave & Washington St - Stop #12062 (southbound)\r\n5th Ave & Military Rd - Stop #12064 (southbound)\r\nEast River Rd & 7th Ave - Stop #12067 (southbound)"
     },
@@ -6808,7 +6782,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/827",
-      "updatedAt": "2026-10-15T18:20:14.000Z",
+      "updatedAt": "2026-10-16T05:00:01.000Z",
       "rawHeader": "Route 827 detoured off East River Road from Osborne Rd to 85th Ave from 4:00 PM to 10:00 PM on Sat Oct 17 due to Pumpkin Night in the Park",
       "rawDescription": "For northbound Route 827 get on/off buses at:\r\nEast River Rd & Logan Pkwy - Stop #12133 (northbound)\r\nNorthtown Transit Ctr Gate C - Stop #57167 (westbound)\r\n\nFor southbound Route 827 get on/off buses at:\r\nNorthtown Transit Ctr Gate C - Stop #57167 (westbound)\r\nEast River Rd & Osborne Rd NE - Stop #12128 (southbound)\r\n\nNorthbound buses will travel regular route on East River Rd to Osborne Rd, right on Osborne Rd, left on University Ave, right on 85th Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 85th Ave to University Ave, left on University Ave, right on Osborne Rd, left on East River Rd and resume regular route.\r\n\nAffected stops:\r\nEast River Rd & Osborne Rd NE - Stop #12129 (northbound)\r\nEast River Rd & Rickard Rd - Stop #12126 (northbound)\r\nEast River Rd & 77th Way - Stop #12125 (northbound)\r\nEast River Rd & Pearson Way - Stop #12122 (northbound)\r\nEast River Rd & 79th Way - Stop #12121 (northbound)\r\nEast River Rd & Liberty St - Stop #12117 (northbound)\r\nEast River Rd & Fairmont St - Stop #12113 (northbound)\r\nEast River Rd & Hugo St - Stop #12110 (northbound)\r\nEast River Rd & Larch St NW - Stop #10906 (northbound)\r\nEast River Rd & 84th Lane NE - Stop #10910 (northbound)\r\n85th Ave NW & Norway St NW - Stop #10928 (eastbound)\r\n85th Ave NW & Evergreen Blvd - Stop #10930 (eastbound)\r\n85th Ave NW & Cottonwood St - Stop #10932 (eastbound)\r\n85th Ave NE & Springbrook Dr NE - Stop #56934 (eastbound)\r\n85th Ave NW & Cottonwood St - Stop #53418 (westbound)\r\n85th Ave NW & Evergreen Blvd - Stop #10931 (westbound)\r\n85th Ave NW & #455 Ryerson Co - Stop #53761 (westbound)\r\n85th Ave NW & Norway St NW - Stop #10929 (westbound)\r\nEast River Rd & 85th Ave / 84th Lane - Stop #10911 (southbound)\r\nEast River Rd & Kimball St NE - Stop #10907 (southbound)\r\nEast River Rd & Hugo St - Stop #12111 (southbound)\r\nEast River Rd & Ely St - Stop #51258 (southbound)\r\nEast River Rd & Liberty St - Stop #12116 (southbound)\r\nEast River Rd & Longfellow St NE - Stop #12119 (southbound)\r\nEast River & Pearson Way/Craigbrook Way - Stop #12123 (southbound)\r\nEast River Rd & Stonybrook Way - Stop #12124 (southbound)\r\nEast River Rd & Rickard Rd - Stop #12127 (southbound)"
     },
@@ -6956,12 +6930,40 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-10-15T20:40:00.000Z",
-        "end": "2026-10-16T03:12:23.000Z"
+        "end": "2026-10-16T07:30:00.000Z"
       },
       "cause": "TECHNICAL_PROBLEM",
       "effect": "OTHER_EFFECT",
       "updatedAt": "2026-10-15T20:40:17.000Z",
       "rawHeader": "Green Line and Blue Line trains may be delayed due to train stopped at Target Field Station",
+      "rawDescription": ""
+    },
+    {
+      "id": "54237",
+      "agency": "Metro Transit",
+      "severity": "Minor",
+      "title": "METRO C Line: Service Advisory",
+      "summary": "Northbound C Line trip departing 7th St & Park Station at 1:11 AM experiencing moderate delays",
+      "affectedRoutes": [
+        "METRO C Line"
+      ],
+      "direction": "Northbound",
+      "intersections": [
+        "Northbound C Line trip departing 7th St & Park St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-16T06:17:00.000Z",
+        "end": "2026-10-16T07:38:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "OTHER_EFFECT",
+      "url": "https://www.metrotransit.org/route/cline",
+      "updatedAt": "2026-10-16T06:18:06.000Z",
+      "rawHeader": "Northbound C Line trip departing 7th St & Park Station at 1:11 AM experiencing moderate delays",
       "rawDescription": ""
     },
     {
