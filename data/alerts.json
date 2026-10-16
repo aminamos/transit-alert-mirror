@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-16T20:54:43.216Z",
-    "totalAlerts": 113,
-    "criticalCount": 6,
-    "moderateCount": 101,
-    "minorCount": 6,
-    "affectedRoutesCount": 79,
+    "generatedAt": "2026-10-16T23:26:08.994Z",
+    "totalAlerts": 112,
+    "criticalCount": 7,
+    "moderateCount": 100,
+    "minorCount": 5,
+    "affectedRoutesCount": 77,
     "agencies": [
       "Metro Transit"
     ]
@@ -42,29 +42,29 @@
       "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 1:56 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 3:54 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 5:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 1:04 PM\r\ndeparting Westgate Station - Gate B at 3:04 PM\r\ndeparting Westgate Station - Gate B at 5:04 PM\r\ndeparting Westgate Station - Gate B at 7:05 PM"
     },
     {
-      "id": "54267",
+      "id": "54272",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 54: Eastbound 2:28 PM Trip Canceled (MOA Transit Station Gate C)",
-      "summary": "Eastbound Route 54 trip departing MOA Transit Station Gate C at 2:28 PM canceled today due to road conditions",
+      "title": "Route 54: Westbound 6:06 PM Trip Canceled (Maplewood Mall Transit Center & Gate B)",
+      "summary": "Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 6:06 PM canceled today due to maintenance work",
       "affectedRoutes": [
         "Route 54"
       ],
-      "direction": "Eastbound",
+      "direction": "Westbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-16T20:03:00.000Z",
-        "end": "2026-10-16T21:09:00.000Z"
+        "start": "2026-10-16T23:08:00.000Z",
+        "end": "2026-10-17T01:16:00.000Z"
       },
-      "cause": "OTHER_CAUSE",
+      "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/54",
-      "updatedAt": "2026-10-16T20:03:25.000Z",
-      "rawHeader": "Eastbound Route 54 trip departing MOA Transit Station Gate C at 2:28 PM canceled today due to road conditions",
+      "updatedAt": "2026-10-16T23:09:16.000Z",
+      "rawHeader": "Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 6:06 PM canceled today due to maintenance work",
       "rawDescription": ""
     },
     {
@@ -119,7 +119,7 @@
       "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-10-16T16:03:25.000Z",
+      "updatedAt": "2026-10-16T21:18:00.000Z",
       "rawHeader": "Route 72 trip departing Sun Ray Transit Center & Gate D at 4:48 PM and five other trips canceled today due to mechanical issue",
       "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 5:50 PM\r\ndeparting Pascal St N & Central Ave W at 7:53 PM\r\ndeparting Pascal St N & Central Ave W at 9:53 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 4:48 PM\r\ndeparting Sun Ray Transit Center & Gate D at 6:51 PM\r\ndeparting Sun Ray Transit Center & Gate D at 8:51 PM"
     },
@@ -128,7 +128,7 @@
       "agency": "Metro Transit",
       "severity": "Critical",
       "title": "Route 802: Service Canceled",
-      "summary": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to mechanical issue",
+      "summary": "Route 802 trips departing Northtown Transit Ctr Gate E at 3:34 PM and departing Anoka Tech College & Main Entrance at 4:42 PM canceled today due to mechanical issue",
       "affectedRoutes": [
         "Route 802"
       ],
@@ -138,16 +138,13 @@
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-16T16:34:00.000Z",
-        "end": "2026-10-17T00:14:00.000Z"
-      },
+      "activePeriod": {},
       "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-10-16T16:04:01.000Z",
-      "rawHeader": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to mechanical issue",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 11:34 AM\r\ndeparting Northtown Transit Ctr Gate E at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 12:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 2:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 4:42 PM"
+      "updatedAt": "2026-10-16T23:24:01.000Z",
+      "rawHeader": "Route 802 trips departing Northtown Transit Ctr Gate E at 3:34 PM and departing Anoka Tech College & Main Entrance at 4:42 PM canceled today due to mechanical issue",
+      "rawDescription": ""
     },
     {
       "id": "54253",
@@ -178,6 +175,32 @@
       "updatedAt": "2026-10-16T16:04:01.000Z",
       "rawHeader": "Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today due to mechanical issue",
       "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 11:34 AM\r\ndeparting Northtown Transit Ctr Gate D at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 12:38 PM\r\ndeparting 1st Ave S & Monroe St at 2:36 PM\r\ndeparting 1st Ave S & Monroe St at 4:36 PM"
+    },
+    {
+      "id": "54269",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 888: Northbound 4:39 PM Trip Canceled (2nd Ave S & 11th St - Stop Group G)",
+      "summary": "Northbound Route 888 trip departing 2nd Ave S & 11th St - Stop Group G at 4:39 PM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "Route 888"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-16T21:53:00.000Z",
+        "end": "2026-10-16T23:40:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/888",
+      "updatedAt": "2026-10-16T21:53:49.000Z",
+      "rawHeader": "Northbound Route 888 trip departing 2nd Ave S & 11th St - Stop Group G at 4:39 PM canceled today due to maintenance work",
+      "rawDescription": ""
     },
     {
       "id": "52943",
@@ -298,18 +321,18 @@
       "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [
-        "53280",
+        "51405",
         "51437",
         "51436",
-        "51405",
+        "53280",
+        "53279",
         "51420",
         "51421",
-        "51422",
-        "53279"
+        "51422"
       ],
       "closedStopDetails": [
         {
-          "id": "53280"
+          "id": "51405"
         },
         {
           "id": "51437"
@@ -318,7 +341,10 @@
           "id": "51436"
         },
         {
-          "id": "51405"
+          "id": "53280"
+        },
+        {
+          "id": "53279"
         },
         {
           "id": "51420"
@@ -328,9 +354,6 @@
         },
         {
           "id": "51422"
-        },
-        {
-          "id": "53279"
         }
       ],
       "riderAlternative": null,
@@ -6121,87 +6144,6 @@
       "rawDescription": "Updated 4/11 at 2:04 PM to revise detours, affected stops and get on/off stops.\r\n\nFor eastbound Route 673 get on/off buses at:\r\nLouisiana Transit Center & Gate B - Stop #52551 (westbound)\r\nCedar Lake Rd & Texas Ave - Stop #8073 (westbound)\r\n\nFor westbound Route 673 get on/off buses at:\r\nCedar Lake Rd & Virginia Ave - Stop #8046 (eastbound)\r\nTemporary stop on Texas Ave just past Cedar Lake Rd (northbound)\r\nLouisiana Transit Center & Gate B - Stop #52551 (westbound)\r\n\nEastbound buses will depart Louisiana Ave Transit Center, right on Wayzata Blvd, left on Texas Ave, right on Cedar Lake Rd and resume regular route.\r\n\nWestbound buses will travel regular route on Cedar Lake Rd to Texas Ave, left on Texas Ave, right on Wayzata Blvd, left into Louisiana Ave Transit Center and layover.\r\n\nAffected stops:\r\nCedar Lake Rd & Rhode Island Ave S - Stop #80936 (westbound)\r\nCedar Lake Rd & Sumter Ave S - Stop #80937 (eastbound)"
     },
     {
-      "id": "53793",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 721: Detour via Bass Lake Rd (West Broadway to Co Rd 81)",
-      "summary": "Route 721 detoured off Bass Lake Rd from West Broadway to Co Rd 81 until further notice due to construction. Board at: Bass Lake Rd (Co Rd 10) & Adair Ave N - Stop #9489 (westbound); Bass Lake Rd (Co Rd 10) & Jersey Ave N - Stop #9493 (westbound).",
-      "affectedRoutes": [
-        "Route 721"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Bass Lake Rd (West Broadway to Co Rd 81)"
-      ],
-      "closedStopIds": [
-        "48941",
-        "9491",
-        "9492",
-        "9555",
-        "9556",
-        "48942",
-        "9489",
-        "9493",
-        "9554",
-        "9557"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "48941",
-          "name": "Bass Lake Rd (Co Rd 10) & Elmhurst Ave",
-          "direction": "westbound"
-        },
-        {
-          "id": "9491",
-          "name": "Bass Lake Rd (Co Rd 10) & Sherburne Av N",
-          "direction": "westbound"
-        },
-        {
-          "id": "9492",
-          "name": "Bass Lake Rd (Co Rd 10) & West Broadway",
-          "direction": "westbound"
-        },
-        {
-          "id": "9555",
-          "name": "Bass Lake Rd (Co Rd 10) & West Broadway",
-          "direction": "eastbound"
-        },
-        {
-          "id": "9556",
-          "name": "Bass Lake Rd (Co Rd 10) & Sherburne Av N",
-          "direction": "eastbound"
-        },
-        {
-          "id": "48942",
-          "name": "Bass Lake Rd (Co Rd 10) & Elmhurst Ave",
-          "direction": "eastbound"
-        },
-        {
-          "id": "9489"
-        },
-        {
-          "id": "9493"
-        },
-        {
-          "id": "9554"
-        },
-        {
-          "id": "9557"
-        }
-      ],
-      "riderAlternative": "Board at: Bass Lake Rd (Co Rd 10) & Adair Ave N - Stop #9489 (westbound); Bass Lake Rd (Co Rd 10) & Jersey Ave N - Stop #9493 (westbound)",
-      "detourDetails": "Northbound buses will travel the regular route on Bass Lake Rd to Co Rd 81, right on Co Rd 81, left on 63rd Ave N, left on West Broadway, right on Bass Lake Rd, and resume the regular route.",
-      "activePeriod": {
-        "start": "2026-10-05T13:39:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/721",
-      "updatedAt": "2026-10-12T13:39:00.000Z",
-      "rawHeader": "Route 721 detoured off Bass Lake Rd from West Broadway to Co Rd 81 until further notice due to construction",
-      "rawDescription": "For northbound Route 721 get on/off buses at:\r\nBass Lake Rd (Co Rd 10) & Adair Ave N - Stop #9489 (westbound)\r\nBass Lake Rd (Co Rd 10) & Jersey Ave N - Stop #9493 (westbound)\r\n\nFor southbound Route 721 get on/off buses at:\r\nBass Lake Rd (Co Rd 10) & Jersey Ave N - Stop #9554 (eastbound)\r\nBass Lake Rd (Co Rd 10) & Adair Ave N - Stop #9557 (eastbound)\r\n\nNorthbound buses will travel the regular route on Bass Lake Rd to Co Rd 81, right on Co Rd 81, left on 63rd Ave N, left on West Broadway, right on Bass Lake Rd, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Bass Lake Rd to West Broadway, left on West Broadway, right on 63rd Ave N, right on Co Rd 81, left on Bass Lake Rd, and resume the regular route.\r\n\nAffected stops:\r\nBass Lake Rd (Co Rd 10) & Elmhurst Ave - Stop #48941 (westbound)\r\nBass Lake Rd (Co Rd 10) & Sherburne Av N - Stop #9491 (westbound)\r\nBass Lake Rd (Co Rd 10) & West Broadway - Stop #9492 (westbound)\r\nBass Lake Rd (Co Rd 10) & West Broadway - Stop #9555 (eastbound)\r\nBass Lake Rd (Co Rd 10) & Sherburne Av N - Stop #9556 (eastbound)\r\nBass Lake Rd (Co Rd 10) & Elmhurst Ave - Stop #48942 (eastbound)"
-    },
-    {
       "id": "47947",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -7438,50 +7380,6 @@
       "updatedAt": "2026-09-03T18:51:20.000Z",
       "rawHeader": "Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction",
       "rawDescription": "Updated get on/off stops 6/9 1:30 pm.\r\n\nGet on/off buses at:\r\nTemporary stop on Grove St & Lafayette Rd (eastbound)\r\nLaFayette Rd & 8th St - Stop #11925 (southbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on southbound I-35E to University Ave, continue on I-35E and exit at Wacouta St, left on 9th St, left on Broadway St, right on Grove St, right on Lafayette Rd, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nUniversity Ave & Mississippi St - Stop #56109 (eastbound)\r\nUniversity Ave & Lafayette St - Stop #57630 (eastbound)\r\nLaFayette Rd & Grove St - Stop #11923 (southbound)"
-    },
-    {
-      "id": "54238",
-      "agency": "Metro Transit",
-      "severity": "Minor",
-      "title": "METRO Blue Line, METRO Green Line: Service Advisory",
-      "summary": "Eastbound Green Line and all Blue Line trains may be delayed in the area of US Bank Stadium until later today due to a mechanical issue",
-      "affectedRoutes": [
-        "METRO Blue Line",
-        "METRO Green Line"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [
-        "56330",
-        "56338",
-        "51411",
-        "56001"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "56330"
-        },
-        {
-          "id": "56338"
-        },
-        {
-          "id": "51411"
-        },
-        {
-          "id": "56001"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-16T11:18:00.000Z",
-        "end": "2026-10-16T22:54:23.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-10-16T11:18:55.000Z",
-      "rawHeader": "Eastbound Green Line and all Blue Line trains may be delayed in the area of US Bank Stadium until later today due to a mechanical issue",
-      "rawDescription": ""
     },
     {
       "id": "54246",

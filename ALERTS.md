@@ -2,17 +2,17 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-113-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-6-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-101-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-6-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-79-brightgreen)](#-routes-index)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-112-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-7-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-100-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-5-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-16T20:54:43.216Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-16T23:26:08.994Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (4) • **METRO D Line** (1) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (1) • **Route 14** (3) • **Route 18** (5) • **Route 22** (5) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (4) • **Route 805** (3) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (3) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (1) • **Route 14** (3) • **Route 18** (5) • **Route 22** (5) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (4) • **Route 805** (3) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (3)
 
 ## 🚨 Critical Disruptions
 
@@ -52,20 +52,20 @@ departing Westgate Station - Gate B at 7:05 PM
 
 ---
 
-### 🚨 Route 54: Eastbound 2:28 PM Trip Canceled (MOA Transit Station Gate C)
+### 🚨 Route 54: Westbound 6:06 PM Trip Canceled (Maplewood Mall Transit Center & Gate B)
 
 - **Affected Routes**: `Route 54`
-- **Direction**: Eastbound
+- **Direction**: Westbound
 - **Severity**: `Critical`
 
-**Summary**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 2:28 PM canceled today due to road conditions
+**Summary**: Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 6:06 PM canceled today due to maintenance work
 
 [Official Agency Advisory](https://www.metrotransit.org/route/54)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 2:28 PM canceled today due to road conditions
+**Header**: Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 6:06 PM canceled today due to maintenance work
 
 </details>
 
@@ -140,27 +140,14 @@ departing Sun Ray Transit Center & Gate D at 8:51 PM
 - **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to mechanical issue
+**Summary**: Route 802 trips departing Northtown Transit Ctr Gate E at 3:34 PM and departing Anoka Tech College & Main Entrance at 4:42 PM canceled today due to mechanical issue
 
 [Official Agency Advisory](https://www.metrotransit.org/route/802)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to mechanical issue
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate E at 11:34 AM
-departing Northtown Transit Ctr Gate E at 1:34 PM
-departing Northtown Transit Ctr Gate E at 3:34 PM
-departing Northtown Transit Ctr Gate E at 5:34 PM
-
-Affected southbound trips:
-departing Anoka Tech College & Main Entrance at 12:42 PM
-departing Anoka Tech College & Main Entrance at 2:42 PM
-departing Anoka Tech College & Main Entrance at 4:42 PM
-```
+**Header**: Route 802 trips departing Northtown Transit Ctr Gate E at 3:34 PM and departing Anoka Tech College & Main Entrance at 4:42 PM canceled today due to mechanical issue
 
 </details>
 
@@ -196,6 +183,25 @@ departing 1st Ave S & Monroe St at 12:38 PM
 departing 1st Ave S & Monroe St at 2:36 PM
 departing 1st Ave S & Monroe St at 4:36 PM
 ```
+
+</details>
+
+---
+
+### 🚨 Route 888: Northbound 4:39 PM Trip Canceled (2nd Ave S & 11th St - Stop Group G)
+
+- **Affected Routes**: `Route 888`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 888 trip departing 2nd Ave S & 11th St - Stop Group G at 4:39 PM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/888)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 888 trip departing 2nd Ave S & 11th St - Stop Group G at 4:39 PM canceled today due to maintenance work
 
 </details>
 
@@ -302,7 +308,7 @@ Due to mechanical issues, both elevators at Franklin Ave Station are unavailable
 - **Affected Routes**: `METRO Blue Line`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Closed Stops**: Stop #53280, Stop #51437, Stop #51436, Stop #51405, Stop #51420, Stop #51421, Stop #51422, Stop #53279
+- **Closed Stops**: Stop #51405, Stop #51437, Stop #51436, Stop #53280, Stop #53279, Stop #51420, Stop #51421, Stop #51422
 
 **Summary**: UPDATE: Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Saturday, Oct. 17 at 3 a.m.
 
@@ -3932,53 +3938,6 @@ Cedar Lake Rd & Sumter Ave S - Stop #80937 (eastbound)
 
 ---
 
-### ⚠️ Route 721: Detour via Bass Lake Rd (West Broadway to Co Rd 81)
-
-- **Affected Routes**: `Route 721`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Bass Lake Rd (West Broadway to Co Rd 81)
-- **Closed Stops**: Bass Lake Rd (Co Rd 10) & Elmhurst Ave (Stop #48941), Bass Lake Rd (Co Rd 10) & Sherburne Av N (Stop #9491), Bass Lake Rd (Co Rd 10) & West Broadway (Stop #9492), Bass Lake Rd (Co Rd 10) & West Broadway (Stop #9555), Bass Lake Rd (Co Rd 10) & Sherburne Av N (Stop #9556), Bass Lake Rd (Co Rd 10) & Elmhurst Ave (Stop #48942), Stop #9489, Stop #9493 *(+2 more)*
-
-**Summary**: Route 721 detoured off Bass Lake Rd from West Broadway to Co Rd 81 until further notice due to construction. Board at: Bass Lake Rd (Co Rd 10) & Adair Ave N - Stop #9489 (westbound); Bass Lake Rd (Co Rd 10) & Jersey Ave N - Stop #9493 (westbound).
-
-> 💡 **Rider Action**: Board at: Bass Lake Rd (Co Rd 10) & Adair Ave N - Stop #9489 (westbound); Bass Lake Rd (Co Rd 10) & Jersey Ave N - Stop #9493 (westbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel the regular route on Bass Lake Rd to Co Rd 81, right on Co Rd 81, left on 63rd Ave N, left on West Broadway, right on Bass Lake Rd, and resume the regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/721)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 721 detoured off Bass Lake Rd from West Broadway to Co Rd 81 until further notice due to construction
-
-```text
-For northbound Route 721 get on/off buses at:
-Bass Lake Rd (Co Rd 10) & Adair Ave N - Stop #9489 (westbound)
-Bass Lake Rd (Co Rd 10) & Jersey Ave N - Stop #9493 (westbound)
-
-For southbound Route 721 get on/off buses at:
-Bass Lake Rd (Co Rd 10) & Jersey Ave N - Stop #9554 (eastbound)
-Bass Lake Rd (Co Rd 10) & Adair Ave N - Stop #9557 (eastbound)
-
-Northbound buses will travel the regular route on Bass Lake Rd to Co Rd 81, right on Co Rd 81, left on 63rd Ave N, left on West Broadway, right on Bass Lake Rd, and resume the regular route.
-
-Southbound buses will travel the regular route on Bass Lake Rd to West Broadway, left on West Broadway, right on 63rd Ave N, right on Co Rd 81, left on Bass Lake Rd, and resume the regular route.
-
-Affected stops:
-Bass Lake Rd (Co Rd 10) & Elmhurst Ave - Stop #48941 (westbound)
-Bass Lake Rd (Co Rd 10) & Sherburne Av N - Stop #9491 (westbound)
-Bass Lake Rd (Co Rd 10) & West Broadway - Stop #9492 (westbound)
-Bass Lake Rd (Co Rd 10) & West Broadway - Stop #9555 (eastbound)
-Bass Lake Rd (Co Rd 10) & Sherburne Av N - Stop #9556 (eastbound)
-Bass Lake Rd (Co Rd 10) & Elmhurst Ave - Stop #48942 (eastbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 723, Route 724: Stop Closed at Selected Stop
 
 - **Affected Routes**: `Route 723` `Route 724`
@@ -4627,24 +4586,6 @@ LaFayette Rd & Grove St - Stop #11923 (southbound)
 ---
 
 ## ℹ️ Minor Advisories
-
-### ℹ️ METRO Blue Line, METRO Green Line: Service Advisory
-
-- **Affected Routes**: `METRO Blue Line` `METRO Green Line`
-- **Direction**: Eastbound
-- **Severity**: `Minor`
-- **Closed Stops**: Stop #56330, Stop #56338, Stop #51411, Stop #56001
-
-**Summary**: Eastbound Green Line and all Blue Line trains may be delayed in the area of US Bank Stadium until later today due to a mechanical issue
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Green Line and all Blue Line trains may be delayed in the area of US Bank Stadium until later today due to a mechanical issue
-
-</details>
-
----
 
 ### ℹ️ METRO Blue Line: Service Advisory
 

@@ -4,7 +4,7 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Fri, 16 Oct 2026 20:54:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 23:26:08 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
@@ -17,13 +17,13 @@
       <description>Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today due to mechanical issue</description>
     </item>
     <item>
-      <title>[Critical] Route 54: Eastbound 2:28 PM Trip Canceled (MOA Transit Station Gate C)</title>
+      <title>[Critical] Route 54: Westbound 6:06 PM Trip Canceled (Maplewood Mall Transit Center &amp; Gate B)</title>
       <link>https://www.metrotransit.org/route/54</link>
-      <guid isPermaLink="false">Metro Transit-54267-2026-10-16T20:03:25.000Z</guid>
-      <pubDate>Fri, 16 Oct 2026 20:03:25 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54272-2026-10-16T23:09:16.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 23:09:16 GMT</pubDate>
       <category>Critical</category>
       <category>Route 54</category>
-      <description>Eastbound Route 54 trip departing MOA Transit Station Gate C at 2:28 PM canceled today due to road conditions</description>
+      <description>Westbound Route 54 trip departing Maplewood Mall Transit Center &amp; Gate B at 6:06 PM canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Critical] Route 71: Service Canceled</title>
@@ -37,8 +37,8 @@
     <item>
       <title>[Critical] Route 72: Service Canceled</title>
       <link>https://www.metrotransit.org/route/72</link>
-      <guid isPermaLink="false">Metro Transit-54256-2026-10-16T16:03:25.000Z</guid>
-      <pubDate>Fri, 16 Oct 2026 16:03:25 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54256-2026-10-16T21:18:00.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 21:18:00 GMT</pubDate>
       <category>Critical</category>
       <category>Route 72</category>
       <description>Route 72 trip departing Sun Ray Transit Center &amp; Gate D at 4:48 PM and five other trips canceled today due to mechanical issue</description>
@@ -46,11 +46,11 @@
     <item>
       <title>[Critical] Route 802: Service Canceled</title>
       <link>https://www.metrotransit.org/route/802</link>
-      <guid isPermaLink="false">Metro Transit-54252-2026-10-16T16:04:01.000Z</guid>
-      <pubDate>Fri, 16 Oct 2026 16:04:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54252-2026-10-16T23:24:01.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 23:24:01 GMT</pubDate>
       <category>Critical</category>
       <category>Route 802</category>
-      <description>Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to mechanical issue</description>
+      <description>Route 802 trips departing Northtown Transit Ctr Gate E at 3:34 PM and departing Anoka Tech College &amp; Main Entrance at 4:42 PM canceled today due to mechanical issue</description>
     </item>
     <item>
       <title>[Critical] Route 805: Service Canceled</title>
@@ -60,6 +60,15 @@
       <category>Critical</category>
       <category>Route 805</category>
       <description>Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 888: Northbound 4:39 PM Trip Canceled (2nd Ave S &amp; 11th St - Stop Group G)</title>
+      <link>https://www.metrotransit.org/route/888</link>
+      <guid isPermaLink="false">Metro Transit-54269-2026-10-16T21:53:49.000Z</guid>
+      <pubDate>Fri, 16 Oct 2026 21:53:49 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 888</category>
+      <description>Northbound Route 888 trip departing 2nd Ave S &amp; 11th St - Stop Group G at 4:39 PM canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -836,15 +845,6 @@
       <description>Route 673B detoured off Cedar Lake Rd from Texas Ave to Louisiana Ave and off Louisiana Ave from Cedar Lake Rd to Wayzata Blvd beginning Mon Apr 6 until further notice due to construction. Board at: Louisiana Transit Center &amp; Gate B - Stop #52551 (westbound); Cedar Lake Rd &amp; Texas Ave - Stop #8073 (westbound). | Action: Board at: Louisiana Transit Center &amp; Gate B - Stop #52551 (westbound); Cedar Lake Rd &amp; Texas Ave - Stop #8073 (westbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 721: Detour via Bass Lake Rd (West Broadway to Co Rd 81)</title>
-      <link>https://www.metrotransit.org/route/721</link>
-      <guid isPermaLink="false">Metro Transit-53793-2026-10-12T13:39:00.000Z</guid>
-      <pubDate>Mon, 12 Oct 2026 13:39:00 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 721</category>
-      <description>Route 721 detoured off Bass Lake Rd from West Broadway to Co Rd 81 until further notice due to construction. Board at: Bass Lake Rd (Co Rd 10) &amp; Adair Ave N - Stop #9489 (westbound); Bass Lake Rd (Co Rd 10) &amp; Jersey Ave N - Stop #9493 (westbound). | Action: Board at: Bass Lake Rd (Co Rd 10) &amp; Adair Ave N - Stop #9489 (westbound); Bass Lake Rd (Co Rd 10) &amp; Jersey Ave N - Stop #9493 (westbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 723, Route 724: Stop Closed at Selected Stop</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
       <guid isPermaLink="false">Metro Transit-47947-2026-09-03T18:49:18.000Z</guid>
@@ -969,15 +969,6 @@
       <category>Moderate</category>
       <category>Route 860</category>
       <description>Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction. Board at: Temporary stop on Grove St &amp; Lafayette Rd (eastbound); LaFayette Rd &amp; 8th St - Stop #11925 (southbound). | Action: Board at: Temporary stop on Grove St &amp; Lafayette Rd (eastbound); LaFayette Rd &amp; 8th St - Stop #11925 (southbound)</description>
-    </item>
-    <item>
-      <title>[Minor] METRO Blue Line, METRO Green Line: Service Advisory</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54238-2026-10-16T11:18:55.000Z</guid>
-      <pubDate>Fri, 16 Oct 2026 11:18:55 GMT</pubDate>
-      <category>Minor</category>
-      <category>METRO Blue Line, METRO Green Line</category>
-      <description>Eastbound Green Line and all Blue Line trains may be delayed in the area of US Bank Stadium until later today due to a mechanical issue</description>
     </item>
     <item>
       <title>[Minor] METRO Blue Line: Service Advisory</title>
