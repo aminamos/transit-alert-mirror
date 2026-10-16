@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-15T22:59:25.762Z",
-    "totalAlerts": 109,
-    "criticalCount": 6,
+    "generatedAt": "2026-10-16T01:13:40.951Z",
+    "totalAlerts": 104,
+    "criticalCount": 1,
     "moderateCount": 98,
     "minorCount": 5,
     "affectedRoutesCount": 75,
@@ -12,393 +12,29 @@
   },
   "alerts": [
     {
-      "id": "54230",
+      "id": "54232",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO A Line: Northbound 5:33 PM Trip Canceled (46th St Station Gate A)",
-      "summary": "Northbound A Line trip departing 46th St Station Gate A at 5:33 PM canceled due to mechanical issue",
+      "title": "Route 3: Eastbound 6:57 PM Trip Canceled (Washington Ave & 10th Ave N)",
+      "summary": "Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 6:57 PM canceled today due to maintenance work",
       "affectedRoutes": [
-        "METRO A Line"
+        "Route 3"
       ],
-      "direction": "Northbound",
+      "direction": "Eastbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-15T22:33:00.000Z",
-        "end": "2026-10-16T00:13:00.000Z"
+        "start": "2026-10-16T00:01:00.000Z",
+        "end": "2026-10-16T02:01:00.000Z"
       },
-      "cause": "TECHNICAL_PROBLEM",
+      "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/aline",
-      "updatedAt": "2026-10-15T22:23:04.000Z",
-      "rawHeader": "Northbound A Line trip departing 46th St Station Gate A at 5:33 PM canceled due to mechanical issue",
-      "rawDescription": ""
-    },
-    {
-      "id": "54227",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 22: Southbound 3:42 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)",
-      "summary": "Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 3:42 PM canceled",
-      "affectedRoutes": [
-        "Route 22"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-15T21:17:00.000Z",
-        "end": "2026-10-15T23:11:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-10-15T21:17:25.000Z",
-      "rawHeader": "Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 3:42 PM canceled",
-      "rawDescription": ""
-    },
-    {
-      "id": "54228",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 22: Service Advisory",
-      "summary": "Northbound Route 22 trip departing VA Medical Center at 5:31 PM will start from 7th & Olson Mem Hwy. Previous stops missed",
-      "affectedRoutes": [
-        "Route 22"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [
-        "57362",
-        "81110",
-        "57194",
-        "4509",
-        "4558",
-        "4559",
-        "4662",
-        "4442",
-        "4444",
-        "4445",
-        "4447",
-        "13219",
-        "16325",
-        "15444",
-        "15445",
-        "15618",
-        "15625",
-        "15626",
-        "15264",
-        "15268",
-        "15310",
-        "15313",
-        "12562",
-        "12566",
-        "12571",
-        "57192",
-        "53765",
-        "53941",
-        "51541",
-        "51564",
-        "4308",
-        "2875",
-        "17901",
-        "17902",
-        "17903",
-        "17618",
-        "19294",
-        "19295",
-        "19296",
-        "19301",
-        "19302",
-        "19304",
-        "19306",
-        "19426",
-        "19434",
-        "19436",
-        "19471",
-        "19475",
-        "19479",
-        "19482",
-        "19487",
-        "19491",
-        "19495",
-        "19499",
-        "19502",
-        "19507",
-        "19511"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "57362"
-        },
-        {
-          "id": "81110"
-        },
-        {
-          "id": "57194"
-        },
-        {
-          "id": "4509"
-        },
-        {
-          "id": "4558"
-        },
-        {
-          "id": "4559"
-        },
-        {
-          "id": "4662"
-        },
-        {
-          "id": "4442"
-        },
-        {
-          "id": "4444"
-        },
-        {
-          "id": "4445"
-        },
-        {
-          "id": "4447"
-        },
-        {
-          "id": "13219"
-        },
-        {
-          "id": "16325"
-        },
-        {
-          "id": "15444"
-        },
-        {
-          "id": "15445"
-        },
-        {
-          "id": "15618"
-        },
-        {
-          "id": "15625"
-        },
-        {
-          "id": "15626"
-        },
-        {
-          "id": "15264"
-        },
-        {
-          "id": "15268"
-        },
-        {
-          "id": "15310"
-        },
-        {
-          "id": "15313"
-        },
-        {
-          "id": "12562"
-        },
-        {
-          "id": "12566"
-        },
-        {
-          "id": "12571"
-        },
-        {
-          "id": "57192"
-        },
-        {
-          "id": "53765"
-        },
-        {
-          "id": "53941"
-        },
-        {
-          "id": "51541"
-        },
-        {
-          "id": "51564"
-        },
-        {
-          "id": "4308"
-        },
-        {
-          "id": "2875"
-        },
-        {
-          "id": "17901"
-        },
-        {
-          "id": "17902"
-        },
-        {
-          "id": "17903"
-        },
-        {
-          "id": "17618"
-        },
-        {
-          "id": "19294"
-        },
-        {
-          "id": "19295"
-        },
-        {
-          "id": "19296"
-        },
-        {
-          "id": "19301"
-        },
-        {
-          "id": "19302"
-        },
-        {
-          "id": "19304"
-        },
-        {
-          "id": "19306"
-        },
-        {
-          "id": "19426"
-        },
-        {
-          "id": "19434"
-        },
-        {
-          "id": "19436"
-        },
-        {
-          "id": "19471"
-        },
-        {
-          "id": "19475"
-        },
-        {
-          "id": "19479"
-        },
-        {
-          "id": "19482"
-        },
-        {
-          "id": "19487"
-        },
-        {
-          "id": "19491"
-        },
-        {
-          "id": "19495"
-        },
-        {
-          "id": "19499"
-        },
-        {
-          "id": "19502"
-        },
-        {
-          "id": "19507"
-        },
-        {
-          "id": "19511"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-15T22:31:00.000Z",
-        "end": "2026-10-16T00:56:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-10-15T22:01:01.000Z",
-      "rawHeader": "Northbound Route 22 trip departing VA Medical Center at 5:31 PM will start from 7th & Olson Mem Hwy. Previous stops missed",
-      "rawDescription": ""
-    },
-    {
-      "id": "54214",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 802: Service Canceled",
-      "summary": "Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 802"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-15T16:43:00.000Z",
-        "end": "2026-10-16T00:24:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-10-15T16:13:01.000Z",
-      "rawHeader": "Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 11:43 AM\r\ndeparting Anoka Tech College & Main Entrance at 1:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 3:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 5:45 PM"
-    },
-    {
-      "id": "54213",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 805: Service Canceled",
-      "summary": "Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 805"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing 1st Ave S & Monroe St",
-        "38 PM\ndeparting 1st Ave S & Monroe St",
-        "36 PM\ndeparting 1st Ave S & Monroe St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-15T16:34:00.000Z",
-        "end": "2026-10-16T00:19:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-10-15T16:04:01.000Z",
-      "rawHeader": "Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today due to mechanical issue",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 11:34 AM\r\ndeparting Northtown Transit Ctr Gate D at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 12:38 PM\r\ndeparting 1st Ave S & Monroe St at 2:36 PM\r\ndeparting 1st Ave S & Monroe St at 4:36 PM"
-    },
-    {
-      "id": "54229",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 850: Northbound 4:37 PM Trip Canceled (2nd Ave S & 11th St - Stop Group G)",
-      "summary": "Northbound Route 850 trip departing 2nd Ave S & 11th St - Stop Group G at 4:37 PM canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 850"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-15T21:48:00.000Z",
-        "end": "2026-10-15T23:10:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/850",
-      "updatedAt": "2026-10-15T21:48:31.000Z",
-      "rawHeader": "Northbound Route 850 trip departing 2nd Ave S & 11th St - Stop Group G at 4:37 PM canceled today due to mechanical issue",
+      "url": "https://www.metrotransit.org/route/3",
+      "updatedAt": "2026-10-16T00:01:55.000Z",
+      "rawHeader": "Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 6:57 PM canceled today due to maintenance work",
       "rawDescription": ""
     },
     {
@@ -522,8 +158,8 @@
       "closedStopIds": [
         "51436",
         "51437",
-        "53280",
         "51405",
+        "53280",
         "53279",
         "51420",
         "51421",
@@ -537,10 +173,10 @@
           "id": "51437"
         },
         {
-          "id": "53280"
+          "id": "51405"
         },
         {
-          "id": "51405"
+          "id": "53280"
         },
         {
           "id": "53279"
@@ -5460,7 +5096,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
-      "updatedAt": "2026-10-15T05:00:02.000Z",
+      "updatedAt": "2026-10-15T23:30:01.000Z",
       "rawHeader": "Routes 540 and 542 detoured off 84th St from Normandale Lake Blvd to Norman Center Dr from Thu Oct 15 at 7:00 PM to Fri Oct 16 at 6:00 AM",
       "rawDescription": "Get on/off buses at:\r\nNorman Center Dr & 83rd St W - Stop #57476 (southbound)\r\n\nEastbound buses will travel regular route on 83rd St to Normandale Lake Blvd, right on Normandale Lake Blvd, continue on Normandale Lake Blvd to American Blvd and resume regular route.\r\n\nWestbound buses will travel regular route on 83rd St to Normandale Lake Blvd, right on Normandale Lake Blvd, continue on Normandale Lake Blvd to American Blvd and resume regular route.\r\n\nAffected stops:\r\nAmerican Blvd W & Normandale Lake Blvd - Stop #53950 (westbound)\r\nNorman Center Dr & 83rd St W - Stop #50735 (northbound)\r\nNorman Center Dr & 84th St W - Stop #48164 (northbound)\r\nNormandale Lake Blvd & 83rd St / 84th St - Stop #53052 (southbound)"
     },
@@ -7320,7 +6956,7 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-10-15T20:40:00.000Z",
-        "end": "2026-10-16T00:58:23.000Z"
+        "end": "2026-10-16T03:12:23.000Z"
       },
       "cause": "TECHNICAL_PROBLEM",
       "effect": "OTHER_EFFECT",
