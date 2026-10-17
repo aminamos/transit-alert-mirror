@@ -4,9 +4,36 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 17 Oct 2026 09:09:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 13:35:49 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] Route 2: Eastbound 7:29 AM Trip Canceled (Franklin Ave W &amp; Hennepin Ave S)</title>
+      <link>https://www.metrotransit.org/route/2</link>
+      <guid isPermaLink="false">Metro Transit-54285-2026-10-17T13:11:14.000Z</guid>
+      <pubDate>Sat, 17 Oct 2026 13:11:14 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 2</category>
+      <description>Eastbound Route 2 trip departing Franklin Ave W &amp; Hennepin Ave S at 7:29 AM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 17: 7:34 AM Trip Canceled (Central Ave NE &amp; 26th Ave NE)</title>
+      <link>https://www.metrotransit.org/route/17</link>
+      <guid isPermaLink="false">Metro Transit-54284-2026-10-17T13:10:30.000Z</guid>
+      <pubDate>Sat, 17 Oct 2026 13:10:30 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 17</category>
+      <description>Route 17 trip departing Central Ave NE &amp; 26th Ave NE at 7:34 AM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 30: Westbound 7:37 AM Trip Canceled (Westgate Station - Gate B)</title>
+      <link>https://www.metrotransit.org/route/30</link>
+      <guid isPermaLink="false">Metro Transit-54286-2026-10-17T13:11:46.000Z</guid>
+      <pubDate>Sat, 17 Oct 2026 13:11:46 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 30</category>
+      <description>Westbound Route 30 trip departing Westgate Station - Gate B at 7:37 AM canceled today due to mechanical issue</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -766,8 +793,8 @@
     <item>
       <title>[Moderate] Route 645: Detour via I-394 (Dunwoody Blvd to 12th St)</title>
       <link>https://www.metrotransit.org/route/645</link>
-      <guid isPermaLink="false">Metro Transit-54178-2026-10-17T05:00:02.000Z</guid>
-      <pubDate>Sat, 17 Oct 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54178-2026-10-17T09:30:01.000Z</guid>
+      <pubDate>Sat, 17 Oct 2026 09:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 645</category>
       <description>Route 645 detoured off I-394 from Dunwoody Blvd to 12th St beginning Sat Oct 17 at 5:00 AM until further notice due to construction</description>

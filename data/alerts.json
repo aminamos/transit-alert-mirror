@@ -1,16 +1,182 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-17T09:09:56.075Z",
-    "totalAlerts": 104,
-    "criticalCount": 0,
+    "generatedAt": "2026-10-17T13:35:49.949Z",
+    "totalAlerts": 107,
+    "criticalCount": 3,
     "moderateCount": 100,
     "minorCount": 4,
-    "affectedRoutesCount": 76,
+    "affectedRoutesCount": 78,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
+    {
+      "id": "54285",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 2: Eastbound 7:29 AM Trip Canceled (Franklin Ave W & Hennepin Ave S)",
+      "summary": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 7:29 AM canceled today",
+      "affectedRoutes": [
+        "Route 2"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [
+        "57734",
+        "57619",
+        "16057",
+        "16112",
+        "16116",
+        "16154",
+        "50670",
+        "56700",
+        "56702",
+        "51532",
+        "41243",
+        "13209",
+        "13219",
+        "13221",
+        "13223",
+        "13225",
+        "13235",
+        "13243",
+        "13261",
+        "13269",
+        "13275"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "57734"
+        },
+        {
+          "id": "57619"
+        },
+        {
+          "id": "16057"
+        },
+        {
+          "id": "16112"
+        },
+        {
+          "id": "16116"
+        },
+        {
+          "id": "16154"
+        },
+        {
+          "id": "50670"
+        },
+        {
+          "id": "56700"
+        },
+        {
+          "id": "56702"
+        },
+        {
+          "id": "51532"
+        },
+        {
+          "id": "41243"
+        },
+        {
+          "id": "13209"
+        },
+        {
+          "id": "13219"
+        },
+        {
+          "id": "13221"
+        },
+        {
+          "id": "13223"
+        },
+        {
+          "id": "13225"
+        },
+        {
+          "id": "13235"
+        },
+        {
+          "id": "13243"
+        },
+        {
+          "id": "13261"
+        },
+        {
+          "id": "13269"
+        },
+        {
+          "id": "13275"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-17T13:10:00.000Z",
+        "end": "2026-10-17T14:09:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/2",
+      "updatedAt": "2026-10-17T13:11:14.000Z",
+      "rawHeader": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 7:29 AM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "54284",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 17: 7:34 AM Trip Canceled (Central Ave NE & 26th Ave NE)",
+      "summary": "Route 17 trip departing Central Ave NE & 26th Ave NE at 7:34 AM canceled today",
+      "affectedRoutes": [
+        "Route 17"
+      ],
+      "direction": "All",
+      "intersections": [
+        "Route 17 trip departing Central Ave NE & 26th Ave N"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-17T13:10:00.000Z",
+        "end": "2026-10-17T14:37:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/17",
+      "updatedAt": "2026-10-17T13:10:30.000Z",
+      "rawHeader": "Route 17 trip departing Central Ave NE & 26th Ave NE at 7:34 AM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "54286",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 30: Westbound 7:37 AM Trip Canceled (Westgate Station - Gate B)",
+      "summary": "Westbound Route 30 trip departing Westgate Station - Gate B at 7:37 AM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 30"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-17T13:11:00.000Z",
+        "end": "2026-10-17T14:17:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/30",
+      "updatedAt": "2026-10-17T13:11:46.000Z",
+      "rawHeader": "Westbound Route 30 trip departing Westgate Station - Gate B at 7:37 AM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -5893,7 +6059,7 @@
       "cause": "CONSTRUCTION",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/645",
-      "updatedAt": "2026-10-17T05:00:02.000Z",
+      "updatedAt": "2026-10-17T09:30:01.000Z",
       "rawHeader": "Route 645 detoured off I-394 from Dunwoody Blvd to 12th St beginning Sat Oct 17 at 5:00 AM until further notice due to construction",
       "rawDescription": "Expect delays due to added travel time to access downtown Minneapolis.\r\n\nEastbound buses will travel regular route on I-394 to Dunwoody Blvd, right on Dunwoody Blvd which turns into Hennepin Ave, right on 12th St and resume regular route.\r\n\nAffected direction: Eastbound"
     },

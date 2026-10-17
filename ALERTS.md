@@ -2,21 +2,78 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-104-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-107-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-100-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-76-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-78-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-17T09:09:56.075Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-17T13:35:49.949Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (1) • **Route 14** (3) • **Route 18** (5) • **Route 22** (5) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (2) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (1) • **Route 14** (3) • **Route 17** (1) • **Route 18** (5) • **Route 22** (5) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (2) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 Route 2: Eastbound 7:29 AM Trip Canceled (Franklin Ave W & Hennepin Ave S)
+
+- **Affected Routes**: `Route 2`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #57734, Stop #57619, Stop #16057, Stop #16112, Stop #16116, Stop #16154, Stop #50670, Stop #56700 *(+13 more)*
+
+**Summary**: Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 7:29 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 7:29 AM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 17: 7:34 AM Trip Canceled (Central Ave NE & 26th Ave NE)
+
+- **Affected Routes**: `Route 17`
+- **Direction**: All
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 17 trip departing Central Ave NE & 26th Ave N
+
+**Summary**: Route 17 trip departing Central Ave NE & 26th Ave NE at 7:34 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/17)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 17 trip departing Central Ave NE & 26th Ave NE at 7:34 AM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 30: Westbound 7:37 AM Trip Canceled (Westgate Station - Gate B)
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 30 trip departing Westgate Station - Gate B at 7:37 AM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 30 trip departing Westgate Station - Gate B at 7:37 AM canceled today due to mechanical issue
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
