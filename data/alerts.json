@@ -1,72 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-17T04:06:53.357Z",
-    "totalAlerts": 108,
-    "criticalCount": 2,
+    "generatedAt": "2026-10-17T09:09:56.075Z",
+    "totalAlerts": 104,
+    "criticalCount": 0,
     "moderateCount": 100,
-    "minorCount": 6,
-    "affectedRoutesCount": 77,
+    "minorCount": 4,
+    "affectedRoutesCount": 76,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "54280",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO B Line: Westbound 11:07 PM Trip Canceled (Union Depot & Gate A1)",
-      "summary": "Westbound B Line trip departing Union Depot & Gate A1 at 11:07 PM canceled today due to medical emergency",
-      "affectedRoutes": [
-        "METRO B Line"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-17T04:07:00.000Z",
-        "end": "2026-10-17T06:02:00.000Z"
-      },
-      "cause": "MEDICAL_EMERGENCY",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-10-17T03:50:57.000Z",
-      "rawHeader": "Westbound B Line trip departing Union Depot & Gate A1 at 11:07 PM canceled today due to medical emergency",
-      "rawDescription": ""
-    },
-    {
-      "id": "54256",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 72: Service Canceled",
-      "summary": "Route 72 trip departing Sun Ray Transit Center & Gate D at 4:48 PM and five other trips canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 72"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing Pascal St N & Central Ave W",
-        "50 PM\ndeparting Pascal St N & Central Ave W",
-        "53 PM\ndeparting Pascal St N & Central Ave W"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-16T21:48:00.000Z",
-        "end": "2026-10-17T04:37:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-10-16T21:18:00.000Z",
-      "rawHeader": "Route 72 trip departing Sun Ray Transit Center & Gate D at 4:48 PM and five other trips canceled today due to mechanical issue",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 5:50 PM\r\ndeparting Pascal St N & Central Ave W at 7:53 PM\r\ndeparting Pascal St N & Central Ave W at 9:53 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 4:48 PM\r\ndeparting Sun Ray Transit Center & Gate D at 6:51 PM\r\ndeparting Sun Ray Transit Center & Gate D at 8:51 PM"
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -186,18 +130,18 @@
       "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [
-        "51405",
+        "53280",
         "51436",
         "51437",
-        "53280",
-        "53279",
-        "51422",
+        "51405",
         "51420",
-        "51421"
+        "51421",
+        "51422",
+        "53279"
       ],
       "closedStopDetails": [
         {
-          "id": "51405"
+          "id": "53280"
         },
         {
           "id": "51436"
@@ -206,19 +150,19 @@
           "id": "51437"
         },
         {
-          "id": "53280"
-        },
-        {
-          "id": "53279"
-        },
-        {
-          "id": "51422"
+          "id": "51405"
         },
         {
           "id": "51420"
         },
         {
           "id": "51421"
+        },
+        {
+          "id": "51422"
+        },
+        {
+          "id": "53279"
         }
       ],
       "riderAlternative": null,
@@ -230,7 +174,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/closure",
-      "updatedAt": "2026-10-16T13:38:03.000Z",
+      "updatedAt": "2026-10-17T07:30:02.000Z",
       "rawHeader": "UPDATE: Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Saturday, Oct. 17 at 3 a.m.",
       "rawDescription": "UPDATE: Starting at 3 a.m. on Saturday, Oct. 17, buses will replace trains on the METRO Blue Line between Airport-Terminal 2 and Mall of America stations to allow for needed maintenance.\r\n\nPlease plan extra time for your trip. Replacement bus timing can vary and trips may take longer.\r\n\nTrain service will resume Monday, Oct. 19.\r\n\n Visit metrotransit.org/closure for bus boarding locations. \r\n\n\r\nAffected stops:\r\nMall of America Station (northbound)\r\n30th Ave Station (northbound)\r\nBloomington Central Station (northbound)\r\nAmerican Blvd Station (northbound)\r\nTerminal 2 Station (southbound)\r\nAmerican Blvd Station (southbound)\r\nBloomington Central Station (southbound)\r\n30th Ave Station (southbound)\r\nMall of America Station (southbound)"
     },
@@ -5949,7 +5893,7 @@
       "cause": "CONSTRUCTION",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/645",
-      "updatedAt": "2026-10-16T05:00:02.000Z",
+      "updatedAt": "2026-10-17T05:00:02.000Z",
       "rawHeader": "Route 645 detoured off I-394 from Dunwoody Blvd to 12th St beginning Sat Oct 17 at 5:00 AM until further notice due to construction",
       "rawDescription": "Expect delays due to added travel time to access downtown Minneapolis.\r\n\nEastbound buses will travel regular route on I-394 to Dunwoody Blvd, right on Dunwoody Blvd which turns into Hennepin Ave, right on 12th St and resume regular route.\r\n\nAffected direction: Eastbound"
     },
@@ -6398,7 +6342,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-10-16T05:00:02.000Z",
+      "updatedAt": "2026-10-17T05:00:01.000Z",
       "rawHeader": "Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 6:00 PM to 8:30 PM on Sat Oct 17 due to Anoka Light Up the Night Parade",
       "rawDescription": "For northbound Route 802 get on/off buses at:\r\nEast River Rd & 7th Ave - Stop #12066 (northbound)\r\nGreen Haven Pkwy & Fairoak Ave - Stop #57211 (northbound)\r\n\nFor southbound Route 802 get on/off buses at:\r\nGreen Haven Pkwy & Fairoak Ave - Stop #57212 (southbound)\r\nEast River Rd & Kings Lane - Stop #12068 (southbound)\r\n\nNorthbound buses will travel regular route on East River Rd to 7th Ave, right on 7th Ave, left on westbound Hwy 10, exit at Greenhaven Pkwy, continue on Green Haven Pkwy, and resume regular route.\r\n\nSouthbound buses will travel regular route on Green Haven Pkwy to Hwy 10, left onto eastbound Hwy 10, exit at 7th Ave, right on 7th Ave, left on East River Rd, and resume regular route.\r\n\nAffected stops:\r\nEast River Rd & South St - Stop #12065 (northbound)\r\n5th Ave & Washington St - Stop #12063 (northbound)\r\n5th Ave & Jefferson St - Stop #12058 (northbound)\r\n5th Ave & Monroe St - Stop #12054 (northbound)\r\nMain St & 3rd Ave - Stop #12051 (westbound)\r\nMain St & 2nd Ave - Stop #12049 (westbound)\r\nMain St & Ferry St - Stop #12046 (westbound)\r\nMain St & State Ave - Stop #12027 (westbound)\r\nMain St & Cutter St - Stop #12026 (westbound)\r\nMain St & Cutter St - Stop #12025 (eastbound)\r\nMain St & State Ave - Stop #12028 (eastbound)\r\nMain St & Branch Ave - Stop #12029 (eastbound)\r\nMain St & 2nd Ave - Stop #12047 (eastbound)\r\nMain St & 3rd Ave - Stop #12050 (eastbound)\r\n5th Ave & Monroe St - Stop #12055 (southbound)\r\n5th Ave & Jefferson St - Stop #12059 (southbound)\r\n5th Ave & Washington St - Stop #12062 (southbound)\r\n5th Ave & Military Rd - Stop #12064 (southbound)\r\nEast River Rd & 7th Ave - Stop #12067 (southbound)"
     },
@@ -6562,7 +6506,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-10-15T18:19:26.000Z",
+      "updatedAt": "2026-10-17T05:00:01.000Z",
       "rawHeader": "Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 12:30 PM to 3:00 PM on Fri Oct 23 due to Anoka Big Parade of Little People",
       "rawDescription": "For northbound Route 802 get on/off buses at:\r\nEast River Rd & 7th Ave - Stop #12066 (northbound)\r\nGreen Haven Pkwy & Fairoak Ave - Stop #57211 (northbound)\r\n\nFor southbound Route 802 get on/off buses at:\r\nGreen Haven Pkwy & Fairoak Ave - Stop #57212 (southbound)\r\nEast River Rd & Kings Lane - Stop #12068 (southbound)\r\n\nNorthbound buses will travel regular route on East River Rd to 7th Ave, right on 7th Ave, left on westbound Hwy 10, exit at Greenhaven Pkwy, continue on Green Haven Pkwy, and resume regular route.\r\n\nSouthbound buses will travel regular route on Green Haven Pkwy to Hwy 10, left onto eastbound Hwy 10, exit at 7th Ave, right on 7th Ave, left on East River Rd, and resume regular route.\r\n\nAffected stops:\r\nEast River Rd & South St - Stop #12065 (northbound)\r\n5th Ave & Washington St - Stop #12063 (northbound)\r\n5th Ave & Jefferson St - Stop #12058 (northbound)\r\n5th Ave & Monroe St - Stop #12054 (northbound)\r\nMain St & 3rd Ave - Stop #12051 (westbound)\r\nMain St & 2nd Ave - Stop #12049 (westbound)\r\nMain St & Ferry St - Stop #12046 (westbound)\r\nMain St & State Ave - Stop #12027 (westbound)\r\nMain St & Cutter St - Stop #12026 (westbound)\r\nMain St & Cutter St - Stop #12025 (eastbound)\r\nMain St & State Ave - Stop #12028 (eastbound)\r\nMain St & Branch Ave - Stop #12029 (eastbound)\r\nMain St & 2nd Ave - Stop #12047 (eastbound)\r\nMain St & 3rd Ave - Stop #12050 (eastbound)\r\n5th Ave & Monroe St - Stop #12055 (southbound)\r\n5th Ave & Jefferson St - Stop #12059 (southbound)\r\n5th Ave & Washington St - Stop #12062 (southbound)\r\n5th Ave & Military Rd - Stop #12064 (southbound)\r\nEast River Rd & 7th Ave - Stop #12067 (southbound)"
     },
@@ -6804,7 +6748,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-10-15T18:18:36.000Z",
+      "updatedAt": "2026-10-17T05:00:01.000Z",
       "rawHeader": "Route 805 detoured off 3rd Ave from Van Buren Ave to Madison St from 12:30 PM to 3:00 PM on Fri Oct 23 due to Anoka Big Parade of Little People",
       "rawDescription": "For northbound Route 805 get on/off buses at:\r\nHarrison St & 3rd Ave - Stop #51301 (westbound)\r\n3rd Ave & Van Buren Ave / Harrison St - Stop #50711 (northbound)\r\n\nFor southbound Route 805 get on/off buses at:\r\n3rd Ave & Van Buren Ave / Harrison St - Stop #50711 (northbound)\r\n\nNorthbound buses will travel regular route on Harrison St to 3rd Ave, continue on Harrison to 2nd Ave, left on 2nd Ave, left on Van Buren St, left on 3rd Ave and layover on northbound 3rd Ave between Van Buren Ave and Harrison St.\r\n\nSouthbound buses will depart temporary layover on northbound 3rd Ave between Van Buren Ave and Harrison St, continue on 3rd Ave, and resume regular route.\r\n\nAffected stops:\r\n3rd Ave & Golf St - Stop #51302 (southbound)\r\n3rd Ave & Jackson St - Stop #57200 (southbound)\r\n1st Ave S & Monroe St - Stop #50716 (southbound)\r\nMadison St & 3rd Ave - Stop #57209 (eastbound)\r\n3rd Ave & Jackson St - Stop #48739 (northbound)\r\n3rd Ave & Van Buren St - Stop #43897 (northbound)"
     },
@@ -7134,7 +7078,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/827",
-      "updatedAt": "2026-10-16T05:00:01.000Z",
+      "updatedAt": "2026-10-17T05:00:01.000Z",
       "rawHeader": "Route 827 detoured off East River Road from Osborne Rd to 85th Ave from 4:00 PM to 10:00 PM on Sat Oct 17 due to Pumpkin Night in the Park",
       "rawDescription": "For northbound Route 827 get on/off buses at:\r\nEast River Rd & Logan Pkwy - Stop #12133 (northbound)\r\nNorthtown Transit Ctr Gate C - Stop #57167 (westbound)\r\n\nFor southbound Route 827 get on/off buses at:\r\nNorthtown Transit Ctr Gate C - Stop #57167 (westbound)\r\nEast River Rd & Osborne Rd NE - Stop #12128 (southbound)\r\n\nNorthbound buses will travel regular route on East River Rd to Osborne Rd, right on Osborne Rd, left on University Ave, right on 85th Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 85th Ave to University Ave, left on University Ave, right on Osborne Rd, left on East River Rd and resume regular route.\r\n\nAffected stops:\r\nEast River Rd & Osborne Rd NE - Stop #12129 (northbound)\r\nEast River Rd & Rickard Rd - Stop #12126 (northbound)\r\nEast River Rd & 77th Way - Stop #12125 (northbound)\r\nEast River Rd & Pearson Way - Stop #12122 (northbound)\r\nEast River Rd & 79th Way - Stop #12121 (northbound)\r\nEast River Rd & Liberty St - Stop #12117 (northbound)\r\nEast River Rd & Fairmont St - Stop #12113 (northbound)\r\nEast River Rd & Hugo St - Stop #12110 (northbound)\r\nEast River Rd & Larch St NW - Stop #10906 (northbound)\r\nEast River Rd & 84th Lane NE - Stop #10910 (northbound)\r\n85th Ave NW & Norway St NW - Stop #10928 (eastbound)\r\n85th Ave NW & Evergreen Blvd - Stop #10930 (eastbound)\r\n85th Ave NW & Cottonwood St - Stop #10932 (eastbound)\r\n85th Ave NE & Springbrook Dr NE - Stop #56934 (eastbound)\r\n85th Ave NW & Cottonwood St - Stop #53418 (westbound)\r\n85th Ave NW & Evergreen Blvd - Stop #10931 (westbound)\r\n85th Ave NW & #455 Ryerson Co - Stop #53761 (westbound)\r\n85th Ave NW & Norway St NW - Stop #10929 (westbound)\r\nEast River Rd & 85th Ave / 84th Lane - Stop #10911 (southbound)\r\nEast River Rd & Kimball St NE - Stop #10907 (southbound)\r\nEast River Rd & Hugo St - Stop #12111 (southbound)\r\nEast River Rd & Ely St - Stop #51258 (southbound)\r\nEast River Rd & Liberty St - Stop #12116 (southbound)\r\nEast River Rd & Longfellow St NE - Stop #12119 (southbound)\r\nEast River & Pearson Way/Craigbrook Way - Stop #12123 (southbound)\r\nEast River Rd & Stonybrook Way - Stop #12124 (southbound)\r\nEast River Rd & Rickard Rd - Stop #12127 (southbound)"
     },
@@ -7245,129 +7189,6 @@
       "updatedAt": "2026-09-03T18:51:20.000Z",
       "rawHeader": "Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction",
       "rawDescription": "Updated get on/off stops 6/9 1:30 pm.\r\n\nGet on/off buses at:\r\nTemporary stop on Grove St & Lafayette Rd (eastbound)\r\nLaFayette Rd & 8th St - Stop #11925 (southbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on southbound I-35E to University Ave, continue on I-35E and exit at Wacouta St, left on 9th St, left on Broadway St, right on Grove St, right on Lafayette Rd, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nUniversity Ave & Mississippi St - Stop #56109 (eastbound)\r\nUniversity Ave & Lafayette St - Stop #57630 (eastbound)\r\nLaFayette Rd & Grove St - Stop #11923 (southbound)"
-    },
-    {
-      "id": "54246",
-      "agency": "Metro Transit",
-      "severity": "Minor",
-      "title": "METRO Blue Line: Service Advisory",
-      "summary": "Starting at 8 p.m. Friday, Oct. 16, METRO Blue Line customers may experience slight delays between Airport-Terminal 2 and Mall of America stations due to single-track service going into effect in that area.",
-      "affectedRoutes": [
-        "METRO Blue Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [
-        "51436",
-        "53280",
-        "53279",
-        "51421"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "51436"
-        },
-        {
-          "id": "53280"
-        },
-        {
-          "id": "53279"
-        },
-        {
-          "id": "51421"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-17T01:00:00.000Z",
-        "end": "2026-10-17T07:30:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "OTHER_EFFECT",
-      "url": "https://www.metrotransit.org/route/blue",
-      "updatedAt": "2026-10-17T00:30:02.000Z",
-      "rawHeader": "Starting at 8 p.m. Friday, Oct. 16, METRO Blue Line customers may experience slight delays between Airport-Terminal 2 and Mall of America stations due to single-track service going into effect in that area.",
-      "rawDescription": "Starting at 8 p.m. Friday, Oct. 16, METRO Blue Line customers may experience slight delays between Airport-Terminal 2 and Mall of America stations due to single-track service going into effect in that area. Please be aware that customers may need to board the train on the opposite side of station at American Blvd. and Bloomington Central stations. \r\n\nReplacement bus service will go into effect for these stations (Airport - Terminal 2 through Mall of America) starting at 3 a.m. Saturday, Oct. 17.\r\nFull service resumes Monday, Oct. 19. \r\n\n\r\n\nAffected stops:\r\nBloomington Central Station (northbound)\r\nAmerican Blvd Station (northbound)\r\nAmerican Blvd Station (southbound)\r\nBloomington Central Station (southbound)"
-    },
-    {
-      "id": "54279",
-      "agency": "Metro Transit",
-      "severity": "Minor",
-      "title": "METRO Blue Line: Service Advisory",
-      "summary": "Northbound Blue Line trip departing VA Medical Center Station at 9:41 PM delayed approximately 15 minutes today",
-      "affectedRoutes": [
-        "METRO Blue Line"
-      ],
-      "direction": "Northbound",
-      "intersections": [
-        "VA Medical Center Station\n50th St & Minnehaha Park St"
-      ],
-      "closedStopIds": [
-        "51428",
-        "51429",
-        "51430",
-        "51431",
-        "51432",
-        "56330",
-        "56332",
-        "56333",
-        "56339",
-        "51423",
-        "51424",
-        "51426",
-        "51427"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "51428"
-        },
-        {
-          "id": "51429"
-        },
-        {
-          "id": "51430"
-        },
-        {
-          "id": "51431"
-        },
-        {
-          "id": "51432"
-        },
-        {
-          "id": "56330"
-        },
-        {
-          "id": "56332"
-        },
-        {
-          "id": "56333"
-        },
-        {
-          "id": "56339"
-        },
-        {
-          "id": "51423"
-        },
-        {
-          "id": "51424"
-        },
-        {
-          "id": "51426"
-        },
-        {
-          "id": "51427"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {},
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "OTHER_EFFECT",
-      "url": "https://www.metrotransit.org/route/blue",
-      "updatedAt": "2026-10-17T04:06:01.000Z",
-      "rawHeader": "Northbound Blue Line trip departing VA Medical Center Station at 9:41 PM delayed approximately 15 minutes today",
-      "rawDescription": "Affected direction: Northbound\r\n\nAffected stops:\r\nVA Medical Center Station\r\n50th St / Minnehaha Park Station\r\n46th St Station\r\n38th St Station\r\nLake St - Midtown Station\r\nFranklin Ave Station\r\nCedar Riverside Station\r\nU.S. Bank Stadium Station\r\nGovernment Plaza Station\r\nNicollet Mall Station\r\nWarehouse District Hennepin Ave Station\r\nTarget Field Station Platform 1\r\nTarget Field Station Platform 2"
     },
     {
       "id": "54177",
