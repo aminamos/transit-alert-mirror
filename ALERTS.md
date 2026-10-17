@@ -2,73 +2,75 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-108-blue)](#)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-109-blue)](#)
 [![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-101-orange)](#-moderate-detours--changes)
+[![Moderate](https://img.shields.io/badge/Moderate-102-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-76-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-17T19:15:54.263Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-17T22:09:56.403Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (1) • **Route 14** (3) • **Route 18** (5) • **Route 22** (5) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (2) • **Route 219** (2) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (2) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (2) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (2) • **Route 14** (3) • **Route 18** (5) • **Route 22** (5) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (4) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (2) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 71: Service Canceled
+### 🚨 Route 5: Service Advisory
 
-- **Affected Routes**: `Route 71`
-- **Direction**: Both Directions
+- **Affected Routes**: `Route 5`
+- **Direction**: Southbound
 - **Severity**: `Critical`
-- **Corridors & Intersections**: 17 PM and departing McMenemy St & Roselawn Ave
+- **Closed Stops**: Stop #56903, Stop #9086, Stop #9087, Stop #9090, Stop #9173, Stop #9176, Stop #9575, Stop #9577 *(+12 more)*
 
-**Summary**: Route 71 trips departing Concord Exchange & Armour Ave at 12:17 PM and departing McMenemy St & Roselawn Ave at 1:11 PM canceled today
+**Summary**: Southbound Route 5 trip departing Brooklyn Ctr Transit Ctr at 3:54 PM will start from Fremont & Dowling. Previous stops missed due to maintenance
 
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
+[Official Agency Advisory](https://www.metrotransit.org/route/5)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 71 trips departing Concord Exchange & Armour Ave at 12:17 PM and departing McMenemy St & Roselawn Ave at 1:11 PM canceled today
+**Header**: Southbound Route 5 trip departing Brooklyn Ctr Transit Ctr at 3:54 PM will start from Fremont & Dowling. Previous stops missed due to maintenance
 
 </details>
 
 ---
 
-### 🚨 Route 215: Service Canceled
+### 🚨 Route 11: Northbound 4:23 PM Trip Canceled (Nicollet Ave S & 46th St E)
 
-- **Affected Routes**: `Route 215`
-- **Direction**: Both Directions
+- **Affected Routes**: `Route 11`
+- **Direction**: Northbound
 - **Severity**: `Critical`
+- **Closed Stops**: Stop #12797, Stop #12798, Stop #12802, Stop #1197, Stop #17976, Stop #17978, Stop #17980, Stop #17982 *(+124 more)*
 
-**Summary**: Route 215 trips departing Maplewood Mall Transit Center & Gate A at 1:16 PM and departing Sun Ray Transit Center & Gate E at 1:44 PM canceled today due to collision
+**Summary**: Northbound Route 11 trip departing Nicollet Ave S & 46th St E at 4:23 PM canceled today due to collision
 
-[Official Agency Advisory](https://www.metrotransit.org/route/215)
+[Official Agency Advisory](https://www.metrotransit.org/route/11)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 215 trips departing Maplewood Mall Transit Center & Gate A at 1:16 PM and departing Sun Ray Transit Center & Gate E at 1:44 PM canceled today due to collision
+**Header**: Northbound Route 11 trip departing Nicollet Ave S & 46th St E at 4:23 PM canceled today due to collision
 
 </details>
 
 ---
 
-### 🚨 Route 219: 1:16 PM Trip Canceled (Sun Ray Transit Center & Gate B)
+### 🚨 Route 62: Service Advisory
 
-- **Affected Routes**: `Route 219`
-- **Direction**: All
+- **Affected Routes**: `Route 62`
+- **Direction**: Northbound
 - **Severity**: `Critical`
+- **Closed Stops**: Stop #56164, Stop #53900, Stop #53901, Stop #41241, Stop #6290, Stop #6291, Stop #6292, Stop #6312 *(+48 more)*
 
-**Summary**: Route 219 trip departing Sun Ray Transit Center & Gate B at 1:16 PM canceled today due to collision
+**Summary**: Northbound Route 62 trip departing Livingston Ave & Butler Ave / Orme St at 3:35 PM will start from University & Rice. Previous stops missed
 
-[Official Agency Advisory](https://www.metrotransit.org/route/219)
+[Official Agency Advisory](https://www.metrotransit.org/route/62)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 219 trip departing Sun Ray Transit Center & Gate B at 1:16 PM canceled today due to collision
+**Header**: Northbound Route 62 trip departing Livingston Ave & Butler Ave / Orme St at 3:35 PM will start from University & Rice. Previous stops missed
 
 </details>
 
@@ -175,7 +177,7 @@ Due to mechanical issues, both elevators at Franklin Ave Station are unavailable
 - **Affected Routes**: `METRO Blue Line`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Closed Stops**: Stop #53280, Stop #51436, Stop #51437, Stop #51405, Stop #51420, Stop #51421, Stop #51422, Stop #53279
+- **Closed Stops**: Stop #51405, Stop #51436, Stop #51437, Stop #53280, Stop #53279, Stop #51420, Stop #51421, Stop #51422
 
 **Summary**: UPDATE: Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Saturday, Oct. 17 at 3 a.m.
 
@@ -2675,6 +2677,52 @@ Little Canada Rd & Jackson St - Stop #45306 (eastbound)
 Little Canada Rd & Park View Court - Stop #49785 (eastbound)
 Little Canada Rd & Fleur Royale Condos - Stop #45313 (westbound)
 Little Canada Rd & Co Rd C - Stop #45307 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 71: Detour via Westminster St & Case Ave
+
+- **Affected Routes**: `Route 71`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Westminster St & Case Ave; Arkwright St & Geranium Ave; Arkwright St & Lawson Ave; Arkwright St & Case Ave; Arkwright St & Magnolia Ave
+- **Closed Stops**: Arkwright St & Case Ave (Stop #18111), Arkwright St & Lawson Ave (Stop #18113), Arkwright St & Magnolia Ave (Stop #18115), Arkwright St & Magnolia Ave (Stop #18124), Westminster St & York Ave (Stop #56143), Stop #56150, Stop #18117, Stop #18126 *(+1 more)*
+
+**Summary**: Route 71 detoured off Arkwright between Magnolia and Case until later today. Board at: Westminster St & Case Ave - Stop #56150 (northbound); Arkwright St & Geranium Ave - Stop #18117 (northbound).
+
+> 💡 **Rider Action**: Board at: Westminster St & Case Ave - Stop #56150 (northbound); Arkwright St & Geranium Ave - Stop #18117 (northbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel east on Case to Arkwright, continue to Desoto, left on Desoto, left on Magnolia, right on Arkwright and resume regular route
+
+[Official Agency Advisory](https://www.metrotransit.org/route/71)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 71 detoured off Arkwright between Magnolia and Case until later today
+
+```text
+For northbound Route 71 get on/off buses at:
+Westminster St & Case Ave - Stop #56150 (northbound)
+Arkwright St & Geranium Ave - Stop #18117 (northbound)
+
+For southbound Route 71 get on/off buses at:
+Arkwright St & Lawson Ave - Stop #18126 (southbound)
+Arkwright St & Case Ave - Stop #18128 (southbound)
+
+Northbound buses will travel east on Case to Arkwright, continue to Desoto, left on Desoto, left on Magnolia, right on Arkwright and resume regular route
+
+Southbound buses will travel south on Arkwright to Magnolia, right on Magnolia, left on Westminster, left on Jenks, right on Arkwright and resume regular route
+
+Affected stops:
+Arkwright St & Case Ave - Stop #18111 (northbound)
+Arkwright St & Lawson Ave - Stop #18113 (northbound)
+Arkwright St & Magnolia Ave - Stop #18115 (northbound)
+Arkwright St & Magnolia Ave - Stop #18124 (southbound)
+Westminster St & York Ave - Stop #56143 (southbound)
 ```
 
 </details>

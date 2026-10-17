@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-17T19:15:54.263Z",
-    "totalAlerts": 108,
+    "generatedAt": "2026-10-17T22:09:56.403Z",
+    "totalAlerts": 109,
     "criticalCount": 3,
-    "moderateCount": 101,
+    "moderateCount": 102,
     "minorCount": 4,
     "affectedRoutesCount": 76,
     "agencies": [
@@ -12,83 +12,919 @@
   },
   "alerts": [
     {
-      "id": "54289",
+      "id": "54302",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 71: Service Canceled",
-      "summary": "Route 71 trips departing Concord Exchange & Armour Ave at 12:17 PM and departing McMenemy St & Roselawn Ave at 1:11 PM canceled today",
+      "title": "Route 5: Service Advisory",
+      "summary": "Southbound Route 5 trip departing Brooklyn Ctr Transit Ctr at 3:54 PM will start from Fremont & Dowling. Previous stops missed due to maintenance",
       "affectedRoutes": [
-        "Route 71"
+        "Route 5"
       ],
-      "direction": "Both Directions",
-      "intersections": [
-        "17 PM and departing McMenemy St & Roselawn Ave"
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [
+        "56903",
+        "9086",
+        "9087",
+        "9090",
+        "9173",
+        "9176",
+        "9575",
+        "9577",
+        "9582",
+        "9584",
+        "9589",
+        "9593",
+        "9599",
+        "9609",
+        "9611",
+        "9613",
+        "9615",
+        "9617",
+        "50142",
+        "51846"
       ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
+      "closedStopDetails": [
+        {
+          "id": "56903"
+        },
+        {
+          "id": "9086"
+        },
+        {
+          "id": "9087"
+        },
+        {
+          "id": "9090"
+        },
+        {
+          "id": "9173"
+        },
+        {
+          "id": "9176"
+        },
+        {
+          "id": "9575"
+        },
+        {
+          "id": "9577"
+        },
+        {
+          "id": "9582"
+        },
+        {
+          "id": "9584"
+        },
+        {
+          "id": "9589"
+        },
+        {
+          "id": "9593"
+        },
+        {
+          "id": "9599"
+        },
+        {
+          "id": "9609"
+        },
+        {
+          "id": "9611"
+        },
+        {
+          "id": "9613"
+        },
+        {
+          "id": "9615"
+        },
+        {
+          "id": "9617"
+        },
+        {
+          "id": "50142"
+        },
+        {
+          "id": "51846"
+        }
+      ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-17T17:17:00.000Z",
-        "end": "2026-10-17T19:48:00.000Z"
+        "start": "2026-10-17T21:19:00.000Z",
+        "end": "2026-10-17T22:49:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/5",
+      "updatedAt": "2026-10-17T21:21:01.000Z",
+      "rawHeader": "Southbound Route 5 trip departing Brooklyn Ctr Transit Ctr at 3:54 PM will start from Fremont & Dowling. Previous stops missed due to maintenance",
+      "rawDescription": ""
+    },
+    {
+      "id": "54303",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 11: Northbound 4:23 PM Trip Canceled (Nicollet Ave S & 46th St E)",
+      "summary": "Northbound Route 11 trip departing Nicollet Ave S & 46th St E at 4:23 PM canceled today due to collision",
+      "affectedRoutes": [
+        "Route 11"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [
+        "12797",
+        "12798",
+        "12802",
+        "1197",
+        "17976",
+        "17978",
+        "17980",
+        "17982",
+        "17984",
+        "17986",
+        "17988",
+        "17990",
+        "17992",
+        "17994",
+        "17996",
+        "17998",
+        "17704",
+        "17705",
+        "17706",
+        "17707",
+        "17708",
+        "17709",
+        "17711",
+        "17712",
+        "17713",
+        "17715",
+        "17716",
+        "17717",
+        "17718",
+        "17719",
+        "17720",
+        "17721",
+        "17722",
+        "17723",
+        "17724",
+        "17725",
+        "17726",
+        "17727",
+        "17728",
+        "17729",
+        "17730",
+        "17765",
+        "17766",
+        "17768",
+        "17821",
+        "1920",
+        "17951",
+        "17952",
+        "17953",
+        "17916",
+        "17917",
+        "17165",
+        "19294",
+        "19301",
+        "15562",
+        "40882",
+        "14331",
+        "14594",
+        "14595",
+        "14596",
+        "14597",
+        "14598",
+        "14599",
+        "14600",
+        "14604",
+        "14605",
+        "14606",
+        "14607",
+        "14608",
+        "14609",
+        "14611",
+        "14616",
+        "14618",
+        "14619",
+        "14620",
+        "14621",
+        "14622",
+        "14623",
+        "14624",
+        "14630",
+        "14631",
+        "14632",
+        "14633",
+        "14634",
+        "14635",
+        "14636",
+        "14637",
+        "14638",
+        "14639",
+        "14640",
+        "14641",
+        "14648",
+        "14650",
+        "14652",
+        "14656",
+        "14660",
+        "14661",
+        "14664",
+        "14665",
+        "14668",
+        "14669",
+        "14672",
+        "14673",
+        "14678",
+        "14679",
+        "14680",
+        "14681",
+        "14685",
+        "14687",
+        "14689",
+        "14691",
+        "11660",
+        "11661",
+        "11662",
+        "11664",
+        "11665",
+        "11666",
+        "1229",
+        "1230",
+        "1231",
+        "49304",
+        "51827",
+        "42202",
+        "42455",
+        "47534",
+        "53461",
+        "53462",
+        "53463",
+        "53544",
+        "80994",
+        "80995",
+        "57548"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "12797"
+        },
+        {
+          "id": "12798"
+        },
+        {
+          "id": "12802"
+        },
+        {
+          "id": "1197"
+        },
+        {
+          "id": "17976"
+        },
+        {
+          "id": "17978"
+        },
+        {
+          "id": "17980"
+        },
+        {
+          "id": "17982"
+        },
+        {
+          "id": "17984"
+        },
+        {
+          "id": "17986"
+        },
+        {
+          "id": "17988"
+        },
+        {
+          "id": "17990"
+        },
+        {
+          "id": "17992"
+        },
+        {
+          "id": "17994"
+        },
+        {
+          "id": "17996"
+        },
+        {
+          "id": "17998"
+        },
+        {
+          "id": "17704"
+        },
+        {
+          "id": "17705"
+        },
+        {
+          "id": "17706"
+        },
+        {
+          "id": "17707"
+        },
+        {
+          "id": "17708"
+        },
+        {
+          "id": "17709"
+        },
+        {
+          "id": "17711"
+        },
+        {
+          "id": "17712"
+        },
+        {
+          "id": "17713"
+        },
+        {
+          "id": "17715"
+        },
+        {
+          "id": "17716"
+        },
+        {
+          "id": "17717"
+        },
+        {
+          "id": "17718"
+        },
+        {
+          "id": "17719"
+        },
+        {
+          "id": "17720"
+        },
+        {
+          "id": "17721"
+        },
+        {
+          "id": "17722"
+        },
+        {
+          "id": "17723"
+        },
+        {
+          "id": "17724"
+        },
+        {
+          "id": "17725"
+        },
+        {
+          "id": "17726"
+        },
+        {
+          "id": "17727"
+        },
+        {
+          "id": "17728"
+        },
+        {
+          "id": "17729"
+        },
+        {
+          "id": "17730"
+        },
+        {
+          "id": "17765"
+        },
+        {
+          "id": "17766"
+        },
+        {
+          "id": "17768"
+        },
+        {
+          "id": "17821"
+        },
+        {
+          "id": "1920"
+        },
+        {
+          "id": "17951"
+        },
+        {
+          "id": "17952"
+        },
+        {
+          "id": "17953"
+        },
+        {
+          "id": "17916"
+        },
+        {
+          "id": "17917"
+        },
+        {
+          "id": "17165"
+        },
+        {
+          "id": "19294"
+        },
+        {
+          "id": "19301"
+        },
+        {
+          "id": "15562"
+        },
+        {
+          "id": "40882"
+        },
+        {
+          "id": "14331"
+        },
+        {
+          "id": "14594"
+        },
+        {
+          "id": "14595"
+        },
+        {
+          "id": "14596"
+        },
+        {
+          "id": "14597"
+        },
+        {
+          "id": "14598"
+        },
+        {
+          "id": "14599"
+        },
+        {
+          "id": "14600"
+        },
+        {
+          "id": "14604"
+        },
+        {
+          "id": "14605"
+        },
+        {
+          "id": "14606"
+        },
+        {
+          "id": "14607"
+        },
+        {
+          "id": "14608"
+        },
+        {
+          "id": "14609"
+        },
+        {
+          "id": "14611"
+        },
+        {
+          "id": "14616"
+        },
+        {
+          "id": "14618"
+        },
+        {
+          "id": "14619"
+        },
+        {
+          "id": "14620"
+        },
+        {
+          "id": "14621"
+        },
+        {
+          "id": "14622"
+        },
+        {
+          "id": "14623"
+        },
+        {
+          "id": "14624"
+        },
+        {
+          "id": "14630"
+        },
+        {
+          "id": "14631"
+        },
+        {
+          "id": "14632"
+        },
+        {
+          "id": "14633"
+        },
+        {
+          "id": "14634"
+        },
+        {
+          "id": "14635"
+        },
+        {
+          "id": "14636"
+        },
+        {
+          "id": "14637"
+        },
+        {
+          "id": "14638"
+        },
+        {
+          "id": "14639"
+        },
+        {
+          "id": "14640"
+        },
+        {
+          "id": "14641"
+        },
+        {
+          "id": "14648"
+        },
+        {
+          "id": "14650"
+        },
+        {
+          "id": "14652"
+        },
+        {
+          "id": "14656"
+        },
+        {
+          "id": "14660"
+        },
+        {
+          "id": "14661"
+        },
+        {
+          "id": "14664"
+        },
+        {
+          "id": "14665"
+        },
+        {
+          "id": "14668"
+        },
+        {
+          "id": "14669"
+        },
+        {
+          "id": "14672"
+        },
+        {
+          "id": "14673"
+        },
+        {
+          "id": "14678"
+        },
+        {
+          "id": "14679"
+        },
+        {
+          "id": "14680"
+        },
+        {
+          "id": "14681"
+        },
+        {
+          "id": "14685"
+        },
+        {
+          "id": "14687"
+        },
+        {
+          "id": "14689"
+        },
+        {
+          "id": "14691"
+        },
+        {
+          "id": "11660"
+        },
+        {
+          "id": "11661"
+        },
+        {
+          "id": "11662"
+        },
+        {
+          "id": "11664"
+        },
+        {
+          "id": "11665"
+        },
+        {
+          "id": "11666"
+        },
+        {
+          "id": "1229"
+        },
+        {
+          "id": "1230"
+        },
+        {
+          "id": "1231"
+        },
+        {
+          "id": "49304"
+        },
+        {
+          "id": "51827"
+        },
+        {
+          "id": "42202"
+        },
+        {
+          "id": "42455"
+        },
+        {
+          "id": "47534"
+        },
+        {
+          "id": "53461"
+        },
+        {
+          "id": "53462"
+        },
+        {
+          "id": "53463"
+        },
+        {
+          "id": "53544"
+        },
+        {
+          "id": "80994"
+        },
+        {
+          "id": "80995"
+        },
+        {
+          "id": "57548"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-17T22:02:00.000Z",
+        "end": "2026-10-17T23:20:00.000Z"
+      },
+      "cause": "ACCIDENT",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/11",
+      "updatedAt": "2026-10-17T22:02:57.000Z",
+      "rawHeader": "Northbound Route 11 trip departing Nicollet Ave S & 46th St E at 4:23 PM canceled today due to collision",
+      "rawDescription": ""
+    },
+    {
+      "id": "54300",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 62: Service Advisory",
+      "summary": "Northbound Route 62 trip departing Livingston Ave & Butler Ave / Orme St at 3:35 PM will start from University & Rice. Previous stops missed",
+      "affectedRoutes": [
+        "Route 62"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [
+        "56164",
+        "53900",
+        "53901",
+        "41241",
+        "6290",
+        "6291",
+        "6292",
+        "6312",
+        "6313",
+        "6314",
+        "6316",
+        "6318",
+        "6320",
+        "6322",
+        "6324",
+        "6326",
+        "6327",
+        "6329",
+        "6331",
+        "6332",
+        "6334",
+        "6336",
+        "6347",
+        "6348",
+        "6349",
+        "6350",
+        "6351",
+        "6353",
+        "6354",
+        "6356",
+        "6357",
+        "6358",
+        "52329",
+        "50540",
+        "41712",
+        "45127",
+        "291",
+        "292",
+        "20008",
+        "328",
+        "329",
+        "330",
+        "331",
+        "332",
+        "333",
+        "334",
+        "335",
+        "336",
+        "337",
+        "338",
+        "2611",
+        "2781",
+        "287",
+        "289",
+        "1235",
+        "11891"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "56164"
+        },
+        {
+          "id": "53900"
+        },
+        {
+          "id": "53901"
+        },
+        {
+          "id": "41241"
+        },
+        {
+          "id": "6290"
+        },
+        {
+          "id": "6291"
+        },
+        {
+          "id": "6292"
+        },
+        {
+          "id": "6312"
+        },
+        {
+          "id": "6313"
+        },
+        {
+          "id": "6314"
+        },
+        {
+          "id": "6316"
+        },
+        {
+          "id": "6318"
+        },
+        {
+          "id": "6320"
+        },
+        {
+          "id": "6322"
+        },
+        {
+          "id": "6324"
+        },
+        {
+          "id": "6326"
+        },
+        {
+          "id": "6327"
+        },
+        {
+          "id": "6329"
+        },
+        {
+          "id": "6331"
+        },
+        {
+          "id": "6332"
+        },
+        {
+          "id": "6334"
+        },
+        {
+          "id": "6336"
+        },
+        {
+          "id": "6347"
+        },
+        {
+          "id": "6348"
+        },
+        {
+          "id": "6349"
+        },
+        {
+          "id": "6350"
+        },
+        {
+          "id": "6351"
+        },
+        {
+          "id": "6353"
+        },
+        {
+          "id": "6354"
+        },
+        {
+          "id": "6356"
+        },
+        {
+          "id": "6357"
+        },
+        {
+          "id": "6358"
+        },
+        {
+          "id": "52329"
+        },
+        {
+          "id": "50540"
+        },
+        {
+          "id": "41712"
+        },
+        {
+          "id": "45127"
+        },
+        {
+          "id": "291"
+        },
+        {
+          "id": "292"
+        },
+        {
+          "id": "20008"
+        },
+        {
+          "id": "328"
+        },
+        {
+          "id": "329"
+        },
+        {
+          "id": "330"
+        },
+        {
+          "id": "331"
+        },
+        {
+          "id": "332"
+        },
+        {
+          "id": "333"
+        },
+        {
+          "id": "334"
+        },
+        {
+          "id": "335"
+        },
+        {
+          "id": "336"
+        },
+        {
+          "id": "337"
+        },
+        {
+          "id": "338"
+        },
+        {
+          "id": "2611"
+        },
+        {
+          "id": "2781"
+        },
+        {
+          "id": "287"
+        },
+        {
+          "id": "289"
+        },
+        {
+          "id": "1235"
+        },
+        {
+          "id": "11891"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-17T20:46:00.000Z",
+        "end": "2026-10-17T22:30:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/71",
-      "updatedAt": "2026-10-17T17:08:26.000Z",
-      "rawHeader": "Route 71 trips departing Concord Exchange & Armour Ave at 12:17 PM and departing McMenemy St & Roselawn Ave at 1:11 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "54293",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 215: Service Canceled",
-      "summary": "Route 215 trips departing Maplewood Mall Transit Center & Gate A at 1:16 PM and departing Sun Ray Transit Center & Gate E at 1:44 PM canceled today due to collision",
-      "affectedRoutes": [
-        "Route 215"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-17T18:35:00.000Z",
-        "end": "2026-10-17T20:08:00.000Z"
-      },
-      "cause": "ACCIDENT",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/215",
-      "updatedAt": "2026-10-17T18:36:09.000Z",
-      "rawHeader": "Route 215 trips departing Maplewood Mall Transit Center & Gate A at 1:16 PM and departing Sun Ray Transit Center & Gate E at 1:44 PM canceled today due to collision",
-      "rawDescription": ""
-    },
-    {
-      "id": "54294",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 219: 1:16 PM Trip Canceled (Sun Ray Transit Center & Gate B)",
-      "summary": "Route 219 trip departing Sun Ray Transit Center & Gate B at 1:16 PM canceled today due to collision",
-      "affectedRoutes": [
-        "Route 219"
-      ],
-      "direction": "All",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-17T18:53:00.000Z",
-        "end": "2026-10-17T20:06:00.000Z"
-      },
-      "cause": "ACCIDENT",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/219",
-      "updatedAt": "2026-10-17T18:53:20.000Z",
-      "rawHeader": "Route 219 trip departing Sun Ray Transit Center & Gate B at 1:16 PM canceled today due to collision",
+      "url": "https://www.metrotransit.org/route/62",
+      "updatedAt": "2026-10-17T20:47:07.000Z",
+      "rawHeader": "Northbound Route 62 trip departing Livingston Ave & Butler Ave / Orme St at 3:35 PM will start from University & Rice. Previous stops missed",
       "rawDescription": ""
     },
     {
@@ -210,18 +1046,18 @@
       "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [
-        "53280",
+        "51405",
         "51436",
         "51437",
-        "51405",
+        "53280",
+        "53279",
         "51420",
         "51421",
-        "51422",
-        "53279"
+        "51422"
       ],
       "closedStopDetails": [
         {
-          "id": "53280"
+          "id": "51405"
         },
         {
           "id": "51436"
@@ -230,7 +1066,10 @@
           "id": "51437"
         },
         {
-          "id": "51405"
+          "id": "53280"
+        },
+        {
+          "id": "53279"
         },
         {
           "id": "51420"
@@ -240,9 +1079,6 @@
         },
         {
           "id": "51422"
-        },
-        {
-          "id": "53279"
         }
       ],
       "riderAlternative": null,
@@ -3161,7 +3997,7 @@
       "detourDetails": "Northbound buses will travel on Wabasha to Congress, right on Congress, left on Cesar Chavez and resume regular roue",
       "activePeriod": {
         "start": "2026-10-17T13:43:00.000Z",
-        "end": "2026-10-17T21:14:23.000Z"
+        "end": "2026-10-18T00:09:23.000Z"
       },
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
@@ -4211,6 +5047,86 @@
       "updatedAt": "2026-09-28T13:56:01.000Z",
       "rawHeader": "Route 71K detoured off Little Canada Rd from Co Rd C to Rice St until further notice due to construction",
       "rawDescription": "Updated southbound detour and affected stops 9/21 9 am.\r\n\nFor northbound Route 71 get on/off buses at:\r\nLittle Canada Rd & Centerville Rd - Stop #49697 (westbound)\r\nTemporary stop on Co Rd C just before Jessica Court (westbound)\r\nRice St & Marketplace S Entrance - Stop #46980 (northbound)\r\n\nFor southbound Route 71 get on/off buses at:\r\nMarketplace Dr & Little Canada - Stop #45305 (southbound)\r\nLittle Canada Rd & Centerville Rd - Stop #41063 (eastbound)\r\n\nNorthbound Route 71K buses will travel regular route on Little Canada Rd to Co Rd C, left on Co Rd C, right on Rice St to Little Canada Rd, continue on Rice St, and resume the regular route. \r\n\nSouthbound 71 buses departing The Marketplace Center will travel regular route on Marketplace Dr to Little Canada Rd, right on Little Canada Rd, right on Rice St, right on South Owasso Blvd, right on Country Dr, left on Little Canada Rd, and resume regular route.\r\n\nAffected stops:\r\nLittle Canada Rd & Park View Court - Stop #49784 (westbound)\r\nLittle Canada Rd & Jackson St - Stop #45314 (westbound)\r\nLittle Canada Rd & Marketplace - Stop #49178 (westbound)\r\nLittle Canada Rd & Middle St - Stop #49179 (westbound)\r\nLittle Canada Rd & Jackson St - Stop #45306 (eastbound)\r\nLittle Canada Rd & Park View Court - Stop #49785 (eastbound)\r\nLittle Canada Rd & Fleur Royale Condos - Stop #45313 (westbound)\r\nLittle Canada Rd & Co Rd C - Stop #45307 (eastbound)"
+    },
+    {
+      "id": "54301",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 71: Detour via Westminster St & Case Ave",
+      "summary": "Route 71 detoured off Arkwright between Magnolia and Case until later today. Board at: Westminster St & Case Ave - Stop #56150 (northbound); Arkwright St & Geranium Ave - Stop #18117 (northbound).",
+      "affectedRoutes": [
+        "Route 71"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Westminster St & Case Ave",
+        "Arkwright St & Geranium Ave",
+        "Arkwright St & Lawson Ave",
+        "Arkwright St & Case Ave",
+        "Arkwright St & Magnolia Ave"
+      ],
+      "closedStopIds": [
+        "18111",
+        "18113",
+        "18115",
+        "18124",
+        "56143",
+        "56150",
+        "18117",
+        "18126",
+        "18128"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "18111",
+          "name": "Arkwright St & Case Ave",
+          "direction": "northbound"
+        },
+        {
+          "id": "18113",
+          "name": "Arkwright St & Lawson Ave",
+          "direction": "northbound"
+        },
+        {
+          "id": "18115",
+          "name": "Arkwright St & Magnolia Ave",
+          "direction": "northbound"
+        },
+        {
+          "id": "18124",
+          "name": "Arkwright St & Magnolia Ave",
+          "direction": "southbound"
+        },
+        {
+          "id": "56143",
+          "name": "Westminster St & York Ave",
+          "direction": "southbound"
+        },
+        {
+          "id": "56150"
+        },
+        {
+          "id": "18117"
+        },
+        {
+          "id": "18126"
+        },
+        {
+          "id": "18128"
+        }
+      ],
+      "riderAlternative": "Board at: Westminster St & Case Ave - Stop #56150 (northbound); Arkwright St & Geranium Ave - Stop #18117 (northbound)",
+      "detourDetails": "Northbound buses will travel east on Case to Arkwright, continue to Desoto, left on Desoto, left on Magnolia, right on Arkwright and resume regular route",
+      "activePeriod": {
+        "start": "2026-10-17T21:11:00.000Z",
+        "end": "2026-10-18T00:09:23.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/71",
+      "updatedAt": "2026-10-17T21:11:31.000Z",
+      "rawHeader": "Route 71 detoured off Arkwright between Magnolia and Case until later today",
+      "rawDescription": "For northbound Route 71 get on/off buses at:\r\nWestminster St & Case Ave - Stop #56150 (northbound)\r\nArkwright St & Geranium Ave - Stop #18117 (northbound)\r\n\nFor southbound Route 71 get on/off buses at:\r\nArkwright St & Lawson Ave - Stop #18126 (southbound)\r\nArkwright St & Case Ave - Stop #18128 (southbound)\r\n\nNorthbound buses will travel east on Case to Arkwright, continue to Desoto, left on Desoto, left on Magnolia, right on Arkwright and resume regular route\r\n\nSouthbound buses will travel south on Arkwright to Magnolia, right on Magnolia, left on Westminster, left on Jenks, right on Arkwright and resume regular route\r\n\nAffected stops:\r\nArkwright St & Case Ave - Stop #18111 (northbound)\r\nArkwright St & Lawson Ave - Stop #18113 (northbound)\r\nArkwright St & Magnolia Ave - Stop #18115 (northbound)\r\nArkwright St & Magnolia Ave - Stop #18124 (southbound)\r\nWestminster St & York Ave - Stop #56143 (southbound)"
     },
     {
       "id": "51062",
@@ -7211,7 +8127,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/827",
-      "updatedAt": "2026-10-17T05:00:01.000Z",
+      "updatedAt": "2026-10-17T20:30:01.000Z",
       "rawHeader": "Route 827 detoured off East River Road from Osborne Rd to 85th Ave from 4:00 PM to 10:00 PM on Sat Oct 17 due to Pumpkin Night in the Park",
       "rawDescription": "For northbound Route 827 get on/off buses at:\r\nEast River Rd & Logan Pkwy - Stop #12133 (northbound)\r\nNorthtown Transit Ctr Gate C - Stop #57167 (westbound)\r\n\nFor southbound Route 827 get on/off buses at:\r\nNorthtown Transit Ctr Gate C - Stop #57167 (westbound)\r\nEast River Rd & Osborne Rd NE - Stop #12128 (southbound)\r\n\nNorthbound buses will travel regular route on East River Rd to Osborne Rd, right on Osborne Rd, left on University Ave, right on 85th Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 85th Ave to University Ave, left on University Ave, right on Osborne Rd, left on East River Rd and resume regular route.\r\n\nAffected stops:\r\nEast River Rd & Osborne Rd NE - Stop #12129 (northbound)\r\nEast River Rd & Rickard Rd - Stop #12126 (northbound)\r\nEast River Rd & 77th Way - Stop #12125 (northbound)\r\nEast River Rd & Pearson Way - Stop #12122 (northbound)\r\nEast River Rd & 79th Way - Stop #12121 (northbound)\r\nEast River Rd & Liberty St - Stop #12117 (northbound)\r\nEast River Rd & Fairmont St - Stop #12113 (northbound)\r\nEast River Rd & Hugo St - Stop #12110 (northbound)\r\nEast River Rd & Larch St NW - Stop #10906 (northbound)\r\nEast River Rd & 84th Lane NE - Stop #10910 (northbound)\r\n85th Ave NW & Norway St NW - Stop #10928 (eastbound)\r\n85th Ave NW & Evergreen Blvd - Stop #10930 (eastbound)\r\n85th Ave NW & Cottonwood St - Stop #10932 (eastbound)\r\n85th Ave NE & Springbrook Dr NE - Stop #56934 (eastbound)\r\n85th Ave NW & Cottonwood St - Stop #53418 (westbound)\r\n85th Ave NW & Evergreen Blvd - Stop #10931 (westbound)\r\n85th Ave NW & #455 Ryerson Co - Stop #53761 (westbound)\r\n85th Ave NW & Norway St NW - Stop #10929 (westbound)\r\nEast River Rd & 85th Ave / 84th Lane - Stop #10911 (southbound)\r\nEast River Rd & Kimball St NE - Stop #10907 (southbound)\r\nEast River Rd & Hugo St - Stop #12111 (southbound)\r\nEast River Rd & Ely St - Stop #51258 (southbound)\r\nEast River Rd & Liberty St - Stop #12116 (southbound)\r\nEast River Rd & Longfellow St NE - Stop #12119 (southbound)\r\nEast River & Pearson Way/Craigbrook Way - Stop #12123 (southbound)\r\nEast River Rd & Stonybrook Way - Stop #12124 (southbound)\r\nEast River Rd & Rickard Rd - Stop #12127 (southbound)"
     },

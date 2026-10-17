@@ -4,35 +4,35 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 17 Oct 2026 19:15:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 22:09:56 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 71: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/71</link>
-      <guid isPermaLink="false">Metro Transit-54289-2026-10-17T17:08:26.000Z</guid>
-      <pubDate>Sat, 17 Oct 2026 17:08:26 GMT</pubDate>
+      <title>[Critical] Route 5: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/5</link>
+      <guid isPermaLink="false">Metro Transit-54302-2026-10-17T21:21:01.000Z</guid>
+      <pubDate>Sat, 17 Oct 2026 21:21:01 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 71</category>
-      <description>Route 71 trips departing Concord Exchange &amp; Armour Ave at 12:17 PM and departing McMenemy St &amp; Roselawn Ave at 1:11 PM canceled today</description>
+      <category>Route 5</category>
+      <description>Southbound Route 5 trip departing Brooklyn Ctr Transit Ctr at 3:54 PM will start from Fremont &amp; Dowling. Previous stops missed due to maintenance</description>
     </item>
     <item>
-      <title>[Critical] Route 215: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/215</link>
-      <guid isPermaLink="false">Metro Transit-54293-2026-10-17T18:36:09.000Z</guid>
-      <pubDate>Sat, 17 Oct 2026 18:36:09 GMT</pubDate>
+      <title>[Critical] Route 11: Northbound 4:23 PM Trip Canceled (Nicollet Ave S &amp; 46th St E)</title>
+      <link>https://www.metrotransit.org/route/11</link>
+      <guid isPermaLink="false">Metro Transit-54303-2026-10-17T22:02:57.000Z</guid>
+      <pubDate>Sat, 17 Oct 2026 22:02:57 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 215</category>
-      <description>Route 215 trips departing Maplewood Mall Transit Center &amp; Gate A at 1:16 PM and departing Sun Ray Transit Center &amp; Gate E at 1:44 PM canceled today due to collision</description>
+      <category>Route 11</category>
+      <description>Northbound Route 11 trip departing Nicollet Ave S &amp; 46th St E at 4:23 PM canceled today due to collision</description>
     </item>
     <item>
-      <title>[Critical] Route 219: 1:16 PM Trip Canceled (Sun Ray Transit Center &amp; Gate B)</title>
-      <link>https://www.metrotransit.org/route/219</link>
-      <guid isPermaLink="false">Metro Transit-54294-2026-10-17T18:53:20.000Z</guid>
-      <pubDate>Sat, 17 Oct 2026 18:53:20 GMT</pubDate>
+      <title>[Critical] Route 62: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/62</link>
+      <guid isPermaLink="false">Metro Transit-54300-2026-10-17T20:47:07.000Z</guid>
+      <pubDate>Sat, 17 Oct 2026 20:47:07 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 219</category>
-      <description>Route 219 trip departing Sun Ray Transit Center &amp; Gate B at 1:16 PM canceled today due to collision</description>
+      <category>Route 62</category>
+      <description>Northbound Route 62 trip departing Livingston Ave &amp; Butler Ave / Orme St at 3:35 PM will start from University &amp; Rice. Previous stops missed</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -566,6 +566,15 @@
       <description>Route 71K detoured off Little Canada Rd from Co Rd C to Rice St until further notice due to construction. Board at: Little Canada Rd &amp; Centerville Rd - Stop #49697 (westbound); Temporary stop on Co Rd C just before Jessica Court (westbound); Rice St &amp; Marketplace S Entrance - Stop #46980 (northbound). | Action: Board at: Little Canada Rd &amp; Centerville Rd - Stop #49697 (westbound); Temporary stop on Co Rd C just before Jessica Court (westbound); Rice St &amp; Marketplace S Entrance - Stop #46980 (northbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 71: Detour via Westminster St &amp; Case Ave</title>
+      <link>https://www.metrotransit.org/route/71</link>
+      <guid isPermaLink="false">Metro Transit-54301-2026-10-17T21:11:31.000Z</guid>
+      <pubDate>Sat, 17 Oct 2026 21:11:31 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 71</category>
+      <description>Route 71 detoured off Arkwright between Magnolia and Case until later today. Board at: Westminster St &amp; Case Ave - Stop #56150 (northbound); Arkwright St &amp; Geranium Ave - Stop #18117 (northbound). | Action: Board at: Westminster St &amp; Case Ave - Stop #56150 (northbound); Arkwright St &amp; Geranium Ave - Stop #18117 (northbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 72: Detour via 5th St &amp; Jackson St</title>
       <link>https://www.metrotransit.org/route/72</link>
       <guid isPermaLink="false">Metro Transit-51062-2026-08-11T13:27:50.000Z</guid>
@@ -919,8 +928,8 @@
     <item>
       <title>[Moderate] Route 827: Detour via East River Rd &amp; Logan Pkwy</title>
       <link>https://www.metrotransit.org/route/827</link>
-      <guid isPermaLink="false">Metro Transit-54134-2026-10-17T05:00:01.000Z</guid>
-      <pubDate>Sat, 17 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54134-2026-10-17T20:30:01.000Z</guid>
+      <pubDate>Sat, 17 Oct 2026 20:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 827</category>
       <description>Route 827 detoured off East River Road from Osborne Rd to 85th Ave from 4:00 PM to 10:00 PM on Sat Oct 17 due to Pumpkin Night in the Park. Board at: East River Rd &amp; Logan Pkwy - Stop #12133 (northbound); Northtown Transit Ctr Gate C - Stop #57167 (westbound). | Action: Board at: East River Rd &amp; Logan Pkwy - Stop #12133 (northbound); Northtown Transit Ctr Gate C - Stop #57167 (westbound)</description>
