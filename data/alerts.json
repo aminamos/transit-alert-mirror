@@ -1,180 +1,37 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-17T13:35:49.949Z",
-    "totalAlerts": 107,
-    "criticalCount": 3,
-    "moderateCount": 100,
+    "generatedAt": "2026-10-17T16:58:37.226Z",
+    "totalAlerts": 106,
+    "criticalCount": 1,
+    "moderateCount": 101,
     "minorCount": 4,
-    "affectedRoutesCount": 78,
+    "affectedRoutesCount": 76,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "54285",
+      "id": "54288",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 2: Eastbound 7:29 AM Trip Canceled (Franklin Ave W & Hennepin Ave S)",
-      "summary": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 7:29 AM canceled today",
+      "title": "Route 3: Eastbound 10:00 AM Trip Canceled (Washington Ave & 10th Ave N)",
+      "summary": "Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 10:00 AM canceled today due to traffic",
       "affectedRoutes": [
-        "Route 2"
+        "Route 3"
       ],
       "direction": "Eastbound",
       "intersections": [],
-      "closedStopIds": [
-        "57734",
-        "57619",
-        "16057",
-        "16112",
-        "16116",
-        "16154",
-        "50670",
-        "56700",
-        "56702",
-        "51532",
-        "41243",
-        "13209",
-        "13219",
-        "13221",
-        "13223",
-        "13225",
-        "13235",
-        "13243",
-        "13261",
-        "13269",
-        "13275"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "57734"
-        },
-        {
-          "id": "57619"
-        },
-        {
-          "id": "16057"
-        },
-        {
-          "id": "16112"
-        },
-        {
-          "id": "16116"
-        },
-        {
-          "id": "16154"
-        },
-        {
-          "id": "50670"
-        },
-        {
-          "id": "56700"
-        },
-        {
-          "id": "56702"
-        },
-        {
-          "id": "51532"
-        },
-        {
-          "id": "41243"
-        },
-        {
-          "id": "13209"
-        },
-        {
-          "id": "13219"
-        },
-        {
-          "id": "13221"
-        },
-        {
-          "id": "13223"
-        },
-        {
-          "id": "13225"
-        },
-        {
-          "id": "13235"
-        },
-        {
-          "id": "13243"
-        },
-        {
-          "id": "13261"
-        },
-        {
-          "id": "13269"
-        },
-        {
-          "id": "13275"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-17T13:10:00.000Z",
-        "end": "2026-10-17T14:09:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-10-17T13:11:14.000Z",
-      "rawHeader": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 7:29 AM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "54284",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 17: 7:34 AM Trip Canceled (Central Ave NE & 26th Ave NE)",
-      "summary": "Route 17 trip departing Central Ave NE & 26th Ave NE at 7:34 AM canceled today",
-      "affectedRoutes": [
-        "Route 17"
-      ],
-      "direction": "All",
-      "intersections": [
-        "Route 17 trip departing Central Ave NE & 26th Ave N"
-      ],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-17T13:10:00.000Z",
-        "end": "2026-10-17T14:37:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
+      "activePeriod": {},
+      "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-10-17T13:10:30.000Z",
-      "rawHeader": "Route 17 trip departing Central Ave NE & 26th Ave NE at 7:34 AM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "54286",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 30: Westbound 7:37 AM Trip Canceled (Westgate Station - Gate B)",
-      "summary": "Westbound Route 30 trip departing Westgate Station - Gate B at 7:37 AM canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 30"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-17T13:11:00.000Z",
-        "end": "2026-10-17T14:17:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-10-17T13:11:46.000Z",
-      "rawHeader": "Westbound Route 30 trip departing Westgate Station - Gate B at 7:37 AM canceled today due to mechanical issue",
+      "url": "https://www.metrotransit.org/route/3",
+      "updatedAt": "2026-10-17T16:56:01.000Z",
+      "rawHeader": "Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 10:00 AM canceled today due to traffic",
       "rawDescription": ""
     },
     {
@@ -296,16 +153,19 @@
       "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [
+        "51405",
         "53280",
         "51436",
         "51437",
-        "51405",
+        "53279",
         "51420",
         "51421",
-        "51422",
-        "53279"
+        "51422"
       ],
       "closedStopDetails": [
+        {
+          "id": "51405"
+        },
         {
           "id": "53280"
         },
@@ -316,7 +176,7 @@
           "id": "51437"
         },
         {
-          "id": "51405"
+          "id": "53279"
         },
         {
           "id": "51420"
@@ -326,9 +186,6 @@
         },
         {
           "id": "51422"
-        },
-        {
-          "id": "53279"
         }
       ],
       "riderAlternative": null,
@@ -904,12 +761,12 @@
         "56923",
         "17815",
         "51212",
-        "73",
         "66",
         "68",
         "69",
         "70",
-        "72"
+        "72",
+        "73"
       ],
       "closedStopDetails": [
         {
@@ -977,9 +834,6 @@
           "id": "51212"
         },
         {
-          "id": "73"
-        },
-        {
           "id": "66"
         },
         {
@@ -993,6 +847,9 @@
         },
         {
           "id": "72"
+        },
+        {
+          "id": "73"
         }
       ],
       "riderAlternative": "Board at: Chicago & 56th St Station - Stop #775 (northbound); Temporary stop on Portland Ave & 52nd St (northbound); Temporary stop on Portland Ave & 48th St (northbound)",
@@ -3202,6 +3059,59 @@
       "updatedAt": "2026-09-14T16:19:38.000Z",
       "rawHeader": "Route 62 detoured off Rice St from Como Ave to Maryland Ave beginning Mon Apr 13 at 4:00 AM until further notice due to construction",
       "rawDescription": "Updated northbound detour routing 9/14 11:20 am.\r\n\nFor northbound Route 62 get on/off buses at:\r\nRice St & Charles Ave - Stop #10488 (northbound)\r\nComo Ave & Rice St - Stop #49895 (westbound)\r\nTemporary stop on Atwater St & Galtier St (eastbound)\r\nTemporary stop on Galtier St & Front Ave (northbound)\r\nTemporary stop on Rice St & Orange Ave (northbound)\r\nRice St & Ivy Ave - Stop #10507 (northbound)\r\n\nFor southbound Route 62 get on/off buses at:\r\nRice St & Orange Ave - Stop #10470 (southbound)\r\nTemporary stop on Galtier St & Cook Ave (southbound)\r\nTemporary stop on Galtier St & Front Ave (southbound)\r\nTemporary stop on Galtier St & Atwater St (southbound)\r\nComo Ave & Rice St - Stop #973 (eastbound)\r\nRice St & Charles Ave - Stop #974 (southbound)\r\n\nNorthbound buses will travel regular route on Rice St to Como Ave, left on Como, right on Western Ave, right on Atwater St, left on Galtier St, right on Maryland Ave, left on Rice St, and resume regular route.\r\n\nSouthbound buses will travel regular route on Rice St to Maryland Ave, right on Maryland Ave, left on Galtier St, right on Atwater St, left on Western Ave, left on Como Ave, right on Rice St, and resume regular route.\r\n\nAffected stops:\r\nRice St & Como Ave - Stop #10489 (northbound)\r\nRice St & Pennsylvania Ave - Stop #10490 (northbound)\r\nRice St & Sycamore St - Stop #10491 (northbound)\r\nRice St & Manitoba Ave - Stop #10494 (northbound)\r\nRice St & Front Ave - Stop #10496 (northbound)\r\nRice St & Lawson Ave - Stop #10498 (northbound)\r\nRice St & Geranium Ave - Stop #10501 (northbound)\r\nRice St & Maryland Ave - Stop #10503 (northbound)\r\nRice St & Maryland Ave - Stop #10471 (southbound)\r\nRice St & Geranium Ave - Stop #10473 (southbound)\r\nRice St & Lawson Ave - Stop #10476 (southbound)\r\nRice St & Litchfield St - Stop #10479 (southbound)\r\nRice St & Milford St - Stop #10480 (southbound)\r\nRice St & Sycamore St - Stop #10482 (southbound)\r\nRice St & Pennsylvania Ave - Stop #10483 (southbound)\r\nRice St & Como Ave - Stop #10484 (southbound)"
+    },
+    {
+      "id": "54287",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 62: Detour via Wabasha St & Congress St",
+      "summary": "Route 62 detoured off Wabasha between Cesar Chavez St and Congress St until later today due to special event. Board at: Wabasha St & Congress St - Stop #287 (northbound); Wabasha St & Torre de San Miguel - Stop #2781 (northbound).",
+      "affectedRoutes": [
+        "Route 62"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Wabasha St & Congress St",
+        "Wabasha St & Torre de San Miguel - St",
+        "Wabasha St & Winifred St",
+        "Wabasha St & Cesar Chavez St"
+      ],
+      "closedStopIds": [
+        "289",
+        "299",
+        "2781",
+        "42007"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "289",
+          "name": "Wabasha St & Cesar Chavez St",
+          "direction": "northbound"
+        },
+        {
+          "id": "299",
+          "name": "Wabasha St & Congress St",
+          "direction": "southbound"
+        },
+        {
+          "id": "2781"
+        },
+        {
+          "id": "42007"
+        }
+      ],
+      "riderAlternative": "Board at: Wabasha St & Congress St - Stop #287 (northbound); Wabasha St & Torre de San Miguel - Stop #2781 (northbound)",
+      "detourDetails": "Northbound buses will travel on Wabasha to Congress, right on Congress, left on Cesar Chavez and resume regular roue",
+      "activePeriod": {
+        "start": "2026-10-17T13:43:00.000Z",
+        "end": "2026-10-17T18:57:23.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/62",
+      "updatedAt": "2026-10-17T13:44:03.000Z",
+      "rawHeader": "Route 62 detoured off Wabasha between Cesar Chavez St and Congress St until later today due to special event",
+      "rawDescription": "For northbound Route 62 get on/off buses at:\r\nWabasha St & Congress St - Stop #287 (northbound)\r\nWabasha St & Torre de San Miguel - Stop #2781 (northbound)\r\n\nFor southbound Route 62 get on/off buses at:\r\nWabasha St & Torre de San Miguel - Stop #42007 (southbound)\r\nWabasha St & Winifred St - Stop #300 (southbound)\r\n\nNorthbound buses will travel on Wabasha to Congress, right on Congress, left on Cesar Chavez and resume regular roue\r\n\nSouthbound buses will travel south on Wabasha to Cesar Chavez, continue to Congress, right on Congress, left on Wabasha and resume regular route\r\n\nAffected stops:\r\nWabasha St & Cesar Chavez St - Stop #289 (northbound)\r\nWabasha St & Congress St - Stop #299 (southbound)"
     },
     {
       "id": "49835",

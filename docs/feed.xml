@@ -4,35 +4,17 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 17 Oct 2026 13:35:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 16:58:37 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 2: Eastbound 7:29 AM Trip Canceled (Franklin Ave W &amp; Hennepin Ave S)</title>
-      <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-54285-2026-10-17T13:11:14.000Z</guid>
-      <pubDate>Sat, 17 Oct 2026 13:11:14 GMT</pubDate>
+      <title>[Critical] Route 3: Eastbound 10:00 AM Trip Canceled (Washington Ave &amp; 10th Ave N)</title>
+      <link>https://www.metrotransit.org/route/3</link>
+      <guid isPermaLink="false">Metro Transit-54288-2026-10-17T16:56:01.000Z</guid>
+      <pubDate>Sat, 17 Oct 2026 16:56:01 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 2</category>
-      <description>Eastbound Route 2 trip departing Franklin Ave W &amp; Hennepin Ave S at 7:29 AM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 17: 7:34 AM Trip Canceled (Central Ave NE &amp; 26th Ave NE)</title>
-      <link>https://www.metrotransit.org/route/17</link>
-      <guid isPermaLink="false">Metro Transit-54284-2026-10-17T13:10:30.000Z</guid>
-      <pubDate>Sat, 17 Oct 2026 13:10:30 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 17</category>
-      <description>Route 17 trip departing Central Ave NE &amp; 26th Ave NE at 7:34 AM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 30: Westbound 7:37 AM Trip Canceled (Westgate Station - Gate B)</title>
-      <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-54286-2026-10-17T13:11:46.000Z</guid>
-      <pubDate>Sat, 17 Oct 2026 13:11:46 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 30</category>
-      <description>Westbound Route 30 trip departing Westgate Station - Gate B at 7:37 AM canceled today due to mechanical issue</description>
+      <category>Route 3</category>
+      <description>Eastbound Route 3 trip departing Washington Ave &amp; 10th Ave N at 10:00 AM canceled today due to traffic</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -420,6 +402,15 @@
       <category>Moderate</category>
       <category>Route 62</category>
       <description>Route 62 detoured off Rice St from Como Ave to Maryland Ave beginning Mon Apr 13 at 4:00 AM until further notice due to construction. Board at: Rice St &amp; Charles Ave - Stop #10488 (northbound); Como Ave &amp; Rice St - Stop #49895 (westbound); Temporary stop on Atwater St &amp; Galtier St (eastbound). | Action: Board at: Rice St &amp; Charles Ave - Stop #10488 (northbound); Como Ave &amp; Rice St - Stop #49895 (westbound); Temporary stop on Atwater St &amp; Galtier St (eastbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 62: Detour via Wabasha St &amp; Congress St</title>
+      <link>https://www.metrotransit.org/route/62</link>
+      <guid isPermaLink="false">Metro Transit-54287-2026-10-17T13:44:03.000Z</guid>
+      <pubDate>Sat, 17 Oct 2026 13:44:03 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 62</category>
+      <description>Route 62 detoured off Wabasha between Cesar Chavez St and Congress St until later today due to special event. Board at: Wabasha St &amp; Congress St - Stop #287 (northbound); Wabasha St &amp; Torre de San Miguel - Stop #2781 (northbound). | Action: Board at: Wabasha St &amp; Congress St - Stop #287 (northbound); Wabasha St &amp; Torre de San Miguel - Stop #2781 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 63: Stop Closed at Grand Ave &amp; Victoria St</title>
