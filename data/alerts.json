@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-17T16:58:37.226Z",
-    "totalAlerts": 106,
-    "criticalCount": 1,
+    "generatedAt": "2026-10-17T19:15:54.263Z",
+    "totalAlerts": 108,
+    "criticalCount": 3,
     "moderateCount": 101,
     "minorCount": 4,
     "affectedRoutesCount": 76,
@@ -12,26 +12,83 @@
   },
   "alerts": [
     {
-      "id": "54288",
+      "id": "54289",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 3: Eastbound 10:00 AM Trip Canceled (Washington Ave & 10th Ave N)",
-      "summary": "Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 10:00 AM canceled today due to traffic",
+      "title": "Route 71: Service Canceled",
+      "summary": "Route 71 trips departing Concord Exchange & Armour Ave at 12:17 PM and departing McMenemy St & Roselawn Ave at 1:11 PM canceled today",
       "affectedRoutes": [
-        "Route 3"
+        "Route 71"
       ],
-      "direction": "Eastbound",
+      "direction": "Both Directions",
+      "intersections": [
+        "17 PM and departing McMenemy St & Roselawn Ave"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-17T17:17:00.000Z",
+        "end": "2026-10-17T19:48:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/71",
+      "updatedAt": "2026-10-17T17:08:26.000Z",
+      "rawHeader": "Route 71 trips departing Concord Exchange & Armour Ave at 12:17 PM and departing McMenemy St & Roselawn Ave at 1:11 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "54293",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 215: Service Canceled",
+      "summary": "Route 215 trips departing Maplewood Mall Transit Center & Gate A at 1:16 PM and departing Sun Ray Transit Center & Gate E at 1:44 PM canceled today due to collision",
+      "affectedRoutes": [
+        "Route 215"
+      ],
+      "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
-      "activePeriod": {},
-      "cause": "OTHER_CAUSE",
+      "activePeriod": {
+        "start": "2026-10-17T18:35:00.000Z",
+        "end": "2026-10-17T20:08:00.000Z"
+      },
+      "cause": "ACCIDENT",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-10-17T16:56:01.000Z",
-      "rawHeader": "Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 10:00 AM canceled today due to traffic",
+      "url": "https://www.metrotransit.org/route/215",
+      "updatedAt": "2026-10-17T18:36:09.000Z",
+      "rawHeader": "Route 215 trips departing Maplewood Mall Transit Center & Gate A at 1:16 PM and departing Sun Ray Transit Center & Gate E at 1:44 PM canceled today due to collision",
+      "rawDescription": ""
+    },
+    {
+      "id": "54294",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 219: 1:16 PM Trip Canceled (Sun Ray Transit Center & Gate B)",
+      "summary": "Route 219 trip departing Sun Ray Transit Center & Gate B at 1:16 PM canceled today due to collision",
+      "affectedRoutes": [
+        "Route 219"
+      ],
+      "direction": "All",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-17T18:53:00.000Z",
+        "end": "2026-10-17T20:06:00.000Z"
+      },
+      "cause": "ACCIDENT",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/219",
+      "updatedAt": "2026-10-17T18:53:20.000Z",
+      "rawHeader": "Route 219 trip departing Sun Ray Transit Center & Gate B at 1:16 PM canceled today due to collision",
       "rawDescription": ""
     },
     {
@@ -153,19 +210,16 @@
       "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [
-        "51405",
         "53280",
         "51436",
         "51437",
-        "53279",
+        "51405",
         "51420",
         "51421",
-        "51422"
+        "51422",
+        "53279"
       ],
       "closedStopDetails": [
-        {
-          "id": "51405"
-        },
         {
           "id": "53280"
         },
@@ -176,7 +230,7 @@
           "id": "51437"
         },
         {
-          "id": "53279"
+          "id": "51405"
         },
         {
           "id": "51420"
@@ -186,6 +240,9 @@
         },
         {
           "id": "51422"
+        },
+        {
+          "id": "53279"
         }
       ],
       "riderAlternative": null,
@@ -761,12 +818,12 @@
         "56923",
         "17815",
         "51212",
+        "73",
         "66",
         "68",
         "69",
         "70",
-        "72",
-        "73"
+        "72"
       ],
       "closedStopDetails": [
         {
@@ -834,6 +891,9 @@
           "id": "51212"
         },
         {
+          "id": "73"
+        },
+        {
           "id": "66"
         },
         {
@@ -847,9 +907,6 @@
         },
         {
           "id": "72"
-        },
-        {
-          "id": "73"
         }
       ],
       "riderAlternative": "Board at: Chicago & 56th St Station - Stop #775 (northbound); Temporary stop on Portland Ave & 52nd St (northbound); Temporary stop on Portland Ave & 48th St (northbound)",
@@ -3104,7 +3161,7 @@
       "detourDetails": "Northbound buses will travel on Wabasha to Congress, right on Congress, left on Cesar Chavez and resume regular roue",
       "activePeriod": {
         "start": "2026-10-17T13:43:00.000Z",
-        "end": "2026-10-17T18:57:23.000Z"
+        "end": "2026-10-17T21:14:23.000Z"
       },
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
