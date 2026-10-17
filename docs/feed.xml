@@ -4,35 +4,17 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Fri, 16 Oct 2026 23:26:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 04:06:53 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 30: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-54255-2026-10-16T17:34:01.000Z</guid>
-      <pubDate>Fri, 16 Oct 2026 17:34:01 GMT</pubDate>
+      <title>[Critical] METRO B Line: Westbound 11:07 PM Trip Canceled (Union Depot &amp; Gate A1)</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-54280-2026-10-17T03:50:57.000Z</guid>
+      <pubDate>Sat, 17 Oct 2026 03:50:57 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 30</category>
-      <description>Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 54: Westbound 6:06 PM Trip Canceled (Maplewood Mall Transit Center &amp; Gate B)</title>
-      <link>https://www.metrotransit.org/route/54</link>
-      <guid isPermaLink="false">Metro Transit-54272-2026-10-16T23:09:16.000Z</guid>
-      <pubDate>Fri, 16 Oct 2026 23:09:16 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 54</category>
-      <description>Westbound Route 54 trip departing Maplewood Mall Transit Center &amp; Gate B at 6:06 PM canceled today due to maintenance work</description>
-    </item>
-    <item>
-      <title>[Critical] Route 71: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/71</link>
-      <guid isPermaLink="false">Metro Transit-54254-2026-10-16T17:08:00.000Z</guid>
-      <pubDate>Fri, 16 Oct 2026 17:08:00 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 71</category>
-      <description>Route 71 trip departing Inver Hills College &amp; Shelter at 12:38 PM and three other trips canceled today due to mechanical issue</description>
+      <category>METRO B Line</category>
+      <description>Westbound B Line trip departing Union Depot &amp; Gate A1 at 11:07 PM canceled today due to medical emergency</description>
     </item>
     <item>
       <title>[Critical] Route 72: Service Canceled</title>
@@ -42,33 +24,6 @@
       <category>Critical</category>
       <category>Route 72</category>
       <description>Route 72 trip departing Sun Ray Transit Center &amp; Gate D at 4:48 PM and five other trips canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 802: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/802</link>
-      <guid isPermaLink="false">Metro Transit-54252-2026-10-16T23:24:01.000Z</guid>
-      <pubDate>Fri, 16 Oct 2026 23:24:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 802</category>
-      <description>Route 802 trips departing Northtown Transit Ctr Gate E at 3:34 PM and departing Anoka Tech College &amp; Main Entrance at 4:42 PM canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 805: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/805</link>
-      <guid isPermaLink="false">Metro Transit-54253-2026-10-16T16:04:01.000Z</guid>
-      <pubDate>Fri, 16 Oct 2026 16:04:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 805</category>
-      <description>Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 888: Northbound 4:39 PM Trip Canceled (2nd Ave S &amp; 11th St - Stop Group G)</title>
-      <link>https://www.metrotransit.org/route/888</link>
-      <guid isPermaLink="false">Metro Transit-54269-2026-10-16T21:53:49.000Z</guid>
-      <pubDate>Fri, 16 Oct 2026 21:53:49 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 888</category>
-      <description>Northbound Route 888 trip departing 2nd Ave S &amp; 11th St - Stop Group G at 4:39 PM canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -973,11 +928,20 @@
     <item>
       <title>[Minor] METRO Blue Line: Service Advisory</title>
       <link>https://www.metrotransit.org/route/blue</link>
-      <guid isPermaLink="false">Metro Transit-54246-2026-10-16T14:39:00.000Z</guid>
-      <pubDate>Fri, 16 Oct 2026 14:39:00 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54246-2026-10-17T00:30:02.000Z</guid>
+      <pubDate>Sat, 17 Oct 2026 00:30:02 GMT</pubDate>
       <category>Minor</category>
       <category>METRO Blue Line</category>
       <description>Starting at 8 p.m. Friday, Oct. 16, METRO Blue Line customers may experience slight delays between Airport-Terminal 2 and Mall of America stations due to single-track service going into effect in that area.</description>
+    </item>
+    <item>
+      <title>[Minor] METRO Blue Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/blue</link>
+      <guid isPermaLink="false">Metro Transit-54279-2026-10-17T04:06:01.000Z</guid>
+      <pubDate>Sat, 17 Oct 2026 04:06:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>METRO Blue Line</category>
+      <description>Northbound Blue Line trip departing VA Medical Center Station at 9:41 PM delayed approximately 15 minutes today</description>
     </item>
     <item>
       <title>[Minor] Route 14 Service Advisory: New Bus Stops Have Been Added at Bloomington Ave &amp; 22nd St</title>

@@ -2,99 +2,34 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-112-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-7-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-108-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-100-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-5-lightgrey)](#-minor-advisories)
+[![Minor](https://img.shields.io/badge/Minor-6-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-16T23:26:08.994Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-17T04:06:53.357Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (3) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (1) • **Route 14** (3) • **Route 18** (5) • **Route 22** (5) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (4) • **Route 805** (3) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (3)
+**METRO A Line** (2) • **METRO B Line** (1) • **METRO Blue Line** (4) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (1) • **Route 14** (3) • **Route 18** (5) • **Route 22** (5) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (2) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 30: Service Canceled
+### 🚨 METRO B Line: Westbound 11:07 PM Trip Canceled (Union Depot & Gate A1)
 
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 56 PM
-departing Knox Ave N & Golden Valley Rd; 54 PM
-departing Knox Ave N & Golden Valley Rd
-
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today due to mechanical issue
-
-```text
-Affected eastbound trips:
-departing Knox Ave N & Golden Valley Rd at 1:56 PM
-departing Knox Ave N & Golden Valley Rd at 3:54 PM
-departing Knox Ave N & Golden Valley Rd at 5:56 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM
-
-Affected westbound trips:
-departing Westgate Station - Gate B at 1:04 PM
-departing Westgate Station - Gate B at 3:04 PM
-departing Westgate Station - Gate B at 5:04 PM
-departing Westgate Station - Gate B at 7:05 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 54: Westbound 6:06 PM Trip Canceled (Maplewood Mall Transit Center & Gate B)
-
-- **Affected Routes**: `Route 54`
+- **Affected Routes**: `METRO B Line`
 - **Direction**: Westbound
 - **Severity**: `Critical`
 
-**Summary**: Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 6:06 PM canceled today due to maintenance work
+**Summary**: Westbound B Line trip departing Union Depot & Gate A1 at 11:07 PM canceled today due to medical emergency
 
-[Official Agency Advisory](https://www.metrotransit.org/route/54)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 6:06 PM canceled today due to maintenance work
-
-</details>
-
----
-
-### 🚨 Route 71: Service Canceled
-
-- **Affected Routes**: `Route 71`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
+[Official Agency Advisory](https://www.metrotransit.org/route/bline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today due to mechanical issue
-
-```text
-Affected northbound trips:
-departing Inver Hills College & Shelter at 12:38 PM
-departing Inver Hills College & Shelter at 3:38 PM
-
-Affected southbound trips:
-departing Market Place Dr & The Marketplace Ctr at 2:12 PM
-departing Market Place Dr & The Marketplace Ctr at 5:13 PM
-```
+**Header**: Westbound B Line trip departing Union Depot & Gate A1 at 11:07 PM canceled today due to medical emergency
 
 </details>
 
@@ -129,79 +64,6 @@ departing Sun Ray Transit Center & Gate D at 4:48 PM
 departing Sun Ray Transit Center & Gate D at 6:51 PM
 departing Sun Ray Transit Center & Gate D at 8:51 PM
 ```
-
-</details>
-
----
-
-### 🚨 Route 802: Service Canceled
-
-- **Affected Routes**: `Route 802`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 802 trips departing Northtown Transit Ctr Gate E at 3:34 PM and departing Anoka Tech College & Main Entrance at 4:42 PM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/802)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 802 trips departing Northtown Transit Ctr Gate E at 3:34 PM and departing Anoka Tech College & Main Entrance at 4:42 PM canceled today due to mechanical issue
-
-</details>
-
----
-
-### 🚨 Route 805: Service Canceled
-
-- **Affected Routes**: `Route 805`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing 1st Ave S & Monroe St; 38 PM
-departing 1st Ave S & Monroe St; 36 PM
-departing 1st Ave S & Monroe St
-
-**Summary**: Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today due to mechanical issue
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate D at 11:34 AM
-departing Northtown Transit Ctr Gate D at 1:34 PM
-departing Northtown Transit Ctr Gate D at 3:34 PM
-departing Northtown Transit Ctr Gate D at 5:34 PM
-
-Affected southbound trips:
-departing 1st Ave S & Monroe St at 12:38 PM
-departing 1st Ave S & Monroe St at 2:36 PM
-departing 1st Ave S & Monroe St at 4:36 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 888: Northbound 4:39 PM Trip Canceled (2nd Ave S & 11th St - Stop Group G)
-
-- **Affected Routes**: `Route 888`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Route 888 trip departing 2nd Ave S & 11th St - Stop Group G at 4:39 PM canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/888)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 888 trip departing 2nd Ave S & 11th St - Stop Group G at 4:39 PM canceled today due to maintenance work
 
 </details>
 
@@ -308,7 +170,7 @@ Due to mechanical issues, both elevators at Franklin Ave Station are unavailable
 - **Affected Routes**: `METRO Blue Line`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Closed Stops**: Stop #51405, Stop #51437, Stop #51436, Stop #53280, Stop #53279, Stop #51420, Stop #51421, Stop #51422
+- **Closed Stops**: Stop #51405, Stop #51436, Stop #51437, Stop #53280, Stop #53279, Stop #51422, Stop #51420, Stop #51421
 
 **Summary**: UPDATE: Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Saturday, Oct. 17 at 3 a.m.
 
@@ -4592,7 +4454,7 @@ LaFayette Rd & Grove St - Stop #11923 (southbound)
 - **Affected Routes**: `METRO Blue Line`
 - **Direction**: Both Directions
 - **Severity**: `Minor`
-- **Closed Stops**: Stop #53280, Stop #51436, Stop #51421, Stop #53279
+- **Closed Stops**: Stop #51436, Stop #53280, Stop #53279, Stop #51421
 
 **Summary**: Starting at 8 p.m. Friday, Oct. 16, METRO Blue Line customers may experience slight delays between Airport-Terminal 2 and Mall of America stations due to single-track service going into effect in that area.
 
@@ -4616,6 +4478,47 @@ Bloomington Central Station (northbound)
 American Blvd Station (northbound)
 American Blvd Station (southbound)
 Bloomington Central Station (southbound)
+```
+
+</details>
+
+---
+
+### ℹ️ METRO Blue Line: Service Advisory
+
+- **Affected Routes**: `METRO Blue Line`
+- **Direction**: Northbound
+- **Severity**: `Minor`
+- **Corridors & Intersections**: VA Medical Center Station
+50th St & Minnehaha Park St
+- **Closed Stops**: Stop #51428, Stop #51429, Stop #51430, Stop #51431, Stop #51432, Stop #56330, Stop #56332, Stop #56333 *(+5 more)*
+
+**Summary**: Northbound Blue Line trip departing VA Medical Center Station at 9:41 PM delayed approximately 15 minutes today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/blue)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Blue Line trip departing VA Medical Center Station at 9:41 PM delayed approximately 15 minutes today
+
+```text
+Affected direction: Northbound
+
+Affected stops:
+VA Medical Center Station
+50th St / Minnehaha Park Station
+46th St Station
+38th St Station
+Lake St - Midtown Station
+Franklin Ave Station
+Cedar Riverside Station
+U.S. Bank Stadium Station
+Government Plaza Station
+Nicollet Mall Station
+Warehouse District Hennepin Ave Station
+Target Field Station Platform 1
+Target Field Station Platform 2
 ```
 
 </details>
