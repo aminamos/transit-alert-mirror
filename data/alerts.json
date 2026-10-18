@@ -1,574 +1,67 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-18T20:33:16.347Z",
-    "totalAlerts": 105,
-    "criticalCount": 3,
+    "generatedAt": "2026-10-18T22:58:02.062Z",
+    "totalAlerts": 104,
+    "criticalCount": 2,
     "moderateCount": 98,
     "minorCount": 4,
-    "affectedRoutesCount": 78,
+    "affectedRoutesCount": 77,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "54322",
+      "id": "54324",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO C Line: Northbound 2:49 PM Trip Canceled (7th St & Park Station)",
-      "summary": "Northbound C Line trip departing 7th St & Park Station at 2:49 PM canceled today due to police activity",
+      "title": "METRO D Line: Southbound 4:03 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)",
+      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 4:03 PM canceled today due to traffic",
       "affectedRoutes": [
-        "METRO C Line"
+        "METRO D Line"
       ],
-      "direction": "Northbound",
-      "intersections": [
-        "Northbound C Line trip departing 7th St & Park St"
-      ],
+      "direction": "Southbound",
+      "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-18T20:17:00.000Z",
-        "end": "2026-10-18T21:19:00.000Z"
+        "start": "2026-10-18T21:42:00.000Z",
+        "end": "2026-10-18T23:16:00.000Z"
       },
-      "cause": "POLICE_ACTIVITY",
+      "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/cline",
-      "updatedAt": "2026-10-18T20:21:04.000Z",
-      "rawHeader": "Northbound C Line trip departing 7th St & Park Station at 2:49 PM canceled today due to police activity",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-10-18T21:42:53.000Z",
+      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 4:03 PM canceled today due to traffic",
       "rawDescription": ""
     },
     {
-      "id": "54323",
+      "id": "54326",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 68, Route 68R: Service Advisory",
-      "summary": "Northbound Route 68R trip departing South St & 5th Ave S at 3:05 PM will operate from Cesar Chavez & State St at 3:33 PM today",
+      "title": "Route 323: Service Canceled",
+      "summary": "Route 323 trip departing Sun Ray Transit Center & Gate C at 6:25 PM and eight other trips canceled today",
       "affectedRoutes": [
-        "Route 68",
-        "Route 68R"
+        "Route 323"
       ],
-      "direction": "Northbound",
+      "direction": "Both Directions",
       "intersections": [],
-      "closedStopIds": [
-        "10116",
-        "4988",
-        "50101",
-        "47054",
-        "47055",
-        "43286",
-        "43287",
-        "43288",
-        "42445",
-        "425",
-        "426",
-        "41293",
-        "40033",
-        "40088",
-        "40110",
-        "9676",
-        "9695",
-        "9696",
-        "9698",
-        "9754",
-        "9756",
-        "9757",
-        "9758",
-        "9759",
-        "9760",
-        "9761",
-        "9766",
-        "9767",
-        "9768",
-        "9769",
-        "9773",
-        "9775",
-        "9776",
-        "9778",
-        "9779",
-        "9780",
-        "9781",
-        "9782",
-        "9783",
-        "9784",
-        "9785",
-        "9786",
-        "9787",
-        "9788",
-        "9790",
-        "9791",
-        "2565",
-        "2566",
-        "258",
-        "259",
-        "260",
-        "2605",
-        "261",
-        "56425",
-        "9818",
-        "9819",
-        "9816",
-        "9817",
-        "9806",
-        "9808",
-        "9810",
-        "9812",
-        "9815",
-        "56770",
-        "56771",
-        "53402",
-        "53403",
-        "53404",
-        "53405",
-        "50667",
-        "48568",
-        "48569",
-        "9820",
-        "9821",
-        "9822",
-        "9823",
-        "9825",
-        "9826",
-        "9827",
-        "9828",
-        "9829",
-        "9830",
-        "9832",
-        "9834",
-        "9839",
-        "9843",
-        "9844",
-        "9845",
-        "9846",
-        "9847",
-        "9849",
-        "9850",
-        "9852",
-        "9854",
-        "9855",
-        "9859",
-        "9862",
-        "9864",
-        "9866",
-        "9870",
-        "9871",
-        "9872",
-        "9874",
-        "9875",
-        "9876",
-        "9877",
-        "9878",
-        "9881",
-        "9883",
-        "9884",
-        "9885",
-        "9886",
-        "9888",
-        "9890",
-        "9891",
-        "9893",
-        "9894",
-        "53340",
-        "51470"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "10116"
-        },
-        {
-          "id": "4988"
-        },
-        {
-          "id": "50101"
-        },
-        {
-          "id": "47054"
-        },
-        {
-          "id": "47055"
-        },
-        {
-          "id": "43286"
-        },
-        {
-          "id": "43287"
-        },
-        {
-          "id": "43288"
-        },
-        {
-          "id": "42445"
-        },
-        {
-          "id": "425"
-        },
-        {
-          "id": "426"
-        },
-        {
-          "id": "41293"
-        },
-        {
-          "id": "40033"
-        },
-        {
-          "id": "40088"
-        },
-        {
-          "id": "40110"
-        },
-        {
-          "id": "9676"
-        },
-        {
-          "id": "9695"
-        },
-        {
-          "id": "9696"
-        },
-        {
-          "id": "9698"
-        },
-        {
-          "id": "9754"
-        },
-        {
-          "id": "9756"
-        },
-        {
-          "id": "9757"
-        },
-        {
-          "id": "9758"
-        },
-        {
-          "id": "9759"
-        },
-        {
-          "id": "9760"
-        },
-        {
-          "id": "9761"
-        },
-        {
-          "id": "9766"
-        },
-        {
-          "id": "9767"
-        },
-        {
-          "id": "9768"
-        },
-        {
-          "id": "9769"
-        },
-        {
-          "id": "9773"
-        },
-        {
-          "id": "9775"
-        },
-        {
-          "id": "9776"
-        },
-        {
-          "id": "9778"
-        },
-        {
-          "id": "9779"
-        },
-        {
-          "id": "9780"
-        },
-        {
-          "id": "9781"
-        },
-        {
-          "id": "9782"
-        },
-        {
-          "id": "9783"
-        },
-        {
-          "id": "9784"
-        },
-        {
-          "id": "9785"
-        },
-        {
-          "id": "9786"
-        },
-        {
-          "id": "9787"
-        },
-        {
-          "id": "9788"
-        },
-        {
-          "id": "9790"
-        },
-        {
-          "id": "9791"
-        },
-        {
-          "id": "2565"
-        },
-        {
-          "id": "2566"
-        },
-        {
-          "id": "258"
-        },
-        {
-          "id": "259"
-        },
-        {
-          "id": "260"
-        },
-        {
-          "id": "2605"
-        },
-        {
-          "id": "261"
-        },
-        {
-          "id": "56425"
-        },
-        {
-          "id": "9818"
-        },
-        {
-          "id": "9819"
-        },
-        {
-          "id": "9816"
-        },
-        {
-          "id": "9817"
-        },
-        {
-          "id": "9806"
-        },
-        {
-          "id": "9808"
-        },
-        {
-          "id": "9810"
-        },
-        {
-          "id": "9812"
-        },
-        {
-          "id": "9815"
-        },
-        {
-          "id": "56770"
-        },
-        {
-          "id": "56771"
-        },
-        {
-          "id": "53402"
-        },
-        {
-          "id": "53403"
-        },
-        {
-          "id": "53404"
-        },
-        {
-          "id": "53405"
-        },
-        {
-          "id": "50667"
-        },
-        {
-          "id": "48568"
-        },
-        {
-          "id": "48569"
-        },
-        {
-          "id": "9820"
-        },
-        {
-          "id": "9821"
-        },
-        {
-          "id": "9822"
-        },
-        {
-          "id": "9823"
-        },
-        {
-          "id": "9825"
-        },
-        {
-          "id": "9826"
-        },
-        {
-          "id": "9827"
-        },
-        {
-          "id": "9828"
-        },
-        {
-          "id": "9829"
-        },
-        {
-          "id": "9830"
-        },
-        {
-          "id": "9832"
-        },
-        {
-          "id": "9834"
-        },
-        {
-          "id": "9839"
-        },
-        {
-          "id": "9843"
-        },
-        {
-          "id": "9844"
-        },
-        {
-          "id": "9845"
-        },
-        {
-          "id": "9846"
-        },
-        {
-          "id": "9847"
-        },
-        {
-          "id": "9849"
-        },
-        {
-          "id": "9850"
-        },
-        {
-          "id": "9852"
-        },
-        {
-          "id": "9854"
-        },
-        {
-          "id": "9855"
-        },
-        {
-          "id": "9859"
-        },
-        {
-          "id": "9862"
-        },
-        {
-          "id": "9864"
-        },
-        {
-          "id": "9866"
-        },
-        {
-          "id": "9870"
-        },
-        {
-          "id": "9871"
-        },
-        {
-          "id": "9872"
-        },
-        {
-          "id": "9874"
-        },
-        {
-          "id": "9875"
-        },
-        {
-          "id": "9876"
-        },
-        {
-          "id": "9877"
-        },
-        {
-          "id": "9878"
-        },
-        {
-          "id": "9881"
-        },
-        {
-          "id": "9883"
-        },
-        {
-          "id": "9884"
-        },
-        {
-          "id": "9885"
-        },
-        {
-          "id": "9886"
-        },
-        {
-          "id": "9888"
-        },
-        {
-          "id": "9890"
-        },
-        {
-          "id": "9891"
-        },
-        {
-          "id": "9893"
-        },
-        {
-          "id": "9894"
-        },
-        {
-          "id": "53340"
-        },
-        {
-          "id": "51470"
-        }
-      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-18T20:24:00.000Z",
-        "end": "2026-10-18T22:01:00.000Z"
+        "start": "2026-10-18T23:25:00.000Z",
+        "end": "2026-10-19T04:33:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/68",
-      "updatedAt": "2026-10-18T20:27:31.000Z",
-      "rawHeader": "Northbound Route 68R trip departing South St & 5th Ave S at 3:05 PM will operate from Cesar Chavez & State St at 3:33 PM today",
-      "rawDescription": ""
-    },
-    {
-      "id": "54321",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 645: Eastbound 2:16 PM Trip Canceled (Wayzata Blvd Park & Ride & Gate B)",
-      "summary": "Eastbound Route 645 trip departing Wayzata Blvd Park & Ride & Gate B at 2:16 PM canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 645"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-18T19:16:00.000Z",
-        "end": "2026-10-18T21:05:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/645",
-      "updatedAt": "2026-10-18T19:17:54.000Z",
-      "rawHeader": "Eastbound Route 645 trip departing Wayzata Blvd P&R & Gate B at 2:16 PM canceled today due to mechanical issue",
-      "rawDescription": ""
+      "url": "https://www.metrotransit.org/route/323",
+      "updatedAt": "2026-10-18T22:55:01.000Z",
+      "rawHeader": "Route 323 trip departing Sun Ray Transit Center & Gate C at 6:25 PM and eight other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Sun Ray Transit Center & Gate C at 6:25 PM\r\ndeparting Sun Ray Transit Center & Gate C at 7:25 PM\r\ndeparting Sun Ray Transit Center & Gate C at 8:15 PM\r\ndeparting Sun Ray Transit Center & Gate C at 9:15 PM\r\ndeparting Sun Ray Transit Center & Gate C at 10:15 PM\r\n\nAffected westbound trips:\r\ndeparting Woodlane Dr Station Gate B at 6:45 PM\r\ndeparting Woodlane Dr Station Gate B at 7:45 PM\r\ndeparting Woodlane Dr Station Gate B at 8:46 PM\r\ndeparting Woodlane Dr Station Gate B at 9:46 PM"
     },
     {
       "id": "52943",
@@ -689,16 +182,19 @@
       "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [
+        "53280",
         "51436",
         "51437",
         "51405",
-        "53280",
         "51420",
         "51421",
         "51422",
         "53279"
       ],
       "closedStopDetails": [
+        {
+          "id": "53280"
+        },
         {
           "id": "51436"
         },
@@ -707,9 +203,6 @@
         },
         {
           "id": "51405"
-        },
-        {
-          "id": "53280"
         },
         {
           "id": "51420"

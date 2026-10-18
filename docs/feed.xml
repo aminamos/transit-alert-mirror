@@ -4,35 +4,26 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 18 Oct 2026 20:33:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 22:58:02 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO C Line: Northbound 2:49 PM Trip Canceled (7th St &amp; Park Station)</title>
-      <link>https://www.metrotransit.org/route/cline</link>
-      <guid isPermaLink="false">Metro Transit-54322-2026-10-18T20:21:04.000Z</guid>
-      <pubDate>Sun, 18 Oct 2026 20:21:04 GMT</pubDate>
+      <title>[Critical] METRO D Line: Southbound 4:03 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-54324-2026-10-18T21:42:53.000Z</guid>
+      <pubDate>Sun, 18 Oct 2026 21:42:53 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO C Line</category>
-      <description>Northbound C Line trip departing 7th St &amp; Park Station at 2:49 PM canceled today due to police activity</description>
+      <category>METRO D Line</category>
+      <description>Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 4:03 PM canceled today due to traffic</description>
     </item>
     <item>
-      <title>[Critical] Route 68, Route 68R: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/68</link>
-      <guid isPermaLink="false">Metro Transit-54323-2026-10-18T20:27:31.000Z</guid>
-      <pubDate>Sun, 18 Oct 2026 20:27:31 GMT</pubDate>
+      <title>[Critical] Route 323: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/323</link>
+      <guid isPermaLink="false">Metro Transit-54326-2026-10-18T22:55:01.000Z</guid>
+      <pubDate>Sun, 18 Oct 2026 22:55:01 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 68, Route 68R</category>
-      <description>Northbound Route 68R trip departing South St &amp; 5th Ave S at 3:05 PM will operate from Cesar Chavez &amp; State St at 3:33 PM today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 645: Eastbound 2:16 PM Trip Canceled (Wayzata Blvd Park &amp; Ride &amp; Gate B)</title>
-      <link>https://www.metrotransit.org/route/645</link>
-      <guid isPermaLink="false">Metro Transit-54321-2026-10-18T19:17:54.000Z</guid>
-      <pubDate>Sun, 18 Oct 2026 19:17:54 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 645</category>
-      <description>Eastbound Route 645 trip departing Wayzata Blvd Park &amp; Ride &amp; Gate B at 2:16 PM canceled today due to mechanical issue</description>
+      <category>Route 323</category>
+      <description>Route 323 trip departing Sun Ray Transit Center &amp; Gate C at 6:25 PM and eight other trips canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
