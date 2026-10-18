@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-18T05:41:39.846Z",
-    "totalAlerts": 104,
+    "generatedAt": "2026-10-18T10:51:24.875Z",
+    "totalAlerts": 102,
     "criticalCount": 0,
-    "moderateCount": 100,
+    "moderateCount": 98,
     "minorCount": 4,
     "affectedRoutesCount": 76,
     "agencies": [
@@ -3038,59 +3038,6 @@
       "rawDescription": "Updated northbound detour routing 9/14 11:20 am.\r\n\nFor northbound Route 62 get on/off buses at:\r\nRice St & Charles Ave - Stop #10488 (northbound)\r\nComo Ave & Rice St - Stop #49895 (westbound)\r\nTemporary stop on Atwater St & Galtier St (eastbound)\r\nTemporary stop on Galtier St & Front Ave (northbound)\r\nTemporary stop on Rice St & Orange Ave (northbound)\r\nRice St & Ivy Ave - Stop #10507 (northbound)\r\n\nFor southbound Route 62 get on/off buses at:\r\nRice St & Orange Ave - Stop #10470 (southbound)\r\nTemporary stop on Galtier St & Cook Ave (southbound)\r\nTemporary stop on Galtier St & Front Ave (southbound)\r\nTemporary stop on Galtier St & Atwater St (southbound)\r\nComo Ave & Rice St - Stop #973 (eastbound)\r\nRice St & Charles Ave - Stop #974 (southbound)\r\n\nNorthbound buses will travel regular route on Rice St to Como Ave, left on Como, right on Western Ave, right on Atwater St, left on Galtier St, right on Maryland Ave, left on Rice St, and resume regular route.\r\n\nSouthbound buses will travel regular route on Rice St to Maryland Ave, right on Maryland Ave, left on Galtier St, right on Atwater St, left on Western Ave, left on Como Ave, right on Rice St, and resume regular route.\r\n\nAffected stops:\r\nRice St & Como Ave - Stop #10489 (northbound)\r\nRice St & Pennsylvania Ave - Stop #10490 (northbound)\r\nRice St & Sycamore St - Stop #10491 (northbound)\r\nRice St & Manitoba Ave - Stop #10494 (northbound)\r\nRice St & Front Ave - Stop #10496 (northbound)\r\nRice St & Lawson Ave - Stop #10498 (northbound)\r\nRice St & Geranium Ave - Stop #10501 (northbound)\r\nRice St & Maryland Ave - Stop #10503 (northbound)\r\nRice St & Maryland Ave - Stop #10471 (southbound)\r\nRice St & Geranium Ave - Stop #10473 (southbound)\r\nRice St & Lawson Ave - Stop #10476 (southbound)\r\nRice St & Litchfield St - Stop #10479 (southbound)\r\nRice St & Milford St - Stop #10480 (southbound)\r\nRice St & Sycamore St - Stop #10482 (southbound)\r\nRice St & Pennsylvania Ave - Stop #10483 (southbound)\r\nRice St & Como Ave - Stop #10484 (southbound)"
     },
     {
-      "id": "54287",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 62: Detour via Wabasha St & Congress St",
-      "summary": "Route 62 detoured off Wabasha between Cesar Chavez St and Congress St until later today due to special event. Board at: Wabasha St & Congress St - Stop #287 (northbound); Wabasha St & Torre de San Miguel - Stop #2781 (northbound).",
-      "affectedRoutes": [
-        "Route 62"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Wabasha St & Congress St",
-        "Wabasha St & Torre de San Miguel - St",
-        "Wabasha St & Winifred St",
-        "Wabasha St & Cesar Chavez St"
-      ],
-      "closedStopIds": [
-        "289",
-        "299",
-        "2781",
-        "42007"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "289",
-          "name": "Wabasha St & Cesar Chavez St",
-          "direction": "northbound"
-        },
-        {
-          "id": "299",
-          "name": "Wabasha St & Congress St",
-          "direction": "southbound"
-        },
-        {
-          "id": "2781"
-        },
-        {
-          "id": "42007"
-        }
-      ],
-      "riderAlternative": "Board at: Wabasha St & Congress St - Stop #287 (northbound); Wabasha St & Torre de San Miguel - Stop #2781 (northbound)",
-      "detourDetails": "Northbound buses will travel on Wabasha to Congress, right on Congress, left on Cesar Chavez and resume regular roue",
-      "activePeriod": {
-        "start": "2026-10-17T13:43:00.000Z",
-        "end": "2026-10-18T07:30:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/62",
-      "updatedAt": "2026-10-17T13:44:03.000Z",
-      "rawHeader": "Route 62 detoured off Wabasha between Cesar Chavez St and Congress St until later today due to special event",
-      "rawDescription": "For northbound Route 62 get on/off buses at:\r\nWabasha St & Congress St - Stop #287 (northbound)\r\nWabasha St & Torre de San Miguel - Stop #2781 (northbound)\r\n\nFor southbound Route 62 get on/off buses at:\r\nWabasha St & Torre de San Miguel - Stop #42007 (southbound)\r\nWabasha St & Winifred St - Stop #300 (southbound)\r\n\nNorthbound buses will travel on Wabasha to Congress, right on Congress, left on Cesar Chavez and resume regular roue\r\n\nSouthbound buses will travel south on Wabasha to Cesar Chavez, continue to Congress, right on Congress, left on Wabasha and resume regular route\r\n\nAffected stops:\r\nWabasha St & Cesar Chavez St - Stop #289 (northbound)\r\nWabasha St & Congress St - Stop #299 (southbound)"
-    },
-    {
       "id": "49835",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -4131,86 +4078,6 @@
       "updatedAt": "2026-09-28T13:56:01.000Z",
       "rawHeader": "Route 71K detoured off Little Canada Rd from Co Rd C to Rice St until further notice due to construction",
       "rawDescription": "Updated southbound detour and affected stops 9/21 9 am.\r\n\nFor northbound Route 71 get on/off buses at:\r\nLittle Canada Rd & Centerville Rd - Stop #49697 (westbound)\r\nTemporary stop on Co Rd C just before Jessica Court (westbound)\r\nRice St & Marketplace S Entrance - Stop #46980 (northbound)\r\n\nFor southbound Route 71 get on/off buses at:\r\nMarketplace Dr & Little Canada - Stop #45305 (southbound)\r\nLittle Canada Rd & Centerville Rd - Stop #41063 (eastbound)\r\n\nNorthbound Route 71K buses will travel regular route on Little Canada Rd to Co Rd C, left on Co Rd C, right on Rice St to Little Canada Rd, continue on Rice St, and resume the regular route. \r\n\nSouthbound 71 buses departing The Marketplace Center will travel regular route on Marketplace Dr to Little Canada Rd, right on Little Canada Rd, right on Rice St, right on South Owasso Blvd, right on Country Dr, left on Little Canada Rd, and resume regular route.\r\n\nAffected stops:\r\nLittle Canada Rd & Park View Court - Stop #49784 (westbound)\r\nLittle Canada Rd & Jackson St - Stop #45314 (westbound)\r\nLittle Canada Rd & Marketplace - Stop #49178 (westbound)\r\nLittle Canada Rd & Middle St - Stop #49179 (westbound)\r\nLittle Canada Rd & Jackson St - Stop #45306 (eastbound)\r\nLittle Canada Rd & Park View Court - Stop #49785 (eastbound)\r\nLittle Canada Rd & Fleur Royale Condos - Stop #45313 (westbound)\r\nLittle Canada Rd & Co Rd C - Stop #45307 (eastbound)"
-    },
-    {
-      "id": "54301",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 71: Detour via Westminster St & Case Ave",
-      "summary": "Route 71 detoured off Arkwright between Magnolia and Case until later today. Board at: Westminster St & Case Ave - Stop #56150 (northbound); Arkwright St & Geranium Ave - Stop #18117 (northbound).",
-      "affectedRoutes": [
-        "Route 71"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Westminster St & Case Ave",
-        "Arkwright St & Geranium Ave",
-        "Arkwright St & Lawson Ave",
-        "Arkwright St & Case Ave",
-        "Arkwright St & Magnolia Ave"
-      ],
-      "closedStopIds": [
-        "18111",
-        "18113",
-        "18115",
-        "18124",
-        "56143",
-        "56150",
-        "18117",
-        "18126",
-        "18128"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "18111",
-          "name": "Arkwright St & Case Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "18113",
-          "name": "Arkwright St & Lawson Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "18115",
-          "name": "Arkwright St & Magnolia Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "18124",
-          "name": "Arkwright St & Magnolia Ave",
-          "direction": "southbound"
-        },
-        {
-          "id": "56143",
-          "name": "Westminster St & York Ave",
-          "direction": "southbound"
-        },
-        {
-          "id": "56150"
-        },
-        {
-          "id": "18117"
-        },
-        {
-          "id": "18126"
-        },
-        {
-          "id": "18128"
-        }
-      ],
-      "riderAlternative": "Board at: Westminster St & Case Ave - Stop #56150 (northbound); Arkwright St & Geranium Ave - Stop #18117 (northbound)",
-      "detourDetails": "Northbound buses will travel east on Case to Arkwright, continue to Desoto, left on Desoto, left on Magnolia, right on Arkwright and resume regular route",
-      "activePeriod": {
-        "start": "2026-10-17T21:11:00.000Z",
-        "end": "2026-10-18T07:30:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/71",
-      "updatedAt": "2026-10-17T21:11:31.000Z",
-      "rawHeader": "Route 71 detoured off Arkwright between Magnolia and Case until later today",
-      "rawDescription": "For northbound Route 71 get on/off buses at:\r\nWestminster St & Case Ave - Stop #56150 (northbound)\r\nArkwright St & Geranium Ave - Stop #18117 (northbound)\r\n\nFor southbound Route 71 get on/off buses at:\r\nArkwright St & Lawson Ave - Stop #18126 (southbound)\r\nArkwright St & Case Ave - Stop #18128 (southbound)\r\n\nNorthbound buses will travel east on Case to Arkwright, continue to Desoto, left on Desoto, left on Magnolia, right on Arkwright and resume regular route\r\n\nSouthbound buses will travel south on Arkwright to Magnolia, right on Magnolia, left on Westminster, left on Jenks, right on Arkwright and resume regular route\r\n\nAffected stops:\r\nArkwright St & Case Ave - Stop #18111 (northbound)\r\nArkwright St & Lawson Ave - Stop #18113 (northbound)\r\nArkwright St & Magnolia Ave - Stop #18115 (northbound)\r\nArkwright St & Magnolia Ave - Stop #18124 (southbound)\r\nWestminster St & York Ave - Stop #56143 (southbound)"
     },
     {
       "id": "51062",

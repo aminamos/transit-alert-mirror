@@ -2,17 +2,17 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-104-blue)](#)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-102-blue)](#)
 [![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-100-orange)](#-moderate-detours--changes)
+[![Moderate](https://img.shields.io/badge/Moderate-98-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-76-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-18T05:41:39.846Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-18T10:51:24.875Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (1) • **Route 14** (3) • **Route 18** (5) • **Route 22** (5) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (2) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (1) • **Route 14** (3) • **Route 18** (5) • **Route 22** (5) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (2) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
@@ -1933,49 +1933,6 @@ Rice St & Como Ave - Stop #10484 (southbound)
 
 ---
 
-### ⚠️ Route 62: Detour via Wabasha St & Congress St
-
-- **Affected Routes**: `Route 62`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Wabasha St & Congress St; Wabasha St & Torre de San Miguel - St; Wabasha St & Winifred St; Wabasha St & Cesar Chavez St
-- **Closed Stops**: Wabasha St & Cesar Chavez St (Stop #289), Wabasha St & Congress St (Stop #299), Stop #2781, Stop #42007
-
-**Summary**: Route 62 detoured off Wabasha between Cesar Chavez St and Congress St until later today due to special event. Board at: Wabasha St & Congress St - Stop #287 (northbound); Wabasha St & Torre de San Miguel - Stop #2781 (northbound).
-
-> 💡 **Rider Action**: Board at: Wabasha St & Congress St - Stop #287 (northbound); Wabasha St & Torre de San Miguel - Stop #2781 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel on Wabasha to Congress, right on Congress, left on Cesar Chavez and resume regular roue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/62)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 62 detoured off Wabasha between Cesar Chavez St and Congress St until later today due to special event
-
-```text
-For northbound Route 62 get on/off buses at:
-Wabasha St & Congress St - Stop #287 (northbound)
-Wabasha St & Torre de San Miguel - Stop #2781 (northbound)
-
-For southbound Route 62 get on/off buses at:
-Wabasha St & Torre de San Miguel - Stop #42007 (southbound)
-Wabasha St & Winifred St - Stop #300 (southbound)
-
-Northbound buses will travel on Wabasha to Congress, right on Congress, left on Cesar Chavez and resume regular roue
-
-Southbound buses will travel south on Wabasha to Cesar Chavez, continue to Congress, right on Congress, left on Wabasha and resume regular route
-
-Affected stops:
-Wabasha St & Cesar Chavez St - Stop #289 (northbound)
-Wabasha St & Congress St - Stop #299 (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 63: Stop Closed at Grand Ave & Victoria St
 
 - **Affected Routes**: `Route 63`
@@ -2619,52 +2576,6 @@ Little Canada Rd & Jackson St - Stop #45306 (eastbound)
 Little Canada Rd & Park View Court - Stop #49785 (eastbound)
 Little Canada Rd & Fleur Royale Condos - Stop #45313 (westbound)
 Little Canada Rd & Co Rd C - Stop #45307 (eastbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 71: Detour via Westminster St & Case Ave
-
-- **Affected Routes**: `Route 71`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Westminster St & Case Ave; Arkwright St & Geranium Ave; Arkwright St & Lawson Ave; Arkwright St & Case Ave; Arkwright St & Magnolia Ave
-- **Closed Stops**: Arkwright St & Case Ave (Stop #18111), Arkwright St & Lawson Ave (Stop #18113), Arkwright St & Magnolia Ave (Stop #18115), Arkwright St & Magnolia Ave (Stop #18124), Westminster St & York Ave (Stop #56143), Stop #56150, Stop #18117, Stop #18126 *(+1 more)*
-
-**Summary**: Route 71 detoured off Arkwright between Magnolia and Case until later today. Board at: Westminster St & Case Ave - Stop #56150 (northbound); Arkwright St & Geranium Ave - Stop #18117 (northbound).
-
-> 💡 **Rider Action**: Board at: Westminster St & Case Ave - Stop #56150 (northbound); Arkwright St & Geranium Ave - Stop #18117 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel east on Case to Arkwright, continue to Desoto, left on Desoto, left on Magnolia, right on Arkwright and resume regular route
-
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 71 detoured off Arkwright between Magnolia and Case until later today
-
-```text
-For northbound Route 71 get on/off buses at:
-Westminster St & Case Ave - Stop #56150 (northbound)
-Arkwright St & Geranium Ave - Stop #18117 (northbound)
-
-For southbound Route 71 get on/off buses at:
-Arkwright St & Lawson Ave - Stop #18126 (southbound)
-Arkwright St & Case Ave - Stop #18128 (southbound)
-
-Northbound buses will travel east on Case to Arkwright, continue to Desoto, left on Desoto, left on Magnolia, right on Arkwright and resume regular route
-
-Southbound buses will travel south on Arkwright to Magnolia, right on Magnolia, left on Westminster, left on Jenks, right on Arkwright and resume regular route
-
-Affected stops:
-Arkwright St & Case Ave - Stop #18111 (northbound)
-Arkwright St & Lawson Ave - Stop #18113 (northbound)
-Arkwright St & Magnolia Ave - Stop #18115 (northbound)
-Arkwright St & Magnolia Ave - Stop #18124 (southbound)
-Westminster St & York Ave - Stop #56143 (southbound)
 ```
 
 </details>
