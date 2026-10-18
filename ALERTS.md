@@ -2,38 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-107-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-102-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-104-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-100-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-76-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-18T00:49:36.210Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-18T05:41:39.846Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (2) • **Route 14** (3) • **Route 18** (5) • **Route 22** (5) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (2) • **Route 824** (1) • **Route 827** (3) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (1) • **Route 14** (3) • **Route 18** (5) • **Route 22** (5) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (2) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 11: Southbound 5:58 PM Trip Canceled (Columbia Heights Transit Center C)
-
-- **Affected Routes**: `Route 11`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound Route 11 trip departing Columbia Heights Transit Center C at 5:58 PM canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/11)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 11 trip departing Columbia Heights Transit Center C at 5:58 PM canceled today due to maintenance work
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -136,7 +119,7 @@ Due to mechanical issues, both elevators at Franklin Ave Station are unavailable
 - **Affected Routes**: `METRO Blue Line`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Closed Stops**: Stop #51436, Stop #51437, Stop #51405, Stop #53280, Stop #51420, Stop #51421, Stop #51422, Stop #53279
+- **Closed Stops**: Stop #51436, Stop #51437, Stop #51405, Stop #53280, Stop #53279, Stop #51420, Stop #51421, Stop #51422
 
 **Summary**: UPDATE: Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Saturday, Oct. 17 at 3 a.m.
 
@@ -4053,66 +4036,6 @@ Affected stops:
 - **Corridors & Intersections**: East River Rd & 7th Ave; Green Haven Pkwy & Fairoak Ave; East River Rd & Kings Lane - St; East River Rd & South St; 5th Ave & Washington St
 - **Closed Stops**: East River Rd & South St (Stop #12065), 5th Ave & Washington St (Stop #12063), 5th Ave & Jefferson St (Stop #12058), 5th Ave & Monroe St (Stop #12054), Main St & 3rd Ave (Stop #12051), Main St & 2nd Ave (Stop #12049), Main St & Ferry St (Stop #12046), Main St & State Ave (Stop #12027) *(+15 more)*
 
-**Summary**: Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 6:00 PM to 8:30 PM on Sat Oct 17 due to Anoka Light Up the Night Parade. Board at: East River Rd & 7th Ave - Stop #12066 (northbound); Green Haven Pkwy & Fairoak Ave - Stop #57211 (northbound).
-
-> 💡 **Rider Action**: Board at: East River Rd & 7th Ave - Stop #12066 (northbound); Green Haven Pkwy & Fairoak Ave - Stop #57211 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on East River Rd to 7th Ave, right on 7th Ave, left on westbound Hwy 10, exit at Greenhaven Pkwy, continue on Green Haven Pkwy, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/802)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 6:00 PM to 8:30 PM on Sat Oct 17 due to Anoka Light Up the Night Parade
-
-```text
-For northbound Route 802 get on/off buses at:
-East River Rd & 7th Ave - Stop #12066 (northbound)
-Green Haven Pkwy & Fairoak Ave - Stop #57211 (northbound)
-
-For southbound Route 802 get on/off buses at:
-Green Haven Pkwy & Fairoak Ave - Stop #57212 (southbound)
-East River Rd & Kings Lane - Stop #12068 (southbound)
-
-Northbound buses will travel regular route on East River Rd to 7th Ave, right on 7th Ave, left on westbound Hwy 10, exit at Greenhaven Pkwy, continue on Green Haven Pkwy, and resume regular route.
-
-Southbound buses will travel regular route on Green Haven Pkwy to Hwy 10, left onto eastbound Hwy 10, exit at 7th Ave, right on 7th Ave, left on East River Rd, and resume regular route.
-
-Affected stops:
-East River Rd & South St - Stop #12065 (northbound)
-5th Ave & Washington St - Stop #12063 (northbound)
-5th Ave & Jefferson St - Stop #12058 (northbound)
-5th Ave & Monroe St - Stop #12054 (northbound)
-Main St & 3rd Ave - Stop #12051 (westbound)
-Main St & 2nd Ave - Stop #12049 (westbound)
-Main St & Ferry St - Stop #12046 (westbound)
-Main St & State Ave - Stop #12027 (westbound)
-Main St & Cutter St - Stop #12026 (westbound)
-Main St & Cutter St - Stop #12025 (eastbound)
-Main St & State Ave - Stop #12028 (eastbound)
-Main St & Branch Ave - Stop #12029 (eastbound)
-Main St & 2nd Ave - Stop #12047 (eastbound)
-Main St & 3rd Ave - Stop #12050 (eastbound)
-5th Ave & Monroe St - Stop #12055 (southbound)
-5th Ave & Jefferson St - Stop #12059 (southbound)
-5th Ave & Washington St - Stop #12062 (southbound)
-5th Ave & Military Rd - Stop #12064 (southbound)
-East River Rd & 7th Ave - Stop #12067 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 802: Detour via East River Rd & 7th Ave
-
-- **Affected Routes**: `Route 802`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: East River Rd & 7th Ave; Green Haven Pkwy & Fairoak Ave; East River Rd & Kings Lane - St; East River Rd & South St; 5th Ave & Washington St
-- **Closed Stops**: East River Rd & South St (Stop #12065), 5th Ave & Washington St (Stop #12063), 5th Ave & Jefferson St (Stop #12058), 5th Ave & Monroe St (Stop #12054), Main St & 3rd Ave (Stop #12051), Main St & 2nd Ave (Stop #12049), Main St & Ferry St (Stop #12046), Main St & State Ave (Stop #12027) *(+15 more)*
-
 **Summary**: Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 12:30 PM to 3:00 PM on Fri Oct 23 due to Anoka Big Parade of Little People. Board at: East River Rd & 7th Ave - Stop #12066 (northbound); Green Haven Pkwy & Fairoak Ave - Stop #57211 (northbound).
 
 > 💡 **Rider Action**: Board at: East River Rd & 7th Ave - Stop #12066 (northbound); Green Haven Pkwy & Fairoak Ave - Stop #57211 (northbound)
@@ -4341,76 +4264,6 @@ Madison St & 3rd Ave - Stop #57209 (eastbound)
 Get on/off buses at:
 East River Rd & 63rd Way - Stop #12152 (southbound)
 East River Rd & 61st Way NE - Stop #12156 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 827: Detour via East River Rd & Logan Pkwy
-
-- **Affected Routes**: `Route 827`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: East River Rd & Logan Pkwy; East River Rd & Osborne Rd N; left on East River Rd & resume regular route.
-
-Affected st; East River Rd & Rickard Rd; East River Rd & 77th Way
-- **Closed Stops**: East River Rd & Osborne Rd NE (Stop #12129), East River Rd & Rickard Rd (Stop #12126), East River Rd & 77th Way (Stop #12125), East River Rd & Pearson Way (Stop #12122), East River Rd & 79th Way (Stop #12121), East River Rd & Liberty St (Stop #12117), East River Rd & Fairmont St (Stop #12113), East River Rd & Hugo St (Stop #12110) *(+22 more)*
-
-**Summary**: Route 827 detoured off East River Road from Osborne Rd to 85th Ave from 4:00 PM to 10:00 PM on Sat Oct 17 due to Pumpkin Night in the Park. Board at: East River Rd & Logan Pkwy - Stop #12133 (northbound); Northtown Transit Ctr Gate C - Stop #57167 (westbound).
-
-> 💡 **Rider Action**: Board at: East River Rd & Logan Pkwy - Stop #12133 (northbound); Northtown Transit Ctr Gate C - Stop #57167 (westbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on East River Rd to Osborne Rd, right on Osborne Rd, left on University Ave, right on 85th Ave and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/827)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 827 detoured off East River Road from Osborne Rd to 85th Ave from 4:00 PM to 10:00 PM on Sat Oct 17 due to Pumpkin Night in the Park
-
-```text
-For northbound Route 827 get on/off buses at:
-East River Rd & Logan Pkwy - Stop #12133 (northbound)
-Northtown Transit Ctr Gate C - Stop #57167 (westbound)
-
-For southbound Route 827 get on/off buses at:
-Northtown Transit Ctr Gate C - Stop #57167 (westbound)
-East River Rd & Osborne Rd NE - Stop #12128 (southbound)
-
-Northbound buses will travel regular route on East River Rd to Osborne Rd, right on Osborne Rd, left on University Ave, right on 85th Ave and resume regular route.
-
-Southbound buses will travel regular route on 85th Ave to University Ave, left on University Ave, right on Osborne Rd, left on East River Rd and resume regular route.
-
-Affected stops:
-East River Rd & Osborne Rd NE - Stop #12129 (northbound)
-East River Rd & Rickard Rd - Stop #12126 (northbound)
-East River Rd & 77th Way - Stop #12125 (northbound)
-East River Rd & Pearson Way - Stop #12122 (northbound)
-East River Rd & 79th Way - Stop #12121 (northbound)
-East River Rd & Liberty St - Stop #12117 (northbound)
-East River Rd & Fairmont St - Stop #12113 (northbound)
-East River Rd & Hugo St - Stop #12110 (northbound)
-East River Rd & Larch St NW - Stop #10906 (northbound)
-East River Rd & 84th Lane NE - Stop #10910 (northbound)
-85th Ave NW & Norway St NW - Stop #10928 (eastbound)
-85th Ave NW & Evergreen Blvd - Stop #10930 (eastbound)
-85th Ave NW & Cottonwood St - Stop #10932 (eastbound)
-85th Ave NE & Springbrook Dr NE - Stop #56934 (eastbound)
-85th Ave NW & Cottonwood St - Stop #53418 (westbound)
-85th Ave NW & Evergreen Blvd - Stop #10931 (westbound)
-85th Ave NW & #455 Ryerson Co - Stop #53761 (westbound)
-85th Ave NW & Norway St NW - Stop #10929 (westbound)
-East River Rd & 85th Ave / 84th Lane - Stop #10911 (southbound)
-East River Rd & Kimball St NE - Stop #10907 (southbound)
-East River Rd & Hugo St - Stop #12111 (southbound)
-East River Rd & Ely St - Stop #51258 (southbound)
-East River Rd & Liberty St - Stop #12116 (southbound)
-East River Rd & Longfellow St NE - Stop #12119 (southbound)
-East River & Pearson Way/Craigbrook Way - Stop #12123 (southbound)
-East River Rd & Stonybrook Way - Stop #12124 (southbound)
-East River Rd & Rickard Rd - Stop #12127 (southbound)
 ```
 
 </details>
