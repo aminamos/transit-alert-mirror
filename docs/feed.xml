@@ -4,9 +4,54 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 18 Oct 2026 10:51:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 14:28:10 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] METRO D Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-54312-2026-10-18T14:04:58.000Z</guid>
+      <pubDate>Sun, 18 Oct 2026 14:04:58 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO D Line</category>
+      <description>Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 8:58 AM will start from 7th &amp; Olson. Previous stops missed due to medical emergency</description>
+    </item>
+    <item>
+      <title>[Critical] Route 14: Southbound 7:34 AM Trip Canceled (Robbinsdale Transit Center &amp; Gate A)</title>
+      <link>https://www.metrotransit.org/route/14</link>
+      <guid isPermaLink="false">Metro Transit-54311-2026-10-18T13:57:30.000Z</guid>
+      <pubDate>Sun, 18 Oct 2026 13:57:30 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 14</category>
+      <description>Southbound Route 14 trip departing Robbinsdale Transit Center &amp; Gate A at 7:34 AM canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 14: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/14</link>
+      <guid isPermaLink="false">Metro Transit-54313-2026-10-18T14:11:55.000Z</guid>
+      <pubDate>Sun, 18 Oct 2026 14:11:55 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 14</category>
+      <description>Northbound Route 14 trip departing 66th St E &amp; Richfield Pkwy at 8:57 AM will start from Bloomington &amp; 46th. Previous stops missed</description>
+    </item>
+    <item>
+      <title>[Critical] Route 18: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/18</link>
+      <guid isPermaLink="false">Metro Transit-54309-2026-10-18T13:08:07.000Z</guid>
+      <pubDate>Sun, 18 Oct 2026 13:08:07 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 18</category>
+      <description>Southbound Route 18 trip departing 4th Ave S &amp; 3rd St S at 7:50 AM will start from 32nd &amp; Nicollet. Previous stops missed due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 68: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/68</link>
+      <guid isPermaLink="false">Metro Transit-54310-2026-10-18T13:40:16.000Z</guid>
+      <pubDate>Sun, 18 Oct 2026 13:40:16 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 68</category>
+      <description>Southbound Route 68 trip departing Jackson St &amp; 14th St at 8:35 AM will start from State &amp; Cesar Chavez. Previous stops missed due to mechanical issue</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>

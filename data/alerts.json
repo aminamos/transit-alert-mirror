@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-18T10:51:24.875Z",
-    "totalAlerts": 102,
-    "criticalCount": 0,
+    "generatedAt": "2026-10-18T14:28:10.376Z",
+    "totalAlerts": 107,
+    "criticalCount": 5,
     "moderateCount": 98,
     "minorCount": 4,
     "affectedRoutesCount": 76,
@@ -11,6 +11,686 @@
     ]
   },
   "alerts": [
+    {
+      "id": "54312",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO D Line: Service Advisory",
+      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 8:58 AM will start from 7th & Olson. Previous stops missed due to medical emergency",
+      "affectedRoutes": [
+        "METRO D Line"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [
+        "9087",
+        "9173",
+        "9577",
+        "9589",
+        "9611",
+        "56823",
+        "56903",
+        "56904",
+        "56905",
+        "56906",
+        "56907",
+        "56908",
+        "11146",
+        "11161"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "9087"
+        },
+        {
+          "id": "9173"
+        },
+        {
+          "id": "9577"
+        },
+        {
+          "id": "9589"
+        },
+        {
+          "id": "9611"
+        },
+        {
+          "id": "56823"
+        },
+        {
+          "id": "56903"
+        },
+        {
+          "id": "56904"
+        },
+        {
+          "id": "56905"
+        },
+        {
+          "id": "56906"
+        },
+        {
+          "id": "56907"
+        },
+        {
+          "id": "56908"
+        },
+        {
+          "id": "11146"
+        },
+        {
+          "id": "11161"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-18T14:04:00.000Z",
+        "end": "2026-10-18T16:06:00.000Z"
+      },
+      "cause": "MEDICAL_EMERGENCY",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-10-18T14:04:58.000Z",
+      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 8:58 AM will start from 7th & Olson. Previous stops missed due to medical emergency",
+      "rawDescription": ""
+    },
+    {
+      "id": "54311",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 14: Southbound 7:34 AM Trip Canceled (Robbinsdale Transit Center & Gate A)",
+      "summary": "Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 7:34 AM canceled today due to traffic",
+      "affectedRoutes": [
+        "Route 14"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [
+        "79",
+        "77",
+        "57672",
+        "755",
+        "758",
+        "15575",
+        "15571",
+        "17891",
+        "15391",
+        "15393",
+        "15395",
+        "15397",
+        "15399",
+        "15401",
+        "15567",
+        "19495",
+        "430",
+        "15579",
+        "15580",
+        "40472",
+        "4429",
+        "51880",
+        "51881",
+        "51648",
+        "51832",
+        "51834",
+        "15583",
+        "15587",
+        "15591",
+        "15595",
+        "15599",
+        "15603",
+        "15604",
+        "15607",
+        "15611",
+        "15615",
+        "15619",
+        "15623",
+        "15624",
+        "15627",
+        "15650",
+        "15655",
+        "15656",
+        "15660",
+        "15664",
+        "15668",
+        "17882",
+        "17884",
+        "17885",
+        "17887",
+        "17888",
+        "17890"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "79"
+        },
+        {
+          "id": "77"
+        },
+        {
+          "id": "57672"
+        },
+        {
+          "id": "755"
+        },
+        {
+          "id": "758"
+        },
+        {
+          "id": "15575"
+        },
+        {
+          "id": "15571"
+        },
+        {
+          "id": "17891"
+        },
+        {
+          "id": "15391"
+        },
+        {
+          "id": "15393"
+        },
+        {
+          "id": "15395"
+        },
+        {
+          "id": "15397"
+        },
+        {
+          "id": "15399"
+        },
+        {
+          "id": "15401"
+        },
+        {
+          "id": "15567"
+        },
+        {
+          "id": "19495"
+        },
+        {
+          "id": "430"
+        },
+        {
+          "id": "15579"
+        },
+        {
+          "id": "15580"
+        },
+        {
+          "id": "40472"
+        },
+        {
+          "id": "4429"
+        },
+        {
+          "id": "51880"
+        },
+        {
+          "id": "51881"
+        },
+        {
+          "id": "51648"
+        },
+        {
+          "id": "51832"
+        },
+        {
+          "id": "51834"
+        },
+        {
+          "id": "15583"
+        },
+        {
+          "id": "15587"
+        },
+        {
+          "id": "15591"
+        },
+        {
+          "id": "15595"
+        },
+        {
+          "id": "15599"
+        },
+        {
+          "id": "15603"
+        },
+        {
+          "id": "15604"
+        },
+        {
+          "id": "15607"
+        },
+        {
+          "id": "15611"
+        },
+        {
+          "id": "15615"
+        },
+        {
+          "id": "15619"
+        },
+        {
+          "id": "15623"
+        },
+        {
+          "id": "15624"
+        },
+        {
+          "id": "15627"
+        },
+        {
+          "id": "15650"
+        },
+        {
+          "id": "15655"
+        },
+        {
+          "id": "15656"
+        },
+        {
+          "id": "15660"
+        },
+        {
+          "id": "15664"
+        },
+        {
+          "id": "15668"
+        },
+        {
+          "id": "17882"
+        },
+        {
+          "id": "17884"
+        },
+        {
+          "id": "17885"
+        },
+        {
+          "id": "17887"
+        },
+        {
+          "id": "17888"
+        },
+        {
+          "id": "17890"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-18T13:57:00.000Z",
+        "end": "2026-10-18T14:33:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/14",
+      "updatedAt": "2026-10-18T13:57:30.000Z",
+      "rawHeader": "Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 7:34 AM canceled today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "54313",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 14: Service Advisory",
+      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy at 8:57 AM will start from Bloomington & 46th. Previous stops missed",
+      "affectedRoutes": [
+        "Route 14"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [
+        "15581",
+        "51836",
+        "51838",
+        "51883",
+        "51884",
+        "51885",
+        "51886",
+        "4345",
+        "4347",
+        "15578",
+        "15570",
+        "15574",
+        "765",
+        "767",
+        "738",
+        "740",
+        "743",
+        "775",
+        "777"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "15581"
+        },
+        {
+          "id": "51836"
+        },
+        {
+          "id": "51838"
+        },
+        {
+          "id": "51883"
+        },
+        {
+          "id": "51884"
+        },
+        {
+          "id": "51885"
+        },
+        {
+          "id": "51886"
+        },
+        {
+          "id": "4345"
+        },
+        {
+          "id": "4347"
+        },
+        {
+          "id": "15578"
+        },
+        {
+          "id": "15570"
+        },
+        {
+          "id": "15574"
+        },
+        {
+          "id": "765"
+        },
+        {
+          "id": "767"
+        },
+        {
+          "id": "738"
+        },
+        {
+          "id": "740"
+        },
+        {
+          "id": "743"
+        },
+        {
+          "id": "775"
+        },
+        {
+          "id": "777"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-18T14:11:00.000Z",
+        "end": "2026-10-18T15:55:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/14",
+      "updatedAt": "2026-10-18T14:11:55.000Z",
+      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy at 8:57 AM will start from Bloomington & 46th. Previous stops missed",
+      "rawDescription": ""
+    },
+    {
+      "id": "54309",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 18: Service Advisory",
+      "summary": "Southbound Route 18 trip departing 4th Ave S & 3rd St S at 7:50 AM will start from 32nd & Nicollet. Previous stops missed due to mechanical issue",
+      "affectedRoutes": [
+        "Route 18"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [
+        "1197",
+        "1199",
+        "1200",
+        "1202",
+        "14850",
+        "1204",
+        "1208",
+        "42211",
+        "19294",
+        "17976",
+        "17978",
+        "17980",
+        "17982",
+        "17984",
+        "17986",
+        "56800",
+        "81077"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "1197"
+        },
+        {
+          "id": "1199"
+        },
+        {
+          "id": "1200"
+        },
+        {
+          "id": "1202"
+        },
+        {
+          "id": "14850"
+        },
+        {
+          "id": "1204"
+        },
+        {
+          "id": "1208"
+        },
+        {
+          "id": "42211"
+        },
+        {
+          "id": "19294"
+        },
+        {
+          "id": "17976"
+        },
+        {
+          "id": "17978"
+        },
+        {
+          "id": "17980"
+        },
+        {
+          "id": "17982"
+        },
+        {
+          "id": "17984"
+        },
+        {
+          "id": "17986"
+        },
+        {
+          "id": "56800"
+        },
+        {
+          "id": "81077"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-18T13:07:00.000Z",
+        "end": "2026-10-18T14:55:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/18",
+      "updatedAt": "2026-10-18T13:08:07.000Z",
+      "rawHeader": "Southbound Route 18 trip departing 4th Ave S & 3rd St S at 7:50 AM will start from 32nd & Nicollet. Previous stops missed due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "54310",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 68: Service Advisory",
+      "summary": "Southbound Route 68 trip departing Jackson St & 14th St at 8:35 AM will start from State & Cesar Chavez. Previous stops missed due to mechanical issue",
+      "affectedRoutes": [
+        "Route 68"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [
+        "20019",
+        "81112",
+        "81115",
+        "56323",
+        "57511",
+        "56096",
+        "40067",
+        "40097",
+        "40098",
+        "40101",
+        "40128",
+        "40138",
+        "40156",
+        "2794",
+        "2795",
+        "2797",
+        "2798",
+        "49945",
+        "49946",
+        "49947",
+        "49948",
+        "49949",
+        "49951",
+        "49952",
+        "49993",
+        "49995",
+        "46692",
+        "46693",
+        "46694",
+        "46695",
+        "46696",
+        "47356",
+        "11904"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "20019"
+        },
+        {
+          "id": "81112"
+        },
+        {
+          "id": "81115"
+        },
+        {
+          "id": "56323"
+        },
+        {
+          "id": "57511"
+        },
+        {
+          "id": "56096"
+        },
+        {
+          "id": "40067"
+        },
+        {
+          "id": "40097"
+        },
+        {
+          "id": "40098"
+        },
+        {
+          "id": "40101"
+        },
+        {
+          "id": "40128"
+        },
+        {
+          "id": "40138"
+        },
+        {
+          "id": "40156"
+        },
+        {
+          "id": "2794"
+        },
+        {
+          "id": "2795"
+        },
+        {
+          "id": "2797"
+        },
+        {
+          "id": "2798"
+        },
+        {
+          "id": "49945"
+        },
+        {
+          "id": "49946"
+        },
+        {
+          "id": "49947"
+        },
+        {
+          "id": "49948"
+        },
+        {
+          "id": "49949"
+        },
+        {
+          "id": "49951"
+        },
+        {
+          "id": "49952"
+        },
+        {
+          "id": "49993"
+        },
+        {
+          "id": "49995"
+        },
+        {
+          "id": "46692"
+        },
+        {
+          "id": "46693"
+        },
+        {
+          "id": "46694"
+        },
+        {
+          "id": "46695"
+        },
+        {
+          "id": "46696"
+        },
+        {
+          "id": "47356"
+        },
+        {
+          "id": "11904"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-18T13:38:00.000Z",
+        "end": "2026-10-18T15:35:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/68",
+      "updatedAt": "2026-10-18T13:40:16.000Z",
+      "rawHeader": "Southbound Route 68 trip departing Jackson St & 14th St at 8:35 AM will start from State & Cesar Chavez. Previous stops missed due to mechanical issue",
+      "rawDescription": ""
+    },
     {
       "id": "52943",
       "agency": "Metro Transit",

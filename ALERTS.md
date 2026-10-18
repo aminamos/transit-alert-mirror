@@ -2,21 +2,119 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-102-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-107-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-5-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-98-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-76-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-18T10:51:24.875Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-18T14:28:10.376Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (1) • **Route 14** (3) • **Route 18** (5) • **Route 22** (5) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (2) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (1) • **Route 14** (5) • **Route 18** (6) • **Route 22** (5) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (7) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (2) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 METRO D Line: Service Advisory
+
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #9087, Stop #9173, Stop #9577, Stop #9589, Stop #9611, Stop #56823, Stop #56903, Stop #56904 *(+6 more)*
+
+**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 8:58 AM will start from 7th & Olson. Previous stops missed due to medical emergency
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr at 8:58 AM will start from 7th & Olson. Previous stops missed due to medical emergency
+
+</details>
+
+---
+
+### 🚨 Route 14: Southbound 7:34 AM Trip Canceled (Robbinsdale Transit Center & Gate A)
+
+- **Affected Routes**: `Route 14`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #79, Stop #77, Stop #57672, Stop #755, Stop #758, Stop #15575, Stop #15571, Stop #17891 *(+44 more)*
+
+**Summary**: Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 7:34 AM canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/14)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 7:34 AM canceled today due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 14: Service Advisory
+
+- **Affected Routes**: `Route 14`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #15581, Stop #51836, Stop #51838, Stop #51883, Stop #51884, Stop #51885, Stop #51886, Stop #4345 *(+11 more)*
+
+**Summary**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy at 8:57 AM will start from Bloomington & 46th. Previous stops missed
+
+[Official Agency Advisory](https://www.metrotransit.org/route/14)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy at 8:57 AM will start from Bloomington & 46th. Previous stops missed
+
+</details>
+
+---
+
+### 🚨 Route 18: Service Advisory
+
+- **Affected Routes**: `Route 18`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #1197, Stop #1199, Stop #1200, Stop #1202, Stop #14850, Stop #1204, Stop #1208, Stop #42211 *(+9 more)*
+
+**Summary**: Southbound Route 18 trip departing 4th Ave S & 3rd St S at 7:50 AM will start from 32nd & Nicollet. Previous stops missed due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/18)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 18 trip departing 4th Ave S & 3rd St S at 7:50 AM will start from 32nd & Nicollet. Previous stops missed due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 Route 68: Service Advisory
+
+- **Affected Routes**: `Route 68`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #20019, Stop #81112, Stop #81115, Stop #56323, Stop #57511, Stop #56096, Stop #40067, Stop #40097 *(+25 more)*
+
+**Summary**: Southbound Route 68 trip departing Jackson St & 14th St at 8:35 AM will start from State & Cesar Chavez. Previous stops missed due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/68)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 68 trip departing Jackson St & 14th St at 8:35 AM will start from State & Cesar Chavez. Previous stops missed due to mechanical issue
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
