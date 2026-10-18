@@ -2,54 +2,74 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-104-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-105-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-98-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-78-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-18T17:59:03.134Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-18T20:33:16.347Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (3) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 10H** (1) • **Route 11** (1) • **Route 14** (3) • **Route 18** (5) • **Route 22** (5) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (2) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO C Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (1) • **Route 14** (3) • **Route 18** (5) • **Route 22** (5) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (7) • **Route 68C** (1) • **Route 68R** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (2) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO A Line: Service Canceled
+### 🚨 METRO C Line: Northbound 2:49 PM Trip Canceled (7th St & Park Station)
 
-- **Affected Routes**: `METRO A Line`
+- **Affected Routes**: `METRO C Line`
 - **Direction**: Northbound
 - **Severity**: `Critical`
+- **Corridors & Intersections**: Northbound C Line trip departing 7th St & Park St
 
-**Summary**: Northbound A Line trips departing 46th St Station Gate A at 12:05 PM and departing 46th St Station Gate A at 1:45 PM canceled today due to mechanical issue
+**Summary**: Northbound C Line trip departing 7th St & Park Station at 2:49 PM canceled today due to police activity
 
-[Official Agency Advisory](https://www.metrotransit.org/route/aline)
+[Official Agency Advisory](https://www.metrotransit.org/route/cline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound A Line trips departing 46th St Station Gate A at 12:05 PM and departing 46th St Station Gate A at 1:45 PM canceled today due to mechanical issue
+**Header**: Northbound C Line trip departing 7th St & Park Station at 2:49 PM canceled today due to police activity
 
 </details>
 
 ---
 
-### 🚨 Route 10, Route 10H: Northbound 12:05 PM Trip Canceled (Leamington Ramp & Lower - Gate #7)
+### 🚨 Route 68, Route 68R: Service Advisory
 
-- **Affected Routes**: `Route 10` `Route 10H`
+- **Affected Routes**: `Route 68` `Route 68R`
 - **Direction**: Northbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #40706, Stop #40710, Stop #40723, Stop #40887, Stop #57444, Stop #57445, Stop #57447, Stop #52073 *(+51 more)*
+- **Closed Stops**: Stop #10116, Stop #4988, Stop #50101, Stop #47054, Stop #47055, Stop #43286, Stop #43287, Stop #43288 *(+111 more)*
 
-**Summary**: Northbound Route 10H trip departing Leamington Ramp & Lower - Gate #7 at 12:05 PM canceled from Central & University at 12:23 PM today due to traffic
+**Summary**: Northbound Route 68R trip departing South St & 5th Ave S at 3:05 PM will operate from Cesar Chavez & State St at 3:33 PM today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/10)
+[Official Agency Advisory](https://www.metrotransit.org/route/68)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound Route 10H trip departing Leamington Ramp & Lower - Gate #7 at 12:05 PM canceled from Central & University at 12:23 PM today due to traffic
+**Header**: Northbound Route 68R trip departing South St & 5th Ave S at 3:05 PM will operate from Cesar Chavez & State St at 3:33 PM today
+
+</details>
+
+---
+
+### 🚨 Route 645: Eastbound 2:16 PM Trip Canceled (Wayzata Blvd Park & Ride & Gate B)
+
+- **Affected Routes**: `Route 645`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Eastbound Route 645 trip departing Wayzata Blvd Park & Ride & Gate B at 2:16 PM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/645)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 645 trip departing Wayzata Blvd P&R & Gate B at 2:16 PM canceled today due to mechanical issue
 
 </details>
 
@@ -156,7 +176,7 @@ Due to mechanical issues, both elevators at Franklin Ave Station are unavailable
 - **Affected Routes**: `METRO Blue Line`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Closed Stops**: Stop #53280, Stop #51405, Stop #51436, Stop #51437, Stop #51420, Stop #51421, Stop #51422, Stop #53279
+- **Closed Stops**: Stop #51436, Stop #51437, Stop #51405, Stop #53280, Stop #51420, Stop #51421, Stop #51422, Stop #53279
 
 **Summary**: UPDATE: Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Saturday, Oct. 17 at 3 a.m.
 

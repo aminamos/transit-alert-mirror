@@ -4,26 +4,35 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 18 Oct 2026 17:59:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 20:33:16 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO A Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/aline</link>
-      <guid isPermaLink="false">Metro Transit-54317-2026-10-18T17:40:56.000Z</guid>
-      <pubDate>Sun, 18 Oct 2026 17:40:56 GMT</pubDate>
+      <title>[Critical] METRO C Line: Northbound 2:49 PM Trip Canceled (7th St &amp; Park Station)</title>
+      <link>https://www.metrotransit.org/route/cline</link>
+      <guid isPermaLink="false">Metro Transit-54322-2026-10-18T20:21:04.000Z</guid>
+      <pubDate>Sun, 18 Oct 2026 20:21:04 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO A Line</category>
-      <description>Northbound A Line trips departing 46th St Station Gate A at 12:05 PM and departing 46th St Station Gate A at 1:45 PM canceled today due to mechanical issue</description>
+      <category>METRO C Line</category>
+      <description>Northbound C Line trip departing 7th St &amp; Park Station at 2:49 PM canceled today due to police activity</description>
     </item>
     <item>
-      <title>[Critical] Route 10, Route 10H: Northbound 12:05 PM Trip Canceled (Leamington Ramp &amp; Lower - Gate #7)</title>
-      <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-54318-2026-10-18T17:43:51.000Z</guid>
-      <pubDate>Sun, 18 Oct 2026 17:43:51 GMT</pubDate>
+      <title>[Critical] Route 68, Route 68R: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/68</link>
+      <guid isPermaLink="false">Metro Transit-54323-2026-10-18T20:27:31.000Z</guid>
+      <pubDate>Sun, 18 Oct 2026 20:27:31 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 10, Route 10H</category>
-      <description>Northbound Route 10H trip departing Leamington Ramp &amp; Lower - Gate #7 at 12:05 PM canceled from Central &amp; University at 12:23 PM today due to traffic</description>
+      <category>Route 68, Route 68R</category>
+      <description>Northbound Route 68R trip departing South St &amp; 5th Ave S at 3:05 PM will operate from Cesar Chavez &amp; State St at 3:33 PM today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 645: Eastbound 2:16 PM Trip Canceled (Wayzata Blvd Park &amp; Ride &amp; Gate B)</title>
+      <link>https://www.metrotransit.org/route/645</link>
+      <guid isPermaLink="false">Metro Transit-54321-2026-10-18T19:17:54.000Z</guid>
+      <pubDate>Sun, 18 Oct 2026 19:17:54 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 645</category>
+      <description>Eastbound Route 645 trip departing Wayzata Blvd Park &amp; Ride &amp; Gate B at 2:16 PM canceled today due to mechanical issue</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
