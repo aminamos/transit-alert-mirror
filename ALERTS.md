@@ -2,21 +2,122 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-102-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-106-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-98-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-76-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-80-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-19T07:38:56.673Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-19T15:30:22.646Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (1) • **Route 14** (3) • **Route 18** (5) • **Route 22** (5) • **Route 22C** (1) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 75** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (3) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (2) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (1) • **Route 14** (3) • **Route 17** (1) • **Route 17W** (1) • **Route 18** (5) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (3) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 716** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (2) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 METRO C Line: Service Canceled
+
+- **Affected Routes**: `METRO C Line`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 19 AM and departing 7th St & Park St
+
+**Summary**: C Line trips departing Brooklyn Ctr Transit Ctr Gate I at 9:19 AM and departing 7th St & Park Station at 10:10 AM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/cline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: C Line trips departing Brooklyn Ctr Transit Ctr Gate I at 9:19 AM and departing 7th St & Park Station at 10:10 AM canceled today due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 Route 30: Service Canceled
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 53 AM
+departing Knox Ave N & Golden Valley Rd; 56 AM
+departing Knox Ave N & Golden Valley Rd
+
+**Summary**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today due to maintenance work
+
+```text
+Affected eastbound trips:
+departing Golden Valley Rd Turn & Xerxes Ave N at 7:53 AM
+departing Knox Ave N & Golden Valley Rd at 9:56 AM
+departing Knox Ave N & Golden Valley Rd at 11:56 AM
+
+Affected westbound trips:
+departing Westgate Station - Gate B at 7:07 AM
+departing Westgate Station - Gate B at 9:06 AM
+departing Westgate Station - Gate B at 11:04 AM
+```
+
+</details>
+
+---
+
+### 🚨 Route 615: Service Canceled
+
+- **Affected Routes**: `Route 615`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 51 AM and departing Excelsior Blvd & Quentin Ave
+
+**Summary**: Route 615 trips departing Ridgedale Mall & East Entrance at 7:51 AM and departing Excelsior Blvd & Quentin Ave at 8:51 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/615)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 615 trips departing Ridgedale Mall & East Entrance at 7:51 AM and departing Excelsior Blvd & Quentin Ave at 8:51 AM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 716: Service Canceled
+
+- **Affected Routes**: `Route 716`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing Brooklyn Blvd & Welcome Ave N
+
+**Summary**: Route 716 trip departing Robbinsdale Transit Center & Gate B at 8:11 AM and two other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/716)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 716 trip departing Robbinsdale Transit Center & Gate B at 8:11 AM and two other trips canceled today
+
+```text
+Affected northbound trips:
+departing Robbinsdale Transit Center & Gate B at 8:11 AM
+departing Robbinsdale Transit Center & Gate B at 9:11 AM
+
+Affected southbound trips:
+departing Brooklyn Blvd & Welcome Ave N at 8:38 AM
+```
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -114,48 +215,6 @@ Due to mechanical issues, both elevators at Franklin Ave Station are unavailable
 
 ---
 
-### ⚠️ METRO Blue Line: Service Advisory
-
-- **Affected Routes**: `METRO Blue Line`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Closed Stops**: Stop #51436, Stop #51437, Stop #51405, Stop #53280, Stop #53279, Stop #51420, Stop #51421, Stop #51422
-
-**Summary**: UPDATE: Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Saturday, Oct. 17 at 3 a.m.
-
-[Official Agency Advisory](https://www.metrotransit.org/closure)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: UPDATE: Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Saturday, Oct. 17 at 3 a.m.
-
-```text
-UPDATE: Starting at 3 a.m. on Saturday, Oct. 17, buses will replace trains on the METRO Blue Line between Airport-Terminal 2 and Mall of America stations to allow for needed maintenance.
-
-Please plan extra time for your trip. Replacement bus timing can vary and trips may take longer.
-
-Train service will resume Monday, Oct. 19.
-
- Visit metrotransit.org/closure for bus boarding locations. 
-
-
-Affected stops:
-Mall of America Station (northbound)
-30th Ave Station (northbound)
-Bloomington Central Station (northbound)
-American Blvd Station (northbound)
-Terminal 2 Station (southbound)
-American Blvd Station (southbound)
-Bloomington Central Station (southbound)
-30th Ave Station (southbound)
-Mall of America Station (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ METRO D Line: Detour via Chicago Ave S & 58th St E
 
 - **Affected Routes**: `METRO D Line`
@@ -206,6 +265,49 @@ Chicago & 46th St Station - Stop #56917 (southbound)
 Chicago & 48th St Station - Stop #56918 (southbound)
 Chicago & 52nd St Station - Stop #56919 (southbound)
 Chicago & 56th St Station - Stop #40472 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ METRO E Line: Detour via University Ave & 8th Ave S
+
+- **Affected Routes**: `METRO E Line`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: University Ave & 8th Ave S
+- **Closed Stops**: University & 11th Ave Station (Stop #16136), University & 15th Ave Station (Stop #16137), University & U of M Rec Center Station (Stop #16142), Stop #16130, Stop #16143
+
+**Summary**: METRO E Line detoured off University Ave from 10th Ave SE to Oak St from 6:00 PM to 8:00 PM on Fri Oct 23 due to U of M Homecoming Parade. Board at: University & 6th Ave Station - Stop #16130 (eastbound); Temporary stop on University Ave & 8th Ave SE (eastbound); University & Huron Station - Stop #16143 (eastbound).
+
+> 💡 **Rider Action**: Board at: University & 6th Ave Station - Stop #16130 (eastbound); Temporary stop on University Ave & 8th Ave SE (eastbound); University & Huron Station - Stop #16143 (eastbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route on University Ave to 10th Ave SE, left on 10th Ave, right on 5th St SE, right on Oak St, left on 4th St SE which becomes Oak St, left on University Ave, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/eline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: METRO E Line detoured off University Ave from 10th Ave SE to Oak St from 6:00 PM to 8:00 PM on Fri Oct 23 due to U of M Homecoming Parade
+
+```text
+Get on/off buses at:
+University & 6th Ave Station - Stop #16130 (eastbound)
+Temporary stop on University Ave & 8th Ave SE (eastbound)
+University & Huron Station - Stop #16143 (eastbound)
+
+Northbound buses will travel regular route on University Ave to 10th Ave SE, left on 10th Ave, right on 5th St SE, right on Oak St, left on 4th St SE which becomes Oak St, left on University Ave, and resume regular route.
+
+Southbound buses will travel regular route.
+
+Affected direction: Northbound
+
+Affected stops:
+University & 11th Ave Station - Stop #16136 (eastbound)
+University & 15th Ave Station - Stop #16137 (eastbound)
+University & U of M Rec Center Station - Stop #16142 (eastbound)
 ```
 
 </details>
@@ -336,6 +438,48 @@ Franklin Ave W & Pleasant Ave S - Stop #13328 (WB)
 
 ---
 
+### ⚠️ Route 2: Detour via 10th Ave SE & 5th St S
+
+- **Affected Routes**: `Route 2`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 10th Ave SE & 5th St S; Oak St SE & Washington Ave S
+- **Closed Stops**: University & 11th Ave Station (Stop #16136), University & 15th Ave Station (Stop #16137), University & U of M Rec Center Station (Stop #16142), Stop #56699, Stop #41248
+
+**Summary**: Route 2 detoured off University Ave from 10th Ave SE to Oak St from 6:00 PM to 8:00 PM on Fri Oct 23 due to U of M Homecoming Parade. Board at: 10th Ave SE & 5th St SE - Stop #56699 (southbound); Oak St SE & Washington Ave SE - Stop #41248 (southbound).
+
+> 💡 **Rider Action**: Board at: 10th Ave SE & 5th St SE - Stop #56699 (southbound); Oak St SE & Washington Ave SE - Stop #41248 (southbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 2 detoured off University Ave from 10th Ave SE to Oak St from 6:00 PM to 8:00 PM on Fri Oct 23 due to U of M Homecoming Parade
+
+```text
+Get on/off buses at:
+10th Ave SE & 5th St SE - Stop #56699 (southbound)
+Oak St SE & Washington Ave SE - Stop #41248 (southbound)
+
+Eastbound buses will travel regular route.
+
+Westbound buses will travel regular route on 10th Ave SE to 5th St SE, left on 5th St, right on Oak St, left on 4th St SE which becomes Oak St to University Ave, and resume regular route.
+
+Affected direction: Westbound
+
+Affected stops:
+University & 11th Ave Station - Stop #16136 (eastbound)
+University & 15th Ave Station - Stop #16137 (eastbound)
+University & U of M Rec Center Station - Stop #16142 (eastbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 3, Route 3A: Detour via Maryland Ave & Galtier St
 
 - **Affected Routes**: `Route 3` `Route 3A`
@@ -403,38 +547,86 @@ Maryland Ave & Galtier St - Stop #5579 (westbound)
 
 ---
 
-### ⚠️ Route 3, Route 62, Route 67: Detour via 11th St W & St Peter St
+### ⚠️ Route 3, Route 62, Route 67: Detour via Minnesota St & 9th St
 
 - **Affected Routes**: `Route 3` `Route 62` `Route 67`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Schedule**: Beginning Thu Oct 15 at 6:00 AM until further notice
-- **Corridors & Intersections**: 11th St W & St Peter St; Cedar St & 10th St; Cedar St & 7th St E; Cedar St (11th St to 7th St)
-- **Closed Stops**: Cedar St & 10th St (Stop #11912), Cedar St & 7th St E (Stop #57623), Stop #49450, Stop #20013
+- **Corridors & Intersections**: Minnesota St & 9th St; 12th St E & Wabasha St; 10th St E & Cedar St
+- **Closed Stops**: 10th St E & Cedar St (Stop #52329), Stop #50540, Stop #20008
 
-**Summary**: Routes 3, 62 and 67 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work. Board at: 11th St W & St Peter St - Stop #49450 (eastbound); Cedar St & 7th Place / 6th St - Stop #20013 (southbound).
+**Summary**: Routes 3, 62 and 67 detoured off 10th St from Minnesota St to Cedar St and off Cedar St from 10th St to 12th St from 7:00 AM to 2:00 PM on Sat Oct 24 due to utility work. Board at: Minnesota St & 9th St - Stop #50540 (northbound); 12th St E & Wabasha St - Stop #20008 (westbound).
 
-> 💡 **Rider Action**: Board at: 11th St W & St Peter St - Stop #49450 (eastbound); Cedar St & 7th Place / 6th St - Stop #20013 (southbound)
+> 💡 **Rider Action**: Board at: Minnesota St & 9th St - Stop #50540 (northbound); 12th St E & Wabasha St - Stop #20008 (westbound)
 
-> 🔄 **Detour Path**: southbound buses will travel regular route on 11th St to Cedar St, continue on 11th St to Robert St, right on Robert, right on 7th St, left on Cedar St, and resume regular route.
+> 🔄 **Detour Path**: southbound buses will travel regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/3)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Routes 3, 62 and 67 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work
+**Header**: Routes 3, 62 and 67 detoured off 10th St from Minnesota St to Cedar St and off Cedar St from 10th St to 12th St from 7:00 AM to 2:00 PM on Sat Oct 24 due to utility work
 
 ```text
 Get on/off buses at:
-11th St W & St Peter St - Stop #49450 (eastbound)
-Cedar St & 7th Place / 6th St - Stop #20013 (southbound)
+Minnesota St & 9th St - Stop #50540 (northbound)
+12th St E & Wabasha St - Stop #20008 (westbound)
 
-Eastbound/southbound buses will travel regular route on 11th St to Cedar St, continue on 11th St to Robert St, right on Robert, right on 7th St, left on Cedar St, and resume regular route.
+Eastbound/southbound buses will travel regular route.
 
-Westbound/northbound buses will travel regular route.
+Westbound/northbound buses will travel regular route on Minnesota St to 10th St, continue on Minnesota to 12th St, left on 12th St to Cedar St, and resume regular route.
 
 Affected stops:
-Cedar St & 10th St - Stop #11912 (southbound)
-Cedar St & 7th St E - Stop #57623 (southbound)
+10th St E & Cedar St - Stop #52329 (westbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 3: Detour via Route 3 detoured off Pleasant St & 15th Ave S
+
+- **Affected Routes**: `Route 3`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Route 3 detoured off Pleasant St & 15th Ave S; Washington Ave & Anderson Hall - St; Washington Ave & Coffman Union - St; 15th Ave SE & 4th St S; 15th Ave SE & 7th St S
+- **Closed Stops**: E River Pkwy & Appleby Hall (Stop #57013), Pleasant St & Jones Hall (Stop #49881), 15th Ave SE & 4th St SE (Stop #49242), Pleasant St & Eddy Hall (Stop #49237), Pleasant St SE & Scholars Walk (Stop #54046), Stop #13223, Stop #13209, Stop #16111 *(+3 more)*
+
+**Summary**: Route 3 detoured off Pleasant St/15th Ave SE from 5th St SE to Washington Ave from 6:00 PM to 8:00 PM on Fri Oct 23 due to U of M Homecoming Parade. Board at: Washington Ave & Anderson Hall - Stop #13223 (eastbound); Washington Ave & Coffman Union - Stop #13209 (eastbound); 15th Ave SE & 4th St SE - Stop #16111 (northbound).
+
+> 💡 **Rider Action**: Board at: Washington Ave & Anderson Hall - Stop #13223 (eastbound); Washington Ave & Coffman Union - Stop #13209 (eastbound); 15th Ave SE & 4th St SE - Stop #16111 (northbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on Washington Ave to Pleasant St, continue on Washington to Oak St, left on Oak, veer left onto 4th St SE, right on 15th Ave SE, and resume reuglar route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/3)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 3 detoured off Pleasant St/15th Ave SE from 5th St SE to Washington Ave from 6:00 PM to 8:00 PM on Fri Oct 23 due to U of M Homecoming Parade
+
+```text
+For eastbound Route 3 get on/off buses at:
+Washington Ave & Anderson Hall - Stop #13223 (eastbound)
+Washington Ave & Coffman Union - Stop #13209 (eastbound)
+15th Ave SE & 4th St SE - Stop #16111 (northbound)
+
+For westbound Route 3 get on/off buses at:
+15th Ave SE & 7th St SE - Stop #57015 (southbound)
+Washington Ave & Coffman Union - Stop #13207 (westbound)
+Washington Ave & Willey Hall - Stop #13211 (westbound)
+
+Eastbound buses will travel regular route on Washington Ave to Pleasant St, continue on Washington to Oak St, left on Oak, veer left onto 4th St SE, right on 15th Ave SE, and resume reuglar route.
+
+Westbound buses will travel regular route on 15th Ave SE to 5th St SE, left on 5th St, right on Oak St, left on 4th St SE which becomes Oak St, right on Washington Ave to Pleasant St, and resume regular route.
+
+Affected stops:
+E River Pkwy & Appleby Hall - Stop #57013 (northbound)
+Pleasant St & Jones Hall - Stop #49881 (northbound)
+15th Ave SE & 4th St SE - Stop #49242 (southbound)
+Pleasant St & Eddy Hall - Stop #49237 (southbound)
+Pleasant St SE & Scholars Walk - Stop #54046 (southbound)
 ```
 
 </details>
@@ -935,6 +1127,54 @@ Chicago Ave S & 54th St E - Stop #777 (northbound)
 
 ---
 
+### ⚠️ Route 17, Route 17W: Detour via Route 17W detoured off 7th St NE & Monroe St
+
+- **Affected Routes**: `Route 17` `Route 17W`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Tue Oct 20 at 7:00 AM until further notice
+- **Corridors & Intersections**: Route 17W detoured off 7th St NE & Monroe St; Central Ave & 5th St S; Central Ave NE & 7th St S; Broadway St & Monroe St N; Central Ave NE & 7th St N
+- **Closed Stops**: 7th St NE & Central Ave NE (Stop #51077), Monroe St & Spring St NE (Stop #15486), Monroe St & Spring St NE (Stop #15531), 7th St NE & Central Ave NE (Stop #15533), Stop #14954, Stop #17224, Stop #15488, Stop #12665 *(+2 more)*
+
+**Summary**: Route 17W detoured off 7th St NE/Monroe St from Central Ave to Spring St beginning Tue Oct 20 at 7:00 AM until further notice due to construction. Board at: Central Ave & 5th St SE - Stop #14954 (northbound); Central Ave NE & 7th St SE - Stop #17224 (northbound); Broadway St & Monroe St NE - Stop #15488 (westbound).
+
+> 💡 **Rider Action**: Board at: Central Ave & 5th St SE - Stop #14954 (northbound); Central Ave NE & 7th St SE - Stop #17224 (northbound); Broadway St & Monroe St NE - Stop #15488 (westbound)
+
+> 🔄 **Detour Path**: buses will travel regular route on Central Ave to 7th St NE, continue on Central to Spring St, left on Spring, right on Monroe St, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/17)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 17W detoured off 7th St NE/Monroe St from Central Ave to Spring St beginning Tue Oct 20 at 7:00 AM until further notice due to construction
+
+```text
+For eastbound Route 17 get on/off buses at:
+Central Ave & 5th St SE - Stop #14954 (northbound)
+Central Ave NE & 7th St SE - Stop #17224 (northbound)
+Broadway St & Monroe St NE - Stop #15488 (westbound)
+
+For westbound Route 17 get on/off buses at:
+Broadway St & Monroe St NE - Stop #12665 (eastbound)
+Central Ave NE & 7th St NE - Stop #17225 (southbound)
+Central Ave NE & Hennepin Ave E - Stop #17227 (southbound)
+
+Eastbound 17W buses will travel regular route on Central Ave to 7th St NE, continue on Central to Spring St, left on Spring, right on Monroe St, and resume regular route.
+
+Westbound 17 buses that depart Central/26th Ave NE will travel regular route on Monroe St to Spring St, left on Spring, right on Central Ave to 7th St NE, and resume regular route.
+
+Affected stops:
+7th St NE & Central Ave NE - Stop #51077 (northbound)
+Monroe St & Spring St NE - Stop #15486 (northbound)
+Monroe St & Spring St NE - Stop #15531 (southbound)
+7th St NE & Central Ave NE - Stop #15533 (southbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 18: Detour via Nicollet Ave S & 56th St E
 
 - **Affected Routes**: `Route 18`
@@ -1227,47 +1467,6 @@ Lyndale Ave N & 34th Ave N - Stop #11193 (northbound)
 Lyndale Ave N & 36th Ave N - Stop #11195 (northbound)
 Lyndale Ave N & Dowling Ave N - Stop #11197 (northbound)
 Lyndale Ave N & 34th Ave N - Stop #11639 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 22, Route 22C: Detour via 53rd Ave N & Colfax Ave
-
-- **Affected Routes**: `Route 22` `Route 22C`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Thu Oct 8 at 7:00 AM until further notice
-- **Corridors & Intersections**: 53rd Ave N & Colfax Ave; Dupont Ave N & 57th Ave N; Dupont Ave N & 55th Ave N; Dupont Ave (54th Ave to 55th Ave)
-- **Closed Stops**: Dupont Ave N & 55th Ave N (Stop #52676), Stop #52675, Stop #11442
-
-**Summary**: Route 22C detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice. Board at: 53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N & 57th Ave N - Stop #11442 (northbound).
-
-> 💡 **Rider Action**: Board at: 53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N & 57th Ave N - Stop #11442 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel the regular route on Dupont Ave to 54th Ave, left on 54th Ave, right on Emerson Ave, right on 55th Ave, left on Dupont Ave, and resume the regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/22)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 22C detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice
-
-```text
-Get on/off northbound buses at:
-53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound)
-Dupont Ave N & 57th Ave N - Stop #11442 (northbound)
-
-No southbound stops are missed.
-
-Northbound buses will travel the regular route on Dupont Ave to 54th Ave, left on 54th Ave, right on Emerson Ave, right on 55th Ave, left on Dupont Ave, and resume the regular route.
-
-Southbound buses will travel the regular route on Dupont Ave to 55th Ave, right on 55th Ave, left on Emerson Ave, left on 54th Ave, right on Dupont Ave, and resume the regular route.
-
-Affected stops:
-Dupont Ave N & 55th Ave N - Stop #52676 (northbound)
 ```
 
 </details>
@@ -2760,48 +2959,6 @@ Westbound buses will travel regular route on 46th St to Hiawatha Ave, right on H
 
 ---
 
-### ⚠️ Route 75: Detour via Minnesota St & 11th St
-
-- **Affected Routes**: `Route 75`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Thu Oct 15 at 6:00 AM until further notice
-- **Corridors & Intersections**: Minnesota St & 11th St; Cedar St & 10th St; Cedar St & 7th St E; Cedar St (11th St to 7th St)
-- **Closed Stops**: Cedar St & 10th St (Stop #11912), Cedar St & 7th St E (Stop #57623), Stop #80701, Stop #20013
-
-**Summary**: Route 75 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work. Board at: Minnesota St & 11th St - Stop #80701 (northbound); Cedar St & 7th Place / 6th St - Stop #20013 (southbound).
-
-> 💡 **Rider Action**: Board at: Minnesota St & 11th St - Stop #80701 (northbound); Cedar St & 7th Place / 6th St - Stop #20013 (southbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/75)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 75 detoured off Cedar St from 11th St to 7th St beginning Thu Oct 15 at 6:00 AM until further notice due to utility work
-
-```text
-Get on/off buses at:
-Minnesota St & 11th St - Stop #80701 (northbound)
-Cedar St & 7th Place / 6th St - Stop #20013 (southbound)
-
-Northbound buses will travel regular route.
-
-Southbound buses will travel regular route on Cedar St to 11th St, left on 11th St, right on Robert St, right on 7th St, left on Cedar St, and resume regular route.
-
-Affected direction: Southbound
-
-Affected stops:
-Cedar St & 10th St - Stop #11912 (southbound)
-Cedar St & 7th St E - Stop #57623 (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 134, Route 14, Route 355, Route 363, Route 94: Stop Closed at 6th St S & 11th Ave S
 
 - **Affected Routes**: `Route 134` `Route 14` `Route 355` `Route 363` `Route 94`
@@ -3847,47 +4004,6 @@ Southbound buses will travel regular route.
 Affected stops:
 3rd St S & Nicollet Mall - Stop #40172 (westbound)
 3rd St N & 1st Ave N - Stop #17960 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 763: Detour via 53rd Ave N & Colfax Ave
-
-- **Affected Routes**: `Route 763`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Thu Oct 8 at 7:00 AM until further notice
-- **Corridors & Intersections**: 53rd Ave N & Colfax Ave; Dupont Ave N & 57th Ave N; Dupont Ave N & 55th Ave N; Dupont Ave (54th Ave to 55th Ave)
-- **Closed Stops**: Dupont Ave N & 55th Ave N (Stop #52676), Stop #52675, Stop #11442
-
-**Summary**: Route 763 detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice. Board at: 53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N & 57th Ave N - Stop #11442 (northbound).
-
-> 💡 **Rider Action**: Board at: 53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound); Dupont Ave N & 57th Ave N - Stop #11442 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel the regular route on Dupont Ave to 54th Ave, left on 54th Ave, right on Emerson Ave, right on 55th Ave, left on Dupont Ave, and resume the regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/763)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 763 detoured off Dupont Ave from 54th Ave to 55th Ave beginning Thu Oct 8 at 7:00 AM until further notice
-
-```text
-Get on/off northbound buses at:
-53rd Ave N & Colfax Ave / Dupont Ave - Stop #52675 (westbound)
-Dupont Ave N & 57th Ave N - Stop #11442 (northbound)
-
-No southbound stops are missed.
-
-Northbound buses will travel the regular route on Dupont Ave to 54th Ave, left on 54th Ave, right on Emerson Ave, right on 55th Ave, left on Dupont Ave, and resume the regular route.
-
-Southbound buses will travel the regular route on Dupont Ave to 55th Ave, right on 55th Ave, left on Emerson Ave, left on 54th Ave, right on Dupont Ave, and resume the regular route.
-
-Affected stops:
-Dupont Ave N & 55th Ave N - Stop #52676 (northbound)
 ```
 
 </details>
