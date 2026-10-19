@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-19T15:30:22.646Z",
-    "totalAlerts": 106,
-    "criticalCount": 4,
+    "generatedAt": "2026-10-19T20:58:52.804Z",
+    "totalAlerts": 113,
+    "criticalCount": 11,
     "moderateCount": 98,
     "minorCount": 4,
     "affectedRoutesCount": 80,
@@ -12,117 +12,383 @@
   },
   "alerts": [
     {
-      "id": "54345",
+      "id": "54359",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO C Line: Service Canceled",
-      "summary": "C Line trips departing Brooklyn Ctr Transit Ctr Gate I at 9:19 AM and departing 7th St & Park Station at 10:10 AM canceled today due to mechanical issue",
+      "title": "METRO Blue Line: Service Advisory",
+      "summary": "Northbound Blue Line trip departing Mall of America Station at 2:16 PM will start from 30th Ave Station. Mall Of America Station missed due to medical emergency",
       "affectedRoutes": [
-        "METRO C Line"
+        "METRO Blue Line"
       ],
-      "direction": "Both Directions",
-      "intersections": [
-        "19 AM and departing 7th St & Park St"
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [
+        "51405"
       ],
+      "closedStopDetails": [
+        {
+          "id": "51405"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {},
+      "cause": "MEDICAL_EMERGENCY",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/blue",
+      "updatedAt": "2026-10-19T20:57:02.000Z",
+      "rawHeader": "Northbound Blue Line trip departing Mall of America Station at 2:16 PM will start from 30th Ave Station. Mall Of America Station missed due to medical emergency",
+      "rawDescription": ""
+    },
+    {
+      "id": "54360",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO D Line: Service Advisory",
+      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 2:30 PM will start from Chicago & Lake. Previous stops missed",
+      "affectedRoutes": [
+        "METRO D Line"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [
+        "47447",
+        "56921",
+        "56922",
+        "56923",
+        "56924",
+        "56925",
+        "620",
+        "639",
+        "643",
+        "4513",
+        "80138",
+        "56873",
+        "784",
+        "779",
+        "737",
+        "775"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "47447"
+        },
+        {
+          "id": "56921"
+        },
+        {
+          "id": "56922"
+        },
+        {
+          "id": "56923"
+        },
+        {
+          "id": "56924"
+        },
+        {
+          "id": "56925"
+        },
+        {
+          "id": "620"
+        },
+        {
+          "id": "639"
+        },
+        {
+          "id": "643"
+        },
+        {
+          "id": "4513"
+        },
+        {
+          "id": "80138"
+        },
+        {
+          "id": "56873"
+        },
+        {
+          "id": "784"
+        },
+        {
+          "id": "779"
+        },
+        {
+          "id": "737"
+        },
+        {
+          "id": "775"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-19T19:32:00.000Z",
+        "end": "2026-10-19T21:49:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-10-19T19:32:56.000Z",
+      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 2:30 PM will start from Chicago & Lake. Previous stops missed",
+      "rawDescription": ""
+    },
+    {
+      "id": "54361",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO Orange Line: Southbound 2:33 PM Trip Canceled (Marquette Ave & 3rd St - Stop Group C)",
+      "summary": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 2:33 PM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "METRO Orange Line"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-19T14:28:00.000Z",
-        "end": "2026-10-19T16:40:00.000Z"
+        "start": "2026-10-19T19:39:00.000Z",
+        "end": "2026-10-19T21:08:00.000Z"
       },
       "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/cline",
-      "updatedAt": "2026-10-19T14:29:08.000Z",
-      "rawHeader": "C Line trips departing Brooklyn Ctr Transit Ctr Gate I at 9:19 AM and departing 7th St & Park Station at 10:10 AM canceled today due to mechanical issue",
+      "url": "https://www.metrotransit.org/route/orange",
+      "updatedAt": "2026-10-19T19:40:56.000Z",
+      "rawHeader": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 2:33 PM canceled today due to mechanical issue",
       "rawDescription": ""
     },
     {
-      "id": "54333",
+      "id": "54362",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO Orange Line: Service Advisory",
+      "summary": "Northbound Orange Line trip departing Burnsville Heart of the City Station at 3:19 PM will start from I-35W & 98th St Station. Previous stops missed",
+      "affectedRoutes": [
+        "METRO Orange Line"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [
+        "56829",
+        "56830"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "56829"
+        },
+        {
+          "id": "56830"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-19T20:19:00.000Z",
+        "end": "2026-10-19T21:55:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/orange",
+      "updatedAt": "2026-10-19T20:11:17.000Z",
+      "rawHeader": "Northbound Orange Line trip departing Burnsville Heart of the City Station at 3:19 PM will start from I-35W & 98th St Station. Previous stops missed",
+      "rawDescription": ""
+    },
+    {
+      "id": "54351",
       "agency": "Metro Transit",
       "severity": "Critical",
       "title": "Route 30: Service Canceled",
-      "summary": "Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today due to maintenance work",
+      "summary": "Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today due to mechanical issue",
       "affectedRoutes": [
         "Route 30"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "53 AM\ndeparting Knox Ave N & Golden Valley Rd",
-        "56 AM\ndeparting Knox Ave N & Golden Valley Rd"
+        "departing Knox Ave N & Golden Valley Rd",
+        "56 PM\ndeparting Knox Ave N & Golden Valley Rd",
+        "54 PM\ndeparting Knox Ave N & Golden Valley Rd"
       ],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-19T12:07:00.000Z",
-        "end": "2026-10-19T18:36:00.000Z"
+        "start": "2026-10-19T18:04:00.000Z",
+        "end": "2026-10-20T02:35:00.000Z"
       },
-      "cause": "MAINTENANCE",
+      "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-10-19T12:01:56.000Z",
-      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today due to maintenance work",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:53 AM\r\ndeparting Knox Ave N & Golden Valley Rd at 9:56 AM\r\ndeparting Knox Ave N & Golden Valley Rd at 11:56 AM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 7:07 AM\r\ndeparting Westgate Station - Gate B at 9:06 AM\r\ndeparting Westgate Station - Gate B at 11:04 AM"
+      "updatedAt": "2026-10-19T17:34:01.000Z",
+      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today due to mechanical issue",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 1:56 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 3:54 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 5:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 1:04 PM\r\ndeparting Westgate Station - Gate B at 3:04 PM\r\ndeparting Westgate Station - Gate B at 5:04 PM\r\ndeparting Westgate Station - Gate B at 7:05 PM"
     },
     {
-      "id": "54334",
+      "id": "54358",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 30: Service Canceled",
+      "summary": "Route 30 trips departing Westgate Station - Gate B at 8:36 PM and departing Golden Valley Rd Turn & Xerxes Ave N at 9:25 PM canceled today",
+      "affectedRoutes": [
+        "Route 30"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-20T01:36:00.000Z",
+        "end": "2026-10-20T04:05:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/30",
+      "updatedAt": "2026-10-19T18:18:32.000Z",
+      "rawHeader": "Route 30 trips departing Westgate Station - Gate B at 8:36 PM and departing Golden Valley Rd Turn & Xerxes Ave N at 9:25 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "54348",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 71: Service Canceled",
+      "summary": "Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled due to mechanical issue",
+      "affectedRoutes": [
+        "Route 71"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-19T16:03:00.000Z",
+        "end": "2026-10-19T22:58:23.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/71",
+      "updatedAt": "2026-10-19T16:03:35.000Z",
+      "rawHeader": "Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled due to mechanical issue",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 1:38 PM\r\ndeparting Inver Hills College & Shelter at 4:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 3:10 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 6:15 PM"
+    },
+    {
+      "id": "54357",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 80: Service Canceled",
+      "summary": "Route 80 trip departing Sun Ray Transit Center & Gate E at 7:12 PM and five other trips canceled today",
+      "affectedRoutes": [
+        "Route 80"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-20T00:12:00.000Z",
+        "end": "2026-10-20T04:04:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/80",
+      "updatedAt": "2026-10-19T18:17:44.000Z",
+      "rawHeader": "Route 80 trip departing Sun Ray Transit Center & Gate E at 7:12 PM and five other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate E at 7:12 PM\r\ndeparting Sun Ray Transit Center & Gate E at 8:12 PM\r\ndeparting Sun Ray Transit Center & Gate E at 9:12 PM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate F at 7:42 PM\r\ndeparting Maplewood Mall Transit Center & Gate F at 8:42 PM\r\ndeparting Maplewood Mall Transit Center & Gate F at 9:42 PM"
+    },
+    {
+      "id": "54352",
       "agency": "Metro Transit",
       "severity": "Critical",
       "title": "Route 615: Service Canceled",
-      "summary": "Route 615 trips departing Ridgedale Mall & East Entrance at 7:51 AM and departing Excelsior Blvd & Quentin Ave at 8:51 AM canceled today",
+      "summary": "Route 615 trip departing Excelsior Blvd & Quentin Ave at 12:51 PM and six other trips canceled today",
       "affectedRoutes": [
         "Route 615"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "51 AM and departing Excelsior Blvd & Quentin Ave"
+        "Route 615 trip departing Excelsior Blvd & Quentin Ave",
+        "departing Excelsior Blvd & Quentin Ave",
+        "51 PM\ndeparting Excelsior Blvd & Quentin Ave"
       ],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-19T12:51:00.000Z",
-        "end": "2026-10-19T15:42:00.000Z"
+        "start": "2026-10-19T17:51:00.000Z",
+        "end": "2026-10-20T01:42:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/615",
-      "updatedAt": "2026-10-19T12:37:26.000Z",
-      "rawHeader": "Route 615 trips departing Ridgedale Mall & East Entrance at 7:51 AM and departing Excelsior Blvd & Quentin Ave at 8:51 AM canceled today",
-      "rawDescription": ""
+      "updatedAt": "2026-10-19T17:27:55.000Z",
+      "rawHeader": "Route 615 trip departing Excelsior Blvd & Quentin Ave at 12:51 PM and six other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Ridgedale Mall & East Entrance at 1:51 PM\r\ndeparting Ridgedale Mall & East Entrance at 3:51 PM\r\ndeparting Ridgedale Mall & East Entrance at 5:51 PM\r\n\nAffected westbound trips:\r\ndeparting Excelsior Blvd & Quentin Ave at 12:51 PM\r\ndeparting Excelsior Blvd & Quentin Ave at 2:51 PM\r\ndeparting Excelsior Blvd & Quentin Ave at 4:51 PM\r\ndeparting Excelsior Blvd & Quentin Ave at 6:51 PM"
     },
     {
-      "id": "54344",
+      "id": "54346",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 716: Service Canceled",
-      "summary": "Route 716 trip departing Robbinsdale Transit Center & Gate B at 8:11 AM and two other trips canceled today",
+      "title": "Route 802: Service Canceled",
+      "summary": "Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue",
       "affectedRoutes": [
-        "Route 716"
+        "Route 802"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-19T16:43:00.000Z",
+        "end": "2026-10-20T00:24:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/802",
+      "updatedAt": "2026-10-19T16:13:01.000Z",
+      "rawHeader": "Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 11:43 AM\r\ndeparting Anoka Tech College & Main Entrance at 1:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 3:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 5:45 PM"
+    },
+    {
+      "id": "54347",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 805: Service Canceled",
+      "summary": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 805"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "departing Brooklyn Blvd & Welcome Ave N"
+        "Route 805 trip departing 1st Ave S & Monroe St",
+        "departing 1st Ave S & Monroe St",
+        "38 AM\ndeparting 1st Ave S & Monroe St",
+        "38 PM\ndeparting 1st Ave S & Monroe St",
+        "36 PM\ndeparting 1st Ave S & Monroe St"
       ],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-19T14:22:00.000Z",
-        "end": "2026-10-19T15:35:00.000Z"
+        "start": "2026-10-19T16:02:00.000Z",
+        "end": "2026-10-19T22:58:23.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/716",
-      "updatedAt": "2026-10-19T14:23:05.000Z",
-      "rawHeader": "Route 716 trip departing Robbinsdale Transit Center & Gate B at 8:11 AM and two other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Robbinsdale Transit Center & Gate B at 8:11 AM\r\ndeparting Robbinsdale Transit Center & Gate B at 9:11 AM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Blvd & Welcome Ave N at 8:38 AM"
+      "url": "https://www.metrotransit.org/route/805",
+      "updatedAt": "2026-10-19T16:02:36.000Z",
+      "rawHeader": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 11:38 AM\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
     },
     {
       "id": "52943",

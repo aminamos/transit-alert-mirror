@@ -2,35 +2,94 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-106-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-113-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-11-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-98-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-80-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-19T15:30:22.646Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-19T20:58:52.804Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (1) • **Route 14** (3) • **Route 17** (1) • **Route 17W** (1) • **Route 18** (5) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (3) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 716** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (2) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (2) • **METRO E Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (1) • **Route 14** (3) • **Route 17** (1) • **Route 17W** (1) • **Route 18** (5) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 30** (2) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 80** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (3) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (3) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO C Line: Service Canceled
+### 🚨 METRO Blue Line: Service Advisory
 
-- **Affected Routes**: `METRO C Line`
-- **Direction**: Both Directions
+- **Affected Routes**: `METRO Blue Line`
+- **Direction**: Northbound
 - **Severity**: `Critical`
-- **Corridors & Intersections**: 19 AM and departing 7th St & Park St
+- **Closed Stops**: Stop #51405
 
-**Summary**: C Line trips departing Brooklyn Ctr Transit Ctr Gate I at 9:19 AM and departing 7th St & Park Station at 10:10 AM canceled today due to mechanical issue
+**Summary**: Northbound Blue Line trip departing Mall of America Station at 2:16 PM will start from 30th Ave Station. Mall Of America Station missed due to medical emergency
 
-[Official Agency Advisory](https://www.metrotransit.org/route/cline)
+[Official Agency Advisory](https://www.metrotransit.org/route/blue)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: C Line trips departing Brooklyn Ctr Transit Ctr Gate I at 9:19 AM and departing 7th St & Park Station at 10:10 AM canceled today due to mechanical issue
+**Header**: Northbound Blue Line trip departing Mall of America Station at 2:16 PM will start from 30th Ave Station. Mall Of America Station missed due to medical emergency
+
+</details>
+
+---
+
+### 🚨 METRO D Line: Service Advisory
+
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #47447, Stop #56921, Stop #56922, Stop #56923, Stop #56924, Stop #56925, Stop #620, Stop #639 *(+8 more)*
+
+**Summary**: Northbound D Line trip departing MOA Transit Station Gate A at 2:30 PM will start from Chicago & Lake. Previous stops missed
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound D Line trip departing MOA Transit Station Gate A at 2:30 PM will start from Chicago & Lake. Previous stops missed
+
+</details>
+
+---
+
+### 🚨 METRO Orange Line: Southbound 2:33 PM Trip Canceled (Marquette Ave & 3rd St - Stop Group C)
+
+- **Affected Routes**: `METRO Orange Line`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 2:33 PM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/orange)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 2:33 PM canceled today due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 METRO Orange Line: Service Advisory
+
+- **Affected Routes**: `METRO Orange Line`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #56829, Stop #56830
+
+**Summary**: Northbound Orange Line trip departing Burnsville Heart of the City Station at 3:19 PM will start from I-35W & 98th St Station. Previous stops missed
+
+[Official Agency Advisory](https://www.metrotransit.org/route/orange)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Orange Line trip departing Burnsville Heart of the City Station at 3:19 PM will start from I-35W & 98th St Station. Previous stops missed
 
 </details>
 
@@ -41,29 +100,110 @@
 - **Affected Routes**: `Route 30`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: 53 AM
-departing Knox Ave N & Golden Valley Rd; 56 AM
+- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 56 PM
+departing Knox Ave N & Golden Valley Rd; 54 PM
 departing Knox Ave N & Golden Valley Rd
 
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today due to maintenance work
+**Summary**: Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today due to mechanical issue
 
 [Official Agency Advisory](https://www.metrotransit.org/route/30)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today due to maintenance work
+**Header**: Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today due to mechanical issue
 
 ```text
 Affected eastbound trips:
-departing Golden Valley Rd Turn & Xerxes Ave N at 7:53 AM
-departing Knox Ave N & Golden Valley Rd at 9:56 AM
-departing Knox Ave N & Golden Valley Rd at 11:56 AM
+departing Knox Ave N & Golden Valley Rd at 1:56 PM
+departing Knox Ave N & Golden Valley Rd at 3:54 PM
+departing Knox Ave N & Golden Valley Rd at 5:56 PM
+departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM
 
 Affected westbound trips:
-departing Westgate Station - Gate B at 7:07 AM
-departing Westgate Station - Gate B at 9:06 AM
-departing Westgate Station - Gate B at 11:04 AM
+departing Westgate Station - Gate B at 1:04 PM
+departing Westgate Station - Gate B at 3:04 PM
+departing Westgate Station - Gate B at 5:04 PM
+departing Westgate Station - Gate B at 7:05 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 30: Service Canceled
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 30 trips departing Westgate Station - Gate B at 8:36 PM and departing Golden Valley Rd Turn & Xerxes Ave N at 9:25 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 30 trips departing Westgate Station - Gate B at 8:36 PM and departing Golden Valley Rd Turn & Xerxes Ave N at 9:25 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 71: Service Canceled
+
+- **Affected Routes**: `Route 71`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/71)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled due to mechanical issue
+
+```text
+Affected northbound trips:
+departing Inver Hills College & Shelter at 1:38 PM
+departing Inver Hills College & Shelter at 4:38 PM
+
+Affected southbound trips:
+departing Market Place Dr & The Marketplace Ctr at 3:10 PM
+departing Market Place Dr & The Marketplace Ctr at 6:15 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 80: Service Canceled
+
+- **Affected Routes**: `Route 80`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 80 trip departing Sun Ray Transit Center & Gate E at 7:12 PM and five other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/80)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 80 trip departing Sun Ray Transit Center & Gate E at 7:12 PM and five other trips canceled today
+
+```text
+Affected northbound trips:
+departing Sun Ray Transit Center & Gate E at 7:12 PM
+departing Sun Ray Transit Center & Gate E at 8:12 PM
+departing Sun Ray Transit Center & Gate E at 9:12 PM
+
+Affected southbound trips:
+departing Maplewood Mall Transit Center & Gate F at 7:42 PM
+departing Maplewood Mall Transit Center & Gate F at 8:42 PM
+departing Maplewood Mall Transit Center & Gate F at 9:42 PM
 ```
 
 </details>
@@ -75,44 +215,97 @@ departing Westgate Station - Gate B at 11:04 AM
 - **Affected Routes**: `Route 615`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: 51 AM and departing Excelsior Blvd & Quentin Ave
+- **Corridors & Intersections**: Route 615 trip departing Excelsior Blvd & Quentin Ave; departing Excelsior Blvd & Quentin Ave; 51 PM
+departing Excelsior Blvd & Quentin Ave
 
-**Summary**: Route 615 trips departing Ridgedale Mall & East Entrance at 7:51 AM and departing Excelsior Blvd & Quentin Ave at 8:51 AM canceled today
+**Summary**: Route 615 trip departing Excelsior Blvd & Quentin Ave at 12:51 PM and six other trips canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/615)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 615 trips departing Ridgedale Mall & East Entrance at 7:51 AM and departing Excelsior Blvd & Quentin Ave at 8:51 AM canceled today
+**Header**: Route 615 trip departing Excelsior Blvd & Quentin Ave at 12:51 PM and six other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Ridgedale Mall & East Entrance at 1:51 PM
+departing Ridgedale Mall & East Entrance at 3:51 PM
+departing Ridgedale Mall & East Entrance at 5:51 PM
+
+Affected westbound trips:
+departing Excelsior Blvd & Quentin Ave at 12:51 PM
+departing Excelsior Blvd & Quentin Ave at 2:51 PM
+departing Excelsior Blvd & Quentin Ave at 4:51 PM
+departing Excelsior Blvd & Quentin Ave at 6:51 PM
+```
 
 </details>
 
 ---
 
-### 🚨 Route 716: Service Canceled
+### 🚨 Route 802: Service Canceled
 
-- **Affected Routes**: `Route 716`
+- **Affected Routes**: `Route 802`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: departing Brooklyn Blvd & Welcome Ave N
 
-**Summary**: Route 716 trip departing Robbinsdale Transit Center & Gate B at 8:11 AM and two other trips canceled today
+**Summary**: Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue
 
-[Official Agency Advisory](https://www.metrotransit.org/route/716)
+[Official Agency Advisory](https://www.metrotransit.org/route/802)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 716 trip departing Robbinsdale Transit Center & Gate B at 8:11 AM and two other trips canceled today
+**Header**: Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue
 
 ```text
 Affected northbound trips:
-departing Robbinsdale Transit Center & Gate B at 8:11 AM
-departing Robbinsdale Transit Center & Gate B at 9:11 AM
+departing Northtown Transit Ctr Gate E at 12:34 PM
+departing Northtown Transit Ctr Gate E at 2:34 PM
+departing Northtown Transit Ctr Gate E at 4:34 PM
 
 Affected southbound trips:
-departing Brooklyn Blvd & Welcome Ave N at 8:38 AM
+departing Anoka Tech College & Main Entrance at 11:43 AM
+departing Anoka Tech College & Main Entrance at 1:42 PM
+departing Anoka Tech College & Main Entrance at 3:42 PM
+departing Anoka Tech College & Main Entrance at 5:45 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 805: Service Canceled
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
+departing 1st Ave S & Monroe St; 38 PM
+departing 1st Ave S & Monroe St; 36 PM
+departing 1st Ave S & Monroe St
+
+**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate D at 12:34 PM
+departing Northtown Transit Ctr Gate D at 2:34 PM
+departing Northtown Transit Ctr Gate D at 4:34 PM
+
+Affected southbound trips:
+departing 1st Ave S & Monroe St at 11:38 AM
+departing 1st Ave S & Monroe St at 1:38 PM
+departing 1st Ave S & Monroe St at 3:36 PM
+departing 1st Ave S & Monroe St at 5:38 PM
 ```
 
 </details>

@@ -4,44 +4,107 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Mon, 19 Oct 2026 15:30:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 20:58:52 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO C Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/cline</link>
-      <guid isPermaLink="false">Metro Transit-54345-2026-10-19T14:29:08.000Z</guid>
-      <pubDate>Mon, 19 Oct 2026 14:29:08 GMT</pubDate>
+      <title>[Critical] METRO Blue Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/blue</link>
+      <guid isPermaLink="false">Metro Transit-54359-2026-10-19T20:57:02.000Z</guid>
+      <pubDate>Mon, 19 Oct 2026 20:57:02 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO C Line</category>
-      <description>C Line trips departing Brooklyn Ctr Transit Ctr Gate I at 9:19 AM and departing 7th St &amp; Park Station at 10:10 AM canceled today due to mechanical issue</description>
+      <category>METRO Blue Line</category>
+      <description>Northbound Blue Line trip departing Mall of America Station at 2:16 PM will start from 30th Ave Station. Mall Of America Station missed due to medical emergency</description>
+    </item>
+    <item>
+      <title>[Critical] METRO D Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-54360-2026-10-19T19:32:56.000Z</guid>
+      <pubDate>Mon, 19 Oct 2026 19:32:56 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO D Line</category>
+      <description>Northbound D Line trip departing MOA Transit Station Gate A at 2:30 PM will start from Chicago &amp; Lake. Previous stops missed</description>
+    </item>
+    <item>
+      <title>[Critical] METRO Orange Line: Southbound 2:33 PM Trip Canceled (Marquette Ave &amp; 3rd St - Stop Group C)</title>
+      <link>https://www.metrotransit.org/route/orange</link>
+      <guid isPermaLink="false">Metro Transit-54361-2026-10-19T19:40:56.000Z</guid>
+      <pubDate>Mon, 19 Oct 2026 19:40:56 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO Orange Line</category>
+      <description>Southbound Orange Line trip departing Marquette Ave &amp; 3rd St - Stop Group C at 2:33 PM canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] METRO Orange Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/orange</link>
+      <guid isPermaLink="false">Metro Transit-54362-2026-10-19T20:11:17.000Z</guid>
+      <pubDate>Mon, 19 Oct 2026 20:11:17 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO Orange Line</category>
+      <description>Northbound Orange Line trip departing Burnsville Heart of the City Station at 3:19 PM will start from I-35W &amp; 98th St Station. Previous stops missed</description>
     </item>
     <item>
       <title>[Critical] Route 30: Service Canceled</title>
       <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-54333-2026-10-19T12:01:56.000Z</guid>
-      <pubDate>Mon, 19 Oct 2026 12:01:56 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54351-2026-10-19T17:34:01.000Z</guid>
+      <pubDate>Mon, 19 Oct 2026 17:34:01 GMT</pubDate>
       <category>Critical</category>
       <category>Route 30</category>
-      <description>Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today due to maintenance work</description>
+      <description>Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 30: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/30</link>
+      <guid isPermaLink="false">Metro Transit-54358-2026-10-19T18:18:32.000Z</guid>
+      <pubDate>Mon, 19 Oct 2026 18:18:32 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 30</category>
+      <description>Route 30 trips departing Westgate Station - Gate B at 8:36 PM and departing Golden Valley Rd Turn &amp; Xerxes Ave N at 9:25 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 71: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/71</link>
+      <guid isPermaLink="false">Metro Transit-54348-2026-10-19T16:03:35.000Z</guid>
+      <pubDate>Mon, 19 Oct 2026 16:03:35 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 71</category>
+      <description>Route 71 trip departing Inver Hills College &amp; Shelter at 1:38 PM and three other trips canceled due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 80: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/80</link>
+      <guid isPermaLink="false">Metro Transit-54357-2026-10-19T18:17:44.000Z</guid>
+      <pubDate>Mon, 19 Oct 2026 18:17:44 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 80</category>
+      <description>Route 80 trip departing Sun Ray Transit Center &amp; Gate E at 7:12 PM and five other trips canceled today</description>
     </item>
     <item>
       <title>[Critical] Route 615: Service Canceled</title>
       <link>https://www.metrotransit.org/route/615</link>
-      <guid isPermaLink="false">Metro Transit-54334-2026-10-19T12:37:26.000Z</guid>
-      <pubDate>Mon, 19 Oct 2026 12:37:26 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54352-2026-10-19T17:27:55.000Z</guid>
+      <pubDate>Mon, 19 Oct 2026 17:27:55 GMT</pubDate>
       <category>Critical</category>
       <category>Route 615</category>
-      <description>Route 615 trips departing Ridgedale Mall &amp; East Entrance at 7:51 AM and departing Excelsior Blvd &amp; Quentin Ave at 8:51 AM canceled today</description>
+      <description>Route 615 trip departing Excelsior Blvd &amp; Quentin Ave at 12:51 PM and six other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 716: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/716</link>
-      <guid isPermaLink="false">Metro Transit-54344-2026-10-19T14:23:05.000Z</guid>
-      <pubDate>Mon, 19 Oct 2026 14:23:05 GMT</pubDate>
+      <title>[Critical] Route 802: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/802</link>
+      <guid isPermaLink="false">Metro Transit-54346-2026-10-19T16:13:01.000Z</guid>
+      <pubDate>Mon, 19 Oct 2026 16:13:01 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 716</category>
-      <description>Route 716 trip departing Robbinsdale Transit Center &amp; Gate B at 8:11 AM and two other trips canceled today</description>
+      <category>Route 802</category>
+      <description>Route 802 trip departing Anoka Tech College &amp; Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 805: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/805</link>
+      <guid isPermaLink="false">Metro Transit-54347-2026-10-19T16:02:36.000Z</guid>
+      <pubDate>Mon, 19 Oct 2026 16:02:36 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 805</category>
+      <description>Route 805 trip departing 1st Ave S &amp; Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
