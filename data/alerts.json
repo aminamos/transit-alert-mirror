@@ -1,202 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-19T01:06:14.802Z",
-    "totalAlerts": 106,
-    "criticalCount": 4,
+    "generatedAt": "2026-10-19T07:38:56.673Z",
+    "totalAlerts": 102,
+    "criticalCount": 0,
     "moderateCount": 98,
     "minorCount": 4,
-    "affectedRoutesCount": 78,
+    "affectedRoutesCount": 76,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "54328",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO B Line: Westbound 6:38 PM Trip Canceled (Union Depot & Gate A1)",
-      "summary": "Westbound B Line trip departing Union Depot & Gate A1 at 6:38 PM canceled from Marshall & Cleveland at 7:06 PM today due to mechanical issue",
-      "affectedRoutes": [
-        "METRO B Line"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [
-        "3523",
-        "3525",
-        "3528",
-        "16855",
-        "16871",
-        "16882",
-        "16904",
-        "16913",
-        "16933",
-        "16949",
-        "40954",
-        "47529",
-        "57314",
-        "57334",
-        "57336",
-        "57337",
-        "57353",
-        "57357",
-        "57358",
-        "57362"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "3523"
-        },
-        {
-          "id": "3525"
-        },
-        {
-          "id": "3528"
-        },
-        {
-          "id": "16855"
-        },
-        {
-          "id": "16871"
-        },
-        {
-          "id": "16882"
-        },
-        {
-          "id": "16904"
-        },
-        {
-          "id": "16913"
-        },
-        {
-          "id": "16933"
-        },
-        {
-          "id": "16949"
-        },
-        {
-          "id": "40954"
-        },
-        {
-          "id": "47529"
-        },
-        {
-          "id": "57314"
-        },
-        {
-          "id": "57334"
-        },
-        {
-          "id": "57336"
-        },
-        {
-          "id": "57337"
-        },
-        {
-          "id": "57353"
-        },
-        {
-          "id": "57357"
-        },
-        {
-          "id": "57358"
-        },
-        {
-          "id": "57362"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-19T00:27:00.000Z",
-        "end": "2026-10-19T01:40:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-10-19T00:28:38.000Z",
-      "rawHeader": "Westbound B Line trip departing Union Depot & Gate A1 at 6:38 PM canceled from Marshall & Cleveland at 7:06 PM today due to mechanical issue",
-      "rawDescription": ""
-    },
-    {
-      "id": "54329",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO B Line: Eastbound 7:59 PM Trip Canceled (Lake St W & France Ave S)",
-      "summary": "Eastbound B Line trip departing Lake St W & France Ave S at 7:59 PM canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "METRO B Line"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-19T00:59:00.000Z",
-        "end": "2026-10-19T02:59:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-10-19T00:29:34.000Z",
-      "rawHeader": "Eastbound B Line trip departing Lake St W & France Ave S at 7:59 PM canceled today due to mechanical issue",
-      "rawDescription": ""
-    },
-    {
-      "id": "54327",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 54: Westbound 6:06 PM Trip Canceled (Maplewood Mall Transit Center & Gate B)",
-      "summary": "Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 6:06 PM canceled today",
-      "affectedRoutes": [
-        "Route 54"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-18T23:14:00.000Z",
-        "end": "2026-10-19T01:12:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/54",
-      "updatedAt": "2026-10-18T23:15:02.000Z",
-      "rawHeader": "Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 6:06 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "54326",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 323: Service Canceled",
-      "summary": "Route 323 trip departing Sun Ray Transit Center & Gate C at 6:25 PM and eight other trips canceled today",
-      "affectedRoutes": [
-        "Route 323"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-18T23:25:00.000Z",
-        "end": "2026-10-19T04:33:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/323",
-      "updatedAt": "2026-10-18T22:55:01.000Z",
-      "rawHeader": "Route 323 trip departing Sun Ray Transit Center & Gate C at 6:25 PM and eight other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Sun Ray Transit Center & Gate C at 6:25 PM\r\ndeparting Sun Ray Transit Center & Gate C at 7:25 PM\r\ndeparting Sun Ray Transit Center & Gate C at 8:15 PM\r\ndeparting Sun Ray Transit Center & Gate C at 9:15 PM\r\ndeparting Sun Ray Transit Center & Gate C at 10:15 PM\r\n\nAffected westbound trips:\r\ndeparting Woodlane Dr Station Gate B at 6:45 PM\r\ndeparting Woodlane Dr Station Gate B at 7:45 PM\r\ndeparting Woodlane Dr Station Gate B at 8:46 PM\r\ndeparting Woodlane Dr Station Gate B at 9:46 PM"
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -265,7 +79,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/aline",
-      "updatedAt": "2026-10-18T05:00:01.000Z",
+      "updatedAt": "2026-10-19T05:00:01.000Z",
       "rawHeader": "A Line detoured off Ford Pkwy from Fairview Ave to Davern St beginning Mon Oct 19 at 6:00 AM until further notice",
       "rawDescription": "Get on/off northbound buses at:\r\nFord & Kenneth Station - Stop #4283 (eastbound)\r\nSnelling & Highland Station - Stop #56114 (northbound)\r\n\nNorthbound buses will travel the regular route on Ford Pkwy to Fairview Ave, right on Fairview Ave, left on Hillcrest Ave, left on Davern St, right on Ford Pkwy, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Ford Pkwy to Davern St, right on Davern St, left on Highland Pkwy, left on Fairview Ave, right on Ford Pkwy, and resume the regular route. No southbound stops are missed.\r\n\nAffected stops:\r\nFord & Fairview Station - Stop #56113 (eastbound)"
     },
@@ -360,7 +174,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/closure",
-      "updatedAt": "2026-10-18T05:00:02.000Z",
+      "updatedAt": "2026-10-19T05:00:02.000Z",
       "rawHeader": "UPDATE: Buses will replace METRO Blue Line trains between Airport-Terminal 2 and Mall of America stations starting Saturday, Oct. 17 at 3 a.m.",
       "rawDescription": "UPDATE: Starting at 3 a.m. on Saturday, Oct. 17, buses will replace trains on the METRO Blue Line between Airport-Terminal 2 and Mall of America stations to allow for needed maintenance.\r\n\nPlease plan extra time for your trip. Replacement bus timing can vary and trips may take longer.\r\n\nTrain service will resume Monday, Oct. 19.\r\n\n Visit metrotransit.org/closure for bus boarding locations. \r\n\n\r\nAffected stops:\r\nMall of America Station (northbound)\r\n30th Ave Station (northbound)\r\nBloomington Central Station (northbound)\r\nAmerican Blvd Station (northbound)\r\nTerminal 2 Station (southbound)\r\nAmerican Blvd Station (southbound)\r\nBloomington Central Station (southbound)\r\n30th Ave Station (southbound)\r\nMall of America Station (southbound)"
     },
@@ -448,7 +262,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-10-16T19:49:17.000Z",
+      "updatedAt": "2026-10-19T05:00:01.000Z",
       "rawHeader": "METRO D Line detoured off Chicago Ave from 46th St to 57th St beginning Tue Oct 20 at 5:00 AM until further notice due to construction",
       "rawDescription": "For northbound D Line get on/off buses at:\r\nPortland & 60th St Station - Stop #737 (northbound)\r\nChicago Ave S & 58th St E - Stop #743 (northbound)\r\nTemporary stop on Portland Ave & 52nd St (northbound)\r\nTemporary stop on Portland Ave & 48th St (northbound)\r\nChicago & 46th St Station - Stop #56923 (northbound)\r\n\nFor southbound D Line get on/off buses at:\r\nChicago & 42nd St Station - Stop #56916 (southbound)\r\n46th St E & Park Ave S - Stop #17815 (westbound)\r\nTemporary stop on Portland Ave & 48th St (southbound)\r\nTemporary stop on Portland Ave & 52nd St (southbound)\r\nChicago Ave S & 58th St E - Stop #77 (southbound)\r\nPortland & 60th St Station - Stop #431 (southbound)\r\n\nNorthbound buses will travel regular route on Chicago Ave to 57th St, left on 57th St, right on Portland Ave, right on 46th St, left on Chicago Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on Chicago Ave to 46th St, right on 46th St, left on Portland Ave, left on 57th St, right on Chicago Ave, and resume regular route.\r\n\nAffected stops:\r\nChicago & 56th St Station - Stop #775 (northbound)\r\nChicago & 52nd St Station - Stop #779 (northbound)\r\nChicago & 48th St Station - Stop #784 (northbound)\r\nChicago & 46th St Station - Stop #56917 (southbound)\r\nChicago & 48th St Station - Stop #56918 (southbound)\r\nChicago & 52nd St Station - Stop #56919 (southbound)\r\nChicago & 56th St Station - Stop #40472 (southbound)"
     },
@@ -1024,7 +838,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/5",
-      "updatedAt": "2026-10-16T19:30:49.000Z",
+      "updatedAt": "2026-10-19T05:00:01.000Z",
       "rawHeader": "Route 5 detoured off Chicago Ave from 46th St to 56th St beginning Tue Oct 20 at 4:00 AM until further notice due to construction",
       "rawDescription": "For northbound Route 5 get on/off buses at:\r\nChicago & 56th St Station - Stop #775 (northbound)\r\nTemporary stop on Portland Ave & 52nd St (northbound)\r\nTemporary stop on Portland Ave & 48th St (northbound)\r\nChicago & 46th St Station - Stop #56923 (northbound)\r\n\nFor southbound Route 5 get on/off buses at:\r\nChicago Ave S & 45th St E - Stop #64 (southbound)\r\n46th St E & Park Ave S - Stop #17815 (westbound)\r\nTemporary stop on Portland Ave & 48th St (southbound)\r\nTemporary stop on Portland Ave & 52nd St (southbound)\r\nChicago Ave S & 56th St E - Stop #51212 (southbound)\r\n\nNorthbound buses will travel regular route on Chicago Ave to 56th St, left on 56th St, right on Portland Ave, right on 46th St, left on Chicago Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on Chicago Ave to 46th St, right on 46th St, left on Portland Ave, left on 57th St, left on Chicago Ave to 56th St turnaround, and resume regular route.\r\n\nAffected stops:\r\nChicago Ave S & 54th St E - Stop #777 (northbound)\r\nChicago Ave S & 53rd St E - Stop #778 (northbound)\r\nChicago & 52nd St Station - Stop #779 (northbound)\r\nChicago Ave S & 51st St E - Stop #780 (northbound)\r\nChicago Ave S & 50th St E - Stop #781 (northbound)\r\nChicago Ave S & 49th St E - Stop #783 (northbound)\r\nChicago & 48th St Station - Stop #784 (northbound)\r\nChicago Ave S & 47th St E - Stop #785 (northbound)\r\nChicago & 46th St Station - Stop #56917 (southbound)\r\nChicago Ave S & 47th St E - Stop #66 (southbound)\r\nChicago & 48th St Station - Stop #56918 (southbound)\r\nChicago Ave S & 49th St E - Stop #68 (southbound)\r\nChicago Ave S & 50th St E - Stop #69 (southbound)\r\nChicago Ave S & 51st St E - Stop #70 (southbound)\r\nChicago & 52nd St Station - Stop #56919 (southbound)\r\nChicago Ave S & 53rd St E - Stop #72 (southbound)\r\nChicago Ave S & 54th St E - Stop #73 (southbound)"
     },
@@ -1476,7 +1290,7 @@
       "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/10",
-      "updatedAt": "2026-10-15T19:22:23.000Z",
+      "updatedAt": "2026-10-19T05:00:02.000Z",
       "rawHeader": "3rd Ave S & 11th St S - Stop #19277 (southbound) is closed for Routes 10, 25 and 470 beginning Tue Oct 20 at 7:00 AM until further notice due to utility work",
       "rawDescription": "Get on Route 10 and 25 buses at:\r\nLeamington Ramp & Lower - Gate #7 - Stop #19337\r\n\nGet on Route 470 buses at:\r\n4th Ave S & 7th St S - Stop #19297 (southbound)"
     },
@@ -1615,7 +1429,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/14",
-      "updatedAt": "2026-10-16T19:48:42.000Z",
+      "updatedAt": "2026-10-19T05:00:01.000Z",
       "rawHeader": "Route 14 detoured off Chicago fro 57th St E to 54th St E beginning Tue Oct 20 at 4:00 AM until further notice due to construction",
       "rawDescription": "For northbound Route 14 get on/off buses at:\r\nChicago Ave S & 58th St E - Stop #743 (northbound)\r\n54th St E & 12th Ave S - Stop #51836 (eastbound)\r\n\nFor southbound Route 14 get on/off buses at:\r\n54th St E & Chicago Ave S - Stop #51834 (westbound)\r\nChicago Ave S & 58th St E - Stop #77 (southbound)\r\n\nNorthbound buses will travel the regular route on Chicago Ave to 57th St E, left on 57th St E, right on Portland Ave, right on 54th St E to Chicago Ave, continue on 54th St E, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on 54th St E to Chicago Ave, continue on 54th St E, left on Portland Ave, left on 57th St E, right on Chicago Ave, and resume the regular route.\r\n\nAffected stops:\r\nChicago & 56th St Station - Stop #775 (northbound)\r\nChicago Ave S & 54th St E - Stop #777 (northbound)"
     },
@@ -2210,7 +2024,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-10-16T14:20:23.000Z",
+      "updatedAt": "2026-10-19T05:00:01.000Z",
       "rawHeader": "Route 22 detoured off 28th Ave S from 51st St E to 58th St E beginning Tue Oct 20 at 7:00 AM until further notice due to construction",
       "rawDescription": "For northbound Route 22 get on/off buses at:\r\n58th St E & Sander Dr - Stop #19434 (westbound)\r\nTemporary stop 30th Ave S & 54th St E (northbound)\r\n28th Ave S & 50th St E - Stop #19475 (northbound)\r\n\nFor southbound Route 22 get on/off buses at:\r\n28th Ave S & 50th St E - Stop #19476 (southbound)\r\nTemporary stop 29th Ave S & 54th St E (southbound)\r\n58th St E & 31st Ave S - Stop #19435 (eastbound)\r\n\nNorthbound buses will travel the regular route on 58th St E to 31st Ave S, right on 31st Ave S, left on 56th St E, right on 30th Ave S, left on 51st St E, right on 28th Ave S, and resume the regular route. \r\n\nSouthbound buses will travel the regular route on 28th Ave S to 51st St E, left on 51st St E, right on 29th Ave S, left on 56th St E, right on 31st Ave S, left on 58th St E, and resume the regular route.\r\n\nAffected stops:\r\n58th St E & 31st Ave S - Stop #19436 (westbound)\r\n58th St E & 28th Ave S - Stop #4442 (westbound)\r\n28th Ave S & 57th St E - Stop #4444 (northbound)\r\n28th Ave S & 56th St E - Stop #4445 (northbound)\r\n28th Ave S & 54th St E - Stop #4447 (northbound)\r\n28th Ave S & 52nd St E - Stop #19471 (northbound)\r\n28th Ave S & 52nd St E - Stop #19472 (southbound)\r\n28th Ave S & 54th St E - Stop #19468 (southbound)\r\n28th Ave S & 56th St E - Stop #4328 (southbound)\r\n28th Ave S & 57th St E - Stop #4329 (southbound)\r\n58th St E & 28th Ave S - Stop #19437 (eastbound)"
     },
@@ -2485,7 +2299,7 @@
       },
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-18T05:00:02.000Z",
+      "updatedAt": "2026-10-19T05:00:02.000Z",
       "rawHeader": "Rosedale Transit Center Gate D - Stop #57685 (southbound) is closed for Route 32 beginning Mon Oct 19 at 6:00 AM until further notice due to construction",
       "rawDescription": "Updated 10/16 at 3:20 PM to reflect that only Route 32 is affected by this stop closure. \r\n\nGet on/off buses at:\r\nTemporary stop at Rosedale Transit Center, across from Gate F (southbound)"
     },
@@ -4179,7 +3993,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/68",
-      "updatedAt": "2026-10-18T05:00:01.000Z",
+      "updatedAt": "2026-10-19T05:00:00.000Z",
       "rawHeader": "Route 68 detoured off 5th Ave from I-494 to 5th St beginning Mon Oct 19 at 7:00 AM until further notice due to construction",
       "rawDescription": "For northbound Route 68 get on/off buses at:\r\n5th Ave S & Richmond St - Stop #9812 (northbound)\r\n5th Ave S & 4th St S - Stop #9820 (northbound)\r\n\nFor southbound Route 68 get on/off buses at:\r\n5th Ave S & 5th St S - Stop #9966 (southbound)\r\n5th Ave S & Richmond St - Stop #52366 (southbound)\r\n\nNorthbound buses will travel regular route on 5th Ave to I-494 ramp, left on 5th Ave, right on 7th Ave, right on 5th St, left on 5th Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 5th Ave to 5th St, right on 5th St, left on 7th Ave, left on 7th Ave ramp, right on 5th Ave and resume regular route.\r\n\nAffected stops:\r\n5th Ave S & 9th St S - Stop #9815 (northbound)\r\n5th Ave S & 8th St S - Stop #9816 (northbound)\r\n5th Ave S & 7th St S - Stop #9817 (northbound)\r\n5th Ave S & 6th St S - Stop #9818 (northbound)\r\n5th Ave S & 5th St S - Stop #9819 (northbound)\r\n5th Ave S & 6th St S - Stop #9967 (southbound)\r\n5th Ave S & 7th St S - Stop #9968 (southbound)\r\n5th Ave S & 8th St S - Stop #43025 (southbound)\r\n5th Ave S & 9th St S - Stop #9970 (southbound)"
     },
