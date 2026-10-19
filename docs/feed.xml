@@ -4,17 +4,35 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 18 Oct 2026 22:58:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 01:06:14 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO D Line: Southbound 4:03 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-54324-2026-10-18T21:42:53.000Z</guid>
-      <pubDate>Sun, 18 Oct 2026 21:42:53 GMT</pubDate>
+      <title>[Critical] METRO B Line: Westbound 6:38 PM Trip Canceled (Union Depot &amp; Gate A1)</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-54328-2026-10-19T00:28:38.000Z</guid>
+      <pubDate>Mon, 19 Oct 2026 00:28:38 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 4:03 PM canceled today due to traffic</description>
+      <category>METRO B Line</category>
+      <description>Westbound B Line trip departing Union Depot &amp; Gate A1 at 6:38 PM canceled from Marshall &amp; Cleveland at 7:06 PM today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] METRO B Line: Eastbound 7:59 PM Trip Canceled (Lake St W &amp; France Ave S)</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-54329-2026-10-19T00:29:34.000Z</guid>
+      <pubDate>Mon, 19 Oct 2026 00:29:34 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO B Line</category>
+      <description>Eastbound B Line trip departing Lake St W &amp; France Ave S at 7:59 PM canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 54: Westbound 6:06 PM Trip Canceled (Maplewood Mall Transit Center &amp; Gate B)</title>
+      <link>https://www.metrotransit.org/route/54</link>
+      <guid isPermaLink="false">Metro Transit-54327-2026-10-18T23:15:02.000Z</guid>
+      <pubDate>Sun, 18 Oct 2026 23:15:02 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 54</category>
+      <description>Westbound Route 54 trip departing Maplewood Mall Transit Center &amp; Gate B at 6:06 PM canceled today</description>
     </item>
     <item>
       <title>[Critical] Route 323: Service Canceled</title>

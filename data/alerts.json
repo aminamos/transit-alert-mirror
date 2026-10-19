@@ -1,40 +1,174 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-18T22:58:02.062Z",
-    "totalAlerts": 104,
-    "criticalCount": 2,
+    "generatedAt": "2026-10-19T01:06:14.802Z",
+    "totalAlerts": 106,
+    "criticalCount": 4,
     "moderateCount": 98,
     "minorCount": 4,
-    "affectedRoutesCount": 77,
+    "affectedRoutesCount": 78,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "54324",
+      "id": "54328",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO D Line: Southbound 4:03 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)",
-      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 4:03 PM canceled today due to traffic",
+      "title": "METRO B Line: Westbound 6:38 PM Trip Canceled (Union Depot & Gate A1)",
+      "summary": "Westbound B Line trip departing Union Depot & Gate A1 at 6:38 PM canceled from Marshall & Cleveland at 7:06 PM today due to mechanical issue",
       "affectedRoutes": [
-        "METRO D Line"
+        "METRO B Line"
       ],
-      "direction": "Southbound",
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [
+        "3523",
+        "3525",
+        "3528",
+        "16855",
+        "16871",
+        "16882",
+        "16904",
+        "16913",
+        "16933",
+        "16949",
+        "40954",
+        "47529",
+        "57314",
+        "57334",
+        "57336",
+        "57337",
+        "57353",
+        "57357",
+        "57358",
+        "57362"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "3523"
+        },
+        {
+          "id": "3525"
+        },
+        {
+          "id": "3528"
+        },
+        {
+          "id": "16855"
+        },
+        {
+          "id": "16871"
+        },
+        {
+          "id": "16882"
+        },
+        {
+          "id": "16904"
+        },
+        {
+          "id": "16913"
+        },
+        {
+          "id": "16933"
+        },
+        {
+          "id": "16949"
+        },
+        {
+          "id": "40954"
+        },
+        {
+          "id": "47529"
+        },
+        {
+          "id": "57314"
+        },
+        {
+          "id": "57334"
+        },
+        {
+          "id": "57336"
+        },
+        {
+          "id": "57337"
+        },
+        {
+          "id": "57353"
+        },
+        {
+          "id": "57357"
+        },
+        {
+          "id": "57358"
+        },
+        {
+          "id": "57362"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-19T00:27:00.000Z",
+        "end": "2026-10-19T01:40:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-10-19T00:28:38.000Z",
+      "rawHeader": "Westbound B Line trip departing Union Depot & Gate A1 at 6:38 PM canceled from Marshall & Cleveland at 7:06 PM today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "54329",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO B Line: Eastbound 7:59 PM Trip Canceled (Lake St W & France Ave S)",
+      "summary": "Eastbound B Line trip departing Lake St W & France Ave S at 7:59 PM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "METRO B Line"
+      ],
+      "direction": "Eastbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-18T21:42:00.000Z",
-        "end": "2026-10-18T23:16:00.000Z"
+        "start": "2026-10-19T00:59:00.000Z",
+        "end": "2026-10-19T02:59:00.000Z"
       },
-      "cause": "OTHER_CAUSE",
+      "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-10-18T21:42:53.000Z",
-      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 4:03 PM canceled today due to traffic",
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-10-19T00:29:34.000Z",
+      "rawHeader": "Eastbound B Line trip departing Lake St W & France Ave S at 7:59 PM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "54327",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 54: Westbound 6:06 PM Trip Canceled (Maplewood Mall Transit Center & Gate B)",
+      "summary": "Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 6:06 PM canceled today",
+      "affectedRoutes": [
+        "Route 54"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-18T23:14:00.000Z",
+        "end": "2026-10-19T01:12:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/54",
+      "updatedAt": "2026-10-18T23:15:02.000Z",
+      "rawHeader": "Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 6:06 PM canceled today",
       "rawDescription": ""
     },
     {
@@ -182,19 +316,16 @@
       "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [
-        "53280",
         "51436",
         "51437",
         "51405",
+        "53280",
+        "53279",
         "51420",
         "51421",
-        "51422",
-        "53279"
+        "51422"
       ],
       "closedStopDetails": [
-        {
-          "id": "53280"
-        },
         {
           "id": "51436"
         },
@@ -205,6 +336,12 @@
           "id": "51405"
         },
         {
+          "id": "53280"
+        },
+        {
+          "id": "53279"
+        },
+        {
           "id": "51420"
         },
         {
@@ -212,9 +349,6 @@
         },
         {
           "id": "51422"
-        },
-        {
-          "id": "53279"
         }
       ],
       "riderAlternative": null,
