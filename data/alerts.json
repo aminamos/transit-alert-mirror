@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-20T20:25:40.354Z",
-    "totalAlerts": 109,
-    "criticalCount": 5,
+    "generatedAt": "2026-10-20T23:46:15.978Z",
+    "totalAlerts": 108,
+    "criticalCount": 4,
     "moderateCount": 100,
     "minorCount": 4,
     "affectedRoutesCount": 78,
@@ -11,94 +11,6 @@
     ]
   },
   "alerts": [
-    {
-      "id": "54403",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO D Line: Service Advisory",
-      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 2:30 PM will operate from Portland & 66th at 2:42 PM today. Previous stops missed due to traffic",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [
-        "56921",
-        "56922",
-        "56873",
-        "4513",
-        "47447",
-        "620",
-        "639",
-        "643"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "56921"
-        },
-        {
-          "id": "56922"
-        },
-        {
-          "id": "56873"
-        },
-        {
-          "id": "4513"
-        },
-        {
-          "id": "47447"
-        },
-        {
-          "id": "620"
-        },
-        {
-          "id": "639"
-        },
-        {
-          "id": "643"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-20T19:34:00.000Z",
-        "end": "2026-10-20T21:49:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-10-20T19:35:18.000Z",
-      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 2:30 PM will operate from Portland & 66th at 2:42 PM today. Previous stops missed due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "54402",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 9: Service Canceled",
-      "summary": "Route 9 trips departing 46th St Station & Gate H at 2:02 PM and departing Hedberg Dr & Cedar Lake Rd/Greenbrier Rd at 3:38 PM canceled today",
-      "affectedRoutes": [
-        "Route 9"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "02 PM and departing Hedberg Dr & Cedar Lake Rd"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-20T19:02:00.000Z",
-        "end": "2026-10-20T23:01:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/9",
-      "updatedAt": "2026-10-20T18:51:12.000Z",
-      "rawHeader": "Route 9 trips departing 46th St Station & Gate H at 2:02 PM and departing Hedberg Dr & Cedar Lake Rd/Greenbrier Rd at 3:38 PM canceled today",
-      "rawDescription": ""
-    },
     {
       "id": "54391",
       "agency": "Metro Transit",
@@ -124,6 +36,32 @@
       "updatedAt": "2026-10-20T16:31:00.000Z",
       "rawHeader": "Route 83 trip departing Montreal Cir & Summit Brewing at 12:01 PM and seven other trips canceled today",
       "rawDescription": "Affected northbound trips:\r\ndeparting Montreal Cir & Summit Brewing at 12:01 PM\r\ndeparting Montreal Cir & Summit Brewing at 1:30 PM\r\ndeparting Montreal Cir & Summit Brewing at 3:01 PM\r\ndeparting Montreal Cir & Summit Brewing at 5:01 PM\r\n\nAffected southbound trips:\r\ndeparting Rosedale Transit Center Gate B at 12:45 PM\r\ndeparting Rosedale Transit Center Gate B at 2:15 PM\r\ndeparting Rosedale Transit Center Gate B at 4:12 PM\r\ndeparting Rosedale Transit Center Gate B at 6:16 PM"
+    },
+    {
+      "id": "54405",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 540: Eastbound 6:02 PM Trip Canceled (Normandale Lake Blvd & 83rd St / 84th St)",
+      "summary": "Eastbound Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 6:02 PM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "Route 540"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-20T23:20:00.000Z",
+        "end": "2026-10-21T00:41:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/540",
+      "updatedAt": "2026-10-20T23:21:09.000Z",
+      "rawHeader": "Eastbound Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 6:02 PM canceled today due to maintenance work",
+      "rawDescription": ""
     },
     {
       "id": "54394",
@@ -1099,12 +1037,12 @@
         "56923",
         "17815",
         "51212",
-        "73",
         "66",
         "68",
         "69",
         "70",
-        "72"
+        "72",
+        "73"
       ],
       "closedStopDetails": [
         {
@@ -1172,9 +1110,6 @@
           "id": "51212"
         },
         {
-          "id": "73"
-        },
-        {
           "id": "66"
         },
         {
@@ -1188,6 +1123,9 @@
         },
         {
           "id": "72"
+        },
+        {
+          "id": "73"
         }
       ],
       "riderAlternative": "Board at: Chicago & 56th St Station - Stop #775 (northbound); Temporary stop on Portland Ave & 52nd St (northbound); Temporary stop on Portland Ave & 48th St (northbound)",

@@ -4,27 +4,9 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Tue, 20 Oct 2026 20:25:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 23:46:15 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
-    <item>
-      <title>[Critical] METRO D Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-54403-2026-10-20T19:35:18.000Z</guid>
-      <pubDate>Tue, 20 Oct 2026 19:35:18 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Northbound D Line trip departing MOA Transit Station Gate A at 2:30 PM will operate from Portland &amp; 66th at 2:42 PM today. Previous stops missed due to traffic</description>
-    </item>
-    <item>
-      <title>[Critical] Route 9: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/9</link>
-      <guid isPermaLink="false">Metro Transit-54402-2026-10-20T18:51:12.000Z</guid>
-      <pubDate>Tue, 20 Oct 2026 18:51:12 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 9</category>
-      <description>Route 9 trips departing 46th St Station &amp; Gate H at 2:02 PM and departing Hedberg Dr &amp; Cedar Lake Rd/Greenbrier Rd at 3:38 PM canceled today</description>
-    </item>
     <item>
       <title>[Critical] Route 83: Service Canceled</title>
       <link>https://www.metrotransit.org/route/83</link>
@@ -33,6 +15,15 @@
       <category>Critical</category>
       <category>Route 83</category>
       <description>Route 83 trip departing Montreal Cir &amp; Summit Brewing at 12:01 PM and seven other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 540: Eastbound 6:02 PM Trip Canceled (Normandale Lake Blvd &amp; 83rd St / 84th St)</title>
+      <link>https://www.metrotransit.org/route/540</link>
+      <guid isPermaLink="false">Metro Transit-54405-2026-10-20T23:21:09.000Z</guid>
+      <pubDate>Tue, 20 Oct 2026 23:21:09 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 540</category>
+      <description>Eastbound Route 540 trip departing Normandale Lake Blvd &amp; 83rd St / 84th St at 6:02 PM canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Critical] Route 802: Service Canceled</title>
