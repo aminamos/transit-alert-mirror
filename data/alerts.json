@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-20T11:22:02.255Z",
-    "totalAlerts": 115,
-    "criticalCount": 12,
-    "moderateCount": 99,
+    "generatedAt": "2026-10-20T16:46:47.256Z",
+    "totalAlerts": 112,
+    "criticalCount": 8,
+    "moderateCount": 100,
     "minorCount": 4,
     "affectedRoutesCount": 78,
     "agencies": [
@@ -12,13 +12,13 @@
   },
   "alerts": [
     {
-      "id": "54376",
+      "id": "54397",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO E Line: Southbound 4:33 AM Trip Canceled (Westgate Station - Gate A)",
-      "summary": "Southbound E Line trip departing Westgate Station - Gate A at 4:33 AM canceled",
+      "title": "METRO A Line: Southbound 11:38 AM Trip Canceled (Rosedale Transit Center Gate A)",
+      "summary": "Southbound A Line trip departing Rosedale Transit Center Gate A at 11:38 AM canceled today due to medical emergency",
       "affectedRoutes": [
-        "METRO E Line"
+        "METRO A Line"
       ],
       "direction": "Southbound",
       "intersections": [],
@@ -27,463 +27,76 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-20T10:39:00.000Z",
-        "end": "2026-10-20T11:31:00.000Z"
+        "start": "2026-10-20T16:41:00.000Z",
+        "end": "2026-10-20T18:13:00.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "MEDICAL_EMERGENCY",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-10-20T10:39:23.000Z",
-      "rawHeader": "Southbound E Line trip departing Westgate Station - Gate A at 4:33 AM canceled",
+      "url": "https://www.metrotransit.org/route/aline",
+      "updatedAt": "2026-10-20T16:42:27.000Z",
+      "rawHeader": "Southbound A Line trip departing Rosedale Transit Center Gate A at 11:38 AM canceled today due to medical emergency",
       "rawDescription": ""
     },
     {
-      "id": "54377",
+      "id": "54396",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO E Line: Service Advisory",
-      "summary": "Northbound E Line trip departing Southdale Transit Center - Gate A at 5:46 AM will start from Uptown Transit Station. No previous stops will be made.",
+      "title": "Route 10: Northbound 11:04 AM Trip Canceled (Leamington Ramp & Lower - Gate #7)",
+      "summary": "Northbound Route 10 trip departing Leamington Ramp & Lower - Gate #7 at 11:04 AM canceled today due to traffic",
       "affectedRoutes": [
-        "METRO E Line"
+        "Route 10"
       ],
-      "direction": "Both Directions",
-      "intersections": [
-        "44th St & Abbott St",
-        "Richfield Rd & Bde Maka Ska St"
-      ],
-      "closedStopIds": [
-        "53703",
-        "4369",
-        "1250",
-        "1255",
-        "1259",
-        "1287",
-        "1290",
-        "57460",
-        "6195",
-        "6202",
-        "6206",
-        "57539",
-        "1316",
-        "42216",
-        "50195"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "53703",
-          "name": "Southdale Transit Center - Gate A",
-          "direction": "westbound"
-        },
-        {
-          "id": "4369",
-          "name": "Southdale Hospital Station",
-          "direction": "westbound"
-        },
-        {
-          "id": "1250",
-          "name": "France & 62nd St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "1255",
-          "name": "France & 58th St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "1259",
-          "name": "France & 54th St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "1287",
-          "name": "France & 50th St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "1290",
-          "name": "France & 47th St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "57460",
-          "name": "France & 44th St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "6195",
-          "name": "44th St & Abbott Station",
-          "direction": "eastbound"
-        },
-        {
-          "id": "6202",
-          "name": "Sheridan & 43rd St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "6206",
-          "name": "Sheridan & 39th St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "57539",
-          "name": "Richfield Rd & Bde Maka Ska Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "1316",
-          "name": "Hennepin & 36th St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "42216",
-          "name": "Hennepin & 33rd St Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "50195",
-          "name": "Uptown Transit Station - Gate B",
-          "direction": "northbound"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-20T10:46:00.000Z",
-        "end": "2026-10-20T12:36:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-10-20T10:41:37.000Z",
-      "rawHeader": "Northbound E Line trip departing Southdale Transit Center - Gate A at 5:46 AM will start from Uptown Transit Station. No previous stops will be made.",
-      "rawDescription": "Affected stops:\r\nSouthdale Transit Center - Gate A - Stop #53703 (westbound)\r\nSouthdale Hospital Station - Stop #4369 (westbound)\r\nFrance & 62nd St Station - Stop #1250 (northbound)\r\nFrance & 58th St Station - Stop #1255 (northbound)\r\nFrance & 54th St Station - Stop #1259 (northbound)\r\nFrance & 50th St Station - Stop #1287 (northbound)\r\nFrance & 47th St Station - Stop #1290 (northbound)\r\nFrance & 44th St Station - Stop #57460 (northbound)\r\n44th St & Abbott Station - Stop #6195 (eastbound)\r\nSheridan & 43rd St Station - Stop #6202 (northbound)\r\nSheridan & 39th St Station - Stop #6206 (northbound)\r\nRichfield Rd & Bde Maka Ska Station - Stop #57539 (northbound)\r\nHennepin & 36th St Station - Stop #1316 (northbound)\r\nHennepin & 33rd St Station - Stop #42216 (northbound)\r\nUptown Transit Station - Gate B - Stop #50195 (northbound)"
-    },
-    {
-      "id": "54382",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 25: Service Advisory",
-      "summary": "Southbound Route 25 trip departing Northtown Transit Ctr Gate B at 5:44 AM will start from Silver Lake Rd & Cub Foods. Previous stops missed",
-      "affectedRoutes": [
-        "Route 25"
-      ],
-      "direction": "Southbound",
-      "intersections": [
-        "44 AM will start from Silver Lake Rd & Cub Foods. Previous st"
-      ],
-      "closedStopIds": [
-        "10941",
-        "13933",
-        "13941",
-        "13945",
-        "13954",
-        "13960",
-        "13964",
-        "13968",
-        "13971",
-        "13975",
-        "13979",
-        "13983",
-        "13987",
-        "13988",
-        "14044",
-        "14047",
-        "14051",
-        "14052",
-        "14081",
-        "14085",
-        "14088",
-        "14089",
-        "14096",
-        "14100",
-        "14101",
-        "14136",
-        "14139",
-        "14140",
-        "14143",
-        "14144",
-        "14147",
-        "14148",
-        "14151",
-        "57119",
-        "57166",
-        "49272",
-        "47708",
-        "42393",
-        "42394",
-        "42395",
-        "42397",
-        "42560",
-        "40480",
-        "40650",
-        "40212",
-        "40213",
-        "40107",
-        "57642",
-        "56056",
-        "57219",
-        "57228",
-        "57229",
-        "57230",
-        "57231",
-        "57232",
-        "57233",
-        "57234",
-        "57237",
-        "49520"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "10941"
-        },
-        {
-          "id": "13933"
-        },
-        {
-          "id": "13941"
-        },
-        {
-          "id": "13945"
-        },
-        {
-          "id": "13954"
-        },
-        {
-          "id": "13960"
-        },
-        {
-          "id": "13964"
-        },
-        {
-          "id": "13968"
-        },
-        {
-          "id": "13971"
-        },
-        {
-          "id": "13975"
-        },
-        {
-          "id": "13979"
-        },
-        {
-          "id": "13983"
-        },
-        {
-          "id": "13987"
-        },
-        {
-          "id": "13988"
-        },
-        {
-          "id": "14044"
-        },
-        {
-          "id": "14047"
-        },
-        {
-          "id": "14051"
-        },
-        {
-          "id": "14052"
-        },
-        {
-          "id": "14081"
-        },
-        {
-          "id": "14085"
-        },
-        {
-          "id": "14088"
-        },
-        {
-          "id": "14089"
-        },
-        {
-          "id": "14096"
-        },
-        {
-          "id": "14100"
-        },
-        {
-          "id": "14101"
-        },
-        {
-          "id": "14136"
-        },
-        {
-          "id": "14139"
-        },
-        {
-          "id": "14140"
-        },
-        {
-          "id": "14143"
-        },
-        {
-          "id": "14144"
-        },
-        {
-          "id": "14147"
-        },
-        {
-          "id": "14148"
-        },
-        {
-          "id": "14151"
-        },
-        {
-          "id": "57119"
-        },
-        {
-          "id": "57166"
-        },
-        {
-          "id": "49272"
-        },
-        {
-          "id": "47708"
-        },
-        {
-          "id": "42393"
-        },
-        {
-          "id": "42394"
-        },
-        {
-          "id": "42395"
-        },
-        {
-          "id": "42397"
-        },
-        {
-          "id": "42560"
-        },
-        {
-          "id": "40480"
-        },
-        {
-          "id": "40650"
-        },
-        {
-          "id": "40212"
-        },
-        {
-          "id": "40213"
-        },
-        {
-          "id": "40107"
-        },
-        {
-          "id": "57642"
-        },
-        {
-          "id": "56056"
-        },
-        {
-          "id": "57219"
-        },
-        {
-          "id": "57228"
-        },
-        {
-          "id": "57229"
-        },
-        {
-          "id": "57230"
-        },
-        {
-          "id": "57231"
-        },
-        {
-          "id": "57232"
-        },
-        {
-          "id": "57233"
-        },
-        {
-          "id": "57234"
-        },
-        {
-          "id": "57237"
-        },
-        {
-          "id": "49520"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-20T11:14:00.000Z",
-        "end": "2026-10-20T13:01:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/25",
-      "updatedAt": "2026-10-20T11:18:49.000Z",
-      "rawHeader": "Southbound Route 25 trip departing Northtown Transit Ctr Gate B at 5:44 AM will start from Silver Lake Rd & Cub Foods. Previous stops missed",
-      "rawDescription": ""
-    },
-    {
-      "id": "54378",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 71: Service Canceled",
-      "summary": "Route 71 trip departing Market Place Dr & The Marketplace Ctr at 6:18 AM and two other trips canceled today",
-      "affectedRoutes": [
-        "Route 71"
-      ],
-      "direction": "Both Directions",
+      "direction": "Northbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-20T11:18:00.000Z",
-        "end": "2026-10-20T15:45:00.000Z"
+        "start": "2026-10-20T16:31:00.000Z",
+        "end": "2026-10-20T18:01:00.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/71",
-      "updatedAt": "2026-10-20T10:59:42.000Z",
-      "rawHeader": "Route 71 trip departing Market Place Dr & The Marketplace Ctr at 6:18 AM and two other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 7:43 AM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 6:18 AM\r\ndeparting Market Place Dr & The Marketplace Ctr at 9:15 AM"
+      "url": "https://www.metrotransit.org/route/10",
+      "updatedAt": "2026-10-20T16:33:17.000Z",
+      "rawHeader": "Northbound Route 10 trip departing Leamington Ramp & Lower - Gate #7 at 11:04 AM canceled today due to traffic",
+      "rawDescription": ""
     },
     {
-      "id": "54374",
+      "id": "54385",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 83: 7:29 AM Trip Canceled (Montreal Cir & Summit Brewing)",
-      "summary": "Route 83 trip departing Montreal Cir & Summit Brewing at 7:29 AM canceled today",
+      "title": "Route 83: Service Canceled",
+      "summary": "Route 83 trip departing Rosedale Transit Center Gate B at 8:15 AM and four other trips canceled today",
       "affectedRoutes": [
         "Route 83"
       ],
-      "direction": "All",
+      "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-20T12:29:00.000Z",
-        "end": "2026-10-20T14:06:00.000Z"
+        "start": "2026-10-20T13:15:00.000Z",
+        "end": "2026-10-20T17:51:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/83",
-      "updatedAt": "2026-10-20T10:29:06.000Z",
-      "rawHeader": "Route 83 trip departing Montreal Cir & Summit Brewing at 7:29 AM canceled today",
-      "rawDescription": ""
+      "updatedAt": "2026-10-20T12:45:01.000Z",
+      "rawHeader": "Route 83 trip departing Rosedale Transit Center Gate B at 8:15 AM and four other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Montreal Cir & Summit Brewing at 9:02 AM\r\ndeparting Montreal Cir & Summit Brewing at 10:32 AM\r\n\nAffected southbound trips:\r\ndeparting Rosedale Transit Center Gate B at 8:15 AM\r\ndeparting Rosedale Transit Center Gate B at 9:47 AM\r\ndeparting Rosedale Transit Center Gate B at 11:17 AM"
     },
     {
-      "id": "54372",
+      "id": "54391",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 215: Both Directions 5:44 AM Trip Canceled (Sun Ray Transit Center & Gate E)",
-      "summary": "Route 215 trip departing Sun Ray Transit Center & Gate E at 5:44 AM canceled, 15 other Trips RESTORED",
+      "title": "Route 83: Service Canceled",
+      "summary": "Route 83 trip departing Montreal Cir & Summit Brewing at 12:01 PM and seven other trips canceled today",
       "affectedRoutes": [
-        "Route 215"
+        "Route 83"
       ],
       "direction": "Both Directions",
       "intersections": [],
@@ -492,22 +105,22 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-20T10:54:00.000Z",
-        "end": "2026-10-20T12:08:00.000Z"
+        "start": "2026-10-20T17:01:00.000Z",
+        "end": "2026-10-21T00:52:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/215",
-      "updatedAt": "2026-10-20T10:57:57.000Z",
-      "rawHeader": "Route 215 trip departing Sun Ray Transit Center & Gate E at 5:44 AM canceled, 15 other Trips RESTORED",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate E at 5:44 AM \r\ndeparting Sun Ray Transit Center & Gate E at 6:44 AM RESTORED\r\ndeparting Sun Ray Transit Center & Gate E at 7:44 AM RESTORED\r\ndeparting Sun Ray Transit Center & Gate E at 8:44 AM RESTORED\r\ndeparting Sun Ray Transit Center & Gate E at 9:44 AM RESTORED\r\ndeparting Sun Ray Transit Center & Gate E at 10:44 AM RESTORED\r\ndeparting Sun Ray Transit Center & Gate E at 11:44 AM RESTORED\r\ndeparting Sun Ray Transit Center & Gate E at 12:44 PM RESTORED\r\ndeparting Sun Ray Transit Center & Gate E at 1:44 PM RESTORED\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate A at 6:16 AM RESTORED\r\ndeparting Maplewood Mall Transit Center & Gate A at 7:16 AM RESTORED\r\ndeparting Maplewood Mall Transit Center & Gate A at 8:16 AM RESTORED\r\ndeparting Maplewood Mall Transit Center & Gate A at 9:16 AM RESTORED\r\ndeparting Maplewood Mall Transit Center & Gate A at 10:16 AM RESTORED\r\ndeparting Maplewood Mall Transit Center & Gate A at 11:16 AM RESTORED\r\ndeparting Maplewood Mall Transit Center & Gate A at 12:16 PM RESTORED\r\ndeparting Maplewood Mall Transit Center & Gate A at 1:16 PM RESTORED"
+      "url": "https://www.metrotransit.org/route/83",
+      "updatedAt": "2026-10-20T16:31:00.000Z",
+      "rawHeader": "Route 83 trip departing Montreal Cir & Summit Brewing at 12:01 PM and seven other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Montreal Cir & Summit Brewing at 12:01 PM\r\ndeparting Montreal Cir & Summit Brewing at 1:30 PM\r\ndeparting Montreal Cir & Summit Brewing at 3:01 PM\r\ndeparting Montreal Cir & Summit Brewing at 5:01 PM\r\n\nAffected southbound trips:\r\ndeparting Rosedale Transit Center Gate B at 12:45 PM\r\ndeparting Rosedale Transit Center Gate B at 2:15 PM\r\ndeparting Rosedale Transit Center Gate B at 4:12 PM\r\ndeparting Rosedale Transit Center Gate B at 6:16 PM"
     },
     {
       "id": "54384",
       "agency": "Metro Transit",
       "severity": "Critical",
       "title": "Route 219: Service Canceled",
-      "summary": "Route 219 trip departing Maplewood Mall Transit Center & Gate A at 7:12 AM and three other trips canceled today",
+      "summary": "Route 219 trip departing Maplewood Mall Transit Center & Gate A at 7:12 AM and six other trips canceled today",
       "affectedRoutes": [
         "Route 219"
       ],
@@ -519,78 +132,23 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-10-20T12:12:00.000Z",
-        "end": "2026-10-20T17:03:00.000Z"
+        "end": "2026-10-20T20:02:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/219",
-      "updatedAt": "2026-10-20T11:20:18.000Z",
-      "rawHeader": "Route 219 trip departing Maplewood Mall Transit Center & Gate A at 7:12 AM and three other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate B at 8:13 AM\r\ndeparting Sun Ray Transit Center & Gate B at 10:13 AM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate A at 7:12 AM\r\ndeparting Maplewood Mall Transit Center & Gate A at 9:12 AM"
+      "updatedAt": "2026-10-20T11:42:01.000Z",
+      "rawHeader": "Route 219 trip departing Maplewood Mall Transit Center & Gate A at 7:12 AM and six other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate B at 8:13 AM\r\ndeparting Sun Ray Transit Center & Gate B at 10:13 AM\r\ndeparting Sun Ray Transit Center & Gate B at 12:13 PM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate A at 7:12 AM\r\ndeparting Maplewood Mall Transit Center & Gate A at 9:12 AM\r\ndeparting Maplewood Mall Transit Center & Gate A at 11:12 AM\r\ndeparting Maplewood Mall Transit Center & Gate A at 1:12 PM"
     },
     {
-      "id": "54381",
+      "id": "54394",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 223: Eastbound 6:16 AM Trip Canceled (Rosedale Transit Center Gate F)",
-      "summary": "Eastbound Route 223 trip departing Rosedale Transit Center Gate F at 6:16 AM canceled today",
+      "title": "Route 802: Service Canceled",
+      "summary": "Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue",
       "affectedRoutes": [
-        "Route 223"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-20T11:16:00.000Z",
-        "end": "2026-10-20T12:46:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/223",
-      "updatedAt": "2026-10-20T11:14:30.000Z",
-      "rawHeader": "Eastbound Route 223 trip departing Rosedale Transit Center Gate F at 6:16 AM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "54380",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 540: Service Canceled",
-      "summary": "Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 6:32 AM and two other trips canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 540"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing Normandale Lake Blvd & 83rd St",
-        "32 AM\ndeparting Normandale Lake Blvd & 83rd St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-20T11:32:00.000Z",
-        "end": "2026-10-20T13:58:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/540",
-      "updatedAt": "2026-10-20T11:13:36.000Z",
-      "rawHeader": "Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 6:32 AM and two other trips canceled today due to maintenance work",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 6:32 AM\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 7:02 AM\r\n\nAffected westbound trips:\r\ndeparting MOA Transit Station Gate G at 7:26 AM"
-    },
-    {
-      "id": "54379",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 542: Service Canceled",
-      "summary": "Route 542 trip departing American Blvd & Social Security Admin at 6:00 AM and two other trips canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 542"
+        "Route 802"
       ],
       "direction": "Both Directions",
       "intersections": [],
@@ -599,15 +157,15 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-20T11:12:00.000Z",
-        "end": "2026-10-20T13:01:00.000Z"
+        "start": "2026-10-20T16:43:00.000Z",
+        "end": "2026-10-21T00:24:00.000Z"
       },
-      "cause": "MAINTENANCE",
+      "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/542",
-      "updatedAt": "2026-10-20T11:13:06.000Z",
-      "rawHeader": "Route 542 trip departing American Blvd & Social Security Admin at 6:00 AM and two other trips canceled today due to maintenance work",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting American Blvd & Social Security Admin at 6:00 AM\r\n\nAffected westbound trips:\r\ndeparting MOA Transit Station Gate G at 6:07 AM\r\ndeparting MOA Transit Station Gate G at 6:37 AM"
+      "url": "https://www.metrotransit.org/route/802",
+      "updatedAt": "2026-10-20T16:27:20.000Z",
+      "rawHeader": "Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 11:43 AM\r\ndeparting Anoka Tech College & Main Entrance at 1:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 3:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 5:45 PM"
     },
     {
       "id": "54373",
@@ -641,32 +199,36 @@
       "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 7:04 AM\r\ndeparting Northtown Transit Ctr Gate D at 9:04 AM\r\ndeparting Northtown Transit Ctr Gate D at 11:04 AM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 6:08 AM\r\ndeparting 1st Ave S & Monroe St at 8:07 AM\r\ndeparting 1st Ave S & Monroe St at 10:08 AM\r\ndeparting 1st Ave S & Monroe St at 12:08 PM"
     },
     {
-      "id": "54383",
+      "id": "54395",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 805: 6:08 AM Trip Canceled (1st Ave S & Monroe St)",
-      "summary": "Route 805 trip departing 1st Ave S & Monroe St at 6:08 AM canceled",
+      "title": "Route 805: Service Canceled",
+      "summary": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue",
       "affectedRoutes": [
         "Route 805"
       ],
-      "direction": "All",
+      "direction": "Both Directions",
       "intersections": [
-        "Route 805 trip departing 1st Ave S & Monroe St"
+        "Route 805 trip departing 1st Ave S & Monroe St",
+        "departing 1st Ave S & Monroe St",
+        "38 AM\ndeparting 1st Ave S & Monroe St",
+        "38 PM\ndeparting 1st Ave S & Monroe St",
+        "36 PM\ndeparting 1st Ave S & Monroe St"
       ],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-20T11:19:00.000Z",
-        "end": "2026-10-20T12:54:00.000Z"
+        "start": "2026-10-20T16:38:00.000Z",
+        "end": "2026-10-21T00:24:00.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-10-20T11:19:15.000Z",
-      "rawHeader": "Route 805 trip departing 1st Ave S & Monroe St at 6:08 AM canceled",
-      "rawDescription": ""
+      "updatedAt": "2026-10-20T16:26:39.000Z",
+      "rawHeader": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 11:38 AM\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
     },
     {
       "id": "52943",
@@ -1499,6 +1061,60 @@
       "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nWashington Ave & Anderson Hall - Stop #13223 (eastbound)\r\nWashington Ave & Coffman Union - Stop #13209 (eastbound)\r\n15th Ave SE & 4th St SE - Stop #16111 (northbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\n15th Ave SE & 7th St SE - Stop #57015 (southbound)\r\nWashington Ave & Coffman Union - Stop #13207 (westbound)\r\nWashington Ave & Willey Hall - Stop #13211 (westbound)\r\n\nEastbound buses will travel regular route on Washington Ave to Pleasant St, continue on Washington to Oak St, left on Oak, veer left onto 4th St SE, right on 15th Ave SE, and resume reuglar route.\r\n\nWestbound buses will travel regular route on 15th Ave SE to 5th St SE, left on 5th St, right on Oak St, left on 4th St SE which becomes Oak St, right on Washington Ave to Pleasant St, and resume regular route.\r\n\nAffected stops:\r\nE River Pkwy & Appleby Hall - Stop #57013 (northbound)\r\nPleasant St & Jones Hall - Stop #49881 (northbound)\r\n15th Ave SE & 4th St SE - Stop #49242 (southbound)\r\nPleasant St & Eddy Hall - Stop #49237 (southbound)\r\nPleasant St SE & Scholars Walk - Stop #54046 (southbound)"
     },
     {
+      "id": "54392",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 3, Route 3A: Detour via Como Blvd E & Maryland Ave",
+      "summary": "Route 3A detoured off Maryland Ave from Grotto St to Dale St until further notice due to construction. Board at: Como Blvd E & Maryland Ave - Stop #5555 (northbound); Temporary stop on Maryland Ave & Grotto St (eastbound); Maryland Ave & Mackubin St - Stop #5563 (eastbound).",
+      "affectedRoutes": [
+        "Route 3",
+        "Route 3A"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Como Blvd E & Maryland Ave",
+        "Maryland Ave & Grotto St",
+        "Maryland Ave & Mackubin St",
+        "right on Maryland Ave & resume regular route.\n\nAffected st",
+        "Maryland Ave & Dale St"
+      ],
+      "closedStopIds": [
+        "5556",
+        "5560",
+        "5555",
+        "5563"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "5556",
+          "name": "Maryland Ave & Grotto St",
+          "direction": "eastbound"
+        },
+        {
+          "id": "5560",
+          "name": "Maryland Ave & Dale St",
+          "direction": "eastbound"
+        },
+        {
+          "id": "5555"
+        },
+        {
+          "id": "5563"
+        }
+      ],
+      "riderAlternative": "Board at: Como Blvd E & Maryland Ave - Stop #5555 (northbound); Temporary stop on Maryland Ave & Grotto St (eastbound); Maryland Ave & Mackubin St - Stop #5563 (eastbound)",
+      "detourDetails": "Eastbound buses will travel regular route on Maryland Ave to Grotto St, left on Grotto St, right on Wheelock Pkwy, right on Dale St, left on Maryland Ave and resume regular route.",
+      "activePeriod": {
+        "start": "2026-10-20T16:00:00.000Z"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/3",
+      "updatedAt": "2026-10-20T16:00:47.000Z",
+      "rawHeader": "Route 3A detoured off Maryland Ave from Grotto St to Dale St until further notice due to construction",
+      "rawDescription": "Get on/off eastbound buses at:\r\nComo Blvd E & Maryland Ave - Stop #5555 (northbound)\r\nTemporary stop on Maryland Ave & Grotto St (eastbound)\r\nMaryland Ave & Mackubin St - Stop #5563 (eastbound)\r\n\nNo westbound stops missed.\r\n\nEastbound buses will travel regular route on Maryland Ave to Grotto St, left on Grotto St, right on Wheelock Pkwy, right on Dale St, left on Maryland Ave and resume regular route.\r\n\nWestbound buses will travel regular route on Maryland Ave to Dale St, right on Dale St, left on Wheelock Pkwy, left on Grotto St, right on Maryland Ave and resume regular route.\r\n\nAffected stops:\r\nMaryland Ave & Grotto St - Stop #5556 (eastbound)\r\nMaryland Ave & Dale St - Stop #5560 (eastbound)"
+    },
+    {
       "id": "54263",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -1530,12 +1146,12 @@
         "56923",
         "17815",
         "51212",
-        "73",
         "66",
         "68",
         "69",
         "70",
-        "72"
+        "72",
+        "73"
       ],
       "closedStopDetails": [
         {
@@ -1603,9 +1219,6 @@
           "id": "51212"
         },
         {
-          "id": "73"
-        },
-        {
           "id": "66"
         },
         {
@@ -1619,6 +1232,9 @@
         },
         {
           "id": "72"
+        },
+        {
+          "id": "73"
         }
       ],
       "riderAlternative": "Board at: Chicago & 56th St Station - Stop #775 (northbound); Temporary stop on Portland Ave & 52nd St (northbound); Temporary stop on Portland Ave & 48th St (northbound)",
@@ -2082,7 +1698,7 @@
       "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/10",
-      "updatedAt": "2026-10-20T05:00:01.000Z",
+      "updatedAt": "2026-10-20T11:30:02.000Z",
       "rawHeader": "3rd Ave S & 11th St S - Stop #19277 (southbound) is closed for Routes 10, 25 and 470 beginning Tue Oct 20 at 7:00 AM until further notice due to utility work",
       "rawDescription": "Get on Route 10 and 25 buses at:\r\nLeamington Ramp & Lower - Gate #7 - Stop #19337\r\n\nGet on Route 470 buses at:\r\n4th Ave S & 7th St S - Stop #19297 (southbound)"
     },
@@ -2173,38 +1789,43 @@
       "rawDescription": "For northbound Route 11 get on/off buses at:\r\nMain St NE & St Anthony Pkwy - Stop #14618 (northbound)\r\nTemporary stop on Main St NE just before Edge Place NE (northbound)\r\nTemporary stop on 2nd 1/2 St NE & 35th Ave NE (northbound)\r\n2nd 1/2 St NE & 36th Ave NE - Stop #14609 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\n2nd 1/2 St NE & 35th Ave NE - Stop #14611 (southbound)\r\nMain St NE & Edge Place NE - Stop #14616 (southbound)\r\n\nNorthbound buses will travel regular route on Main St NE to Edge Place, right on Edge Place, left on 2nd 1/2 St, continue on 2 1/2 St to 35th Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 2nd 1/2 St to 35th Ave, continue on 2 1/2 St to Edge Place, right on Edge Place, left on Main St NE and resume regular route.\r\n\nAffected stops:\r\nMain St NE & Edge Place NE - Stop #14617 (northbound)\r\nMain St NE & 35th Ave NE - Stop #14614 (northbound)\r\n35th Ave NE & 2nd St NE - Stop #14613 (eastbound)\r\n35th Ave NE & 2nd 1/2 St NE - Stop #14610 (eastbound)\r\n35th Ave NE & 2nd St NE - Stop #14612 (westbound)\r\n35th Ave NE & Main St NE - Stop #14615 (westbound)"
     },
     {
-      "id": "54375",
+      "id": "54390",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 11: Detour via 4th Ave S & 35th St E",
-      "summary": "Route 11 detoured off 4th Ave S from 35th St E to 31st St E until later today. Board at: 4th Ave S & 35th St E - Stop #17750 (northbound); 4th Ave S & Lake St E - Stop #17755 (northbound).",
+      "title": "Route 11: Detour via 4th Ave S & 36th St E",
+      "summary": "Route 11 detoured off 4th Ave S from 31st St to 36th St until further notice due to construction. Board at: 4th Ave S & 36th St E - Stop #17749 (northbound); 4th Ave S & Lake St E - Stop #17755 (northbound).",
       "affectedRoutes": [
         "Route 11"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "4th Ave S & 35th St E",
-        "4th Ave S & Lake St E",
         "4th Ave S & 36th St E",
-        "4th Ave S & 34th St E",
-        "4th Ave S & 33rd St E"
+        "4th Ave S & Lake St E",
+        "4th Ave S & 31st St E",
+        "4th Ave S & 35th St E",
+        "4th Ave S & 34th St E"
       ],
       "closedStopIds": [
+        "17750",
         "17751",
         "17752",
         "17753",
         "17754",
-        "17716",
         "17717",
         "17718",
         "17719",
         "17720",
-        "17750",
+        "17749",
         "17755",
-        "17715",
+        "17716",
         "17721"
       ],
       "closedStopDetails": [
+        {
+          "id": "17750",
+          "name": "4th Ave S & 35th St E",
+          "direction": "northbound"
+        },
         {
           "id": "17751",
           "name": "4th Ave S & 34th St E",
@@ -2224,11 +1845,6 @@
           "id": "17754",
           "name": "4th Ave S & 31st St E",
           "direction": "northbound"
-        },
-        {
-          "id": "17716",
-          "name": "4th Ave S & 31st St E",
-          "direction": "southbound"
         },
         {
           "id": "17717",
@@ -2251,30 +1867,29 @@
           "direction": "southbound"
         },
         {
-          "id": "17750"
+          "id": "17749"
         },
         {
           "id": "17755"
         },
         {
-          "id": "17715"
+          "id": "17716"
         },
         {
           "id": "17721"
         }
       ],
-      "riderAlternative": "Board at: 4th Ave S & 35th St E - Stop #17750 (northbound); 4th Ave S & Lake St E - Stop #17755 (northbound)",
-      "detourDetails": "Northbound buses will travel regular route on 4th Ave S to 35th St E, right on 35th St E, left on 31st St E, right on 4th Ave S and resume regular route.",
+      "riderAlternative": "Board at: 4th Ave S & 36th St E - Stop #17749 (northbound); 4th Ave S & Lake St E - Stop #17755 (northbound)",
+      "detourDetails": "Northbound buses will travel regular route on 4th Ave S to 36th St, right on 36th St, left on Park Ave, left on 31st St, right on 4th Ave S, and resume regular route.",
       "activePeriod": {
-        "start": "2026-10-20T10:36:00.000Z",
-        "end": "2026-10-20T13:20:24.000Z"
+        "start": "2026-10-20T13:22:00.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-10-20T10:36:33.000Z",
-      "rawHeader": "Route 11 detoured off 4th Ave S from 35th St E to 31st St E until later today",
-      "rawDescription": "For northbound Route 11 get on/off buses at:\r\n4th Ave S & 35th St E - Stop #17750 (northbound)\r\n4th Ave S & Lake St E - Stop #17755 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\n4th Ave S & Lake St E - Stop #17715 (southbound)\r\n4th Ave S & 36th St E - Stop #17721 (southbound)\r\n\nNorthbound buses will travel regular route on 4th Ave S to 35th St E, right on 35th St E, left on 31st St E, right on 4th Ave S and resume regular route. \r\n\nSouthbound buses will travel regular route on 4th Ave S to 31st St E, left on 31st St E, right on Portland Ave S, right on 35th St E, left on 4th Ave S, and resume regular route. \r\n\nAffected stops:\r\n4th Ave S & 34th St E - Stop #17751 (northbound)\r\n4th Ave S & 33rd St E - Stop #17752 (northbound)\r\n4th Ave S & 32nd St E - Stop #17753 (northbound)\r\n4th Ave S & 31st St E - Stop #17754 (northbound)\r\n4th Ave S & 31st St E - Stop #17716 (southbound)\r\n4th Ave S & 32nd St E - Stop #17717 (southbound)\r\n4th Ave S & 33rd St E - Stop #17718 (southbound)\r\n4th Ave S & 34th St E - Stop #17719 (southbound)\r\n4th Ave S & 35th St E - Stop #17720 (southbound)"
+      "updatedAt": "2026-10-20T16:08:55.000Z",
+      "rawHeader": "Route 11 detoured off 4th Ave S from 31st St to 36th St until further notice due to construction",
+      "rawDescription": "For northbound Route 11 get on/off buses at:\r\n4th Ave S & 36th St E - Stop #17749 (northbound)\r\n4th Ave S & Lake St E - Stop #17755 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\n4th Ave S & 31st St E - Stop #17716 (southbound)\r\n4th Ave S & 36th St E - Stop #17721 (southbound)\r\n\nNorthbound buses will travel regular route on 4th Ave S to 36th St, right on 36th St, left on Park Ave, left on 31st St, right on 4th Ave S, and resume regular route.\r\n\nSouthbound buses will travel regular route on 4th Ave S to 31st St, left on 31st St, right on Portland Ave, right on 35th St, left on 4th Ave S, and resume regular route.\r\n\nAffected stops:\r\n4th Ave S & 35th St E - Stop #17750 (northbound)\r\n4th Ave S & 34th St E - Stop #17751 (northbound)\r\n4th Ave S & 33rd St E - Stop #17752 (northbound)\r\n4th Ave S & 32nd St E - Stop #17753 (northbound)\r\n4th Ave S & 31st St E - Stop #17754 (northbound)\r\n4th Ave S & 32nd St E - Stop #17717 (southbound)\r\n4th Ave S & 33rd St E - Stop #17718 (southbound)\r\n4th Ave S & 34th St E - Stop #17719 (southbound)\r\n4th Ave S & 35th St E - Stop #17720 (southbound)"
     },
     {
       "id": "54264",
@@ -2407,7 +2022,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-10-20T08:48:39.000Z",
+      "updatedAt": "2026-10-20T11:30:00.000Z",
       "rawHeader": "Route 17W detoured off Central Ave NE from 7th St NE to Monroe St NE until further notice due to construction",
       "rawDescription": "For eastbound Route 17 get on/off buses at:\r\nCentral Ave & 5th St SE - Stop #14954 (northbound)\r\nCentral Ave NE & 7th St SE - Stop #17224 (northbound)\r\nBroadway St & Monroe St NE - Stop #15488 (westbound)\r\n\nFor westbound Route 17 get on/off buses at:\r\nBroadway St & Monroe St NE - Stop #12665 (eastbound)\r\nCentral Ave NE & 7th St NE - Stop #17225 (southbound)\r\nCentral Ave NE & Hennepin Ave E - Stop #17227 (southbound)\r\n\nEastbound 17W buses will travel regular route on Central Ave to 7th St NE, continue on Central to Broadway St NE, left on Broadway, continue to Monroe St, and resume regular route.\r\n\nWestbound 17 buses that depart Central/26th Ave NE will travel regular route on Broadway St NE to Central Ave NE, right on Central Ave, continue to to 7th St NE, and resume regular route.\r\n\nAffected stops:\r\n7th St NE & Central Ave NE - Stop #51077 (northbound)\r\nMonroe St & Spring St NE - Stop #15486 (northbound)\r\nMonroe St & Spring St NE - Stop #15531 (southbound)\r\n7th St NE & Central Ave NE - Stop #15533 (southbound)"
     },
@@ -2954,7 +2569,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-10-20T05:00:01.000Z",
+      "updatedAt": "2026-10-20T11:30:01.000Z",
       "rawHeader": "Route 22 detoured off 28th Ave S from 51st St E to 58th St E beginning Tue Oct 20 at 7:00 AM until further notice due to construction",
       "rawDescription": "For northbound Route 22 get on/off buses at:\r\n58th St E & Sander Dr - Stop #19434 (westbound)\r\nTemporary stop 30th Ave S & 54th St E (northbound)\r\n28th Ave S & 50th St E - Stop #19475 (northbound)\r\n\nFor southbound Route 22 get on/off buses at:\r\n28th Ave S & 50th St E - Stop #19476 (southbound)\r\nTemporary stop 29th Ave S & 54th St E (southbound)\r\n58th St E & 31st Ave S - Stop #19435 (eastbound)\r\n\nNorthbound buses will travel the regular route on 58th St E to 31st Ave S, right on 31st Ave S, left on 56th St E, right on 30th Ave S, left on 51st St E, right on 28th Ave S, and resume the regular route. \r\n\nSouthbound buses will travel the regular route on 28th Ave S to 51st St E, left on 51st St E, right on 29th Ave S, left on 56th St E, right on 31st Ave S, left on 58th St E, and resume the regular route.\r\n\nAffected stops:\r\n58th St E & 31st Ave S - Stop #19436 (westbound)\r\n58th St E & 28th Ave S - Stop #4442 (westbound)\r\n28th Ave S & 57th St E - Stop #4444 (northbound)\r\n28th Ave S & 56th St E - Stop #4445 (northbound)\r\n28th Ave S & 54th St E - Stop #4447 (northbound)\r\n28th Ave S & 52nd St E - Stop #19471 (northbound)\r\n28th Ave S & 52nd St E - Stop #19472 (southbound)\r\n28th Ave S & 54th St E - Stop #19468 (southbound)\r\n28th Ave S & 56th St E - Stop #4328 (southbound)\r\n28th Ave S & 57th St E - Stop #4329 (southbound)\r\n58th St E & 28th Ave S - Stop #19437 (eastbound)"
     },
@@ -6219,7 +5834,7 @@
         "Penn Ave S & 98th St W",
         "98th St W & Penn Ave",
         "98th St W & Penn Ave S",
-        "98th St W & Chowen Ave S"
+        "98th St & Normandale College - St"
       ],
       "closedStopIds": [
         "2079",
@@ -6235,7 +5850,8 @@
         "2078",
         "57125",
         "1737",
-        "1624"
+        "1624",
+        "2069"
       ],
       "closedStopDetails": [
         {
@@ -6299,6 +5915,9 @@
         },
         {
           "id": "1624"
+        },
+        {
+          "id": "2069"
         }
       ],
       "riderAlternative": "Board at: 98th St W & Normandale College - Stop #2078 (eastbound); Penn Ave S & 98th St W - Stop #57125 (northbound); 98th St W & Penn Ave / Newton Ave S - Stop #1737 (eastbound)",
@@ -6309,9 +5928,9 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/539",
-      "updatedAt": "2026-10-15T19:11:04.000Z",
+      "updatedAt": "2026-10-20T16:06:26.000Z",
       "rawHeader": "Route 539 detoured off 98th St W from Penn Ave S to France Ave S until further notice due to construction.",
-      "rawDescription": "For eastbound Route 539 get on/off buses at:\r\n98th St W & Normandale College - Stop #2078 (eastbound)\r\nPenn Ave S & 98th St W - Stop #57125 (northbound) \r\n98th St W & Penn Ave / Newton Ave S - Stop #1737 (eastbound)\r\n\nFor westbound Route 539 get on/off buses at:\r\n98th St W & Penn Ave S - Stop #1624 (westbound)\r\nPenn Ave S & 98th St W - Stop #57125 (northbound)\r\n\nEastbound buses will travel the regular route on 98th St W to France Ave S, right on France Ave S, left on 102nd St W, left on Penn Ave S, right on 98th St W, and resume the regular route.\r\n\nWestbound buses will travel the regular route on 98th St W to Penn Ave S, left on Penn Ave S, right on 102nd St W, right on France Ave S, left on 98th St W, and resume the regular route.\r\n\nAffected stops:\r\n98th St W & Chowen Ave S - Stop #2079 (eastbound)\r\n98th St W & Abbott Ave S - Stop #2081 (eastbound)\r\n98th St W & Xerxes Ave S - Stop #2082 (eastbound)\r\n98th St W & Upton Circle - Stop #1734 (eastbound)\r\n98th St W & Russell Ave S - Stop #1735 (eastbound)\r\n98th St W & Penn Ave S - Stop #57096 (eastbound)\r\n98th St W & Russell Ave S - Stop #1626 (westbound)\r\n98th St W & Upton Rd - Stop #1627 (westbound)\r\n98th St W & Xerxes Ave S - Stop #2065 (westbound)\r\n98th St W & Abbott Ave S - Stop #2066 (westbound)"
+      "rawDescription": "Update on 10/20 at 11am: westbound get on/off stops\r\n\nFor eastbound Route 539 get on/off buses at:\r\n98th St W & Normandale College - Stop #2078 (eastbound)\r\nPenn Ave S & 98th St W - Stop #57125 (northbound) \r\n98th St W & Penn Ave / Newton Ave S - Stop #1737 (eastbound)\r\n\nFor westbound Route 539 get on/off buses at:\r\n98th St W & Penn Ave S - Stop #1624 (westbound)\r\n98th St & Normandale College - Stop #2069 (westbound)\r\n\nEastbound buses will travel the regular route on 98th St W to France Ave S, right on France Ave S, left on 102nd St W, left on Penn Ave S, right on 98th St W, and resume the regular route.\r\n\nWestbound buses will travel the regular route on 98th St W to Penn Ave S, left on Penn Ave S, right on 102nd St W, right on France Ave S, left on 98th St W, and resume the regular route.\r\n\nAffected stops:\r\n98th St W & Chowen Ave S - Stop #2079 (eastbound)\r\n98th St W & Abbott Ave S - Stop #2081 (eastbound)\r\n98th St W & Xerxes Ave S - Stop #2082 (eastbound)\r\n98th St W & Upton Circle - Stop #1734 (eastbound)\r\n98th St W & Russell Ave S - Stop #1735 (eastbound)\r\n98th St W & Penn Ave S - Stop #57096 (eastbound)\r\n98th St W & Russell Ave S - Stop #1626 (westbound)\r\n98th St W & Upton Rd - Stop #1627 (westbound)\r\n98th St W & Xerxes Ave S - Stop #2065 (westbound)\r\n98th St W & Abbott Ave S - Stop #2066 (westbound)"
     },
     {
       "id": "50581",
