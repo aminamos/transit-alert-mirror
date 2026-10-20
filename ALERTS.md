@@ -2,19 +2,99 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-104-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-98-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-115-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-12-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-99-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-78-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-20T05:52:14.035Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-20T11:22:02.255Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (1) • **Route 14** (3) • **Route 17** (1) • **Route 17W** (1) • **Route 18** (5) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (2) • **Route 805** (3) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO E Line** (3) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (2) • **Route 14** (3) • **Route 17** (1) • **Route 17W** (1) • **Route 18** (5) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 83** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (2) • **Route 219** (2) • **Route 223** (4) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (2) • **Route 805** (4) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
+
+### 🚨 METRO E Line: Southbound 4:33 AM Trip Canceled (Westgate Station - Gate A)
+
+- **Affected Routes**: `METRO E Line`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound E Line trip departing Westgate Station - Gate A at 4:33 AM canceled
+
+[Official Agency Advisory](https://www.metrotransit.org/route/eline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound E Line trip departing Westgate Station - Gate A at 4:33 AM canceled
+
+</details>
+
+---
+
+### 🚨 METRO E Line: Service Advisory
+
+- **Affected Routes**: `METRO E Line`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 44th St & Abbott St; Richfield Rd & Bde Maka Ska St
+- **Closed Stops**: Southdale Transit Center - Gate A (Stop #53703), Southdale Hospital Station (Stop #4369), France & 62nd St Station (Stop #1250), France & 58th St Station (Stop #1255), France & 54th St Station (Stop #1259), France & 50th St Station (Stop #1287), France & 47th St Station (Stop #1290), France & 44th St Station (Stop #57460) *(+7 more)*
+
+**Summary**: Northbound E Line trip departing Southdale Transit Center - Gate A at 5:46 AM will start from Uptown Transit Station. No previous stops will be made.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/eline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound E Line trip departing Southdale Transit Center - Gate A at 5:46 AM will start from Uptown Transit Station. No previous stops will be made.
+
+```text
+Affected stops:
+Southdale Transit Center - Gate A - Stop #53703 (westbound)
+Southdale Hospital Station - Stop #4369 (westbound)
+France & 62nd St Station - Stop #1250 (northbound)
+France & 58th St Station - Stop #1255 (northbound)
+France & 54th St Station - Stop #1259 (northbound)
+France & 50th St Station - Stop #1287 (northbound)
+France & 47th St Station - Stop #1290 (northbound)
+France & 44th St Station - Stop #57460 (northbound)
+44th St & Abbott Station - Stop #6195 (eastbound)
+Sheridan & 43rd St Station - Stop #6202 (northbound)
+Sheridan & 39th St Station - Stop #6206 (northbound)
+Richfield Rd & Bde Maka Ska Station - Stop #57539 (northbound)
+Hennepin & 36th St Station - Stop #1316 (northbound)
+Hennepin & 33rd St Station - Stop #42216 (northbound)
+Uptown Transit Station - Gate B - Stop #50195 (northbound)
+```
+
+</details>
+
+---
+
+### 🚨 Route 25: Service Advisory
+
+- **Affected Routes**: `Route 25`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 44 AM will start from Silver Lake Rd & Cub Foods. Previous st
+- **Closed Stops**: Stop #10941, Stop #13933, Stop #13941, Stop #13945, Stop #13954, Stop #13960, Stop #13964, Stop #13968 *(+51 more)*
+
+**Summary**: Southbound Route 25 trip departing Northtown Transit Ctr Gate B at 5:44 AM will start from Silver Lake Rd & Cub Foods. Previous stops missed
+
+[Official Agency Advisory](https://www.metrotransit.org/route/25)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 25 trip departing Northtown Transit Ctr Gate B at 5:44 AM will start from Silver Lake Rd & Cub Foods. Previous stops missed
+
+</details>
+
+---
 
 ### 🚨 Route 71: Service Canceled
 
@@ -22,23 +102,189 @@
 - **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled due to mechanical issue
+**Summary**: Route 71 trip departing Market Place Dr & The Marketplace Ctr at 6:18 AM and two other trips canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/71)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled due to mechanical issue
+**Header**: Route 71 trip departing Market Place Dr & The Marketplace Ctr at 6:18 AM and two other trips canceled today
 
 ```text
 Affected northbound trips:
-departing Inver Hills College & Shelter at 1:38 PM
-departing Inver Hills College & Shelter at 4:38 PM
+departing Inver Hills College & Shelter at 7:43 AM
 
 Affected southbound trips:
-departing Market Place Dr & The Marketplace Ctr at 3:10 PM
-departing Market Place Dr & The Marketplace Ctr at 6:15 PM
+departing Market Place Dr & The Marketplace Ctr at 6:18 AM
+departing Market Place Dr & The Marketplace Ctr at 9:15 AM
+```
+
+</details>
+
+---
+
+### 🚨 Route 83: 7:29 AM Trip Canceled (Montreal Cir & Summit Brewing)
+
+- **Affected Routes**: `Route 83`
+- **Direction**: All
+- **Severity**: `Critical`
+
+**Summary**: Route 83 trip departing Montreal Cir & Summit Brewing at 7:29 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/83)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 83 trip departing Montreal Cir & Summit Brewing at 7:29 AM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 215: Both Directions 5:44 AM Trip Canceled (Sun Ray Transit Center & Gate E)
+
+- **Affected Routes**: `Route 215`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 215 trip departing Sun Ray Transit Center & Gate E at 5:44 AM canceled, 15 other Trips RESTORED
+
+[Official Agency Advisory](https://www.metrotransit.org/route/215)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 215 trip departing Sun Ray Transit Center & Gate E at 5:44 AM canceled, 15 other Trips RESTORED
+
+```text
+Affected northbound trips:
+departing Sun Ray Transit Center & Gate E at 5:44 AM 
+departing Sun Ray Transit Center & Gate E at 6:44 AM RESTORED
+departing Sun Ray Transit Center & Gate E at 7:44 AM RESTORED
+departing Sun Ray Transit Center & Gate E at 8:44 AM RESTORED
+departing Sun Ray Transit Center & Gate E at 9:44 AM RESTORED
+departing Sun Ray Transit Center & Gate E at 10:44 AM RESTORED
+departing Sun Ray Transit Center & Gate E at 11:44 AM RESTORED
+departing Sun Ray Transit Center & Gate E at 12:44 PM RESTORED
+departing Sun Ray Transit Center & Gate E at 1:44 PM RESTORED
+
+Affected southbound trips:
+departing Maplewood Mall Transit Center & Gate A at 6:16 AM RESTORED
+departing Maplewood Mall Transit Center & Gate A at 7:16 AM RESTORED
+departing Maplewood Mall Transit Center & Gate A at 8:16 AM RESTORED
+departing Maplewood Mall Transit Center & Gate A at 9:16 AM RESTORED
+departing Maplewood Mall Transit Center & Gate A at 10:16 AM RESTORED
+departing Maplewood Mall Transit Center & Gate A at 11:16 AM RESTORED
+departing Maplewood Mall Transit Center & Gate A at 12:16 PM RESTORED
+departing Maplewood Mall Transit Center & Gate A at 1:16 PM RESTORED
+```
+
+</details>
+
+---
+
+### 🚨 Route 219: Service Canceled
+
+- **Affected Routes**: `Route 219`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 219 trip departing Maplewood Mall Transit Center & Gate A at 7:12 AM and three other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/219)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 219 trip departing Maplewood Mall Transit Center & Gate A at 7:12 AM and three other trips canceled today
+
+```text
+Affected northbound trips:
+departing Sun Ray Transit Center & Gate B at 8:13 AM
+departing Sun Ray Transit Center & Gate B at 10:13 AM
+
+Affected southbound trips:
+departing Maplewood Mall Transit Center & Gate A at 7:12 AM
+departing Maplewood Mall Transit Center & Gate A at 9:12 AM
+```
+
+</details>
+
+---
+
+### 🚨 Route 223: Eastbound 6:16 AM Trip Canceled (Rosedale Transit Center Gate F)
+
+- **Affected Routes**: `Route 223`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Eastbound Route 223 trip departing Rosedale Transit Center Gate F at 6:16 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/223)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 223 trip departing Rosedale Transit Center Gate F at 6:16 AM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 540: Service Canceled
+
+- **Affected Routes**: `Route 540`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing Normandale Lake Blvd & 83rd St; 32 AM
+departing Normandale Lake Blvd & 83rd St
+
+**Summary**: Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 6:32 AM and two other trips canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/540)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 6:32 AM and two other trips canceled today due to maintenance work
+
+```text
+Affected eastbound trips:
+departing Normandale Lake Blvd & 83rd St / 84th St at 6:32 AM
+departing Normandale Lake Blvd & 83rd St / 84th St at 7:02 AM
+
+Affected westbound trips:
+departing MOA Transit Station Gate G at 7:26 AM
+```
+
+</details>
+
+---
+
+### 🚨 Route 542: Service Canceled
+
+- **Affected Routes**: `Route 542`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 542 trip departing American Blvd & Social Security Admin at 6:00 AM and two other trips canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/542)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 542 trip departing American Blvd & Social Security Admin at 6:00 AM and two other trips canceled today due to maintenance work
+
+```text
+Affected eastbound trips:
+departing American Blvd & Social Security Admin at 6:00 AM
+
+Affected westbound trips:
+departing MOA Transit Station Gate G at 6:07 AM
+departing MOA Transit Station Gate G at 6:37 AM
 ```
 
 </details>
@@ -50,32 +296,51 @@ departing Market Place Dr & The Marketplace Ctr at 6:15 PM
 - **Affected Routes**: `Route 805`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
-departing 1st Ave S & Monroe St; 38 PM
-departing 1st Ave S & Monroe St; 36 PM
+- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 08 AM
+departing 1st Ave S & Monroe St; 07 AM
 departing 1st Ave S & Monroe St
 
-**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue
+**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 6:08 AM and six other trips canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/805)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue
+**Header**: Route 805 trip departing 1st Ave S & Monroe St at 6:08 AM and six other trips canceled today
 
 ```text
 Affected northbound trips:
-departing Northtown Transit Ctr Gate D at 12:34 PM
-departing Northtown Transit Ctr Gate D at 2:34 PM
-departing Northtown Transit Ctr Gate D at 4:34 PM
+departing Northtown Transit Ctr Gate D at 7:04 AM
+departing Northtown Transit Ctr Gate D at 9:04 AM
+departing Northtown Transit Ctr Gate D at 11:04 AM
 
 Affected southbound trips:
-departing 1st Ave S & Monroe St at 11:38 AM
-departing 1st Ave S & Monroe St at 1:38 PM
-departing 1st Ave S & Monroe St at 3:36 PM
-departing 1st Ave S & Monroe St at 5:38 PM
+departing 1st Ave S & Monroe St at 6:08 AM
+departing 1st Ave S & Monroe St at 8:07 AM
+departing 1st Ave S & Monroe St at 10:08 AM
+departing 1st Ave S & Monroe St at 12:08 PM
 ```
+
+</details>
+
+---
+
+### 🚨 Route 805: 6:08 AM Trip Canceled (1st Ave S & Monroe St)
+
+- **Affected Routes**: `Route 805`
+- **Direction**: All
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St
+
+**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 6:08 AM canceled
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 805 trip departing 1st Ave S & Monroe St at 6:08 AM canceled
 
 </details>
 
@@ -1045,6 +1310,56 @@ Main St NE & 35th Ave NE - Stop #14614 (northbound)
 
 ---
 
+### ⚠️ Route 11: Detour via 4th Ave S & 35th St E
+
+- **Affected Routes**: `Route 11`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 4th Ave S & 35th St E; 4th Ave S & Lake St E; 4th Ave S & 36th St E; 4th Ave S & 34th St E; 4th Ave S & 33rd St E
+- **Closed Stops**: 4th Ave S & 34th St E (Stop #17751), 4th Ave S & 33rd St E (Stop #17752), 4th Ave S & 32nd St E (Stop #17753), 4th Ave S & 31st St E (Stop #17754), 4th Ave S & 31st St E (Stop #17716), 4th Ave S & 32nd St E (Stop #17717), 4th Ave S & 33rd St E (Stop #17718), 4th Ave S & 34th St E (Stop #17719) *(+5 more)*
+
+**Summary**: Route 11 detoured off 4th Ave S from 35th St E to 31st St E until later today. Board at: 4th Ave S & 35th St E - Stop #17750 (northbound); 4th Ave S & Lake St E - Stop #17755 (northbound).
+
+> 💡 **Rider Action**: Board at: 4th Ave S & 35th St E - Stop #17750 (northbound); 4th Ave S & Lake St E - Stop #17755 (northbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route on 4th Ave S to 35th St E, right on 35th St E, left on 31st St E, right on 4th Ave S and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/11)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 11 detoured off 4th Ave S from 35th St E to 31st St E until later today
+
+```text
+For northbound Route 11 get on/off buses at:
+4th Ave S & 35th St E - Stop #17750 (northbound)
+4th Ave S & Lake St E - Stop #17755 (northbound)
+
+For southbound Route 11 get on/off buses at:
+4th Ave S & Lake St E - Stop #17715 (southbound)
+4th Ave S & 36th St E - Stop #17721 (southbound)
+
+Northbound buses will travel regular route on 4th Ave S to 35th St E, right on 35th St E, left on 31st St E, right on 4th Ave S and resume regular route. 
+
+Southbound buses will travel regular route on 4th Ave S to 31st St E, left on 31st St E, right on Portland Ave S, right on 35th St E, left on 4th Ave S, and resume regular route. 
+
+Affected stops:
+4th Ave S & 34th St E - Stop #17751 (northbound)
+4th Ave S & 33rd St E - Stop #17752 (northbound)
+4th Ave S & 32nd St E - Stop #17753 (northbound)
+4th Ave S & 31st St E - Stop #17754 (northbound)
+4th Ave S & 31st St E - Stop #17716 (southbound)
+4th Ave S & 32nd St E - Stop #17717 (southbound)
+4th Ave S & 33rd St E - Stop #17718 (southbound)
+4th Ave S & 34th St E - Stop #17719 (southbound)
+4th Ave S & 35th St E - Stop #17720 (southbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 14: Detour via Chicago Ave S & 58th St E
 
 - **Affected Routes**: `Route 14`
@@ -1089,27 +1404,26 @@ Chicago Ave S & 54th St E - Stop #777 (northbound)
 
 ---
 
-### ⚠️ Route 17, Route 17W: Detour via Route 17W detoured off 7th St NE & Monroe St
+### ⚠️ Route 17, Route 17W: Detour via Central Ave & 5th St S
 
 - **Affected Routes**: `Route 17` `Route 17W`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Schedule**: Beginning Tue Oct 20 at 7:00 AM until further notice
-- **Corridors & Intersections**: Route 17W detoured off 7th St NE & Monroe St; Central Ave & 5th St S; Central Ave NE & 7th St S; Broadway St & Monroe St N; Central Ave NE & 7th St N
+- **Corridors & Intersections**: Central Ave & 5th St S; Central Ave NE & 7th St S; Broadway St & Monroe St N; Central Ave NE & 7th St N; Central Ave NE & Hennepin Ave E
 - **Closed Stops**: 7th St NE & Central Ave NE (Stop #51077), Monroe St & Spring St NE (Stop #15486), Monroe St & Spring St NE (Stop #15531), 7th St NE & Central Ave NE (Stop #15533), Stop #14954, Stop #17224, Stop #15488, Stop #12665 *(+2 more)*
 
-**Summary**: Route 17W detoured off 7th St NE/Monroe St from Central Ave to Spring St beginning Tue Oct 20 at 7:00 AM until further notice due to construction. Board at: Central Ave & 5th St SE - Stop #14954 (northbound); Central Ave NE & 7th St SE - Stop #17224 (northbound); Broadway St & Monroe St NE - Stop #15488 (westbound).
+**Summary**: Route 17W detoured off Central Ave NE from 7th St NE to Monroe St NE until further notice due to construction. Board at: Central Ave & 5th St SE - Stop #14954 (northbound); Central Ave NE & 7th St SE - Stop #17224 (northbound); Broadway St & Monroe St NE - Stop #15488 (westbound).
 
 > 💡 **Rider Action**: Board at: Central Ave & 5th St SE - Stop #14954 (northbound); Central Ave NE & 7th St SE - Stop #17224 (northbound); Broadway St & Monroe St NE - Stop #15488 (westbound)
 
-> 🔄 **Detour Path**: buses will travel regular route on Central Ave to 7th St NE, continue on Central to Spring St, left on Spring, right on Monroe St, and resume regular route.
+> 🔄 **Detour Path**: buses will travel regular route on Central Ave to 7th St NE, continue on Central to Broadway St NE, left on Broadway, continue to Monroe St, and resume regular route.
 
 [Official Agency Advisory](https://www.metrotransit.org/route/17)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 17W detoured off 7th St NE/Monroe St from Central Ave to Spring St beginning Tue Oct 20 at 7:00 AM until further notice due to construction
+**Header**: Route 17W detoured off Central Ave NE from 7th St NE to Monroe St NE until further notice due to construction
 
 ```text
 For eastbound Route 17 get on/off buses at:
@@ -1122,9 +1436,9 @@ Broadway St & Monroe St NE - Stop #12665 (eastbound)
 Central Ave NE & 7th St NE - Stop #17225 (southbound)
 Central Ave NE & Hennepin Ave E - Stop #17227 (southbound)
 
-Eastbound 17W buses will travel regular route on Central Ave to 7th St NE, continue on Central to Spring St, left on Spring, right on Monroe St, and resume regular route.
+Eastbound 17W buses will travel regular route on Central Ave to 7th St NE, continue on Central to Broadway St NE, left on Broadway, continue to Monroe St, and resume regular route.
 
-Westbound 17 buses that depart Central/26th Ave NE will travel regular route on Monroe St to Spring St, left on Spring, right on Central Ave to 7th St NE, and resume regular route.
+Westbound 17 buses that depart Central/26th Ave NE will travel regular route on Broadway St NE to Central Ave NE, right on Central Ave, continue to to 7th St NE, and resume regular route.
 
 Affected stops:
 7th St NE & Central Ave NE - Stop #51077 (northbound)
