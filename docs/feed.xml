@@ -4,44 +4,17 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Mon, 19 Oct 2026 20:58:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:15:34 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO Blue Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/blue</link>
-      <guid isPermaLink="false">Metro Transit-54359-2026-10-19T20:57:02.000Z</guid>
-      <pubDate>Mon, 19 Oct 2026 20:57:02 GMT</pubDate>
+      <title>[Critical] METRO C Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/cline</link>
+      <guid isPermaLink="false">Metro Transit-54369-2026-10-19T23:02:10.000Z</guid>
+      <pubDate>Mon, 19 Oct 2026 23:02:10 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO Blue Line</category>
-      <description>Northbound Blue Line trip departing Mall of America Station at 2:16 PM will start from 30th Ave Station. Mall Of America Station missed due to medical emergency</description>
-    </item>
-    <item>
-      <title>[Critical] METRO D Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-54360-2026-10-19T19:32:56.000Z</guid>
-      <pubDate>Mon, 19 Oct 2026 19:32:56 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Northbound D Line trip departing MOA Transit Station Gate A at 2:30 PM will start from Chicago &amp; Lake. Previous stops missed</description>
-    </item>
-    <item>
-      <title>[Critical] METRO Orange Line: Southbound 2:33 PM Trip Canceled (Marquette Ave &amp; 3rd St - Stop Group C)</title>
-      <link>https://www.metrotransit.org/route/orange</link>
-      <guid isPermaLink="false">Metro Transit-54361-2026-10-19T19:40:56.000Z</guid>
-      <pubDate>Mon, 19 Oct 2026 19:40:56 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO Orange Line</category>
-      <description>Southbound Orange Line trip departing Marquette Ave &amp; 3rd St - Stop Group C at 2:33 PM canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] METRO Orange Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/orange</link>
-      <guid isPermaLink="false">Metro Transit-54362-2026-10-19T20:11:17.000Z</guid>
-      <pubDate>Mon, 19 Oct 2026 20:11:17 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO Orange Line</category>
-      <description>Northbound Orange Line trip departing Burnsville Heart of the City Station at 3:19 PM will start from I-35W &amp; 98th St Station. Previous stops missed</description>
+      <category>METRO C Line</category>
+      <description>Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 5:58 PM will operate from 43rd &amp; Penn at 6:06 PM today. Previous stops will be missed.</description>
     </item>
     <item>
       <title>[Critical] Route 30: Service Canceled</title>
@@ -73,11 +46,20 @@
     <item>
       <title>[Critical] Route 80: Service Canceled</title>
       <link>https://www.metrotransit.org/route/80</link>
-      <guid isPermaLink="false">Metro Transit-54357-2026-10-19T18:17:44.000Z</guid>
-      <pubDate>Mon, 19 Oct 2026 18:17:44 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54357-2026-10-19T23:42:01.000Z</guid>
+      <pubDate>Mon, 19 Oct 2026 23:42:01 GMT</pubDate>
       <category>Critical</category>
       <category>Route 80</category>
       <description>Route 80 trip departing Sun Ray Transit Center &amp; Gate E at 7:12 PM and five other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 223: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/223</link>
+      <guid isPermaLink="false">Metro Transit-54365-2026-10-19T21:22:42.000Z</guid>
+      <pubDate>Mon, 19 Oct 2026 21:22:42 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 223</category>
+      <description>Route 223 trip departing Rosedale Transit Center Gate F at 3:16 PM and five other trips canceled today</description>
     </item>
     <item>
       <title>[Critical] Route 615: Service Canceled</title>
@@ -89,6 +71,15 @@
       <description>Route 615 trip departing Excelsior Blvd &amp; Quentin Ave at 12:51 PM and six other trips canceled today</description>
     </item>
     <item>
+      <title>[Critical] Route 724: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/724</link>
+      <guid isPermaLink="false">Metro Transit-54368-2026-10-19T22:58:15.000Z</guid>
+      <pubDate>Mon, 19 Oct 2026 22:58:15 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 724</category>
+      <description>Route 724 trips departing Brooklyn Ctr Transit Ctr Gate C at 5:30 PM and departing Starlite Transit Center &amp; Gate A at 6:00 PM canceled today due to traffic</description>
+    </item>
+    <item>
       <title>[Critical] Route 802: Service Canceled</title>
       <link>https://www.metrotransit.org/route/802</link>
       <guid isPermaLink="false">Metro Transit-54346-2026-10-19T16:13:01.000Z</guid>
@@ -96,6 +87,15 @@
       <category>Critical</category>
       <category>Route 802</category>
       <description>Route 802 trip departing Anoka Tech College &amp; Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 802: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/802</link>
+      <guid isPermaLink="false">Metro Transit-54366-2026-10-19T21:34:00.000Z</guid>
+      <pubDate>Mon, 19 Oct 2026 21:34:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 802</category>
+      <description>Route 802 trips departing Northtown Transit Ctr Gate E at 5:04 PM and departing Anoka Tech College &amp; Main Entrance at 6:15 PM canceled today due to medical emergency</description>
     </item>
     <item>
       <title>[Critical] Route 805: Service Canceled</title>

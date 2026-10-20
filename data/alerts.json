@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-19T20:58:52.804Z",
+    "generatedAt": "2026-10-20T00:15:34.647Z",
     "totalAlerts": 113,
     "criticalCount": 11,
     "moderateCount": 98,
@@ -12,186 +12,55 @@
   },
   "alerts": [
     {
-      "id": "54359",
+      "id": "54369",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO Blue Line: Service Advisory",
-      "summary": "Northbound Blue Line trip departing Mall of America Station at 2:16 PM will start from 30th Ave Station. Mall Of America Station missed due to medical emergency",
+      "title": "METRO C Line: Service Advisory",
+      "summary": "Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 5:58 PM will operate from 43rd & Penn at 6:06 PM today. Previous stops will be missed.",
       "affectedRoutes": [
-        "METRO Blue Line"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [
-        "51405"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "51405"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {},
-      "cause": "MEDICAL_EMERGENCY",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/blue",
-      "updatedAt": "2026-10-19T20:57:02.000Z",
-      "rawHeader": "Northbound Blue Line trip departing Mall of America Station at 2:16 PM will start from 30th Ave Station. Mall Of America Station missed due to medical emergency",
-      "rawDescription": ""
-    },
-    {
-      "id": "54360",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO D Line: Service Advisory",
-      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 2:30 PM will start from Chicago & Lake. Previous stops missed",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [
-        "47447",
-        "56921",
-        "56922",
-        "56923",
-        "56924",
-        "56925",
-        "620",
-        "639",
-        "643",
-        "4513",
-        "80138",
-        "56873",
-        "784",
-        "779",
-        "737",
-        "775"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "47447"
-        },
-        {
-          "id": "56921"
-        },
-        {
-          "id": "56922"
-        },
-        {
-          "id": "56923"
-        },
-        {
-          "id": "56924"
-        },
-        {
-          "id": "56925"
-        },
-        {
-          "id": "620"
-        },
-        {
-          "id": "639"
-        },
-        {
-          "id": "643"
-        },
-        {
-          "id": "4513"
-        },
-        {
-          "id": "80138"
-        },
-        {
-          "id": "56873"
-        },
-        {
-          "id": "784"
-        },
-        {
-          "id": "779"
-        },
-        {
-          "id": "737"
-        },
-        {
-          "id": "775"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-19T19:32:00.000Z",
-        "end": "2026-10-19T21:49:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-10-19T19:32:56.000Z",
-      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 2:30 PM will start from Chicago & Lake. Previous stops missed",
-      "rawDescription": ""
-    },
-    {
-      "id": "54361",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO Orange Line: Southbound 2:33 PM Trip Canceled (Marquette Ave & 3rd St - Stop Group C)",
-      "summary": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 2:33 PM canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "METRO Orange Line"
+        "METRO C Line"
       ],
       "direction": "Southbound",
       "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-19T19:39:00.000Z",
-        "end": "2026-10-19T21:08:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/orange",
-      "updatedAt": "2026-10-19T19:40:56.000Z",
-      "rawHeader": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 2:33 PM canceled today due to mechanical issue",
-      "rawDescription": ""
-    },
-    {
-      "id": "54362",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO Orange Line: Service Advisory",
-      "summary": "Northbound Orange Line trip departing Burnsville Heart of the City Station at 3:19 PM will start from I-35W & 98th St Station. Previous stops missed",
-      "affectedRoutes": [
-        "METRO Orange Line"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
       "closedStopIds": [
-        "56829",
-        "56830"
+        "56826",
+        "57278",
+        "9087",
+        "9173",
+        "9577",
+        "56528"
       ],
       "closedStopDetails": [
         {
-          "id": "56829"
+          "id": "56826"
         },
         {
-          "id": "56830"
+          "id": "57278"
+        },
+        {
+          "id": "9087"
+        },
+        {
+          "id": "9173"
+        },
+        {
+          "id": "9577"
+        },
+        {
+          "id": "56528"
         }
       ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-19T20:19:00.000Z",
-        "end": "2026-10-19T21:55:00.000Z"
+        "start": "2026-10-19T23:00:00.000Z",
+        "end": "2026-10-20T00:35:00.000Z"
       },
-      "cause": "TECHNICAL_PROBLEM",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/orange",
-      "updatedAt": "2026-10-19T20:11:17.000Z",
-      "rawHeader": "Northbound Orange Line trip departing Burnsville Heart of the City Station at 3:19 PM will start from I-35W & 98th St Station. Previous stops missed",
+      "url": "https://www.metrotransit.org/route/cline",
+      "updatedAt": "2026-10-19T23:02:10.000Z",
+      "rawHeader": "Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 5:58 PM will operate from 43rd & Penn at 6:06 PM today. Previous stops will be missed.",
       "rawDescription": ""
     },
     {
@@ -267,7 +136,7 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-10-19T16:03:00.000Z",
-        "end": "2026-10-19T22:58:23.000Z"
+        "end": "2026-10-20T02:14:23.000Z"
       },
       "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
@@ -298,9 +167,35 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/80",
-      "updatedAt": "2026-10-19T18:17:44.000Z",
+      "updatedAt": "2026-10-19T23:42:01.000Z",
       "rawHeader": "Route 80 trip departing Sun Ray Transit Center & Gate E at 7:12 PM and five other trips canceled today",
       "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate E at 7:12 PM\r\ndeparting Sun Ray Transit Center & Gate E at 8:12 PM\r\ndeparting Sun Ray Transit Center & Gate E at 9:12 PM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate F at 7:42 PM\r\ndeparting Maplewood Mall Transit Center & Gate F at 8:42 PM\r\ndeparting Maplewood Mall Transit Center & Gate F at 9:42 PM"
+    },
+    {
+      "id": "54365",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 223: Service Canceled",
+      "summary": "Route 223 trip departing Rosedale Transit Center Gate F at 3:16 PM and five other trips canceled today",
+      "affectedRoutes": [
+        "Route 223"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-19T21:21:00.000Z",
+        "end": "2026-10-20T02:19:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/223",
+      "updatedAt": "2026-10-19T21:22:42.000Z",
+      "rawHeader": "Route 223 trip departing Rosedale Transit Center Gate F at 3:16 PM and five other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Rosedale Transit Center Gate F at 3:16 PM\r\ndeparting Rosedale Transit Center Gate F at 4:46 PM\r\ndeparting Rosedale Transit Center Gate F at 6:16 PM\r\ndeparting Rosedale Transit Center Gate F at 7:46 PM\r\n\nAffected westbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate A at 5:41 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 7:11 PM"
     },
     {
       "id": "54352",
@@ -333,6 +228,32 @@
       "rawDescription": "Affected eastbound trips:\r\ndeparting Ridgedale Mall & East Entrance at 1:51 PM\r\ndeparting Ridgedale Mall & East Entrance at 3:51 PM\r\ndeparting Ridgedale Mall & East Entrance at 5:51 PM\r\n\nAffected westbound trips:\r\ndeparting Excelsior Blvd & Quentin Ave at 12:51 PM\r\ndeparting Excelsior Blvd & Quentin Ave at 2:51 PM\r\ndeparting Excelsior Blvd & Quentin Ave at 4:51 PM\r\ndeparting Excelsior Blvd & Quentin Ave at 6:51 PM"
     },
     {
+      "id": "54368",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 724: Service Canceled",
+      "summary": "Route 724 trips departing Brooklyn Ctr Transit Ctr Gate C at 5:30 PM and departing Starlite Transit Center & Gate A at 6:00 PM canceled today due to traffic",
+      "affectedRoutes": [
+        "Route 724"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-19T22:57:00.000Z",
+        "end": "2026-10-20T00:20:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/724",
+      "updatedAt": "2026-10-19T22:58:15.000Z",
+      "rawHeader": "Route 724 trips departing Brooklyn Ctr Transit Ctr Gate C at 5:30 PM and departing Starlite Transit Center & Gate A at 6:00 PM canceled today due to traffic",
+      "rawDescription": ""
+    },
+    {
       "id": "54346",
       "agency": "Metro Transit",
       "severity": "Critical",
@@ -359,6 +280,32 @@
       "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 11:43 AM\r\ndeparting Anoka Tech College & Main Entrance at 1:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 3:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 5:45 PM"
     },
     {
+      "id": "54366",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 802: Service Canceled",
+      "summary": "Route 802 trips departing Northtown Transit Ctr Gate E at 5:04 PM and departing Anoka Tech College & Main Entrance at 6:15 PM canceled today due to medical emergency",
+      "affectedRoutes": [
+        "Route 802"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-19T22:04:00.000Z",
+        "end": "2026-10-20T00:54:00.000Z"
+      },
+      "cause": "MEDICAL_EMERGENCY",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/802",
+      "updatedAt": "2026-10-19T21:34:00.000Z",
+      "rawHeader": "Route 802 trips departing Northtown Transit Ctr Gate E at 5:04 PM and departing Anoka Tech College & Main Entrance at 6:15 PM canceled today due to medical emergency",
+      "rawDescription": ""
+    },
+    {
       "id": "54347",
       "agency": "Metro Transit",
       "severity": "Critical",
@@ -381,7 +328,7 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-10-19T16:02:00.000Z",
-        "end": "2026-10-19T22:58:23.000Z"
+        "end": "2026-10-20T02:14:23.000Z"
       },
       "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
