@@ -2,83 +2,55 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-112-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-8-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-109-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-5-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-100-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-78-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-20T16:46:47.256Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-20T20:25:40.354Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (3) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (4) • **Route 3A** (2) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (2) • **Route 14** (3) • **Route 17** (1) • **Route 17W** (1) • **Route 18** (5) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 83** (2) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (2) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (4) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (4) • **Route 3A** (2) • **Route 5** (1) • **Route 7** (2) • **Route 9** (7) • **Route 10** (1) • **Route 11** (2) • **Route 14** (3) • **Route 17** (1) • **Route 17W** (1) • **Route 18** (5) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 83** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (3) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO A Line: Southbound 11:38 AM Trip Canceled (Rosedale Transit Center Gate A)
+### 🚨 METRO D Line: Service Advisory
 
-- **Affected Routes**: `METRO A Line`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound A Line trip departing Rosedale Transit Center Gate A at 11:38 AM canceled today due to medical emergency
-
-[Official Agency Advisory](https://www.metrotransit.org/route/aline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound A Line trip departing Rosedale Transit Center Gate A at 11:38 AM canceled today due to medical emergency
-
-</details>
-
----
-
-### 🚨 Route 10: Northbound 11:04 AM Trip Canceled (Leamington Ramp & Lower - Gate #7)
-
-- **Affected Routes**: `Route 10`
+- **Affected Routes**: `METRO D Line`
 - **Direction**: Northbound
 - **Severity**: `Critical`
+- **Closed Stops**: Stop #56921, Stop #56922, Stop #56873, Stop #4513, Stop #47447, Stop #620, Stop #639, Stop #643
 
-**Summary**: Northbound Route 10 trip departing Leamington Ramp & Lower - Gate #7 at 11:04 AM canceled today due to traffic
+**Summary**: Northbound D Line trip departing MOA Transit Station Gate A at 2:30 PM will operate from Portland & 66th at 2:42 PM today. Previous stops missed due to traffic
 
-[Official Agency Advisory](https://www.metrotransit.org/route/10)
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound Route 10 trip departing Leamington Ramp & Lower - Gate #7 at 11:04 AM canceled today due to traffic
+**Header**: Northbound D Line trip departing MOA Transit Station Gate A at 2:30 PM will operate from Portland & 66th at 2:42 PM today. Previous stops missed due to traffic
 
 </details>
 
 ---
 
-### 🚨 Route 83: Service Canceled
+### 🚨 Route 9: Service Canceled
 
-- **Affected Routes**: `Route 83`
+- **Affected Routes**: `Route 9`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
+- **Corridors & Intersections**: 02 PM and departing Hedberg Dr & Cedar Lake Rd
 
-**Summary**: Route 83 trip departing Rosedale Transit Center Gate B at 8:15 AM and four other trips canceled today
+**Summary**: Route 9 trips departing 46th St Station & Gate H at 2:02 PM and departing Hedberg Dr & Cedar Lake Rd/Greenbrier Rd at 3:38 PM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/83)
+[Official Agency Advisory](https://www.metrotransit.org/route/9)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 83 trip departing Rosedale Transit Center Gate B at 8:15 AM and four other trips canceled today
-
-```text
-Affected northbound trips:
-departing Montreal Cir & Summit Brewing at 9:02 AM
-departing Montreal Cir & Summit Brewing at 10:32 AM
-
-Affected southbound trips:
-departing Rosedale Transit Center Gate B at 8:15 AM
-departing Rosedale Transit Center Gate B at 9:47 AM
-departing Rosedale Transit Center Gate B at 11:17 AM
-```
+**Header**: Route 9 trips departing 46th St Station & Gate H at 2:02 PM and departing Hedberg Dr & Cedar Lake Rd/Greenbrier Rd at 3:38 PM canceled today
 
 </details>
 
@@ -111,38 +83,6 @@ departing Rosedale Transit Center Gate B at 12:45 PM
 departing Rosedale Transit Center Gate B at 2:15 PM
 departing Rosedale Transit Center Gate B at 4:12 PM
 departing Rosedale Transit Center Gate B at 6:16 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 219: Service Canceled
-
-- **Affected Routes**: `Route 219`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 219 trip departing Maplewood Mall Transit Center & Gate A at 7:12 AM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/219)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 219 trip departing Maplewood Mall Transit Center & Gate A at 7:12 AM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Sun Ray Transit Center & Gate B at 8:13 AM
-departing Sun Ray Transit Center & Gate B at 10:13 AM
-departing Sun Ray Transit Center & Gate B at 12:13 PM
-
-Affected southbound trips:
-departing Maplewood Mall Transit Center & Gate A at 7:12 AM
-departing Maplewood Mall Transit Center & Gate A at 9:12 AM
-departing Maplewood Mall Transit Center & Gate A at 11:12 AM
-departing Maplewood Mall Transit Center & Gate A at 1:12 PM
 ```
 
 </details>
@@ -186,54 +126,19 @@ departing Anoka Tech College & Main Entrance at 5:45 PM
 - **Affected Routes**: `Route 805`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 08 AM
-departing 1st Ave S & Monroe St; 07 AM
-departing 1st Ave S & Monroe St
-
-**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 6:08 AM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 805 trip departing 1st Ave S & Monroe St at 6:08 AM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate D at 7:04 AM
-departing Northtown Transit Ctr Gate D at 9:04 AM
-departing Northtown Transit Ctr Gate D at 11:04 AM
-
-Affected southbound trips:
-departing 1st Ave S & Monroe St at 6:08 AM
-departing 1st Ave S & Monroe St at 8:07 AM
-departing 1st Ave S & Monroe St at 10:08 AM
-departing 1st Ave S & Monroe St at 12:08 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 805: Service Canceled
-
-- **Affected Routes**: `Route 805`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
 - **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
 departing 1st Ave S & Monroe St; 38 PM
 departing 1st Ave S & Monroe St; 36 PM
 departing 1st Ave S & Monroe St
 
-**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue
+**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and seven other trips canceled today due to mechanical issue
 
 [Official Agency Advisory](https://www.metrotransit.org/route/805)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today due to mechanical issue
+**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and seven other trips canceled today due to mechanical issue
 
 ```text
 Affected northbound trips:
@@ -243,6 +148,7 @@ departing Northtown Transit Ctr Gate D at 4:34 PM
 
 Affected southbound trips:
 departing 1st Ave S & Monroe St at 11:38 AM
+departing 1st Ave S & Monroe St at 12:38 PM
 departing 1st Ave S & Monroe St at 1:38 PM
 departing 1st Ave S & Monroe St at 3:36 PM
 departing 1st Ave S & Monroe St at 5:38 PM
@@ -3732,7 +3638,7 @@ Beard Ave S & 108th St W - Stop #56793 (southbound)
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Corridors & Intersections**: 98th St W & Normandale College - St; Penn Ave S & 98th St W; 98th St W & Penn Ave; 98th St W & Penn Ave S; 98th St & Normandale College - St
-- **Closed Stops**: 98th St W & Chowen Ave S (Stop #2079), 98th St W & Abbott Ave S (Stop #2081), 98th St W & Xerxes Ave S (Stop #2082), 98th St W & Upton Circle (Stop #1734), 98th St W & Russell Ave S (Stop #1735), 98th St W & Penn Ave S (Stop #57096), 98th St W & Russell Ave S (Stop #1626), 98th St W & Upton Rd (Stop #1627) *(+7 more)*
+- **Closed Stops**: 98th St W & Chowen Ave S (Stop #2079), 98th St W & Abbott Ave S (Stop #2081), 98th St W & Xerxes Ave S (Stop #2082), 98th St W & Upton Circle (Stop #1734), 98th St W & Russell Ave S (Stop #1735), 98th St W & Penn Ave S (Stop #57096), 98th St W & Russell Ave S (Stop #1626), 98th St W & Upton Rd (Stop #1627) *(+8 more)*
 
 **Summary**: Route 539 detoured off 98th St W from Penn Ave S to France Ave S until further notice due to construction. Board at: 98th St W & Normandale College - Stop #2078 (eastbound); Penn Ave S & 98th St W - Stop #57125 (northbound); 98th St W & Penn Ave / Newton Ave S - Stop #1737 (eastbound).
 
@@ -3748,7 +3654,7 @@ Beard Ave S & 108th St W - Stop #56793 (southbound)
 **Header**: Route 539 detoured off 98th St W from Penn Ave S to France Ave S until further notice due to construction.
 
 ```text
-Update on 10/20 at 11am: westbound get on/off stops
+Update on 10/20 at 12pm: added additional westbound get on/off stops.
 
 For eastbound Route 539 get on/off buses at:
 98th St W & Normandale College - Stop #2078 (eastbound)
@@ -3757,6 +3663,7 @@ Penn Ave S & 98th St W - Stop #57125 (northbound)
 
 For westbound Route 539 get on/off buses at:
 98th St W & Penn Ave S - Stop #1624 (westbound)
+Penn Ave S & 98th St W - Stop #57097 (southbound)
 98th St & Normandale College - Stop #2069 (westbound)
 
 Eastbound buses will travel the regular route on 98th St W to France Ave S, right on France Ave S, left on 102nd St W, left on Penn Ave S, right on 98th St W, and resume the regular route.
