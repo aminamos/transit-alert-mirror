@@ -2,21 +2,91 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-104-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-100-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-110-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-103-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-78-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-21T09:59:53.052Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-21T15:08:15.266Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (4) • **Route 3A** (2) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (2) • **Route 14** (3) • **Route 17** (1) • **Route 17W** (1) • **Route 18** (5) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (2) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (4) • **Route 3A** (2) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (2) • **Route 14** (3) • **Route 17** (1) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (5) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (5) • **Route 64** (7) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (2) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 Route 18: Northbound 9:28 AM Trip Canceled (2nd Ave S Loop & American Blvd)
+
+- **Affected Routes**: `Route 18`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 18 trip departing 2nd Ave S Loop & American Blvd at 9:28 AM canceled and will resume service Northbound Nicollet/38th St at 9:54 AM.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/18)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 18 trip departing 2nd Ave S Loop & American Blvd at 9:28 AM canceled and will resume service NB Nicollet/38th St at 9:54 AM.
+
+</details>
+
+---
+
+### 🚨 Route 22: Northbound 8:35 AM Trip Canceled (VA Medical Center & Visitors Entrance)
+
+- **Affected Routes**: `Route 22`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 22 trip departing VA Medical Center & Visitors Entrance at 8:35 AM canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/22)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 22 trip departing VA Medical Center & Visitors Entrance at 8:35 AM canceled today due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 30: Service Canceled
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 53 AM
+departing Knox Ave N & Golden Valley Rd; 56 AM
+departing Knox Ave N & Golden Valley Rd
+
+**Summary**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Golden Valley Rd Turn & Xerxes Ave N at 7:53 AM
+departing Knox Ave N & Golden Valley Rd at 9:56 AM
+departing Knox Ave N & Golden Valley Rd at 11:56 AM
+
+Affected westbound trips:
+departing Westgate Station - Gate B at 7:07 AM
+departing Westgate Station - Gate B at 9:06 AM
+departing Westgate Station - Gate B at 11:04 AM
+```
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -51,18 +121,20 @@ Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on 
 
 ---
 
-### ⚠️ METRO A Line: Detour via Ford Pkwy (Fairview Ave to Davern St)
+### ⚠️ METRO A Line: Detour via Ford Pkwy & Fairview Ave
 
 - **Affected Routes**: `METRO A Line`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Oct 19 at 6:00 AM until further notice
-- **Corridors & Intersections**: Ford Pkwy (Fairview Ave to Davern St)
+- **Corridors & Intersections**: Ford Pkwy & Fairview Ave; left on Ford Pkwy & resume regular route.
+
+Affected st; Ford Pkwy (Fairview Ave to Davern St)
 - **Closed Stops**: Ford & Fairview Station (Stop #56113), Stop #4283, Stop #56114
 
-**Summary**: A Line detoured off Ford Pkwy from Fairview Ave to Davern St beginning Mon Oct 19 at 6:00 AM until further notice. Board at: Ford & Kenneth Station - Stop #4283 (eastbound); Snelling & Highland Station - Stop #56114 (northbound).
+**Summary**: A Line detoured off Ford Pkwy from Fairview Ave to Davern St beginning Mon Oct 19 at 6:00 AM until further notice. Board at: Ford & Kenneth Station - Stop #4283 (eastbound); Temporary stop on Ford Pkwy & Fairview Ave (eastbound); Snelling & Highland Station - Stop #56114 (northbound).
 
-> 💡 **Rider Action**: Board at: Ford & Kenneth Station - Stop #4283 (eastbound); Snelling & Highland Station - Stop #56114 (northbound)
+> 💡 **Rider Action**: Board at: Ford & Kenneth Station - Stop #4283 (eastbound); Temporary stop on Ford Pkwy & Fairview Ave (eastbound); Snelling & Highland Station - Stop #56114 (northbound)
 
 > 🔄 **Detour Path**: Northbound buses will travel the regular route on Ford Pkwy to Fairview Ave, right on Fairview Ave, left on Hillcrest Ave, left on Davern St, right on Ford Pkwy, and resume the regular route.
 
@@ -74,13 +146,21 @@ Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on 
 **Header**: A Line detoured off Ford Pkwy from Fairview Ave to Davern St beginning Mon Oct 19 at 6:00 AM until further notice
 
 ```text
+Update 10/21/26 8:10am: get on/off stops and alternative southbound detour.
+
 Get on/off northbound buses at:
 Ford & Kenneth Station - Stop #4283 (eastbound)
+Temporary stop on Ford Pkwy & Fairview Ave (eastbound)
 Snelling & Highland Station - Stop #56114 (northbound)
+
+No southbound stops are missed.
 
 Northbound buses will travel the regular route on Ford Pkwy to Fairview Ave, right on Fairview Ave, left on Hillcrest Ave, left on Davern St, right on Ford Pkwy, and resume the regular route.
 
-Southbound buses will travel the regular route on Ford Pkwy to Davern St, right on Davern St, left on Highland Pkwy, left on Fairview Ave, right on Ford Pkwy, and resume the regular route. No southbound stops are missed.
+Southbound buses will travel the regular route on Ford Pkwy to Davern St, right on Davern St, left on Highland Pkwy, left on Fairview Ave, right on Ford Pkwy, and resume the regular route. 
+
+From 3pm - 6:30pm:
+Southbound buses will travel regular route on Ford Pkwy to Davern St, left on Davern St, left on Bohland, right on Fairview Ave, left on Ford Pkwy and resume regular route.
 
 Affected stops:
 Ford & Fairview Station - Stop #56113 (eastbound)
@@ -1526,8 +1606,8 @@ Affected stops:
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Sep 14 until further notice
-- **Corridors & Intersections**: Cedar Ave S & 32nd St E; Bloomington Ave S & 28th St E; Bloomington Ave S & 25th St E; Cedar Ave S & Franklin Ave E; Cedar Ave S & Lake St E
-- **Closed Stops**: Stop #15313, Stop #57362, Stop #15618, Stop #15625, Stop #57194, Stop #2501, Stop #15366, Stop #15619 *(+9 more)*
+- **Corridors & Intersections**: Cedar Ave S & 32nd St E; Bloomington Ave S & 28th St E; Bloomington Ave S & 26th St E; Bloomington Ave S & 25th St E; Bloomington Ave S & 24th St E
+- **Closed Stops**: Cedar Ave S & Lake St E (Stop #57193), Cedar Ave S & 28th St E (Stop #15319), Cedar Ave S & 26th St E (Stop #15323), Cedar Ave S & #2501 (Stop #15325), Cedar Ave S & 24th St E (Stop #40460), Cedar Ave S & 26th St E (Stop #15368), Cedar Ave S & 28th St E (Stop #15372), Cedar Ave S & Lake St E (Stop #15374) *(+14 more)*
 
 **Summary**: Route 22 detoured off Cedar Ave from Lake St to 24th St beginning Mon Sep 14 until further notice due to construction. Board at: Cedar Ave S & 32nd St E - Stop #15313 (northbound); Lake & Cedar Station - Stop #57362 (westbound); Bloomington Ave S & 28th St E - Stop #15618 (northbound).
 
@@ -1543,17 +1623,22 @@ Affected stops:
 **Header**: Route 22 detoured off Cedar Ave from Lake St to 24th St beginning Mon Sep 14 until further notice due to construction
 
 ```text
-Update on 9/9 11:37am: southbound detour routing, southbound affected stops, and southbound alternative stops changed.
+Update on 10/21 at 9am: added additional get on/off stops for both directions.
 
 For northbound Route 22 get on/off buses at:
 Cedar Ave S & 32nd St E - Stop #15313 (northbound)
 Lake & Cedar Station - Stop #57362 (westbound)
 Bloomington Ave S & 28th St E - Stop #15618 (northbound)
+Bloomington Ave S & 26th St E - Stop #15622 (northbound)
 Bloomington Ave S & 25th St E - Stop #15625 (northbound)
+Bloomington Ave S & 24th St E - Stop #15626 (northbound)
 Cedar Ave S & Franklin Ave E - Stop #57194 (northbound)
 
 For southbound Route 22 get on/off buses at:
 Cedar Ave S & #2501 - Stop #15366 (southbound)
+Bloomington Ave S & 24th St E - Stop #15627 (southbound)
+Bloomington Ave S & 25th St E - Stop #15624 (southbound)
+Bloomington Ave S & 26th St E - Stop #15623 (southbound)
 Bloomington Ave S & 28th St E - Stop #15619 (southbound)
 Temporary stop on Cedar Ave just past Lake St (southbound)
 Cedar Ave S & 32nd St E - Stop #15378 (southbound)
@@ -1895,6 +1980,61 @@ Maryland Ave & Cypress St - Stop #12918 (eastbound)
 
 ---
 
+### ⚠️ Route 54, Route 64: Detour via Maryland Ave & Mendota Ave
+
+- **Affected Routes**: `Route 54` `Route 64`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Maryland Ave & Mendota Ave; Maryland Ave & Clarence St; left on Maryland Ave & resume regular route.
+
+Affected st; Maryland Ave & Forest St; Maryland Ave & Cypress St
+- **Closed Stops**: Maryland Ave & Forest St (Stop #12917), Maryland Ave & Cypress St (Stop #12918), Maryland Ave & Earl St (Stop #12919), Maryland Ave & Frank St (Stop #12920), Maryland Ave & Duluth St (Stop #12921), Maryland Ave & Johnson Pkwy (Stop #12924), Maryland Ave & Johnson Pkwy (Stop #12929), Maryland Ave & Duluth St (Stop #12932) *(+8 more)*
+
+**Summary**: Routes 54 and 64 detoured off Maryland Ave from Forest St to Johnson Pkwy until further notice due to construction. Board at: Maryland Ave & Mendota Ave - Stop #12916 (eastbound); Maryland Ave & Clarence St - Stop #12926 (eastbound).
+
+> 💡 **Rider Action**: Board at: Maryland Ave & Mendota Ave - Stop #12916 (eastbound); Maryland Ave & Clarence St - Stop #12926 (eastbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on Maryland Ave to Forest St, right on Forest St, left on 7th St, left on Johnson Pkwy, right on Maryland Ave and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/64)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Routes 54 and 64 detoured off Maryland Ave from Forest St to Johnson Pkwy until further notice due to construction
+
+```text
+Get on/off eastbound buses at:
+Maryland Ave & Mendota Ave - Stop #12916 (eastbound)
+Maryland Ave & Clarence St - Stop #12926 (eastbound)
+
+Get on/off westbound buses at:
+Maryland Ave & Clarence St - Stop #12927 (westbound)
+Maryland Ave & Mendota Ave - Stop #12937 (westbound)
+
+Eastbound buses will travel regular route on Maryland Ave to Forest St, right on Forest St, left on 7th St, left on Johnson Pkwy, right on Maryland Ave and resume regular route.
+
+Westbound buses will travel regular route on Maryland Ave to Johnson Pkwy, left on Johnson Pkwy, right on 7th St, right on Forest St, left on Maryland Ave and resume regular route.
+
+Affected stops:
+Maryland Ave & Forest St - Stop #12917 (eastbound)
+Maryland Ave & Cypress St - Stop #12918 (eastbound)
+Maryland Ave & Earl St - Stop #12919 (eastbound)
+Maryland Ave & Frank St - Stop #12920 (eastbound)
+Maryland Ave & Duluth St - Stop #12921 (eastbound)
+Maryland Ave & Johnson Pkwy - Stop #12924 (eastbound)
+Maryland Ave & Johnson Pkwy - Stop #12929 (westbound)
+Maryland Ave & Duluth St - Stop #12932 (westbound)
+Maryland Ave & Frank St - Stop #12933 (westbound)
+Maryland Ave & Earl St - Stop #12934 (westbound)
+Maryland Ave & Cypress St - Stop #12935 (westbound)
+Maryland Ave & Forest St - Stop #12936 (westbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 61: Detour via Arcade St & Magnolia Ave
 
 - **Affected Routes**: `Route 61`
@@ -2192,6 +2332,132 @@ Westbound buses will travel regular route on Mounds Blvd to westbound I-94 exit,
 Affected stops:
 Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 7th St E & Wall St - Stop #57215 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 63: Detour via Grand Ave & Grotto St
+
+- **Affected Routes**: `Route 63`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Grand Ave & Grotto St; Grand Ave & Dale St; Grand Ave & Lincoln Ave
+- **Closed Stops**: Grand Ave & Dale St (Stop #3130), Grand Ave & Lincoln Ave (Stop #3131), Grand Ave & #487 (Stop #3132), Grand Ave & #395 (Stop #3134), Stop #3128, Stop #3135
+
+**Summary**: Eastbound Route 63 detoured off Grand between Dale & Ramsey St until further notice due to road construction. Board at: Grand Ave & Grotto St - Stop #3128 (eastbound); Grand Ave & Hwy 35E / Smith Ave - Stop #3135 (eastbound).
+
+> 💡 **Rider Action**: Board at: Grand Ave & Grotto St - Stop #3128 (eastbound); Grand Ave & Hwy 35E / Smith Ave - Stop #3135 (eastbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel east on Grand to Dale, left on Dale, right on Summit, continue on Summit as it becomes Grand and resume regular route
+
+[Official Agency Advisory](https://www.metrotransit.org/route/63)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 63 detoured off Grand between Dale & Ramsey St until further notice due to road construction
+
+```text
+Get on/off buses at:
+Grand Ave & Grotto St - Stop #3128 (eastbound)
+Grand Ave & Hwy 35E / Smith Ave - Stop #3135 (eastbound)
+
+Eastbound buses will travel east on Grand to Dale, left on Dale, right on Summit, continue on Summit as it becomes Grand and resume regular route
+
+Westbound buses not affected
+
+Affected stops:
+Grand Ave & Dale St - Stop #3130 (eastbound)
+Grand Ave & Lincoln Ave - Stop #3131 (eastbound)
+Grand Ave & #487 - Stop #3132 (eastbound)
+Grand Ave & #395 - Stop #3134 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 63: Detour via Grand Ave & Grotto St
+
+- **Affected Routes**: `Route 63`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Grand Ave & Grotto St; Smith Ave & Grand Ave; right on Ramsey St & Grand Ave; Grand Ave & Thompson St; Grand Ave & Dale St
+- **Closed Stops**: Grand Ave & Dale St (Stop #3130), Grand Ave & Lincoln Ave (Stop #3131), Grand Ave & #487 (Stop #3132), Grand Ave & #395 (Stop #3134), Grand Ave & Hwy 35E / Smith Ave (Stop #3135), Stop #3128, Stop #3136
+
+**Summary**: Eastbound Route 63 detoured off Grand Ave from Dale St to Grand Ave/Thompson St until further notice due to construction. Board at: Grand Ave & Grotto St - Stop #3128 (eastbound); Smith Ave & Grand Ave - Stop #3136 (eastbound).
+
+> 💡 **Rider Action**: Board at: Grand Ave & Grotto St - Stop #3128 (eastbound); Smith Ave & Grand Ave - Stop #3136 (eastbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel the regular route on Grand Ave to Dale St, left on Dale St, right on Summit Ave, right on Ramsey St/Grand Ave to Grand Ave/Thompson St, continue on Grand Ave, and resume the regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/63)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 63 detoured off Grand Ave from Dale St to Grand Ave/Thompson St until further notice due to construction
+
+```text
+Get on/off buses at:
+Grand Ave & Grotto St - Stop #3128 (eastbound)
+Smith Ave & Grand Ave - Stop #3136 (eastbound)
+
+Eastbound buses will travel the regular route on Grand Ave to Dale St, left on Dale St, right on Summit Ave, right on Ramsey St/Grand Ave to Grand Ave/Thompson St, continue on Grand Ave, and resume the regular route.
+
+Westbound buses are not affected.
+
+Affected stops:
+Grand Ave & Dale St - Stop #3130 (eastbound)
+Grand Ave & Lincoln Ave - Stop #3131 (eastbound)
+Grand Ave & #487 - Stop #3132 (eastbound)
+Grand Ave & #395 - Stop #3134 (eastbound)
+Grand Ave & Hwy 35E / Smith Ave - Stop #3135 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 63: Detour via Smith Ave & Grand Ave
+
+- **Affected Routes**: `Route 63`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Thu Oct 22 at 7:00 AM until further notice
+- **Corridors & Intersections**: Smith Ave & Grand Ave; Grand Ave & Grotto St; Grand Ave & Ramsey St; Grand Ave & Lincoln Ave; Grand Ave & Dale St
+- **Closed Stops**: Grand Ave & Ramsey St (Stop #3273), Grand Ave & #387 (Stop #3274), Grand Ave & #487 (Stop #48718), Grand Ave & Lincoln Ave (Stop #3276), Grand Ave & Dale St (Stop #3179), Stop #3271, Stop #3181
+
+**Summary**: Westbound Route 63 detoured off Grand Ave from Dale St to Grand Ave/Ramsey St beginning Thu Oct 22 at 7:00 AM until further notice due to construction. Board at: Smith Ave & Grand Ave - Stop #3271 (westbound); Grand Ave & Grotto St - Stop #3181 (westbound).
+
+> 💡 **Rider Action**: Board at: Smith Ave & Grand Ave - Stop #3271 (westbound); Grand Ave & Grotto St - Stop #3181 (westbound)
+
+> 🔄 **Detour Path**: Westbound buses will travel the regular route on Grand Ave to Grand Ave/Ramsey St, continue straight on Ramsey St, left on Summit Ave, left on Dale St, right on Grand Ave, and resume the regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/63)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 63 detoured off Grand Ave from Dale St to Grand Ave/Ramsey St beginning Thu Oct 22 at 7:00 AM until further notice due to construction
+
+```text
+Get on/off buses at:
+Smith Ave & Grand Ave - Stop #3271 (westbound)
+Grand Ave & Grotto St - Stop #3181 (westbound)
+
+Eastbound buses are not affected.
+
+Westbound buses will travel the regular route on Grand Ave to Grand Ave/Ramsey St, continue straight on Ramsey St, left on Summit Ave, left on Dale St, right on Grand Ave, and resume the regular route.
+
+Affected stops:
+Grand Ave & Ramsey St - Stop #3273 (westbound)
+Grand Ave & #387 - Stop #3274 (westbound)
+Grand Ave & #487 - Stop #48718 (westbound)
+Grand Ave & Lincoln Ave - Stop #3276 (westbound)
+Grand Ave & Dale St - Stop #3179 (westbound)
 ```
 
 </details>
@@ -2662,59 +2928,6 @@ Timberlake Rd S & #1479 - Stop #43773 (westbound)
 Arlington Ave E & Jackson St - Stop #40095 (eastbound)
 Arlington Ave E & #179 - Stop #51606 (eastbound)
 Arlington Ave E & LOrient St - Stop #40108 (eastbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 68: Detour via 5th Ave S & Richmond St
-
-- **Affected Routes**: `Route 68`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Oct 19 at 7:00 AM until further notice
-- **Corridors & Intersections**: 5th Ave S & Richmond St; 5th Ave S & 4th St S; 5th Ave S & 5th St S; right on 5th Ave & resume regular route.
-
-Affected st; 5th Ave S & 9th St S
-- **Closed Stops**: 5th Ave S & 9th St S (Stop #9815), 5th Ave S & 8th St S (Stop #9816), 5th Ave S & 7th St S (Stop #9817), 5th Ave S & 6th St S (Stop #9818), 5th Ave S & 5th St S (Stop #9819), 5th Ave S & 6th St S (Stop #9967), 5th Ave S & 7th St S (Stop #9968), 5th Ave S & 8th St S (Stop #43025) *(+5 more)*
-
-**Summary**: Route 68 detoured off 5th Ave from I-494 to 5th St beginning Mon Oct 19 at 7:00 AM until further notice due to construction. Board at: 5th Ave S & Richmond St - Stop #9812 (northbound); 5th Ave S & 4th St S - Stop #9820 (northbound).
-
-> 💡 **Rider Action**: Board at: 5th Ave S & Richmond St - Stop #9812 (northbound); 5th Ave S & 4th St S - Stop #9820 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on 5th Ave to I-494 ramp, left on 5th Ave, right on 7th Ave, right on 5th St, left on 5th Ave and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/68)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 68 detoured off 5th Ave from I-494 to 5th St beginning Mon Oct 19 at 7:00 AM until further notice due to construction
-
-```text
-For northbound Route 68 get on/off buses at:
-5th Ave S & Richmond St - Stop #9812 (northbound)
-5th Ave S & 4th St S - Stop #9820 (northbound)
-
-For southbound Route 68 get on/off buses at:
-5th Ave S & 5th St S - Stop #9966 (southbound)
-5th Ave S & Richmond St - Stop #52366 (southbound)
-
-Northbound buses will travel regular route on 5th Ave to I-494 ramp, left on 5th Ave, right on 7th Ave, right on 5th St, left on 5th Ave and resume regular route.
-
-Southbound buses will travel regular route on 5th Ave to 5th St, right on 5th St, left on 7th Ave, left on 7th Ave ramp, right on 5th Ave and resume regular route.
-
-Affected stops:
-5th Ave S & 9th St S - Stop #9815 (northbound)
-5th Ave S & 8th St S - Stop #9816 (northbound)
-5th Ave S & 7th St S - Stop #9817 (northbound)
-5th Ave S & 6th St S - Stop #9818 (northbound)
-5th Ave S & 5th St S - Stop #9819 (northbound)
-5th Ave S & 6th St S - Stop #9967 (southbound)
-5th Ave S & 7th St S - Stop #9968 (southbound)
-5th Ave S & 8th St S - Stop #43025 (southbound)
-5th Ave S & 9th St S - Stop #9970 (southbound)
 ```
 
 </details>
