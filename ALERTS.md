@@ -2,86 +2,131 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-110-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-103-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-109-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-101-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-78-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-21T15:08:15.266Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-21T20:03:01.831Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (4) • **Route 3A** (2) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (2) • **Route 14** (3) • **Route 17** (1) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (5) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (5) • **Route 64** (7) • **Route 67** (3) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (2) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (3) • **Route 3** (3) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (2) • **Route 14** (3) • **Route 17** (1) • **Route 17W** (1) • **Route 18** (5) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 38** (1) • **Route 46** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (4) • **Route 64** (7) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (3) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 18: Northbound 9:28 AM Trip Canceled (2nd Ave S Loop & American Blvd)
+### 🚨 Route 2: Eastbound 1:33 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)
 
-- **Affected Routes**: `Route 18`
-- **Direction**: Northbound
+- **Affected Routes**: `Route 2`
+- **Direction**: Eastbound
 - **Severity**: `Critical`
 
-**Summary**: Northbound Route 18 trip departing 2nd Ave S Loop & American Blvd at 9:28 AM canceled and will resume service Northbound Nicollet/38th St at 9:54 AM.
+**Summary**: Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 1:33 PM canceled today due to traffic
 
-[Official Agency Advisory](https://www.metrotransit.org/route/18)
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound Route 18 trip departing 2nd Ave S Loop & American Blvd at 9:28 AM canceled and will resume service NB Nicollet/38th St at 9:54 AM.
+**Header**: Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 1:33 PM canceled today due to traffic
 
 </details>
 
 ---
 
-### 🚨 Route 22: Northbound 8:35 AM Trip Canceled (VA Medical Center & Visitors Entrance)
+### 🚨 Route 71: Service Canceled
 
-- **Affected Routes**: `Route 22`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Route 22 trip departing VA Medical Center & Visitors Entrance at 8:35 AM canceled today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/22)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 22 trip departing VA Medical Center & Visitors Entrance at 8:35 AM canceled today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 30: Service Canceled
-
-- **Affected Routes**: `Route 30`
+- **Affected Routes**: `Route 71`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: 53 AM
-departing Knox Ave N & Golden Valley Rd; 56 AM
-departing Knox Ave N & Golden Valley Rd
 
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today
+**Summary**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today due to mechanical issue
 
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
+[Official Agency Advisory](https://www.metrotransit.org/route/71)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today
+**Header**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today due to mechanical issue
 
 ```text
-Affected eastbound trips:
-departing Golden Valley Rd Turn & Xerxes Ave N at 7:53 AM
-departing Knox Ave N & Golden Valley Rd at 9:56 AM
-departing Knox Ave N & Golden Valley Rd at 11:56 AM
+Affected northbound trips:
+departing Inver Hills College & Shelter at 1:38 PM
+departing Inver Hills College & Shelter at 4:38 PM
 
-Affected westbound trips:
-departing Westgate Station - Gate B at 7:07 AM
-departing Westgate Station - Gate B at 9:06 AM
-departing Westgate Station - Gate B at 11:04 AM
+Affected southbound trips:
+departing Market Place Dr & The Marketplace Ctr at 3:10 PM
+departing Market Place Dr & The Marketplace Ctr at 6:15 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 802: Service Canceled
+
+- **Affected Routes**: `Route 802`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/802)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate E at 12:34 PM
+departing Northtown Transit Ctr Gate E at 2:34 PM
+departing Northtown Transit Ctr Gate E at 4:34 PM
+
+Affected southbound trips:
+departing Anoka Tech College & Main Entrance at 11:43 AM
+departing Anoka Tech College & Main Entrance at 1:42 PM
+departing Anoka Tech College & Main Entrance at 3:42 PM
+departing Anoka Tech College & Main Entrance at 5:45 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 805: Service Canceled
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
+departing 1st Ave S & Monroe St; 38 PM
+departing 1st Ave S & Monroe St; 36 PM
+departing 1st Ave S & Monroe St
+
+**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and seven other trips canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and seven other trips canceled today due to mechanical issue
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate D at 12:34 PM
+departing Northtown Transit Ctr Gate D at 2:34 PM
+departing Northtown Transit Ctr Gate D at 4:34 PM
+
+Affected southbound trips:
+departing 1st Ave S & Monroe St at 11:38 AM
+departing 1st Ave S & Monroe St at 12:38 PM
+departing 1st Ave S & Monroe St at 1:38 PM
+departing 1st Ave S & Monroe St at 3:36 PM
+departing 1st Ave S & Monroe St at 5:38 PM
 ```
 
 </details>
@@ -606,50 +651,6 @@ Pleasant St & Jones Hall - Stop #49881 (northbound)
 15th Ave SE & 4th St SE - Stop #49242 (southbound)
 Pleasant St & Eddy Hall - Stop #49237 (southbound)
 Pleasant St SE & Scholars Walk - Stop #54046 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 3, Route 3A: Detour via Como Blvd E & Maryland Ave
-
-- **Affected Routes**: `Route 3` `Route 3A`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Como Blvd E & Maryland Ave; Maryland Ave & Grotto St; Maryland Ave & Mackubin St; right on Maryland Ave & resume regular route.
-
-Affected st; Maryland Ave & Dale St
-- **Closed Stops**: Maryland Ave & Grotto St (Stop #5556), Maryland Ave & Dale St (Stop #5560), Stop #5555, Stop #5563
-
-**Summary**: Route 3A detoured off Maryland Ave from Grotto St to Dale St until further notice due to construction. Board at: Como Blvd E & Maryland Ave - Stop #5555 (northbound); Temporary stop on Maryland Ave & Grotto St (eastbound); Maryland Ave & Mackubin St - Stop #5563 (eastbound).
-
-> 💡 **Rider Action**: Board at: Como Blvd E & Maryland Ave - Stop #5555 (northbound); Temporary stop on Maryland Ave & Grotto St (eastbound); Maryland Ave & Mackubin St - Stop #5563 (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on Maryland Ave to Grotto St, left on Grotto St, right on Wheelock Pkwy, right on Dale St, left on Maryland Ave and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/3)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 3A detoured off Maryland Ave from Grotto St to Dale St until further notice due to construction
-
-```text
-Get on/off eastbound buses at:
-Como Blvd E & Maryland Ave - Stop #5555 (northbound)
-Temporary stop on Maryland Ave & Grotto St (eastbound)
-Maryland Ave & Mackubin St - Stop #5563 (eastbound)
-
-No westbound stops missed.
-
-Eastbound buses will travel regular route on Maryland Ave to Grotto St, left on Grotto St, right on Wheelock Pkwy, right on Dale St, left on Maryland Ave and resume regular route.
-
-Westbound buses will travel regular route on Maryland Ave to Dale St, right on Dale St, left on Wheelock Pkwy, left on Grotto St, right on Maryland Ave and resume regular route.
-
-Affected stops:
-Maryland Ave & Grotto St - Stop #5556 (eastbound)
-Maryland Ave & Dale St - Stop #5560 (eastbound)
 ```
 
 </details>
@@ -1838,6 +1839,34 @@ Parklawn Ave & Parklawn Court - Stop #41091 (northbound)
 
 ---
 
+### ⚠️ Route 38, Route 74: Stop Closed at Ford Pkwy & Cretin Ave
+
+- **Affected Routes**: `Route 38` `Route 74`
+- **Direction**: Eastbound
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Thu Oct 22 until further notice from 7:00 AM to 6:00 PM each day
+- **Corridors & Intersections**: Ford Pkwy & Cretin Ave
+- **Closed Stops**: Stop #4280, Stop #56111, Stop #56112
+
+**Summary**: Ford Pkwy & Cretin Ave - Stop #4280 (eastbound) is closed for Routes 38 and 74 starting Thu Oct 22 until further notice from 7:00 AM to 6:00 PM each day. Board at: Ford & Woodlawn Station - Stop #56111 (eastbound); Ford & Finn Station - Stop #56112 (eastbound).
+
+> 💡 **Rider Action**: Board at: Ford & Woodlawn Station - Stop #56111 (eastbound); Ford & Finn Station - Stop #56112 (eastbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Ford Pkwy & Cretin Ave - Stop #4280 (eastbound) is closed for Routes 38 and 74 starting Thu Oct 22 until further notice  from 7:00 AM to 6:00 PM each day
+
+```text
+Get on/off buses at:
+Ford & Woodlawn Station - Stop #56111 (eastbound)
+Ford & Finn Station - Stop #56112 (eastbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 46: Detour via 50th St W & Washburn Ave
 
 - **Affected Routes**: `Route 46`
@@ -2343,47 +2372,6 @@ Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 - **Affected Routes**: `Route 63`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Grand Ave & Grotto St; Grand Ave & Dale St; Grand Ave & Lincoln Ave
-- **Closed Stops**: Grand Ave & Dale St (Stop #3130), Grand Ave & Lincoln Ave (Stop #3131), Grand Ave & #487 (Stop #3132), Grand Ave & #395 (Stop #3134), Stop #3128, Stop #3135
-
-**Summary**: Eastbound Route 63 detoured off Grand between Dale & Ramsey St until further notice due to road construction. Board at: Grand Ave & Grotto St - Stop #3128 (eastbound); Grand Ave & Hwy 35E / Smith Ave - Stop #3135 (eastbound).
-
-> 💡 **Rider Action**: Board at: Grand Ave & Grotto St - Stop #3128 (eastbound); Grand Ave & Hwy 35E / Smith Ave - Stop #3135 (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel east on Grand to Dale, left on Dale, right on Summit, continue on Summit as it becomes Grand and resume regular route
-
-[Official Agency Advisory](https://www.metrotransit.org/route/63)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 63 detoured off Grand between Dale & Ramsey St until further notice due to road construction
-
-```text
-Get on/off buses at:
-Grand Ave & Grotto St - Stop #3128 (eastbound)
-Grand Ave & Hwy 35E / Smith Ave - Stop #3135 (eastbound)
-
-Eastbound buses will travel east on Grand to Dale, left on Dale, right on Summit, continue on Summit as it becomes Grand and resume regular route
-
-Westbound buses not affected
-
-Affected stops:
-Grand Ave & Dale St - Stop #3130 (eastbound)
-Grand Ave & Lincoln Ave - Stop #3131 (eastbound)
-Grand Ave & #487 - Stop #3132 (eastbound)
-Grand Ave & #395 - Stop #3134 (eastbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 63: Detour via Grand Ave & Grotto St
-
-- **Affected Routes**: `Route 63`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
 - **Corridors & Intersections**: Grand Ave & Grotto St; Smith Ave & Grand Ave; right on Ramsey St & Grand Ave; Grand Ave & Thompson St; Grand Ave & Dale St
 - **Closed Stops**: Grand Ave & Dale St (Stop #3130), Grand Ave & Lincoln Ave (Stop #3131), Grand Ave & #487 (Stop #3132), Grand Ave & #395 (Stop #3134), Grand Ave & Hwy 35E / Smith Ave (Stop #3135), Stop #3128, Stop #3136
 
@@ -2662,45 +2650,6 @@ Payne Ave & Case Ave - Stop #11806 (southbound)
 Get on/off buses at:
 Minnehaha Ave & St Albans St - Stop #15064 (eastbound)
 Dale St & Blair Ave - Stop #10740 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 67: Detour via Franklin Ave SE & Seymour Ave
-
-- **Affected Routes**: `Route 67`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Tue Oct 13 at 6:00 AM until further notice
-- **Corridors & Intersections**: Franklin Ave SE & Seymour Ave; Franklin Ave & Berry St; Franklin Ave SE & Bedford St; Franklin Ave (Seymour Ave to Emerald St)
-- **Closed Stops**: Franklin Ave SE & Bedford St (Stop #52063), Stop #52062, Stop #54099
-
-**Summary**: Route 67 detoured off Franklin Ave from Seymour Ave to Emerald St beginning Tue Oct 13 at 6:00 AM until further notice due to utility work. Board at: Franklin Ave SE & Seymour Ave - Stop #52062 (eastbound); Franklin Ave & Berry St - Stop #54099 (eastbound).
-
-> 💡 **Rider Action**: Board at: Franklin Ave SE & Seymour Ave - Stop #52062 (eastbound); Franklin Ave & Berry St - Stop #54099 (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel east on Franklin Ave to Seymour Ave, right on Seymour, left on Sharon Ave, left on Emerald St, right on Franklin and resume regular route
-
-[Official Agency Advisory](https://www.metrotransit.org/route/67)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 67 detoured off Franklin Ave from Seymour Ave to Emerald St beginning Tue Oct 13 at 6:00 AM until further notice due to utility work
-
-```text
-Get on/off buses at:
-Franklin Ave SE & Seymour Ave - Stop #52062 (eastbound)
-Franklin Ave & Berry St - Stop #54099 (eastbound)
-
-Eastbound buses will travel east on Franklin Ave to Seymour Ave, right on Seymour, left on Sharon Ave, left on Emerald St, right on Franklin and resume regular route
-
-Westbound buses not affected
-
-Affected stops:
-Franklin Ave SE & Bedford St - Stop #52063 (eastbound)
 ```
 
 </details>
@@ -3031,33 +2980,6 @@ Wall St & 7th St / 6th St - Stop #43282 (southbound)
 
 ---
 
-### ⚠️ Route 72, Route 74: Stop Closed at Pedersen St & Wilson Ave
-
-- **Affected Routes**: `Route 72` `Route 74`
-- **Direction**: Northbound
-- **Severity**: `Moderate`
-- **Schedule**: Beginning at 6:00 AM until further notice
-- **Corridors & Intersections**: Pedersen St & Wilson Ave
-- **Closed Stops**: Stop #13667
-
-**Summary**: Sun Ray Transit Center & Gate D - Stop #13667 (northbound) is closed for Routes 72 and 74 beginning at 6:00 AM until further notice. Board at: Temporary stop on Pedersen St & Wilson Ave (northbound).
-
-> 💡 **Rider Action**: Board at: Temporary stop on Pedersen St & Wilson Ave (northbound)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Sun Ray Transit Center & Gate D - Stop #13667 (northbound) is closed for Routes 72 and 74 beginning at 6:00 AM until further notice
-
-```text
-Get on/off buses at:
-Temporary stop on Pedersen St & Wilson Ave (northbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 74: Detour via 5th St E & Sibley St
 
 - **Affected Routes**: `Route 74`
@@ -3214,6 +3136,52 @@ Get on/off buses at:
 Get on/off buses at:
 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound)
 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 156: Detour via Sunrise Dr & 59th St W
+
+- **Affected Routes**: `Route 156`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Wed Nov 4 at 2:00 AM until further notice
+- **Corridors & Intersections**: Sunrise Dr & 59th St W; 60th St W & Penn Ave S; right on Sunrise Dr & resume regular route.
+
+Affected st; 60th St W & Morgan Ave S; 60th St (Oliver Ave to Sunrise Dr)
+- **Closed Stops**: 60th St W & Morgan Ave S (Stop #1792), 60th St W & Morgan Ave S (Stop #1835), Stop #1789, Stop #1034, Stop #3775, Stop #1838
+
+**Summary**: Route 156 detoured off 60th St from Oliver Ave to Sunrise Dr beginning Wed Nov 4 at 2:00 AM until further notice due to tree trimming. Board at: Sunrise Dr & 59th St W - Stop #1789 (westbound); 60th St W & Penn Ave S - Stop #1034 (westbound).
+
+> 💡 **Rider Action**: Board at: Sunrise Dr & 59th St W - Stop #1789 (westbound); 60th St W & Penn Ave S - Stop #1034 (westbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route on Sunrise Dr to Knox Ave, left on Knox Ave, right on 61st St, right on Oliver Ave, left on 60th St and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/156)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 156 detoured off 60th St from Oliver Ave to Sunrise Dr beginning Wed Nov 4 at 2:00 AM until further notice due to tree trimming
+
+```text
+For northbound Route 156 get on/off buses at:
+Sunrise Dr & 59th St W - Stop #1789 (westbound)
+60th St W & Penn Ave S - Stop #1034 (westbound)
+
+For southbound Route 156 get on/off buses at:
+60th St W & Penn Ave S - Stop #3775 (eastbound)
+Sunrise Dr & 59th St W - Stop #1838 (eastbound)
+
+Northbound buses will travel regular route on Sunrise Dr to Knox Ave, left on Knox Ave, right on 61st St, right on Oliver Ave, left on 60th St and resume regular route.
+
+Southbound buses will travel regular route on 60th St to Oliver Ave, right on Oliver Ave, left on 61st St, left on Knox Ave, right on Sunrise Dr and resume regular route.
+
+Affected stops:
+60th St W & Morgan Ave S - Stop #1792 (westbound)
+60th St W & Morgan Ave S - Stop #1835 (eastbound)
 ```
 
 </details>
