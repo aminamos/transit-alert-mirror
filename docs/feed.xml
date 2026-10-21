@@ -4,17 +4,62 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Wed, 21 Oct 2026 20:03:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 23:58:03 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 2: Eastbound 1:33 PM Trip Canceled (Franklin Ave W &amp; Hennepin Ave S)</title>
-      <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-54426-2026-10-21T18:46:01.000Z</guid>
-      <pubDate>Wed, 21 Oct 2026 18:46:01 GMT</pubDate>
+      <title>[Critical] METRO B Line: Eastbound 4:49 PM Trip Canceled (Lake St W &amp; France Ave S)</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-54430-2026-10-21T21:27:24.000Z</guid>
+      <pubDate>Wed, 21 Oct 2026 21:27:24 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 2</category>
-      <description>Eastbound Route 2 trip departing Franklin Ave W &amp; Hennepin Ave S at 1:33 PM canceled today due to traffic</description>
+      <category>METRO B Line</category>
+      <description>Eastbound B Line trip departing Lake St W &amp; France Ave S at 4:49 PM canceled today due to collision</description>
+    </item>
+    <item>
+      <title>[Critical] METRO B Line: Westbound 5:33 PM Trip Canceled (Union Depot &amp; Gate A1)</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-54435-2026-10-21T22:27:41.000Z</guid>
+      <pubDate>Wed, 21 Oct 2026 22:27:41 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO B Line</category>
+      <description>Westbound B Line trip departing Union Depot &amp; Gate A1 at 5:33 PM canceled</description>
+    </item>
+    <item>
+      <title>[Critical] METRO D Line: Southbound 5:18 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-54436-2026-10-21T22:45:12.000Z</guid>
+      <pubDate>Wed, 21 Oct 2026 22:45:12 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO D Line</category>
+      <description>Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:18 PM canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] METRO Orange Line: Southbound 5:22 PM Trip Canceled (Marquette Ave &amp; 3rd St - Stop Group C)</title>
+      <link>https://www.metrotransit.org/route/orange</link>
+      <guid isPermaLink="false">Metro Transit-54437-2026-10-21T22:56:13.000Z</guid>
+      <pubDate>Wed, 21 Oct 2026 22:56:13 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO Orange Line</category>
+      <description>Southbound Orange Line trip departing Marquette Ave &amp; 3rd St - Stop Group C at 5:22 PM canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 38, Route 38H: Eastbound 4:50 PM Trip Canceled (Bren Rd E &amp; Blue Circle Dr)</title>
+      <link>https://www.metrotransit.org/route/38</link>
+      <guid isPermaLink="false">Metro Transit-54433-2026-10-21T22:18:57.000Z</guid>
+      <pubDate>Wed, 21 Oct 2026 22:18:57 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 38, Route 38H</category>
+      <description>Eastbound Route 38H trip departing Bren Rd E &amp; Blue Circle Dr at 4:50 PM canceled today due to police activity</description>
+    </item>
+    <item>
+      <title>[Critical] Route 64: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/64</link>
+      <guid isPermaLink="false">Metro Transit-54438-2026-10-21T23:06:59.000Z</guid>
+      <pubDate>Wed, 21 Oct 2026 23:06:59 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 64</category>
+      <description>Westbound Route 64 trip departing Maplewood Mall Transit Center at 5:50 PM will start from Maryland &amp; White Bear. Previous stops missed</description>
     </item>
     <item>
       <title>[Critical] Route 71: Service Canceled</title>
@@ -24,6 +69,15 @@
       <category>Critical</category>
       <category>Route 71</category>
       <description>Route 71 trip departing Inver Hills College &amp; Shelter at 1:38 PM and three other trips canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 345: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/345</link>
+      <guid isPermaLink="false">Metro Transit-54439-2026-10-21T23:18:03.000Z</guid>
+      <pubDate>Wed, 21 Oct 2026 23:18:03 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 345</category>
+      <description>Route 345 trips departing MOA Transit Station Gate G at 6:00 PM and departing Woodlane Dr Station Gate B at 7:06 PM canceled today due to collision</description>
     </item>
     <item>
       <title>[Critical] Route 802: Service Canceled</title>

@@ -2,34 +2,131 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-109-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-115-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-10-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-101-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-78-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-82-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-21T20:03:01.831Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-21T23:58:03.615Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (3) • **Route 3** (3) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (2) • **Route 14** (3) • **Route 17** (1) • **Route 17W** (1) • **Route 18** (5) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 38** (1) • **Route 46** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (4) • **Route 64** (7) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (3) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (2) • **Route 14** (3) • **Route 17** (1) • **Route 17W** (1) • **Route 18** (5) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 38** (2) • **Route 38H** (1) • **Route 46** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (4) • **Route 64** (8) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 345** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (3) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 2: Eastbound 1:33 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)
+### 🚨 METRO B Line: Eastbound 4:49 PM Trip Canceled (Lake St W & France Ave S)
 
-- **Affected Routes**: `Route 2`
+- **Affected Routes**: `METRO B Line`
 - **Direction**: Eastbound
 - **Severity**: `Critical`
 
-**Summary**: Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 1:33 PM canceled today due to traffic
+**Summary**: Eastbound B Line trip departing Lake St W & France Ave S at 4:49 PM canceled today due to collision
 
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
+[Official Agency Advisory](https://www.metrotransit.org/route/bline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 1:33 PM canceled today due to traffic
+**Header**: Eastbound B Line trip departing Lake St W & France Ave S at 4:49 PM canceled today due to collision
+
+</details>
+
+---
+
+### 🚨 METRO B Line: Westbound 5:33 PM Trip Canceled (Union Depot & Gate A1)
+
+- **Affected Routes**: `METRO B Line`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound B Line trip departing Union Depot & Gate A1 at 5:33 PM canceled
+
+[Official Agency Advisory](https://www.metrotransit.org/route/bline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound B Line trip departing Union Depot & Gate A1 at 5:33 PM canceled
+
+</details>
+
+---
+
+### 🚨 METRO D Line: Southbound 5:18 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)
+
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:18 PM canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:18 PM canceled today due to traffic
+
+</details>
+
+---
+
+### 🚨 METRO Orange Line: Southbound 5:22 PM Trip Canceled (Marquette Ave & 3rd St - Stop Group C)
+
+- **Affected Routes**: `METRO Orange Line`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #53543, Stop #56830, Stop #56832, Stop #56833, Stop #56884, Stop #17781, Stop #52719
+
+**Summary**: Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 5:22 PM canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/orange)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 5:22 PM canceled today due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 38, Route 38H: Eastbound 4:50 PM Trip Canceled (Bren Rd E & Blue Circle Dr)
+
+- **Affected Routes**: `Route 38` `Route 38H`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Eastbound Route 38H trip departing Bren Rd E & Blue Circle Dr at 4:50 PM canceled today due to police activity
+
+[Official Agency Advisory](https://www.metrotransit.org/route/38)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 38H trip departing Bren Rd E & Blue Circle Dr at 4:50 PM canceled today due to police activity
+
+</details>
+
+---
+
+### 🚨 Route 64: Service Advisory
+
+- **Affected Routes**: `Route 64`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #13031, Stop #13033, Stop #13035, Stop #13037, Stop #13038, Stop #13039, Stop #13041, Stop #13851 *(+65 more)*
+
+**Summary**: Westbound Route 64 trip departing Maplewood Mall Transit Center at 5:50 PM will start from Maryland & White Bear. Previous stops missed
+
+[Official Agency Advisory](https://www.metrotransit.org/route/64)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 64 trip departing Maplewood Mall TC at 5:50 PM will start from Maryland & White Bear. Previous stops missed
 
 </details>
 
@@ -59,6 +156,25 @@ Affected southbound trips:
 departing Market Place Dr & The Marketplace Ctr at 3:10 PM
 departing Market Place Dr & The Marketplace Ctr at 6:15 PM
 ```
+
+</details>
+
+---
+
+### 🚨 Route 345: Service Canceled
+
+- **Affected Routes**: `Route 345`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 345 trips departing MOA Transit Station Gate G at 6:00 PM and departing Woodlane Dr Station Gate B at 7:06 PM canceled today due to collision
+
+[Official Agency Advisory](https://www.metrotransit.org/route/345)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 345 trips departing MOA Transit Station Gate G at 6:00 PM and departing Woodlane Dr Station Gate B at 7:06 PM canceled today due to collision
 
 </details>
 
