@@ -2,140 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-108-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-104-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-100-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-78-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-20T23:46:15.978Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-21T04:26:53.060Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (4) • **Route 3A** (2) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (2) • **Route 14** (3) • **Route 17** (1) • **Route 17W** (1) • **Route 18** (5) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 83** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (2) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (3) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (4) • **Route 3A** (2) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (2) • **Route 14** (3) • **Route 17** (1) • **Route 17W** (1) • **Route 18** (5) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (3) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (1) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (2) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 83: Service Canceled
-
-- **Affected Routes**: `Route 83`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 83 trip departing Montreal Cir & Summit Brewing at 12:01 PM and seven other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/83)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 83 trip departing Montreal Cir & Summit Brewing at 12:01 PM and seven other trips canceled today
-
-```text
-Affected northbound trips:
-departing Montreal Cir & Summit Brewing at 12:01 PM
-departing Montreal Cir & Summit Brewing at 1:30 PM
-departing Montreal Cir & Summit Brewing at 3:01 PM
-departing Montreal Cir & Summit Brewing at 5:01 PM
-
-Affected southbound trips:
-departing Rosedale Transit Center Gate B at 12:45 PM
-departing Rosedale Transit Center Gate B at 2:15 PM
-departing Rosedale Transit Center Gate B at 4:12 PM
-departing Rosedale Transit Center Gate B at 6:16 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 540: Eastbound 6:02 PM Trip Canceled (Normandale Lake Blvd & 83rd St / 84th St)
-
-- **Affected Routes**: `Route 540`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-
-**Summary**: Eastbound Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 6:02 PM canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/540)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 6:02 PM canceled today due to maintenance work
-
-</details>
-
----
-
-### 🚨 Route 802: Service Canceled
-
-- **Affected Routes**: `Route 802`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/802)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate E at 12:34 PM
-departing Northtown Transit Ctr Gate E at 2:34 PM
-departing Northtown Transit Ctr Gate E at 4:34 PM
-
-Affected southbound trips:
-departing Anoka Tech College & Main Entrance at 11:43 AM
-departing Anoka Tech College & Main Entrance at 1:42 PM
-departing Anoka Tech College & Main Entrance at 3:42 PM
-departing Anoka Tech College & Main Entrance at 5:45 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 805: Service Canceled
-
-- **Affected Routes**: `Route 805`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
-departing 1st Ave S & Monroe St; 38 PM
-departing 1st Ave S & Monroe St; 36 PM
-departing 1st Ave S & Monroe St
-
-**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and seven other trips canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and seven other trips canceled today due to mechanical issue
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate D at 12:34 PM
-departing Northtown Transit Ctr Gate D at 2:34 PM
-departing Northtown Transit Ctr Gate D at 4:34 PM
-
-Affected southbound trips:
-departing 1st Ave S & Monroe St at 11:38 AM
-departing 1st Ave S & Monroe St at 12:38 PM
-departing 1st Ave S & Monroe St at 1:38 PM
-departing 1st Ave S & Monroe St at 3:36 PM
-departing 1st Ave S & Monroe St at 5:38 PM
-```
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 

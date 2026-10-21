@@ -1,126 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-20T23:46:15.978Z",
-    "totalAlerts": 108,
-    "criticalCount": 4,
+    "generatedAt": "2026-10-21T04:26:53.060Z",
+    "totalAlerts": 104,
+    "criticalCount": 0,
     "moderateCount": 100,
     "minorCount": 4,
-    "affectedRoutesCount": 78,
+    "affectedRoutesCount": 77,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "54391",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 83: Service Canceled",
-      "summary": "Route 83 trip departing Montreal Cir & Summit Brewing at 12:01 PM and seven other trips canceled today",
-      "affectedRoutes": [
-        "Route 83"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-20T17:01:00.000Z",
-        "end": "2026-10-21T00:52:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/83",
-      "updatedAt": "2026-10-20T16:31:00.000Z",
-      "rawHeader": "Route 83 trip departing Montreal Cir & Summit Brewing at 12:01 PM and seven other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Montreal Cir & Summit Brewing at 12:01 PM\r\ndeparting Montreal Cir & Summit Brewing at 1:30 PM\r\ndeparting Montreal Cir & Summit Brewing at 3:01 PM\r\ndeparting Montreal Cir & Summit Brewing at 5:01 PM\r\n\nAffected southbound trips:\r\ndeparting Rosedale Transit Center Gate B at 12:45 PM\r\ndeparting Rosedale Transit Center Gate B at 2:15 PM\r\ndeparting Rosedale Transit Center Gate B at 4:12 PM\r\ndeparting Rosedale Transit Center Gate B at 6:16 PM"
-    },
-    {
-      "id": "54405",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 540: Eastbound 6:02 PM Trip Canceled (Normandale Lake Blvd & 83rd St / 84th St)",
-      "summary": "Eastbound Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 6:02 PM canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 540"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-20T23:20:00.000Z",
-        "end": "2026-10-21T00:41:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/540",
-      "updatedAt": "2026-10-20T23:21:09.000Z",
-      "rawHeader": "Eastbound Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 6:02 PM canceled today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "54394",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 802: Service Canceled",
-      "summary": "Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 802"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-20T16:43:00.000Z",
-        "end": "2026-10-21T00:24:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-10-20T16:27:20.000Z",
-      "rawHeader": "Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 11:43 AM\r\ndeparting Anoka Tech College & Main Entrance at 1:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 3:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 5:45 PM"
-    },
-    {
-      "id": "54395",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 805: Service Canceled",
-      "summary": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and seven other trips canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 805"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 805 trip departing 1st Ave S & Monroe St",
-        "departing 1st Ave S & Monroe St",
-        "38 AM\ndeparting 1st Ave S & Monroe St",
-        "38 PM\ndeparting 1st Ave S & Monroe St",
-        "36 PM\ndeparting 1st Ave S & Monroe St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-20T17:45:00.000Z",
-        "end": "2026-10-21T00:24:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-10-20T17:46:08.000Z",
-      "rawHeader": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and seven other trips canceled today due to mechanical issue",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 11:38 AM\r\ndeparting 1st Ave S & Monroe St at 12:38 PM\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -1037,12 +927,12 @@
         "56923",
         "17815",
         "51212",
+        "73",
         "66",
         "68",
         "69",
         "70",
-        "72",
-        "73"
+        "72"
       ],
       "closedStopDetails": [
         {
@@ -1110,6 +1000,9 @@
           "id": "51212"
         },
         {
+          "id": "73"
+        },
+        {
           "id": "66"
         },
         {
@@ -1123,9 +1016,6 @@
         },
         {
           "id": "72"
-        },
-        {
-          "id": "73"
         }
       ],
       "riderAlternative": "Board at: Chicago & 56th St Station - Stop #775 (northbound); Temporary stop on Portland Ave & 52nd St (northbound); Temporary stop on Portland Ave & 48th St (northbound)",
