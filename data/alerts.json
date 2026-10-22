@@ -1,606 +1,93 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-21T23:58:03.615Z",
-    "totalAlerts": 115,
-    "criticalCount": 10,
+    "generatedAt": "2026-10-22T04:30:37.695Z",
+    "totalAlerts": 107,
+    "criticalCount": 2,
     "moderateCount": 101,
     "minorCount": 4,
-    "affectedRoutesCount": 82,
+    "affectedRoutesCount": 80,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "54430",
+      "id": "54441",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO B Line: Eastbound 4:49 PM Trip Canceled (Lake St W & France Ave S)",
-      "summary": "Eastbound B Line trip departing Lake St W & France Ave S at 4:49 PM canceled today due to collision",
-      "affectedRoutes": [
-        "METRO B Line"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-21T21:49:00.000Z",
-        "end": "2026-10-22T00:01:00.000Z"
-      },
-      "cause": "ACCIDENT",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-10-21T21:27:24.000Z",
-      "rawHeader": "Eastbound B Line trip departing Lake St W & France Ave S at 4:49 PM canceled today due to collision",
-      "rawDescription": ""
-    },
-    {
-      "id": "54435",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO B Line: Westbound 5:33 PM Trip Canceled (Union Depot & Gate A1)",
-      "summary": "Westbound B Line trip departing Union Depot & Gate A1 at 5:33 PM canceled",
+      "title": "METRO B Line: Service Advisory",
+      "summary": "Westbound B Line trip departing Union Depot & Gate A1 at 9:34 PM will start at Smith & Kellogg at 9:44 PM today. Previous stop missed due to police activity",
       "affectedRoutes": [
         "METRO B Line"
       ],
       "direction": "Westbound",
       "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-21T22:33:00.000Z",
-        "end": "2026-10-22T00:43:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-10-21T22:27:41.000Z",
-      "rawHeader": "Westbound B Line trip departing Union Depot & Gate A1 at 5:33 PM canceled",
-      "rawDescription": ""
-    },
-    {
-      "id": "54436",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO D Line: Southbound 5:18 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)",
-      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:18 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-21T22:44:00.000Z",
-        "end": "2026-10-22T00:39:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-10-21T22:45:12.000Z",
-      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:18 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "54437",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO Orange Line: Southbound 5:22 PM Trip Canceled (Marquette Ave & 3rd St - Stop Group C)",
-      "summary": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 5:22 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "METRO Orange Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
       "closedStopIds": [
-        "53543",
-        "56830",
-        "56832",
-        "56833",
-        "56884",
-        "17781",
-        "52719"
+        "57417",
+        "57419",
+        "57456",
+        "56100",
+        "11863",
+        "52760"
       ],
       "closedStopDetails": [
         {
-          "id": "53543"
+          "id": "57417"
         },
         {
-          "id": "56830"
+          "id": "57419"
         },
         {
-          "id": "56832"
+          "id": "57456"
         },
         {
-          "id": "56833"
+          "id": "56100"
         },
         {
-          "id": "56884"
+          "id": "11863"
         },
         {
-          "id": "17781"
-        },
-        {
-          "id": "52719"
+          "id": "52760"
         }
       ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-21T22:55:00.000Z",
-        "end": "2026-10-21T23:59:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/orange",
-      "updatedAt": "2026-10-21T22:56:13.000Z",
-      "rawHeader": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 5:22 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "54433",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 38, Route 38H: Eastbound 4:50 PM Trip Canceled (Bren Rd E & Blue Circle Dr)",
-      "summary": "Eastbound Route 38H trip departing Bren Rd E & Blue Circle Dr at 4:50 PM canceled today due to police activity",
-      "affectedRoutes": [
-        "Route 38",
-        "Route 38H"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-21T21:53:00.000Z",
-        "end": "2026-10-22T00:17:00.000Z"
+        "start": "2026-10-22T02:34:00.000Z",
+        "end": "2026-10-22T04:33:00.000Z"
       },
       "cause": "POLICE_ACTIVITY",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/38",
-      "updatedAt": "2026-10-21T22:18:57.000Z",
-      "rawHeader": "Eastbound Route 38H trip departing Bren Rd E & Blue Circle Dr at 4:50 PM canceled today due to police activity",
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-10-22T02:31:26.000Z",
+      "rawHeader": "Westbound B Line trip departing Union Depot & Gate A1 at 9:34 PM will start at Smith & Kellogg at 9:44 PM today. Previous stop missed due to police activity",
       "rawDescription": ""
     },
     {
-      "id": "54438",
+      "id": "54442",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 64: Service Advisory",
-      "summary": "Westbound Route 64 trip departing Maplewood Mall Transit Center at 5:50 PM will start from Maryland & White Bear. Previous stops missed",
+      "title": "METRO C Line: Southbound 10:16 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate I)",
+      "summary": "Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 10:16 PM canceled today",
       "affectedRoutes": [
-        "Route 64"
+        "METRO C Line"
       ],
-      "direction": "Westbound",
+      "direction": "Southbound",
       "intersections": [],
-      "closedStopIds": [
-        "13031",
-        "13033",
-        "13035",
-        "13037",
-        "13038",
-        "13039",
-        "13041",
-        "13851",
-        "13853",
-        "12874",
-        "12876",
-        "12878",
-        "12880",
-        "12882",
-        "12884",
-        "5283",
-        "5285",
-        "5286",
-        "5287",
-        "5290",
-        "5292",
-        "5293",
-        "5294",
-        "5295",
-        "5296",
-        "5297",
-        "5298",
-        "5299",
-        "5300",
-        "5301",
-        "5303",
-        "5305",
-        "5307",
-        "53149",
-        "5166",
-        "52015",
-        "42000",
-        "42001",
-        "42002",
-        "42004",
-        "42006",
-        "42157",
-        "49760",
-        "49769",
-        "49770",
-        "49771",
-        "49772",
-        "49775",
-        "49781",
-        "49782",
-        "48194",
-        "48260",
-        "3813",
-        "3870",
-        "3871",
-        "3874",
-        "3875",
-        "3884",
-        "3885",
-        "3886",
-        "3888",
-        "40023",
-        "5533",
-        "49910",
-        "52544",
-        "52554",
-        "5337",
-        "5338",
-        "5347",
-        "5348",
-        "5349",
-        "5352",
-        "5354"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "13031"
-        },
-        {
-          "id": "13033"
-        },
-        {
-          "id": "13035"
-        },
-        {
-          "id": "13037"
-        },
-        {
-          "id": "13038"
-        },
-        {
-          "id": "13039"
-        },
-        {
-          "id": "13041"
-        },
-        {
-          "id": "13851"
-        },
-        {
-          "id": "13853"
-        },
-        {
-          "id": "12874"
-        },
-        {
-          "id": "12876"
-        },
-        {
-          "id": "12878"
-        },
-        {
-          "id": "12880"
-        },
-        {
-          "id": "12882"
-        },
-        {
-          "id": "12884"
-        },
-        {
-          "id": "5283"
-        },
-        {
-          "id": "5285"
-        },
-        {
-          "id": "5286"
-        },
-        {
-          "id": "5287"
-        },
-        {
-          "id": "5290"
-        },
-        {
-          "id": "5292"
-        },
-        {
-          "id": "5293"
-        },
-        {
-          "id": "5294"
-        },
-        {
-          "id": "5295"
-        },
-        {
-          "id": "5296"
-        },
-        {
-          "id": "5297"
-        },
-        {
-          "id": "5298"
-        },
-        {
-          "id": "5299"
-        },
-        {
-          "id": "5300"
-        },
-        {
-          "id": "5301"
-        },
-        {
-          "id": "5303"
-        },
-        {
-          "id": "5305"
-        },
-        {
-          "id": "5307"
-        },
-        {
-          "id": "53149"
-        },
-        {
-          "id": "5166"
-        },
-        {
-          "id": "52015"
-        },
-        {
-          "id": "42000"
-        },
-        {
-          "id": "42001"
-        },
-        {
-          "id": "42002"
-        },
-        {
-          "id": "42004"
-        },
-        {
-          "id": "42006"
-        },
-        {
-          "id": "42157"
-        },
-        {
-          "id": "49760"
-        },
-        {
-          "id": "49769"
-        },
-        {
-          "id": "49770"
-        },
-        {
-          "id": "49771"
-        },
-        {
-          "id": "49772"
-        },
-        {
-          "id": "49775"
-        },
-        {
-          "id": "49781"
-        },
-        {
-          "id": "49782"
-        },
-        {
-          "id": "48194"
-        },
-        {
-          "id": "48260"
-        },
-        {
-          "id": "3813"
-        },
-        {
-          "id": "3870"
-        },
-        {
-          "id": "3871"
-        },
-        {
-          "id": "3874"
-        },
-        {
-          "id": "3875"
-        },
-        {
-          "id": "3884"
-        },
-        {
-          "id": "3885"
-        },
-        {
-          "id": "3886"
-        },
-        {
-          "id": "3888"
-        },
-        {
-          "id": "40023"
-        },
-        {
-          "id": "5533"
-        },
-        {
-          "id": "49910"
-        },
-        {
-          "id": "52544"
-        },
-        {
-          "id": "52554"
-        },
-        {
-          "id": "5337"
-        },
-        {
-          "id": "5338"
-        },
-        {
-          "id": "5347"
-        },
-        {
-          "id": "5348"
-        },
-        {
-          "id": "5349"
-        },
-        {
-          "id": "5352"
-        },
-        {
-          "id": "5354"
-        }
-      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-21T23:06:00.000Z",
-        "end": "2026-10-22T00:43:00.000Z"
+        "start": "2026-10-22T03:19:00.000Z",
+        "end": "2026-10-22T04:49:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/64",
-      "updatedAt": "2026-10-21T23:06:59.000Z",
-      "rawHeader": "Westbound Route 64 trip departing Maplewood Mall TC at 5:50 PM will start from Maryland & White Bear. Previous stops missed",
+      "url": "https://www.metrotransit.org/route/cline",
+      "updatedAt": "2026-10-22T03:19:46.000Z",
+      "rawHeader": "Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 10:16 PM canceled today",
       "rawDescription": ""
-    },
-    {
-      "id": "54420",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 71: Service Canceled",
-      "summary": "Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 71"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-21T18:38:00.000Z",
-        "end": "2026-10-22T00:45:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/71",
-      "updatedAt": "2026-10-21T18:08:01.000Z",
-      "rawHeader": "Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today due to mechanical issue",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 1:38 PM\r\ndeparting Inver Hills College & Shelter at 4:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 3:10 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 6:15 PM"
-    },
-    {
-      "id": "54439",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 345: Service Canceled",
-      "summary": "Route 345 trips departing MOA Transit Station Gate G at 6:00 PM and departing Woodlane Dr Station Gate B at 7:06 PM canceled today due to collision",
-      "affectedRoutes": [
-        "Route 345"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-21T23:17:00.000Z",
-        "end": "2026-10-22T01:45:00.000Z"
-      },
-      "cause": "ACCIDENT",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/345",
-      "updatedAt": "2026-10-21T23:18:03.000Z",
-      "rawHeader": "Route 345 trips departing MOA Transit Station Gate G at 6:00 PM and departing Woodlane Dr Station Gate B at 7:06 PM canceled today due to collision",
-      "rawDescription": ""
-    },
-    {
-      "id": "54419",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 802: Service Canceled",
-      "summary": "Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 802"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-21T16:43:00.000Z",
-        "end": "2026-10-22T00:24:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-10-21T16:32:16.000Z",
-      "rawHeader": "Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 11:43 AM\r\ndeparting Anoka Tech College & Main Entrance at 1:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 3:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 5:45 PM"
-    },
-    {
-      "id": "54418",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 805: Service Canceled",
-      "summary": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and seven other trips canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 805"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 805 trip departing 1st Ave S & Monroe St",
-        "departing 1st Ave S & Monroe St",
-        "38 AM\ndeparting 1st Ave S & Monroe St",
-        "38 PM\ndeparting 1st Ave S & Monroe St",
-        "36 PM\ndeparting 1st Ave S & Monroe St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-21T16:38:00.000Z",
-        "end": "2026-10-22T00:24:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-10-21T16:31:38.000Z",
-      "rawHeader": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and seven other trips canceled today due to mechanical issue",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 11:38 AM\r\ndeparting 1st Ave S & Monroe St at 12:38 PM\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
     },
     {
       "id": "52943",
