@@ -4,27 +4,9 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Thu, 22 Oct 2026 04:30:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:00:00 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
-    <item>
-      <title>[Critical] METRO B Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/bline</link>
-      <guid isPermaLink="false">Metro Transit-54441-2026-10-22T02:31:26.000Z</guid>
-      <pubDate>Thu, 22 Oct 2026 02:31:26 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO B Line</category>
-      <description>Westbound B Line trip departing Union Depot &amp; Gate A1 at 9:34 PM will start at Smith &amp; Kellogg at 9:44 PM today. Previous stop missed due to police activity</description>
-    </item>
-    <item>
-      <title>[Critical] METRO C Line: Southbound 10:16 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate I)</title>
-      <link>https://www.metrotransit.org/route/cline</link>
-      <guid isPermaLink="false">Metro Transit-54442-2026-10-22T03:19:46.000Z</guid>
-      <pubDate>Thu, 22 Oct 2026 03:19:46 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO C Line</category>
-      <description>Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 10:16 PM canceled today</description>
-    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -64,8 +46,8 @@
     <item>
       <title>[Moderate] METRO E Line: Detour via University Ave &amp; 8th Ave S</title>
       <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-54341-2026-10-20T19:25:28.000Z</guid>
-      <pubDate>Tue, 20 Oct 2026 19:25:28 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54341-2026-10-22T05:00:02.000Z</guid>
+      <pubDate>Thu, 22 Oct 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO E Line</category>
       <description>METRO E Line detoured off University Ave from 10th Ave SE to Oak St from 6:00 PM to 8:00 PM on Fri Oct 23 due to U of M Homecoming Parade. Board at: University &amp; 6th Ave Station - Stop #16130 (eastbound); Temporary stop on University Ave &amp; 8th Ave SE (eastbound); University &amp; Huron Station - Stop #16143 (eastbound). | Action: Board at: University &amp; 6th Ave Station - Stop #16130 (eastbound); Temporary stop on University Ave &amp; 8th Ave SE (eastbound); University &amp; Huron Station - Stop #16143 (eastbound)</description>
@@ -91,8 +73,8 @@
     <item>
       <title>[Moderate] Route 2: Detour via 10th Ave SE &amp; 5th St S</title>
       <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-54339-2026-10-20T19:25:50.000Z</guid>
-      <pubDate>Tue, 20 Oct 2026 19:25:50 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54339-2026-10-22T05:00:02.000Z</guid>
+      <pubDate>Thu, 22 Oct 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 2</category>
       <description>Route 2 detoured off University Ave from 10th Ave SE to Oak St from 6:00 PM to 8:00 PM on Fri Oct 23 due to U of M Homecoming Parade. Board at: 10th Ave SE &amp; 5th St SE - Stop #56699 (southbound); Oak St SE &amp; Washington Ave SE - Stop #41248 (southbound). | Action: Board at: 10th Ave SE &amp; 5th St SE - Stop #56699 (southbound); Oak St SE &amp; Washington Ave SE - Stop #41248 (southbound)</description>
@@ -118,8 +100,8 @@
     <item>
       <title>[Moderate] Route 3: Detour via Route 3 detoured off Pleasant St &amp; 15th Ave S</title>
       <link>https://www.metrotransit.org/route/3</link>
-      <guid isPermaLink="false">Metro Transit-54340-2026-10-20T19:26:09.000Z</guid>
-      <pubDate>Tue, 20 Oct 2026 19:26:09 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54340-2026-10-22T05:00:02.000Z</guid>
+      <pubDate>Thu, 22 Oct 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 3</category>
       <description>Route 3 detoured off Pleasant St/15th Ave SE from 5th St SE to Washington Ave from 6:00 PM to 8:00 PM on Fri Oct 23 due to U of M Homecoming Parade. Board at: Washington Ave &amp; Anderson Hall - Stop #13223 (eastbound); Washington Ave &amp; Coffman Union - Stop #13209 (eastbound); 15th Ave SE &amp; 4th St SE - Stop #16111 (northbound). | Action: Board at: Washington Ave &amp; Anderson Hall - Stop #13223 (eastbound); Washington Ave &amp; Coffman Union - Stop #13209 (eastbound); 15th Ave SE &amp; 4th St SE - Stop #16111 (northbound)</description>
@@ -379,8 +361,8 @@
     <item>
       <title>[Moderate] Route 38, Route 74: Stop Closed at Ford Pkwy &amp; Cretin Ave</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54427-2026-10-21T19:04:38.000Z</guid>
-      <pubDate>Wed, 21 Oct 2026 19:04:38 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54427-2026-10-22T05:00:02.000Z</guid>
+      <pubDate>Thu, 22 Oct 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 38, Route 74</category>
       <description>Ford Pkwy &amp; Cretin Ave - Stop #4280 (eastbound) is closed for Routes 38 and 74 starting Thu Oct 22 until further notice from 7:00 AM to 6:00 PM each day. Board at: Ford &amp; Woodlawn Station - Stop #56111 (eastbound); Ford &amp; Finn Station - Stop #56112 (eastbound). | Action: Board at: Ford &amp; Woodlawn Station - Stop #56111 (eastbound); Ford &amp; Finn Station - Stop #56112 (eastbound)</description>
@@ -487,8 +469,8 @@
     <item>
       <title>[Moderate] Route 63: Detour via Smith Ave &amp; Grand Ave</title>
       <link>https://www.metrotransit.org/route/63</link>
-      <guid isPermaLink="false">Metro Transit-54416-2026-10-21T14:58:45.000Z</guid>
-      <pubDate>Wed, 21 Oct 2026 14:58:45 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54416-2026-10-22T05:00:02.000Z</guid>
+      <pubDate>Thu, 22 Oct 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 63</category>
       <description>Westbound Route 63 detoured off Grand Ave from Dale St to Grand Ave/Ramsey St beginning Thu Oct 22 at 7:00 AM until further notice due to construction. Board at: Smith Ave &amp; Grand Ave - Stop #3271 (westbound); Grand Ave &amp; Grotto St - Stop #3181 (westbound). | Action: Board at: Smith Ave &amp; Grand Ave - Stop #3271 (westbound); Grand Ave &amp; Grotto St - Stop #3181 (westbound)</description>
@@ -874,8 +856,8 @@
     <item>
       <title>[Moderate] Route 802: Detour via East River Rd &amp; 7th Ave</title>
       <link>https://www.metrotransit.org/route/802</link>
-      <guid isPermaLink="false">Metro Transit-54151-2026-10-17T05:00:01.000Z</guid>
-      <pubDate>Sat, 17 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54151-2026-10-22T05:00:01.000Z</guid>
+      <pubDate>Thu, 22 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 802</category>
       <description>Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 12:30 PM to 3:00 PM on Fri Oct 23 due to Anoka Big Parade of Little People. Board at: East River Rd &amp; 7th Ave - Stop #12066 (northbound); Green Haven Pkwy &amp; Fairoak Ave - Stop #57211 (northbound). | Action: Board at: East River Rd &amp; 7th Ave - Stop #12066 (northbound); Green Haven Pkwy &amp; Fairoak Ave - Stop #57211 (northbound)</description>
@@ -892,8 +874,8 @@
     <item>
       <title>[Moderate] Route 805: Detour via Harrison St &amp; 3rd Ave</title>
       <link>https://www.metrotransit.org/route/805</link>
-      <guid isPermaLink="false">Metro Transit-54152-2026-10-17T05:00:01.000Z</guid>
-      <pubDate>Sat, 17 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54152-2026-10-22T05:00:01.000Z</guid>
+      <pubDate>Thu, 22 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 805</category>
       <description>Route 805 detoured off 3rd Ave from Van Buren Ave to Madison St from 12:30 PM to 3:00 PM on Fri Oct 23 due to Anoka Big Parade of Little People. Board at: Harrison St &amp; 3rd Ave - Stop #51301 (westbound); 3rd Ave &amp; Van Buren Ave / Harrison St - Stop #50711 (northbound). | Action: Board at: Harrison St &amp; 3rd Ave - Stop #51301 (westbound); 3rd Ave &amp; Van Buren Ave / Harrison St - Stop #50711 (northbound)</description>
