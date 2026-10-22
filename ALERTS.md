@@ -2,94 +2,113 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-116-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-8-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-104-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-119-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-11-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-103-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-5-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-80-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-22T19:56:31.371Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-22T23:13:29.882Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (2) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 14** (3) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (5) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (2) • **Route 36** (2) • **Route 38** (1) • **Route 46** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (4) • **Route 64** (6) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 83** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (4) • **Route 805** (3) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 14** (3) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (6) • **Route 25** (3) • **Route 27** (2) • **Route 32** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (4) • **Route 64** (6) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 83** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (2) • **Route 802** (4) • **Route 805** (3) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO D Line: Southbound 1:59 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)
+### 🚨 METRO Orange Line: 5:40 PM Trip Canceled (Burnsville Heart of the City Station)
 
-- **Affected Routes**: `METRO D Line`
+- **Affected Routes**: `METRO Orange Line`
+- **Direction**: All
+- **Severity**: `Critical`
+
+**Summary**: Orange Line trip departing Burnsville Heart of the City Station at 5:40 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/orange)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Orange Line trip departing Burnsville Heart of the City Station at 5:40 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 4: Service Advisory
+
+- **Affected Routes**: `Route 4`
 - **Direction**: Southbound
 - **Severity**: `Critical`
+- **Closed Stops**: Stop #14937, Stop #14947, Stop #15711, Stop #17916, Stop #17917, Stop #17919, Stop #17971, Stop #15991 *(+30 more)*
 
-**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM canceled today due to maintenance work
+**Summary**: Southbound Route 4 trip departing Silver Lk & Cub Foods at 5:56 PM will start from Hennepin & 3rd St S. Previous stops missed due to maintenance work
 
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+[Official Agency Advisory](https://www.metrotransit.org/route/4)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM canceled today due to maintenance work
+**Header**: Southbound Route 4 trip departing Silver Lk & Cub Foods at 5:56 PM will start from Hennepin & 3rd St S. Previous stops missed due to maintenance work
 
 </details>
 
 ---
 
-### 🚨 METRO E Line: Service Advisory
+### 🚨 Route 22: Southbound 5:12 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)
 
-- **Affected Routes**: `METRO E Line`
+- **Affected Routes**: `Route 22`
 - **Direction**: Southbound
 - **Severity**: `Critical`
-- **Corridors & Intersections**: 49 PM will start from 4th St SE & 15th Ave S
-- **Closed Stops**: Stop #16569, Stop #16154, Stop #15881, Stop #15884, Stop #56521, Stop #57541
+- **Closed Stops**: Stop #12561, Stop #12565, Stop #15619, Stop #15364, Stop #15366, Stop #15378, Stop #15382, Stop #15429 *(+47 more)*
 
-**Summary**: Southbound E Line trip departing Westgate Station at 2:49 PM will start from 4th St SE and 15th Ave SE. Previous stops missed due to traffic
+**Summary**: Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 5:12 PM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/eline)
+[Official Agency Advisory](https://www.metrotransit.org/route/22)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound E Line trip departing Westgate Station at 2:49 PM will start from 4th St SE and 15th Ave SE. Previous stops missed due to traffic
+**Header**: Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 5:12 PM canceled today
 
 </details>
 
 ---
 
-### 🚨 Route 30: Service Canceled
+### 🚨 Route 25: Northbound 3:35 PM Trip Canceled (Leamington Ramp & Lower - Gate #7)
 
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
+- **Affected Routes**: `Route 25`
+- **Direction**: Northbound
 - **Severity**: `Critical`
-- **Corridors & Intersections**: 34 PM and departing Knox Ave N & Golden Valley Rd
+- **Closed Stops**: Stop #13923, Stop #13932, Stop #13940, Stop #13944, Stop #13951, Stop #13957, Stop #13961, Stop #13965 *(+62 more)*
 
-**Summary**: Route 30 trips departing Westgate Station - Gate B at 1:34 PM and departing Knox Ave N & Golden Valley Rd at 2:26 PM canceled today
+**Summary**: Northbound Route 25 trip departing Leamington Ramp & Lower - Gate #7 at 3:35 PM canceled today due to maintenance work
 
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
+[Official Agency Advisory](https://www.metrotransit.org/route/25)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 30 trips departing Westgate Station - Gate B at 1:34 PM and departing Knox Ave N & Golden Valley Rd at 2:26 PM canceled today
+**Header**: Northbound Route 25 trip departing Leamington Ramp & Lower - Gate #7 at 3:35 PM canceled today due to maintenance work
 
 </details>
 
 ---
 
-### 🚨 Route 54: Eastbound 1:58 PM Trip Canceled (MOA Transit Station Gate C)
+### 🚨 Route 54: Eastbound 4:28 PM Trip Canceled (MOA Transit Station Gate C)
 
 - **Affected Routes**: `Route 54`
 - **Direction**: Eastbound
 - **Severity**: `Critical`
 
-**Summary**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 1:58 PM canceled today due to traffic
+**Summary**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 4:28 PM canceled today due to traffic
 
 [Official Agency Advisory](https://www.metrotransit.org/route/54)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 1:58 PM canceled today due to traffic
+**Header**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 4:28 PM canceled today due to traffic
 
 </details>
 
@@ -151,6 +170,44 @@ departing Rosedale Transit Center Gate B at 1:45 PM
 departing Rosedale Transit Center Gate B at 3:43 PM
 departing Rosedale Transit Center Gate B at 5:46 PM
 ```
+
+</details>
+
+---
+
+### 🚨 Route 540: Service Canceled
+
+- **Affected Routes**: `Route 540`
+- **Direction**: All
+- **Severity**: `Critical`
+
+**Summary**: Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 5:32 PM and departing Normandale Lake Blvd & 83rd St / 84th St at 7:02 PM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/540)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 5:32 PM and departing Normandale Lake Blvd & 83rd St / 84th St at 7:02 PM canceled today due to maintenance work
+
+</details>
+
+---
+
+### 🚨 Route 542: Service Canceled
+
+- **Affected Routes**: `Route 542`
+- **Direction**: All
+- **Severity**: `Critical`
+
+**Summary**: Route 542 trips departing MOA Transit Station Gate G at 5:05 PM and departing MOA Transit Station Gate G at 6:37 PM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/542)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 542 trips departing MOA Transit Station Gate G at 5:05 PM and departing MOA Transit Station Gate G at 6:37 PM canceled today due to maintenance work
 
 </details>
 
@@ -2073,41 +2130,6 @@ Parklawn Ave & Parklawn Court - Stop #41091 (northbound)
 Get on/off buses at:
 Ford & Woodlawn Station - Stop #56111 (eastbound)
 Ford & Finn Station - Stop #56112 (eastbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 46: Detour via 50th St W & Washburn Ave
-
-- **Affected Routes**: `Route 46`
-- **Direction**: Eastbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 50th St W & Washburn Ave; 50th St W & Xerxes Ave S
-- **Closed Stops**: 50th St W & Xerxes Ave S (Stop #997)
-
-**Summary**: Route 46 school trips detoured off Abbott Ave, 48th St, and Chowen Ave until further notice due to road paving. Board at: 50th St W & Washburn Ave / Vincent Ave - Stop #998 (eastbound).
-
-> 💡 **Rider Action**: Board at: 50th St W & Washburn Ave / Vincent Ave - Stop #998 (eastbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/46)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 46 school trips detoured off Abbott Ave, 48th St, and Chowen Ave until further notice due to road paving
-
-```text
-Get on/off buses at:
-50th St W & Washburn Ave / Vincent Ave - Stop #998 (eastbound)
-
-Eastbound route 46 school trips will depart Southwest High School, left on 47th St, right on York Ave, left on 48th St, right on Xerxes Ave, left on 50th St and resume regular route.
-
-Affected direction: Eastbound
-
-Affected stops:
-50th St W & Xerxes Ave S - Stop #997 (eastbound)
 ```
 
 </details>
@@ -4844,6 +4866,25 @@ Updated to reflect the new bus stop location 10/9 at 9:20 AM.
 
 The bus stop has been moved to eastbound Wayzata Blvd N & Co Rd 73.
 ```
+
+</details>
+
+---
+
+### ℹ️ Route 785: Service Advisory
+
+- **Affected Routes**: `Route 785`
+- **Direction**: Northbound
+- **Severity**: `Minor`
+
+**Summary**: Northbound Route 785 trip departing 2nd Ave S & 10th St - Stop Group H at 4:38 PM is delayed approximately 30 minutes due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/785)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 785 trip departing 2nd Ave S & 10th St - Stop Group H at 4:38 PM is delayed approximately 30 minutes due to maintenance work
 
 </details>
 
