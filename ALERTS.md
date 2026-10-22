@@ -2,21 +2,136 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-105-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-101-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-110-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-102-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-78-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-79-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-22T10:00:00.004Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-22T15:09:27.691Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (2) • **Route 14** (3) • **Route 17** (1) • **Route 17W** (1) • **Route 18** (5) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 38** (1) • **Route 46** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (4) • **Route 64** (7) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (2) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (2) • **Route 14** (3) • **Route 17** (2) • **Route 17W** (1) • **Route 18** (5) • **Route 22** (5) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 38** (1) • **Route 46** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (4) • **Route 64** (6) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (3) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 Route 54: Westbound 9:20 AM Trip Canceled (Union Depot & Gate A1)
+
+- **Affected Routes**: `Route 54`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 54 trip departing Union Depot & Gate A1 at 9:20 AM canceled today due to collision
+
+[Official Agency Advisory](https://www.metrotransit.org/route/54)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 54 trip departing Union Depot & Gate A1 at 9:20 AM canceled today due to collision
+
+</details>
+
+---
+
+### 🚨 Route 71: Service Canceled
+
+- **Affected Routes**: `Route 71`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/71)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today due to mechanical issue
+
+```text
+Affected northbound trips:
+departing Inver Hills College & Shelter at 12:38 PM
+departing Inver Hills College & Shelter at 3:38 PM
+
+Affected southbound trips:
+departing Market Place Dr & The Marketplace Ctr at 2:12 PM
+departing Market Place Dr & The Marketplace Ctr at 5:13 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 802: Service Canceled
+
+- **Affected Routes**: `Route 802`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/802)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today due to mechanical issue
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate E at 12:34 PM
+departing Northtown Transit Ctr Gate E at 2:34 PM
+departing Northtown Transit Ctr Gate E at 4:34 PM
+
+Affected southbound trips:
+departing Anoka Tech College & Main Entrance at 11:43 AM
+departing Anoka Tech College & Main Entrance at 1:42 PM
+departing Anoka Tech College & Main Entrance at 3:42 PM
+departing Anoka Tech College & Main Entrance at 5:45 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 805: Service Canceled
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
+departing 1st Ave S & Monroe St; 38 PM
+departing 1st Ave S & Monroe St; 36 PM
+departing 1st Ave S & Monroe St
+
+**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and seven other trips canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and seven other trips canceled today due to mechanical issue
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate D at 12:34 PM
+departing Northtown Transit Ctr Gate D at 2:34 PM
+departing Northtown Transit Ctr Gate D at 4:34 PM
+
+Affected southbound trips:
+departing 1st Ave S & Monroe St at 11:38 AM
+departing 1st Ave S & Monroe St at 12:38 PM
+departing 1st Ave S & Monroe St at 1:38 PM
+departing 1st Ave S & Monroe St at 3:36 PM
+departing 1st Ave S & Monroe St at 5:38 PM
+```
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -1133,6 +1248,36 @@ Monroe St & Spring St NE - Stop #15531 (southbound)
 
 ---
 
+### ⚠️ Route 17, Route 32: Stop Closed at Lowry Ave NE & Howard St N
+
+- **Affected Routes**: `Route 17` `Route 32`
+- **Direction**: Southbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Lowry Ave NE & Howard St N; Central Ave NE & Lowry Ave N; Lowry Ave NE & Central Ave N
+- **Closed Stops**: Stop #57446, Stop #17195, Stop #12828, Stop #12813
+
+**Summary**: Lowry Ave NE & Howard St NE - Stop #57446 (westbound) is closed for Routes 17 and 32 from 7:00 AM to 7:00 PM on Mon Oct 26 due to construction. Board at: Central Ave NE & Lowry Ave NE - Stop #17195 (southbound, Route 17 only); Lowry Ave NE & Central Ave NE - Stop #12828 (westbound, Route 32 only); Lowry Ave NE & Jefferson / Washington St - Stop #12813 (westbound).
+
+> 💡 **Rider Action**: Board at: Central Ave NE & Lowry Ave NE - Stop #17195 (southbound, Route 17 only); Lowry Ave NE & Central Ave NE - Stop #12828 (westbound, Route 32 only); Lowry Ave NE & Jefferson / Washington St - Stop #12813 (westbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/17)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Lowry Ave NE & Howard St NE - Stop #57446 (westbound) is closed for Routes 17 and 32 from 7:00 AM to 7:00 PM on Mon Oct 26 due to construction
+
+```text
+Get on/off buses at:
+Central Ave NE & Lowry Ave NE - Stop #17195 (southbound, Route 17 only)
+Lowry Ave NE & Central Ave NE - Stop #12828 (westbound, Route 32 only)
+Lowry Ave NE & Jefferson / Washington St - Stop #12813 (westbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 18: Detour via Nicollet Ave S & 56th St E
 
 - **Affected Routes**: `Route 18`
@@ -1548,6 +1693,55 @@ Cedar Ave S & Lake St E - Stop #15374 (southbound)
 
 ---
 
+### ⚠️ Route 22: Detour via 7th St N & Oak Lake Ave N
+
+- **Affected Routes**: `Route 22`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 7th St N & Oak Lake Ave N; Lyndale Ave N & 23rd Ave N; Lyndale Ave N & West Broadway - St; 7th St N & Oak Lake Ave; Lyndale Ave N & Plymouth Ave N
+- **Closed Stops**: Lyndale Ave N & Plymouth Ave N (Stop #57195), Lyndale Ave N & 14th Ave / 18th Ave N (Stop #11178), Lyndale Ave N & 18th Ave N (Stop #11179), Lyndale Ave N & West Broadway (Stop #11180), Lyndale Ave N & 18th Ave N (Stop #11653), Lyndale Ave N & 18th Ave / 14th Ave N (Stop #11654), Lyndale Ave N & Plymouth Ave (Stop #11656), Stop #57216 *(+4 more)*
+
+**Summary**: Route 22 detoured off Lyndale Ave from Plymouth Ave to West Broadway Ave from 6:00 AM to 5:00 PM on Thu Oct 29 due to construction. Board at: 7th St N & Oak Lake Ave N - Stop #57216 (northbound); Emerson & Plymouth Station - Stop #8920 (northbound); Lyndale Ave N & 23rd Ave N - Stop #11183 (northbound).
+
+> 💡 **Rider Action**: Board at: 7th St N & Oak Lake Ave N - Stop #57216 (northbound); Emerson & Plymouth Station - Stop #8920 (northbound); Lyndale Ave N & 23rd Ave N - Stop #11183 (northbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route on Lyndale Ave to Plymouth Ave, left on Plymouth, right on Emerson Ave, right on West Broadway Ave, left on Lyndale Ave, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/22)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 22 detoured off Lyndale Ave from Plymouth Ave to West Broadway Ave from 6:00 AM to 5:00 PM on Thu Oct 29 due to construction
+
+```text
+For northbound Route 22 get on/off buses at:
+7th St N & Oak Lake Ave N - Stop #57216 (northbound)
+Emerson & Plymouth Station - Stop #8920 (northbound)
+Lyndale Ave N & 23rd Ave N - Stop #11183 (northbound)
+
+For southbound Route 22 get on/off buses at:
+Lyndale Ave N & West Broadway - Stop #11652 (southbound)
+7th St N & Oak Lake Ave - Stop #51791 (southbound)
+
+Northbound buses will travel regular route on Lyndale Ave to Plymouth Ave, left on Plymouth, right on Emerson Ave, right on West Broadway Ave, left on Lyndale Ave, and resume regular route.
+
+Southbound buses will travel regular route on Lyndale Ave to West Broadway Ave, right on West Broadway, left on Fremont Ave, left on Plymouth Ave, right on Lyndale Ave, and resume regular route.
+
+Affected stops:
+Lyndale Ave N & Plymouth Ave N - Stop #57195 (northbound)
+Lyndale Ave N & 14th Ave / 18th Ave N - Stop #11178 (northbound)
+Lyndale Ave N & 18th Ave N - Stop #11179 (northbound)
+Lyndale Ave N & West Broadway - Stop #11180 (northbound)
+Lyndale Ave N & 18th Ave N - Stop #11653 (southbound)
+Lyndale Ave N & 18th Ave / 14th Ave N - Stop #11654 (southbound)
+Lyndale Ave N & Plymouth Ave - Stop #11656 (southbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 27: Detour via 26th St E & 3rd Ave S
 
 - **Affected Routes**: `Route 27`
@@ -1637,34 +1831,6 @@ Cedar Ave S & Lake St E - Stop #15317 (northbound)
 Cedar Ave S & 28th St E - Stop #15319 (northbound)
 26th St E & 18th Ave S - Stop #14340 (westbound)
 26th St E & Bloomington Ave S - Stop #43004 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 32: Stop Closed at Selected Stop
-
-- **Affected Routes**: `Route 32`
-- **Direction**: Southbound
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Oct 19 at 6:00 AM until further notice
-- **Closed Stops**: Stop #57685
-
-**Summary**: Rosedale Transit Center Gate D - Stop #57685 (southbound) is closed for Route 32 beginning Mon Oct 19 at 6:00 AM until further notice due to construction. Board at: Temporary stop at Rosedale Transit Center, across from Gate F (southbound).
-
-> 💡 **Rider Action**: Board at: Temporary stop at Rosedale Transit Center, across from Gate F (southbound)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Rosedale Transit Center Gate D - Stop #57685 (southbound) is closed for Route 32 beginning Mon Oct 19 at 6:00 AM until further notice due to construction
-
-```text
-Updated 10/16 at 3:20 PM to reflect that only Route 32 is affected by this stop closure. 
-
-Get on/off buses at:
-Temporary stop at Rosedale Transit Center, across from Gate F (southbound)
 ```
 
 </details>
@@ -1894,61 +2060,6 @@ Maryland Ave & Cypress St - Stop #12918 (eastbound)
 
 ---
 
-### ⚠️ Route 54, Route 64: Detour via Maryland Ave & Mendota Ave
-
-- **Affected Routes**: `Route 54` `Route 64`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Maryland Ave & Mendota Ave; Maryland Ave & Clarence St; left on Maryland Ave & resume regular route.
-
-Affected st; Maryland Ave & Forest St; Maryland Ave & Cypress St
-- **Closed Stops**: Maryland Ave & Forest St (Stop #12917), Maryland Ave & Cypress St (Stop #12918), Maryland Ave & Earl St (Stop #12919), Maryland Ave & Frank St (Stop #12920), Maryland Ave & Duluth St (Stop #12921), Maryland Ave & Johnson Pkwy (Stop #12924), Maryland Ave & Johnson Pkwy (Stop #12929), Maryland Ave & Duluth St (Stop #12932) *(+8 more)*
-
-**Summary**: Routes 54 and 64 detoured off Maryland Ave from Forest St to Johnson Pkwy until further notice due to construction. Board at: Maryland Ave & Mendota Ave - Stop #12916 (eastbound); Maryland Ave & Clarence St - Stop #12926 (eastbound).
-
-> 💡 **Rider Action**: Board at: Maryland Ave & Mendota Ave - Stop #12916 (eastbound); Maryland Ave & Clarence St - Stop #12926 (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on Maryland Ave to Forest St, right on Forest St, left on 7th St, left on Johnson Pkwy, right on Maryland Ave and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/64)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Routes 54 and 64 detoured off Maryland Ave from Forest St to Johnson Pkwy until further notice due to construction
-
-```text
-Get on/off eastbound buses at:
-Maryland Ave & Mendota Ave - Stop #12916 (eastbound)
-Maryland Ave & Clarence St - Stop #12926 (eastbound)
-
-Get on/off westbound buses at:
-Maryland Ave & Clarence St - Stop #12927 (westbound)
-Maryland Ave & Mendota Ave - Stop #12937 (westbound)
-
-Eastbound buses will travel regular route on Maryland Ave to Forest St, right on Forest St, left on 7th St, left on Johnson Pkwy, right on Maryland Ave and resume regular route.
-
-Westbound buses will travel regular route on Maryland Ave to Johnson Pkwy, left on Johnson Pkwy, right on 7th St, right on Forest St, left on Maryland Ave and resume regular route.
-
-Affected stops:
-Maryland Ave & Forest St - Stop #12917 (eastbound)
-Maryland Ave & Cypress St - Stop #12918 (eastbound)
-Maryland Ave & Earl St - Stop #12919 (eastbound)
-Maryland Ave & Frank St - Stop #12920 (eastbound)
-Maryland Ave & Duluth St - Stop #12921 (eastbound)
-Maryland Ave & Johnson Pkwy - Stop #12924 (eastbound)
-Maryland Ave & Johnson Pkwy - Stop #12929 (westbound)
-Maryland Ave & Duluth St - Stop #12932 (westbound)
-Maryland Ave & Frank St - Stop #12933 (westbound)
-Maryland Ave & Earl St - Stop #12934 (westbound)
-Maryland Ave & Cypress St - Stop #12935 (westbound)
-Maryland Ave & Forest St - Stop #12936 (westbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 61: Detour via Arcade St & Magnolia Ave
 
 - **Affected Routes**: `Route 61`
@@ -2172,6 +2283,51 @@ Rice St & Milford St - Stop #10480 (southbound)
 Rice St & Sycamore St - Stop #10482 (southbound)
 Rice St & Pennsylvania Ave - Stop #10483 (southbound)
 Rice St & Como Ave - Stop #10484 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 62, Route 62D: Detour via Smith Ave & Ruby Dr
+
+- **Affected Routes**: `Route 62` `Route 62D`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Smith Ave & Ruby Dr; Smith Ave & Orme St W; Smith Ave & Moreland Ave; Smith Ave & Christine Lane - St; Smith Ave & Emerson Ave W
+- **Closed Stops**: Smith Ave & Emerson Ave W (Stop #6354), Smith Ave & Moreland Ave (Stop #6356), Smith Ave & Emerson Ave W (Stop #6340), Smith Ave & Ruby Dr (Stop #6341), Stop #6353, Stop #6357, Stop #6338, Stop #6342
+
+**Summary**: Route 62D detoured off Smith Ave from Ruby Dr to Moreland Ave until further notice due to construction. Board at: Smith Ave & Ruby Dr - Stop #6353 (northbound); Smith Ave & Orme St W - Stop #6357 (northbound).
+
+> 💡 **Rider Action**: Board at: Smith Ave & Ruby Dr - Stop #6353 (northbound); Smith Ave & Orme St W - Stop #6357 (northbound)
+
+> 🔄 **Detour Path**: buses will travel regular route on Smith Ave to Moreland Ave, right on Moreland, left on Delaware Ave, left on Ruby Dr, right on Smith Ave, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/62)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 62D detoured off Smith Ave from Ruby Dr to Moreland Ave until further notice due to construction
+
+```text
+For northbound Route 62 get on/off buses at:
+Smith Ave & Ruby Dr - Stop #6353 (northbound)
+Smith Ave & Orme St W - Stop #6357 (northbound)
+
+For southbound Route 62 get on/off buses at:
+Smith Ave & Moreland Ave - Stop #6338 (southbound)
+Smith Ave & Christine Lane - Stop #6342 (southbound)
+
+Northbound 62 buses that depart Signal Hills will travel regular route on Smith Ave to Ruby Dr, left on Ruby, right on Delaware Ave, right on Moreland Ave, left on Smith Ave, and resume regular route.
+
+Southbound 62D buses will travel regular route on Smith Ave to Moreland Ave, right on Moreland, left on Delaware Ave, left on Ruby Dr, right on Smith Ave, and resume regular route.
+
+Affected stops:
+Smith Ave & Emerson Ave W - Stop #6354 (northbound)
+Smith Ave & Moreland Ave - Stop #6356 (northbound)
+Smith Ave & Emerson Ave W - Stop #6340 (southbound)
+Smith Ave & Ruby Dr - Stop #6341 (southbound)
 ```
 
 </details>
