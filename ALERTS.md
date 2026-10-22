@@ -2,34 +2,94 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-110-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-102-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-116-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-8-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-104-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-79-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-80-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-22T15:09:27.691Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-22T19:56:31.371Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (1) • **Route 11** (2) • **Route 14** (3) • **Route 17** (2) • **Route 17W** (1) • **Route 18** (5) • **Route 22** (5) • **Route 25** (1) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 38** (1) • **Route 46** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (4) • **Route 64** (6) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (3) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (2) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 14** (3) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (5) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (2) • **Route 36** (2) • **Route 38** (1) • **Route 46** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (4) • **Route 64** (6) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 83** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (4) • **Route 805** (3) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 54: Westbound 9:20 AM Trip Canceled (Union Depot & Gate A1)
+### 🚨 METRO D Line: Southbound 1:59 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)
 
-- **Affected Routes**: `Route 54`
-- **Direction**: Westbound
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Southbound
 - **Severity**: `Critical`
 
-**Summary**: Westbound Route 54 trip departing Union Depot & Gate A1 at 9:20 AM canceled today due to collision
+**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM canceled today due to maintenance work
+
+</details>
+
+---
+
+### 🚨 METRO E Line: Service Advisory
+
+- **Affected Routes**: `METRO E Line`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 49 PM will start from 4th St SE & 15th Ave S
+- **Closed Stops**: Stop #16569, Stop #16154, Stop #15881, Stop #15884, Stop #56521, Stop #57541
+
+**Summary**: Southbound E Line trip departing Westgate Station at 2:49 PM will start from 4th St SE and 15th Ave SE. Previous stops missed due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/eline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound E Line trip departing Westgate Station at 2:49 PM will start from 4th St SE and 15th Ave SE. Previous stops missed due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 30: Service Canceled
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 34 PM and departing Knox Ave N & Golden Valley Rd
+
+**Summary**: Route 30 trips departing Westgate Station - Gate B at 1:34 PM and departing Knox Ave N & Golden Valley Rd at 2:26 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 30 trips departing Westgate Station - Gate B at 1:34 PM and departing Knox Ave N & Golden Valley Rd at 2:26 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 54: Eastbound 1:58 PM Trip Canceled (MOA Transit Station Gate C)
+
+- **Affected Routes**: `Route 54`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 1:58 PM canceled today due to traffic
 
 [Official Agency Advisory](https://www.metrotransit.org/route/54)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Westbound Route 54 trip departing Union Depot & Gate A1 at 9:20 AM canceled today due to collision
+**Header**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 1:58 PM canceled today due to traffic
 
 </details>
 
@@ -58,6 +118,38 @@ departing Inver Hills College & Shelter at 3:38 PM
 Affected southbound trips:
 departing Market Place Dr & The Marketplace Ctr at 2:12 PM
 departing Market Place Dr & The Marketplace Ctr at 5:13 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 83: Service Canceled
+
+- **Affected Routes**: `Route 83`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 83 trip departing Montreal Cir & Summit Brewing at 1:01 PM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/83)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 83 trip departing Montreal Cir & Summit Brewing at 1:01 PM and six other trips canceled today
+
+```text
+Affected northbound trips:
+departing Montreal Cir & Summit Brewing at 1:01 PM
+departing Montreal Cir & Summit Brewing at 2:32 PM
+departing Montreal Cir & Summit Brewing at 4:30 PM
+departing Montreal Cir & Summit Brewing at 6:32 PM
+
+Affected southbound trips:
+departing Rosedale Transit Center Gate B at 1:45 PM
+departing Rosedale Transit Center Gate B at 3:43 PM
+departing Rosedale Transit Center Gate B at 5:46 PM
 ```
 
 </details>
@@ -1055,6 +1147,45 @@ Get on Route 470 buses at:
 
 ---
 
+### ⚠️ Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor
+
+- **Affected Routes**: `Route 10` `Route 11` `Route 17` `Route 18` `Route 25`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Closed Stops**: Nicollet Mall & 11th St S (Stop #17990), Stop #17988, Stop #17992
+
+**Summary**: Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 11th St to 12th St from Mon Oct 26 at 7:00 AM to Fri Oct 30 at 4:00 PM due to construction. Board at: Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall & 9th St S - Stop #17992 (northbound).
+
+> 💡 **Rider Action**: Board at: Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall & 9th St S - Stop #17992 (northbound)
+
+> 🔄 **Detour Path**: eastbound buses will travel regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume regular route.
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 11th St to 12th St from Mon Oct 26 at 7:00 AM to Fri Oct 30 at 4:00 PM due to construction
+
+```text
+Note: This detour will only be in effect when the road is blocked. If road is open, buses will follow regular route.
+
+Get on/off northbound/eastbound buses at:
+Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)
+Nicollet Mall & 9th St S - Stop #17992 (northbound)
+
+No southbound/westbound stops missed.
+
+Northbound/eastbound buses will travel regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume regular route.
+
+Southbound/westbound buses will travel regular route on Nicollet Mall to 11th St, right on 11th St, left on LaSalle Ave, left on 12th St, right on Nicollet Mall, and resume regular route.
+
+Affected stops:
+Nicollet Mall & 11th St S - Stop #17990 (northbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 11: Detour via Main St NE & St Anthony Pkwy
 
 - **Affected Routes**: `Route 11`
@@ -1837,6 +1968,36 @@ Cedar Ave S & 28th St E - Stop #15319 (northbound)
 
 ---
 
+### ⚠️ Route 32: Stop Closed at Lowry Ave NE & McKinley St N
+
+- **Affected Routes**: `Route 32`
+- **Direction**: Eastbound
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Wed Oct 28 at 7:00 AM until further notice
+- **Corridors & Intersections**: Lowry Ave NE & McKinley St N
+- **Closed Stops**: Stop #40635, Stop #47345, Stop #2600, Stop #12859
+
+**Summary**: Kenzie Terrace & Lowry Grove - Stop #40635 (eastbound) is closed for Route 32 beginning Wed Oct 28 at 7:00 AM until further notice due to construction. Board at: Lowry Ave NE & McKinley St NE - Stop #47345 (eastbound); Kenzie Terrace & #2600 - Stop #12859 (eastbound).
+
+> 💡 **Rider Action**: Board at: Lowry Ave NE & McKinley St NE - Stop #47345 (eastbound); Kenzie Terrace & #2600 - Stop #12859 (eastbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/32)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Kenzie Terrace & Lowry Grove - Stop #40635 (eastbound) is closed for Route 32 beginning Wed Oct 28 at 7:00 AM until further notice due to construction
+
+```text
+Get on/off buses at:
+Lowry Ave NE & McKinley St NE - Stop #47345 (eastbound)
+Kenzie Terrace & #2600 - Stop #12859 (eastbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 36, Route 538, Route 578: Stop Closed at York Ave S & Hazelton Rd
 
 - **Affected Routes**: `Route 36` `Route 538` `Route 578`
@@ -2283,51 +2444,6 @@ Rice St & Milford St - Stop #10480 (southbound)
 Rice St & Sycamore St - Stop #10482 (southbound)
 Rice St & Pennsylvania Ave - Stop #10483 (southbound)
 Rice St & Como Ave - Stop #10484 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 62, Route 62D: Detour via Smith Ave & Ruby Dr
-
-- **Affected Routes**: `Route 62` `Route 62D`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Smith Ave & Ruby Dr; Smith Ave & Orme St W; Smith Ave & Moreland Ave; Smith Ave & Christine Lane - St; Smith Ave & Emerson Ave W
-- **Closed Stops**: Smith Ave & Emerson Ave W (Stop #6354), Smith Ave & Moreland Ave (Stop #6356), Smith Ave & Emerson Ave W (Stop #6340), Smith Ave & Ruby Dr (Stop #6341), Stop #6353, Stop #6357, Stop #6338, Stop #6342
-
-**Summary**: Route 62D detoured off Smith Ave from Ruby Dr to Moreland Ave until further notice due to construction. Board at: Smith Ave & Ruby Dr - Stop #6353 (northbound); Smith Ave & Orme St W - Stop #6357 (northbound).
-
-> 💡 **Rider Action**: Board at: Smith Ave & Ruby Dr - Stop #6353 (northbound); Smith Ave & Orme St W - Stop #6357 (northbound)
-
-> 🔄 **Detour Path**: buses will travel regular route on Smith Ave to Moreland Ave, right on Moreland, left on Delaware Ave, left on Ruby Dr, right on Smith Ave, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/62)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 62D detoured off Smith Ave from Ruby Dr to Moreland Ave until further notice due to construction
-
-```text
-For northbound Route 62 get on/off buses at:
-Smith Ave & Ruby Dr - Stop #6353 (northbound)
-Smith Ave & Orme St W - Stop #6357 (northbound)
-
-For southbound Route 62 get on/off buses at:
-Smith Ave & Moreland Ave - Stop #6338 (southbound)
-Smith Ave & Christine Lane - Stop #6342 (southbound)
-
-Northbound 62 buses that depart Signal Hills will travel regular route on Smith Ave to Ruby Dr, left on Ruby, right on Delaware Ave, right on Moreland Ave, left on Smith Ave, and resume regular route.
-
-Southbound 62D buses will travel regular route on Smith Ave to Moreland Ave, right on Moreland, left on Delaware Ave, left on Ruby Dr, right on Smith Ave, and resume regular route.
-
-Affected stops:
-Smith Ave & Emerson Ave W - Stop #6354 (northbound)
-Smith Ave & Moreland Ave - Stop #6356 (northbound)
-Smith Ave & Emerson Ave W - Stop #6340 (southbound)
-Smith Ave & Ruby Dr - Stop #6341 (southbound)
 ```
 
 </details>
@@ -4386,6 +4502,36 @@ Main St & 3rd Ave - Stop #12050 (eastbound)
 5th Ave & Washington St - Stop #12062 (southbound)
 5th Ave & Military Rd - Stop #12064 (southbound)
 East River Rd & 7th Ave - Stop #12067 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 802: Stop Closed at Coon Rapids Blvd & Dakotah St
+
+- **Affected Routes**: `Route 802`
+- **Direction**: Northbound
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Mon Oct 26 at 9:00 AM until further notice
+- **Corridors & Intersections**: Coon Rapids Blvd & Dakotah St; Coon Rapids Blvd & Blackfoot St; East River Rd & Queens Lane - St
+- **Closed Stops**: Stop #11059, Stop #11055, Stop #12070
+
+**Summary**: Coon Rapids Blvd & Dakotah St - Stop #11059 (westbound) is closed for Route 802 beginning Mon Oct 26 at 9:00 AM until further notice due to utility work. Board at: Coon Rapids Blvd & Blackfoot St - Stop #11055 (westbound); East River Rd & Queens Lane - Stop #12070 (northbound).
+
+> 💡 **Rider Action**: Board at: Coon Rapids Blvd & Blackfoot St - Stop #11055 (westbound); East River Rd & Queens Lane - Stop #12070 (northbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/802)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Coon Rapids Blvd & Dakotah St - Stop #11059 (westbound) is closed for Route 802 beginning Mon Oct 26 at 9:00 AM until further notice due to utility work
+
+```text
+Get on/off buses at:
+Coon Rapids Blvd & Blackfoot St - Stop #11055 (westbound)
+East River Rd & Queens Lane - Stop #12070 (northbound)
 ```
 
 </details>
