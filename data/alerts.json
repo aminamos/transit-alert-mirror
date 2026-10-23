@@ -1,16 +1,97 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-23T09:55:05.252Z",
-    "totalAlerts": 104,
-    "criticalCount": 0,
-    "moderateCount": 101,
+    "generatedAt": "2026-10-23T14:53:03.439Z",
+    "totalAlerts": 110,
+    "criticalCount": 3,
+    "moderateCount": 104,
     "minorCount": 3,
-    "affectedRoutesCount": 77,
+    "affectedRoutesCount": 80,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
+    {
+      "id": "54478",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 30: Service Canceled",
+      "summary": "Route 30 trip departing Westgate Station - Gate B at 5:37 AM and seven other trips canceled today",
+      "affectedRoutes": [
+        "Route 30"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "23 AM\ndeparting Knox Ave N & Golden Valley Rd",
+        "26 AM\ndeparting Knox Ave N & Golden Valley Rd"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-23T10:37:00.000Z",
+        "end": "2026-10-23T19:06:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/30",
+      "updatedAt": "2026-10-23T10:18:41.000Z",
+      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 5:37 AM and seven other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 6:23 AM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 8:23 AM\r\ndeparting Knox Ave N & Golden Valley Rd at 10:26 AM\r\ndeparting Knox Ave N & Golden Valley Rd at 12:26 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 5:37 AM\r\ndeparting Westgate Station - Gate B at 7:37 AM\r\ndeparting Westgate Station - Gate B at 9:36 AM\r\ndeparting Westgate Station - Gate B at 11:34 AM"
+    },
+    {
+      "id": "54494",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 540: Service Canceled",
+      "summary": "Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 8:32 AM and departing MOA Transit Station Gate G at 9:26 AM canceled today",
+      "affectedRoutes": [
+        "Route 540"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-23T13:47:00.000Z",
+        "end": "2026-10-23T15:57:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/540",
+      "updatedAt": "2026-10-23T13:47:25.000Z",
+      "rawHeader": "Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 8:32 AM and departing MOA Transit Station Gate G at 9:26 AM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "54495",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 542: Service Canceled",
+      "summary": "Route 542 trips departing American Blvd & Social Security Admin at 8:59 AM and departing MOA Transit Station Gate G at 9:37 AM canceled today",
+      "affectedRoutes": [
+        "Route 542"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-23T14:52:00.000Z",
+        "end": "2026-10-23T16:01:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/542",
+      "updatedAt": "2026-10-23T14:52:14.000Z",
+      "rawHeader": "Route 542 trips departing American Blvd & Social Security Admin at 8:59 AM and departing MOA Transit Station Gate G at 9:37 AM canceled today",
+      "rawDescription": ""
+    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -119,6 +200,42 @@
       "updatedAt": "2025-12-12T16:20:01.000Z",
       "rawHeader": "Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues",
       "rawDescription": "Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station."
+    },
+    {
+      "id": "52269",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "METRO Blue Line, METRO Green Line: Service Advisory",
+      "summary": "METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 10/25 from 9am - 5pm",
+      "affectedRoutes": [
+        "METRO Blue Line",
+        "METRO Green Line"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [
+        "56330",
+        "56338"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "56330"
+        },
+        {
+          "id": "56338"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-25T14:00:00.000Z",
+        "end": "2026-10-25T22:00:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "OTHER_EFFECT",
+      "updatedAt": "2026-10-23T14:00:01.000Z",
+      "rawHeader": "METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 10/25 from 9am - 5pm",
+      "rawDescription": "Due to street closures around U.S. Bank Stadium Station during the Vikings game, please transfer between the METRO Blue and Green lines at Government Plaza Station instead.\r\n\nAffected stops:\r\nU.S. Bank Stadium Station (eastbound)\r\nU.S. Bank Stadium Station (northbound)\r\nU.S. Bank Stadium Station (southbound)\r\nU.S. Bank Stadium Station (westbound)"
     },
     {
       "id": "54265",
@@ -1666,6 +1783,52 @@
       "rawDescription": "For northbound Route 11 get on/off buses at:\r\n4th Ave S & 36th St E - Stop #17749 (northbound)\r\n4th Ave S & Lake St E - Stop #17755 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\n4th Ave S & 31st St E - Stop #17716 (southbound)\r\n4th Ave S & 36th St E - Stop #17721 (southbound)\r\n\nNorthbound buses will travel regular route on 4th Ave S to 36th St, right on 36th St, left on Park Ave, left on 31st St, right on 4th Ave S, and resume regular route.\r\n\nSouthbound buses will travel regular route on 4th Ave S to 31st St, left on 31st St, right on Portland Ave, right on 35th St, left on 4th Ave S, and resume regular route.\r\n\nAffected stops:\r\n4th Ave S & 35th St E - Stop #17750 (northbound)\r\n4th Ave S & 34th St E - Stop #17751 (northbound)\r\n4th Ave S & 33rd St E - Stop #17752 (northbound)\r\n4th Ave S & 32nd St E - Stop #17753 (northbound)\r\n4th Ave S & 31st St E - Stop #17754 (northbound)\r\n4th Ave S & 32nd St E - Stop #17717 (southbound)\r\n4th Ave S & 33rd St E - Stop #17718 (southbound)\r\n4th Ave S & 34th St E - Stop #17719 (southbound)\r\n4th Ave S & 35th St E - Stop #17720 (southbound)"
     },
     {
+      "id": "54489",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 11: Detour via 4th Ave S & Lake St E",
+      "summary": "Route 11 detoured off 4th Ave S from 28th St to Lake St from 7:00 AM to 5:00 PM on Sat Oct 24 due to construction. Board at: 4th Ave S & Lake St E - Stop #17755 (northbound); 5th Ave S & 28th St E - Stop #17757 (northbound).",
+      "affectedRoutes": [
+        "Route 11"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "4th Ave S & Lake St E",
+        "5th Ave S & 28th St E",
+        "4th Ave S & 28th St E"
+      ],
+      "closedStopIds": [
+        "51795",
+        "17755",
+        "17757"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "51795",
+          "name": "4th Ave S & 28th St E",
+          "direction": "northbound"
+        },
+        {
+          "id": "17755"
+        },
+        {
+          "id": "17757"
+        }
+      ],
+      "riderAlternative": "Board at: 4th Ave S & Lake St E - Stop #17755 (northbound); 5th Ave S & 28th St E - Stop #17757 (northbound)",
+      "detourDetails": "Northbound buses will travel regular route on 4th Ave S to Lake St, left on Lake, right on 1st Ave S, right on 28th St to 4th Ave S, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-10-24T12:00:00.000Z",
+        "end": "2026-10-24T22:00:00.000Z"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/11",
+      "updatedAt": "2026-10-23T13:30:36.000Z",
+      "rawHeader": "Route 11 detoured off 4th Ave S from 28th St to Lake St from 7:00 AM to 5:00 PM on Sat Oct 24 due to construction",
+      "rawDescription": "Get on/off northbound buses at:\r\n4th Ave S & Lake St E - Stop #17755 (northbound)\r\n5th Ave S & 28th St E - Stop #17757 (northbound)\r\n\nNo southbound stops missed.\r\n\nNorthbound buses will travel regular route on 4th Ave S to Lake St, left on Lake, right on 1st Ave S, right on 28th St to 4th Ave S, and resume regular route.\r\n\nSouthbound buses will travel regular route on 28th St to 4th Ave S, continue on 28th St to Portland Ave, right on Portland, right on Lake St, left on 4th Ave S, and resume regular route.\r\n\nAffected stops:\r\n4th Ave S & 28th St E - Stop #51795 (northbound)"
+    },
+    {
       "id": "54264",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -2530,7 +2693,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-10-21T13:50:31.000Z",
+      "updatedAt": "2026-10-23T14:42:01.000Z",
       "rawHeader": "Route 22 detoured off Cedar Ave from Lake St to 24th St beginning Mon Sep 14 until further notice due to construction",
       "rawDescription": "Update on 10/21 at 9am: added additional get on/off stops for both directions.\r\n\nFor northbound Route 22 get on/off buses at:\r\nCedar Ave S & 32nd St E - Stop #15313 (northbound)\r\nLake & Cedar Station - Stop #57362 (westbound)\r\nBloomington Ave S & 28th St E - Stop #15618 (northbound)\r\nBloomington Ave S & 26th St E - Stop #15622 (northbound)\r\nBloomington Ave S & 25th St E - Stop #15625 (northbound)\r\nBloomington Ave S & 24th St E - Stop #15626 (northbound)\r\nCedar Ave S & Franklin Ave E - Stop #57194 (northbound)\r\n\nFor southbound Route 22 get on/off buses at:\r\nCedar Ave S & #2501 - Stop #15366 (southbound)\r\nBloomington Ave S & 24th St E - Stop #15627 (southbound)\r\nBloomington Ave S & 25th St E - Stop #15624 (southbound)\r\nBloomington Ave S & 26th St E - Stop #15623 (southbound)\r\nBloomington Ave S & 28th St E - Stop #15619 (southbound)\r\nTemporary stop on Cedar Ave just past Lake St (southbound)\r\nCedar Ave S & 32nd St E - Stop #15378 (southbound)\r\n\nNorthbound buses will travel regular route on Cedar Ave to Lake St, left on Lake, right on Bloomington Ave, right on 24th St, left on Cedar Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on Cedar Ave to 26th St, right on 26th St, left on Bloomington Ave, left on Lake St, right on Cedar Ave, and resume regular route.\r\n\nAffected stops:\r\nCedar Ave S & Lake St E - Stop #57193 (northbound)\r\nCedar Ave S & 28th St E - Stop #15319 (northbound)\r\nCedar Ave S & 26th St E - Stop #15323 (northbound)\r\nCedar Ave S & #2501 - Stop #15325 (northbound)\r\nCedar Ave S & 24th St E - Stop #40460 (northbound)\r\nCedar Ave S & 26th St E - Stop #15368 (southbound)\r\nCedar Ave S & 28th St E - Stop #15372 (southbound)\r\nCedar Ave S & Lake St E - Stop #15374 (southbound)"
     },
@@ -2768,7 +2931,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/27",
-      "updatedAt": "2026-10-16T14:40:37.000Z",
+      "updatedAt": "2026-10-23T14:40:01.000Z",
       "rawHeader": "Route 27 detoured off 26th St/28th St from Bloomington Ave to Cedar Ave and off Cedar Ave from 26th St to Lake St beginning Mon Sep 14 until further notice due to construction",
       "rawDescription": "For eastbound Route 27 get on/off buses at:\r\n28th St E & Bloomington Ave S - Stop #43016 (eastbound)\r\nLake & Cedar Station - Stop #51579 (eastbound)\r\n\nFor westbound Route 27 get on/off buses at:\r\nLake St E & 21st Ave S - Stop #16894 (westbound)\r\nLake & Cedar Station - Stop #57362 (westbound)\r\nBloomington Ave S & 28th St E - Stop #15618 (northbound)\r\n26th St E & 12th Ave S - Stop #51507 (westbound)\r\n\nEastbound buses will travel regular route on 28th St to Bloomington Ave, right on Bloomington, left on Lake St to Cedar Ave, and resume regular route.\r\n\nWestbound buses will travel regular route on Lake St to Cedar Ave, continue on Lake to Bloomington Ave, right on Bloomington, left on 26th St, and resume regular route.\r\n\nAffected stops:\r\n28th St E & Cedar Ave S - Stop #43021 (eastbound)\r\nCedar Ave S & Lake St E - Stop #15317 (northbound)\r\nCedar Ave S & 28th St E - Stop #15319 (northbound)\r\n26th St E & 18th Ave S - Stop #14340 (westbound)\r\n26th St E & Bloomington Ave S - Stop #43004 (westbound)"
     },
@@ -2941,9 +3104,49 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-23T05:00:01.000Z",
+      "updatedAt": "2026-10-23T11:30:04.000Z",
       "rawHeader": "Ford Pkwy & Cretin Ave - Stop #4280 (eastbound) is closed for Routes 38 and 74 starting Thu Oct 22 until further notice  from 7:00 AM to 6:00 PM each day",
       "rawDescription": "Get on/off buses at:\r\nFord & Woodlawn Station - Stop #56111 (eastbound)\r\nFord & Finn Station - Stop #56112 (eastbound)"
+    },
+    {
+      "id": "54492",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 38, Route 4: Stop Closed at Lyndale Ave S & 33rd St W",
+      "summary": "Lyndale Ave S & 33rd St W - Stop #40664 (southbound) is closed for Routes 4 and 38 beginning Thu Oct 29 at 2:00 AM until further notice due to utility work. Board at: Lyndale Ave S & 31st St W - Stop #110 (southbound); Lyndale Ave S & 35th St W - Stop #40668 (southbound).",
+      "affectedRoutes": [
+        "Route 38",
+        "Route 4"
+      ],
+      "direction": "Southbound",
+      "intersections": [
+        "Lyndale Ave S & 33rd St W",
+        "Lyndale Ave S & 31st St W",
+        "Lyndale Ave S & 35th St W"
+      ],
+      "closedStopIds": [
+        "40664",
+        "40668"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "40664"
+        },
+        {
+          "id": "40668"
+        }
+      ],
+      "riderAlternative": "Board at: Lyndale Ave S & 31st St W - Stop #110 (southbound); Lyndale Ave S & 35th St W - Stop #40668 (southbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-29T07:00:00.000Z",
+        "textDescription": "Beginning Thu Oct 29 at 2:00 AM until further notice"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "updatedAt": "2026-10-23T13:42:00.000Z",
+      "rawHeader": "Lyndale Ave S & 33rd St W - Stop #40664 (southbound) is closed for Routes 4 and 38 beginning Thu Oct 29 at 2:00 AM until further notice due to utility work",
+      "rawDescription": "Get on/off buses at:\r\nLyndale Ave S & 31st St W - Stop #110 (southbound)\r\nLyndale Ave S & 35th St W - Stop #40668 (southbound)"
     },
     {
       "id": "51972",

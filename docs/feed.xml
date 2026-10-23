@@ -4,9 +4,36 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Fri, 23 Oct 2026 09:55:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 14:53:03 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] Route 30: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/30</link>
+      <guid isPermaLink="false">Metro Transit-54478-2026-10-23T10:18:41.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 10:18:41 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 30</category>
+      <description>Route 30 trip departing Westgate Station - Gate B at 5:37 AM and seven other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 540: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/540</link>
+      <guid isPermaLink="false">Metro Transit-54494-2026-10-23T13:47:25.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 13:47:25 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 540</category>
+      <description>Route 540 trips departing Normandale Lake Blvd &amp; 83rd St / 84th St at 8:32 AM and departing MOA Transit Station Gate G at 9:26 AM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 542: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/542</link>
+      <guid isPermaLink="false">Metro Transit-54495-2026-10-23T14:52:14.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 14:52:14 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 542</category>
+      <description>Route 542 trips departing American Blvd &amp; Social Security Admin at 8:59 AM and departing MOA Transit Station Gate G at 9:37 AM canceled today</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -33,6 +60,15 @@
       <category>Moderate</category>
       <category>METRO Blue Line</category>
       <description>Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues</description>
+    </item>
+    <item>
+      <title>[Moderate] METRO Blue Line, METRO Green Line: Service Advisory</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-52269-2026-10-23T14:00:01.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 14:00:01 GMT</pubDate>
+      <category>Moderate</category>
+      <category>METRO Blue Line, METRO Green Line</category>
+      <description>METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 10/25 from 9am - 5pm</description>
     </item>
     <item>
       <title>[Moderate] METRO D Line: Detour via Chicago Ave S &amp; 58th St E</title>
@@ -224,6 +260,15 @@
       <description>Route 11 detoured off 4th Ave S from 31st St to 36th St until further notice due to construction. Board at: 4th Ave S &amp; 36th St E - Stop #17749 (northbound); 4th Ave S &amp; Lake St E - Stop #17755 (northbound). | Action: Board at: 4th Ave S &amp; 36th St E - Stop #17749 (northbound); 4th Ave S &amp; Lake St E - Stop #17755 (northbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 11: Detour via 4th Ave S &amp; Lake St E</title>
+      <link>https://www.metrotransit.org/route/11</link>
+      <guid isPermaLink="false">Metro Transit-54489-2026-10-23T13:30:36.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 13:30:36 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 11</category>
+      <description>Route 11 detoured off 4th Ave S from 28th St to Lake St from 7:00 AM to 5:00 PM on Sat Oct 24 due to construction. Board at: 4th Ave S &amp; Lake St E - Stop #17755 (northbound); 5th Ave S &amp; 28th St E - Stop #17757 (northbound). | Action: Board at: 4th Ave S &amp; Lake St E - Stop #17755 (northbound); 5th Ave S &amp; 28th St E - Stop #17757 (northbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 14: Detour via Chicago Ave S &amp; 58th St E</title>
       <link>https://www.metrotransit.org/route/14</link>
       <guid isPermaLink="false">Metro Transit-54264-2026-10-20T19:26:34.000Z</guid>
@@ -325,8 +370,8 @@
     <item>
       <title>[Moderate] Route 22: Detour via Cedar Ave S &amp; 32nd St E</title>
       <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-54251-2026-10-21T13:50:31.000Z</guid>
-      <pubDate>Wed, 21 Oct 2026 13:50:31 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54251-2026-10-23T14:42:01.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 14:42:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 22</category>
       <description>Route 22 detoured off Cedar Ave from Lake St to 24th St beginning Mon Sep 14 until further notice due to construction. Board at: Cedar Ave S &amp; 32nd St E - Stop #15313 (northbound); Lake &amp; Cedar Station - Stop #57362 (westbound); Bloomington Ave S &amp; 28th St E - Stop #15618 (northbound). | Action: Board at: Cedar Ave S &amp; 32nd St E - Stop #15313 (northbound); Lake &amp; Cedar Station - Stop #57362 (westbound); Bloomington Ave S &amp; 28th St E - Stop #15618 (northbound)</description>
@@ -352,8 +397,8 @@
     <item>
       <title>[Moderate] Route 27: Detour via Route 27 detoured off 26th St &amp; 28th St</title>
       <link>https://www.metrotransit.org/route/27</link>
-      <guid isPermaLink="false">Metro Transit-54250-2026-10-16T14:40:37.000Z</guid>
-      <pubDate>Fri, 16 Oct 2026 14:40:37 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54250-2026-10-23T14:40:01.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 14:40:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 27</category>
       <description>Route 27 detoured off 26th St/28th St from Bloomington Ave to Cedar Ave and off Cedar Ave from 26th St to Lake St beginning Mon Sep 14 until further notice due to construction. Board at: 28th St E &amp; Bloomington Ave S - Stop #43016 (eastbound); Lake &amp; Cedar Station - Stop #51579 (eastbound). | Action: Board at: 28th St E &amp; Bloomington Ave S - Stop #43016 (eastbound); Lake &amp; Cedar Station - Stop #51579 (eastbound)</description>
@@ -388,11 +433,20 @@
     <item>
       <title>[Moderate] Route 38, Route 74: Stop Closed at Ford Pkwy &amp; Cretin Ave</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54427-2026-10-23T05:00:01.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54427-2026-10-23T11:30:04.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 11:30:04 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 38, Route 74</category>
       <description>Ford Pkwy &amp; Cretin Ave - Stop #4280 (eastbound) is closed for Routes 38 and 74 starting Thu Oct 22 until further notice from 7:00 AM to 6:00 PM each day. Board at: Ford &amp; Woodlawn Station - Stop #56111 (eastbound); Ford &amp; Finn Station - Stop #56112 (eastbound). | Action: Board at: Ford &amp; Woodlawn Station - Stop #56111 (eastbound); Ford &amp; Finn Station - Stop #56112 (eastbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 38, Route 4: Stop Closed at Lyndale Ave S &amp; 33rd St W</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-54492-2026-10-23T13:42:00.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 13:42:00 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 38, Route 4</category>
+      <description>Lyndale Ave S &amp; 33rd St W - Stop #40664 (southbound) is closed for Routes 4 and 38 beginning Thu Oct 29 at 2:00 AM until further notice due to utility work. Board at: Lyndale Ave S &amp; 31st St W - Stop #110 (southbound); Lyndale Ave S &amp; 35th St W - Stop #40668 (southbound). | Action: Board at: Lyndale Ave S &amp; 31st St W - Stop #110 (southbound); Lyndale Ave S &amp; 35th St W - Stop #40668 (southbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 54, Route 54M: Detour via 5th St &amp; Robert St</title>

@@ -2,21 +2,93 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-104-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-101-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-110-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-104-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-80-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-23T09:55:05.252Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-23T14:53:03.439Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 14** (3) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (5) • **Route 25** (2) • **Route 27** (2) • **Route 32** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (4) • **Route 14** (3) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (5) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 Route 30: Service Canceled
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 23 AM
+departing Knox Ave N & Golden Valley Rd; 26 AM
+departing Knox Ave N & Golden Valley Rd
+
+**Summary**: Route 30 trip departing Westgate Station - Gate B at 5:37 AM and seven other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 30 trip departing Westgate Station - Gate B at 5:37 AM and seven other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Golden Valley Rd Turn & Xerxes Ave N at 6:23 AM
+departing Golden Valley Rd Turn & Xerxes Ave N at 8:23 AM
+departing Knox Ave N & Golden Valley Rd at 10:26 AM
+departing Knox Ave N & Golden Valley Rd at 12:26 PM
+
+Affected westbound trips:
+departing Westgate Station - Gate B at 5:37 AM
+departing Westgate Station - Gate B at 7:37 AM
+departing Westgate Station - Gate B at 9:36 AM
+departing Westgate Station - Gate B at 11:34 AM
+```
+
+</details>
+
+---
+
+### 🚨 Route 540: Service Canceled
+
+- **Affected Routes**: `Route 540`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 8:32 AM and departing MOA Transit Station Gate G at 9:26 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/540)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 8:32 AM and departing MOA Transit Station Gate G at 9:26 AM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 542: Service Canceled
+
+- **Affected Routes**: `Route 542`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 542 trips departing American Blvd & Social Security Admin at 8:59 AM and departing MOA Transit Station Gate G at 9:37 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/542)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 542 trips departing American Blvd & Social Security Admin at 8:59 AM and departing MOA Transit Station Gate G at 9:37 AM canceled today
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -118,6 +190,34 @@ Ford & Fairview Station - Stop #56113 (eastbound)
 
 ```text
 Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station.
+```
+
+</details>
+
+---
+
+### ⚠️ METRO Blue Line, METRO Green Line: Service Advisory
+
+- **Affected Routes**: `METRO Blue Line` `METRO Green Line`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Closed Stops**: Stop #56330, Stop #56338
+
+**Summary**: METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 10/25 from 9am - 5pm
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 10/25 from 9am - 5pm
+
+```text
+Due to street closures around U.S. Bank Stadium Station during the Vikings game, please transfer between the METRO Blue and Green lines at Government Plaza Station instead.
+
+Affected stops:
+U.S. Bank Stadium Station (eastbound)
+U.S. Bank Stadium Station (northbound)
+U.S. Bank Stadium Station (southbound)
+U.S. Bank Stadium Station (westbound)
 ```
 
 </details>
@@ -1081,6 +1181,46 @@ Affected stops:
 
 ---
 
+### ⚠️ Route 11: Detour via 4th Ave S & Lake St E
+
+- **Affected Routes**: `Route 11`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 4th Ave S & Lake St E; 5th Ave S & 28th St E; 4th Ave S & 28th St E
+- **Closed Stops**: 4th Ave S & 28th St E (Stop #51795), Stop #17755, Stop #17757
+
+**Summary**: Route 11 detoured off 4th Ave S from 28th St to Lake St from 7:00 AM to 5:00 PM on Sat Oct 24 due to construction. Board at: 4th Ave S & Lake St E - Stop #17755 (northbound); 5th Ave S & 28th St E - Stop #17757 (northbound).
+
+> 💡 **Rider Action**: Board at: 4th Ave S & Lake St E - Stop #17755 (northbound); 5th Ave S & 28th St E - Stop #17757 (northbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route on 4th Ave S to Lake St, left on Lake, right on 1st Ave S, right on 28th St to 4th Ave S, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/11)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 11 detoured off 4th Ave S from 28th St to Lake St from 7:00 AM to 5:00 PM on Sat Oct 24 due to construction
+
+```text
+Get on/off northbound buses at:
+4th Ave S & Lake St E - Stop #17755 (northbound)
+5th Ave S & 28th St E - Stop #17757 (northbound)
+
+No southbound stops missed.
+
+Northbound buses will travel regular route on 4th Ave S to Lake St, left on Lake, right on 1st Ave S, right on 28th St to 4th Ave S, and resume regular route.
+
+Southbound buses will travel regular route on 28th St to 4th Ave S, continue on 28th St to Portland Ave, right on Portland, right on Lake St, left on 4th Ave S, and resume regular route.
+
+Affected stops:
+4th Ave S & 28th St E - Stop #51795 (northbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 14: Detour via Chicago Ave S & 58th St E
 
 - **Affected Routes**: `Route 14`
@@ -1866,6 +2006,34 @@ Parklawn Ave & Parklawn Court - Stop #41091 (northbound)
 Get on/off buses at:
 Ford & Woodlawn Station - Stop #56111 (eastbound)
 Ford & Finn Station - Stop #56112 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 38, Route 4: Stop Closed at Lyndale Ave S & 33rd St W
+
+- **Affected Routes**: `Route 38` `Route 4`
+- **Direction**: Southbound
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Thu Oct 29 at 2:00 AM until further notice
+- **Corridors & Intersections**: Lyndale Ave S & 33rd St W; Lyndale Ave S & 31st St W; Lyndale Ave S & 35th St W
+- **Closed Stops**: Stop #40664, Stop #40668
+
+**Summary**: Lyndale Ave S & 33rd St W - Stop #40664 (southbound) is closed for Routes 4 and 38 beginning Thu Oct 29 at 2:00 AM until further notice due to utility work. Board at: Lyndale Ave S & 31st St W - Stop #110 (southbound); Lyndale Ave S & 35th St W - Stop #40668 (southbound).
+
+> 💡 **Rider Action**: Board at: Lyndale Ave S & 31st St W - Stop #110 (southbound); Lyndale Ave S & 35th St W - Stop #40668 (southbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Lyndale Ave S & 33rd St W - Stop #40664 (southbound) is closed for Routes 4 and 38 beginning Thu Oct 29 at 2:00 AM until further notice due to utility work
+
+```text
+Get on/off buses at:
+Lyndale Ave S & 31st St W - Stop #110 (southbound)
+Lyndale Ave S & 35th St W - Stop #40668 (southbound)
 ```
 
 </details>
