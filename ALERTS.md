@@ -3,16 +3,16 @@
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
 [![Alerts](https://img.shields.io/badge/Total%20Alerts-118-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-11-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-104-orange)](#-moderate-detours--changes)
+[![Critical](https://img.shields.io/badge/Critical-13-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-102-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-82-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-83-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-23T19:03:21.505Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-23T23:02:08.153Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO C Line** (1) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (4) • **Route 14** (3) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (5) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (3) • **Route 64** (6) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 83** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (2) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (3) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (4) • **Route 805** (3) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO C Line** (1) • **METRO D Line** (2) • **METRO E Line** (1) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (4) • **Route 14** (3) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (5) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (2) • **Route 36** (2) • **Route 38** (2) • **Route 46** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (3) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 83** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (3) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
@@ -23,23 +23,42 @@
 - **Severity**: `Critical`
 - **Corridors & Intersections**: departing 7th St & Park St
 
-**Summary**: C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 1:08 PM and two other trips canceled today
+**Summary**: C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 3:53 PM and two other trips canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/cline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 1:08 PM and two other trips canceled today
+**Header**: C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 3:53 PM and two other trips canceled today
 
 ```text
 Affected northbound trips:
-departing 7th St & Park Station at 1:58 PM
+departing 7th St & Park Station at 4:45 PM
 
 Affected southbound trips:
-departing Brooklyn Ctr Transit Ctr Gate I at 1:08 PM
-departing Brooklyn Ctr Transit Ctr Gate I at 2:55 PM
+departing Brooklyn Ctr Transit Ctr Gate I at 3:53 PM
+departing Brooklyn Ctr Transit Ctr Gate I at 5:39 PM
 ```
+
+</details>
+
+---
+
+### 🚨 METRO D Line: Northbound 5:19 PM Trip Canceled (MOA Transit Station Gate A)
+
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound D Line trip departing MOA Transit Station Gate A at 5:19 PM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound D Line trip departing MOA Transit Station Gate A at 5:19 PM canceled today due to mechanical issue
 
 </details>
 
@@ -86,21 +105,31 @@ departing Westgate Station - Gate B at 9:36 PM
 
 ---
 
-### 🚨 Route 63: Service Advisory
+### 🚨 Route 46: Service Canceled
 
-- **Affected Routes**: `Route 63`
-- **Direction**: Eastbound
+- **Affected Routes**: `Route 46`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #15795, Stop #15796, Stop #15798, Stop #15799, Stop #15801, Stop #15803, Stop #42114, Stop #16955 *(+27 more)*
 
-**Summary**: Eastbound Route 63 trip departing Westgate Station - Gate C at 1:13 PM will start from Smith & 5th. Previous stops missed due to traffic
+**Summary**: Route 46 trip departing 46th St Station & Gate G at 3:43 PM and four other trips canceled today due to medical emergency
 
-[Official Agency Advisory](https://www.metrotransit.org/route/63)
+[Official Agency Advisory](https://www.metrotransit.org/route/46)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Route 63 trip departing Westgate Station - Gate C at 1:13 PM will start from Smith & 5th. Previous stops missed due to traffic
+**Header**: Route 46 trip departing 46th St Station & Gate G at 3:43 PM and four other trips canceled today due to medical emergency
+
+```text
+Affected eastbound trips:
+departing Eden-Vernon Busway & Sherwood/Vernon Ave at 4:26 PM
+departing Eden-Vernon Busway & Sherwood/Vernon Ave at 5:56 PM
+
+Affected westbound trips:
+departing 46th St Station & Gate G at 3:43 PM
+departing 46th St Station & Gate G at 5:12 PM
+departing 46th St Station & Gate G at 6:43 PM
+```
 
 </details>
 
@@ -130,6 +159,45 @@ Affected southbound trips:
 departing Market Place Dr & The Marketplace Ctr at 3:10 PM
 departing Market Place Dr & The Marketplace Ctr at 6:15 PM
 ```
+
+</details>
+
+---
+
+### 🚨 Route 71: Southbound 4:10 PM Trip Canceled (Market Place Dr & The Marketplace Ctr)
+
+- **Affected Routes**: `Route 71`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Route 71 trip departing Market Place Dr & The Marketplace Ctr at 4:10 PM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/71)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 71 trip departing Market Place Dr & The Marketplace Ctr at 4:10 PM canceled today due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 Route 72: Service Canceled
+
+- **Affected Routes**: `Route 72`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 72 trips departing Pascal St N & Central Ave W
+
+**Summary**: Route 72 trips departing Pascal St N & Central Ave W at 8:53 PM and departing Sun Ray Transit Center & Gate D at 9:51 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/72)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 72 trips departing Pascal St N & Central Ave W at 8:53 PM and departing Sun Ray Transit Center & Gate D at 9:51 PM canceled today
 
 </details>
 
@@ -167,49 +235,35 @@ departing Rosedale Transit Center Gate B at 5:46 PM
 
 ---
 
-### 🚨 Route 219: Service Canceled
-
-- **Affected Routes**: `Route 219`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 219 trips departing Sun Ray Transit Center & Gate B at 2:13 PM and departing Maplewood Mall Transit Center & Gate A at 3:12 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/219)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 219 trips departing Sun Ray Transit Center & Gate B at 2:13 PM and departing Maplewood Mall Transit Center & Gate A at 3:12 PM canceled today
-
-</details>
-
----
-
 ### 🚨 Route 540: Service Canceled
 
 - **Affected Routes**: `Route 540`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: departing Normandale Lake Blvd & 83rd St; 02 AM
+- **Corridors & Intersections**: departing Normandale Lake Blvd & 83rd St; 32 PM
+departing Normandale Lake Blvd & 83rd St; 00 PM
 departing Normandale Lake Blvd & 83rd St
 
-**Summary**: Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 11:02 AM and three other trips canceled today
+**Summary**: Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 12:32 PM and five other trips canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/540)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 11:02 AM and three other trips canceled today
+**Header**: Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 12:32 PM and five other trips canceled today
 
 ```text
+Updated at 2:07 PM to cancel additional trips.
+
 Affected eastbound trips:
-departing Normandale Lake Blvd & 83rd St / 84th St at 11:02 AM
 departing Normandale Lake Blvd & 83rd St / 84th St at 12:32 PM
+departing Normandale Lake Blvd & 83rd St / 84th St at 2:32 PM
+departing Normandale Lake Blvd & 83rd St / 84th St at 4:00 PM
+departing Normandale Lake Blvd & 83rd St / 84th St at 5:32 PM
+departing Normandale Lake Blvd & 83rd St / 84th St at 7:02 PM
 
 Affected westbound trips:
-departing MOA Transit Station Gate G at 11:55 AM
 departing MOA Transit Station Gate G at 1:25 PM
 ```
 
@@ -223,25 +277,26 @@ departing MOA Transit Station Gate G at 1:25 PM
 - **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: Route 542 trip departing American Blvd & Social Security Admin at 9:58 AM and five other trips canceled today
+**Summary**: Route 542 trip departing American Blvd & Social Security Admin at 1:59 PM and four other trips canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/542)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 542 trip departing American Blvd & Social Security Admin at 9:58 AM and five other trips canceled today
+**Header**: Route 542 trip departing American Blvd & Social Security Admin at 1:59 PM and four other trips canceled today
 
 ```text
+Updated at 2:06 PM to cancel additional trips.
+
 Affected eastbound trips:
-departing American Blvd & Social Security Admin at 9:58 AM
-departing American Blvd & Social Security Admin at 11:29 AM
-departing American Blvd & Social Security Admin at 12:29 PM
 departing American Blvd & Social Security Admin at 1:59 PM
 
 Affected westbound trips:
-departing MOA Transit Station Gate G at 10:37 AM
-departing MOA Transit Station Gate G at 12:07 PM
+departing MOA Transit Station Gate G at 2:07 PM
+departing MOA Transit Station Gate G at 3:34 PM
+departing MOA Transit Station Gate G at 5:05 PM
+departing MOA Transit Station Gate G at 6:37 PM
 ```
 
 </details>
@@ -4482,66 +4537,6 @@ Affected stops:
 - **Corridors & Intersections**: East River Rd & 7th Ave; Green Haven Pkwy & Fairoak Ave; East River Rd & Kings Lane - St; East River Rd & South St; 5th Ave & Washington St
 - **Closed Stops**: East River Rd & South St (Stop #12065), 5th Ave & Washington St (Stop #12063), 5th Ave & Jefferson St (Stop #12058), 5th Ave & Monroe St (Stop #12054), Main St & 3rd Ave (Stop #12051), Main St & 2nd Ave (Stop #12049), Main St & Ferry St (Stop #12046), Main St & State Ave (Stop #12027) *(+15 more)*
 
-**Summary**: Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 12:30 PM to 3:00 PM on Fri Oct 23 due to Anoka Big Parade of Little People. Board at: East River Rd & 7th Ave - Stop #12066 (northbound); Green Haven Pkwy & Fairoak Ave - Stop #57211 (northbound).
-
-> 💡 **Rider Action**: Board at: East River Rd & 7th Ave - Stop #12066 (northbound); Green Haven Pkwy & Fairoak Ave - Stop #57211 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on East River Rd to 7th Ave, right on 7th Ave, left on westbound Hwy 10, exit at Greenhaven Pkwy, continue on Green Haven Pkwy, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/802)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 12:30 PM to 3:00 PM on Fri Oct 23 due to Anoka Big Parade of Little People
-
-```text
-For northbound Route 802 get on/off buses at:
-East River Rd & 7th Ave - Stop #12066 (northbound)
-Green Haven Pkwy & Fairoak Ave - Stop #57211 (northbound)
-
-For southbound Route 802 get on/off buses at:
-Green Haven Pkwy & Fairoak Ave - Stop #57212 (southbound)
-East River Rd & Kings Lane - Stop #12068 (southbound)
-
-Northbound buses will travel regular route on East River Rd to 7th Ave, right on 7th Ave, left on westbound Hwy 10, exit at Greenhaven Pkwy, continue on Green Haven Pkwy, and resume regular route.
-
-Southbound buses will travel regular route on Green Haven Pkwy to Hwy 10, left onto eastbound Hwy 10, exit at 7th Ave, right on 7th Ave, left on East River Rd, and resume regular route.
-
-Affected stops:
-East River Rd & South St - Stop #12065 (northbound)
-5th Ave & Washington St - Stop #12063 (northbound)
-5th Ave & Jefferson St - Stop #12058 (northbound)
-5th Ave & Monroe St - Stop #12054 (northbound)
-Main St & 3rd Ave - Stop #12051 (westbound)
-Main St & 2nd Ave - Stop #12049 (westbound)
-Main St & Ferry St - Stop #12046 (westbound)
-Main St & State Ave - Stop #12027 (westbound)
-Main St & Cutter St - Stop #12026 (westbound)
-Main St & Cutter St - Stop #12025 (eastbound)
-Main St & State Ave - Stop #12028 (eastbound)
-Main St & Branch Ave - Stop #12029 (eastbound)
-Main St & 2nd Ave - Stop #12047 (eastbound)
-Main St & 3rd Ave - Stop #12050 (eastbound)
-5th Ave & Monroe St - Stop #12055 (southbound)
-5th Ave & Jefferson St - Stop #12059 (southbound)
-5th Ave & Washington St - Stop #12062 (southbound)
-5th Ave & Military Rd - Stop #12064 (southbound)
-East River Rd & 7th Ave - Stop #12067 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 802: Detour via East River Rd & 7th Ave
-
-- **Affected Routes**: `Route 802`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: East River Rd & 7th Ave; Green Haven Pkwy & Fairoak Ave; East River Rd & Kings Lane - St; East River Rd & South St; 5th Ave & Washington St
-- **Closed Stops**: East River Rd & South St (Stop #12065), 5th Ave & Washington St (Stop #12063), 5th Ave & Jefferson St (Stop #12058), 5th Ave & Monroe St (Stop #12054), Main St & 3rd Ave (Stop #12051), Main St & 2nd Ave (Stop #12049), Main St & Ferry St (Stop #12046), Main St & State Ave (Stop #12027) *(+15 more)*
-
 **Summary**: Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 12:00 PM to 5:00 PM on Sat Oct 24 due to Anoka Grand Day Parade. Board at: East River Rd & 7th Ave - Stop #12066 (northbound); Green Haven Pkwy & Fairoak Ave - Stop #57211 (northbound).
 
 > 💡 **Rider Action**: Board at: East River Rd & 7th Ave - Stop #12066 (northbound); Green Haven Pkwy & Fairoak Ave - Stop #57211 (northbound)
@@ -4618,52 +4613,6 @@ East River Rd & 7th Ave - Stop #12067 (southbound)
 Get on/off buses at:
 Coon Rapids Blvd & Blackfoot St - Stop #11055 (westbound)
 East River Rd & Queens Lane - Stop #12070 (northbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 805: Detour via Harrison St & 3rd Ave
-
-- **Affected Routes**: `Route 805`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Harrison St & 3rd Ave; 3rd Ave & Van Buren Ave; left on 3rd Ave & northbound 3rd Ave; between Van Buren Ave & Harrison St; 3rd Ave & Golf St
-- **Closed Stops**: 3rd Ave & Golf St (Stop #51302), 3rd Ave & Jackson St (Stop #57200), 1st Ave S & Monroe St (Stop #50716), Madison St & 3rd Ave (Stop #57209), 3rd Ave & Jackson St (Stop #48739), 3rd Ave & Van Buren St (Stop #43897), Stop #51301, Stop #50711
-
-**Summary**: Route 805 detoured off 3rd Ave from Van Buren Ave to Madison St from 12:30 PM to 3:00 PM on Fri Oct 23 due to Anoka Big Parade of Little People. Board at: Harrison St & 3rd Ave - Stop #51301 (westbound); 3rd Ave & Van Buren Ave / Harrison St - Stop #50711 (northbound).
-
-> 💡 **Rider Action**: Board at: Harrison St & 3rd Ave - Stop #51301 (westbound); 3rd Ave & Van Buren Ave / Harrison St - Stop #50711 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on Harrison St to 3rd Ave, continue on Harrison to 2nd Ave, left on 2nd Ave, left on Van Buren St, left on 3rd Ave and layover on northbound 3rd Ave between Van Buren Ave and Harrison St.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 805 detoured off 3rd Ave from Van Buren Ave to Madison St from 12:30 PM to 3:00 PM on Fri Oct 23 due to Anoka Big Parade of Little People
-
-```text
-For northbound Route 805 get on/off buses at:
-Harrison St & 3rd Ave - Stop #51301 (westbound)
-3rd Ave & Van Buren Ave / Harrison St - Stop #50711 (northbound)
-
-For southbound Route 805 get on/off buses at:
-3rd Ave & Van Buren Ave / Harrison St - Stop #50711 (northbound)
-
-Northbound buses will travel regular route on Harrison St to 3rd Ave, continue on Harrison to 2nd Ave, left on 2nd Ave, left on Van Buren St, left on 3rd Ave and layover on northbound 3rd Ave between Van Buren Ave and Harrison St.
-
-Southbound buses will depart temporary layover on northbound 3rd Ave between Van Buren Ave and Harrison St, continue on 3rd Ave, and resume regular route.
-
-Affected stops:
-3rd Ave & Golf St - Stop #51302 (southbound)
-3rd Ave & Jackson St - Stop #57200 (southbound)
-1st Ave S & Monroe St - Stop #50716 (southbound)
-Madison St & 3rd Ave - Stop #57209 (eastbound)
-3rd Ave & Jackson St - Stop #48739 (northbound)
-3rd Ave & Van Buren St - Stop #43897 (northbound)
 ```
 
 </details>

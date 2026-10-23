@@ -1,22 +1,22 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-23T19:03:21.505Z",
+    "generatedAt": "2026-10-23T23:02:08.153Z",
     "totalAlerts": 118,
-    "criticalCount": 11,
-    "moderateCount": 104,
+    "criticalCount": 13,
+    "moderateCount": 102,
     "minorCount": 3,
-    "affectedRoutesCount": 82,
+    "affectedRoutesCount": 83,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "54508",
+      "id": "54519",
       "agency": "Metro Transit",
       "severity": "Critical",
       "title": "METRO C Line: Service Canceled",
-      "summary": "C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 1:08 PM and two other trips canceled today",
+      "summary": "C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 3:53 PM and two other trips canceled today",
       "affectedRoutes": [
         "METRO C Line"
       ],
@@ -29,15 +29,41 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-23T18:26:00.000Z",
-        "end": "2026-10-23T21:33:00.000Z"
+        "start": "2026-10-23T22:33:00.000Z",
+        "end": "2026-10-24T00:16:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/cline",
-      "updatedAt": "2026-10-23T18:27:37.000Z",
-      "rawHeader": "C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 1:08 PM and two other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting 7th St & Park Station at 1:58 PM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 1:08 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 2:55 PM"
+      "updatedAt": "2026-10-23T22:33:26.000Z",
+      "rawHeader": "C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 3:53 PM and two other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting 7th St & Park Station at 4:45 PM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 3:53 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 5:39 PM"
+    },
+    {
+      "id": "54518",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO D Line: Northbound 5:19 PM Trip Canceled (MOA Transit Station Gate A)",
+      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 5:19 PM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "METRO D Line"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-23T22:31:00.000Z",
+        "end": "2026-10-24T00:37:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-10-23T22:31:58.000Z",
+      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 5:19 PM canceled today due to mechanical issue",
+      "rawDescription": ""
     },
     {
       "id": "54478",
@@ -70,172 +96,30 @@
       "rawDescription": "Updated at 1:14 PM to cancel additional trips.\r\n\nAffected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 12:26 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 2:26 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 4:24 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 6:26 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 8:25 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 11:34 AM\r\ndeparting Westgate Station - Gate B at 1:34 PM\r\ndeparting Westgate Station - Gate B at 3:34 PM\r\ndeparting Westgate Station - Gate B at 5:34 PM\r\ndeparting Westgate Station - Gate B at 7:36 PM\r\ndeparting Westgate Station - Gate B at 9:36 PM"
     },
     {
-      "id": "54510",
+      "id": "54515",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 63: Service Advisory",
-      "summary": "Eastbound Route 63 trip departing Westgate Station - Gate C at 1:13 PM will start from Smith & 5th. Previous stops missed due to traffic",
+      "title": "Route 46: Service Canceled",
+      "summary": "Route 46 trip departing 46th St Station & Gate G at 3:43 PM and four other trips canceled today due to medical emergency",
       "affectedRoutes": [
-        "Route 63"
+        "Route 46"
       ],
-      "direction": "Eastbound",
+      "direction": "Both Directions",
       "intersections": [],
-      "closedStopIds": [
-        "15795",
-        "15796",
-        "15798",
-        "15799",
-        "15801",
-        "15803",
-        "42114",
-        "16955",
-        "16956",
-        "56250",
-        "3104",
-        "3108",
-        "3112",
-        "3114",
-        "3116",
-        "3119",
-        "3121",
-        "3122",
-        "3124",
-        "3126",
-        "3128",
-        "3130",
-        "3131",
-        "3132",
-        "3134",
-        "3135",
-        "3136",
-        "3138",
-        "3139",
-        "18669",
-        "18673",
-        "18675",
-        "56943",
-        "56945",
-        "56946"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "15795"
-        },
-        {
-          "id": "15796"
-        },
-        {
-          "id": "15798"
-        },
-        {
-          "id": "15799"
-        },
-        {
-          "id": "15801"
-        },
-        {
-          "id": "15803"
-        },
-        {
-          "id": "42114"
-        },
-        {
-          "id": "16955"
-        },
-        {
-          "id": "16956"
-        },
-        {
-          "id": "56250"
-        },
-        {
-          "id": "3104"
-        },
-        {
-          "id": "3108"
-        },
-        {
-          "id": "3112"
-        },
-        {
-          "id": "3114"
-        },
-        {
-          "id": "3116"
-        },
-        {
-          "id": "3119"
-        },
-        {
-          "id": "3121"
-        },
-        {
-          "id": "3122"
-        },
-        {
-          "id": "3124"
-        },
-        {
-          "id": "3126"
-        },
-        {
-          "id": "3128"
-        },
-        {
-          "id": "3130"
-        },
-        {
-          "id": "3131"
-        },
-        {
-          "id": "3132"
-        },
-        {
-          "id": "3134"
-        },
-        {
-          "id": "3135"
-        },
-        {
-          "id": "3136"
-        },
-        {
-          "id": "3138"
-        },
-        {
-          "id": "3139"
-        },
-        {
-          "id": "18669"
-        },
-        {
-          "id": "18673"
-        },
-        {
-          "id": "18675"
-        },
-        {
-          "id": "56943"
-        },
-        {
-          "id": "56945"
-        },
-        {
-          "id": "56946"
-        }
-      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-23T18:33:00.000Z",
-        "end": "2026-10-23T20:11:00.000Z"
+        "start": "2026-10-23T20:43:00.000Z",
+        "end": "2026-10-24T01:15:00.000Z"
       },
-      "cause": "OTHER_CAUSE",
+      "cause": "MEDICAL_EMERGENCY",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/63",
-      "updatedAt": "2026-10-23T18:33:59.000Z",
-      "rawHeader": "Eastbound Route 63 trip departing Westgate Station - Gate C at 1:13 PM will start from Smith & 5th. Previous stops missed due to traffic",
-      "rawDescription": ""
+      "url": "https://www.metrotransit.org/route/46",
+      "updatedAt": "2026-10-23T20:37:03.000Z",
+      "rawHeader": "Route 46 trip departing 46th St Station & Gate G at 3:43 PM and four other trips canceled today due to medical emergency",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Eden-Vernon Busway & Sherwood/Vernon Ave at 4:26 PM\r\ndeparting Eden-Vernon Busway & Sherwood/Vernon Ave at 5:56 PM\r\n\nAffected westbound trips:\r\ndeparting 46th St Station & Gate G at 3:43 PM\r\ndeparting 46th St Station & Gate G at 5:12 PM\r\ndeparting 46th St Station & Gate G at 6:43 PM"
     },
     {
       "id": "54499",
@@ -264,6 +148,60 @@
       "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 1:38 PM\r\ndeparting Inver Hills College & Shelter at 4:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 3:10 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 6:15 PM"
     },
     {
+      "id": "54517",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 71: Southbound 4:10 PM Trip Canceled (Market Place Dr & The Marketplace Ctr)",
+      "summary": "Southbound Route 71 trip departing Market Place Dr & The Marketplace Ctr at 4:10 PM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 71"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-23T22:02:00.000Z",
+        "end": "2026-10-23T23:25:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/71",
+      "updatedAt": "2026-10-23T22:02:54.000Z",
+      "rawHeader": "Southbound Route 71 trip departing Market Place Dr & The Marketplace Ctr at 4:10 PM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "54512",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 72: Service Canceled",
+      "summary": "Route 72 trips departing Pascal St N & Central Ave W at 8:53 PM and departing Sun Ray Transit Center & Gate D at 9:51 PM canceled today",
+      "affectedRoutes": [
+        "Route 72"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 72 trips departing Pascal St N & Central Ave W"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-24T01:53:00.000Z",
+        "end": "2026-10-24T04:35:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/72",
+      "updatedAt": "2026-10-23T20:05:34.000Z",
+      "rawHeader": "Route 72 trips departing Pascal St N & Central Ave W at 8:53 PM and departing Sun Ray Transit Center & Gate D at 9:51 PM canceled today",
+      "rawDescription": ""
+    },
+    {
       "id": "54502",
       "agency": "Metro Transit",
       "severity": "Critical",
@@ -290,66 +228,41 @@
       "rawDescription": "Affected northbound trips:\r\ndeparting Montreal Cir & Summit Brewing at 1:01 PM\r\ndeparting Montreal Cir & Summit Brewing at 2:32 PM\r\ndeparting Montreal Cir & Summit Brewing at 4:30 PM\r\ndeparting Montreal Cir & Summit Brewing at 6:32 PM\r\n\nAffected southbound trips:\r\ndeparting Rosedale Transit Center Gate B at 1:45 PM\r\ndeparting Rosedale Transit Center Gate B at 3:43 PM\r\ndeparting Rosedale Transit Center Gate B at 5:46 PM"
     },
     {
-      "id": "54507",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 219: Service Canceled",
-      "summary": "Route 219 trips departing Sun Ray Transit Center & Gate B at 2:13 PM and departing Maplewood Mall Transit Center & Gate A at 3:12 PM canceled today",
-      "affectedRoutes": [
-        "Route 219"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-23T19:13:00.000Z",
-        "end": "2026-10-23T22:03:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/219",
-      "updatedAt": "2026-10-23T18:43:00.000Z",
-      "rawHeader": "Route 219 trips departing Sun Ray Transit Center & Gate B at 2:13 PM and departing Maplewood Mall Transit Center & Gate A at 3:12 PM canceled today",
-      "rawDescription": ""
-    },
-    {
       "id": "54504",
       "agency": "Metro Transit",
       "severity": "Critical",
       "title": "Route 540: Service Canceled",
-      "summary": "Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 11:02 AM and three other trips canceled today",
+      "summary": "Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 12:32 PM and five other trips canceled today",
       "affectedRoutes": [
         "Route 540"
       ],
       "direction": "Both Directions",
       "intersections": [
         "departing Normandale Lake Blvd & 83rd St",
-        "02 AM\ndeparting Normandale Lake Blvd & 83rd St"
+        "32 PM\ndeparting Normandale Lake Blvd & 83rd St",
+        "00 PM\ndeparting Normandale Lake Blvd & 83rd St"
       ],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-23T16:02:00.000Z",
-        "end": "2026-10-23T19:58:00.000Z"
+        "start": "2026-10-23T19:07:00.000Z",
+        "end": "2026-10-24T01:39:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/540",
-      "updatedAt": "2026-10-23T15:57:07.000Z",
-      "rawHeader": "Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 11:02 AM and three other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 11:02 AM\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 12:32 PM\r\n\nAffected westbound trips:\r\ndeparting MOA Transit Station Gate G at 11:55 AM\r\ndeparting MOA Transit Station Gate G at 1:25 PM"
+      "updatedAt": "2026-10-23T19:08:06.000Z",
+      "rawHeader": "Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 12:32 PM and five other trips canceled today",
+      "rawDescription": "Updated at 2:07 PM to cancel additional trips.\r\n\nAffected eastbound trips:\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 12:32 PM\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 2:32 PM\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 4:00 PM\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 5:32 PM\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 7:02 PM\r\n\nAffected westbound trips:\r\ndeparting MOA Transit Station Gate G at 1:25 PM"
     },
     {
       "id": "54503",
       "agency": "Metro Transit",
       "severity": "Critical",
       "title": "Route 542: Service Canceled",
-      "summary": "Route 542 trip departing American Blvd & Social Security Admin at 9:58 AM and five other trips canceled today",
+      "summary": "Route 542 trip departing American Blvd & Social Security Admin at 1:59 PM and four other trips canceled today",
       "affectedRoutes": [
         "Route 542"
       ],
@@ -360,15 +273,15 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-23T15:55:00.000Z",
-        "end": "2026-10-23T20:27:00.000Z"
+        "start": "2026-10-23T19:06:00.000Z",
+        "end": "2026-10-24T01:01:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/542",
-      "updatedAt": "2026-10-23T15:55:52.000Z",
-      "rawHeader": "Route 542 trip departing American Blvd & Social Security Admin at 9:58 AM and five other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting American Blvd & Social Security Admin at 9:58 AM\r\ndeparting American Blvd & Social Security Admin at 11:29 AM\r\ndeparting American Blvd & Social Security Admin at 12:29 PM\r\ndeparting American Blvd & Social Security Admin at 1:59 PM\r\n\nAffected westbound trips:\r\ndeparting MOA Transit Station Gate G at 10:37 AM\r\ndeparting MOA Transit Station Gate G at 12:07 PM"
+      "updatedAt": "2026-10-23T19:07:14.000Z",
+      "rawHeader": "Route 542 trip departing American Blvd & Social Security Admin at 1:59 PM and four other trips canceled today",
+      "rawDescription": "Updated at 2:06 PM to cancel additional trips.\r\n\nAffected eastbound trips:\r\ndeparting American Blvd & Social Security Admin at 1:59 PM\r\n\nAffected westbound trips:\r\ndeparting MOA Transit Station Gate G at 2:07 PM\r\ndeparting MOA Transit Station Gate G at 3:34 PM\r\ndeparting MOA Transit Station Gate G at 5:05 PM\r\ndeparting MOA Transit Station Gate G at 6:37 PM"
     },
     {
       "id": "54509",
@@ -395,7 +308,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/760",
-      "updatedAt": "2026-10-23T18:29:28.000Z",
+      "updatedAt": "2026-10-23T20:06:01.000Z",
       "rawHeader": "Route 760 trips departing 12th St S & Hennepin Ave S at 3:36 PM and departing 12th St S & Hennepin Ave S at 4:36 PM canceled today",
       "rawDescription": ""
     },
@@ -740,7 +653,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-10-23T05:00:01.000Z",
+      "updatedAt": "2026-10-23T22:30:01.000Z",
       "rawHeader": "METRO E Line detoured off University Ave from 10th Ave SE to Oak St from 6:00 PM to 8:00 PM on Fri Oct 23 due to U of M Homecoming Parade",
       "rawDescription": "Get on/off buses at:\r\nUniversity & 6th Ave Station - Stop #16130 (eastbound)\r\nTemporary stop on University Ave & 8th Ave SE (eastbound)\r\nUniversity & Huron Station - Stop #16143 (eastbound)\r\n\nNorthbound buses will travel regular route on University Ave to 10th Ave SE, left on 10th Ave, right on 5th St SE, right on Oak St, left on 4th St SE which becomes Oak St, left on University Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected direction: Northbound\r\n\nAffected stops:\r\nUniversity & 11th Ave Station - Stop #16136 (eastbound)\r\nUniversity & 15th Ave Station - Stop #16137 (eastbound)\r\nUniversity & U of M Rec Center Station - Stop #16142 (eastbound)"
     },
@@ -1030,7 +943,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-10-23T05:00:01.000Z",
+      "updatedAt": "2026-10-23T22:30:00.000Z",
       "rawHeader": "Route 2 detoured off University Ave from 10th Ave SE to Oak St from 6:00 PM to 8:00 PM on Fri Oct 23 due to U of M Homecoming Parade",
       "rawDescription": "Get on/off buses at:\r\n10th Ave SE & 5th St SE - Stop #56699 (southbound)\r\nOak St SE & Washington Ave SE - Stop #41248 (southbound)\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on 10th Ave SE to 5th St SE, left on 5th St, right on Oak St, left on 4th St SE which becomes Oak St to University Ave, and resume regular route.\r\n\nAffected direction: Westbound\r\n\nAffected stops:\r\nUniversity & 11th Ave Station - Stop #16136 (eastbound)\r\nUniversity & 15th Ave Station - Stop #16137 (eastbound)\r\nUniversity & U of M Rec Center Station - Stop #16142 (eastbound)"
     },
@@ -1319,7 +1232,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-10-23T05:00:01.000Z",
+      "updatedAt": "2026-10-23T22:30:01.000Z",
       "rawHeader": "Route 3 detoured off Pleasant St/15th Ave SE from 5th St SE to Washington Ave from 6:00 PM to 8:00 PM on Fri Oct 23 due to U of M Homecoming Parade",
       "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nWashington Ave & Anderson Hall - Stop #13223 (eastbound)\r\nWashington Ave & Coffman Union - Stop #13209 (eastbound)\r\n15th Ave SE & 4th St SE - Stop #16111 (northbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\n15th Ave SE & 7th St SE - Stop #57015 (southbound)\r\nWashington Ave & Coffman Union - Stop #13207 (westbound)\r\nWashington Ave & Willey Hall - Stop #13211 (westbound)\r\n\nEastbound buses will travel regular route on Washington Ave to Pleasant St, continue on Washington to Oak St, left on Oak, veer left onto 4th St SE, right on 15th Ave SE, and resume reuglar route.\r\n\nWestbound buses will travel regular route on 15th Ave SE to 5th St SE, left on 5th St, right on Oak St, left on 4th St SE which becomes Oak St, right on Washington Ave to Pleasant St, and resume regular route.\r\n\nAffected stops:\r\nE River Pkwy & Appleby Hall - Stop #57013 (northbound)\r\nPleasant St & Jones Hall - Stop #49881 (northbound)\r\n15th Ave SE & 4th St SE - Stop #49242 (southbound)\r\nPleasant St & Eddy Hall - Stop #49237 (southbound)\r\nPleasant St SE & Scholars Walk - Stop #54046 (southbound)"
     },
@@ -3461,8 +3374,8 @@
       "riderAlternative": "Board at: Ford & Woodlawn Station - Stop #56111 (eastbound); Ford & Finn Station - Stop #56112 (eastbound)",
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-23T12:00:00.000Z",
-        "end": "2026-10-23T23:00:00.000Z",
+        "start": "2026-10-24T12:00:00.000Z",
+        "end": "2026-10-24T23:00:00.000Z",
         "textDescription": "Beginning Thu Oct 22 until further notice from 7:00 AM to 6:00 PM each day"
       },
       "cause": "UNKNOWN_CAUSE",
@@ -7056,170 +6969,6 @@
       "rawDescription": "Get on/off buses at:\r\n3rd St S & Marquette Ave S - Stop #52832 (westbound)\r\n\nNorthbound buses will travel regular route on 3rd St to Marquette Ave, right on Marquette, left on Washington Ave, left on 10th Ave N, right on 5th St, left on 11th Ave N, right on E Lyndale Ave N and continue onto I-94 ramp, and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected routes:\r\n781\r\n784\r\n785\r\n850\r\n882\r\n888\r\n\nAffected stops:\r\n3rd St S & Hennepin Ave - Stop #17959 (westbound)"
     },
     {
-      "id": "54151",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 802: Detour via East River Rd & 7th Ave",
-      "summary": "Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 12:30 PM to 3:00 PM on Fri Oct 23 due to Anoka Big Parade of Little People. Board at: East River Rd & 7th Ave - Stop #12066 (northbound); Green Haven Pkwy & Fairoak Ave - Stop #57211 (northbound).",
-      "affectedRoutes": [
-        "Route 802"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "East River Rd & 7th Ave",
-        "Green Haven Pkwy & Fairoak Ave",
-        "East River Rd & Kings Lane - St",
-        "East River Rd & South St",
-        "5th Ave & Washington St"
-      ],
-      "closedStopIds": [
-        "12065",
-        "12063",
-        "12058",
-        "12054",
-        "12051",
-        "12049",
-        "12046",
-        "12027",
-        "12026",
-        "12025",
-        "12028",
-        "12029",
-        "12047",
-        "12050",
-        "12055",
-        "12059",
-        "12062",
-        "12064",
-        "12067",
-        "12066",
-        "57211",
-        "57212",
-        "12068"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "12065",
-          "name": "East River Rd & South St",
-          "direction": "northbound"
-        },
-        {
-          "id": "12063",
-          "name": "5th Ave & Washington St",
-          "direction": "northbound"
-        },
-        {
-          "id": "12058",
-          "name": "5th Ave & Jefferson St",
-          "direction": "northbound"
-        },
-        {
-          "id": "12054",
-          "name": "5th Ave & Monroe St",
-          "direction": "northbound"
-        },
-        {
-          "id": "12051",
-          "name": "Main St & 3rd Ave",
-          "direction": "westbound"
-        },
-        {
-          "id": "12049",
-          "name": "Main St & 2nd Ave",
-          "direction": "westbound"
-        },
-        {
-          "id": "12046",
-          "name": "Main St & Ferry St",
-          "direction": "westbound"
-        },
-        {
-          "id": "12027",
-          "name": "Main St & State Ave",
-          "direction": "westbound"
-        },
-        {
-          "id": "12026",
-          "name": "Main St & Cutter St",
-          "direction": "westbound"
-        },
-        {
-          "id": "12025",
-          "name": "Main St & Cutter St",
-          "direction": "eastbound"
-        },
-        {
-          "id": "12028",
-          "name": "Main St & State Ave",
-          "direction": "eastbound"
-        },
-        {
-          "id": "12029",
-          "name": "Main St & Branch Ave",
-          "direction": "eastbound"
-        },
-        {
-          "id": "12047",
-          "name": "Main St & 2nd Ave",
-          "direction": "eastbound"
-        },
-        {
-          "id": "12050",
-          "name": "Main St & 3rd Ave",
-          "direction": "eastbound"
-        },
-        {
-          "id": "12055",
-          "name": "5th Ave & Monroe St",
-          "direction": "southbound"
-        },
-        {
-          "id": "12059",
-          "name": "5th Ave & Jefferson St",
-          "direction": "southbound"
-        },
-        {
-          "id": "12062",
-          "name": "5th Ave & Washington St",
-          "direction": "southbound"
-        },
-        {
-          "id": "12064",
-          "name": "5th Ave & Military Rd",
-          "direction": "southbound"
-        },
-        {
-          "id": "12067",
-          "name": "East River Rd & 7th Ave",
-          "direction": "southbound"
-        },
-        {
-          "id": "12066"
-        },
-        {
-          "id": "57211"
-        },
-        {
-          "id": "57212"
-        },
-        {
-          "id": "12068"
-        }
-      ],
-      "riderAlternative": "Board at: East River Rd & 7th Ave - Stop #12066 (northbound); Green Haven Pkwy & Fairoak Ave - Stop #57211 (northbound)",
-      "detourDetails": "Northbound buses will travel regular route on East River Rd to 7th Ave, right on 7th Ave, left on westbound Hwy 10, exit at Greenhaven Pkwy, continue on Green Haven Pkwy, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-10-23T17:30:00.000Z",
-        "end": "2026-10-23T20:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-10-23T17:00:01.000Z",
-      "rawHeader": "Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 12:30 PM to 3:00 PM on Fri Oct 23 due to Anoka Big Parade of Little People",
-      "rawDescription": "For northbound Route 802 get on/off buses at:\r\nEast River Rd & 7th Ave - Stop #12066 (northbound)\r\nGreen Haven Pkwy & Fairoak Ave - Stop #57211 (northbound)\r\n\nFor southbound Route 802 get on/off buses at:\r\nGreen Haven Pkwy & Fairoak Ave - Stop #57212 (southbound)\r\nEast River Rd & Kings Lane - Stop #12068 (southbound)\r\n\nNorthbound buses will travel regular route on East River Rd to 7th Ave, right on 7th Ave, left on westbound Hwy 10, exit at Greenhaven Pkwy, continue on Green Haven Pkwy, and resume regular route.\r\n\nSouthbound buses will travel regular route on Green Haven Pkwy to Hwy 10, left onto eastbound Hwy 10, exit at 7th Ave, right on 7th Ave, left on East River Rd, and resume regular route.\r\n\nAffected stops:\r\nEast River Rd & South St - Stop #12065 (northbound)\r\n5th Ave & Washington St - Stop #12063 (northbound)\r\n5th Ave & Jefferson St - Stop #12058 (northbound)\r\n5th Ave & Monroe St - Stop #12054 (northbound)\r\nMain St & 3rd Ave - Stop #12051 (westbound)\r\nMain St & 2nd Ave - Stop #12049 (westbound)\r\nMain St & Ferry St - Stop #12046 (westbound)\r\nMain St & State Ave - Stop #12027 (westbound)\r\nMain St & Cutter St - Stop #12026 (westbound)\r\nMain St & Cutter St - Stop #12025 (eastbound)\r\nMain St & State Ave - Stop #12028 (eastbound)\r\nMain St & Branch Ave - Stop #12029 (eastbound)\r\nMain St & 2nd Ave - Stop #12047 (eastbound)\r\nMain St & 3rd Ave - Stop #12050 (eastbound)\r\n5th Ave & Monroe St - Stop #12055 (southbound)\r\n5th Ave & Jefferson St - Stop #12059 (southbound)\r\n5th Ave & Washington St - Stop #12062 (southbound)\r\n5th Ave & Military Rd - Stop #12064 (southbound)\r\nEast River Rd & 7th Ave - Stop #12067 (southbound)"
-    },
-    {
       "id": "54153",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -7426,84 +7175,6 @@
       "updatedAt": "2026-10-22T17:58:52.000Z",
       "rawHeader": "Coon Rapids Blvd & Dakotah St - Stop #11059 (westbound) is closed for Route 802 beginning Mon Oct 26 at 9:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off buses at:\r\nCoon Rapids Blvd & Blackfoot St - Stop #11055 (westbound)\r\nEast River Rd & Queens Lane - Stop #12070 (northbound)"
-    },
-    {
-      "id": "54152",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 805: Detour via Harrison St & 3rd Ave",
-      "summary": "Route 805 detoured off 3rd Ave from Van Buren Ave to Madison St from 12:30 PM to 3:00 PM on Fri Oct 23 due to Anoka Big Parade of Little People. Board at: Harrison St & 3rd Ave - Stop #51301 (westbound); 3rd Ave & Van Buren Ave / Harrison St - Stop #50711 (northbound).",
-      "affectedRoutes": [
-        "Route 805"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Harrison St & 3rd Ave",
-        "3rd Ave & Van Buren Ave",
-        "left on 3rd Ave & northbound 3rd Ave",
-        "between Van Buren Ave & Harrison St",
-        "3rd Ave & Golf St"
-      ],
-      "closedStopIds": [
-        "51302",
-        "57200",
-        "50716",
-        "57209",
-        "48739",
-        "43897",
-        "51301",
-        "50711"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "51302",
-          "name": "3rd Ave & Golf St",
-          "direction": "southbound"
-        },
-        {
-          "id": "57200",
-          "name": "3rd Ave & Jackson St",
-          "direction": "southbound"
-        },
-        {
-          "id": "50716",
-          "name": "1st Ave S & Monroe St",
-          "direction": "southbound"
-        },
-        {
-          "id": "57209",
-          "name": "Madison St & 3rd Ave",
-          "direction": "eastbound"
-        },
-        {
-          "id": "48739",
-          "name": "3rd Ave & Jackson St",
-          "direction": "northbound"
-        },
-        {
-          "id": "43897",
-          "name": "3rd Ave & Van Buren St",
-          "direction": "northbound"
-        },
-        {
-          "id": "51301"
-        },
-        {
-          "id": "50711"
-        }
-      ],
-      "riderAlternative": "Board at: Harrison St & 3rd Ave - Stop #51301 (westbound); 3rd Ave & Van Buren Ave / Harrison St - Stop #50711 (northbound)",
-      "detourDetails": "Northbound buses will travel regular route on Harrison St to 3rd Ave, continue on Harrison to 2nd Ave, left on 2nd Ave, left on Van Buren St, left on 3rd Ave and layover on northbound 3rd Ave between Van Buren Ave and Harrison St.",
-      "activePeriod": {
-        "start": "2026-10-23T17:30:00.000Z",
-        "end": "2026-10-23T20:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-10-23T17:00:01.000Z",
-      "rawHeader": "Route 805 detoured off 3rd Ave from Van Buren Ave to Madison St from 12:30 PM to 3:00 PM on Fri Oct 23 due to Anoka Big Parade of Little People",
-      "rawDescription": "For northbound Route 805 get on/off buses at:\r\nHarrison St & 3rd Ave - Stop #51301 (westbound)\r\n3rd Ave & Van Buren Ave / Harrison St - Stop #50711 (northbound)\r\n\nFor southbound Route 805 get on/off buses at:\r\n3rd Ave & Van Buren Ave / Harrison St - Stop #50711 (northbound)\r\n\nNorthbound buses will travel regular route on Harrison St to 3rd Ave, continue on Harrison to 2nd Ave, left on 2nd Ave, left on Van Buren St, left on 3rd Ave and layover on northbound 3rd Ave between Van Buren Ave and Harrison St.\r\n\nSouthbound buses will depart temporary layover on northbound 3rd Ave between Van Buren Ave and Harrison St, continue on 3rd Ave, and resume regular route.\r\n\nAffected stops:\r\n3rd Ave & Golf St - Stop #51302 (southbound)\r\n3rd Ave & Jackson St - Stop #57200 (southbound)\r\n1st Ave S & Monroe St - Stop #50716 (southbound)\r\nMadison St & 3rd Ave - Stop #57209 (eastbound)\r\n3rd Ave & Jackson St - Stop #48739 (northbound)\r\n3rd Ave & Van Buren St - Stop #43897 (northbound)"
     },
     {
       "id": "54154",
