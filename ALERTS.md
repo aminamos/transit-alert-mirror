@@ -2,51 +2,185 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-110-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-118-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-11-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-104-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-80-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-82-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-23T14:53:03.439Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-23T19:03:21.505Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (4) • **Route 14** (3) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (5) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (3) • **Route 805** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO C Line** (1) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (3) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (4) • **Route 14** (3) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (5) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (3) • **Route 64** (6) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 83** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (2) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (3) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (4) • **Route 805** (3) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
+
+### 🚨 METRO C Line: Service Canceled
+
+- **Affected Routes**: `METRO C Line`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing 7th St & Park St
+
+**Summary**: C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 1:08 PM and two other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/cline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 1:08 PM and two other trips canceled today
+
+```text
+Affected northbound trips:
+departing 7th St & Park Station at 1:58 PM
+
+Affected southbound trips:
+departing Brooklyn Ctr Transit Ctr Gate I at 1:08 PM
+departing Brooklyn Ctr Transit Ctr Gate I at 2:55 PM
+```
+
+</details>
+
+---
 
 ### 🚨 Route 30: Service Canceled
 
 - **Affected Routes**: `Route 30`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: 23 AM
-departing Knox Ave N & Golden Valley Rd; 26 AM
+- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 26 PM
+departing Knox Ave N & Golden Valley Rd; 24 PM
 departing Knox Ave N & Golden Valley Rd
 
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 5:37 AM and seven other trips canceled today
+**Summary**: Route 30 trip departing Westgate Station - Gate B at 11:34 AM and ten other trips canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/30)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 30 trip departing Westgate Station - Gate B at 5:37 AM and seven other trips canceled today
+**Header**: Route 30 trip departing Westgate Station - Gate B at 11:34 AM and ten other trips canceled today
 
 ```text
+Updated at 1:14 PM to cancel additional trips.
+
 Affected eastbound trips:
-departing Golden Valley Rd Turn & Xerxes Ave N at 6:23 AM
-departing Golden Valley Rd Turn & Xerxes Ave N at 8:23 AM
-departing Knox Ave N & Golden Valley Rd at 10:26 AM
 departing Knox Ave N & Golden Valley Rd at 12:26 PM
+departing Knox Ave N & Golden Valley Rd at 2:26 PM
+departing Knox Ave N & Golden Valley Rd at 4:24 PM
+departing Knox Ave N & Golden Valley Rd at 6:26 PM
+departing Golden Valley Rd Turn & Xerxes Ave N at 8:25 PM
 
 Affected westbound trips:
-departing Westgate Station - Gate B at 5:37 AM
-departing Westgate Station - Gate B at 7:37 AM
-departing Westgate Station - Gate B at 9:36 AM
 departing Westgate Station - Gate B at 11:34 AM
+departing Westgate Station - Gate B at 1:34 PM
+departing Westgate Station - Gate B at 3:34 PM
+departing Westgate Station - Gate B at 5:34 PM
+departing Westgate Station - Gate B at 7:36 PM
+departing Westgate Station - Gate B at 9:36 PM
 ```
+
+</details>
+
+---
+
+### 🚨 Route 63: Service Advisory
+
+- **Affected Routes**: `Route 63`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #15795, Stop #15796, Stop #15798, Stop #15799, Stop #15801, Stop #15803, Stop #42114, Stop #16955 *(+27 more)*
+
+**Summary**: Eastbound Route 63 trip departing Westgate Station - Gate C at 1:13 PM will start from Smith & 5th. Previous stops missed due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/63)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 63 trip departing Westgate Station - Gate C at 1:13 PM will start from Smith & 5th. Previous stops missed due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 71: Service Canceled
+
+- **Affected Routes**: `Route 71`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/71)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today
+
+```text
+Affected northbound trips:
+departing Inver Hills College & Shelter at 1:38 PM
+departing Inver Hills College & Shelter at 4:38 PM
+
+Affected southbound trips:
+departing Market Place Dr & The Marketplace Ctr at 3:10 PM
+departing Market Place Dr & The Marketplace Ctr at 6:15 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 83: Service Canceled
+
+- **Affected Routes**: `Route 83`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 83 trip departing Montreal Cir & Summit Brewing at 1:01 PM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/83)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 83 trip departing Montreal Cir & Summit Brewing at 1:01 PM and six other trips canceled today
+
+```text
+Affected northbound trips:
+departing Montreal Cir & Summit Brewing at 1:01 PM
+departing Montreal Cir & Summit Brewing at 2:32 PM
+departing Montreal Cir & Summit Brewing at 4:30 PM
+departing Montreal Cir & Summit Brewing at 6:32 PM
+
+Affected southbound trips:
+departing Rosedale Transit Center Gate B at 1:45 PM
+departing Rosedale Transit Center Gate B at 3:43 PM
+departing Rosedale Transit Center Gate B at 5:46 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 219: Service Canceled
+
+- **Affected Routes**: `Route 219`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 219 trips departing Sun Ray Transit Center & Gate B at 2:13 PM and departing Maplewood Mall Transit Center & Gate A at 3:12 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/219)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 219 trips departing Sun Ray Transit Center & Gate B at 2:13 PM and departing Maplewood Mall Transit Center & Gate A at 3:12 PM canceled today
 
 </details>
 
@@ -57,15 +191,27 @@ departing Westgate Station - Gate B at 11:34 AM
 - **Affected Routes**: `Route 540`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
+- **Corridors & Intersections**: departing Normandale Lake Blvd & 83rd St; 02 AM
+departing Normandale Lake Blvd & 83rd St
 
-**Summary**: Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 8:32 AM and departing MOA Transit Station Gate G at 9:26 AM canceled today
+**Summary**: Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 11:02 AM and three other trips canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/540)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 8:32 AM and departing MOA Transit Station Gate G at 9:26 AM canceled today
+**Header**: Route 540 trip departing Normandale Lake Blvd & 83rd St / 84th St at 11:02 AM and three other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Normandale Lake Blvd & 83rd St / 84th St at 11:02 AM
+departing Normandale Lake Blvd & 83rd St / 84th St at 12:32 PM
+
+Affected westbound trips:
+departing MOA Transit Station Gate G at 11:55 AM
+departing MOA Transit Station Gate G at 1:25 PM
+```
 
 </details>
 
@@ -77,14 +223,113 @@ departing Westgate Station - Gate B at 11:34 AM
 - **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: Route 542 trips departing American Blvd & Social Security Admin at 8:59 AM and departing MOA Transit Station Gate G at 9:37 AM canceled today
+**Summary**: Route 542 trip departing American Blvd & Social Security Admin at 9:58 AM and five other trips canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/542)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 542 trips departing American Blvd & Social Security Admin at 8:59 AM and departing MOA Transit Station Gate G at 9:37 AM canceled today
+**Header**: Route 542 trip departing American Blvd & Social Security Admin at 9:58 AM and five other trips canceled today
+
+```text
+Affected eastbound trips:
+departing American Blvd & Social Security Admin at 9:58 AM
+departing American Blvd & Social Security Admin at 11:29 AM
+departing American Blvd & Social Security Admin at 12:29 PM
+departing American Blvd & Social Security Admin at 1:59 PM
+
+Affected westbound trips:
+departing MOA Transit Station Gate G at 10:37 AM
+departing MOA Transit Station Gate G at 12:07 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 760: Service Canceled
+
+- **Affected Routes**: `Route 760`
+- **Direction**: All
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 760 trips departing 12th St S & Hennepin Ave S; 36 PM and departing 12th St S & Hennepin Ave S
+
+**Summary**: Route 760 trips departing 12th St S & Hennepin Ave S at 3:36 PM and departing 12th St S & Hennepin Ave S at 4:36 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/760)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 760 trips departing 12th St S & Hennepin Ave S at 3:36 PM and departing 12th St S & Hennepin Ave S at 4:36 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 802: Service Canceled
+
+- **Affected Routes**: `Route 802`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/802)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate E at 11:34 AM
+departing Northtown Transit Ctr Gate E at 1:34 PM
+departing Northtown Transit Ctr Gate E at 3:34 PM
+departing Northtown Transit Ctr Gate E at 5:34 PM
+
+Affected southbound trips:
+departing Anoka Tech College & Main Entrance at 12:42 PM
+departing Anoka Tech College & Main Entrance at 2:42 PM
+departing Anoka Tech College & Main Entrance at 4:42 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 805: Service Canceled
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing 1st Ave S & Monroe St; 38 PM
+departing 1st Ave S & Monroe St; 36 PM
+departing 1st Ave S & Monroe St
+
+**Summary**: Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate D at 11:34 AM
+departing Northtown Transit Ctr Gate D at 1:34 PM
+departing Northtown Transit Ctr Gate D at 3:34 PM
+departing Northtown Transit Ctr Gate D at 5:34 PM
+
+Affected southbound trips:
+departing 1st Ave S & Monroe St at 12:38 PM
+departing 1st Ave S & Monroe St at 2:36 PM
+departing 1st Ave S & Monroe St at 4:36 PM
+```
 
 </details>
 

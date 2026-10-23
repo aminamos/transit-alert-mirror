@@ -4,35 +4,107 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Fri, 23 Oct 2026 14:53:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 19:03:21 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
+      <title>[Critical] METRO C Line: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/cline</link>
+      <guid isPermaLink="false">Metro Transit-54508-2026-10-23T18:27:37.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 18:27:37 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO C Line</category>
+      <description>C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 1:08 PM and two other trips canceled today</description>
+    </item>
+    <item>
       <title>[Critical] Route 30: Service Canceled</title>
       <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-54478-2026-10-23T10:18:41.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 10:18:41 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54478-2026-10-23T18:14:52.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 18:14:52 GMT</pubDate>
       <category>Critical</category>
       <category>Route 30</category>
-      <description>Route 30 trip departing Westgate Station - Gate B at 5:37 AM and seven other trips canceled today</description>
+      <description>Route 30 trip departing Westgate Station - Gate B at 11:34 AM and ten other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 63: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/63</link>
+      <guid isPermaLink="false">Metro Transit-54510-2026-10-23T18:33:59.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 18:33:59 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 63</category>
+      <description>Eastbound Route 63 trip departing Westgate Station - Gate C at 1:13 PM will start from Smith &amp; 5th. Previous stops missed due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 71: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/71</link>
+      <guid isPermaLink="false">Metro Transit-54499-2026-10-23T18:08:00.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 18:08:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 71</category>
+      <description>Route 71 trip departing Inver Hills College &amp; Shelter at 1:38 PM and three other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 83: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/83</link>
+      <guid isPermaLink="false">Metro Transit-54502-2026-10-23T17:31:01.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 17:31:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 83</category>
+      <description>Route 83 trip departing Montreal Cir &amp; Summit Brewing at 1:01 PM and six other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 219: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/219</link>
+      <guid isPermaLink="false">Metro Transit-54507-2026-10-23T18:43:00.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 18:43:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 219</category>
+      <description>Route 219 trips departing Sun Ray Transit Center &amp; Gate B at 2:13 PM and departing Maplewood Mall Transit Center &amp; Gate A at 3:12 PM canceled today</description>
     </item>
     <item>
       <title>[Critical] Route 540: Service Canceled</title>
       <link>https://www.metrotransit.org/route/540</link>
-      <guid isPermaLink="false">Metro Transit-54494-2026-10-23T13:47:25.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 13:47:25 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54504-2026-10-23T15:57:07.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 15:57:07 GMT</pubDate>
       <category>Critical</category>
       <category>Route 540</category>
-      <description>Route 540 trips departing Normandale Lake Blvd &amp; 83rd St / 84th St at 8:32 AM and departing MOA Transit Station Gate G at 9:26 AM canceled today</description>
+      <description>Route 540 trip departing Normandale Lake Blvd &amp; 83rd St / 84th St at 11:02 AM and three other trips canceled today</description>
     </item>
     <item>
       <title>[Critical] Route 542: Service Canceled</title>
       <link>https://www.metrotransit.org/route/542</link>
-      <guid isPermaLink="false">Metro Transit-54495-2026-10-23T14:52:14.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 14:52:14 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54503-2026-10-23T15:55:52.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 15:55:52 GMT</pubDate>
       <category>Critical</category>
       <category>Route 542</category>
-      <description>Route 542 trips departing American Blvd &amp; Social Security Admin at 8:59 AM and departing MOA Transit Station Gate G at 9:37 AM canceled today</description>
+      <description>Route 542 trip departing American Blvd &amp; Social Security Admin at 9:58 AM and five other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 760: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/760</link>
+      <guid isPermaLink="false">Metro Transit-54509-2026-10-23T18:29:28.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 18:29:28 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 760</category>
+      <description>Route 760 trips departing 12th St S &amp; Hennepin Ave S at 3:36 PM and departing 12th St S &amp; Hennepin Ave S at 4:36 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 802: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/802</link>
+      <guid isPermaLink="false">Metro Transit-54500-2026-10-23T16:04:00.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 16:04:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 802</category>
+      <description>Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 805: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/805</link>
+      <guid isPermaLink="false">Metro Transit-54501-2026-10-23T16:04:00.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 16:04:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 805</category>
+      <description>Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -901,8 +973,8 @@
     <item>
       <title>[Moderate] Route 802: Detour via East River Rd &amp; 7th Ave</title>
       <link>https://www.metrotransit.org/route/802</link>
-      <guid isPermaLink="false">Metro Transit-54151-2026-10-23T05:00:00.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54151-2026-10-23T17:00:01.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 17:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 802</category>
       <description>Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 12:30 PM to 3:00 PM on Fri Oct 23 due to Anoka Big Parade of Little People. Board at: East River Rd &amp; 7th Ave - Stop #12066 (northbound); Green Haven Pkwy &amp; Fairoak Ave - Stop #57211 (northbound). | Action: Board at: East River Rd &amp; 7th Ave - Stop #12066 (northbound); Green Haven Pkwy &amp; Fairoak Ave - Stop #57211 (northbound)</description>
@@ -928,8 +1000,8 @@
     <item>
       <title>[Moderate] Route 805: Detour via Harrison St &amp; 3rd Ave</title>
       <link>https://www.metrotransit.org/route/805</link>
-      <guid isPermaLink="false">Metro Transit-54152-2026-10-23T05:00:01.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54152-2026-10-23T17:00:01.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 17:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 805</category>
       <description>Route 805 detoured off 3rd Ave from Van Buren Ave to Madison St from 12:30 PM to 3:00 PM on Fri Oct 23 due to Anoka Big Parade of Little People. Board at: Harrison St &amp; 3rd Ave - Stop #51301 (westbound); 3rd Ave &amp; Van Buren Ave / Harrison St - Stop #50711 (northbound). | Action: Board at: Harrison St &amp; 3rd Ave - Stop #51301 (westbound); 3rd Ave &amp; Van Buren Ave / Harrison St - Stop #50711 (northbound)</description>
