@@ -4,26 +4,44 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 24 Oct 2026 13:56:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 17:21:15 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO A Line: Southbound 8:40 AM Trip Canceled (Rosedale Transit Center Gate A)</title>
+      <title>[Critical] METRO A Line: Northbound 11:43 AM Trip Canceled (46th St Station Gate A)</title>
       <link>https://www.metrotransit.org/route/aline</link>
-      <guid isPermaLink="false">Metro Transit-54535-2026-10-24T13:47:10.000Z</guid>
-      <pubDate>Sat, 24 Oct 2026 13:47:10 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54539-2026-10-24T16:26:40.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 16:26:40 GMT</pubDate>
       <category>Critical</category>
       <category>METRO A Line</category>
-      <description>Southbound A Line trip departing Rosedale Transit Center Gate A at 8:40 AM canceled today due to maintenance work</description>
+      <description>Northbound A Line trip departing 46th St Station Gate A at 11:43 AM canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 64, Route 64N: Eastbound 7:16 AM Trip Canceled (Smith &amp; 5th St Station)</title>
-      <link>https://www.metrotransit.org/route/64</link>
-      <guid isPermaLink="false">Metro Transit-54534-2026-10-24T12:44:27.000Z</guid>
-      <pubDate>Sat, 24 Oct 2026 12:44:27 GMT</pubDate>
+      <title>[Critical] Route 11, Route 11A: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/11</link>
+      <guid isPermaLink="false">Metro Transit-54538-2026-10-24T16:03:59.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 16:03:59 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 64, Route 64N</category>
-      <description>Eastbound Route 64N trip departing Smith &amp; 5th St Station at 7:16 AM canceled today due to mechanical issue</description>
+      <category>Route 11, Route 11A</category>
+      <description>Southbound Route 11A trip departing Columbia Heights Transit Center C at 10:43 AM will start from Nicollet Ave S &amp; Grant St E at 11:20 AM today. Previous stops will be missed</description>
+    </item>
+    <item>
+      <title>[Critical] Route 14: Northbound 11:05 AM Trip Canceled (66th St E &amp; Richfield Pkwy / 16th Ave)</title>
+      <link>https://www.metrotransit.org/route/14</link>
+      <guid isPermaLink="false">Metro Transit-54540-2026-10-24T16:45:40.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 16:45:40 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 14</category>
+      <description>Northbound Route 14 trip departing 66th St E &amp; Richfield Pkwy / 16th Ave at 11:05 AM canceled</description>
+    </item>
+    <item>
+      <title>[Critical] Route 515: Eastbound 12:25 PM Trip Canceled (Southdale Transit Center &amp; Gate B)</title>
+      <link>https://www.metrotransit.org/route/515</link>
+      <guid isPermaLink="false">Metro Transit-54541-2026-10-24T17:18:59.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 17:18:59 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 515</category>
+      <description>Eastbound Route 515 trip departing Southdale Transit Center &amp; Gate B at 12:25 PM canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -521,6 +539,15 @@
       <description>Route 64 detoured off Payne Ave from Case Ave to Maryland Ave and off Maryland Ave from Payne Ave to Walsh St beginning Mon Aug 24 at 4:00 AM until further notice due to construction. Board at: Payne Ave &amp; Case Ave - Stop #11788 (northbound); Temporary stop on Greenbrier St &amp; Lawson Ave (northbound); Temporary stop on Greenbrier St &amp; Geranium Ave (northbound). | Action: Board at: Payne Ave &amp; Case Ave - Stop #11788 (northbound); Temporary stop on Greenbrier St &amp; Lawson Ave (northbound); Temporary stop on Greenbrier St &amp; Geranium Ave (northbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 64, Route 64D: Detour via Larpenteur Ave &amp; Prosperity Ave</title>
+      <link>https://www.metrotransit.org/route/64</link>
+      <guid isPermaLink="false">Metro Transit-54537-2026-10-24T15:39:25.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 15:39:25 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 64, Route 64D</category>
+      <description>Route 64D detoured off Larpenteur Ave from Dieter St to Barclay St beginning Mon Oct 26 at 6:00 AM until further notice due to utility work. Board at: Larpenteur Ave &amp; Prosperity Ave - Stop #42156 (westbound); Larpenteur Ave &amp; Birmingham St - Stop #5376 (westbound). | Action: Board at: Larpenteur Ave &amp; Prosperity Ave - Stop #42156 (westbound); Larpenteur Ave &amp; Birmingham St - Stop #5376 (westbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 67: Stop Closed at Minnehaha Ave &amp; Dale St</title>
       <link>https://www.metrotransit.org/route/67</link>
       <guid isPermaLink="false">Metro Transit-51838-2026-08-26T18:48:01.000Z</guid>
@@ -865,8 +892,8 @@
     <item>
       <title>[Moderate] Route 802: Detour via East River Rd &amp; 7th Ave</title>
       <link>https://www.metrotransit.org/route/802</link>
-      <guid isPermaLink="false">Metro Transit-54153-2026-10-24T05:00:02.000Z</guid>
-      <pubDate>Sat, 24 Oct 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54153-2026-10-24T16:30:01.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 16:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 802</category>
       <description>Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 12:00 PM to 5:00 PM on Sat Oct 24 due to Anoka Grand Day Parade. Board at: East River Rd &amp; 7th Ave - Stop #12066 (northbound); Green Haven Pkwy &amp; Fairoak Ave - Stop #57211 (northbound). | Action: Board at: East River Rd &amp; 7th Ave - Stop #12066 (northbound); Green Haven Pkwy &amp; Fairoak Ave - Stop #57211 (northbound)</description>
@@ -883,8 +910,8 @@
     <item>
       <title>[Moderate] Route 805: Detour via Harrison St &amp; 3rd Ave</title>
       <link>https://www.metrotransit.org/route/805</link>
-      <guid isPermaLink="false">Metro Transit-54154-2026-10-24T05:00:02.000Z</guid>
-      <pubDate>Sat, 24 Oct 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54154-2026-10-24T16:30:01.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 16:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 805</category>
       <description>Route 805 detoured off 3rd Ave from Van Buren Ave to Madison St from 12:00 PM to 5:00 PM on Sat Oct 24 due to Anoka Grand Day Parade. Board at: Harrison St &amp; 3rd Ave - Stop #51301 (westbound); 3rd Ave &amp; Van Buren Ave / Harrison St - Stop #50711 (northbound). | Action: Board at: Harrison St &amp; 3rd Ave - Stop #51301 (westbound); 3rd Ave &amp; Van Buren Ave / Harrison St - Stop #50711 (northbound)</description>

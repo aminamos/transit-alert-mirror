@@ -1,51 +1,295 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-24T13:56:28.196Z",
-    "totalAlerts": 104,
-    "criticalCount": 2,
-    "moderateCount": 99,
+    "generatedAt": "2026-10-24T17:21:15.079Z",
+    "totalAlerts": 107,
+    "criticalCount": 4,
+    "moderateCount": 100,
     "minorCount": 3,
-    "affectedRoutesCount": 79,
+    "affectedRoutesCount": 81,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "54535",
+      "id": "54539",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO A Line: Southbound 8:40 AM Trip Canceled (Rosedale Transit Center Gate A)",
-      "summary": "Southbound A Line trip departing Rosedale Transit Center Gate A at 8:40 AM canceled today due to maintenance work",
+      "title": "METRO A Line: Northbound 11:43 AM Trip Canceled (46th St Station Gate A)",
+      "summary": "Northbound A Line trip departing 46th St Station Gate A at 11:43 AM canceled today",
       "affectedRoutes": [
         "METRO A Line"
       ],
-      "direction": "Southbound",
+      "direction": "Northbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-24T13:46:00.000Z",
-        "end": "2026-10-24T15:11:00.000Z"
+        "start": "2026-10-24T16:43:00.000Z",
+        "end": "2026-10-24T18:22:00.000Z"
       },
-      "cause": "MAINTENANCE",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/aline",
-      "updatedAt": "2026-10-24T13:47:10.000Z",
-      "rawHeader": "Southbound A Line trip departing Rosedale Transit Center Gate A at 8:40 AM canceled today due to maintenance work",
+      "updatedAt": "2026-10-24T16:26:40.000Z",
+      "rawHeader": "Northbound A Line trip departing 46th St Station Gate A at 11:43 AM canceled today",
       "rawDescription": ""
     },
     {
-      "id": "54534",
+      "id": "54538",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 64, Route 64N: Eastbound 7:16 AM Trip Canceled (Smith & 5th St Station)",
-      "summary": "Eastbound Route 64N trip departing Smith & 5th St Station at 7:16 AM canceled today due to mechanical issue",
+      "title": "Route 11, Route 11A: Service Advisory",
+      "summary": "Southbound Route 11A trip departing Columbia Heights Transit Center C at 10:43 AM will start from Nicollet Ave S & Grant St E at 11:20 AM today. Previous stops will be missed",
       "affectedRoutes": [
-        "Route 64",
-        "Route 64N"
+        "Route 11",
+        "Route 11A"
+      ],
+      "direction": "Southbound",
+      "intersections": [
+        "43 AM will start from Nicollet Ave S & Grant St E"
+      ],
+      "closedStopIds": [
+        "19294",
+        "19301",
+        "57548",
+        "49304",
+        "17976",
+        "17978",
+        "17980",
+        "17982",
+        "17984",
+        "17986",
+        "40882",
+        "17916",
+        "17917",
+        "17165",
+        "15562",
+        "14594",
+        "14595",
+        "14596",
+        "14597",
+        "14598",
+        "14599",
+        "14600",
+        "14604",
+        "14607",
+        "14608",
+        "14611",
+        "14616",
+        "14619",
+        "14620",
+        "14623",
+        "14630",
+        "14633",
+        "14634",
+        "14637",
+        "14638",
+        "14641",
+        "14650",
+        "14661",
+        "14665",
+        "14669",
+        "14673",
+        "14678",
+        "14681",
+        "14685",
+        "14689",
+        "12798",
+        "12802"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "19294"
+        },
+        {
+          "id": "19301"
+        },
+        {
+          "id": "57548"
+        },
+        {
+          "id": "49304"
+        },
+        {
+          "id": "17976"
+        },
+        {
+          "id": "17978"
+        },
+        {
+          "id": "17980"
+        },
+        {
+          "id": "17982"
+        },
+        {
+          "id": "17984"
+        },
+        {
+          "id": "17986"
+        },
+        {
+          "id": "40882"
+        },
+        {
+          "id": "17916"
+        },
+        {
+          "id": "17917"
+        },
+        {
+          "id": "17165"
+        },
+        {
+          "id": "15562"
+        },
+        {
+          "id": "14594"
+        },
+        {
+          "id": "14595"
+        },
+        {
+          "id": "14596"
+        },
+        {
+          "id": "14597"
+        },
+        {
+          "id": "14598"
+        },
+        {
+          "id": "14599"
+        },
+        {
+          "id": "14600"
+        },
+        {
+          "id": "14604"
+        },
+        {
+          "id": "14607"
+        },
+        {
+          "id": "14608"
+        },
+        {
+          "id": "14611"
+        },
+        {
+          "id": "14616"
+        },
+        {
+          "id": "14619"
+        },
+        {
+          "id": "14620"
+        },
+        {
+          "id": "14623"
+        },
+        {
+          "id": "14630"
+        },
+        {
+          "id": "14633"
+        },
+        {
+          "id": "14634"
+        },
+        {
+          "id": "14637"
+        },
+        {
+          "id": "14638"
+        },
+        {
+          "id": "14641"
+        },
+        {
+          "id": "14650"
+        },
+        {
+          "id": "14661"
+        },
+        {
+          "id": "14665"
+        },
+        {
+          "id": "14669"
+        },
+        {
+          "id": "14673"
+        },
+        {
+          "id": "14678"
+        },
+        {
+          "id": "14681"
+        },
+        {
+          "id": "14685"
+        },
+        {
+          "id": "14689"
+        },
+        {
+          "id": "12798"
+        },
+        {
+          "id": "12802"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-24T16:02:00.000Z",
+        "end": "2026-10-24T17:40:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/11",
+      "updatedAt": "2026-10-24T16:03:59.000Z",
+      "rawHeader": "Southbound Route 11A trip departing Columbia Heights Transit Center C at 10:43 AM will start from Nicollet Ave S & Grant St E at 11:20 AM today. Previous stops will be missed",
+      "rawDescription": ""
+    },
+    {
+      "id": "54540",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 14: Northbound 11:05 AM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)",
+      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 11:05 AM canceled",
+      "affectedRoutes": [
+        "Route 14"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-24T16:45:00.000Z",
+        "end": "2026-10-24T18:09:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/14",
+      "updatedAt": "2026-10-24T16:45:40.000Z",
+      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 11:05 AM canceled",
+      "rawDescription": ""
+    },
+    {
+      "id": "54541",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 515: Eastbound 12:25 PM Trip Canceled (Southdale Transit Center & Gate B)",
+      "summary": "Eastbound Route 515 trip departing Southdale Transit Center & Gate B at 12:25 PM canceled today",
+      "affectedRoutes": [
+        "Route 515"
       ],
       "direction": "Eastbound",
       "intersections": [],
@@ -54,14 +298,14 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-24T12:44:00.000Z",
-        "end": "2026-10-24T14:03:00.000Z"
+        "start": "2026-10-24T17:25:00.000Z",
+        "end": "2026-10-24T18:51:00.000Z"
       },
-      "cause": "TECHNICAL_PROBLEM",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/64",
-      "updatedAt": "2026-10-24T12:44:27.000Z",
-      "rawHeader": "Eastbound Route 64N trip departing Smith & 5th St Station at 7:16 AM canceled today due to mechanical issue",
+      "url": "https://www.metrotransit.org/route/515",
+      "updatedAt": "2026-10-24T17:18:59.000Z",
+      "rawHeader": "Eastbound Route 515 trip departing Southdale Transit Center & Gate B at 12:25 PM canceled today",
       "rawDescription": ""
     },
     {
@@ -763,12 +1007,12 @@
         "56923",
         "17815",
         "51212",
-        "73",
         "66",
         "68",
         "69",
         "70",
-        "72"
+        "72",
+        "73"
       ],
       "closedStopDetails": [
         {
@@ -836,9 +1080,6 @@
           "id": "51212"
         },
         {
-          "id": "73"
-        },
-        {
           "id": "66"
         },
         {
@@ -852,6 +1093,9 @@
         },
         {
           "id": "72"
+        },
+        {
+          "id": "73"
         }
       ],
       "riderAlternative": "Board at: Chicago & 56th St Station - Stop #775 (northbound); Temporary stop on Portland Ave & 52nd St (northbound); Temporary stop on Portland Ave & 48th St (northbound)",
@@ -3929,6 +4173,55 @@
       "rawDescription": "Added detour map 9/30 at 11AM.\r\n\nFor eastbound Route 64 get on/off buses at:\r\nPayne Ave & Case Ave - Stop #11788 (northbound)\r\nTemporary stop on Greenbrier St & Lawson Ave (northbound)\r\nTemporary stop on Greenbrier St & Geranium Ave (northbound)\r\nMaryland Ave & Walsh St - Stop #11795 (eastbound)\r\n\nFor westbound Route 64 get on/off buses at:\r\nMaryland Ave & Walsh St - Stop #11800 (westbound)\r\nTemporary stop on Greenbrier St & Geranium Ave (southbound)\r\nTemporary stop on Greenbrier St & Lawson Ave (southbound)\r\nPayne Ave & York Ave - Stop #11807 (southbound)\r\n\nEastbound buses will travel regular route on Payne Ave to Case Ave, right on Case Ave, left on Greenbrier St, right on Maryland Ave and resume regular route.\r\n\nWestbound buses will travel regular route on Maryland Ave to Walsh St, left on Walsh St, right on Rose Ave, left on Greenbrier St, right on Case Ave, left on Payne Ave and resume regular route.\r\n\nAffected stops:\r\nPayne Ave & Lawson Ave - Stop #11790 (northbound)\r\nPayne Ave & Magnolia Ave - Stop #11791 (northbound)\r\nPayne Ave & Rose Ave - Stop #11792 (northbound)\r\nMaryland Ave & Greenbrier St - Stop #11794 (eastbound)\r\nMaryland Ave & Greenbrier St - Stop #11801 (westbound)\r\nPayne Ave & Geranium Ave - Stop #11803 (southbound)\r\nPayne Ave & Magnolia Ave - Stop #11804 (southbound)\r\nPayne Ave & Lawson Ave - Stop #11812 (southbound)\r\nPayne Ave & Case Ave - Stop #11806 (southbound)"
     },
     {
+      "id": "54537",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 64, Route 64D: Detour via Larpenteur Ave & Prosperity Ave",
+      "summary": "Route 64D detoured off Larpenteur Ave from Dieter St to Barclay St beginning Mon Oct 26 at 6:00 AM until further notice due to utility work. Board at: Larpenteur Ave & Prosperity Ave - Stop #42156 (westbound); Larpenteur Ave & Birmingham St - Stop #5376 (westbound).",
+      "affectedRoutes": [
+        "Route 64",
+        "Route 64D"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Larpenteur Ave & Prosperity Ave",
+        "Larpenteur Ave & Birmingham St",
+        "right on Larpenteur Ave & resume regular route.\n\nAffected st",
+        "Larpenteur Ave & Barclay St",
+        "Larpenteur Ave (Dieter St to Barclay St)"
+      ],
+      "closedStopIds": [
+        "5374",
+        "42156",
+        "5376"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "5374",
+          "name": "Larpenteur Ave & Barclay St",
+          "direction": "westbound"
+        },
+        {
+          "id": "42156"
+        },
+        {
+          "id": "5376"
+        }
+      ],
+      "riderAlternative": "Board at: Larpenteur Ave & Prosperity Ave - Stop #42156 (westbound); Larpenteur Ave & Birmingham St - Stop #5376 (westbound)",
+      "detourDetails": "buses will travel regular route on Larpenteur Ave to Dieter St, left on Dieter St, right on Idaho Ave, right on Barclay St, left on Larpenteur Ave and resume regular route.",
+      "activePeriod": {
+        "start": "2026-10-26T11:00:00.000Z",
+        "textDescription": "Beginning Mon Oct 26 at 6:00 AM until further notice"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/64",
+      "updatedAt": "2026-10-24T15:39:25.000Z",
+      "rawHeader": "Route 64D detoured off Larpenteur Ave from Dieter St to Barclay St beginning Mon Oct 26 at 6:00 AM until further notice due to utility work",
+      "rawDescription": "Get on/off eastbound buses at:\r\nLarpenteur Ave & Prosperity Ave - Stop #42156 (westbound)\r\nLarpenteur Ave & Birmingham St - Stop #5376 (westbound)\r\n\nNo westbound stops missed\r\n\nEastbound Route 64D buses will travel regular route on Larpenteur Ave to Dieter St, left on Dieter St, right on Idaho Ave, right on Barclay St, left on Larpenteur Ave and resume regular route.\r\n\nWestbound Route 64 via English St buses will travel regular route on Larpenteur Ave to Barclay St, right on Barclay St, left on Idaho Ave, left on Dieter St, right on Larpenteur Ave and resume regular route.\r\n\nAffected stops:\r\nLarpenteur Ave & Barclay St - Stop #5374 (westbound)"
+    },
+    {
       "id": "51838",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -6623,7 +6916,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-10-24T05:00:02.000Z",
+      "updatedAt": "2026-10-24T16:30:01.000Z",
       "rawHeader": "Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 12:00 PM to 5:00 PM on Sat Oct 24 due to Anoka Grand Day Parade",
       "rawDescription": "For northbound Route 802 get on/off buses at:\r\nEast River Rd & 7th Ave - Stop #12066 (northbound)\r\nGreen Haven Pkwy & Fairoak Ave - Stop #57211 (northbound)\r\n\nFor southbound Route 802 get on/off buses at:\r\nGreen Haven Pkwy & Fairoak Ave - Stop #57212 (southbound)\r\nEast River Rd & Kings Lane - Stop #12068 (southbound)\r\n\nNorthbound buses will travel regular route on East River Rd to 7th Ave, right on 7th Ave, left on westbound Hwy 10, exit at Greenhaven Pkwy, continue on Green Haven Pkwy, and resume regular route.\r\n\nSouthbound buses will travel regular route on Green Haven Pkwy to Hwy 10, left onto eastbound Hwy 10, exit at 7th Ave, right on 7th Ave, left on East River Rd, and resume regular route.\r\n\nAffected stops:\r\nEast River Rd & South St - Stop #12065 (northbound)\r\n5th Ave & Washington St - Stop #12063 (northbound)\r\n5th Ave & Jefferson St - Stop #12058 (northbound)\r\n5th Ave & Monroe St - Stop #12054 (northbound)\r\nMain St & 3rd Ave - Stop #12051 (westbound)\r\nMain St & 2nd Ave - Stop #12049 (westbound)\r\nMain St & Ferry St - Stop #12046 (westbound)\r\nMain St & State Ave - Stop #12027 (westbound)\r\nMain St & Cutter St - Stop #12026 (westbound)\r\nMain St & Cutter St - Stop #12025 (eastbound)\r\nMain St & State Ave - Stop #12028 (eastbound)\r\nMain St & Branch Ave - Stop #12029 (eastbound)\r\nMain St & 2nd Ave - Stop #12047 (eastbound)\r\nMain St & 3rd Ave - Stop #12050 (eastbound)\r\n5th Ave & Monroe St - Stop #12055 (southbound)\r\n5th Ave & Jefferson St - Stop #12059 (southbound)\r\n5th Ave & Washington St - Stop #12062 (southbound)\r\n5th Ave & Military Rd - Stop #12064 (southbound)\r\nEast River Rd & 7th Ave - Stop #12067 (southbound)"
     },
@@ -6745,7 +7038,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-10-24T05:00:02.000Z",
+      "updatedAt": "2026-10-24T16:30:01.000Z",
       "rawHeader": "Route 805 detoured off 3rd Ave from Van Buren Ave to Madison St from 12:00 PM to 5:00 PM on Sat Oct 24 due to Anoka Grand Day Parade",
       "rawDescription": "For northbound Route 805 get on/off buses at:\r\nHarrison St & 3rd Ave - Stop #51301 (westbound)\r\n3rd Ave & Van Buren Ave / Harrison St - Stop #50711 (northbound)\r\n\nFor southbound Route 805 get on/off buses at:\r\n3rd Ave & Van Buren Ave / Harrison St - Stop #50711 (northbound)\r\n\nNorthbound buses will travel regular route on Harrison St to 3rd Ave, continue on Harrison to 2nd Ave, left on 2nd Ave, left on Van Buren St, left on 3rd Ave and layover on northbound 3rd Ave between Van Buren Ave and Harrison St.\r\n\nSouthbound buses will depart temporary layover on northbound 3rd Ave between Van Buren Ave and Harrison St, continue on 3rd Ave, and resume regular route.\r\n\nAffected stops:\r\n3rd Ave & Golf St - Stop #51302 (southbound)\r\n3rd Ave & Jackson St - Stop #57200 (southbound)\r\n1st Ave S & Monroe St - Stop #50716 (southbound)\r\nMadison St & 3rd Ave - Stop #57209 (eastbound)\r\n3rd Ave & Jackson St - Stop #48739 (northbound)\r\n3rd Ave & Van Buren St - Stop #43897 (northbound)"
     },
