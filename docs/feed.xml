@@ -4,125 +4,53 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Fri, 23 Oct 2026 23:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 04:20:49 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO C Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/cline</link>
-      <guid isPermaLink="false">Metro Transit-54519-2026-10-23T22:33:26.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 22:33:26 GMT</pubDate>
+      <title>[Critical] METRO B Line: Westbound 10:18 PM Trip Canceled (Lake &amp; Chicago Station)</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-54528-2026-10-24T03:50:31.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 03:50:31 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO C Line</category>
-      <description>C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 3:53 PM and two other trips canceled today</description>
+      <category>METRO B Line</category>
+      <description>Westbound B Line trip departing Lake &amp; Chicago Station at 10:18 PM canceled today</description>
     </item>
     <item>
-      <title>[Critical] METRO D Line: Northbound 5:19 PM Trip Canceled (MOA Transit Station Gate A)</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-54518-2026-10-23T22:31:58.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 22:31:58 GMT</pubDate>
+      <title>[Critical] METRO B Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-54529-2026-10-24T03:52:17.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 03:52:17 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Northbound D Line trip departing MOA Transit Station Gate A at 5:19 PM canceled today due to mechanical issue</description>
+      <category>METRO B Line</category>
+      <description>Eastbound B Line trip departing Lake St W &amp; France Ave S at 10:57 PM will operate from Lake &amp; Chicago Station at 11:13 PM today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 2: Eastbound 9:39 PM Trip Canceled (Franklin Ave W &amp; Hennepin Ave S)</title>
+      <link>https://www.metrotransit.org/route/2</link>
+      <guid isPermaLink="false">Metro Transit-54527-2026-10-24T02:31:38.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 02:31:38 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 2</category>
+      <description>Eastbound Route 2 trip departing Franklin Ave W &amp; Hennepin Ave S at 9:39 PM canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Critical] Route 30: Service Canceled</title>
       <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-54478-2026-10-23T18:14:52.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 18:14:52 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54478-2026-10-24T04:17:01.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 04:17:01 GMT</pubDate>
       <category>Critical</category>
       <category>Route 30</category>
       <description>Route 30 trip departing Westgate Station - Gate B at 11:34 AM and ten other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 46: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/46</link>
-      <guid isPermaLink="false">Metro Transit-54515-2026-10-23T20:37:03.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 20:37:03 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 46</category>
-      <description>Route 46 trip departing 46th St Station &amp; Gate G at 3:43 PM and four other trips canceled today due to medical emergency</description>
-    </item>
-    <item>
-      <title>[Critical] Route 71: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/71</link>
-      <guid isPermaLink="false">Metro Transit-54499-2026-10-23T18:08:00.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 18:08:00 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 71</category>
-      <description>Route 71 trip departing Inver Hills College &amp; Shelter at 1:38 PM and three other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 71: Southbound 4:10 PM Trip Canceled (Market Place Dr &amp; The Marketplace Ctr)</title>
-      <link>https://www.metrotransit.org/route/71</link>
-      <guid isPermaLink="false">Metro Transit-54517-2026-10-23T22:02:54.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 22:02:54 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 71</category>
-      <description>Southbound Route 71 trip departing Market Place Dr &amp; The Marketplace Ctr at 4:10 PM canceled today due to mechanical issue</description>
-    </item>
-    <item>
       <title>[Critical] Route 72: Service Canceled</title>
       <link>https://www.metrotransit.org/route/72</link>
-      <guid isPermaLink="false">Metro Transit-54512-2026-10-23T20:05:34.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 20:05:34 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54512-2026-10-24T01:23:00.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 01:23:00 GMT</pubDate>
       <category>Critical</category>
       <category>Route 72</category>
       <description>Route 72 trips departing Pascal St N &amp; Central Ave W at 8:53 PM and departing Sun Ray Transit Center &amp; Gate D at 9:51 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 83: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/83</link>
-      <guid isPermaLink="false">Metro Transit-54502-2026-10-23T17:31:01.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 17:31:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 83</category>
-      <description>Route 83 trip departing Montreal Cir &amp; Summit Brewing at 1:01 PM and six other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 540: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/540</link>
-      <guid isPermaLink="false">Metro Transit-54504-2026-10-23T19:08:06.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 19:08:06 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 540</category>
-      <description>Route 540 trip departing Normandale Lake Blvd &amp; 83rd St / 84th St at 12:32 PM and five other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 542: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/542</link>
-      <guid isPermaLink="false">Metro Transit-54503-2026-10-23T19:07:14.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 19:07:14 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 542</category>
-      <description>Route 542 trip departing American Blvd &amp; Social Security Admin at 1:59 PM and four other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 760: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/760</link>
-      <guid isPermaLink="false">Metro Transit-54509-2026-10-23T20:06:01.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 20:06:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 760</category>
-      <description>Route 760 trips departing 12th St S &amp; Hennepin Ave S at 3:36 PM and departing 12th St S &amp; Hennepin Ave S at 4:36 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 802: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/802</link>
-      <guid isPermaLink="false">Metro Transit-54500-2026-10-23T16:04:00.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 16:04:00 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 802</category>
-      <description>Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 805: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/805</link>
-      <guid isPermaLink="false">Metro Transit-54501-2026-10-23T16:04:00.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 16:04:00 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 805</category>
-      <description>Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -170,15 +98,6 @@
       <description>METRO D Line detoured off Chicago Ave from 46th St to 57th St beginning Tue Oct 20 at 5:00 AM until further notice due to construction. Board at: Portland &amp; 60th St Station - Stop #737 (northbound); Chicago Ave S &amp; 58th St E - Stop #743 (northbound); Temporary stop on Portland Ave &amp; 52nd St (northbound). | Action: Board at: Portland &amp; 60th St Station - Stop #737 (northbound); Chicago Ave S &amp; 58th St E - Stop #743 (northbound); Temporary stop on Portland Ave &amp; 52nd St (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] METRO E Line: Detour via University Ave &amp; 8th Ave S</title>
-      <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-54341-2026-10-23T22:30:01.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 22:30:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>METRO E Line</category>
-      <description>METRO E Line detoured off University Ave from 10th Ave SE to Oak St from 6:00 PM to 8:00 PM on Fri Oct 23 due to U of M Homecoming Parade. Board at: University &amp; 6th Ave Station - Stop #16130 (eastbound); Temporary stop on University Ave &amp; 8th Ave SE (eastbound); University &amp; Huron Station - Stop #16143 (eastbound). | Action: Board at: University &amp; 6th Ave Station - Stop #16130 (eastbound); Temporary stop on University Ave &amp; 8th Ave SE (eastbound); University &amp; Huron Station - Stop #16143 (eastbound)</description>
-    </item>
-    <item>
       <title>[Moderate] METRO Gold Line: Detour via 6th St &amp; Jackson St</title>
       <link>https://www.metrotransit.org/route/gold</link>
       <guid isPermaLink="false">Metro Transit-50989-2026-08-25T13:26:20.000Z</guid>
@@ -197,15 +116,6 @@
       <description>Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction. Temporary stop at 24th St just past Lyndale Ave (eastbound). | Action: Temporary stop at 24th St just past Lyndale Ave (eastbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 2: Detour via 10th Ave SE &amp; 5th St S</title>
-      <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-54339-2026-10-23T22:30:00.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 22:30:00 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 2</category>
-      <description>Route 2 detoured off University Ave from 10th Ave SE to Oak St from 6:00 PM to 8:00 PM on Fri Oct 23 due to U of M Homecoming Parade. Board at: 10th Ave SE &amp; 5th St SE - Stop #56699 (southbound); Oak St SE &amp; Washington Ave SE - Stop #41248 (southbound). | Action: Board at: 10th Ave SE &amp; 5th St SE - Stop #56699 (southbound); Oak St SE &amp; Washington Ave SE - Stop #41248 (southbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 3, Route 3A: Detour via Maryland Ave &amp; Galtier St</title>
       <link>https://www.metrotransit.org/route/3</link>
       <guid isPermaLink="false">Metro Transit-45893-2026-04-13T09:00:01.000Z</guid>
@@ -222,15 +132,6 @@
       <category>Moderate</category>
       <category>Route 3, Route 62, Route 67</category>
       <description>Routes 3, 62 and 67 detoured off 10th St from Minnesota St to Cedar St and off Cedar St from 10th St to 12th St from 7:00 AM to 2:00 PM on Sat Oct 24 due to utility work. Board at: Minnesota St &amp; 9th St - Stop #50540 (northbound); 12th St E &amp; Wabasha St - Stop #20008 (westbound). | Action: Board at: Minnesota St &amp; 9th St - Stop #50540 (northbound); 12th St E &amp; Wabasha St - Stop #20008 (westbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 3: Detour via Route 3 detoured off Pleasant St &amp; 15th Ave S</title>
-      <link>https://www.metrotransit.org/route/3</link>
-      <guid isPermaLink="false">Metro Transit-54340-2026-10-23T22:30:01.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 22:30:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 3</category>
-      <description>Route 3 detoured off Pleasant St/15th Ave SE from 5th St SE to Washington Ave from 6:00 PM to 8:00 PM on Fri Oct 23 due to U of M Homecoming Parade. Board at: Washington Ave &amp; Anderson Hall - Stop #13223 (eastbound); Washington Ave &amp; Coffman Union - Stop #13209 (eastbound); 15th Ave SE &amp; 4th St SE - Stop #16111 (northbound). | Action: Board at: Washington Ave &amp; Anderson Hall - Stop #13223 (eastbound); Washington Ave &amp; Coffman Union - Stop #13209 (eastbound); 15th Ave SE &amp; 4th St SE - Stop #16111 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 5: Detour via Portland Ave &amp; 52nd St</title>
@@ -523,8 +424,8 @@
     <item>
       <title>[Moderate] Route 38, Route 74: Stop Closed at Ford Pkwy &amp; Cretin Ave</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54427-2026-10-23T11:30:04.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 11:30:04 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54427-2026-10-23T23:15:02.000Z</guid>
+      <pubDate>Fri, 23 Oct 2026 23:15:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 38, Route 74</category>
       <description>Ford Pkwy &amp; Cretin Ave - Stop #4280 (eastbound) is closed for Routes 38 and 74 starting Thu Oct 22 until further notice from 7:00 AM to 6:00 PM each day. Board at: Ford &amp; Woodlawn Station - Stop #56111 (eastbound); Ford &amp; Finn Station - Stop #56112 (eastbound). | Action: Board at: Ford &amp; Woodlawn Station - Stop #56111 (eastbound); Ford &amp; Finn Station - Stop #56112 (eastbound)</description>
