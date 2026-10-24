@@ -4,9 +4,27 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 24 Oct 2026 09:24:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:56:28 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] METRO A Line: Southbound 8:40 AM Trip Canceled (Rosedale Transit Center Gate A)</title>
+      <link>https://www.metrotransit.org/route/aline</link>
+      <guid isPermaLink="false">Metro Transit-54535-2026-10-24T13:47:10.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 13:47:10 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO A Line</category>
+      <description>Southbound A Line trip departing Rosedale Transit Center Gate A at 8:40 AM canceled today due to maintenance work</description>
+    </item>
+    <item>
+      <title>[Critical] Route 64, Route 64N: Eastbound 7:16 AM Trip Canceled (Smith &amp; 5th St Station)</title>
+      <link>https://www.metrotransit.org/route/64</link>
+      <guid isPermaLink="false">Metro Transit-54534-2026-10-24T12:44:27.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 12:44:27 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 64, Route 64N</category>
+      <description>Eastbound Route 64N trip departing Smith &amp; 5th St Station at 7:16 AM canceled today due to mechanical issue</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -82,8 +100,8 @@
     <item>
       <title>[Moderate] Route 3, Route 62, Route 67: Detour via Minnesota St &amp; 9th St</title>
       <link>https://www.metrotransit.org/route/3</link>
-      <guid isPermaLink="false">Metro Transit-54338-2026-10-24T05:00:02.000Z</guid>
-      <pubDate>Sat, 24 Oct 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54338-2026-10-24T11:30:04.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 11:30:04 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 3, Route 62, Route 67</category>
       <description>Routes 3, 62 and 67 detoured off 10th St from Minnesota St to Cedar St and off Cedar St from 10th St to 12th St from 7:00 AM to 2:00 PM on Sat Oct 24 due to utility work. Board at: Minnesota St &amp; 9th St - Stop #50540 (northbound); 12th St E &amp; Wabasha St - Stop #20008 (westbound). | Action: Board at: Minnesota St &amp; 9th St - Stop #50540 (northbound); 12th St E &amp; Wabasha St - Stop #20008 (westbound)</description>
@@ -208,8 +226,8 @@
     <item>
       <title>[Moderate] Route 11: Detour via 4th Ave S &amp; Lake St E</title>
       <link>https://www.metrotransit.org/route/11</link>
-      <guid isPermaLink="false">Metro Transit-54489-2026-10-24T05:00:02.000Z</guid>
-      <pubDate>Sat, 24 Oct 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54489-2026-10-24T11:30:03.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 11:30:03 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 11</category>
       <description>Route 11 detoured off 4th Ave S from 28th St to Lake St from 7:00 AM to 5:00 PM on Sat Oct 24 due to construction. Board at: 4th Ave S &amp; Lake St E - Stop #17755 (northbound); 5th Ave S &amp; 28th St E - Stop #17757 (northbound). | Action: Board at: 4th Ave S &amp; Lake St E - Stop #17755 (northbound); 5th Ave S &amp; 28th St E - Stop #17757 (northbound)</description>
@@ -379,8 +397,8 @@
     <item>
       <title>[Moderate] Route 38, Route 74: Stop Closed at Ford Pkwy &amp; Cretin Ave</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54427-2026-10-24T05:00:02.000Z</guid>
-      <pubDate>Sat, 24 Oct 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54427-2026-10-24T11:30:04.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 11:30:04 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 38, Route 74</category>
       <description>Ford Pkwy &amp; Cretin Ave - Stop #4280 (eastbound) is closed for Routes 38 and 74 starting Thu Oct 22 until further notice from 7:00 AM to 6:00 PM each day. Board at: Ford &amp; Woodlawn Station - Stop #56111 (eastbound); Ford &amp; Finn Station - Stop #56112 (eastbound). | Action: Board at: Ford &amp; Woodlawn Station - Stop #56111 (eastbound); Ford &amp; Finn Station - Stop #56112 (eastbound)</description>
@@ -793,8 +811,8 @@
     <item>
       <title>[Moderate] Route 645: Detour via I-394 (Dunwoody Blvd to 12th St)</title>
       <link>https://www.metrotransit.org/route/645</link>
-      <guid isPermaLink="false">Metro Transit-54178-2026-10-17T09:30:01.000Z</guid>
-      <pubDate>Sat, 17 Oct 2026 09:30:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54178-2026-10-24T10:00:02.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 10:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 645</category>
       <description>Route 645 detoured off I-394 from Dunwoody Blvd to 12th St beginning Sat Oct 17 at 5:00 AM until further notice due to construction</description>

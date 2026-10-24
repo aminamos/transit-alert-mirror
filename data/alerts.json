@@ -1,16 +1,69 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-24T09:24:25.392Z",
-    "totalAlerts": 102,
-    "criticalCount": 0,
+    "generatedAt": "2026-10-24T13:56:28.196Z",
+    "totalAlerts": 104,
+    "criticalCount": 2,
     "moderateCount": 99,
     "minorCount": 3,
-    "affectedRoutesCount": 78,
+    "affectedRoutesCount": 79,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
+    {
+      "id": "54535",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO A Line: Southbound 8:40 AM Trip Canceled (Rosedale Transit Center Gate A)",
+      "summary": "Southbound A Line trip departing Rosedale Transit Center Gate A at 8:40 AM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "METRO A Line"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-24T13:46:00.000Z",
+        "end": "2026-10-24T15:11:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/aline",
+      "updatedAt": "2026-10-24T13:47:10.000Z",
+      "rawHeader": "Southbound A Line trip departing Rosedale Transit Center Gate A at 8:40 AM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "54534",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 64, Route 64N: Eastbound 7:16 AM Trip Canceled (Smith & 5th St Station)",
+      "summary": "Eastbound Route 64N trip departing Smith & 5th St Station at 7:16 AM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 64",
+        "Route 64N"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-24T12:44:00.000Z",
+        "end": "2026-10-24T14:03:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/64",
+      "updatedAt": "2026-10-24T12:44:27.000Z",
+      "rawHeader": "Eastbound Route 64N trip departing Smith & 5th St Station at 7:16 AM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -674,7 +727,7 @@
       "cause": "MAINTENANCE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-10-24T05:00:02.000Z",
+      "updatedAt": "2026-10-24T11:30:04.000Z",
       "rawHeader": "Routes 3, 62 and 67 detoured off 10th St from Minnesota St to Cedar St and off Cedar St from 10th St to 12th St from 7:00 AM to 2:00 PM on Sat Oct 24 due to utility work",
       "rawDescription": "Get on/off buses at:\r\nMinnesota St & 9th St - Stop #50540 (northbound)\r\n12th St E & Wabasha St - Stop #20008 (westbound)\r\n\nEastbound/southbound buses will travel regular route.\r\n\nWestbound/northbound buses will travel regular route on Minnesota St to 10th St, continue on Minnesota to 12th St, left on 12th St to Cedar St, and resume regular route.\r\n\nAffected stops:\r\n10th St E & Cedar St - Stop #52329 (westbound)"
     },
@@ -710,12 +763,12 @@
         "56923",
         "17815",
         "51212",
+        "73",
         "66",
         "68",
         "69",
         "70",
-        "72",
-        "73"
+        "72"
       ],
       "closedStopDetails": [
         {
@@ -783,6 +836,9 @@
           "id": "51212"
         },
         {
+          "id": "73"
+        },
+        {
           "id": "66"
         },
         {
@@ -796,9 +852,6 @@
         },
         {
           "id": "72"
-        },
-        {
-          "id": "73"
         }
       ],
       "riderAlternative": "Board at: Chicago & 56th St Station - Stop #775 (northbound); Temporary stop on Portland Ave & 52nd St (northbound); Temporary stop on Portland Ave & 48th St (northbound)",
@@ -1542,7 +1595,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-10-24T05:00:02.000Z",
+      "updatedAt": "2026-10-24T11:30:03.000Z",
       "rawHeader": "Route 11 detoured off 4th Ave S from 28th St to Lake St from 7:00 AM to 5:00 PM on Sat Oct 24 due to construction",
       "rawDescription": "Get on/off northbound buses at:\r\n4th Ave S & Lake St E - Stop #17755 (northbound)\r\n5th Ave S & 28th St E - Stop #17757 (northbound)\r\n\nNo southbound stops missed.\r\n\nNorthbound buses will travel regular route on 4th Ave S to Lake St, left on Lake, right on 1st Ave S, right on 28th St to 4th Ave S, and resume regular route.\r\n\nSouthbound buses will travel regular route on 28th St to 4th Ave S, continue on 28th St to Portland Ave, right on Portland, right on Lake St, left on 4th Ave S, and resume regular route.\r\n\nAffected stops:\r\n4th Ave S & 28th St E - Stop #51795 (northbound)"
     },
@@ -2822,7 +2875,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-24T05:00:02.000Z",
+      "updatedAt": "2026-10-24T11:30:04.000Z",
       "rawHeader": "Ford Pkwy & Cretin Ave - Stop #4280 (eastbound) is closed for Routes 38 and 74 starting Thu Oct 22 until further notice  from 7:00 AM to 6:00 PM each day",
       "rawDescription": "Get on/off buses at:\r\nFord & Woodlawn Station - Stop #56111 (eastbound)\r\nFord & Finn Station - Stop #56112 (eastbound)"
     },
@@ -6168,7 +6221,7 @@
       "cause": "CONSTRUCTION",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/645",
-      "updatedAt": "2026-10-17T09:30:01.000Z",
+      "updatedAt": "2026-10-24T10:00:02.000Z",
       "rawHeader": "Route 645 detoured off I-394 from Dunwoody Blvd to 12th St beginning Sat Oct 17 at 5:00 AM until further notice due to construction",
       "rawDescription": "Expect delays due to added travel time to access downtown Minneapolis.\r\n\nEastbound buses will travel regular route on I-394 to Dunwoody Blvd, right on Dunwoody Blvd which turns into Hennepin Ave, right on 12th St and resume regular route.\r\n\nAffected direction: Eastbound"
     },
