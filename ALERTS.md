@@ -2,139 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-107-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-5-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-102-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-99-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-80-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-78-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-24T04:20:49.873Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-24T09:24:25.392Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO B Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (4) • **Route 14** (3) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (5) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (2) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (4) • **Route 14** (3) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (5) • **Route 25** (2) • **Route 27** (2) • **Route 32** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (6) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (2) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO B Line: Westbound 10:18 PM Trip Canceled (Lake & Chicago Station)
-
-- **Affected Routes**: `METRO B Line`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #47529, Stop #3523, Stop #3525, Stop #3528, Stop #16855, Stop #57314, Stop #57353, Stop #57357 *(+2 more)*
-
-**Summary**: Westbound B Line trip departing Lake & Chicago Station at 10:18 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/bline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound B Line trip departing Lake & Chicago Station at 10:18 PM canceled today
-
-</details>
-
----
-
-### 🚨 METRO B Line: Service Advisory
-
-- **Affected Routes**: `METRO B Line`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #57359, Stop #57354, Stop #57355, Stop #57356, Stop #16857, Stop #16863, Stop #57314, Stop #5805 *(+3 more)*
-
-**Summary**: Eastbound B Line trip departing Lake St W & France Ave S at 10:57 PM will operate from Lake & Chicago Station at 11:13 PM today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/bline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound B Line trip departing Lake St W & France Ave S at 10:57 PM will operate from Lake & Chicago Station at 11:13 PM today
-
-</details>
-
----
-
-### 🚨 Route 2: Eastbound 9:39 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)
-
-- **Affected Routes**: `Route 2`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-
-**Summary**: Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 9:39 PM canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 9:39 PM canceled today due to maintenance work
-
-</details>
-
----
-
-### 🚨 Route 30: Service Canceled
-
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 26 PM
-departing Knox Ave N & Golden Valley Rd; 24 PM
-departing Knox Ave N & Golden Valley Rd
-
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 11:34 AM and ten other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 30 trip departing Westgate Station - Gate B at 11:34 AM and ten other trips canceled today
-
-```text
-Updated at 1:14 PM to cancel additional trips.
-
-Affected eastbound trips:
-departing Knox Ave N & Golden Valley Rd at 12:26 PM
-departing Knox Ave N & Golden Valley Rd at 2:26 PM
-departing Knox Ave N & Golden Valley Rd at 4:24 PM
-departing Knox Ave N & Golden Valley Rd at 6:26 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 8:25 PM
-
-Affected westbound trips:
-departing Westgate Station - Gate B at 11:34 AM
-departing Westgate Station - Gate B at 1:34 PM
-departing Westgate Station - Gate B at 3:34 PM
-departing Westgate Station - Gate B at 5:34 PM
-departing Westgate Station - Gate B at 7:36 PM
-departing Westgate Station - Gate B at 9:36 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 72: Service Canceled
-
-- **Affected Routes**: `Route 72`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 72 trips departing Pascal St N & Central Ave W
-
-**Summary**: Route 72 trips departing Pascal St N & Central Ave W at 8:53 PM and departing Sun Ray Transit Center & Gate D at 9:51 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/72)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 72 trips departing Pascal St N & Central Ave W at 8:53 PM and departing Sun Ray Transit Center & Gate D at 9:51 PM canceled today
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 

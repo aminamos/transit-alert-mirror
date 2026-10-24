@@ -1,237 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-24T04:20:49.873Z",
-    "totalAlerts": 107,
-    "criticalCount": 5,
+    "generatedAt": "2026-10-24T09:24:25.392Z",
+    "totalAlerts": 102,
+    "criticalCount": 0,
     "moderateCount": 99,
     "minorCount": 3,
-    "affectedRoutesCount": 80,
+    "affectedRoutesCount": 78,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "54528",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO B Line: Westbound 10:18 PM Trip Canceled (Lake & Chicago Station)",
-      "summary": "Westbound B Line trip departing Lake & Chicago Station at 10:18 PM canceled today",
-      "affectedRoutes": [
-        "METRO B Line"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [
-        "47529",
-        "3523",
-        "3525",
-        "3528",
-        "16855",
-        "57314",
-        "57353",
-        "57357",
-        "57358",
-        "16871"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "47529"
-        },
-        {
-          "id": "3523"
-        },
-        {
-          "id": "3525"
-        },
-        {
-          "id": "3528"
-        },
-        {
-          "id": "16855"
-        },
-        {
-          "id": "57314"
-        },
-        {
-          "id": "57353"
-        },
-        {
-          "id": "57357"
-        },
-        {
-          "id": "57358"
-        },
-        {
-          "id": "16871"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-24T03:49:00.000Z",
-        "end": "2026-10-24T04:33:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-10-24T03:50:31.000Z",
-      "rawHeader": "Westbound B Line trip departing Lake & Chicago Station at 10:18 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "54529",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO B Line: Service Advisory",
-      "summary": "Eastbound B Line trip departing Lake St W & France Ave S at 10:57 PM will operate from Lake & Chicago Station at 11:13 PM today",
-      "affectedRoutes": [
-        "METRO B Line"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [
-        "57359",
-        "57354",
-        "57355",
-        "57356",
-        "16857",
-        "16863",
-        "57314",
-        "5805",
-        "4866",
-        "4862",
-        "56796"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "57359"
-        },
-        {
-          "id": "57354"
-        },
-        {
-          "id": "57355"
-        },
-        {
-          "id": "57356"
-        },
-        {
-          "id": "16857"
-        },
-        {
-          "id": "16863"
-        },
-        {
-          "id": "57314"
-        },
-        {
-          "id": "5805"
-        },
-        {
-          "id": "4866"
-        },
-        {
-          "id": "4862"
-        },
-        {
-          "id": "56796"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-24T03:57:00.000Z",
-        "end": "2026-10-24T05:50:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-10-24T03:52:17.000Z",
-      "rawHeader": "Eastbound B Line trip departing Lake St W & France Ave S at 10:57 PM will operate from Lake & Chicago Station at 11:13 PM today",
-      "rawDescription": ""
-    },
-    {
-      "id": "54527",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 2: Eastbound 9:39 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)",
-      "summary": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 9:39 PM canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 2"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-24T02:39:00.000Z",
-        "end": "2026-10-24T04:26:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-10-24T02:31:38.000Z",
-      "rawHeader": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 9:39 PM canceled today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "54478",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 30: Service Canceled",
-      "summary": "Route 30 trip departing Westgate Station - Gate B at 11:34 AM and ten other trips canceled today",
-      "affectedRoutes": [
-        "Route 30"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing Knox Ave N & Golden Valley Rd",
-        "26 PM\ndeparting Knox Ave N & Golden Valley Rd",
-        "24 PM\ndeparting Knox Ave N & Golden Valley Rd"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {},
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-10-24T04:17:01.000Z",
-      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 11:34 AM and ten other trips canceled today",
-      "rawDescription": "Updated at 1:14 PM to cancel additional trips.\r\n\nAffected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 12:26 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 2:26 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 4:24 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 6:26 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 8:25 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 11:34 AM\r\ndeparting Westgate Station - Gate B at 1:34 PM\r\ndeparting Westgate Station - Gate B at 3:34 PM\r\ndeparting Westgate Station - Gate B at 5:34 PM\r\ndeparting Westgate Station - Gate B at 7:36 PM\r\ndeparting Westgate Station - Gate B at 9:36 PM"
-    },
-    {
-      "id": "54512",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 72: Service Canceled",
-      "summary": "Route 72 trips departing Pascal St N & Central Ave W at 8:53 PM and departing Sun Ray Transit Center & Gate D at 9:51 PM canceled today",
-      "affectedRoutes": [
-        "Route 72"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 72 trips departing Pascal St N & Central Ave W"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-24T01:53:00.000Z",
-        "end": "2026-10-24T04:35:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-10-24T01:23:00.000Z",
-      "rawHeader": "Route 72 trips departing Pascal St N & Central Ave W at 8:53 PM and departing Sun Ray Transit Center & Gate D at 9:51 PM canceled today",
-      "rawDescription": ""
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -373,7 +152,7 @@
       },
       "cause": "OTHER_CAUSE",
       "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-10-23T14:00:01.000Z",
+      "updatedAt": "2026-10-24T05:00:02.000Z",
       "rawHeader": "METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 10/25 from 9am - 5pm",
       "rawDescription": "Due to street closures around U.S. Bank Stadium Station during the Vikings game, please transfer between the METRO Blue and Green lines at Government Plaza Station instead.\r\n\nAffected stops:\r\nU.S. Bank Stadium Station (eastbound)\r\nU.S. Bank Stadium Station (northbound)\r\nU.S. Bank Stadium Station (southbound)\r\nU.S. Bank Stadium Station (westbound)"
     },
@@ -895,7 +674,7 @@
       "cause": "MAINTENANCE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-10-23T05:00:01.000Z",
+      "updatedAt": "2026-10-24T05:00:02.000Z",
       "rawHeader": "Routes 3, 62 and 67 detoured off 10th St from Minnesota St to Cedar St and off Cedar St from 10th St to 12th St from 7:00 AM to 2:00 PM on Sat Oct 24 due to utility work",
       "rawDescription": "Get on/off buses at:\r\nMinnesota St & 9th St - Stop #50540 (northbound)\r\n12th St E & Wabasha St - Stop #20008 (westbound)\r\n\nEastbound/southbound buses will travel regular route.\r\n\nWestbound/northbound buses will travel regular route on Minnesota St to 10th St, continue on Minnesota to 12th St, left on 12th St to Cedar St, and resume regular route.\r\n\nAffected stops:\r\n10th St E & Cedar St - Stop #52329 (westbound)"
     },
@@ -1763,7 +1542,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-10-23T13:30:36.000Z",
+      "updatedAt": "2026-10-24T05:00:02.000Z",
       "rawHeader": "Route 11 detoured off 4th Ave S from 28th St to Lake St from 7:00 AM to 5:00 PM on Sat Oct 24 due to construction",
       "rawDescription": "Get on/off northbound buses at:\r\n4th Ave S & Lake St E - Stop #17755 (northbound)\r\n5th Ave S & 28th St E - Stop #17757 (northbound)\r\n\nNo southbound stops missed.\r\n\nNorthbound buses will travel regular route on 4th Ave S to Lake St, left on Lake, right on 1st Ave S, right on 28th St to 4th Ave S, and resume regular route.\r\n\nSouthbound buses will travel regular route on 28th St to 4th Ave S, continue on 28th St to Portland Ave, right on Portland, right on Lake St, left on 4th Ave S, and resume regular route.\r\n\nAffected stops:\r\n4th Ave S & 28th St E - Stop #51795 (northbound)"
     },
@@ -3043,7 +2822,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-23T23:15:02.000Z",
+      "updatedAt": "2026-10-24T05:00:02.000Z",
       "rawHeader": "Ford Pkwy & Cretin Ave - Stop #4280 (eastbound) is closed for Routes 38 and 74 starting Thu Oct 22 until further notice  from 7:00 AM to 6:00 PM each day",
       "rawDescription": "Get on/off buses at:\r\nFord & Woodlawn Station - Stop #56111 (eastbound)\r\nFord & Finn Station - Stop #56112 (eastbound)"
     },
@@ -6791,7 +6570,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-10-23T05:00:01.000Z",
+      "updatedAt": "2026-10-24T05:00:02.000Z",
       "rawHeader": "Route 802 detoured off Main St from 7th Ave to Green Haven Pkwy from 12:00 PM to 5:00 PM on Sat Oct 24 due to Anoka Grand Day Parade",
       "rawDescription": "For northbound Route 802 get on/off buses at:\r\nEast River Rd & 7th Ave - Stop #12066 (northbound)\r\nGreen Haven Pkwy & Fairoak Ave - Stop #57211 (northbound)\r\n\nFor southbound Route 802 get on/off buses at:\r\nGreen Haven Pkwy & Fairoak Ave - Stop #57212 (southbound)\r\nEast River Rd & Kings Lane - Stop #12068 (southbound)\r\n\nNorthbound buses will travel regular route on East River Rd to 7th Ave, right on 7th Ave, left on westbound Hwy 10, exit at Greenhaven Pkwy, continue on Green Haven Pkwy, and resume regular route.\r\n\nSouthbound buses will travel regular route on Green Haven Pkwy to Hwy 10, left onto eastbound Hwy 10, exit at 7th Ave, right on 7th Ave, left on East River Rd, and resume regular route.\r\n\nAffected stops:\r\nEast River Rd & South St - Stop #12065 (northbound)\r\n5th Ave & Washington St - Stop #12063 (northbound)\r\n5th Ave & Jefferson St - Stop #12058 (northbound)\r\n5th Ave & Monroe St - Stop #12054 (northbound)\r\nMain St & 3rd Ave - Stop #12051 (westbound)\r\nMain St & 2nd Ave - Stop #12049 (westbound)\r\nMain St & Ferry St - Stop #12046 (westbound)\r\nMain St & State Ave - Stop #12027 (westbound)\r\nMain St & Cutter St - Stop #12026 (westbound)\r\nMain St & Cutter St - Stop #12025 (eastbound)\r\nMain St & State Ave - Stop #12028 (eastbound)\r\nMain St & Branch Ave - Stop #12029 (eastbound)\r\nMain St & 2nd Ave - Stop #12047 (eastbound)\r\nMain St & 3rd Ave - Stop #12050 (eastbound)\r\n5th Ave & Monroe St - Stop #12055 (southbound)\r\n5th Ave & Jefferson St - Stop #12059 (southbound)\r\n5th Ave & Washington St - Stop #12062 (southbound)\r\n5th Ave & Military Rd - Stop #12064 (southbound)\r\nEast River Rd & 7th Ave - Stop #12067 (southbound)"
     },
@@ -6913,7 +6692,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-10-23T05:00:01.000Z",
+      "updatedAt": "2026-10-24T05:00:02.000Z",
       "rawHeader": "Route 805 detoured off 3rd Ave from Van Buren Ave to Madison St from 12:00 PM to 5:00 PM on Sat Oct 24 due to Anoka Grand Day Parade",
       "rawDescription": "For northbound Route 805 get on/off buses at:\r\nHarrison St & 3rd Ave - Stop #51301 (westbound)\r\n3rd Ave & Van Buren Ave / Harrison St - Stop #50711 (northbound)\r\n\nFor southbound Route 805 get on/off buses at:\r\n3rd Ave & Van Buren Ave / Harrison St - Stop #50711 (northbound)\r\n\nNorthbound buses will travel regular route on Harrison St to 3rd Ave, continue on Harrison to 2nd Ave, left on 2nd Ave, left on Van Buren St, left on 3rd Ave and layover on northbound 3rd Ave between Van Buren Ave and Harrison St.\r\n\nSouthbound buses will depart temporary layover on northbound 3rd Ave between Van Buren Ave and Harrison St, continue on 3rd Ave, and resume regular route.\r\n\nAffected stops:\r\n3rd Ave & Golf St - Stop #51302 (southbound)\r\n3rd Ave & Jackson St - Stop #57200 (southbound)\r\n1st Ave S & Monroe St - Stop #50716 (southbound)\r\nMadison St & 3rd Ave - Stop #57209 (eastbound)\r\n3rd Ave & Jackson St - Stop #48739 (northbound)\r\n3rd Ave & Van Buren St - Stop #43897 (northbound)"
     },
