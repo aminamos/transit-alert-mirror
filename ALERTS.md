@@ -2,93 +2,143 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-107-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-100-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-108-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-6-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-99-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-81-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-80-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-24T17:21:15.079Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-24T20:36:04.012Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (3) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (5) • **Route 11A** (1) • **Route 14** (4) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (5) • **Route 25** (2) • **Route 27** (2) • **Route 32** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (7) • **Route 64D** (1) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 515** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (2) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO B Line** (1) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (4) • **Route 14** (4) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (5) • **Route 25** (2) • **Route 27** (2) • **Route 32** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (3) • **Route 64** (7) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (5) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (2) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO A Line: Northbound 11:43 AM Trip Canceled (46th St Station Gate A)
+### 🚨 METRO B Line: Eastbound 3:25 PM Trip Canceled (Lake St W & France Ave S)
 
-- **Affected Routes**: `METRO A Line`
-- **Direction**: Northbound
+- **Affected Routes**: `METRO B Line`
+- **Direction**: Eastbound
 - **Severity**: `Critical`
 
-**Summary**: Northbound A Line trip departing 46th St Station Gate A at 11:43 AM canceled today
+**Summary**: Eastbound B Line trip departing Lake St W & France Ave S at 3:25 PM canceled today due to maintenance work
 
-[Official Agency Advisory](https://www.metrotransit.org/route/aline)
+[Official Agency Advisory](https://www.metrotransit.org/route/bline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound A Line trip departing 46th St Station Gate A at 11:43 AM canceled today
+**Header**: Eastbound B Line trip departing Lake St W & France Ave S at 3:25 PM canceled today due to maintenance work
 
 </details>
 
 ---
 
-### 🚨 Route 11, Route 11A: Service Advisory
+### 🚨 Route 2: Service Canceled
 
-- **Affected Routes**: `Route 11` `Route 11A`
-- **Direction**: Southbound
+- **Affected Routes**: `Route 2`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: 43 AM will start from Nicollet Ave S & Grant St E
-- **Closed Stops**: Stop #19294, Stop #19301, Stop #57548, Stop #49304, Stop #17976, Stop #17978, Stop #17980, Stop #17982 *(+39 more)*
+- **Corridors & Intersections**: Route 2 trips departing Ontario St SE & Beacon St; 41 PM and departing Franklin Ave W & Hennepin Ave S
 
-**Summary**: Southbound Route 11A trip departing Columbia Heights Transit Center C at 10:43 AM will start from Nicollet Ave S & Grant St E at 11:20 AM today. Previous stops will be missed
+**Summary**: Route 2 trips departing Ontario St SE & Beacon St at 1:41 PM and departing Franklin Ave W & Hennepin Ave S at 2:35 PM canceled today due to mechanical issue
 
-[Official Agency Advisory](https://www.metrotransit.org/route/11)
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 11A trip departing Columbia Heights Transit Center C at 10:43 AM will start from Nicollet Ave S & Grant St E at 11:20 AM today. Previous stops will be missed
+**Header**: Route 2 trips departing Ontario St SE & Beacon St at 1:41 PM and departing Franklin Ave W & Hennepin Ave S at 2:35 PM canceled today due to mechanical issue
 
 </details>
 
 ---
 
-### 🚨 Route 14: Northbound 11:05 AM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)
+### 🚨 Route 14: Northbound 2:25 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)
 
 - **Affected Routes**: `Route 14`
 - **Direction**: Northbound
 - **Severity**: `Critical`
+- **Closed Stops**: Stop #19496, Stop #52327, Stop #52658, Stop #50153, Stop #41984, Stop #15290, Stop #15292, Stop #15294 *(+27 more)*
 
-**Summary**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 11:05 AM canceled
+**Summary**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 2:25 PM canceled today due to collision
 
 [Official Agency Advisory](https://www.metrotransit.org/route/14)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 11:05 AM canceled
+**Header**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 2:25 PM canceled today due to collision
 
 </details>
 
 ---
 
-### 🚨 Route 515: Eastbound 12:25 PM Trip Canceled (Southdale Transit Center & Gate B)
+### 🚨 Route 62: Service Canceled
 
-- **Affected Routes**: `Route 515`
-- **Direction**: Eastbound
+- **Affected Routes**: `Route 62`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
+- **Corridors & Intersections**: Route 62 trips departing Livingston Ave & Butler Ave
 
-**Summary**: Eastbound Route 515 trip departing Southdale Transit Center & Gate B at 12:25 PM canceled today
+**Summary**: Route 62 trips departing Livingston Ave & Butler Ave / Orme St at 3:35 PM and departing Market Place Dr & The Marketplace Ctr at 4:53 PM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/515)
+[Official Agency Advisory](https://www.metrotransit.org/route/62)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Route 515 trip departing Southdale Transit Center & Gate B at 12:25 PM canceled today
+**Header**: Route 62 trips departing Livingston Ave & Butler Ave / Orme St at 3:35 PM and departing Market Place Dr & The Marketplace Ctr at 4:53 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 63: Service Canceled
+
+- **Affected Routes**: `Route 63`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 63 trip departing Sun Ray Transit Center & Gate A at 6:30 PM and three other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/63)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 63 trip departing Sun Ray Transit Center & Gate A at 6:30 PM and three other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Westgate Station - Gate C at 7:44 PM
+departing Westgate Station - Gate C at 10:15 PM
+
+Affected westbound trips:
+departing Sun Ray Transit Center & Gate A at 6:30 PM
+departing Sun Ray Transit Center & Gate A at 8:53 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 74: Eastbound 2:48 PM Trip Canceled (46th St Station & Gate C)
+
+- **Affected Routes**: `Route 74`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #80949, Stop #80956, Stop #80957, Stop #81104, Stop #81106, Stop #81118, Stop #40160, Stop #57730 *(+60 more)*
+
+**Summary**: Eastbound Route 74 trip departing 46th St Station & Gate C at 2:48 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/74)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 74 trip departing 46th St Station & Gate C at 2:48 PM canceled today
 
 </details>
 
@@ -469,44 +519,6 @@ Rice St & Lawson Ave - Stop #10498 (northbound)
 Rice St & Geranium Ave - Stop #10501 (northbound)
 Maryland Ave & Rice St - Stop #47074 (westbound)
 Maryland Ave & Galtier St - Stop #5579 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 3, Route 62, Route 67: Detour via Minnesota St & 9th St
-
-- **Affected Routes**: `Route 3` `Route 62` `Route 67`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Minnesota St & 9th St; 12th St E & Wabasha St; 10th St E & Cedar St
-- **Closed Stops**: 10th St E & Cedar St (Stop #52329), Stop #50540, Stop #20008
-
-**Summary**: Routes 3, 62 and 67 detoured off 10th St from Minnesota St to Cedar St and off Cedar St from 10th St to 12th St from 7:00 AM to 2:00 PM on Sat Oct 24 due to utility work. Board at: Minnesota St & 9th St - Stop #50540 (northbound); 12th St E & Wabasha St - Stop #20008 (westbound).
-
-> 💡 **Rider Action**: Board at: Minnesota St & 9th St - Stop #50540 (northbound); 12th St E & Wabasha St - Stop #20008 (westbound)
-
-> 🔄 **Detour Path**: southbound buses will travel regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/3)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Routes 3, 62 and 67 detoured off 10th St from Minnesota St to Cedar St and off Cedar St from 10th St to 12th St from 7:00 AM to 2:00 PM on Sat Oct 24 due to utility work
-
-```text
-Get on/off buses at:
-Minnesota St & 9th St - Stop #50540 (northbound)
-12th St E & Wabasha St - Stop #20008 (westbound)
-
-Eastbound/southbound buses will travel regular route.
-
-Westbound/northbound buses will travel regular route on Minnesota St to 10th St, continue on Minnesota to 12th St, left on 12th St to Cedar St, and resume regular route.
-
-Affected stops:
-10th St E & Cedar St - Stop #52329 (westbound)
 ```
 
 </details>

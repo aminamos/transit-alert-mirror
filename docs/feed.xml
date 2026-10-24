@@ -4,44 +4,62 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 24 Oct 2026 17:21:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:36:04 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO A Line: Northbound 11:43 AM Trip Canceled (46th St Station Gate A)</title>
-      <link>https://www.metrotransit.org/route/aline</link>
-      <guid isPermaLink="false">Metro Transit-54539-2026-10-24T16:26:40.000Z</guid>
-      <pubDate>Sat, 24 Oct 2026 16:26:40 GMT</pubDate>
+      <title>[Critical] METRO B Line: Eastbound 3:25 PM Trip Canceled (Lake St W &amp; France Ave S)</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-54547-2026-10-24T19:55:01.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 19:55:01 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO A Line</category>
-      <description>Northbound A Line trip departing 46th St Station Gate A at 11:43 AM canceled today</description>
+      <category>METRO B Line</category>
+      <description>Eastbound B Line trip departing Lake St W &amp; France Ave S at 3:25 PM canceled today due to maintenance work</description>
     </item>
     <item>
-      <title>[Critical] Route 11, Route 11A: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/11</link>
-      <guid isPermaLink="false">Metro Transit-54538-2026-10-24T16:03:59.000Z</guid>
-      <pubDate>Sat, 24 Oct 2026 16:03:59 GMT</pubDate>
+      <title>[Critical] Route 2: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/2</link>
+      <guid isPermaLink="false">Metro Transit-54544-2026-10-24T19:57:37.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 19:57:37 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 11, Route 11A</category>
-      <description>Southbound Route 11A trip departing Columbia Heights Transit Center C at 10:43 AM will start from Nicollet Ave S &amp; Grant St E at 11:20 AM today. Previous stops will be missed</description>
+      <category>Route 2</category>
+      <description>Route 2 trips departing Ontario St SE &amp; Beacon St at 1:41 PM and departing Franklin Ave W &amp; Hennepin Ave S at 2:35 PM canceled today due to mechanical issue</description>
     </item>
     <item>
-      <title>[Critical] Route 14: Northbound 11:05 AM Trip Canceled (66th St E &amp; Richfield Pkwy / 16th Ave)</title>
+      <title>[Critical] Route 14: Northbound 2:25 PM Trip Canceled (66th St E &amp; Richfield Pkwy / 16th Ave)</title>
       <link>https://www.metrotransit.org/route/14</link>
-      <guid isPermaLink="false">Metro Transit-54540-2026-10-24T16:45:40.000Z</guid>
-      <pubDate>Sat, 24 Oct 2026 16:45:40 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54548-2026-10-24T20:13:20.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 20:13:20 GMT</pubDate>
       <category>Critical</category>
       <category>Route 14</category>
-      <description>Northbound Route 14 trip departing 66th St E &amp; Richfield Pkwy / 16th Ave at 11:05 AM canceled</description>
+      <description>Northbound Route 14 trip departing 66th St E &amp; Richfield Pkwy / 16th Ave at 2:25 PM canceled today due to collision</description>
     </item>
     <item>
-      <title>[Critical] Route 515: Eastbound 12:25 PM Trip Canceled (Southdale Transit Center &amp; Gate B)</title>
-      <link>https://www.metrotransit.org/route/515</link>
-      <guid isPermaLink="false">Metro Transit-54541-2026-10-24T17:18:59.000Z</guid>
-      <pubDate>Sat, 24 Oct 2026 17:18:59 GMT</pubDate>
+      <title>[Critical] Route 62: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/62</link>
+      <guid isPermaLink="false">Metro Transit-54545-2026-10-24T20:05:01.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 20:05:01 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 515</category>
-      <description>Eastbound Route 515 trip departing Southdale Transit Center &amp; Gate B at 12:25 PM canceled today</description>
+      <category>Route 62</category>
+      <description>Route 62 trips departing Livingston Ave &amp; Butler Ave / Orme St at 3:35 PM and departing Market Place Dr &amp; The Marketplace Ctr at 4:53 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 63: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/63</link>
+      <guid isPermaLink="false">Metro Transit-54546-2026-10-24T19:49:01.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 19:49:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 63</category>
+      <description>Route 63 trip departing Sun Ray Transit Center &amp; Gate A at 6:30 PM and three other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 74: Eastbound 2:48 PM Trip Canceled (46th St Station &amp; Gate C)</title>
+      <link>https://www.metrotransit.org/route/74</link>
+      <guid isPermaLink="false">Metro Transit-54549-2026-10-24T20:27:01.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 20:27:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 74</category>
+      <description>Eastbound Route 74 trip departing 46th St Station &amp; Gate C at 2:48 PM canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -114,15 +132,6 @@
       <category>Moderate</category>
       <category>Route 3, Route 3A</category>
       <description>Route 3A detoured off Maryland Ave from Galtier St to Rice St and off Rice St from Maryland Ave to Como Ave beginning Mon Apr 6 at 4:00 AM until further notice due to construction. Board at: Maryland Ave &amp; Galtier St - Stop #5571 (eastbound); Temporary stop on Galtier St &amp; Cook Ave (southbound); Temporary stop on Galtier St &amp; Front Ave (southbound). | Action: Board at: Maryland Ave &amp; Galtier St - Stop #5571 (eastbound); Temporary stop on Galtier St &amp; Cook Ave (southbound); Temporary stop on Galtier St &amp; Front Ave (southbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 3, Route 62, Route 67: Detour via Minnesota St &amp; 9th St</title>
-      <link>https://www.metrotransit.org/route/3</link>
-      <guid isPermaLink="false">Metro Transit-54338-2026-10-24T11:30:04.000Z</guid>
-      <pubDate>Sat, 24 Oct 2026 11:30:04 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 3, Route 62, Route 67</category>
-      <description>Routes 3, 62 and 67 detoured off 10th St from Minnesota St to Cedar St and off Cedar St from 10th St to 12th St from 7:00 AM to 2:00 PM on Sat Oct 24 due to utility work. Board at: Minnesota St &amp; 9th St - Stop #50540 (northbound); 12th St E &amp; Wabasha St - Stop #20008 (westbound). | Action: Board at: Minnesota St &amp; 9th St - Stop #50540 (northbound); 12th St E &amp; Wabasha St - Stop #20008 (westbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 5: Detour via Portland Ave &amp; 52nd St</title>

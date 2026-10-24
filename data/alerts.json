@@ -1,295 +1,24 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-24T17:21:15.079Z",
-    "totalAlerts": 107,
-    "criticalCount": 4,
-    "moderateCount": 100,
+    "generatedAt": "2026-10-24T20:36:04.012Z",
+    "totalAlerts": 108,
+    "criticalCount": 6,
+    "moderateCount": 99,
     "minorCount": 3,
-    "affectedRoutesCount": 81,
+    "affectedRoutesCount": 80,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "54539",
+      "id": "54547",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO A Line: Northbound 11:43 AM Trip Canceled (46th St Station Gate A)",
-      "summary": "Northbound A Line trip departing 46th St Station Gate A at 11:43 AM canceled today",
+      "title": "METRO B Line: Eastbound 3:25 PM Trip Canceled (Lake St W & France Ave S)",
+      "summary": "Eastbound B Line trip departing Lake St W & France Ave S at 3:25 PM canceled today due to maintenance work",
       "affectedRoutes": [
-        "METRO A Line"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-24T16:43:00.000Z",
-        "end": "2026-10-24T18:22:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/aline",
-      "updatedAt": "2026-10-24T16:26:40.000Z",
-      "rawHeader": "Northbound A Line trip departing 46th St Station Gate A at 11:43 AM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "54538",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 11, Route 11A: Service Advisory",
-      "summary": "Southbound Route 11A trip departing Columbia Heights Transit Center C at 10:43 AM will start from Nicollet Ave S & Grant St E at 11:20 AM today. Previous stops will be missed",
-      "affectedRoutes": [
-        "Route 11",
-        "Route 11A"
-      ],
-      "direction": "Southbound",
-      "intersections": [
-        "43 AM will start from Nicollet Ave S & Grant St E"
-      ],
-      "closedStopIds": [
-        "19294",
-        "19301",
-        "57548",
-        "49304",
-        "17976",
-        "17978",
-        "17980",
-        "17982",
-        "17984",
-        "17986",
-        "40882",
-        "17916",
-        "17917",
-        "17165",
-        "15562",
-        "14594",
-        "14595",
-        "14596",
-        "14597",
-        "14598",
-        "14599",
-        "14600",
-        "14604",
-        "14607",
-        "14608",
-        "14611",
-        "14616",
-        "14619",
-        "14620",
-        "14623",
-        "14630",
-        "14633",
-        "14634",
-        "14637",
-        "14638",
-        "14641",
-        "14650",
-        "14661",
-        "14665",
-        "14669",
-        "14673",
-        "14678",
-        "14681",
-        "14685",
-        "14689",
-        "12798",
-        "12802"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "19294"
-        },
-        {
-          "id": "19301"
-        },
-        {
-          "id": "57548"
-        },
-        {
-          "id": "49304"
-        },
-        {
-          "id": "17976"
-        },
-        {
-          "id": "17978"
-        },
-        {
-          "id": "17980"
-        },
-        {
-          "id": "17982"
-        },
-        {
-          "id": "17984"
-        },
-        {
-          "id": "17986"
-        },
-        {
-          "id": "40882"
-        },
-        {
-          "id": "17916"
-        },
-        {
-          "id": "17917"
-        },
-        {
-          "id": "17165"
-        },
-        {
-          "id": "15562"
-        },
-        {
-          "id": "14594"
-        },
-        {
-          "id": "14595"
-        },
-        {
-          "id": "14596"
-        },
-        {
-          "id": "14597"
-        },
-        {
-          "id": "14598"
-        },
-        {
-          "id": "14599"
-        },
-        {
-          "id": "14600"
-        },
-        {
-          "id": "14604"
-        },
-        {
-          "id": "14607"
-        },
-        {
-          "id": "14608"
-        },
-        {
-          "id": "14611"
-        },
-        {
-          "id": "14616"
-        },
-        {
-          "id": "14619"
-        },
-        {
-          "id": "14620"
-        },
-        {
-          "id": "14623"
-        },
-        {
-          "id": "14630"
-        },
-        {
-          "id": "14633"
-        },
-        {
-          "id": "14634"
-        },
-        {
-          "id": "14637"
-        },
-        {
-          "id": "14638"
-        },
-        {
-          "id": "14641"
-        },
-        {
-          "id": "14650"
-        },
-        {
-          "id": "14661"
-        },
-        {
-          "id": "14665"
-        },
-        {
-          "id": "14669"
-        },
-        {
-          "id": "14673"
-        },
-        {
-          "id": "14678"
-        },
-        {
-          "id": "14681"
-        },
-        {
-          "id": "14685"
-        },
-        {
-          "id": "14689"
-        },
-        {
-          "id": "12798"
-        },
-        {
-          "id": "12802"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-24T16:02:00.000Z",
-        "end": "2026-10-24T17:40:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-10-24T16:03:59.000Z",
-      "rawHeader": "Southbound Route 11A trip departing Columbia Heights Transit Center C at 10:43 AM will start from Nicollet Ave S & Grant St E at 11:20 AM today. Previous stops will be missed",
-      "rawDescription": ""
-    },
-    {
-      "id": "54540",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 14: Northbound 11:05 AM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)",
-      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 11:05 AM canceled",
-      "affectedRoutes": [
-        "Route 14"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-24T16:45:00.000Z",
-        "end": "2026-10-24T18:09:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/14",
-      "updatedAt": "2026-10-24T16:45:40.000Z",
-      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 11:05 AM canceled",
-      "rawDescription": ""
-    },
-    {
-      "id": "54541",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 515: Eastbound 12:25 PM Trip Canceled (Southdale Transit Center & Gate B)",
-      "summary": "Eastbound Route 515 trip departing Southdale Transit Center & Gate B at 12:25 PM canceled today",
-      "affectedRoutes": [
-        "Route 515"
+        "METRO B Line"
       ],
       "direction": "Eastbound",
       "intersections": [],
@@ -298,14 +27,565 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-24T17:25:00.000Z",
-        "end": "2026-10-24T18:51:00.000Z"
+        "start": "2026-10-24T20:25:00.000Z",
+        "end": "2026-10-24T22:35:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-10-24T19:55:01.000Z",
+      "rawHeader": "Eastbound B Line trip departing Lake St W & France Ave S at 3:25 PM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "54544",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 2: Service Canceled",
+      "summary": "Route 2 trips departing Ontario St SE & Beacon St at 1:41 PM and departing Franklin Ave W & Hennepin Ave S at 2:35 PM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 2"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 2 trips departing Ontario St SE & Beacon St",
+        "41 PM and departing Franklin Ave W & Hennepin Ave S"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-24T19:57:00.000Z",
+        "end": "2026-10-24T21:22:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/2",
+      "updatedAt": "2026-10-24T19:57:37.000Z",
+      "rawHeader": "Route 2 trips departing Ontario St SE & Beacon St at 1:41 PM and departing Franklin Ave W & Hennepin Ave S at 2:35 PM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "54548",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 14: Northbound 2:25 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)",
+      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 2:25 PM canceled today due to collision",
+      "affectedRoutes": [
+        "Route 14"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [
+        "19496",
+        "52327",
+        "52658",
+        "50153",
+        "41984",
+        "15290",
+        "15292",
+        "15294",
+        "15296",
+        "15298",
+        "15300",
+        "40764",
+        "16342",
+        "16353",
+        "8271",
+        "8277",
+        "8291",
+        "8294",
+        "8306",
+        "8316",
+        "8318",
+        "8326",
+        "8330",
+        "8336",
+        "8338",
+        "8340",
+        "8344",
+        "8360",
+        "8368",
+        "8372",
+        "8376",
+        "8384",
+        "8386",
+        "8388",
+        "8390"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "19496"
+        },
+        {
+          "id": "52327"
+        },
+        {
+          "id": "52658"
+        },
+        {
+          "id": "50153"
+        },
+        {
+          "id": "41984"
+        },
+        {
+          "id": "15290"
+        },
+        {
+          "id": "15292"
+        },
+        {
+          "id": "15294"
+        },
+        {
+          "id": "15296"
+        },
+        {
+          "id": "15298"
+        },
+        {
+          "id": "15300"
+        },
+        {
+          "id": "40764"
+        },
+        {
+          "id": "16342"
+        },
+        {
+          "id": "16353"
+        },
+        {
+          "id": "8271"
+        },
+        {
+          "id": "8277"
+        },
+        {
+          "id": "8291"
+        },
+        {
+          "id": "8294"
+        },
+        {
+          "id": "8306"
+        },
+        {
+          "id": "8316"
+        },
+        {
+          "id": "8318"
+        },
+        {
+          "id": "8326"
+        },
+        {
+          "id": "8330"
+        },
+        {
+          "id": "8336"
+        },
+        {
+          "id": "8338"
+        },
+        {
+          "id": "8340"
+        },
+        {
+          "id": "8344"
+        },
+        {
+          "id": "8360"
+        },
+        {
+          "id": "8368"
+        },
+        {
+          "id": "8372"
+        },
+        {
+          "id": "8376"
+        },
+        {
+          "id": "8384"
+        },
+        {
+          "id": "8386"
+        },
+        {
+          "id": "8388"
+        },
+        {
+          "id": "8390"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-24T20:12:00.000Z",
+        "end": "2026-10-24T21:31:00.000Z"
+      },
+      "cause": "ACCIDENT",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/14",
+      "updatedAt": "2026-10-24T20:13:20.000Z",
+      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 2:25 PM canceled today due to collision",
+      "rawDescription": ""
+    },
+    {
+      "id": "54545",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 62: Service Canceled",
+      "summary": "Route 62 trips departing Livingston Ave & Butler Ave / Orme St at 3:35 PM and departing Market Place Dr & The Marketplace Ctr at 4:53 PM canceled today",
+      "affectedRoutes": [
+        "Route 62"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 62 trips departing Livingston Ave & Butler Ave"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-24T20:35:00.000Z",
+        "end": "2026-10-24T23:50:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/515",
-      "updatedAt": "2026-10-24T17:18:59.000Z",
-      "rawHeader": "Eastbound Route 515 trip departing Southdale Transit Center & Gate B at 12:25 PM canceled today",
+      "url": "https://www.metrotransit.org/route/62",
+      "updatedAt": "2026-10-24T20:05:01.000Z",
+      "rawHeader": "Route 62 trips departing Livingston Ave & Butler Ave / Orme St at 3:35 PM and departing Market Place Dr & The Marketplace Ctr at 4:53 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "54546",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 63: Service Canceled",
+      "summary": "Route 63 trip departing Sun Ray Transit Center & Gate A at 6:30 PM and three other trips canceled today",
+      "affectedRoutes": [
+        "Route 63"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-24T23:30:00.000Z",
+        "end": "2026-10-25T05:07:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/63",
+      "updatedAt": "2026-10-24T19:49:01.000Z",
+      "rawHeader": "Route 63 trip departing Sun Ray Transit Center & Gate A at 6:30 PM and three other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Westgate Station - Gate C at 7:44 PM\r\ndeparting Westgate Station - Gate C at 10:15 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate A at 6:30 PM\r\ndeparting Sun Ray Transit Center & Gate A at 8:53 PM"
+    },
+    {
+      "id": "54549",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 74: Eastbound 2:48 PM Trip Canceled (46th St Station & Gate C)",
+      "summary": "Eastbound Route 74 trip departing 46th St Station & Gate C at 2:48 PM canceled today",
+      "affectedRoutes": [
+        "Route 74"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [
+        "80949",
+        "80956",
+        "80957",
+        "81104",
+        "81106",
+        "81118",
+        "40160",
+        "57730",
+        "57731",
+        "3142",
+        "3178",
+        "49604",
+        "49605",
+        "49606",
+        "49607",
+        "49608",
+        "49609",
+        "49610",
+        "49611",
+        "49612",
+        "49624",
+        "47041",
+        "42055",
+        "42425",
+        "51289",
+        "53948",
+        "53982",
+        "53984",
+        "56049",
+        "56050",
+        "57215",
+        "11834",
+        "11837",
+        "11838",
+        "11839",
+        "11845",
+        "11846",
+        "11847",
+        "11849",
+        "11842",
+        "13667",
+        "13823",
+        "13827",
+        "11729",
+        "11731",
+        "11734",
+        "11736",
+        "11737",
+        "11739",
+        "11740",
+        "10231",
+        "10232",
+        "10234",
+        "10236",
+        "10238",
+        "10239",
+        "10241",
+        "10242",
+        "10385",
+        "10395",
+        "10396",
+        "10397",
+        "10398",
+        "10399",
+        "10400",
+        "10401",
+        "10402",
+        "10403"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "80949"
+        },
+        {
+          "id": "80956"
+        },
+        {
+          "id": "80957"
+        },
+        {
+          "id": "81104"
+        },
+        {
+          "id": "81106"
+        },
+        {
+          "id": "81118"
+        },
+        {
+          "id": "40160"
+        },
+        {
+          "id": "57730"
+        },
+        {
+          "id": "57731"
+        },
+        {
+          "id": "3142"
+        },
+        {
+          "id": "3178"
+        },
+        {
+          "id": "49604"
+        },
+        {
+          "id": "49605"
+        },
+        {
+          "id": "49606"
+        },
+        {
+          "id": "49607"
+        },
+        {
+          "id": "49608"
+        },
+        {
+          "id": "49609"
+        },
+        {
+          "id": "49610"
+        },
+        {
+          "id": "49611"
+        },
+        {
+          "id": "49612"
+        },
+        {
+          "id": "49624"
+        },
+        {
+          "id": "47041"
+        },
+        {
+          "id": "42055"
+        },
+        {
+          "id": "42425"
+        },
+        {
+          "id": "51289"
+        },
+        {
+          "id": "53948"
+        },
+        {
+          "id": "53982"
+        },
+        {
+          "id": "53984"
+        },
+        {
+          "id": "56049"
+        },
+        {
+          "id": "56050"
+        },
+        {
+          "id": "57215"
+        },
+        {
+          "id": "11834"
+        },
+        {
+          "id": "11837"
+        },
+        {
+          "id": "11838"
+        },
+        {
+          "id": "11839"
+        },
+        {
+          "id": "11845"
+        },
+        {
+          "id": "11846"
+        },
+        {
+          "id": "11847"
+        },
+        {
+          "id": "11849"
+        },
+        {
+          "id": "11842"
+        },
+        {
+          "id": "13667"
+        },
+        {
+          "id": "13823"
+        },
+        {
+          "id": "13827"
+        },
+        {
+          "id": "11729"
+        },
+        {
+          "id": "11731"
+        },
+        {
+          "id": "11734"
+        },
+        {
+          "id": "11736"
+        },
+        {
+          "id": "11737"
+        },
+        {
+          "id": "11739"
+        },
+        {
+          "id": "11740"
+        },
+        {
+          "id": "10231"
+        },
+        {
+          "id": "10232"
+        },
+        {
+          "id": "10234"
+        },
+        {
+          "id": "10236"
+        },
+        {
+          "id": "10238"
+        },
+        {
+          "id": "10239"
+        },
+        {
+          "id": "10241"
+        },
+        {
+          "id": "10242"
+        },
+        {
+          "id": "10385"
+        },
+        {
+          "id": "10395"
+        },
+        {
+          "id": "10396"
+        },
+        {
+          "id": "10397"
+        },
+        {
+          "id": "10398"
+        },
+        {
+          "id": "10399"
+        },
+        {
+          "id": "10400"
+        },
+        {
+          "id": "10401"
+        },
+        {
+          "id": "10402"
+        },
+        {
+          "id": "10403"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-24T20:26:00.000Z",
+        "end": "2026-10-24T21:52:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/74",
+      "updatedAt": "2026-10-24T20:27:01.000Z",
+      "rawHeader": "Eastbound Route 74 trip departing 46th St Station & Gate C at 2:48 PM canceled today",
       "rawDescription": ""
     },
     {
@@ -926,54 +1206,6 @@
       "updatedAt": "2026-04-13T09:00:01.000Z",
       "rawHeader": "Route 3A detoured off Maryland Ave from Galtier St to Rice St and off Rice St from Maryland Ave to Como Ave beginning Mon Apr 6 at 4:00 AM until further notice due to construction",
       "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nMaryland Ave & Galtier St - Stop #5571 (eastbound)\r\nTemporary stop on Galtier St & Cook Ave (southbound)\r\nTemporary stop on Galtier St & Front Ave (southbound)\r\nTemporary stop on Galtier St & Atwater St (southbound)\r\nComo Ave & Rice St - Stop #973 (eastbound)\r\nRice St & Charles Ave - Stop #974 (southbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\nRice St & Charles Ave - Stop #10488 (northbound)\r\nComo Ave & Rice St - Stop #49895 (westbound)\r\nTemporary stop on Atwater St & Galtier St (eastbound)\r\nTemporary stop on Galtier St & Front Ave (northbound)\r\nTemporary stop on Galtier St & Maryland Ave (northbound)\r\nMaryland Ave & Western Ave - Stop #5583 (westbound)\r\n\nEastbound 3A buses will travel regular route on Maryland Ave to Galtier St, right on Galtier, right on Atwater St, left on Western Ave, left on Como Ave, right on Rice St, and resume regular route.\r\n\nWestbound 3A buses will travel regular route on Rice St to Como Ave, left on Como, right on Western Ave, right on Atwater St, left on Galtier St, left on Maryland Ave, and resume regular route.\r\n\nAffected stops:\r\nMaryland Ave & Rice St - Stop #5575 (eastbound)\r\nRice St & Geranium Ave - Stop #10473 (southbound)\r\nRice St & Lawson Ave - Stop #10476 (southbound)\r\nRice St & Litchfield St - Stop #10479 (southbound)\r\nRice St & Milford St - Stop #10480 (southbound)\r\nRice St & Sycamore St - Stop #10482 (southbound)\r\nRice St & Pennsylvania Ave - Stop #10483 (southbound)\r\nRice St & Como Ave - Stop #10484 (southbound)\r\nRice St & Como Ave - Stop #10489 (northbound)\r\nRice St & Pennsylvania Ave - Stop #10490 (northbound)\r\nRice St & Sycamore St - Stop #10491 (northbound)\r\nRice St & Manitoba Ave - Stop #10494 (northbound)\r\nRice St & Front Ave - Stop #10496 (northbound)\r\nRice St & Lawson Ave - Stop #10498 (northbound)\r\nRice St & Geranium Ave - Stop #10501 (northbound)\r\nMaryland Ave & Rice St - Stop #47074 (westbound)\r\nMaryland Ave & Galtier St - Stop #5579 (westbound)"
-    },
-    {
-      "id": "54338",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 3, Route 62, Route 67: Detour via Minnesota St & 9th St",
-      "summary": "Routes 3, 62 and 67 detoured off 10th St from Minnesota St to Cedar St and off Cedar St from 10th St to 12th St from 7:00 AM to 2:00 PM on Sat Oct 24 due to utility work. Board at: Minnesota St & 9th St - Stop #50540 (northbound); 12th St E & Wabasha St - Stop #20008 (westbound).",
-      "affectedRoutes": [
-        "Route 3",
-        "Route 62",
-        "Route 67"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Minnesota St & 9th St",
-        "12th St E & Wabasha St",
-        "10th St E & Cedar St"
-      ],
-      "closedStopIds": [
-        "52329",
-        "50540",
-        "20008"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "52329",
-          "name": "10th St E & Cedar St",
-          "direction": "westbound"
-        },
-        {
-          "id": "50540"
-        },
-        {
-          "id": "20008"
-        }
-      ],
-      "riderAlternative": "Board at: Minnesota St & 9th St - Stop #50540 (northbound); 12th St E & Wabasha St - Stop #20008 (westbound)",
-      "detourDetails": "southbound buses will travel regular route.",
-      "activePeriod": {
-        "start": "2026-10-24T12:00:00.000Z",
-        "end": "2026-10-24T19:00:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-10-24T11:30:04.000Z",
-      "rawHeader": "Routes 3, 62 and 67 detoured off 10th St from Minnesota St to Cedar St and off Cedar St from 10th St to 12th St from 7:00 AM to 2:00 PM on Sat Oct 24 due to utility work",
-      "rawDescription": "Get on/off buses at:\r\nMinnesota St & 9th St - Stop #50540 (northbound)\r\n12th St E & Wabasha St - Stop #20008 (westbound)\r\n\nEastbound/southbound buses will travel regular route.\r\n\nWestbound/northbound buses will travel regular route on Minnesota St to 10th St, continue on Minnesota to 12th St, left on 12th St to Cedar St, and resume regular route.\r\n\nAffected stops:\r\n10th St E & Cedar St - Stop #52329 (westbound)"
     },
     {
       "id": "54263",
