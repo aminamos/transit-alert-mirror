@@ -4,17 +4,44 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 25 Oct 2026 14:14:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 18:19:53 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 22, Route 22H: Southbound 7:52 AM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)</title>
-      <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-54569-2026-10-25T13:48:39.000Z</guid>
-      <pubDate>Sun, 25 Oct 2026 13:48:39 GMT</pubDate>
+      <title>[Critical] METRO Orange Line: Southbound 1:03 PM Trip Canceled (Marquette Ave &amp; 3rd St - Stop Group C)</title>
+      <link>https://www.metrotransit.org/route/orange</link>
+      <guid isPermaLink="false">Metro Transit-54575-2026-10-25T17:59:19.000Z</guid>
+      <pubDate>Sun, 25 Oct 2026 17:59:19 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 22, Route 22H</category>
-      <description>Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 7:52 AM canceled</description>
+      <category>METRO Orange Line</category>
+      <description>Southbound Orange Line trip departing Marquette Ave &amp; 3rd St - Stop Group C at 1:03 PM canceled today due to maintenance work</description>
+    </item>
+    <item>
+      <title>[Critical] Route 4, Route 4P: Southbound 12:30 PM Trip Canceled (Silver Lk &amp; Cub Foods Svc Rd / 39th Ave)</title>
+      <link>https://www.metrotransit.org/route/4</link>
+      <guid isPermaLink="false">Metro Transit-54573-2026-10-25T17:48:01.000Z</guid>
+      <pubDate>Sun, 25 Oct 2026 17:48:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 4, Route 4P</category>
+      <description>Southbound Route 4P trip departing Silver Lk &amp; Cub Foods Svc Rd / 39th Ave at 12:30 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 54: Westbound 12:05 PM Trip Canceled (Maplewood Mall Transit Center &amp; Gate B)</title>
+      <link>https://www.metrotransit.org/route/54</link>
+      <guid isPermaLink="false">Metro Transit-54572-2026-10-25T17:12:55.000Z</guid>
+      <pubDate>Sun, 25 Oct 2026 17:12:55 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 54</category>
+      <description>Westbound Route 54 trip departing Maplewood Mall Transit Center &amp; Gate B at 12:05 PM canceled today due to maintenance work</description>
+    </item>
+    <item>
+      <title>[Critical] Route 805: Northbound 12:04 PM Trip Canceled (Northtown Transit Ctr Gate D)</title>
+      <link>https://www.metrotransit.org/route/805</link>
+      <guid isPermaLink="false">Metro Transit-54574-2026-10-25T17:49:10.000Z</guid>
+      <pubDate>Sun, 25 Oct 2026 17:49:10 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 805</category>
+      <description>Northbound Route 805 trip departing Northtown Transit Ctr Gate D at 12:04 PM canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>

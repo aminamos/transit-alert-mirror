@@ -1,25 +1,24 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-25T14:14:25.431Z",
-    "totalAlerts": 100,
-    "criticalCount": 1,
+    "generatedAt": "2026-10-25T18:19:53.550Z",
+    "totalAlerts": 103,
+    "criticalCount": 4,
     "moderateCount": 96,
     "minorCount": 3,
-    "affectedRoutesCount": 79,
+    "affectedRoutesCount": 81,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "54569",
+      "id": "54575",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 22, Route 22H: Southbound 7:52 AM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)",
-      "summary": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 7:52 AM canceled",
+      "title": "METRO Orange Line: Southbound 1:03 PM Trip Canceled (Marquette Ave & 3rd St - Stop Group C)",
+      "summary": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 1:03 PM canceled today due to maintenance work",
       "affectedRoutes": [
-        "Route 22",
-        "Route 22H"
+        "METRO Orange Line"
       ],
       "direction": "Southbound",
       "intersections": [],
@@ -28,14 +27,95 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-25T13:48:00.000Z",
-        "end": "2026-10-25T15:06:00.000Z"
+        "start": "2026-10-25T18:03:00.000Z",
+        "end": "2026-10-25T19:38:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/orange",
+      "updatedAt": "2026-10-25T17:59:19.000Z",
+      "rawHeader": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 1:03 PM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "54573",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 4, Route 4P: Southbound 12:30 PM Trip Canceled (Silver Lk & Cub Foods Svc Rd / 39th Ave)",
+      "summary": "Southbound Route 4P trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 12:30 PM canceled today",
+      "affectedRoutes": [
+        "Route 4",
+        "Route 4P"
+      ],
+      "direction": "Southbound",
+      "intersections": [
+        "Cub Foods Svc Rd & 39th Ave"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-25T17:47:00.000Z",
+        "end": "2026-10-25T19:40:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-10-25T13:48:39.000Z",
-      "rawHeader": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 7:52 AM canceled",
+      "url": "https://www.metrotransit.org/route/4",
+      "updatedAt": "2026-10-25T17:48:01.000Z",
+      "rawHeader": "Southbound Route 4P trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 12:30 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "54572",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 54: Westbound 12:05 PM Trip Canceled (Maplewood Mall Transit Center & Gate B)",
+      "summary": "Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 12:05 PM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "Route 54"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-25T17:12:00.000Z",
+        "end": "2026-10-25T19:14:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/54",
+      "updatedAt": "2026-10-25T17:12:55.000Z",
+      "rawHeader": "Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 12:05 PM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "54574",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 805: Northbound 12:04 PM Trip Canceled (Northtown Transit Ctr Gate D)",
+      "summary": "Northbound Route 805 trip departing Northtown Transit Ctr Gate D at 12:04 PM canceled today",
+      "affectedRoutes": [
+        "Route 805"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-25T17:48:00.000Z",
+        "end": "2026-10-25T18:49:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/805",
+      "updatedAt": "2026-10-25T17:49:10.000Z",
+      "rawHeader": "Northbound Route 805 trip departing Northtown Transit Ctr Gate D at 12:04 PM canceled today",
       "rawDescription": ""
     },
     {
