@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-25T04:24:34.144Z",
-    "totalAlerts": 102,
-    "criticalCount": 2,
-    "moderateCount": 97,
+    "generatedAt": "2026-10-25T09:43:01.100Z",
+    "totalAlerts": 99,
+    "criticalCount": 0,
+    "moderateCount": 96,
     "minorCount": 3,
     "affectedRoutesCount": 78,
     "agencies": [
@@ -11,58 +11,6 @@
     ]
   },
   "alerts": [
-    {
-      "id": "54563",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 61: Westbound 10:50 PM Trip Canceled (Smith & 5th St Station)",
-      "summary": "Westbound Route 61 trip departing Smith & 5th St Station at 10:50 PM canceled today",
-      "affectedRoutes": [
-        "Route 61"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-25T03:50:00.000Z",
-        "end": "2026-10-25T05:56:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/61",
-      "updatedAt": "2026-10-25T03:20:01.000Z",
-      "rawHeader": "Westbound Route 61 trip departing Smith & 5th St Station at 10:50 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "54546",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 63: Service Canceled",
-      "summary": "Route 63 trip departing Sun Ray Transit Center & Gate A at 6:30 PM and three other trips canceled today",
-      "affectedRoutes": [
-        "Route 63"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-24T23:30:00.000Z",
-        "end": "2026-10-25T05:07:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/63",
-      "updatedAt": "2026-10-24T23:00:01.000Z",
-      "rawHeader": "Route 63 trip departing Sun Ray Transit Center & Gate A at 6:30 PM and three other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Westgate Station - Gate C at 7:44 PM\r\ndeparting Westgate Station - Gate C at 10:15 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate A at 6:30 PM\r\ndeparting Sun Ray Transit Center & Gate A at 8:53 PM"
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -204,7 +152,7 @@
       },
       "cause": "OTHER_CAUSE",
       "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-10-24T05:00:02.000Z",
+      "updatedAt": "2026-10-25T05:00:01.000Z",
       "rawHeader": "METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 10/25 from 9am - 5pm",
       "rawDescription": "Due to street closures around U.S. Bank Stadium Station during the Vikings game, please transfer between the METRO Blue and Green lines at Government Plaza Station instead.\r\n\nAffected stops:\r\nU.S. Bank Stadium Station (eastbound)\r\nU.S. Bank Stadium Station (northbound)\r\nU.S. Bank Stadium Station (southbound)\r\nU.S. Bank Stadium Station (westbound)"
     },
@@ -1311,7 +1259,7 @@
       },
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
-      "updatedAt": "2026-10-23T05:00:01.000Z",
+      "updatedAt": "2026-10-25T05:00:01.000Z",
       "rawHeader": "Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 11th St to 12th St from Mon Oct 26 at 7:00 AM to Fri Oct 30 at 4:00 PM due to construction",
       "rawDescription": "Note: This detour will only be in effect when the road is blocked. If road is open, buses will follow regular route.\r\n\nGet on/off northbound/eastbound buses at:\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\n\nNo southbound/westbound stops missed.\r\n\nNorthbound/eastbound buses will travel regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume regular route.\r\n\nSouthbound/westbound buses will travel regular route on Nicollet Mall to 11th St, right on 11th St, left on LaSalle Ave, left on 12th St, right on Nicollet Mall, and resume regular route.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)"
     },
@@ -1684,7 +1632,7 @@
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-10-22T14:57:22.000Z",
+      "updatedAt": "2026-10-25T05:00:01.000Z",
       "rawHeader": "Lowry Ave NE & Howard St NE - Stop #57446 (westbound) is closed for Routes 17 and 32 from 7:00 AM to 7:00 PM on Mon Oct 26 due to construction",
       "rawDescription": "Get on/off buses at:\r\nCentral Ave NE & Lowry Ave NE - Stop #17195 (southbound, Route 17 only)\r\nLowry Ave NE & Central Ave NE - Stop #12828 (westbound, Route 32 only)\r\nLowry Ave NE & Jefferson / Washington St - Stop #12813 (westbound)"
     },
@@ -2780,7 +2728,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-24T23:15:02.000Z",
+      "updatedAt": "2026-10-25T05:00:01.000Z",
       "rawHeader": "Ford Pkwy & Cretin Ave - Stop #4280 (eastbound) is closed for Routes 38 and 74 starting Thu Oct 22 until further notice  from 7:00 AM to 6:00 PM each day",
       "rawDescription": "Get on/off buses at:\r\nFord & Woodlawn Station - Stop #56111 (eastbound)\r\nFord & Finn Station - Stop #56112 (eastbound)"
     },
@@ -3010,81 +2958,6 @@
       "updatedAt": "2026-10-22T16:40:02.000Z",
       "rawHeader": "Maryland Ave & Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nMaryland Ave & Cypress St - Stop #12918 (eastbound)"
-    },
-    {
-      "id": "54558",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 54, Route 61, Route 74: Detour via 6th St E & Maria Ave",
-      "summary": "Routes 54, 61 and 74 detoured off 6th St between Sinnen and Maple until later today due to non-transit collision. Board at: 6th St E & Maria Ave - Stop #80956 (eastbound); 6th St E & Arcade St - Stop #81106 (eastbound).",
-      "affectedRoutes": [
-        "Route 54",
-        "Route 61",
-        "Route 74"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "6th St E & Maria Ave",
-        "6th St E & Arcade St",
-        "6th St E & Maple St",
-        "6th St E & Hope St"
-      ],
-      "closedStopIds": [
-        "53984",
-        "53982",
-        "53981",
-        "53983",
-        "80956",
-        "81106",
-        "81105",
-        "80959"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "53984",
-          "name": "6th St E & Maple St",
-          "direction": "eastbound"
-        },
-        {
-          "id": "53982",
-          "name": "6th St E & Hope St",
-          "direction": "eastbound"
-        },
-        {
-          "id": "53981",
-          "name": "6th St E & Hope St",
-          "direction": "westbound"
-        },
-        {
-          "id": "53983",
-          "name": "6th St E & Maple St",
-          "direction": "westbound"
-        },
-        {
-          "id": "80956"
-        },
-        {
-          "id": "81106"
-        },
-        {
-          "id": "81105"
-        },
-        {
-          "id": "80959"
-        }
-      ],
-      "riderAlternative": "Board at: 6th St E & Maria Ave - Stop #80956 (eastbound); 6th St E & Arcade St - Stop #81106 (eastbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-25T00:45:00.000Z",
-        "end": "2026-10-25T06:23:24.000Z"
-      },
-      "cause": "ACCIDENT",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/74",
-      "updatedAt": "2026-10-25T00:45:34.000Z",
-      "rawHeader": "Routes 54, 61 and 74 detoured off 6th St between Sinnen and Maple until later today due to non-transit collision",
-      "rawDescription": "For Both Routes 54, 61 and 74 get on/off buses at:\r\n6th St E & Maria Ave - Stop #80956 (eastbound)\r\n6th St E & Arcade St - Stop #81106 (eastbound)\r\n\nFor westbound Routes 54, 61 and 74 get on/off buses at:\r\n6th St E & Arcade St - Stop #81105 (westbound)\r\n6th St E & Maria Ave - Stop #80959 (westbound)\r\n\nEastbound Routes 54 and 74 and Westbound Route 61\r\nTravel east on 6th to Eichenwald, left on Eichenwald, right on 7th, right on Sinnen, left on 6th and resume regular route\r\n\nWestbound Routes 54 and 74 and Eastbound 61\r\nTravel west on 6th to Mendota, left on Mendota, right on 4th, right on Maple, left on 6th and resume regular route\r\n\nAffected stops:\r\n6th St E & Maple St - Stop #53984 (eastbound)\r\n6th St E & Hope St - Stop #53982 (eastbound)\r\n6th St E & Hope St - Stop #53981 (westbound)\r\n6th St E & Maple St - Stop #53983 (westbound)"
     },
     {
       "id": "48758",
@@ -3953,7 +3826,7 @@
       "cause": "MAINTENANCE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/64",
-      "updatedAt": "2026-10-24T15:39:25.000Z",
+      "updatedAt": "2026-10-25T05:00:00.000Z",
       "rawHeader": "Route 64D detoured off Larpenteur Ave from Dieter St to Barclay St beginning Mon Oct 26 at 6:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off eastbound buses at:\r\nLarpenteur Ave & Prosperity Ave - Stop #42156 (westbound)\r\nLarpenteur Ave & Birmingham St - Stop #5376 (westbound)\r\n\nNo westbound stops missed\r\n\nEastbound Route 64D buses will travel regular route on Larpenteur Ave to Dieter St, left on Dieter St, right on Idaho Ave, right on Barclay St, left on Larpenteur Ave and resume regular route.\r\n\nWestbound Route 64 via English St buses will travel regular route on Larpenteur Ave to Barclay St, right on Barclay St, left on Idaho Ave, left on Dieter St, right on Larpenteur Ave and resume regular route.\r\n\nAffected stops:\r\nLarpenteur Ave & Barclay St - Stop #5374 (westbound)"
     },
@@ -6532,7 +6405,7 @@
       "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-10-22T17:58:52.000Z",
+      "updatedAt": "2026-10-25T05:00:01.000Z",
       "rawHeader": "Coon Rapids Blvd & Dakotah St - Stop #11059 (westbound) is closed for Route 802 beginning Mon Oct 26 at 9:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off buses at:\r\nCoon Rapids Blvd & Blackfoot St - Stop #11055 (westbound)\r\nEast River Rd & Queens Lane - Stop #12070 (northbound)"
     },

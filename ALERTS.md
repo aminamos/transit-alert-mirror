@@ -2,67 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-102-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-97-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-99-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-96-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-78-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-25T04:24:34.144Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-25T09:43:01.100Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 14** (3) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (5) • **Route 25** (2) • **Route 27** (2) • **Route 32** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (5) • **Route 62** (1) • **Route 63** (3) • **Route 64** (7) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (5) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 14** (3) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (5) • **Route 25** (2) • **Route 27** (2) • **Route 32** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (7) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 61: Westbound 10:50 PM Trip Canceled (Smith & 5th St Station)
-
-- **Affected Routes**: `Route 61`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 61 trip departing Smith & 5th St Station at 10:50 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/61)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 61 trip departing Smith & 5th St Station at 10:50 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 63: Service Canceled
-
-- **Affected Routes**: `Route 63`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 63 trip departing Sun Ray Transit Center & Gate A at 6:30 PM and three other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/63)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 63 trip departing Sun Ray Transit Center & Gate A at 6:30 PM and three other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Westgate Station - Gate C at 7:44 PM
-departing Westgate Station - Gate C at 10:15 PM
-
-Affected westbound trips:
-departing Sun Ray Transit Center & Gate A at 6:30 PM
-departing Sun Ray Transit Center & Gate A at 8:53 PM
-```
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -1904,51 +1858,6 @@ Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 ```text
 Get on/off buses at:
 Maryland Ave & Cypress St - Stop #12918 (eastbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 54, Route 61, Route 74: Detour via 6th St E & Maria Ave
-
-- **Affected Routes**: `Route 54` `Route 61` `Route 74`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 6th St E & Maria Ave; 6th St E & Arcade St; 6th St E & Maple St; 6th St E & Hope St
-- **Closed Stops**: 6th St E & Maple St (Stop #53984), 6th St E & Hope St (Stop #53982), 6th St E & Hope St (Stop #53981), 6th St E & Maple St (Stop #53983), Stop #80956, Stop #81106, Stop #81105, Stop #80959
-
-**Summary**: Routes 54, 61 and 74 detoured off 6th St between Sinnen and Maple until later today due to non-transit collision. Board at: 6th St E & Maria Ave - Stop #80956 (eastbound); 6th St E & Arcade St - Stop #81106 (eastbound).
-
-> 💡 **Rider Action**: Board at: 6th St E & Maria Ave - Stop #80956 (eastbound); 6th St E & Arcade St - Stop #81106 (eastbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/74)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Routes 54, 61 and 74 detoured off 6th St between Sinnen and Maple until later today due to non-transit collision
-
-```text
-For Both Routes 54, 61 and 74 get on/off buses at:
-6th St E & Maria Ave - Stop #80956 (eastbound)
-6th St E & Arcade St - Stop #81106 (eastbound)
-
-For westbound Routes 54, 61 and 74 get on/off buses at:
-6th St E & Arcade St - Stop #81105 (westbound)
-6th St E & Maria Ave - Stop #80959 (westbound)
-
-Eastbound Routes 54 and 74 and Westbound Route 61
-Travel east on 6th to Eichenwald, left on Eichenwald, right on 7th, right on Sinnen, left on 6th and resume regular route
-
-Westbound Routes 54 and 74 and Eastbound 61
-Travel west on 6th to Mendota, left on Mendota, right on 4th, right on Maple, left on 6th and resume regular route
-
-Affected stops:
-6th St E & Maple St - Stop #53984 (eastbound)
-6th St E & Hope St - Stop #53982 (eastbound)
-6th St E & Hope St - Stop #53981 (westbound)
-6th St E & Maple St - Stop #53983 (westbound)
 ```
 
 </details>
