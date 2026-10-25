@@ -1,16 +1,43 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-25T09:43:01.100Z",
-    "totalAlerts": 99,
-    "criticalCount": 0,
+    "generatedAt": "2026-10-25T14:14:25.431Z",
+    "totalAlerts": 100,
+    "criticalCount": 1,
     "moderateCount": 96,
     "minorCount": 3,
-    "affectedRoutesCount": 78,
+    "affectedRoutesCount": 79,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
+    {
+      "id": "54569",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 22, Route 22H: Southbound 7:52 AM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)",
+      "summary": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 7:52 AM canceled",
+      "affectedRoutes": [
+        "Route 22",
+        "Route 22H"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-25T13:48:00.000Z",
+        "end": "2026-10-25T15:06:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/22",
+      "updatedAt": "2026-10-25T13:48:39.000Z",
+      "rawHeader": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 7:52 AM canceled",
+      "rawDescription": ""
+    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -152,7 +179,7 @@
       },
       "cause": "OTHER_CAUSE",
       "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-10-25T05:00:01.000Z",
+      "updatedAt": "2026-10-25T13:30:02.000Z",
       "rawHeader": "METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 10/25 from 9am - 5pm",
       "rawDescription": "Due to street closures around U.S. Bank Stadium Station during the Vikings game, please transfer between the METRO Blue and Green lines at Government Plaza Station instead.\r\n\nAffected stops:\r\nU.S. Bank Stadium Station (eastbound)\r\nU.S. Bank Stadium Station (northbound)\r\nU.S. Bank Stadium Station (southbound)\r\nU.S. Bank Stadium Station (westbound)"
     },
@@ -2728,7 +2755,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-25T05:00:01.000Z",
+      "updatedAt": "2026-10-25T11:30:03.000Z",
       "rawHeader": "Ford Pkwy & Cretin Ave - Stop #4280 (eastbound) is closed for Routes 38 and 74 starting Thu Oct 22 until further notice  from 7:00 AM to 6:00 PM each day",
       "rawDescription": "Get on/off buses at:\r\nFord & Woodlawn Station - Stop #56111 (eastbound)\r\nFord & Finn Station - Stop #56112 (eastbound)"
     },

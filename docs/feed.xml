@@ -4,9 +4,18 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 25 Oct 2026 09:43:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 14:14:25 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] Route 22, Route 22H: Southbound 7:52 AM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)</title>
+      <link>https://www.metrotransit.org/route/22</link>
+      <guid isPermaLink="false">Metro Transit-54569-2026-10-25T13:48:39.000Z</guid>
+      <pubDate>Sun, 25 Oct 2026 13:48:39 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 22, Route 22H</category>
+      <description>Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 7:52 AM canceled</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -37,8 +46,8 @@
     <item>
       <title>[Moderate] METRO Blue Line, METRO Green Line: Service Advisory</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-52269-2026-10-25T05:00:01.000Z</guid>
-      <pubDate>Sun, 25 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52269-2026-10-25T13:30:02.000Z</guid>
+      <pubDate>Sun, 25 Oct 2026 13:30:02 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO Blue Line, METRO Green Line</category>
       <description>METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 10/25 from 9am - 5pm</description>
@@ -361,8 +370,8 @@
     <item>
       <title>[Moderate] Route 38, Route 74: Stop Closed at Ford Pkwy &amp; Cretin Ave</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54427-2026-10-25T05:00:01.000Z</guid>
-      <pubDate>Sun, 25 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54427-2026-10-25T11:30:03.000Z</guid>
+      <pubDate>Sun, 25 Oct 2026 11:30:03 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 38, Route 74</category>
       <description>Ford Pkwy &amp; Cretin Ave - Stop #4280 (eastbound) is closed for Routes 38 and 74 starting Thu Oct 22 until further notice from 7:00 AM to 6:00 PM each day. Board at: Ford &amp; Woodlawn Station - Stop #56111 (eastbound); Ford &amp; Finn Station - Stop #56112 (eastbound). | Action: Board at: Ford &amp; Woodlawn Station - Stop #56111 (eastbound); Ford &amp; Finn Station - Stop #56112 (eastbound)</description>
