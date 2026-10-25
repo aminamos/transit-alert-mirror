@@ -1,121 +1,359 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-25T18:19:53.550Z",
-    "totalAlerts": 103,
-    "criticalCount": 4,
+    "generatedAt": "2026-10-25T21:38:05.334Z",
+    "totalAlerts": 101,
+    "criticalCount": 2,
     "moderateCount": 96,
     "minorCount": 3,
-    "affectedRoutesCount": 81,
+    "affectedRoutesCount": 79,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "54575",
+      "id": "54580",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO Orange Line: Southbound 1:03 PM Trip Canceled (Marquette Ave & 3rd St - Stop Group C)",
-      "summary": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 1:03 PM canceled today due to maintenance work",
+      "title": "METRO D Line: Northbound 2:34 PM Trip Canceled (MOA Transit Station Gate A)",
+      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 2:34 PM canceled from 7th & Olson at 3:22 PM today due to traffic",
       "affectedRoutes": [
-        "METRO Orange Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-25T18:03:00.000Z",
-        "end": "2026-10-25T19:38:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/orange",
-      "updatedAt": "2026-10-25T17:59:19.000Z",
-      "rawHeader": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 1:03 PM canceled today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "54573",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 4, Route 4P: Southbound 12:30 PM Trip Canceled (Silver Lk & Cub Foods Svc Rd / 39th Ave)",
-      "summary": "Southbound Route 4P trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 12:30 PM canceled today",
-      "affectedRoutes": [
-        "Route 4",
-        "Route 4P"
-      ],
-      "direction": "Southbound",
-      "intersections": [
-        "Cub Foods Svc Rd & 39th Ave"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-25T17:47:00.000Z",
-        "end": "2026-10-25T19:40:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/4",
-      "updatedAt": "2026-10-25T17:48:01.000Z",
-      "rawHeader": "Southbound Route 4P trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 12:30 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "54572",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 54: Westbound 12:05 PM Trip Canceled (Maplewood Mall Transit Center & Gate B)",
-      "summary": "Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 12:05 PM canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 54"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-25T17:12:00.000Z",
-        "end": "2026-10-25T19:14:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/54",
-      "updatedAt": "2026-10-25T17:12:55.000Z",
-      "rawHeader": "Westbound Route 54 trip departing Maplewood Mall Transit Center & Gate B at 12:05 PM canceled today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "54574",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 805: Northbound 12:04 PM Trip Canceled (Northtown Transit Ctr Gate D)",
-      "summary": "Northbound Route 805 trip departing Northtown Transit Ctr Gate D at 12:04 PM canceled today",
-      "affectedRoutes": [
-        "Route 805"
+        "METRO D Line"
       ],
       "direction": "Northbound",
       "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
+      "closedStopIds": [
+        "43275",
+        "56930",
+        "56949",
+        "56950",
+        "56951",
+        "8919",
+        "8920",
+        "8935",
+        "8945",
+        "8948",
+        "9089",
+        "9263",
+        "9646",
+        "9658",
+        "56823"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "43275"
+        },
+        {
+          "id": "56930"
+        },
+        {
+          "id": "56949"
+        },
+        {
+          "id": "56950"
+        },
+        {
+          "id": "56951"
+        },
+        {
+          "id": "8919"
+        },
+        {
+          "id": "8920"
+        },
+        {
+          "id": "8935"
+        },
+        {
+          "id": "8945"
+        },
+        {
+          "id": "8948"
+        },
+        {
+          "id": "9089"
+        },
+        {
+          "id": "9263"
+        },
+        {
+          "id": "9646"
+        },
+        {
+          "id": "9658"
+        },
+        {
+          "id": "56823"
+        }
+      ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-25T17:48:00.000Z",
-        "end": "2026-10-25T18:49:00.000Z"
+        "start": "2026-10-25T20:37:00.000Z",
+        "end": "2026-10-25T21:46:00.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-10-25T17:49:10.000Z",
-      "rawHeader": "Northbound Route 805 trip departing Northtown Transit Ctr Gate D at 12:04 PM canceled today",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-10-25T20:38:43.000Z",
+      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 2:34 PM canceled from 7th & Olson at 3:22 PM today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "54577",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 38, Route 38C: Service Advisory",
+      "summary": "Eastbound Route 38C trip departing Bren Rd E & Blue Circle Dr at 2:48 PM will operate from Excelsior & Market at 3:27 PM today. Previous stops missed due to maintenance work",
+      "affectedRoutes": [
+        "Route 38",
+        "Route 38C"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [
+        "52266",
+        "52523",
+        "51120",
+        "51029",
+        "51030",
+        "56512",
+        "50095",
+        "50109",
+        "4719",
+        "4721",
+        "43380",
+        "43587",
+        "41302",
+        "41311",
+        "40250",
+        "4803",
+        "4804",
+        "4805",
+        "4806",
+        "4807",
+        "4808",
+        "4809",
+        "4810",
+        "4812",
+        "4813",
+        "4814",
+        "4818",
+        "4819",
+        "4820",
+        "48208",
+        "48209",
+        "48211",
+        "48212",
+        "48213",
+        "4822",
+        "4828",
+        "4829",
+        "48312",
+        "48313",
+        "4834",
+        "4836",
+        "48379",
+        "48392",
+        "4844",
+        "4848",
+        "4849",
+        "4850",
+        "4852",
+        "4853",
+        "4854",
+        "4855",
+        "4856",
+        "4858",
+        "4859",
+        "4860",
+        "3592",
+        "3615"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "52266"
+        },
+        {
+          "id": "52523"
+        },
+        {
+          "id": "51120"
+        },
+        {
+          "id": "51029"
+        },
+        {
+          "id": "51030"
+        },
+        {
+          "id": "56512"
+        },
+        {
+          "id": "50095"
+        },
+        {
+          "id": "50109"
+        },
+        {
+          "id": "4719"
+        },
+        {
+          "id": "4721"
+        },
+        {
+          "id": "43380"
+        },
+        {
+          "id": "43587"
+        },
+        {
+          "id": "41302"
+        },
+        {
+          "id": "41311"
+        },
+        {
+          "id": "40250"
+        },
+        {
+          "id": "4803"
+        },
+        {
+          "id": "4804"
+        },
+        {
+          "id": "4805"
+        },
+        {
+          "id": "4806"
+        },
+        {
+          "id": "4807"
+        },
+        {
+          "id": "4808"
+        },
+        {
+          "id": "4809"
+        },
+        {
+          "id": "4810"
+        },
+        {
+          "id": "4812"
+        },
+        {
+          "id": "4813"
+        },
+        {
+          "id": "4814"
+        },
+        {
+          "id": "4818"
+        },
+        {
+          "id": "4819"
+        },
+        {
+          "id": "4820"
+        },
+        {
+          "id": "48208"
+        },
+        {
+          "id": "48209"
+        },
+        {
+          "id": "48211"
+        },
+        {
+          "id": "48212"
+        },
+        {
+          "id": "48213"
+        },
+        {
+          "id": "4822"
+        },
+        {
+          "id": "4828"
+        },
+        {
+          "id": "4829"
+        },
+        {
+          "id": "48312"
+        },
+        {
+          "id": "48313"
+        },
+        {
+          "id": "4834"
+        },
+        {
+          "id": "4836"
+        },
+        {
+          "id": "48379"
+        },
+        {
+          "id": "48392"
+        },
+        {
+          "id": "4844"
+        },
+        {
+          "id": "4848"
+        },
+        {
+          "id": "4849"
+        },
+        {
+          "id": "4850"
+        },
+        {
+          "id": "4852"
+        },
+        {
+          "id": "4853"
+        },
+        {
+          "id": "4854"
+        },
+        {
+          "id": "4855"
+        },
+        {
+          "id": "4856"
+        },
+        {
+          "id": "4858"
+        },
+        {
+          "id": "4859"
+        },
+        {
+          "id": "4860"
+        },
+        {
+          "id": "3592"
+        },
+        {
+          "id": "3615"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-25T19:48:00.000Z",
+        "end": "2026-10-25T22:07:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/38",
+      "updatedAt": "2026-10-25T19:43:14.000Z",
+      "rawHeader": "Eastbound Route 38C trip departing Bren Rd E & Blue Circle Dr at 2:48 PM will operate from Excelsior & Market at 3:27 PM today. Previous stops missed due to maintenance work",
       "rawDescription": ""
     },
     {
@@ -769,12 +1007,12 @@
         "56923",
         "17815",
         "51212",
+        "73",
         "66",
         "68",
         "69",
         "70",
-        "72",
-        "73"
+        "72"
       ],
       "closedStopDetails": [
         {
@@ -842,6 +1080,9 @@
           "id": "51212"
         },
         {
+          "id": "73"
+        },
+        {
           "id": "66"
         },
         {
@@ -855,9 +1096,6 @@
         },
         {
           "id": "72"
-        },
-        {
-          "id": "73"
         }
       ],
       "riderAlternative": "Board at: Chicago & 56th St Station - Stop #775 (northbound); Temporary stop on Portland Ave & 52nd St (northbound); Temporary stop on Portland Ave & 48th St (northbound)",
