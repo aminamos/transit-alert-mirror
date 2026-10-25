@@ -4,35 +4,17 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 24 Oct 2026 23:04:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 04:24:34 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 22: Southbound 4:51 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)</title>
-      <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-54551-2026-10-24T22:48:36.000Z</guid>
-      <pubDate>Sat, 24 Oct 2026 22:48:36 GMT</pubDate>
+      <title>[Critical] Route 61: Westbound 10:50 PM Trip Canceled (Smith &amp; 5th St Station)</title>
+      <link>https://www.metrotransit.org/route/61</link>
+      <guid isPermaLink="false">Metro Transit-54563-2026-10-25T03:20:01.000Z</guid>
+      <pubDate>Sun, 25 Oct 2026 03:20:01 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 22</category>
-      <description>Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 4:51 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 30: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-54550-2026-10-24T20:38:12.000Z</guid>
-      <pubDate>Sat, 24 Oct 2026 20:38:12 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 30</category>
-      <description>Route 30 trip departing Westgate Station - Gate B at 4:06 PM and four other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 62: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/62</link>
-      <guid isPermaLink="false">Metro Transit-54545-2026-10-24T20:05:01.000Z</guid>
-      <pubDate>Sat, 24 Oct 2026 20:05:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 62</category>
-      <description>Route 62 trips departing Livingston Ave &amp; Butler Ave / Orme St at 3:35 PM and departing Market Place Dr &amp; The Marketplace Ctr at 4:53 PM canceled today</description>
+      <category>Route 61</category>
+      <description>Westbound Route 61 trip departing Smith &amp; 5th St Station at 10:50 PM canceled today</description>
     </item>
     <item>
       <title>[Critical] Route 63: Service Canceled</title>
@@ -397,8 +379,8 @@
     <item>
       <title>[Moderate] Route 38, Route 74: Stop Closed at Ford Pkwy &amp; Cretin Ave</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54427-2026-10-24T11:30:04.000Z</guid>
-      <pubDate>Sat, 24 Oct 2026 11:30:04 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54427-2026-10-24T23:15:02.000Z</guid>
+      <pubDate>Sat, 24 Oct 2026 23:15:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 38, Route 74</category>
       <description>Ford Pkwy &amp; Cretin Ave - Stop #4280 (eastbound) is closed for Routes 38 and 74 starting Thu Oct 22 until further notice from 7:00 AM to 6:00 PM each day. Board at: Ford &amp; Woodlawn Station - Stop #56111 (eastbound); Ford &amp; Finn Station - Stop #56112 (eastbound). | Action: Board at: Ford &amp; Woodlawn Station - Stop #56111 (eastbound); Ford &amp; Finn Station - Stop #56112 (eastbound)</description>
@@ -429,6 +411,15 @@
       <category>Moderate</category>
       <category>Route 54, Route 64</category>
       <description>Maryland Ave &amp; Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction. Board at: Maryland Ave &amp; Cypress St - Stop #12918 (eastbound). | Action: Board at: Maryland Ave &amp; Cypress St - Stop #12918 (eastbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 54, Route 61, Route 74: Detour via 6th St E &amp; Maria Ave</title>
+      <link>https://www.metrotransit.org/route/74</link>
+      <guid isPermaLink="false">Metro Transit-54558-2026-10-25T00:45:34.000Z</guid>
+      <pubDate>Sun, 25 Oct 2026 00:45:34 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 54, Route 61, Route 74</category>
+      <description>Routes 54, 61 and 74 detoured off 6th St between Sinnen and Maple until later today due to non-transit collision. Board at: 6th St E &amp; Maria Ave - Stop #80956 (eastbound); 6th St E &amp; Arcade St - Stop #81106 (eastbound). | Action: Board at: 6th St E &amp; Maria Ave - Stop #80956 (eastbound); 6th St E &amp; Arcade St - Stop #81106 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 61: Detour via Arcade St &amp; Magnolia Ave</title>

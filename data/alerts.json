@@ -1,94 +1,40 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-24T23:04:05.368Z",
-    "totalAlerts": 103,
-    "criticalCount": 4,
-    "moderateCount": 96,
+    "generatedAt": "2026-10-25T04:24:34.144Z",
+    "totalAlerts": 102,
+    "criticalCount": 2,
+    "moderateCount": 97,
     "minorCount": 3,
-    "affectedRoutesCount": 79,
+    "affectedRoutesCount": 78,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "54551",
+      "id": "54563",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 22: Southbound 4:51 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)",
-      "summary": "Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 4:51 PM canceled today",
+      "title": "Route 61: Westbound 10:50 PM Trip Canceled (Smith & 5th St Station)",
+      "summary": "Westbound Route 61 trip departing Smith & 5th St Station at 10:50 PM canceled today",
       "affectedRoutes": [
-        "Route 22"
+        "Route 61"
       ],
-      "direction": "Southbound",
+      "direction": "Westbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-24T22:48:00.000Z",
-        "end": "2026-10-25T00:10:00.000Z"
+        "start": "2026-10-25T03:50:00.000Z",
+        "end": "2026-10-25T05:56:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-10-24T22:48:36.000Z",
-      "rawHeader": "Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 4:51 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "54550",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 30: Service Canceled",
-      "summary": "Route 30 trip departing Westgate Station - Gate B at 4:06 PM and four other trips canceled today",
-      "affectedRoutes": [
-        "Route 30"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-24T21:06:00.000Z",
-        "end": "2026-10-25T03:16:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-10-24T20:38:12.000Z",
-      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 4:06 PM and four other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 4:53 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 6:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 4:06 PM\r\ndeparting Westgate Station - Gate B at 6:06 PM\r\ndeparting Westgate Station - Gate B at 8:36 PM"
-    },
-    {
-      "id": "54545",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 62: Service Canceled",
-      "summary": "Route 62 trips departing Livingston Ave & Butler Ave / Orme St at 3:35 PM and departing Market Place Dr & The Marketplace Ctr at 4:53 PM canceled today",
-      "affectedRoutes": [
-        "Route 62"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 62 trips departing Livingston Ave & Butler Ave"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-24T20:35:00.000Z",
-        "end": "2026-10-24T23:50:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/62",
-      "updatedAt": "2026-10-24T20:05:01.000Z",
-      "rawHeader": "Route 62 trips departing Livingston Ave & Butler Ave / Orme St at 3:35 PM and departing Market Place Dr & The Marketplace Ctr at 4:53 PM canceled today",
+      "url": "https://www.metrotransit.org/route/61",
+      "updatedAt": "2026-10-25T03:20:01.000Z",
+      "rawHeader": "Westbound Route 61 trip departing Smith & 5th St Station at 10:50 PM canceled today",
       "rawDescription": ""
     },
     {
@@ -2834,7 +2780,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-24T11:30:04.000Z",
+      "updatedAt": "2026-10-24T23:15:02.000Z",
       "rawHeader": "Ford Pkwy & Cretin Ave - Stop #4280 (eastbound) is closed for Routes 38 and 74 starting Thu Oct 22 until further notice  from 7:00 AM to 6:00 PM each day",
       "rawDescription": "Get on/off buses at:\r\nFord & Woodlawn Station - Stop #56111 (eastbound)\r\nFord & Finn Station - Stop #56112 (eastbound)"
     },
@@ -3064,6 +3010,81 @@
       "updatedAt": "2026-10-22T16:40:02.000Z",
       "rawHeader": "Maryland Ave & Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nMaryland Ave & Cypress St - Stop #12918 (eastbound)"
+    },
+    {
+      "id": "54558",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 54, Route 61, Route 74: Detour via 6th St E & Maria Ave",
+      "summary": "Routes 54, 61 and 74 detoured off 6th St between Sinnen and Maple until later today due to non-transit collision. Board at: 6th St E & Maria Ave - Stop #80956 (eastbound); 6th St E & Arcade St - Stop #81106 (eastbound).",
+      "affectedRoutes": [
+        "Route 54",
+        "Route 61",
+        "Route 74"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "6th St E & Maria Ave",
+        "6th St E & Arcade St",
+        "6th St E & Maple St",
+        "6th St E & Hope St"
+      ],
+      "closedStopIds": [
+        "53984",
+        "53982",
+        "53981",
+        "53983",
+        "80956",
+        "81106",
+        "81105",
+        "80959"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "53984",
+          "name": "6th St E & Maple St",
+          "direction": "eastbound"
+        },
+        {
+          "id": "53982",
+          "name": "6th St E & Hope St",
+          "direction": "eastbound"
+        },
+        {
+          "id": "53981",
+          "name": "6th St E & Hope St",
+          "direction": "westbound"
+        },
+        {
+          "id": "53983",
+          "name": "6th St E & Maple St",
+          "direction": "westbound"
+        },
+        {
+          "id": "80956"
+        },
+        {
+          "id": "81106"
+        },
+        {
+          "id": "81105"
+        },
+        {
+          "id": "80959"
+        }
+      ],
+      "riderAlternative": "Board at: 6th St E & Maria Ave - Stop #80956 (eastbound); 6th St E & Arcade St - Stop #81106 (eastbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-25T00:45:00.000Z",
+        "end": "2026-10-25T06:23:24.000Z"
+      },
+      "cause": "ACCIDENT",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/74",
+      "updatedAt": "2026-10-25T00:45:34.000Z",
+      "rawHeader": "Routes 54, 61 and 74 detoured off 6th St between Sinnen and Maple until later today due to non-transit collision",
+      "rawDescription": "For Both Routes 54, 61 and 74 get on/off buses at:\r\n6th St E & Maria Ave - Stop #80956 (eastbound)\r\n6th St E & Arcade St - Stop #81106 (eastbound)\r\n\nFor westbound Routes 54, 61 and 74 get on/off buses at:\r\n6th St E & Arcade St - Stop #81105 (westbound)\r\n6th St E & Maria Ave - Stop #80959 (westbound)\r\n\nEastbound Routes 54 and 74 and Westbound Route 61\r\nTravel east on 6th to Eichenwald, left on Eichenwald, right on 7th, right on Sinnen, left on 6th and resume regular route\r\n\nWestbound Routes 54 and 74 and Eastbound 61\r\nTravel west on 6th to Mendota, left on Mendota, right on 4th, right on Maple, left on 6th and resume regular route\r\n\nAffected stops:\r\n6th St E & Maple St - Stop #53984 (eastbound)\r\n6th St E & Hope St - Stop #53982 (eastbound)\r\n6th St E & Hope St - Stop #53981 (westbound)\r\n6th St E & Maple St - Stop #53983 (westbound)"
     },
     {
       "id": "48758",
