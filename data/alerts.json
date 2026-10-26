@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-26T19:09:09.281Z",
-    "totalAlerts": 103,
+    "generatedAt": "2026-10-26T23:43:36.214Z",
+    "totalAlerts": 105,
     "criticalCount": 10,
-    "moderateCount": 91,
+    "moderateCount": 93,
     "minorCount": 2,
-    "affectedRoutesCount": 73,
+    "affectedRoutesCount": 74,
     "agencies": [
       "Metro Transit"
     ]
@@ -43,11 +43,11 @@
       "rawDescription": "Affected northbound trips:\r\ndeparting 7th St & Park Station at 1:29 PM\r\ndeparting 7th St & Park Station at 2:57 PM\r\ndeparting 7th St & Park Station at 4:45 PM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 2:07 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 3:53 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 5:39 PM"
     },
     {
-      "id": "54609",
+      "id": "54629",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO Orange Line: Southbound 1:48 PM Trip Canceled (Marquette Ave & 3rd St - Stop Group C)",
-      "summary": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 1:48 PM canceled today due to maintenance work",
+      "title": "METRO Orange Line: Southbound 5:32 PM Trip Canceled (Marquette Ave & 3rd St - Stop Group C)",
+      "summary": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 5:32 PM canceled today due to maintenance work",
       "affectedRoutes": [
         "METRO Orange Line"
       ],
@@ -58,24 +58,246 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-26T18:48:00.000Z",
-        "end": "2026-10-26T20:23:00.000Z"
+        "start": "2026-10-26T22:41:00.000Z",
+        "end": "2026-10-27T00:09:00.000Z"
       },
       "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/orange",
-      "updatedAt": "2026-10-26T18:45:14.000Z",
-      "rawHeader": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 1:48 PM canceled today due to maintenance work",
+      "updatedAt": "2026-10-26T22:42:09.000Z",
+      "rawHeader": "Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 5:32 PM canceled today due to maintenance work",
       "rawDescription": ""
     },
     {
-      "id": "54611",
+      "id": "54630",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 14: Northbound 1:35 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)",
-      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 1:35 PM canceled",
+      "title": "Route 11, Route 11A: Southbound 5:39 PM Trip Canceled (Columbia Heights Transit Center C)",
+      "summary": "Southbound Route 11A trip departing Columbia Heights Transit Center C at 5:39 PM canceled from Delasalle High School at 6:03 PM today due to maintenance work",
       "affectedRoutes": [
-        "Route 14"
+        "Route 11",
+        "Route 11A"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [
+        "17821",
+        "17916",
+        "17917",
+        "17720",
+        "17721",
+        "17722",
+        "17723",
+        "17724",
+        "17725",
+        "17726",
+        "17727",
+        "17728",
+        "17729",
+        "17730",
+        "17704",
+        "17705",
+        "17706",
+        "17707",
+        "17708",
+        "17709",
+        "17711",
+        "17712",
+        "17713",
+        "17715",
+        "17716",
+        "17717",
+        "14331",
+        "1229",
+        "1230",
+        "1231",
+        "1197",
+        "53461",
+        "53462",
+        "53544",
+        "53550",
+        "51827",
+        "51828",
+        "17718",
+        "17719",
+        "19294",
+        "19301",
+        "42455",
+        "17976",
+        "17978",
+        "17980",
+        "17982",
+        "17984",
+        "17986"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "17821"
+        },
+        {
+          "id": "17916"
+        },
+        {
+          "id": "17917"
+        },
+        {
+          "id": "17720"
+        },
+        {
+          "id": "17721"
+        },
+        {
+          "id": "17722"
+        },
+        {
+          "id": "17723"
+        },
+        {
+          "id": "17724"
+        },
+        {
+          "id": "17725"
+        },
+        {
+          "id": "17726"
+        },
+        {
+          "id": "17727"
+        },
+        {
+          "id": "17728"
+        },
+        {
+          "id": "17729"
+        },
+        {
+          "id": "17730"
+        },
+        {
+          "id": "17704"
+        },
+        {
+          "id": "17705"
+        },
+        {
+          "id": "17706"
+        },
+        {
+          "id": "17707"
+        },
+        {
+          "id": "17708"
+        },
+        {
+          "id": "17709"
+        },
+        {
+          "id": "17711"
+        },
+        {
+          "id": "17712"
+        },
+        {
+          "id": "17713"
+        },
+        {
+          "id": "17715"
+        },
+        {
+          "id": "17716"
+        },
+        {
+          "id": "17717"
+        },
+        {
+          "id": "14331"
+        },
+        {
+          "id": "1229"
+        },
+        {
+          "id": "1230"
+        },
+        {
+          "id": "1231"
+        },
+        {
+          "id": "1197"
+        },
+        {
+          "id": "53461"
+        },
+        {
+          "id": "53462"
+        },
+        {
+          "id": "53544"
+        },
+        {
+          "id": "53550"
+        },
+        {
+          "id": "51827"
+        },
+        {
+          "id": "51828"
+        },
+        {
+          "id": "17718"
+        },
+        {
+          "id": "17719"
+        },
+        {
+          "id": "19294"
+        },
+        {
+          "id": "19301"
+        },
+        {
+          "id": "42455"
+        },
+        {
+          "id": "17976"
+        },
+        {
+          "id": "17978"
+        },
+        {
+          "id": "17980"
+        },
+        {
+          "id": "17982"
+        },
+        {
+          "id": "17984"
+        },
+        {
+          "id": "17986"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-26T23:22:00.000Z",
+        "end": "2026-10-27T00:44:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/11",
+      "updatedAt": "2026-10-26T23:23:55.000Z",
+      "rawHeader": "Southbound Route 11A trip departing Columbia Heights Transit Center C at 5:39 PM canceled from Delasalle High School at 6:03 PM today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "54625",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 22, Route 22A: Northbound 5:31 PM Trip Canceled (VA Medical Center & Visitors Entrance)",
+      "summary": "Northbound Route 22A trip departing VA Medical Center & Visitors Entrance at 5:31 PM canceled today",
+      "affectedRoutes": [
+        "Route 22",
+        "Route 22A"
       ],
       "direction": "Northbound",
       "intersections": [],
@@ -84,66 +306,14 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-26T18:50:00.000Z",
-        "end": "2026-10-26T20:47:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/14",
-      "updatedAt": "2026-10-26T18:50:55.000Z",
-      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 1:35 PM canceled",
-      "rawDescription": ""
-    },
-    {
-      "id": "54608",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 22: 3:42 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)",
-      "summary": "Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 3:42 PM canceled",
-      "affectedRoutes": [
-        "Route 22"
-      ],
-      "direction": "All",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-26T20:42:00.000Z",
-        "end": "2026-10-26T23:11:00.000Z"
+        "start": "2026-10-26T22:31:00.000Z",
+        "end": "2026-10-27T00:56:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-10-26T18:05:55.000Z",
-      "rawHeader": "Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 3:42 PM canceled",
-      "rawDescription": ""
-    },
-    {
-      "id": "54610",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 36: Northbound 1:35 PM Trip Canceled (Johnson Ave & 78th St / Minnesota Dr)",
-      "summary": "Northbound Route 36 trip departing Johnson Ave & 78th St / Minnesota Dr at 1:35 PM canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 36"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-26T18:50:00.000Z",
-        "end": "2026-10-26T20:17:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/36",
-      "updatedAt": "2026-10-26T18:50:32.000Z",
-      "rawHeader": "Northbound Route 36 trip departing Johnson Ave & 78th St / Minnesota Dr at 1:35 PM canceled today due to maintenance work",
+      "updatedAt": "2026-10-26T22:01:00.000Z",
+      "rawHeader": "Northbound Route 22A trip departing VA Medical Center & Visitors Entrance at 5:31 PM canceled today",
       "rawDescription": ""
     },
     {
@@ -173,59 +343,120 @@
       "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 12:38 PM\r\ndeparting Inver Hills College & Shelter at 3:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 2:12 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 5:13 PM"
     },
     {
-      "id": "54588",
+      "id": "54628",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 80: Service Canceled",
-      "summary": "Route 80 trip departing Sun Ray Transit Center & Gate E at 7:12 AM and thirteen other trips canceled today",
+      "title": "Route 72: Service Canceled",
+      "summary": "Route 72 trip departing Sun Ray Transit Center & Gate D at 7:21 PM and two other trips canceled today",
       "affectedRoutes": [
-        "Route 80"
+        "Route 72"
       ],
       "direction": "Both Directions",
-      "intersections": [],
+      "intersections": [
+        "departing Pascal St N & Central Ave W"
+      ],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-26T12:12:00.000Z",
-        "end": "2026-10-26T20:04:00.000Z"
+        "start": "2026-10-27T00:21:00.000Z",
+        "end": "2026-10-27T04:05:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/80",
-      "updatedAt": "2026-10-26T11:42:01.000Z",
-      "rawHeader": "Route 80 trip departing Sun Ray Transit Center & Gate E at 7:12 AM and thirteen other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate E at 7:12 AM\r\ndeparting Sun Ray Transit Center & Gate E at 8:12 AM\r\ndeparting Sun Ray Transit Center & Gate E at 9:12 AM\r\ndeparting Sun Ray Transit Center & Gate E at 10:12 AM\r\ndeparting Sun Ray Transit Center & Gate E at 11:12 AM\r\ndeparting Sun Ray Transit Center & Gate E at 12:12 PM\r\ndeparting Sun Ray Transit Center & Gate E at 1:12 PM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate F at 7:42 AM\r\ndeparting Maplewood Mall Transit Center & Gate F at 8:42 AM\r\ndeparting Maplewood Mall Transit Center & Gate F at 9:42 AM\r\ndeparting Maplewood Mall Transit Center & Gate F at 10:42 AM\r\ndeparting Maplewood Mall Transit Center & Gate F at 11:42 AM\r\ndeparting Maplewood Mall Transit Center & Gate F at 12:42 PM\r\ndeparting Maplewood Mall Transit Center & Gate F at 1:42 PM"
+      "url": "https://www.metrotransit.org/route/72",
+      "updatedAt": "2026-10-26T22:23:37.000Z",
+      "rawHeader": "Route 72 trip departing Sun Ray Transit Center & Gate D at 7:21 PM and two other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 8:23 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 7:21 PM\r\ndeparting Sun Ray Transit Center & Gate D at 9:21 PM"
     },
     {
-      "id": "54604",
+      "id": "54627",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 760: Service Canceled",
-      "summary": "Route 760 trips departing 12th St S & Hennepin Ave S at 3:36 PM and departing 12th St S & Hennepin Ave S at 4:36 PM canceled today",
+      "title": "Route 540: Service Advisory",
+      "summary": "Westbound Route 540 trip departing MOA Transit Station Gate G at 5:25 PM will operate from 77th & Portland at 5:33 PM today. Previous stops missed due to maintenance work",
       "affectedRoutes": [
-        "Route 760"
+        "Route 540"
       ],
-      "direction": "All",
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [
+        "43340",
+        "47844",
+        "57318",
+        "57319",
+        "57320",
+        "48623",
+        "48624",
+        "56879"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "43340"
+        },
+        {
+          "id": "47844"
+        },
+        {
+          "id": "57318"
+        },
+        {
+          "id": "57319"
+        },
+        {
+          "id": "57320"
+        },
+        {
+          "id": "48623"
+        },
+        {
+          "id": "48624"
+        },
+        {
+          "id": "56879"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-26T22:25:00.000Z",
+        "end": "2026-10-26T23:58:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/540",
+      "updatedAt": "2026-10-26T21:55:00.000Z",
+      "rawHeader": "Westbound Route 540 trip departing MOA Transit Station Gate G at 5:25 PM will operate from 77th & Portland at 5:33 PM today. Previous stops missed due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "54621",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 615: Service Canceled",
+      "summary": "Route 615 trip departing Ridgedale Mall & East Entrance at 4:51 PM and two other trips canceled today",
+      "affectedRoutes": [
+        "Route 615"
+      ],
+      "direction": "Both Directions",
       "intersections": [
-        "Route 760 trips departing 12th St S & Hennepin Ave S",
-        "36 PM and departing 12th St S & Hennepin Ave S"
+        "departing Excelsior Blvd & Quentin Ave"
       ],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-26T20:36:00.000Z",
-        "end": "2026-10-26T23:02:00.000Z"
+        "start": "2026-10-26T21:51:00.000Z",
+        "end": "2026-10-27T01:43:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/760",
-      "updatedAt": "2026-10-26T18:03:24.000Z",
-      "rawHeader": "Route 760 trips departing 12th St S & Hennepin Ave S at 3:36 PM and departing 12th St S & Hennepin Ave S at 4:36 PM canceled today",
-      "rawDescription": ""
+      "url": "https://www.metrotransit.org/route/615",
+      "updatedAt": "2026-10-26T21:21:00.000Z",
+      "rawHeader": "Route 615 trip departing Ridgedale Mall & East Entrance at 4:51 PM and two other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Ridgedale Mall & East Entrance at 4:51 PM\r\ndeparting Ridgedale Mall & East Entrance at 6:51 PM\r\n\nAffected westbound trips:\r\ndeparting Excelsior Blvd & Quentin Ave at 5:51 PM"
     },
     {
       "id": "54599",
@@ -2654,6 +2885,201 @@
       "updatedAt": "2026-10-23T05:00:01.000Z",
       "rawHeader": "Route 22 detoured off Lyndale Ave from Plymouth Ave to West Broadway Ave from 6:00 AM to 5:00 PM on Thu Oct 29 due to construction",
       "rawDescription": "For northbound Route 22 get on/off buses at:\r\n7th St N & Oak Lake Ave N - Stop #57216 (northbound)\r\nEmerson & Plymouth Station - Stop #8920 (northbound)\r\nLyndale Ave N & 23rd Ave N - Stop #11183 (northbound)\r\n\nFor southbound Route 22 get on/off buses at:\r\nLyndale Ave N & West Broadway - Stop #11652 (southbound)\r\n7th St N & Oak Lake Ave - Stop #51791 (southbound)\r\n\nNorthbound buses will travel regular route on Lyndale Ave to Plymouth Ave, left on Plymouth, right on Emerson Ave, right on West Broadway Ave, left on Lyndale Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on Lyndale Ave to West Broadway Ave, right on West Broadway, left on Fremont Ave, left on Plymouth Ave, right on Lyndale Ave, and resume regular route.\r\n\nAffected stops:\r\nLyndale Ave N & Plymouth Ave N - Stop #57195 (northbound)\r\nLyndale Ave N & 14th Ave / 18th Ave N - Stop #11178 (northbound)\r\nLyndale Ave N & 18th Ave N - Stop #11179 (northbound)\r\nLyndale Ave N & West Broadway - Stop #11180 (northbound)\r\nLyndale Ave N & 18th Ave N - Stop #11653 (southbound)\r\nLyndale Ave N & 18th Ave / 14th Ave N - Stop #11654 (southbound)\r\nLyndale Ave N & Plymouth Ave - Stop #11656 (southbound)"
+    },
+    {
+      "id": "54619",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 22: Detour via Lyndale Ave N & Lowry Ave N",
+      "summary": "Route 22 detoured beginning off Lyndale Ave from Dowling Ave to 40th Tue Nov 3 at 7:00 AM until further notice due to tree trimming. Board at: Lyndale Ave N & Lowry Ave N - Stop #81098 (northbound); Lyndale Ave N & 41st Ave N - Stop #57196 (northbound).",
+      "affectedRoutes": [
+        "Route 22"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Lyndale Ave N & Lowry Ave N",
+        "Lyndale Ave N & 41st Ave N",
+        "Lyndale Ave N & 40th Ave N",
+        "left on Lyndale Ave N & resume regular route. \n\nAffected st",
+        "Lyndale Ave N & Dowling Ave N"
+      ],
+      "closedStopIds": [
+        "11197",
+        "11199",
+        "11635",
+        "81098",
+        "57196",
+        "11633",
+        "11641"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "11197",
+          "name": "Lyndale Ave N & Dowling Ave N",
+          "direction": "northbound"
+        },
+        {
+          "id": "11199",
+          "name": "Lyndale Ave N & 40th Ave N",
+          "direction": "northbound"
+        },
+        {
+          "id": "11635",
+          "name": "Lyndale Ave N & Dowling Ave N",
+          "direction": "southbound"
+        },
+        {
+          "id": "81098"
+        },
+        {
+          "id": "57196"
+        },
+        {
+          "id": "11633"
+        },
+        {
+          "id": "11641"
+        }
+      ],
+      "riderAlternative": "Board at: Lyndale Ave N & Lowry Ave N - Stop #81098 (northbound); Lyndale Ave N & 41st Ave N - Stop #57196 (northbound)",
+      "detourDetails": "Northbound buses will travel regular detour route on Lyndale Ave N to Lowry Ave N, right on Lowry Ave N, left on 2nd St N which will become Washington Ave N, left on Dowling Ave N, right on Fremont Ave N, right on 40th Ave N, left on Lyndale Ave N, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-11-03T13:00:00.000Z",
+        "textDescription": "Beginning off Lyndale Ave from Dowling Ave to 40th Tue Nov 3 at 7:00 AM until further notice"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/22",
+      "updatedAt": "2026-10-26T21:33:04.000Z",
+      "rawHeader": "Route 22 detoured beginning off Lyndale Ave from Dowling Ave to 40th Tue Nov 3 at 7:00 AM until further notice due to tree trimming",
+      "rawDescription": "Updated start time 10/26 at 4:30 PM\r\n\nFor northbound Route 22 get on/off buses at:\r\nLyndale Ave N & Lowry Ave N - Stop #81098 (northbound)\r\nLyndale Ave N & 41st Ave N - Stop #57196 (northbound)\r\n\nFor southbound Route 22 get on/off buses at:\r\nLyndale Ave N & 40th Ave N - Stop #11633 (southbound)\r\nLyndale Ave N & Lowry Ave N - Stop #11641 (southbound)\r\n\nNorthbound buses will travel regular detour route on Lyndale Ave N to Lowry Ave N, right on Lowry Ave N, left on 2nd St N which will become Washington Ave N, left on Dowling Ave N, right on Fremont Ave N, right on 40th Ave N, left on Lyndale Ave N,  and resume regular route. \r\n\nSouthbound buses will travel regular route on Lyndale to 40th Ave N, right on 40th Ave N, left on Fremont Ave N, left on Dowling Ave N, right on Washington Ave N which will become 2nd St N, veer right onto Washington, right on Lowry, left on Lyndale Ave N and resume regular route. \r\n\nAffected stops:\r\nLyndale Ave N & Dowling Ave N - Stop #11197 (northbound)\r\nLyndale Ave N & 40th Ave N - Stop #11199 (northbound)\r\nLyndale Ave N & Dowling Ave N - Stop #11635 (southbound)"
+    },
+    {
+      "id": "54617",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 25: Detour via Silver Lake Rd & Co Rd",
+      "summary": "Route 25 detoured off Silver Lake Rd from Co Rd H to Co Rd H2 and off Co Rd H2 from Silver Lake Rd to Long Lake Rd until further notice due to construction. Board at: Silver Lake Rd & Co Rd H - Stop #14078 (northbound); Temporary stop on Long Lake Rd & Co Rd H2 (northbound); County Rd H2 & Edgewood Dr - Stop #57221 (eastbound).",
+      "affectedRoutes": [
+        "Route 25"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Silver Lake Rd & Co Rd",
+        "Long Lake Rd & Co Rd",
+        "Silver Lake Rd & Gregory Dr",
+        "left on Silver Lake Rd & resume regular route.\n\nAffected st",
+        "Silver Lake Rd & Woodale Dr"
+      ],
+      "closedStopIds": [
+        "57236",
+        "14045",
+        "14046",
+        "40135",
+        "14050",
+        "14053",
+        "40107",
+        "14052",
+        "14051",
+        "14047",
+        "14044",
+        "57237",
+        "57642",
+        "14078",
+        "57221",
+        "57234",
+        "14081"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "57236",
+          "name": "Silver Lake Rd & Woodale Dr",
+          "direction": "northbound"
+        },
+        {
+          "id": "14045",
+          "name": "Co Rd H-2 & Silver Lake Rd",
+          "direction": "eastbound"
+        },
+        {
+          "id": "14046",
+          "name": "Co Rd H-2 & Red Oak Dr",
+          "direction": "eastbound"
+        },
+        {
+          "id": "40135",
+          "name": "Co Rd H-2 & Scotland Green Apts (W)",
+          "direction": "eastbound"
+        },
+        {
+          "id": "14050",
+          "name": "Co Rd H-2 & Scotland Green Apts (E)",
+          "direction": "eastbound"
+        },
+        {
+          "id": "14053",
+          "name": "Co Rd H-2 & Long Lake Rd",
+          "direction": "eastbound"
+        },
+        {
+          "id": "40107",
+          "name": "Co Rd H-2 & Long Lake Rd",
+          "direction": "westbound"
+        },
+        {
+          "id": "14052",
+          "name": "Co Rd H-2 & Scotland Green Apts (E)",
+          "direction": "westbound"
+        },
+        {
+          "id": "14051",
+          "name": "Co Rd H-2 & Scotland Green Apts (W)",
+          "direction": "westbound"
+        },
+        {
+          "id": "14047",
+          "name": "Co Rd H-2 & Parkview Dr",
+          "direction": "westbound"
+        },
+        {
+          "id": "14044",
+          "name": "Co Rd H-2 & Silver Lake Rd",
+          "direction": "westbound"
+        },
+        {
+          "id": "57237",
+          "name": "Silver Lake Rd & Woodale Dr",
+          "direction": "southbound"
+        },
+        {
+          "id": "57642",
+          "name": "Silver Lake Rd & County Rd H W",
+          "direction": "southbound"
+        },
+        {
+          "id": "14078"
+        },
+        {
+          "id": "57221"
+        },
+        {
+          "id": "57234"
+        },
+        {
+          "id": "14081"
+        }
+      ],
+      "riderAlternative": "Board at: Silver Lake Rd & Co Rd H - Stop #14078 (northbound); Temporary stop on Long Lake Rd & Co Rd H2 (northbound); County Rd H2 & Edgewood Dr - Stop #57221 (eastbound)",
+      "detourDetails": "Northbound buses will travel regular route on Silver Lake Rd to Co Rd H, right on Co Rd H, left on Long Lake Rd, right on Co Rd H2 and resume regular route.",
+      "activePeriod": {
+        "start": "2026-10-26T20:20:00.000Z"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/25",
+      "updatedAt": "2026-10-26T20:20:28.000Z",
+      "rawHeader": "Route 25 detoured off Silver Lake Rd from Co Rd H to Co Rd H2 and off Co Rd H2 from Silver Lake Rd to Long Lake Rd until further notice due to construction",
+      "rawDescription": "For northbound Route 25 get on/off buses at:\r\nSilver Lake Rd & Co Rd H - Stop #14078 (northbound)\r\nTemporary stop on Long Lake Rd & Co Rd H2 (northbound)\r\nCounty Rd H2 & Edgewood Dr - Stop #57221 (eastbound)\r\n\nFor southbound Route 25 get on/off buses at:\r\nCounty Rd H2 & Edgewood Dr - Stop #57234 (westbound)\r\nTemporary stop on Co Rd H2 & Long Lake Rd (westbound)\r\nSilver Lake Rd & Gregory Dr - Stop #14081 (southbound)\r\n\nNorthbound buses will travel regular route on Silver Lake Rd to Co Rd H, right on Co Rd H, left on Long Lake Rd, right on Co Rd H2 and resume regular route.\r\n\nSouthbound buses will travel regular route on Co Rd H2 to Long Lake Rd, left on Long Lake Rd, right on Co Rd H, left on Silver Lake Rd and resume regular route.\r\n\nAffected stops:\r\nSilver Lake Rd & Woodale Dr - Stop #57236 (northbound)\r\nCo Rd H-2 & Silver Lake Rd - Stop #14045 (eastbound)\r\nCo Rd H-2 & Red Oak Dr - Stop #14046 (eastbound)\r\nCo Rd H-2 & Scotland Green Apts (W) - Stop #40135 (eastbound)\r\nCo Rd H-2 & Scotland Green Apts (E) - Stop #14050 (eastbound)\r\nCo Rd H-2 & Long Lake Rd - Stop #14053 (eastbound)\r\nCo Rd H-2 & Long Lake Rd - Stop #40107 (westbound)\r\nCo Rd H-2 & Scotland Green Apts (E) - Stop #14052 (westbound)\r\nCo Rd H-2 & Scotland Green Apts (W) - Stop #14051 (westbound)\r\nCo Rd H-2 & Parkview Dr - Stop #14047 (westbound)\r\nCo Rd H-2 & Silver Lake Rd - Stop #14044 (westbound)\r\nSilver Lake Rd & Woodale Dr - Stop #57237 (southbound)\r\nSilver Lake Rd & County Rd H W - Stop #57642 (southbound)"
     },
     {
       "id": "49875",

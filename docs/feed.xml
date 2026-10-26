@@ -4,7 +4,7 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Mon, 26 Oct 2026 19:09:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 23:43:36 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
@@ -17,40 +17,31 @@
       <description>C Line trip departing 7th St &amp; Park Station at 1:29 PM and five other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] METRO Orange Line: Southbound 1:48 PM Trip Canceled (Marquette Ave &amp; 3rd St - Stop Group C)</title>
+      <title>[Critical] METRO Orange Line: Southbound 5:32 PM Trip Canceled (Marquette Ave &amp; 3rd St - Stop Group C)</title>
       <link>https://www.metrotransit.org/route/orange</link>
-      <guid isPermaLink="false">Metro Transit-54609-2026-10-26T18:45:14.000Z</guid>
-      <pubDate>Mon, 26 Oct 2026 18:45:14 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54629-2026-10-26T22:42:09.000Z</guid>
+      <pubDate>Mon, 26 Oct 2026 22:42:09 GMT</pubDate>
       <category>Critical</category>
       <category>METRO Orange Line</category>
-      <description>Southbound Orange Line trip departing Marquette Ave &amp; 3rd St - Stop Group C at 1:48 PM canceled today due to maintenance work</description>
+      <description>Southbound Orange Line trip departing Marquette Ave &amp; 3rd St - Stop Group C at 5:32 PM canceled today due to maintenance work</description>
     </item>
     <item>
-      <title>[Critical] Route 14: Northbound 1:35 PM Trip Canceled (66th St E &amp; Richfield Pkwy / 16th Ave)</title>
-      <link>https://www.metrotransit.org/route/14</link>
-      <guid isPermaLink="false">Metro Transit-54611-2026-10-26T18:50:55.000Z</guid>
-      <pubDate>Mon, 26 Oct 2026 18:50:55 GMT</pubDate>
+      <title>[Critical] Route 11, Route 11A: Southbound 5:39 PM Trip Canceled (Columbia Heights Transit Center C)</title>
+      <link>https://www.metrotransit.org/route/11</link>
+      <guid isPermaLink="false">Metro Transit-54630-2026-10-26T23:23:55.000Z</guid>
+      <pubDate>Mon, 26 Oct 2026 23:23:55 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 14</category>
-      <description>Northbound Route 14 trip departing 66th St E &amp; Richfield Pkwy / 16th Ave at 1:35 PM canceled</description>
+      <category>Route 11, Route 11A</category>
+      <description>Southbound Route 11A trip departing Columbia Heights Transit Center C at 5:39 PM canceled from Delasalle High School at 6:03 PM today due to maintenance work</description>
     </item>
     <item>
-      <title>[Critical] Route 22: 3:42 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)</title>
+      <title>[Critical] Route 22, Route 22A: Northbound 5:31 PM Trip Canceled (VA Medical Center &amp; Visitors Entrance)</title>
       <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-54608-2026-10-26T18:05:55.000Z</guid>
-      <pubDate>Mon, 26 Oct 2026 18:05:55 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54625-2026-10-26T22:01:00.000Z</guid>
+      <pubDate>Mon, 26 Oct 2026 22:01:00 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 22</category>
-      <description>Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 3:42 PM canceled</description>
-    </item>
-    <item>
-      <title>[Critical] Route 36: Northbound 1:35 PM Trip Canceled (Johnson Ave &amp; 78th St / Minnesota Dr)</title>
-      <link>https://www.metrotransit.org/route/36</link>
-      <guid isPermaLink="false">Metro Transit-54610-2026-10-26T18:50:32.000Z</guid>
-      <pubDate>Mon, 26 Oct 2026 18:50:32 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 36</category>
-      <description>Northbound Route 36 trip departing Johnson Ave &amp; 78th St / Minnesota Dr at 1:35 PM canceled today due to maintenance work</description>
+      <category>Route 22, Route 22A</category>
+      <description>Northbound Route 22A trip departing VA Medical Center &amp; Visitors Entrance at 5:31 PM canceled today</description>
     </item>
     <item>
       <title>[Critical] Route 71: Service Canceled</title>
@@ -62,22 +53,31 @@
       <description>Route 71 trip departing Inver Hills College &amp; Shelter at 12:38 PM and three other trips canceled today due to maintenance work</description>
     </item>
     <item>
-      <title>[Critical] Route 80: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/80</link>
-      <guid isPermaLink="false">Metro Transit-54588-2026-10-26T11:42:01.000Z</guid>
-      <pubDate>Mon, 26 Oct 2026 11:42:01 GMT</pubDate>
+      <title>[Critical] Route 72: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/72</link>
+      <guid isPermaLink="false">Metro Transit-54628-2026-10-26T22:23:37.000Z</guid>
+      <pubDate>Mon, 26 Oct 2026 22:23:37 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 80</category>
-      <description>Route 80 trip departing Sun Ray Transit Center &amp; Gate E at 7:12 AM and thirteen other trips canceled today</description>
+      <category>Route 72</category>
+      <description>Route 72 trip departing Sun Ray Transit Center &amp; Gate D at 7:21 PM and two other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 760: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/760</link>
-      <guid isPermaLink="false">Metro Transit-54604-2026-10-26T18:03:24.000Z</guid>
-      <pubDate>Mon, 26 Oct 2026 18:03:24 GMT</pubDate>
+      <title>[Critical] Route 540: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/540</link>
+      <guid isPermaLink="false">Metro Transit-54627-2026-10-26T21:55:00.000Z</guid>
+      <pubDate>Mon, 26 Oct 2026 21:55:00 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 760</category>
-      <description>Route 760 trips departing 12th St S &amp; Hennepin Ave S at 3:36 PM and departing 12th St S &amp; Hennepin Ave S at 4:36 PM canceled today</description>
+      <category>Route 540</category>
+      <description>Westbound Route 540 trip departing MOA Transit Station Gate G at 5:25 PM will operate from 77th &amp; Portland at 5:33 PM today. Previous stops missed due to maintenance work</description>
+    </item>
+    <item>
+      <title>[Critical] Route 615: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/615</link>
+      <guid isPermaLink="false">Metro Transit-54621-2026-10-26T21:21:00.000Z</guid>
+      <pubDate>Mon, 26 Oct 2026 21:21:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 615</category>
+      <description>Route 615 trip departing Ridgedale Mall &amp; East Entrance at 4:51 PM and two other trips canceled today</description>
     </item>
     <item>
       <title>[Critical] Route 802: Service Canceled</title>
@@ -393,6 +393,24 @@
       <category>Moderate</category>
       <category>Route 22</category>
       <description>Route 22 detoured off Lyndale Ave from Plymouth Ave to West Broadway Ave from 6:00 AM to 5:00 PM on Thu Oct 29 due to construction. Board at: 7th St N &amp; Oak Lake Ave N - Stop #57216 (northbound); Emerson &amp; Plymouth Station - Stop #8920 (northbound); Lyndale Ave N &amp; 23rd Ave N - Stop #11183 (northbound). | Action: Board at: 7th St N &amp; Oak Lake Ave N - Stop #57216 (northbound); Emerson &amp; Plymouth Station - Stop #8920 (northbound); Lyndale Ave N &amp; 23rd Ave N - Stop #11183 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 22: Detour via Lyndale Ave N &amp; Lowry Ave N</title>
+      <link>https://www.metrotransit.org/route/22</link>
+      <guid isPermaLink="false">Metro Transit-54619-2026-10-26T21:33:04.000Z</guid>
+      <pubDate>Mon, 26 Oct 2026 21:33:04 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 22</category>
+      <description>Route 22 detoured beginning off Lyndale Ave from Dowling Ave to 40th Tue Nov 3 at 7:00 AM until further notice due to tree trimming. Board at: Lyndale Ave N &amp; Lowry Ave N - Stop #81098 (northbound); Lyndale Ave N &amp; 41st Ave N - Stop #57196 (northbound). | Action: Board at: Lyndale Ave N &amp; Lowry Ave N - Stop #81098 (northbound); Lyndale Ave N &amp; 41st Ave N - Stop #57196 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 25: Detour via Silver Lake Rd &amp; Co Rd</title>
+      <link>https://www.metrotransit.org/route/25</link>
+      <guid isPermaLink="false">Metro Transit-54617-2026-10-26T20:20:28.000Z</guid>
+      <pubDate>Mon, 26 Oct 2026 20:20:28 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 25</category>
+      <description>Route 25 detoured off Silver Lake Rd from Co Rd H to Co Rd H2 and off Co Rd H2 from Silver Lake Rd to Long Lake Rd until further notice due to construction. Board at: Silver Lake Rd &amp; Co Rd H - Stop #14078 (northbound); Temporary stop on Long Lake Rd &amp; Co Rd H2 (northbound); County Rd H2 &amp; Edgewood Dr - Stop #57221 (eastbound). | Action: Board at: Silver Lake Rd &amp; Co Rd H - Stop #14078 (northbound); Temporary stop on Long Lake Rd &amp; Co Rd H2 (northbound); County Rd H2 &amp; Edgewood Dr - Stop #57221 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 27: Detour via 26th St E &amp; 3rd Ave S</title>
