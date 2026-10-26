@@ -1,93 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-26T00:03:56.401Z",
-    "totalAlerts": 101,
-    "criticalCount": 3,
+    "generatedAt": "2026-10-26T05:57:42.721Z",
+    "totalAlerts": 98,
+    "criticalCount": 0,
     "moderateCount": 95,
     "minorCount": 3,
-    "affectedRoutesCount": 78,
+    "affectedRoutesCount": 77,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "54581",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO D Line: Service Canceled",
-      "summary": "D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 4:03 PM and two other trips canceled today due to traffic",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-25T22:12:00.000Z",
-        "end": "2026-10-26T00:36:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-10-25T22:12:41.000Z",
-      "rawHeader": "D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 4:03 PM and two other trips canceled today due to traffic",
-      "rawDescription": "Affected northbound trips:\r\ndeparting MOA Transit Station Gate A at 5:25 PM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 4:03 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 4:13 PM"
-    },
-    {
-      "id": "54585",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO Orange Line: Service Canceled",
-      "summary": "Orange Line trips departing Burnsville Heart of the City Station at 4:35 PM and departing Marquette Ave & 3rd St - Stop Group C at 5:33 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "METRO Orange Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "35 PM and departing Marquette Ave & 3rd St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-25T22:18:00.000Z",
-        "end": "2026-10-26T00:08:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/orange",
-      "updatedAt": "2026-10-25T22:19:07.000Z",
-      "rawHeader": "Orange Line trips departing Burnsville Heart of the City Station at 4:35 PM and departing Marquette Ave & 3rd St - Stop Group C at 5:33 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "54583",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 18: Northbound 4:49 PM Trip Canceled (104th St W & Bloomington Fwy W)",
-      "summary": "Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 4:49 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 18"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {},
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/18",
-      "updatedAt": "2026-10-26T00:02:02.000Z",
-      "rawHeader": "Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 4:49 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -1300,7 +1223,7 @@
       },
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
-      "updatedAt": "2026-10-25T05:00:01.000Z",
+      "updatedAt": "2026-10-26T05:00:02.000Z",
       "rawHeader": "Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 11th St to 12th St from Mon Oct 26 at 7:00 AM to Fri Oct 30 at 4:00 PM due to construction",
       "rawDescription": "Note: This detour will only be in effect when the road is blocked. If road is open, buses will follow regular route.\r\n\nGet on/off northbound/eastbound buses at:\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\n\nNo southbound/westbound stops missed.\r\n\nNorthbound/eastbound buses will travel regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume regular route.\r\n\nSouthbound/westbound buses will travel regular route on Nicollet Mall to 11th St, right on 11th St, left on LaSalle Ave, left on 12th St, right on Nicollet Mall, and resume regular route.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)"
     },
@@ -1673,7 +1596,7 @@
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-10-25T05:00:01.000Z",
+      "updatedAt": "2026-10-26T05:00:02.000Z",
       "rawHeader": "Lowry Ave NE & Howard St NE - Stop #57446 (westbound) is closed for Routes 17 and 32 from 7:00 AM to 7:00 PM on Mon Oct 26 due to construction",
       "rawDescription": "Get on/off buses at:\r\nCentral Ave NE & Lowry Ave NE - Stop #17195 (southbound, Route 17 only)\r\nLowry Ave NE & Central Ave NE - Stop #12828 (westbound, Route 32 only)\r\nLowry Ave NE & Jefferson / Washington St - Stop #12813 (westbound)"
     },
@@ -2769,7 +2692,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-25T23:15:01.000Z",
+      "updatedAt": "2026-10-26T05:00:02.000Z",
       "rawHeader": "Ford Pkwy & Cretin Ave - Stop #4280 (eastbound) is closed for Routes 38 and 74 starting Thu Oct 22 until further notice  from 7:00 AM to 6:00 PM each day",
       "rawDescription": "Get on/off buses at:\r\nFord & Woodlawn Station - Stop #56111 (eastbound)\r\nFord & Finn Station - Stop #56112 (eastbound)"
     },
@@ -3867,7 +3790,7 @@
       "cause": "MAINTENANCE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/64",
-      "updatedAt": "2026-10-25T05:00:00.000Z",
+      "updatedAt": "2026-10-26T05:00:01.000Z",
       "rawHeader": "Route 64D detoured off Larpenteur Ave from Dieter St to Barclay St beginning Mon Oct 26 at 6:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off eastbound buses at:\r\nLarpenteur Ave & Prosperity Ave - Stop #42156 (westbound)\r\nLarpenteur Ave & Birmingham St - Stop #5376 (westbound)\r\n\nNo westbound stops missed\r\n\nEastbound Route 64D buses will travel regular route on Larpenteur Ave to Dieter St, left on Dieter St, right on Idaho Ave, right on Barclay St, left on Larpenteur Ave and resume regular route.\r\n\nWestbound Route 64 via English St buses will travel regular route on Larpenteur Ave to Barclay St, right on Barclay St, left on Idaho Ave, left on Dieter St, right on Larpenteur Ave and resume regular route.\r\n\nAffected stops:\r\nLarpenteur Ave & Barclay St - Stop #5374 (westbound)"
     },
@@ -6446,7 +6369,7 @@
       "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-10-25T05:00:01.000Z",
+      "updatedAt": "2026-10-26T05:00:02.000Z",
       "rawHeader": "Coon Rapids Blvd & Dakotah St - Stop #11059 (westbound) is closed for Route 802 beginning Mon Oct 26 at 9:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off buses at:\r\nCoon Rapids Blvd & Blackfoot St - Stop #11055 (westbound)\r\nEast River Rd & Queens Lane - Stop #12070 (northbound)"
     },
