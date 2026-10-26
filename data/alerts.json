@@ -1,359 +1,91 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-25T21:38:05.334Z",
+    "generatedAt": "2026-10-26T00:03:56.401Z",
     "totalAlerts": 101,
-    "criticalCount": 2,
-    "moderateCount": 96,
+    "criticalCount": 3,
+    "moderateCount": 95,
     "minorCount": 3,
-    "affectedRoutesCount": 79,
+    "affectedRoutesCount": 78,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "54580",
+      "id": "54581",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO D Line: Northbound 2:34 PM Trip Canceled (MOA Transit Station Gate A)",
-      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 2:34 PM canceled from 7th & Olson at 3:22 PM today due to traffic",
+      "title": "METRO D Line: Service Canceled",
+      "summary": "D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 4:03 PM and two other trips canceled today due to traffic",
       "affectedRoutes": [
         "METRO D Line"
       ],
-      "direction": "Northbound",
+      "direction": "Both Directions",
       "intersections": [],
-      "closedStopIds": [
-        "43275",
-        "56930",
-        "56949",
-        "56950",
-        "56951",
-        "8919",
-        "8920",
-        "8935",
-        "8945",
-        "8948",
-        "9089",
-        "9263",
-        "9646",
-        "9658",
-        "56823"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "43275"
-        },
-        {
-          "id": "56930"
-        },
-        {
-          "id": "56949"
-        },
-        {
-          "id": "56950"
-        },
-        {
-          "id": "56951"
-        },
-        {
-          "id": "8919"
-        },
-        {
-          "id": "8920"
-        },
-        {
-          "id": "8935"
-        },
-        {
-          "id": "8945"
-        },
-        {
-          "id": "8948"
-        },
-        {
-          "id": "9089"
-        },
-        {
-          "id": "9263"
-        },
-        {
-          "id": "9646"
-        },
-        {
-          "id": "9658"
-        },
-        {
-          "id": "56823"
-        }
-      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-25T20:37:00.000Z",
-        "end": "2026-10-25T21:46:00.000Z"
+        "start": "2026-10-25T22:12:00.000Z",
+        "end": "2026-10-26T00:36:00.000Z"
       },
       "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-10-25T20:38:43.000Z",
-      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 2:34 PM canceled from 7th & Olson at 3:22 PM today due to traffic",
-      "rawDescription": ""
+      "updatedAt": "2026-10-25T22:12:41.000Z",
+      "rawHeader": "D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 4:03 PM and two other trips canceled today due to traffic",
+      "rawDescription": "Affected northbound trips:\r\ndeparting MOA Transit Station Gate A at 5:25 PM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 4:03 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 4:13 PM"
     },
     {
-      "id": "54577",
+      "id": "54585",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 38, Route 38C: Service Advisory",
-      "summary": "Eastbound Route 38C trip departing Bren Rd E & Blue Circle Dr at 2:48 PM will operate from Excelsior & Market at 3:27 PM today. Previous stops missed due to maintenance work",
+      "title": "METRO Orange Line: Service Canceled",
+      "summary": "Orange Line trips departing Burnsville Heart of the City Station at 4:35 PM and departing Marquette Ave & 3rd St - Stop Group C at 5:33 PM canceled today due to traffic",
       "affectedRoutes": [
-        "Route 38",
-        "Route 38C"
+        "METRO Orange Line"
       ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [
-        "52266",
-        "52523",
-        "51120",
-        "51029",
-        "51030",
-        "56512",
-        "50095",
-        "50109",
-        "4719",
-        "4721",
-        "43380",
-        "43587",
-        "41302",
-        "41311",
-        "40250",
-        "4803",
-        "4804",
-        "4805",
-        "4806",
-        "4807",
-        "4808",
-        "4809",
-        "4810",
-        "4812",
-        "4813",
-        "4814",
-        "4818",
-        "4819",
-        "4820",
-        "48208",
-        "48209",
-        "48211",
-        "48212",
-        "48213",
-        "4822",
-        "4828",
-        "4829",
-        "48312",
-        "48313",
-        "4834",
-        "4836",
-        "48379",
-        "48392",
-        "4844",
-        "4848",
-        "4849",
-        "4850",
-        "4852",
-        "4853",
-        "4854",
-        "4855",
-        "4856",
-        "4858",
-        "4859",
-        "4860",
-        "3592",
-        "3615"
+      "direction": "Both Directions",
+      "intersections": [
+        "35 PM and departing Marquette Ave & 3rd St"
       ],
-      "closedStopDetails": [
-        {
-          "id": "52266"
-        },
-        {
-          "id": "52523"
-        },
-        {
-          "id": "51120"
-        },
-        {
-          "id": "51029"
-        },
-        {
-          "id": "51030"
-        },
-        {
-          "id": "56512"
-        },
-        {
-          "id": "50095"
-        },
-        {
-          "id": "50109"
-        },
-        {
-          "id": "4719"
-        },
-        {
-          "id": "4721"
-        },
-        {
-          "id": "43380"
-        },
-        {
-          "id": "43587"
-        },
-        {
-          "id": "41302"
-        },
-        {
-          "id": "41311"
-        },
-        {
-          "id": "40250"
-        },
-        {
-          "id": "4803"
-        },
-        {
-          "id": "4804"
-        },
-        {
-          "id": "4805"
-        },
-        {
-          "id": "4806"
-        },
-        {
-          "id": "4807"
-        },
-        {
-          "id": "4808"
-        },
-        {
-          "id": "4809"
-        },
-        {
-          "id": "4810"
-        },
-        {
-          "id": "4812"
-        },
-        {
-          "id": "4813"
-        },
-        {
-          "id": "4814"
-        },
-        {
-          "id": "4818"
-        },
-        {
-          "id": "4819"
-        },
-        {
-          "id": "4820"
-        },
-        {
-          "id": "48208"
-        },
-        {
-          "id": "48209"
-        },
-        {
-          "id": "48211"
-        },
-        {
-          "id": "48212"
-        },
-        {
-          "id": "48213"
-        },
-        {
-          "id": "4822"
-        },
-        {
-          "id": "4828"
-        },
-        {
-          "id": "4829"
-        },
-        {
-          "id": "48312"
-        },
-        {
-          "id": "48313"
-        },
-        {
-          "id": "4834"
-        },
-        {
-          "id": "4836"
-        },
-        {
-          "id": "48379"
-        },
-        {
-          "id": "48392"
-        },
-        {
-          "id": "4844"
-        },
-        {
-          "id": "4848"
-        },
-        {
-          "id": "4849"
-        },
-        {
-          "id": "4850"
-        },
-        {
-          "id": "4852"
-        },
-        {
-          "id": "4853"
-        },
-        {
-          "id": "4854"
-        },
-        {
-          "id": "4855"
-        },
-        {
-          "id": "4856"
-        },
-        {
-          "id": "4858"
-        },
-        {
-          "id": "4859"
-        },
-        {
-          "id": "4860"
-        },
-        {
-          "id": "3592"
-        },
-        {
-          "id": "3615"
-        }
-      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-25T19:48:00.000Z",
-        "end": "2026-10-25T22:07:00.000Z"
+        "start": "2026-10-25T22:18:00.000Z",
+        "end": "2026-10-26T00:08:00.000Z"
       },
-      "cause": "MAINTENANCE",
+      "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/38",
-      "updatedAt": "2026-10-25T19:43:14.000Z",
-      "rawHeader": "Eastbound Route 38C trip departing Bren Rd E & Blue Circle Dr at 2:48 PM will operate from Excelsior & Market at 3:27 PM today. Previous stops missed due to maintenance work",
+      "url": "https://www.metrotransit.org/route/orange",
+      "updatedAt": "2026-10-25T22:19:07.000Z",
+      "rawHeader": "Orange Line trips departing Burnsville Heart of the City Station at 4:35 PM and departing Marquette Ave & 3rd St - Stop Group C at 5:33 PM canceled today due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "54583",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 18: Northbound 4:49 PM Trip Canceled (104th St W & Bloomington Fwy W)",
+      "summary": "Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 4:49 PM canceled today due to traffic",
+      "affectedRoutes": [
+        "Route 18"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {},
+      "cause": "OTHER_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/18",
+      "updatedAt": "2026-10-26T00:02:02.000Z",
+      "rawHeader": "Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 4:49 PM canceled today due to traffic",
       "rawDescription": ""
     },
     {
@@ -464,42 +196,6 @@
       "updatedAt": "2025-12-12T16:20:01.000Z",
       "rawHeader": "Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues",
       "rawDescription": "Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station."
-    },
-    {
-      "id": "52269",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "METRO Blue Line, METRO Green Line: Service Advisory",
-      "summary": "METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 10/25 from 9am - 5pm",
-      "affectedRoutes": [
-        "METRO Blue Line",
-        "METRO Green Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [
-        "56330",
-        "56338"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "56330"
-        },
-        {
-          "id": "56338"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-25T14:00:00.000Z",
-        "end": "2026-10-25T22:00:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-10-25T13:30:02.000Z",
-      "rawHeader": "METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 10/25 from 9am - 5pm",
-      "rawDescription": "Due to street closures around U.S. Bank Stadium Station during the Vikings game, please transfer between the METRO Blue and Green lines at Government Plaza Station instead.\r\n\nAffected stops:\r\nU.S. Bank Stadium Station (eastbound)\r\nU.S. Bank Stadium Station (northbound)\r\nU.S. Bank Stadium Station (southbound)\r\nU.S. Bank Stadium Station (westbound)"
     },
     {
       "id": "54265",
@@ -1007,12 +703,12 @@
         "56923",
         "17815",
         "51212",
-        "73",
         "66",
         "68",
         "69",
         "70",
-        "72"
+        "72",
+        "73"
       ],
       "closedStopDetails": [
         {
@@ -1080,9 +776,6 @@
           "id": "51212"
         },
         {
-          "id": "73"
-        },
-        {
           "id": "66"
         },
         {
@@ -1096,6 +789,9 @@
         },
         {
           "id": "72"
+        },
+        {
+          "id": "73"
         }
       ],
       "riderAlternative": "Board at: Chicago & 56th St Station - Stop #775 (northbound); Temporary stop on Portland Ave & 52nd St (northbound); Temporary stop on Portland Ave & 48th St (northbound)",
@@ -3067,13 +2763,13 @@
       "riderAlternative": "Board at: Ford & Woodlawn Station - Stop #56111 (eastbound); Ford & Finn Station - Stop #56112 (eastbound)",
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-25T12:00:00.000Z",
-        "end": "2026-10-25T23:00:00.000Z",
+        "start": "2026-10-26T12:00:00.000Z",
+        "end": "2026-10-26T23:00:00.000Z",
         "textDescription": "Beginning Thu Oct 22 until further notice from 7:00 AM to 6:00 PM each day"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-25T11:30:03.000Z",
+      "updatedAt": "2026-10-25T23:15:01.000Z",
       "rawHeader": "Ford Pkwy & Cretin Ave - Stop #4280 (eastbound) is closed for Routes 38 and 74 starting Thu Oct 22 until further notice  from 7:00 AM to 6:00 PM each day",
       "rawDescription": "Get on/off buses at:\r\nFord & Woodlawn Station - Stop #56111 (eastbound)\r\nFord & Finn Station - Stop #56112 (eastbound)"
     },

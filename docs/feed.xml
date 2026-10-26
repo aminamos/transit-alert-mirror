@@ -4,26 +4,35 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 25 Oct 2026 21:38:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 00:03:56 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO D Line: Northbound 2:34 PM Trip Canceled (MOA Transit Station Gate A)</title>
+      <title>[Critical] METRO D Line: Service Canceled</title>
       <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-54580-2026-10-25T20:38:43.000Z</guid>
-      <pubDate>Sun, 25 Oct 2026 20:38:43 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54581-2026-10-25T22:12:41.000Z</guid>
+      <pubDate>Sun, 25 Oct 2026 22:12:41 GMT</pubDate>
       <category>Critical</category>
       <category>METRO D Line</category>
-      <description>Northbound D Line trip departing MOA Transit Station Gate A at 2:34 PM canceled from 7th &amp; Olson at 3:22 PM today due to traffic</description>
+      <description>D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 4:03 PM and two other trips canceled today due to traffic</description>
     </item>
     <item>
-      <title>[Critical] Route 38, Route 38C: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/38</link>
-      <guid isPermaLink="false">Metro Transit-54577-2026-10-25T19:43:14.000Z</guid>
-      <pubDate>Sun, 25 Oct 2026 19:43:14 GMT</pubDate>
+      <title>[Critical] METRO Orange Line: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/orange</link>
+      <guid isPermaLink="false">Metro Transit-54585-2026-10-25T22:19:07.000Z</guid>
+      <pubDate>Sun, 25 Oct 2026 22:19:07 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 38, Route 38C</category>
-      <description>Eastbound Route 38C trip departing Bren Rd E &amp; Blue Circle Dr at 2:48 PM will operate from Excelsior &amp; Market at 3:27 PM today. Previous stops missed due to maintenance work</description>
+      <category>METRO Orange Line</category>
+      <description>Orange Line trips departing Burnsville Heart of the City Station at 4:35 PM and departing Marquette Ave &amp; 3rd St - Stop Group C at 5:33 PM canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 18: Northbound 4:49 PM Trip Canceled (104th St W &amp; Bloomington Fwy W)</title>
+      <link>https://www.metrotransit.org/route/18</link>
+      <guid isPermaLink="false">Metro Transit-54583-2026-10-26T00:02:02.000Z</guid>
+      <pubDate>Mon, 26 Oct 2026 00:02:02 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 18</category>
+      <description>Northbound Route 18 trip departing 104th St W &amp; Bloomington Fwy W at 4:49 PM canceled today due to traffic</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -51,15 +60,6 @@
       <category>Moderate</category>
       <category>METRO Blue Line</category>
       <description>Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues</description>
-    </item>
-    <item>
-      <title>[Moderate] METRO Blue Line, METRO Green Line: Service Advisory</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-52269-2026-10-25T13:30:02.000Z</guid>
-      <pubDate>Sun, 25 Oct 2026 13:30:02 GMT</pubDate>
-      <category>Moderate</category>
-      <category>METRO Blue Line, METRO Green Line</category>
-      <description>METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 10/25 from 9am - 5pm</description>
     </item>
     <item>
       <title>[Moderate] METRO D Line: Detour via Chicago Ave S &amp; 58th St E</title>
@@ -379,8 +379,8 @@
     <item>
       <title>[Moderate] Route 38, Route 74: Stop Closed at Ford Pkwy &amp; Cretin Ave</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54427-2026-10-25T11:30:03.000Z</guid>
-      <pubDate>Sun, 25 Oct 2026 11:30:03 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54427-2026-10-25T23:15:01.000Z</guid>
+      <pubDate>Sun, 25 Oct 2026 23:15:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 38, Route 74</category>
       <description>Ford Pkwy &amp; Cretin Ave - Stop #4280 (eastbound) is closed for Routes 38 and 74 starting Thu Oct 22 until further notice from 7:00 AM to 6:00 PM each day. Board at: Ford &amp; Woodlawn Station - Stop #56111 (eastbound); Ford &amp; Finn Station - Stop #56112 (eastbound). | Action: Board at: Ford &amp; Woodlawn Station - Stop #56111 (eastbound); Ford &amp; Finn Station - Stop #56112 (eastbound)</description>

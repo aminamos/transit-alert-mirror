@@ -3,54 +3,81 @@
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
 [![Alerts](https://img.shields.io/badge/Total%20Alerts-101-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-96-orange)](#-moderate-detours--changes)
+[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-95-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-79-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-78-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-25T21:38:05.334Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-26T00:03:56.401Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 14** (3) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (5) • **Route 25** (2) • **Route 27** (2) • **Route 32** (2) • **Route 36** (2) • **Route 38** (3) • **Route 38C** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (7) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 14** (3) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (7) • **Route 22** (5) • **Route 25** (2) • **Route 27** (2) • **Route 32** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (7) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO D Line: Northbound 2:34 PM Trip Canceled (MOA Transit Station Gate A)
+### 🚨 METRO D Line: Service Canceled
 
 - **Affected Routes**: `METRO D Line`
-- **Direction**: Northbound
+- **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #43275, Stop #56930, Stop #56949, Stop #56950, Stop #56951, Stop #8919, Stop #8920, Stop #8935 *(+7 more)*
 
-**Summary**: Northbound D Line trip departing MOA Transit Station Gate A at 2:34 PM canceled from 7th & Olson at 3:22 PM today due to traffic
+**Summary**: D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 4:03 PM and two other trips canceled today due to traffic
 
 [Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound D Line trip departing MOA Transit Station Gate A at 2:34 PM canceled from 7th & Olson at 3:22 PM today due to traffic
+**Header**: D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 4:03 PM and two other trips canceled today due to traffic
+
+```text
+Affected northbound trips:
+departing MOA Transit Station Gate A at 5:25 PM
+
+Affected southbound trips:
+departing Brooklyn Ctr Transit Ctr Gate F at 4:03 PM
+departing Brooklyn Ctr Transit Ctr Gate F at 4:13 PM
+```
 
 </details>
 
 ---
 
-### 🚨 Route 38, Route 38C: Service Advisory
+### 🚨 METRO Orange Line: Service Canceled
 
-- **Affected Routes**: `Route 38` `Route 38C`
-- **Direction**: Eastbound
+- **Affected Routes**: `METRO Orange Line`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #52266, Stop #52523, Stop #51120, Stop #51029, Stop #51030, Stop #56512, Stop #50095, Stop #50109 *(+49 more)*
+- **Corridors & Intersections**: 35 PM and departing Marquette Ave & 3rd St
 
-**Summary**: Eastbound Route 38C trip departing Bren Rd E & Blue Circle Dr at 2:48 PM will operate from Excelsior & Market at 3:27 PM today. Previous stops missed due to maintenance work
+**Summary**: Orange Line trips departing Burnsville Heart of the City Station at 4:35 PM and departing Marquette Ave & 3rd St - Stop Group C at 5:33 PM canceled today due to traffic
 
-[Official Agency Advisory](https://www.metrotransit.org/route/38)
+[Official Agency Advisory](https://www.metrotransit.org/route/orange)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Route 38C trip departing Bren Rd E & Blue Circle Dr at 2:48 PM will operate from Excelsior & Market at 3:27 PM today. Previous stops missed due to maintenance work
+**Header**: Orange Line trips departing Burnsville Heart of the City Station at 4:35 PM and departing Marquette Ave & 3rd St - Stop Group C at 5:33 PM canceled today due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 18: Northbound 4:49 PM Trip Canceled (104th St W & Bloomington Fwy W)
+
+- **Affected Routes**: `Route 18`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 4:49 PM canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/18)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 4:49 PM canceled today due to traffic
 
 </details>
 
@@ -156,34 +183,6 @@ Ford & Fairview Station - Stop #56113 (eastbound)
 
 ```text
 Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station.
-```
-
-</details>
-
----
-
-### ⚠️ METRO Blue Line, METRO Green Line: Service Advisory
-
-- **Affected Routes**: `METRO Blue Line` `METRO Green Line`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Closed Stops**: Stop #56330, Stop #56338
-
-**Summary**: METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 10/25 from 9am - 5pm
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 10/25 from 9am - 5pm
-
-```text
-Due to street closures around U.S. Bank Stadium Station during the Vikings game, please transfer between the METRO Blue and Green lines at Government Plaza Station instead.
-
-Affected stops:
-U.S. Bank Stadium Station (eastbound)
-U.S. Bank Stadium Station (northbound)
-U.S. Bank Stadium Station (southbound)
-U.S. Bank Stadium Station (westbound)
 ```
 
 </details>
