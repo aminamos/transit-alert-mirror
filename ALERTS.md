@@ -2,21 +2,168 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-98-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-103-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-6-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-95-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-77-brightgreen)](#-routes-index)
+[![Minor](https://img.shields.io/badge/Minor-2-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-79-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-26T05:57:42.721Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-26T12:47:51.922Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 14** (3) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (5) • **Route 25** (2) • **Route 27** (2) • **Route 32** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (7) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 14** (3) • **Route 17** (4) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (5) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (6) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 80** (1) • **Route 94** (2) • **Route 134** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 355** (1) • **Route 363** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (2) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 723** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 781** (1) • **Route 784** (1) • **Route 785** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (2) • **Route 860** (3) • **Route 882** (2) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 Route 3: Westbound 7:09 AM Trip Canceled (Union Depot & Gate A1)
+
+- **Affected Routes**: `Route 3`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 3 trip departing Union Depot & Gate A1 at 7:09 AM canceled today due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/3)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 3 trip departing Union Depot & Gate A1 at 7:09 AM canceled today due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 17: Westbound 6:47 AM Trip Canceled (Central Ave NE & 26th Ave NE)
+
+- **Affected Routes**: `Route 17`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 17 trip departing Central Ave NE & 26th Ave NE at 6:47 AM canceled
+
+[Official Agency Advisory](https://www.metrotransit.org/route/17)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 17 trip departing Central Ave NE & 26th Ave NE at 6:47 AM canceled
+
+</details>
+
+---
+
+### 🚨 Route 30: Service Canceled
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 53 AM
+departing Knox Ave N & Golden Valley Rd; 56 AM
+departing Knox Ave N & Golden Valley Rd
+
+**Summary**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Golden Valley Rd Turn & Xerxes Ave N at 7:53 AM
+departing Knox Ave N & Golden Valley Rd at 9:56 AM
+departing Knox Ave N & Golden Valley Rd at 11:56 AM
+
+Affected westbound trips:
+departing Westgate Station - Gate B at 7:07 AM
+departing Westgate Station - Gate B at 9:06 AM
+departing Westgate Station - Gate B at 11:04 AM
+```
+
+</details>
+
+---
+
+### 🚨 Route 80: Service Canceled
+
+- **Affected Routes**: `Route 80`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 80 trip departing Sun Ray Transit Center & Gate E at 7:12 AM and thirteen other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/80)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 80 trip departing Sun Ray Transit Center & Gate E at 7:12 AM and thirteen other trips canceled today
+
+```text
+Affected northbound trips:
+departing Sun Ray Transit Center & Gate E at 7:12 AM
+departing Sun Ray Transit Center & Gate E at 8:12 AM
+departing Sun Ray Transit Center & Gate E at 9:12 AM
+departing Sun Ray Transit Center & Gate E at 10:12 AM
+departing Sun Ray Transit Center & Gate E at 11:12 AM
+departing Sun Ray Transit Center & Gate E at 12:12 PM
+departing Sun Ray Transit Center & Gate E at 1:12 PM
+
+Affected southbound trips:
+departing Maplewood Mall Transit Center & Gate F at 7:42 AM
+departing Maplewood Mall Transit Center & Gate F at 8:42 AM
+departing Maplewood Mall Transit Center & Gate F at 9:42 AM
+departing Maplewood Mall Transit Center & Gate F at 10:42 AM
+departing Maplewood Mall Transit Center & Gate F at 11:42 AM
+departing Maplewood Mall Transit Center & Gate F at 12:42 PM
+departing Maplewood Mall Transit Center & Gate F at 1:42 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 540: Service Canceled
+
+- **Affected Routes**: `Route 540`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 7:32 AM and departing MOA Transit Station Gate G at 8:26 AM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/540)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 7:32 AM and departing MOA Transit Station Gate G at 8:26 AM canceled today due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 Route 542: Service Canceled
+
+- **Affected Routes**: `Route 542`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 542 trips departing American Blvd & Social Security Admin at 6:30 AM and departing MOA Transit Station Gate G at 7:07 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/542)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 542 trips departing American Blvd & Social Security Admin at 6:30 AM and departing MOA Transit Station Gate G at 7:07 AM canceled today
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -4125,31 +4272,6 @@ LaFayette Rd & Grove St - Stop #11923 (southbound)
 
 ```text
 Route 14 will now serve new bus stops at Bloomington Avenue and 22nd Street in both directions on a permanent basis.
-```
-
-</details>
-
----
-
-### ℹ️ Route 64, Route 74: Service Advisory
-
-- **Affected Routes**: `Route 64` `Route 74`
-- **Direction**: Northbound
-- **Severity**: `Minor`
-- **Schedule**: Beginning Mon Oct 12
-- **Closed Stops**: Stop #53948, Stop #54048
-
-**Summary**: Routes 64 and 74 school trips that serve Johnson High School will switch gates beginning Mon Oct 12
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Routes 64 and 74 school trips that serve Johnson High School will switch gates beginning Mon Oct 12
-
-```text
-Route 74 will drop off in the morning and pickup in the afternoon at Johnson High School & Gate B - Stop #53948 (northbound)
-
-Route 64 trips will pickup in the afternoon at Johnson High School & Gate C - Stop #54048 (eastbound)
 ```
 
 </details>

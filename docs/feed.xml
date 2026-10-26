@@ -4,9 +4,63 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Mon, 26 Oct 2026 05:57:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:47:51 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] Route 3: Westbound 7:09 AM Trip Canceled (Union Depot &amp; Gate A1)</title>
+      <link>https://www.metrotransit.org/route/3</link>
+      <guid isPermaLink="false">Metro Transit-54593-2026-10-26T12:38:16.000Z</guid>
+      <pubDate>Mon, 26 Oct 2026 12:38:16 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 3</category>
+      <description>Westbound Route 3 trip departing Union Depot &amp; Gate A1 at 7:09 AM canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 17: Westbound 6:47 AM Trip Canceled (Central Ave NE &amp; 26th Ave NE)</title>
+      <link>https://www.metrotransit.org/route/17</link>
+      <guid isPermaLink="false">Metro Transit-54589-2026-10-26T11:25:28.000Z</guid>
+      <pubDate>Mon, 26 Oct 2026 11:25:28 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 17</category>
+      <description>Westbound Route 17 trip departing Central Ave NE &amp; 26th Ave NE at 6:47 AM canceled</description>
+    </item>
+    <item>
+      <title>[Critical] Route 30: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/30</link>
+      <guid isPermaLink="false">Metro Transit-54591-2026-10-26T11:47:02.000Z</guid>
+      <pubDate>Mon, 26 Oct 2026 11:47:02 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 30</category>
+      <description>Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 80: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/80</link>
+      <guid isPermaLink="false">Metro Transit-54588-2026-10-26T11:42:01.000Z</guid>
+      <pubDate>Mon, 26 Oct 2026 11:42:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 80</category>
+      <description>Route 80 trip departing Sun Ray Transit Center &amp; Gate E at 7:12 AM and thirteen other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 540: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/540</link>
+      <guid isPermaLink="false">Metro Transit-54592-2026-10-26T12:21:39.000Z</guid>
+      <pubDate>Mon, 26 Oct 2026 12:21:39 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 540</category>
+      <description>Route 540 trips departing Normandale Lake Blvd &amp; 83rd St / 84th St at 7:32 AM and departing MOA Transit Station Gate G at 8:26 AM canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 542: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/542</link>
+      <guid isPermaLink="false">Metro Transit-54590-2026-10-26T11:27:05.000Z</guid>
+      <pubDate>Mon, 26 Oct 2026 11:27:05 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 542</category>
+      <description>Route 542 trips departing American Blvd &amp; Social Security Admin at 6:30 AM and departing MOA Transit Station Gate G at 7:07 AM canceled today</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -19,8 +73,8 @@
     <item>
       <title>[Moderate] METRO A Line: Detour via Ford Pkwy &amp; Fairview Ave</title>
       <link>https://www.metrotransit.org/route/aline</link>
-      <guid isPermaLink="false">Metro Transit-54156-2026-10-21T13:11:28.000Z</guid>
-      <pubDate>Wed, 21 Oct 2026 13:11:28 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54156-2026-10-26T11:00:03.000Z</guid>
+      <pubDate>Mon, 26 Oct 2026 11:00:03 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO A Line</category>
       <description>A Line detoured off Ford Pkwy from Fairview Ave to Davern St beginning Mon Oct 19 at 6:00 AM until further notice. Board at: Ford &amp; Kenneth Station - Stop #4283 (eastbound); Temporary stop on Ford Pkwy &amp; Fairview Ave (eastbound); Snelling &amp; Highland Station - Stop #56114 (northbound). | Action: Board at: Ford &amp; Kenneth Station - Stop #4283 (eastbound); Temporary stop on Ford Pkwy &amp; Fairview Ave (eastbound); Snelling &amp; Highland Station - Stop #56114 (northbound)</description>
@@ -163,8 +217,8 @@
     <item>
       <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54465-2026-10-26T05:00:02.000Z</guid>
-      <pubDate>Mon, 26 Oct 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54465-2026-10-26T11:30:03.000Z</guid>
+      <pubDate>Mon, 26 Oct 2026 11:30:03 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 10, Route 11, Route 17, Route 18, Route 25</category>
       <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 11th St to 12th St from Mon Oct 26 at 7:00 AM to Fri Oct 30 at 4:00 PM due to construction. Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 9th St S - Stop #17992 (northbound). | Action: Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 9th St S - Stop #17992 (northbound)</description>
@@ -208,8 +262,8 @@
     <item>
       <title>[Moderate] Route 17, Route 32: Stop Closed at Lowry Ave NE &amp; Howard St N</title>
       <link>https://www.metrotransit.org/route/17</link>
-      <guid isPermaLink="false">Metro Transit-54455-2026-10-26T05:00:02.000Z</guid>
-      <pubDate>Mon, 26 Oct 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54455-2026-10-26T11:30:04.000Z</guid>
+      <pubDate>Mon, 26 Oct 2026 11:30:04 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 17, Route 32</category>
       <description>Lowry Ave NE &amp; Howard St NE - Stop #57446 (westbound) is closed for Routes 17 and 32 from 7:00 AM to 7:00 PM on Mon Oct 26 due to construction. Board at: Central Ave NE &amp; Lowry Ave NE - Stop #17195 (southbound, Route 17 only); Lowry Ave NE &amp; Central Ave NE - Stop #12828 (westbound, Route 32 only); Lowry Ave NE &amp; Jefferson / Washington St - Stop #12813 (westbound). | Action: Board at: Central Ave NE &amp; Lowry Ave NE - Stop #17195 (southbound, Route 17 only); Lowry Ave NE &amp; Central Ave NE - Stop #12828 (westbound, Route 32 only); Lowry Ave NE &amp; Jefferson / Washington St - Stop #12813 (westbound)</description>
@@ -352,8 +406,8 @@
     <item>
       <title>[Moderate] Route 38, Route 74: Stop Closed at Ford Pkwy &amp; Cretin Ave</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54427-2026-10-26T05:00:02.000Z</guid>
-      <pubDate>Mon, 26 Oct 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54427-2026-10-26T11:30:04.000Z</guid>
+      <pubDate>Mon, 26 Oct 2026 11:30:04 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 38, Route 74</category>
       <description>Ford Pkwy &amp; Cretin Ave - Stop #4280 (eastbound) is closed for Routes 38 and 74 starting Thu Oct 22 until further notice from 7:00 AM to 6:00 PM each day. Board at: Ford &amp; Woodlawn Station - Stop #56111 (eastbound); Ford &amp; Finn Station - Stop #56112 (eastbound). | Action: Board at: Ford &amp; Woodlawn Station - Stop #56111 (eastbound); Ford &amp; Finn Station - Stop #56112 (eastbound)</description>
@@ -478,8 +532,8 @@
     <item>
       <title>[Moderate] Route 64, Route 64D: Detour via Larpenteur Ave &amp; Prosperity Ave</title>
       <link>https://www.metrotransit.org/route/64</link>
-      <guid isPermaLink="false">Metro Transit-54537-2026-10-26T05:00:01.000Z</guid>
-      <pubDate>Mon, 26 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54537-2026-10-26T10:30:02.000Z</guid>
+      <pubDate>Mon, 26 Oct 2026 10:30:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 64, Route 64D</category>
       <description>Route 64D detoured off Larpenteur Ave from Dieter St to Barclay St beginning Mon Oct 26 at 6:00 AM until further notice due to utility work. Board at: Larpenteur Ave &amp; Prosperity Ave - Stop #42156 (westbound); Larpenteur Ave &amp; Birmingham St - Stop #5376 (westbound). | Action: Board at: Larpenteur Ave &amp; Prosperity Ave - Stop #42156 (westbound); Larpenteur Ave &amp; Birmingham St - Stop #5376 (westbound)</description>
@@ -870,15 +924,6 @@
       <category>Minor</category>
       <category>Route 14</category>
       <description>Route 14 service advisory: New bus stops have been added at Bloomington Ave &amp; 22nd St</description>
-    </item>
-    <item>
-      <title>[Minor] Route 64, Route 74: Service Advisory</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-53804-2026-10-19T08:00:01.000Z</guid>
-      <pubDate>Mon, 19 Oct 2026 08:00:01 GMT</pubDate>
-      <category>Minor</category>
-      <category>Route 64, Route 74</category>
-      <description>Routes 64 and 74 school trips that serve Johnson High School will switch gates beginning Mon Oct 12</description>
     </item>
     <item>
       <title>[Minor] Route 94, METRO Gold Line: Service Advisory</title>
