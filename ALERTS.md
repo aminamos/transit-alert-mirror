@@ -2,35 +2,218 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-95-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-92-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-102-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-7-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-93-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-2-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-70-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-27T10:21:34.509Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-27T16:23:45.547Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 14** (2) • **Route 17** (2) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (6) • **Route 25** (3) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (6) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (7) • **Route 10** (2) • **Route 11** (3) • **Route 14** (2) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (6) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (6) • **Route 64D** (1) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (3) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (2) • **Route 805** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO B Line: 3:56 AM Trip Canceled (Lake St W & France Ave S)
+### 🚨 Route 9: Service Advisory
 
-- **Affected Routes**: `METRO B Line`
-- **Direction**: All
+- **Affected Routes**: `Route 9`
+- **Direction**: Westbound
 - **Severity**: `Critical`
-- **Corridors & Intersections**: B Line trip departing Lake St W & France Ave S
+- **Closed Stops**: Stop #13309, Stop #15630, Stop #15344, Stop #15345, Stop #17574, Stop #17575, Stop #17576, Stop #17577 *(+35 more)*
 
-**Summary**: B Line trip departing Lake St W & France Ave S at 3:56 AM canceled today
+**Summary**: Westbound Route 9 trip departing 46th St Station at 10:03 AM will start from 9th & Park. Previous stops missed due to traffic
 
-[Official Agency Advisory](https://www.metrotransit.org/route/bline)
+[Official Agency Advisory](https://www.metrotransit.org/route/9)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: B Line trip departing Lake St W & France Ave S at 3:56 AM canceled today
+**Header**: Westbound Route 9 trip departing 46th St Station at 10:03 AM will start from 9th & Park. Previous stops missed due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 30: Service Canceled
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 56 PM
+departing Knox Ave N & Golden Valley Rd; 54 PM
+departing Knox Ave N & Golden Valley Rd
+
+**Summary**: Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today due to mechanical issue
+
+```text
+Affected eastbound trips:
+departing Knox Ave N & Golden Valley Rd at 1:56 PM
+departing Knox Ave N & Golden Valley Rd at 3:54 PM
+departing Knox Ave N & Golden Valley Rd at 5:56 PM
+departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM
+
+Affected westbound trips:
+departing Westgate Station - Gate B at 1:04 PM
+departing Westgate Station - Gate B at 3:04 PM
+departing Westgate Station - Gate B at 5:04 PM
+departing Westgate Station - Gate B at 7:05 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 68: Service Advisory
+
+- **Affected Routes**: `Route 68`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #18095, Stop #18096, Stop #18098, Stop #40067, Stop #40095, Stop #40097, Stop #40098, Stop #40101 *(+23 more)*
+
+**Summary**: Southbound Route 68 trip departing Hwy 36 & Rice St Park & Ride at 10:21 AM will start from 14th & Jackson. Previous stops missed due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/68)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 68 trip departing Hwy 36 & Rice St P&R at 10:21 AM will start from 14th & Jackson. Previous stops missed due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 Route 71: Service Canceled
+
+- **Affected Routes**: `Route 71`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/71)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today due to maintenance work
+
+```text
+Affected northbound trips:
+departing Inver Hills College & Shelter at 12:38 PM
+departing Inver Hills College & Shelter at 3:38 PM
+
+Affected southbound trips:
+departing Market Place Dr & The Marketplace Ctr at 2:12 PM
+departing Market Place Dr & The Marketplace Ctr at 5:13 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 71: Service Canceled
+
+- **Affected Routes**: `Route 71`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/71)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today due to maintenance work
+
+```text
+Affected northbound trips:
+departing Inver Hills College & Shelter at 12:38 PM
+departing Inver Hills College & Shelter at 3:38 PM
+
+Affected southbound trips:
+departing Market Place Dr & The Marketplace Ctr at 2:12 PM
+departing Market Place Dr & The Marketplace Ctr at 5:13 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 802: Service Canceled
+
+- **Affected Routes**: `Route 802`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/802)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to maintenance work
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate E at 11:34 AM
+departing Northtown Transit Ctr Gate E at 1:34 PM
+departing Northtown Transit Ctr Gate E at 3:34 PM
+departing Northtown Transit Ctr Gate E at 5:34 PM
+
+Affected southbound trips:
+departing Anoka Tech College & Main Entrance at 12:42 PM
+departing Anoka Tech College & Main Entrance at 2:42 PM
+departing Anoka Tech College & Main Entrance at 4:42 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 805: Service Canceled
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
+departing 1st Ave S & Monroe St; 38 PM
+departing 1st Ave S & Monroe St; 36 PM
+departing 1st Ave S & Monroe St
+
+**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and seven other trips canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and seven other trips canceled today due to maintenance work
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate D at 12:34 PM
+departing Northtown Transit Ctr Gate D at 2:34 PM
+departing Northtown Transit Ctr Gate D at 4:34 PM
+
+Affected southbound trips:
+departing 1st Ave S & Monroe St at 11:38 AM
+departing 1st Ave S & Monroe St at 12:38 PM
+departing 1st Ave S & Monroe St at 1:38 PM
+departing 1st Ave S & Monroe St at 3:36 PM
+departing 1st Ave S & Monroe St at 5:38 PM
+```
 
 </details>
 
@@ -316,6 +499,33 @@ Franklin Ave E & Clinton Ave S - Stop #13318 (WB)
 Franklin Ave E & 3rd Ave S - Stop #13319 (WB)
 Franklin Ave W & Nicollet Ave S - Stop #13324 (WB)
 Franklin Ave W & Pleasant Ave S - Stop #13328 (WB)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 2: Stop Closed at 26th St E & 1st Ave S
+
+- **Affected Routes**: `Route 2`
+- **Direction**: Westbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 26th St E & 1st Ave S; 26th St E & 3rd Ave S; 26th St E & Nicollet Ave
+- **Closed Stops**: Stop #80923, Stop #17761, Stop #80924
+
+**Summary**: 26th St E & 1st Ave S - Stop #80923 (westbound) is closed for Route 2 from Tue Nov 3 at 7:00 AM to Wed Nov 4 at 7:00 AM due to construction. Board at: 26th St E & 3rd Ave S - Stop #17761 (westbound); 26th St E & Nicollet Ave - Stop #80924 (westbound).
+
+> 💡 **Rider Action**: Board at: 26th St E & 3rd Ave S - Stop #17761 (westbound); 26th St E & Nicollet Ave - Stop #80924 (westbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: 26th St E & 1st Ave S - Stop #80923 (westbound) is closed for Route 2 from Tue Nov 3 at 7:00 AM to Wed Nov 4 at 7:00 AM due to construction
+
+```text
+Get on/off buses at:
+26th St E & 3rd Ave S - Stop #17761 (westbound)
+26th St E & Nicollet Ave - Stop #80924 (westbound)
 ```
 
 </details>
@@ -1013,6 +1223,37 @@ Affected stops:
 Monroe St & Spring St NE - Stop #15486 (northbound)
 Monroe St & Spring St NE - Stop #15531 (southbound)
 7th St NE & Central Ave NE - Stop #15533 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 17, Route 32: Stop Closed at Lowry Ave NE & Howard St N
+
+- **Affected Routes**: `Route 17` `Route 32`
+- **Direction**: Southbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Lowry Ave NE & Howard St N; Central Ave NE & Lowry Ave N; Lowry Ave NE & Central Ave N
+- **Closed Stops**: Stop #57446, Stop #17195, Stop #12813, Stop #12828
+
+**Summary**: Lowry Ave NE & Howard St NE - Stop #57446 (westbound) is closed for Routes 17 and 32 until later today. Board at: Central Ave NE & Lowry Ave NE - Stop #17195 (southbound); Lowry Ave NE & Jefferson / Washington St - Stop #12813 (westbound).
+
+> 💡 **Rider Action**: Board at: Central Ave NE & Lowry Ave NE - Stop #17195 (southbound); Lowry Ave NE & Jefferson / Washington St - Stop #12813 (westbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Lowry Ave NE & Howard St NE - Stop #57446 (westbound) is closed for Routes 17 and 32 until later today
+
+```text
+Get on/off Route 17 buses at:
+Central Ave NE & Lowry Ave NE - Stop #17195 (southbound)
+Lowry Ave NE & Jefferson / Washington St - Stop #12813 (westbound)
+
+Get on/off Route 32 buses at:
+Lowry Ave NE & Central Ave NE - Stop #12828 (westbound)
+Lowry Ave NE & Jefferson / Washington St - Stop #12813 (westbound)
 ```
 
 </details>
@@ -2418,35 +2659,6 @@ Westbound Route 64 via English St buses will travel regular route on Larpenteur 
 
 Affected stops:
 Larpenteur Ave & Barclay St - Stop #5374 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 67: Stop Closed at Minnehaha Ave & Dale St
-
-- **Affected Routes**: `Route 67`
-- **Direction**: Southbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Minnehaha Ave & Dale St; Minnehaha Ave & St Albans St; Dale St & Blair Ave
-- **Closed Stops**: Stop #15065, Stop #15064, Stop #10740
-
-**Summary**: Minnehaha Ave & Dale St - Stop #15065 (eastbound) is closed for Route 67 until further notice due to construction. Board at: Minnehaha Ave & St Albans St - Stop #15064 (eastbound); Dale St & Blair Ave - Stop #10740 (southbound).
-
-> 💡 **Rider Action**: Board at: Minnehaha Ave & St Albans St - Stop #15064 (eastbound); Dale St & Blair Ave - Stop #10740 (southbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/67)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Minnehaha Ave & Dale St - Stop #15065 (eastbound) is closed for Route 67 until further notice due to construction
-
-```text
-Get on/off buses at:
-Minnehaha Ave & St Albans St - Stop #15064 (eastbound)
-Dale St & Blair Ave - Stop #10740 (southbound)
 ```
 
 </details>
