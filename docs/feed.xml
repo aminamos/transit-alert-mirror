@@ -4,41 +4,59 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Tue, 27 Oct 2026 16:23:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 21:12:08 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 9: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/9</link>
-      <guid isPermaLink="false">Metro Transit-54650-2026-10-27T15:40:53.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 15:40:53 GMT</pubDate>
+      <title>[Critical] METRO A Line: Southbound 3:02 PM Trip Canceled (Rosedale Transit Center Gate A)</title>
+      <link>https://www.metrotransit.org/route/aline</link>
+      <guid isPermaLink="false">Metro Transit-54659-2026-10-27T20:29:13.000Z</guid>
+      <pubDate>Tue, 27 Oct 2026 20:29:13 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 9</category>
-      <description>Westbound Route 9 trip departing 46th St Station at 10:03 AM will start from 9th &amp; Park. Previous stops missed due to traffic</description>
+      <category>METRO A Line</category>
+      <description>Southbound A Line trip departing Rosedale Transit Center Gate A at 3:02 PM canceled due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] METRO A Line: Northbound 2:52 PM Trip Canceled (46th St Station Gate A)</title>
+      <link>https://www.metrotransit.org/route/aline</link>
+      <guid isPermaLink="false">Metro Transit-54660-2026-10-27T20:31:14.000Z</guid>
+      <pubDate>Tue, 27 Oct 2026 20:31:14 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO A Line</category>
+      <description>Northbound A Line trip departing 46th St Station Gate A at 2:52 PM canceled today from University &amp; Snelling at 3:20 PM due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] METRO A Line: Northbound 3:52 PM Trip Canceled (46th St Station Gate A)</title>
+      <link>https://www.metrotransit.org/route/aline</link>
+      <guid isPermaLink="false">Metro Transit-54661-2026-10-27T20:54:47.000Z</guid>
+      <pubDate>Tue, 27 Oct 2026 20:54:47 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO A Line</category>
+      <description>Northbound A Line trip departing 46th St Station Gate A at 3:52 PM canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 2, Route 2C: Eastbound 3:41 PM Trip Canceled (Franklin Ave W &amp; Hennepin Ave S)</title>
+      <link>https://www.metrotransit.org/route/2</link>
+      <guid isPermaLink="false">Metro Transit-54662-2026-10-27T21:10:45.000Z</guid>
+      <pubDate>Tue, 27 Oct 2026 21:10:45 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 2, Route 2C</category>
+      <description>Eastbound Route 2C trip departing Franklin Ave W &amp; Hennepin Ave S at 3:41 PM canceled today</description>
     </item>
     <item>
       <title>[Critical] Route 30: Service Canceled</title>
       <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-54647-2026-10-27T14:55:56.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 14:55:56 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54647-2026-10-27T17:34:01.000Z</guid>
+      <pubDate>Tue, 27 Oct 2026 17:34:01 GMT</pubDate>
       <category>Critical</category>
       <category>Route 30</category>
       <description>Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today due to mechanical issue</description>
     </item>
     <item>
-      <title>[Critical] Route 68: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/68</link>
-      <guid isPermaLink="false">Metro Transit-54649-2026-10-27T15:39:50.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 15:39:50 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 68</category>
-      <description>Southbound Route 68 trip departing Hwy 36 &amp; Rice St Park &amp; Ride at 10:21 AM will start from 14th &amp; Jackson. Previous stops missed due to mechanical issue</description>
-    </item>
-    <item>
       <title>[Critical] Route 71: Service Canceled</title>
       <link>https://www.metrotransit.org/route/71</link>
-      <guid isPermaLink="false">Metro Transit-54648-2026-10-27T14:56:41.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 14:56:41 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54648-2026-10-27T17:08:01.000Z</guid>
+      <pubDate>Tue, 27 Oct 2026 17:08:01 GMT</pubDate>
       <category>Critical</category>
       <category>Route 71</category>
       <description>Route 71 trip departing Inver Hills College &amp; Shelter at 12:38 PM and three other trips canceled today due to maintenance work</description>
@@ -46,11 +64,29 @@
     <item>
       <title>[Critical] Route 71: Service Canceled</title>
       <link>https://www.metrotransit.org/route/71</link>
-      <guid isPermaLink="false">Metro Transit-54651-2026-10-27T16:15:19.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 16:15:19 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54651-2026-10-27T17:08:01.000Z</guid>
+      <pubDate>Tue, 27 Oct 2026 17:08:01 GMT</pubDate>
       <category>Critical</category>
       <category>Route 71</category>
       <description>Route 71 trip departing Inver Hills College &amp; Shelter at 12:38 PM and three other trips canceled today due to maintenance work</description>
+    </item>
+    <item>
+      <title>[Critical] Route 219: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/219</link>
+      <guid isPermaLink="false">Metro Transit-54652-2026-10-27T17:13:01.000Z</guid>
+      <pubDate>Tue, 27 Oct 2026 17:13:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 219</category>
+      <description>Route 219 trip departing Sun Ray Transit Center &amp; Gate B at 12:43 PM and six other trips canceled today due to maintenance work</description>
+    </item>
+    <item>
+      <title>[Critical] Route 219: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/219</link>
+      <guid isPermaLink="false">Metro Transit-54658-2026-10-27T18:04:25.000Z</guid>
+      <pubDate>Tue, 27 Oct 2026 18:04:25 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 219</category>
+      <description>Route 219 trips departing Maplewood Mall Transit Center &amp; Gate A at 5:42 PM and departing Sun Ray Transit Center &amp; Gate B at 6:43 PM canceled today</description>
     </item>
     <item>
       <title>[Critical] Route 802: Service Canceled</title>
@@ -388,8 +424,8 @@
     <item>
       <title>[Moderate] Route 25: Detour via Silver Lake Rd &amp; Co Rd</title>
       <link>https://www.metrotransit.org/route/25</link>
-      <guid isPermaLink="false">Metro Transit-54617-2026-10-26T20:20:28.000Z</guid>
-      <pubDate>Mon, 26 Oct 2026 20:20:28 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54617-2026-10-27T17:50:21.000Z</guid>
+      <pubDate>Tue, 27 Oct 2026 17:50:21 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 25</category>
       <description>Route 25 detoured off Silver Lake Rd from Co Rd H to Co Rd H2 and off Co Rd H2 from Silver Lake Rd to Long Lake Rd until further notice due to construction. Board at: Silver Lake Rd &amp; Co Rd H - Stop #14078 (northbound); Temporary stop on Long Lake Rd &amp; Co Rd H2 (northbound); County Rd H2 &amp; Edgewood Dr - Stop #57221 (eastbound). | Action: Board at: Silver Lake Rd &amp; Co Rd H - Stop #14078 (northbound); Temporary stop on Long Lake Rd &amp; Co Rd H2 (northbound); County Rd H2 &amp; Edgewood Dr - Stop #57221 (eastbound)</description>
@@ -883,8 +919,8 @@
     <item>
       <title>[Moderate] Route 827: Detour via Route 827 detoured off Marshall St &amp; Main St</title>
       <link>https://www.metrotransit.org/route/827</link>
-      <guid isPermaLink="false">Metro Transit-54607-2026-10-26T18:05:53.000Z</guid>
-      <pubDate>Mon, 26 Oct 2026 18:05:53 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54607-2026-10-27T17:50:45.000Z</guid>
+      <pubDate>Tue, 27 Oct 2026 17:50:45 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 827</category>
       <description>Route 827 detoured off Marshall St/Main St from Hennepin Ave to 8th Ave NE from 6:30 AM to 10:30 AM on Sat Oct 31 due to Halloween Half Marathon 2026. Board at: Hennepin Ave &amp; 1st St S - Stop #17952 (northbound); 2nd St NE &amp; 4th Ave NE - Stop #14687 (northbound); 2nd St NE &amp; 7th Ave NE - Stop #14680 (northbound). | Action: Board at: Hennepin Ave &amp; 1st St S - Stop #17952 (northbound); 2nd St NE &amp; 4th Ave NE - Stop #14687 (northbound); 2nd St NE &amp; 7th Ave NE - Stop #14680 (northbound)</description>

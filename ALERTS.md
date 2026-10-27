@@ -2,35 +2,92 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-102-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-7-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-106-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-11-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-93-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-2-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-70-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-71-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-27T16:23:45.547Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-27T21:12:08.412Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (7) • **Route 10** (2) • **Route 11** (3) • **Route 14** (2) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (6) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (6) • **Route 64D** (1) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (3) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (2) • **Route 805** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (5) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (3) • **Route 2C** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 14** (2) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (6) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (6) • **Route 64D** (1) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (3) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (3) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (2) • **Route 805** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 9: Service Advisory
+### 🚨 METRO A Line: Southbound 3:02 PM Trip Canceled (Rosedale Transit Center Gate A)
 
-- **Affected Routes**: `Route 9`
-- **Direction**: Westbound
+- **Affected Routes**: `METRO A Line`
+- **Direction**: Southbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #13309, Stop #15630, Stop #15344, Stop #15345, Stop #17574, Stop #17575, Stop #17576, Stop #17577 *(+35 more)*
 
-**Summary**: Westbound Route 9 trip departing 46th St Station at 10:03 AM will start from 9th & Park. Previous stops missed due to traffic
+**Summary**: Southbound A Line trip departing Rosedale Transit Center Gate A at 3:02 PM canceled due to mechanical issue
 
-[Official Agency Advisory](https://www.metrotransit.org/route/9)
+[Official Agency Advisory](https://www.metrotransit.org/route/aline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Westbound Route 9 trip departing 46th St Station at 10:03 AM will start from 9th & Park. Previous stops missed due to traffic
+**Header**: Southbound A Line trip departing Rosedale Transit Center Gate A at 3:02 PM canceled due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 METRO A Line: Northbound 2:52 PM Trip Canceled (46th St Station Gate A)
+
+- **Affected Routes**: `METRO A Line`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #18508, Stop #56117, Stop #56118, Stop #56119, Stop #56120, Stop #52531, Stop #50010, Stop #50013
+
+**Summary**: Northbound A Line trip departing 46th St Station Gate A at 2:52 PM canceled today from University & Snelling at 3:20 PM due to traffic
+
+[Official Agency Advisory](https://www.metrotransit.org/route/aline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound A Line trip departing 46th St Station Gate A at 2:52 PM canceled today from University & Snelling at 3:20 PM due to traffic
+
+</details>
+
+---
+
+### 🚨 METRO A Line: Northbound 3:52 PM Trip Canceled (46th St Station Gate A)
+
+- **Affected Routes**: `METRO A Line`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound A Line trip departing 46th St Station Gate A at 3:52 PM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/aline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound A Line trip departing 46th St Station Gate A at 3:52 PM canceled today due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 Route 2, Route 2C: Eastbound 3:41 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)
+
+- **Affected Routes**: `Route 2` `Route 2C`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 3:41 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 3:41 PM canceled today
 
 </details>
 
@@ -72,26 +129,6 @@ departing Westgate Station - Gate B at 7:05 PM
 
 ---
 
-### 🚨 Route 68: Service Advisory
-
-- **Affected Routes**: `Route 68`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #18095, Stop #18096, Stop #18098, Stop #40067, Stop #40095, Stop #40097, Stop #40098, Stop #40101 *(+23 more)*
-
-**Summary**: Southbound Route 68 trip departing Hwy 36 & Rice St Park & Ride at 10:21 AM will start from 14th & Jackson. Previous stops missed due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/68)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 68 trip departing Hwy 36 & Rice St P&R at 10:21 AM will start from 14th & Jackson. Previous stops missed due to mechanical issue
-
-</details>
-
----
-
 ### 🚨 Route 71: Service Canceled
 
 - **Affected Routes**: `Route 71`
@@ -145,6 +182,57 @@ Affected southbound trips:
 departing Market Place Dr & The Marketplace Ctr at 2:12 PM
 departing Market Place Dr & The Marketplace Ctr at 5:13 PM
 ```
+
+</details>
+
+---
+
+### 🚨 Route 219: Service Canceled
+
+- **Affected Routes**: `Route 219`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 219 trip departing Sun Ray Transit Center & Gate B at 12:43 PM and six other trips canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/219)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 219 trip departing Sun Ray Transit Center & Gate B at 12:43 PM and six other trips canceled today due to maintenance work
+
+```text
+Affected northbound trips:
+departing Sun Ray Transit Center & Gate B at 12:43 PM
+departing Sun Ray Transit Center & Gate B at 2:43 PM
+departing Sun Ray Transit Center & Gate B at 4:43 PM
+departing Sun Ray Transit Center & Gate B at 6:43 PM
+
+Affected southbound trips:
+departing Maplewood Mall Transit Center & Gate A at 1:42 PM
+departing Maplewood Mall Transit Center & Gate A at 3:42 PM
+departing Maplewood Mall Transit Center & Gate A at 5:42 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 219: Service Canceled
+
+- **Affected Routes**: `Route 219`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 219 trips departing Maplewood Mall Transit Center & Gate A at 5:42 PM and departing Sun Ray Transit Center & Gate B at 6:43 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/219)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 219 trips departing Maplewood Mall Transit Center & Gate A at 5:42 PM and departing Sun Ray Transit Center & Gate B at 6:43 PM canceled today
 
 </details>
 

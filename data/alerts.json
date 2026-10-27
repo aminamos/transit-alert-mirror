@@ -1,214 +1,153 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-27T16:23:45.547Z",
-    "totalAlerts": 102,
-    "criticalCount": 7,
+    "generatedAt": "2026-10-27T21:12:08.412Z",
+    "totalAlerts": 106,
+    "criticalCount": 11,
     "moderateCount": 93,
     "minorCount": 2,
-    "affectedRoutesCount": 70,
+    "affectedRoutesCount": 71,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "54650",
+      "id": "54659",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 9: Service Advisory",
-      "summary": "Westbound Route 9 trip departing 46th St Station at 10:03 AM will start from 9th & Park. Previous stops missed due to traffic",
+      "title": "METRO A Line: Southbound 3:02 PM Trip Canceled (Rosedale Transit Center Gate A)",
+      "summary": "Southbound A Line trip departing Rosedale Transit Center Gate A at 3:02 PM canceled due to mechanical issue",
       "affectedRoutes": [
-        "Route 9"
+        "METRO A Line"
       ],
-      "direction": "Westbound",
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-27T20:28:00.000Z",
+        "end": "2026-10-27T21:41:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/aline",
+      "updatedAt": "2026-10-27T20:29:13.000Z",
+      "rawHeader": "Southbound A Line trip departing Rosedale Transit Center Gate A at 3:02 PM canceled due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "54660",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO A Line: Northbound 2:52 PM Trip Canceled (46th St Station Gate A)",
+      "summary": "Northbound A Line trip departing 46th St Station Gate A at 2:52 PM canceled today from University & Snelling at 3:20 PM due to traffic",
+      "affectedRoutes": [
+        "METRO A Line"
+      ],
+      "direction": "Northbound",
       "intersections": [],
       "closedStopIds": [
-        "13309",
-        "15630",
-        "15344",
-        "15345",
-        "17574",
-        "17575",
-        "17576",
-        "17577",
-        "17578",
-        "17579",
-        "17580",
-        "17587",
-        "17588",
-        "17589",
-        "17590",
-        "17591",
-        "17592",
-        "17593",
-        "17594",
-        "17595",
-        "17597",
-        "51533",
-        "51551",
-        "51555",
-        "51556",
-        "48896",
-        "4478",
-        "19392",
-        "19394",
-        "19396",
-        "17599",
-        "17601",
-        "17608",
-        "17609",
-        "16297",
-        "16298",
-        "16299",
-        "56698",
-        "56137",
-        "56503",
-        "56504",
-        "57497",
-        "51632"
+        "18508",
+        "56117",
+        "56118",
+        "56119",
+        "56120",
+        "52531",
+        "50010",
+        "50013"
       ],
       "closedStopDetails": [
         {
-          "id": "13309"
+          "id": "18508"
         },
         {
-          "id": "15630"
+          "id": "56117"
         },
         {
-          "id": "15344"
+          "id": "56118"
         },
         {
-          "id": "15345"
+          "id": "56119"
         },
         {
-          "id": "17574"
+          "id": "56120"
         },
         {
-          "id": "17575"
+          "id": "52531"
         },
         {
-          "id": "17576"
+          "id": "50010"
         },
         {
-          "id": "17577"
-        },
-        {
-          "id": "17578"
-        },
-        {
-          "id": "17579"
-        },
-        {
-          "id": "17580"
-        },
-        {
-          "id": "17587"
-        },
-        {
-          "id": "17588"
-        },
-        {
-          "id": "17589"
-        },
-        {
-          "id": "17590"
-        },
-        {
-          "id": "17591"
-        },
-        {
-          "id": "17592"
-        },
-        {
-          "id": "17593"
-        },
-        {
-          "id": "17594"
-        },
-        {
-          "id": "17595"
-        },
-        {
-          "id": "17597"
-        },
-        {
-          "id": "51533"
-        },
-        {
-          "id": "51551"
-        },
-        {
-          "id": "51555"
-        },
-        {
-          "id": "51556"
-        },
-        {
-          "id": "48896"
-        },
-        {
-          "id": "4478"
-        },
-        {
-          "id": "19392"
-        },
-        {
-          "id": "19394"
-        },
-        {
-          "id": "19396"
-        },
-        {
-          "id": "17599"
-        },
-        {
-          "id": "17601"
-        },
-        {
-          "id": "17608"
-        },
-        {
-          "id": "17609"
-        },
-        {
-          "id": "16297"
-        },
-        {
-          "id": "16298"
-        },
-        {
-          "id": "16299"
-        },
-        {
-          "id": "56698"
-        },
-        {
-          "id": "56137"
-        },
-        {
-          "id": "56503"
-        },
-        {
-          "id": "56504"
-        },
-        {
-          "id": "57497"
-        },
-        {
-          "id": "51632"
+          "id": "50013"
         }
       ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-27T15:40:00.000Z",
-        "end": "2026-10-27T17:12:00.000Z"
+        "start": "2026-10-27T20:29:00.000Z",
+        "end": "2026-10-27T21:33:00.000Z"
       },
       "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/9",
-      "updatedAt": "2026-10-27T15:40:53.000Z",
-      "rawHeader": "Westbound Route 9 trip departing 46th St Station at 10:03 AM will start from 9th & Park. Previous stops missed due to traffic",
+      "url": "https://www.metrotransit.org/route/aline",
+      "updatedAt": "2026-10-27T20:31:14.000Z",
+      "rawHeader": "Northbound A Line trip departing 46th St Station Gate A at 2:52 PM canceled today from University & Snelling at 3:20 PM due to traffic",
+      "rawDescription": ""
+    },
+    {
+      "id": "54661",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO A Line: Northbound 3:52 PM Trip Canceled (46th St Station Gate A)",
+      "summary": "Northbound A Line trip departing 46th St Station Gate A at 3:52 PM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "METRO A Line"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-27T20:53:00.000Z",
+        "end": "2026-10-27T22:34:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/aline",
+      "updatedAt": "2026-10-27T20:54:47.000Z",
+      "rawHeader": "Northbound A Line trip departing 46th St Station Gate A at 3:52 PM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "54662",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 2, Route 2C: Eastbound 3:41 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)",
+      "summary": "Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 3:41 PM canceled today",
+      "affectedRoutes": [
+        "Route 2",
+        "Route 2C"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-27T21:09:00.000Z",
+        "end": "2026-10-27T22:37:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/2",
+      "updatedAt": "2026-10-27T21:10:45.000Z",
+      "rawHeader": "Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 3:41 PM canceled today",
       "rawDescription": ""
     },
     {
@@ -237,161 +176,9 @@
       "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-10-27T14:55:56.000Z",
+      "updatedAt": "2026-10-27T17:34:01.000Z",
       "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today due to mechanical issue",
       "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 1:56 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 3:54 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 5:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 1:04 PM\r\ndeparting Westgate Station - Gate B at 3:04 PM\r\ndeparting Westgate Station - Gate B at 5:04 PM\r\ndeparting Westgate Station - Gate B at 7:05 PM"
-    },
-    {
-      "id": "54649",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 68: Service Advisory",
-      "summary": "Southbound Route 68 trip departing Hwy 36 & Rice St Park & Ride at 10:21 AM will start from 14th & Jackson. Previous stops missed due to mechanical issue",
-      "affectedRoutes": [
-        "Route 68"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [
-        "18095",
-        "18096",
-        "18098",
-        "40067",
-        "40095",
-        "40097",
-        "40098",
-        "40101",
-        "46692",
-        "46693",
-        "46694",
-        "46695",
-        "46696",
-        "49677",
-        "43773",
-        "40138",
-        "40156",
-        "40108",
-        "20019",
-        "51606",
-        "49945",
-        "49946",
-        "49947",
-        "49948",
-        "49949",
-        "56960",
-        "56096",
-        "81112",
-        "81115",
-        "57511",
-        "56323"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "18095"
-        },
-        {
-          "id": "18096"
-        },
-        {
-          "id": "18098"
-        },
-        {
-          "id": "40067"
-        },
-        {
-          "id": "40095"
-        },
-        {
-          "id": "40097"
-        },
-        {
-          "id": "40098"
-        },
-        {
-          "id": "40101"
-        },
-        {
-          "id": "46692"
-        },
-        {
-          "id": "46693"
-        },
-        {
-          "id": "46694"
-        },
-        {
-          "id": "46695"
-        },
-        {
-          "id": "46696"
-        },
-        {
-          "id": "49677"
-        },
-        {
-          "id": "43773"
-        },
-        {
-          "id": "40138"
-        },
-        {
-          "id": "40156"
-        },
-        {
-          "id": "40108"
-        },
-        {
-          "id": "20019"
-        },
-        {
-          "id": "51606"
-        },
-        {
-          "id": "49945"
-        },
-        {
-          "id": "49946"
-        },
-        {
-          "id": "49947"
-        },
-        {
-          "id": "49948"
-        },
-        {
-          "id": "49949"
-        },
-        {
-          "id": "56960"
-        },
-        {
-          "id": "56096"
-        },
-        {
-          "id": "81112"
-        },
-        {
-          "id": "81115"
-        },
-        {
-          "id": "57511"
-        },
-        {
-          "id": "56323"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-27T15:38:00.000Z",
-        "end": "2026-10-27T17:21:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/68",
-      "updatedAt": "2026-10-27T15:39:50.000Z",
-      "rawHeader": "Southbound Route 68 trip departing Hwy 36 & Rice St P&R at 10:21 AM will start from 14th & Jackson. Previous stops missed due to mechanical issue",
-      "rawDescription": ""
     },
     {
       "id": "54648",
@@ -415,7 +202,7 @@
       "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/71",
-      "updatedAt": "2026-10-27T14:56:41.000Z",
+      "updatedAt": "2026-10-27T17:08:01.000Z",
       "rawHeader": "Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today due to maintenance work",
       "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 12:38 PM\r\ndeparting Inver Hills College & Shelter at 3:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 2:12 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 5:13 PM"
     },
@@ -441,9 +228,61 @@
       "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/71",
-      "updatedAt": "2026-10-27T16:15:19.000Z",
+      "updatedAt": "2026-10-27T17:08:01.000Z",
       "rawHeader": "Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today due to maintenance work",
       "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 12:38 PM\r\ndeparting Inver Hills College & Shelter at 3:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 2:12 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 5:13 PM"
+    },
+    {
+      "id": "54652",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 219: Service Canceled",
+      "summary": "Route 219 trip departing Sun Ray Transit Center & Gate B at 12:43 PM and six other trips canceled today due to maintenance work",
+      "affectedRoutes": [
+        "Route 219"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-27T17:43:00.000Z",
+        "end": "2026-10-28T01:33:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/219",
+      "updatedAt": "2026-10-27T17:13:01.000Z",
+      "rawHeader": "Route 219 trip departing Sun Ray Transit Center & Gate B at 12:43 PM and six other trips canceled today due to maintenance work",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate B at 12:43 PM\r\ndeparting Sun Ray Transit Center & Gate B at 2:43 PM\r\ndeparting Sun Ray Transit Center & Gate B at 4:43 PM\r\ndeparting Sun Ray Transit Center & Gate B at 6:43 PM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate A at 1:42 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 3:42 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 5:42 PM"
+    },
+    {
+      "id": "54658",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 219: Service Canceled",
+      "summary": "Route 219 trips departing Maplewood Mall Transit Center & Gate A at 5:42 PM and departing Sun Ray Transit Center & Gate B at 6:43 PM canceled today",
+      "affectedRoutes": [
+        "Route 219"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-27T22:42:00.000Z",
+        "end": "2026-10-28T01:33:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/219",
+      "updatedAt": "2026-10-27T18:04:25.000Z",
+      "rawHeader": "Route 219 trips departing Maplewood Mall Transit Center & Gate A at 5:42 PM and departing Sun Ray Transit Center & Gate B at 6:43 PM canceled today",
+      "rawDescription": ""
     },
     {
       "id": "54646",
@@ -1161,12 +1000,12 @@
         "56923",
         "17815",
         "51212",
-        "73",
         "66",
         "68",
         "69",
         "70",
-        "72"
+        "72",
+        "73"
       ],
       "closedStopDetails": [
         {
@@ -1234,9 +1073,6 @@
           "id": "51212"
         },
         {
-          "id": "73"
-        },
-        {
           "id": "66"
         },
         {
@@ -1250,6 +1086,9 @@
         },
         {
           "id": "72"
+        },
+        {
+          "id": "73"
         }
       ],
       "riderAlternative": "Board at: Chicago & 56th St Station - Stop #775 (northbound); Temporary stop on Portland Ave & 52nd St (northbound); Temporary stop on Portland Ave & 48th St (northbound)",
@@ -2126,7 +1965,7 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-10-27T10:53:00.000Z",
-        "end": "2026-10-27T18:23:23.000Z"
+        "end": "2026-10-27T23:10:54.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
@@ -3106,7 +2945,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/25",
-      "updatedAt": "2026-10-26T20:20:28.000Z",
+      "updatedAt": "2026-10-27T17:50:21.000Z",
       "rawHeader": "Route 25 detoured off Silver Lake Rd from Co Rd H to Co Rd H2 and off Co Rd H2 from Silver Lake Rd to Long Lake Rd until further notice due to construction",
       "rawDescription": "For northbound Route 25 get on/off buses at:\r\nSilver Lake Rd & Co Rd H - Stop #14078 (northbound)\r\nTemporary stop on Long Lake Rd & Co Rd H2 (northbound)\r\nCounty Rd H2 & Edgewood Dr - Stop #57221 (eastbound)\r\n\nFor southbound Route 25 get on/off buses at:\r\nCounty Rd H2 & Edgewood Dr - Stop #57234 (westbound)\r\nTemporary stop on Co Rd H2 & Long Lake Rd (westbound)\r\nSilver Lake Rd & Gregory Dr - Stop #14081 (southbound)\r\n\nNorthbound buses will travel regular route on Silver Lake Rd to Co Rd H, right on Co Rd H, left on Long Lake Rd, right on Co Rd H2 and resume regular route.\r\n\nSouthbound buses will travel regular route on Co Rd H2 to Long Lake Rd, left on Long Lake Rd, right on Co Rd H, left on Silver Lake Rd and resume regular route.\r\n\nAffected stops:\r\nSilver Lake Rd & Woodale Dr - Stop #57236 (northbound)\r\nCo Rd H-2 & Silver Lake Rd - Stop #14045 (eastbound)\r\nCo Rd H-2 & Red Oak Dr - Stop #14046 (eastbound)\r\nCo Rd H-2 & Scotland Green Apts (W) - Stop #40135 (eastbound)\r\nCo Rd H-2 & Scotland Green Apts (E) - Stop #14050 (eastbound)\r\nCo Rd H-2 & Long Lake Rd - Stop #14053 (eastbound)\r\nCo Rd H-2 & Long Lake Rd - Stop #40107 (westbound)\r\nCo Rd H-2 & Scotland Green Apts (E) - Stop #14052 (westbound)\r\nCo Rd H-2 & Scotland Green Apts (W) - Stop #14051 (westbound)\r\nCo Rd H-2 & Parkview Dr - Stop #14047 (westbound)\r\nCo Rd H-2 & Silver Lake Rd - Stop #14044 (westbound)\r\nSilver Lake Rd & Woodale Dr - Stop #57237 (southbound)\r\nSilver Lake Rd & County Rd H W - Stop #57642 (southbound)"
     },
@@ -6964,7 +6803,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/827",
-      "updatedAt": "2026-10-26T18:05:53.000Z",
+      "updatedAt": "2026-10-27T17:50:45.000Z",
       "rawHeader": "Route 827 detoured off Marshall St/Main St from Hennepin Ave to 8th Ave NE from 6:30 AM to 10:30 AM on Sat Oct 31 due to Halloween Half Marathon 2026",
       "rawDescription": "For northbound Route 827 get on/off buses at:\r\nHennepin Ave & 1st St S - Stop #17952 (northbound)\r\n2nd St NE & 4th Ave NE - Stop #14687 (northbound)\r\n2nd St NE & 7th Ave NE - Stop #14680 (northbound)\r\nMarshall St NE & Broadway St NE - Stop #57552 (northbound)\r\n\nFor southbound Route 827 get on/off buses at:\r\nMarshall St NE & Broadway St NE - Stop #57575 (southbound)\r\n2nd St NE & 5th Ave NE - Stop #14685 (southbound)\r\n2nd St NE & 3rd Ave NE - Stop #14689 (southbound)\r\nMarquette Ave & 2nd St S - Stop #19238 (southbound)\r\n\nNorthbound buses will travel the regular route on Hennepin Ave to Main St NE, continue on Hennepin Ave, left on 2nd St NE, left on 8th Ave NE, right on Marshall St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Marshall St to 8th Ave NE, left on 8th Ave NE, right on 2nd St NE, right on 1st Ave to Main St NE, continue on 1st Ave, and resume the regular route.\r\n\nAffected stops:\r\nMain St NE & 1st Ave NE - Stop #57549 (northbound)\r\nMain St NE & 3rd Ave NE - Stop #57550 (northbound)\r\nMarshall St NE & 8th Ave NE - Stop #57551 (northbound)\r\nMarshall St NE & 8th Ave NE - Stop #57576 (southbound)\r\nMarshall St NE & 3rd Ave NE - Stop #57577 (southbound)\r\nMain St NE & 1st Ave NE - Stop #57578 (southbound)"
     },
