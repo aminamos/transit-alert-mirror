@@ -1,16 +1,44 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-27T04:46:44.325Z",
-    "totalAlerts": 94,
-    "criticalCount": 0,
+    "generatedAt": "2026-10-27T10:21:34.509Z",
+    "totalAlerts": 95,
+    "criticalCount": 1,
     "moderateCount": 92,
     "minorCount": 2,
-    "affectedRoutesCount": 69,
+    "affectedRoutesCount": 70,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
+    {
+      "id": "54631",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO B Line: 3:56 AM Trip Canceled (Lake St W & France Ave S)",
+      "summary": "B Line trip departing Lake St W & France Ave S at 3:56 AM canceled today",
+      "affectedRoutes": [
+        "METRO B Line"
+      ],
+      "direction": "All",
+      "intersections": [
+        "B Line trip departing Lake St W & France Ave S"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-27T08:56:00.000Z",
+        "end": "2026-10-27T10:47:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-10-27T08:33:30.000Z",
+      "rawHeader": "B Line trip departing Lake St W & France Ave S at 3:56 AM canceled today",
+      "rawDescription": ""
+    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -204,7 +232,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-10-20T19:27:04.000Z",
+      "updatedAt": "2026-10-27T10:00:01.000Z",
       "rawHeader": "METRO D Line detoured off Chicago Ave from 46th St to 57th St beginning Tue Oct 20 at 5:00 AM until further notice due to construction",
       "rawDescription": "For northbound D Line get on/off buses at:\r\nPortland & 60th St Station - Stop #737 (northbound)\r\nChicago Ave S & 58th St E - Stop #743 (northbound)\r\nTemporary stop on Portland Ave & 52nd St (northbound)\r\nTemporary stop on Portland Ave & 48th St (northbound)\r\nChicago & 46th St Station - Stop #56923 (northbound)\r\n\nFor southbound D Line get on/off buses at:\r\nChicago & 42nd St Station - Stop #56916 (southbound)\r\n46th St E & Park Ave S - Stop #17815 (westbound)\r\nTemporary stop on Portland Ave & 48th St (southbound)\r\nTemporary stop on Portland Ave & 52nd St (southbound)\r\nChicago Ave S & 58th St E - Stop #77 (southbound)\r\nPortland & 60th St Station - Stop #431 (southbound)\r\n\nNorthbound buses will travel regular route on Chicago Ave to 57th St, left on 57th St, right on Portland Ave, right on 46th St, left on Chicago Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on Chicago Ave to 46th St, right on 46th St, left on Portland Ave, left on 57th St, right on Chicago Ave, and resume regular route.\r\n\nAffected stops:\r\nChicago & 56th St Station - Stop #775 (northbound)\r\nChicago & 52nd St Station - Stop #779 (northbound)\r\nChicago & 48th St Station - Stop #784 (northbound)\r\nChicago & 46th St Station - Stop #56917 (southbound)\r\nChicago & 48th St Station - Stop #56918 (southbound)\r\nChicago & 52nd St Station - Stop #56919 (southbound)\r\nChicago & 56th St Station - Stop #40472 (southbound)"
     },
@@ -726,7 +754,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/5",
-      "updatedAt": "2026-10-20T19:27:29.000Z",
+      "updatedAt": "2026-10-27T09:00:01.000Z",
       "rawHeader": "Route 5 detoured off Chicago Ave from 46th St to 56th St beginning Tue Oct 20 at 4:00 AM until further notice due to construction",
       "rawDescription": "For northbound Route 5 get on/off buses at:\r\nChicago & 56th St Station - Stop #775 (northbound)\r\nTemporary stop on Portland Ave & 52nd St (northbound)\r\nTemporary stop on Portland Ave & 48th St (northbound)\r\nChicago & 46th St Station - Stop #56923 (northbound)\r\n\nFor southbound Route 5 get on/off buses at:\r\nChicago Ave S & 45th St E - Stop #64 (southbound)\r\n46th St E & Park Ave S - Stop #17815 (westbound)\r\nTemporary stop on Portland Ave & 48th St (southbound)\r\nTemporary stop on Portland Ave & 52nd St (southbound)\r\nChicago Ave S & 56th St E - Stop #51212 (southbound)\r\n\nNorthbound buses will travel regular route on Chicago Ave to 56th St, left on 56th St, right on Portland Ave, right on 46th St, left on Chicago Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on Chicago Ave to 46th St, right on 46th St, left on Portland Ave, left on 57th St, left on Chicago Ave to 56th St turnaround, and resume regular route.\r\n\nAffected stops:\r\nChicago Ave S & 54th St E - Stop #777 (northbound)\r\nChicago Ave S & 53rd St E - Stop #778 (northbound)\r\nChicago & 52nd St Station - Stop #779 (northbound)\r\nChicago Ave S & 51st St E - Stop #780 (northbound)\r\nChicago Ave S & 50th St E - Stop #781 (northbound)\r\nChicago Ave S & 49th St E - Stop #783 (northbound)\r\nChicago & 48th St Station - Stop #784 (northbound)\r\nChicago Ave S & 47th St E - Stop #785 (northbound)\r\nChicago & 46th St Station - Stop #56917 (southbound)\r\nChicago Ave S & 47th St E - Stop #66 (southbound)\r\nChicago & 48th St Station - Stop #56918 (southbound)\r\nChicago Ave S & 49th St E - Stop #68 (southbound)\r\nChicago Ave S & 50th St E - Stop #69 (southbound)\r\nChicago Ave S & 51st St E - Stop #70 (southbound)\r\nChicago & 52nd St Station - Stop #56919 (southbound)\r\nChicago Ave S & 53rd St E - Stop #72 (southbound)\r\nChicago Ave S & 54th St E - Stop #73 (southbound)"
     },
@@ -1465,7 +1493,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/14",
-      "updatedAt": "2026-10-20T19:26:34.000Z",
+      "updatedAt": "2026-10-27T09:00:01.000Z",
       "rawHeader": "Route 14 detoured off Chicago fro 57th St E to 54th St E beginning Tue Oct 20 at 4:00 AM until further notice due to construction",
       "rawDescription": "For northbound Route 14 get on/off buses at:\r\nChicago Ave S & 58th St E - Stop #743 (northbound)\r\n54th St E & 12th Ave S - Stop #51836 (eastbound)\r\n\nFor southbound Route 14 get on/off buses at:\r\n54th St E & Chicago Ave S - Stop #51834 (westbound)\r\nChicago Ave S & 58th St E - Stop #77 (southbound)\r\n\nNorthbound buses will travel the regular route on Chicago Ave to 57th St E, left on 57th St E, right on Portland Ave, right on 54th St E to Chicago Ave, continue on 54th St E, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on 54th St E to Chicago Ave, continue on 54th St E, left on Portland Ave, left on 57th St E, right on Chicago Ave, and resume the regular route.\r\n\nAffected stops:\r\nChicago & 56th St Station - Stop #775 (northbound)\r\nChicago Ave S & 54th St E - Stop #777 (northbound)"
     },
@@ -2711,7 +2739,7 @@
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/32",
-      "updatedAt": "2026-10-22T18:22:42.000Z",
+      "updatedAt": "2026-10-27T05:00:01.000Z",
       "rawHeader": "Kenzie Terrace & Lowry Grove - Stop #40635 (eastbound) is closed for Route 32 beginning Wed Oct 28 at 7:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nLowry Ave NE & McKinley St NE - Stop #47345 (eastbound)\r\nKenzie Terrace & #2600 - Stop #12859 (eastbound)"
     },
@@ -2835,7 +2863,7 @@
       },
       "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-23T13:42:00.000Z",
+      "updatedAt": "2026-10-27T08:01:01.000Z",
       "rawHeader": "Lyndale Ave S & 33rd St W - Stop #40664 (southbound) is closed for Routes 4 and 38 beginning Thu Oct 29 at 2:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off buses at:\r\nLyndale Ave S & 31st St W - Stop #110 (southbound)\r\nLyndale Ave S & 35th St W - Stop #40668 (southbound)"
     },

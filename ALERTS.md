@@ -2,21 +2,39 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-94-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-95-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-92-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-2-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-69-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-70-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-27T04:46:44.325Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-27T10:21:34.509Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 14** (2) • **Route 17** (2) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (6) • **Route 25** (3) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (6) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 14** (2) • **Route 17** (2) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (6) • **Route 25** (3) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (6) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 METRO B Line: 3:56 AM Trip Canceled (Lake St W & France Ave S)
+
+- **Affected Routes**: `METRO B Line`
+- **Direction**: All
+- **Severity**: `Critical`
+- **Corridors & Intersections**: B Line trip departing Lake St W & France Ave S
+
+**Summary**: B Line trip departing Lake St W & France Ave S at 3:56 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/bline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: B Line trip departing Lake St W & France Ave S at 3:56 AM canceled today
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 

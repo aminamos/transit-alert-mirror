@@ -4,9 +4,18 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Tue, 27 Oct 2026 04:46:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 10:21:34 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] METRO B Line: 3:56 AM Trip Canceled (Lake St W &amp; France Ave S)</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-54631-2026-10-27T08:33:30.000Z</guid>
+      <pubDate>Tue, 27 Oct 2026 08:33:30 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO B Line</category>
+      <description>B Line trip departing Lake St W &amp; France Ave S at 3:56 AM canceled today</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -37,8 +46,8 @@
     <item>
       <title>[Moderate] METRO D Line: Detour via Chicago Ave S &amp; 58th St E</title>
       <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-54265-2026-10-20T19:27:04.000Z</guid>
-      <pubDate>Tue, 20 Oct 2026 19:27:04 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54265-2026-10-27T10:00:01.000Z</guid>
+      <pubDate>Tue, 27 Oct 2026 10:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO D Line</category>
       <description>METRO D Line detoured off Chicago Ave from 46th St to 57th St beginning Tue Oct 20 at 5:00 AM until further notice due to construction. Board at: Portland &amp; 60th St Station - Stop #737 (northbound); Chicago Ave S &amp; 58th St E - Stop #743 (northbound); Temporary stop on Portland Ave &amp; 52nd St (northbound). | Action: Board at: Portland &amp; 60th St Station - Stop #737 (northbound); Chicago Ave S &amp; 58th St E - Stop #743 (northbound); Temporary stop on Portland Ave &amp; 52nd St (northbound)</description>
@@ -73,8 +82,8 @@
     <item>
       <title>[Moderate] Route 5: Detour via Portland Ave &amp; 52nd St</title>
       <link>https://www.metrotransit.org/route/5</link>
-      <guid isPermaLink="false">Metro Transit-54263-2026-10-20T19:27:29.000Z</guid>
-      <pubDate>Tue, 20 Oct 2026 19:27:29 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54263-2026-10-27T09:00:01.000Z</guid>
+      <pubDate>Tue, 27 Oct 2026 09:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 5</category>
       <description>Route 5 detoured off Chicago Ave from 46th St to 56th St beginning Tue Oct 20 at 4:00 AM until further notice due to construction. Board at: Chicago &amp; 56th St Station - Stop #775 (northbound); Temporary stop on Portland Ave &amp; 52nd St (northbound); Temporary stop on Portland Ave &amp; 48th St (northbound). | Action: Board at: Chicago &amp; 56th St Station - Stop #775 (northbound); Temporary stop on Portland Ave &amp; 52nd St (northbound); Temporary stop on Portland Ave &amp; 48th St (northbound)</description>
@@ -190,8 +199,8 @@
     <item>
       <title>[Moderate] Route 14: Detour via Chicago Ave S &amp; 58th St E</title>
       <link>https://www.metrotransit.org/route/14</link>
-      <guid isPermaLink="false">Metro Transit-54264-2026-10-20T19:26:34.000Z</guid>
-      <pubDate>Tue, 20 Oct 2026 19:26:34 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54264-2026-10-27T09:00:01.000Z</guid>
+      <pubDate>Tue, 27 Oct 2026 09:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 14</category>
       <description>Route 14 detoured off Chicago fro 57th St E to 54th St E beginning Tue Oct 20 at 4:00 AM until further notice due to construction. Board at: Chicago Ave S &amp; 58th St E - Stop #743 (northbound); 54th St E &amp; 12th Ave S - Stop #51836 (eastbound). | Action: Board at: Chicago Ave S &amp; 58th St E - Stop #743 (northbound); 54th St E &amp; 12th Ave S - Stop #51836 (eastbound)</description>
@@ -334,8 +343,8 @@
     <item>
       <title>[Moderate] Route 32: Stop Closed at Lowry Ave NE &amp; McKinley St N</title>
       <link>https://www.metrotransit.org/route/32</link>
-      <guid isPermaLink="false">Metro Transit-54461-2026-10-22T18:22:42.000Z</guid>
-      <pubDate>Thu, 22 Oct 2026 18:22:42 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54461-2026-10-27T05:00:01.000Z</guid>
+      <pubDate>Tue, 27 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 32</category>
       <description>Kenzie Terrace &amp; Lowry Grove - Stop #40635 (eastbound) is closed for Route 32 beginning Wed Oct 28 at 7:00 AM until further notice due to construction. Board at: Lowry Ave NE &amp; McKinley St NE - Stop #47345 (eastbound); Kenzie Terrace &amp; #2600 - Stop #12859 (eastbound). | Action: Board at: Lowry Ave NE &amp; McKinley St NE - Stop #47345 (eastbound); Kenzie Terrace &amp; #2600 - Stop #12859 (eastbound)</description>
@@ -361,8 +370,8 @@
     <item>
       <title>[Moderate] Route 38, Route 4: Stop Closed at Lyndale Ave S &amp; 33rd St W</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54492-2026-10-23T13:42:00.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 13:42:00 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54492-2026-10-27T08:01:01.000Z</guid>
+      <pubDate>Tue, 27 Oct 2026 08:01:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 38, Route 4</category>
       <description>Lyndale Ave S &amp; 33rd St W - Stop #40664 (southbound) is closed for Routes 4 and 38 beginning Thu Oct 29 at 2:00 AM until further notice due to utility work. Board at: Lyndale Ave S &amp; 31st St W - Stop #110 (southbound); Lyndale Ave S &amp; 35th St W - Stop #40668 (southbound). | Action: Board at: Lyndale Ave S &amp; 31st St W - Stop #110 (southbound); Lyndale Ave S &amp; 35th St W - Stop #40668 (southbound)</description>
