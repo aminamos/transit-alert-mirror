@@ -1,732 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-28T01:07:41.726Z",
-    "totalAlerts": 101,
-    "criticalCount": 6,
-    "moderateCount": 93,
+    "generatedAt": "2026-10-28T08:15:22.965Z",
+    "totalAlerts": 94,
+    "criticalCount": 0,
+    "moderateCount": 92,
     "minorCount": 2,
-    "affectedRoutesCount": 72,
+    "affectedRoutesCount": 68,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "54671",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 3, Route 3B: Westbound 6:02 PM Trip Canceled (Union Depot & Gate A1)",
-      "summary": "Westbound Route 3B trip departing Union Depot & Gate A1 at 6:02 PM canceled from Rice & University at 6:14 PM today due to traffic",
-      "affectedRoutes": [
-        "Route 3",
-        "Route 3B"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [
-        "53041",
-        "80932",
-        "80933",
-        "80934",
-        "80935",
-        "826",
-        "828",
-        "831",
-        "832",
-        "836",
-        "838",
-        "840",
-        "843",
-        "847",
-        "849",
-        "852",
-        "860",
-        "861",
-        "864",
-        "866",
-        "870",
-        "872",
-        "874",
-        "876",
-        "877",
-        "879",
-        "881",
-        "884",
-        "886",
-        "56932",
-        "57012",
-        "57015",
-        "57016",
-        "52305",
-        "54046",
-        "54097",
-        "5583",
-        "5587",
-        "5589",
-        "5593",
-        "5594",
-        "53789",
-        "51108",
-        "51109",
-        "19311",
-        "19313",
-        "49895",
-        "50126",
-        "50129",
-        "49237",
-        "49242",
-        "19302",
-        "19304",
-        "19306",
-        "19307",
-        "19308",
-        "13211",
-        "18561",
-        "18563",
-        "18565",
-        "18566",
-        "18625",
-        "18626",
-        "17902",
-        "17903",
-        "16325",
-        "16330",
-        "16336",
-        "16342",
-        "16066",
-        "16081",
-        "16094",
-        "16098",
-        "16102",
-        "11893",
-        "10488"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "53041"
-        },
-        {
-          "id": "80932"
-        },
-        {
-          "id": "80933"
-        },
-        {
-          "id": "80934"
-        },
-        {
-          "id": "80935"
-        },
-        {
-          "id": "826"
-        },
-        {
-          "id": "828"
-        },
-        {
-          "id": "831"
-        },
-        {
-          "id": "832"
-        },
-        {
-          "id": "836"
-        },
-        {
-          "id": "838"
-        },
-        {
-          "id": "840"
-        },
-        {
-          "id": "843"
-        },
-        {
-          "id": "847"
-        },
-        {
-          "id": "849"
-        },
-        {
-          "id": "852"
-        },
-        {
-          "id": "860"
-        },
-        {
-          "id": "861"
-        },
-        {
-          "id": "864"
-        },
-        {
-          "id": "866"
-        },
-        {
-          "id": "870"
-        },
-        {
-          "id": "872"
-        },
-        {
-          "id": "874"
-        },
-        {
-          "id": "876"
-        },
-        {
-          "id": "877"
-        },
-        {
-          "id": "879"
-        },
-        {
-          "id": "881"
-        },
-        {
-          "id": "884"
-        },
-        {
-          "id": "886"
-        },
-        {
-          "id": "56932"
-        },
-        {
-          "id": "57012"
-        },
-        {
-          "id": "57015"
-        },
-        {
-          "id": "57016"
-        },
-        {
-          "id": "52305"
-        },
-        {
-          "id": "54046"
-        },
-        {
-          "id": "54097"
-        },
-        {
-          "id": "5583"
-        },
-        {
-          "id": "5587"
-        },
-        {
-          "id": "5589"
-        },
-        {
-          "id": "5593"
-        },
-        {
-          "id": "5594"
-        },
-        {
-          "id": "53789"
-        },
-        {
-          "id": "51108"
-        },
-        {
-          "id": "51109"
-        },
-        {
-          "id": "19311"
-        },
-        {
-          "id": "19313"
-        },
-        {
-          "id": "49895"
-        },
-        {
-          "id": "50126"
-        },
-        {
-          "id": "50129"
-        },
-        {
-          "id": "49237"
-        },
-        {
-          "id": "49242"
-        },
-        {
-          "id": "19302"
-        },
-        {
-          "id": "19304"
-        },
-        {
-          "id": "19306"
-        },
-        {
-          "id": "19307"
-        },
-        {
-          "id": "19308"
-        },
-        {
-          "id": "13211"
-        },
-        {
-          "id": "18561"
-        },
-        {
-          "id": "18563"
-        },
-        {
-          "id": "18565"
-        },
-        {
-          "id": "18566"
-        },
-        {
-          "id": "18625"
-        },
-        {
-          "id": "18626"
-        },
-        {
-          "id": "17902"
-        },
-        {
-          "id": "17903"
-        },
-        {
-          "id": "16325"
-        },
-        {
-          "id": "16330"
-        },
-        {
-          "id": "16336"
-        },
-        {
-          "id": "16342"
-        },
-        {
-          "id": "16066"
-        },
-        {
-          "id": "16081"
-        },
-        {
-          "id": "16094"
-        },
-        {
-          "id": "16098"
-        },
-        {
-          "id": "16102"
-        },
-        {
-          "id": "11893"
-        },
-        {
-          "id": "10488"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {},
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-10-28T01:04:02.000Z",
-      "rawHeader": "Westbound Route 3B trip departing Union Depot & Gate A1 at 6:02 PM canceled from Rice & University at 6:14 PM today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "54672",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 17, Route 17D: Westbound 6:47 PM Trip Canceled (Central Ave NE & 26th Ave NE)",
-      "summary": "Westbound Route 17D trip departing Central Ave NE & 26th Ave NE at 6:47 PM canceled from Central & University at 7:01 PM today due to collision",
-      "affectedRoutes": [
-        "Route 17",
-        "Route 17D"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [
-        "1100",
-        "1102",
-        "1197",
-        "1199",
-        "1200",
-        "1202",
-        "1204",
-        "12282",
-        "17976",
-        "17978",
-        "17980",
-        "17982",
-        "17984",
-        "17986",
-        "19294",
-        "3523",
-        "3525",
-        "3526",
-        "3528",
-        "19308",
-        "43326",
-        "43330",
-        "42374",
-        "4663",
-        "4667",
-        "4669",
-        "4672",
-        "4673",
-        "4676",
-        "46799",
-        "4680",
-        "4683",
-        "4697",
-        "4698",
-        "4699",
-        "4704",
-        "47839",
-        "4789",
-        "4791",
-        "4792",
-        "50196",
-        "50849",
-        "51083",
-        "53894",
-        "53966",
-        "52344",
-        "5726",
-        "57290",
-        "57292",
-        "5730",
-        "5734",
-        "57353",
-        "5740",
-        "5749",
-        "5751",
-        "5753",
-        "5754",
-        "5745",
-        "57458",
-        "5747",
-        "5743",
-        "56129",
-        "56800"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "1100"
-        },
-        {
-          "id": "1102"
-        },
-        {
-          "id": "1197"
-        },
-        {
-          "id": "1199"
-        },
-        {
-          "id": "1200"
-        },
-        {
-          "id": "1202"
-        },
-        {
-          "id": "1204"
-        },
-        {
-          "id": "12282"
-        },
-        {
-          "id": "17976"
-        },
-        {
-          "id": "17978"
-        },
-        {
-          "id": "17980"
-        },
-        {
-          "id": "17982"
-        },
-        {
-          "id": "17984"
-        },
-        {
-          "id": "17986"
-        },
-        {
-          "id": "19294"
-        },
-        {
-          "id": "3523"
-        },
-        {
-          "id": "3525"
-        },
-        {
-          "id": "3526"
-        },
-        {
-          "id": "3528"
-        },
-        {
-          "id": "19308"
-        },
-        {
-          "id": "43326"
-        },
-        {
-          "id": "43330"
-        },
-        {
-          "id": "42374"
-        },
-        {
-          "id": "4663"
-        },
-        {
-          "id": "4667"
-        },
-        {
-          "id": "4669"
-        },
-        {
-          "id": "4672"
-        },
-        {
-          "id": "4673"
-        },
-        {
-          "id": "4676"
-        },
-        {
-          "id": "46799"
-        },
-        {
-          "id": "4680"
-        },
-        {
-          "id": "4683"
-        },
-        {
-          "id": "4697"
-        },
-        {
-          "id": "4698"
-        },
-        {
-          "id": "4699"
-        },
-        {
-          "id": "4704"
-        },
-        {
-          "id": "47839"
-        },
-        {
-          "id": "4789"
-        },
-        {
-          "id": "4791"
-        },
-        {
-          "id": "4792"
-        },
-        {
-          "id": "50196"
-        },
-        {
-          "id": "50849"
-        },
-        {
-          "id": "51083"
-        },
-        {
-          "id": "53894"
-        },
-        {
-          "id": "53966"
-        },
-        {
-          "id": "52344"
-        },
-        {
-          "id": "5726"
-        },
-        {
-          "id": "57290"
-        },
-        {
-          "id": "57292"
-        },
-        {
-          "id": "5730"
-        },
-        {
-          "id": "5734"
-        },
-        {
-          "id": "57353"
-        },
-        {
-          "id": "5740"
-        },
-        {
-          "id": "5749"
-        },
-        {
-          "id": "5751"
-        },
-        {
-          "id": "5753"
-        },
-        {
-          "id": "5754"
-        },
-        {
-          "id": "5745"
-        },
-        {
-          "id": "57458"
-        },
-        {
-          "id": "5747"
-        },
-        {
-          "id": "5743"
-        },
-        {
-          "id": "56129"
-        },
-        {
-          "id": "56800"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-28T00:28:00.000Z",
-        "end": "2026-10-28T02:00:00.000Z"
-      },
-      "cause": "ACCIDENT",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-10-28T00:30:20.000Z",
-      "rawHeader": "Westbound Route 17D trip departing Central Ave NE & 26th Ave NE at 6:47 PM canceled from Central & University at 7:01 PM today due to collision",
-      "rawDescription": ""
-    },
-    {
-      "id": "54647",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 30: Service Canceled",
-      "summary": "Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 30"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing Knox Ave N & Golden Valley Rd",
-        "56 PM\ndeparting Knox Ave N & Golden Valley Rd",
-        "54 PM\ndeparting Knox Ave N & Golden Valley Rd"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-27T18:04:00.000Z",
-        "end": "2026-10-28T02:35:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-10-27T17:34:01.000Z",
-      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today due to mechanical issue",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 1:56 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 3:54 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 5:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 1:04 PM\r\ndeparting Westgate Station - Gate B at 3:04 PM\r\ndeparting Westgate Station - Gate B at 5:04 PM\r\ndeparting Westgate Station - Gate B at 7:05 PM"
-    },
-    {
-      "id": "54670",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 65: Northbound 6:32 PM Trip Canceled (Dale St & Grand Ave)",
-      "summary": "Northbound Route 65 trip departing Dale St & Grand Ave at 6:32 PM canceled today due to disabled bus",
-      "affectedRoutes": [
-        "Route 65"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {},
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/65",
-      "updatedAt": "2026-10-28T01:02:02.000Z",
-      "rawHeader": "Northbound Route 65 trip departing Dale St & Grand Ave at 6:32 PM canceled today due to disabled bus",
-      "rawDescription": ""
-    },
-    {
-      "id": "54652",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 219: Service Canceled",
-      "summary": "Route 219 trip departing Sun Ray Transit Center & Gate B at 12:43 PM and six other trips canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 219"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-27T17:43:00.000Z",
-        "end": "2026-10-28T01:33:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/219",
-      "updatedAt": "2026-10-27T17:13:01.000Z",
-      "rawHeader": "Route 219 trip departing Sun Ray Transit Center & Gate B at 12:43 PM and six other trips canceled today due to maintenance work",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate B at 12:43 PM\r\ndeparting Sun Ray Transit Center & Gate B at 2:43 PM\r\ndeparting Sun Ray Transit Center & Gate B at 4:43 PM\r\ndeparting Sun Ray Transit Center & Gate B at 6:43 PM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate A at 1:42 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 3:42 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 5:42 PM"
-    },
-    {
-      "id": "54658",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 219: Service Canceled",
-      "summary": "Route 219 trips departing Maplewood Mall Transit Center & Gate A at 5:42 PM and departing Sun Ray Transit Center & Gate B at 6:43 PM canceled today",
-      "affectedRoutes": [
-        "Route 219"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-27T22:42:00.000Z",
-        "end": "2026-10-28T01:33:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/219",
-      "updatedAt": "2026-10-27T22:12:01.000Z",
-      "rawHeader": "Route 219 trips departing Maplewood Mall Transit Center & Gate A at 5:42 PM and departing Sun Ray Transit Center & Gate B at 6:43 PM canceled today",
-      "rawDescription": ""
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -1196,7 +480,7 @@
       },
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-27T13:19:16.000Z",
+      "updatedAt": "2026-10-28T05:00:02.000Z",
       "rawHeader": "26th St E & 1st Ave S - Stop #80923 (westbound) is closed for Route 2 from Tue Nov 3 at 7:00 AM to Wed Nov 4 at 7:00 AM due to construction",
       "rawDescription": "Get on/off buses at:\r\n26th St E & 3rd Ave S - Stop #17761 (westbound)\r\n26th St E & Nicollet Ave - Stop #80924 (westbound)"
     },
@@ -1385,12 +669,12 @@
         "56923",
         "17815",
         "51212",
-        "73",
         "66",
         "68",
         "69",
         "70",
-        "72"
+        "72",
+        "73"
       ],
       "closedStopDetails": [
         {
@@ -1458,9 +742,6 @@
           "id": "51212"
         },
         {
-          "id": "73"
-        },
-        {
           "id": "66"
         },
         {
@@ -1474,6 +755,9 @@
         },
         {
           "id": "72"
+        },
+        {
+          "id": "73"
         }
       ],
       "riderAlternative": "Board at: Chicago & 56th St Station - Stop #775 (northbound); Temporary stop on Portland Ave & 52nd St (northbound); Temporary stop on Portland Ave & 48th St (northbound)",
@@ -2311,54 +1595,6 @@
       "rawDescription": "For eastbound Route 17 get on/off buses at:\r\nCentral Ave & 5th St SE - Stop #14954 (northbound)\r\nCentral Ave NE & 7th St SE - Stop #17224 (northbound)\r\nBroadway St & Monroe St NE - Stop #15488 (westbound)\r\n\nFor westbound Route 17 get on/off buses at:\r\nBroadway St & Monroe St NE - Stop #12665 (eastbound)\r\nCentral Ave NE & 7th St NE - Stop #17225 (southbound)\r\nCentral Ave NE & Hennepin Ave E - Stop #17227 (southbound)\r\n\nEastbound 17W buses will travel regular route on Central Ave to 7th St NE, continue on Central to Broadway St NE, left on Broadway, continue to Monroe St, and resume regular route.\r\n\nWestbound 17 buses that depart Central/26th Ave NE will travel regular route on Broadway St NE to Central Ave NE, right on Central Ave, continue to to 7th St NE, and resume regular route.\r\n\nAffected stops:\r\n7th St NE & Central Ave NE - Stop #51077 (northbound)\r\nMonroe St & Spring St NE - Stop #15486 (northbound)\r\nMonroe St & Spring St NE - Stop #15531 (southbound)\r\n7th St NE & Central Ave NE - Stop #15533 (southbound)"
     },
     {
-      "id": "54632",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 17, Route 32: Stop Closed at Lowry Ave NE & Howard St N",
-      "summary": "Lowry Ave NE & Howard St NE - Stop #57446 (westbound) is closed for Routes 17 and 32 until later today. Board at: Central Ave NE & Lowry Ave NE - Stop #17195 (southbound); Lowry Ave NE & Jefferson / Washington St - Stop #12813 (westbound).",
-      "affectedRoutes": [
-        "Route 17",
-        "Route 32"
-      ],
-      "direction": "Southbound",
-      "intersections": [
-        "Lowry Ave NE & Howard St N",
-        "Central Ave NE & Lowry Ave N",
-        "Lowry Ave NE & Central Ave N"
-      ],
-      "closedStopIds": [
-        "57446",
-        "17195",
-        "12813",
-        "12828"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "57446"
-        },
-        {
-          "id": "17195"
-        },
-        {
-          "id": "12813"
-        },
-        {
-          "id": "12828"
-        }
-      ],
-      "riderAlternative": "Board at: Central Ave NE & Lowry Ave NE - Stop #17195 (southbound); Lowry Ave NE & Jefferson / Washington St - Stop #12813 (westbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-27T10:53:00.000Z",
-        "end": "2026-10-28T03:06:23.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-27T10:53:05.000Z",
-      "rawHeader": "Lowry Ave NE & Howard St NE - Stop #57446 (westbound) is closed for Routes 17 and 32 until later today",
-      "rawDescription": "Get on/off Route 17 buses at:\r\nCentral Ave NE & Lowry Ave NE - Stop #17195 (southbound)\r\nLowry Ave NE & Jefferson / Washington St - Stop #12813 (westbound)\r\n\nGet on/off Route 32 buses at:\r\nLowry Ave NE & Central Ave NE - Stop #12828 (westbound)\r\nLowry Ave NE & Jefferson / Washington St - Stop #12813 (westbound)"
-    },
-    {
       "id": "48754",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -3135,7 +2371,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-10-23T05:00:01.000Z",
+      "updatedAt": "2026-10-28T05:00:01.000Z",
       "rawHeader": "Route 22 detoured off Lyndale Ave from Plymouth Ave to West Broadway Ave from 6:00 AM to 5:00 PM on Thu Oct 29 due to construction",
       "rawDescription": "For northbound Route 22 get on/off buses at:\r\n7th St N & Oak Lake Ave N - Stop #57216 (northbound)\r\nEmerson & Plymouth Station - Stop #8920 (northbound)\r\nLyndale Ave N & 23rd Ave N - Stop #11183 (northbound)\r\n\nFor southbound Route 22 get on/off buses at:\r\nLyndale Ave N & West Broadway - Stop #11652 (southbound)\r\n7th St N & Oak Lake Ave - Stop #51791 (southbound)\r\n\nNorthbound buses will travel regular route on Lyndale Ave to Plymouth Ave, left on Plymouth, right on Emerson Ave, right on West Broadway Ave, left on Lyndale Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on Lyndale Ave to West Broadway Ave, right on West Broadway, left on Fremont Ave, left on Plymouth Ave, right on Lyndale Ave, and resume regular route.\r\n\nAffected stops:\r\nLyndale Ave N & Plymouth Ave N - Stop #57195 (northbound)\r\nLyndale Ave N & 14th Ave / 18th Ave N - Stop #11178 (northbound)\r\nLyndale Ave N & 18th Ave N - Stop #11179 (northbound)\r\nLyndale Ave N & West Broadway - Stop #11180 (northbound)\r\nLyndale Ave N & 18th Ave N - Stop #11653 (southbound)\r\nLyndale Ave N & 18th Ave / 14th Ave N - Stop #11654 (southbound)\r\nLyndale Ave N & Plymouth Ave - Stop #11656 (southbound)"
     },
@@ -3203,7 +2439,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-10-26T21:33:04.000Z",
+      "updatedAt": "2026-10-28T05:00:02.000Z",
       "rawHeader": "Route 22 detoured beginning off Lyndale Ave from Dowling Ave to 40th Tue Nov 3 at 7:00 AM until further notice due to tree trimming",
       "rawDescription": "Updated start time 10/26 at 4:30 PM\r\n\nFor northbound Route 22 get on/off buses at:\r\nLyndale Ave N & Lowry Ave N - Stop #81098 (northbound)\r\nLyndale Ave N & 41st Ave N - Stop #57196 (northbound)\r\n\nFor southbound Route 22 get on/off buses at:\r\nLyndale Ave N & 40th Ave N - Stop #11633 (southbound)\r\nLyndale Ave N & Lowry Ave N - Stop #11641 (southbound)\r\n\nNorthbound buses will travel regular detour route on Lyndale Ave N to Lowry Ave N, right on Lowry Ave N, left on 2nd St N which will become Washington Ave N, left on Dowling Ave N, right on Fremont Ave N, right on 40th Ave N, left on Lyndale Ave N,  and resume regular route. \r\n\nSouthbound buses will travel regular route on Lyndale to 40th Ave N, right on 40th Ave N, left on Fremont Ave N, left on Dowling Ave N, right on Washington Ave N which will become 2nd St N, veer right onto Washington, right on Lowry, left on Lyndale Ave N and resume regular route. \r\n\nAffected stops:\r\nLyndale Ave N & Dowling Ave N - Stop #11197 (northbound)\r\nLyndale Ave N & 40th Ave N - Stop #11199 (northbound)\r\nLyndale Ave N & Dowling Ave N - Stop #11635 (southbound)"
     },
@@ -3518,7 +2754,7 @@
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/32",
-      "updatedAt": "2026-10-27T05:00:01.000Z",
+      "updatedAt": "2026-10-28T05:00:02.000Z",
       "rawHeader": "Kenzie Terrace & Lowry Grove - Stop #40635 (eastbound) is closed for Route 32 beginning Wed Oct 28 at 7:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nLowry Ave NE & McKinley St NE - Stop #47345 (eastbound)\r\nKenzie Terrace & #2600 - Stop #12859 (eastbound)"
     },
@@ -3642,7 +2878,7 @@
       },
       "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-27T08:01:01.000Z",
+      "updatedAt": "2026-10-28T08:01:01.000Z",
       "rawHeader": "Lyndale Ave S & 33rd St W - Stop #40664 (southbound) is closed for Routes 4 and 38 beginning Thu Oct 29 at 2:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off buses at:\r\nLyndale Ave S & 31st St W - Stop #110 (southbound)\r\nLyndale Ave S & 35th St W - Stop #40668 (southbound)"
     },
@@ -5462,7 +4698,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/156",
-      "updatedAt": "2026-10-21T18:02:12.000Z",
+      "updatedAt": "2026-10-28T08:01:00.000Z",
       "rawHeader": "Route 156 detoured off 60th St from Oliver Ave to Sunrise Dr beginning Wed Nov 4 at 2:00 AM until further notice due to tree trimming",
       "rawDescription": "For northbound Route 156 get on/off buses at:\r\nSunrise Dr & 59th St W - Stop #1789 (westbound)\r\n60th St W & Penn Ave S - Stop #1034 (westbound)\r\n\nFor southbound Route 156 get on/off buses at:\r\n60th St W & Penn Ave S - Stop #3775 (eastbound)\r\nSunrise Dr & 59th St W - Stop #1838 (eastbound)\r\n\nNorthbound buses will travel regular route on Sunrise Dr to Knox Ave, left on Knox Ave, right on 61st St, right on Oliver Ave, left on 60th St and resume regular route.\r\n\nSouthbound buses will travel regular route on 60th St to Oliver Ave, right on Oliver Ave, left on 61st St, left on Knox Ave, right on Sunrise Dr and resume regular route.\r\n\nAffected stops:\r\n60th St W & Morgan Ave S - Stop #1792 (westbound)\r\n60th St W & Morgan Ave S - Stop #1835 (eastbound)"
     },

@@ -4,63 +4,9 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Wed, 28 Oct 2026 01:07:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:15:22 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
-    <item>
-      <title>[Critical] Route 3, Route 3B: Westbound 6:02 PM Trip Canceled (Union Depot &amp; Gate A1)</title>
-      <link>https://www.metrotransit.org/route/3</link>
-      <guid isPermaLink="false">Metro Transit-54671-2026-10-28T01:04:02.000Z</guid>
-      <pubDate>Wed, 28 Oct 2026 01:04:02 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 3, Route 3B</category>
-      <description>Westbound Route 3B trip departing Union Depot &amp; Gate A1 at 6:02 PM canceled from Rice &amp; University at 6:14 PM today due to traffic</description>
-    </item>
-    <item>
-      <title>[Critical] Route 17, Route 17D: Westbound 6:47 PM Trip Canceled (Central Ave NE &amp; 26th Ave NE)</title>
-      <link>https://www.metrotransit.org/route/17</link>
-      <guid isPermaLink="false">Metro Transit-54672-2026-10-28T00:30:20.000Z</guid>
-      <pubDate>Wed, 28 Oct 2026 00:30:20 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 17, Route 17D</category>
-      <description>Westbound Route 17D trip departing Central Ave NE &amp; 26th Ave NE at 6:47 PM canceled from Central &amp; University at 7:01 PM today due to collision</description>
-    </item>
-    <item>
-      <title>[Critical] Route 30: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-54647-2026-10-27T17:34:01.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 17:34:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 30</category>
-      <description>Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 65: Northbound 6:32 PM Trip Canceled (Dale St &amp; Grand Ave)</title>
-      <link>https://www.metrotransit.org/route/65</link>
-      <guid isPermaLink="false">Metro Transit-54670-2026-10-28T01:02:02.000Z</guid>
-      <pubDate>Wed, 28 Oct 2026 01:02:02 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 65</category>
-      <description>Northbound Route 65 trip departing Dale St &amp; Grand Ave at 6:32 PM canceled today due to disabled bus</description>
-    </item>
-    <item>
-      <title>[Critical] Route 219: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/219</link>
-      <guid isPermaLink="false">Metro Transit-54652-2026-10-27T17:13:01.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 17:13:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 219</category>
-      <description>Route 219 trip departing Sun Ray Transit Center &amp; Gate B at 12:43 PM and six other trips canceled today due to maintenance work</description>
-    </item>
-    <item>
-      <title>[Critical] Route 219: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/219</link>
-      <guid isPermaLink="false">Metro Transit-54658-2026-10-27T22:12:01.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 22:12:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 219</category>
-      <description>Route 219 trips departing Maplewood Mall Transit Center &amp; Gate A at 5:42 PM and departing Sun Ray Transit Center &amp; Gate B at 6:43 PM canceled today</description>
-    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -118,8 +64,8 @@
     <item>
       <title>[Moderate] Route 2: Stop Closed at 26th St E &amp; 1st Ave S</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54641-2026-10-27T13:19:16.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 13:19:16 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54641-2026-10-28T05:00:02.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 2</category>
       <description>26th St E &amp; 1st Ave S - Stop #80923 (westbound) is closed for Route 2 from Tue Nov 3 at 7:00 AM to Wed Nov 4 at 7:00 AM due to construction. Board at: 26th St E &amp; 3rd Ave S - Stop #17761 (westbound); 26th St E &amp; Nicollet Ave - Stop #80924 (westbound). | Action: Board at: 26th St E &amp; 3rd Ave S - Stop #17761 (westbound); 26th St E &amp; Nicollet Ave - Stop #80924 (westbound)</description>
@@ -269,15 +215,6 @@
       <description>Route 17W detoured off Central Ave NE from 7th St NE to Monroe St NE until further notice due to construction. Board at: Central Ave &amp; 5th St SE - Stop #14954 (northbound); Central Ave NE &amp; 7th St SE - Stop #17224 (northbound); Broadway St &amp; Monroe St NE - Stop #15488 (westbound). | Action: Board at: Central Ave &amp; 5th St SE - Stop #14954 (northbound); Central Ave NE &amp; 7th St SE - Stop #17224 (northbound); Broadway St &amp; Monroe St NE - Stop #15488 (westbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 17, Route 32: Stop Closed at Lowry Ave NE &amp; Howard St N</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54632-2026-10-27T10:53:05.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 10:53:05 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 17, Route 32</category>
-      <description>Lowry Ave NE &amp; Howard St NE - Stop #57446 (westbound) is closed for Routes 17 and 32 until later today. Board at: Central Ave NE &amp; Lowry Ave NE - Stop #17195 (southbound); Lowry Ave NE &amp; Jefferson / Washington St - Stop #12813 (westbound). | Action: Board at: Central Ave NE &amp; Lowry Ave NE - Stop #17195 (southbound); Lowry Ave NE &amp; Jefferson / Washington St - Stop #12813 (westbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 18: Detour via Nicollet Ave S &amp; 56th St E</title>
       <link>https://www.metrotransit.org/route/18</link>
       <guid isPermaLink="false">Metro Transit-48754-2026-09-03T18:13:08.000Z</guid>
@@ -361,8 +298,8 @@
     <item>
       <title>[Moderate] Route 22: Detour via 7th St N &amp; Oak Lake Ave N</title>
       <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-54450-2026-10-23T05:00:01.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54450-2026-10-28T05:00:01.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 22</category>
       <description>Route 22 detoured off Lyndale Ave from Plymouth Ave to West Broadway Ave from 6:00 AM to 5:00 PM on Thu Oct 29 due to construction. Board at: 7th St N &amp; Oak Lake Ave N - Stop #57216 (northbound); Emerson &amp; Plymouth Station - Stop #8920 (northbound); Lyndale Ave N &amp; 23rd Ave N - Stop #11183 (northbound). | Action: Board at: 7th St N &amp; Oak Lake Ave N - Stop #57216 (northbound); Emerson &amp; Plymouth Station - Stop #8920 (northbound); Lyndale Ave N &amp; 23rd Ave N - Stop #11183 (northbound)</description>
@@ -370,8 +307,8 @@
     <item>
       <title>[Moderate] Route 22: Detour via Lyndale Ave N &amp; Lowry Ave N</title>
       <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-54619-2026-10-26T21:33:04.000Z</guid>
-      <pubDate>Mon, 26 Oct 2026 21:33:04 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54619-2026-10-28T05:00:02.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 22</category>
       <description>Route 22 detoured beginning off Lyndale Ave from Dowling Ave to 40th Tue Nov 3 at 7:00 AM until further notice due to tree trimming. Board at: Lyndale Ave N &amp; Lowry Ave N - Stop #81098 (northbound); Lyndale Ave N &amp; 41st Ave N - Stop #57196 (northbound). | Action: Board at: Lyndale Ave N &amp; Lowry Ave N - Stop #81098 (northbound); Lyndale Ave N &amp; 41st Ave N - Stop #57196 (northbound)</description>
@@ -406,8 +343,8 @@
     <item>
       <title>[Moderate] Route 32: Stop Closed at Lowry Ave NE &amp; McKinley St N</title>
       <link>https://www.metrotransit.org/route/32</link>
-      <guid isPermaLink="false">Metro Transit-54461-2026-10-27T05:00:01.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54461-2026-10-28T05:00:02.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 05:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 32</category>
       <description>Kenzie Terrace &amp; Lowry Grove - Stop #40635 (eastbound) is closed for Route 32 beginning Wed Oct 28 at 7:00 AM until further notice due to construction. Board at: Lowry Ave NE &amp; McKinley St NE - Stop #47345 (eastbound); Kenzie Terrace &amp; #2600 - Stop #12859 (eastbound). | Action: Board at: Lowry Ave NE &amp; McKinley St NE - Stop #47345 (eastbound); Kenzie Terrace &amp; #2600 - Stop #12859 (eastbound)</description>
@@ -433,8 +370,8 @@
     <item>
       <title>[Moderate] Route 38, Route 4: Stop Closed at Lyndale Ave S &amp; 33rd St W</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54492-2026-10-27T08:01:01.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 08:01:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54492-2026-10-28T08:01:01.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 08:01:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 38, Route 4</category>
       <description>Lyndale Ave S &amp; 33rd St W - Stop #40664 (southbound) is closed for Routes 4 and 38 beginning Thu Oct 29 at 2:00 AM until further notice due to utility work. Board at: Lyndale Ave S &amp; 31st St W - Stop #110 (southbound); Lyndale Ave S &amp; 35th St W - Stop #40668 (southbound). | Action: Board at: Lyndale Ave S &amp; 31st St W - Stop #110 (southbound); Lyndale Ave S &amp; 35th St W - Stop #40668 (southbound)</description>
@@ -640,8 +577,8 @@
     <item>
       <title>[Moderate] Route 156: Detour via Sunrise Dr &amp; 59th St W</title>
       <link>https://www.metrotransit.org/route/156</link>
-      <guid isPermaLink="false">Metro Transit-54424-2026-10-21T18:02:12.000Z</guid>
-      <pubDate>Wed, 21 Oct 2026 18:02:12 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54424-2026-10-28T08:01:00.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 08:01:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 156</category>
       <description>Route 156 detoured off 60th St from Oliver Ave to Sunrise Dr beginning Wed Nov 4 at 2:00 AM until further notice due to tree trimming. Board at: Sunrise Dr &amp; 59th St W - Stop #1789 (westbound); 60th St W &amp; Penn Ave S - Stop #1034 (westbound). | Action: Board at: Sunrise Dr &amp; 59th St W - Stop #1789 (westbound); 60th St W &amp; Penn Ave S - Stop #1034 (westbound)</description>

@@ -2,165 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-101-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-6-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-93-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-94-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-92-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-2-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-72-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-68-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-28T01:07:41.726Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-28T08:15:22.965Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 14** (2) • **Route 17** (4) • **Route 17D** (1) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (6) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (6) • **Route 64D** (1) • **Route 65** (1) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (3) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 14** (2) • **Route 17** (2) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (6) • **Route 25** (3) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (6) • **Route 64D** (1) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 3, Route 3B: Westbound 6:02 PM Trip Canceled (Union Depot & Gate A1)
-
-- **Affected Routes**: `Route 3` `Route 3B`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #53041, Stop #80932, Stop #80933, Stop #80934, Stop #80935, Stop #826, Stop #828, Stop #831 *(+68 more)*
-
-**Summary**: Westbound Route 3B trip departing Union Depot & Gate A1 at 6:02 PM canceled from Rice & University at 6:14 PM today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/3)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 3B trip departing Union Depot & Gate A1 at 6:02 PM canceled from Rice & University at 6:14 PM today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 17, Route 17D: Westbound 6:47 PM Trip Canceled (Central Ave NE & 26th Ave NE)
-
-- **Affected Routes**: `Route 17` `Route 17D`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #1100, Stop #1102, Stop #1197, Stop #1199, Stop #1200, Stop #1202, Stop #1204, Stop #12282 *(+55 more)*
-
-**Summary**: Westbound Route 17D trip departing Central Ave NE & 26th Ave NE at 6:47 PM canceled from Central & University at 7:01 PM today due to collision
-
-[Official Agency Advisory](https://www.metrotransit.org/route/17)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 17D trip departing Central Ave NE & 26th Ave NE at 6:47 PM canceled from Central & University at 7:01 PM today due to collision
-
-</details>
-
----
-
-### 🚨 Route 30: Service Canceled
-
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 56 PM
-departing Knox Ave N & Golden Valley Rd; 54 PM
-departing Knox Ave N & Golden Valley Rd
-
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today due to mechanical issue
-
-```text
-Affected eastbound trips:
-departing Knox Ave N & Golden Valley Rd at 1:56 PM
-departing Knox Ave N & Golden Valley Rd at 3:54 PM
-departing Knox Ave N & Golden Valley Rd at 5:56 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM
-
-Affected westbound trips:
-departing Westgate Station - Gate B at 1:04 PM
-departing Westgate Station - Gate B at 3:04 PM
-departing Westgate Station - Gate B at 5:04 PM
-departing Westgate Station - Gate B at 7:05 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 65: Northbound 6:32 PM Trip Canceled (Dale St & Grand Ave)
-
-- **Affected Routes**: `Route 65`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Route 65 trip departing Dale St & Grand Ave at 6:32 PM canceled today due to disabled bus
-
-[Official Agency Advisory](https://www.metrotransit.org/route/65)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 65 trip departing Dale St & Grand Ave at 6:32 PM canceled today due to disabled bus
-
-</details>
-
----
-
-### 🚨 Route 219: Service Canceled
-
-- **Affected Routes**: `Route 219`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 219 trip departing Sun Ray Transit Center & Gate B at 12:43 PM and six other trips canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/219)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 219 trip departing Sun Ray Transit Center & Gate B at 12:43 PM and six other trips canceled today due to maintenance work
-
-```text
-Affected northbound trips:
-departing Sun Ray Transit Center & Gate B at 12:43 PM
-departing Sun Ray Transit Center & Gate B at 2:43 PM
-departing Sun Ray Transit Center & Gate B at 4:43 PM
-departing Sun Ray Transit Center & Gate B at 6:43 PM
-
-Affected southbound trips:
-departing Maplewood Mall Transit Center & Gate A at 1:42 PM
-departing Maplewood Mall Transit Center & Gate A at 3:42 PM
-departing Maplewood Mall Transit Center & Gate A at 5:42 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 219: Service Canceled
-
-- **Affected Routes**: `Route 219`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 219 trips departing Maplewood Mall Transit Center & Gate A at 5:42 PM and departing Sun Ray Transit Center & Gate B at 6:43 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/219)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 219 trips departing Maplewood Mall Transit Center & Gate A at 5:42 PM and departing Sun Ray Transit Center & Gate B at 6:43 PM canceled today
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -1166,37 +1022,6 @@ Affected stops:
 Monroe St & Spring St NE - Stop #15486 (northbound)
 Monroe St & Spring St NE - Stop #15531 (southbound)
 7th St NE & Central Ave NE - Stop #15533 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 17, Route 32: Stop Closed at Lowry Ave NE & Howard St N
-
-- **Affected Routes**: `Route 17` `Route 32`
-- **Direction**: Southbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Lowry Ave NE & Howard St N; Central Ave NE & Lowry Ave N; Lowry Ave NE & Central Ave N
-- **Closed Stops**: Stop #57446, Stop #17195, Stop #12813, Stop #12828
-
-**Summary**: Lowry Ave NE & Howard St NE - Stop #57446 (westbound) is closed for Routes 17 and 32 until later today. Board at: Central Ave NE & Lowry Ave NE - Stop #17195 (southbound); Lowry Ave NE & Jefferson / Washington St - Stop #12813 (westbound).
-
-> 💡 **Rider Action**: Board at: Central Ave NE & Lowry Ave NE - Stop #17195 (southbound); Lowry Ave NE & Jefferson / Washington St - Stop #12813 (westbound)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Lowry Ave NE & Howard St NE - Stop #57446 (westbound) is closed for Routes 17 and 32 until later today
-
-```text
-Get on/off Route 17 buses at:
-Central Ave NE & Lowry Ave NE - Stop #17195 (southbound)
-Lowry Ave NE & Jefferson / Washington St - Stop #12813 (westbound)
-
-Get on/off Route 32 buses at:
-Lowry Ave NE & Central Ave NE - Stop #12828 (westbound)
-Lowry Ave NE & Jefferson / Washington St - Stop #12813 (westbound)
 ```
 
 </details>
