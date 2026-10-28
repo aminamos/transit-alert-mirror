@@ -2,92 +2,55 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-106-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-11-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-101-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-6-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-93-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-2-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-71-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-72-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-27T21:12:08.412Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-28T01:07:41.726Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (5) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (3) • **Route 2C** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 14** (2) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (6) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (6) • **Route 64D** (1) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (3) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (3) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (2) • **Route 805** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 3B** (1) • **Route 4** (1) • **Route 5** (1) • **Route 7** (2) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 14** (2) • **Route 17** (4) • **Route 17D** (1) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (6) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (2) • **Route 64** (6) • **Route 64D** (1) • **Route 65** (1) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (3) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO A Line: Southbound 3:02 PM Trip Canceled (Rosedale Transit Center Gate A)
+### 🚨 Route 3, Route 3B: Westbound 6:02 PM Trip Canceled (Union Depot & Gate A1)
 
-- **Affected Routes**: `METRO A Line`
-- **Direction**: Southbound
+- **Affected Routes**: `Route 3` `Route 3B`
+- **Direction**: Westbound
 - **Severity**: `Critical`
+- **Closed Stops**: Stop #53041, Stop #80932, Stop #80933, Stop #80934, Stop #80935, Stop #826, Stop #828, Stop #831 *(+68 more)*
 
-**Summary**: Southbound A Line trip departing Rosedale Transit Center Gate A at 3:02 PM canceled due to mechanical issue
+**Summary**: Westbound Route 3B trip departing Union Depot & Gate A1 at 6:02 PM canceled from Rice & University at 6:14 PM today due to traffic
 
-[Official Agency Advisory](https://www.metrotransit.org/route/aline)
+[Official Agency Advisory](https://www.metrotransit.org/route/3)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound A Line trip departing Rosedale Transit Center Gate A at 3:02 PM canceled due to mechanical issue
+**Header**: Westbound Route 3B trip departing Union Depot & Gate A1 at 6:02 PM canceled from Rice & University at 6:14 PM today due to traffic
 
 </details>
 
 ---
 
-### 🚨 METRO A Line: Northbound 2:52 PM Trip Canceled (46th St Station Gate A)
+### 🚨 Route 17, Route 17D: Westbound 6:47 PM Trip Canceled (Central Ave NE & 26th Ave NE)
 
-- **Affected Routes**: `METRO A Line`
-- **Direction**: Northbound
+- **Affected Routes**: `Route 17` `Route 17D`
+- **Direction**: Westbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #18508, Stop #56117, Stop #56118, Stop #56119, Stop #56120, Stop #52531, Stop #50010, Stop #50013
+- **Closed Stops**: Stop #1100, Stop #1102, Stop #1197, Stop #1199, Stop #1200, Stop #1202, Stop #1204, Stop #12282 *(+55 more)*
 
-**Summary**: Northbound A Line trip departing 46th St Station Gate A at 2:52 PM canceled today from University & Snelling at 3:20 PM due to traffic
+**Summary**: Westbound Route 17D trip departing Central Ave NE & 26th Ave NE at 6:47 PM canceled from Central & University at 7:01 PM today due to collision
 
-[Official Agency Advisory](https://www.metrotransit.org/route/aline)
+[Official Agency Advisory](https://www.metrotransit.org/route/17)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound A Line trip departing 46th St Station Gate A at 2:52 PM canceled today from University & Snelling at 3:20 PM due to traffic
-
-</details>
-
----
-
-### 🚨 METRO A Line: Northbound 3:52 PM Trip Canceled (46th St Station Gate A)
-
-- **Affected Routes**: `METRO A Line`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound A Line trip departing 46th St Station Gate A at 3:52 PM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/aline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound A Line trip departing 46th St Station Gate A at 3:52 PM canceled today due to mechanical issue
-
-</details>
-
----
-
-### 🚨 Route 2, Route 2C: Eastbound 3:41 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)
-
-- **Affected Routes**: `Route 2` `Route 2C`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-
-**Summary**: Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 3:41 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 3:41 PM canceled today
+**Header**: Westbound Route 17D trip departing Central Ave NE & 26th Ave NE at 6:47 PM canceled from Central & University at 7:01 PM today due to collision
 
 </details>
 
@@ -129,59 +92,20 @@ departing Westgate Station - Gate B at 7:05 PM
 
 ---
 
-### 🚨 Route 71: Service Canceled
+### 🚨 Route 65: Northbound 6:32 PM Trip Canceled (Dale St & Grand Ave)
 
-- **Affected Routes**: `Route 71`
-- **Direction**: Both Directions
+- **Affected Routes**: `Route 65`
+- **Direction**: Northbound
 - **Severity**: `Critical`
 
-**Summary**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today due to maintenance work
+**Summary**: Northbound Route 65 trip departing Dale St & Grand Ave at 6:32 PM canceled today due to disabled bus
 
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
+[Official Agency Advisory](https://www.metrotransit.org/route/65)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today due to maintenance work
-
-```text
-Affected northbound trips:
-departing Inver Hills College & Shelter at 12:38 PM
-departing Inver Hills College & Shelter at 3:38 PM
-
-Affected southbound trips:
-departing Market Place Dr & The Marketplace Ctr at 2:12 PM
-departing Market Place Dr & The Marketplace Ctr at 5:13 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 71: Service Canceled
-
-- **Affected Routes**: `Route 71`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today due to maintenance work
-
-```text
-Affected northbound trips:
-departing Inver Hills College & Shelter at 12:38 PM
-departing Inver Hills College & Shelter at 3:38 PM
-
-Affected southbound trips:
-departing Market Place Dr & The Marketplace Ctr at 2:12 PM
-departing Market Place Dr & The Marketplace Ctr at 5:13 PM
-```
+**Header**: Northbound Route 65 trip departing Dale St & Grand Ave at 6:32 PM canceled today due to disabled bus
 
 </details>
 
@@ -233,75 +157,6 @@ departing Maplewood Mall Transit Center & Gate A at 5:42 PM
 <summary>Raw Dispatcher Message</summary>
 
 **Header**: Route 219 trips departing Maplewood Mall Transit Center & Gate A at 5:42 PM and departing Sun Ray Transit Center & Gate B at 6:43 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 802: Service Canceled
-
-- **Affected Routes**: `Route 802`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/802)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to maintenance work
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate E at 11:34 AM
-departing Northtown Transit Ctr Gate E at 1:34 PM
-departing Northtown Transit Ctr Gate E at 3:34 PM
-departing Northtown Transit Ctr Gate E at 5:34 PM
-
-Affected southbound trips:
-departing Anoka Tech College & Main Entrance at 12:42 PM
-departing Anoka Tech College & Main Entrance at 2:42 PM
-departing Anoka Tech College & Main Entrance at 4:42 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 805: Service Canceled
-
-- **Affected Routes**: `Route 805`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
-departing 1st Ave S & Monroe St; 38 PM
-departing 1st Ave S & Monroe St; 36 PM
-departing 1st Ave S & Monroe St
-
-**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and seven other trips canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and seven other trips canceled today due to maintenance work
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate D at 12:34 PM
-departing Northtown Transit Ctr Gate D at 2:34 PM
-departing Northtown Transit Ctr Gate D at 4:34 PM
-
-Affected southbound trips:
-departing 1st Ave S & Monroe St at 11:38 AM
-departing 1st Ave S & Monroe St at 12:38 PM
-departing 1st Ave S & Monroe St at 1:38 PM
-departing 1st Ave S & Monroe St at 3:36 PM
-departing 1st Ave S & Monroe St at 5:38 PM
-```
 
 </details>
 

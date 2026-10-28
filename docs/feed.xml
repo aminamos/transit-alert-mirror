@@ -4,44 +4,26 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Tue, 27 Oct 2026 21:12:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 01:07:41 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO A Line: Southbound 3:02 PM Trip Canceled (Rosedale Transit Center Gate A)</title>
-      <link>https://www.metrotransit.org/route/aline</link>
-      <guid isPermaLink="false">Metro Transit-54659-2026-10-27T20:29:13.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 20:29:13 GMT</pubDate>
+      <title>[Critical] Route 3, Route 3B: Westbound 6:02 PM Trip Canceled (Union Depot &amp; Gate A1)</title>
+      <link>https://www.metrotransit.org/route/3</link>
+      <guid isPermaLink="false">Metro Transit-54671-2026-10-28T01:04:02.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 01:04:02 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO A Line</category>
-      <description>Southbound A Line trip departing Rosedale Transit Center Gate A at 3:02 PM canceled due to mechanical issue</description>
+      <category>Route 3, Route 3B</category>
+      <description>Westbound Route 3B trip departing Union Depot &amp; Gate A1 at 6:02 PM canceled from Rice &amp; University at 6:14 PM today due to traffic</description>
     </item>
     <item>
-      <title>[Critical] METRO A Line: Northbound 2:52 PM Trip Canceled (46th St Station Gate A)</title>
-      <link>https://www.metrotransit.org/route/aline</link>
-      <guid isPermaLink="false">Metro Transit-54660-2026-10-27T20:31:14.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 20:31:14 GMT</pubDate>
+      <title>[Critical] Route 17, Route 17D: Westbound 6:47 PM Trip Canceled (Central Ave NE &amp; 26th Ave NE)</title>
+      <link>https://www.metrotransit.org/route/17</link>
+      <guid isPermaLink="false">Metro Transit-54672-2026-10-28T00:30:20.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 00:30:20 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO A Line</category>
-      <description>Northbound A Line trip departing 46th St Station Gate A at 2:52 PM canceled today from University &amp; Snelling at 3:20 PM due to traffic</description>
-    </item>
-    <item>
-      <title>[Critical] METRO A Line: Northbound 3:52 PM Trip Canceled (46th St Station Gate A)</title>
-      <link>https://www.metrotransit.org/route/aline</link>
-      <guid isPermaLink="false">Metro Transit-54661-2026-10-27T20:54:47.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 20:54:47 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO A Line</category>
-      <description>Northbound A Line trip departing 46th St Station Gate A at 3:52 PM canceled today due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Critical] Route 2, Route 2C: Eastbound 3:41 PM Trip Canceled (Franklin Ave W &amp; Hennepin Ave S)</title>
-      <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-54662-2026-10-27T21:10:45.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 21:10:45 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 2, Route 2C</category>
-      <description>Eastbound Route 2C trip departing Franklin Ave W &amp; Hennepin Ave S at 3:41 PM canceled today</description>
+      <category>Route 17, Route 17D</category>
+      <description>Westbound Route 17D trip departing Central Ave NE &amp; 26th Ave NE at 6:47 PM canceled from Central &amp; University at 7:01 PM today due to collision</description>
     </item>
     <item>
       <title>[Critical] Route 30: Service Canceled</title>
@@ -53,22 +35,13 @@
       <description>Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today due to mechanical issue</description>
     </item>
     <item>
-      <title>[Critical] Route 71: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/71</link>
-      <guid isPermaLink="false">Metro Transit-54648-2026-10-27T17:08:01.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 17:08:01 GMT</pubDate>
+      <title>[Critical] Route 65: Northbound 6:32 PM Trip Canceled (Dale St &amp; Grand Ave)</title>
+      <link>https://www.metrotransit.org/route/65</link>
+      <guid isPermaLink="false">Metro Transit-54670-2026-10-28T01:02:02.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 01:02:02 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 71</category>
-      <description>Route 71 trip departing Inver Hills College &amp; Shelter at 12:38 PM and three other trips canceled today due to maintenance work</description>
-    </item>
-    <item>
-      <title>[Critical] Route 71: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/71</link>
-      <guid isPermaLink="false">Metro Transit-54651-2026-10-27T17:08:01.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 17:08:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 71</category>
-      <description>Route 71 trip departing Inver Hills College &amp; Shelter at 12:38 PM and three other trips canceled today due to maintenance work</description>
+      <category>Route 65</category>
+      <description>Northbound Route 65 trip departing Dale St &amp; Grand Ave at 6:32 PM canceled today due to disabled bus</description>
     </item>
     <item>
       <title>[Critical] Route 219: Service Canceled</title>
@@ -82,29 +55,11 @@
     <item>
       <title>[Critical] Route 219: Service Canceled</title>
       <link>https://www.metrotransit.org/route/219</link>
-      <guid isPermaLink="false">Metro Transit-54658-2026-10-27T18:04:25.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 18:04:25 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54658-2026-10-27T22:12:01.000Z</guid>
+      <pubDate>Tue, 27 Oct 2026 22:12:01 GMT</pubDate>
       <category>Critical</category>
       <category>Route 219</category>
       <description>Route 219 trips departing Maplewood Mall Transit Center &amp; Gate A at 5:42 PM and departing Sun Ray Transit Center &amp; Gate B at 6:43 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 802: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/802</link>
-      <guid isPermaLink="false">Metro Transit-54646-2026-10-27T16:04:01.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 16:04:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 802</category>
-      <description>Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today due to maintenance work</description>
-    </item>
-    <item>
-      <title>[Critical] Route 805: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/805</link>
-      <guid isPermaLink="false">Metro Transit-54645-2026-10-27T16:08:00.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 16:08:00 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 805</category>
-      <description>Route 805 trip departing 1st Ave S &amp; Monroe St at 11:38 AM and seven other trips canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
