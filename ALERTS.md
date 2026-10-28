@@ -2,19 +2,58 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-105-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-7-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-109-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-11-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-97-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-1-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-72-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-73-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-28T15:54:06.764Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-28T20:56:31.057Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (2) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (7) • **Route 25** (3) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 38** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (3) • **Route 64** (6) • **Route 64D** (1) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 83** (1) • **Route 94** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 470** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 721** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (2) • **Route 805** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (1) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (9) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (3) • **Route 64** (6) • **Route 64D** (1) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (3) • **Route 83** (1) • **Route 94** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 363** (1) • **Route 467** (1) • **Route 515** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (2) • **Route 805** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
+
+### 🚨 Route 22: Southbound 3:42 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)
+
+- **Affected Routes**: `Route 22`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 3:42 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/22)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 3:42 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 22: Service Advisory
+
+- **Affected Routes**: `Route 22`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #12562, Stop #12566, Stop #12571, Stop #15444, Stop #15445, Stop #13219, Stop #15264, Stop #15268 *(+51 more)*
+
+**Summary**: Northbound Route 22 trip departing VA Medical Center at 5:31 PM will start from 7th & Oak Lake. Previous stops missed
+
+[Official Agency Advisory](https://www.metrotransit.org/route/22)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 22 trip departing VA Medical Center at 5:31 PM will start from 7th & Oak Lake. Previous stops missed
+
+</details>
+
+---
 
 ### 🚨 Route 30: Service Canceled
 
@@ -53,39 +92,52 @@ departing Westgate Station - Gate B at 10:06 PM
 
 ---
 
-### 🚨 Route 54: Eastbound 9:26 AM Trip Canceled (MOA Transit Station Gate C)
+### 🚨 Route 72: Service Canceled
 
-- **Affected Routes**: `Route 54`
-- **Direction**: Eastbound
+- **Affected Routes**: `Route 72`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
+- **Corridors & Intersections**: departing Pascal St N & Central Ave W; 52 PM
+departing Pascal St N & Central Ave W
 
-**Summary**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 9:26 AM canceled
+**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 5:48 PM and four other trips canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/54)
+[Official Agency Advisory](https://www.metrotransit.org/route/72)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Route 54 trip departing MOA Transit Station Gate C at 9:26 AM canceled
+**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 5:48 PM and four other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Pascal St N & Central Ave W at 6:52 PM
+departing Pascal St N & Central Ave W at 8:53 PM
+
+Affected westbound trips:
+departing Sun Ray Transit Center & Gate D at 5:48 PM
+departing Sun Ray Transit Center & Gate D at 7:51 PM
+departing Sun Ray Transit Center & Gate D at 9:51 PM
+```
 
 </details>
 
 ---
 
-### 🚨 Route 74: Eastbound 9:03 AM Trip Canceled (46th St Station & Gate C)
+### 🚨 Route 74: Westbound 2:58 PM Trip Canceled (Sun Ray Transit Center & Gate D)
 
 - **Affected Routes**: `Route 74`
-- **Direction**: Eastbound
+- **Direction**: Westbound
 - **Severity**: `Critical`
 
-**Summary**: Eastbound Route 74 trip departing 46th St Station & Gate C at 9:03 AM canceled
+**Summary**: Westbound Route 74 trip departing Sun Ray Transit Center & Gate D at 2:58 PM canceled today due to maintenance work
 
 [Official Agency Advisory](https://www.metrotransit.org/route/74)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Route 74 trip departing 46th St Station & Gate C at 9:03 AM canceled
+**Header**: Westbound Route 74 trip departing Sun Ray Transit Center & Gate D at 2:58 PM canceled today due to maintenance work
 
 </details>
 
@@ -123,20 +175,58 @@ departing Rosedale Transit Center Gate B at 6:16 PM
 
 ---
 
-### 🚨 Route 721: Service Canceled
+### 🚨 Route 363: 3:45 PM Trip Canceled (5th St Transit Center Gate D)
 
-- **Affected Routes**: `Route 721`
-- **Direction**: Both Directions
+- **Affected Routes**: `Route 363`
+- **Direction**: All
 - **Severity**: `Critical`
 
-**Summary**: Route 721 trips departing Brooklyn Ctr Transit Ctr Gate A at 9:30 AM and departing Hennepin Technical College & Main Door at 9:58 AM canceled today due to maintenance work
+**Summary**: Route 363 trip departing 5th St Transit Center Gate D at 3:45 PM canceled
 
-[Official Agency Advisory](https://www.metrotransit.org/route/721)
+[Official Agency Advisory](https://www.metrotransit.org/route/363)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 721 trips departing Brooklyn Ctr Transit Ctr Gate A at 9:30 AM and departing Hennepin Technical College & Main Door at 9:58 AM canceled today due to maintenance work
+**Header**: Route 363 trip departing 5th St Transit Center Gate D at 3:45 PM canceled
+
+</details>
+
+---
+
+### 🚨 Route 467: Service Canceled
+
+- **Affected Routes**: `Route 467`
+- **Direction**: All
+- **Severity**: `Critical`
+
+**Summary**: Route 467 trips departing Gateway Ramp & Platform at 3:37 PM and departing Gateway Ramp & Platform at 5:07 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/467)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 467 trips departing Gateway Ramp & Platform at 3:37 PM and departing Gateway Ramp & Platform at 5:07 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 542: Westbound 3:06 PM Trip Canceled (MOA Transit Station Gate G)
+
+- **Affected Routes**: `Route 542`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 542 trip departing MOA Transit Station Gate G at 3:06 PM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/542)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 542 trip departing MOA Transit Station Gate G at 3:06 PM canceled today due to maintenance work
 
 </details>
 
@@ -1077,36 +1167,6 @@ Affected stops:
 
 ---
 
-### ⚠️ Route 10, Route 25, Route 470: Stop Closed at 3rd Ave S & 11th St S
-
-- **Affected Routes**: `Route 10` `Route 25` `Route 470`
-- **Direction**: Southbound
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Tue Oct 20 at 7:00 AM until further notice
-- **Corridors & Intersections**: 3rd Ave S & 11th St S; 4th Ave S & 7th St S
-- **Closed Stops**: Stop #19277, Stop #19337, Stop #19297
-
-**Summary**: 3rd Ave S & 11th St S - Stop #19277 (southbound) is closed for Routes 10, 25 and 470 beginning Tue Oct 20 at 7:00 AM until further notice due to utility work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/10)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: 3rd Ave S & 11th St S - Stop #19277 (southbound) is closed for Routes 10, 25 and 470 beginning Tue Oct 20 at 7:00 AM until further notice due to utility work
-
-```text
-Get on Route 10 and 25 buses at:
-Leamington Ramp & Lower - Gate #7 - Stop #19337
-
-Get on Route 470 buses at:
-4th Ave S & 7th St S - Stop #19297 (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor
 
 - **Affected Routes**: `Route 10` `Route 11` `Route 17` `Route 18` `Route 25`
@@ -1852,39 +1912,27 @@ Lyndale Ave N & Dowling Ave N - Stop #11635 (southbound)
 
 ---
 
-### ⚠️ Route 22: Detour via Cedar Ave S & Franklin Ave E
+### ⚠️ Route 22: Stop Closed at Cedar Ave S & 24th St E
 
 - **Affected Routes**: `Route 22`
-- **Direction**: Both Directions
+- **Direction**: Southbound
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Cedar Ave S & Franklin Ave E; Bloomington Ave S & 28th St E; Cedar Ave S & 24th St E; Cedar Ave (Franklin Ave to 26th St E)
-- **Closed Stops**: Cedar Ave S & 24th St E (Stop #15364), Cedar Ave S & #2501 (Stop #15366), Stop #40467, Stop #15619, Stop #2501
+- **Schedule**: Beginning Mon Nov 2 at 8:00 AM until further notice
+- **Corridors & Intersections**: Cedar Ave S & 24th St E
+- **Closed Stops**: Stop #2501, Stop #15366, Stop #15364
 
-**Summary**: Southbound Route 22 detoured off Cedar Ave from Franklin Ave to 26th St E until later today due to tree trimming. Board at: Cedar Ave S & Franklin Ave E - Stop #40467 (southbound); Bloomington Ave S & 28th St E - Stop #15619 (southbound).
+**Summary**: Cedar Ave S & #2501 - Stop #15366 (southbound) is closed for Route 22 beginning Mon Nov 2 at 8:00 AM until further notice due to utility work. Board at: Cedar Ave S & 24th St E - Stop #15364 (southbound).
 
-> 💡 **Rider Action**: Board at: Cedar Ave S & Franklin Ave E - Stop #40467 (southbound); Bloomington Ave S & 28th St E - Stop #15619 (southbound)
-
-> 🔄 **Detour Path**: Southbound buses will travel regular route on Cedar Ave to Franklin Ave, right on Franklin Ave, left on Bloomington Ave, continue on Bloomington Ave to 26th St E and resume regular detour routing.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/22)
+> 💡 **Rider Action**: Board at: Cedar Ave S & 24th St E - Stop #15364 (southbound)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 22 detoured off Cedar Ave from Franklin Ave to 26th St E until later today due to tree trimming
+**Header**: Cedar Ave S & #2501 - Stop #15366 (southbound) is closed for Route 22 beginning Mon Nov 2 at 8:00 AM until further notice due to utility work
 
 ```text
 Get on/off buses at:
-Cedar Ave S & Franklin Ave E - Stop #40467 (southbound)
-Bloomington Ave S & 28th St E - Stop #15619 (southbound)
-
-Southbound buses will travel regular route on Cedar Ave to Franklin Ave, right on Franklin Ave, left on Bloomington Ave, continue on Bloomington Ave to 26th St E and resume regular detour routing.
-
-Northbound buses will follow regular detour routing.
-
-Affected stops:
 Cedar Ave S & 24th St E - Stop #15364 (southbound)
-Cedar Ave S & #2501 - Stop #15366 (southbound)
 ```
 
 </details>
@@ -3668,6 +3716,34 @@ Olive St W & Seeley St S - Stop #6595 (westbound)
 Olive St W & Pine Tree Trail - Stop #6596 (westbound)
 Stillwater Blvd & Fairmeadows Rd - Stop #6598 (southbound)
 Stillwater Blvd & Pine St W - Stop #6601 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 515: Stop Closed at 66th St W & Penn Ave S
+
+- **Affected Routes**: `Route 515`
+- **Direction**: Westbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 66th St W & Penn Ave S; 66th St W & Newton Ave S; 66th St W & Sheridan Ave S
+- **Closed Stops**: Stop #2192, Stop #2190, Stop #1804
+
+**Summary**: 66th St W & Penn Ave S - Stop #2192 (westbound) is closed for Route 515 until further notice. Board at: 66th St W & Newton Ave S - Stop #2190 (westbound); Temporary stop on 66th St W just past Penn Ave S (westbound); 66th St W & Sheridan Ave S - Stop #1804 (westbound).
+
+> 💡 **Rider Action**: Board at: 66th St W & Newton Ave S - Stop #2190 (westbound); Temporary stop on 66th St W just past Penn Ave S (westbound); 66th St W & Sheridan Ave S - Stop #1804 (westbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: 66th St W & Penn Ave S - Stop #2192 (westbound) is closed for Route 515 until further notice
+
+```text
+Get on/off buses at:
+66th St W & Newton Ave S - Stop #2190 (westbound)
+Temporary stop on 66th St W just past Penn Ave S (westbound)
+66th St W & Sheridan Ave S - Stop #1804 (westbound)
 ```
 
 </details>

@@ -4,59 +4,95 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Wed, 28 Oct 2026 15:54:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 20:56:31 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
+      <title>[Critical] Route 22: Southbound 3:42 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)</title>
+      <link>https://www.metrotransit.org/route/22</link>
+      <guid isPermaLink="false">Metro Transit-54709-2026-10-28T20:12:01.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 20:12:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 22</category>
+      <description>Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 3:42 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 22: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/22</link>
+      <guid isPermaLink="false">Metro Transit-54710-2026-10-28T19:46:46.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 19:46:46 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 22</category>
+      <description>Northbound Route 22 trip departing VA Medical Center at 5:31 PM will start from 7th &amp; Oak Lake. Previous stops missed</description>
+    </item>
+    <item>
       <title>[Critical] Route 30: Service Canceled</title>
       <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-54688-2026-10-28T15:53:19.000Z</guid>
-      <pubDate>Wed, 28 Oct 2026 15:53:19 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54688-2026-10-28T18:34:01.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 18:34:01 GMT</pubDate>
       <category>Critical</category>
       <category>Route 30</category>
       <description>Route 30 trip departing Westgate Station - Gate B at 2:04 PM and eight other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 54: Eastbound 9:26 AM Trip Canceled (MOA Transit Station Gate C)</title>
-      <link>https://www.metrotransit.org/route/54</link>
-      <guid isPermaLink="false">Metro Transit-54683-2026-10-28T14:55:26.000Z</guid>
-      <pubDate>Wed, 28 Oct 2026 14:55:26 GMT</pubDate>
+      <title>[Critical] Route 72: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/72</link>
+      <guid isPermaLink="false">Metro Transit-54691-2026-10-28T16:33:24.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 16:33:24 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 54</category>
-      <description>Eastbound Route 54 trip departing MOA Transit Station Gate C at 9:26 AM canceled</description>
+      <category>Route 72</category>
+      <description>Route 72 trip departing Sun Ray Transit Center &amp; Gate D at 5:48 PM and four other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 74: Eastbound 9:03 AM Trip Canceled (46th St Station &amp; Gate C)</title>
+      <title>[Critical] Route 74: Westbound 2:58 PM Trip Canceled (Sun Ray Transit Center &amp; Gate D)</title>
       <link>https://www.metrotransit.org/route/74</link>
-      <guid isPermaLink="false">Metro Transit-54681-2026-10-28T14:28:06.000Z</guid>
-      <pubDate>Wed, 28 Oct 2026 14:28:06 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54713-2026-10-28T20:18:00.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 20:18:00 GMT</pubDate>
       <category>Critical</category>
       <category>Route 74</category>
-      <description>Eastbound Route 74 trip departing 46th St Station &amp; Gate C at 9:03 AM canceled</description>
+      <description>Westbound Route 74 trip departing Sun Ray Transit Center &amp; Gate D at 2:58 PM canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Critical] Route 83: Service Canceled</title>
       <link>https://www.metrotransit.org/route/83</link>
-      <guid isPermaLink="false">Metro Transit-54687-2026-10-28T15:36:29.000Z</guid>
-      <pubDate>Wed, 28 Oct 2026 15:36:29 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54687-2026-10-28T17:15:01.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 17:15:01 GMT</pubDate>
       <category>Critical</category>
       <category>Route 83</category>
       <description>Route 83 trip departing Rosedale Transit Center Gate B at 12:45 PM and six other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 721: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/721</link>
-      <guid isPermaLink="false">Metro Transit-54682-2026-10-28T14:30:35.000Z</guid>
-      <pubDate>Wed, 28 Oct 2026 14:30:35 GMT</pubDate>
+      <title>[Critical] Route 363: 3:45 PM Trip Canceled (5th St Transit Center Gate D)</title>
+      <link>https://www.metrotransit.org/route/363</link>
+      <guid isPermaLink="false">Metro Transit-54711-2026-10-28T20:15:01.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 20:15:01 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 721</category>
-      <description>Route 721 trips departing Brooklyn Ctr Transit Ctr Gate A at 9:30 AM and departing Hennepin Technical College &amp; Main Door at 9:58 AM canceled today due to maintenance work</description>
+      <category>Route 363</category>
+      <description>Route 363 trip departing 5th St Transit Center Gate D at 3:45 PM canceled</description>
+    </item>
+    <item>
+      <title>[Critical] Route 467: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/467</link>
+      <guid isPermaLink="false">Metro Transit-54712-2026-10-28T20:07:01.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 20:07:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 467</category>
+      <description>Route 467 trips departing Gateway Ramp &amp; Platform at 3:37 PM and departing Gateway Ramp &amp; Platform at 5:07 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 542: Westbound 3:06 PM Trip Canceled (MOA Transit Station Gate G)</title>
+      <link>https://www.metrotransit.org/route/542</link>
+      <guid isPermaLink="false">Metro Transit-54714-2026-10-28T20:30:37.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 20:30:37 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 542</category>
+      <description>Westbound Route 542 trip departing MOA Transit Station Gate G at 3:06 PM canceled today due to maintenance work</description>
     </item>
     <item>
       <title>[Critical] Route 802: Service Canceled</title>
       <link>https://www.metrotransit.org/route/802</link>
-      <guid isPermaLink="false">Metro Transit-54678-2026-10-28T14:07:55.000Z</guid>
-      <pubDate>Wed, 28 Oct 2026 14:07:55 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54678-2026-10-28T16:04:01.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 16:04:01 GMT</pubDate>
       <category>Critical</category>
       <category>Route 802</category>
       <description>Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today</description>
@@ -64,8 +100,8 @@
     <item>
       <title>[Critical] Route 805: Service Canceled</title>
       <link>https://www.metrotransit.org/route/805</link>
-      <guid isPermaLink="false">Metro Transit-54679-2026-10-28T14:08:45.000Z</guid>
-      <pubDate>Wed, 28 Oct 2026 14:08:45 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54679-2026-10-28T16:08:01.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 16:08:01 GMT</pubDate>
       <category>Critical</category>
       <category>Route 805</category>
       <description>Route 805 trip departing 1st Ave S &amp; Monroe St at 11:38 AM and six other trips canceled today</description>
@@ -242,15 +278,6 @@
       <description>Route 9 detoured off 25th St from 32nd Ave to 34th Ave beginning Tue Oct 6 at 7:00 AM until further notice due to construction. Board at: 25th St E &amp; 31st Ave S - Stop #16455 (eastbound); 25th St E &amp; 35th Ave S - Stop #16459 (eastbound). | Action: Board at: 25th St E &amp; 31st Ave S - Stop #16455 (eastbound); 25th St E &amp; 35th Ave S - Stop #16459 (eastbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 10, Route 25, Route 470: Stop Closed at 3rd Ave S &amp; 11th St S</title>
-      <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-54221-2026-10-27T12:00:03.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 12:00:03 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 10, Route 25, Route 470</category>
-      <description>3rd Ave S &amp; 11th St S - Stop #19277 (southbound) is closed for Routes 10, 25 and 470 beginning Tue Oct 20 at 7:00 AM until further notice due to utility work</description>
-    </item>
-    <item>
       <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
       <guid isPermaLink="false">Metro Transit-54465-2026-10-26T11:30:03.000Z</guid>
@@ -395,13 +422,13 @@
       <description>Route 22 detoured beginning off Lyndale Ave from Dowling Ave to 40th Tue Nov 3 at 7:00 AM until further notice due to tree trimming. Board at: Lyndale Ave N &amp; Lowry Ave N - Stop #81098 (northbound); Lyndale Ave N &amp; 41st Ave N - Stop #57196 (northbound). | Action: Board at: Lyndale Ave N &amp; Lowry Ave N - Stop #81098 (northbound); Lyndale Ave N &amp; 41st Ave N - Stop #57196 (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 22: Detour via Cedar Ave S &amp; Franklin Ave E</title>
-      <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-54675-2026-10-28T12:57:04.000Z</guid>
-      <pubDate>Wed, 28 Oct 2026 12:57:04 GMT</pubDate>
+      <title>[Moderate] Route 22: Stop Closed at Cedar Ave S &amp; 24th St E</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-54692-2026-10-28T16:59:01.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 16:59:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 22</category>
-      <description>Southbound Route 22 detoured off Cedar Ave from Franklin Ave to 26th St E until later today due to tree trimming. Board at: Cedar Ave S &amp; Franklin Ave E - Stop #40467 (southbound); Bloomington Ave S &amp; 28th St E - Stop #15619 (southbound). | Action: Board at: Cedar Ave S &amp; Franklin Ave E - Stop #40467 (southbound); Bloomington Ave S &amp; 28th St E - Stop #15619 (southbound)</description>
+      <description>Cedar Ave S &amp; #2501 - Stop #15366 (southbound) is closed for Route 22 beginning Mon Nov 2 at 8:00 AM until further notice due to utility work. Board at: Cedar Ave S &amp; 24th St E - Stop #15364 (southbound). | Action: Board at: Cedar Ave S &amp; 24th St E - Stop #15364 (southbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 25: Detour via Silver Lake Rd &amp; Co Rd</title>
@@ -753,6 +780,15 @@
       <category>Moderate</category>
       <category>Route 294</category>
       <description>Route 294 detoured off Stillwater Blvd from Pine St to Greeley St beginning at 9 PM until further notice due to construction. Board at: Stillwater Blvd &amp; Pine St W - Stop #47078 (northbound); Temporary Stop from Pine St W and Pine Trl St S; Temporary Stop from Pine St W and Seeley St S. | Action: Board at: Stillwater Blvd &amp; Pine St W - Stop #47078 (northbound); Temporary Stop from Pine St W and Pine Trl St S; Temporary Stop from Pine St W and Seeley St S</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 515: Stop Closed at 66th St W &amp; Penn Ave S</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-54693-2026-10-28T17:15:31.000Z</guid>
+      <pubDate>Wed, 28 Oct 2026 17:15:31 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 515</category>
+      <description>66th St W &amp; Penn Ave S - Stop #2192 (westbound) is closed for Route 515 until further notice. Board at: 66th St W &amp; Newton Ave S - Stop #2190 (westbound); Temporary stop on 66th St W just past Penn Ave S (westbound); 66th St W &amp; Sheridan Ave S - Stop #1804 (westbound). | Action: Board at: 66th St W &amp; Newton Ave S - Stop #2190 (westbound); Temporary stop on 66th St W just past Penn Ave S (westbound); 66th St W &amp; Sheridan Ave S - Stop #1804 (westbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 534: Detour via Lyndale Ave S &amp; 82nd St W</title>
