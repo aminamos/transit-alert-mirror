@@ -2,34 +2,34 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-109-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-11-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-97-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-106-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-6-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-99-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-1-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-73-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-71-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-28T20:56:31.057Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-29T00:46:43.955Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (1) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (9) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (3) • **Route 64** (6) • **Route 64D** (1) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (3) • **Route 83** (1) • **Route 94** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 363** (1) • **Route 467** (1) • **Route 515** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (2) • **Route 805** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (1) • **Route 11** (3) • **Route 14** (1) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (8) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (3) • **Route 64** (6) • **Route 64D** (1) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 83** (1) • **Route 94** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (2) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 22: Southbound 3:42 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)
+### 🚨 METRO E Line: Northbound 6:12 PM Trip Canceled (Southdale Transit Center - Gate A)
 
-- **Affected Routes**: `Route 22`
-- **Direction**: Southbound
+- **Affected Routes**: `METRO E Line`
+- **Direction**: Northbound
 - **Severity**: `Critical`
 
-**Summary**: Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 3:42 PM canceled today
+**Summary**: Northbound E Line trip departing Southdale Transit Center - Gate A at 6:12 PM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/22)
+[Official Agency Advisory](https://www.metrotransit.org/route/eline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 3:42 PM canceled today
+**Header**: Northbound E Line trip departing Southdale Transit Center - Gate A at 6:12 PM canceled today
 
 </details>
 
@@ -40,7 +40,7 @@
 - **Affected Routes**: `Route 22`
 - **Direction**: Northbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #12562, Stop #12566, Stop #12571, Stop #15444, Stop #15445, Stop #13219, Stop #15264, Stop #15268 *(+51 more)*
+- **Closed Stops**: Stop #12562, Stop #12566, Stop #12571, Stop #13219, Stop #15264, Stop #15268, Stop #15310, Stop #15313 *(+51 more)*
 
 **Summary**: Northbound Route 22 trip departing VA Medical Center at 5:31 PM will start from 7th & Oak Lake. Previous stops missed
 
@@ -92,6 +92,26 @@ departing Westgate Station - Gate B at 10:06 PM
 
 ---
 
+### 🚨 Route 36: Northbound 7:07 PM Trip Canceled (Johnson Ave & 78th St / Minnesota Dr)
+
+- **Affected Routes**: `Route 36`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #53866, Stop #6137, Stop #6138, Stop #6140, Stop #6201, Stop #6202, Stop #6203, Stop #6205 *(+33 more)*
+
+**Summary**: Northbound Route 36 trip departing Johnson Ave & 78th St / Minnesota Dr at 7:07 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/36)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 36 trip departing Johnson Ave & 78th St / Minnesota Dr at 7:07 PM canceled today
+
+</details>
+
+---
+
 ### 🚨 Route 72: Service Canceled
 
 - **Affected Routes**: `Route 72`
@@ -124,25 +144,6 @@ departing Sun Ray Transit Center & Gate D at 9:51 PM
 
 ---
 
-### 🚨 Route 74: Westbound 2:58 PM Trip Canceled (Sun Ray Transit Center & Gate D)
-
-- **Affected Routes**: `Route 74`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 74 trip departing Sun Ray Transit Center & Gate D at 2:58 PM canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/74)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 74 trip departing Sun Ray Transit Center & Gate D at 2:58 PM canceled today due to maintenance work
-
-</details>
-
----
-
 ### 🚨 Route 83: Service Canceled
 
 - **Affected Routes**: `Route 83`
@@ -169,131 +170,6 @@ departing Rosedale Transit Center Gate B at 12:45 PM
 departing Rosedale Transit Center Gate B at 2:15 PM
 departing Rosedale Transit Center Gate B at 4:12 PM
 departing Rosedale Transit Center Gate B at 6:16 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 363: 3:45 PM Trip Canceled (5th St Transit Center Gate D)
-
-- **Affected Routes**: `Route 363`
-- **Direction**: All
-- **Severity**: `Critical`
-
-**Summary**: Route 363 trip departing 5th St Transit Center Gate D at 3:45 PM canceled
-
-[Official Agency Advisory](https://www.metrotransit.org/route/363)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 363 trip departing 5th St Transit Center Gate D at 3:45 PM canceled
-
-</details>
-
----
-
-### 🚨 Route 467: Service Canceled
-
-- **Affected Routes**: `Route 467`
-- **Direction**: All
-- **Severity**: `Critical`
-
-**Summary**: Route 467 trips departing Gateway Ramp & Platform at 3:37 PM and departing Gateway Ramp & Platform at 5:07 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/467)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 467 trips departing Gateway Ramp & Platform at 3:37 PM and departing Gateway Ramp & Platform at 5:07 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 542: Westbound 3:06 PM Trip Canceled (MOA Transit Station Gate G)
-
-- **Affected Routes**: `Route 542`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 542 trip departing MOA Transit Station Gate G at 3:06 PM canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/542)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 542 trip departing MOA Transit Station Gate G at 3:06 PM canceled today due to maintenance work
-
-</details>
-
----
-
-### 🚨 Route 802: Service Canceled
-
-- **Affected Routes**: `Route 802`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/802)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate E at 11:34 AM
-departing Northtown Transit Ctr Gate E at 1:34 PM
-departing Northtown Transit Ctr Gate E at 3:34 PM
-departing Northtown Transit Ctr Gate E at 5:34 PM
-
-Affected southbound trips:
-departing Anoka Tech College & Main Entrance at 12:42 PM
-departing Anoka Tech College & Main Entrance at 2:42 PM
-departing Anoka Tech College & Main Entrance at 4:42 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 805: Service Canceled
-
-- **Affected Routes**: `Route 805`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
-departing 1st Ave S & Monroe St; 38 PM
-departing 1st Ave S & Monroe St; 36 PM
-departing 1st Ave S & Monroe St
-
-**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate D at 12:34 PM
-departing Northtown Transit Ctr Gate D at 2:34 PM
-departing Northtown Transit Ctr Gate D at 4:34 PM
-
-Affected southbound trips:
-departing 1st Ave S & Monroe St at 11:38 AM
-departing 1st Ave S & Monroe St at 1:38 PM
-departing 1st Ave S & Monroe St at 3:36 PM
-departing 1st Ave S & Monroe St at 5:38 PM
 ```
 
 </details>
@@ -1393,6 +1269,46 @@ Affected stops:
 Monroe St & Spring St NE - Stop #15486 (northbound)
 Monroe St & Spring St NE - Stop #15531 (southbound)
 7th St NE & Central Ave NE - Stop #15533 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 17: Detour via Eastbound Route 17 departing 36th St & Wooddale Ave
+
+- **Affected Routes**: `Route 17`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Eastbound Route 17 departing 36th St & Wooddale Ave; Ottawa Ave S & Minnetonka Blvd; Eastbound Route 17 departing 36th St & Wooddale Ave w; 36th St W & Park Center Blvd; 36th St W & Raleigh Ave
+- **Closed Stops**: 36th St W & Park Center Blvd (Stop #4735), 36th St W & Raleigh Ave (Stop #4736), Beltline Blvd & 35th St W (Stop #4738), Beltline Blvd & Park Glen Rd (Stop #4739), Beltline Blvd & Lynn Ave S (Stop #57303), Stop #56138, Stop #57309
+
+**Summary**: Eastbound Route 17 departing 36th St and Wooddale Ave detoured off Beltline Blvd from 36th St to Co Rd 25 until further notice. Board at: 36th St W & Wooddale/Yosemite Ave S - Stop #56138 (eastbound); Ottawa Ave S & Minnetonka Blvd - Stop #57309 (northbound).
+
+> 💡 **Rider Action**: Board at: 36th St W & Wooddale/Yosemite Ave S - Stop #56138 (eastbound); Ottawa Ave S & Minnetonka Blvd - Stop #57309 (northbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/17)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 17 departing 36th St and Wooddale Ave detoured off Beltline Blvd from 36th St to Co Rd 25 until further notice
+
+```text
+Get on/off buses at:
+36th St W & Wooddale/Yosemite Ave S - Stop #56138 (eastbound)
+Ottawa Ave S & Minnetonka Blvd - Stop #57309 (northbound)
+
+Eastbound Route 17 departing 36th St and Wooddale Ave will travel the regular route on 36th St to Hwy 100, right onto northbound Hwy 100, exit for Co Rd 25, right on Co Rd 25, left on Ottawa Ave, and resume the regular route.
+
+Westbound buses are not affected.
+
+Affected stops:
+36th St W & Park Center Blvd - Stop #4735 (eastbound)
+36th St W & Raleigh Ave - Stop #4736 (eastbound)
+Beltline Blvd & 35th St W - Stop #4738 (northbound)
+Beltline Blvd & Park Glen Rd - Stop #4739 (northbound)
+Beltline Blvd & Lynn Ave S - Stop #57303 (northbound)
 ```
 
 </details>
@@ -4072,6 +3988,43 @@ Affected stops:
 American Blvd & Lyndale Ave S - Stop #52216 (westbound)
 American Blvd W & Lyndale Av/Bryant Av S - Stop #56604 (westbound)
 American Blvd W & Fremont Ave S - Stop #57095 (westbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 542, Route 686, METRO D Line: Stop Closed at American Blvd & Portland Ave S
+
+- **Affected Routes**: `Route 542` `Route 686` `METRO D Line`
+- **Direction**: Southbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: American Blvd & Portland Ave S; American Blvd & 12th Ave S; American Blvd & Nicollet Ave S
+- **Closed Stops**: Stop #56920, Stop #4521, Stop #4524, Stop #51842, Stop #42318
+
+**Summary**: American & Chicago Station - Stop #56920 (eastbound) is closed for Routes 542, 686 and D Line from 7:30 AM to 6:00 PM on Fri Oct 30. Board at: American Blvd & Portland Ave S - Stop #4521 (eastbound); American Blvd & 12th Ave S - Stop #4524 (eastbound).
+
+> 💡 **Rider Action**: Board at: American Blvd & Portland Ave S - Stop #4521 (eastbound); American Blvd & 12th Ave S - Stop #4524 (eastbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: American & Chicago Station - Stop #56920 (eastbound) is closed for Routes 542, 686 and D Line from 7:30 AM to 6:00 PM on Fri Oct 30
+
+```text
+Get on/off Route 542 buses at:
+American Blvd & Portland Ave S - Stop #4521 (eastbound)
+American Blvd & 12th Ave S - Stop #4524 (eastbound)
+
+Get on/off Route 686 buses at:
+American Blvd & Nicollet Ave S - Stop #51842 (eastbound)
+American Blvd & 12th Ave S - Stop #4524 (eastbound)
+American & Bloomington Station - Stop #42318 (eastbound)
+
+Get on/off D Line buses at:
+Portland & 77th St Station - Stop #449 (southbound)
+American Blvd & 12th Ave S - Stop #4524 (eastbound)
+American & Bloomington Station - Stop #42318 (eastbound)
 ```
 
 </details>
