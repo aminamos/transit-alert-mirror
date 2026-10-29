@@ -4,63 +4,9 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Thu, 29 Oct 2026 00:46:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 06:56:12 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
-    <item>
-      <title>[Critical] METRO E Line: Northbound 6:12 PM Trip Canceled (Southdale Transit Center - Gate A)</title>
-      <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-54730-2026-10-28T23:13:32.000Z</guid>
-      <pubDate>Wed, 28 Oct 2026 23:13:32 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO E Line</category>
-      <description>Northbound E Line trip departing Southdale Transit Center - Gate A at 6:12 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 22: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-54710-2026-10-28T22:01:00.000Z</guid>
-      <pubDate>Wed, 28 Oct 2026 22:01:00 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 22</category>
-      <description>Northbound Route 22 trip departing VA Medical Center at 5:31 PM will start from 7th &amp; Oak Lake. Previous stops missed</description>
-    </item>
-    <item>
-      <title>[Critical] Route 30: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-54688-2026-10-28T18:34:01.000Z</guid>
-      <pubDate>Wed, 28 Oct 2026 18:34:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 30</category>
-      <description>Route 30 trip departing Westgate Station - Gate B at 2:04 PM and eight other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 36: Northbound 7:07 PM Trip Canceled (Johnson Ave &amp; 78th St / Minnesota Dr)</title>
-      <link>https://www.metrotransit.org/route/36</link>
-      <guid isPermaLink="false">Metro Transit-54731-2026-10-29T00:35:36.000Z</guid>
-      <pubDate>Thu, 29 Oct 2026 00:35:36 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 36</category>
-      <description>Northbound Route 36 trip departing Johnson Ave &amp; 78th St / Minnesota Dr at 7:07 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 72: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/72</link>
-      <guid isPermaLink="false">Metro Transit-54691-2026-10-28T22:18:00.000Z</guid>
-      <pubDate>Wed, 28 Oct 2026 22:18:00 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 72</category>
-      <description>Route 72 trip departing Sun Ray Transit Center &amp; Gate D at 5:48 PM and four other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 83: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/83</link>
-      <guid isPermaLink="false">Metro Transit-54687-2026-10-28T17:15:01.000Z</guid>
-      <pubDate>Wed, 28 Oct 2026 17:15:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 83</category>
-      <description>Route 83 trip departing Rosedale Transit Center Gate B at 12:45 PM and six other trips canceled today</description>
-    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -235,8 +181,8 @@
     <item>
       <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54465-2026-10-26T11:30:03.000Z</guid>
-      <pubDate>Mon, 26 Oct 2026 11:30:03 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54465-2026-10-29T05:00:01.000Z</guid>
+      <pubDate>Thu, 29 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 10, Route 11, Route 17, Route 18, Route 25</category>
       <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 11th St to 12th St from Mon Oct 26 at 7:00 AM to Fri Oct 30 at 4:00 PM due to construction. Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 9th St S - Stop #17992 (northbound). | Action: Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 9th St S - Stop #17992 (northbound)</description>
@@ -370,8 +316,8 @@
     <item>
       <title>[Moderate] Route 22: Detour via 7th St N &amp; Oak Lake Ave N</title>
       <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-54450-2026-10-28T05:00:01.000Z</guid>
-      <pubDate>Wed, 28 Oct 2026 05:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54450-2026-10-29T05:00:00.000Z</guid>
+      <pubDate>Thu, 29 Oct 2026 05:00:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 22</category>
       <description>Route 22 detoured off Lyndale Ave from Plymouth Ave to West Broadway Ave from 6:00 AM to 5:00 PM on Thu Oct 29 due to construction. Board at: 7th St N &amp; Oak Lake Ave N - Stop #57216 (northbound); Emerson &amp; Plymouth Station - Stop #8920 (northbound); Lyndale Ave N &amp; 23rd Ave N - Stop #11183 (northbound). | Action: Board at: 7th St N &amp; Oak Lake Ave N - Stop #57216 (northbound); Emerson &amp; Plymouth Station - Stop #8920 (northbound); Lyndale Ave N &amp; 23rd Ave N - Stop #11183 (northbound)</description>
@@ -451,8 +397,8 @@
     <item>
       <title>[Moderate] Route 38, Route 4: Stop Closed at Lyndale Ave S &amp; 33rd St W</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54492-2026-10-28T08:01:01.000Z</guid>
-      <pubDate>Wed, 28 Oct 2026 08:01:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54492-2026-10-29T06:30:02.000Z</guid>
+      <pubDate>Thu, 29 Oct 2026 06:30:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 38, Route 4</category>
       <description>Lyndale Ave S &amp; 33rd St W - Stop #40664 (southbound) is closed for Routes 4 and 38 beginning Thu Oct 29 at 2:00 AM until further notice due to utility work. Board at: Lyndale Ave S &amp; 31st St W - Stop #110 (southbound); Lyndale Ave S &amp; 35th St W - Stop #40668 (southbound). | Action: Board at: Lyndale Ave S &amp; 31st St W - Stop #110 (southbound); Lyndale Ave S &amp; 35th St W - Stop #40668 (southbound)</description>
@@ -541,8 +487,8 @@
     <item>
       <title>[Moderate] Route 63: Detour via Grand Ave &amp; Hamline Ave</title>
       <link>https://www.metrotransit.org/route/63</link>
-      <guid isPermaLink="false">Metro Transit-54680-2026-10-28T14:10:14.000Z</guid>
-      <pubDate>Wed, 28 Oct 2026 14:10:14 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54680-2026-10-29T05:00:01.000Z</guid>
+      <pubDate>Thu, 29 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 63</category>
       <description>Route 63 detoured off Grand Ave from Hamline Ave to Pascal St beginning Thu Oct 29 at 6:30 AM until further notice due to construction. Board at: Grand Ave &amp; Hamline Ave - Stop #3085 (westbound); Grand Ave &amp; Snelling Ave - Stop #3089 (westbound). | Action: Board at: Grand Ave &amp; Hamline Ave - Stop #3085 (westbound); Grand Ave &amp; Snelling Ave - Stop #3089 (westbound)</description>
@@ -676,8 +622,8 @@
     <item>
       <title>[Moderate] Route 156: Detour via Sunrise Dr &amp; 59th St W</title>
       <link>https://www.metrotransit.org/route/156</link>
-      <guid isPermaLink="false">Metro Transit-54677-2026-10-28T13:53:46.000Z</guid>
-      <pubDate>Wed, 28 Oct 2026 13:53:46 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54677-2026-10-29T05:00:01.000Z</guid>
+      <pubDate>Thu, 29 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 156</category>
       <description>Route 156 detoured off 60th St from Logan Ave to Morgan Ave beginning Wed Nov 4 at 7:30 AM until further notice due to tree trimming. Board at: Sunrise Dr &amp; 59th St W - Stop #1789 (westbound); 60th St W &amp; Penn Ave S - Stop #1034 (westbound). | Action: Board at: Sunrise Dr &amp; 59th St W - Stop #1789 (westbound); 60th St W &amp; Penn Ave S - Stop #1034 (westbound)</description>
@@ -829,8 +775,8 @@
     <item>
       <title>[Moderate] Route 542, Route 686, METRO D Line: Stop Closed at American Blvd &amp; Portland Ave S</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54721-2026-10-28T21:39:25.000Z</guid>
-      <pubDate>Wed, 28 Oct 2026 21:39:25 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54721-2026-10-29T05:00:01.000Z</guid>
+      <pubDate>Thu, 29 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 542, Route 686, METRO D Line</category>
       <description>American &amp; Chicago Station - Stop #56920 (eastbound) is closed for Routes 542, 686 and D Line from 7:30 AM to 6:00 PM on Fri Oct 30. Board at: American Blvd &amp; Portland Ave S - Stop #4521 (eastbound); American Blvd &amp; 12th Ave S - Stop #4524 (eastbound). | Action: Board at: American Blvd &amp; Portland Ave S - Stop #4521 (eastbound); American Blvd &amp; 12th Ave S - Stop #4524 (eastbound)</description>

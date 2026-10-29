@@ -2,179 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-106-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-6-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-100-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-99-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-1-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-71-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-68-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-29T00:46:43.955Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-29T06:56:12.945Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (1) • **Route 11** (3) • **Route 14** (1) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (8) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (3) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (3) • **Route 64** (6) • **Route 64D** (1) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 83** (1) • **Route 94** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (2) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (1) • **Route 11** (3) • **Route 14** (1) • **Route 17** (3) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (7) • **Route 25** (2) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (3) • **Route 64** (6) • **Route 64D** (1) • **Route 68** (4) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (2) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO E Line: Northbound 6:12 PM Trip Canceled (Southdale Transit Center - Gate A)
-
-- **Affected Routes**: `METRO E Line`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound E Line trip departing Southdale Transit Center - Gate A at 6:12 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/eline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound E Line trip departing Southdale Transit Center - Gate A at 6:12 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 22: Service Advisory
-
-- **Affected Routes**: `Route 22`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #12562, Stop #12566, Stop #12571, Stop #13219, Stop #15264, Stop #15268, Stop #15310, Stop #15313 *(+51 more)*
-
-**Summary**: Northbound Route 22 trip departing VA Medical Center at 5:31 PM will start from 7th & Oak Lake. Previous stops missed
-
-[Official Agency Advisory](https://www.metrotransit.org/route/22)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 22 trip departing VA Medical Center at 5:31 PM will start from 7th & Oak Lake. Previous stops missed
-
-</details>
-
----
-
-### 🚨 Route 30: Service Canceled
-
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 55 PM
-departing Knox Ave N & Golden Valley Rd; 54 PM
-departing Knox Ave N & Golden Valley Rd
-
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 2:04 PM and eight other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 30 trip departing Westgate Station - Gate B at 2:04 PM and eight other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Knox Ave N & Golden Valley Rd at 2:55 PM
-departing Knox Ave N & Golden Valley Rd at 4:54 PM
-departing Knox Ave N & Golden Valley Rd at 6:56 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 8:55 PM
-
-Affected westbound trips:
-departing Westgate Station - Gate B at 2:04 PM
-departing Westgate Station - Gate B at 4:04 PM
-departing Westgate Station - Gate B at 6:05 PM
-departing Westgate Station - Gate B at 8:06 PM
-departing Westgate Station - Gate B at 10:06 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 36: Northbound 7:07 PM Trip Canceled (Johnson Ave & 78th St / Minnesota Dr)
-
-- **Affected Routes**: `Route 36`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #53866, Stop #6137, Stop #6138, Stop #6140, Stop #6201, Stop #6202, Stop #6203, Stop #6205 *(+33 more)*
-
-**Summary**: Northbound Route 36 trip departing Johnson Ave & 78th St / Minnesota Dr at 7:07 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/36)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 36 trip departing Johnson Ave & 78th St / Minnesota Dr at 7:07 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 72: Service Canceled
-
-- **Affected Routes**: `Route 72`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Pascal St N & Central Ave W; 52 PM
-departing Pascal St N & Central Ave W
-
-**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 5:48 PM and four other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/72)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 5:48 PM and four other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Pascal St N & Central Ave W at 6:52 PM
-departing Pascal St N & Central Ave W at 8:53 PM
-
-Affected westbound trips:
-departing Sun Ray Transit Center & Gate D at 5:48 PM
-departing Sun Ray Transit Center & Gate D at 7:51 PM
-departing Sun Ray Transit Center & Gate D at 9:51 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 83: Service Canceled
-
-- **Affected Routes**: `Route 83`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 83 trip departing Rosedale Transit Center Gate B at 12:45 PM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/83)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 83 trip departing Rosedale Transit Center Gate B at 12:45 PM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Montreal Cir & Summit Brewing at 1:30 PM
-departing Montreal Cir & Summit Brewing at 3:01 PM
-departing Montreal Cir & Summit Brewing at 5:01 PM
-
-Affected southbound trips:
-departing Rosedale Transit Center Gate B at 12:45 PM
-departing Rosedale Transit Center Gate B at 2:15 PM
-departing Rosedale Transit Center Gate B at 4:12 PM
-departing Rosedale Transit Center Gate B at 6:16 PM
-```
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 

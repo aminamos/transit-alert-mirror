@@ -1,583 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-29T00:46:43.955Z",
-    "totalAlerts": 106,
-    "criticalCount": 6,
+    "generatedAt": "2026-10-29T06:56:12.945Z",
+    "totalAlerts": 100,
+    "criticalCount": 0,
     "moderateCount": 99,
     "minorCount": 1,
-    "affectedRoutesCount": 71,
+    "affectedRoutesCount": 68,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "54730",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO E Line: Northbound 6:12 PM Trip Canceled (Southdale Transit Center - Gate A)",
-      "summary": "Northbound E Line trip departing Southdale Transit Center - Gate A at 6:12 PM canceled today",
-      "affectedRoutes": [
-        "METRO E Line"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-28T23:13:00.000Z",
-        "end": "2026-10-29T01:11:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-10-28T23:13:32.000Z",
-      "rawHeader": "Northbound E Line trip departing Southdale Transit Center - Gate A at 6:12 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "54710",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 22: Service Advisory",
-      "summary": "Northbound Route 22 trip departing VA Medical Center at 5:31 PM will start from 7th & Oak Lake. Previous stops missed",
-      "affectedRoutes": [
-        "Route 22"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [
-        "12562",
-        "12566",
-        "12571",
-        "13219",
-        "15264",
-        "15268",
-        "15310",
-        "15313",
-        "17618",
-        "16325",
-        "15618",
-        "15625",
-        "15626",
-        "15444",
-        "15445",
-        "19471",
-        "19475",
-        "19479",
-        "19482",
-        "19487",
-        "19491",
-        "19495",
-        "19499",
-        "19502",
-        "19507",
-        "19511",
-        "19294",
-        "19295",
-        "19296",
-        "19301",
-        "19302",
-        "19304",
-        "19306",
-        "19426",
-        "19434",
-        "19436",
-        "17901",
-        "17902",
-        "17903",
-        "2875",
-        "4308",
-        "4442",
-        "4444",
-        "4558",
-        "4559",
-        "4662",
-        "4445",
-        "4447",
-        "51541",
-        "51564",
-        "56930",
-        "57362",
-        "57192",
-        "57194",
-        "53765",
-        "4509",
-        "53941",
-        "81110",
-        "81125"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "12562"
-        },
-        {
-          "id": "12566"
-        },
-        {
-          "id": "12571"
-        },
-        {
-          "id": "13219"
-        },
-        {
-          "id": "15264"
-        },
-        {
-          "id": "15268"
-        },
-        {
-          "id": "15310"
-        },
-        {
-          "id": "15313"
-        },
-        {
-          "id": "17618"
-        },
-        {
-          "id": "16325"
-        },
-        {
-          "id": "15618"
-        },
-        {
-          "id": "15625"
-        },
-        {
-          "id": "15626"
-        },
-        {
-          "id": "15444"
-        },
-        {
-          "id": "15445"
-        },
-        {
-          "id": "19471"
-        },
-        {
-          "id": "19475"
-        },
-        {
-          "id": "19479"
-        },
-        {
-          "id": "19482"
-        },
-        {
-          "id": "19487"
-        },
-        {
-          "id": "19491"
-        },
-        {
-          "id": "19495"
-        },
-        {
-          "id": "19499"
-        },
-        {
-          "id": "19502"
-        },
-        {
-          "id": "19507"
-        },
-        {
-          "id": "19511"
-        },
-        {
-          "id": "19294"
-        },
-        {
-          "id": "19295"
-        },
-        {
-          "id": "19296"
-        },
-        {
-          "id": "19301"
-        },
-        {
-          "id": "19302"
-        },
-        {
-          "id": "19304"
-        },
-        {
-          "id": "19306"
-        },
-        {
-          "id": "19426"
-        },
-        {
-          "id": "19434"
-        },
-        {
-          "id": "19436"
-        },
-        {
-          "id": "17901"
-        },
-        {
-          "id": "17902"
-        },
-        {
-          "id": "17903"
-        },
-        {
-          "id": "2875"
-        },
-        {
-          "id": "4308"
-        },
-        {
-          "id": "4442"
-        },
-        {
-          "id": "4444"
-        },
-        {
-          "id": "4558"
-        },
-        {
-          "id": "4559"
-        },
-        {
-          "id": "4662"
-        },
-        {
-          "id": "4445"
-        },
-        {
-          "id": "4447"
-        },
-        {
-          "id": "51541"
-        },
-        {
-          "id": "51564"
-        },
-        {
-          "id": "56930"
-        },
-        {
-          "id": "57362"
-        },
-        {
-          "id": "57192"
-        },
-        {
-          "id": "57194"
-        },
-        {
-          "id": "53765"
-        },
-        {
-          "id": "4509"
-        },
-        {
-          "id": "53941"
-        },
-        {
-          "id": "81110"
-        },
-        {
-          "id": "81125"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-28T22:31:00.000Z",
-        "end": "2026-10-29T00:56:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-10-28T22:01:00.000Z",
-      "rawHeader": "Northbound Route 22 trip departing VA Medical Center at 5:31 PM will start from 7th & Oak Lake. Previous stops missed",
-      "rawDescription": ""
-    },
-    {
-      "id": "54688",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 30: Service Canceled",
-      "summary": "Route 30 trip departing Westgate Station - Gate B at 2:04 PM and eight other trips canceled today",
-      "affectedRoutes": [
-        "Route 30"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing Knox Ave N & Golden Valley Rd",
-        "55 PM\ndeparting Knox Ave N & Golden Valley Rd",
-        "54 PM\ndeparting Knox Ave N & Golden Valley Rd"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-28T19:04:00.000Z",
-        "end": "2026-10-29T04:47:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-10-28T18:34:01.000Z",
-      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 2:04 PM and eight other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 2:55 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 4:54 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 6:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 8:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 2:04 PM\r\ndeparting Westgate Station - Gate B at 4:04 PM\r\ndeparting Westgate Station - Gate B at 6:05 PM\r\ndeparting Westgate Station - Gate B at 8:06 PM\r\ndeparting Westgate Station - Gate B at 10:06 PM"
-    },
-    {
-      "id": "54731",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 36: Northbound 7:07 PM Trip Canceled (Johnson Ave & 78th St / Minnesota Dr)",
-      "summary": "Northbound Route 36 trip departing Johnson Ave & 78th St / Minnesota Dr at 7:07 PM canceled today",
-      "affectedRoutes": [
-        "Route 36"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [
-        "53866",
-        "6137",
-        "6138",
-        "6140",
-        "6201",
-        "6202",
-        "6203",
-        "6205",
-        "6206",
-        "6237",
-        "6239",
-        "6241",
-        "6242",
-        "6243",
-        "6245",
-        "6246",
-        "6247",
-        "6249",
-        "57539",
-        "53705",
-        "53156",
-        "50160",
-        "50601",
-        "42216",
-        "44199",
-        "44393",
-        "41096",
-        "41097",
-        "3785",
-        "3790",
-        "3794",
-        "1322",
-        "2029",
-        "1815",
-        "17040",
-        "1311",
-        "1312",
-        "1313",
-        "1316",
-        "1318",
-        "1321"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "53866"
-        },
-        {
-          "id": "6137"
-        },
-        {
-          "id": "6138"
-        },
-        {
-          "id": "6140"
-        },
-        {
-          "id": "6201"
-        },
-        {
-          "id": "6202"
-        },
-        {
-          "id": "6203"
-        },
-        {
-          "id": "6205"
-        },
-        {
-          "id": "6206"
-        },
-        {
-          "id": "6237"
-        },
-        {
-          "id": "6239"
-        },
-        {
-          "id": "6241"
-        },
-        {
-          "id": "6242"
-        },
-        {
-          "id": "6243"
-        },
-        {
-          "id": "6245"
-        },
-        {
-          "id": "6246"
-        },
-        {
-          "id": "6247"
-        },
-        {
-          "id": "6249"
-        },
-        {
-          "id": "57539"
-        },
-        {
-          "id": "53705"
-        },
-        {
-          "id": "53156"
-        },
-        {
-          "id": "50160"
-        },
-        {
-          "id": "50601"
-        },
-        {
-          "id": "42216"
-        },
-        {
-          "id": "44199"
-        },
-        {
-          "id": "44393"
-        },
-        {
-          "id": "41096"
-        },
-        {
-          "id": "41097"
-        },
-        {
-          "id": "3785"
-        },
-        {
-          "id": "3790"
-        },
-        {
-          "id": "3794"
-        },
-        {
-          "id": "1322"
-        },
-        {
-          "id": "2029"
-        },
-        {
-          "id": "1815"
-        },
-        {
-          "id": "17040"
-        },
-        {
-          "id": "1311"
-        },
-        {
-          "id": "1312"
-        },
-        {
-          "id": "1313"
-        },
-        {
-          "id": "1316"
-        },
-        {
-          "id": "1318"
-        },
-        {
-          "id": "1321"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-29T00:35:00.000Z",
-        "end": "2026-10-29T01:47:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/36",
-      "updatedAt": "2026-10-29T00:35:36.000Z",
-      "rawHeader": "Northbound Route 36 trip departing Johnson Ave & 78th St / Minnesota Dr at 7:07 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "54691",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 72: Service Canceled",
-      "summary": "Route 72 trip departing Sun Ray Transit Center & Gate D at 5:48 PM and four other trips canceled today",
-      "affectedRoutes": [
-        "Route 72"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing Pascal St N & Central Ave W",
-        "52 PM\ndeparting Pascal St N & Central Ave W"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-28T22:48:00.000Z",
-        "end": "2026-10-29T04:35:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-10-28T22:18:00.000Z",
-      "rawHeader": "Route 72 trip departing Sun Ray Transit Center & Gate D at 5:48 PM and four other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 6:52 PM\r\ndeparting Pascal St N & Central Ave W at 8:53 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 5:48 PM\r\ndeparting Sun Ray Transit Center & Gate D at 7:51 PM\r\ndeparting Sun Ray Transit Center & Gate D at 9:51 PM"
-    },
-    {
-      "id": "54687",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 83: Service Canceled",
-      "summary": "Route 83 trip departing Rosedale Transit Center Gate B at 12:45 PM and six other trips canceled today",
-      "affectedRoutes": [
-        "Route 83"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-28T17:45:00.000Z",
-        "end": "2026-10-29T00:52:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/83",
-      "updatedAt": "2026-10-28T17:15:01.000Z",
-      "rawHeader": "Route 83 trip departing Rosedale Transit Center Gate B at 12:45 PM and six other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Montreal Cir & Summit Brewing at 1:30 PM\r\ndeparting Montreal Cir & Summit Brewing at 3:01 PM\r\ndeparting Montreal Cir & Summit Brewing at 5:01 PM\r\n\nAffected southbound trips:\r\ndeparting Rosedale Transit Center Gate B at 12:45 PM\r\ndeparting Rosedale Transit Center Gate B at 2:15 PM\r\ndeparting Rosedale Transit Center Gate B at 4:12 PM\r\ndeparting Rosedale Transit Center Gate B at 6:16 PM"
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -1984,7 +1417,7 @@
       },
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
-      "updatedAt": "2026-10-26T11:30:03.000Z",
+      "updatedAt": "2026-10-29T05:00:01.000Z",
       "rawHeader": "Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 11th St to 12th St from Mon Oct 26 at 7:00 AM to Fri Oct 30 at 4:00 PM due to construction",
       "rawDescription": "Note: This detour will only be in effect when the road is blocked. If road is open, buses will follow regular route.\r\n\nGet on/off northbound/eastbound buses at:\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\n\nNo southbound/westbound stops missed.\r\n\nNorthbound/eastbound buses will travel regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume regular route.\r\n\nSouthbound/westbound buses will travel regular route on Nicollet Mall to 11th St, right on 11th St, left on LaSalle Ave, left on 12th St, right on Nicollet Mall, and resume regular route.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)"
     },
@@ -3160,7 +2593,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-10-28T05:00:01.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z",
       "rawHeader": "Route 22 detoured off Lyndale Ave from Plymouth Ave to West Broadway Ave from 6:00 AM to 5:00 PM on Thu Oct 29 due to construction",
       "rawDescription": "For northbound Route 22 get on/off buses at:\r\n7th St N & Oak Lake Ave N - Stop #57216 (northbound)\r\nEmerson & Plymouth Station - Stop #8920 (northbound)\r\nLyndale Ave N & 23rd Ave N - Stop #11183 (northbound)\r\n\nFor southbound Route 22 get on/off buses at:\r\nLyndale Ave N & West Broadway - Stop #11652 (southbound)\r\n7th St N & Oak Lake Ave - Stop #51791 (southbound)\r\n\nNorthbound buses will travel regular route on Lyndale Ave to Plymouth Ave, left on Plymouth, right on Emerson Ave, right on West Broadway Ave, left on Lyndale Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on Lyndale Ave to West Broadway Ave, right on West Broadway, left on Fremont Ave, left on Plymouth Ave, right on Lyndale Ave, and resume regular route.\r\n\nAffected stops:\r\nLyndale Ave N & Plymouth Ave N - Stop #57195 (northbound)\r\nLyndale Ave N & 14th Ave / 18th Ave N - Stop #11178 (northbound)\r\nLyndale Ave N & 18th Ave N - Stop #11179 (northbound)\r\nLyndale Ave N & West Broadway - Stop #11180 (northbound)\r\nLyndale Ave N & 18th Ave N - Stop #11653 (southbound)\r\nLyndale Ave N & 18th Ave / 14th Ave N - Stop #11654 (southbound)\r\nLyndale Ave N & Plymouth Ave - Stop #11656 (southbound)"
     },
@@ -3708,7 +3141,7 @@
       },
       "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-28T08:01:01.000Z",
+      "updatedAt": "2026-10-29T06:30:02.000Z",
       "rawHeader": "Lyndale Ave S & 33rd St W - Stop #40664 (southbound) is closed for Routes 4 and 38 beginning Thu Oct 29 at 2:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off buses at:\r\nLyndale Ave S & 31st St W - Stop #110 (southbound)\r\nLyndale Ave S & 35th St W - Stop #40668 (southbound)"
     },
@@ -4584,7 +4017,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/63",
-      "updatedAt": "2026-10-28T14:10:14.000Z",
+      "updatedAt": "2026-10-29T05:00:01.000Z",
       "rawHeader": "Route 63 detoured off Grand Ave from Hamline Ave to Pascal St beginning Thu Oct 29 at 6:30 AM until further notice due to construction",
       "rawDescription": "Get on/off westbound buses at:\r\nGrand Ave & Hamline Ave - Stop #3085 (westbound)\r\nGrand Ave & Snelling Ave - Stop #3089 (westbound)\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on Grand Ave to Hamline Ave, right on Hamline Ave, left on Summit Ave, left on Pascal St, right on Grand Ave and resume regular route.\r\n\nAffected direction: Westbound\r\n\nAffected stops:\r\nGrand Ave & Pascal St - Stop #3087 (westbound)"
     },
@@ -5676,7 +5109,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/156",
-      "updatedAt": "2026-10-28T13:53:46.000Z",
+      "updatedAt": "2026-10-29T05:00:01.000Z",
       "rawHeader": "Route 156 detoured off 60th St from Logan Ave to Morgan Ave beginning Wed Nov 4 at 7:30 AM until further notice due to tree trimming",
       "rawDescription": "Please note buses will only detour if the road is closed.\r\n\nGet on/off buses at:\r\nSunrise Dr & 59th St W - Stop #1789 (westbound)\r\n60th St W & Penn Ave S - Stop #1034 (westbound)\r\n\nNorthbound buses will travel regular route on 60th St to Logan Ave, left on Logan Ave, right on 61st St, right on Morgan Ave, left on 60th St and resume regular route.\r\n\nSouthbound buses will travel regular route on 60th St to Morgan Ave, right on Morgan Ave, left on 61st St, left on Logan Ave, right on 60th St and resume regular route.\r\n\nAffected stops:\r\n60th St W & Morgan Ave S - Stop #1792 (westbound)"
     },
@@ -6872,7 +6305,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-28T21:39:25.000Z",
+      "updatedAt": "2026-10-29T05:00:01.000Z",
       "rawHeader": "American & Chicago Station - Stop #56920 (eastbound) is closed for Routes 542, 686 and D Line from 7:30 AM to 6:00 PM on Fri Oct 30",
       "rawDescription": "Get on/off Route 542 buses at:\r\nAmerican Blvd & Portland Ave S - Stop #4521 (eastbound)\r\nAmerican Blvd & 12th Ave S - Stop #4524 (eastbound)\r\n\nGet on/off Route 686 buses at:\r\nAmerican Blvd & Nicollet Ave S - Stop #51842 (eastbound)\r\nAmerican Blvd & 12th Ave S - Stop #4524 (eastbound)\r\nAmerican & Bloomington Station - Stop #42318 (eastbound)\r\n\nGet on/off D Line buses at:\r\nPortland & 77th St Station - Stop #449 (southbound)\r\nAmerican Blvd & 12th Ave S - Stop #4524 (eastbound)\r\nAmerican & Bloomington Station - Stop #42318 (eastbound)"
     },
