@@ -2,68 +2,79 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-99-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-95-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-1-lightgrey)](#-minor-advisories)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-103-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-9-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-92-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-2-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-69-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-30T14:00:24.609Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-30T19:54:01.707Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO G Line** (2) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (1) • **Route 11** (2) • **Route 17** (4) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 38** (2) • **Route 46** (1) • **Route 46A** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (3) • **Route 64** (6) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (3) • **Route 75** (1) • **Route 94** (1) • **Route 156** (2) • **Route 215** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 515** (2) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (2) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO G Line** (2) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (2) • **Route 7** (3) • **Route 9** (6) • **Route 10** (1) • **Route 11** (2) • **Route 17** (2) • **Route 17W** (1) • **Route 18** (5) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 38** (3) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (3) • **Route 64** (6) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (2) • **Route 215** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 515** (1) • **Route 534** (2) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (2) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (2) • **Route 805** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
+
+### 🚨 Route 10: Service Canceled
+
+- **Affected Routes**: `Route 10`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 10 trips departing Leamington Ramp & Lower - Gate #7 at 2:51 PM and departing Northtown Transit Ctr Gate A at 4:16 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/10)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 10 trips departing Leamington Ramp & Lower - Gate #7 at 2:51 PM and departing Northtown Transit Ctr Gate A at 4:16 PM canceled today
+
+</details>
+
+---
 
 ### 🚨 Route 30: Service Canceled
 
 - **Affected Routes**: `Route 30`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: 53 AM
-departing Knox Ave N & Golden Valley Rd; 56 AM
+- **Corridors & Intersections**: Route 30 trip departing Knox Ave N & Golden Valley Rd; departing Knox Ave N & Golden Valley Rd; 56 AM
+departing Knox Ave N & Golden Valley Rd; 56 PM
+departing Knox Ave N & Golden Valley Rd; 54 PM
 departing Knox Ave N & Golden Valley Rd
 
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today
+**Summary**: Route 30 trip departing Knox Ave N & Golden Valley Rd at 9:56 AM and thirteen other trips canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/30)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today
+**Header**: Route 30 trip departing Knox Ave N & Golden Valley Rd at 9:56 AM and thirteen other trips canceled today
 
 ```text
+Updated at 11:26 AM to cancel additional trips.
+
 Affected eastbound trips:
-departing Golden Valley Rd Turn & Xerxes Ave N at 7:53 AM
 departing Knox Ave N & Golden Valley Rd at 9:56 AM
 departing Knox Ave N & Golden Valley Rd at 11:56 AM
+departing Knox Ave N & Golden Valley Rd at 1:56 PM
+departing Knox Ave N & Golden Valley Rd at 3:54 PM
+departing Knox Ave N & Golden Valley Rd at 5:56 PM
+departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM
+departing Golden Valley Rd Turn & Xerxes Ave N at 8:55 PM
 
 Affected westbound trips:
-departing Westgate Station - Gate B at 7:07 AM
-departing Westgate Station - Gate B at 9:06 AM
 departing Westgate Station - Gate B at 11:04 AM
+departing Westgate Station - Gate B at 1:04 PM
+departing Westgate Station - Gate B at 3:04 PM
+departing Westgate Station - Gate B at 5:04 PM
+departing Westgate Station - Gate B at 7:05 PM
+departing Westgate Station - Gate B at 8:06 PM
+departing Westgate Station - Gate B at 10:06 PM
 ```
-
-</details>
-
----
-
-### 🚨 Route 46, Route 46A: Eastbound 8:30 AM Trip Canceled (Eden-Vernon Busway & Sherwood/Vernon Ave)
-
-- **Affected Routes**: `Route 46` `Route 46A`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-
-**Summary**: Eastbound Route 46A trip departing Eden-Vernon Busway & Sherwood/Vernon Ave at 8:30 AM canceled due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/46)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 46A trip departing Eden-Vernon Busway & Sherwood/Vernon Ave at 8:30 AM canceled due to mechanical issue
 
 </details>
 
@@ -98,6 +109,199 @@ Affected westbound trips:
 departing Sun Ray Transit Center & Gate D at 8:17 AM
 departing Sun Ray Transit Center & Gate D at 10:20 AM
 departing Sun Ray Transit Center & Gate D at 12:20 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 72: Service Canceled
+
+- **Affected Routes**: `Route 72`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing Pascal St N & Central Ave W; 50 PM
+departing Pascal St N & Central Ave W; 23 PM
+departing Pascal St N & Central Ave W; 53 PM
+departing Pascal St N & Central Ave W
+
+**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 4:48 PM and eight other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/72)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 4:48 PM and eight other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Pascal St N & Central Ave W at 5:50 PM
+departing Pascal St N & Central Ave W at 7:23 PM
+departing Pascal St N & Central Ave W at 7:53 PM
+departing Pascal St N & Central Ave W at 9:23 PM
+departing Pascal St N & Central Ave W at 9:53 PM
+
+Affected westbound trips:
+departing Sun Ray Transit Center & Gate D at 4:48 PM
+departing Sun Ray Transit Center & Gate D at 6:51 PM
+departing Sun Ray Transit Center & Gate D at 8:21 PM
+departing Sun Ray Transit Center & Gate D at 8:51 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 83: Service Canceled
+
+- **Affected Routes**: `Route 83`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 83 trip departing Montreal Cir & Summit Brewing at 12:01 PM and seven other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/83)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 83 trip departing Montreal Cir & Summit Brewing at 12:01 PM and seven other trips canceled today
+
+```text
+Affected northbound trips:
+departing Montreal Cir & Summit Brewing at 12:01 PM
+departing Montreal Cir & Summit Brewing at 1:30 PM
+departing Montreal Cir & Summit Brewing at 3:01 PM
+departing Montreal Cir & Summit Brewing at 5:01 PM
+
+Affected southbound trips:
+departing Rosedale Transit Center Gate B at 12:45 PM
+departing Rosedale Transit Center Gate B at 2:15 PM
+departing Rosedale Transit Center Gate B at 4:12 PM
+departing Rosedale Transit Center Gate B at 6:16 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 515: Westbound 1:44 PM Trip Canceled (MOA Transit Station Gate E)
+
+- **Affected Routes**: `Route 515`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 515 trip departing MOA Transit Station Gate E at 1:44 PM canceled
+
+[Official Agency Advisory](https://www.metrotransit.org/route/515)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 515 trip departing MOA Transit Station Gate E at 1:44 PM canceled
+
+</details>
+
+---
+
+### 🚨 Route 534: Westbound 2:15 PM Trip Canceled (I-35W & 98th Street Station Gate D)
+
+- **Affected Routes**: `Route 534`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 534 trip departing I-35W & 98th Street Station Gate D at 2:15 PM canceled today due to disabled bus
+
+[Official Agency Advisory](https://www.metrotransit.org/route/534)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 534 trip departing I-35W & 98th Street Station Gate D at 2:15 PM canceled today due to disabled bus
+
+</details>
+
+---
+
+### 🚨 Route 802: Service Canceled
+
+- **Affected Routes**: `Route 802`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and thirteen other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/802)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and thirteen other trips canceled today
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate E at 11:34 AM
+departing Northtown Transit Ctr Gate E at 12:34 PM
+departing Northtown Transit Ctr Gate E at 1:34 PM
+departing Northtown Transit Ctr Gate E at 2:34 PM
+departing Northtown Transit Ctr Gate E at 3:34 PM
+departing Northtown Transit Ctr Gate E at 4:34 PM
+departing Northtown Transit Ctr Gate E at 5:34 PM
+
+Affected southbound trips:
+departing Anoka Tech College & Main Entrance at 11:43 AM
+departing Anoka Tech College & Main Entrance at 12:42 PM
+departing Anoka Tech College & Main Entrance at 1:42 PM
+departing Anoka Tech College & Main Entrance at 2:42 PM
+departing Anoka Tech College & Main Entrance at 3:42 PM
+departing Anoka Tech College & Main Entrance at 4:42 PM
+departing Anoka Tech College & Main Entrance at 5:45 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 805: Service Canceled
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing 1st Ave S & Monroe St; 38 AM
+departing 1st Ave S & Monroe St; 38 PM
+departing 1st Ave S & Monroe St; 36 PM
+departing 1st Ave S & Monroe St
+
+**Summary**: Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and thirteen other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and thirteen other trips canceled today
+
+```text
+Updated at 11:17 AM to cancel additional trips.
+
+Affected northbound trips:
+departing Northtown Transit Ctr Gate D at 11:34 AM
+departing Northtown Transit Ctr Gate D at 12:34 PM
+departing Northtown Transit Ctr Gate D at 1:34 PM
+departing Northtown Transit Ctr Gate D at 2:34 PM
+departing Northtown Transit Ctr Gate D at 3:34 PM
+departing Northtown Transit Ctr Gate D at 4:34 PM
+departing Northtown Transit Ctr Gate D at 5:34 PM
+
+Affected southbound trips:
+departing 1st Ave S & Monroe St at 11:38 AM
+departing 1st Ave S & Monroe St at 12:38 PM
+departing 1st Ave S & Monroe St at 1:38 PM
+departing 1st Ave S & Monroe St at 2:36 PM
+departing 1st Ave S & Monroe St at 3:36 PM
+departing 1st Ave S & Monroe St at 4:36 PM
+departing 1st Ave S & Monroe St at 5:38 PM
 ```
 
 </details>
@@ -186,7 +390,7 @@ Ford & Fairview Station - Stop #56113 (eastbound)
 - **Affected Routes**: `METRO Blue Line`
 - **Direction**: All
 - **Severity**: `Moderate`
-- **Closed Stops**: Stop #51412, Stop #51427
+- **Closed Stops**: Stop #51427, Stop #51412
 
 **Summary**: Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues
 
@@ -199,43 +403,6 @@ Ford & Fairview Station - Stop #56113 (eastbound)
 
 ```text
 Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station.
-```
-
-</details>
-
----
-
-### ⚠️ METRO D Line, Route 542, Route 686: Stop Closed at American Blvd & Portland Ave S
-
-- **Affected Routes**: `METRO D Line` `Route 542` `Route 686`
-- **Direction**: Southbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: American Blvd & Portland Ave S; American Blvd & 12th Ave S; American Blvd & Nicollet Ave S
-- **Closed Stops**: Stop #56920, Stop #4521, Stop #4524, Stop #51842, Stop #42318
-
-**Summary**: American & Chicago Station - Stop #56920 (eastbound) is closed for Routes 542, 686 and D Line from 7:30 AM to 6:00 PM on Fri Oct 30. Board at: American Blvd & Portland Ave S - Stop #4521 (eastbound); American Blvd & 12th Ave S - Stop #4524 (eastbound).
-
-> 💡 **Rider Action**: Board at: American Blvd & Portland Ave S - Stop #4521 (eastbound); American Blvd & 12th Ave S - Stop #4524 (eastbound)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: American & Chicago Station - Stop #56920 (eastbound) is closed for Routes 542, 686 and D Line from 7:30 AM to 6:00 PM on Fri Oct 30
-
-```text
-Get on/off Route 542 buses at:
-American Blvd & Portland Ave S - Stop #4521 (eastbound)
-American Blvd & 12th Ave S - Stop #4524 (eastbound)
-
-Get on/off Route 686 buses at:
-American Blvd & Nicollet Ave S - Stop #51842 (eastbound)
-American Blvd & 12th Ave S - Stop #4524 (eastbound)
-American & Bloomington Station - Stop #42318 (eastbound)
-
-Get on/off D Line buses at:
-Portland & 77th St Station - Stop #449 (southbound)
-American Blvd & 12th Ave S - Stop #4524 (eastbound)
-American & Bloomington Station - Stop #42318 (eastbound)
 ```
 
 </details>
@@ -935,39 +1102,41 @@ Main St NE & 35th Ave NE - Stop #14614 (northbound)
 
 ---
 
-### ⚠️ Route 11, Route 18, Route 25, Route 17, Route 10: Detour via Regular Corridor
+### ⚠️ Route 11: Detour via Nicollet Ave S & 46th St E
 
-- **Affected Routes**: `Route 11` `Route 18` `Route 25` `Route 17` `Route 10`
+- **Affected Routes**: `Route 11`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Closed Stops**: Nicollet Mall & 11th St S (Stop #17990), Stop #17988, Stop #17992
+- **Corridors & Intersections**: Nicollet Ave S & 46th St E; 46th St & I-35w - St; Nicollet Ave S & 44th St E; Nicollet Ave (45th St to 44th St)
+- **Closed Stops**: Nicollet Ave S & 44th St E (Stop #1874), Stop #51828, Stop #53545
 
-**Summary**: Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 11th St to 12th St from Mon Oct 26 at 7:00 AM to Fri Oct 30 at 4:00 PM due to construction. Board at: Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall & 9th St S - Stop #17992 (northbound).
+**Summary**: Route 11 detoured off Nicollet Ave from 45th St to 44th St until later today due to fire. Board at: Nicollet Ave S & 46th St E - Stop #51828 (northbound); 46th St & I-35W - Stop #53545 (eastbound).
 
-> 💡 **Rider Action**: Board at: Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall & 9th St S - Stop #17992 (northbound)
+> 💡 **Rider Action**: Board at: Nicollet Ave S & 46th St E - Stop #51828 (northbound); 46th St & I-35W - Stop #53545 (eastbound)
 
-> 🔄 **Detour Path**: eastbound buses will travel regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume regular route.
+> 🔄 **Detour Path**: Northbound buses will travel regular route on Nicollet Ave to 4th St, right on 45th St, right on Stevens Ave and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/11)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 11th St to 12th St from Mon Oct 26 at 7:00 AM to Fri Oct 30 at 4:00 PM due to construction
+**Header**: Route 11 detoured off Nicollet Ave from 45th St to 44th St until later today due to fire
 
 ```text
-Note: This detour will only be in effect when the road is blocked. If road is open, buses will follow regular route.
+For northbound Route 11 get on/off buses at:
+Nicollet Ave S & 46th St E - Stop #51828 (northbound)
+46th St & I-35W - Stop #53545 (eastbound)
 
-Get on/off northbound/eastbound buses at:
-Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)
-Nicollet Mall & 9th St S - Stop #17992 (northbound)
+For southbound Route 11 get on/off buses at:
+Nicollet Ave S & 46th St E - Stop #51828 (northbound)
 
-No southbound/westbound stops missed.
+Northbound buses will travel regular route on Nicollet Ave to 4th St, right on 45th St, right on Stevens Ave and resume regular route.
 
-Northbound/eastbound buses will travel regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume regular route.
-
-Southbound/westbound buses will travel regular route on Nicollet Mall to 11th St, right on 11th St, left on LaSalle Ave, left on 12th St, right on Nicollet Mall, and resume regular route.
+Southbound buses will follow regular route.
 
 Affected stops:
-Nicollet Mall & 11th St S - Stop #17990 (northbound)
+Nicollet Ave S & 44th St E - Stop #1874 (northbound)
 ```
 
 </details>
@@ -1015,46 +1184,6 @@ Affected stops:
 Monroe St & Spring St NE - Stop #15486 (northbound)
 Monroe St & Spring St NE - Stop #15531 (southbound)
 7th St NE & Central Ave NE - Stop #15533 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 17: Detour via Eastbound Route 17 departing 36th St & Wooddale Ave
-
-- **Affected Routes**: `Route 17`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Eastbound Route 17 departing 36th St & Wooddale Ave; Ottawa Ave S & Minnetonka Blvd; Eastbound Route 17 departing 36th St & Wooddale Ave w; 36th St W & Park Center Blvd; 36th St W & Raleigh Ave
-- **Closed Stops**: 36th St W & Park Center Blvd (Stop #4735), 36th St W & Raleigh Ave (Stop #4736), Beltline Blvd & 35th St W (Stop #4738), Beltline Blvd & Park Glen Rd (Stop #4739), Beltline Blvd & Lynn Ave S (Stop #57303), Stop #56138, Stop #57309
-
-**Summary**: Eastbound Route 17 departing 36th St and Wooddale Ave detoured off Beltline Blvd from 36th St to Co Rd 25 until further notice. Board at: 36th St W & Wooddale/Yosemite Ave S - Stop #56138 (eastbound); Ottawa Ave S & Minnetonka Blvd - Stop #57309 (northbound).
-
-> 💡 **Rider Action**: Board at: 36th St W & Wooddale/Yosemite Ave S - Stop #56138 (eastbound); Ottawa Ave S & Minnetonka Blvd - Stop #57309 (northbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/17)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 17 departing 36th St and Wooddale Ave detoured off Beltline Blvd from 36th St to Co Rd 25 until further notice
-
-```text
-Get on/off buses at:
-36th St W & Wooddale/Yosemite Ave S - Stop #56138 (eastbound)
-Ottawa Ave S & Minnetonka Blvd - Stop #57309 (northbound)
-
-Eastbound Route 17 departing 36th St and Wooddale Ave will travel the regular route on 36th St to Hwy 100, right onto northbound Hwy 100, exit for Co Rd 25, right on Co Rd 25, left on Ottawa Ave, and resume the regular route.
-
-Westbound buses are not affected.
-
-Affected stops:
-36th St W & Park Center Blvd - Stop #4735 (eastbound)
-36th St W & Raleigh Ave - Stop #4736 (eastbound)
-Beltline Blvd & 35th St W - Stop #4738 (northbound)
-Beltline Blvd & Park Glen Rd - Stop #4739 (northbound)
-Beltline Blvd & Lynn Ave S - Stop #57303 (northbound)
 ```
 
 </details>
@@ -1666,6 +1795,32 @@ Cedar Ave S & 28th St E - Stop #15319 (northbound)
 
 ---
 
+### ⚠️ Route 36, Route 538, Route 578: Stop Closed at York Ave S & Hazelton Rd
+
+- **Affected Routes**: `Route 36` `Route 538` `Route 578`
+- **Direction**: Northbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: York Ave S & Hazelton Rd; York Ave S & 70th St W
+- **Closed Stops**: Stop #2029, Stop #50601
+
+**Summary**: York Ave S & Hazelton Rd - Stop #2029 (northbound) is closed for Routes 36, 538 and 578 until further notice due to construction. Board at: York Ave S & 70th St W - Stop #50601 (northbound).
+
+> 💡 **Rider Action**: Board at: York Ave S & 70th St W - Stop #50601 (northbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: York Ave S & Hazelton Rd - Stop #2029 (northbound) is closed for Routes 36, 538 and 578 until further notice due to construction
+
+```text
+Get on/off buses at:
+York Ave S & 70th St W - Stop #50601 (northbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 36: Stop Closed at 76th St W & Parklawn Ave S
 
 - **Affected Routes**: `Route 36`
@@ -1744,6 +1899,8 @@ Lyndale Ave S & 35th St W - Stop #40668 (southbound)
 **Header**: Route 38 detoured off Mainstreet from 12th Ave to 8th Ave beginning Sat Oct 31 at 8:30 AM until further notice due to Halloween in Hopkins event
 
 ```text
+Added map 10/30 at 2:00 PM.
+
 For eastbound Route 38 get on/off buses at:
 Mainstreet & 13th Ave S - Stop #4818 (eastbound)
 Mainstreet & 7th Ave S - Stop #4820 (eastbound)
@@ -1761,6 +1918,36 @@ Mainstreet & 12th Ave / 11th Ave S - Stop #43380 (eastbound)
 Mainstreet & 9th Ave S - Stop #4819 (eastbound)
 Mainstreet & 9th Ave N - Stop #3572 (westbound)
 Mainstreet & 11th Ave N - Stop #3573 (westbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 38: Stop Closed at 38th St E & 3rd Ave S
+
+- **Affected Routes**: `Route 38`
+- **Direction**: Eastbound
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Mon Nov 2 at 4:00 AM until further notice
+- **Corridors & Intersections**: 38th St E & 3rd Ave S; 38th St W & Nicollet Ave S; 38th St E & 4th Ave S
+- **Closed Stops**: Stop #12626, Stop #17516, Stop #12622
+
+**Summary**: 38th St E & 3rd Ave S - Stop #12626 (eastbound) is closed for Route 38 beginning Mon Nov 2 at 4:00 AM until further notice due to construction. Board at: 38th St W & Nicollet Ave S - Stop #17516 (eastbound); 38th St E & 4th Ave S - Stop #12622 (eastbound).
+
+> 💡 **Rider Action**: Board at: 38th St W & Nicollet Ave S - Stop #17516 (eastbound); 38th St E & 4th Ave S - Stop #12622 (eastbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/38)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: 38th St E & 3rd Ave S - Stop #12626 (eastbound) is closed for Route 38 beginning Mon Nov 2 at 4:00 AM until further notice due to construction
+
+```text
+Get on/off buses at:
+38th St W & Nicollet Ave S - Stop #17516 (eastbound)
+38th St E & 4th Ave S - Stop #12622 (eastbound)
 ```
 
 </details>
@@ -1840,6 +2027,34 @@ Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 7th St E & Lafayette Rd - Stop #11845 (eastbound)
 7th St E & Payne Ave - Stop #11847 (eastbound)
 7th St E & Olive St - Stop #57415 (westbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 54, Route 64: Stop Closed at Maryland Ave & Earl St
+
+- **Affected Routes**: `Route 54` `Route 64`
+- **Direction**: Eastbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Maryland Ave & Earl St; Maryland Ave & Cypress St
+- **Closed Stops**: Stop #12919, Stop #12918
+
+**Summary**: Maryland Ave & Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction. Board at: Maryland Ave & Cypress St - Stop #12918 (eastbound).
+
+> 💡 **Rider Action**: Board at: Maryland Ave & Cypress St - Stop #12918 (eastbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/54)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Maryland Ave & Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction
+
+```text
+Get on/off buses at:
+Maryland Ave & Cypress St - Stop #12918 (eastbound)
 ```
 
 </details>
@@ -2388,34 +2603,6 @@ Payne Ave & Geranium Ave - Stop #11803 (southbound)
 Payne Ave & Magnolia Ave - Stop #11804 (southbound)
 Payne Ave & Lawson Ave - Stop #11812 (southbound)
 Payne Ave & Case Ave - Stop #11806 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 64, Route 54: Stop Closed at Maryland Ave & Earl St
-
-- **Affected Routes**: `Route 64` `Route 54`
-- **Direction**: Eastbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Maryland Ave & Earl St; Maryland Ave & Cypress St
-- **Closed Stops**: Stop #12919, Stop #12918
-
-**Summary**: Maryland Ave & Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction. Board at: Maryland Ave & Cypress St - Stop #12918 (eastbound).
-
-> 💡 **Rider Action**: Board at: Maryland Ave & Cypress St - Stop #12918 (eastbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/54)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Maryland Ave & Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction
-
-```text
-Get on/off buses at:
-Maryland Ave & Cypress St - Stop #12918 (eastbound)
 ```
 
 </details>
@@ -2994,47 +3181,6 @@ Westbound buses will travel regular route on 46th St to Hiawatha Ave, right on H
 
 ---
 
-### ⚠️ Route 74: Detour via Minnehaha Ave & Earl St
-
-- **Affected Routes**: `Route 74`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Minnehaha Ave & Earl St; 6th St E & Mendota St; Minnehaha Ave & Forest St; Minnehaha Ave (Forest St to Cypress St)
-- **Closed Stops**: Minnehaha Ave & Forest St (Stop #49660), Stop #49658, Stop #80958
-
-**Summary**: Route 74 detoured off Minnehaha Ave from Forest St to Cypress St until later today. Board at: Minnehaha Ave & Earl St - Stop #49658 (westbound); 6th St E & Mendota St - Stop #80958 (westbound); No eastbound stops missed.
-
-> 💡 **Rider Action**: Board at: Minnehaha Ave & Earl St - Stop #49658 (westbound); 6th St E & Mendota St - Stop #80958 (westbound); No eastbound stops missed
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on Forest St to Minnehaha Ave, continue on Forest St to Reaney Ave, right on Reaney Ave, right on Cypress St, left on Minnehaha Ave and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/74)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 74 detoured off Minnehaha Ave from Forest St to Cypress St until later today
-
-```text
-Get on/off buses at:
-Minnehaha Ave & Earl St - Stop #49658 (westbound)
-6th St E & Mendota St - Stop #80958 (westbound)
-No eastbound stops missed
-
-Eastbound buses will travel regular route on Forest St to Minnehaha Ave, continue on Forest St to Reaney Ave, right on Reaney Ave, right on Cypress St, left on Minnehaha Ave and resume regular route.
-
-Westbound buses will travel regular route on Minnehaha Ave to Cypress St, right on Cypress St, left on Reaney Ave, left on Forest St, continue on Forest St to Minnehaha Ave and resume regular route.
-
-Affected direction: Westbound
-
-Affected stops:
-Minnehaha Ave & Forest St - Stop #49660 (westbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 75, METRO G Line: Detour via Butler Ave & Livingston Ave
 
 - **Affected Routes**: `Route 75` `METRO G Line`
@@ -3073,6 +3219,33 @@ Affected direction: Southbound
 Affected stops:
 Robert St S & Orme St - Stop #326 (southbound)
 Robert St S & Moreland Ave - Stop #329 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 156, Route 578, Route 824, Route 827, Route 850, Route 882, Route 888: Stop Closed at 2nd Ave S & 9th St
+
+- **Affected Routes**: `Route 156` `Route 578` `Route 824` `Route 827` `Route 850` `Route 882` `Route 888`
+- **Direction**: Northbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 2nd Ave S & 9th St; 2nd Ave S & 11th St; 2nd Ave S & 7th St
+- **Closed Stops**: Stop #53316, Stop #53315, Stop #53317
+
+**Summary**: 2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice. Board at: 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound).
+
+> 💡 **Rider Action**: Board at: 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: 2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice
+
+```text
+Get on/off buses at:
+2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound)
+2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound)
 ```
 
 </details>
@@ -3159,6 +3332,34 @@ McKnight Rd N & Arlington Ave E - Stop #57702 (southbound)
 
 ---
 
+### ⚠️ Route 223: Stop Closed at Selected Stop
+
+- **Affected Routes**: `Route 223`
+- **Direction**: Westbound
+- **Severity**: `Moderate`
+- **Closed Stops**: Stop #45337, Stop #45335
+
+**Summary**: Co Rd C & Victoria St - Stop #45337 (westbound) is closed for Route 223 until further notice due to construction. Board at: Temporary stop on Co Rd C just before Victoria St (westbound); Co Rd C & Avon St - Stop #45335 (westbound).
+
+> 💡 **Rider Action**: Board at: Temporary stop on Co Rd C just before Victoria St (westbound); Co Rd C & Avon St - Stop #45335 (westbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/223)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Co Rd C & Victoria St - Stop #45337 (westbound) is closed for Route 223 until further notice due to construction
+
+```text
+Get on/off buses at:
+Temporary stop on Co Rd C just before Victoria St (westbound)
+Co Rd C & Avon St - Stop #45335 (westbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 223: Detour via Marketplace Dr & Little Canada - St
 
 - **Affected Routes**: `Route 223`
@@ -3209,28 +3410,40 @@ Little Canada Rd & Middle St - Stop #49179 (westbound)
 
 ---
 
-### ⚠️ Route 223: Stop Closed at Selected Stop
+### ⚠️ Route 275, Route 860: Detour via 5th St & Minnesota St
 
-- **Affected Routes**: `Route 223`
-- **Direction**: Westbound
+- **Affected Routes**: `Route 275` `Route 860`
+- **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Closed Stops**: Stop #45337, Stop #45335
+- **Schedule**: Beginning Wed Mar 4 at 8:30 AM until further notice
+- **Corridors & Intersections**: 5th St & Minnesota St; Wacouta St & 8th St; 5th St E & Sibley St; Wacouta St & 5th St; 5th St (Sibley St to Wacouta St and off Wacouta St from 5th St to 7th St)
+- **Closed Stops**: 5th St E & Sibley St (Stop #11839), Wacouta St & 5th St / 6th St (Stop #11842), Stop #49397, Stop #49753
 
-**Summary**: Co Rd C & Victoria St - Stop #45337 (westbound) is closed for Route 223 until further notice due to construction. Board at: Temporary stop on Co Rd C just before Victoria St (westbound); Co Rd C & Avon St - Stop #45335 (westbound).
+**Summary**: Routes 275 and 860 detoured off 5th St from Sibley St to Wacouta St and off Wacouta St from 5th St to 7th St beginning Wed Mar 4 at 8:30 AM until further notice due to construction. Board at: 5th St & Minnesota St - Stop #49397 (eastbound); Wacouta St & 8th St / 9th St E - Stop #49753 (northbound).
 
-> 💡 **Rider Action**: Board at: Temporary stop on Co Rd C just before Victoria St (westbound); Co Rd C & Avon St - Stop #45335 (westbound)
+> 💡 **Rider Action**: Board at: 5th St & Minnesota St - Stop #49397 (eastbound); Wacouta St & 8th St / 9th St E - Stop #49753 (northbound)
 
-[Official Agency Advisory](https://www.metrotransit.org/route/223)
+> 🔄 **Detour Path**: Northbound buses will travel regular route on 5th St to Sibley St, left on Sibley, right on 7th St, left on Wacouta St, and resume regular route.
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Co Rd C & Victoria St - Stop #45337 (westbound) is closed for Route 223 until further notice due to construction
+**Header**: Routes 275 and 860 detoured off 5th St from Sibley St to Wacouta St and off Wacouta St from 5th St to 7th St beginning Wed Mar 4 at 8:30 AM until further notice due to construction
 
 ```text
+Updated start date 3/3 8:15 am.
+
 Get on/off buses at:
-Temporary stop on Co Rd C just before Victoria St (westbound)
-Co Rd C & Avon St - Stop #45335 (westbound)
+5th St & Minnesota St - Stop #49397 (eastbound)
+Wacouta St & 8th St / 9th St E - Stop #49753 (northbound)
+
+Northbound buses will travel regular route on 5th St to Sibley St, left on Sibley, right on 7th St, left on Wacouta St, and resume regular route.
+
+Southbound buses will travel regular route.
+
+Affected stops:
+5th St E & Sibley St - Stop #11839 (eastbound)
+Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 ```
 
 </details>
@@ -3303,63 +3516,6 @@ Olive St W & Seeley St S - Stop #6595 (westbound)
 Olive St W & Pine Tree Trail - Stop #6596 (westbound)
 Stillwater Blvd & Fairmeadows Rd - Stop #6598 (southbound)
 Stillwater Blvd & Pine St W - Stop #6601 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 515: Stop Closed at 66th St W & Penn Ave S
-
-- **Affected Routes**: `Route 515`
-- **Direction**: Westbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 66th St W & Penn Ave S; 66th St W & Newton Ave S; 66th St W & Sheridan Ave S
-- **Closed Stops**: Stop #2192, Stop #2190, Stop #1804
-
-**Summary**: 66th St W & Penn Ave S - Stop #2192 (westbound) is closed for Route 515 until further notice. Board at: 66th St W & Newton Ave S - Stop #2190 (westbound); Temporary stop on 66th St W just past Penn Ave S (westbound); 66th St W & Sheridan Ave S - Stop #1804 (westbound).
-
-> 💡 **Rider Action**: Board at: 66th St W & Newton Ave S - Stop #2190 (westbound); Temporary stop on 66th St W just past Penn Ave S (westbound); 66th St W & Sheridan Ave S - Stop #1804 (westbound)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: 66th St W & Penn Ave S - Stop #2192 (westbound) is closed for Route 515 until further notice
-
-```text
-Get on/off buses at:
-66th St W & Newton Ave S - Stop #2190 (westbound)
-Temporary stop on 66th St W just past Penn Ave S (westbound)
-66th St W & Sheridan Ave S - Stop #1804 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 515: Stop Closed at 66th St W & Vincent Ave S
-
-- **Affected Routes**: `Route 515`
-- **Direction**: Westbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 66th St W & Vincent Ave S; 66th St W & Sheridan Ave S; 66th St W & Washburn Ave S
-- **Closed Stops**: Stop #1807, Stop #1804, Stop #1808
-
-**Summary**: 66th St W & Vincent Ave S - Stop #1807 (westbound) is closed for Route 515 until further notice. Board at: 66th St W & Sheridan Ave S - Stop #1804 (westbound); 66th St W & Washburn Ave S - Stop #1808 (westbound).
-
-> 💡 **Rider Action**: Board at: 66th St W & Sheridan Ave S - Stop #1804 (westbound); 66th St W & Washburn Ave S - Stop #1808 (westbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/515)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: 66th St W & Vincent Ave S - Stop #1807 (westbound) is closed for Route 515 until further notice
-
-```text
-Get on/off buses at:
-66th St W & Sheridan Ave S - Stop #1804 (westbound)
-66th St W & Washburn Ave S - Stop #1808 (westbound)
 ```
 
 </details>
@@ -3588,26 +3744,37 @@ American Blvd W & Fremont Ave S - Stop #57095 (westbound)
 
 ---
 
-### ⚠️ Route 578, Route 538, Route 36: Stop Closed at York Ave S & Hazelton Rd
+### ⚠️ Route 542, Route 686, METRO D Line: Stop Closed at American Blvd & Portland Ave S
 
-- **Affected Routes**: `Route 578` `Route 538` `Route 36`
-- **Direction**: Northbound
+- **Affected Routes**: `Route 542` `Route 686` `METRO D Line`
+- **Direction**: Southbound
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: York Ave S & Hazelton Rd; York Ave S & 70th St W
-- **Closed Stops**: Stop #2029, Stop #50601
+- **Corridors & Intersections**: American Blvd & Portland Ave S; American Blvd & 12th Ave S; American Blvd & Nicollet Ave S
+- **Closed Stops**: Stop #56920, Stop #4521, Stop #4524, Stop #51842, Stop #42318
 
-**Summary**: York Ave S & Hazelton Rd - Stop #2029 (northbound) is closed for Routes 36, 538 and 578 until further notice due to construction. Board at: York Ave S & 70th St W - Stop #50601 (northbound).
+**Summary**: American & Chicago Station - Stop #56920 (eastbound) is closed for Routes 542, 686 and D Line from 7:30 AM to 6:00 PM on Fri Oct 30. Board at: American Blvd & Portland Ave S - Stop #4521 (eastbound); American Blvd & 12th Ave S - Stop #4524 (eastbound).
 
-> 💡 **Rider Action**: Board at: York Ave S & 70th St W - Stop #50601 (northbound)
+> 💡 **Rider Action**: Board at: American Blvd & Portland Ave S - Stop #4521 (eastbound); American Blvd & 12th Ave S - Stop #4524 (eastbound)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: York Ave S & Hazelton Rd - Stop #2029 (northbound) is closed for Routes 36, 538 and 578 until further notice due to construction
+**Header**: American & Chicago Station - Stop #56920 (eastbound) is closed for Routes 542, 686 and D Line from 7:30 AM to 6:00 PM on Fri Oct 30
 
 ```text
-Get on/off buses at:
-York Ave S & 70th St W - Stop #50601 (northbound)
+Get on/off Route 542 buses at:
+American Blvd & Portland Ave S - Stop #4521 (eastbound)
+American Blvd & 12th Ave S - Stop #4524 (eastbound)
+
+Get on/off Route 686 buses at:
+American Blvd & Nicollet Ave S - Stop #51842 (eastbound)
+American Blvd & 12th Ave S - Stop #4524 (eastbound)
+American & Bloomington Station - Stop #42318 (eastbound)
+
+Get on/off D Line buses at:
+Portland & 77th St Station - Stop #449 (southbound)
+American Blvd & 12th Ave S - Stop #4524 (eastbound)
+American & Bloomington Station - Stop #42318 (eastbound)
 ```
 
 </details>
@@ -3710,6 +3877,8 @@ Affected st; 12th Ave & 11th Ave S; Mainstreet (12th Ave to 8th Ave)
 **Header**: Route 615 detoured off Mainstreet from 12th Ave to 8th Ave beginning Sat Oct 31 at 8:30 AM until further notice due to Halloween in Hopkins event
 
 ```text
+Added map 10/30 at 2:00 PM.
+
 For eastbound Route 615 get on/off buses at:
 12th Ave N & 1st St N - Stop #49585 (southbound)
 Mainstreet & 7th Ave S - Stop #4820 (eastbound)
@@ -3910,35 +4079,9 @@ Cedar Lake Rd & Sumter Ave S - Stop #80937 (eastbound)
 
 ---
 
-### ⚠️ Route 763, Route 766, Route 765, Route 768, Route 760: Stop Closed at 3rd St N & 1st Ave N
+### ⚠️ Route 760, Route 763, Route 765, Route 766, Route 768: Detour via 3rd St S & Nicollet Mall - St
 
-- **Affected Routes**: `Route 763` `Route 766` `Route 765` `Route 768` `Route 760`
-- **Direction**: Westbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 3rd St N & 1st Ave N; 3rd St S & Nicollet Mall - St
-- **Closed Stops**: Stop #17960, Stop #40172
-
-**Summary**: 3rd St N & 1st Ave N - Stop #17960 (westbound) is closed for Routes 760, 763, 765, 766 and 768 until further notice due to construction. Board at: 3rd St S & Nicollet Mall - Stop #40172 (westbound).
-
-> 💡 **Rider Action**: Board at: 3rd St S & Nicollet Mall - Stop #40172 (westbound)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: 3rd St N & 1st Ave N - Stop #17960 (westbound) is closed for Routes 760, 763, 765, 766 and 768 until further notice due to construction
-
-```text
-Get on/off buses at:
-3rd St S & Nicollet Mall - Stop #40172 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 768, Route 760, Route 763, Route 766, Route 765: Detour via 3rd St S & Nicollet Mall - St
-
-- **Affected Routes**: `Route 768` `Route 760` `Route 763` `Route 766` `Route 765`
+- **Affected Routes**: `Route 760` `Route 763` `Route 765` `Route 766` `Route 768`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Aug 10 at 2:00 AM until further notice
@@ -3976,6 +4119,32 @@ Affected stops:
 
 ---
 
+### ⚠️ Route 760, Route 763, Route 765, Route 766, Route 768: Stop Closed at 3rd St N & 1st Ave N
+
+- **Affected Routes**: `Route 760` `Route 763` `Route 765` `Route 766` `Route 768`
+- **Direction**: Westbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 3rd St N & 1st Ave N; 3rd St S & Nicollet Mall - St
+- **Closed Stops**: Stop #17960, Stop #40172
+
+**Summary**: 3rd St N & 1st Ave N - Stop #17960 (westbound) is closed for Routes 760, 763, 765, 766 and 768 until further notice due to construction. Board at: 3rd St S & Nicollet Mall - Stop #40172 (westbound).
+
+> 💡 **Rider Action**: Board at: 3rd St S & Nicollet Mall - Stop #40172 (westbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: 3rd St N & 1st Ave N - Stop #17960 (westbound) is closed for Routes 760, 763, 765, 766 and 768 until further notice due to construction
+
+```text
+Get on/off buses at:
+3rd St S & Nicollet Mall - Stop #40172 (westbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 802: Stop Closed at Coon Rapids Blvd & Dakotah St
 
 - **Affected Routes**: `Route 802`
@@ -4000,33 +4169,6 @@ Affected stops:
 Get on/off buses at:
 Coon Rapids Blvd & Blackfoot St - Stop #11055 (westbound)
 East River Rd & Queens Lane - Stop #12070 (northbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 824, Route 156, Route 888, Route 882, Route 578, Route 850, Route 827: Stop Closed at 2nd Ave S & 9th St
-
-- **Affected Routes**: `Route 824` `Route 156` `Route 888` `Route 882` `Route 578` `Route 850` `Route 827`
-- **Direction**: Northbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 2nd Ave S & 9th St; 2nd Ave S & 11th St; 2nd Ave S & 7th St
-- **Closed Stops**: Stop #53316, Stop #53315, Stop #53317
-
-**Summary**: 2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice. Board at: 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound).
-
-> 💡 **Rider Action**: Board at: 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: 2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice
-
-```text
-Get on/off buses at:
-2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound)
-2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound)
 ```
 
 </details>
@@ -4108,46 +4250,6 @@ Marshall St NE & 8th Ave NE - Stop #57551 (northbound)
 Marshall St NE & 8th Ave NE - Stop #57576 (southbound)
 Marshall St NE & 3rd Ave NE - Stop #57577 (southbound)
 Main St NE & 1st Ave NE - Stop #57578 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 860, Route 275: Detour via 5th St & Minnesota St
-
-- **Affected Routes**: `Route 860` `Route 275`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Wed Mar 4 at 8:30 AM until further notice
-- **Corridors & Intersections**: 5th St & Minnesota St; Wacouta St & 8th St; 5th St E & Sibley St; Wacouta St & 5th St; 5th St (Sibley St to Wacouta St and off Wacouta St from 5th St to 7th St)
-- **Closed Stops**: 5th St E & Sibley St (Stop #11839), Wacouta St & 5th St / 6th St (Stop #11842), Stop #49397, Stop #49753
-
-**Summary**: Routes 275 and 860 detoured off 5th St from Sibley St to Wacouta St and off Wacouta St from 5th St to 7th St beginning Wed Mar 4 at 8:30 AM until further notice due to construction. Board at: 5th St & Minnesota St - Stop #49397 (eastbound); Wacouta St & 8th St / 9th St E - Stop #49753 (northbound).
-
-> 💡 **Rider Action**: Board at: 5th St & Minnesota St - Stop #49397 (eastbound); Wacouta St & 8th St / 9th St E - Stop #49753 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on 5th St to Sibley St, left on Sibley, right on 7th St, left on Wacouta St, and resume regular route.
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Routes 275 and 860 detoured off 5th St from Sibley St to Wacouta St and off Wacouta St from 5th St to 7th St beginning Wed Mar 4 at 8:30 AM until further notice due to construction
-
-```text
-Updated start date 3/3 8:15 am.
-
-Get on/off buses at:
-5th St & Minnesota St - Stop #49397 (eastbound)
-Wacouta St & 8th St / 9th St E - Stop #49753 (northbound)
-
-Northbound buses will travel regular route on 5th St to Sibley St, left on Sibley, right on 7th St, left on Wacouta St, and resume regular route.
-
-Southbound buses will travel regular route.
-
-Affected stops:
-5th St E & Sibley St - Stop #11839 (eastbound)
-Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 ```
 
 </details>
@@ -4240,6 +4342,29 @@ LaFayette Rd & Grove St - Stop #11923 (southbound)
 ---
 
 ## ℹ️ Minor Advisories
+
+### ℹ️ 10th Ave Se & 8th St Se - Stop #16047 (northbound) Is Permanently Moving for Route 4
+
+- **Affected Routes**: `Route 4`
+- **Direction**: Northbound
+- **Severity**: `Minor`
+- **Corridors & Intersections**: 10th Ave SE & 8th St S
+- **Closed Stops**: Stop #16047
+
+**Summary**: 10th Ave SE & 8th St SE - Stop #16047 (northbound) is permanently moving for Route 4
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: 10th Ave SE & 8th St SE - Stop #16047 (northbound) is permanently moving for Route 4
+
+```text
+The stop has been moved 100 ft south to the new raised boarding platform.
+```
+
+</details>
+
+---
 
 ### ℹ️ Route 94, METRO Gold Line: Service Advisory
 
