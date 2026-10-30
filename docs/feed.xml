@@ -4,9 +4,36 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Fri, 30 Oct 2026 06:58:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 14:00:24 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] Route 30: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/30</link>
+      <guid isPermaLink="false">Metro Transit-54777-2026-10-30T11:38:13.000Z</guid>
+      <pubDate>Fri, 30 Oct 2026 11:38:13 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 30</category>
+      <description>Route 30 trip departing Westgate Station - Gate B at 7:07 AM and five other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 46, Route 46A: Eastbound 8:30 AM Trip Canceled (Eden-Vernon Busway &amp; Sherwood/Vernon Ave)</title>
+      <link>https://www.metrotransit.org/route/46</link>
+      <guid isPermaLink="false">Metro Transit-54782-2026-10-30T13:38:21.000Z</guid>
+      <pubDate>Fri, 30 Oct 2026 13:38:21 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 46, Route 46A</category>
+      <description>Eastbound Route 46A trip departing Eden-Vernon Busway &amp; Sherwood/Vernon Ave at 8:30 AM canceled due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 72: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/72</link>
+      <guid isPermaLink="false">Metro Transit-54779-2026-10-30T12:37:59.000Z</guid>
+      <pubDate>Fri, 30 Oct 2026 12:37:59 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 72</category>
+      <description>Route 72 trip departing Pascal St N &amp; Central Ave W at 7:23 AM and six other trips canceled today</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -35,13 +62,13 @@
       <description>Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues</description>
     </item>
     <item>
-      <title>[Moderate] METRO D Line: Detour via Chicago Ave S &amp; 58th St E</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-54265-2026-10-27T10:00:01.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 10:00:01 GMT</pubDate>
+      <title>[Moderate] METRO D Line, Route 542, Route 686: Stop Closed at American Blvd &amp; Portland Ave S</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-54721-2026-10-30T12:00:02.000Z</guid>
+      <pubDate>Fri, 30 Oct 2026 12:00:02 GMT</pubDate>
       <category>Moderate</category>
-      <category>METRO D Line</category>
-      <description>METRO D Line detoured off Chicago Ave from 46th St to 57th St beginning Tue Oct 20 at 5:00 AM until further notice due to construction. Board at: Portland &amp; 60th St Station - Stop #737 (northbound); Chicago Ave S &amp; 58th St E - Stop #743 (northbound); Temporary stop on Portland Ave &amp; 52nd St (northbound). | Action: Board at: Portland &amp; 60th St Station - Stop #737 (northbound); Chicago Ave S &amp; 58th St E - Stop #743 (northbound); Temporary stop on Portland Ave &amp; 52nd St (northbound)</description>
+      <category>METRO D Line, Route 542, Route 686</category>
+      <description>American &amp; Chicago Station - Stop #56920 (eastbound) is closed for Routes 542, 686 and D Line from 7:30 AM to 6:00 PM on Fri Oct 30. Board at: American Blvd &amp; Portland Ave S - Stop #4521 (eastbound); American Blvd &amp; 12th Ave S - Stop #4524 (eastbound). | Action: Board at: American Blvd &amp; Portland Ave S - Stop #4521 (eastbound); American Blvd &amp; 12th Ave S - Stop #4524 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] METRO Gold Line: Detour via 6th St &amp; Jackson St</title>
@@ -87,15 +114,6 @@
       <category>Moderate</category>
       <category>Route 3, Route 3A</category>
       <description>Route 3A detoured off Maryland Ave from Galtier St to Rice St and off Rice St from Maryland Ave to Como Ave beginning Mon Nov 2 at 7:00 AM until further notice due to construction. Board at: Maryland Ave &amp; Western Ave - Stop #5567 (eastbound); Temporary stop on Galtier St &amp; Cook Ave (southbound); Temporary stop on Galtier St &amp; Front Ave (southbound). | Action: Board at: Maryland Ave &amp; Western Ave - Stop #5567 (eastbound); Temporary stop on Galtier St &amp; Cook Ave (southbound); Temporary stop on Galtier St &amp; Front Ave (southbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 5: Detour via Portland Ave &amp; 52nd St</title>
-      <link>https://www.metrotransit.org/route/5</link>
-      <guid isPermaLink="false">Metro Transit-54263-2026-10-27T09:00:01.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 09:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 5</category>
-      <description>Route 5 detoured off Chicago Ave from 46th St to 56th St beginning Tue Oct 20 at 4:00 AM until further notice due to construction. Board at: Chicago &amp; 56th St Station - Stop #775 (northbound); Temporary stop on Portland Ave &amp; 52nd St (northbound); Temporary stop on Portland Ave &amp; 48th St (northbound). | Action: Board at: Chicago &amp; 56th St Station - Stop #775 (northbound); Temporary stop on Portland Ave &amp; 52nd St (northbound); Temporary stop on Portland Ave &amp; 48th St (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 7: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -179,15 +197,6 @@
       <description>Route 9 detoured off 25th St from 32nd Ave to 34th Ave beginning Tue Oct 6 at 7:00 AM until further notice due to construction. Board at: 25th St E &amp; 31st Ave S - Stop #16455 (eastbound); 25th St E &amp; 35th Ave S - Stop #16459 (eastbound). | Action: Board at: 25th St E &amp; 31st Ave S - Stop #16455 (eastbound); 25th St E &amp; 35th Ave S - Stop #16459 (eastbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54465-2026-10-30T05:00:01.000Z</guid>
-      <pubDate>Fri, 30 Oct 2026 05:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 10, Route 11, Route 17, Route 18, Route 25</category>
-      <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 11th St to 12th St from Mon Oct 26 at 7:00 AM to Fri Oct 30 at 4:00 PM due to construction. Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 9th St S - Stop #17992 (northbound). | Action: Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 9th St S - Stop #17992 (northbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 11: Detour via Main St NE &amp; St Anthony Pkwy</title>
       <link>https://www.metrotransit.org/route/11</link>
       <guid isPermaLink="false">Metro Transit-49659-2026-09-03T18:11:02.000Z</guid>
@@ -197,22 +206,13 @@
       <description>Route 11 detoured off Main St NE from Edge Pl to 35th Ave and off 35th Ave from Main St NE to 2 1/2 St beginning Tue May 26 at 7:00 AM until further notice due to construction. Board at: Main St NE &amp; St Anthony Pkwy - Stop #14618 (northbound); Temporary stop on Main St NE just before Edge Place NE (northbound); Temporary stop on 2nd 1/2 St NE &amp; 35th Ave NE (northbound). | Action: Board at: Main St NE &amp; St Anthony Pkwy - Stop #14618 (northbound); Temporary stop on Main St NE just before Edge Place NE (northbound); Temporary stop on 2nd 1/2 St NE &amp; 35th Ave NE (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 11: Detour via 4th Ave S &amp; 36th St E</title>
-      <link>https://www.metrotransit.org/route/11</link>
-      <guid isPermaLink="false">Metro Transit-54390-2026-10-27T13:22:00.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 13:22:00 GMT</pubDate>
+      <title>[Moderate] Route 11, Route 18, Route 25, Route 17, Route 10: Detour via Regular Corridor</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-54465-2026-10-30T05:00:01.000Z</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:01 GMT</pubDate>
       <category>Moderate</category>
-      <category>Route 11</category>
-      <description>Route 11 detoured off 4th Ave S from 31st St to 36th St until further notice due to construction. Board at: 4th Ave S &amp; 36th St E - Stop #17749 (northbound); 4th Ave S &amp; Lake St E - Stop #17755 (northbound). | Action: Board at: 4th Ave S &amp; 36th St E - Stop #17749 (northbound); 4th Ave S &amp; Lake St E - Stop #17755 (northbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 14: Detour via Chicago Ave S &amp; 58th St E</title>
-      <link>https://www.metrotransit.org/route/14</link>
-      <guid isPermaLink="false">Metro Transit-54264-2026-10-27T09:00:01.000Z</guid>
-      <pubDate>Tue, 27 Oct 2026 09:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 14</category>
-      <description>Route 14 detoured off Chicago fro 57th St E to 54th St E beginning Tue Oct 20 at 4:00 AM until further notice due to construction. Board at: Chicago Ave S &amp; 58th St E - Stop #743 (northbound); 54th St E &amp; 12th Ave S - Stop #51836 (eastbound). | Action: Board at: Chicago Ave S &amp; 58th St E - Stop #743 (northbound); 54th St E &amp; 12th Ave S - Stop #51836 (eastbound)</description>
+      <category>Route 11, Route 18, Route 25, Route 17, Route 10</category>
+      <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 11th St to 12th St from Mon Oct 26 at 7:00 AM to Fri Oct 30 at 4:00 PM due to construction. Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 9th St S - Stop #17992 (northbound). | Action: Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 9th St S - Stop #17992 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 17, Route 17W: Detour via Central Ave &amp; 5th St S</title>
@@ -235,8 +235,8 @@
     <item>
       <title>[Moderate] Route 17: Detour via 24th St W &amp; Pleasant Ave S</title>
       <link>https://www.metrotransit.org/route/17</link>
-      <guid isPermaLink="false">Metro Transit-54756-2026-10-29T15:24:28.000Z</guid>
-      <pubDate>Thu, 29 Oct 2026 15:24:28 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54756-2026-10-30T08:01:01.000Z</guid>
+      <pubDate>Fri, 30 Oct 2026 08:01:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 17</category>
       <description>Route 17 detoured off 24th St W from Hennepin Ave to Lyndale Ave on Wed Nov 4 starting at 9:00 AM due to tree trimming. Board at: Hennepin &amp; 25th St Station - Stop #1327 (northbound); 24th St W &amp; Pleasant Ave S - Stop #40342 (eastbound). | Action: Board at: Hennepin &amp; 25th St Station - Stop #1327 (northbound); 24th St W &amp; Pleasant Ave S - Stop #40342 (eastbound)</description>
@@ -296,15 +296,6 @@
       <description>Route 22 detoured off Lyndale Ave N from Lowry Ave N to Dowling Ave N until further notice due to construction. Board at: Lyndale Ave N &amp; Lowry Ave N - Stop #81098 (northbound); Lyndale Ave N &amp; 40th Ave N - Stop #11199 (northbound). | Action: Board at: Lyndale Ave N &amp; Lowry Ave N - Stop #81098 (northbound); Lyndale Ave N &amp; 40th Ave N - Stop #11199 (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 22: Detour via 58th St E &amp; Sander Dr</title>
-      <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-54247-2026-10-29T18:46:25.000Z</guid>
-      <pubDate>Thu, 29 Oct 2026 18:46:25 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 22</category>
-      <description>Route 22 detoured off 28th Ave S from 51st St E to 58th St E beginning Tue Oct 20 at 7:00 AM until further notice due to construction. Board at: 58th St E &amp; Sander Dr - Stop #19434 (westbound); Temporary stop 30th Ave S &amp; 56th St E (northbound); Temporary stop 30th Ave S &amp; 54th St E (northbound). | Action: Board at: 58th St E &amp; Sander Dr - Stop #19434 (westbound); Temporary stop 30th Ave S &amp; 56th St E (northbound); Temporary stop 30th Ave S &amp; 54th St E (northbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 22: Detour via Cedar Ave S &amp; 32nd St E</title>
       <link>https://www.metrotransit.org/route/22</link>
       <guid isPermaLink="false">Metro Transit-54251-2026-10-23T14:42:01.000Z</guid>
@@ -359,15 +350,6 @@
       <description>Route 27 detoured off 26th St/28th St from Bloomington Ave to Cedar Ave and off Cedar Ave from 26th St to Lake St beginning Mon Sep 14 until further notice due to construction. Board at: 28th St E &amp; Bloomington Ave S - Stop #43016 (eastbound); Lake &amp; Cedar Station - Stop #51579 (eastbound). | Action: Board at: 28th St E &amp; Bloomington Ave S - Stop #43016 (eastbound); Lake &amp; Cedar Station - Stop #51579 (eastbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 36, Route 538, Route 578: Stop Closed at York Ave S &amp; Hazelton Rd</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-42305-2025-12-15T14:06:01.000Z</guid>
-      <pubDate>Mon, 15 Dec 2025 14:06:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 36, Route 538, Route 578</category>
-      <description>York Ave S &amp; Hazelton Rd - Stop #2029 (northbound) is closed for Routes 36, 538 and 578 until further notice due to construction. Board at: York Ave S &amp; 70th St W - Stop #50601 (northbound). | Action: Board at: York Ave S &amp; 70th St W - Stop #50601 (northbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 36: Stop Closed at 76th St W &amp; Parklawn Ave S</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
       <guid isPermaLink="false">Metro Transit-50085-2026-07-20T13:22:02.000Z</guid>
@@ -404,15 +386,6 @@
       <description>Route 54 detoured off 7th St from Wacouta St to Arcade St and off Arcade St from 7th St to Sims Ave until further notice due to construction. Board at: 5th St &amp; Robert Station - Stop #57418 (eastbound); 5th St E &amp; Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E &amp; Maria Ave (eastbound). | Action: Board at: 5th St &amp; Robert Station - Stop #57418 (eastbound); 5th St E &amp; Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E &amp; Maria Ave (eastbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 54, Route 64: Stop Closed at Maryland Ave &amp; Earl St</title>
-      <link>https://www.metrotransit.org/route/54</link>
-      <guid isPermaLink="false">Metro Transit-54217-2026-10-22T16:40:02.000Z</guid>
-      <pubDate>Thu, 22 Oct 2026 16:40:02 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 54, Route 64</category>
-      <description>Maryland Ave &amp; Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction. Board at: Maryland Ave &amp; Cypress St - Stop #12918 (eastbound). | Action: Board at: Maryland Ave &amp; Cypress St - Stop #12918 (eastbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 61: Detour via Arcade St &amp; Magnolia Ave</title>
       <link>https://www.metrotransit.org/route/61</link>
       <guid isPermaLink="false">Metro Transit-48758-2026-09-03T18:26:35.000Z</guid>
@@ -420,15 +393,6 @@
       <category>Moderate</category>
       <category>Route 61</category>
       <description>Route 61 detoured off 7th St E from Wacouta St to Arcade St and off Arcade St from 7th St E to Sims Ave until further notice due to construction. Board at: Arcade St &amp; Magnolia Ave - Stop #13823 (southbound); Temporary stop on Arcade St &amp; Jenks Ave (southbound); Temporary stop on Forest St &amp; York Ave (southbound). | Action: Board at: Arcade St &amp; Magnolia Ave - Stop #13823 (southbound); Temporary stop on Arcade St &amp; Jenks Ave (southbound); Temporary stop on Forest St &amp; York Ave (southbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 61: Detour via Hennepin Ave (7th St N to 9th St N)</title>
-      <link>https://www.metrotransit.org/route/61</link>
-      <guid isPermaLink="false">Metro Transit-49797-2026-08-01T12:25:46.000Z</guid>
-      <pubDate>Sat, 01 Aug 2026 12:25:46 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 61</category>
-      <description>Route 61 detoured off Hennepin Ave from 7th St N to 9th St N until further notice. Board at: Hennepin &amp; 5th St Station - Stop #17922 (southbound); Ramp A/7th St Transit Center - Stop #17905 (eastbound). | Action: Board at: Hennepin &amp; 5th St Station - Stop #17922 (southbound); Ramp A/7th St Transit Center - Stop #17905 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 61: Detour via Larpenteur Ave &amp; McMenemy St</title>
@@ -519,6 +483,15 @@
       <category>Moderate</category>
       <category>Route 64</category>
       <description>Route 64 detoured off Payne Ave from Case Ave to Maryland Ave and off Maryland Ave from Payne Ave to Walsh St beginning Mon Aug 24 at 4:00 AM until further notice due to construction. Board at: Payne Ave &amp; Case Ave - Stop #11788 (northbound); Temporary stop on Greenbrier St &amp; Lawson Ave (northbound); Temporary stop on Greenbrier St &amp; Geranium Ave (northbound). | Action: Board at: Payne Ave &amp; Case Ave - Stop #11788 (northbound); Temporary stop on Greenbrier St &amp; Lawson Ave (northbound); Temporary stop on Greenbrier St &amp; Geranium Ave (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 64, Route 54: Stop Closed at Maryland Ave &amp; Earl St</title>
+      <link>https://www.metrotransit.org/route/54</link>
+      <guid isPermaLink="false">Metro Transit-54217-2026-10-22T16:40:02.000Z</guid>
+      <pubDate>Thu, 22 Oct 2026 16:40:02 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 64, Route 54</category>
+      <description>Maryland Ave &amp; Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction. Board at: Maryland Ave &amp; Cypress St - Stop #12918 (eastbound). | Action: Board at: Maryland Ave &amp; Cypress St - Stop #12918 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 64, Route 64D: Detour via Larpenteur Ave &amp; Prosperity Ave</title>
@@ -629,6 +602,15 @@
       <description>Route 74 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
     </item>
     <item>
+      <title>[Moderate] Route 74: Detour via Minnehaha Ave &amp; Earl St</title>
+      <link>https://www.metrotransit.org/route/74</link>
+      <guid isPermaLink="false">Metro Transit-54781-2026-10-30T13:36:59.000Z</guid>
+      <pubDate>Fri, 30 Oct 2026 13:36:59 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 74</category>
+      <description>Route 74 detoured off Minnehaha Ave from Forest St to Cypress St until later today. Board at: Minnehaha Ave &amp; Earl St - Stop #49658 (westbound); 6th St E &amp; Mendota St - Stop #80958 (westbound); No eastbound stops missed. | Action: Board at: Minnehaha Ave &amp; Earl St - Stop #49658 (westbound); 6th St E &amp; Mendota St - Stop #80958 (westbound); No eastbound stops missed</description>
+    </item>
+    <item>
       <title>[Moderate] Route 75, METRO G Line: Detour via Butler Ave &amp; Livingston Ave</title>
       <link>https://www.metrotransit.org/route/75</link>
       <guid isPermaLink="false">Metro Transit-54768-2026-10-29T20:55:56.000Z</guid>
@@ -636,15 +618,6 @@
       <category>Moderate</category>
       <category>Route 75, METRO G Line</category>
       <description>Route 75 detoured off Robert St from Butler Ave to Moreland Ave beginning Mon Nov 2 at 6:00 AM until further notice due to METRO G Line construction. Board at: Butler Ave &amp; Livingston Ave / Robert St - Stop #324 (eastbound); Robert St S &amp; Logan Ave - Stop #330 (southbound). | Action: Board at: Butler Ave &amp; Livingston Ave / Robert St - Stop #324 (eastbound); Robert St S &amp; Logan Ave - Stop #330 (southbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 156, Route 578, Route 824, Route 827, Route 850, Route 882, Route 888: Stop Closed at 2nd Ave S &amp; 9th St</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-41775-2026-01-14T05:59:48.000Z</guid>
-      <pubDate>Wed, 14 Jan 2026 05:59:48 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 156, Route 578, Route 824, Route 827, Route 850, Route 882, Route 888</category>
-      <description>2nd Ave S &amp; 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice. Board at: 2nd Ave S &amp; 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S &amp; 7th St - Stop Group G - Stop #53317 (northbound). | Action: Board at: 2nd Ave S &amp; 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S &amp; 7th St - Stop Group G - Stop #53317 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 156: Detour via Sunrise Dr &amp; 59th St W</title>
@@ -681,15 +654,6 @@
       <category>Moderate</category>
       <category>Route 223</category>
       <description>Co Rd C &amp; Victoria St - Stop #45337 (westbound) is closed for Route 223 until further notice due to construction. Board at: Temporary stop on Co Rd C just before Victoria St (westbound); Co Rd C &amp; Avon St - Stop #45335 (westbound). | Action: Board at: Temporary stop on Co Rd C just before Victoria St (westbound); Co Rd C &amp; Avon St - Stop #45335 (westbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 275, Route 860: Detour via 5th St &amp; Minnesota St</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-44827-2026-09-03T18:43:10.000Z</guid>
-      <pubDate>Thu, 03 Sep 2026 18:43:10 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 275, Route 860</category>
-      <description>Routes 275 and 860 detoured off 5th St from Sibley St to Wacouta St and off Wacouta St from 5th St to 7th St beginning Wed Mar 4 at 8:30 AM until further notice due to construction. Board at: 5th St &amp; Minnesota St - Stop #49397 (eastbound); Wacouta St &amp; 8th St / 9th St E - Stop #49753 (northbound). | Action: Board at: 5th St &amp; Minnesota St - Stop #49397 (eastbound); Wacouta St &amp; 8th St / 9th St E - Stop #49753 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 294: Detour via Stillwater Blvd &amp; Pine St W</title>
@@ -773,13 +737,13 @@
       <description>Route 542 detoured off American Blvd from Lyndale Ave to Knox Ave beginning Mon Aug 17 at 4:00 AM until further notice due to construction. Board at: American Blvd W &amp; Home Depot - Stop #57108 (westbound); American Blvd &amp; Knox Ave S - Stop #41217 (westbound). | Action: Board at: American Blvd W &amp; Home Depot - Stop #57108 (westbound); American Blvd &amp; Knox Ave S - Stop #41217 (westbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 542, Route 686, METRO D Line: Stop Closed at American Blvd &amp; Portland Ave S</title>
+      <title>[Moderate] Route 578, Route 538, Route 36: Stop Closed at York Ave S &amp; Hazelton Rd</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54721-2026-10-30T05:00:02.000Z</guid>
-      <pubDate>Fri, 30 Oct 2026 05:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-42305-2025-12-15T14:06:01.000Z</guid>
+      <pubDate>Mon, 15 Dec 2025 14:06:01 GMT</pubDate>
       <category>Moderate</category>
-      <category>Route 542, Route 686, METRO D Line</category>
-      <description>American &amp; Chicago Station - Stop #56920 (eastbound) is closed for Routes 542, 686 and D Line from 7:30 AM to 6:00 PM on Fri Oct 30. Board at: American Blvd &amp; Portland Ave S - Stop #4521 (eastbound); American Blvd &amp; 12th Ave S - Stop #4524 (eastbound). | Action: Board at: American Blvd &amp; Portland Ave S - Stop #4521 (eastbound); American Blvd &amp; 12th Ave S - Stop #4524 (eastbound)</description>
+      <category>Route 578, Route 538, Route 36</category>
+      <description>York Ave S &amp; Hazelton Rd - Stop #2029 (northbound) is closed for Routes 36, 538 and 578 until further notice due to construction. Board at: York Ave S &amp; 70th St W - Stop #50601 (northbound). | Action: Board at: York Ave S &amp; 70th St W - Stop #50601 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 578: Detour via 2nd Ave S &amp; Washington Ave S</title>
@@ -845,22 +809,22 @@
       <description>Route 673B detoured off Cedar Lake Rd from Texas Ave to Louisiana Ave and off Louisiana Ave from Cedar Lake Rd to Wayzata Blvd beginning Mon Apr 6 until further notice due to construction. Board at: Louisiana Transit Center &amp; Gate B - Stop #52551 (westbound); Cedar Lake Rd &amp; Texas Ave - Stop #8073 (westbound). | Action: Board at: Louisiana Transit Center &amp; Gate B - Stop #52551 (westbound); Cedar Lake Rd &amp; Texas Ave - Stop #8073 (westbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 760, Route 763, Route 765, Route 766, Route 768: Detour via 3rd St S &amp; Nicollet Mall - St</title>
-      <link>https://www.metrotransit.org/route/760</link>
-      <guid isPermaLink="false">Metro Transit-50957-2026-09-15T12:58:13.000Z</guid>
-      <pubDate>Tue, 15 Sep 2026 12:58:13 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 760, Route 763, Route 765, Route 766, Route 768</category>
-      <description>Routes 760, 763, 765, 766 and 768 detoured off 3rd St from Hennepin Ave to Hwy 94 beginning Mon Aug 10 at 2:00 AM until further notice due to construction. Board at: 3rd St S &amp; Nicollet Mall - Stop #40172 (westbound). | Action: Board at: 3rd St S &amp; Nicollet Mall - Stop #40172 (westbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 760, Route 763, Route 765, Route 766, Route 768: Stop Closed at 3rd St N &amp; 1st Ave N</title>
+      <title>[Moderate] Route 763, Route 766, Route 765, Route 768, Route 760: Stop Closed at 3rd St N &amp; 1st Ave N</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
       <guid isPermaLink="false">Metro Transit-54602-2026-10-26T16:10:30.000Z</guid>
       <pubDate>Mon, 26 Oct 2026 16:10:30 GMT</pubDate>
       <category>Moderate</category>
-      <category>Route 760, Route 763, Route 765, Route 766, Route 768</category>
+      <category>Route 763, Route 766, Route 765, Route 768, Route 760</category>
       <description>3rd St N &amp; 1st Ave N - Stop #17960 (westbound) is closed for Routes 760, 763, 765, 766 and 768 until further notice due to construction. Board at: 3rd St S &amp; Nicollet Mall - Stop #40172 (westbound). | Action: Board at: 3rd St S &amp; Nicollet Mall - Stop #40172 (westbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 768, Route 760, Route 763, Route 766, Route 765: Detour via 3rd St S &amp; Nicollet Mall - St</title>
+      <link>https://www.metrotransit.org/route/760</link>
+      <guid isPermaLink="false">Metro Transit-50957-2026-09-15T12:58:13.000Z</guid>
+      <pubDate>Tue, 15 Sep 2026 12:58:13 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 768, Route 760, Route 763, Route 766, Route 765</category>
+      <description>Routes 760, 763, 765, 766 and 768 detoured off 3rd St from Hennepin Ave to Hwy 94 beginning Mon Aug 10 at 2:00 AM until further notice due to construction. Board at: 3rd St S &amp; Nicollet Mall - Stop #40172 (westbound). | Action: Board at: 3rd St S &amp; Nicollet Mall - Stop #40172 (westbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 802: Stop Closed at Coon Rapids Blvd &amp; Dakotah St</title>
@@ -870,6 +834,15 @@
       <category>Moderate</category>
       <category>Route 802</category>
       <description>Coon Rapids Blvd &amp; Dakotah St - Stop #11059 (westbound) is closed for Route 802 beginning Mon Oct 26 at 9:00 AM until further notice due to utility work. Board at: Coon Rapids Blvd &amp; Blackfoot St - Stop #11055 (westbound); East River Rd &amp; Queens Lane - Stop #12070 (northbound). | Action: Board at: Coon Rapids Blvd &amp; Blackfoot St - Stop #11055 (westbound); East River Rd &amp; Queens Lane - Stop #12070 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 824, Route 156, Route 888, Route 882, Route 578, Route 850, Route 827: Stop Closed at 2nd Ave S &amp; 9th St</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-41775-2026-01-14T05:59:48.000Z</guid>
+      <pubDate>Wed, 14 Jan 2026 05:59:48 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 824, Route 156, Route 888, Route 882, Route 578, Route 850, Route 827</category>
+      <description>2nd Ave S &amp; 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice. Board at: 2nd Ave S &amp; 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S &amp; 7th St - Stop Group G - Stop #53317 (northbound). | Action: Board at: 2nd Ave S &amp; 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S &amp; 7th St - Stop Group G - Stop #53317 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 827: Stop Closed at East River Rd &amp; 62nd Way</title>
@@ -888,6 +861,15 @@
       <category>Moderate</category>
       <category>Route 827</category>
       <description>Route 827 detoured off Marshall St/Main St from Hennepin Ave to 8th Ave NE from 6:30 AM to 10:30 AM on Sat Oct 31 due to Halloween Half Marathon 2026. Board at: Hennepin Ave &amp; 1st St S - Stop #17952 (northbound); 2nd St NE &amp; 4th Ave NE - Stop #14687 (northbound); 2nd St NE &amp; 7th Ave NE - Stop #14680 (northbound). | Action: Board at: Hennepin Ave &amp; 1st St S - Stop #17952 (northbound); 2nd St NE &amp; 4th Ave NE - Stop #14687 (northbound); 2nd St NE &amp; 7th Ave NE - Stop #14680 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 860, Route 275: Detour via 5th St &amp; Minnesota St</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-44827-2026-09-03T18:43:10.000Z</guid>
+      <pubDate>Thu, 03 Sep 2026 18:43:10 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 860, Route 275</category>
+      <description>Routes 275 and 860 detoured off 5th St from Sibley St to Wacouta St and off Wacouta St from 5th St to 7th St beginning Wed Mar 4 at 8:30 AM until further notice due to construction. Board at: 5th St &amp; Minnesota St - Stop #49397 (eastbound); Wacouta St &amp; 8th St / 9th St E - Stop #49753 (northbound). | Action: Board at: 5th St &amp; Minnesota St - Stop #49397 (eastbound); Wacouta St &amp; 8th St / 9th St E - Stop #49753 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 860: Detour via 7th St E &amp; Wall St</title>
