@@ -1,98 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-30T00:46:16.155Z",
-    "totalAlerts": 104,
-    "criticalCount": 3,
+    "generatedAt": "2026-10-30T06:58:12.465Z",
+    "totalAlerts": 101,
+    "criticalCount": 0,
     "moderateCount": 100,
     "minorCount": 1,
-    "affectedRoutesCount": 70,
+    "affectedRoutesCount": 68,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "54763",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 30: Service Canceled",
-      "summary": "Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today",
-      "affectedRoutes": [
-        "Route 30"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing Knox Ave N & Golden Valley Rd",
-        "56 PM\ndeparting Knox Ave N & Golden Valley Rd",
-        "54 PM\ndeparting Knox Ave N & Golden Valley Rd"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-29T18:04:00.000Z",
-        "end": "2026-10-30T02:35:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-10-29T17:34:01.000Z",
-      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 1:56 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 3:54 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 5:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 1:04 PM\r\ndeparting Westgate Station - Gate B at 3:04 PM\r\ndeparting Westgate Station - Gate B at 5:04 PM\r\ndeparting Westgate Station - Gate B at 7:05 PM"
-    },
-    {
-      "id": "54774",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 67: Westbound 6:18 PM Trip Canceled (Union Depot & Gate A1)",
-      "summary": "Westbound Route 67 trip departing Union Depot & Gate A1 at 6:18 PM canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 67"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-29T23:18:00.000Z",
-        "end": "2026-10-30T01:04:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/67",
-      "updatedAt": "2026-10-29T23:11:50.000Z",
-      "rawHeader": "Westbound Route 67 trip departing Union Depot & Gate A1 at 6:18 PM canceled today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "54775",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 539: Service Canceled",
-      "summary": "Route 539 canceled until later today",
-      "affectedRoutes": [
-        "Route 539"
-      ],
-      "direction": "All",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-30T00:03:00.000Z",
-        "end": "2026-10-30T02:44:18.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/539",
-      "updatedAt": "2026-10-30T00:04:03.000Z",
-      "rawHeader": "Route 539 canceled until later today",
-      "rawDescription": ""
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -1118,7 +1036,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/7",
-      "updatedAt": "2026-10-29T20:47:24.000Z",
+      "updatedAt": "2026-10-30T05:00:01.000Z",
       "rawHeader": "Route 7 detoured off Minnehaha Ave from Lake St to 32nd St from 9:00 AM to 11:00 PM on Sat Oct 31 due to Festival De Las Calaveras 2026",
       "rawDescription": "For northbound Route 7 get on/off buses at:\r\nMinnehaha Ave S & 33rd St E - Stop #16310 (northbound)\r\nTemporary stop on 32nd St E just past Minnehaha Ave S (westbound)\r\n26th Ave S & 29th St E - Stop #16315 (northbound)\r\n\nFor southbound Route 7 get on/off buses at:\r\nMinnehaha Ave S & Lake St E - Stop #53567 (southbound)\r\nTemporary stop on 32nd St E & Minnehaha Ave S (eastbound)\r\nMinnehaha Ave S & 33rd St E - Stop #16594 (southbound)\r\n\nNorthbound buses will travel regular route on Minnehaha Ave to 32nd St, left on 32nd St, right on Snelling Ave, right on Lake St, left on Minnehaha Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 26th Ave to Lake St, right on Lake St, left on Snelling Ave, left on 32nd St, right on Minnehaha Ave and resume regular route.\r\n\nAffected stops:\r\nMinnehaha Ave S & 32nd St E - Stop #16311 (northbound)\r\nMinnehaha Ave & Lake St E - Stop #57481 (northbound)\r\nMinnehaha Ave S & 32nd St E - Stop #16593 (southbound)"
     },
@@ -1498,7 +1416,7 @@
       },
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
-      "updatedAt": "2026-10-29T05:00:01.000Z",
+      "updatedAt": "2026-10-30T05:00:01.000Z",
       "rawHeader": "Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 11th St to 12th St from Mon Oct 26 at 7:00 AM to Fri Oct 30 at 4:00 PM due to construction",
       "rawDescription": "Note: This detour will only be in effect when the road is blocked. If road is open, buses will follow regular route.\r\n\nGet on/off northbound/eastbound buses at:\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\n\nNo southbound/westbound stops missed.\r\n\nNorthbound/eastbound buses will travel regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume regular route.\r\n\nSouthbound/westbound buses will travel regular route on Nicollet Mall to 11th St, right on 11th St, left on LaSalle Ave, left on 12th St, right on Nicollet Mall, and resume regular route.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)"
     },
@@ -3182,7 +3100,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/38",
-      "updatedAt": "2026-10-29T15:46:02.000Z",
+      "updatedAt": "2026-10-30T05:00:01.000Z",
       "rawHeader": "Route 38 detoured off Mainstreet from 12th Ave to 8th Ave beginning Sat Oct 31 at 8:30 AM until further notice due to Halloween in Hopkins event",
       "rawDescription": "For eastbound Route 38 get on/off buses at:\r\nMainstreet & 13th Ave S - Stop #4818 (eastbound)\r\nMainstreet & 7th Ave S - Stop #4820 (eastbound)\r\n\nFor westbound Route 38 get on/off buses at:\r\nMainstreet & 6th Ave N - Stop #3571 (westbound)\r\nMainstreet & 14th Ave N - Stop #41312 (westbound)\r\n\nEastbound buses will travel regular route on Mainstreet to 12th Ave, left on 12th Ave, right on 1st St, right on 8th Ave, left on Mainstreet and resume regular route.\r\n\nWestbound buses will travel regular route on Mainstreet to 8th Ave, right on 8th Ave, left on 1st St, left on 12th Ave, right on Mainstreet and resume regular route.\r\n\nAffected stops:\r\nMainstreet & 12th Ave / 11th Ave S - Stop #43380 (eastbound)\r\nMainstreet & 9th Ave S - Stop #4819 (eastbound)\r\nMainstreet & 9th Ave N - Stop #3572 (westbound)\r\nMainstreet & 11th Ave N - Stop #3573 (westbound)"
     },
@@ -4860,7 +4778,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/68",
-      "updatedAt": "2026-10-29T20:46:41.000Z",
+      "updatedAt": "2026-10-30T05:00:01.000Z",
       "rawHeader": "Route 68 detoured off 5th Ave S from Southview Blvd to 3rd St N from 4:00 PM to 8:00 PM on Sat Oct 31 due to Great Halloween Get Together",
       "rawDescription": "Update to northbound routing 10/29 at 12:15 PM.\r\n\nFor northbound Route 68 get on/off buses at:\r\n5th Ave S & Southview Blvd - Stop #9822 (northbound)\r\nSouthview Blvd & 7th Ave S - Stop #9834 (westbound)\r\n\nFor southbound Route 68 get on/off buses at:\r\nSouthview Blvd & 5th Ave S - Stop #9938 (eastbound)\r\n\nNorthbound Route 68 buses serving the John Carroll Building will travel the regular route on 5th Ave S to Southview Blvd, left on Southview Blvd, and resume the regular route.\r\n\nSouthbound Route 68C buses will travel the regular route on Southview Blvd to 5th Ave S, right on 5th Ave S, and resume the regular route.\r\n\nAffected stops:\r\n5th Ave N & Marie Ave - Stop #9823 (northbound)\r\n5th Ave N & 3rd St N - Stop #9825 (northbound)\r\n3rd St N & 4th Ave N - Stop #9826 (eastbound)\r\n3rd Ave N & 2nd St - Stop #9827 (southbound)\r\nMarie Ave & 2nd Ave S - Stop #9828 (eastbound)\r\n2nd Ave S & Southview Blvd - Stop #9829 (southbound)\r\nSouthview Blvd & 3rd Ave S - Stop #9830 (westbound)\r\nSouthview Blvd & 5th Ave S - Stop #9832 (westbound)"
     },
@@ -6233,7 +6151,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-29T05:00:01.000Z",
+      "updatedAt": "2026-10-30T05:00:02.000Z",
       "rawHeader": "American & Chicago Station - Stop #56920 (eastbound) is closed for Routes 542, 686 and D Line from 7:30 AM to 6:00 PM on Fri Oct 30",
       "rawDescription": "Get on/off Route 542 buses at:\r\nAmerican Blvd & Portland Ave S - Stop #4521 (eastbound)\r\nAmerican Blvd & 12th Ave S - Stop #4524 (eastbound)\r\n\nGet on/off Route 686 buses at:\r\nAmerican Blvd & Nicollet Ave S - Stop #51842 (eastbound)\r\nAmerican Blvd & 12th Ave S - Stop #4524 (eastbound)\r\nAmerican & Bloomington Station - Stop #42318 (eastbound)\r\n\nGet on/off D Line buses at:\r\nPortland & 77th St Station - Stop #449 (southbound)\r\nAmerican Blvd & 12th Ave S - Stop #4524 (eastbound)\r\nAmerican & Bloomington Station - Stop #42318 (eastbound)"
     },
@@ -6405,7 +6323,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/615",
-      "updatedAt": "2026-10-29T15:52:20.000Z",
+      "updatedAt": "2026-10-30T05:00:01.000Z",
       "rawHeader": "Route 615 detoured off Mainstreet from 12th Ave to 8th Ave beginning Sat Oct 31 at 8:30 AM until further notice due to Halloween in Hopkins event",
       "rawDescription": "For eastbound Route 615 get on/off buses at:\r\n12th Ave N & 1st St N - Stop #49585 (southbound)\r\nMainstreet & 7th Ave S - Stop #4820 (eastbound)\r\n\nFor westbound Route 615 get on/off buses at:\r\nMainstreet & 6th Ave N - Stop #3571 (westbound)\r\n12th Ave N & 2nd St N - Stop #49579 (northbound)\r\n\nEastbound buses will travel regular route on 12th Ave to 1st St, left on 1st St, right on 8th Ave, left on Mainstreet and resume regular route.\r\n\nWestbound buses will travel regular route on Mainstreet to 8th Ave, right on 8th Ave, left on 1st St, right on 12th Ave and resume regular route.\r\n\nAffected stops:\r\nMainstreet & 12th Ave / 11th Ave S - Stop #43380 (eastbound)\r\nMainstreet & 9th Ave S - Stop #4819 (eastbound)\r\nMainstreet & 9th Ave N - Stop #3572 (westbound)\r\nMainstreet & 11th Ave N - Stop #3573 (westbound)\r\n12th Ave N & 1st St N - Stop #49578 (northbound)"
     },
@@ -6938,7 +6856,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/827",
-      "updatedAt": "2026-10-27T17:50:45.000Z",
+      "updatedAt": "2026-10-30T05:00:01.000Z",
       "rawHeader": "Route 827 detoured off Marshall St/Main St from Hennepin Ave to 8th Ave NE from 6:30 AM to 10:30 AM on Sat Oct 31 due to Halloween Half Marathon 2026",
       "rawDescription": "For northbound Route 827 get on/off buses at:\r\nHennepin Ave & 1st St S - Stop #17952 (northbound)\r\n2nd St NE & 4th Ave NE - Stop #14687 (northbound)\r\n2nd St NE & 7th Ave NE - Stop #14680 (northbound)\r\nMarshall St NE & Broadway St NE - Stop #57552 (northbound)\r\n\nFor southbound Route 827 get on/off buses at:\r\nMarshall St NE & Broadway St NE - Stop #57575 (southbound)\r\n2nd St NE & 5th Ave NE - Stop #14685 (southbound)\r\n2nd St NE & 3rd Ave NE - Stop #14689 (southbound)\r\nMarquette Ave & 2nd St S - Stop #19238 (southbound)\r\n\nNorthbound buses will travel the regular route on Hennepin Ave to Main St NE, continue on Hennepin Ave, left on 2nd St NE, left on 8th Ave NE, right on Marshall St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Marshall St to 8th Ave NE, left on 8th Ave NE, right on 2nd St NE, right on 1st Ave to Main St NE, continue on 1st Ave, and resume the regular route.\r\n\nAffected stops:\r\nMain St NE & 1st Ave NE - Stop #57549 (northbound)\r\nMain St NE & 3rd Ave NE - Stop #57550 (northbound)\r\nMarshall St NE & 8th Ave NE - Stop #57551 (northbound)\r\nMarshall St NE & 8th Ave NE - Stop #57576 (southbound)\r\nMarshall St NE & 3rd Ave NE - Stop #57577 (southbound)\r\nMain St NE & 1st Ave NE - Stop #57578 (southbound)"
     },
