@@ -2,17 +2,17 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-108-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-5-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-102-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-104-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-100-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-1-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-69-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-70-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-29T20:10:51.851Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-30T00:46:16.155Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (1) • **Route 11** (3) • **Route 14** (1) • **Route 17** (4) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (7) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (3) • **Route 64** (6) • **Route 64D** (1) • **Route 67** (2) • **Route 68** (5) • **Route 68C** (2) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (2) • **Route 215** (1) • **Route 219** (1) • **Route 223** (3) • **Route 275** (1) • **Route 294** (1) • **Route 515** (2) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (2) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (2) • **Route 805** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO D Line** (2) • **METRO G Line** (2) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (1) • **Route 5** (1) • **Route 7** (3) • **Route 9** (6) • **Route 10** (1) • **Route 11** (3) • **Route 14** (1) • **Route 17** (4) • **Route 17W** (1) • **Route 18** (6) • **Route 22** (5) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (3) • **Route 64** (6) • **Route 64D** (1) • **Route 67** (2) • **Route 68** (6) • **Route 68C** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 94** (1) • **Route 156** (2) • **Route 215** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 515** (2) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 539** (1) • **Route 540** (1) • **Route 542** (3) • **Route 578** (3) • **Route 615** (2) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (2) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
@@ -52,118 +52,39 @@ departing Westgate Station - Gate B at 7:05 PM
 
 ---
 
-### 🚨 Route 67: Eastbound 2:10 PM Trip Canceled (Franklin Ave E & Franklin Station)
+### 🚨 Route 67: Westbound 6:18 PM Trip Canceled (Union Depot & Gate A1)
 
 - **Affected Routes**: `Route 67`
-- **Direction**: Eastbound
+- **Direction**: Westbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #10740, Stop #11896, Stop #11912, Stop #18808, Stop #18809, Stop #18810, Stop #18811, Stop #18814 *(+42 more)*
 
-**Summary**: Eastbound Route 67 trip departing Franklin Ave E & Franklin Station at 2:10 PM canceled today due to maintenance work
+**Summary**: Westbound Route 67 trip departing Union Depot & Gate A1 at 6:18 PM canceled today due to maintenance work
 
 [Official Agency Advisory](https://www.metrotransit.org/route/67)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Route 67 trip departing Franklin Ave E & Franklin Station at 2:10 PM canceled today due to maintenance work
+**Header**: Westbound Route 67 trip departing Union Depot & Gate A1 at 6:18 PM canceled today due to maintenance work
 
 </details>
 
 ---
 
-### 🚨 Route 71: Service Canceled
+### 🚨 Route 539: Service Canceled
 
-- **Affected Routes**: `Route 71`
-- **Direction**: Both Directions
+- **Affected Routes**: `Route 539`
+- **Direction**: All
 - **Severity**: `Critical`
 
-**Summary**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today
+**Summary**: Route 539 canceled until later today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
+[Official Agency Advisory](https://www.metrotransit.org/route/539)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today
-
-```text
-Affected northbound trips:
-departing Inver Hills College & Shelter at 12:38 PM
-departing Inver Hills College & Shelter at 3:38 PM
-
-Affected southbound trips:
-departing Market Place Dr & The Marketplace Ctr at 2:12 PM
-departing Market Place Dr & The Marketplace Ctr at 5:13 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 802: Service Canceled
-
-- **Affected Routes**: `Route 802`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/802)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate E at 11:34 AM
-departing Northtown Transit Ctr Gate E at 1:34 PM
-departing Northtown Transit Ctr Gate E at 3:34 PM
-departing Northtown Transit Ctr Gate E at 5:34 PM
-
-Affected southbound trips:
-departing Anoka Tech College & Main Entrance at 12:42 PM
-departing Anoka Tech College & Main Entrance at 2:42 PM
-departing Anoka Tech College & Main Entrance at 4:42 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 805: Service Canceled
-
-- **Affected Routes**: `Route 805`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
-departing 1st Ave S & Monroe St; 38 PM
-departing 1st Ave S & Monroe St; 36 PM
-departing 1st Ave S & Monroe St
-
-**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate D at 12:34 PM
-departing Northtown Transit Ctr Gate D at 2:34 PM
-departing Northtown Transit Ctr Gate D at 4:34 PM
-
-Affected southbound trips:
-departing 1st Ave S & Monroe St at 11:38 AM
-departing 1st Ave S & Monroe St at 1:38 PM
-departing 1st Ave S & Monroe St at 3:36 PM
-departing 1st Ave S & Monroe St at 5:38 PM
-```
+**Header**: Route 539 canceled until later today
 
 </details>
 
@@ -1568,36 +1489,6 @@ Nicollet Ave S & 35th St W - Stop #1216 (southbound)
 
 ---
 
-### ⚠️ Route 22: Stop Closed at Lyndale Ave N & 44th Ave N
-
-- **Affected Routes**: `Route 22`
-- **Direction**: Northbound
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Thu Aug 27 at 7:00 AM until further notice
-- **Corridors & Intersections**: Lyndale Ave N & 44th Ave N; Lyndale Ave N & 42nd Ave N; 45th Ave N & Lyndale Ave N
-- **Closed Stops**: Stop #11202, Stop #57197, Stop #11412
-
-**Summary**: Lyndale Ave N & 44th Ave N - Stop #11202 (northbound) is closed for Route 22 beginning Thu Aug 27 at 7:00 AM until further notice. Board at: Lyndale Ave N & 42nd Ave N - Stop #57197 (northbound); 45th Ave N & Lyndale Ave N - Stop #11412 (westbound).
-
-> 💡 **Rider Action**: Board at: Lyndale Ave N & 42nd Ave N - Stop #57197 (northbound); 45th Ave N & Lyndale Ave N - Stop #11412 (westbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/22)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Lyndale Ave N & 44th Ave N - Stop #11202 (northbound) is closed for Route 22 beginning Thu Aug 27 at 7:00 AM until further notice
-
-```text
-Get on/off buses at:
-Lyndale Ave N & 42nd Ave N - Stop #57197 (northbound)
-45th Ave N & Lyndale Ave N - Stop #11412 (westbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 22: Detour via Lyndale Ave N & Lowry Ave N
 
 - **Affected Routes**: `Route 22`
@@ -1762,55 +1653,6 @@ Cedar Ave S & 24th St E - Stop #40460 (northbound)
 Cedar Ave S & 26th St E - Stop #15368 (southbound)
 Cedar Ave S & 28th St E - Stop #15372 (southbound)
 Cedar Ave S & Lake St E - Stop #15374 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 22: Detour via 7th St N & Oak Lake Ave N
-
-- **Affected Routes**: `Route 22`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 7th St N & Oak Lake Ave N; Lyndale Ave N & 23rd Ave N; Lyndale Ave N & West Broadway - St; 7th St N & Oak Lake Ave; Lyndale Ave N & Plymouth Ave N
-- **Closed Stops**: Lyndale Ave N & Plymouth Ave N (Stop #57195), Lyndale Ave N & 14th Ave / 18th Ave N (Stop #11178), Lyndale Ave N & 18th Ave N (Stop #11179), Lyndale Ave N & West Broadway (Stop #11180), Lyndale Ave N & 18th Ave N (Stop #11653), Lyndale Ave N & 18th Ave / 14th Ave N (Stop #11654), Lyndale Ave N & Plymouth Ave (Stop #11656), Stop #57216 *(+4 more)*
-
-**Summary**: Route 22 detoured off Lyndale Ave from Plymouth Ave to West Broadway Ave from 6:00 AM to 5:00 PM on Thu Oct 29 due to construction. Board at: 7th St N & Oak Lake Ave N - Stop #57216 (northbound); Emerson & Plymouth Station - Stop #8920 (northbound); Lyndale Ave N & 23rd Ave N - Stop #11183 (northbound).
-
-> 💡 **Rider Action**: Board at: 7th St N & Oak Lake Ave N - Stop #57216 (northbound); Emerson & Plymouth Station - Stop #8920 (northbound); Lyndale Ave N & 23rd Ave N - Stop #11183 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on Lyndale Ave to Plymouth Ave, left on Plymouth, right on Emerson Ave, right on West Broadway Ave, left on Lyndale Ave, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/22)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 22 detoured off Lyndale Ave from Plymouth Ave to West Broadway Ave from 6:00 AM to 5:00 PM on Thu Oct 29 due to construction
-
-```text
-For northbound Route 22 get on/off buses at:
-7th St N & Oak Lake Ave N - Stop #57216 (northbound)
-Emerson & Plymouth Station - Stop #8920 (northbound)
-Lyndale Ave N & 23rd Ave N - Stop #11183 (northbound)
-
-For southbound Route 22 get on/off buses at:
-Lyndale Ave N & West Broadway - Stop #11652 (southbound)
-7th St N & Oak Lake Ave - Stop #51791 (southbound)
-
-Northbound buses will travel regular route on Lyndale Ave to Plymouth Ave, left on Plymouth, right on Emerson Ave, right on West Broadway Ave, left on Lyndale Ave, and resume regular route.
-
-Southbound buses will travel regular route on Lyndale Ave to West Broadway Ave, right on West Broadway, left on Fremont Ave, left on Plymouth Ave, right on Lyndale Ave, and resume regular route.
-
-Affected stops:
-Lyndale Ave N & Plymouth Ave N - Stop #57195 (northbound)
-Lyndale Ave N & 14th Ave / 18th Ave N - Stop #11178 (northbound)
-Lyndale Ave N & 18th Ave N - Stop #11179 (northbound)
-Lyndale Ave N & West Broadway - Stop #11180 (northbound)
-Lyndale Ave N & 18th Ave N - Stop #11653 (southbound)
-Lyndale Ave N & 18th Ave / 14th Ave N - Stop #11654 (southbound)
-Lyndale Ave N & Plymouth Ave - Stop #11656 (southbound)
 ```
 
 </details>
@@ -3191,6 +3033,51 @@ Southview Blvd & 5th Ave S - Stop #9832 (westbound)
 
 ---
 
+### ⚠️ Route 68, METRO G Line: Detour via Robert St S & Arion St
+
+- **Affected Routes**: `Route 68` `METRO G Line`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Mon Nov 2 at 6:00 AM until further notice
+- **Corridors & Intersections**: Robert St S & Arion St; Robert St S & Logan Ave; Robert St S & Butler Ave; Robert St S & Orme St; Robert St S & Moreland Ave
+- **Closed Stops**: Robert St S & Butler Ave (Stop #9908), Robert St S & Orme St (Stop #326), Robert St S & Moreland Ave (Stop #329), Stop #9906
+
+**Summary**: Route 68 detoured off Robert St from Butler Ave to Moreland Ave beginning Mon Nov 2 at 6:00 AM until further notice due to METRO G Line construction. Board at: Robert St S & Arion St - Stop #9906 (southbound); Robert St S & Logan Ave - Stop #330 (southbound).
+
+> 💡 **Rider Action**: Board at: Robert St S & Arion St - Stop #9906 (southbound); Robert St S & Logan Ave - Stop #330 (southbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/68)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 68 detoured off Robert St from Butler Ave to Moreland Ave beginning Mon Nov 2 at 6:00 AM until further notice due to METRO G Line construction
+
+```text
+Get on/off southbound buses at:
+Robert St S & Arion St - Stop #9906 (southbound)
+Robert St S & Logan Ave - Stop #330 (southbound)
+
+No northbound bus stops missed.
+
+Northbound buses will travel regular route.
+
+Southbound buses will travel regular route on Robert St to Butler Ave, left on Butler Ave, right on Oakdale Ave, right on Moreland Ave, left on Robert St and resume regular route.
+
+Affected direction: Southbound
+
+Affected stops:
+Robert St S & Butler Ave - Stop #9908 (southbound)
+Robert St S & Orme St - Stop #326 (southbound)
+Robert St S & Moreland Ave - Stop #329 (southbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 71, Route 71K: Detour via Little Canada Rd & Centerville Rd
 
 - **Affected Routes**: `Route 71` `Route 71K`
@@ -3394,6 +3281,50 @@ Westbound buses will travel regular route on 46th St to Hiawatha Ave, right on H
 
 ---
 
+### ⚠️ Route 75, METRO G Line: Detour via Butler Ave & Livingston Ave
+
+- **Affected Routes**: `Route 75` `METRO G Line`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Mon Nov 2 at 6:00 AM until further notice
+- **Corridors & Intersections**: Butler Ave & Livingston Ave; Robert St S & Logan Ave; Robert St S & Orme St; Robert St S & Moreland Ave; Robert St (Butler Ave to Moreland Ave)
+- **Closed Stops**: Robert St S & Orme St (Stop #326), Robert St S & Moreland Ave (Stop #329)
+
+**Summary**: Route 75 detoured off Robert St from Butler Ave to Moreland Ave beginning Mon Nov 2 at 6:00 AM until further notice due to METRO G Line construction. Board at: Butler Ave & Livingston Ave / Robert St - Stop #324 (eastbound); Robert St S & Logan Ave - Stop #330 (southbound).
+
+> 💡 **Rider Action**: Board at: Butler Ave & Livingston Ave / Robert St - Stop #324 (eastbound); Robert St S & Logan Ave - Stop #330 (southbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/75)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 75 detoured off Robert St from Butler Ave to Moreland Ave beginning Mon Nov 2 at 6:00 AM until further notice due to METRO G Line construction
+
+```text
+Get on/off southbound buses at:
+Butler Ave & Livingston Ave / Robert St - Stop #324 (eastbound)
+Robert St S & Logan Ave - Stop #330 (southbound)
+
+No northbound bus stops missed.
+
+Northbound buses will travel regular route.
+
+Southbound buses will travel regular route on Butler Ave to Robert St, continue on Butler Ave to Oakdale Ave, right on Oakdale Ave, right on Moreland Ave, left on Robert St and resume regular route.
+
+Affected direction: Southbound
+
+Affected stops:
+Robert St S & Orme St - Stop #326 (southbound)
+Robert St S & Moreland Ave - Stop #329 (southbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 156, Route 578, Route 824, Route 827, Route 850, Route 882, Route 888: Stop Closed at 2nd Ave S & 9th St
 
 - **Affected Routes**: `Route 156` `Route 578` `Route 824` `Route 827` `Route 850` `Route 882` `Route 888`
@@ -3495,98 +3426,6 @@ Affected stops:
 McKnight Rd N & Montana Ave E - Stop #57703 (northbound)
 McKnight Rd N & Montana Ave E - Stop #57704 (southbound)
 McKnight Rd N & Arlington Ave E - Stop #57702 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 219: Detour via Hadley Ave & 7th St
-
-- **Affected Routes**: `Route 219`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Thu May 28 at 6:30 AM until further notice
-- **Corridors & Intersections**: Hadley Ave & 7th St; Hadley Ave N & Hadley Lane - St; Greenway Ave N & Hudson Blvd; Greenway Ave N & 1st St N; Greenway Ave N & 2nd St N
-- **Closed Stops**: Greenway Ave N & Hudson Blvd (Stop #49811), Greenway Ave N & 1st St N (Stop #49812), Greenway Ave N & 2nd St N (Stop #49813), Greenway Ave N & 4th St N (Stop #49814), Greenway Ave N & Upper 5th St N (Stop #49815), Greenway Ave N & 7th St N (Stop #49816), 7th St N & Guthrie Ave N (Stop #49817), 7th St N & Guthrie Ave N (Stop #42855) *(+11 more)*
-
-**Summary**: Route 219 detoured off Greenway Ave from Hudson Blvd to 7th St and off 7th St from Greenway Ave to Hadley Ave beginning Thu May 28 at 6:30 AM until further notice due to construction. Board at: Dellwood Lane & Hudson Blvd - Stop #50529 (southbound); Greenway Ave Station - Stop #57434 (eastbound); Temporary stop on Hadley Ave & 7th St (northbound).
-
-> 💡 **Rider Action**: Board at: Dellwood Lane & Hudson Blvd - Stop #50529 (southbound); Greenway Ave Station - Stop #57434 (eastbound); Temporary stop on Hadley Ave & 7th St (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on Hudson Blvd to Greenway Ave, continue on Hudson to Hadley Ave, left on Hadley Ave to 7th St, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/219)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 219 detoured off Greenway Ave from Hudson Blvd to 7th St and off 7th St from Greenway Ave to Hadley Ave beginning Thu May 28 at 6:30 AM until further notice due to construction
-
-```text
-Updated get on/off stops 6/10 3:30 pm.
-
-For northbound Route 219 get on/off buses at:
-Dellwood Lane & Hudson Blvd - Stop #50529 (southbound)
-Greenway Ave Station - Stop #57434 (eastbound)
-Temporary stop on Hadley Ave & 7th St (northbound)
-Hadley Ave N & Hadley Lane - Stop #49818 (northbound)
-
-For southbound Route 219 get on/off buses at:
-Hadley Ave N & Hadley Lane - Stop #42853 (southbound)
-Temporary stop on Hadley Ave & 7th St (southbound)
-Greenway Ave Station - Stop #57433 (westbound)
-Dellwood Lane & Hudson Blvd - Stop #50529 (southbound)
-
-Northbound buses will travel regular route on Hudson Blvd to Greenway Ave, continue on Hudson to Hadley Ave, left on Hadley Ave to 7th St, and resume regular route.
-
-Southbound buses will travel regular route on Hadley Ave to 7th St, continue on Hadley to Hudson Blvd, right on Hudson to Greenway Ave, and resume regular route.
-
-Affected stops:
-Greenway Ave N & Hudson Blvd - Stop #49811 (northbound)
-Greenway Ave N & 1st St N - Stop #49812 (northbound)
-Greenway Ave N & 2nd St N - Stop #49813 (northbound)
-Greenway Ave N & 4th St N - Stop #49814 (northbound)
-Greenway Ave N & Upper 5th St N - Stop #49815 (northbound)
-Greenway Ave N & 7th St N - Stop #49816 (northbound)
-7th St N & Guthrie Ave N - Stop #49817 (eastbound)
-7th St N & Guthrie Ave N - Stop #42855 (westbound)
-7th St N & Greenway Ave N - Stop #42856 (westbound)
-Greenway Ave N & Upper 5th St N - Stop #2302 (southbound)
-Greenway Ave N & 4th St N - Stop #2305 (southbound)
-Greenway Ave N & 2nd St N - Stop #2307 (southbound)
-Greenway Ave N & 1st St N - Stop #2308 (southbound)
-Greenway Ave N & Hudson Blvd - Stop #2309 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 223: Stop Closed at Beam Ave & Hazelwood St
-
-- **Affected Routes**: `Route 223`
-- **Direction**: Westbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Beam Ave & Hazelwood St; Beam Ave & Kennard St; Beam Ave & Country View Dr
-- **Closed Stops**: Stop #7297, Stop #7296, Stop #53121
-
-**Summary**: Beam Ave & Hazelwood St - Stop #7297 (westbound) is closed for Route 223 until further notice due to construction. Board at: Beam Ave & Kennard St - Stop #7296 (westbound); Temporary stop on Beam Ave just past Hazelwood St (westbound); Beam Ave & Country View Dr - Stop #53121 (westbound).
-
-> 💡 **Rider Action**: Board at: Beam Ave & Kennard St - Stop #7296 (westbound); Temporary stop on Beam Ave just past Hazelwood St (westbound); Beam Ave & Country View Dr - Stop #53121 (westbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/223)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Beam Ave & Hazelwood St - Stop #7297 (westbound) is closed for Route 223 until further notice due to construction
-
-```text
-Get on/off buses at:
-Beam Ave & Kennard St - Stop #7296 (westbound)
-Temporary stop on Beam Ave just past Hazelwood St (westbound)
-Beam Ave & Country View Dr - Stop #53121 (westbound)
 ```
 
 </details>
