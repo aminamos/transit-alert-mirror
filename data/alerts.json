@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-30T23:36:24.129Z",
-    "totalAlerts": 97,
-    "criticalCount": 6,
+    "generatedAt": "2026-10-31T05:17:09.033Z",
+    "totalAlerts": 93,
+    "criticalCount": 2,
     "moderateCount": 89,
     "minorCount": 2,
     "affectedRoutesCount": 65,
@@ -12,234 +12,116 @@
   },
   "alerts": [
     {
-      "id": "54804",
+      "id": "54809",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 18: Service Advisory",
-      "summary": "Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 6:30 PM will start from I-35W & 98th Street Station. Previous stops missed due to maintenance",
+      "title": "METRO B Line: Eastbound 10:42 PM Trip Canceled (Lake St W & France Ave S)",
+      "summary": "Eastbound B Line trip departing Lake St W & France Ave S at 10:42 PM canceled today",
       "affectedRoutes": [
-        "Route 18"
+        "METRO B Line"
       ],
-      "direction": "Northbound",
+      "direction": "Eastbound",
       "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-31T04:13:00.000Z",
+        "end": "2026-10-31T05:36:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-10-31T05:00:01.000Z",
+      "rawHeader": "Eastbound B Line trip departing Lake St W & France Ave S at 10:42 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "54808",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO D Line: Service Advisory",
+      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 10:51 PM will operate from 7th St & Olson Station at 11:14 PM today",
+      "affectedRoutes": [
+        "METRO D Line"
+      ],
+      "direction": "Southbound",
+      "intersections": [
+        "51 PM will operate from 7th St & Olson St"
+      ],
       "closedStopIds": [
-        "1399",
-        "1400",
-        "1402",
-        "1397",
-        "1404",
-        "1405",
-        "1401",
-        "57131",
-        "1403",
-        "41541",
-        "1406",
-        "1407",
-        "51631",
-        "50026"
+        "56905",
+        "9589",
+        "9087",
+        "56903",
+        "11146",
+        "11161",
+        "56906",
+        "56823",
+        "56907",
+        "9577",
+        "9611",
+        "56908",
+        "9173",
+        "56904"
       ],
       "closedStopDetails": [
         {
-          "id": "1399"
+          "id": "56905"
         },
         {
-          "id": "1400"
+          "id": "9589"
         },
         {
-          "id": "1402"
+          "id": "9087"
         },
         {
-          "id": "1397"
+          "id": "56903"
         },
         {
-          "id": "1404"
+          "id": "11146"
         },
         {
-          "id": "1405"
+          "id": "11161"
         },
         {
-          "id": "1401"
+          "id": "56906"
         },
         {
-          "id": "57131"
+          "id": "56823"
         },
         {
-          "id": "1403"
+          "id": "56907"
         },
         {
-          "id": "41541"
+          "id": "9577"
         },
         {
-          "id": "1406"
+          "id": "9611"
         },
         {
-          "id": "1407"
+          "id": "56908"
         },
         {
-          "id": "51631"
+          "id": "9173"
         },
         {
-          "id": "50026"
+          "id": "56904"
         }
       ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-30T23:30:00.000Z",
-        "end": "2026-10-31T01:44:00.000Z"
+        "start": "2026-10-31T03:57:00.000Z",
+        "end": "2026-10-31T05:59:00.000Z"
       },
-      "cause": "MAINTENANCE",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/18",
-      "updatedAt": "2026-10-30T23:17:17.000Z",
-      "rawHeader": "Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 6:30 PM will start from I-35W & 98th Street Station. Previous stops missed due to maintenance",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-10-31T05:00:01.000Z",
+      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 10:51 PM will operate from 7th St & Olson Station at 11:14 PM today",
       "rawDescription": ""
-    },
-    {
-      "id": "54777",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 30: Service Canceled",
-      "summary": "Route 30 trip departing Knox Ave N & Golden Valley Rd at 9:56 AM and thirteen other trips canceled today",
-      "affectedRoutes": [
-        "Route 30"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 30 trip departing Knox Ave N & Golden Valley Rd",
-        "departing Knox Ave N & Golden Valley Rd",
-        "56 AM\ndeparting Knox Ave N & Golden Valley Rd",
-        "56 PM\ndeparting Knox Ave N & Golden Valley Rd",
-        "54 PM\ndeparting Knox Ave N & Golden Valley Rd"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-30T16:26:00.000Z",
-        "end": "2026-10-31T04:47:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-10-30T16:26:55.000Z",
-      "rawHeader": "Route 30 trip departing Knox Ave N & Golden Valley Rd at 9:56 AM and thirteen other trips canceled today",
-      "rawDescription": "Updated at 11:26 AM to cancel additional trips.\r\n\nAffected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 9:56 AM\r\ndeparting Knox Ave N & Golden Valley Rd at 11:56 AM\r\ndeparting Knox Ave N & Golden Valley Rd at 1:56 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 3:54 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 5:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 8:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 11:04 AM\r\ndeparting Westgate Station - Gate B at 1:04 PM\r\ndeparting Westgate Station - Gate B at 3:04 PM\r\ndeparting Westgate Station - Gate B at 5:04 PM\r\ndeparting Westgate Station - Gate B at 7:05 PM\r\ndeparting Westgate Station - Gate B at 8:06 PM\r\ndeparting Westgate Station - Gate B at 10:06 PM"
-    },
-    {
-      "id": "54794",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 72: Service Canceled",
-      "summary": "Route 72 trip departing Sun Ray Transit Center & Gate D at 4:48 PM and eight other trips canceled today",
-      "affectedRoutes": [
-        "Route 72"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing Pascal St N & Central Ave W",
-        "50 PM\ndeparting Pascal St N & Central Ave W",
-        "23 PM\ndeparting Pascal St N & Central Ave W",
-        "53 PM\ndeparting Pascal St N & Central Ave W"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-30T21:48:00.000Z",
-        "end": "2026-10-31T04:37:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-10-30T21:18:01.000Z",
-      "rawHeader": "Route 72 trip departing Sun Ray Transit Center & Gate D at 4:48 PM and eight other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 5:50 PM\r\ndeparting Pascal St N & Central Ave W at 7:23 PM\r\ndeparting Pascal St N & Central Ave W at 7:53 PM\r\ndeparting Pascal St N & Central Ave W at 9:23 PM\r\ndeparting Pascal St N & Central Ave W at 9:53 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 4:48 PM\r\ndeparting Sun Ray Transit Center & Gate D at 6:51 PM\r\ndeparting Sun Ray Transit Center & Gate D at 8:21 PM\r\ndeparting Sun Ray Transit Center & Gate D at 8:51 PM"
-    },
-    {
-      "id": "54788",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 83: Service Canceled",
-      "summary": "Route 83 trip departing Montreal Cir & Summit Brewing at 12:01 PM and seven other trips canceled today",
-      "affectedRoutes": [
-        "Route 83"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-30T17:01:00.000Z",
-        "end": "2026-10-31T00:52:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/83",
-      "updatedAt": "2026-10-30T16:31:01.000Z",
-      "rawHeader": "Route 83 trip departing Montreal Cir & Summit Brewing at 12:01 PM and seven other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Montreal Cir & Summit Brewing at 12:01 PM\r\ndeparting Montreal Cir & Summit Brewing at 1:30 PM\r\ndeparting Montreal Cir & Summit Brewing at 3:01 PM\r\ndeparting Montreal Cir & Summit Brewing at 5:01 PM\r\n\nAffected southbound trips:\r\ndeparting Rosedale Transit Center Gate B at 12:45 PM\r\ndeparting Rosedale Transit Center Gate B at 2:15 PM\r\ndeparting Rosedale Transit Center Gate B at 4:12 PM\r\ndeparting Rosedale Transit Center Gate B at 6:16 PM"
-    },
-    {
-      "id": "54789",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 802: Service Canceled",
-      "summary": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and thirteen other trips canceled today",
-      "affectedRoutes": [
-        "Route 802"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-30T16:34:00.000Z",
-        "end": "2026-10-31T00:24:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-10-30T16:04:01.000Z",
-      "rawHeader": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and thirteen other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 11:34 AM\r\ndeparting Northtown Transit Ctr Gate E at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 4:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 11:43 AM\r\ndeparting Anoka Tech College & Main Entrance at 12:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 1:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 2:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 3:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 4:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 5:45 PM"
-    },
-    {
-      "id": "54790",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 805: Service Canceled",
-      "summary": "Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and thirteen other trips canceled today",
-      "affectedRoutes": [
-        "Route 805"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing 1st Ave S & Monroe St",
-        "38 AM\ndeparting 1st Ave S & Monroe St",
-        "38 PM\ndeparting 1st Ave S & Monroe St",
-        "36 PM\ndeparting 1st Ave S & Monroe St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-30T16:34:00.000Z",
-        "end": "2026-10-31T00:24:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-10-30T16:18:19.000Z",
-      "rawHeader": "Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and thirteen other trips canceled today",
-      "rawDescription": "Updated at 11:17 AM to cancel additional trips.\r\n\nAffected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 11:34 AM\r\ndeparting Northtown Transit Ctr Gate D at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 11:38 AM\r\ndeparting 1st Ave S & Monroe St at 12:38 PM\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 2:36 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 4:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
     },
     {
       "id": "52943",
@@ -326,15 +208,15 @@
       "direction": "All",
       "intersections": [],
       "closedStopIds": [
-        "51412",
-        "51427"
+        "51427",
+        "51412"
       ],
       "closedStopDetails": [
         {
-          "id": "51412"
+          "id": "51427"
         },
         {
-          "id": "51427"
+          "id": "51412"
         }
       ],
       "riderAlternative": null,
@@ -1077,7 +959,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/7",
-      "updatedAt": "2026-10-30T05:00:01.000Z",
+      "updatedAt": "2026-10-31T05:00:01.000Z",
       "rawHeader": "Route 7 detoured off Minnehaha Ave from Lake St to 32nd St from 9:00 AM to 11:00 PM on Sat Oct 31 due to Festival De Las Calaveras 2026",
       "rawDescription": "For northbound Route 7 get on/off buses at:\r\nMinnehaha Ave S & 33rd St E - Stop #16310 (northbound)\r\nTemporary stop on 32nd St E just past Minnehaha Ave S (westbound)\r\n26th Ave S & 29th St E - Stop #16315 (northbound)\r\n\nFor southbound Route 7 get on/off buses at:\r\nMinnehaha Ave S & Lake St E - Stop #53567 (southbound)\r\nTemporary stop on 32nd St E & Minnehaha Ave S (eastbound)\r\nMinnehaha Ave S & 33rd St E - Stop #16594 (southbound)\r\n\nNorthbound buses will travel regular route on Minnehaha Ave to 32nd St, left on 32nd St, right on Snelling Ave, right on Lake St, left on Minnehaha Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on 26th Ave to Lake St, right on Lake St, left on Snelling Ave, left on 32nd St, right on Minnehaha Ave and resume regular route.\r\n\nAffected stops:\r\nMinnehaha Ave S & 32nd St E - Stop #16311 (northbound)\r\nMinnehaha Ave & Lake St E - Stop #57481 (northbound)\r\nMinnehaha Ave S & 32nd St E - Stop #16593 (southbound)"
     },
@@ -2671,7 +2553,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/38",
-      "updatedAt": "2026-10-30T18:56:20.000Z",
+      "updatedAt": "2026-10-31T05:00:01.000Z",
       "rawHeader": "Route 38 detoured off Mainstreet from 12th Ave to 8th Ave beginning Sat Oct 31 at 8:30 AM until further notice due to Halloween in Hopkins event",
       "rawDescription": "Added map 10/30 at 2:00 PM.\r\n\nFor eastbound Route 38 get on/off buses at:\r\nMainstreet & 13th Ave S - Stop #4818 (eastbound)\r\nMainstreet & 7th Ave S - Stop #4820 (eastbound)\r\n\nFor westbound Route 38 get on/off buses at:\r\nMainstreet & 6th Ave N - Stop #3571 (westbound)\r\nMainstreet & 14th Ave N - Stop #41312 (westbound)\r\n\nEastbound buses will travel regular route on Mainstreet to 12th Ave, left on 12th Ave, right on 1st St, right on 8th Ave, left on Mainstreet and resume regular route.\r\n\nWestbound buses will travel regular route on Mainstreet to 8th Ave, right on 8th Ave, left on 1st St, left on 12th Ave, right on Mainstreet and resume regular route.\r\n\nAffected stops:\r\nMainstreet & 12th Ave / 11th Ave S - Stop #43380 (eastbound)\r\nMainstreet & 9th Ave S - Stop #4819 (eastbound)\r\nMainstreet & 9th Ave N - Stop #3572 (westbound)\r\nMainstreet & 11th Ave N - Stop #3573 (westbound)"
     },
@@ -4246,7 +4128,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/68",
-      "updatedAt": "2026-10-30T05:00:01.000Z",
+      "updatedAt": "2026-10-31T05:00:01.000Z",
       "rawHeader": "Route 68 detoured off 5th Ave S from Southview Blvd to 3rd St N from 4:00 PM to 8:00 PM on Sat Oct 31 due to Great Halloween Get Together",
       "rawDescription": "Update to northbound routing 10/29 at 12:15 PM.\r\n\nFor northbound Route 68 get on/off buses at:\r\n5th Ave S & Southview Blvd - Stop #9822 (northbound)\r\nSouthview Blvd & 7th Ave S - Stop #9834 (westbound)\r\n\nFor southbound Route 68 get on/off buses at:\r\nSouthview Blvd & 5th Ave S - Stop #9938 (eastbound)\r\n\nNorthbound Route 68 buses serving the John Carroll Building will travel the regular route on 5th Ave S to Southview Blvd, left on Southview Blvd, and resume the regular route.\r\n\nSouthbound Route 68C buses will travel the regular route on Southview Blvd to 5th Ave S, right on 5th Ave S, and resume the regular route.\r\n\nAffected stops:\r\n5th Ave N & Marie Ave - Stop #9823 (northbound)\r\n5th Ave N & 3rd St N - Stop #9825 (northbound)\r\n3rd St N & 4th Ave N - Stop #9826 (eastbound)\r\n3rd Ave N & 2nd St - Stop #9827 (southbound)\r\nMarie Ave & 2nd Ave S - Stop #9828 (eastbound)\r\n2nd Ave S & Southview Blvd - Stop #9829 (southbound)\r\nSouthview Blvd & 3rd Ave S - Stop #9830 (westbound)\r\nSouthview Blvd & 5th Ave S - Stop #9832 (westbound)"
     },
@@ -5478,7 +5360,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/615",
-      "updatedAt": "2026-10-30T18:57:19.000Z",
+      "updatedAt": "2026-10-31T05:00:01.000Z",
       "rawHeader": "Route 615 detoured off Mainstreet from 12th Ave to 8th Ave beginning Sat Oct 31 at 8:30 AM until further notice due to Halloween in Hopkins event",
       "rawDescription": "Added map 10/30 at 2:00 PM.\r\n\nFor eastbound Route 615 get on/off buses at:\r\n12th Ave N & 1st St N - Stop #49585 (southbound)\r\nMainstreet & 7th Ave S - Stop #4820 (eastbound)\r\n\nFor westbound Route 615 get on/off buses at:\r\nMainstreet & 6th Ave N - Stop #3571 (westbound)\r\n12th Ave N & 2nd St N - Stop #49579 (northbound)\r\n\nEastbound buses will travel regular route on 12th Ave to 1st St, left on 1st St, right on 8th Ave, left on Mainstreet and resume regular route.\r\n\nWestbound buses will travel regular route on Mainstreet to 8th Ave, right on 8th Ave, left on 1st St, right on 12th Ave and resume regular route.\r\n\nAffected stops:\r\nMainstreet & 12th Ave / 11th Ave S - Stop #43380 (eastbound)\r\nMainstreet & 9th Ave S - Stop #4819 (eastbound)\r\nMainstreet & 9th Ave N - Stop #3572 (westbound)\r\nMainstreet & 11th Ave N - Stop #3573 (westbound)\r\n12th Ave N & 1st St N - Stop #49578 (northbound)"
     },
@@ -6111,7 +5993,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/827",
-      "updatedAt": "2026-10-30T05:00:01.000Z",
+      "updatedAt": "2026-10-31T05:00:01.000Z",
       "rawHeader": "Route 827 detoured off Marshall St/Main St from Hennepin Ave to 8th Ave NE from 6:30 AM to 10:30 AM on Sat Oct 31 due to Halloween Half Marathon 2026",
       "rawDescription": "For northbound Route 827 get on/off buses at:\r\nHennepin Ave & 1st St S - Stop #17952 (northbound)\r\n2nd St NE & 4th Ave NE - Stop #14687 (northbound)\r\n2nd St NE & 7th Ave NE - Stop #14680 (northbound)\r\nMarshall St NE & Broadway St NE - Stop #57552 (northbound)\r\n\nFor southbound Route 827 get on/off buses at:\r\nMarshall St NE & Broadway St NE - Stop #57575 (southbound)\r\n2nd St NE & 5th Ave NE - Stop #14685 (southbound)\r\n2nd St NE & 3rd Ave NE - Stop #14689 (southbound)\r\nMarquette Ave & 2nd St S - Stop #19238 (southbound)\r\n\nNorthbound buses will travel the regular route on Hennepin Ave to Main St NE, continue on Hennepin Ave, left on 2nd St NE, left on 8th Ave NE, right on Marshall St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Marshall St to 8th Ave NE, left on 8th Ave NE, right on 2nd St NE, right on 1st Ave to Main St NE, continue on 1st Ave, and resume the regular route.\r\n\nAffected stops:\r\nMain St NE & 1st Ave NE - Stop #57549 (northbound)\r\nMain St NE & 3rd Ave NE - Stop #57550 (northbound)\r\nMarshall St NE & 8th Ave NE - Stop #57551 (northbound)\r\nMarshall St NE & 8th Ave NE - Stop #57576 (southbound)\r\nMarshall St NE & 3rd Ave NE - Stop #57577 (southbound)\r\nMain St NE & 1st Ave NE - Stop #57578 (southbound)"
     },

@@ -2,235 +2,55 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-97-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-6-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-93-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-89-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-2-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-65-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-30T23:36:24.129Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-31T05:17:09.033Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO G Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (2) • **Route 7** (3) • **Route 9** (6) • **Route 11** (1) • **Route 17** (1) • **Route 18** (6) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 38** (3) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (3) • **Route 64** (5) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 75** (1) • **Route 83** (2) • **Route 94** (1) • **Route 156** (2) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (2) • **Route 805** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO G Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (2) • **Route 7** (3) • **Route 9** (6) • **Route 11** (1) • **Route 17** (1) • **Route 18** (5) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (3) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (3) • **Route 64** (5) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (2) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 18: Service Advisory
+### 🚨 METRO B Line: Eastbound 10:42 PM Trip Canceled (Lake St W & France Ave S)
 
-- **Affected Routes**: `Route 18`
-- **Direction**: Northbound
+- **Affected Routes**: `METRO B Line`
+- **Direction**: Eastbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #1399, Stop #1400, Stop #1402, Stop #1397, Stop #1404, Stop #1405, Stop #1401, Stop #57131 *(+6 more)*
 
-**Summary**: Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 6:30 PM will start from I-35W & 98th Street Station. Previous stops missed due to maintenance
+**Summary**: Eastbound B Line trip departing Lake St W & France Ave S at 10:42 PM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/18)
+[Official Agency Advisory](https://www.metrotransit.org/route/bline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound Route 18 trip departing 104th St W & Bloomington Fwy W at 6:30 PM will start from I-35W & 98th Street Station. Previous stops missed due to maintenance
+**Header**: Eastbound B Line trip departing Lake St W & France Ave S at 10:42 PM canceled today
 
 </details>
 
 ---
 
-### 🚨 Route 30: Service Canceled
+### 🚨 METRO D Line: Service Advisory
 
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Southbound
 - **Severity**: `Critical`
-- **Corridors & Intersections**: Route 30 trip departing Knox Ave N & Golden Valley Rd; departing Knox Ave N & Golden Valley Rd; 56 AM
-departing Knox Ave N & Golden Valley Rd; 56 PM
-departing Knox Ave N & Golden Valley Rd; 54 PM
-departing Knox Ave N & Golden Valley Rd
+- **Corridors & Intersections**: 51 PM will operate from 7th St & Olson St
+- **Closed Stops**: Stop #56905, Stop #9589, Stop #9087, Stop #56903, Stop #11146, Stop #11161, Stop #56906, Stop #56823 *(+6 more)*
 
-**Summary**: Route 30 trip departing Knox Ave N & Golden Valley Rd at 9:56 AM and thirteen other trips canceled today
+**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 10:51 PM will operate from 7th St & Olson Station at 11:14 PM today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 30 trip departing Knox Ave N & Golden Valley Rd at 9:56 AM and thirteen other trips canceled today
-
-```text
-Updated at 11:26 AM to cancel additional trips.
-
-Affected eastbound trips:
-departing Knox Ave N & Golden Valley Rd at 9:56 AM
-departing Knox Ave N & Golden Valley Rd at 11:56 AM
-departing Knox Ave N & Golden Valley Rd at 1:56 PM
-departing Knox Ave N & Golden Valley Rd at 3:54 PM
-departing Knox Ave N & Golden Valley Rd at 5:56 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 8:55 PM
-
-Affected westbound trips:
-departing Westgate Station - Gate B at 11:04 AM
-departing Westgate Station - Gate B at 1:04 PM
-departing Westgate Station - Gate B at 3:04 PM
-departing Westgate Station - Gate B at 5:04 PM
-departing Westgate Station - Gate B at 7:05 PM
-departing Westgate Station - Gate B at 8:06 PM
-departing Westgate Station - Gate B at 10:06 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 72: Service Canceled
-
-- **Affected Routes**: `Route 72`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Pascal St N & Central Ave W; 50 PM
-departing Pascal St N & Central Ave W; 23 PM
-departing Pascal St N & Central Ave W; 53 PM
-departing Pascal St N & Central Ave W
-
-**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 4:48 PM and eight other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/72)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 4:48 PM and eight other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Pascal St N & Central Ave W at 5:50 PM
-departing Pascal St N & Central Ave W at 7:23 PM
-departing Pascal St N & Central Ave W at 7:53 PM
-departing Pascal St N & Central Ave W at 9:23 PM
-departing Pascal St N & Central Ave W at 9:53 PM
-
-Affected westbound trips:
-departing Sun Ray Transit Center & Gate D at 4:48 PM
-departing Sun Ray Transit Center & Gate D at 6:51 PM
-departing Sun Ray Transit Center & Gate D at 8:21 PM
-departing Sun Ray Transit Center & Gate D at 8:51 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 83: Service Canceled
-
-- **Affected Routes**: `Route 83`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 83 trip departing Montreal Cir & Summit Brewing at 12:01 PM and seven other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/83)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 83 trip departing Montreal Cir & Summit Brewing at 12:01 PM and seven other trips canceled today
-
-```text
-Affected northbound trips:
-departing Montreal Cir & Summit Brewing at 12:01 PM
-departing Montreal Cir & Summit Brewing at 1:30 PM
-departing Montreal Cir & Summit Brewing at 3:01 PM
-departing Montreal Cir & Summit Brewing at 5:01 PM
-
-Affected southbound trips:
-departing Rosedale Transit Center Gate B at 12:45 PM
-departing Rosedale Transit Center Gate B at 2:15 PM
-departing Rosedale Transit Center Gate B at 4:12 PM
-departing Rosedale Transit Center Gate B at 6:16 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 802: Service Canceled
-
-- **Affected Routes**: `Route 802`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and thirteen other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/802)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and thirteen other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate E at 11:34 AM
-departing Northtown Transit Ctr Gate E at 12:34 PM
-departing Northtown Transit Ctr Gate E at 1:34 PM
-departing Northtown Transit Ctr Gate E at 2:34 PM
-departing Northtown Transit Ctr Gate E at 3:34 PM
-departing Northtown Transit Ctr Gate E at 4:34 PM
-departing Northtown Transit Ctr Gate E at 5:34 PM
-
-Affected southbound trips:
-departing Anoka Tech College & Main Entrance at 11:43 AM
-departing Anoka Tech College & Main Entrance at 12:42 PM
-departing Anoka Tech College & Main Entrance at 1:42 PM
-departing Anoka Tech College & Main Entrance at 2:42 PM
-departing Anoka Tech College & Main Entrance at 3:42 PM
-departing Anoka Tech College & Main Entrance at 4:42 PM
-departing Anoka Tech College & Main Entrance at 5:45 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 805: Service Canceled
-
-- **Affected Routes**: `Route 805`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing 1st Ave S & Monroe St; 38 AM
-departing 1st Ave S & Monroe St; 38 PM
-departing 1st Ave S & Monroe St; 36 PM
-departing 1st Ave S & Monroe St
-
-**Summary**: Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and thirteen other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and thirteen other trips canceled today
-
-```text
-Updated at 11:17 AM to cancel additional trips.
-
-Affected northbound trips:
-departing Northtown Transit Ctr Gate D at 11:34 AM
-departing Northtown Transit Ctr Gate D at 12:34 PM
-departing Northtown Transit Ctr Gate D at 1:34 PM
-departing Northtown Transit Ctr Gate D at 2:34 PM
-departing Northtown Transit Ctr Gate D at 3:34 PM
-departing Northtown Transit Ctr Gate D at 4:34 PM
-departing Northtown Transit Ctr Gate D at 5:34 PM
-
-Affected southbound trips:
-departing 1st Ave S & Monroe St at 11:38 AM
-departing 1st Ave S & Monroe St at 12:38 PM
-departing 1st Ave S & Monroe St at 1:38 PM
-departing 1st Ave S & Monroe St at 2:36 PM
-departing 1st Ave S & Monroe St at 3:36 PM
-departing 1st Ave S & Monroe St at 4:36 PM
-departing 1st Ave S & Monroe St at 5:38 PM
-```
+**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 10:51 PM will operate from 7th St & Olson Station at 11:14 PM today
 
 </details>
 
@@ -318,7 +138,7 @@ Ford & Fairview Station - Stop #56113 (eastbound)
 - **Affected Routes**: `METRO Blue Line`
 - **Direction**: All
 - **Severity**: `Moderate`
-- **Closed Stops**: Stop #51412, Stop #51427
+- **Closed Stops**: Stop #51427, Stop #51412
 
 **Summary**: Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues
 
