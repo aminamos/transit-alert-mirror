@@ -2,105 +2,74 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-94-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-93-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-88-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-2-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-66-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-63-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-10-31T17:37:25.726Z** across **Metro Transit**.*
+*Last synchronized: **2026-10-31T21:22:39.766Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO G Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (2) • **Route 7** (3) • **Route 9** (6) • **Route 11** (1) • **Route 17** (1) • **Route 18** (5) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 38** (3) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (4) • **Route 64** (5) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (2) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO G Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (3) • **Route 7** (3) • **Route 9** (6) • **Route 11** (1) • **Route 17** (1) • **Route 18** (5) • **Route 22** (5) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (3) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (3) • **Route 64** (5) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (7) • **Route 68C** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (2) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (2) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO B Line: Eastbound 12:14 PM Trip Canceled (Marshall & Cleveland Station)
+### 🚨 Route 4: Service Canceled
 
-- **Affected Routes**: `METRO B Line`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #17029, Stop #17307, Stop #57455, Stop #16996, Stop #56099, Stop #57416, Stop #57332, Stop #11885 *(+7 more)*
-
-**Summary**: Eastbound B Line trip departing Marshall & Cleveland Station at 12:14 PM canceled today due to police activity
-
-[Official Agency Advisory](https://www.metrotransit.org/route/bline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound B Line trip departing Marshall & Cleveland Station at 12:14 PM canceled today due to police activity
-
-</details>
-
----
-
-### 🚨 METRO D Line: Southbound 12:23 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 12:23 PM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 12:23 PM canceled today due to mechanical issue
-
-</details>
-
----
-
-### 🚨 Route 30: Service Canceled
-
-- **Affected Routes**: `Route 30`
+- **Affected Routes**: `Route 4`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
+- **Corridors & Intersections**: Route 4 trips departing 1st St N & Hennepin Ave; 10 PM and departing 81st St W & Humboldt Ave S
 
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 8:36 AM and five other trips canceled today
+**Summary**: Route 4 trips departing 1st St N & Hennepin Ave at 2:10 PM and departing 81st St W & Humboldt Ave S at 3:22 PM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
+[Official Agency Advisory](https://www.metrotransit.org/route/4)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 30 trip departing Westgate Station - Gate B at 8:36 AM and five other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Golden Valley Rd Turn & Xerxes Ave N at 9:24 AM
-departing Golden Valley Rd Turn & Xerxes Ave N at 11:24 AM
-departing Golden Valley Rd Turn & Xerxes Ave N at 1:24 PM
-
-Affected westbound trips:
-departing Westgate Station - Gate B at 8:36 AM
-departing Westgate Station - Gate B at 10:36 AM
-departing Westgate Station - Gate B at 12:36 PM
-```
+**Header**: Route 4 trips departing 1st St N & Hennepin Ave at 2:10 PM and departing 81st St W & Humboldt Ave S at 3:22 PM canceled today
 
 </details>
 
 ---
 
-### 🚨 Route 63: Westbound 11:24 AM Trip Canceled (6th St & Cedar St)
+### 🚨 Route 22: Service Advisory
 
-- **Affected Routes**: `Route 63`
-- **Direction**: Westbound
+- **Affected Routes**: `Route 22`
+- **Direction**: Southbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #11863, Stop #15877, Stop #16952, Stop #18640, Stop #3078, Stop #3095, Stop #3274, Stop #3276 *(+30 more)*
+- **Closed Stops**: Stop #11616, Stop #52682, Stop #56955, Stop #11345, Stop #11390, Stop #11618, Stop #11649, Stop #9100 *(+37 more)*
 
-**Summary**: Westbound Route 63 trip departing 6th St & Cedar St at 11:24 AM canceled today due to mechanical issue
+**Summary**: Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr at 3:30 PM will start from 7th & Oak Lake. Previous stops missed
 
-[Official Agency Advisory](https://www.metrotransit.org/route/63)
+[Official Agency Advisory](https://www.metrotransit.org/route/22)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Westbound Route 63 trip departing 6th St & Cedar St at 11:24 AM canceled today due to mechanical issue
+**Header**: Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr at 3:30 PM will start from 7th & Oak Lake. Previous stops missed
+
+</details>
+
+---
+
+### 🚨 Route 68: Northbound 4:06 PM Trip Canceled (Cafferty Court & Walmart - Cahill Ave)
+
+- **Affected Routes**: `Route 68`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 68 trip departing Cafferty Court & Walmart - Cahill Ave at 4:06 PM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/68)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 68 trip departing Cafferty Court & Walmart - Cahill Ave at 4:06 PM canceled today due to mechanical issue
 
 </details>
 
@@ -144,7 +113,7 @@ Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on 
 - **Affected Routes**: `METRO Blue Line`
 - **Direction**: All
 - **Severity**: `Moderate`
-- **Closed Stops**: Stop #51427, Stop #51412
+- **Closed Stops**: Stop #51412, Stop #51427
 
 **Summary**: Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues
 
@@ -209,7 +178,7 @@ Wall St & 7th St / 6th St - Stop #43282 (southbound)
 - **Affected Routes**: `METRO Green Line`
 - **Direction**: All
 - **Severity**: `Moderate`
-- **Closed Stops**: Stop #56001, Stop #56043
+- **Closed Stops**: Stop #56043, Stop #56001
 
 **Summary**: West side (Cedar Ave) elevator at Green Line West Bank Station unavailable until further notice due to mechanical issue
 
@@ -3640,9 +3609,9 @@ Cedar Lake Rd & Sumter Ave S - Stop #80937 (eastbound)
 
 ---
 
-### ⚠️ Route 760, Route 768, Route 763, Route 766, Route 765: Stop Closed at 3rd St N & 1st Ave N
+### ⚠️ Route 760, Route 763, Route 766, Route 765, Route 768: Stop Closed at 3rd St N & 1st Ave N
 
-- **Affected Routes**: `Route 760` `Route 768` `Route 763` `Route 766` `Route 765`
+- **Affected Routes**: `Route 760` `Route 763` `Route 766` `Route 765` `Route 768`
 - **Direction**: Westbound
 - **Severity**: `Moderate`
 - **Corridors & Intersections**: 3rd St N & 1st Ave N; 3rd St S & Nicollet Mall - St
@@ -3666,9 +3635,9 @@ Get on/off buses at:
 
 ---
 
-### ⚠️ Route 765, Route 768, Route 760, Route 763, Route 766: Detour via 3rd St S & Nicollet Mall - St
+### ⚠️ Route 768, Route 760, Route 763, Route 766, Route 765: Detour via 3rd St S & Nicollet Mall - St
 
-- **Affected Routes**: `Route 765` `Route 768` `Route 760` `Route 763` `Route 766`
+- **Affected Routes**: `Route 768` `Route 760` `Route 763` `Route 766` `Route 765`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Aug 10 at 2:00 AM until further notice
@@ -3736,9 +3705,9 @@ East River Rd & Queens Lane - Stop #12070 (northbound)
 
 ---
 
-### ⚠️ Route 827, Route 156, Route 888, Route 578, Route 850, Route 824, Route 882: Stop Closed at 2nd Ave S & 9th St
+### ⚠️ Route 827, Route 156, Route 888, Route 882, Route 824, Route 578, Route 850: Stop Closed at 2nd Ave S & 9th St
 
-- **Affected Routes**: `Route 827` `Route 156` `Route 888` `Route 578` `Route 850` `Route 824` `Route 882`
+- **Affected Routes**: `Route 827` `Route 156` `Route 888` `Route 882` `Route 824` `Route 578` `Route 850`
 - **Direction**: Northbound
 - **Severity**: `Moderate`
 - **Corridors & Intersections**: 2nd Ave S & 9th St; 2nd Ave S & 11th St; 2nd Ave S & 7th St

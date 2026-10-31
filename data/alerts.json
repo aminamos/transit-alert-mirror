@@ -1,334 +1,277 @@
 {
   "metadata": {
-    "generatedAt": "2026-10-31T17:37:25.726Z",
-    "totalAlerts": 94,
-    "criticalCount": 4,
+    "generatedAt": "2026-10-31T21:22:39.766Z",
+    "totalAlerts": 93,
+    "criticalCount": 3,
     "moderateCount": 88,
     "minorCount": 2,
-    "affectedRoutesCount": 66,
+    "affectedRoutesCount": 63,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "54816",
+      "id": "54819",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO B Line: Eastbound 12:14 PM Trip Canceled (Marshall & Cleveland Station)",
-      "summary": "Eastbound B Line trip departing Marshall & Cleveland Station at 12:14 PM canceled today due to police activity",
+      "title": "Route 4: Service Canceled",
+      "summary": "Route 4 trips departing 1st St N & Hennepin Ave at 2:10 PM and departing 81st St W & Humboldt Ave S at 3:22 PM canceled today",
       "affectedRoutes": [
-        "METRO B Line"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [
-        "17029",
-        "17307",
-        "57455",
-        "16996",
-        "56099",
-        "57416",
-        "57332",
-        "11885",
-        "17022",
-        "57420",
-        "3142",
-        "57328",
-        "57418",
-        "16971",
-        "57329"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "17029"
-        },
-        {
-          "id": "17307"
-        },
-        {
-          "id": "57455"
-        },
-        {
-          "id": "16996"
-        },
-        {
-          "id": "56099"
-        },
-        {
-          "id": "57416"
-        },
-        {
-          "id": "57332"
-        },
-        {
-          "id": "11885"
-        },
-        {
-          "id": "17022"
-        },
-        {
-          "id": "57420"
-        },
-        {
-          "id": "3142"
-        },
-        {
-          "id": "57328"
-        },
-        {
-          "id": "57418"
-        },
-        {
-          "id": "16971"
-        },
-        {
-          "id": "57329"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-31T17:24:00.000Z",
-        "end": "2026-10-31T18:43:00.000Z"
-      },
-      "cause": "POLICE_ACTIVITY",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-10-31T17:24:54.000Z",
-      "rawHeader": "Eastbound B Line trip departing Marshall & Cleveland Station at 12:14 PM canceled today due to police activity",
-      "rawDescription": ""
-    },
-    {
-      "id": "54817",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO D Line: Southbound 12:23 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)",
-      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 12:23 PM canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-31T17:25:00.000Z",
-        "end": "2026-10-31T19:36:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-10-31T17:25:33.000Z",
-      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 12:23 PM canceled today due to mechanical issue",
-      "rawDescription": ""
-    },
-    {
-      "id": "54813",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 30: Service Canceled",
-      "summary": "Route 30 trip departing Westgate Station - Gate B at 8:36 AM and five other trips canceled today",
-      "affectedRoutes": [
-        "Route 30"
+        "Route 4"
       ],
       "direction": "Both Directions",
-      "intersections": [],
+      "intersections": [
+        "Route 4 trips departing 1st St N & Hennepin Ave",
+        "10 PM and departing 81st St W & Humboldt Ave S"
+      ],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-31T13:36:00.000Z",
-        "end": "2026-10-31T20:06:00.000Z"
+        "start": "2026-10-31T19:10:00.000Z",
+        "end": "2026-10-31T22:16:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-10-31T13:16:31.000Z",
-      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 8:36 AM and five other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 9:24 AM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 11:24 AM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 1:24 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 8:36 AM\r\ndeparting Westgate Station - Gate B at 10:36 AM\r\ndeparting Westgate Station - Gate B at 12:36 PM"
+      "url": "https://www.metrotransit.org/route/4",
+      "updatedAt": "2026-10-31T18:55:13.000Z",
+      "rawHeader": "Route 4 trips departing 1st St N & Hennepin Ave at 2:10 PM and departing 81st St W & Humboldt Ave S at 3:22 PM canceled today",
+      "rawDescription": ""
     },
     {
-      "id": "54815",
+      "id": "54821",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 63: Westbound 11:24 AM Trip Canceled (6th St & Cedar St)",
-      "summary": "Westbound Route 63 trip departing 6th St & Cedar St at 11:24 AM canceled today due to mechanical issue",
+      "title": "Route 22: Service Advisory",
+      "summary": "Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr at 3:30 PM will start from 7th & Oak Lake. Previous stops missed",
       "affectedRoutes": [
-        "Route 63"
+        "Route 22"
       ],
-      "direction": "Westbound",
+      "direction": "Southbound",
       "intersections": [],
       "closedStopIds": [
-        "11863",
-        "15877",
-        "16952",
-        "18640",
-        "3078",
-        "3095",
-        "3274",
-        "3276",
-        "11861",
-        "3084",
-        "3091",
-        "15795",
-        "3179",
-        "3181",
-        "52760",
-        "56941",
-        "3270",
-        "15876",
-        "3087",
-        "3271",
-        "16953",
-        "3081",
-        "3099",
-        "52847",
-        "56249",
-        "56944",
-        "56947",
-        "15874",
-        "18685",
-        "3089",
-        "3273",
-        "18683",
-        "18686",
-        "3085",
-        "3183",
-        "3264",
-        "48718",
-        "56942"
+        "11616",
+        "52682",
+        "56955",
+        "11345",
+        "11390",
+        "11618",
+        "11649",
+        "9100",
+        "11351",
+        "11608",
+        "11628",
+        "11630",
+        "11637",
+        "11644",
+        "41839",
+        "50142",
+        "11378",
+        "11397",
+        "11629",
+        "11635",
+        "11653",
+        "11654",
+        "50610",
+        "9086",
+        "9102",
+        "11625",
+        "11641",
+        "11652",
+        "50611",
+        "52750",
+        "9090",
+        "11374",
+        "11394",
+        "9106",
+        "11622",
+        "11646",
+        "11656",
+        "51287",
+        "11632",
+        "11633",
+        "11639",
+        "52680",
+        "56825",
+        "9087",
+        "9097"
       ],
       "closedStopDetails": [
         {
-          "id": "11863"
+          "id": "11616"
         },
         {
-          "id": "15877"
+          "id": "52682"
         },
         {
-          "id": "16952"
+          "id": "56955"
         },
         {
-          "id": "18640"
+          "id": "11345"
         },
         {
-          "id": "3078"
+          "id": "11390"
         },
         {
-          "id": "3095"
+          "id": "11618"
         },
         {
-          "id": "3274"
+          "id": "11649"
         },
         {
-          "id": "3276"
+          "id": "9100"
         },
         {
-          "id": "11861"
+          "id": "11351"
         },
         {
-          "id": "3084"
+          "id": "11608"
         },
         {
-          "id": "3091"
+          "id": "11628"
         },
         {
-          "id": "15795"
+          "id": "11630"
         },
         {
-          "id": "3179"
+          "id": "11637"
         },
         {
-          "id": "3181"
+          "id": "11644"
         },
         {
-          "id": "52760"
+          "id": "41839"
         },
         {
-          "id": "56941"
+          "id": "50142"
         },
         {
-          "id": "3270"
+          "id": "11378"
         },
         {
-          "id": "15876"
+          "id": "11397"
         },
         {
-          "id": "3087"
+          "id": "11629"
         },
         {
-          "id": "3271"
+          "id": "11635"
         },
         {
-          "id": "16953"
+          "id": "11653"
         },
         {
-          "id": "3081"
+          "id": "11654"
         },
         {
-          "id": "3099"
+          "id": "50610"
         },
         {
-          "id": "52847"
+          "id": "9086"
         },
         {
-          "id": "56249"
+          "id": "9102"
         },
         {
-          "id": "56944"
+          "id": "11625"
         },
         {
-          "id": "56947"
+          "id": "11641"
         },
         {
-          "id": "15874"
+          "id": "11652"
         },
         {
-          "id": "18685"
+          "id": "50611"
         },
         {
-          "id": "3089"
+          "id": "52750"
         },
         {
-          "id": "3273"
+          "id": "9090"
         },
         {
-          "id": "18683"
+          "id": "11374"
         },
         {
-          "id": "18686"
+          "id": "11394"
         },
         {
-          "id": "3085"
+          "id": "9106"
         },
         {
-          "id": "3183"
+          "id": "11622"
         },
         {
-          "id": "3264"
+          "id": "11646"
         },
         {
-          "id": "48718"
+          "id": "11656"
         },
         {
-          "id": "56942"
+          "id": "51287"
+        },
+        {
+          "id": "11632"
+        },
+        {
+          "id": "11633"
+        },
+        {
+          "id": "11639"
+        },
+        {
+          "id": "52680"
+        },
+        {
+          "id": "56825"
+        },
+        {
+          "id": "9087"
+        },
+        {
+          "id": "9097"
         }
       ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-10-31T16:53:00.000Z",
-        "end": "2026-10-31T17:58:00.000Z"
+        "start": "2026-10-31T20:30:00.000Z",
+        "end": "2026-10-31T22:50:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/22",
+      "updatedAt": "2026-10-31T20:00:00.000Z",
+      "rawHeader": "Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr at 3:30 PM will start from 7th & Oak Lake. Previous stops missed",
+      "rawDescription": ""
+    },
+    {
+      "id": "54822",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 68: Northbound 4:06 PM Trip Canceled (Cafferty Court & Walmart - Cahill Ave)",
+      "summary": "Northbound Route 68 trip departing Cafferty Court & Walmart - Cahill Ave at 4:06 PM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 68"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-31T21:17:00.000Z",
+        "end": "2026-10-31T23:04:00.000Z"
       },
       "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/63",
-      "updatedAt": "2026-10-31T16:54:23.000Z",
-      "rawHeader": "Westbound Route 63 trip departing 6th St & Cedar St at 11:24 AM canceled today due to mechanical issue",
+      "url": "https://www.metrotransit.org/route/68",
+      "updatedAt": "2026-10-31T21:17:26.000Z",
+      "rawHeader": "Northbound Route 68 trip departing Cafferty Court & Walmart - Cahill Ave at 4:06 PM canceled today due to mechanical issue",
       "rawDescription": ""
     },
     {
@@ -371,15 +314,15 @@
       "direction": "All",
       "intersections": [],
       "closedStopIds": [
-        "51427",
-        "51412"
+        "51412",
+        "51427"
       ],
       "closedStopDetails": [
         {
-          "id": "51427"
+          "id": "51412"
         },
         {
-          "id": "51412"
+          "id": "51427"
         }
       ],
       "riderAlternative": null,
@@ -447,15 +390,15 @@
       "direction": "All",
       "intersections": [],
       "closedStopIds": [
-        "56001",
-        "56043"
+        "56043",
+        "56001"
       ],
       "closedStopDetails": [
         {
-          "id": "56001"
+          "id": "56043"
         },
         {
-          "id": "56043"
+          "id": "56001"
         }
       ],
       "riderAlternative": null,
@@ -4291,7 +4234,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/68",
-      "updatedAt": "2026-10-31T05:00:01.000Z",
+      "updatedAt": "2026-10-31T20:30:00.000Z",
       "rawHeader": "Route 68 detoured off 5th Ave S from Southview Blvd to 3rd St N from 4:00 PM to 8:00 PM on Sat Oct 31 due to Great Halloween Get Together",
       "rawDescription": "Update to northbound routing 10/29 at 12:15 PM.\r\n\nFor northbound Route 68 get on/off buses at:\r\n5th Ave S & Southview Blvd - Stop #9822 (northbound)\r\nSouthview Blvd & 7th Ave S - Stop #9834 (westbound)\r\n\nFor southbound Route 68 get on/off buses at:\r\nSouthview Blvd & 5th Ave S - Stop #9938 (eastbound)\r\n\nNorthbound Route 68 buses serving the John Carroll Building will travel the regular route on 5th Ave S to Southview Blvd, left on Southview Blvd, and resume the regular route.\r\n\nSouthbound Route 68C buses will travel the regular route on Southview Blvd to 5th Ave S, right on 5th Ave S, and resume the regular route.\r\n\nAffected stops:\r\n5th Ave N & Marie Ave - Stop #9823 (northbound)\r\n5th Ave N & 3rd St N - Stop #9825 (northbound)\r\n3rd St N & 4th Ave N - Stop #9826 (eastbound)\r\n3rd Ave N & 2nd St - Stop #9827 (southbound)\r\nMarie Ave & 2nd Ave S - Stop #9828 (eastbound)\r\n2nd Ave S & Southview Blvd - Stop #9829 (southbound)\r\nSouthview Blvd & 3rd Ave S - Stop #9830 (westbound)\r\nSouthview Blvd & 5th Ave S - Stop #9832 (westbound)"
     },
@@ -5879,14 +5822,14 @@
       "id": "54602",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 760, Route 768, Route 763, Route 766, Route 765: Stop Closed at 3rd St N & 1st Ave N",
+      "title": "Route 760, Route 763, Route 766, Route 765, Route 768: Stop Closed at 3rd St N & 1st Ave N",
       "summary": "3rd St N & 1st Ave N - Stop #17960 (westbound) is closed for Routes 760, 763, 765, 766 and 768 until further notice due to construction. Board at: 3rd St S & Nicollet Mall - Stop #40172 (westbound).",
       "affectedRoutes": [
         "Route 760",
-        "Route 768",
         "Route 763",
         "Route 766",
-        "Route 765"
+        "Route 765",
+        "Route 768"
       ],
       "direction": "Westbound",
       "intersections": [
@@ -5920,14 +5863,14 @@
       "id": "50957",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 765, Route 768, Route 760, Route 763, Route 766: Detour via 3rd St S & Nicollet Mall - St",
+      "title": "Route 768, Route 760, Route 763, Route 766, Route 765: Detour via 3rd St S & Nicollet Mall - St",
       "summary": "Routes 760, 763, 765, 766 and 768 detoured off 3rd St from Hennepin Ave to Hwy 94 beginning Mon Aug 10 at 2:00 AM until further notice due to construction. Board at: 3rd St S & Nicollet Mall - Stop #40172 (westbound).",
       "affectedRoutes": [
-        "Route 765",
         "Route 768",
         "Route 760",
         "Route 763",
-        "Route 766"
+        "Route 766",
+        "Route 765"
       ],
       "direction": "Both Directions",
       "intersections": [
@@ -6010,16 +5953,16 @@
       "id": "41775",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 827, Route 156, Route 888, Route 578, Route 850, Route 824, Route 882: Stop Closed at 2nd Ave S & 9th St",
+      "title": "Route 827, Route 156, Route 888, Route 882, Route 824, Route 578, Route 850: Stop Closed at 2nd Ave S & 9th St",
       "summary": "2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice. Board at: 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound).",
       "affectedRoutes": [
         "Route 827",
         "Route 156",
         "Route 888",
-        "Route 578",
-        "Route 850",
+        "Route 882",
         "Route 824",
-        "Route 882"
+        "Route 578",
+        "Route 850"
       ],
       "direction": "Northbound",
       "intersections": [
