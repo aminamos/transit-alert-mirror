@@ -1,64 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-01T07:21:37.693Z",
-    "totalAlerts": 94,
-    "criticalCount": 6,
-    "moderateCount": 86,
+    "generatedAt": "2026-11-01T14:56:28.985Z",
+    "totalAlerts": 89,
+    "criticalCount": 3,
+    "moderateCount": 84,
     "minorCount": 2,
-    "affectedRoutesCount": 68,
+    "affectedRoutesCount": 64,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "54830",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO C Line: Service Canceled",
-      "summary": "C Line trips departing Brooklyn Ctr Transit Ctr Gate I at 11:24 PM and departing 7th St & Park Station at 12:33 AM canceled today",
-      "affectedRoutes": [
-        "METRO C Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "24 PM and departing 7th St & Park St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {},
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/cline",
-      "updatedAt": "2026-11-01T07:01:01.000Z",
-      "rawHeader": "C Line trips departing Brooklyn Ctr Transit Ctr Gate I at 11:24 PM and departing 7th St & Park Station at 12:33 AM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "54835",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO E Line: Southbound 11:15 PM Trip Canceled (Westgate Station - Gate A)",
-      "summary": "Southbound E Line trip departing Westgate Station - Gate A at 11:15 PM canceled",
-      "affectedRoutes": [
-        "METRO E Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {},
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-11-01T07:04:01.000Z",
-      "rawHeader": "Southbound E Line trip departing Westgate Station - Gate A at 11:15 PM canceled",
-      "rawDescription": ""
-    },
     {
       "id": "54836",
       "agency": "Metro Transit",
@@ -83,7 +35,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-11-01T07:36:48.000Z",
+      "updatedAt": "2026-11-01T09:01:00.000Z",
       "rawHeader": "Route 2 trip departing 2nd Ave SE & 7th St SE at 12:34 AM canceled today",
       "rawDescription": ""
     },
@@ -112,7 +64,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-11-01T07:38:23.000Z",
+      "updatedAt": "2026-11-01T09:01:00.000Z",
       "rawHeader": "Route 2C trip departing Franklin Ave W & Hennepin Ave S at 12:43 AM canceled today",
       "rawDescription": ""
     },
@@ -138,32 +90,8 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/4",
-      "updatedAt": "2026-11-01T07:01:10.000Z",
+      "updatedAt": "2026-11-01T09:01:00.000Z",
       "rawHeader": "Northbound Route 4 trip departing 81st St W & Humboldt Ave S at 12:51 AM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "54833",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 18, Route 18C: Southbound 11:35 PM Trip Canceled (4th Ave S & 3rd St S)",
-      "summary": "Southbound Route 18C trip departing 4th Ave S & 3rd St S at 11:35 PM canceled today",
-      "affectedRoutes": [
-        "Route 18",
-        "Route 18C"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {},
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/18",
-      "updatedAt": "2026-11-01T07:12:01.000Z",
-      "rawHeader": "Southbound Route 18C trip departing 4th Ave S & 3rd St S at 11:35 PM canceled today",
       "rawDescription": ""
     },
     {
@@ -193,113 +121,6 @@
       "updatedAt": "2026-09-28T08:00:01.000Z",
       "rawHeader": "METRO A Line detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
       "rawDescription": "No stops missed.\r\n\nNorthbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.\r\n\nSouthbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route."
-    },
-    {
-      "id": "54824",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "METRO B Line: Detour via 5th St & Cedar St",
-      "summary": "B Line detoured off Kellogg between Broadway and Sibley until later today due to police activity. Board at: 5th St & Cedar Station - Stop #57455 (eastbound); Union Depot Station & Terminal - Stop #56099 (westbound).",
-      "affectedRoutes": [
-        "METRO B Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "5th St & Cedar St",
-        "6th St & Jackson St"
-      ],
-      "closedStopIds": [
-        "57420",
-        "57419",
-        "57455",
-        "56099",
-        "56100",
-        "57456"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "57420",
-          "name": "Union Depot & Wacouta Station",
-          "direction": "southbound"
-        },
-        {
-          "id": "57419",
-          "name": "Union Depot & Sibley Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "57455"
-        },
-        {
-          "id": "56099"
-        },
-        {
-          "id": "56100"
-        },
-        {
-          "id": "57456"
-        }
-      ],
-      "riderAlternative": "Board at: 5th St & Cedar Station - Stop #57455 (eastbound); Union Depot Station & Terminal - Stop #56099 (westbound)",
-      "detourDetails": "Eastbound buses will travel on 5th to Wacouta, continue on 5th to Broadway, right on Broadway and continue to Union Depot Station",
-      "activePeriod": {
-        "start": "2026-11-01T02:41:00.000Z",
-        "end": "2026-11-01T08:30:00.000Z"
-      },
-      "cause": "POLICE_ACTIVITY",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-11-01T02:41:54.000Z",
-      "rawHeader": "B Line detoured off Kellogg between Broadway and Sibley until later today due to police activity",
-      "rawDescription": "For eastbound B Line get on/off buses at:\r\n5th St & Cedar Station - Stop #57455 (eastbound)\r\nUnion Depot Station & Terminal - Stop #56099 (westbound)\r\n\nFor westbound B Line get on/off buses at:\r\nUnion Depot & Gate A1 - Stop #56100 (eastbound)\r\n6th St & Jackson Station - Stop #57456 (westbound)\r\n\nEastbound buses will travel on 5th to Wacouta, continue on 5th to Broadway, right on Broadway and continue to Union Depot Station\r\n\nWestbound buses will travel north on Broadway to Kellogg, continue on Broadway to 6th, left on 6th to Sibley and resume regular route\r\n\nAffected stops:\r\nUnion Depot & Wacouta Station - Stop #57420 (southbound)\r\nUnion Depot & Sibley Station - Stop #57419 (northbound)"
-    },
-    {
-      "id": "54831",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "METRO B Line: Detour via Regular Corridor",
-      "summary": "Eastbound B Line detoured off Lake between Blaisdell and 4th Ave until later today due to non-transit collision. Board at: Lake & Lyndale Station - Stop #57356 (eastbound); Lake & 4th Ave Station - Stop #16863 (eastbound).",
-      "affectedRoutes": [
-        "METRO B Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [
-        "57359",
-        "16857",
-        "57356",
-        "16863"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "57359",
-          "name": "Lake & Nicollet Station",
-          "direction": "eastbound"
-        },
-        {
-          "id": "16857",
-          "name": "Lake & I-35W Station",
-          "direction": "eastbound"
-        },
-        {
-          "id": "57356"
-        },
-        {
-          "id": "16863"
-        }
-      ],
-      "riderAlternative": "Board at: Lake & Lyndale Station - Stop #57356 (eastbound); Lake & 4th Ave Station - Stop #16863 (eastbound)",
-      "detourDetails": "Eastbound buses will travel on Lake to Blaisdell, right on Blaisdell, left on 31st, left on 4th Ave, right on Lake and resume regular route",
-      "activePeriod": {
-        "start": "2026-11-01T03:46:00.000Z",
-        "end": "2026-11-01T08:30:00.000Z"
-      },
-      "cause": "ACCIDENT",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/bline",
-      "updatedAt": "2026-11-01T03:46:23.000Z",
-      "rawHeader": "Eastbound B Line detoured off Lake between Blaisdell and 4th Ave until later today due to non-transit collision",
-      "rawDescription": "Get on/off buses at:\r\nLake & Lyndale Station - Stop #57356 (eastbound)\r\nLake & 4th Ave Station - Stop #16863 (eastbound)\r\n\nEastbound buses will travel on Lake to Blaisdell, right on Blaisdell, left on 31st, left on 4th Ave, right on Lake and resume regular route\r\n\nWestbound buses not affected\r\n\nAffected stops:\r\nLake & Nicollet Station - Stop #57359 (eastbound)\r\nLake & I-35W Station - Stop #16857 (eastbound)"
     },
     {
       "id": "54762",
@@ -1492,7 +1313,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-10-31T08:01:01.000Z",
+      "updatedAt": "2026-11-01T09:01:00.000Z",
       "rawHeader": "Route 17 detoured off 24th St W from Hennepin Ave to Lyndale Ave on Wed Nov 4 starting at 9:00 AM due to tree trimming",
       "rawDescription": "For eastbound Route 17 get on/off buses at:\r\nHennepin & 25th St Station - Stop #1327 (northbound)\r\n24th St W & Pleasant Ave S - Stop #40342 (eastbound)\r\n\nFor westbound Route 17 get on/off buses at:\r\n24th St W & Bryant Ave S - Stop #4669 (westbound)\r\nHennepin & 25th St Station - Stop #1100 (southbound)\r\n\nEastbond buses will travel the regular route on Hennepin Ave to 24th St W, continue on Hennepin Ave, right on Franklin Ave, right on Lyndale Ave, left on 24th St W, and resume the regular route.\r\n\nWestbound buses will travel the regular route on 24th St W to Bryant Ave, right on Bryant Ave, left on 22nd St W, left on Hennepin Ave to 24th St W, continue on Hennepin Ave, and resume the regular route.\r\n\nAffected stops:\r\n24th St W & Dupont Ave S - Stop #40335 (eastbound)\r\n24th St W & Bryant Ave S - Stop #40333 (eastbound)\r\n24th St W & Lyndale Ave S - Stop #40339 (eastbound)\r\n24th St W & Hennepin Ave S - Stop #4672 (westbound)"
     },
@@ -5638,13 +5459,13 @@
       "id": "41775",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 827, Route 824, Route 578, Route 850, Route 156, Route 888, Route 882: Stop Closed at 2nd Ave S & 9th St",
+      "title": "Route 827, Route 578, Route 850, Route 824, Route 156, Route 888, Route 882: Stop Closed at 2nd Ave S & 9th St",
       "summary": "2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice. Board at: 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound).",
       "affectedRoutes": [
         "Route 827",
-        "Route 824",
         "Route 578",
         "Route 850",
+        "Route 824",
         "Route 156",
         "Route 888",
         "Route 882"

@@ -2,58 +2,19 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-94-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-6-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-86-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-89-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-84-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-2-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-68-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-64-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-01T07:21:37.693Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-01T14:56:28.985Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO E Line** (1) • **METRO G Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (4) • **Route 2C** (1) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (3) • **Route 7** (2) • **Route 9** (6) • **Route 11** (1) • **Route 17** (1) • **Route 18** (6) • **Route 18C** (1) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (3) • **Route 64** (5) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (2) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO G Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (4) • **Route 2C** (1) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (3) • **Route 7** (2) • **Route 9** (6) • **Route 11** (1) • **Route 17** (1) • **Route 18** (5) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (3) • **Route 64** (5) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (2) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
-
-### 🚨 METRO C Line: Service Canceled
-
-- **Affected Routes**: `METRO C Line`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: 24 PM and departing 7th St & Park St
-
-**Summary**: C Line trips departing Brooklyn Ctr Transit Ctr Gate I at 11:24 PM and departing 7th St & Park Station at 12:33 AM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/cline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: C Line trips departing Brooklyn Ctr Transit Ctr Gate I at 11:24 PM and departing 7th St & Park Station at 12:33 AM canceled today
-
-</details>
-
----
-
-### 🚨 METRO E Line: Southbound 11:15 PM Trip Canceled (Westgate Station - Gate A)
-
-- **Affected Routes**: `METRO E Line`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound E Line trip departing Westgate Station - Gate A at 11:15 PM canceled
-
-[Official Agency Advisory](https://www.metrotransit.org/route/eline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound E Line trip departing Westgate Station - Gate A at 11:15 PM canceled
-
-</details>
-
----
 
 ### 🚨 Route 2: 12:34 AM Trip Canceled (2nd Ave SE & 7th St SE)
 
@@ -114,25 +75,6 @@
 
 ---
 
-### 🚨 Route 18, Route 18C: Southbound 11:35 PM Trip Canceled (4th Ave S & 3rd St S)
-
-- **Affected Routes**: `Route 18` `Route 18C`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound Route 18C trip departing 4th Ave S & 3rd St S at 11:35 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/18)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 18C trip departing 4th Ave S & 3rd St S at 11:35 PM canceled today
-
-</details>
-
----
-
 ## ⚠️ Moderate Detours & Changes
 
 ### ⚠️ METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)
@@ -160,87 +102,6 @@ No stops missed.
 Northbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.
 
 Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.
-```
-
-</details>
-
----
-
-### ⚠️ METRO B Line: Detour via 5th St & Cedar St
-
-- **Affected Routes**: `METRO B Line`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 5th St & Cedar St; 6th St & Jackson St
-- **Closed Stops**: Union Depot & Wacouta Station (Stop #57420), Union Depot & Sibley Station (Stop #57419), Stop #57455, Stop #56099, Stop #56100, Stop #57456
-
-**Summary**: B Line detoured off Kellogg between Broadway and Sibley until later today due to police activity. Board at: 5th St & Cedar Station - Stop #57455 (eastbound); Union Depot Station & Terminal - Stop #56099 (westbound).
-
-> 💡 **Rider Action**: Board at: 5th St & Cedar Station - Stop #57455 (eastbound); Union Depot Station & Terminal - Stop #56099 (westbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel on 5th to Wacouta, continue on 5th to Broadway, right on Broadway and continue to Union Depot Station
-
-[Official Agency Advisory](https://www.metrotransit.org/route/bline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: B Line detoured off Kellogg between Broadway and Sibley until later today due to police activity
-
-```text
-For eastbound B Line get on/off buses at:
-5th St & Cedar Station - Stop #57455 (eastbound)
-Union Depot Station & Terminal - Stop #56099 (westbound)
-
-For westbound B Line get on/off buses at:
-Union Depot & Gate A1 - Stop #56100 (eastbound)
-6th St & Jackson Station - Stop #57456 (westbound)
-
-Eastbound buses will travel on 5th to Wacouta, continue on 5th to Broadway, right on Broadway and continue to Union Depot Station
-
-Westbound buses will travel north on Broadway to Kellogg, continue on Broadway to 6th, left on 6th to Sibley and resume regular route
-
-Affected stops:
-Union Depot & Wacouta Station - Stop #57420 (southbound)
-Union Depot & Sibley Station - Stop #57419 (northbound)
-```
-
-</details>
-
----
-
-### ⚠️ METRO B Line: Detour via Regular Corridor
-
-- **Affected Routes**: `METRO B Line`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Closed Stops**: Lake & Nicollet Station (Stop #57359), Lake & I-35W Station (Stop #16857), Stop #57356, Stop #16863
-
-**Summary**: Eastbound B Line detoured off Lake between Blaisdell and 4th Ave until later today due to non-transit collision. Board at: Lake & Lyndale Station - Stop #57356 (eastbound); Lake & 4th Ave Station - Stop #16863 (eastbound).
-
-> 💡 **Rider Action**: Board at: Lake & Lyndale Station - Stop #57356 (eastbound); Lake & 4th Ave Station - Stop #16863 (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel on Lake to Blaisdell, right on Blaisdell, left on 31st, left on 4th Ave, right on Lake and resume regular route
-
-[Official Agency Advisory](https://www.metrotransit.org/route/bline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound B Line detoured off Lake between Blaisdell and 4th Ave until later today due to non-transit collision
-
-```text
-Get on/off buses at:
-Lake & Lyndale Station - Stop #57356 (eastbound)
-Lake & 4th Ave Station - Stop #16863 (eastbound)
-
-Eastbound buses will travel on Lake to Blaisdell, right on Blaisdell, left on 31st, left on 4th Ave, right on Lake and resume regular route
-
-Westbound buses not affected
-
-Affected stops:
-Lake & Nicollet Station - Stop #57359 (eastbound)
-Lake & I-35W Station - Stop #16857 (eastbound)
 ```
 
 </details>
@@ -3647,9 +3508,9 @@ East River Rd & Queens Lane - Stop #12070 (northbound)
 
 ---
 
-### ⚠️ Route 827, Route 824, Route 578, Route 850, Route 156, Route 888, Route 882: Stop Closed at 2nd Ave S & 9th St
+### ⚠️ Route 827, Route 578, Route 850, Route 824, Route 156, Route 888, Route 882: Stop Closed at 2nd Ave S & 9th St
 
-- **Affected Routes**: `Route 827` `Route 824` `Route 578` `Route 850` `Route 156` `Route 888` `Route 882`
+- **Affected Routes**: `Route 827` `Route 578` `Route 850` `Route 824` `Route 156` `Route 888` `Route 882`
 - **Direction**: Northbound
 - **Severity**: `Moderate`
 - **Corridors & Intersections**: 2nd Ave S & 9th St; 2nd Ave S & 11th St; 2nd Ave S & 7th St
