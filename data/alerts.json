@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-01T19:30:17.956Z",
+    "generatedAt": "2026-11-01T23:28:50.820Z",
     "totalAlerts": 90,
     "criticalCount": 4,
     "moderateCount": 84,
@@ -12,147 +12,79 @@
   },
   "alerts": [
     {
-      "id": "54842",
+      "id": "54847",
       "agency": "Metro Transit",
       "severity": "Critical",
       "title": "METRO D Line: Service Advisory",
-      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 12:36 PM will operate from 7th & Olson at 1:22 PM today. Previous stops missed due to maintenance work.",
+      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:23 PM will operate from Fremont & West Broadway at 5:41 PM. Previous stops missed today due to police activity",
       "affectedRoutes": [
         "METRO D Line"
       ],
-      "direction": "Northbound",
+      "direction": "Southbound",
       "intersections": [],
       "closedStopIds": [
-        "56927",
-        "56929",
-        "737",
-        "81123",
-        "620",
-        "784",
-        "47447",
-        "56926",
-        "56928",
-        "743",
-        "81122",
-        "17900",
-        "56921",
-        "80138",
-        "17897",
-        "17902",
-        "4513",
-        "56922",
-        "56924",
-        "639",
-        "56873",
-        "56923",
-        "56925",
-        "56930",
-        "643",
-        "779",
-        "17903",
-        "52300",
-        "775"
+        "9173",
+        "56905",
+        "9589",
+        "56823",
+        "56907",
+        "9577",
+        "9611",
+        "56904",
+        "56903",
+        "11146",
+        "56906",
+        "9087"
       ],
       "closedStopDetails": [
         {
-          "id": "56927"
+          "id": "9173"
         },
         {
-          "id": "56929"
+          "id": "56905"
         },
         {
-          "id": "737"
+          "id": "9589"
         },
         {
-          "id": "81123"
+          "id": "56823"
         },
         {
-          "id": "620"
+          "id": "56907"
         },
         {
-          "id": "784"
+          "id": "9577"
         },
         {
-          "id": "47447"
+          "id": "9611"
         },
         {
-          "id": "56926"
+          "id": "56904"
         },
         {
-          "id": "56928"
+          "id": "56903"
         },
         {
-          "id": "743"
+          "id": "11146"
         },
         {
-          "id": "81122"
+          "id": "56906"
         },
         {
-          "id": "17900"
-        },
-        {
-          "id": "56921"
-        },
-        {
-          "id": "80138"
-        },
-        {
-          "id": "17897"
-        },
-        {
-          "id": "17902"
-        },
-        {
-          "id": "4513"
-        },
-        {
-          "id": "56922"
-        },
-        {
-          "id": "56924"
-        },
-        {
-          "id": "639"
-        },
-        {
-          "id": "56873"
-        },
-        {
-          "id": "56923"
-        },
-        {
-          "id": "56925"
-        },
-        {
-          "id": "56930"
-        },
-        {
-          "id": "643"
-        },
-        {
-          "id": "779"
-        },
-        {
-          "id": "17903"
-        },
-        {
-          "id": "52300"
-        },
-        {
-          "id": "775"
+          "id": "9087"
         }
       ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-01T18:55:00.000Z",
-        "end": "2026-11-01T20:46:00.000Z"
+        "start": "2026-11-01T23:23:00.000Z",
+        "end": "2026-11-02T01:35:00.000Z"
       },
-      "cause": "MAINTENANCE",
+      "cause": "POLICE_ACTIVITY",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-11-01T18:58:13.000Z",
-      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 12:36 PM will operate from 7th & Olson at 1:22 PM today. Previous stops missed due to maintenance work.",
+      "updatedAt": "2026-11-01T23:26:40.000Z",
+      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:23 PM will operate from Fremont & West Broadway at 5:41 PM. Previous stops missed today due to police activity",
       "rawDescription": ""
     },
     {
@@ -278,15 +210,15 @@
       "direction": "All",
       "intersections": [],
       "closedStopIds": [
-        "51412",
-        "51427"
+        "51427",
+        "51412"
       ],
       "closedStopDetails": [
         {
-          "id": "51412"
+          "id": "51427"
         },
         {
-          "id": "51427"
+          "id": "51412"
         }
       ],
       "riderAlternative": null,
@@ -354,15 +286,15 @@
       "direction": "All",
       "intersections": [],
       "closedStopIds": [
-        "56043",
-        "56001"
+        "56001",
+        "56043"
       ],
       "closedStopDetails": [
         {
-          "id": "56043"
+          "id": "56001"
         },
         {
-          "id": "56001"
+          "id": "56043"
         }
       ],
       "riderAlternative": null,
@@ -892,46 +824,6 @@
       "updatedAt": "2026-11-01T05:00:01.000Z",
       "rawHeader": "Route 3A detoured off Maryland Ave from Galtier St to Rice St and off Rice St from Maryland Ave to Como Ave beginning Mon Nov 2 at 7:00 AM until further notice due to construction",
       "rawDescription": "Update to detour routing, affected stops, and get on/off stops to begin on Nov 2 at 7 AM.\r\n\nFor eastbound Route 3 get on/off buses at:\r\nMaryland Ave & Western Ave - Stop #5567 (eastbound)\r\nTemporary stop on Galtier St & Cook Ave (southbound)\r\nTemporary stop on Galtier St & Front Ave (southbound)\r\nTemporary stop on Galtier St & Atwater St (southbound)\r\nComo Ave & Rice St - Stop #973 (eastbound)\r\nRice St & Charles Ave - Stop #974 (southbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\nRice St & Charles Ave - Stop #10488 (northbound)\r\nComo Ave & Rice St - Stop #49895 (westbound)\r\nTemporary stop on Atwater St & Galtier St (eastbound)\r\nTemporary stop on Galtier St & Front Ave (northbound)\r\nTemporary stop on Matilda St & Maryland Ave (northbound)\r\nMaryland Ave & Western Ave - Stop #5583 (westbound)\r\n\nEastbound 3A buses will travel regular route on Maryland Ave to Matilda St, right on Matilda St, left on Jessamine Ave, right on Galtier, right on Atwater St, left on Western Ave, left on Como Ave, right on Rice St, and resume regular route.\r\n\nWestbound 3A buses will travel regular route on Rice St to Como Ave, left on Como, right on Western Ave, right on Atwater St, left on Galtier St, left on Jessamine Ave, right on Matilda St, left on Maryland Ave, and resume regular route.\r\n\nAffected stops:\r\nTemporary stop on Galtier St & Maryland Ave (northbound)\r\nMaryland Ave & Galtier St - Stop #5571 (eastbound)\r\nMaryland Ave & Rice St - Stop #5575 (eastbound)\r\nRice St & Geranium Ave - Stop #10473 (southbound)\r\nRice St & Lawson Ave - Stop #10476 (southbound)\r\nRice St & Litchfield St - Stop #10479 (southbound)\r\nRice St & Milford St - Stop #10480 (southbound)\r\nRice St & Sycamore St - Stop #10482 (southbound)\r\nRice St & Pennsylvania Ave - Stop #10483 (southbound)\r\nRice St & Como Ave - Stop #10484 (southbound)\r\nRice St & Como Ave - Stop #10489 (northbound)\r\nRice St & Pennsylvania Ave - Stop #10490 (northbound)\r\nRice St & Sycamore St - Stop #10491 (northbound)\r\nRice St & Manitoba Ave - Stop #10494 (northbound)\r\nRice St & Front Ave - Stop #10496 (northbound)\r\nRice St & Lawson Ave - Stop #10498 (northbound)\r\nRice St & Geranium Ave - Stop #10501 (northbound)\r\nMaryland Ave & Rice St - Stop #47074 (westbound)\r\nMaryland Ave & Galtier St - Stop #5579 (westbound)"
-    },
-    {
-      "id": "54492",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 4, Route 38: Stop Closed at Lyndale Ave S & 33rd St W",
-      "summary": "Lyndale Ave S & 33rd St W - Stop #40664 (southbound) is closed for Routes 4 and 38 beginning Thu Oct 29 at 2:00 AM until further notice due to utility work. Board at: Lyndale Ave S & 31st St W - Stop #110 (southbound); Lyndale Ave S & 35th St W - Stop #40668 (southbound).",
-      "affectedRoutes": [
-        "Route 4",
-        "Route 38"
-      ],
-      "direction": "Southbound",
-      "intersections": [
-        "Lyndale Ave S & 33rd St W",
-        "Lyndale Ave S & 31st St W",
-        "Lyndale Ave S & 35th St W"
-      ],
-      "closedStopIds": [
-        "40664",
-        "40668"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "40664"
-        },
-        {
-          "id": "40668"
-        }
-      ],
-      "riderAlternative": "Board at: Lyndale Ave S & 31st St W - Stop #110 (southbound); Lyndale Ave S & 35th St W - Stop #40668 (southbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-29T07:00:00.000Z",
-        "textDescription": "Beginning Thu Oct 29 at 2:00 AM until further notice"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "updatedAt": "2026-10-29T06:30:02.000Z",
-      "rawHeader": "Lyndale Ave S & 33rd St W - Stop #40664 (southbound) is closed for Routes 4 and 38 beginning Thu Oct 29 at 2:00 AM until further notice due to utility work",
-      "rawDescription": "Get on/off buses at:\r\nLyndale Ave S & 31st St W - Stop #110 (southbound)\r\nLyndale Ave S & 35th St W - Stop #40668 (southbound)"
     },
     {
       "id": "52942",
@@ -2487,6 +2379,46 @@
       "updatedAt": "2026-07-20T13:22:02.000Z",
       "rawHeader": "76th St W & Parklawn Ave S - Stop #2212 (westbound) is closed for Route 36 until further notice",
       "rawDescription": "Get on/off buses at:\r\n76th St W & #4100 - Stop #52039 (westbound)\r\nParklawn Ave & Parklawn Court - Stop #41091 (northbound)"
+    },
+    {
+      "id": "54492",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 38, Route 4: Stop Closed at Lyndale Ave S & 33rd St W",
+      "summary": "Lyndale Ave S & 33rd St W - Stop #40664 (southbound) is closed for Routes 4 and 38 beginning Thu Oct 29 at 2:00 AM until further notice due to utility work. Board at: Lyndale Ave S & 31st St W - Stop #110 (southbound); Lyndale Ave S & 35th St W - Stop #40668 (southbound).",
+      "affectedRoutes": [
+        "Route 38",
+        "Route 4"
+      ],
+      "direction": "Southbound",
+      "intersections": [
+        "Lyndale Ave S & 33rd St W",
+        "Lyndale Ave S & 31st St W",
+        "Lyndale Ave S & 35th St W"
+      ],
+      "closedStopIds": [
+        "40664",
+        "40668"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "40664"
+        },
+        {
+          "id": "40668"
+        }
+      ],
+      "riderAlternative": "Board at: Lyndale Ave S & 31st St W - Stop #110 (southbound); Lyndale Ave S & 35th St W - Stop #40668 (southbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-29T07:00:00.000Z",
+        "textDescription": "Beginning Thu Oct 29 at 2:00 AM until further notice"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "updatedAt": "2026-10-29T06:30:02.000Z",
+      "rawHeader": "Lyndale Ave S & 33rd St W - Stop #40664 (southbound) is closed for Routes 4 and 38 beginning Thu Oct 29 at 2:00 AM until further notice due to utility work",
+      "rawDescription": "Get on/off buses at:\r\nLyndale Ave S & 31st St W - Stop #110 (southbound)\r\nLyndale Ave S & 35th St W - Stop #40668 (southbound)"
     },
     {
       "id": "54792",
@@ -4605,60 +4537,6 @@
       "rawDescription": "Updated eastbound detour and affected stops 9/21 9 am.\r\n\nFor eastbound Route 223 get on/off buses at:\r\nMarketplace Dr & Little Canada - Stop #45305 (southbound)\r\nLittle Canada Rd & Middle St - Stop #49179 (westbound)\r\nCenterville Rd & Racine Dr - Stop #48188 (northbound)\r\n\nFor westbound Route 223 get on/off buses at:\r\nLittle Canada Rd & Fleur Royale Condos - Stop #45313 (westbound)\r\nTemporary stop on Co Rd C & Jessica Court (westbound)\r\nRice St & Rosedale Estates - Stop #46964 (southbound)\r\n\nEastbound buses will travel regular route on Marketplace Dr to Little Canada Rd, right on Little Canada Rd, right on Rice St, right on South Owasso Blvd, right on Country Dr, left on Little Canada Rd, and resume regular route.\r\n\nWestbound buses will travel regular route on Little Canada Rd to Co Rd C, left on Co Rd C, right on Rice St to Little Canada Rd, continue on Rice St, and resume regular route. \r\n\nAffected stops:\r\nLittle Canada Rd & Jackson St - Stop #45306 (eastbound)\r\nLittle Canada Rd & Co Rd C - Stop #45307 (eastbound)\r\nLittle Canada Rd & Jackson St - Stop #45314 (westbound)\r\nLittle Canada Rd & Marketplace - Stop #49178 (westbound)\r\nLittle Canada Rd & Middle St - Stop #49179 (westbound)"
     },
     {
-      "id": "44827",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 275, Route 860: Detour via 5th St & Minnesota St",
-      "summary": "Routes 275 and 860 detoured off 5th St from Sibley St to Wacouta St and off Wacouta St from 5th St to 7th St beginning Wed Mar 4 at 8:30 AM until further notice due to construction. Board at: 5th St & Minnesota St - Stop #49397 (eastbound); Wacouta St & 8th St / 9th St E - Stop #49753 (northbound).",
-      "affectedRoutes": [
-        "Route 275",
-        "Route 860"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "5th St & Minnesota St",
-        "Wacouta St & 8th St",
-        "5th St E & Sibley St",
-        "Wacouta St & 5th St",
-        "5th St (Sibley St to Wacouta St and off Wacouta St from 5th St to 7th St)"
-      ],
-      "closedStopIds": [
-        "11839",
-        "11842",
-        "49397",
-        "49753"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "11839",
-          "name": "5th St E & Sibley St",
-          "direction": "eastbound"
-        },
-        {
-          "id": "11842",
-          "name": "Wacouta St & 5th St / 6th St",
-          "direction": "northbound"
-        },
-        {
-          "id": "49397"
-        },
-        {
-          "id": "49753"
-        }
-      ],
-      "riderAlternative": "Board at: 5th St & Minnesota St - Stop #49397 (eastbound); Wacouta St & 8th St / 9th St E - Stop #49753 (northbound)",
-      "detourDetails": "Northbound buses will travel regular route on 5th St to Sibley St, left on Sibley, right on 7th St, left on Wacouta St, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-03-04T14:30:00.000Z",
-        "textDescription": "Beginning Wed Mar 4 at 8:30 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
-      "updatedAt": "2026-09-03T18:43:10.000Z",
-      "rawHeader": "Routes 275 and 860 detoured off 5th St from Sibley St to Wacouta St and off Wacouta St from 5th St to 7th St beginning Wed Mar 4 at 8:30 AM until further notice due to construction",
-      "rawDescription": "Updated start date 3/3 8:15 am.\r\n\nGet on/off buses at:\r\n5th St & Minnesota St - Stop #49397 (eastbound)\r\nWacouta St & 8th St / 9th St E - Stop #49753 (northbound)\r\n\nNorthbound buses will travel regular route on 5th St to Sibley St, left on Sibley, right on 7th St, left on Wacouta St, and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected stops:\r\n5th St E & Sibley St - Stop #11839 (eastbound)\r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)"
-    },
-    {
       "id": "50995",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -5023,58 +4901,6 @@
       "rawDescription": "For eastbound Route 540 get on/off buses at:\r\n77th St W & Pillsbury Ave S - Stop #48616 (eastbound)\r\n77th St E & 2nd Ave S - Stop #48618 (eastbound)\r\n\nFor westbound Route 540 get on/off buses at:\r\n77th St E & 2nd Ave S - Stop #48626 (westbound)\r\n77th St W & Pillsbury Ave S - Stop #48628 (westbound)"
     },
     {
-      "id": "49795",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 542, Route 686: Stop Closed at American Blvd & Lyndale Ave S",
-      "summary": "American Blvd & Lyndale Ave S - Stop #52216 (westbound) is closed for Routes 542 and 686 until further notice. Board at: American Blvd W & Home Depot - Stop #57108 (westbound); American Blvd W & Lyndale Av/Bryant Av S - Stop #56604 (westbound).",
-      "affectedRoutes": [
-        "Route 542",
-        "Route 686"
-      ],
-      "direction": "Westbound",
-      "intersections": [
-        "American Blvd & Lyndale Ave S",
-        "American Blvd W & Home Depot - St",
-        "American Blvd & 3rd Ave S",
-        "77th St W & Best Buy Dr"
-      ],
-      "closedStopIds": [
-        "52216",
-        "57108",
-        "56604",
-        "53697",
-        "51639"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "52216"
-        },
-        {
-          "id": "57108"
-        },
-        {
-          "id": "56604"
-        },
-        {
-          "id": "53697"
-        },
-        {
-          "id": "51639"
-        }
-      ],
-      "riderAlternative": "Board at: American Blvd W & Home Depot - Stop #57108 (westbound); American Blvd W & Lyndale Av/Bryant Av S - Stop #56604 (westbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-07-06T13:15:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "updatedAt": "2026-07-13T13:15:01.000Z",
-      "rawHeader": "American Blvd & Lyndale Ave S - Stop #52216 (westbound) is closed for Routes 542 and 686 until further notice",
-      "rawDescription": "Get on/off Route 542 buses at:\r\nAmerican Blvd W & Home Depot - Stop #57108 (westbound)\r\nAmerican Blvd W & Lyndale Av/Bryant Av S - Stop #56604 (westbound)\r\n\nGet on/off Route 686 buses at:\r\nAmerican Blvd & 3rd Ave S - Stop #53697 (westbound)\r\n77th St W & Best Buy Driveway - Stop #51639 (westbound)"
-    },
-    {
       "id": "51508",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -5133,6 +4959,54 @@
       "updatedAt": "2026-08-24T09:00:00.000Z",
       "rawHeader": "Route 542 detoured off American Blvd from Lyndale Ave to Knox Ave beginning Mon Aug 17 at 4:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nAmerican Blvd W & Home Depot - Stop #57108 (westbound)\r\nAmerican Blvd & Knox Ave S - Stop #41217 (westbound)\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on American Blvd to Lyndale Ave, left on Lyndale, right on 82nd St, right on Knox Ave, left on American Blvd, and resume regular route.\r\n\nAffected direction: Westbound\r\n\nAffected stops:\r\nAmerican Blvd & Lyndale Ave S - Stop #52216 (westbound)\r\nAmerican Blvd W & Lyndale Av/Bryant Av S - Stop #56604 (westbound)\r\nAmerican Blvd W & Fremont Ave S - Stop #57095 (westbound)"
+    },
+    {
+      "id": "41775",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 578, Route 850, Route 827, Route 156, Route 888, Route 824, Route 882: Stop Closed at 2nd Ave S & 9th St",
+      "summary": "2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice. Board at: 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound).",
+      "affectedRoutes": [
+        "Route 578",
+        "Route 850",
+        "Route 827",
+        "Route 156",
+        "Route 888",
+        "Route 824",
+        "Route 882"
+      ],
+      "direction": "Northbound",
+      "intersections": [
+        "2nd Ave S & 9th St",
+        "2nd Ave S & 11th St",
+        "2nd Ave S & 7th St"
+      ],
+      "closedStopIds": [
+        "53316",
+        "53315",
+        "53317"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "53316"
+        },
+        {
+          "id": "53315"
+        },
+        {
+          "id": "53317"
+        }
+      ],
+      "riderAlternative": "Board at: 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2025-11-20T00:12:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "updatedAt": "2026-01-14T05:59:48.000Z",
+      "rawHeader": "2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice",
+      "rawDescription": "Get on/off buses at:\r\n2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound)\r\n2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound)"
     },
     {
       "id": "53905",
@@ -5523,17 +5397,69 @@
       "rawDescription": "Updated 4/11 at 2:04 PM to revise detours, affected stops and get on/off stops.\r\n\nFor eastbound Route 673 get on/off buses at:\r\nLouisiana Transit Center & Gate B - Stop #52551 (westbound)\r\nCedar Lake Rd & Texas Ave - Stop #8073 (westbound)\r\n\nFor westbound Route 673 get on/off buses at:\r\nCedar Lake Rd & Virginia Ave - Stop #8046 (eastbound)\r\nTemporary stop on Texas Ave just past Cedar Lake Rd (northbound)\r\nLouisiana Transit Center & Gate B - Stop #52551 (westbound)\r\n\nEastbound buses will depart Louisiana Ave Transit Center, right on Wayzata Blvd, left on Texas Ave, right on Cedar Lake Rd and resume regular route.\r\n\nWestbound buses will travel regular route on Cedar Lake Rd to Texas Ave, left on Texas Ave, right on Wayzata Blvd, left into Louisiana Ave Transit Center and layover.\r\n\nAffected stops:\r\nCedar Lake Rd & Rhode Island Ave S - Stop #80936 (westbound)\r\nCedar Lake Rd & Sumter Ave S - Stop #80937 (eastbound)"
     },
     {
+      "id": "49795",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 686, Route 542: Stop Closed at American Blvd & Lyndale Ave S",
+      "summary": "American Blvd & Lyndale Ave S - Stop #52216 (westbound) is closed for Routes 542 and 686 until further notice. Board at: American Blvd W & Home Depot - Stop #57108 (westbound); American Blvd W & Lyndale Av/Bryant Av S - Stop #56604 (westbound).",
+      "affectedRoutes": [
+        "Route 686",
+        "Route 542"
+      ],
+      "direction": "Westbound",
+      "intersections": [
+        "American Blvd & Lyndale Ave S",
+        "American Blvd W & Home Depot - St",
+        "American Blvd & 3rd Ave S",
+        "77th St W & Best Buy Dr"
+      ],
+      "closedStopIds": [
+        "52216",
+        "57108",
+        "56604",
+        "53697",
+        "51639"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "52216"
+        },
+        {
+          "id": "57108"
+        },
+        {
+          "id": "56604"
+        },
+        {
+          "id": "53697"
+        },
+        {
+          "id": "51639"
+        }
+      ],
+      "riderAlternative": "Board at: American Blvd W & Home Depot - Stop #57108 (westbound); American Blvd W & Lyndale Av/Bryant Av S - Stop #56604 (westbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-07-06T13:15:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "updatedAt": "2026-07-13T13:15:01.000Z",
+      "rawHeader": "American Blvd & Lyndale Ave S - Stop #52216 (westbound) is closed for Routes 542 and 686 until further notice",
+      "rawDescription": "Get on/off Route 542 buses at:\r\nAmerican Blvd W & Home Depot - Stop #57108 (westbound)\r\nAmerican Blvd W & Lyndale Av/Bryant Av S - Stop #56604 (westbound)\r\n\nGet on/off Route 686 buses at:\r\nAmerican Blvd & 3rd Ave S - Stop #53697 (westbound)\r\n77th St W & Best Buy Driveway - Stop #51639 (westbound)"
+    },
+    {
       "id": "54602",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 760, Route 765, Route 763, Route 766, Route 768: Stop Closed at 3rd St N & 1st Ave N",
+      "title": "Route 760, Route 763, Route 766, Route 768, Route 765: Stop Closed at 3rd St N & 1st Ave N",
       "summary": "3rd St N & 1st Ave N - Stop #17960 (westbound) is closed for Routes 760, 763, 765, 766 and 768 until further notice due to construction. Board at: 3rd St S & Nicollet Mall - Stop #40172 (westbound).",
       "affectedRoutes": [
         "Route 760",
-        "Route 765",
         "Route 763",
         "Route 766",
-        "Route 768"
+        "Route 768",
+        "Route 765"
       ],
       "direction": "Westbound",
       "intersections": [
@@ -5567,14 +5493,14 @@
       "id": "50957",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 768, Route 760, Route 763, Route 766, Route 765: Detour via 3rd St S & Nicollet Mall - St",
+      "title": "Route 765, Route 760, Route 763, Route 766, Route 768: Detour via 3rd St S & Nicollet Mall - St",
       "summary": "Routes 760, 763, 765, 766 and 768 detoured off 3rd St from Hennepin Ave to Hwy 94 beginning Mon Aug 10 at 2:00 AM until further notice due to construction. Board at: 3rd St S & Nicollet Mall - Stop #40172 (westbound).",
       "affectedRoutes": [
-        "Route 768",
+        "Route 765",
         "Route 760",
         "Route 763",
         "Route 766",
-        "Route 765"
+        "Route 768"
       ],
       "direction": "Both Directions",
       "intersections": [
@@ -5654,54 +5580,6 @@
       "rawDescription": "Get on/off buses at:\r\nCoon Rapids Blvd & Blackfoot St - Stop #11055 (westbound)\r\nEast River Rd & Queens Lane - Stop #12070 (northbound)"
     },
     {
-      "id": "41775",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 827, Route 824, Route 156, Route 888, Route 882, Route 578, Route 850: Stop Closed at 2nd Ave S & 9th St",
-      "summary": "2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice. Board at: 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound).",
-      "affectedRoutes": [
-        "Route 827",
-        "Route 824",
-        "Route 156",
-        "Route 888",
-        "Route 882",
-        "Route 578",
-        "Route 850"
-      ],
-      "direction": "Northbound",
-      "intersections": [
-        "2nd Ave S & 9th St",
-        "2nd Ave S & 11th St",
-        "2nd Ave S & 7th St"
-      ],
-      "closedStopIds": [
-        "53316",
-        "53315",
-        "53317"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "53316"
-        },
-        {
-          "id": "53315"
-        },
-        {
-          "id": "53317"
-        }
-      ],
-      "riderAlternative": "Board at: 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2025-11-20T00:12:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "updatedAt": "2026-01-14T05:59:48.000Z",
-      "rawHeader": "2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice",
-      "rawDescription": "Get on/off buses at:\r\n2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound)\r\n2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound)"
-    },
-    {
       "id": "53596",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -5744,6 +5622,60 @@
       "updatedAt": "2026-10-12T12:00:02.000Z",
       "rawHeader": "East River Rd & 62nd Way - Stop #12153 (southbound) is closed for Route 827 beginning Mon Oct 5 at 7:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nEast River Rd & 63rd Way - Stop #12152 (southbound)\r\nEast River Rd & 61st Way NE - Stop #12156 (southbound)"
+    },
+    {
+      "id": "44827",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 860, Route 275: Detour via 5th St & Minnesota St",
+      "summary": "Routes 275 and 860 detoured off 5th St from Sibley St to Wacouta St and off Wacouta St from 5th St to 7th St beginning Wed Mar 4 at 8:30 AM until further notice due to construction. Board at: 5th St & Minnesota St - Stop #49397 (eastbound); Wacouta St & 8th St / 9th St E - Stop #49753 (northbound).",
+      "affectedRoutes": [
+        "Route 860",
+        "Route 275"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "5th St & Minnesota St",
+        "Wacouta St & 8th St",
+        "5th St E & Sibley St",
+        "Wacouta St & 5th St",
+        "5th St (Sibley St to Wacouta St and off Wacouta St from 5th St to 7th St)"
+      ],
+      "closedStopIds": [
+        "11839",
+        "11842",
+        "49397",
+        "49753"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "11839",
+          "name": "5th St E & Sibley St",
+          "direction": "eastbound"
+        },
+        {
+          "id": "11842",
+          "name": "Wacouta St & 5th St / 6th St",
+          "direction": "northbound"
+        },
+        {
+          "id": "49397"
+        },
+        {
+          "id": "49753"
+        }
+      ],
+      "riderAlternative": "Board at: 5th St & Minnesota St - Stop #49397 (eastbound); Wacouta St & 8th St / 9th St E - Stop #49753 (northbound)",
+      "detourDetails": "Northbound buses will travel regular route on 5th St to Sibley St, left on Sibley, right on 7th St, left on Wacouta St, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-03-04T14:30:00.000Z",
+        "textDescription": "Beginning Wed Mar 4 at 8:30 AM until further notice"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "updatedAt": "2026-09-03T18:43:10.000Z",
+      "rawHeader": "Routes 275 and 860 detoured off 5th St from Sibley St to Wacouta St and off Wacouta St from 5th St to 7th St beginning Wed Mar 4 at 8:30 AM until further notice due to construction",
+      "rawDescription": "Updated start date 3/3 8:15 am.\r\n\nGet on/off buses at:\r\n5th St & Minnesota St - Stop #49397 (eastbound)\r\nWacouta St & 8th St / 9th St E - Stop #49753 (northbound)\r\n\nNorthbound buses will travel regular route on 5th St to Sibley St, left on Sibley, right on 7th St, left on Wacouta St, and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected stops:\r\n5th St E & Sibley St - Stop #11839 (eastbound)\r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)"
     },
     {
       "id": "46251",
