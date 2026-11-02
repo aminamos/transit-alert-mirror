@@ -2,21 +2,87 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-85-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-83-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-88-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-84-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-2-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-63-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-64-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-02T15:31:59.357Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-02T23:24:25.114Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO G Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (2) • **Route 7** (2) • **Route 9** (6) • **Route 11** (1) • **Route 17** (1) • **Route 18** (6) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (3) • **Route 64** (4) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (2) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (3) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO G Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (2) • **Route 7** (2) • **Route 9** (6) • **Route 11** (1) • **Route 17** (1) • **Route 18** (6) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (3) • **Route 64** (4) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (7) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (2) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (2) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 Route 802: Service Canceled
+
+- **Affected Routes**: `Route 802`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/802)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate E at 12:34 PM
+departing Northtown Transit Ctr Gate E at 2:34 PM
+departing Northtown Transit Ctr Gate E at 4:34 PM
+
+Affected southbound trips:
+departing Anoka Tech College & Main Entrance at 11:43 AM
+departing Anoka Tech College & Main Entrance at 1:42 PM
+departing Anoka Tech College & Main Entrance at 3:42 PM
+departing Anoka Tech College & Main Entrance at 5:45 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 805: Service Canceled
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
+departing 1st Ave S & Monroe St; 38 PM
+departing 1st Ave S & Monroe St; 36 PM
+departing 1st Ave S & Monroe St
+
+**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate D at 12:34 PM
+departing Northtown Transit Ctr Gate D at 2:34 PM
+departing Northtown Transit Ctr Gate D at 4:34 PM
+
+Affected southbound trips:
+departing 1st Ave S & Monroe St at 11:38 AM
+departing 1st Ave S & Monroe St at 1:38 PM
+departing 1st Ave S & Monroe St at 3:36 PM
+departing 1st Ave S & Monroe St at 5:38 PM
+```
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -244,77 +310,6 @@ Franklin Ave W & Pleasant Ave S - Stop #13328 (WB)
 Get on/off buses at:
 26th St E & 3rd Ave S - Stop #17761 (westbound)
 26th St E & Nicollet Ave - Stop #80924 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 3, Route 3A: Detour via Maryland Ave & Western Ave
-
-- **Affected Routes**: `Route 3` `Route 3A`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Nov 2 at 7:00 AM until further notice
-- **Corridors & Intersections**: Maryland Ave & Western Ave; Galtier St & Cook Ave; Galtier St & Front Ave; Galtier St & Atwater St; Como Ave & Rice St
-- **Closed Stops**: Stop #5567, Stop #10488, Stop #49895, Stop #5583, Stop #5571, Stop #5575, Stop #10473, Stop #10476 *(+15 more)*
-
-**Summary**: Route 3A detoured off Maryland Ave from Galtier St to Rice St and off Rice St from Maryland Ave to Como Ave beginning Mon Nov 2 at 7:00 AM until further notice due to construction. Board at: Maryland Ave & Western Ave - Stop #5567 (eastbound); Temporary stop on Galtier St & Cook Ave (southbound); Temporary stop on Galtier St & Front Ave (southbound).
-
-> 💡 **Rider Action**: Board at: Maryland Ave & Western Ave - Stop #5567 (eastbound); Temporary stop on Galtier St & Cook Ave (southbound); Temporary stop on Galtier St & Front Ave (southbound)
-
-> 🔄 **Detour Path**: buses will travel regular route on Maryland Ave to Matilda St, right on Matilda St, left on Jessamine Ave, right on Galtier, right on Atwater St, left on Western Ave, left on Como Ave, right on Rice St, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/3)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 3A detoured off Maryland Ave from Galtier St to Rice St and off Rice St from Maryland Ave to Como Ave beginning Mon Nov 2 at 7:00 AM until further notice due to construction
-
-```text
-Update to detour routing, affected stops, and get on/off stops to begin on Nov 2 at 7 AM.
-
-For eastbound Route 3 get on/off buses at:
-Maryland Ave & Western Ave - Stop #5567 (eastbound)
-Temporary stop on Galtier St & Cook Ave (southbound)
-Temporary stop on Galtier St & Front Ave (southbound)
-Temporary stop on Galtier St & Atwater St (southbound)
-Como Ave & Rice St - Stop #973 (eastbound)
-Rice St & Charles Ave - Stop #974 (southbound)
-
-For westbound Route 3 get on/off buses at:
-Rice St & Charles Ave - Stop #10488 (northbound)
-Como Ave & Rice St - Stop #49895 (westbound)
-Temporary stop on Atwater St & Galtier St (eastbound)
-Temporary stop on Galtier St & Front Ave (northbound)
-Temporary stop on Matilda St & Maryland Ave (northbound)
-Maryland Ave & Western Ave - Stop #5583 (westbound)
-
-Eastbound 3A buses will travel regular route on Maryland Ave to Matilda St, right on Matilda St, left on Jessamine Ave, right on Galtier, right on Atwater St, left on Western Ave, left on Como Ave, right on Rice St, and resume regular route.
-
-Westbound 3A buses will travel regular route on Rice St to Como Ave, left on Como, right on Western Ave, right on Atwater St, left on Galtier St, left on Jessamine Ave, right on Matilda St, left on Maryland Ave, and resume regular route.
-
-Affected stops:
-Temporary stop on Galtier St & Maryland Ave (northbound)
-Maryland Ave & Galtier St - Stop #5571 (eastbound)
-Maryland Ave & Rice St - Stop #5575 (eastbound)
-Rice St & Geranium Ave - Stop #10473 (southbound)
-Rice St & Lawson Ave - Stop #10476 (southbound)
-Rice St & Litchfield St - Stop #10479 (southbound)
-Rice St & Milford St - Stop #10480 (southbound)
-Rice St & Sycamore St - Stop #10482 (southbound)
-Rice St & Pennsylvania Ave - Stop #10483 (southbound)
-Rice St & Como Ave - Stop #10484 (southbound)
-Rice St & Como Ave - Stop #10489 (northbound)
-Rice St & Pennsylvania Ave - Stop #10490 (northbound)
-Rice St & Sycamore St - Stop #10491 (northbound)
-Rice St & Manitoba Ave - Stop #10494 (northbound)
-Rice St & Front Ave - Stop #10496 (northbound)
-Rice St & Lawson Ave - Stop #10498 (northbound)
-Rice St & Geranium Ave - Stop #10501 (northbound)
-Maryland Ave & Rice St - Stop #47074 (westbound)
-Maryland Ave & Galtier St - Stop #5579 (westbound)
 ```
 
 </details>
@@ -1734,74 +1729,6 @@ Jackson St & Arlington Ave - Stop #49680 (southbound)
 - **Affected Routes**: `Route 62`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Nov 2 at 6:00 AM until further notice
-- **Corridors & Intersections**: Rice St & Charles Ave; Como Ave & Rice St; Atwater St & Galtier St; Galtier St & Front Ave; Rice St & Orange Ave
-- **Closed Stops**: Stop #10488, Stop #49895, Stop #10507, Stop #10470, Stop #10489, Stop #10490, Stop #10491, Stop #10494 *(+12 more)*
-
-**Summary**: Route 62 detoured off Rice St from Como Ave to Maryland Ave beginning Mon Nov 2 at 6:00 AM until further notice due to construction. Board at: Rice St & Charles Ave - Stop #10488 (northbound); Como Ave & Rice St - Stop #49895 (westbound); Temporary stop on Atwater St & Galtier St (eastbound).
-
-> 💡 **Rider Action**: Board at: Rice St & Charles Ave - Stop #10488 (northbound); Como Ave & Rice St - Stop #49895 (westbound); Temporary stop on Atwater St & Galtier St (eastbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on Rice St to Como Ave, left on Como, right on Western Ave, right on Atwater St, left on Galtier St, left on Jessamine Ave, right on Matilda St, right on Maryland Ave, left on Rice St, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/62)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 62 detoured off Rice St from Como Ave to Maryland Ave beginning Mon Nov 2 at 6:00 AM until further notice due to construction
-
-```text
-Update to detour routing to begin on Nov 2 at 6 AM. No change to affected stops or get on/off stops.
-
-For northbound Route 62 get on/off buses at:
-Rice St & Charles Ave - Stop #10488 (northbound)
-Como Ave & Rice St - Stop #49895 (westbound)
-Temporary stop on Atwater St & Galtier St (eastbound)
-Temporary stop on Galtier St & Front Ave (northbound)
-Temporary stop on Rice St & Orange Ave (northbound)
-Rice St & Ivy Ave - Stop #10507 (northbound)
-
-For southbound Route 62 get on/off buses at:
-Rice St & Orange Ave - Stop #10470 (southbound)
-Temporary stop on Galtier St & Cook Ave (southbound)
-Temporary stop on Galtier St & Front Ave (southbound)
-Temporary stop on Galtier St & Atwater St (southbound)
-Como Ave & Rice St - Stop #973 (eastbound)
-Rice St & Charles Ave - Stop #974 (southbound)
-
-Northbound buses will travel regular route on Rice St to Como Ave, left on Como, right on Western Ave, right on Atwater St, left on Galtier St, left on Jessamine Ave, right on Matilda St, right on Maryland Ave, left on Rice St, and resume regular route.
-
-Southbound buses will travel regular route on Rice St to Maryland Ave, right on Maryland Ave, left on Matilda St, left on Jessamine Ave, right on Galtier St, right on Atwater St, left on Western Ave, left on Como Ave, right on Rice St, and resume regular route.
-
-Affected stops:
-Rice St & Como Ave - Stop #10489 (northbound)
-Rice St & Pennsylvania Ave - Stop #10490 (northbound)
-Rice St & Sycamore St - Stop #10491 (northbound)
-Rice St & Manitoba Ave - Stop #10494 (northbound)
-Rice St & Front Ave - Stop #10496 (northbound)
-Rice St & Lawson Ave - Stop #10498 (northbound)
-Rice St & Geranium Ave - Stop #10501 (northbound)
-Rice St & Maryland Ave - Stop #10503 (northbound)
-Rice St & Maryland Ave - Stop #10471 (southbound)
-Rice St & Geranium Ave - Stop #10473 (southbound)
-Rice St & Lawson Ave - Stop #10476 (southbound)
-Rice St & Litchfield St - Stop #10479 (southbound)
-Rice St & Milford St - Stop #10480 (southbound)
-Rice St & Sycamore St - Stop #10482 (southbound)
-Rice St & Pennsylvania Ave - Stop #10483 (southbound)
-Rice St & Como Ave - Stop #10484 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 62: Detour via Rice St & Charles Ave
-
-- **Affected Routes**: `Route 62`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Apr 13 at 4:00 AM until further notice
 - **Corridors & Intersections**: Rice St & Charles Ave; Como Ave & Rice St; Atwater St & Galtier St; Galtier St & Front Ave; Rice St & Orange Ave
 - **Closed Stops**: Rice St & Como Ave (Stop #10489), Rice St & Pennsylvania Ave (Stop #10490), Rice St & Sycamore St (Stop #10491), Rice St & Manitoba Ave (Stop #10494), Rice St & Front Ave (Stop #10496), Rice St & Lawson Ave (Stop #10498), Rice St & Geranium Ave (Stop #10501), Rice St & Maryland Ave (Stop #10503) *(+12 more)*
@@ -2383,6 +2310,90 @@ Affected stops:
 Robert St S & Butler Ave - Stop #9908 (southbound)
 Robert St S & Orme St - Stop #326 (southbound)
 Robert St S & Moreland Ave - Stop #329 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 68: Detour via Maryland Ave & LOrient St
+
+- **Affected Routes**: `Route 68`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Maryland Ave & LOrient St; Jackson St & Jessamine Ave; Arlington Ave E & Jackson St; Jackson St & Rose Ave E; Maryland Ave E (Jackson St to Rose)
+- **Closed Stops**: Arlington Ave E & Jackson St (Stop #40095), Jackson St & Rose Ave E (Stop #56323), Arlington Ave E & #179 (Stop #51606), Stop #40101, Stop #40098
+
+**Summary**: Route 68 detoured off Maryland Ave E from Jackson St to Rose until later today. Board at: Maryland Ave & LOrient St - Stop #40101 (westbound); Jackson St & Jessamine Ave - Stop #40098 (southbound).
+
+> 💡 **Rider Action**: Board at: Maryland Ave & LOrient St - Stop #40101 (westbound); Jackson St & Jessamine Ave - Stop #40098 (southbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/68)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 68 detoured off Maryland Ave E from Jackson St to Rose until later today
+
+```text
+Get on/off buses at:
+Maryland Ave & LOrient St - Stop #40101 (westbound)
+Jackson St & Jessamine Ave - Stop #40098 (southbound)
+
+Affected direction: Southbound
+
+Buses on Maryland Ave W till travel regular route to Jackson St, continue on Jackson St to Abell St, left on Abell St, left on Rose Ave E, right on Jackson St and resume regular route. 
+
+Northbound buses will travel regular route. 
+
+Affected stops:
+Arlington Ave E & Jackson St - Stop #40095 (eastbound)
+Jackson St & Rose Ave E - Stop #56323 (southbound)
+Arlington Ave E & #179 - Stop #51606 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 68: Detour via Maryland Ave & LOrient St
+
+- **Affected Routes**: `Route 68`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Maryland Ave & LOrient St; Jackson St & Jessamine Ave; Jackson St & Rose Ave E; Jackson St (Maryland Ave to Rose Ave)
+- **Closed Stops**: Jackson St & Rose Ave E (Stop #56323), Stop #40101, Stop #40098
+
+**Summary**: Route 68 detoured off Jackson St from Maryland Ave to Rose Ave until further notice due to construction. Board at: Maryland Ave & LOrient St - Stop #40101 (westbound); Jackson St & Jessamine Ave - Stop #40098 (southbound).
+
+> 💡 **Rider Action**: Board at: Maryland Ave & LOrient St - Stop #40101 (westbound); Jackson St & Jessamine Ave - Stop #40098 (southbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/68)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 68 detoured off Jackson St from Maryland Ave to Rose Ave until further notice due to construction
+
+```text
+Get on/off southbound buses at:
+Maryland Ave & LOrient St - Stop #40101 (westbound)
+Jackson St & Jessamine Ave - Stop #40098 (southbound)
+
+No northbound bus stops missed.
+
+Northbound buses will travel regular route.
+
+Southbound buses will travel regular route on Maryland Ave to Jackson St, continue on Maryland Ave to Abell St, left on Abell St, left on Rose Ave, right on Jackson St and resume regular route.
+
+Affected direction: Southbound
+
+Affected stops:
+Jackson St & Rose Ave E - Stop #56323 (southbound)
 ```
 
 </details>
@@ -3247,6 +3258,47 @@ I-394 Ramp & General Mills Blvd - Stop #41158 (eastbound)
 
 ---
 
+### ⚠️ Route 645: Detour via Park Place Blvd & Wayzata Blvd S
+
+- **Affected Routes**: `Route 645`
+- **Direction**: Northbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Park Place Blvd & Wayzata Blvd S; Wayzata Blvd S & Park Place Blvd; Wayzata Blvd S & Utica Ave S; Wayzata Blvd S & Hwy 100 Bridge - St
+- **Closed Stops**: Wayzata Blvd S & Park Place Blvd (Stop #2971), Wayzata Blvd S & Utica Ave S (Stop #40936), Wayzata Blvd S & Hwy 100 Bridge (Stop #43775), Stop #3013
+
+**Summary**: Route 645 detoured of Wayzata Blvd from Park Place Blvd to Hwy 100 until further notice due to construction. Board at: Park Place Blvd & Wayzata Blvd S - Stop #3013 (northbound).
+
+> 💡 **Rider Action**: Board at: Park Place Blvd & Wayzata Blvd S - Stop #3013 (northbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on Park Place Blvd to Wayzata Blvd, continue on Park Place Blvd to I-394 ramp, right onto I-394 and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/645)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 645 detoured of Wayzata Blvd from Park Place Blvd to Hwy 100 until further notice due to construction
+
+```text
+All Eastbound Route 645 buses will use I-394 between Park Place Blvd and Hwy 100.
+
+Get on/off eastbound buses at:
+Park Place Blvd & Wayzata Blvd S - Stop #3013 (northbound)
+
+Eastbound buses will travel regular route on Park Place Blvd to Wayzata Blvd, continue on Park Place Blvd to I-394 ramp, right onto I-394 and resume regular route.
+
+Affected stops:
+Wayzata Blvd S & Park Place Blvd - Stop #2971 (eastbound)
+Wayzata Blvd S & Utica Ave S - Stop #40936 (eastbound)
+Wayzata Blvd S & Hwy 100 Bridge - Stop #43775 (eastbound)
+
+Affected direction: Eastbound
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 673, Route 673B: Detour via Cedar Lake Rd & Texas Ave
 
 - **Affected Routes**: `Route 673` `Route 673B`
@@ -3421,9 +3473,9 @@ East River Rd & Queens Lane - Stop #12070 (northbound)
 
 ---
 
-### ⚠️ Route 827, Route 578, Route 850, Route 824, Route 156, Route 888, Route 882: Stop Closed at 2nd Ave S & 9th St
+### ⚠️ Route 827, Route 578, Route 850, Route 156, Route 888, Route 824, Route 882: Stop Closed at 2nd Ave S & 9th St
 
-- **Affected Routes**: `Route 827` `Route 578` `Route 850` `Route 824` `Route 156` `Route 888` `Route 882`
+- **Affected Routes**: `Route 827` `Route 578` `Route 850` `Route 156` `Route 888` `Route 824` `Route 882`
 - **Direction**: Northbound
 - **Severity**: `Moderate`
 - **Corridors & Intersections**: 2nd Ave S & 9th St; 2nd Ave S & 11th St; 2nd Ave S & 7th St
