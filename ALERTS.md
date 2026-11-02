@@ -2,39 +2,19 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-90-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-89-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-84-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-2-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-65-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-64-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-01T23:28:50.820Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-02T05:44:30.502Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO G Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (4) • **Route 2C** (1) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (3) • **Route 7** (2) • **Route 9** (6) • **Route 11** (1) • **Route 17** (1) • **Route 18** (5) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (3) • **Route 64** (5) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (2) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO G Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (4) • **Route 2C** (1) • **Route 3** (2) • **Route 3A** (2) • **Route 4** (3) • **Route 7** (2) • **Route 9** (6) • **Route 11** (1) • **Route 17** (1) • **Route 18** (5) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (3) • **Route 64** (5) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (5) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (2) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
-
-### 🚨 METRO D Line: Service Advisory
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #9173, Stop #56905, Stop #9589, Stop #56823, Stop #56907, Stop #9577, Stop #9611, Stop #56904 *(+4 more)*
-
-**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:23 PM will operate from Fremont & West Broadway at 5:41 PM. Previous stops missed today due to police activity
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:23 PM will operate from Fremont & West Broadway at 5:41 PM. Previous stops missed today due to police activity
-
-</details>
-
----
 
 ### 🚨 Route 2: 12:34 AM Trip Canceled (2nd Ave SE & 7th St SE)
 
@@ -1426,32 +1406,6 @@ Cedar Ave S & 28th St E - Stop #15319 (northbound)
 
 ---
 
-### ⚠️ Route 36, Route 578, Route 538: Stop Closed at York Ave S & Hazelton Rd
-
-- **Affected Routes**: `Route 36` `Route 578` `Route 538`
-- **Direction**: Northbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: York Ave S & Hazelton Rd; York Ave S & 70th St W
-- **Closed Stops**: Stop #2029, Stop #50601
-
-**Summary**: York Ave S & Hazelton Rd - Stop #2029 (northbound) is closed for Routes 36, 538 and 578 until further notice due to construction. Board at: York Ave S & 70th St W - Stop #50601 (northbound).
-
-> 💡 **Rider Action**: Board at: York Ave S & 70th St W - Stop #50601 (northbound)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: York Ave S & Hazelton Rd - Stop #2029 (northbound) is closed for Routes 36, 538 and 578 until further notice due to construction
-
-```text
-Get on/off buses at:
-York Ave S & 70th St W - Stop #50601 (northbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 36: Stop Closed at 76th St W & Parklawn Ave S
 
 - **Affected Routes**: `Route 36`
@@ -1610,34 +1564,6 @@ Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 7th St E & Lafayette Rd - Stop #11845 (eastbound)
 7th St E & Payne Ave - Stop #11847 (eastbound)
 7th St E & Olive St - Stop #57415 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 54, Route 64: Stop Closed at Maryland Ave & Earl St
-
-- **Affected Routes**: `Route 54` `Route 64`
-- **Direction**: Eastbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Maryland Ave & Earl St; Maryland Ave & Cypress St
-- **Closed Stops**: Stop #12919, Stop #12918
-
-**Summary**: Maryland Ave & Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction. Board at: Maryland Ave & Cypress St - Stop #12918 (eastbound).
-
-> 💡 **Rider Action**: Board at: Maryland Ave & Cypress St - Stop #12918 (eastbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/54)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Maryland Ave & Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction
-
-```text
-Get on/off buses at:
-Maryland Ave & Cypress St - Stop #12918 (eastbound)
 ```
 
 </details>
@@ -2129,6 +2055,34 @@ LaFayette Rd & University Ave - Stop #11921 (southbound)
 LaFayette Rd & Grove St - Stop #11923 (southbound)
 LaFayette Rd & 8th St - Stop #11925 (southbound)
 7th St E & Olive St - Stop #57415 (westbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 64, Route 54: Stop Closed at Maryland Ave & Earl St
+
+- **Affected Routes**: `Route 64` `Route 54`
+- **Direction**: Eastbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Maryland Ave & Earl St; Maryland Ave & Cypress St
+- **Closed Stops**: Stop #12919, Stop #12918
+
+**Summary**: Maryland Ave & Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction. Board at: Maryland Ave & Cypress St - Stop #12918 (eastbound).
+
+> 💡 **Rider Action**: Board at: Maryland Ave & Cypress St - Stop #12918 (eastbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/54)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Maryland Ave & Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction
+
+```text
+Get on/off buses at:
+Maryland Ave & Cypress St - Stop #12918 (eastbound)
 ```
 
 </details>
@@ -3115,9 +3069,9 @@ American Blvd W & Fremont Ave S - Stop #57095 (westbound)
 
 ---
 
-### ⚠️ Route 578, Route 850, Route 827, Route 156, Route 888, Route 824, Route 882: Stop Closed at 2nd Ave S & 9th St
+### ⚠️ Route 578, Route 850, Route 156, Route 888, Route 824, Route 882, Route 827: Stop Closed at 2nd Ave S & 9th St
 
-- **Affected Routes**: `Route 578` `Route 850` `Route 827` `Route 156` `Route 888` `Route 824` `Route 882`
+- **Affected Routes**: `Route 578` `Route 850` `Route 156` `Route 888` `Route 824` `Route 882` `Route 827`
 - **Direction**: Northbound
 - **Severity**: `Moderate`
 - **Corridors & Intersections**: 2nd Ave S & 9th St; 2nd Ave S & 11th St; 2nd Ave S & 7th St
@@ -3136,6 +3090,32 @@ American Blvd W & Fremont Ave S - Stop #57095 (westbound)
 Get on/off buses at:
 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound)
 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 578, Route 538, Route 36: Stop Closed at York Ave S & Hazelton Rd
+
+- **Affected Routes**: `Route 578` `Route 538` `Route 36`
+- **Direction**: Northbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: York Ave S & Hazelton Rd; York Ave S & 70th St W
+- **Closed Stops**: Stop #2029, Stop #50601
+
+**Summary**: York Ave S & Hazelton Rd - Stop #2029 (northbound) is closed for Routes 36, 538 and 578 until further notice due to construction. Board at: York Ave S & 70th St W - Stop #50601 (northbound).
+
+> 💡 **Rider Action**: Board at: York Ave S & 70th St W - Stop #50601 (northbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: York Ave S & Hazelton Rd - Stop #2029 (northbound) is closed for Routes 36, 538 and 578 until further notice due to construction
+
+```text
+Get on/off buses at:
+York Ave S & 70th St W - Stop #50601 (northbound)
 ```
 
 </details>
@@ -3459,9 +3439,9 @@ American Blvd & 3rd Ave S - Stop #53697 (westbound)
 
 ---
 
-### ⚠️ Route 760, Route 763, Route 766, Route 768, Route 765: Stop Closed at 3rd St N & 1st Ave N
+### ⚠️ Route 763, Route 766, Route 768, Route 760, Route 765: Stop Closed at 3rd St N & 1st Ave N
 
-- **Affected Routes**: `Route 760` `Route 763` `Route 766` `Route 768` `Route 765`
+- **Affected Routes**: `Route 763` `Route 766` `Route 768` `Route 760` `Route 765`
 - **Direction**: Westbound
 - **Severity**: `Moderate`
 - **Corridors & Intersections**: 3rd St N & 1st Ave N; 3rd St S & Nicollet Mall - St

@@ -1,92 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-01T23:28:50.820Z",
-    "totalAlerts": 90,
-    "criticalCount": 4,
+    "generatedAt": "2026-11-02T05:44:30.502Z",
+    "totalAlerts": 89,
+    "criticalCount": 3,
     "moderateCount": 84,
     "minorCount": 2,
-    "affectedRoutesCount": 65,
+    "affectedRoutesCount": 64,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "54847",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO D Line: Service Advisory",
-      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:23 PM will operate from Fremont & West Broadway at 5:41 PM. Previous stops missed today due to police activity",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [
-        "9173",
-        "56905",
-        "9589",
-        "56823",
-        "56907",
-        "9577",
-        "9611",
-        "56904",
-        "56903",
-        "11146",
-        "56906",
-        "9087"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "9173"
-        },
-        {
-          "id": "56905"
-        },
-        {
-          "id": "9589"
-        },
-        {
-          "id": "56823"
-        },
-        {
-          "id": "56907"
-        },
-        {
-          "id": "9577"
-        },
-        {
-          "id": "9611"
-        },
-        {
-          "id": "56904"
-        },
-        {
-          "id": "56903"
-        },
-        {
-          "id": "11146"
-        },
-        {
-          "id": "56906"
-        },
-        {
-          "id": "9087"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-01T23:23:00.000Z",
-        "end": "2026-11-02T01:35:00.000Z"
-      },
-      "cause": "POLICE_ACTIVITY",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-11-01T23:26:40.000Z",
-      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:23 PM will operate from Fremont & West Broadway at 5:41 PM. Previous stops missed today due to police activity",
-      "rawDescription": ""
-    },
     {
       "id": "54836",
       "agency": "Metro Transit",
@@ -2297,45 +2221,6 @@
       "rawDescription": "For eastbound Route 27 get on/off buses at:\r\n28th St E & Bloomington Ave S - Stop #43016 (eastbound)\r\nLake & Cedar Station - Stop #51579 (eastbound)\r\n\nFor westbound Route 27 get on/off buses at:\r\nLake St E & 21st Ave S - Stop #16894 (westbound)\r\nLake & Cedar Station - Stop #57362 (westbound)\r\nBloomington Ave S & 28th St E - Stop #15618 (northbound)\r\n26th St E & 12th Ave S - Stop #51507 (westbound)\r\n\nEastbound buses will travel regular route on 28th St to Bloomington Ave, right on Bloomington, left on Lake St to Cedar Ave, and resume regular route.\r\n\nWestbound buses will travel regular route on Lake St to Cedar Ave, continue on Lake to Bloomington Ave, right on Bloomington, left on 26th St, and resume regular route.\r\n\nAffected stops:\r\n28th St E & Cedar Ave S - Stop #43021 (eastbound)\r\nCedar Ave S & Lake St E - Stop #15317 (northbound)\r\nCedar Ave S & 28th St E - Stop #15319 (northbound)\r\n26th St E & 18th Ave S - Stop #14340 (westbound)\r\n26th St E & Bloomington Ave S - Stop #43004 (westbound)"
     },
     {
-      "id": "42305",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 36, Route 578, Route 538: Stop Closed at York Ave S & Hazelton Rd",
-      "summary": "York Ave S & Hazelton Rd - Stop #2029 (northbound) is closed for Routes 36, 538 and 578 until further notice due to construction. Board at: York Ave S & 70th St W - Stop #50601 (northbound).",
-      "affectedRoutes": [
-        "Route 36",
-        "Route 578",
-        "Route 538"
-      ],
-      "direction": "Northbound",
-      "intersections": [
-        "York Ave S & Hazelton Rd",
-        "York Ave S & 70th St W"
-      ],
-      "closedStopIds": [
-        "2029",
-        "50601"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "2029"
-        },
-        {
-          "id": "50601"
-        }
-      ],
-      "riderAlternative": "Board at: York Ave S & 70th St W - Stop #50601 (northbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2025-12-08T14:06:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "NO_SERVICE",
-      "updatedAt": "2025-12-15T14:06:01.000Z",
-      "rawHeader": "York Ave S & Hazelton Rd - Stop #2029 (northbound) is closed for Routes 36, 538 and 578 until further notice due to construction",
-      "rawDescription": "Get on/off buses at:\r\nYork Ave S & 70th St W - Stop #50601 (northbound)"
-    },
-    {
       "id": "50085",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -2611,45 +2496,6 @@
       "updatedAt": "2026-09-03T18:21:39.000Z",
       "rawHeader": "Route 54 detoured off 7th St from Wacouta St to Arcade St and off Arcade St from 7th St to Sims Ave until further notice due to construction",
       "rawDescription": "Updated 8/28 to add additional get on/off stops.\r\n\nFor eastbound Route 54M get on/off buses at:\r\n5th St & Robert Station - Stop #57418 (eastbound)\r\n5th St E & Sibley St - Stop #1839 (eastbound)\r\nTemporary stop on 6th St E & Maria Ave (eastbound)\r\nTemporary stop on 6th St E & Maple St (eastbound)\r\n6th St E & Hope St - Stop #53982 (eastbound)\r\nTemporary stop on 6th St E & Arcade St (eastbound)\r\nTemporary stop on 6th St E & Mendota St (eastbound)\r\nTemporary stop on Forest St & 7th St E (northbound)\r\nTemporary stop on Forest St & York Ave (northbound)\r\nTemporary stop on Forest St & Sims Ave (northbound)\r\nTemporary stop on Arcade St & Jenks Ave (northbound)\r\nArcade St & Maryland Ave - Stop #42053 (northbound)\r\n\nFor westbound Route 54 departing Maplewood Mall get on/off buses at:\r\nArcade St & Rose Ave E - Stop #56680 (southbound)\r\nTemporary stop on Arcade St & Jenks Ave (southbound)\r\nTemporary stop on Sims Ave & Forest St (eastbound)\r\nTemporary stop on Forest St & York Ave (southbound)\r\nTemporary stop on Forest St & 7th St E (southbound)\r\nTemporary stop on Forest St & Minnehaha Ave E (southbound)\r\nTemporary stop on 6th St E & Mendota (westbound)\r\nTemporary stop on 6th St E & Arcade St (westbound)\r\nTemporary stop on 6th St E & Hope St (westbound)\r\nTemporary stop on 6th St E & Maple St (westbound)\r\nTemporary stop on 6th St E & Maria Ave (westbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound)\r\nTemporary stop on 6th St E & Sibley St (westbound)\r\n\nEastbound Route 54M buses will travel regular route on 5th St E to Wacouta St, continue on 5th St, left on Broadway St onto eastbound I-94, exit for Mounds Blvd, continue straight on 6th St E, left on Forest St, left on Sims Ave, right on Arcade St and resume regular route.\r\n\nWestbound buses departing Maplewood Mall will travel regular route on Arcade St to Sims Ave, left on Sims Ave, right on Forest St, right on 6th St, continue onto westbound I-94, exit for 12th St, left on Jackson St, left on 7th St, right on Wall St, and resume regular route.\r\n\nAffected stops:\r\n7th St E & Maria Ave - Stop #11849 (eastbound)\r\n7th St E & Hope St - Stop #10242 (eastbound)\r\nArcade St & Minnehaha Ave - Stop #51089 (northbound)\r\nArcade St & York Ave - Stop #10247 (northbound)\r\n7th St E & Maria Ave - Stop #11850 (westbound)\r\nArcade St & York Ave - Stop #10288 (southbound)\r\nArcade St & Minnehaha Ave - Stop #10291 (southbound)\r\nForest St & Sims Ave - Stop #80817 (northbound)\r\nCase Ave & Forest St - Stop #80996 (eastbound)\r\nForest St & Sims Ave - Stop #80818 (southbound) \r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\n7th St E & Lafayette Rd - Stop #11845 (eastbound)\r\n7th St E & Payne Ave - Stop #11847 (eastbound)\r\n7th St E & Olive St - Stop #57415 (westbound)"
-    },
-    {
-      "id": "54217",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 54, Route 64: Stop Closed at Maryland Ave & Earl St",
-      "summary": "Maryland Ave & Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction. Board at: Maryland Ave & Cypress St - Stop #12918 (eastbound).",
-      "affectedRoutes": [
-        "Route 54",
-        "Route 64"
-      ],
-      "direction": "Eastbound",
-      "intersections": [
-        "Maryland Ave & Earl St",
-        "Maryland Ave & Cypress St"
-      ],
-      "closedStopIds": [
-        "12919",
-        "12918"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "12919"
-        },
-        {
-          "id": "12918"
-        }
-      ],
-      "riderAlternative": "Board at: Maryland Ave & Cypress St - Stop #12918 (eastbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-10-15T16:40:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/54",
-      "updatedAt": "2026-10-22T16:40:02.000Z",
-      "rawHeader": "Maryland Ave & Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction",
-      "rawDescription": "Get on/off buses at:\r\nMaryland Ave & Cypress St - Stop #12918 (eastbound)"
     },
     {
       "id": "48758",
@@ -3487,6 +3333,45 @@
       "updatedAt": "2026-10-30T15:25:37.000Z",
       "rawHeader": "Route 64 detoured off 7th St E from Lafayette Ave to Burr St starting Mon Sep 14 at 5:00 AM until further notice due to construction",
       "rawDescription": "For eastbound Route 64 get on/off buses at:\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\nBurr St & Tedesco St - Stop #11776 (northbound)\r\n\nFor westbound Route 64 get on/off buses at:\r\nBurr St & Tedesco St - Stop #11819 (southbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound) \r\n\nEastbound buses will travel regular route on 7th St E to Lafayette, continue past Lafayette to Payne, left on Payne, left on Tedesco, right on Burr, and resume regular route. \r\n\nWestbound buses will travel regular route on Burr to Tedesco, left onto Tedesco, right onto Payne, right onto 7th St, continue to Lafayette and resume regular route. \r\n\nAffected stops:\r\nLaFayette Rd & 8th St - Stop #11916 (northbound)\r\nLaFayette Rd & Grove St - Stop #11918 (northbound)\r\nLaFayette Rd & University Ave - Stop #11920 (northbound)\r\nLaFayette Rd & #600 - Stop #11774 (northbound)\r\nLafayette Rd & Lafayette Plaza - Stop #11821 (southbound)\r\nLaFayette Rd & University Ave - Stop #11921 (southbound)\r\nLaFayette Rd & Grove St - Stop #11923 (southbound)\r\nLaFayette Rd & 8th St - Stop #11925 (southbound)\r\n7th St E & Olive St - Stop #57415 (westbound)"
+    },
+    {
+      "id": "54217",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 64, Route 54: Stop Closed at Maryland Ave & Earl St",
+      "summary": "Maryland Ave & Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction. Board at: Maryland Ave & Cypress St - Stop #12918 (eastbound).",
+      "affectedRoutes": [
+        "Route 64",
+        "Route 54"
+      ],
+      "direction": "Eastbound",
+      "intersections": [
+        "Maryland Ave & Earl St",
+        "Maryland Ave & Cypress St"
+      ],
+      "closedStopIds": [
+        "12919",
+        "12918"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "12919"
+        },
+        {
+          "id": "12918"
+        }
+      ],
+      "riderAlternative": "Board at: Maryland Ave & Cypress St - Stop #12918 (eastbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-10-15T16:40:00.000Z"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/54",
+      "updatedAt": "2026-10-22T16:40:02.000Z",
+      "rawHeader": "Maryland Ave & Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction",
+      "rawDescription": "Get on/off buses at:\r\nMaryland Ave & Cypress St - Stop #12918 (eastbound)"
     },
     {
       "id": "54537",
@@ -4964,16 +4849,16 @@
       "id": "41775",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 578, Route 850, Route 827, Route 156, Route 888, Route 824, Route 882: Stop Closed at 2nd Ave S & 9th St",
+      "title": "Route 578, Route 850, Route 156, Route 888, Route 824, Route 882, Route 827: Stop Closed at 2nd Ave S & 9th St",
       "summary": "2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice. Board at: 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound).",
       "affectedRoutes": [
         "Route 578",
         "Route 850",
-        "Route 827",
         "Route 156",
         "Route 888",
         "Route 824",
-        "Route 882"
+        "Route 882",
+        "Route 827"
       ],
       "direction": "Northbound",
       "intersections": [
@@ -5007,6 +4892,45 @@
       "updatedAt": "2026-01-14T05:59:48.000Z",
       "rawHeader": "2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice",
       "rawDescription": "Get on/off buses at:\r\n2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound)\r\n2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound)"
+    },
+    {
+      "id": "42305",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 578, Route 538, Route 36: Stop Closed at York Ave S & Hazelton Rd",
+      "summary": "York Ave S & Hazelton Rd - Stop #2029 (northbound) is closed for Routes 36, 538 and 578 until further notice due to construction. Board at: York Ave S & 70th St W - Stop #50601 (northbound).",
+      "affectedRoutes": [
+        "Route 578",
+        "Route 538",
+        "Route 36"
+      ],
+      "direction": "Northbound",
+      "intersections": [
+        "York Ave S & Hazelton Rd",
+        "York Ave S & 70th St W"
+      ],
+      "closedStopIds": [
+        "2029",
+        "50601"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "2029"
+        },
+        {
+          "id": "50601"
+        }
+      ],
+      "riderAlternative": "Board at: York Ave S & 70th St W - Stop #50601 (northbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2025-12-08T14:06:00.000Z"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "NO_SERVICE",
+      "updatedAt": "2025-12-15T14:06:01.000Z",
+      "rawHeader": "York Ave S & Hazelton Rd - Stop #2029 (northbound) is closed for Routes 36, 538 and 578 until further notice due to construction",
+      "rawDescription": "Get on/off buses at:\r\nYork Ave S & 70th St W - Stop #50601 (northbound)"
     },
     {
       "id": "53905",
@@ -5452,13 +5376,13 @@
       "id": "54602",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 760, Route 763, Route 766, Route 768, Route 765: Stop Closed at 3rd St N & 1st Ave N",
+      "title": "Route 763, Route 766, Route 768, Route 760, Route 765: Stop Closed at 3rd St N & 1st Ave N",
       "summary": "3rd St N & 1st Ave N - Stop #17960 (westbound) is closed for Routes 760, 763, 765, 766 and 768 until further notice due to construction. Board at: 3rd St S & Nicollet Mall - Stop #40172 (westbound).",
       "affectedRoutes": [
-        "Route 760",
         "Route 763",
         "Route 766",
         "Route 768",
+        "Route 760",
         "Route 765"
       ],
       "direction": "Westbound",
