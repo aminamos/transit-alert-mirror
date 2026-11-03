@@ -2,21 +2,148 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-85-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-90-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-5-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-83-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-2-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-62-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-66-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-03T06:25:54.767Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-03T14:58:45.275Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO G Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (2) • **Route 7** (2) • **Route 9** (6) • **Route 11** (1) • **Route 17** (1) • **Route 18** (6) • **Route 22** (4) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (3) • **Route 64** (4) • **Route 64D** (1) • **Route 68** (7) • **Route 68C** (1) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (2) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (4) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (2) • **METRO D Line** (1) • **METRO G Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (2) • **Route 7** (2) • **Route 9** (6) • **Route 17** (1) • **Route 18** (5) • **Route 22** (4) • **Route 25** (2) • **Route 27** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (3) • **Route 62D** (1) • **Route 63** (3) • **Route 64** (4) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (2) • **Route 83** (1) • **Route 94** (1) • **Route 156** (2) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (2) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 METRO C Line: Service Canceled
+
+- **Affected Routes**: `METRO C Line`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing 7th St & Park St
+
+**Summary**: C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 6:30 AM and two other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/cline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 6:30 AM and two other trips canceled today
+
+```text
+Affected northbound trips:
+departing 7th St & Park Station at 7:21 AM
+
+Affected southbound trips:
+departing Brooklyn Ctr Transit Ctr Gate I at 6:30 AM
+departing Brooklyn Ctr Transit Ctr Gate I at 8:07 AM
+```
+
+</details>
+
+---
+
+### 🚨 METRO C Line: Service Canceled
+
+- **Affected Routes**: `METRO C Line`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: C Line trip departing 7th St & Park St; departing 7th St & Park St; 23 AM
+departing 7th St & Park St
+
+**Summary**: C Line trip departing 7th St & Park Station at 6:23 AM and three other trips canceled, evening trips RESTORED
+
+[Official Agency Advisory](https://www.metrotransit.org/route/cline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: C Line trip departing 7th St & Park Station at 6:23 AM and three other trips canceled, evening trips RESTORED
+
+```text
+Update: 6:26 AM -- Several evening trips restored 
+
+Affected northbound trips:
+departing 7th St & Park Station at 6:23 AM
+departing 7th St & Park Station at 7:57 AM
+
+Affected southbound trips:
+departing Brooklyn Ctr Transit Ctr Gate I at 7:07 AM
+departing Brooklyn Ctr Transit Ctr Gate I at 8:42 AM
+```
+
+</details>
+
+---
+
+### 🚨 METRO D Line: Service Canceled
+
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: D Line trip departing MOA Transit Station Gate A at 7:06 AM and three other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: D Line trip departing MOA Transit Station Gate A at 7:06 AM and three other trips canceled today
+
+```text
+Affected northbound trips:
+departing MOA Transit Station Gate A at 7:06 AM
+departing MOA Transit Station Gate A at 10:05 AM
+
+Affected southbound trips:
+departing Brooklyn Ctr Transit Ctr Gate F at 8:33 AM
+departing Brooklyn Ctr Transit Ctr Gate F at 11:33 AM
+```
+
+</details>
+
+---
+
+### 🚨 Route 62, Route 62D: Southbound 7:20 AM Trip Canceled (Market Place Dr & The Marketplace Ctr)
+
+- **Affected Routes**: `Route 62` `Route 62D`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Route 62D trip departing Market Place Dr & The Marketplace Ctr at 7:20 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/62)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 62D trip departing Market Place Dr & The Marketplace Ctr at 7:20 AM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 724: Service Canceled
+
+- **Affected Routes**: `Route 724`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 724 trips departing Brooklyn Ctr Transit Ctr Gate C at 7:15 AM and departing Starlite Transit Center & Gate A at 7:43 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/724)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 724 trips departing Brooklyn Ctr Transit Ctr Gate C at 7:15 AM and departing Starlite Transit Center & Gate A at 7:43 AM canceled today
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -649,58 +776,6 @@ Affected stops:
 
 ---
 
-### ⚠️ Route 11: Detour via Main St NE & St Anthony Pkwy
-
-- **Affected Routes**: `Route 11`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Tue May 26 at 7:00 AM until further notice
-- **Corridors & Intersections**: Main St NE & St Anthony Pkwy; 2 St NE & 35th Ave N; 2 St NE & 36th Ave N; Main St NE & Edge Place NE - St; left on Main St NE & resume regular route.
-
-Affected st
-- **Closed Stops**: Main St NE & Edge Place NE (Stop #14617), Main St NE & 35th Ave NE (Stop #14614), 35th Ave NE & 2nd St NE (Stop #14613), 35th Ave NE & 2nd 1/2 St NE (Stop #14610), 35th Ave NE & 2nd St NE (Stop #14612), 35th Ave NE & Main St NE (Stop #14615), Stop #14618, Stop #14609 *(+2 more)*
-
-**Summary**: Route 11 detoured off Main St NE from Edge Pl to 35th Ave and off 35th Ave from Main St NE to 2 1/2 St beginning Tue May 26 at 7:00 AM until further notice due to construction. Board at: Main St NE & St Anthony Pkwy - Stop #14618 (northbound); Temporary stop on Main St NE just before Edge Place NE (northbound); Temporary stop on 2nd 1/2 St NE & 35th Ave NE (northbound).
-
-> 💡 **Rider Action**: Board at: Main St NE & St Anthony Pkwy - Stop #14618 (northbound); Temporary stop on Main St NE just before Edge Place NE (northbound); Temporary stop on 2nd 1/2 St NE & 35th Ave NE (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on Main St NE to Edge Place, right on Edge Place, left on 2nd 1/2 St, continue on 2 1/2 St to 35th Ave and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/11)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 11 detoured off Main St NE from Edge Pl to 35th Ave and off 35th Ave from Main St NE to 2 1/2 St beginning Tue May 26 at 7:00 AM until further notice due to construction
-
-```text
-For northbound Route 11 get on/off buses at:
-Main St NE & St Anthony Pkwy - Stop #14618 (northbound)
-Temporary stop on Main St NE just before Edge Place NE (northbound)
-Temporary stop on 2nd 1/2 St NE & 35th Ave NE (northbound)
-2nd 1/2 St NE & 36th Ave NE - Stop #14609 (northbound)
-
-For southbound Route 11 get on/off buses at:
-2nd 1/2 St NE & 35th Ave NE - Stop #14611 (southbound)
-Main St NE & Edge Place NE - Stop #14616 (southbound)
-
-Northbound buses will travel regular route on Main St NE to Edge Place, right on Edge Place, left on 2nd 1/2 St, continue on 2 1/2 St to 35th Ave and resume regular route.
-
-Southbound buses will travel regular route on 2nd 1/2 St to 35th Ave, continue on 2 1/2 St to Edge Place, right on Edge Place, left on Main St NE and resume regular route.
-
-Affected stops:
-Main St NE & Edge Place NE - Stop #14617 (northbound)
-Main St NE & 35th Ave NE - Stop #14614 (northbound)
-35th Ave NE & 2nd St NE - Stop #14613 (eastbound)
-35th Ave NE & 2nd 1/2 St NE - Stop #14610 (eastbound)
-35th Ave NE & 2nd St NE - Stop #14612 (westbound)
-35th Ave NE & Main St NE - Stop #14615 (westbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 17: Detour via 24th St W & Pleasant Ave S
 
 - **Affected Routes**: `Route 17`
@@ -966,46 +1041,6 @@ Nicollet Ave S & 35th St W - Stop #1216 (southbound)
 
 ---
 
-### ⚠️ Route 18: Detour via Nicollet Ave S & 78th St W
-
-- **Affected Routes**: `Route 18`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Nicollet Ave S & 78th St W; Nicollet Ave S & 82nd St W; Nicollet Ave S & American Blvd; Nicollet Ave S & 81st St W; Nicollet Ave S (American Blvd to 81st St E)
-- **Closed Stops**: Nicollet Ave S & American Blvd (Stop #48129), Nicollet Ave S & 81st St W (Stop #1364), Stop #1361, Stop #1365
-
-**Summary**: Route 18 detoured off Nicollet Ave S from American Blvd to 81st St E until later today. Board at: Nicollet Ave S & 78th St W (Frontage Rd) - Stop #1361 (southbound); Nicollet Ave S & 82nd St W - Stop #1365 (southbound).
-
-> 💡 **Rider Action**: Board at: Nicollet Ave S & 78th St W (Frontage Rd) - Stop #1361 (southbound); Nicollet Ave S & 82nd St W - Stop #1365 (southbound)
-
-> 🔄 **Detour Path**: Southbound buses will travel regular route on Nicollet Ave S to American Blvd, left on American Blvd, right on Portland Ave s, right on 81st St E, left on Nicollet Ave S and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/18)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 18 detoured off Nicollet Ave S from American Blvd to 81st St E until later today
-
-```text
-Get on/off buses at:
-Nicollet Ave S & 78th St W (Frontage Rd) - Stop #1361 (southbound)
-Nicollet Ave S & 82nd St W - Stop #1365 (southbound)
-
-Affected direction: Southbound
-Southbound buses will travel regular route on Nicollet Ave S to American Blvd, left on American Blvd, right on Portland Ave s, right on 81st St E, left on Nicollet Ave S and resume regular route. 
-
-Northbound buses will travel regular route on Nicollet Ave S to 81st St E, right on 81st E, left on Portland, left on American, right on Nicollet and resume regular route. (No stops missed) 
-
-Affected stops:
-Nicollet Ave S & American Blvd - Stop #48129 (southbound)
-Nicollet Ave S & 81st St W - Stop #1364 (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 22: Detour via Lyndale Ave N & Lowry Ave N
 
 - **Affected Routes**: `Route 22`
@@ -1245,6 +1280,53 @@ Co Rd H-2 & Parkview Dr - Stop #14047 (westbound)
 Co Rd H-2 & Silver Lake Rd - Stop #14044 (westbound)
 Silver Lake Rd & Woodale Dr - Stop #57237 (southbound)
 Silver Lake Rd & County Rd H W - Stop #57642 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 25: Detour via Ardan Ave & Spring Lake Rd
+
+- **Affected Routes**: `Route 25`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Ardan Ave & Spring Lake Rd; Spring Lake Rd & 85th Ave N; 85th Ave NE & Spring Lake Rd; Ardan Ave & Groveland Rd; left on 85th Ave Ne & County Road
+- **Closed Stops**: Ardan Ave & Spring Lake Rd (Stop #13970), Spring Lake Rd & #8387 (Stop #49090), Spring Lake Rd & 85th Ave NE (Stop #13965), 85th Ave NE & Spring Lake Rd (Stop #13964), Ardan Ave & Groveland Rd (Stop #13975), Stop #8387, Stop #13968, Stop #13971 *(+1 more)*
+
+**Summary**: Route 25 detoured off Ardan Ave from Knollwood to 85th Ave Ne/ County Road J due to tree down until later today. Board at: Ardan Ave & Spring Lake Rd - Stop #13970 (westbound); Spring Lake Rd & #8387 - Stop #49090 (northbound); Spring Lake Rd & 85th Ave NE - Stop #13965 (northbound).
+
+> 💡 **Rider Action**: Board at: Ardan Ave & Spring Lake Rd - Stop #13970 (westbound); Spring Lake Rd & #8387 - Stop #49090 (northbound); Spring Lake Rd & 85th Ave NE - Stop #13965 (northbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route on Ardan to Knollwood, right on Knollwood, left on 85th Ave Ne/ County Road J continue to Spring Lake Rd and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/25)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 25 detoured off Ardan Ave from Knollwood to 85th Ave Ne/ County Road J due to tree down until later today
+
+```text
+For northbound Route 25 get on/off buses at:
+Ardan Ave & Spring Lake Rd - Stop #13970 (westbound)
+Spring Lake Rd & #8387 - Stop #49090 (northbound)
+Spring Lake Rd & 85th Ave NE - Stop #13965 (northbound)
+
+For southbound Route 25 get on/off buses at:
+85th Ave NE & Spring Lake Rd - Stop #13964 (eastbound)
+Ardan Ave & Groveland Rd - Stop #13975 (eastbound)
+
+Northbound buses will travel regular route on Ardan to Knollwood, right on Knollwood, left on 85th Ave Ne/ County Road J continue to Spring Lake Rd and resume regular route. 
+
+Southbound buses will travel regular route on 8th Ave Ne/ County Road J to Spring Lake Rd, continue one block to Knollwood, right on Knollwood, left on Ardan and resume regular route. 
+
+Affected stops:
+Ardan Ave & Spring Lake Rd - Stop #13970 (westbound)
+Spring Lake Rd & #8387 - Stop #49090 (northbound)
+Spring Lake Rd & 85th Ave NE - Stop #13965 (northbound)
+85th Ave NE & Spring Lake Rd - Stop #13964 (eastbound)
+Ardan Ave & Groveland Rd - Stop #13975 (eastbound)
 ```
 
 </details>
@@ -1718,6 +1800,36 @@ Rice St & Milford St - Stop #10480 (southbound)
 Rice St & Sycamore St - Stop #10482 (southbound)
 Rice St & Pennsylvania Ave - Stop #10483 (southbound)
 Rice St & Como Ave - Stop #10484 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 62, Route 75, Route 3, Route 71, Route 67: Stop Closed at Minnesota St & 4th St
+
+- **Affected Routes**: `Route 62` `Route 75` `Route 3` `Route 71` `Route 67`
+- **Direction**: Northbound
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Wed Nov 4 at 7:00 AM until further notice
+- **Corridors & Intersections**: Minnesota St & 4th St; Minnesota St & 6th St; Robert St & 6th St
+- **Closed Stops**: Stop #2611, Stop #1235, Stop #49112
+
+**Summary**: Minnesota St & 4th St - Stop #2611 (northbound) is closed for Routes 3, 62, 67, 71 and 75 beginning Wed Nov 4 at 7:00 AM until further notice due to construction. Board at: Minnesota St & 6th St - Stop #1235 (northbound, Routes 3, 62, 67, 75 only); Robert St & 6th St - Stop #49112 (northbound, Route 71 only).
+
+> 💡 **Rider Action**: Board at: Minnesota St & 6th St - Stop #1235 (northbound, Routes 3, 62, 67, 75 only); Robert St & 6th St - Stop #49112 (northbound, Route 71 only)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/3)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Minnesota St & 4th St - Stop #2611 (northbound) is closed for Routes 3, 62, 67, 71 and 75 beginning Wed Nov 4 at 7:00 AM until further notice due to construction
+
+```text
+Get on/off buses at:
+Minnesota St & 6th St - Stop #1235 (northbound, Routes 3, 62, 67, 75 only)
+Robert St & 6th St - Stop #49112 (northbound, Route 71 only)
 ```
 
 </details>
@@ -2203,48 +2315,6 @@ Affected stops:
 Robert St S & Butler Ave - Stop #9908 (southbound)
 Robert St S & Orme St - Stop #326 (southbound)
 Robert St S & Moreland Ave - Stop #329 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 68: Detour via Maryland Ave & LOrient St
-
-- **Affected Routes**: `Route 68`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Maryland Ave & LOrient St; Jackson St & Jessamine Ave; Arlington Ave E & Jackson St; Jackson St & Rose Ave E; Maryland Ave E (Jackson St to Rose)
-- **Closed Stops**: Arlington Ave E & Jackson St (Stop #40095), Jackson St & Rose Ave E (Stop #56323), Arlington Ave E & #179 (Stop #51606), Stop #40101, Stop #40098
-
-**Summary**: Route 68 detoured off Maryland Ave E from Jackson St to Rose until later today. Board at: Maryland Ave & LOrient St - Stop #40101 (westbound); Jackson St & Jessamine Ave - Stop #40098 (southbound).
-
-> 💡 **Rider Action**: Board at: Maryland Ave & LOrient St - Stop #40101 (westbound); Jackson St & Jessamine Ave - Stop #40098 (southbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/68)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 68 detoured off Maryland Ave E from Jackson St to Rose until later today
-
-```text
-Get on/off buses at:
-Maryland Ave & LOrient St - Stop #40101 (westbound)
-Jackson St & Jessamine Ave - Stop #40098 (southbound)
-
-Affected direction: Southbound
-
-Buses on Maryland Ave W till travel regular route to Jackson St, continue on Jackson St to Abell St, left on Abell St, left on Rose Ave E, right on Jackson St and resume regular route. 
-
-Northbound buses will travel regular route. 
-
-Affected stops:
-Arlington Ave E & Jackson St - Stop #40095 (eastbound)
-Jackson St & Rose Ave E - Stop #56323 (southbound)
-Arlington Ave E & #179 - Stop #51606 (eastbound)
 ```
 
 </details>
@@ -3232,6 +3302,45 @@ Affected direction: Eastbound
 
 ---
 
+### ⚠️ Route 645: Detour via Park Place Blvd & Wayzata Blvd S
+
+- **Affected Routes**: `Route 645`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Park Place Blvd & Wayzata Blvd S; Wayzata Blvd & Utica Ave S
+- **Closed Stops**: Wayzata Blvd & Utica Ave S (Stop #40937), Stop #48749
+
+**Summary**: Route 645 detoured off Hwy 394 express lane until further notice due to construction. Board at: Park Place Blvd & Wayzata Blvd S - Stop #48749 (southbound).
+
+> 💡 **Rider Action**: Board at: Park Place Blvd & Wayzata Blvd S - Stop #48749 (southbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/645)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 645 detoured off Hwy 394 express lane until further notice due to construction
+
+```text
+Get on/off buses at:
+Park Place Blvd & Wayzata Blvd S - Stop #48749 (southbound)
+
+Eastbound buses will travel regular route.
+
+Westbound buses in the afternoon will travel regular route on 11th St to Hennepin Ave, continue on 11th St to Hawthorne Ave, left on westbound Hwy 394 ramp, exit at Park Place Blvd, left on Park Place Blvd to Wayzata Blvd, and resume regular route.
+
+Affected direction: Westbound
+
+Affected stops:
+Wayzata Blvd & Utica Ave S - Stop #40937 (westbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 673, Route 673B: Detour via Cedar Lake Rd & Texas Ave
 
 - **Affected Routes**: `Route 673` `Route 673B`
@@ -3310,9 +3419,9 @@ American Blvd & 3rd Ave S - Stop #53697 (westbound)
 
 ---
 
-### ⚠️ Route 760, Route 765, Route 768, Route 763, Route 766: Stop Closed at 3rd St N & 1st Ave N
+### ⚠️ Route 760, Route 765, Route 763, Route 766, Route 768: Stop Closed at 3rd St N & 1st Ave N
 
-- **Affected Routes**: `Route 760` `Route 765` `Route 768` `Route 763` `Route 766`
+- **Affected Routes**: `Route 760` `Route 765` `Route 763` `Route 766` `Route 768`
 - **Direction**: Westbound
 - **Severity**: `Moderate`
 - **Corridors & Intersections**: 3rd St N & 1st Ave N; 3rd St S & Nicollet Mall - St
@@ -3406,9 +3515,9 @@ East River Rd & Queens Lane - Stop #12070 (northbound)
 
 ---
 
-### ⚠️ Route 827, Route 578, Route 850, Route 156, Route 888, Route 882, Route 824: Stop Closed at 2nd Ave S & 9th St
+### ⚠️ Route 827, Route 578, Route 850, Route 824, Route 156, Route 888, Route 882: Stop Closed at 2nd Ave S & 9th St
 
-- **Affected Routes**: `Route 827` `Route 578` `Route 850` `Route 156` `Route 888` `Route 882` `Route 824`
+- **Affected Routes**: `Route 827` `Route 578` `Route 850` `Route 824` `Route 156` `Route 888` `Route 882`
 - **Direction**: Northbound
 - **Severity**: `Moderate`
 - **Corridors & Intersections**: 2nd Ave S & 9th St; 2nd Ave S & 11th St; 2nd Ave S & 7th St
