@@ -1,16 +1,775 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-06T17:53:08.866Z",
-    "totalAlerts": 86,
-    "criticalCount": 3,
-    "moderateCount": 81,
+    "generatedAt": "2026-11-06T22:58:21.061Z",
+    "totalAlerts": 87,
+    "criticalCount": 11,
+    "moderateCount": 74,
     "minorCount": 2,
-    "affectedRoutesCount": 64,
+    "affectedRoutesCount": 67,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
+    {
+      "id": "55040",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO C Line: Service Canceled",
+      "summary": "C Line trips departing Brooklyn Ctr Transit Ctr Gate I at 4:14 PM and departing 7th St & Park Station at 5:06 PM canceled today",
+      "affectedRoutes": [
+        "METRO C Line"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "14 PM and departing 7th St & Park St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-06T22:52:00.000Z",
+        "end": "2026-11-07T00:41:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/cline",
+      "updatedAt": "2026-11-06T22:52:56.000Z",
+      "rawHeader": "C Line trips departing Brooklyn Ctr Transit Ctr Gate I at 4:14 PM and departing 7th St & Park Station at 5:06 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "55038",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO D Line: Southbound 4:20 PM Trip Canceled (Chicago & 14th St Station)",
+      "summary": "Southbound D Line trip departing Chicago & 14th St Station at 4:20 PM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "METRO D Line"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [
+        "441",
+        "449",
+        "56911",
+        "17815",
+        "81120",
+        "436",
+        "4530",
+        "56909",
+        "56919",
+        "56910",
+        "56917",
+        "77",
+        "80325",
+        "81119",
+        "56873",
+        "56918",
+        "444",
+        "40472",
+        "42318",
+        "431",
+        "56912",
+        "56913",
+        "56916",
+        "56920",
+        "56914",
+        "80139"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "441"
+        },
+        {
+          "id": "449"
+        },
+        {
+          "id": "56911"
+        },
+        {
+          "id": "17815"
+        },
+        {
+          "id": "81120"
+        },
+        {
+          "id": "436"
+        },
+        {
+          "id": "4530"
+        },
+        {
+          "id": "56909"
+        },
+        {
+          "id": "56919"
+        },
+        {
+          "id": "56910"
+        },
+        {
+          "id": "56917"
+        },
+        {
+          "id": "77"
+        },
+        {
+          "id": "80325"
+        },
+        {
+          "id": "81119"
+        },
+        {
+          "id": "56873"
+        },
+        {
+          "id": "56918"
+        },
+        {
+          "id": "444"
+        },
+        {
+          "id": "40472"
+        },
+        {
+          "id": "42318"
+        },
+        {
+          "id": "431"
+        },
+        {
+          "id": "56912"
+        },
+        {
+          "id": "56913"
+        },
+        {
+          "id": "56916"
+        },
+        {
+          "id": "56920"
+        },
+        {
+          "id": "56914"
+        },
+        {
+          "id": "80139"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-06T22:30:00.000Z",
+        "end": "2026-11-07T00:02:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-11-06T22:31:43.000Z",
+      "rawHeader": "Southbound D Line trip departing Chicago & 14th St Station at 4:20 PM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "55033",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 3, Route 3E: Eastbound 3:41 PM Trip Canceled (Washington Ave & Anderson Hall)",
+      "summary": "Eastbound Route 3E trip departing Washington Ave & Anderson Hall at 3:41 PM canceled today",
+      "affectedRoutes": [
+        "Route 3",
+        "Route 3E"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-06T21:41:00.000Z",
+        "end": "2026-11-06T23:01:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/3",
+      "updatedAt": "2026-11-06T21:27:48.000Z",
+      "rawHeader": "Eastbound Route 3E trip departing Washington Ave & Anderson Hall at 3:41 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "55037",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 22, Route 22C: Northbound 3:32 PM Trip Canceled (38th St Station & Gate Ce)",
+      "summary": "Northbound Route 22C trip departing 38th St Station & Gate Ce at 3:32 PM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 22",
+        "Route 22C"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [
+        "11178",
+        "11191",
+        "11208",
+        "11412",
+        "11424",
+        "13219",
+        "15313",
+        "15625",
+        "15626",
+        "16325",
+        "17618",
+        "17901",
+        "17903",
+        "52747",
+        "11179",
+        "11199",
+        "12562",
+        "12571",
+        "2875",
+        "51541",
+        "52676",
+        "81098",
+        "8958",
+        "8962",
+        "8974",
+        "81110",
+        "8955",
+        "9089",
+        "11180",
+        "11197",
+        "11227",
+        "11241",
+        "17902",
+        "19296",
+        "19301",
+        "19302",
+        "41842",
+        "50608",
+        "56825",
+        "57192",
+        "11195",
+        "11231",
+        "11442",
+        "12566",
+        "19502",
+        "19507",
+        "41846",
+        "57197",
+        "57216",
+        "11183",
+        "11202",
+        "11211",
+        "11415",
+        "15310",
+        "19295",
+        "57195",
+        "8967",
+        "9283",
+        "11186",
+        "11188",
+        "15618",
+        "19426",
+        "19511",
+        "56930",
+        "8971",
+        "8973",
+        "11193",
+        "19304",
+        "50609",
+        "52008",
+        "53765",
+        "53941",
+        "57196",
+        "57362",
+        "11417",
+        "11419",
+        "11422",
+        "19294",
+        "19306",
+        "52675",
+        "57194",
+        "8953",
+        "8964"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "11178"
+        },
+        {
+          "id": "11191"
+        },
+        {
+          "id": "11208"
+        },
+        {
+          "id": "11412"
+        },
+        {
+          "id": "11424"
+        },
+        {
+          "id": "13219"
+        },
+        {
+          "id": "15313"
+        },
+        {
+          "id": "15625"
+        },
+        {
+          "id": "15626"
+        },
+        {
+          "id": "16325"
+        },
+        {
+          "id": "17618"
+        },
+        {
+          "id": "17901"
+        },
+        {
+          "id": "17903"
+        },
+        {
+          "id": "52747"
+        },
+        {
+          "id": "11179"
+        },
+        {
+          "id": "11199"
+        },
+        {
+          "id": "12562"
+        },
+        {
+          "id": "12571"
+        },
+        {
+          "id": "2875"
+        },
+        {
+          "id": "51541"
+        },
+        {
+          "id": "52676"
+        },
+        {
+          "id": "81098"
+        },
+        {
+          "id": "8958"
+        },
+        {
+          "id": "8962"
+        },
+        {
+          "id": "8974"
+        },
+        {
+          "id": "81110"
+        },
+        {
+          "id": "8955"
+        },
+        {
+          "id": "9089"
+        },
+        {
+          "id": "11180"
+        },
+        {
+          "id": "11197"
+        },
+        {
+          "id": "11227"
+        },
+        {
+          "id": "11241"
+        },
+        {
+          "id": "17902"
+        },
+        {
+          "id": "19296"
+        },
+        {
+          "id": "19301"
+        },
+        {
+          "id": "19302"
+        },
+        {
+          "id": "41842"
+        },
+        {
+          "id": "50608"
+        },
+        {
+          "id": "56825"
+        },
+        {
+          "id": "57192"
+        },
+        {
+          "id": "11195"
+        },
+        {
+          "id": "11231"
+        },
+        {
+          "id": "11442"
+        },
+        {
+          "id": "12566"
+        },
+        {
+          "id": "19502"
+        },
+        {
+          "id": "19507"
+        },
+        {
+          "id": "41846"
+        },
+        {
+          "id": "57197"
+        },
+        {
+          "id": "57216"
+        },
+        {
+          "id": "11183"
+        },
+        {
+          "id": "11202"
+        },
+        {
+          "id": "11211"
+        },
+        {
+          "id": "11415"
+        },
+        {
+          "id": "15310"
+        },
+        {
+          "id": "19295"
+        },
+        {
+          "id": "57195"
+        },
+        {
+          "id": "8967"
+        },
+        {
+          "id": "9283"
+        },
+        {
+          "id": "11186"
+        },
+        {
+          "id": "11188"
+        },
+        {
+          "id": "15618"
+        },
+        {
+          "id": "19426"
+        },
+        {
+          "id": "19511"
+        },
+        {
+          "id": "56930"
+        },
+        {
+          "id": "8971"
+        },
+        {
+          "id": "8973"
+        },
+        {
+          "id": "11193"
+        },
+        {
+          "id": "19304"
+        },
+        {
+          "id": "50609"
+        },
+        {
+          "id": "52008"
+        },
+        {
+          "id": "53765"
+        },
+        {
+          "id": "53941"
+        },
+        {
+          "id": "57196"
+        },
+        {
+          "id": "57362"
+        },
+        {
+          "id": "11417"
+        },
+        {
+          "id": "11419"
+        },
+        {
+          "id": "11422"
+        },
+        {
+          "id": "19294"
+        },
+        {
+          "id": "19306"
+        },
+        {
+          "id": "52675"
+        },
+        {
+          "id": "57194"
+        },
+        {
+          "id": "8953"
+        },
+        {
+          "id": "8964"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-06T21:53:00.000Z",
+        "end": "2026-11-06T23:44:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/22",
+      "updatedAt": "2026-11-06T21:54:47.000Z",
+      "rawHeader": "Northbound Route 22C trip departing 38th St Station & Gate Ce at 3:32 PM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "55039",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 22, Route 22C: Service Advisory",
+      "summary": "Southbound Route 22C trip departing Brooklyn Ctr Transit Ctr Gate H at 4:59 PM will start from 7th St N & Oak Lake Ave at 5:26 PM today due to mechanical issue. Previous stops will be missed",
+      "affectedRoutes": [
+        "Route 22",
+        "Route 22C"
+      ],
+      "direction": "Southbound",
+      "intersections": [
+        "59 PM will start from 7th St N & Oak Lake Ave"
+      ],
+      "closedStopIds": [
+        "11622",
+        "11646",
+        "11656",
+        "51287",
+        "11632",
+        "11633",
+        "11639",
+        "52680",
+        "56825",
+        "9087",
+        "9097",
+        "11625",
+        "11641",
+        "11652",
+        "50611",
+        "52750",
+        "9090",
+        "11345",
+        "11390",
+        "11618",
+        "11649",
+        "9100",
+        "11374",
+        "11394",
+        "9106",
+        "11378",
+        "11397",
+        "11629",
+        "11635",
+        "11653",
+        "11654",
+        "50610",
+        "9086",
+        "9102",
+        "11616",
+        "52682",
+        "56955",
+        "11351",
+        "11608",
+        "11628",
+        "11630",
+        "11637",
+        "11644",
+        "41839",
+        "50142"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "11622"
+        },
+        {
+          "id": "11646"
+        },
+        {
+          "id": "11656"
+        },
+        {
+          "id": "51287"
+        },
+        {
+          "id": "11632"
+        },
+        {
+          "id": "11633"
+        },
+        {
+          "id": "11639"
+        },
+        {
+          "id": "52680"
+        },
+        {
+          "id": "56825"
+        },
+        {
+          "id": "9087"
+        },
+        {
+          "id": "9097"
+        },
+        {
+          "id": "11625"
+        },
+        {
+          "id": "11641"
+        },
+        {
+          "id": "11652"
+        },
+        {
+          "id": "50611"
+        },
+        {
+          "id": "52750"
+        },
+        {
+          "id": "9090"
+        },
+        {
+          "id": "11345"
+        },
+        {
+          "id": "11390"
+        },
+        {
+          "id": "11618"
+        },
+        {
+          "id": "11649"
+        },
+        {
+          "id": "9100"
+        },
+        {
+          "id": "11374"
+        },
+        {
+          "id": "11394"
+        },
+        {
+          "id": "9106"
+        },
+        {
+          "id": "11378"
+        },
+        {
+          "id": "11397"
+        },
+        {
+          "id": "11629"
+        },
+        {
+          "id": "11635"
+        },
+        {
+          "id": "11653"
+        },
+        {
+          "id": "11654"
+        },
+        {
+          "id": "50610"
+        },
+        {
+          "id": "9086"
+        },
+        {
+          "id": "9102"
+        },
+        {
+          "id": "11616"
+        },
+        {
+          "id": "52682"
+        },
+        {
+          "id": "56955"
+        },
+        {
+          "id": "11351"
+        },
+        {
+          "id": "11608"
+        },
+        {
+          "id": "11628"
+        },
+        {
+          "id": "11630"
+        },
+        {
+          "id": "11637"
+        },
+        {
+          "id": "11644"
+        },
+        {
+          "id": "41839"
+        },
+        {
+          "id": "50142"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-06T22:59:00.000Z",
+        "end": "2026-11-07T01:25:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/22",
+      "updatedAt": "2026-11-06T22:37:29.000Z",
+      "rawHeader": "Southbound Route 22C trip departing Brooklyn Ctr Transit Ctr Gate H at 4:59 PM will start from 7th St N & Oak Lake Ave at 5:26 PM today due to mechanical issue. Previous stops will be missed",
+      "rawDescription": ""
+    },
     {
       "id": "55017",
       "agency": "Metro Transit",
@@ -37,35 +796,35 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-11-06T16:52:37.000Z",
+      "updatedAt": "2026-11-06T19:34:01.000Z",
       "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 2:04 PM and eight other trips canceled today",
       "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 2:55 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 4:54 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 6:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 8:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 2:04 PM\r\ndeparting Westgate Station - Gate B at 4:04 PM\r\ndeparting Westgate Station - Gate B at 6:05 PM\r\ndeparting Westgate Station - Gate B at 8:06 PM\r\ndeparting Westgate Station - Gate B at 10:06 PM"
     },
     {
-      "id": "55018",
+      "id": "55032",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 38: Eastbound 11:26 AM Trip Canceled (Bren Rd E & Blue Circle Dr)",
-      "summary": "Eastbound Route 38 trip departing Bren Rd E & Blue Circle Dr at 11:26 AM canceled today due to mechanical issue",
+      "title": "Route 68: Northbound 4:03 PM Trip Canceled (Cafferty Court & Walmart - Cahill Ave)",
+      "summary": "Northbound Route 68 trip departing Cafferty Court & Walmart - Cahill Ave at 4:03 PM canceled",
       "affectedRoutes": [
-        "Route 38"
+        "Route 68"
       ],
-      "direction": "Eastbound",
+      "direction": "Northbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-06T17:26:00.000Z",
-        "end": "2026-11-06T19:45:00.000Z"
+        "start": "2026-11-06T22:03:00.000Z",
+        "end": "2026-11-07T00:04:00.000Z"
       },
-      "cause": "TECHNICAL_PROBLEM",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/38",
-      "updatedAt": "2026-11-06T17:26:41.000Z",
-      "rawHeader": "Eastbound Route 38 trip departing Bren Rd E & Blue Circle Dr at 11:26 AM canceled today due to mechanical issue",
-      "rawDescription": "Updated at 11:26 to cancel entire trip."
+      "url": "https://www.metrotransit.org/route/68",
+      "updatedAt": "2026-11-06T21:33:01.000Z",
+      "rawHeader": "Northbound Route 68 trip departing Cafferty Court & Walmart - Cahill Ave at 4:03 PM canceled",
+      "rawDescription": ""
     },
     {
       "id": "55016",
@@ -93,9 +852,90 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-11-06T16:49:20.000Z",
+      "updatedAt": "2026-11-06T18:50:00.000Z",
       "rawHeader": "Route 72 trip departing Sun Ray Transit Center & Gate D at 1:20 PM and eight other trips canceled today",
       "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 2:20 PM\r\ndeparting Pascal St N & Central Ave W at 4:20 PM\r\ndeparting Pascal St N & Central Ave W at 6:21 PM\r\ndeparting Pascal St N & Central Ave W at 8:23 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 1:20 PM\r\ndeparting Sun Ray Transit Center & Gate D at 3:19 PM\r\ndeparting Sun Ray Transit Center & Gate D at 5:18 PM\r\ndeparting Sun Ray Transit Center & Gate D at 7:21 PM\r\ndeparting Sun Ray Transit Center & Gate D at 9:21 PM"
+    },
+    {
+      "id": "55034",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 252: Northbound 4:36 PM Trip Canceled (Oak St SE & 4th St SE)",
+      "summary": "Northbound Route 252 trip departing Oak St SE & 4th St SE at 4:36 PM canceled today",
+      "affectedRoutes": [
+        "Route 252"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-06T22:36:00.000Z",
+        "end": "2026-11-07T00:07:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/252",
+      "updatedAt": "2026-11-06T22:06:01.000Z",
+      "rawHeader": "Northbound Route 252 trip departing Oak St SE & 4th St SE at 4:36 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "55029",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 673: Service Canceled",
+      "summary": "Route 673 trip departing 5th St Transit Center Gate A at 3:01 PM and two other trips canceled today",
+      "affectedRoutes": [
+        "Route 673"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-06T21:01:00.000Z",
+        "end": "2026-11-07T00:28:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/673",
+      "updatedAt": "2026-11-06T20:35:35.000Z",
+      "rawHeader": "Route 673 trip departing 5th St Transit Center Gate A at 3:01 PM and two other trips canceled today",
+      "rawDescription": "Affected westbound trips:\r\ndeparting 5th St Transit Center Gate A at 3:01 PM\r\ndeparting 5th St Transit Center Gate A at 4:01 PM\r\ndeparting 5th St Transit Center Gate A at 5:01 PM"
+    },
+    {
+      "id": "55035",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 850: Service Canceled",
+      "summary": "Route 850 trips departing 2nd Ave S & 11th St - Stop Group G at 3:53 PM and departing 2nd Ave S & 11th St - Stop Group G at 5:07 PM canceled today",
+      "affectedRoutes": [
+        "Route 850"
+      ],
+      "direction": "All",
+      "intersections": [
+        "Route 850 trips departing 2nd Ave S & 11th St",
+        "53 PM and departing 2nd Ave S & 11th St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-06T21:53:00.000Z",
+        "end": "2026-11-07T00:37:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/850",
+      "updatedAt": "2026-11-06T21:29:13.000Z",
+      "rawHeader": "Route 850 trips departing 2nd Ave S & 11th St - Stop Group G at 3:53 PM and departing 2nd Ave S & 11th St - Stop Group G at 5:07 PM canceled today",
+      "rawDescription": ""
     },
     {
       "id": "52943",
@@ -587,7 +1427,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-11-06T17:11:31.000Z",
+      "updatedAt": "2026-11-06T19:15:09.000Z",
       "rawHeader": "Route 3A detoured off Maryland Ave from Matilda St to Rice St and off Rice St from Maryland Ave to Como Ave beginning Thu Nov 5 at 6:00 AM until further notice due to construction",
       "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nMaryland Ave & Western Ave - Stop #5567 (eastbound)\r\nTemporary stop on Maryland Ave & Matilda St (eastbound)\r\nTemporary stop on Galtier St & Cook Ave (southbound)\r\nTemporary stop on Galtier St & Front Ave (southbound)\r\nTemporary stop on Galtier St & Atwater St (southbound)\r\nComo Ave & Rice St - Stop #973 (eastbound)\r\nRice St & Charles Ave - Stop #974 (southbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\nRice St & Charles Ave - Stop #10488 (northbound)\r\nComo Ave & Rice St - Stop #49895 (westbound)\r\nTemporary stop on Atwater St & Galtier St (eastbound)\r\nTemporary stop on Galtier St & Front Ave (northbound)\r\nTemporary stop on Matilda St & Maryland Ave (northbound)\r\nMaryland Ave & Western Ave - Stop #5583 (westbound)\r\n\nEastbound 3A buses will travel regular route on Maryland Ave to Matilda St, right on Matilda, left on Jessamine Ave, right on Galtier St, right on Atwater St, left on Western Ave, left on Como Ave, right on Rice St, and resume regular route.\r\n\nWestbound 3A buses will travel regular route on Rice St to Como Ave, left on Como, right on Western Ave, right on Atwater St, left on Galtier St, left on Jessamine Ave, right on Matilda St, left on Maryland Ave, and resume regular route.\r\n\nAffected stops:\r\nMaryland Ave & Galtier St - Stop #5571 (eastbound)\r\nMaryland Ave & Rice St - Stop #5575 (eastbound)\r\nRice St & Geranium Ave - Stop #10473 (southbound)\r\nRice St & Lawson Ave - Stop #10476 (southbound)\r\nRice St & Litchfield St - Stop #10479 (southbound)\r\nRice St & Milford St - Stop #10480 (southbound)\r\nRice St & Sycamore St - Stop #10482 (southbound)\r\nRice St & Pennsylvania Ave - Stop #10483 (southbound)\r\nRice St & Como Ave - Stop #10484 (southbound)\r\nRice St & Como Ave - Stop #10489 (northbound)\r\nRice St & Pennsylvania Ave - Stop #10490 (northbound)\r\nRice St & Sycamore St - Stop #10491 (northbound)\r\nRice St & Manitoba Ave - Stop #10494 (northbound)\r\nRice St & Front Ave - Stop #10496 (northbound)\r\nRice St & Lawson Ave - Stop #10498 (northbound)\r\nRice St & Geranium Ave - Stop #10501 (northbound)\r\nMaryland Ave & Rice St - Stop #47074 (westbound)\r\nMaryland Ave & Galtier St - Stop #5579 (westbound)"
     },
@@ -627,7 +1467,7 @@
       },
       "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-11-05T07:00:01.000Z",
+      "updatedAt": "2026-11-06T18:58:46.000Z",
       "rawHeader": "Lyndale Ave S & 33rd St W - Stop #40664 (southbound) is closed for Routes 4 and 38 beginning Thu Oct 29 at 2:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off buses at:\r\nLyndale Ave S & 31st St W - Stop #110 (southbound)\r\nLyndale Ave S & 35th St W - Stop #40668 (southbound)"
     },
@@ -749,6 +1589,60 @@
       "updatedAt": "2026-10-12T10:00:01.000Z",
       "rawHeader": "26th Ave S & 22nd St E - Stop #57484 (northbound) is closed for Route 7 beginning Mon Oct 5 at 5:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\n26th Ave S & 25th St E - Stop #57483 (northbound)\r\n26th Ave S & Seward Tower West - Stop #56702 (northbound)"
+    },
+    {
+      "id": "55027",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 7: Detour via Plymouth Ave & Washburn Ave N",
+      "summary": "Route 7 detoured off Plymouth Ave from Penn Ave to Russell Ave/Thomas Ave until later today. Board at: Plymouth Ave & Washburn Ave N - Stop #17681 (eastbound); Plymouth Ave & Logan Ave N - Stop #17692 (eastbound); No northbound stops missed.",
+      "affectedRoutes": [
+        "Route 7"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Plymouth Ave & Washburn Ave N",
+        "Plymouth Ave & Logan Ave N",
+        "right on Plymouth Ave & resume regular route.\n\nAffected st",
+        "Plymouth Ave & Sheridan Ave N",
+        "Plymouth Ave & Penn Ave N"
+      ],
+      "closedStopIds": [
+        "17685",
+        "17688",
+        "17681",
+        "17692"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "17685",
+          "name": "Plymouth Ave & Sheridan Ave N",
+          "direction": "eastbound"
+        },
+        {
+          "id": "17688",
+          "name": "Plymouth Ave & Penn Ave N",
+          "direction": "eastbound"
+        },
+        {
+          "id": "17681"
+        },
+        {
+          "id": "17692"
+        }
+      ],
+      "riderAlternative": "Board at: Plymouth Ave & Washburn Ave N - Stop #17681 (eastbound); Plymouth Ave & Logan Ave N - Stop #17692 (eastbound); No northbound stops missed",
+      "detourDetails": "Northbound buses will travel regular route on Plymouth Ave to Penn Ave, right on Penn Ae, left on 14th Ave, left on Russell Ave, right on Plymouth Ave and resume regular route.",
+      "activePeriod": {
+        "start": "2026-11-06T19:58:00.000Z",
+        "end": "2026-11-07T00:57:18.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/7",
+      "updatedAt": "2026-11-06T19:58:41.000Z",
+      "rawHeader": "Route 7 detoured off Plymouth Ave from Penn Ave to Russell Ave/Thomas Ave until later today",
+      "rawDescription": "Get on/off buses at:\r\nPlymouth Ave & Washburn Ave N - Stop #17681 (eastbound)\r\nPlymouth Ave & Logan Ave N - Stop #17692 (eastbound)\r\nNo northbound stops missed\r\n\nNorthbound buses will travel regular route on Plymouth Ave to Penn Ave, right on Penn Ae, left on 14th Ave, left on Russell Ave, right on Plymouth Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Plymouth Ave to Thomas Ave, right on Thomas Ave, left on 12th Ave, left on Penn Ave, right on Plymouth Ave and resume regular route.\r\n\nAffected stops:\r\nPlymouth Ave & Sheridan Ave N - Stop #17685 (eastbound)\r\nPlymouth Ave & Penn Ave N - Stop #17688 (eastbound)"
     },
     {
       "id": "45065",
@@ -967,64 +1861,7 @@
       "rawDescription": "No stops missed.\r\n\nEastbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.\r\n\nWestbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route."
     },
     {
-      "id": "53150",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 9: Stop Closed at 25th St E & 33rd Ave S",
-      "summary": "25th St E & 33rd Ave S - Stop #16457 (eastbound) and 25th St E & 33rd Ave S - Stop #17597 (westbound) are closed for Route 9 beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: 25th St E & 31st Ave S - Stop #16455 (eastbound); 25th St E & 35th Ave S - Stop #16459 (eastbound).",
-      "affectedRoutes": [
-        "Route 9"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "25th St E & 33rd Ave S",
-        "and 25th St E & 33rd Ave S",
-        "25th St E & 31st Ave S",
-        "25th St E & 35th Ave S"
-      ],
-      "closedStopIds": [
-        "16457",
-        "17597",
-        "16455",
-        "16459",
-        "17595",
-        "17599"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "16457"
-        },
-        {
-          "id": "17597"
-        },
-        {
-          "id": "16455"
-        },
-        {
-          "id": "16459"
-        },
-        {
-          "id": "17595"
-        },
-        {
-          "id": "17599"
-        }
-      ],
-      "riderAlternative": "Board at: 25th St E & 31st Ave S - Stop #16455 (eastbound); 25th St E & 35th Ave S - Stop #16459 (eastbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-09-28T12:00:00.000Z",
-        "textDescription": "Beginning Mon Sep 28 at 7:00 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/9",
-      "updatedAt": "2026-10-05T12:00:02.000Z",
-      "rawHeader": "25th St E & 33rd Ave S - Stop #16457 (eastbound) and 25th St E & 33rd Ave S - Stop #17597 (westbound) are closed for Route 9 beginning Mon Sep 28 at 7:00 AM until further notice due to construction",
-      "rawDescription": "For eastbound Route 9 get on/off buses at:\r\n25th St E & 31st Ave S - Stop #16455 (eastbound)\r\n25th St E & 35th Ave S - Stop #16459 (eastbound)\r\n\nFor westbound Route 9 get on/off buses at:\r\n25th St E & 35th Ave S - Stop #17595 (westbound)\r\n25th St E & 31st Ave S - Stop #17599 (westbound)"
-    },
-    {
-      "id": "53799",
+      "id": "55023",
       "agency": "Metro Transit",
       "severity": "Moderate",
       "title": "Route 9: Detour via 25th St E & 31st Ave S",
@@ -1075,13 +1912,13 @@
       "riderAlternative": "Board at: 25th St E & 31st Ave S - Stop #16455 (eastbound); 25th St E & 35th Ave S - Stop #16459 (eastbound)",
       "detourDetails": "Eastbound buses will travel regular route on 25th St to 32nd Ave, right on 32nd Ave, left on 26th St, left on 34th Ave, right on 25th St and resume regular route.",
       "activePeriod": {
-        "start": "2026-10-06T12:00:00.000Z",
+        "start": "2026-11-06T19:11:00.000Z",
         "textDescription": "Beginning Tue Oct 6 at 7:00 AM until further notice"
       },
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/9",
-      "updatedAt": "2026-10-13T12:00:01.000Z",
+      "updatedAt": "2026-11-06T19:11:48.000Z",
       "rawHeader": "Route 9 detoured off 25th St from 32nd Ave to 34th Ave beginning Tue Oct 6 at 7:00 AM until further notice due to construction",
       "rawDescription": "For eastbound Route 9 get on/off buses at:\r\n25th St E & 31st Ave S - Stop #16455 (eastbound)\r\n25th St E & 35th Ave S - Stop #16459 (eastbound)\r\n\nFor westbound Route 9 get on/off buses at:\r\n25th St E & 35th Ave S - Stop #17595 (westbound)\r\n25th St E & 31st Ave S - Stop #17599 (westbound)\r\n\nEastbound buses will travel regular route on 25th St to 32nd Ave, right on 32nd Ave, left on 26th St, left on 34th Ave, right on 25th St and resume regular route.\r\n\nWestbound buses will travel regular route on 25th St to 34th Ave, left on 34th Ave, right on 26th St, right on 32nd Ave, left on 25th St and resume regular route.\r\n\nAffected stops:\r\n25th St E & 33rd Ave S - Stop #16457 (eastbound)\r\n25th St E & 33rd Ave S - Stop #17597 (westbound)"
     },
@@ -1721,45 +2558,6 @@
       "rawDescription": "For eastbound Route 27 get on/off buses at:\r\n28th St E & Bloomington Ave S - Stop #43016 (eastbound)\r\nLake & Cedar Station - Stop #51579 (eastbound)\r\n\nFor westbound Route 27 get on/off buses at:\r\nLake St E & 21st Ave S - Stop #16894 (westbound)\r\nLake & Cedar Station - Stop #57362 (westbound)\r\nBloomington Ave S & 28th St E - Stop #15618 (northbound)\r\n26th St E & 12th Ave S - Stop #51507 (westbound)\r\n\nEastbound buses will travel regular route on 28th St to Bloomington Ave, right on Bloomington, left on Lake St to Cedar Ave, and resume regular route.\r\n\nWestbound buses will travel regular route on Lake St to Cedar Ave, continue on Lake to Bloomington Ave, right on Bloomington, left on 26th St, and resume regular route.\r\n\nAffected stops:\r\n28th St E & Cedar Ave S - Stop #43021 (eastbound)\r\nCedar Ave S & Lake St E - Stop #15317 (northbound)\r\nCedar Ave S & 28th St E - Stop #15319 (northbound)\r\n26th St E & 18th Ave S - Stop #14340 (westbound)\r\n26th St E & Bloomington Ave S - Stop #43004 (westbound)"
     },
     {
-      "id": "42305",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 36, Route 578, Route 538: Stop Closed at York Ave S & Hazelton Rd",
-      "summary": "York Ave S & Hazelton Rd - Stop #2029 (northbound) is closed for Routes 36, 538 and 578 until further notice due to construction. Board at: York Ave S & 70th St W - Stop #50601 (northbound).",
-      "affectedRoutes": [
-        "Route 36",
-        "Route 578",
-        "Route 538"
-      ],
-      "direction": "Northbound",
-      "intersections": [
-        "York Ave S & Hazelton Rd",
-        "York Ave S & 70th St W"
-      ],
-      "closedStopIds": [
-        "2029",
-        "50601"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "2029"
-        },
-        {
-          "id": "50601"
-        }
-      ],
-      "riderAlternative": "Board at: York Ave S & 70th St W - Stop #50601 (northbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2025-12-08T14:06:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "NO_SERVICE",
-      "updatedAt": "2025-12-15T14:06:01.000Z",
-      "rawHeader": "York Ave S & Hazelton Rd - Stop #2029 (northbound) is closed for Routes 36, 538 and 578 until further notice due to construction",
-      "rawDescription": "Get on/off buses at:\r\nYork Ave S & 70th St W - Stop #50601 (northbound)"
-    },
-    {
       "id": "50085",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -1805,50 +2603,6 @@
       "rawDescription": "Get on/off buses at:\r\n76th St W & #4100 - Stop #52039 (westbound)\r\nParklawn Ave & Parklawn Court - Stop #41091 (northbound)"
     },
     {
-      "id": "54792",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 38: Stop Closed at 38th St E & 3rd Ave S",
-      "summary": "38th St E & 3rd Ave S - Stop #12626 (eastbound) is closed for Route 38 beginning Mon Nov 2 at 4:00 AM until further notice due to construction. Board at: 38th St W & Nicollet Ave S - Stop #17516 (eastbound); 38th St E & 4th Ave S - Stop #12622 (eastbound).",
-      "affectedRoutes": [
-        "Route 38"
-      ],
-      "direction": "Eastbound",
-      "intersections": [
-        "38th St E & 3rd Ave S",
-        "38th St W & Nicollet Ave S",
-        "38th St E & 4th Ave S"
-      ],
-      "closedStopIds": [
-        "12626",
-        "17516",
-        "12622"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "12626"
-        },
-        {
-          "id": "17516"
-        },
-        {
-          "id": "12622"
-        }
-      ],
-      "riderAlternative": "Board at: 38th St W & Nicollet Ave S - Stop #17516 (eastbound); 38th St E & 4th Ave S - Stop #12622 (eastbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-02T10:00:00.000Z",
-        "textDescription": "Beginning Mon Nov 2 at 4:00 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/38",
-      "updatedAt": "2026-11-02T09:30:01.000Z",
-      "rawHeader": "38th St E & 3rd Ave S - Stop #12626 (eastbound) is closed for Route 38 beginning Mon Nov 2 at 4:00 AM until further notice due to construction",
-      "rawDescription": "Get on/off buses at:\r\n38th St W & Nicollet Ave S - Stop #17516 (eastbound)\r\n38th St E & 4th Ave S - Stop #12622 (eastbound)"
-    },
-    {
       "id": "55015",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -1883,7 +2637,7 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-11-06T16:48:00.000Z",
-        "end": "2026-11-06T19:52:18.000Z"
+        "end": "2026-11-07T00:57:18.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
@@ -2278,54 +3032,6 @@
       "rawDescription": "Added map 9/30 at 11 AM.\r\n\nGet on/off buses at:\r\nLarpenteur Ave & McMenemy St - Stop #41057 (westbound)\r\nTemporary stop on Arlington Ave & Jackson St (westbound)\r\nArlington Ave & Sylvan St - Stop #49682 (westbound)\r\n\nWestbound buses will travel the regular route on Larpenteur Ave to L'Orient St, left on L'Orient St, right on Arlington Ave to Jackson St, continue on Arlington Ave, and resume the regular route.\r\n\nEastbound buses are not affected.\r\n\nAffected stops:\r\nLarpenteur Ave & Hwy 35E / Adolphus - Stop #50156 (westbound)\r\nJackson St & Wheelock Pkwy - Stop #49677 (southbound)\r\nJackson St & #1577 - Stop #49678 (southbound)\r\nJackson St & #1494 Unit D - Stop #49679 (southbound)\r\nJackson St & Arlington Ave - Stop #49680 (southbound)"
     },
     {
-      "id": "54883",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 62, Route 3, Route 71, Route 75, Route 67: Stop Closed at Minnesota St & 4th St",
-      "summary": "Minnesota St & 4th St - Stop #2611 (northbound) is closed for Routes 3, 62, 67, 71 and 75 beginning Wed Nov 4 at 7:00 AM until further notice due to construction. Board at: Minnesota St & 6th St - Stop #1235 (northbound, Routes 3, 62, 67, 75 only); Robert St & 6th St - Stop #49112 (northbound, Route 71 only).",
-      "affectedRoutes": [
-        "Route 62",
-        "Route 3",
-        "Route 71",
-        "Route 75",
-        "Route 67"
-      ],
-      "direction": "Northbound",
-      "intersections": [
-        "Minnesota St & 4th St",
-        "Minnesota St & 6th St",
-        "Robert St & 6th St"
-      ],
-      "closedStopIds": [
-        "2611",
-        "1235",
-        "49112"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "2611"
-        },
-        {
-          "id": "1235"
-        },
-        {
-          "id": "49112"
-        }
-      ],
-      "riderAlternative": "Board at: Minnesota St & 6th St - Stop #1235 (northbound, Routes 3, 62, 67, 75 only); Robert St & 6th St - Stop #49112 (northbound, Route 71 only)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-04T13:00:00.000Z",
-        "textDescription": "Beginning Wed Nov 4 at 7:00 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-11-04T12:30:01.000Z",
-      "rawHeader": "Minnesota St & 4th St - Stop #2611 (northbound) is closed for Routes 3, 62, 67, 71 and 75 beginning Wed Nov 4 at 7:00 AM until further notice due to construction",
-      "rawDescription": "Get on/off buses at:\r\nMinnesota St & 6th St - Stop #1235 (northbound, Routes 3, 62, 67, 75 only)\r\nRobert St & 6th St - Stop #49112 (northbound, Route 71 only)"
-    },
-    {
       "id": "54944",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -2467,7 +3173,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/62",
-      "updatedAt": "2026-11-06T17:12:04.000Z",
+      "updatedAt": "2026-11-06T19:16:23.000Z",
       "rawHeader": "Route 62 detoured off Rice St from Como Ave to Maryland Ave beginning Thu Nov 5 at 6:00 AM until further notice due to construction",
       "rawDescription": "For northbound Route 62 get on/off buses at:\r\nRice St & Charles Ave - Stop #10488 (northbound)\r\nComo Ave & Rice St - Stop #49895 (westbound)\r\nTemporary stop on Atwater St & Galtier St (eastbound)\r\nTemporary stop on Galtier St & Cook Ave (northbound)\r\nRice St & Ivy Ave - Stop #10507 (northbound)\r\n\nFor southbound Route 62 get on/off buses at:\r\nRice St & Orange Ave - Stop #10470 (southbound)\r\nTemporary stop on Galtier St & Cook Ave (southbound)\r\nTemporary stop on Galtier St & Front Ave (southbound)\r\nTemporary stop on Galtier St & Atwater St (southbound)\r\nComo Ave & Rice St - Stop #973 (eastbound)\r\nRice St & Charles Ave - Stop #974 (southbound)\r\n\nNorthbound buses will travel regular route on Rice St to Como Ave, left on Como, right on Western Ave, right on Atwater St, left on Galtier St, left on Jessamine Ave, right on Matilda St, right on Maryland Ave, left on Rice St, and resume regular route.\r\n\nSouthbound buses will travel regular route on Rice St to Maryland Ave, right on Maryland Ave, left on Matilda St, left on Jessamine St, right on Galtier St, right on Atwater St, left on Western Ave, left on Como Ave, right on Rice St, and resume regular route.\r\n\nAffected stops:\r\nRice St & Como Ave - Stop #10489 (northbound)\r\nRice St & Pennsylvania Ave - Stop #10490 (northbound)\r\nRice St & Sycamore St - Stop #10491 (northbound)\r\nRice St & Manitoba Ave - Stop #10494 (northbound)\r\nRice St & Front Ave - Stop #10496 (northbound)\r\nRice St & Lawson Ave - Stop #10498 (northbound)\r\nRice St & Geranium Ave - Stop #10501 (northbound)\r\nRice St & Maryland Ave - Stop #10503 (northbound)\r\nRice St & Maryland Ave - Stop #10471 (southbound)\r\nRice St & Geranium Ave - Stop #10473 (southbound)\r\nRice St & Lawson Ave - Stop #10476 (southbound)\r\nRice St & Litchfield St - Stop #10479 (southbound)\r\nRice St & Milford St - Stop #10480 (southbound)\r\nRice St & Sycamore St - Stop #10482 (southbound)\r\nRice St & Pennsylvania Ave - Stop #10483 (southbound)\r\nRice St & Como Ave - Stop #10484 (southbound)"
     },
@@ -2937,111 +3643,6 @@
       "rawDescription": "For northbound Route 68 get on/off buses at:\r\nJackson St & Mount Airy (Winter St) - Stop #18014 (northbound)\r\nJackson St & Sims Ave - Stop #18022 (northbound)\r\n\nFor southbound Route 68 get on/off buses at:\r\nJackson St & Sims Ave - Stop #40138 (southbound)\r\nJackson St & Winter St (Mount Airy) - Stop #40156 (southbound)\r\n\nNorthbound buses will travel regular route on Jackson St to Pennsylvania Ave, right on Pennsylvania Ave, left on L' orient St, left on Cayuga St, right on Jackson St and resume regular route.\r\n\nSouthbound buses will travel regular route on Jackson St to Cayuga St, left on Cayuga St, right on L' orient St, right on Pennsylvania Ave, left on Jackson St and resume regular route.\r\n\nAffected stops:\r\nJackson St & Empire Dr - Stop #18016 (northbound)\r\nJackson St & Sycamore St - Stop #18018 (northbound)\r\nJackson St & Cayuga St - Stop #18020 (northbound)\r\nJackson St & Cayuga St - Stop #40057 (southbound)\r\nSycamore St & Jackson St - Stop #40146 (westbound)"
     },
     {
-      "id": "51928",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 68, Route 68C: Detour via Southview Blvd & 8th Ave S",
-      "summary": "Route 68C detoured off 12th Ave from 3rd St to Southview Blvd and off Southview Blvd from 12th Ave to 9th Ave beginning Mon Jul 6 at 6:00 AM until further notice due to construction. Board at: Southview Blvd & 8th Ave S - Stop #56770 (westbound); 12th Ave N & 4th St N - Stop #9843 (northbound).",
-      "affectedRoutes": [
-        "Route 68",
-        "Route 68C"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Southview Blvd & 8th Ave S",
-        "12th Ave N & 4th St N",
-        "Southview Blvd & 10th Ave S",
-        "Southview Blvd & 12th Ave S",
-        "12th Ave N & Marie Ave"
-      ],
-      "closedStopIds": [
-        "56771",
-        "9839",
-        "9840",
-        "9841",
-        "9842",
-        "9960",
-        "9961",
-        "9962",
-        "56772",
-        "56770",
-        "9843",
-        "9959",
-        "56773"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "56771",
-          "name": "Southview Blvd & 10th Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "9839",
-          "name": "Southview Blvd & 12th Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "9840",
-          "name": "12th Ave N & Marie Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "9841",
-          "name": "12th Ave N & 2nd St N",
-          "direction": "northbound"
-        },
-        {
-          "id": "9842",
-          "name": "12th Ave N & 3rd St N",
-          "direction": "northbound"
-        },
-        {
-          "id": "9960",
-          "name": "12th Ave N & 3rd St N",
-          "direction": "southbound"
-        },
-        {
-          "id": "9961",
-          "name": "12th Ave N & 2nd St N",
-          "direction": "southbound"
-        },
-        {
-          "id": "9962",
-          "name": "12th Ave N & Marie Ave",
-          "direction": "southbound"
-        },
-        {
-          "id": "56772",
-          "name": "Southview Blvd & 10th Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "56770"
-        },
-        {
-          "id": "9843"
-        },
-        {
-          "id": "9959"
-        },
-        {
-          "id": "56773"
-        }
-      ],
-      "riderAlternative": "Board at: Southview Blvd & 8th Ave S - Stop #56770 (westbound); 12th Ave N & 4th St N - Stop #9843 (northbound)",
-      "detourDetails": "buses will travel regular route on Southview Blvd to 9th Ave, right on 9th Ave, left on 3rd St, right on 12th Ave, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-08-21T15:22:00.000Z",
-        "textDescription": "Beginning Mon Jul 6 at 6:00 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "OTHER_EFFECT",
-      "url": "https://www.metrotransit.org/route/68",
-      "updatedAt": "2026-09-03T18:32:04.000Z",
-      "rawHeader": "Route 68C detoured off 12th Ave from 3rd St to Southview Blvd and off Southview Blvd from 12th Ave to 9th Ave beginning Mon Jul 6 at 6:00 AM until further notice due to construction",
-      "rawDescription": "Added map 7/8 at 12:00 pm.\r\n\nFor northbound Route 68 get on/off buses at:\r\nSouthview Blvd & 8th Ave S - Stop #56770 (westbound)\r\n12th Ave N & 4th St N - Stop #9843 (northbound)\r\n\nFor southbound Route 68 get on/off buses at:\r\n12th Ave N & 4th St N - Stop #9959 (southbound)\r\nSouthview Blvd & 8th Ave S - Stop #56773 (eastbound)\r\n\nNorthbound 68 (via Thompson) buses will travel regular route on Southview Blvd to 9th Ave, right on 9th Ave, left on 3rd St, right on 12th Ave, and resume regular route.\r\n\nSouthbound 68C buses will travel regular route on 12th Ave to 3rd St, left on 3rd St, right on 9th Ave, left on Southview Blvd, and resume regular route.\r\n\nAffected stops:\r\nSouthview Blvd & 10th Ave S - Stop #56771 (westbound)\r\nSouthview Blvd & 12th Ave S - Stop #9839 (westbound)\r\n12th Ave N & Marie Ave - Stop #9840 (northbound)\r\n12th Ave N & 2nd St N - Stop #9841 (northbound)\r\n12th Ave N & 3rd St N - Stop #9842 (northbound)\r\n12th Ave N & 3rd St N - Stop #9960 (southbound)\r\n12th Ave N & 2nd St N - Stop #9961 (southbound)\r\n12th Ave N & Marie Ave - Stop #9962 (southbound)\r\nSouthview Blvd & 10th Ave S - Stop #56772 (eastbound)"
-    },
-    {
       "id": "52563",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -3274,6 +3875,124 @@
       "updatedAt": "2026-11-02T17:55:01.000Z",
       "rawHeader": "Route 68 detoured off Jackson St from Maryland Ave to Rose Ave until further notice due to construction",
       "rawDescription": "Get on/off southbound buses at:\r\nMaryland Ave & LOrient St - Stop #40101 (westbound)\r\nJackson St & Jessamine Ave - Stop #40098 (southbound)\r\n\nNo northbound bus stops missed.\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on Maryland Ave to Jackson St, continue on Maryland Ave to Abell St, left on Abell St, left on Rose Ave, right on Jackson St and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nJackson St & Rose Ave E - Stop #56323 (southbound)"
+    },
+    {
+      "id": "55025",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 68: Detour via Jackson St & Rose Ave E",
+      "summary": "Route 68 detoured off LOrient St from Arlington Ave to Maryland Ave beginning Mon Nov 9 at 6:00 AM until further notice. Board at: Jackson St & Rose Ave E - Stop #56324 (northbound); Jackson St & Timberlake Rd - Stop #49670 (northbound).",
+      "affectedRoutes": [
+        "Route 68"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Jackson St & Rose Ave E",
+        "Jackson St & Timberlake Rd",
+        "Larpenteur Ave & Jackson St",
+        "Arlington Ave E & Klainert St",
+        "LOrient St & Kmart - St"
+      ],
+      "closedStopIds": [
+        "49938",
+        "49939",
+        "49940",
+        "18042",
+        "49948",
+        "49949",
+        "40101",
+        "40095",
+        "56323",
+        "51606",
+        "56324",
+        "49670",
+        "49947",
+        "81115",
+        "1300",
+        "1301"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "49938",
+          "name": "LOrient St & Kmart",
+          "direction": "northbound"
+        },
+        {
+          "id": "49939",
+          "name": "LOrient St & #1300",
+          "direction": "northbound"
+        },
+        {
+          "id": "49940",
+          "name": "LOrient St & Arlington Ave",
+          "direction": "northbound"
+        },
+        {
+          "id": "18042",
+          "name": "Arlington Ave E & #179",
+          "direction": "westbound"
+        },
+        {
+          "id": "49948",
+          "name": "LOrient St & #1301",
+          "direction": "southbound"
+        },
+        {
+          "id": "49949",
+          "name": "LOrient St & Kmart",
+          "direction": "southbound"
+        },
+        {
+          "id": "40101",
+          "name": "Maryland Ave & LOrient St",
+          "direction": "westbound"
+        },
+        {
+          "id": "40095",
+          "name": "Arlington Ave E & Jackson St",
+          "direction": "eastbound"
+        },
+        {
+          "id": "56323",
+          "name": "Jackson St & Rose Ave E",
+          "direction": "southbound"
+        },
+        {
+          "id": "51606",
+          "name": "Arlington Ave E & #179",
+          "direction": "eastbound"
+        },
+        {
+          "id": "56324"
+        },
+        {
+          "id": "49670"
+        },
+        {
+          "id": "49947"
+        },
+        {
+          "id": "81115"
+        },
+        {
+          "id": "1300"
+        },
+        {
+          "id": "1301"
+        }
+      ],
+      "riderAlternative": "Board at: Jackson St & Rose Ave E - Stop #56324 (northbound); Jackson St & Timberlake Rd - Stop #49670 (northbound)",
+      "detourDetails": "Northbound buses will travel the regular route on Jackson St to Rose Ave, left on Rose Ave, right on Abell St, left on Maryland Ave, right on Rice St, right on Arlington Ave, left on Jackson St, and resume the regular route.",
+      "activePeriod": {
+        "start": "2026-11-09T12:00:00.000Z",
+        "textDescription": "Beginning Mon Nov 9 at 6:00 AM until further notice"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/68",
+      "updatedAt": "2026-11-06T19:36:07.000Z",
+      "rawHeader": "Route 68 detoured off LOrient St from Arlington Ave to Maryland Ave beginning Mon Nov 9 at 6:00 AM until further notice",
+      "rawDescription": "For northbound Route 68 get on/off buses at:\r\nJackson St & Rose Ave E - Stop #56324 (northbound)\r\nJackson St & Timberlake Rd - Stop #49670 (northbound)\r\n\nFor southbound Route 68 get on/off buses at:\r\nLarpenteur Ave & Jackson St - Stop #49947 (eastbound)\r\nArlington Ave E & Klainert St - Stop #81115 (westbound)\r\n\nNorthbound buses will travel the regular route on Jackson St to Rose Ave, left on Rose Ave, right on Abell St, left on Maryland Ave, right on Rice St, right on Arlington Ave, left on Jackson St, and resume the regular route.\r\n\nSouthbound buses will travel the regular detour route on LOrient St to Arlington Ave, right on Arlington Ave to LOrient St, continue on Arlington Ave, left on Rice St, left on Maryland Ave, right on Abell St, left on Rose Ave, right on Jackson St, and resume the regular route.\r\n\nAffected stops:\r\nLOrient St & Kmart - Stop #49938 (northbound)\r\nLOrient St & #1300 - Stop #49939 (northbound)\r\nLOrient St & Arlington Ave - Stop #49940 (northbound)\r\nArlington Ave E & #179 - Stop #18042 (westbound)\r\nLOrient St & #1301 - Stop #49948 (southbound)\r\nLOrient St & Kmart - Stop #49949 (southbound)\r\nMaryland Ave & LOrient St - Stop #40101 (westbound)\r\nArlington Ave E & Jackson St - Stop #40095 (eastbound)\r\nJackson St & Rose Ave E - Stop #56323 (southbound)\r\nArlington Ave E & #179 - Stop #51606 (eastbound)"
     },
     {
       "id": "54784",
@@ -3579,7 +4298,7 @@
       "cause": "CONSTRUCTION",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/74",
-      "updatedAt": "2026-09-03T18:35:55.000Z",
+      "updatedAt": "2026-11-06T18:58:06.000Z",
       "rawHeader": "Route 74 detoured off 7th St E from Wacouta St to Forest St and off Arcade St from 7th St E to Case Ave until further notice due to construction",
       "rawDescription": "Updated 8/22 to add temporary westbound stop on 6th St E & Sibley St.\r\n\nFor eastbound Route 74 get on/off buses at:\r\n5th St E & Sibley St - Stop #1839 (eastbound)\r\nTemporary stop on 6th St E & Maria Ave (eastbound)\r\nTemporary stop on 6th St E & Maple St (eastbound)\r\n6th St E & Hope St - Stop #53982 (eastbound)\r\nTemporary stop on 6th St E & Mendota St (eastbound)\r\nMinnehaha Ave & Cypress St - Stop #49605 (eastbound)\r\nArcade St & Case Ave - Stop #13827 (eastbound, school trips only)\r\n\nFor westbound Route 74 get on/off buses at:\r\nArcade St & Magnolia Ave - Stop #13798 (westbound, 74J only)\r\nMinnehaha Ave & Forest St - Stop #49660 (westbound)\r\nTemporary stop on 6th St E & Hope St (westbound)\r\nTemporary stop on 6th St E & Maple St (westbound)\r\nTemporary stop on 6th St E & Maria Ave (westbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound)\r\nTemporary stop on 6th St E & Sibley St (westbound)\r\n\nEastbound buses will travel regular route on 5th St E to Wacouta St, continue on 5th St, left on Broadway St onto eastbound I-94, exit for Mounds Blvd, continue straight on 6th St E, left on Forest St, right on Minnehaha Ave and resume regular route.\r\n\nEastbound school trips departing from Johnson High School will travel regular route on Arcade St to Case Ave, left on Case Ave, right on Duchess St, right on Sims Ave, left on Forest St, left on Minnehaha Ave and resume regular route.\r\n\nWestbound buses will travel regular route Minnehaha Ave to Forest St, left on Forest St, right on 6th St, continue onto westbound I-94, exit for 12th St, left on Jackson St, left on 7th St, right on Wall St, and resume regular route.\r\n\nWestbound 74J buses will travel regular route Minnehaha Ave to Forest St, right on Forest St, left on Case Ave, right on Arcade St, and resume regular route.\r\n\nAffected stops:\r\n7th St E & Maria Ave - Stop #11849 (eastbound)\r\n7th St E & Bates Ave - Stop #10239 (eastbound)\r\n7th St E & Hope St - Stop #10242 (eastbound)\r\n7th St E & Arcade St - Stop #10385 (eastbound)\r\n7th St E & Arcade St - Stop #12915 (westbound)\r\n7th St E & Hope St - Stop #10294 (westbound)\r\n7th St E & Bates Ave - Stop #10297 (westbound)\r\n7th St E & Maria Ave - Stop #11850 (westbound)\r\nMinnehaha Ave & Forest St - Stop #49604 (eastbound)\r\nArcade St & York Ave - Stop #10288 (southbound)\r\nArcade St & Neid Lane - Stop #10289 (southbound)\r\nMinnehaha Ave & Arcade St - Stop #56235 (eastbound)\r\nMinnehaha Av E & Arcade St - Stop #57626 (westbound)\r\nArcade St & Neid Lane - Stop #10246 (northbound)\r\nArcade St & York Ave - Stop #10247 (northbound)\r\nArcade St & Case Ave - Stop #13794 (northbound)\r\n7th St E & Payne Ave - Stop #11852 (westbound)\r\n7th St E & Payne Ave - Stop #11847 (eastbound)"
     },
@@ -4172,6 +4891,45 @@
       "rawDescription": "For northbound Route 537 get on/off buses at:\r\n108th St W & France Ave S - Stop #56794 (westbound)\r\n\nFor southbound Route 537 get on/off buses at:\r\nOld Shakopee Rd & Beard Ave S - Stop #3521 (eastbound)\r\n\nNorthbound buses will depart temporary layover on westbound 108th St at Beard Ave, continue on 108th St, and resume regular route.\r\n\nSouthbound buses will travel regular route on Old Shakopee Rd to Beard Ave, continue on Old Shakopee Rd to Zenith Ave, right on Zenith, right on 108th St and layover on westbound 108th St at Beard Ave.\r\n\nAffected stops:\r\nBeard Ave S & Old Shakopee Rd - Stop #56791 (southbound)\r\nBeard Ave S & 108th St W - Stop #56793 (southbound)"
     },
     {
+      "id": "42305",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 538, Route 578, Route 36: Stop Closed at York Ave S & Hazelton Rd",
+      "summary": "York Ave S & Hazelton Rd - Stop #2029 (northbound) is closed for Routes 36, 538 and 578 until further notice due to construction. Board at: York Ave S & 70th St W - Stop #50601 (northbound).",
+      "affectedRoutes": [
+        "Route 538",
+        "Route 578",
+        "Route 36"
+      ],
+      "direction": "Northbound",
+      "intersections": [
+        "York Ave S & Hazelton Rd",
+        "York Ave S & 70th St W"
+      ],
+      "closedStopIds": [
+        "2029",
+        "50601"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "2029"
+        },
+        {
+          "id": "50601"
+        }
+      ],
+      "riderAlternative": "Board at: York Ave S & 70th St W - Stop #50601 (northbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2025-12-08T14:06:00.000Z"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "NO_SERVICE",
+      "updatedAt": "2025-12-15T14:06:01.000Z",
+      "rawHeader": "York Ave S & Hazelton Rd - Stop #2029 (northbound) is closed for Routes 36, 538 and 578 until further notice due to construction",
+      "rawDescription": "Get on/off buses at:\r\nYork Ave S & 70th St W - Stop #50601 (northbound)"
+    },
+    {
       "id": "50581",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -4286,105 +5044,6 @@
       "updatedAt": "2026-08-24T09:00:00.000Z",
       "rawHeader": "Route 542 detoured off American Blvd from Lyndale Ave to Knox Ave beginning Mon Aug 17 at 4:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nAmerican Blvd W & Home Depot - Stop #57108 (westbound)\r\nAmerican Blvd & Knox Ave S - Stop #41217 (westbound)\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on American Blvd to Lyndale Ave, left on Lyndale, right on 82nd St, right on Knox Ave, left on American Blvd, and resume regular route.\r\n\nAffected direction: Westbound\r\n\nAffected stops:\r\nAmerican Blvd & Lyndale Ave S - Stop #52216 (westbound)\r\nAmerican Blvd W & Lyndale Av/Bryant Av S - Stop #56604 (westbound)\r\nAmerican Blvd W & Fremont Ave S - Stop #57095 (westbound)"
-    },
-    {
-      "id": "41775",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 578, Route 850, Route 824, Route 827, Route 156, Route 888, Route 882: Stop Closed at 2nd Ave S & 9th St",
-      "summary": "2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice. Board at: 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound).",
-      "affectedRoutes": [
-        "Route 578",
-        "Route 850",
-        "Route 824",
-        "Route 827",
-        "Route 156",
-        "Route 888",
-        "Route 882"
-      ],
-      "direction": "Northbound",
-      "intersections": [
-        "2nd Ave S & 9th St",
-        "2nd Ave S & 11th St",
-        "2nd Ave S & 7th St"
-      ],
-      "closedStopIds": [
-        "53316",
-        "53315",
-        "53317"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "53316"
-        },
-        {
-          "id": "53315"
-        },
-        {
-          "id": "53317"
-        }
-      ],
-      "riderAlternative": "Board at: 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2025-11-20T00:12:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "updatedAt": "2026-01-14T05:59:48.000Z",
-      "rawHeader": "2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice",
-      "rawDescription": "Get on/off buses at:\r\n2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound)\r\n2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound)"
-    },
-    {
-      "id": "53905",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 578: Detour via 2nd Ave S & Washington Ave S",
-      "summary": "Route 578 detoured off 2nd St S from 2nd Ave S to 3rd Ave S until further notice due to construction. Board at: 2nd Ave S & Washington Ave S - Stop #19260 (northbound); Temporary terminal 2nd Ave S & 2nd St S - Stop #19261 (northbound).",
-      "affectedRoutes": [
-        "Route 578"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "2nd Ave S & Washington Ave S",
-        "Temporary terminal 2nd Ave S & 2nd St S",
-        "Marquette Ave & 2nd St S",
-        "2nd St S & 3rd Ave S",
-        "2nd St S (2nd Ave S to 3rd Ave S)"
-      ],
-      "closedStopIds": [
-        "53341",
-        "19260",
-        "19261",
-        "19238"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "53341",
-          "name": "2nd St S & 3rd Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "19260"
-        },
-        {
-          "id": "19261"
-        },
-        {
-          "id": "19238"
-        }
-      ],
-      "riderAlternative": "Board at: 2nd Ave S & Washington Ave S - Stop #19260 (northbound); Temporary terminal 2nd Ave S & 2nd St S - Stop #19261 (northbound)",
-      "detourDetails": "Northbound buses will travel the regular route on 2nd Ave S to 2nd St S and terminate.",
-      "activePeriod": {
-        "start": "2026-10-07T15:40:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/578",
-      "updatedAt": "2026-10-14T15:40:01.000Z",
-      "rawHeader": "Route 578 detoured off 2nd St S from 2nd Ave S to 3rd Ave S until further notice due to construction",
-      "rawDescription": "Alternate stops updated 10/14826 at 8:15 AM.\r\n\nFor northbound Route 578 get on/off buses at:\r\n2nd Ave S & Washington Ave S - Stop #19260 (northbound)\r\nTemporary terminal 2nd Ave S & 2nd St S - Stop #19261 (northbound)\r\n\nFor southbound Route 578 get on/off buses at:\r\nTemporary terminal 2nd Ave S & 2nd St S - Stop #19261 (northbound)\r\nMarquette Ave & 2nd St S - Stop #19238 (southbound)\r\n\nNorthbound buses will travel the regular route on 2nd Ave S to 2nd St S and terminate.\r\n\nSouthbound buses will depart the temporary terminal on 2nd Ave S to 2nd St S, continue on 2nd Ave S, left on 1st St S, and resume the regular route.\r\n\nAffected stops:\r\n2nd St S & 3rd Ave S - Stop #53341 (eastbound)"
     },
     {
       "id": "49838",
@@ -4544,128 +5203,6 @@
       "updatedAt": "2026-09-03T18:46:39.000Z",
       "rawHeader": "Route 645 detoured off Zarthan Ave from 16th St to Wayzata Blvd and off Wayzata Blvd from Zarthan Ave to Louisiana Transit Center beginning Mon Jul 6 at 4:00 AM until further notice due to construction",
       "rawDescription": "For eastbound Route 645 get on/off buses at:\r\nLouisiana Transit Ctr & Temp Gate B - Stop #80969 (eastbound)\r\n16th St W & Park Place East - Stop #40325 (eastbound)\r\n\nFor westbound Route 645 get on/off buses at:\r\n16th St W & Park Place East - Stop #40324 (westbound)\r\nLouisiana Transit Ctr & Temp Gate B - Stop #80969 (eastbound)\r\n\nEastbound buses will travel regular route on Wayzata Blvd to Louisiana Ave, right on Louisiana Ave, left on 22nd St, right on Idaho Ave, left on Cedar Lake Rd, left on Zarthan Ave, right on 16th St and resume regular route.\r\n\nWestbound buses will travel regular route on 16th St to Zarthan Ave, left on Zarthan Ave, right on Cedar Lake Rd, right on Idaho Ave, left on 22nd St W, right on Louisiana Ave, left on Wayzata Blvd and resume regular route.\r\n\nAffected stops:\r\nWayzata Blvd S & Kentucky Ave S - Stop #40933 (eastbound)\r\nWayzata Blvd S & Idaho Ave S - Stop #40930 (eastbound)\r\nWayzata Blvd S & Hampshire Ave S - Stop #40927 (eastbound)\r\nWayzata Blvd S & Hampshire / Dakota Ave - Stop #40926 (eastbound)\r\nWayzata Blvd S & Colorado Ave S - Stop #40922 (eastbound)\r\nZarthan Ave S & Wayzata Blvd S - Stop #40952 (southbound)\r\nZarthan Ave S & Wayzata Blvd S - Stop #40951 (northbound)\r\nWayzata Blvd S & Colorado Ave S - Stop #40921 (westbound)\r\nWayzata Blvd S & Dakota Ave S - Stop #40924 (westbound)\r\nWayzata Blvd S & Dakota Ave / Hampshire - Stop #40923 (westbound)\r\nWayzata Blvd S & Idaho Ave S - Stop #40929 (westbound)\r\nWayzata Blvd S & Kentucky Ave S - Stop #40917 (westbound)"
-    },
-    {
-      "id": "54178",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 645: Detour via I-394 (Dunwoody Blvd to 12th St)",
-      "summary": "Route 645 detoured off I-394 from Dunwoody Blvd to 12th St beginning Sat Oct 17 at 5:00 AM until further notice due to construction",
-      "affectedRoutes": [
-        "Route 645"
-      ],
-      "direction": "Eastbound",
-      "intersections": [
-        "I-394 (Dunwoody Blvd to 12th St)"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": "Eastbound buses will travel regular route on I-394 to Dunwoody Blvd, right on Dunwoody Blvd which turns into Hennepin Ave, right on 12th St and resume regular route.",
-      "activePeriod": {
-        "start": "2026-10-17T10:00:00.000Z",
-        "textDescription": "Beginning Sat Oct 17 at 5:00 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "OTHER_EFFECT",
-      "url": "https://www.metrotransit.org/route/645",
-      "updatedAt": "2026-10-24T10:00:02.000Z",
-      "rawHeader": "Route 645 detoured off I-394 from Dunwoody Blvd to 12th St beginning Sat Oct 17 at 5:00 AM until further notice due to construction",
-      "rawDescription": "Expect delays due to added travel time to access downtown Minneapolis.\r\n\nEastbound buses will travel regular route on I-394 to Dunwoody Blvd, right on Dunwoody Blvd which turns into Hennepin Ave, right on 12th St and resume regular route.\r\n\nAffected direction: Eastbound"
-    },
-    {
-      "id": "54863",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 645: Detour via Park Place Blvd & Wayzata Blvd S",
-      "summary": "Route 645 detoured of Wayzata Blvd from Park Place Blvd to Hwy 100 until further notice due to construction. Board at: Park Place Blvd & Wayzata Blvd S - Stop #3013 (northbound).",
-      "affectedRoutes": [
-        "Route 645"
-      ],
-      "direction": "Northbound",
-      "intersections": [
-        "Park Place Blvd & Wayzata Blvd S",
-        "Wayzata Blvd S & Park Place Blvd",
-        "Wayzata Blvd S & Utica Ave S",
-        "Wayzata Blvd S & Hwy 100 Bridge - St"
-      ],
-      "closedStopIds": [
-        "2971",
-        "40936",
-        "43775",
-        "3013"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "2971",
-          "name": "Wayzata Blvd S & Park Place Blvd",
-          "direction": "eastbound"
-        },
-        {
-          "id": "40936",
-          "name": "Wayzata Blvd S & Utica Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "43775",
-          "name": "Wayzata Blvd S & Hwy 100 Bridge",
-          "direction": "eastbound"
-        },
-        {
-          "id": "3013"
-        }
-      ],
-      "riderAlternative": "Board at: Park Place Blvd & Wayzata Blvd S - Stop #3013 (northbound)",
-      "detourDetails": "Eastbound buses will travel regular route on Park Place Blvd to Wayzata Blvd, continue on Park Place Blvd to I-394 ramp, right onto I-394 and resume regular route.",
-      "activePeriod": {
-        "start": "2026-11-02T17:18:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "OTHER_EFFECT",
-      "url": "https://www.metrotransit.org/route/645",
-      "updatedAt": "2026-11-04T22:05:49.000Z",
-      "rawHeader": "Route 645 detoured of Wayzata Blvd from Park Place Blvd to Hwy 100 until further notice due to construction",
-      "rawDescription": "Added map 11/4 at 4:00 PM. \r\n\nAll Eastbound Route 645 buses will use I-394 between Park Place Blvd and Hwy 100.\r\n\nGet on/off eastbound buses at:\r\nPark Place Blvd & Wayzata Blvd S - Stop #3013 (northbound)\r\n\nEastbound buses will travel regular route on Park Place Blvd to Wayzata Blvd, continue on Park Place Blvd to I-394 ramp, right onto I-394 and resume regular route.\r\n\nAffected stops:\r\nWayzata Blvd S & Park Place Blvd - Stop #2971 (eastbound)\r\nWayzata Blvd S & Utica Ave S - Stop #40936 (eastbound)\r\nWayzata Blvd S & Hwy 100 Bridge - Stop #43775 (eastbound)\r\n\nAffected direction: Eastbound"
-    },
-    {
-      "id": "54884",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 645: Detour via Park Place Blvd & Wayzata Blvd S",
-      "summary": "Route 645 detoured off Hwy 394 express lane until further notice due to construction. Board at: Park Place Blvd & Wayzata Blvd S - Stop #48749 (southbound).",
-      "affectedRoutes": [
-        "Route 645"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Park Place Blvd & Wayzata Blvd S",
-        "Wayzata Blvd & Utica Ave S"
-      ],
-      "closedStopIds": [
-        "40937",
-        "48749"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "40937",
-          "name": "Wayzata Blvd & Utica Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "48749"
-        }
-      ],
-      "riderAlternative": "Board at: Park Place Blvd & Wayzata Blvd S - Stop #48749 (southbound)",
-      "detourDetails": "Eastbound buses will travel regular route.",
-      "activePeriod": {
-        "start": "2026-11-03T14:20:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/645",
-      "updatedAt": "2026-11-03T14:20:04.000Z",
-      "rawHeader": "Route 645 detoured off Hwy 394 express lane until further notice due to construction",
-      "rawDescription": "Get on/off buses at:\r\nPark Place Blvd & Wayzata Blvd S - Stop #48749 (southbound)\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses in the afternoon will travel regular route on 11th St to Hennepin Ave, continue on 11th St to Hawthorne Ave, left on westbound Hwy 394 ramp, exit at Park Place Blvd, left on Park Place Blvd to Wayzata Blvd, and resume regular route.\r\n\nAffected direction: Westbound\r\n\nAffected stops:\r\nWayzata Blvd & Utica Ave S - Stop #40937 (westbound)"
     },
     {
       "id": "54980",
@@ -5029,14 +5566,14 @@
       "id": "54602",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 765, Route 760, Route 763, Route 766, Route 768: Stop Closed at 3rd St N & 1st Ave N",
+      "title": "Route 765, Route 768, Route 763, Route 766, Route 760: Stop Closed at 3rd St N & 1st Ave N",
       "summary": "3rd St N & 1st Ave N - Stop #17960 (westbound) is closed for Routes 760, 763, 765, 766 and 768 until further notice due to construction. Board at: 3rd St S & Nicollet Mall - Stop #40172 (westbound).",
       "affectedRoutes": [
         "Route 765",
-        "Route 760",
+        "Route 768",
         "Route 763",
         "Route 766",
-        "Route 768"
+        "Route 760"
       ],
       "direction": "Westbound",
       "intersections": [
@@ -5065,52 +5602,6 @@
       "updatedAt": "2026-11-02T16:10:01.000Z",
       "rawHeader": "3rd St N & 1st Ave N - Stop #17960 (westbound) is closed for Routes 760, 763, 765, 766 and 768 until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\n3rd St S & Nicollet Mall - Stop #40172 (westbound)"
-    },
-    {
-      "id": "50957",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 768, Route 765, Route 760, Route 763, Route 766: Detour via 3rd St S & Nicollet Mall - St",
-      "summary": "Routes 760, 763, 765, 766 and 768 detoured off 3rd St from Hennepin Ave to Hwy 94 beginning Mon Aug 10 at 2:00 AM until further notice due to construction. Board at: 3rd St S & Nicollet Mall - Stop #40172 (westbound).",
-      "affectedRoutes": [
-        "Route 768",
-        "Route 765",
-        "Route 760",
-        "Route 763",
-        "Route 766"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "3rd St S & Nicollet Mall - St",
-        "3rd St N & 1st Ave N",
-        "3rd St (Hennepin Ave to Hwy 94)"
-      ],
-      "closedStopIds": [
-        "17960",
-        "40172"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "17960",
-          "name": "3rd St N & 1st Ave N",
-          "direction": "westbound"
-        },
-        {
-          "id": "40172"
-        }
-      ],
-      "riderAlternative": "Board at: 3rd St S & Nicollet Mall - Stop #40172 (westbound)",
-      "detourDetails": "Northbound buses will travel regular route on 3rd St to Hennepin Ave, right on Hennepin, left on Washington Ave, left on 10th Ave N, right on 5th St, left on 11th Ave N, right on E Lyndale Ave N, veer right onto westbound Hwy 94 ramp, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-08-10T07:00:00.000Z",
-        "textDescription": "Beginning Mon Aug 10 at 2:00 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/760",
-      "updatedAt": "2026-09-15T12:58:13.000Z",
-      "rawHeader": "Routes 760, 763, 765, 766 and 768 detoured off 3rd St from Hennepin Ave to Hwy 94 beginning Mon Aug 10 at 2:00 AM until further notice due to construction",
-      "rawDescription": "Note: Buses will only follow detour if road is blocked. If road is open, buses will follow regular route.\r\n\nGet on/off buses at:\r\n3rd St S & Nicollet Mall - Stop #40172 (westbound)\r\n\nNorthbound buses will travel regular route on 3rd St to Hennepin Ave, right on Hennepin, left on Washington Ave, left on 10th Ave N, right on 5th St, left on 11th Ave N, right on E Lyndale Ave N, veer right onto westbound Hwy 94 ramp, and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected stops:\r\n3rd St N & 1st Ave N - Stop #17960 (westbound)"
     },
     {
       "id": "54460",
@@ -5155,6 +5646,54 @@
       "updatedAt": "2026-11-02T14:00:01.000Z",
       "rawHeader": "Coon Rapids Blvd & Dakotah St - Stop #11059 (westbound) is closed for Route 802 beginning Mon Oct 26 at 9:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off buses at:\r\nCoon Rapids Blvd & Blackfoot St - Stop #11055 (westbound)\r\nEast River Rd & Queens Lane - Stop #12070 (northbound)"
+    },
+    {
+      "id": "41775",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 824, Route 882, Route 578, Route 850, Route 156, Route 888, Route 827: Stop Closed at 2nd Ave S & 9th St",
+      "summary": "2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice. Board at: 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound).",
+      "affectedRoutes": [
+        "Route 824",
+        "Route 882",
+        "Route 578",
+        "Route 850",
+        "Route 156",
+        "Route 888",
+        "Route 827"
+      ],
+      "direction": "Northbound",
+      "intersections": [
+        "2nd Ave S & 9th St",
+        "2nd Ave S & 11th St",
+        "2nd Ave S & 7th St"
+      ],
+      "closedStopIds": [
+        "53316",
+        "53315",
+        "53317"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "53316"
+        },
+        {
+          "id": "53315"
+        },
+        {
+          "id": "53317"
+        }
+      ],
+      "riderAlternative": "Board at: 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2025-11-20T00:12:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "updatedAt": "2026-01-14T05:59:48.000Z",
+      "rawHeader": "2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice",
+      "rawDescription": "Get on/off buses at:\r\n2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound)\r\n2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound)"
     },
     {
       "id": "54894",
