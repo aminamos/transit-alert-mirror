@@ -2,69 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-88-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-84-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-83-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-81-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-2-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-68-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-65-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-06T02:12:29.738Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-06T10:41:37.494Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO G Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **METRO Orange Line** (1) • **Route 2** (3) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (3) • **Route 7** (2) • **Route 9** (6) • **Route 14** (1) • **Route 17** (1) • **Route 18** (5) • **Route 22** (2) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (2) • **Route 64** (4) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (2) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 705** (1) • **Route 755** (1) • **Route 760** (2) • **Route 763** (2) • **Route 764** (1) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO G Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (3) • **Route 7** (2) • **Route 9** (6) • **Route 14** (1) • **Route 18** (5) • **Route 22** (2) • **Route 27** (2) • **Route 32** (1) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (2) • **Route 64** (4) • **Route 64D** (1) • **Route 67** (1) • **Route 68** (6) • **Route 68C** (1) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (2) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (3) • **Route 615** (1) • **Route 645** (5) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 705** (1) • **Route 755** (1) • **Route 760** (2) • **Route 763** (2) • **Route 764** (1) • **Route 765** (2) • **Route 766** (2) • **Route 768** (2) • **Route 802** (1) • **Route 824** (1) • **Route 827** (3) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO D Line: Service Canceled
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 10:53 AM and five other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 10:53 AM and five other trips canceled today
-
-```text
-Affected northbound trips:
-departing MOA Transit Station Gate A at 12:24 PM
-departing MOA Transit Station Gate A at 3:39 PM
-departing MOA Transit Station Gate A at 7:00 PM
-
-Affected southbound trips:
-departing Brooklyn Ctr Transit Ctr Gate F at 10:53 AM
-departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM
-departing Brooklyn Ctr Transit Ctr Gate F at 5:18 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 2: Westbound 6:19 PM Trip Canceled (2nd Ave SE & 7th St SE)
-
-- **Affected Routes**: `Route 2`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 6:19 PM canceled
-
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 6:19 PM canceled
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -104,7 +56,7 @@ Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on 
 - **Affected Routes**: `METRO Blue Line`
 - **Direction**: All
 - **Severity**: `Moderate`
-- **Closed Stops**: Stop #51427, Stop #51412
+- **Closed Stops**: Stop #51412, Stop #51427
 
 **Summary**: Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues
 
@@ -188,46 +140,6 @@ The east side elevator (near 19th Ave) remains available. Sorry for the inconven
 
 ---
 
-### ⚠️ METRO Orange Line: Detour via Marquette Ave & 7th St
-
-- **Affected Routes**: `METRO Orange Line`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Marquette Ave & 7th St; Marquette Ave & 11th St; Marquette Ave (11th St to 12th St)
-- **Closed Stops**: Marquette Ave & 11th St - Stop Group C (Stop #53301), Stop #53299, Stop #17781
-
-**Summary**: Southbound Orange Line detoured off Marquette Ave from 11th St to 12th St until later today. Board at: Marquette Ave & 7th St - Stop Group C - Stop #53299 (southbound); I-35W & Lake St Station - Stop #17781 (southbound).
-
-> 💡 **Rider Action**: Board at: Marquette Ave & 7th St - Stop Group C - Stop #53299 (southbound); I-35W & Lake St Station - Stop #17781 (southbound)
-
-> 🔄 **Detour Path**: Southbound buses will travel regular route on Marquette Ave to 11th St, right on 11th St, left on Nicollet Ave, left on Grant St, right on 12th St, and resume regular route,
-
-[Official Agency Advisory](https://www.metrotransit.org/route/orange)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Orange Line detoured off Marquette Ave from 11th St to 12th St until later today
-
-```text
-Get on/off buses at:
-Marquette Ave & 7th St - Stop Group C - Stop #53299 (southbound)
-I-35W & Lake St Station - Stop #17781 (southbound)
-
-Affected direction: Southbound
-
-Southbound buses will travel regular route on Marquette Ave to 11th St, right on 11th St, left on Nicollet Ave, left on Grant St, right on 12th St, and resume regular route, 
-
-Northbound buses are not affected.
-
-Affected stops:
-Marquette Ave & 11th St - Stop Group C - Stop #53301 (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 2: Detour via Franklin Ave & Lyndale Ave
 
 - **Affected Routes**: `Route 2`
@@ -305,44 +217,6 @@ Franklin Ave E & Clinton Ave S - Stop #13318 (WB)
 Franklin Ave E & 3rd Ave S - Stop #13319 (WB)
 Franklin Ave W & Nicollet Ave S - Stop #13324 (WB)
 Franklin Ave W & Pleasant Ave S - Stop #13328 (WB)
-```
-
-</details>
-
----
-
-### ⚠️ Route 2: Detour via 26th St E & Nicollet Ave
-
-- **Affected Routes**: `Route 2`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 26th St E & Nicollet Ave; 24th St W & Pleasant Ave S; 24th St W & Nicollet Ave; Nicollet Ave (25th St to 24th St and off 24th St from Nicollet Ave to Pillsbury Ave)
-- **Closed Stops**: 24th St W & Nicollet Ave (Stop #80928), Stop #80924, Stop #4663
-
-**Summary**: Westbound Route 2 detoured off Nicollet Ave from 25th St to 24th St and off 24th St from Nicollet Ave to Pillsbury Ave until later today. Board at: 26th St E & Nicollet Ave - Stop #80924 (westbound); 24th St W & Pleasant Ave S - Stop #4663 (westbound).
-
-> 💡 **Rider Action**: Board at: 26th St E & Nicollet Ave - Stop #80924 (westbound); 24th St W & Pleasant Ave S - Stop #4663 (westbound)
-
-> 🔄 **Detour Path**: Westbound buses will travel regular route on Nicollet Ave to 25th St, left on 25th St, right on Pillsbury Ave, left on 24th St and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 2 detoured off Nicollet Ave from 25th St to 24th St and off 24th St from Nicollet Ave to Pillsbury Ave until later today
-
-```text
-Get on/off buses at:
-26th St E & Nicollet Ave - Stop #80924 (westbound)
-24th St W & Pleasant Ave S - Stop #4663 (westbound)
-
-Westbound buses will travel regular route on Nicollet Ave to 25th St, left on 25th St, right on Pillsbury Ave, left on 24th St and resume regular route.
-
-Eastbound buses will follow regular route.
-
-Affected stops:
-24th St W & Nicollet Ave - Stop #80928 (westbound)
 ```
 
 </details>
@@ -791,77 +665,43 @@ Affected stops:
 
 ---
 
-### ⚠️ Route 14: Detour via France Ave N & 36th Ave N
+### ⚠️ Route 14: Detour via West Broadway (40th Ave to 37th Ave)
 
 - **Affected Routes**: `Route 14`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: France Ave N & 36th Ave N; West Broadway (39th Ave to 37th Ave)
-- **Closed Stops**: West Broadway & Good Samaritan Society (Stop #8387), West Broadway & 37th Ave N (Stop #8385), Stop #8389, Stop #8378
+- **Corridors & Intersections**: West Broadway (40th Ave to 37th Ave)
+- **Closed Stops**: West Broadway & 39th Ave N (Stop #8389), West Broadway & Good Samaritan Society (Stop #8387), Stop #8391, Stop #8385
 
-**Summary**: Southbound Route 14 detoured off West Broadway from 39th Ave to 37th Ave until later today due to construction. Board at: West Broadway & 39th Ave N - Stop #8389 (southbound); France Ave N & 36th Ave N - Stop #8378 (southbound).
+**Summary**: Southbound Route 14 detoured off West Broadway from 40th Ave to 37th Ave until later today due to construction. Board at: West Broadway & 40th Ave N - Stop #8391 (southbound); West Broadway & 37th Ave N - Stop #8385 (southbound).
 
-> 💡 **Rider Action**: Board at: West Broadway & 39th Ave N - Stop #8389 (southbound); France Ave N & 36th Ave N - Stop #8378 (southbound)
+> 💡 **Rider Action**: Board at: West Broadway & 40th Ave N - Stop #8391 (southbound); West Broadway & 37th Ave N - Stop #8385 (southbound)
 
-> 🔄 **Detour Path**: Southbound buses will travel regular route on West Broadway to 39th Ave, right on 39th Ave, left on Hubbard Ave, left on 37th Ave, right on West Broadway and resume regular route.
+> 🔄 **Detour Path**: Southbound buses will travel regular route on West Broadway to 40th Ave, right on 40th Ave, left on Hubbard Ave, left on 37th Ave, right on West Broadway and resume regular route.
 
 [Official Agency Advisory](https://www.metrotransit.org/route/14)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 14 detoured off West Broadway from 39th Ave to 37th Ave until later today due to construction
+**Header**: Southbound Route 14 detoured off West Broadway from 40th Ave to 37th Ave until later today due to construction
 
 ```text
-Get on/off buses at:
-West Broadway & 39th Ave N - Stop #8389 (southbound)
-France Ave N & 36th Ave N - Stop #8378 (southbound)
+Updated at 1 AM to reflect current detour.
 
-Southbound buses will travel regular route on West Broadway to 39th Ave, right on 39th Ave, left on Hubbard Ave, left on 37th Ave, right on West Broadway and resume regular route.
+Get on/off buses at:
+West Broadway & 40th Ave N - Stop #8391 (southbound)
+West Broadway & 37th Ave N - Stop #8385 (southbound)
+
+Affected direction: Southbound
+
+Southbound buses will travel regular route on West Broadway to 40th Ave, right on 40th Ave, left on Hubbard Ave, left on 37th Ave, right on West Broadway and resume regular route.
 
 Northbound buses will follow regular route.
 
 Affected stops:
+West Broadway & 39th Ave N - Stop #8389 (southbound)
 West Broadway & Good Samaritan Society - Stop #8387 (southbound)
-West Broadway & 37th Ave N - Stop #8385 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 17: Detour via Nicollet Ave S & Franklin Ave W
-
-- **Affected Routes**: `Route 17`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Nicollet Ave S & Franklin Ave W; 24th St W & Pleasant Ave S; Nicollet Ave S & 24th St W; Nicollet Ave (22nd St to 24th St)
-- **Closed Stops**: Nicollet Ave S & 24th St W (Stop #1204), Stop #1202, Stop #4663
-
-**Summary**: Westbound Route 17 detoured off Nicollet Ave from 22nd St to 24th St until later today. Board at: Nicollet Ave S & Franklin Ave W - Stop #1202 (southbound); 24th St W & Pleasant Ave S - Stop #4663 (westbound).
-
-> 💡 **Rider Action**: Board at: Nicollet Ave S & Franklin Ave W - Stop #1202 (southbound); 24th St W & Pleasant Ave S - Stop #4663 (westbound)
-
-> 🔄 **Detour Path**: Westbound buses will travel regular route on Nicollet Ave to 22nd St, right on 22nd St, left on Blaisdell Ave, right on 24th St and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/17)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 17 detoured off Nicollet Ave from 22nd St to 24th St until later today
-
-```text
-Get on/off buses at:
-Nicollet Ave S & Franklin Ave W - Stop #1202 (southbound)
-24th St W & Pleasant Ave S - Stop #4663 (westbound)
-
-Westbound buses will travel regular route on Nicollet Ave to 22nd St, right on 22nd St, left on Blaisdell Ave, right on 24th St and resume regular route.
-
-Eastbound buses will follow regular route.
-
-Affected stops:
-Nicollet Ave S & 24th St W - Stop #1204 (southbound)
 ```
 
 </details>
@@ -1271,48 +1111,52 @@ Cedar Ave S & 28th St E - Stop #15319 (northbound)
 
 ---
 
-### ⚠️ Route 32: Detour via France Ave N & 36th Ave N
+### ⚠️ Route 32: Detour via West Broadway (40th Ave to 37th Ave)
 
 - **Affected Routes**: `Route 32`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: France Ave N & 36th Ave N; West Broadway (39th Ave to 37th Ave)
-- **Closed Stops**: West Broadway & Good Samaritan Society (Stop #8387), West Broadway & 37th Ave N (Stop #8385), Stop #8389, Stop #8378
+- **Corridors & Intersections**: West Broadway (40th Ave to 37th Ave)
+- **Closed Stops**: West Broadway & 39th Ave N (Stop #8389), West Broadway & Good Samaritan Society (Stop #8387), Stop #8391, Stop #8385
 
-**Summary**: Eastbound Route 32 detoured off West Broadway from 39th Ave to 37th Ave until later today due to construction. Board at: West Broadway & 39th Ave N - Stop #8389 (southbound); France Ave N & 36th Ave N - Stop #8378 (southbound).
+**Summary**: Eastbound Route 32 detoured off West Broadway from 40th Ave to 37th Ave until later today due to construction. Board at: West Broadway & 40th Ave N - Stop #8391 (southbound); West Broadway & 37th Ave N - Stop #8385 (southbound).
 
-> 💡 **Rider Action**: Board at: West Broadway & 39th Ave N - Stop #8389 (southbound); France Ave N & 36th Ave N - Stop #8378 (southbound)
+> 💡 **Rider Action**: Board at: West Broadway & 40th Ave N - Stop #8391 (southbound); West Broadway & 37th Ave N - Stop #8385 (southbound)
 
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on West Broadway to 39th Ave, right on 39th Ave, left on Hubbard Ave, left on 37th Ave, right on West Broadway and resume regular route.
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on West Broadway to 40th Ave, right on 40th Ave, left on Hubbard Ave, left on 37th Ave, right on West Broadway and resume regular route.
 
 [Official Agency Advisory](https://www.metrotransit.org/route/32)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Route 32 detoured off West Broadway from 39th Ave to 37th Ave until later today due to construction
+**Header**: Eastbound Route 32 detoured off West Broadway from 40th Ave to 37th Ave until later today due to construction
 
 ```text
-Get on/off buses at:
-West Broadway & 39th Ave N - Stop #8389 (southbound)
-France Ave N & 36th Ave N - Stop #8378 (southbound)
+Updated at 1 AM to reflect current detour.
 
-Eastbound buses will travel regular route on West Broadway to 39th Ave, right on 39th Ave, left on Hubbard Ave, left on 37th Ave, right on West Broadway and resume regular route.
+Get on/off buses at:
+West Broadway & 40th Ave N - Stop #8391 (southbound)
+West Broadway & 37th Ave N - Stop #8385 (southbound)
+
+Affected direction: Eastbound
+
+Eastbound buses will travel regular route on West Broadway to 40th Ave, right on 40th Ave, left on Hubbard Ave, left on 37th Ave, right on West Broadway and resume regular route.
 
 Westbound buses will follow regular route.
 
 Affected stops:
+West Broadway & 39th Ave N - Stop #8389 (southbound)
 West Broadway & Good Samaritan Society - Stop #8387 (southbound)
-West Broadway & 37th Ave N - Stop #8385 (southbound)
 ```
 
 </details>
 
 ---
 
-### ⚠️ Route 36, Route 578, Route 538: Stop Closed at York Ave S & Hazelton Rd
+### ⚠️ Route 36, Route 538, Route 578: Stop Closed at York Ave S & Hazelton Rd
 
-- **Affected Routes**: `Route 36` `Route 578` `Route 538`
+- **Affected Routes**: `Route 36` `Route 538` `Route 578`
 - **Direction**: Northbound
 - **Severity**: `Moderate`
 - **Corridors & Intersections**: York Ave S & Hazelton Rd; York Ave S & 70th St W
@@ -1622,9 +1466,9 @@ Jackson St & Arlington Ave - Stop #49680 (southbound)
 
 ---
 
-### ⚠️ Route 62, Route 67, Route 71, Route 75, Route 3: Stop Closed at Minnesota St & 4th St
+### ⚠️ Route 62, Route 3, Route 71, Route 75, Route 67: Stop Closed at Minnesota St & 4th St
 
-- **Affected Routes**: `Route 62` `Route 67` `Route 71` `Route 75` `Route 3`
+- **Affected Routes**: `Route 62` `Route 3` `Route 71` `Route 75` `Route 67`
 - **Direction**: Northbound
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Wed Nov 4 at 7:00 AM until further notice
@@ -2878,33 +2722,6 @@ American Blvd W & Fremont Ave S - Stop #57095 (westbound)
 
 ---
 
-### ⚠️ Route 578, Route 850, Route 827, Route 156, Route 888, Route 882, Route 824: Stop Closed at 2nd Ave S & 9th St
-
-- **Affected Routes**: `Route 578` `Route 850` `Route 827` `Route 156` `Route 888` `Route 882` `Route 824`
-- **Direction**: Northbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 2nd Ave S & 9th St; 2nd Ave S & 11th St; 2nd Ave S & 7th St
-- **Closed Stops**: Stop #53316, Stop #53315, Stop #53317
-
-**Summary**: 2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice. Board at: 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound).
-
-> 💡 **Rider Action**: Board at: 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: 2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice
-
-```text
-Get on/off buses at:
-2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound)
-2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 578: Detour via 2nd Ave S & Washington Ave S
 
 - **Affected Routes**: `Route 578`
@@ -3362,35 +3179,9 @@ Winnetka Ave N & 49th Ave N - Stop #8526 (southbound)
 
 ---
 
-### ⚠️ Route 760, Route 765, Route 763, Route 766, Route 768: Stop Closed at 3rd St N & 1st Ave N
+### ⚠️ Route 760, Route 763, Route 766, Route 768, Route 765: Detour via 3rd St S & Nicollet Mall - St
 
-- **Affected Routes**: `Route 760` `Route 765` `Route 763` `Route 766` `Route 768`
-- **Direction**: Westbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 3rd St N & 1st Ave N; 3rd St S & Nicollet Mall - St
-- **Closed Stops**: Stop #17960, Stop #40172
-
-**Summary**: 3rd St N & 1st Ave N - Stop #17960 (westbound) is closed for Routes 760, 763, 765, 766 and 768 until further notice due to construction. Board at: 3rd St S & Nicollet Mall - Stop #40172 (westbound).
-
-> 💡 **Rider Action**: Board at: 3rd St S & Nicollet Mall - Stop #40172 (westbound)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: 3rd St N & 1st Ave N - Stop #17960 (westbound) is closed for Routes 760, 763, 765, 766 and 768 until further notice due to construction
-
-```text
-Get on/off buses at:
-3rd St S & Nicollet Mall - Stop #40172 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 768, Route 765, Route 760, Route 763, Route 766: Detour via 3rd St S & Nicollet Mall - St
-
-- **Affected Routes**: `Route 768` `Route 765` `Route 760` `Route 763` `Route 766`
+- **Affected Routes**: `Route 760` `Route 763` `Route 766` `Route 768` `Route 765`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Aug 10 at 2:00 AM until further notice
@@ -3428,6 +3219,32 @@ Affected stops:
 
 ---
 
+### ⚠️ Route 760, Route 765, Route 768, Route 763, Route 766: Stop Closed at 3rd St N & 1st Ave N
+
+- **Affected Routes**: `Route 760` `Route 765` `Route 768` `Route 763` `Route 766`
+- **Direction**: Westbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 3rd St N & 1st Ave N; 3rd St S & Nicollet Mall - St
+- **Closed Stops**: Stop #17960, Stop #40172
+
+**Summary**: 3rd St N & 1st Ave N - Stop #17960 (westbound) is closed for Routes 760, 763, 765, 766 and 768 until further notice due to construction. Board at: 3rd St S & Nicollet Mall - Stop #40172 (westbound).
+
+> 💡 **Rider Action**: Board at: 3rd St S & Nicollet Mall - Stop #40172 (westbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: 3rd St N & 1st Ave N - Stop #17960 (westbound) is closed for Routes 760, 763, 765, 766 and 768 until further notice due to construction
+
+```text
+Get on/off buses at:
+3rd St S & Nicollet Mall - Stop #40172 (westbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 802: Stop Closed at Coon Rapids Blvd & Dakotah St
 
 - **Affected Routes**: `Route 802`
@@ -3452,6 +3269,33 @@ Affected stops:
 Get on/off buses at:
 Coon Rapids Blvd & Blackfoot St - Stop #11055 (westbound)
 East River Rd & Queens Lane - Stop #12070 (northbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 827, Route 578, Route 850, Route 882, Route 824, Route 156, Route 888: Stop Closed at 2nd Ave S & 9th St
+
+- **Affected Routes**: `Route 827` `Route 578` `Route 850` `Route 882` `Route 824` `Route 156` `Route 888`
+- **Direction**: Northbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 2nd Ave S & 9th St; 2nd Ave S & 11th St; 2nd Ave S & 7th St
+- **Closed Stops**: Stop #53316, Stop #53315, Stop #53317
+
+**Summary**: 2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice. Board at: 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound).
+
+> 💡 **Rider Action**: Board at: 2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound); 2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: 2nd Ave S & 9th St - Stop Group G - Stop #53316 (northbound) is closed for Routes 156 and six other routes until further notice
+
+```text
+Get on/off buses at:
+2nd Ave S & 11th St - Stop Group G - Stop #53315 (northbound)
+2nd Ave S & 7th St - Stop Group G - Stop #53317 (northbound)
 ```
 
 </details>
