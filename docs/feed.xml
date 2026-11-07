@@ -4,45 +4,9 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 07 Nov 2026 02:42:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 09:53:27 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
-    <item>
-      <title>[Critical] METRO E Line: Southbound 6:43 PM Trip Canceled (Westgate Station - Gate A)</title>
-      <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-55052-2026-11-07T01:09:10.000Z</guid>
-      <pubDate>Sat, 07 Nov 2026 01:09:10 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO E Line</category>
-      <description>Southbound E Line trip departing Westgate Station - Gate A at 6:43 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 2, Route 2C: Eastbound 7:05 PM Trip Canceled (Franklin Ave W &amp; Hennepin Ave S)</title>
-      <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-55050-2026-11-07T00:36:50.000Z</guid>
-      <pubDate>Sat, 07 Nov 2026 00:36:50 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 2, Route 2C</category>
-      <description>Eastbound Route 2C trip departing Franklin Ave W &amp; Hennepin Ave S at 7:05 PM canceled today due to traffic</description>
-    </item>
-    <item>
-      <title>[Critical] Route 2: Eastbound 7:05 PM Trip Canceled (Franklin Ave W &amp; Hennepin Ave S)</title>
-      <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-55053-2026-11-07T01:48:20.000Z</guid>
-      <pubDate>Sat, 07 Nov 2026 01:48:20 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 2</category>
-      <description>Eastbound Route 2 trip departing Franklin Ave W &amp; Hennepin Ave S at 7:05 PM canceled today due to traffic</description>
-    </item>
-    <item>
-      <title>[Critical] Route 72: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/72</link>
-      <guid isPermaLink="false">Metro Transit-55016-2026-11-06T18:50:00.000Z</guid>
-      <pubDate>Fri, 06 Nov 2026 18:50:00 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 72</category>
-      <description>Route 72 trip departing Sun Ray Transit Center &amp; Gate D at 1:20 PM and eight other trips canceled today</description>
-    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -91,8 +55,8 @@
     <item>
       <title>[Moderate] Route 4: Detour via Lyndale Ave S &amp; 46th St W</title>
       <link>https://www.metrotransit.org/route/4</link>
-      <guid isPermaLink="false">Metro Transit-54934-2026-11-06T06:00:01.000Z</guid>
-      <pubDate>Fri, 06 Nov 2026 06:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54934-2026-11-07T06:00:01.000Z</guid>
+      <pubDate>Sat, 07 Nov 2026 06:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 4</category>
       <description>Route 4 detoured off Lyndale Ave from 46th St to 44th St beginning Sat Nov 7 at 7:00 AM until further notice due to construction. Board at: Lyndale Ave S &amp; 46th St W - Stop #57203 (northbound); Lyndale Ave S &amp; 43rd St W - Stop #40273 (northbound). | Action: Board at: Lyndale Ave S &amp; 46th St W - Stop #57203 (northbound); Lyndale Ave S &amp; 43rd St W - Stop #40273 (northbound)</description>
@@ -114,15 +78,6 @@
       <category>Moderate</category>
       <category>Route 7</category>
       <description>26th Ave S &amp; 22nd St E - Stop #57484 (northbound) is closed for Route 7 beginning Mon Oct 5 at 5:00 AM until further notice due to construction. Board at: 26th Ave S &amp; 25th St E - Stop #57483 (northbound); 26th Ave S &amp; Seward Tower West - Stop #56702 (northbound). | Action: Board at: 26th Ave S &amp; 25th St E - Stop #57483 (northbound); 26th Ave S &amp; Seward Tower West - Stop #56702 (northbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 7: Detour via Plymouth Ave &amp; Washburn Ave N</title>
-      <link>https://www.metrotransit.org/route/7</link>
-      <guid isPermaLink="false">Metro Transit-55027-2026-11-06T19:58:41.000Z</guid>
-      <pubDate>Fri, 06 Nov 2026 19:58:41 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 7</category>
-      <description>Route 7 detoured off Plymouth Ave from Penn Ave to Russell Ave/Thomas Ave until later today. Board at: Plymouth Ave &amp; Washburn Ave N - Stop #17681 (eastbound); Plymouth Ave &amp; Logan Ave N - Stop #17692 (eastbound); No northbound stops missed. | Action: Board at: Plymouth Ave &amp; Washburn Ave N - Stop #17681 (eastbound); Plymouth Ave &amp; Logan Ave N - Stop #17692 (eastbound); No northbound stops missed</description>
     </item>
     <item>
       <title>[Moderate] Route 9: Stop Closed at Cedar Lake Rd &amp; Ridge Dr</title>
@@ -276,15 +231,6 @@
       <category>Moderate</category>
       <category>Route 38, Route 4</category>
       <description>Lyndale Ave S &amp; 33rd St W - Stop #40664 (southbound) is closed for Routes 4 and 38 beginning Thu Oct 29 at 2:00 AM until further notice due to utility work. Board at: Lyndale Ave S &amp; 31st St W - Stop #110 (southbound); Lyndale Ave S &amp; 35th St W - Stop #40668 (southbound). | Action: Board at: Lyndale Ave S &amp; 31st St W - Stop #110 (southbound); Lyndale Ave S &amp; 35th St W - Stop #40668 (southbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 38: Stop Closed at Excelsior Blvd &amp; Quentin Ave</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-55015-2026-11-06T16:48:18.000Z</guid>
-      <pubDate>Fri, 06 Nov 2026 16:48:18 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 38</category>
-      <description>Excelsior Blvd &amp; Quentin Ave - Stop #4852 (eastbound) is closed for Route 38 until later today. Board at: Excelsior Blvd &amp; Park Nicollet Blvd - Stop #43587 (eastbound); Excelsior Blvd &amp; Natchez Ave - Stop #4853 (eastbound). | Action: Board at: Excelsior Blvd &amp; Park Nicollet Blvd - Stop #43587 (eastbound); Excelsior Blvd &amp; Natchez Ave - Stop #4853 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 54, Route 54M: Detour via 5th St &amp; Robert St</title>
@@ -658,8 +604,8 @@
     <item>
       <title>[Moderate] Route 827: Detour via Route 827 detoured off Marshall St &amp; Main St</title>
       <link>https://www.metrotransit.org/route/827</link>
-      <guid isPermaLink="false">Metro Transit-54894-2026-11-03T20:10:30.000Z</guid>
-      <pubDate>Tue, 03 Nov 2026 20:10:30 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54894-2026-11-07T06:00:01.000Z</guid>
+      <pubDate>Sat, 07 Nov 2026 06:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 827</category>
       <description>Route 827 detoured off Marshall St/Main St from Hennepin Ave to 8th Ave NE from Fri Nov 13 at 6:00 AM to Sat Nov 14 at 6:00 PM due to Hot Chocolate Run 2026. Board at: Hennepin Ave &amp; 1st St S - Stop #17952 (northbound); 2nd St NE &amp; 4th Ave NE - Stop #14687 (northbound); 2nd St NE &amp; 7th Ave NE - Stop #14680 (northbound). | Action: Board at: Hennepin Ave &amp; 1st St S - Stop #17952 (northbound); 2nd St NE &amp; 4th Ave NE - Stop #14687 (northbound); 2nd St NE &amp; 7th Ave NE - Stop #14680 (northbound)</description>

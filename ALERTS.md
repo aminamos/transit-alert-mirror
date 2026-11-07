@@ -2,113 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-77-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-71-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-71-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-69-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-2-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-62-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-60-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-07T02:42:18.241Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-07T09:53:27.606Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO E Line** (1) • **METRO G Line** (2) • **METRO Gold Line** (2) • **Route 2** (3) • **Route 2C** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (3) • **Route 7** (3) • **Route 9** (5) • **Route 18** (5) • **Route 22** (2) • **Route 27** (2) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (3) • **Route 64** (4) • **Route 64D** (1) • **Route 68** (5) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 705** (1) • **Route 755** (1) • **Route 760** (1) • **Route 763** (1) • **Route 764** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO G Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (3) • **Route 7** (2) • **Route 9** (5) • **Route 18** (5) • **Route 22** (2) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (3) • **Route 64** (4) • **Route 64D** (1) • **Route 68** (5) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 705** (1) • **Route 755** (1) • **Route 760** (1) • **Route 763** (1) • **Route 764** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO E Line: Southbound 6:43 PM Trip Canceled (Westgate Station - Gate A)
-
-- **Affected Routes**: `METRO E Line`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound E Line trip departing Westgate Station - Gate A at 6:43 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/eline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound E Line trip departing Westgate Station - Gate A at 6:43 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 2, Route 2C: Eastbound 7:05 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)
-
-- **Affected Routes**: `Route 2` `Route 2C`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-
-**Summary**: Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 7:05 PM canceled today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 7:05 PM canceled today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 2: Eastbound 7:05 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)
-
-- **Affected Routes**: `Route 2`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-
-**Summary**: Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 7:05 PM canceled today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 7:05 PM canceled today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 72: Service Canceled
-
-- **Affected Routes**: `Route 72`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Pascal St N & Central Ave W; 20 PM
-departing Pascal St N & Central Ave W; 21 PM
-departing Pascal St N & Central Ave W
-
-**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 1:20 PM and eight other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/72)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 1:20 PM and eight other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Pascal St N & Central Ave W at 2:20 PM
-departing Pascal St N & Central Ave W at 4:20 PM
-departing Pascal St N & Central Ave W at 6:21 PM
-departing Pascal St N & Central Ave W at 8:23 PM
-
-Affected westbound trips:
-departing Sun Ray Transit Center & Gate D at 1:20 PM
-departing Sun Ray Transit Center & Gate D at 3:19 PM
-departing Sun Ray Transit Center & Gate D at 5:18 PM
-departing Sun Ray Transit Center & Gate D at 7:21 PM
-departing Sun Ray Transit Center & Gate D at 9:21 PM
-```
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -456,48 +364,6 @@ Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on 
 Get on/off buses at:
 26th Ave S & 25th St E - Stop #57483 (northbound)
 26th Ave S & Seward Tower West - Stop #56702 (northbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 7: Detour via Plymouth Ave & Washburn Ave N
-
-- **Affected Routes**: `Route 7`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Plymouth Ave & Washburn Ave N; Plymouth Ave & Logan Ave N; right on Plymouth Ave & resume regular route.
-
-Affected st; Plymouth Ave & Sheridan Ave N; Plymouth Ave & Penn Ave N
-- **Closed Stops**: Plymouth Ave & Sheridan Ave N (Stop #17685), Plymouth Ave & Penn Ave N (Stop #17688), Stop #17681, Stop #17692
-
-**Summary**: Route 7 detoured off Plymouth Ave from Penn Ave to Russell Ave/Thomas Ave until later today. Board at: Plymouth Ave & Washburn Ave N - Stop #17681 (eastbound); Plymouth Ave & Logan Ave N - Stop #17692 (eastbound); No northbound stops missed.
-
-> 💡 **Rider Action**: Board at: Plymouth Ave & Washburn Ave N - Stop #17681 (eastbound); Plymouth Ave & Logan Ave N - Stop #17692 (eastbound); No northbound stops missed
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on Plymouth Ave to Penn Ave, right on Penn Ae, left on 14th Ave, left on Russell Ave, right on Plymouth Ave and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/7)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 7 detoured off Plymouth Ave from Penn Ave to Russell Ave/Thomas Ave until later today
-
-```text
-Get on/off buses at:
-Plymouth Ave & Washburn Ave N - Stop #17681 (eastbound)
-Plymouth Ave & Logan Ave N - Stop #17692 (eastbound)
-No northbound stops missed
-
-Northbound buses will travel regular route on Plymouth Ave to Penn Ave, right on Penn Ae, left on 14th Ave, left on Russell Ave, right on Plymouth Ave and resume regular route.
-
-Southbound buses will travel regular route on Plymouth Ave to Thomas Ave, right on Thomas Ave, left on 12th Ave, left on Penn Ave, right on Plymouth Ave and resume regular route.
-
-Affected stops:
-Plymouth Ave & Sheridan Ave N - Stop #17685 (eastbound)
-Plymouth Ave & Penn Ave N - Stop #17688 (eastbound)
 ```
 
 </details>
@@ -1191,33 +1057,6 @@ Parklawn Ave & Parklawn Court - Stop #41091 (northbound)
 Get on/off buses at:
 Lyndale Ave S & 31st St W - Stop #110 (southbound)
 Lyndale Ave S & 35th St W - Stop #40668 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 38: Stop Closed at Excelsior Blvd & Quentin Ave
-
-- **Affected Routes**: `Route 38`
-- **Direction**: Eastbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Excelsior Blvd & Quentin Ave; Excelsior Blvd & Park Nicollet Blvd; Excelsior Blvd & Natchez Ave
-- **Closed Stops**: Stop #4852, Stop #43587, Stop #4853
-
-**Summary**: Excelsior Blvd & Quentin Ave - Stop #4852 (eastbound) is closed for Route 38 until later today. Board at: Excelsior Blvd & Park Nicollet Blvd - Stop #43587 (eastbound); Excelsior Blvd & Natchez Ave - Stop #4853 (eastbound).
-
-> 💡 **Rider Action**: Board at: Excelsior Blvd & Park Nicollet Blvd - Stop #43587 (eastbound); Excelsior Blvd & Natchez Ave - Stop #4853 (eastbound)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Excelsior Blvd & Quentin Ave - Stop #4852 (eastbound) is closed for Route 38 until later today
-
-```text
-Get on/off buses at:
-Excelsior Blvd & Park Nicollet Blvd - Stop #43587 (eastbound)
-Excelsior Blvd & Natchez Ave - Stop #4853 (eastbound)
 ```
 
 </details>

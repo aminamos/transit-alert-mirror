@@ -1,125 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-07T02:42:18.241Z",
-    "totalAlerts": 77,
-    "criticalCount": 4,
-    "moderateCount": 71,
+    "generatedAt": "2026-11-07T09:53:27.606Z",
+    "totalAlerts": 71,
+    "criticalCount": 0,
+    "moderateCount": 69,
     "minorCount": 2,
-    "affectedRoutesCount": 62,
+    "affectedRoutesCount": 60,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "55052",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO E Line: Southbound 6:43 PM Trip Canceled (Westgate Station - Gate A)",
-      "summary": "Southbound E Line trip departing Westgate Station - Gate A at 6:43 PM canceled today",
-      "affectedRoutes": [
-        "METRO E Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-07T01:09:00.000Z",
-        "end": "2026-11-07T02:44:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-11-07T01:09:10.000Z",
-      "rawHeader": "Southbound E Line trip departing Westgate Station - Gate A at 6:43 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "55050",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 2, Route 2C: Eastbound 7:05 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)",
-      "summary": "Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 7:05 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 2",
-        "Route 2C"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-07T01:05:00.000Z",
-        "end": "2026-11-07T02:53:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-11-07T00:36:50.000Z",
-      "rawHeader": "Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 7:05 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "55053",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 2: Eastbound 7:05 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)",
-      "summary": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 7:05 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 2"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-07T01:48:00.000Z",
-        "end": "2026-11-07T02:53:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-11-07T01:48:20.000Z",
-      "rawHeader": "Eastbound Route 2 trip departing Franklin Ave W & Hennepin Ave S at 7:05 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "55016",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 72: Service Canceled",
-      "summary": "Route 72 trip departing Sun Ray Transit Center & Gate D at 1:20 PM and eight other trips canceled today",
-      "affectedRoutes": [
-        "Route 72"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing Pascal St N & Central Ave W",
-        "20 PM\ndeparting Pascal St N & Central Ave W",
-        "21 PM\ndeparting Pascal St N & Central Ave W"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-06T19:20:00.000Z",
-        "end": "2026-11-07T05:05:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-11-06T18:50:00.000Z",
-      "rawHeader": "Route 72 trip departing Sun Ray Transit Center & Gate D at 1:20 PM and eight other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 2:20 PM\r\ndeparting Pascal St N & Central Ave W at 4:20 PM\r\ndeparting Pascal St N & Central Ave W at 6:21 PM\r\ndeparting Pascal St N & Central Ave W at 8:23 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 1:20 PM\r\ndeparting Sun Ray Transit Center & Gate D at 3:19 PM\r\ndeparting Sun Ray Transit Center & Gate D at 5:18 PM\r\ndeparting Sun Ray Transit Center & Gate D at 7:21 PM\r\ndeparting Sun Ray Transit Center & Gate D at 9:21 PM"
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -622,7 +513,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/4",
-      "updatedAt": "2026-11-06T06:00:01.000Z",
+      "updatedAt": "2026-11-07T06:00:01.000Z",
       "rawHeader": "Route 4 detoured off Lyndale Ave from 46th St to 44th St beginning Sat Nov 7 at 7:00 AM until further notice due to construction",
       "rawDescription": "Get on/off northbound buses at:\r\nLyndale Ave S & 46th St W - Stop #57203 (northbound)\r\nLyndale Ave S & 43rd St W - Stop #40273 (northbound)\r\n\nNo southbound stops missed.\r\n\nNorthbound buses will travel regular route on Lyndale Ave to 46th St, right on 46th St, left on Garfield Ave, left on 44th St, right on Lyndale Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on Lyndale Ave to 45th St, right on 45th St, left on Aldrich Ave, left on 46th St, right on Lyndale Ave, and resume regular route.\r\n\nAffected stops:\r\nLyndale Ave S & 45th St W - Stop #40276 (northbound)"
     },
@@ -697,60 +588,6 @@
       "updatedAt": "2026-10-12T10:00:01.000Z",
       "rawHeader": "26th Ave S & 22nd St E - Stop #57484 (northbound) is closed for Route 7 beginning Mon Oct 5 at 5:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\n26th Ave S & 25th St E - Stop #57483 (northbound)\r\n26th Ave S & Seward Tower West - Stop #56702 (northbound)"
-    },
-    {
-      "id": "55027",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 7: Detour via Plymouth Ave & Washburn Ave N",
-      "summary": "Route 7 detoured off Plymouth Ave from Penn Ave to Russell Ave/Thomas Ave until later today. Board at: Plymouth Ave & Washburn Ave N - Stop #17681 (eastbound); Plymouth Ave & Logan Ave N - Stop #17692 (eastbound); No northbound stops missed.",
-      "affectedRoutes": [
-        "Route 7"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Plymouth Ave & Washburn Ave N",
-        "Plymouth Ave & Logan Ave N",
-        "right on Plymouth Ave & resume regular route.\n\nAffected st",
-        "Plymouth Ave & Sheridan Ave N",
-        "Plymouth Ave & Penn Ave N"
-      ],
-      "closedStopIds": [
-        "17685",
-        "17688",
-        "17681",
-        "17692"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "17685",
-          "name": "Plymouth Ave & Sheridan Ave N",
-          "direction": "eastbound"
-        },
-        {
-          "id": "17688",
-          "name": "Plymouth Ave & Penn Ave N",
-          "direction": "eastbound"
-        },
-        {
-          "id": "17681"
-        },
-        {
-          "id": "17692"
-        }
-      ],
-      "riderAlternative": "Board at: Plymouth Ave & Washburn Ave N - Stop #17681 (eastbound); Plymouth Ave & Logan Ave N - Stop #17692 (eastbound); No northbound stops missed",
-      "detourDetails": "Northbound buses will travel regular route on Plymouth Ave to Penn Ave, right on Penn Ae, left on 14th Ave, left on Russell Ave, right on Plymouth Ave and resume regular route.",
-      "activePeriod": {
-        "start": "2026-11-06T19:58:00.000Z",
-        "end": "2026-11-07T04:41:18.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/7",
-      "updatedAt": "2026-11-06T19:58:41.000Z",
-      "rawHeader": "Route 7 detoured off Plymouth Ave from Penn Ave to Russell Ave/Thomas Ave until later today",
-      "rawDescription": "Get on/off buses at:\r\nPlymouth Ave & Washburn Ave N - Stop #17681 (eastbound)\r\nPlymouth Ave & Logan Ave N - Stop #17692 (eastbound)\r\nNo northbound stops missed\r\n\nNorthbound buses will travel regular route on Plymouth Ave to Penn Ave, right on Penn Ae, left on 14th Ave, left on Russell Ave, right on Plymouth Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Plymouth Ave to Thomas Ave, right on Thomas Ave, left on 12th Ave, left on Penn Ave, right on Plymouth Ave and resume regular route.\r\n\nAffected stops:\r\nPlymouth Ave & Sheridan Ave N - Stop #17685 (eastbound)\r\nPlymouth Ave & Penn Ave N - Stop #17688 (eastbound)"
     },
     {
       "id": "45065",
@@ -1788,49 +1625,6 @@
       "updatedAt": "2026-11-06T18:58:46.000Z",
       "rawHeader": "Lyndale Ave S & 33rd St W - Stop #40664 (southbound) is closed for Routes 4 and 38 beginning Thu Oct 29 at 2:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off buses at:\r\nLyndale Ave S & 31st St W - Stop #110 (southbound)\r\nLyndale Ave S & 35th St W - Stop #40668 (southbound)"
-    },
-    {
-      "id": "55015",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 38: Stop Closed at Excelsior Blvd & Quentin Ave",
-      "summary": "Excelsior Blvd & Quentin Ave - Stop #4852 (eastbound) is closed for Route 38 until later today. Board at: Excelsior Blvd & Park Nicollet Blvd - Stop #43587 (eastbound); Excelsior Blvd & Natchez Ave - Stop #4853 (eastbound).",
-      "affectedRoutes": [
-        "Route 38"
-      ],
-      "direction": "Eastbound",
-      "intersections": [
-        "Excelsior Blvd & Quentin Ave",
-        "Excelsior Blvd & Park Nicollet Blvd",
-        "Excelsior Blvd & Natchez Ave"
-      ],
-      "closedStopIds": [
-        "4852",
-        "43587",
-        "4853"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "4852"
-        },
-        {
-          "id": "43587"
-        },
-        {
-          "id": "4853"
-        }
-      ],
-      "riderAlternative": "Board at: Excelsior Blvd & Park Nicollet Blvd - Stop #43587 (eastbound); Excelsior Blvd & Natchez Ave - Stop #4853 (eastbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-06T16:48:00.000Z",
-        "end": "2026-11-07T04:41:18.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "updatedAt": "2026-11-06T16:48:18.000Z",
-      "rawHeader": "Excelsior Blvd & Quentin Ave - Stop #4852 (eastbound) is closed for Route 38 until later today",
-      "rawDescription": "Get on/off buses at:\r\nExcelsior Blvd & Park Nicollet Blvd - Stop #43587 (eastbound)\r\nExcelsior Blvd & Natchez Ave - Stop #4853 (eastbound)"
     },
     {
       "id": "51972",
@@ -4896,7 +4690,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/827",
-      "updatedAt": "2026-11-03T20:10:30.000Z",
+      "updatedAt": "2026-11-07T06:00:01.000Z",
       "rawHeader": "Route 827 detoured off Marshall St/Main St from Hennepin Ave to 8th Ave NE from Fri Nov 13 at 6:00 AM to Sat Nov 14 at 6:00 PM due to Hot Chocolate Run 2026",
       "rawDescription": "For northbound Route 827 get on/off buses at:\r\nHennepin Ave & 1st St S - Stop #17952 (northbound)\r\n2nd St NE & 4th Ave NE - Stop #14687 (northbound)\r\n2nd St NE & 7th Ave NE - Stop #14680 (northbound)\r\nMarshall St NE & Broadway St NE - Stop #57552 (northbound)\r\n\nFor southbound Route 827 get on/off buses at:\r\nMarshall St NE & Broadway St NE - Stop #57575 (southbound)\r\n2nd St NE & 5th Ave NE - Stop #14685 (southbound)\r\n2nd St NE & 3rd Ave NE - Stop #14689 (southbound)\r\nMarquette Ave & 2nd St S - Stop #19238 (southbound)\r\n\nNorthbound buses will travel the regular route on Hennepin Ave to Main St NE, continue on Hennepin Ave, left on 2nd St NE, left on 8th Ave NE, right on Marshall St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Marshall St to 8th Ave NE, left on 8th Ave NE, right on 2nd St NE, right on 1st Ave to Main St NE, continue on 1st Ave, and resume the regular route.\r\n\nAffected stops:\r\nMain St NE & 1st Ave NE - Stop #57549 (northbound)\r\nMain St NE & 3rd Ave NE - Stop #57550 (northbound)\r\nMarshall St NE & 8th Ave NE - Stop #57551 (northbound)\r\nMarshall St NE & 8th Ave NE - Stop #57576 (southbound)\r\nMarshall St NE & 3rd Ave NE - Stop #57577 (southbound)\r\nMain St NE & 1st Ave NE - Stop #57578 (southbound)"
     },
