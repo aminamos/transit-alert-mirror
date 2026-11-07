@@ -4,7 +4,7 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 07 Nov 2026 09:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 16:16:41 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
@@ -55,8 +55,8 @@
     <item>
       <title>[Moderate] Route 4: Detour via Lyndale Ave S &amp; 46th St W</title>
       <link>https://www.metrotransit.org/route/4</link>
-      <guid isPermaLink="false">Metro Transit-54934-2026-11-07T06:00:01.000Z</guid>
-      <pubDate>Sat, 07 Nov 2026 06:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54934-2026-11-07T12:30:01.000Z</guid>
+      <pubDate>Sat, 07 Nov 2026 12:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 4</category>
       <description>Route 4 detoured off Lyndale Ave from 46th St to 44th St beginning Sat Nov 7 at 7:00 AM until further notice due to construction. Board at: Lyndale Ave S &amp; 46th St W - Stop #57203 (northbound); Lyndale Ave S &amp; 43rd St W - Stop #40273 (northbound). | Action: Board at: Lyndale Ave S &amp; 46th St W - Stop #57203 (northbound); Lyndale Ave S &amp; 43rd St W - Stop #40273 (northbound)</description>
@@ -627,6 +627,15 @@
       <category>Moderate</category>
       <category>Route 860</category>
       <description>Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction. Board at: Temporary stop on Grove St &amp; Lafayette Rd (eastbound); LaFayette Rd &amp; 8th St - Stop #11925 (southbound). | Action: Board at: Temporary stop on Grove St &amp; Lafayette Rd (eastbound); LaFayette Rd &amp; 8th St - Stop #11925 (southbound)</description>
+    </item>
+    <item>
+      <title>[Minor] METRO Blue Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/blue</link>
+      <guid isPermaLink="false">Metro Transit-55061-2026-11-07T15:59:32.000Z</guid>
+      <pubDate>Sat, 07 Nov 2026 15:59:32 GMT</pubDate>
+      <category>Minor</category>
+      <category>METRO Blue Line</category>
+      <description>Blue Line service advisory: Trains holding between Terminal 2 and VA Medical Center stations due to mechanical issue</description>
     </item>
     <item>
       <title>[Minor] 10th Ave Se &amp; 8th St Se - Stop #16047 (northbound) Is Permanently Moving for Route 4</title>

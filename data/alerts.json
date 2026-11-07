@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-07T09:53:27.606Z",
-    "totalAlerts": 71,
+    "generatedAt": "2026-11-07T16:16:41.291Z",
+    "totalAlerts": 72,
     "criticalCount": 0,
     "moderateCount": 69,
-    "minorCount": 2,
+    "minorCount": 3,
     "affectedRoutesCount": 60,
     "agencies": [
       "Metro Transit"
@@ -513,7 +513,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/4",
-      "updatedAt": "2026-11-07T06:00:01.000Z",
+      "updatedAt": "2026-11-07T12:30:01.000Z",
       "rawHeader": "Route 4 detoured off Lyndale Ave from 46th St to 44th St beginning Sat Nov 7 at 7:00 AM until further notice due to construction",
       "rawDescription": "Get on/off northbound buses at:\r\nLyndale Ave S & 46th St W - Stop #57203 (northbound)\r\nLyndale Ave S & 43rd St W - Stop #40273 (northbound)\r\n\nNo southbound stops missed.\r\n\nNorthbound buses will travel regular route on Lyndale Ave to 46th St, right on 46th St, left on Garfield Ave, left on 44th St, right on Lyndale Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on Lyndale Ave to 45th St, right on 45th St, left on Aldrich Ave, left on 46th St, right on Lyndale Ave, and resume regular route.\r\n\nAffected stops:\r\nLyndale Ave S & 45th St W - Stop #40276 (northbound)"
     },
@@ -4801,6 +4801,66 @@
       "updatedAt": "2026-09-03T18:51:20.000Z",
       "rawHeader": "Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction",
       "rawDescription": "Updated get on/off stops 6/9 1:30 pm.\r\n\nGet on/off buses at:\r\nTemporary stop on Grove St & Lafayette Rd (eastbound)\r\nLaFayette Rd & 8th St - Stop #11925 (southbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on southbound I-35E to University Ave, continue on I-35E and exit at Wacouta St, left on 9th St, left on Broadway St, right on Grove St, right on Lafayette Rd, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nUniversity Ave & Mississippi St - Stop #56109 (eastbound)\r\nUniversity Ave & Lafayette St - Stop #57630 (eastbound)\r\nLaFayette Rd & Grove St - Stop #11923 (southbound)"
+    },
+    {
+      "id": "55061",
+      "agency": "Metro Transit",
+      "severity": "Minor",
+      "title": "METRO Blue Line: Service Advisory",
+      "summary": "Blue Line service advisory: Trains holding between Terminal 2 and VA Medical Center stations due to mechanical issue",
+      "affectedRoutes": [
+        "METRO Blue Line"
+      ],
+      "direction": "All",
+      "intersections": [],
+      "closedStopIds": [
+        "51432",
+        "51433",
+        "51434",
+        "51435",
+        "51417",
+        "51418",
+        "51419",
+        "51420"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "51432"
+        },
+        {
+          "id": "51433"
+        },
+        {
+          "id": "51434"
+        },
+        {
+          "id": "51435"
+        },
+        {
+          "id": "51417"
+        },
+        {
+          "id": "51418"
+        },
+        {
+          "id": "51419"
+        },
+        {
+          "id": "51420"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-07T15:59:00.000Z",
+        "end": "2026-11-07T18:15:19.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "OTHER_EFFECT",
+      "url": "https://www.metrotransit.org/route/blue",
+      "updatedAt": "2026-11-07T15:59:32.000Z",
+      "rawHeader": "Blue Line service advisory: Trains holding between Terminal 2 and VA Medical Center stations due to mechanical issue",
+      "rawDescription": "Thanks for your patience while we work to resolve the issue and get trains moving through the area again."
     },
     {
       "id": "54795",
