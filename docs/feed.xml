@@ -4,36 +4,9 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 08 Nov 2026 00:22:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 07:08:54 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
-    <item>
-      <title>[Critical] METRO D Line: Northbound 5:24 PM Trip Canceled (MOA Transit Station Gate A)</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-55069-2026-11-07T23:32:15.000Z</guid>
-      <pubDate>Sat, 07 Nov 2026 23:32:15 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Northbound D Line trip departing MOA Transit Station Gate A at 5:24 PM canceled</description>
-    </item>
-    <item>
-      <title>[Critical] Route 2: Westbound 4:41 PM Trip Canceled (Ontario St SE &amp; Beacon St)</title>
-      <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-55068-2026-11-08T00:19:01.000Z</guid>
-      <pubDate>Sun, 08 Nov 2026 00:19:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 2</category>
-      <description>Westbound Route 2 trip departing Ontario St SE &amp; Beacon St at 4:41 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 22, Route 22H: Southbound 4:08 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)</title>
-      <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-55065-2026-11-07T22:10:41.000Z</guid>
-      <pubDate>Sat, 07 Nov 2026 22:10:41 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 22, Route 22H</category>
-      <description>Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 4:08 PM canceled today</description>
-    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -46,8 +19,8 @@
     <item>
       <title>[Moderate] METRO Blue Line, METRO Green Line: Service Advisory</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-52270-2026-11-07T22:00:01.000Z</guid>
-      <pubDate>Sat, 07 Nov 2026 22:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52270-2026-11-08T06:00:02.000Z</guid>
+      <pubDate>Sun, 08 Nov 2026 06:00:02 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO Blue Line, METRO Green Line</category>
       <description>METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 11/9 from 4pm - 11:30pm</description>
@@ -87,15 +60,6 @@
       <category>Moderate</category>
       <category>Route 3, Route 3A</category>
       <description>Route 3A detoured off Maryland Ave from Matilda St to Rice St and off Rice St from Maryland Ave to Como Ave beginning Thu Nov 5 at 6:00 AM until further notice due to construction. Board at: Maryland Ave &amp; Western Ave - Stop #5567 (eastbound); Temporary stop on Maryland Ave &amp; Matilda St (eastbound); Temporary stop on Galtier St &amp; Cook Ave (southbound). | Action: Board at: Maryland Ave &amp; Western Ave - Stop #5567 (eastbound); Temporary stop on Maryland Ave &amp; Matilda St (eastbound); Temporary stop on Galtier St &amp; Cook Ave (southbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 4: Detour via Lyndale Ave S &amp; 46th St W</title>
-      <link>https://www.metrotransit.org/route/4</link>
-      <guid isPermaLink="false">Metro Transit-54934-2026-11-07T12:30:01.000Z</guid>
-      <pubDate>Sat, 07 Nov 2026 12:30:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 4</category>
-      <description>Route 4 detoured off Lyndale Ave from 46th St to 44th St beginning Sat Nov 7 at 7:00 AM until further notice due to construction. Board at: Lyndale Ave S &amp; 46th St W - Stop #57203 (northbound); Lyndale Ave S &amp; 43rd St W - Stop #40273 (northbound). | Action: Board at: Lyndale Ave S &amp; 46th St W - Stop #57203 (northbound); Lyndale Ave S &amp; 43rd St W - Stop #40273 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 7: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -406,8 +370,8 @@
     <item>
       <title>[Moderate] Route 68: Detour via Jackson St &amp; Rose Ave E</title>
       <link>https://www.metrotransit.org/route/68</link>
-      <guid isPermaLink="false">Metro Transit-55025-2026-11-06T19:36:07.000Z</guid>
-      <pubDate>Fri, 06 Nov 2026 19:36:07 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55025-2026-11-08T06:00:01.000Z</guid>
+      <pubDate>Sun, 08 Nov 2026 06:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 68</category>
       <description>Route 68 detoured off LOrient St from Arlington Ave to Maryland Ave beginning Mon Nov 9 at 6:00 AM until further notice. Board at: Jackson St &amp; Rose Ave E - Stop #56324 (northbound); Jackson St &amp; Timberlake Rd - Stop #49670 (northbound). | Action: Board at: Jackson St &amp; Rose Ave E - Stop #56324 (northbound); Jackson St &amp; Timberlake Rd - Stop #49670 (northbound)</description>

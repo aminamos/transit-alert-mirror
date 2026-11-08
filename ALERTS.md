@@ -2,76 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-75-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-70-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-71-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-69-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-2-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-63-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-61-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-08T00:22:59.997Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-08T07:08:54.145Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO G Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (3) • **Route 7** (2) • **Route 9** (5) • **Route 18** (5) • **Route 22** (3) • **Route 22H** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (3) • **Route 64** (4) • **Route 64D** (1) • **Route 68** (5) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 705** (1) • **Route 755** (1) • **Route 760** (1) • **Route 763** (1) • **Route 764** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (2) • **METRO G Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (2) • **Route 7** (2) • **Route 9** (5) • **Route 18** (5) • **Route 22** (2) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (3) • **Route 64** (4) • **Route 64D** (1) • **Route 68** (5) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 705** (1) • **Route 755** (1) • **Route 760** (1) • **Route 763** (1) • **Route 764** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO D Line: Northbound 5:24 PM Trip Canceled (MOA Transit Station Gate A)
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound D Line trip departing MOA Transit Station Gate A at 5:24 PM canceled
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound D Line trip departing MOA Transit Station Gate A at 5:24 PM canceled
-
-</details>
-
----
-
-### 🚨 Route 2: Westbound 4:41 PM Trip Canceled (Ontario St SE & Beacon St)
-
-- **Affected Routes**: `Route 2`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 2 trip departing Ontario St SE & Beacon St at 4:41 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 2 trip departing Ontario St SE & Beacon St at 4:41 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 22, Route 22H: Southbound 4:08 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)
-
-- **Affected Routes**: `Route 22` `Route 22H`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 4:08 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/22)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 4:08 PM canceled today
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -345,47 +290,6 @@ Rice St & Lawson Ave - Stop #10498 (northbound)
 Rice St & Geranium Ave - Stop #10501 (northbound)
 Maryland Ave & Rice St - Stop #47074 (westbound)
 Maryland Ave & Galtier St - Stop #5579 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 4: Detour via Lyndale Ave S & 46th St W
-
-- **Affected Routes**: `Route 4`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Sat Nov 7 at 7:00 AM until further notice
-- **Corridors & Intersections**: Lyndale Ave S & 46th St W; Lyndale Ave S & 43rd St W; Lyndale Ave S & 45th St W; Lyndale Ave (46th St to 44th St)
-- **Closed Stops**: Lyndale Ave S & 45th St W (Stop #40276), Stop #57203, Stop #40273
-
-**Summary**: Route 4 detoured off Lyndale Ave from 46th St to 44th St beginning Sat Nov 7 at 7:00 AM until further notice due to construction. Board at: Lyndale Ave S & 46th St W - Stop #57203 (northbound); Lyndale Ave S & 43rd St W - Stop #40273 (northbound).
-
-> 💡 **Rider Action**: Board at: Lyndale Ave S & 46th St W - Stop #57203 (northbound); Lyndale Ave S & 43rd St W - Stop #40273 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on Lyndale Ave to 46th St, right on 46th St, left on Garfield Ave, left on 44th St, right on Lyndale Ave, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/4)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 4 detoured off Lyndale Ave from 46th St to 44th St beginning Sat Nov 7 at 7:00 AM until further notice due to construction
-
-```text
-Get on/off northbound buses at:
-Lyndale Ave S & 46th St W - Stop #57203 (northbound)
-Lyndale Ave S & 43rd St W - Stop #40273 (northbound)
-
-No southbound stops missed.
-
-Northbound buses will travel regular route on Lyndale Ave to 46th St, right on 46th St, left on Garfield Ave, left on 44th St, right on Lyndale Ave, and resume regular route.
-
-Southbound buses will travel regular route on Lyndale Ave to 45th St, right on 45th St, left on Aldrich Ave, left on 46th St, right on Lyndale Ave, and resume regular route.
-
-Affected stops:
-Lyndale Ave S & 45th St W - Stop #40276 (northbound)
 ```
 
 </details>

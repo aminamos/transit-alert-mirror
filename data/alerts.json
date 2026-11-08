@@ -1,92 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-08T00:22:59.997Z",
-    "totalAlerts": 75,
-    "criticalCount": 3,
-    "moderateCount": 70,
+    "generatedAt": "2026-11-08T07:08:54.145Z",
+    "totalAlerts": 71,
+    "criticalCount": 0,
+    "moderateCount": 69,
     "minorCount": 2,
-    "affectedRoutesCount": 63,
+    "affectedRoutesCount": 61,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "55069",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO D Line: Northbound 5:24 PM Trip Canceled (MOA Transit Station Gate A)",
-      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 5:24 PM canceled",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-07T23:31:00.000Z",
-        "end": "2026-11-08T01:37:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-11-07T23:32:15.000Z",
-      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 5:24 PM canceled",
-      "rawDescription": ""
-    },
-    {
-      "id": "55068",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 2: Westbound 4:41 PM Trip Canceled (Ontario St SE & Beacon St)",
-      "summary": "Westbound Route 2 trip departing Ontario St SE & Beacon St at 4:41 PM canceled today",
-      "affectedRoutes": [
-        "Route 2"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {},
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-11-08T00:19:01.000Z",
-      "rawHeader": "Westbound Route 2 trip departing Ontario St SE & Beacon St at 4:41 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "55065",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 22, Route 22H: Southbound 4:08 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)",
-      "summary": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 4:08 PM canceled today",
-      "affectedRoutes": [
-        "Route 22",
-        "Route 22H"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-07T22:09:00.000Z",
-        "end": "2026-11-08T00:30:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-11-07T22:10:41.000Z",
-      "rawHeader": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 4:08 PM canceled today",
-      "rawDescription": ""
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -147,7 +71,7 @@
       },
       "cause": "OTHER_CAUSE",
       "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-11-07T22:00:01.000Z",
+      "updatedAt": "2026-11-08T06:00:02.000Z",
       "rawHeader": "METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 11/9 from 4pm - 11:30pm",
       "rawDescription": "Due to street closures around U.S. Bank Stadium Station during the Vikings game, please transfer between the METRO Blue and Green lines at Government Plaza Station instead.\r\n\nAffected stops:\r\nU.S. Bank Stadium Station (eastbound)\r\nU.S. Bank Stadium Station (northbound)\r\nU.S. Bank Stadium Station (southbound)\r\nU.S. Bank Stadium Station (westbound)"
     },
@@ -581,53 +505,6 @@
       "updatedAt": "2026-11-06T19:15:09.000Z",
       "rawHeader": "Route 3A detoured off Maryland Ave from Matilda St to Rice St and off Rice St from Maryland Ave to Como Ave beginning Thu Nov 5 at 6:00 AM until further notice due to construction",
       "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nMaryland Ave & Western Ave - Stop #5567 (eastbound)\r\nTemporary stop on Maryland Ave & Matilda St (eastbound)\r\nTemporary stop on Galtier St & Cook Ave (southbound)\r\nTemporary stop on Galtier St & Front Ave (southbound)\r\nTemporary stop on Galtier St & Atwater St (southbound)\r\nComo Ave & Rice St - Stop #973 (eastbound)\r\nRice St & Charles Ave - Stop #974 (southbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\nRice St & Charles Ave - Stop #10488 (northbound)\r\nComo Ave & Rice St - Stop #49895 (westbound)\r\nTemporary stop on Atwater St & Galtier St (eastbound)\r\nTemporary stop on Galtier St & Front Ave (northbound)\r\nTemporary stop on Matilda St & Maryland Ave (northbound)\r\nMaryland Ave & Western Ave - Stop #5583 (westbound)\r\n\nEastbound 3A buses will travel regular route on Maryland Ave to Matilda St, right on Matilda, left on Jessamine Ave, right on Galtier St, right on Atwater St, left on Western Ave, left on Como Ave, right on Rice St, and resume regular route.\r\n\nWestbound 3A buses will travel regular route on Rice St to Como Ave, left on Como, right on Western Ave, right on Atwater St, left on Galtier St, left on Jessamine Ave, right on Matilda St, left on Maryland Ave, and resume regular route.\r\n\nAffected stops:\r\nMaryland Ave & Galtier St - Stop #5571 (eastbound)\r\nMaryland Ave & Rice St - Stop #5575 (eastbound)\r\nRice St & Geranium Ave - Stop #10473 (southbound)\r\nRice St & Lawson Ave - Stop #10476 (southbound)\r\nRice St & Litchfield St - Stop #10479 (southbound)\r\nRice St & Milford St - Stop #10480 (southbound)\r\nRice St & Sycamore St - Stop #10482 (southbound)\r\nRice St & Pennsylvania Ave - Stop #10483 (southbound)\r\nRice St & Como Ave - Stop #10484 (southbound)\r\nRice St & Como Ave - Stop #10489 (northbound)\r\nRice St & Pennsylvania Ave - Stop #10490 (northbound)\r\nRice St & Sycamore St - Stop #10491 (northbound)\r\nRice St & Manitoba Ave - Stop #10494 (northbound)\r\nRice St & Front Ave - Stop #10496 (northbound)\r\nRice St & Lawson Ave - Stop #10498 (northbound)\r\nRice St & Geranium Ave - Stop #10501 (northbound)\r\nMaryland Ave & Rice St - Stop #47074 (westbound)\r\nMaryland Ave & Galtier St - Stop #5579 (westbound)"
-    },
-    {
-      "id": "54934",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 4: Detour via Lyndale Ave S & 46th St W",
-      "summary": "Route 4 detoured off Lyndale Ave from 46th St to 44th St beginning Sat Nov 7 at 7:00 AM until further notice due to construction. Board at: Lyndale Ave S & 46th St W - Stop #57203 (northbound); Lyndale Ave S & 43rd St W - Stop #40273 (northbound).",
-      "affectedRoutes": [
-        "Route 4"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Lyndale Ave S & 46th St W",
-        "Lyndale Ave S & 43rd St W",
-        "Lyndale Ave S & 45th St W",
-        "Lyndale Ave (46th St to 44th St)"
-      ],
-      "closedStopIds": [
-        "40276",
-        "57203",
-        "40273"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "40276",
-          "name": "Lyndale Ave S & 45th St W",
-          "direction": "northbound"
-        },
-        {
-          "id": "57203"
-        },
-        {
-          "id": "40273"
-        }
-      ],
-      "riderAlternative": "Board at: Lyndale Ave S & 46th St W - Stop #57203 (northbound); Lyndale Ave S & 43rd St W - Stop #40273 (northbound)",
-      "detourDetails": "Northbound buses will travel regular route on Lyndale Ave to 46th St, right on 46th St, left on Garfield Ave, left on 44th St, right on Lyndale Ave, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-11-07T13:00:00.000Z",
-        "textDescription": "Beginning Sat Nov 7 at 7:00 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/4",
-      "updatedAt": "2026-11-07T12:30:01.000Z",
-      "rawHeader": "Route 4 detoured off Lyndale Ave from 46th St to 44th St beginning Sat Nov 7 at 7:00 AM until further notice due to construction",
-      "rawDescription": "Get on/off northbound buses at:\r\nLyndale Ave S & 46th St W - Stop #57203 (northbound)\r\nLyndale Ave S & 43rd St W - Stop #40273 (northbound)\r\n\nNo southbound stops missed.\r\n\nNorthbound buses will travel regular route on Lyndale Ave to 46th St, right on 46th St, left on Garfield Ave, left on 44th St, right on Lyndale Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on Lyndale Ave to 45th St, right on 45th St, left on Aldrich Ave, left on 46th St, right on Lyndale Ave, and resume regular route.\r\n\nAffected stops:\r\nLyndale Ave S & 45th St W - Stop #40276 (northbound)"
     },
     {
       "id": "52942",
@@ -3038,7 +2915,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/68",
-      "updatedAt": "2026-11-06T19:36:07.000Z",
+      "updatedAt": "2026-11-08T06:00:01.000Z",
       "rawHeader": "Route 68 detoured off LOrient St from Arlington Ave to Maryland Ave beginning Mon Nov 9 at 6:00 AM until further notice",
       "rawDescription": "For northbound Route 68 get on/off buses at:\r\nJackson St & Rose Ave E - Stop #56324 (northbound)\r\nJackson St & Timberlake Rd - Stop #49670 (northbound)\r\n\nFor southbound Route 68 get on/off buses at:\r\nLarpenteur Ave & Jackson St - Stop #49947 (eastbound)\r\nArlington Ave E & Klainert St - Stop #81115 (westbound)\r\n\nNorthbound buses will travel the regular route on Jackson St to Rose Ave, left on Rose Ave, right on Abell St, left on Maryland Ave, right on Rice St, right on Arlington Ave, left on Jackson St, and resume the regular route.\r\n\nSouthbound buses will travel the regular detour route on LOrient St to Arlington Ave, right on Arlington Ave to LOrient St, continue on Arlington Ave, left on Rice St, left on Maryland Ave, right on Abell St, left on Rose Ave, right on Jackson St, and resume the regular route.\r\n\nAffected stops:\r\nLOrient St & Kmart - Stop #49938 (northbound)\r\nLOrient St & #1300 - Stop #49939 (northbound)\r\nLOrient St & Arlington Ave - Stop #49940 (northbound)\r\nArlington Ave E & #179 - Stop #18042 (westbound)\r\nLOrient St & #1301 - Stop #49948 (southbound)\r\nLOrient St & Kmart - Stop #49949 (southbound)\r\nMaryland Ave & LOrient St - Stop #40101 (westbound)\r\nArlington Ave E & Jackson St - Stop #40095 (eastbound)\r\nJackson St & Rose Ave E - Stop #56323 (southbound)\r\nArlington Ave E & #179 - Stop #51606 (eastbound)"
     },
