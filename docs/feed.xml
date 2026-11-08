@@ -4,35 +4,26 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 08 Nov 2026 14:58:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 19:31:57 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO C Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/cline</link>
-      <guid isPermaLink="false">Metro Transit-55075-2026-11-08T14:01:00.000Z</guid>
-      <pubDate>Sun, 08 Nov 2026 14:01:00 GMT</pubDate>
+      <title>[Critical] Route 14: Northbound 11:26 AM Trip Canceled (66th St E &amp; Richfield Pkwy / 16th Ave)</title>
+      <link>https://www.metrotransit.org/route/14</link>
+      <guid isPermaLink="false">Metro Transit-55079-2026-11-08T19:28:02.000Z</guid>
+      <pubDate>Sun, 08 Nov 2026 19:28:02 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO C Line</category>
-      <description>C Line trips departing 7th St &amp; Park Station at 8:31 AM and departing Brooklyn Ctr Transit Ctr Gate I at 9:23 AM canceled today</description>
+      <category>Route 14</category>
+      <description>Northbound Route 14 trip departing 66th St E &amp; Richfield Pkwy / 16th Ave at 11:26 AM canceled</description>
     </item>
     <item>
-      <title>[Critical] METRO D Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-55073-2026-11-08T13:15:14.000Z</guid>
-      <pubDate>Sun, 08 Nov 2026 13:15:14 GMT</pubDate>
+      <title>[Critical] Route 80: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/80</link>
+      <guid isPermaLink="false">Metro Transit-55080-2026-11-08T19:12:01.000Z</guid>
+      <pubDate>Sun, 08 Nov 2026 19:12:01 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>D Line trips departing MOA Transit Station Gate A at 7:07 AM and departing Brooklyn Ctr Transit Ctr Gate F at 8:22 AM restored today</description>
-    </item>
-    <item>
-      <title>[Critical] METRO E Line: Southbound 7:13 AM Trip Canceled (Westgate Station - Gate A)</title>
-      <link>https://www.metrotransit.org/route/eline</link>
-      <guid isPermaLink="false">Metro Transit-55074-2026-11-08T13:25:47.000Z</guid>
-      <pubDate>Sun, 08 Nov 2026 13:25:47 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO E Line</category>
-      <description>Southbound E Line trip departing Westgate Station - Gate A at 7:13 AM canceled today due to mechanical issue</description>
+      <category>Route 80</category>
+      <description>Route 80 trips departing Sun Ray Transit Center &amp; Gate E at 1:42 PM and departing Maplewood Mall Transit Center &amp; Gate F at 2:12 PM canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>

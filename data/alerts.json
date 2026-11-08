@@ -1,52 +1,47 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-08T14:58:23.757Z",
-    "totalAlerts": 74,
-    "criticalCount": 3,
+    "generatedAt": "2026-11-08T19:31:57.924Z",
+    "totalAlerts": 73,
+    "criticalCount": 2,
     "moderateCount": 69,
     "minorCount": 2,
-    "affectedRoutesCount": 64,
+    "affectedRoutesCount": 63,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "55075",
+      "id": "55079",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO C Line: Service Canceled",
-      "summary": "C Line trips departing 7th St & Park Station at 8:31 AM and departing Brooklyn Ctr Transit Ctr Gate I at 9:23 AM canceled today",
+      "title": "Route 14: Northbound 11:26 AM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)",
+      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 11:26 AM canceled",
       "affectedRoutes": [
-        "METRO C Line"
+        "Route 14"
       ],
-      "direction": "Both Directions",
-      "intersections": [
-        "C Line trips departing 7th St & Park St"
-      ],
+      "direction": "Northbound",
+      "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-08T14:31:00.000Z",
-        "end": "2026-11-08T16:55:00.000Z"
-      },
+      "activePeriod": {},
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/cline",
-      "updatedAt": "2026-11-08T14:01:00.000Z",
-      "rawHeader": "C Line trips departing 7th St & Park Station at 8:31 AM and departing Brooklyn Ctr Transit Ctr Gate I at 9:23 AM canceled today",
+      "url": "https://www.metrotransit.org/route/14",
+      "updatedAt": "2026-11-08T19:28:02.000Z",
+      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 11:26 AM canceled",
       "rawDescription": ""
     },
     {
-      "id": "55073",
+      "id": "55080",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO D Line: Service Advisory",
-      "summary": "D Line trips departing MOA Transit Station Gate A at 7:07 AM and departing Brooklyn Ctr Transit Ctr Gate F at 8:22 AM restored today",
+      "title": "Route 80: Service Canceled",
+      "summary": "Route 80 trips departing Sun Ray Transit Center & Gate E at 1:42 PM and departing Maplewood Mall Transit Center & Gate F at 2:12 PM canceled today",
       "affectedRoutes": [
-        "METRO D Line"
+        "Route 80"
       ],
       "direction": "Both Directions",
       "intersections": [],
@@ -55,40 +50,14 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-08T13:07:00.000Z",
-        "end": "2026-11-08T16:30:00.000Z"
+        "start": "2026-11-08T19:42:00.000Z",
+        "end": "2026-11-08T21:34:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-11-08T13:15:14.000Z",
-      "rawHeader": "D Line trips departing MOA Transit Station Gate A at 7:07 AM and departing Brooklyn Ctr Transit Ctr Gate F at 8:22 AM restored today",
-      "rawDescription": "Updated at 7:15 AM to restore previously canceled trips."
-    },
-    {
-      "id": "55074",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO E Line: Southbound 7:13 AM Trip Canceled (Westgate Station - Gate A)",
-      "summary": "Southbound E Line trip departing Westgate Station - Gate A at 7:13 AM canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "METRO E Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-08T13:25:00.000Z",
-        "end": "2026-11-08T15:02:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/eline",
-      "updatedAt": "2026-11-08T13:25:47.000Z",
-      "rawHeader": "Southbound E Line trip departing Westgate Station - Gate A at 7:13 AM canceled today due to mechanical issue",
+      "url": "https://www.metrotransit.org/route/80",
+      "updatedAt": "2026-11-08T19:12:01.000Z",
+      "rawHeader": "Route 80 trips departing Sun Ray Transit Center & Gate E at 1:42 PM and departing Maplewood Mall Transit Center & Gate F at 2:12 PM canceled today",
       "rawDescription": ""
     },
     {

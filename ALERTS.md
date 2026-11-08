@@ -2,77 +2,53 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-74-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-73-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-69-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-2-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-64-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-63-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-08T14:58:23.757Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-08T19:31:57.924Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (2) • **METRO C Line** (1) • **METRO D Line** (1) • **METRO E Line** (1) • **METRO G Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (2) • **Route 7** (2) • **Route 9** (5) • **Route 18** (5) • **Route 22** (2) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (3) • **Route 64** (4) • **Route 64D** (1) • **Route 68** (5) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 705** (1) • **Route 755** (1) • **Route 760** (1) • **Route 763** (1) • **Route 764** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (2) • **METRO G Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (2) • **Route 7** (2) • **Route 9** (5) • **Route 14** (1) • **Route 18** (5) • **Route 22** (2) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (3) • **Route 64** (4) • **Route 64D** (1) • **Route 68** (5) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 80** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 705** (1) • **Route 755** (1) • **Route 760** (1) • **Route 763** (1) • **Route 764** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO C Line: Service Canceled
+### 🚨 Route 14: Northbound 11:26 AM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)
 
-- **Affected Routes**: `METRO C Line`
-- **Direction**: Both Directions
+- **Affected Routes**: `Route 14`
+- **Direction**: Northbound
 - **Severity**: `Critical`
-- **Corridors & Intersections**: C Line trips departing 7th St & Park St
 
-**Summary**: C Line trips departing 7th St & Park Station at 8:31 AM and departing Brooklyn Ctr Transit Ctr Gate I at 9:23 AM canceled today
+**Summary**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 11:26 AM canceled
 
-[Official Agency Advisory](https://www.metrotransit.org/route/cline)
+[Official Agency Advisory](https://www.metrotransit.org/route/14)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: C Line trips departing 7th St & Park Station at 8:31 AM and departing Brooklyn Ctr Transit Ctr Gate I at 9:23 AM canceled today
+**Header**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 11:26 AM canceled
 
 </details>
 
 ---
 
-### 🚨 METRO D Line: Service Advisory
+### 🚨 Route 80: Service Canceled
 
-- **Affected Routes**: `METRO D Line`
+- **Affected Routes**: `Route 80`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: D Line trips departing MOA Transit Station Gate A at 7:07 AM and departing Brooklyn Ctr Transit Ctr Gate F at 8:22 AM restored today
+**Summary**: Route 80 trips departing Sun Ray Transit Center & Gate E at 1:42 PM and departing Maplewood Mall Transit Center & Gate F at 2:12 PM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: D Line trips departing MOA Transit Station Gate A at 7:07 AM and departing Brooklyn Ctr Transit Ctr Gate F at 8:22 AM restored today
-
-```text
-Updated at 7:15 AM to restore previously canceled trips.
-```
-
-</details>
-
----
-
-### 🚨 METRO E Line: Southbound 7:13 AM Trip Canceled (Westgate Station - Gate A)
-
-- **Affected Routes**: `METRO E Line`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound E Line trip departing Westgate Station - Gate A at 7:13 AM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/eline)
+[Official Agency Advisory](https://www.metrotransit.org/route/80)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound E Line trip departing Westgate Station - Gate A at 7:13 AM canceled today due to mechanical issue
+**Header**: Route 80 trips departing Sun Ray Transit Center & Gate E at 1:42 PM and departing Maplewood Mall Transit Center & Gate F at 2:12 PM canceled today
 
 </details>
 
