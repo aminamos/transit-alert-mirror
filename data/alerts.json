@@ -1,26 +1,26 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-08T19:31:57.924Z",
-    "totalAlerts": 73,
-    "criticalCount": 2,
+    "generatedAt": "2026-11-08T23:36:44.991Z",
+    "totalAlerts": 72,
+    "criticalCount": 1,
     "moderateCount": 69,
     "minorCount": 2,
-    "affectedRoutesCount": 63,
+    "affectedRoutesCount": 61,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "55079",
+      "id": "55087",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 14: Northbound 11:26 AM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)",
-      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 11:26 AM canceled",
+      "title": "Route 62: Southbound 4:04 PM Trip Canceled (Hwy 36 & Rice St Park & Ride & Shelter)",
+      "summary": "Southbound Route 62 trip departing Hwy 36 & Rice St Park & Ride & Shelter at 4:04 PM canceled",
       "affectedRoutes": [
-        "Route 14"
+        "Route 62"
       ],
-      "direction": "Northbound",
+      "direction": "Southbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
@@ -29,35 +29,9 @@
       "activePeriod": {},
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/14",
-      "updatedAt": "2026-11-08T19:28:02.000Z",
-      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 11:26 AM canceled",
-      "rawDescription": ""
-    },
-    {
-      "id": "55080",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 80: Service Canceled",
-      "summary": "Route 80 trips departing Sun Ray Transit Center & Gate E at 1:42 PM and departing Maplewood Mall Transit Center & Gate F at 2:12 PM canceled today",
-      "affectedRoutes": [
-        "Route 80"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-08T19:42:00.000Z",
-        "end": "2026-11-08T21:34:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/80",
-      "updatedAt": "2026-11-08T19:12:01.000Z",
-      "rawHeader": "Route 80 trips departing Sun Ray Transit Center & Gate E at 1:42 PM and departing Maplewood Mall Transit Center & Gate F at 2:12 PM canceled today",
+      "url": "https://www.metrotransit.org/route/62",
+      "updatedAt": "2026-11-08T23:32:01.000Z",
+      "rawHeader": "Southbound Route 62 trip departing Hwy 36 & Rice St P&R & Shelter at 4:04 PM canceled",
       "rawDescription": ""
     },
     {
