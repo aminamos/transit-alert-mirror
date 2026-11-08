@@ -1,43 +1,90 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-07T20:46:32.959Z",
-    "totalAlerts": 72,
-    "criticalCount": 1,
-    "moderateCount": 69,
+    "generatedAt": "2026-11-08T00:22:59.997Z",
+    "totalAlerts": 75,
+    "criticalCount": 3,
+    "moderateCount": 70,
     "minorCount": 2,
-    "affectedRoutesCount": 60,
+    "affectedRoutesCount": 63,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "55064",
+      "id": "55069",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 2: Service Canceled",
-      "summary": "Route 2 trips departing Franklin Ave W & Hennepin Ave S at 12:36 PM and departing 2nd Ave SE & 7th St SE at 1:40 PM canceled today due to traffic",
+      "title": "METRO D Line: Northbound 5:24 PM Trip Canceled (MOA Transit Station Gate A)",
+      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 5:24 PM canceled",
       "affectedRoutes": [
-        "Route 2"
+        "METRO D Line"
       ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 2 trips departing Franklin Ave W & Hennepin Ave S",
-        "36 PM and departing 2nd Ave SE & 7th St S"
-      ],
+      "direction": "Northbound",
+      "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-07T19:27:00.000Z",
-        "end": "2026-11-07T21:29:00.000Z"
+        "start": "2026-11-07T23:31:00.000Z",
+        "end": "2026-11-08T01:37:00.000Z"
       },
-      "cause": "OTHER_CAUSE",
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-11-07T23:32:15.000Z",
+      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 5:24 PM canceled",
+      "rawDescription": ""
+    },
+    {
+      "id": "55068",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 2: Westbound 4:41 PM Trip Canceled (Ontario St SE & Beacon St)",
+      "summary": "Westbound Route 2 trip departing Ontario St SE & Beacon St at 4:41 PM canceled today",
+      "affectedRoutes": [
+        "Route 2"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {},
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-11-07T19:27:26.000Z",
-      "rawHeader": "Route 2 trips departing Franklin Ave W & Hennepin Ave S at 12:36 PM and departing 2nd Ave SE & 7th St SE at 1:40 PM canceled today due to traffic",
+      "updatedAt": "2026-11-08T00:19:01.000Z",
+      "rawHeader": "Westbound Route 2 trip departing Ontario St SE & Beacon St at 4:41 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "55065",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 22, Route 22H: Southbound 4:08 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)",
+      "summary": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 4:08 PM canceled today",
+      "affectedRoutes": [
+        "Route 22",
+        "Route 22H"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-07T22:09:00.000Z",
+        "end": "2026-11-08T00:30:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/22",
+      "updatedAt": "2026-11-07T22:10:41.000Z",
+      "rawHeader": "Southbound Route 22H trip departing Brooklyn Ctr Transit Ctr Gate H at 4:08 PM canceled today",
       "rawDescription": ""
     },
     {
@@ -67,6 +114,42 @@
       "updatedAt": "2026-09-28T08:00:01.000Z",
       "rawHeader": "METRO A Line detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
       "rawDescription": "No stops missed.\r\n\nNorthbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.\r\n\nSouthbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route."
+    },
+    {
+      "id": "52270",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "METRO Blue Line, METRO Green Line: Service Advisory",
+      "summary": "METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 11/9 from 4pm - 11:30pm",
+      "affectedRoutes": [
+        "METRO Blue Line",
+        "METRO Green Line"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [
+        "56330",
+        "56338"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "56330"
+        },
+        {
+          "id": "56338"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-09T22:00:00.000Z",
+        "end": "2026-11-10T05:30:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "OTHER_EFFECT",
+      "updatedAt": "2026-11-07T22:00:01.000Z",
+      "rawHeader": "METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 11/9 from 4pm - 11:30pm",
+      "rawDescription": "Due to street closures around U.S. Bank Stadium Station during the Vikings game, please transfer between the METRO Blue and Green lines at Government Plaza Station instead.\r\n\nAffected stops:\r\nU.S. Bank Stadium Station (eastbound)\r\nU.S. Bank Stadium Station (northbound)\r\nU.S. Bank Stadium Station (southbound)\r\nU.S. Bank Stadium Station (westbound)"
     },
     {
       "id": "54762",
