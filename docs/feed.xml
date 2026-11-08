@@ -4,9 +4,36 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 08 Nov 2026 07:08:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:58:23 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] METRO C Line: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/cline</link>
+      <guid isPermaLink="false">Metro Transit-55075-2026-11-08T14:01:00.000Z</guid>
+      <pubDate>Sun, 08 Nov 2026 14:01:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO C Line</category>
+      <description>C Line trips departing 7th St &amp; Park Station at 8:31 AM and departing Brooklyn Ctr Transit Ctr Gate I at 9:23 AM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] METRO D Line: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-55073-2026-11-08T13:15:14.000Z</guid>
+      <pubDate>Sun, 08 Nov 2026 13:15:14 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO D Line</category>
+      <description>D Line trips departing MOA Transit Station Gate A at 7:07 AM and departing Brooklyn Ctr Transit Ctr Gate F at 8:22 AM restored today</description>
+    </item>
+    <item>
+      <title>[Critical] METRO E Line: Southbound 7:13 AM Trip Canceled (Westgate Station - Gate A)</title>
+      <link>https://www.metrotransit.org/route/eline</link>
+      <guid isPermaLink="false">Metro Transit-55074-2026-11-08T13:25:47.000Z</guid>
+      <pubDate>Sun, 08 Nov 2026 13:25:47 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO E Line</category>
+      <description>Southbound E Line trip departing Westgate Station - Gate A at 7:13 AM canceled today due to mechanical issue</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -631,8 +658,8 @@
     <item>
       <title>[Minor] 10th Ave Se &amp; 8th St Se - Stop #16047 (northbound) Is Permanently Moving for Route 4</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54795-2026-10-30T16:48:12.000Z</guid>
-      <pubDate>Fri, 30 Oct 2026 16:48:12 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54795-2026-11-08T09:01:01.000Z</guid>
+      <pubDate>Sun, 08 Nov 2026 09:01:01 GMT</pubDate>
       <category>Minor</category>
       <category>Route 4</category>
       <description>10th Ave SE &amp; 8th St SE - Stop #16047 (northbound) is permanently moving for Route 4</description>

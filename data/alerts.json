@@ -1,16 +1,96 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-08T07:08:54.145Z",
-    "totalAlerts": 71,
-    "criticalCount": 0,
+    "generatedAt": "2026-11-08T14:58:23.757Z",
+    "totalAlerts": 74,
+    "criticalCount": 3,
     "moderateCount": 69,
     "minorCount": 2,
-    "affectedRoutesCount": 61,
+    "affectedRoutesCount": 64,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
+    {
+      "id": "55075",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO C Line: Service Canceled",
+      "summary": "C Line trips departing 7th St & Park Station at 8:31 AM and departing Brooklyn Ctr Transit Ctr Gate I at 9:23 AM canceled today",
+      "affectedRoutes": [
+        "METRO C Line"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "C Line trips departing 7th St & Park St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-08T14:31:00.000Z",
+        "end": "2026-11-08T16:55:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/cline",
+      "updatedAt": "2026-11-08T14:01:00.000Z",
+      "rawHeader": "C Line trips departing 7th St & Park Station at 8:31 AM and departing Brooklyn Ctr Transit Ctr Gate I at 9:23 AM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "55073",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO D Line: Service Advisory",
+      "summary": "D Line trips departing MOA Transit Station Gate A at 7:07 AM and departing Brooklyn Ctr Transit Ctr Gate F at 8:22 AM restored today",
+      "affectedRoutes": [
+        "METRO D Line"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-08T13:07:00.000Z",
+        "end": "2026-11-08T16:30:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-11-08T13:15:14.000Z",
+      "rawHeader": "D Line trips departing MOA Transit Station Gate A at 7:07 AM and departing Brooklyn Ctr Transit Ctr Gate F at 8:22 AM restored today",
+      "rawDescription": "Updated at 7:15 AM to restore previously canceled trips."
+    },
+    {
+      "id": "55074",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO E Line: Southbound 7:13 AM Trip Canceled (Westgate Station - Gate A)",
+      "summary": "Southbound E Line trip departing Westgate Station - Gate A at 7:13 AM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "METRO E Line"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-08T13:25:00.000Z",
+        "end": "2026-11-08T15:02:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/eline",
+      "updatedAt": "2026-11-08T13:25:47.000Z",
+      "rawHeader": "Southbound E Line trip departing Westgate Station - Gate A at 7:13 AM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -4820,7 +4900,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "STOP_MOVED",
-      "updatedAt": "2026-10-30T16:48:12.000Z",
+      "updatedAt": "2026-11-08T09:01:01.000Z",
       "rawHeader": "10th Ave SE & 8th St SE - Stop #16047 (northbound) is permanently moving for Route 4",
       "rawDescription": "The stop has been moved 100 ft south to the new raised boarding platform."
     },
