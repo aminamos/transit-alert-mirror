@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-08T23:36:44.991Z",
+    "generatedAt": "2026-11-09T05:56:44.483Z",
     "totalAlerts": 72,
     "criticalCount": 1,
     "moderateCount": 69,
@@ -12,26 +12,31 @@
   },
   "alerts": [
     {
-      "id": "55087",
+      "id": "55091",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 62: Southbound 4:04 PM Trip Canceled (Hwy 36 & Rice St Park & Ride & Shelter)",
-      "summary": "Southbound Route 62 trip departing Hwy 36 & Rice St Park & Ride & Shelter at 4:04 PM canceled",
+      "title": "Route 62: Service Canceled",
+      "summary": "Route 62 trips departing Minnesota St & 4th St at 10:13 PM and departing Hwy 36 & Rice St Park & Ride & Shelter at 10:44 PM canceled today",
       "affectedRoutes": [
         "Route 62"
       ],
-      "direction": "Southbound",
-      "intersections": [],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 62 trips departing Minnesota St & 4th St"
+      ],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
-      "activePeriod": {},
+      "activePeriod": {
+        "start": "2026-11-09T04:32:00.000Z",
+        "end": "2026-11-09T06:08:00.000Z"
+      },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/62",
-      "updatedAt": "2026-11-08T23:32:01.000Z",
-      "rawHeader": "Southbound Route 62 trip departing Hwy 36 & Rice St P&R & Shelter at 4:04 PM canceled",
+      "updatedAt": "2026-11-09T04:32:34.000Z",
+      "rawHeader": "Route 62 trips departing Minnesota St & 4th St at 10:13 PM and departing Hwy 36 & Rice St P&R & Shelter at 10:44 PM canceled today",
       "rawDescription": ""
     },
     {
