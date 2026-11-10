@@ -1,263 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-10T00:11:11.044Z",
-    "totalAlerts": 79,
-    "criticalCount": 9,
-    "moderateCount": 67,
+    "generatedAt": "2026-11-10T08:14:01.199Z",
+    "totalAlerts": 69,
+    "criticalCount": 0,
+    "moderateCount": 66,
     "minorCount": 3,
-    "affectedRoutesCount": 67,
+    "affectedRoutesCount": 60,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "55122",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO Orange Line: Service Canceled",
-      "summary": "Orange Line trips departing Marquette Ave & 3rd St - Stop Group C at 5:12 PM and departing Burnsville Heart of the City Station at 6:06 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "METRO Orange Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-09T23:45:00.000Z",
-        "end": "2026-11-10T01:39:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/orange",
-      "updatedAt": "2026-11-09T23:45:55.000Z",
-      "rawHeader": "Orange Line trips departing Marquette Ave & 3rd St - Stop Group C at 5:12 PM and departing Burnsville Heart of the City Station at 6:06 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "55113",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 30: Service Canceled",
-      "summary": "Route 30 trip departing Knox Ave N & Golden Valley Rd at 2:26 PM and seven other trips canceled today",
-      "affectedRoutes": [
-        "Route 30"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 30 trip departing Knox Ave N & Golden Valley Rd",
-        "departing Knox Ave N & Golden Valley Rd",
-        "26 PM\ndeparting Knox Ave N & Golden Valley Rd",
-        "24 PM\ndeparting Knox Ave N & Golden Valley Rd"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-09T21:56:00.000Z",
-        "end": "2026-11-10T05:17:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-11-09T21:56:57.000Z",
-      "rawHeader": "Route 30 trip departing Knox Ave N & Golden Valley Rd at 2:26 PM and seven other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 2:26 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 4:24 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 6:26 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 8:25 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 3:34 PM\r\ndeparting Westgate Station - Gate B at 5:34 PM\r\ndeparting Westgate Station - Gate B at 7:36 PM\r\ndeparting Westgate Station - Gate B at 9:36 PM"
-    },
-    {
-      "id": "55112",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 72: Service Canceled",
-      "summary": "Route 72 trip departing Pascal St N & Central Ave W at 2:20 PM and seven other trips canceled today",
-      "affectedRoutes": [
-        "Route 72"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 72 trip departing Pascal St N & Central Ave W",
-        "departing Pascal St N & Central Ave W",
-        "20 PM\ndeparting Pascal St N & Central Ave W",
-        "21 PM\ndeparting Pascal St N & Central Ave W"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-09T21:55:00.000Z",
-        "end": "2026-11-10T05:05:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-11-09T21:55:58.000Z",
-      "rawHeader": "Route 72 trip departing Pascal St N & Central Ave W at 2:20 PM and seven other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 2:20 PM\r\ndeparting Pascal St N & Central Ave W at 4:20 PM\r\ndeparting Pascal St N & Central Ave W at 6:21 PM\r\ndeparting Pascal St N & Central Ave W at 8:23 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 3:19 PM\r\ndeparting Sun Ray Transit Center & Gate D at 5:18 PM\r\ndeparting Sun Ray Transit Center & Gate D at 7:21 PM\r\ndeparting Sun Ray Transit Center & Gate D at 9:21 PM"
-    },
-    {
-      "id": "55119",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 80: Service Canceled",
-      "summary": "Route 80 trip departing Maplewood Mall Transit Center & Gate F at 7:12 PM and four other trips canceled today",
-      "affectedRoutes": [
-        "Route 80"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-10T01:12:00.000Z",
-        "end": "2026-11-10T04:34:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/80",
-      "updatedAt": "2026-11-09T22:05:02.000Z",
-      "rawHeader": "Route 80 trip departing Maplewood Mall Transit Center & Gate F at 7:12 PM and four other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate E at 7:42 PM\r\ndeparting Sun Ray Transit Center & Gate E at 8:42 PM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate F at 7:12 PM\r\ndeparting Maplewood Mall Transit Center & Gate F at 8:12 PM\r\ndeparting Maplewood Mall Transit Center & Gate F at 9:12 PM"
-    },
-    {
-      "id": "55111",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 219: Service Canceled",
-      "summary": "Route 219 trip departing Sun Ray Transit Center & Gate B at 2:43 PM and four other trips canceled today",
-      "affectedRoutes": [
-        "Route 219"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-09T21:53:00.000Z",
-        "end": "2026-11-10T02:33:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/219",
-      "updatedAt": "2026-11-09T21:53:46.000Z",
-      "rawHeader": "Route 219 trip departing Sun Ray Transit Center & Gate B at 2:43 PM and four other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate B at 2:43 PM\r\ndeparting Sun Ray Transit Center & Gate B at 4:43 PM\r\ndeparting Sun Ray Transit Center & Gate B at 6:43 PM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate A at 3:42 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 5:42 PM"
-    },
-    {
-      "id": "55116",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 252: Northbound 4:36 PM Trip Canceled (Oak St SE & 4th St SE)",
-      "summary": "Northbound Route 252 trip departing Oak St SE & 4th St SE at 4:36 PM canceled",
-      "affectedRoutes": [
-        "Route 252"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {},
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/252",
-      "updatedAt": "2026-11-10T00:07:01.000Z",
-      "rawHeader": "Northbound Route 252 trip departing Oak St SE & 4th St SE at 4:36 PM canceled",
-      "rawDescription": ""
-    },
-    {
-      "id": "55114",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 673: Service Canceled",
-      "summary": "Route 673 trip departing 5th St Transit Center Gate A at 3:01 PM and two other trips canceled today",
-      "affectedRoutes": [
-        "Route 673"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-09T21:58:00.000Z",
-        "end": "2026-11-10T00:28:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/673",
-      "updatedAt": "2026-11-09T21:58:15.000Z",
-      "rawHeader": "Route 673 trip departing 5th St Transit Center Gate A at 3:01 PM and two other trips canceled today",
-      "rawDescription": "Affected westbound trips:\r\ndeparting 5th St Transit Center Gate A at 3:01 PM\r\ndeparting 5th St Transit Center Gate A at 4:01 PM\r\ndeparting 5th St Transit Center Gate A at 5:01 PM"
-    },
-    {
-      "id": "55110",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 802: Service Canceled",
-      "summary": "Route 802 trip departing Anoka Tech College & Main Entrance at 2:42 PM and three other trips canceled today",
-      "affectedRoutes": [
-        "Route 802"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-09T21:51:00.000Z",
-        "end": "2026-11-10T01:14:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-11-09T21:52:03.000Z",
-      "rawHeader": "Route 802 trip departing Anoka Tech College & Main Entrance at 2:42 PM and three other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 2:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 4:42 PM"
-    },
-    {
-      "id": "55106",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 805: Service Canceled",
-      "summary": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today",
-      "affectedRoutes": [
-        "Route 805"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 805 trip departing 1st Ave S & Monroe St",
-        "departing 1st Ave S & Monroe St",
-        "38 AM\ndeparting 1st Ave S & Monroe St",
-        "38 PM\ndeparting 1st Ave S & Monroe St",
-        "36 PM\ndeparting 1st Ave S & Monroe St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-09T17:38:00.000Z",
-        "end": "2026-11-10T01:24:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-11-09T17:08:01.000Z",
-      "rawHeader": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 11:38 AM\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -285,42 +38,6 @@
       "updatedAt": "2026-09-28T08:00:01.000Z",
       "rawHeader": "METRO A Line detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
       "rawDescription": "No stops missed.\r\n\nNorthbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.\r\n\nSouthbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route."
-    },
-    {
-      "id": "52270",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "METRO Blue Line, METRO Green Line: Service Advisory",
-      "summary": "METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 11/9 from 4pm - 11:30pm",
-      "affectedRoutes": [
-        "METRO Blue Line",
-        "METRO Green Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [
-        "56330",
-        "56338"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "56330"
-        },
-        {
-          "id": "56338"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-09T22:00:00.000Z",
-        "end": "2026-11-10T05:30:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-11-09T21:30:02.000Z",
-      "rawHeader": "METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 11/9 from 4pm - 11:30pm",
-      "rawDescription": "Due to street closures around U.S. Bank Stadium Station during the Vikings game, please transfer between the METRO Blue and Green lines at Government Plaza Station instead.\r\n\nAffected stops:\r\nU.S. Bank Stadium Station (eastbound)\r\nU.S. Bank Stadium Station (northbound)\r\nU.S. Bank Stadium Station (southbound)\r\nU.S. Bank Stadium Station (westbound)"
     },
     {
       "id": "54762",
@@ -639,7 +356,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-11-09T15:17:41.000Z",
+      "updatedAt": "2026-11-10T06:00:01.000Z",
       "rawHeader": "Route 2 detoured off Washington Ave from Oak St SE to Cedar Ave S from Tue Nov 10 to Thu Nov 12 from 10:00 PM to 5:00 AM each night due to construction",
       "rawDescription": "Get on/off westbound buses at:\r\nOak St SE & Washington Ave SE - Stop #41248 (southbound)\r\n3rd St S & Cedar Ave S - Stop #42452 (eastbound)\r\n\nNo eastbound stops missed.\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on Oak St to Washington Ave, continue on Oak St to Fulton St, left on Fulton St, right on Huron Blvd, merge onto westbound I-94, exit at Cedar Ave, right on Cedar Ave, right on 3rd St and resume regular route.\r\n\nAffected direction: Westbound\r\n\nAffected stops:\r\nWashington Ave & Coffman Union - Stop #13207 (westbound)\r\nWashington Ave & Willey Hall - Stop #13211 (westbound)"
     },
@@ -868,7 +585,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-11-09T15:28:31.000Z",
+      "updatedAt": "2026-11-10T06:00:01.000Z",
       "rawHeader": "Route 3 detoured off 15th Ave/Pleasant St from 4th St SE to Washington Ave and off Washington Ave from Pleasant St to Cedar Ave from Tue Nov 10 to Thu Nov 12 from 10:00 PM to 5:00 AM each night due to construction",
       "rawDescription": "Get on/off westbound buses at:\r\n15th Ave SE & 4th St SE - Stop #49242 (southbound)\r\nTemporary stop on Washington Ave just past Cedar Ave (westbound)\r\nWashington Ave S & 11th Ave S - Stop #19302 (westbound)\r\n\nNo eastbound stops missed.\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on 15th Ave SE to 4th St SE, right on 4th St SE, left on 10th Ave SE, right on Washington Ave, right on Cedar Ave and resume regular route.\r\n\nAffected direction: Westbound\r\n\nAffected stops:\r\nPleasant St & Eddy Hall - Stop #49237 (southbound)\r\nPleasant St SE & Scholars Walk - Stop #54046 (southbound)\r\nWashington Ave & Willey Hall - Stop #13211 (westbound)\r\nCedar Ave S & Washington Ave (15th Ave) - Stop #16325 (westbound)"
     },
@@ -3592,7 +3309,7 @@
       "detourDetails": "Eastbound buses will travel regular route on Randolph to Prior, left on Prior, right on Juliet, right on Wheeler, left on Randolph and resume regular route.",
       "activePeriod": {
         "start": "2026-11-09T15:51:00.000Z",
-        "end": "2026-11-10T02:10:18.000Z"
+        "end": "2026-11-10T08:30:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
@@ -4996,7 +4713,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "STOP_MOVED",
       "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-11-09T22:26:27.000Z",
+      "updatedAt": "2026-11-10T06:00:02.000Z",
       "rawHeader": "Main St & 2nd Ave - Stop #12049 (westbound) and Main St & 2nd Ave - Stop #12047 (eastbound) are permanently moving for Route 802 beginning Tue Nov 10 at 6:00 AM due to parking restrictions",
       "rawDescription": "Due to parking restrictions, the stops on Main St & 2nd Ave in both directions will be permanently relocated.\r\n\nThe new location for both directions is on Main St & 1st Ave."
     }
