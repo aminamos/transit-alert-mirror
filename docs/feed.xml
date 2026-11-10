@@ -4,9 +4,27 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Tue, 10 Nov 2026 08:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:57:09 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] Route 30: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/30</link>
+      <guid isPermaLink="false">Metro Transit-55136-2026-11-10T14:25:26.000Z</guid>
+      <pubDate>Tue, 10 Nov 2026 14:25:26 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 30</category>
+      <description>Route 30 trip departing Golden Valley Rd Turn &amp; Xerxes Ave N at 8:23 AM and three other trips canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 705: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/705</link>
+      <guid isPermaLink="false">Metro Transit-55135-2026-11-10T14:17:16.000Z</guid>
+      <pubDate>Tue, 10 Nov 2026 14:17:16 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 705</category>
+      <description>Route 705 trip departing Walmart &amp; Main Entrances at 8:35 AM and five other trips canceled today</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -78,15 +96,6 @@
       <category>Moderate</category>
       <category>Route 7</category>
       <description>Route 7 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 7: Stop Closed at 26th Ave S &amp; 22nd St E</title>
-      <link>https://www.metrotransit.org/route/7</link>
-      <guid isPermaLink="false">Metro Transit-53499-2026-10-12T10:00:01.000Z</guid>
-      <pubDate>Mon, 12 Oct 2026 10:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 7</category>
-      <description>26th Ave S &amp; 22nd St E - Stop #57484 (northbound) is closed for Route 7 beginning Mon Oct 5 at 5:00 AM until further notice due to construction. Board at: 26th Ave S &amp; 25th St E - Stop #57483 (northbound); 26th Ave S &amp; Seward Tower West - Stop #56702 (northbound). | Action: Board at: 26th Ave S &amp; 25th St E - Stop #57483 (northbound); 26th Ave S &amp; Seward Tower West - Stop #56702 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 9: Stop Closed at Cedar Lake Rd &amp; Ridge Dr</title>
@@ -341,15 +350,6 @@
       <description>Route 68 detoured off Jackson St from Larpenteur Ave to Maryland Ave and off Timberlake Rd beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Larpenteur Ave &amp; Jackson St - Stop #49947 (eastbound); Temporary stop on Arlington Ave &amp; Klainert St (westbound); L&apos;Orient St &amp; #1301 - Stop #49948 (southbound). | Action: Board at: Larpenteur Ave &amp; Jackson St - Stop #49947 (eastbound); Temporary stop on Arlington Ave &amp; Klainert St (westbound); L&apos;Orient St &amp; #1301 - Stop #49948 (southbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 68, METRO G Line: Detour via Robert St S &amp; Arion St</title>
-      <link>https://www.metrotransit.org/route/68</link>
-      <guid isPermaLink="false">Metro Transit-54767-2026-11-09T12:00:01.000Z</guid>
-      <pubDate>Mon, 09 Nov 2026 12:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 68, METRO G Line</category>
-      <description>Route 68 detoured off Robert St from Butler Ave to Moreland Ave beginning Mon Nov 2 at 6:00 AM until further notice due to METRO G Line construction. Board at: Robert St S &amp; Arion St - Stop #9906 (southbound); Robert St S &amp; Logan Ave - Stop #330 (southbound). | Action: Board at: Robert St S &amp; Arion St - Stop #9906 (southbound); Robert St S &amp; Logan Ave - Stop #330 (southbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 68: Detour via Maryland Ave &amp; LOrient St</title>
       <link>https://www.metrotransit.org/route/68</link>
       <guid isPermaLink="false">Metro Transit-54865-2026-11-09T17:55:01.000Z</guid>
@@ -366,6 +366,15 @@
       <category>Moderate</category>
       <category>Route 68</category>
       <description>Route 68 detoured off LOrient St from Arlington Ave to Maryland Ave beginning Mon Nov 9 at 6:00 AM until further notice. Board at: Jackson St &amp; Rose Ave E - Stop #56324 (northbound); Jackson St &amp; Timberlake Rd - Stop #49670 (northbound). | Action: Board at: Jackson St &amp; Rose Ave E - Stop #56324 (northbound); Jackson St &amp; Timberlake Rd - Stop #49670 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 68: Detour via Jackson St &amp; Jessamine Ave</title>
+      <link>https://www.metrotransit.org/route/68</link>
+      <guid isPermaLink="false">Metro Transit-55133-2026-11-10T13:48:04.000Z</guid>
+      <pubDate>Tue, 10 Nov 2026 13:48:04 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 68</category>
+      <description>Route 68 detoured off Jackson from Geranium to Arlington and off Arlington from L&apos;Orient to Geranium until later today. Board at: Jackson St &amp; Jessamine Ave - Stop #18028 (northbound); Jackson St &amp; Timberlake Rd - Stop #49670 (northbound). | Action: Board at: Jackson St &amp; Jessamine Ave - Stop #18028 (northbound); Jackson St &amp; Timberlake Rd - Stop #49670 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 71, Route 71K: Detour via Little Canada Rd &amp; Centerville Rd</title>
@@ -404,22 +413,13 @@
       <description>Route 74 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
     </item>
     <item>
-      <title>[Moderate] Route 74: Detour via Randolph Ave &amp; Kenneth St</title>
+      <title>[Moderate] Route 74: Detour via Cleveland Ave &amp; Randolph Ave</title>
       <link>https://www.metrotransit.org/route/74</link>
-      <guid isPermaLink="false">Metro Transit-55105-2026-11-09T15:51:31.000Z</guid>
-      <pubDate>Mon, 09 Nov 2026 15:51:31 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55129-2026-11-10T13:34:27.000Z</guid>
+      <pubDate>Tue, 10 Nov 2026 13:34:27 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 74</category>
-      <description>Route 74 detoured off Randolph from Prior to Wheeler until later today. Board at: Randolph Ave &amp; Kenneth St - Stop #11767 (eastbound); Randolph Ave &amp; Davern St - Stop #11772 (eastbound). | Action: Board at: Randolph Ave &amp; Kenneth St - Stop #11767 (eastbound); Randolph Ave &amp; Davern St - Stop #11772 (eastbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 75, METRO G Line: Detour via Butler Ave &amp; Livingston Ave</title>
-      <link>https://www.metrotransit.org/route/75</link>
-      <guid isPermaLink="false">Metro Transit-54768-2026-11-09T12:00:01.000Z</guid>
-      <pubDate>Mon, 09 Nov 2026 12:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 75, METRO G Line</category>
-      <description>Route 75 detoured off Robert St from Butler Ave to Moreland Ave beginning Mon Nov 2 at 6:00 AM until further notice due to METRO G Line construction. Board at: Butler Ave &amp; Livingston Ave / Robert St - Stop #324 (eastbound); Robert St S &amp; Logan Ave - Stop #330 (southbound). | Action: Board at: Butler Ave &amp; Livingston Ave / Robert St - Stop #324 (eastbound); Robert St S &amp; Logan Ave - Stop #330 (southbound)</description>
+      <description>Route 74 detoured off Cleveland from Randolph to Fairview until later. Board at: Cleveland Ave &amp; Randolph Ave - Stop #11766 (northbound); Randolph Ave &amp; Davern St - Stop #11772 (eastbound). | Action: Board at: Cleveland Ave &amp; Randolph Ave - Stop #11766 (northbound); Randolph Ave &amp; Davern St - Stop #11772 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 83: Detour via Hamline Ave &amp; Arlington Ave</title>
@@ -557,6 +557,15 @@
       <description>Route 673B detoured off Cedar Lake Rd from Texas Ave to Louisiana Ave and off Louisiana Ave from Cedar Lake Rd to Wayzata Blvd beginning Mon Apr 6 until further notice due to construction. Board at: Louisiana Transit Center &amp; Gate B - Stop #52551 (westbound); Cedar Lake Rd &amp; Texas Ave - Stop #8073 (westbound). | Action: Board at: Louisiana Transit Center &amp; Gate B - Stop #52551 (westbound); Cedar Lake Rd &amp; Texas Ave - Stop #8073 (westbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 724: Stop Closed at 63rd Ave N &amp; Zane Ave N</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-55137-2026-11-10T14:45:32.000Z</guid>
+      <pubDate>Tue, 10 Nov 2026 14:45:32 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 724</category>
+      <description>63rd Ave N &amp; Zane Ave N - Stop #9063 (eastbound) is closed for Route 724 until further notice due to construction. Board at: Zane Ave N &amp; 65th Ave N - Stop #8840 (southbound); 63rd Ave N &amp; Welcome Ave N - Stop #9064 (eastbound). | Action: Board at: Zane Ave N &amp; 65th Ave N - Stop #8840 (southbound); 63rd Ave N &amp; Welcome Ave N - Stop #9064 (eastbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 760, Route 763, Route 765, Route 766, Route 768: Stop Closed at 3rd St N &amp; 1st Ave N</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
       <guid isPermaLink="false">Metro Transit-54602-2026-11-02T16:10:01.000Z</guid>
@@ -622,8 +631,8 @@
     <item>
       <title>[Minor] Route 802: Service Advisory</title>
       <link>https://www.metrotransit.org/route/802</link>
-      <guid isPermaLink="false">Metro Transit-55121-2026-11-10T06:00:02.000Z</guid>
-      <pubDate>Tue, 10 Nov 2026 06:00:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55121-2026-11-10T14:57:07.000Z</guid>
+      <pubDate>Tue, 10 Nov 2026 14:57:07 GMT</pubDate>
       <category>Minor</category>
       <category>Route 802</category>
       <description>Main St &amp; 2nd Ave - Stop #12049 (westbound) and Main St &amp; 2nd Ave - Stop #12047 (eastbound) are permanently moving for Route 802 beginning Tue Nov 10 at 6:00 AM due to parking restrictions</description>

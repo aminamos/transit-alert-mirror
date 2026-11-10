@@ -2,21 +2,81 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-69-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-66-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-70-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-65-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-60-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-61-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-10T08:14:01.199Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-10T16:57:09.625Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO G Line** (2) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (2) • **Route 9** (5) • **Route 10** (1) • **Route 11** (1) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (4) • **Route 64D** (1) • **Route 68** (5) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 75** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (1) • **Route 11** (1) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (4) • **Route 64D** (1) • **Route 68** (5) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 705** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 Route 30: Service Canceled
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 23 AM
+departing Knox Ave N & Golden Valley Rd
+
+**Summary**: Route 30 trip departing Golden Valley Rd Turn & Xerxes Ave N at 8:23 AM and three other trips canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 30 trip departing Golden Valley Rd Turn & Xerxes Ave N at 8:23 AM and three other trips canceled today due to mechanical issue
+
+```text
+Affected eastbound trips:
+departing Golden Valley Rd Turn & Xerxes Ave N at 8:23 AM
+departing Knox Ave N & Golden Valley Rd at 10:26 AM
+
+Affected westbound trips:
+departing Westgate Station - Gate B at 9:36 AM
+departing Westgate Station - Gate B at 11:34 AM
+```
+
+</details>
+
+---
+
+### 🚨 Route 705: Service Canceled
+
+- **Affected Routes**: `Route 705`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 705 trip departing Walmart & Main Entrances at 8:35 AM and five other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/705)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 705 trip departing Walmart & Main Entrances at 8:35 AM and five other trips canceled today
+
+```text
+Affected northbound trips:
+departing Louisiana Transit Center & Gate C at 9:43 AM
+departing Louisiana Transit Center & Gate C at 11:43 AM
+departing Louisiana Transit Center & Gate C at 1:43 PM
+
+Affected southbound trips:
+departing Walmart & Main Entrances at 8:35 AM
+departing Walmart & Main Entrances at 10:35 AM
+departing Walmart & Main Entrances at 12:36 PM
+```
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -382,36 +442,6 @@ No stops missed.
 Northbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.
 
 Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.
-```
-
-</details>
-
----
-
-### ⚠️ Route 7: Stop Closed at 26th Ave S & 22nd St E
-
-- **Affected Routes**: `Route 7`
-- **Direction**: Northbound
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Oct 5 at 5:00 AM until further notice
-- **Corridors & Intersections**: 26th Ave S & 22nd St E; 26th Ave S & 25th St E; 26th Ave S & Seward Tower West - St
-- **Closed Stops**: Stop #57484, Stop #57483, Stop #56702
-
-**Summary**: 26th Ave S & 22nd St E - Stop #57484 (northbound) is closed for Route 7 beginning Mon Oct 5 at 5:00 AM until further notice due to construction. Board at: 26th Ave S & 25th St E - Stop #57483 (northbound); 26th Ave S & Seward Tower West - Stop #56702 (northbound).
-
-> 💡 **Rider Action**: Board at: 26th Ave S & 25th St E - Stop #57483 (northbound); 26th Ave S & Seward Tower West - Stop #56702 (northbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/7)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: 26th Ave S & 22nd St E - Stop #57484 (northbound) is closed for Route 7 beginning Mon Oct 5 at 5:00 AM until further notice due to construction
-
-```text
-Get on/off buses at:
-26th Ave S & 25th St E - Stop #57483 (northbound)
-26th Ave S & Seward Tower West - Stop #56702 (northbound)
 ```
 
 </details>
@@ -1685,53 +1715,6 @@ Arlington Ave E & LOrient St - Stop #40108 (eastbound)
 
 ---
 
-### ⚠️ Route 68, METRO G Line: Detour via Robert St S & Arion St
-
-- **Affected Routes**: `Route 68` `METRO G Line`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Nov 2 at 6:00 AM until further notice
-- **Corridors & Intersections**: Robert St S & Arion St; Robert St S & Logan Ave; Robert St S & Butler Ave; Robert St S & Orme St; Robert St S & Moreland Ave
-- **Closed Stops**: Robert St S & Butler Ave (Stop #9908), Robert St S & Orme St (Stop #326), Robert St S & Moreland Ave (Stop #329), Stop #9906
-
-**Summary**: Route 68 detoured off Robert St from Butler Ave to Moreland Ave beginning Mon Nov 2 at 6:00 AM until further notice due to METRO G Line construction. Board at: Robert St S & Arion St - Stop #9906 (southbound); Robert St S & Logan Ave - Stop #330 (southbound).
-
-> 💡 **Rider Action**: Board at: Robert St S & Arion St - Stop #9906 (southbound); Robert St S & Logan Ave - Stop #330 (southbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/68)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 68 detoured off Robert St from Butler Ave to Moreland Ave beginning Mon Nov 2 at 6:00 AM until further notice due to METRO G Line construction
-
-```text
-Added map: 11/3 at 3:15 PM
-
-Get on/off southbound buses at:
-Robert St S & Arion St - Stop #9906 (southbound)
-Robert St S & Logan Ave - Stop #330 (southbound)
-
-No northbound bus stops missed.
-
-Northbound buses will travel regular route.
-
-Southbound buses will travel regular route on Robert St to Butler Ave, left on Butler Ave, right on Oakdale Ave, right on Moreland Ave, left on Robert St and resume regular route.
-
-Affected direction: Southbound
-
-Affected stops:
-Robert St S & Butler Ave - Stop #9908 (southbound)
-Robert St S & Orme St - Stop #326 (southbound)
-Robert St S & Moreland Ave - Stop #329 (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 68: Detour via Maryland Ave & LOrient St
 
 - **Affected Routes**: `Route 68`
@@ -1820,6 +1803,58 @@ Maryland Ave & LOrient St - Stop #40101 (westbound)
 Arlington Ave E & Jackson St - Stop #40095 (eastbound)
 Jackson St & Rose Ave E - Stop #56323 (southbound)
 Arlington Ave E & #179 - Stop #51606 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 68: Detour via Jackson St & Jessamine Ave
+
+- **Affected Routes**: `Route 68`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Jackson St & Jessamine Ave; Jackson St & Timberlake Rd; Arlington Ave E & Klainert St; Jackson St & Rose Ave E; LOrient St & Kmart - St
+- **Closed Stops**: Jackson St & Rose Ave E (Stop #56324), LOrient St & Kmart (Stop #49938), LOrient St & #1300 (Stop #49939), LOrient St & Arlington Ave (Stop #49940), Arlington Ave E & #179 (Stop #18042), LOrient St & #1301 (Stop #49948), Timberlake Rd & Biglow Lane (N) (Stop #18096), LOrient St & Kmart (Stop #49949) *(+12 more)*
+
+**Summary**: Route 68 detoured off Jackson from Geranium to Arlington and off Arlington from L'Orient to Geranium until later today. Board at: Jackson St & Jessamine Ave - Stop #18028 (northbound); Jackson St & Timberlake Rd - Stop #49670 (northbound).
+
+> 💡 **Rider Action**: Board at: Jackson St & Jessamine Ave - Stop #18028 (northbound); Jackson St & Timberlake Rd - Stop #49670 (northbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route on Jackson to Geranium, left on Geranium, right on Abell, left on Maryland, right on Rice, right on Arlington, left on Jackson and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/68)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 68 detoured off Jackson from Geranium to Arlington and off Arlington from L'Orient to Geranium until later today
+
+```text
+For northbound Route 68 get on/off buses at:
+Jackson St & Jessamine Ave - Stop #18028 (northbound)
+Jackson St & Timberlake Rd - Stop #49670 (northbound)
+
+For southbound Route 68 get on/off buses at:
+Arlington Ave E & Klainert St - Stop #81115 (westbound)
+Jackson St & Jessamine Ave - Stop #40098 (southbound)
+Northbound buses will travel regular route on Jackson to Geranium, left on Geranium, right on Abell, left on Maryland, right on Rice, right on Arlington, left on Jackson and resume regular route. 
+
+Southbound buses will travel regular route on Arlington to L' Orient At, continue on Arlington, left on Rice, left on Maryland, right on Abell, left on Geranium, right on Jackson and resume regular route. 
+Affected stops:
+Jackson St & Rose Ave E - Stop #56324 (northbound)
+LOrient St & Kmart - Stop #49938 (northbound)
+LOrient St & #1300 - Stop #49939 (northbound)
+LOrient St & Arlington Ave - Stop #49940 (northbound)
+Arlington Ave E & #179 - Stop #18042 (westbound)
+LOrient St & #1301 - Stop #49948 (southbound)
+Timberlake Rd & Biglow Lane (N) - Stop #18096 (southbound)
+LOrient St & Kmart - Stop #49949 (southbound)
+Timberlake Rd N & Klainert St - Stop #18098 (southbound)
+Timberlake Rd S & #1479 - Stop #43773 (westbound)
+Maryland Ave & LOrient St - Stop #40101 (westbound)
+Arlington Ave E & Jackson St - Stop #40095 (eastbound)
+Jackson St & Rose Ave E - Stop #56323 (southbound)
 ```
 
 </details>
@@ -2031,91 +2066,48 @@ Westbound buses will travel regular route on 46th St to Hiawatha Ave, right on H
 
 ---
 
-### ⚠️ Route 74: Detour via Randolph Ave & Kenneth St
+### ⚠️ Route 74: Detour via Cleveland Ave & Randolph Ave
 
 - **Affected Routes**: `Route 74`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Randolph Ave & Kenneth St; Randolph Ave & Davern St; Randolph Ave & Prior Ave; Randolph Ave & Fairview Ave; Randolph (Prior to Wheeler)
-- **Closed Stops**: Randolph Ave & Prior Ave (Stop #11768), Randolph Ave & Fairview Ave (Stop #11770), Randolph Ave & Fairview Ave (Stop #11744), Randolph Ave & Prior Ave (Stop #11746), Stop #11767, Stop #11772, Stop #11742, Stop #11747
+- **Corridors & Intersections**: Cleveland Ave & Randolph Ave; Randolph Ave & Davern St; Randolph Ave & Fairview Ave; Randolph Ave & Kenneth St; Randolph Ave & Prior Ave
+- **Closed Stops**: Randolph Ave & Kenneth St (Stop #11767), Randolph Ave & Prior Ave (Stop #11768), Randolph Ave & Fairview Ave (Stop #11770), Randolph Ave & Prior Ave (Stop #11746), Randolph Ave & Kenneth St (Stop #11747), Stop #11766, Stop #11772, Stop #11744 *(+1 more)*
 
-**Summary**: Route 74 detoured off Randolph from Prior to Wheeler until later today. Board at: Randolph Ave & Kenneth St - Stop #11767 (eastbound); Randolph Ave & Davern St - Stop #11772 (eastbound).
+**Summary**: Route 74 detoured off Cleveland from Randolph to Fairview until later. Board at: Cleveland Ave & Randolph Ave - Stop #11766 (northbound); Randolph Ave & Davern St - Stop #11772 (eastbound).
 
-> 💡 **Rider Action**: Board at: Randolph Ave & Kenneth St - Stop #11767 (eastbound); Randolph Ave & Davern St - Stop #11772 (eastbound)
+> 💡 **Rider Action**: Board at: Cleveland Ave & Randolph Ave - Stop #11766 (northbound); Randolph Ave & Davern St - Stop #11772 (eastbound)
 
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on Randolph to Prior, left on Prior, right on Juliet, right on Wheeler, left on Randolph and resume regular route.
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on Cleveland to Randolph, continue on Cleveland to St. Clair, right on St. Clair, right on Fairview, left on Randolph and resume regular route.
 
 [Official Agency Advisory](https://www.metrotransit.org/route/74)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 74 detoured off Randolph from Prior to Wheeler until later today
+**Header**: Route 74 detoured off Cleveland from Randolph to Fairview until later
 
 ```text
 For eastbound Route 74 get on/off buses at:
-Randolph Ave & Kenneth St - Stop #11767 (eastbound)
+Cleveland Ave & Randolph Ave - Stop #11766 (northbound)
 Randolph Ave & Davern St - Stop #11772 (eastbound)
 
 For westbound Route 74 get on/off buses at:
-Randolph Ave & Davern St - Stop #11742 (westbound)
-Randolph Ave & Kenneth St - Stop #11747 (westbound)
+Randolph Ave & Fairview Ave - Stop #11744 (westbound)
+Cleveland Ave & Randolph Ave - Stop #11748 (southbound)
 
-Eastbound buses will travel regular route on Randolph to Prior, left on Prior, right on Juliet, right on Wheeler, left on Randolph and resume regular route. 
+Eastbound buses will travel regular route on Cleveland to Randolph, continue on Cleveland to St. Clair, right on St. Clair, right on Fairview, left on Randolph and resume regular route. 
 
-westbound buses will travel regular route n Randolph to Wheeler, right on Wheeler, left on Jefferson, left on Prior, right on Randolph and resume regular route. 
+Westbound buses will travel regular route on Randolph to Fairview, right on Fairview, left on Saint Clair, left on Cleveland, continue on Cleveland to Randolph and resume regular route. 
+
+
 
 Affected stops:
+Randolph Ave & Kenneth St - Stop #11767 (eastbound)
 Randolph Ave & Prior Ave - Stop #11768 (eastbound)
 Randolph Ave & Fairview Ave - Stop #11770 (eastbound)
-Randolph Ave & Fairview Ave - Stop #11744 (westbound)
 Randolph Ave & Prior Ave - Stop #11746 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 75, METRO G Line: Detour via Butler Ave & Livingston Ave
-
-- **Affected Routes**: `Route 75` `METRO G Line`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Nov 2 at 6:00 AM until further notice
-- **Corridors & Intersections**: Butler Ave & Livingston Ave; Robert St S & Logan Ave; Robert St S & Orme St; Robert St S & Moreland Ave; Robert St (Butler Ave to Moreland Ave)
-- **Closed Stops**: Robert St S & Orme St (Stop #326), Robert St S & Moreland Ave (Stop #329)
-
-**Summary**: Route 75 detoured off Robert St from Butler Ave to Moreland Ave beginning Mon Nov 2 at 6:00 AM until further notice due to METRO G Line construction. Board at: Butler Ave & Livingston Ave / Robert St - Stop #324 (eastbound); Robert St S & Logan Ave - Stop #330 (southbound).
-
-> 💡 **Rider Action**: Board at: Butler Ave & Livingston Ave / Robert St - Stop #324 (eastbound); Robert St S & Logan Ave - Stop #330 (southbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/75)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 75 detoured off Robert St from Butler Ave to Moreland Ave beginning Mon Nov 2 at 6:00 AM until further notice due to METRO G Line construction
-
-```text
-Added map: 11/3 at 3:15 PM.
-
-Get on/off southbound buses at:
-Butler Ave & Livingston Ave / Robert St - Stop #324 (eastbound)
-Robert St S & Logan Ave - Stop #330 (southbound)
-
-No northbound bus stops missed.
-
-Northbound buses will travel regular route.
-
-Southbound buses will travel regular route on Butler Ave to Robert St, continue on Butler Ave to Oakdale Ave, right on Oakdale Ave, right on Moreland Ave, left on Robert St and resume regular route.
-
-Affected direction: Southbound
-
-Affected stops:
-Robert St S & Orme St - Stop #326 (southbound)
-Robert St S & Moreland Ave - Stop #329 (southbound)
+Randolph Ave & Kenneth St - Stop #11747 (westbound)
 ```
 
 </details>
@@ -2726,6 +2718,33 @@ Westbound buses will travel regular route on Cedar Lake Rd to Texas Ave, left on
 Affected stops:
 Cedar Lake Rd & Rhode Island Ave S - Stop #80936 (westbound)
 Cedar Lake Rd & Sumter Ave S - Stop #80937 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 724: Stop Closed at 63rd Ave N & Zane Ave N
+
+- **Affected Routes**: `Route 724`
+- **Direction**: Southbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 63rd Ave N & Zane Ave N; Zane Ave N & 65th Ave N; 63rd Ave N & Welcome Ave N
+- **Closed Stops**: Stop #9063, Stop #8840, Stop #9064
+
+**Summary**: 63rd Ave N & Zane Ave N - Stop #9063 (eastbound) is closed for Route 724 until further notice due to construction. Board at: Zane Ave N & 65th Ave N - Stop #8840 (southbound); 63rd Ave N & Welcome Ave N - Stop #9064 (eastbound).
+
+> 💡 **Rider Action**: Board at: Zane Ave N & 65th Ave N - Stop #8840 (southbound); 63rd Ave N & Welcome Ave N - Stop #9064 (eastbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: 63rd Ave N & Zane Ave N - Stop #9063 (eastbound) is closed for Route 724 until further notice due to construction
+
+```text
+Get on/off buses at:
+Zane Ave N & 65th Ave N - Stop #8840 (southbound)
+63rd Ave N & Welcome Ave N - Stop #9064 (eastbound)
 ```
 
 </details>
