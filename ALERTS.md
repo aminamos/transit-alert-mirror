@@ -2,77 +2,53 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-70-blue)](#)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-69-blue)](#)
 [![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-65-orange)](#-moderate-detours--changes)
+[![Moderate](https://img.shields.io/badge/Moderate-64-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-61-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-60-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-10T16:57:09.625Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-10T22:16:56.147Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (1) • **Route 11** (1) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (4) • **Route 64D** (1) • **Route 68** (5) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 705** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (1) • **Route 11** (2) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 68** (4) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 83** (1) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 30: Service Canceled
+### 🚨 METRO E Line: Southbound 3:59 PM Trip Canceled (Westgate Station - Gate A)
 
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
+- **Affected Routes**: `METRO E Line`
+- **Direction**: Southbound
 - **Severity**: `Critical`
-- **Corridors & Intersections**: 23 AM
-departing Knox Ave N & Golden Valley Rd
 
-**Summary**: Route 30 trip departing Golden Valley Rd Turn & Xerxes Ave N at 8:23 AM and three other trips canceled today due to mechanical issue
+**Summary**: Southbound E Line trip departing Westgate Station - Gate A at 3:59 PM canceled
 
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
+[Official Agency Advisory](https://www.metrotransit.org/route/eline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 30 trip departing Golden Valley Rd Turn & Xerxes Ave N at 8:23 AM and three other trips canceled today due to mechanical issue
-
-```text
-Affected eastbound trips:
-departing Golden Valley Rd Turn & Xerxes Ave N at 8:23 AM
-departing Knox Ave N & Golden Valley Rd at 10:26 AM
-
-Affected westbound trips:
-departing Westgate Station - Gate B at 9:36 AM
-departing Westgate Station - Gate B at 11:34 AM
-```
+**Header**: Southbound E Line trip departing Westgate Station - Gate A at 3:59 PM canceled
 
 </details>
 
 ---
 
-### 🚨 Route 705: Service Canceled
+### 🚨 Route 87: Southbound 3:27 PM Trip Canceled (Rosedale Transit Center Gate C)
 
-- **Affected Routes**: `Route 705`
-- **Direction**: Both Directions
+- **Affected Routes**: `Route 87`
+- **Direction**: Southbound
 - **Severity**: `Critical`
 
-**Summary**: Route 705 trip departing Walmart & Main Entrances at 8:35 AM and five other trips canceled today
+**Summary**: Southbound Route 87 trip departing Rosedale Transit Center Gate C at 3:27 PM canceled today due to disabled bus
 
-[Official Agency Advisory](https://www.metrotransit.org/route/705)
+[Official Agency Advisory](https://www.metrotransit.org/route/87)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 705 trip departing Walmart & Main Entrances at 8:35 AM and five other trips canceled today
-
-```text
-Affected northbound trips:
-departing Louisiana Transit Center & Gate C at 9:43 AM
-departing Louisiana Transit Center & Gate C at 11:43 AM
-departing Louisiana Transit Center & Gate C at 1:43 PM
-
-Affected southbound trips:
-departing Walmart & Main Entrances at 8:35 AM
-departing Walmart & Main Entrances at 10:35 AM
-departing Walmart & Main Entrances at 12:36 PM
-```
+**Header**: Southbound Route 87 trip departing Rosedale Transit Center Gate C at 3:27 PM canceled today due to disabled bus
 
 </details>
 
@@ -660,25 +636,82 @@ Affected stops:
 ### ⚠️ Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Nicollet Mall (11th St to 12th St)
 
 - **Affected Routes**: `Route 10` `Route 11` `Route 17` `Route 18` `Route 25`
-- **Direction**: Southbound
+- **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Corridors & Intersections**: Nicollet Mall (11th St to 12th St)
+- **Closed Stops**: Nicollet Mall & 11th St S (Stop #17990), Stop #17988, Stop #17992
 
-**Summary**: Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 11th St to 12th St until further notice
+**Summary**: Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 11th St to 12th St until further notice due to construction. Board at: Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall & 9th St S - Stop #17992 (northbound).
 
-> 🔄 **Detour Path**: westbound buses will travel regular route on Nicollet Mall to 11th St, right on 11th St, left on LaSalle Ave, left on 12th St, right on Nicollet Mall, and resume regular route.
+> 💡 **Rider Action**: Board at: Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall & 9th St S - Stop #17992 (northbound)
+
+> 🔄 **Detour Path**: eastbound buses will travel regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume regular route.
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 11th St to 12th St until further notice
+**Header**: Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 11th St to 12th St until further notice due to construction
 
 ```text
+Updated 11/10 at 11:30 AM to reflect additional northbound detour.
+
 Note: This detour will only be in effect when the road is blocked. If road is open, buses will follow regular route.
+
+Get on/off northbound/eastbound buses at:
+Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)
+Nicollet Mall & 9th St S - Stop #17992 (northbound)
 
 No southbound/westbound stops missed.
 
+Northbound/eastbound buses will travel regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume regular route.
+
 Southbound/westbound buses will travel regular route on Nicollet Mall to 11th St, right on 11th St, left on LaSalle Ave, left on 12th St, right on Nicollet Mall, and resume regular route.
+
+Affected stops:
+Nicollet Mall & 11th St S - Stop #17990 (northbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 11: Detour via 2nd St NE & 4th Ave N
+
+- **Affected Routes**: `Route 11`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 2nd St NE & 4th Ave N; 2nd St NE & 8th Ave N; 2nd St NE & 5th Ave N; 2nd St NE & 7th Ave N
+- **Closed Stops**: 2nd St NE & 7th Ave NE (Stop #14680), 2nd St NE & 7th Ave NE (Stop #14681), Stop #14687, Stop #14679, Stop #14678, Stop #14685
+
+**Summary**: Route 11 detoured off 2nd St NE from 6th Ave NE to 7th Ave NE from 8:00 AM to 3:00 PM on Mon Nov 16 due to event. Board at: 2nd St NE & 4th Ave NE - Stop #14687 (northbound); 2nd St NE & 8th Ave NE - Stop #14679 (northbound).
+
+> 💡 **Rider Action**: Board at: 2nd St NE & 4th Ave NE - Stop #14687 (northbound); 2nd St NE & 8th Ave NE - Stop #14679 (northbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel the regular route on 2nd St NE to 6th Ave NE, right on 6th Ave NE, left on University Ave NE, left on 7th Ave NE, right on 2nd St NE, and resume the regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/11)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 11 detoured off 2nd St NE from 6th Ave NE to 7th Ave NE from 8:00 AM to 3:00 PM on Mon Nov 16 due to event
+
+```text
+For northbound Route 11 get on/off buses at:
+2nd St NE & 4th Ave NE - Stop #14687 (northbound)
+2nd St NE & 8th Ave NE - Stop #14679 (northbound)
+
+For southbound Route 11 get on/off buses at:
+2nd St NE & 8th Ave NE - Stop #14678 (southbound)
+2nd St NE & 5th Ave NE - Stop #14685 (southbound)
+
+Northbound buses will travel the regular route on 2nd St NE to 6th Ave NE, right on 6th Ave NE, left on University Ave NE, left on 7th Ave NE, right on 2nd St NE, and resume the regular route.
+
+Southbound buses will travel the regular route on 2nd St NE to 7th Ave NE, left on 7th Ave NE, right on University Ave NE, right on 6th Ave NE, left on 2nd St NE, and resume the regular route.
+
+Affected stops:
+2nd St NE & 7th Ave NE - Stop #14680 (northbound)
+2nd St NE & 7th Ave NE - Stop #14681 (southbound)
 ```
 
 </details>
@@ -1574,49 +1607,6 @@ LaFayette Rd & 8th St - Stop #11925 (southbound)
 
 ---
 
-### ⚠️ Route 64, Route 64D: Detour via Larpenteur Ave & Prosperity Ave
-
-- **Affected Routes**: `Route 64` `Route 64D`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Oct 26 at 6:00 AM until further notice
-- **Corridors & Intersections**: Larpenteur Ave & Prosperity Ave; Larpenteur Ave & Birmingham St; right on Larpenteur Ave & resume regular route.
-
-Affected st; Larpenteur Ave & Barclay St; Larpenteur Ave (Dieter St to Barclay St)
-- **Closed Stops**: Larpenteur Ave & Barclay St (Stop #5374), Stop #42156, Stop #5376
-
-**Summary**: Route 64D detoured off Larpenteur Ave from Dieter St to Barclay St beginning Mon Oct 26 at 6:00 AM until further notice due to utility work. Board at: Larpenteur Ave & Prosperity Ave - Stop #42156 (westbound); Larpenteur Ave & Birmingham St - Stop #5376 (westbound).
-
-> 💡 **Rider Action**: Board at: Larpenteur Ave & Prosperity Ave - Stop #42156 (westbound); Larpenteur Ave & Birmingham St - Stop #5376 (westbound)
-
-> 🔄 **Detour Path**: buses will travel regular route on Larpenteur Ave to Dieter St, left on Dieter St, right on Idaho Ave, right on Barclay St, left on Larpenteur Ave and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/64)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 64D detoured off Larpenteur Ave from Dieter St to Barclay St beginning Mon Oct 26 at 6:00 AM until further notice due to utility work
-
-```text
-Get on/off eastbound buses at:
-Larpenteur Ave & Prosperity Ave - Stop #42156 (westbound)
-Larpenteur Ave & Birmingham St - Stop #5376 (westbound)
-
-No westbound stops missed
-
-Eastbound Route 64D buses will travel regular route on Larpenteur Ave to Dieter St, left on Dieter St, right on Idaho Ave, right on Barclay St, left on Larpenteur Ave and resume regular route.
-
-Westbound Route 64 via English St buses will travel regular route on Larpenteur Ave to Barclay St, right on Barclay St, left on Idaho Ave, left on Dieter St, right on Larpenteur Ave and resume regular route.
-
-Affected stops:
-Larpenteur Ave & Barclay St - Stop #5374 (westbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 68: Detour via Jackson St & Sims Ave
 
 - **Affected Routes**: `Route 68`
@@ -1757,67 +1747,15 @@ Jackson St & Rose Ave E - Stop #56323 (southbound)
 
 ---
 
-### ⚠️ Route 68: Detour via Jackson St & Rose Ave E
+### ⚠️ Route 68: Detour via Route 68 detoured off Jackson St & L'orient St
 
 - **Affected Routes**: `Route 68`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Nov 9 at 6:00 AM until further notice
-- **Corridors & Intersections**: Jackson St & Rose Ave E; Jackson St & Timberlake Rd; Larpenteur Ave & Jackson St; Arlington Ave E & Klainert St; LOrient St & Kmart - St
-- **Closed Stops**: LOrient St & Kmart (Stop #49938), LOrient St & #1300 (Stop #49939), LOrient St & Arlington Ave (Stop #49940), Arlington Ave E & #179 (Stop #18042), LOrient St & #1301 (Stop #49948), LOrient St & Kmart (Stop #49949), Maryland Ave & LOrient St (Stop #40101), Arlington Ave E & Jackson St (Stop #40095) *(+8 more)*
-
-**Summary**: Route 68 detoured off LOrient St from Arlington Ave to Maryland Ave beginning Mon Nov 9 at 6:00 AM until further notice. Board at: Jackson St & Rose Ave E - Stop #56324 (northbound); Jackson St & Timberlake Rd - Stop #49670 (northbound).
-
-> 💡 **Rider Action**: Board at: Jackson St & Rose Ave E - Stop #56324 (northbound); Jackson St & Timberlake Rd - Stop #49670 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel the regular route on Jackson St to Rose Ave, left on Rose Ave, right on Abell St, left on Maryland Ave, right on Rice St, right on Arlington Ave, left on Jackson St, and resume the regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/68)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 68 detoured off LOrient St from Arlington Ave to Maryland Ave beginning Mon Nov 9 at 6:00 AM until further notice
-
-```text
-For northbound Route 68 get on/off buses at:
-Jackson St & Rose Ave E - Stop #56324 (northbound)
-Jackson St & Timberlake Rd - Stop #49670 (northbound)
-
-For southbound Route 68 get on/off buses at:
-Larpenteur Ave & Jackson St - Stop #49947 (eastbound)
-Arlington Ave E & Klainert St - Stop #81115 (westbound)
-
-Northbound buses will travel the regular route on Jackson St to Rose Ave, left on Rose Ave, right on Abell St, left on Maryland Ave, right on Rice St, right on Arlington Ave, left on Jackson St, and resume the regular route.
-
-Southbound buses will travel the regular detour route on LOrient St to Arlington Ave, right on Arlington Ave to LOrient St, continue on Arlington Ave, left on Rice St, left on Maryland Ave, right on Abell St, left on Rose Ave, right on Jackson St, and resume the regular route.
-
-Affected stops:
-LOrient St & Kmart - Stop #49938 (northbound)
-LOrient St & #1300 - Stop #49939 (northbound)
-LOrient St & Arlington Ave - Stop #49940 (northbound)
-Arlington Ave E & #179 - Stop #18042 (westbound)
-LOrient St & #1301 - Stop #49948 (southbound)
-LOrient St & Kmart - Stop #49949 (southbound)
-Maryland Ave & LOrient St - Stop #40101 (westbound)
-Arlington Ave E & Jackson St - Stop #40095 (eastbound)
-Jackson St & Rose Ave E - Stop #56323 (southbound)
-Arlington Ave E & #179 - Stop #51606 (eastbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 68: Detour via Jackson St & Jessamine Ave
-
-- **Affected Routes**: `Route 68`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Jackson St & Jessamine Ave; Jackson St & Timberlake Rd; Arlington Ave E & Klainert St; Jackson St & Rose Ave E; LOrient St & Kmart - St
+- **Corridors & Intersections**: Route 68 detoured off Jackson St & L'orient St; Jackson St & Jessamine Ave; Jackson St & Timberlake Rd; Arlington Ave E & Klainert St; Jackson St & Rose Ave E
 - **Closed Stops**: Jackson St & Rose Ave E (Stop #56324), LOrient St & Kmart (Stop #49938), LOrient St & #1300 (Stop #49939), LOrient St & Arlington Ave (Stop #49940), Arlington Ave E & #179 (Stop #18042), LOrient St & #1301 (Stop #49948), Timberlake Rd & Biglow Lane (N) (Stop #18096), LOrient St & Kmart (Stop #49949) *(+12 more)*
 
-**Summary**: Route 68 detoured off Jackson from Geranium to Arlington and off Arlington from L'Orient to Geranium until later today. Board at: Jackson St & Jessamine Ave - Stop #18028 (northbound); Jackson St & Timberlake Rd - Stop #49670 (northbound).
+**Summary**: Route 68 detoured off Jackson St/L'orient St from Geranium Ave to Arlington Ave until further notice. Board at: Jackson St & Jessamine Ave - Stop #18028 (northbound); Jackson St & Timberlake Rd - Stop #49670 (northbound).
 
 > 💡 **Rider Action**: Board at: Jackson St & Jessamine Ave - Stop #18028 (northbound); Jackson St & Timberlake Rd - Stop #49670 (northbound)
 
@@ -1828,7 +1766,7 @@ Arlington Ave E & #179 - Stop #51606 (eastbound)
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 68 detoured off Jackson from Geranium to Arlington and off Arlington from L'Orient to Geranium until later today
+**Header**: Route 68 detoured off Jackson St/L'orient St from Geranium Ave to Arlington Ave until further notice
 
 ```text
 For northbound Route 68 get on/off buses at:
@@ -1838,9 +1776,11 @@ Jackson St & Timberlake Rd - Stop #49670 (northbound)
 For southbound Route 68 get on/off buses at:
 Arlington Ave E & Klainert St - Stop #81115 (westbound)
 Jackson St & Jessamine Ave - Stop #40098 (southbound)
+
 Northbound buses will travel regular route on Jackson to Geranium, left on Geranium, right on Abell, left on Maryland, right on Rice, right on Arlington, left on Jackson and resume regular route. 
 
-Southbound buses will travel regular route on Arlington to L' Orient At, continue on Arlington, left on Rice, left on Maryland, right on Abell, left on Geranium, right on Jackson and resume regular route. 
+Southbound buses will travel regular route on Arlington to L' Orient St, continue on Arlington, left on Rice, left on Maryland, right on Abell, left on Geranium, right on Jackson and resume regular route. 
+
 Affected stops:
 Jackson St & Rose Ave E - Stop #56324 (northbound)
 LOrient St & Kmart - Stop #49938 (northbound)
@@ -2074,20 +2014,22 @@ Westbound buses will travel regular route on 46th St to Hiawatha Ave, right on H
 - **Corridors & Intersections**: Cleveland Ave & Randolph Ave; Randolph Ave & Davern St; Randolph Ave & Fairview Ave; Randolph Ave & Kenneth St; Randolph Ave & Prior Ave
 - **Closed Stops**: Randolph Ave & Kenneth St (Stop #11767), Randolph Ave & Prior Ave (Stop #11768), Randolph Ave & Fairview Ave (Stop #11770), Randolph Ave & Prior Ave (Stop #11746), Randolph Ave & Kenneth St (Stop #11747), Stop #11766, Stop #11772, Stop #11744 *(+1 more)*
 
-**Summary**: Route 74 detoured off Cleveland from Randolph to Fairview until later. Board at: Cleveland Ave & Randolph Ave - Stop #11766 (northbound); Randolph Ave & Davern St - Stop #11772 (eastbound).
+**Summary**: Route 74 detoured off Randolph Ave from Cleveland Ave to Fairview Ave until further notice. Board at: Cleveland Ave & Randolph Ave - Stop #11766 (northbound); Randolph Ave & Davern St - Stop #11772 (eastbound).
 
 > 💡 **Rider Action**: Board at: Cleveland Ave & Randolph Ave - Stop #11766 (northbound); Randolph Ave & Davern St - Stop #11772 (eastbound)
 
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on Cleveland to Randolph, continue on Cleveland to St. Clair, right on St. Clair, right on Fairview, left on Randolph and resume regular route.
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on Cleveland Ave to Randolph Ave, continue on Cleveland Ave to St. Clair Ave, right on St. Clair Ave, right on Fairview Ave, left on Randolph Ave and resume regular route.
 
 [Official Agency Advisory](https://www.metrotransit.org/route/74)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 74 detoured off Cleveland from Randolph to Fairview until later
+**Header**: Route 74 detoured off Randolph Ave from Cleveland Ave to Fairview Ave until further notice
 
 ```text
+Update 11/10 at 1:20pm: Detour extended until further notice
+
 For eastbound Route 74 get on/off buses at:
 Cleveland Ave & Randolph Ave - Stop #11766 (northbound)
 Randolph Ave & Davern St - Stop #11772 (eastbound)
@@ -2096,11 +2038,9 @@ For westbound Route 74 get on/off buses at:
 Randolph Ave & Fairview Ave - Stop #11744 (westbound)
 Cleveland Ave & Randolph Ave - Stop #11748 (southbound)
 
-Eastbound buses will travel regular route on Cleveland to Randolph, continue on Cleveland to St. Clair, right on St. Clair, right on Fairview, left on Randolph and resume regular route. 
+Eastbound buses will travel regular route on Cleveland Ave to Randolph Ave, continue on Cleveland Ave to St. Clair Ave, right on St. Clair Ave, right on Fairview Ave, left on Randolph Ave and resume regular route. 
 
-Westbound buses will travel regular route on Randolph to Fairview, right on Fairview, left on Saint Clair, left on Cleveland, continue on Cleveland to Randolph and resume regular route. 
-
-
+Westbound buses will travel regular route on Randolph Ave to Fairview Ave, right on Fairview Ave, left on Saint Clair Ave, left on Cleveland Ave, continue on Cleveland Ave to Randolph Ave and resume regular route. 
 
 Affected stops:
 Randolph Ave & Kenneth St - Stop #11767 (eastbound)

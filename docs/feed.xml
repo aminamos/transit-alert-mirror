@@ -4,26 +4,26 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Tue, 10 Nov 2026 16:57:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 22:16:56 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 30: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-55136-2026-11-10T14:25:26.000Z</guid>
-      <pubDate>Tue, 10 Nov 2026 14:25:26 GMT</pubDate>
+      <title>[Critical] METRO E Line: Southbound 3:59 PM Trip Canceled (Westgate Station - Gate A)</title>
+      <link>https://www.metrotransit.org/route/eline</link>
+      <guid isPermaLink="false">Metro Transit-55143-2026-11-10T22:08:40.000Z</guid>
+      <pubDate>Tue, 10 Nov 2026 22:08:40 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 30</category>
-      <description>Route 30 trip departing Golden Valley Rd Turn &amp; Xerxes Ave N at 8:23 AM and three other trips canceled today due to mechanical issue</description>
+      <category>METRO E Line</category>
+      <description>Southbound E Line trip departing Westgate Station - Gate A at 3:59 PM canceled</description>
     </item>
     <item>
-      <title>[Critical] Route 705: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/705</link>
-      <guid isPermaLink="false">Metro Transit-55135-2026-11-10T14:17:16.000Z</guid>
-      <pubDate>Tue, 10 Nov 2026 14:17:16 GMT</pubDate>
+      <title>[Critical] Route 87: Southbound 3:27 PM Trip Canceled (Rosedale Transit Center Gate C)</title>
+      <link>https://www.metrotransit.org/route/87</link>
+      <guid isPermaLink="false">Metro Transit-55142-2026-11-10T21:47:52.000Z</guid>
+      <pubDate>Tue, 10 Nov 2026 21:47:52 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 705</category>
-      <description>Route 705 trip departing Walmart &amp; Main Entrances at 8:35 AM and five other trips canceled today</description>
+      <category>Route 87</category>
+      <description>Southbound Route 87 trip departing Rosedale Transit Center Gate C at 3:27 PM canceled today due to disabled bus</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -64,8 +64,8 @@
     <item>
       <title>[Moderate] Route 2: Detour via Oak St SE &amp; Washington Ave S</title>
       <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-55102-2026-11-10T06:00:01.000Z</guid>
-      <pubDate>Tue, 10 Nov 2026 06:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55102-2026-11-10T19:50:59.000Z</guid>
+      <pubDate>Tue, 10 Nov 2026 19:50:59 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 2</category>
       <description>Route 2 detoured off Washington Ave from Oak St SE to Cedar Ave S from Tue Nov 10 to Thu Nov 12 from 10:00 PM to 5:00 AM each night due to construction. Board at: Oak St SE &amp; Washington Ave SE - Stop #41248 (southbound); 3rd St S &amp; Cedar Ave S - Stop #42452 (eastbound). | Action: Board at: Oak St SE &amp; Washington Ave SE - Stop #41248 (southbound); 3rd St S &amp; Cedar Ave S - Stop #42452 (eastbound)</description>
@@ -82,8 +82,8 @@
     <item>
       <title>[Moderate] Route 3: Detour via Route 3 detoured off 15th Ave &amp; Pleasant St</title>
       <link>https://www.metrotransit.org/route/3</link>
-      <guid isPermaLink="false">Metro Transit-55103-2026-11-10T06:00:01.000Z</guid>
-      <pubDate>Tue, 10 Nov 2026 06:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55103-2026-11-10T19:48:29.000Z</guid>
+      <pubDate>Tue, 10 Nov 2026 19:48:29 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 3</category>
       <description>Route 3 detoured off 15th Ave/Pleasant St from 4th St SE to Washington Ave and off Washington Ave from Pleasant St to Cedar Ave from Tue Nov 10 to Thu Nov 12 from 10:00 PM to 5:00 AM each night due to construction. Board at: 15th Ave SE &amp; 4th St SE - Stop #49242 (southbound); Temporary stop on Washington Ave just past Cedar Ave (westbound); Washington Ave S &amp; 11th Ave S - Stop #19302 (westbound). | Action: Board at: 15th Ave SE &amp; 4th St SE - Stop #49242 (southbound); Temporary stop on Washington Ave just past Cedar Ave (westbound); Washington Ave S &amp; 11th Ave S - Stop #19302 (westbound)</description>
@@ -145,11 +145,20 @@
     <item>
       <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Nicollet Mall (11th St to 12th St)</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-55104-2026-11-09T15:51:18.000Z</guid>
-      <pubDate>Mon, 09 Nov 2026 15:51:18 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55139-2026-11-10T17:33:14.000Z</guid>
+      <pubDate>Tue, 10 Nov 2026 17:33:14 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 10, Route 11, Route 17, Route 18, Route 25</category>
-      <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 11th St to 12th St until further notice</description>
+      <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 11th St to 12th St until further notice due to construction. Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 9th St S - Stop #17992 (northbound). | Action: Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 9th St S - Stop #17992 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 11: Detour via 2nd St NE &amp; 4th Ave N</title>
+      <link>https://www.metrotransit.org/route/11</link>
+      <guid isPermaLink="false">Metro Transit-55140-2026-11-10T18:22:04.000Z</guid>
+      <pubDate>Tue, 10 Nov 2026 18:22:04 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 11</category>
+      <description>Route 11 detoured off 2nd St NE from 6th Ave NE to 7th Ave NE from 8:00 AM to 3:00 PM on Mon Nov 16 due to event. Board at: 2nd St NE &amp; 4th Ave NE - Stop #14687 (northbound); 2nd St NE &amp; 8th Ave NE - Stop #14679 (northbound). | Action: Board at: 2nd St NE &amp; 4th Ave NE - Stop #14687 (northbound); 2nd St NE &amp; 8th Ave NE - Stop #14679 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 18: Detour via Nicollet Ave S &amp; 56th St E</title>
@@ -323,15 +332,6 @@
       <description>Route 64 detoured off 7th St E from Lafayette Ave to Burr St starting Mon Sep 14 at 5:00 AM until further notice due to construction. Board at: 7th St E &amp; Wall St - Stop #57215 (eastbound); 5th St &amp; Jackson St - Stop #11838 (eastbound); Burr St &amp; Tedesco St - Stop #11776 (northbound). | Action: Board at: 7th St E &amp; Wall St - Stop #57215 (eastbound); 5th St &amp; Jackson St - Stop #11838 (eastbound); Burr St &amp; Tedesco St - Stop #11776 (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 64, Route 64D: Detour via Larpenteur Ave &amp; Prosperity Ave</title>
-      <link>https://www.metrotransit.org/route/64</link>
-      <guid isPermaLink="false">Metro Transit-54537-2026-11-02T11:00:00.000Z</guid>
-      <pubDate>Mon, 02 Nov 2026 11:00:00 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 64, Route 64D</category>
-      <description>Route 64D detoured off Larpenteur Ave from Dieter St to Barclay St beginning Mon Oct 26 at 6:00 AM until further notice due to utility work. Board at: Larpenteur Ave &amp; Prosperity Ave - Stop #42156 (westbound); Larpenteur Ave &amp; Birmingham St - Stop #5376 (westbound). | Action: Board at: Larpenteur Ave &amp; Prosperity Ave - Stop #42156 (westbound); Larpenteur Ave &amp; Birmingham St - Stop #5376 (westbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 68: Detour via Jackson St &amp; Sims Ave</title>
       <link>https://www.metrotransit.org/route/68</link>
       <guid isPermaLink="false">Metro Transit-49088-2026-09-03T18:32:43.000Z</guid>
@@ -359,22 +359,13 @@
       <description>Route 68 detoured off Jackson St from Maryland Ave to Rose Ave until further notice due to construction. Board at: Maryland Ave &amp; LOrient St - Stop #40101 (westbound); Jackson St &amp; Jessamine Ave - Stop #40098 (southbound). | Action: Board at: Maryland Ave &amp; LOrient St - Stop #40101 (westbound); Jackson St &amp; Jessamine Ave - Stop #40098 (southbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 68: Detour via Jackson St &amp; Rose Ave E</title>
+      <title>[Moderate] Route 68: Detour via Route 68 detoured off Jackson St &amp; L&apos;orient St</title>
       <link>https://www.metrotransit.org/route/68</link>
-      <guid isPermaLink="false">Metro Transit-55025-2026-11-09T11:30:02.000Z</guid>
-      <pubDate>Mon, 09 Nov 2026 11:30:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55133-2026-11-10T21:05:59.000Z</guid>
+      <pubDate>Tue, 10 Nov 2026 21:05:59 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 68</category>
-      <description>Route 68 detoured off LOrient St from Arlington Ave to Maryland Ave beginning Mon Nov 9 at 6:00 AM until further notice. Board at: Jackson St &amp; Rose Ave E - Stop #56324 (northbound); Jackson St &amp; Timberlake Rd - Stop #49670 (northbound). | Action: Board at: Jackson St &amp; Rose Ave E - Stop #56324 (northbound); Jackson St &amp; Timberlake Rd - Stop #49670 (northbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 68: Detour via Jackson St &amp; Jessamine Ave</title>
-      <link>https://www.metrotransit.org/route/68</link>
-      <guid isPermaLink="false">Metro Transit-55133-2026-11-10T13:48:04.000Z</guid>
-      <pubDate>Tue, 10 Nov 2026 13:48:04 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 68</category>
-      <description>Route 68 detoured off Jackson from Geranium to Arlington and off Arlington from L&apos;Orient to Geranium until later today. Board at: Jackson St &amp; Jessamine Ave - Stop #18028 (northbound); Jackson St &amp; Timberlake Rd - Stop #49670 (northbound). | Action: Board at: Jackson St &amp; Jessamine Ave - Stop #18028 (northbound); Jackson St &amp; Timberlake Rd - Stop #49670 (northbound)</description>
+      <description>Route 68 detoured off Jackson St/L&apos;orient St from Geranium Ave to Arlington Ave until further notice. Board at: Jackson St &amp; Jessamine Ave - Stop #18028 (northbound); Jackson St &amp; Timberlake Rd - Stop #49670 (northbound). | Action: Board at: Jackson St &amp; Jessamine Ave - Stop #18028 (northbound); Jackson St &amp; Timberlake Rd - Stop #49670 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 71, Route 71K: Detour via Little Canada Rd &amp; Centerville Rd</title>
@@ -415,11 +406,11 @@
     <item>
       <title>[Moderate] Route 74: Detour via Cleveland Ave &amp; Randolph Ave</title>
       <link>https://www.metrotransit.org/route/74</link>
-      <guid isPermaLink="false">Metro Transit-55129-2026-11-10T13:34:27.000Z</guid>
-      <pubDate>Tue, 10 Nov 2026 13:34:27 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55129-2026-11-10T19:19:51.000Z</guid>
+      <pubDate>Tue, 10 Nov 2026 19:19:51 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 74</category>
-      <description>Route 74 detoured off Cleveland from Randolph to Fairview until later. Board at: Cleveland Ave &amp; Randolph Ave - Stop #11766 (northbound); Randolph Ave &amp; Davern St - Stop #11772 (eastbound). | Action: Board at: Cleveland Ave &amp; Randolph Ave - Stop #11766 (northbound); Randolph Ave &amp; Davern St - Stop #11772 (eastbound)</description>
+      <description>Route 74 detoured off Randolph Ave from Cleveland Ave to Fairview Ave until further notice. Board at: Cleveland Ave &amp; Randolph Ave - Stop #11766 (northbound); Randolph Ave &amp; Davern St - Stop #11772 (eastbound). | Action: Board at: Cleveland Ave &amp; Randolph Ave - Stop #11766 (northbound); Randolph Ave &amp; Davern St - Stop #11772 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 83: Detour via Hamline Ave &amp; Arlington Ave</title>
