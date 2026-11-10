@@ -2,53 +2,34 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-75-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-69-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-2-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-64-brightgreen)](#-routes-index)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-79-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-9-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-67-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-67-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-09T15:59:25.922Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-10T00:11:11.044Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (2) • **METRO D Line** (2) • **METRO G Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (2) • **Route 7** (2) • **Route 9** (5) • **Route 10** (1) • **Route 11** (1) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (3) • **Route 64** (4) • **Route 64D** (1) • **Route 68** (5) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 75** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (2) • **METRO G Line** (2) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **METRO Orange Line** (1) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (2) • **Route 9** (5) • **Route 10** (1) • **Route 11** (1) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (4) • **Route 64D** (1) • **Route 68** (5) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (3) • **Route 75** (1) • **Route 80** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 219** (1) • **Route 223** (2) • **Route 252** (1) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (2) • **Route 673B** (1) • **Route 686** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (3) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO D Line: Southbound 8:21 AM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)
+### 🚨 METRO Orange Line: Service Canceled
 
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Southbound
+- **Affected Routes**: `METRO Orange Line`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 8:21 AM canceled today due to medical emergency
+**Summary**: Orange Line trips departing Marquette Ave & 3rd St - Stop Group C at 5:12 PM and departing Burnsville Heart of the City Station at 6:06 PM canceled today due to traffic
 
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+[Official Agency Advisory](https://www.metrotransit.org/route/orange)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 8:21 AM canceled today due to medical emergency
-
-</details>
-
----
-
-### 🚨 METRO D Line: Southbound 8:33 AM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 8:33 AM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 8:33 AM canceled today
+**Header**: Orange Line trips departing Marquette Ave & 3rd St - Stop Group C at 5:12 PM and departing Burnsville Heart of the City Station at 6:06 PM canceled today due to traffic
 
 </details>
 
@@ -59,65 +40,237 @@
 - **Affected Routes**: `Route 30`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: Route 30 trip departing Knox Ave N & Golden Valley Rd; departing Knox Ave N & Golden Valley Rd; 56 AM
+- **Corridors & Intersections**: Route 30 trip departing Knox Ave N & Golden Valley Rd; departing Knox Ave N & Golden Valley Rd; 26 PM
+departing Knox Ave N & Golden Valley Rd; 24 PM
 departing Knox Ave N & Golden Valley Rd
 
-**Summary**: Route 30 trip departing Knox Ave N & Golden Valley Rd at 9:56 AM and two other trips canceled today
+**Summary**: Route 30 trip departing Knox Ave N & Golden Valley Rd at 2:26 PM and seven other trips canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/30)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 30 trip departing Knox Ave N & Golden Valley Rd at 9:56 AM and two other trips canceled today
+**Header**: Route 30 trip departing Knox Ave N & Golden Valley Rd at 2:26 PM and seven other trips canceled today
 
 ```text
-Update 8:10 AM -- Several morning trips restored. 
-
-
 Affected eastbound trips:
-departing Knox Ave N & Golden Valley Rd at 9:56 AM
-departing Knox Ave N & Golden Valley Rd at 11:56 AM
+departing Knox Ave N & Golden Valley Rd at 2:26 PM
+departing Knox Ave N & Golden Valley Rd at 4:24 PM
+departing Knox Ave N & Golden Valley Rd at 6:26 PM
+departing Golden Valley Rd Turn & Xerxes Ave N at 8:25 PM
 
 Affected westbound trips:
-departing Westgate Station - Gate B at 11:04 AM
+departing Westgate Station - Gate B at 3:34 PM
+departing Westgate Station - Gate B at 5:34 PM
+departing Westgate Station - Gate B at 7:36 PM
+departing Westgate Station - Gate B at 9:36 PM
 ```
 
 </details>
 
 ---
 
-### 🚨 Route 71: Service Canceled
+### 🚨 Route 72: Service Canceled
 
-- **Affected Routes**: `Route 71`
+- **Affected Routes**: `Route 72`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: departing McMenemy St & Roselawn Ave; 48 AM
-departing McMenemy St & Roselawn Ave; 41 AM
-departing McMenemy St & Roselawn Ave
+- **Corridors & Intersections**: Route 72 trip departing Pascal St N & Central Ave W; departing Pascal St N & Central Ave W; 20 PM
+departing Pascal St N & Central Ave W; 21 PM
+departing Pascal St N & Central Ave W
 
-**Summary**: Route 71 trip departing Concord Exchange & Armour Ave at 6:56 AM and eight other trips canceled today
+**Summary**: Route 72 trip departing Pascal St N & Central Ave W at 2:20 PM and seven other trips canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
+[Official Agency Advisory](https://www.metrotransit.org/route/72)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 71 trip departing Concord Exchange & Armour Ave at 6:56 AM and eight other trips canceled today
+**Header**: Route 72 trip departing Pascal St N & Central Ave W at 2:20 PM and seven other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Pascal St N & Central Ave W at 2:20 PM
+departing Pascal St N & Central Ave W at 4:20 PM
+departing Pascal St N & Central Ave W at 6:21 PM
+departing Pascal St N & Central Ave W at 8:23 PM
+
+Affected westbound trips:
+departing Sun Ray Transit Center & Gate D at 3:19 PM
+departing Sun Ray Transit Center & Gate D at 5:18 PM
+departing Sun Ray Transit Center & Gate D at 7:21 PM
+departing Sun Ray Transit Center & Gate D at 9:21 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 80: Service Canceled
+
+- **Affected Routes**: `Route 80`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 80 trip departing Maplewood Mall Transit Center & Gate F at 7:12 PM and four other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/80)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 80 trip departing Maplewood Mall Transit Center & Gate F at 7:12 PM and four other trips canceled today
 
 ```text
 Affected northbound trips:
-departing Concord Exchange & Armour Ave at 6:56 AM
-departing Concord Exchange & Armour Ave at 8:51 AM
-departing Concord Exchange & Armour Ave at 10:46 AM
-departing Concord Exchange & Armour Ave at 12:46 PM
-departing Concord Exchange & Armour Ave at 2:46 PM
+departing Sun Ray Transit Center & Gate E at 7:42 PM
+departing Sun Ray Transit Center & Gate E at 8:42 PM
 
 Affected southbound trips:
-departing McMenemy St & Roselawn Ave at 7:48 AM
-departing McMenemy St & Roselawn Ave at 9:41 AM
-departing McMenemy St & Roselawn Ave at 11:41 AM
-departing McMenemy St & Roselawn Ave at 1:41 PM
+departing Maplewood Mall Transit Center & Gate F at 7:12 PM
+departing Maplewood Mall Transit Center & Gate F at 8:12 PM
+departing Maplewood Mall Transit Center & Gate F at 9:12 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 219: Service Canceled
+
+- **Affected Routes**: `Route 219`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 219 trip departing Sun Ray Transit Center & Gate B at 2:43 PM and four other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/219)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 219 trip departing Sun Ray Transit Center & Gate B at 2:43 PM and four other trips canceled today
+
+```text
+Affected northbound trips:
+departing Sun Ray Transit Center & Gate B at 2:43 PM
+departing Sun Ray Transit Center & Gate B at 4:43 PM
+departing Sun Ray Transit Center & Gate B at 6:43 PM
+
+Affected southbound trips:
+departing Maplewood Mall Transit Center & Gate A at 3:42 PM
+departing Maplewood Mall Transit Center & Gate A at 5:42 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 252: Northbound 4:36 PM Trip Canceled (Oak St SE & 4th St SE)
+
+- **Affected Routes**: `Route 252`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 252 trip departing Oak St SE & 4th St SE at 4:36 PM canceled
+
+[Official Agency Advisory](https://www.metrotransit.org/route/252)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 252 trip departing Oak St SE & 4th St SE at 4:36 PM canceled
+
+</details>
+
+---
+
+### 🚨 Route 673: Service Canceled
+
+- **Affected Routes**: `Route 673`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Route 673 trip departing 5th St Transit Center Gate A at 3:01 PM and two other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/673)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 673 trip departing 5th St Transit Center Gate A at 3:01 PM and two other trips canceled today
+
+```text
+Affected westbound trips:
+departing 5th St Transit Center Gate A at 3:01 PM
+departing 5th St Transit Center Gate A at 4:01 PM
+departing 5th St Transit Center Gate A at 5:01 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 802: Service Canceled
+
+- **Affected Routes**: `Route 802`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 802 trip departing Anoka Tech College & Main Entrance at 2:42 PM and three other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/802)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 802 trip departing Anoka Tech College & Main Entrance at 2:42 PM and three other trips canceled today
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate E at 3:34 PM
+departing Northtown Transit Ctr Gate E at 5:34 PM
+
+Affected southbound trips:
+departing Anoka Tech College & Main Entrance at 2:42 PM
+departing Anoka Tech College & Main Entrance at 4:42 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 805: Service Canceled
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
+departing 1st Ave S & Monroe St; 38 PM
+departing 1st Ave S & Monroe St; 36 PM
+departing 1st Ave S & Monroe St
+
+**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate D at 12:34 PM
+departing Northtown Transit Ctr Gate D at 2:34 PM
+departing Northtown Transit Ctr Gate D at 4:34 PM
+
+Affected southbound trips:
+departing 1st Ave S & Monroe St at 11:38 AM
+departing 1st Ave S & Monroe St at 1:38 PM
+departing 1st Ave S & Monroe St at 3:36 PM
+departing 1st Ave S & Monroe St at 5:38 PM
 ```
 
 </details>
@@ -1218,34 +1371,6 @@ Parklawn Ave & Parklawn Court - Stop #41091 (northbound)
 
 ---
 
-### ⚠️ Route 38, Route 4: Stop Closed at Lyndale Ave S & 33rd St W
-
-- **Affected Routes**: `Route 38` `Route 4`
-- **Direction**: Southbound
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Thu Oct 29 at 2:00 AM until further notice
-- **Corridors & Intersections**: Lyndale Ave S & 33rd St W; Lyndale Ave S & 31st St W; Lyndale Ave S & 35th St W
-- **Closed Stops**: Stop #40664, Stop #40668
-
-**Summary**: Lyndale Ave S & 33rd St W - Stop #40664 (southbound) is closed for Routes 4 and 38 beginning Thu Oct 29 at 2:00 AM until further notice due to utility work. Board at: Lyndale Ave S & 31st St W - Stop #110 (southbound); Lyndale Ave S & 35th St W - Stop #40668 (southbound).
-
-> 💡 **Rider Action**: Board at: Lyndale Ave S & 31st St W - Stop #110 (southbound); Lyndale Ave S & 35th St W - Stop #40668 (southbound)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Lyndale Ave S & 33rd St W - Stop #40664 (southbound) is closed for Routes 4 and 38 beginning Thu Oct 29 at 2:00 AM until further notice due to utility work
-
-```text
-Get on/off buses at:
-Lyndale Ave S & 31st St W - Stop #110 (southbound)
-Lyndale Ave S & 35th St W - Stop #40668 (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 54, Route 54M: Detour via 5th St & Robert St
 
 - **Affected Routes**: `Route 54` `Route 54M`
@@ -1608,36 +1733,6 @@ Westbound buses will travel regular route on Mounds Blvd to westbound I-94 exit,
 Affected stops:
 Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 7th St E & Wall St - Stop #57215 (eastbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 63: Stop Closed at 3rd St E & English St
-
-- **Affected Routes**: `Route 63`
-- **Direction**: Eastbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 3rd St E & English St; 3rd St E & Griffith St; 3rd St E & Etna St
-- **Closed Stops**: Stop #3164, Stop #3161, Stop #3166
-
-**Summary**: 3rd St E & English St - Stop #3164 (eastbound) is closed for Route 63 until further notice due to construction. Board at: 3rd St E & Griffith St - Stop #3161 (eastbound); Temporary stop on 3rd St E just before Johnson Pkwy (eastbound); 3rd St E & Etna St - Stop #3166 (eastbound).
-
-> 💡 **Rider Action**: Board at: 3rd St E & Griffith St - Stop #3161 (eastbound); Temporary stop on 3rd St E just before Johnson Pkwy (eastbound); 3rd St E & Etna St - Stop #3166 (eastbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/63)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: 3rd St E & English St - Stop #3164 (eastbound) is closed for Route 63 until further notice due to construction
-
-```text
-Get on/off buses at:
-3rd St E & Griffith St - Stop #3161 (eastbound)
-Temporary stop on 3rd St E just before Johnson Pkwy (eastbound)
-3rd St E & Etna St - Stop #3166 (eastbound)
 ```
 
 </details>
@@ -3165,6 +3260,34 @@ Concordia Ave & Asbury St (eastbound)
 
 Get on/off westbound buses at:
 St Anthony Ave & Fry St (westbound)
+```
+
+</details>
+
+---
+
+### ℹ️ Route 802: Service Advisory
+
+- **Affected Routes**: `Route 802`
+- **Direction**: Both Directions
+- **Severity**: `Minor`
+- **Schedule**: Beginning Tue Nov 10 at 6:00 AM
+- **Corridors & Intersections**: Main St & 2nd Ave; and Main St & 2nd Ave; the stops on Main St & 2nd Ave
+- **Closed Stops**: Stop #12049, Stop #12047
+
+**Summary**: Main St & 2nd Ave - Stop #12049 (westbound) and Main St & 2nd Ave - Stop #12047 (eastbound) are permanently moving for Route 802 beginning Tue Nov 10 at 6:00 AM due to parking restrictions
+
+[Official Agency Advisory](https://www.metrotransit.org/route/802)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Main St & 2nd Ave - Stop #12049 (westbound) and Main St & 2nd Ave - Stop #12047 (eastbound) are permanently moving for Route 802 beginning Tue Nov 10 at 6:00 AM due to parking restrictions
+
+```text
+Due to parking restrictions, the stops on Main St & 2nd Ave in both directions will be permanently relocated.
+
+The new location for both directions is on Main St & 1st Ave.
 ```
 
 </details>
