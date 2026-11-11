@@ -4,26 +4,53 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Wed, 11 Nov 2026 10:39:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:33:33 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 760: Southbound 7:25 AM Trip Canceled (Brooklyn Blvd Park &amp; Ride &amp; 65th Ave N)</title>
-      <link>https://www.metrotransit.org/route/760</link>
-      <guid isPermaLink="false">Metro Transit-55158-2026-11-11T10:14:26.000Z</guid>
-      <pubDate>Wed, 11 Nov 2026 10:14:26 GMT</pubDate>
+      <title>[Critical] Route 2, Route 2C: Eastbound 10:45 AM Trip Canceled (Franklin Ave W &amp; Hennepin Ave S)</title>
+      <link>https://www.metrotransit.org/route/2</link>
+      <guid isPermaLink="false">Metro Transit-55172-2026-11-11T18:32:01.000Z</guid>
+      <pubDate>Wed, 11 Nov 2026 18:32:01 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 760</category>
-      <description>Southbound Route 760 trip departing Brooklyn Blvd Park &amp; Ride &amp; 65th Ave N at 7:25 AM canceled</description>
+      <category>Route 2, Route 2C</category>
+      <description>Eastbound Route 2C trip departing Franklin Ave W &amp; Hennepin Ave S at 10:45 AM canceled</description>
     </item>
     <item>
-      <title>[Critical] Route 882: Southbound 5:40 AM Trip Canceled (Big Lake Park &amp; Ride)</title>
-      <link>https://www.metrotransit.org/route/882</link>
-      <guid isPermaLink="false">Metro Transit-55157-2026-11-11T10:13:28.000Z</guid>
-      <pubDate>Wed, 11 Nov 2026 10:13:28 GMT</pubDate>
+      <title>[Critical] Route 54: Westbound 11:34 AM Trip Canceled (7th St W &amp; Lexington Pkwy S)</title>
+      <link>https://www.metrotransit.org/route/54</link>
+      <guid isPermaLink="false">Metro Transit-55175-2026-11-11T18:25:35.000Z</guid>
+      <pubDate>Wed, 11 Nov 2026 18:25:35 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 882</category>
-      <description>Southbound Route 882 trip departing Big Lake Park &amp; Ride at 5:40 AM canceled today</description>
+      <category>Route 54</category>
+      <description>Westbound Route 54 trip departing 7th St W &amp; Lexington Pkwy S at 11:34 AM canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 71: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/71</link>
+      <guid isPermaLink="false">Metro Transit-55171-2026-11-11T18:08:00.000Z</guid>
+      <pubDate>Wed, 11 Nov 2026 18:08:00 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 71</category>
+      <description>Route 71 trip departing Inver Hills College &amp; Shelter at 12:38 PM and three other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 71, Route 71B: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/71</link>
+      <guid isPermaLink="false">Metro Transit-55174-2026-11-11T17:06:23.000Z</guid>
+      <pubDate>Wed, 11 Nov 2026 17:06:23 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 71, Route 71B</category>
+      <description>Southbound Route 71B trip departing McMenemy St &amp; Roselawn Ave at 11:11 AM will start from L&apos;Orient St &amp; Cayuga St at 11:22 AM today due to mechanical issue. Previous stops will be missed</description>
+    </item>
+    <item>
+      <title>[Critical] Route 802: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/802</link>
+      <guid isPermaLink="false">Metro Transit-55170-2026-11-11T17:04:01.000Z</guid>
+      <pubDate>Wed, 11 Nov 2026 17:04:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 802</category>
+      <description>Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and fourteen other trips canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -341,31 +368,13 @@
       <description>Route 68 detoured off Jackson St from Pennsylvania Ave to Cayuga St beginning Mon May 18 at 4:00 AM until further notice due to construction. Board at: Jackson St &amp; Mount Airy (Winter St) - Stop #18014 (northbound); Jackson St &amp; Sims Ave - Stop #18022 (northbound). | Action: Board at: Jackson St &amp; Mount Airy (Winter St) - Stop #18014 (northbound); Jackson St &amp; Sims Ave - Stop #18022 (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 68: Detour via Larpenteur Ave &amp; Jackson St</title>
+      <title>[Moderate] Route 68: Detour via Route 68 detoured off Jackson St &amp; Timberlake Rd</title>
       <link>https://www.metrotransit.org/route/68</link>
-      <guid isPermaLink="false">Metro Transit-53811-2026-10-12T18:20:00.000Z</guid>
-      <pubDate>Mon, 12 Oct 2026 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55169-2026-11-11T15:39:44.000Z</guid>
+      <pubDate>Wed, 11 Nov 2026 15:39:44 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 68</category>
-      <description>Route 68 detoured off Jackson St from Larpenteur Ave to Maryland Ave and off Timberlake Rd beginning Mon Sep 28 at 7:00 AM until further notice due to construction. Board at: Larpenteur Ave &amp; Jackson St - Stop #49947 (eastbound); Temporary stop on Arlington Ave &amp; Klainert St (westbound); L&apos;Orient St &amp; #1301 - Stop #49948 (southbound). | Action: Board at: Larpenteur Ave &amp; Jackson St - Stop #49947 (eastbound); Temporary stop on Arlington Ave &amp; Klainert St (westbound); L&apos;Orient St &amp; #1301 - Stop #49948 (southbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 68: Detour via Maryland Ave &amp; LOrient St</title>
-      <link>https://www.metrotransit.org/route/68</link>
-      <guid isPermaLink="false">Metro Transit-54865-2026-11-09T17:55:01.000Z</guid>
-      <pubDate>Mon, 09 Nov 2026 17:55:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 68</category>
-      <description>Route 68 detoured off Jackson St from Maryland Ave to Rose Ave until further notice due to construction. Board at: Maryland Ave &amp; LOrient St - Stop #40101 (westbound); Jackson St &amp; Jessamine Ave - Stop #40098 (southbound). | Action: Board at: Maryland Ave &amp; LOrient St - Stop #40101 (westbound); Jackson St &amp; Jessamine Ave - Stop #40098 (southbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 68: Detour via Route 68 detoured off Jackson St &amp; L&apos;orient St</title>
-      <link>https://www.metrotransit.org/route/68</link>
-      <guid isPermaLink="false">Metro Transit-55133-2026-11-10T21:05:59.000Z</guid>
-      <pubDate>Tue, 10 Nov 2026 21:05:59 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 68</category>
-      <description>Route 68 detoured off Jackson St/L&apos;orient St from Geranium Ave to Arlington Ave until further notice. Board at: Jackson St &amp; Jessamine Ave - Stop #18028 (northbound); Jackson St &amp; Timberlake Rd - Stop #49670 (northbound). | Action: Board at: Jackson St &amp; Jessamine Ave - Stop #18028 (northbound); Jackson St &amp; Timberlake Rd - Stop #49670 (northbound)</description>
+      <description>Route 68 detoured off Jackson St/Timberlake Rd from Larpenteur Ave to Arlington Ave until further notice due to construction. Board at: Larpenteur Ave &amp; Jackson St - Stop #49947 (eastbound); Arlington Ave E &amp; Klainert St - Stop #81115 (westbound); LOrient St &amp; #1301 - Stop #49948 (southbound). | Action: Board at: Larpenteur Ave &amp; Jackson St - Stop #49947 (eastbound); Arlington Ave E &amp; Klainert St - Stop #81115 (westbound); LOrient St &amp; #1301 - Stop #49948 (southbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 71, Route 71K: Detour via Little Canada Rd &amp; Centerville Rd</title>
@@ -404,19 +413,10 @@
       <description>Route 74 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
     </item>
     <item>
-      <title>[Moderate] Route 74: Detour via Cleveland Ave &amp; Randolph Ave</title>
-      <link>https://www.metrotransit.org/route/74</link>
-      <guid isPermaLink="false">Metro Transit-55129-2026-11-10T19:19:51.000Z</guid>
-      <pubDate>Tue, 10 Nov 2026 19:19:51 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 74</category>
-      <description>Route 74 detoured off Randolph Ave from Cleveland Ave to Fairview Ave until further notice. Board at: Cleveland Ave &amp; Randolph Ave - Stop #11766 (northbound); Randolph Ave &amp; Davern St - Stop #11772 (eastbound). | Action: Board at: Cleveland Ave &amp; Randolph Ave - Stop #11766 (northbound); Randolph Ave &amp; Davern St - Stop #11772 (eastbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 83: Detour via Hamline Ave &amp; Arlington Ave</title>
       <link>https://www.metrotransit.org/route/83</link>
-      <guid isPermaLink="false">Metro Transit-54895-2026-11-04T12:30:01.000Z</guid>
-      <pubDate>Wed, 04 Nov 2026 12:30:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54895-2026-11-11T13:00:00.000Z</guid>
+      <pubDate>Wed, 11 Nov 2026 13:00:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 83</category>
       <description>Route 83 detoured off Hamline Ave from Nebraska Ave to Hoyt Ave beginning Wed Nov 4 at 7:00 AM until further notice due to construction. Board at: Hamline Ave &amp; Arlington Ave - Stop #49721 (northbound); Hamline Ave &amp; California Ave - Stop #53738 (northbound). | Action: Board at: Hamline Ave &amp; Arlington Ave - Stop #49721 (northbound); Hamline Ave &amp; California Ave - Stop #53738 (northbound)</description>
@@ -458,6 +458,15 @@
       <description>Routes 275 and 860 detoured off 5th St from Sibley St to Wacouta St and off Wacouta St from 5th St to 7th St beginning Wed Mar 4 at 8:30 AM until further notice due to construction. Board at: 5th St &amp; Minnesota St - Stop #49397 (eastbound); Wacouta St &amp; 8th St / 9th St E - Stop #49753 (northbound). | Action: Board at: 5th St &amp; Minnesota St - Stop #49397 (eastbound); Wacouta St &amp; 8th St / 9th St E - Stop #49753 (northbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 275: Detour via Wacouta St &amp; 9th St E</title>
+      <link>https://www.metrotransit.org/route/275</link>
+      <guid isPermaLink="false">Metro Transit-55165-2026-11-11T12:52:36.000Z</guid>
+      <pubDate>Wed, 11 Nov 2026 12:52:36 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 275</category>
+      <description>Route 275 detoured off Wacouta St from 7th St E to 6th St until later today. Board at: Wacouta St &amp; 9th St E - Stop #41702 (southbound); 6th St &amp; Jackson St - Stop #11858 (westbound). | Action: Board at: Wacouta St &amp; 9th St E - Stop #41702 (southbound); 6th St &amp; Jackson St - Stop #11858 (westbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 294: Detour via Stillwater Blvd &amp; Pine St W</title>
       <link>https://www.metrotransit.org/route/294</link>
       <guid isPermaLink="false">Metro Transit-50995-2026-09-03T18:43:56.000Z</guid>
@@ -465,15 +474,6 @@
       <category>Moderate</category>
       <category>Route 294</category>
       <description>Route 294 detoured off Stillwater Blvd from Pine St to Greeley St beginning at 9 PM until further notice due to construction. Board at: Stillwater Blvd &amp; Pine St W - Stop #47078 (northbound); Temporary Stop from Pine St W and Pine Trl St S; Temporary Stop from Pine St W and Seeley St S. | Action: Board at: Stillwater Blvd &amp; Pine St W - Stop #47078 (northbound); Temporary Stop from Pine St W and Pine Trl St S; Temporary Stop from Pine St W and Seeley St S</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 534: Detour via Lyndale Ave S &amp; 82nd St W</title>
-      <link>https://www.metrotransit.org/route/534</link>
-      <guid isPermaLink="false">Metro Transit-51507-2026-08-24T09:00:00.000Z</guid>
-      <pubDate>Mon, 24 Aug 2026 09:00:00 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 534</category>
-      <description>Route 534 detoured off Lyndale Ave from 82nd St to American Blvd and off American Blvd from Lyndale Ave to Knox Ave beginning Mon Aug 17 at 4:00 AM until further notice due to construction. Board at: Lyndale Ave S &amp; 82nd St W - Stop #50070 (northbound); Lyndale Ave S &amp; 80th St / American Blvd - Stop #3357 (northbound); American Blvd &amp; Knox Ave S - Stop #41217 (westbound). | Action: Board at: Lyndale Ave S &amp; 82nd St W - Stop #50070 (northbound); Lyndale Ave S &amp; 80th St / American Blvd - Stop #3357 (northbound); American Blvd &amp; Knox Ave S - Stop #41217 (westbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 537: Stop Closed at France Ave S &amp; Gallagher Dr</title>
@@ -568,8 +568,8 @@
     <item>
       <title>[Moderate] Route 802: Stop Closed at Coon Rapids Blvd &amp; Dakotah St</title>
       <link>https://www.metrotransit.org/route/802</link>
-      <guid isPermaLink="false">Metro Transit-54460-2026-11-02T14:00:01.000Z</guid>
-      <pubDate>Mon, 02 Nov 2026 14:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54460-2026-11-11T18:29:12.000Z</guid>
+      <pubDate>Wed, 11 Nov 2026 18:29:12 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 802</category>
       <description>Coon Rapids Blvd &amp; Dakotah St - Stop #11059 (westbound) is closed for Route 802 beginning Mon Oct 26 at 9:00 AM until further notice due to utility work. Board at: Coon Rapids Blvd &amp; Blackfoot St - Stop #11055 (westbound); East River Rd &amp; Queens Lane - Stop #12070 (northbound). | Action: Board at: Coon Rapids Blvd &amp; Blackfoot St - Stop #11055 (westbound); East River Rd &amp; Queens Lane - Stop #12070 (northbound)</description>
