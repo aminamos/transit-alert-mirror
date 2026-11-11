@@ -1,386 +1,67 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-11T02:40:50.970Z",
-    "totalAlerts": 71,
-    "criticalCount": 4,
+    "generatedAt": "2026-11-11T10:39:57.138Z",
+    "totalAlerts": 69,
+    "criticalCount": 2,
     "moderateCount": 64,
     "minorCount": 3,
-    "affectedRoutesCount": 59,
+    "affectedRoutesCount": 58,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "55156",
+      "id": "55158",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO A Line: Service Advisory",
-      "summary": "Northbound A Line trip departing 46th St Station Gate A at 7:50 PM will start from Snelling and Grand Station",
+      "title": "Route 760: Southbound 7:25 AM Trip Canceled (Brooklyn Blvd Park & Ride & 65th Ave N)",
+      "summary": "Southbound Route 760 trip departing Brooklyn Blvd Park & Ride & 65th Ave N at 7:25 AM canceled",
       "affectedRoutes": [
-        "METRO A Line"
+        "Route 760"
       ],
-      "direction": "Northbound",
-      "intersections": [
-        "46th St & Minnehaha St",
-        "46th St & 46th Ave S"
-      ],
-      "closedStopIds": [
-        "51544",
-        "53362",
-        "51514",
-        "56111",
-        "56112",
-        "4283",
-        "56113",
-        "56114",
-        "56115",
-        "56116"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "51544",
-          "name": "46th St Station Gate A",
-          "direction": "northbound"
-        },
-        {
-          "id": "53362",
-          "name": "46th St & Minnehaha Station",
-          "direction": "eastbound"
-        },
-        {
-          "id": "51514",
-          "name": "46th St & 46th Ave Station",
-          "direction": "eastbound"
-        },
-        {
-          "id": "56111",
-          "name": "Ford & Woodlawn Station",
-          "direction": "eastbound"
-        },
-        {
-          "id": "56112",
-          "name": "Ford & Finn Station",
-          "direction": "eastbound"
-        },
-        {
-          "id": "4283",
-          "name": "Ford & Kenneth Station",
-          "direction": "eastbound"
-        },
-        {
-          "id": "56113",
-          "name": "Ford & Fairview Station",
-          "direction": "eastbound"
-        },
-        {
-          "id": "56114",
-          "name": "Snelling & Highland Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "56115",
-          "name": "Snelling & Randolph Station",
-          "direction": "northbound"
-        },
-        {
-          "id": "56116",
-          "name": "Snelling & St Clair Station",
-          "direction": "northbound"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-11T01:54:00.000Z",
-        "end": "2026-11-11T03:27:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/aline",
-      "updatedAt": "2026-11-11T01:55:53.000Z",
-      "rawHeader": "Northbound A Line trip departing 46th St Station Gate A at 7:50 PM will start from Snelling and Grand Station",
-      "rawDescription": "Affected stops:\r\n46th St Station Gate A - Stop #51544 (northbound)\r\n46th St & Minnehaha Station - Stop #53362 (eastbound)\r\n46th St & 46th Ave Station - Stop #51514 (eastbound)\r\nFord & Woodlawn Station - Stop #56111 (eastbound)\r\nFord & Finn Station - Stop #56112 (eastbound)\r\nFord & Kenneth Station - Stop #4283 (eastbound)\r\nFord & Fairview Station - Stop #56113 (eastbound)\r\nSnelling & Highland Station - Stop #56114 (northbound)\r\nSnelling & Randolph Station - Stop #56115 (northbound)\r\nSnelling & St Clair Station - Stop #56116 (northbound)"
-    },
-    {
-      "id": "55154",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 11: Service Advisory",
-      "summary": "Northbound Route 11 trip departing Nicollet Ave S & 46th St E at 7:08 PM will start from 3rd Ave S & Franklin Ave E",
-      "affectedRoutes": [
-        "Route 11"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "08 PM will start from 3rd Ave S & Franklin Ave E",
-        "Nicollet Ave S & 46th St E",
-        "Nicollet Ave S & 44th St E",
-        "Pleasant Ave & 50th St",
-        "46th St & I-35w - St"
-      ],
-      "closedStopIds": [
-        "51828",
-        "1874",
-        "53550",
-        "53545",
-        "17622",
-        "17624",
-        "51829",
-        "17740",
-        "17741",
-        "17742",
-        "17743",
-        "17744",
-        "17745",
-        "17746",
-        "17747",
-        "17748",
-        "17749",
-        "17750",
-        "17751",
-        "17752",
-        "17753",
-        "17754",
-        "17755",
-        "51795",
-        "17757",
-        "17758",
-        "17759",
-        "17761",
-        "17762",
-        "17763",
-        "17764"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "51828",
-          "name": "Nicollet Ave S & 46th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "1874",
-          "name": "Nicollet Ave S & 44th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "53550",
-          "name": "Pleasant Ave & 50th St / Busch Terrace",
-          "direction": "northbound"
-        },
-        {
-          "id": "53545",
-          "name": "46th St & I-35W",
-          "direction": "eastbound"
-        },
-        {
-          "id": "17622",
-          "name": "46th St E & 3rd Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "17624",
-          "name": "46th St E & Clinton Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "51829",
-          "name": "4th Ave S & 46th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17740",
-          "name": "4th Ave S & 45th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17741",
-          "name": "4th Ave S & 44th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17742",
-          "name": "4th Ave S & 43rd St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17743",
-          "name": "4th Ave S & 42nd St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17744",
-          "name": "4th Ave S & 41st St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17745",
-          "name": "4th Ave S & 40th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17746",
-          "name": "4th Ave S & 39th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17747",
-          "name": "4th Ave S & 38th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17748",
-          "name": "4th Ave S & 37th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17749",
-          "name": "4th Ave S & 36th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17750",
-          "name": "4th Ave S & 35th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17751",
-          "name": "4th Ave S & 34th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17752",
-          "name": "4th Ave S & 33rd St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17753",
-          "name": "4th Ave S & 32nd St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17754",
-          "name": "4th Ave S & 31st St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17755",
-          "name": "4th Ave S & Lake St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "51795",
-          "name": "4th Ave S & 28th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17757",
-          "name": "5th Ave S & 28th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17758",
-          "name": "5th Ave S & 27th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17759",
-          "name": "5th Ave S & 26th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17761",
-          "name": "26th St E & 3rd Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "17762",
-          "name": "3rd Ave S & 25th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17763",
-          "name": "3rd Ave S & 24th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "17764",
-          "name": "3rd Ave S & 22nd St E",
-          "direction": "northbound"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-11T01:10:00.000Z",
-        "end": "2026-11-11T03:08:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-11-11T01:30:20.000Z",
-      "rawHeader": "Northbound Route 11 trip departing Nicollet Ave S & 46th St E at 7:08 PM will start from 3rd Ave S & Franklin Ave E",
-      "rawDescription": "Affected stops:\r\nNicollet Ave S & 46th St E - Stop #51828 (northbound)\r\nNicollet Ave S & 44th St E - Stop #1874 (northbound)\r\nPleasant Ave & 50th St / Busch Terrace - Stop #53550 (northbound)\r\n46th St & I-35W - Stop #53545 (eastbound)\r\n46th St E & 3rd Ave S - Stop #17622 (eastbound)\r\n46th St E & Clinton Ave S - Stop #17624 (eastbound)\r\n4th Ave S & 46th St E - Stop #51829 (northbound)\r\n4th Ave S & 45th St E - Stop #17740 (northbound)\r\n4th Ave S & 44th St E - Stop #17741 (northbound)\r\n4th Ave S & 43rd St E - Stop #17742 (northbound)\r\n4th Ave S & 42nd St E - Stop #17743 (northbound)\r\n4th Ave S & 41st St E - Stop #17744 (northbound)\r\n4th Ave S & 40th St E - Stop #17745 (northbound)\r\n4th Ave S & 39th St E - Stop #17746 (northbound)\r\n4th Ave S & 38th St E - Stop #17747 (northbound)\r\n4th Ave S & 37th St E - Stop #17748 (northbound)\r\n4th Ave S & 36th St E - Stop #17749 (northbound)\r\n4th Ave S & 35th St E - Stop #17750 (northbound)\r\n4th Ave S & 34th St E - Stop #17751 (northbound)\r\n4th Ave S & 33rd St E - Stop #17752 (northbound)\r\n4th Ave S & 32nd St E - Stop #17753 (northbound)\r\n4th Ave S & 31st St E - Stop #17754 (northbound)\r\n4th Ave S & Lake St E - Stop #17755 (northbound)\r\n4th Ave S & 28th St E - Stop #51795 (northbound)\r\n5th Ave S & 28th St E - Stop #17757 (northbound)\r\n5th Ave S & 27th St E - Stop #17758 (northbound)\r\n5th Ave S & 26th St E - Stop #17759 (northbound)\r\n26th St E & 3rd Ave S - Stop #17761 (westbound)\r\n3rd Ave S & 25th St E - Stop #17762 (northbound)\r\n3rd Ave S & 24th St E - Stop #17763 (northbound)\r\n3rd Ave S & 22nd St E - Stop #17764 (northbound)"
-    },
-    {
-      "id": "55146",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 30: Service Canceled",
-      "summary": "Route 30 trip departing Knox Ave N & Golden Valley Rd at 4:24 PM and four other trips canceled today",
-      "affectedRoutes": [
-        "Route 30"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 30 trip departing Knox Ave N & Golden Valley Rd",
-        "departing Knox Ave N & Golden Valley Rd",
-        "24 PM\ndeparting Knox Ave N & Golden Valley Rd"
-      ],
+      "direction": "Southbound",
+      "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-10T23:12:00.000Z",
-        "end": "2026-11-11T04:05:00.000Z"
+        "start": "2026-11-11T13:25:00.000Z",
+        "end": "2026-11-11T14:48:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-11-10T23:13:06.000Z",
-      "rawHeader": "Route 30 trip departing Knox Ave N & Golden Valley Rd at 4:24 PM and four other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 4:24 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 6:26 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 8:25 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 5:34 PM\r\ndeparting Westgate Station - Gate B at 7:36 PM"
+      "url": "https://www.metrotransit.org/route/760",
+      "updatedAt": "2026-11-11T10:14:26.000Z",
+      "rawHeader": "Southbound Route 760 trip departing Brooklyn Blvd P&R & 65th Ave N at 7:25 AM canceled",
+      "rawDescription": ""
     },
     {
-      "id": "55148",
+      "id": "55157",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 72: Service Canceled",
-      "summary": "Route 72 trip departing Sun Ray Transit Center & Gate D at 3:48 PM and five other trips canceled today",
+      "title": "Route 882: Southbound 5:40 AM Trip Canceled (Big Lake Park & Ride)",
+      "summary": "Southbound Route 882 trip departing Big Lake Park & Ride at 5:40 AM canceled today",
       "affectedRoutes": [
-        "Route 72"
+        "Route 882"
       ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing Pascal St N & Central Ave W",
-        "50 PM\ndeparting Pascal St N & Central Ave W",
-        "52 PM\ndeparting Pascal St N & Central Ave W"
-      ],
+      "direction": "Southbound",
+      "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-10T23:15:00.000Z",
-        "end": "2026-11-11T04:37:00.000Z"
+        "start": "2026-11-11T11:40:00.000Z",
+        "end": "2026-11-11T13:45:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-11-10T23:15:55.000Z",
-      "rawHeader": "Route 72 trip departing Sun Ray Transit Center & Gate D at 3:48 PM and five other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 4:50 PM\r\ndeparting Pascal St N & Central Ave W at 6:52 PM\r\ndeparting Pascal St N & Central Ave W at 8:53 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 3:48 PM\r\ndeparting Sun Ray Transit Center & Gate D at 5:48 PM\r\ndeparting Sun Ray Transit Center & Gate D at 7:51 PM"
+      "url": "https://www.metrotransit.org/route/882",
+      "updatedAt": "2026-11-11T10:13:28.000Z",
+      "rawHeader": "Southbound Route 882 trip departing Big Lake Park & Ride at 5:40 AM canceled today",
+      "rawDescription": ""
     },
     {
       "id": "52943",
@@ -721,13 +402,13 @@
       "riderAlternative": "Board at: Oak St SE & Washington Ave SE - Stop #41248 (southbound); 3rd St S & Cedar Ave S - Stop #42452 (eastbound)",
       "detourDetails": "Eastbound buses will travel regular route.",
       "activePeriod": {
-        "start": "2026-11-11T04:00:00.000Z",
-        "end": "2026-11-11T11:00:00.000Z"
+        "start": "2026-11-12T04:00:00.000Z",
+        "end": "2026-11-12T11:00:00.000Z"
       },
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-11-10T19:50:59.000Z",
+      "updatedAt": "2026-11-11T08:56:00.000Z",
       "rawHeader": "Route 2 detoured off Washington Ave from Oak St SE to Cedar Ave S from Tue Nov 10 to Thu Nov 12 from 10:00 PM to 5:00 AM each night due to construction",
       "rawDescription": "Get on/off westbound buses at:\r\nOak St SE & Washington Ave SE - Stop #41248 (southbound)\r\n3rd St S & Cedar Ave S - Stop #42452 (eastbound)\r\n\nNo eastbound stops missed.\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on Oak St to Washington Ave, continue on Oak St to Fulton St, left on Fulton St, right on Huron Blvd, merge onto westbound I-94, exit at Cedar Ave, right on Cedar Ave, right on 3rd St and resume regular route.\r\n\nAffected direction: Westbound\r\n\nAffected stops:\r\nWashington Ave & Coffman Union - Stop #13207 (westbound)\r\nWashington Ave & Willey Hall - Stop #13211 (westbound)"
     },
@@ -950,13 +631,13 @@
       "riderAlternative": "Board at: 15th Ave SE & 4th St SE - Stop #49242 (southbound); Temporary stop on Washington Ave just past Cedar Ave (westbound); Washington Ave S & 11th Ave S - Stop #19302 (westbound)",
       "detourDetails": "Eastbound buses will travel regular route.",
       "activePeriod": {
-        "start": "2026-11-11T04:00:00.000Z",
-        "end": "2026-11-11T11:00:00.000Z"
+        "start": "2026-11-12T04:00:00.000Z",
+        "end": "2026-11-12T11:00:00.000Z"
       },
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-11-10T19:48:29.000Z",
+      "updatedAt": "2026-11-11T08:56:00.000Z",
       "rawHeader": "Route 3 detoured off 15th Ave/Pleasant St from 4th St SE to Washington Ave and off Washington Ave from Pleasant St to Cedar Ave from Tue Nov 10 to Thu Nov 12 from 10:00 PM to 5:00 AM each night due to construction",
       "rawDescription": "Get on/off westbound buses at:\r\n15th Ave SE & 4th St SE - Stop #49242 (southbound)\r\nTemporary stop on Washington Ave just past Cedar Ave (westbound)\r\nWashington Ave S & 11th Ave S - Stop #19302 (westbound)\r\n\nNo eastbound stops missed.\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on 15th Ave SE to 4th St SE, right on 4th St SE, left on 10th Ave SE, right on Washington Ave, right on Cedar Ave and resume regular route.\r\n\nAffected direction: Westbound\r\n\nAffected stops:\r\nPleasant St & Eddy Hall - Stop #49237 (southbound)\r\nPleasant St SE & Scholars Walk - Stop #54046 (southbound)\r\nWashington Ave & Willey Hall - Stop #13211 (westbound)\r\nCedar Ave S & Washington Ave (15th Ave) - Stop #16325 (westbound)"
     },

@@ -2,172 +2,53 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-71-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-69-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-64-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-59-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-58-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-11T02:40:50.970Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-11T10:39:57.138Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (1) • **Route 11** (3) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 68** (4) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (3) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (1) • **Route 11** (2) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 68** (4) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 534** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 760** (2) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (2) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO A Line: Service Advisory
+### 🚨 Route 760: Southbound 7:25 AM Trip Canceled (Brooklyn Blvd Park & Ride & 65th Ave N)
 
-- **Affected Routes**: `METRO A Line`
-- **Direction**: Northbound
+- **Affected Routes**: `Route 760`
+- **Direction**: Southbound
 - **Severity**: `Critical`
-- **Corridors & Intersections**: 46th St & Minnehaha St; 46th St & 46th Ave S
-- **Closed Stops**: 46th St Station Gate A (Stop #51544), 46th St & Minnehaha Station (Stop #53362), 46th St & 46th Ave Station (Stop #51514), Ford & Woodlawn Station (Stop #56111), Ford & Finn Station (Stop #56112), Ford & Kenneth Station (Stop #4283), Ford & Fairview Station (Stop #56113), Snelling & Highland Station (Stop #56114) *(+2 more)*
 
-**Summary**: Northbound A Line trip departing 46th St Station Gate A at 7:50 PM will start from Snelling and Grand Station
+**Summary**: Southbound Route 760 trip departing Brooklyn Blvd Park & Ride & 65th Ave N at 7:25 AM canceled
 
-[Official Agency Advisory](https://www.metrotransit.org/route/aline)
+[Official Agency Advisory](https://www.metrotransit.org/route/760)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound A Line trip departing 46th St Station Gate A at 7:50 PM will start from Snelling and Grand Station
-
-```text
-Affected stops:
-46th St Station Gate A - Stop #51544 (northbound)
-46th St & Minnehaha Station - Stop #53362 (eastbound)
-46th St & 46th Ave Station - Stop #51514 (eastbound)
-Ford & Woodlawn Station - Stop #56111 (eastbound)
-Ford & Finn Station - Stop #56112 (eastbound)
-Ford & Kenneth Station - Stop #4283 (eastbound)
-Ford & Fairview Station - Stop #56113 (eastbound)
-Snelling & Highland Station - Stop #56114 (northbound)
-Snelling & Randolph Station - Stop #56115 (northbound)
-Snelling & St Clair Station - Stop #56116 (northbound)
-```
+**Header**: Southbound Route 760 trip departing Brooklyn Blvd P&R & 65th Ave N at 7:25 AM canceled
 
 </details>
 
 ---
 
-### 🚨 Route 11: Service Advisory
+### 🚨 Route 882: Southbound 5:40 AM Trip Canceled (Big Lake Park & Ride)
 
-- **Affected Routes**: `Route 11`
-- **Direction**: Both Directions
+- **Affected Routes**: `Route 882`
+- **Direction**: Southbound
 - **Severity**: `Critical`
-- **Corridors & Intersections**: 08 PM will start from 3rd Ave S & Franklin Ave E; Nicollet Ave S & 46th St E; Nicollet Ave S & 44th St E; Pleasant Ave & 50th St; 46th St & I-35w - St
-- **Closed Stops**: Nicollet Ave S & 46th St E (Stop #51828), Nicollet Ave S & 44th St E (Stop #1874), Pleasant Ave & 50th St / Busch Terrace (Stop #53550), 46th St & I-35W (Stop #53545), 46th St E & 3rd Ave S (Stop #17622), 46th St E & Clinton Ave S (Stop #17624), 4th Ave S & 46th St E (Stop #51829), 4th Ave S & 45th St E (Stop #17740) *(+23 more)*
 
-**Summary**: Northbound Route 11 trip departing Nicollet Ave S & 46th St E at 7:08 PM will start from 3rd Ave S & Franklin Ave E
+**Summary**: Southbound Route 882 trip departing Big Lake Park & Ride at 5:40 AM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/11)
+[Official Agency Advisory](https://www.metrotransit.org/route/882)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound Route 11 trip departing Nicollet Ave S & 46th St E at 7:08 PM will start from 3rd Ave S & Franklin Ave E
-
-```text
-Affected stops:
-Nicollet Ave S & 46th St E - Stop #51828 (northbound)
-Nicollet Ave S & 44th St E - Stop #1874 (northbound)
-Pleasant Ave & 50th St / Busch Terrace - Stop #53550 (northbound)
-46th St & I-35W - Stop #53545 (eastbound)
-46th St E & 3rd Ave S - Stop #17622 (eastbound)
-46th St E & Clinton Ave S - Stop #17624 (eastbound)
-4th Ave S & 46th St E - Stop #51829 (northbound)
-4th Ave S & 45th St E - Stop #17740 (northbound)
-4th Ave S & 44th St E - Stop #17741 (northbound)
-4th Ave S & 43rd St E - Stop #17742 (northbound)
-4th Ave S & 42nd St E - Stop #17743 (northbound)
-4th Ave S & 41st St E - Stop #17744 (northbound)
-4th Ave S & 40th St E - Stop #17745 (northbound)
-4th Ave S & 39th St E - Stop #17746 (northbound)
-4th Ave S & 38th St E - Stop #17747 (northbound)
-4th Ave S & 37th St E - Stop #17748 (northbound)
-4th Ave S & 36th St E - Stop #17749 (northbound)
-4th Ave S & 35th St E - Stop #17750 (northbound)
-4th Ave S & 34th St E - Stop #17751 (northbound)
-4th Ave S & 33rd St E - Stop #17752 (northbound)
-4th Ave S & 32nd St E - Stop #17753 (northbound)
-4th Ave S & 31st St E - Stop #17754 (northbound)
-4th Ave S & Lake St E - Stop #17755 (northbound)
-4th Ave S & 28th St E - Stop #51795 (northbound)
-5th Ave S & 28th St E - Stop #17757 (northbound)
-5th Ave S & 27th St E - Stop #17758 (northbound)
-5th Ave S & 26th St E - Stop #17759 (northbound)
-26th St E & 3rd Ave S - Stop #17761 (westbound)
-3rd Ave S & 25th St E - Stop #17762 (northbound)
-3rd Ave S & 24th St E - Stop #17763 (northbound)
-3rd Ave S & 22nd St E - Stop #17764 (northbound)
-```
-
-</details>
-
----
-
-### 🚨 Route 30: Service Canceled
-
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 30 trip departing Knox Ave N & Golden Valley Rd; departing Knox Ave N & Golden Valley Rd; 24 PM
-departing Knox Ave N & Golden Valley Rd
-
-**Summary**: Route 30 trip departing Knox Ave N & Golden Valley Rd at 4:24 PM and four other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 30 trip departing Knox Ave N & Golden Valley Rd at 4:24 PM and four other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Knox Ave N & Golden Valley Rd at 4:24 PM
-departing Knox Ave N & Golden Valley Rd at 6:26 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 8:25 PM
-
-Affected westbound trips:
-departing Westgate Station - Gate B at 5:34 PM
-departing Westgate Station - Gate B at 7:36 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 72: Service Canceled
-
-- **Affected Routes**: `Route 72`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Pascal St N & Central Ave W; 50 PM
-departing Pascal St N & Central Ave W; 52 PM
-departing Pascal St N & Central Ave W
-
-**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 3:48 PM and five other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/72)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 3:48 PM and five other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Pascal St N & Central Ave W at 4:50 PM
-departing Pascal St N & Central Ave W at 6:52 PM
-departing Pascal St N & Central Ave W at 8:53 PM
-
-Affected westbound trips:
-departing Sun Ray Transit Center & Gate D at 3:48 PM
-departing Sun Ray Transit Center & Gate D at 5:48 PM
-departing Sun Ray Transit Center & Gate D at 7:51 PM
-```
+**Header**: Southbound Route 882 trip departing Big Lake Park & Ride at 5:40 AM canceled today
 
 </details>
 

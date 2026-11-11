@@ -4,44 +4,26 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Wed, 11 Nov 2026 02:40:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 10:39:57 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO A Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/aline</link>
-      <guid isPermaLink="false">Metro Transit-55156-2026-11-11T01:55:53.000Z</guid>
-      <pubDate>Wed, 11 Nov 2026 01:55:53 GMT</pubDate>
+      <title>[Critical] Route 760: Southbound 7:25 AM Trip Canceled (Brooklyn Blvd Park &amp; Ride &amp; 65th Ave N)</title>
+      <link>https://www.metrotransit.org/route/760</link>
+      <guid isPermaLink="false">Metro Transit-55158-2026-11-11T10:14:26.000Z</guid>
+      <pubDate>Wed, 11 Nov 2026 10:14:26 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO A Line</category>
-      <description>Northbound A Line trip departing 46th St Station Gate A at 7:50 PM will start from Snelling and Grand Station</description>
+      <category>Route 760</category>
+      <description>Southbound Route 760 trip departing Brooklyn Blvd Park &amp; Ride &amp; 65th Ave N at 7:25 AM canceled</description>
     </item>
     <item>
-      <title>[Critical] Route 11: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/11</link>
-      <guid isPermaLink="false">Metro Transit-55154-2026-11-11T01:30:20.000Z</guid>
-      <pubDate>Wed, 11 Nov 2026 01:30:20 GMT</pubDate>
+      <title>[Critical] Route 882: Southbound 5:40 AM Trip Canceled (Big Lake Park &amp; Ride)</title>
+      <link>https://www.metrotransit.org/route/882</link>
+      <guid isPermaLink="false">Metro Transit-55157-2026-11-11T10:13:28.000Z</guid>
+      <pubDate>Wed, 11 Nov 2026 10:13:28 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 11</category>
-      <description>Northbound Route 11 trip departing Nicollet Ave S &amp; 46th St E at 7:08 PM will start from 3rd Ave S &amp; Franklin Ave E</description>
-    </item>
-    <item>
-      <title>[Critical] Route 30: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-55146-2026-11-10T23:13:06.000Z</guid>
-      <pubDate>Tue, 10 Nov 2026 23:13:06 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 30</category>
-      <description>Route 30 trip departing Knox Ave N &amp; Golden Valley Rd at 4:24 PM and four other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 72: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/72</link>
-      <guid isPermaLink="false">Metro Transit-55148-2026-11-10T23:15:55.000Z</guid>
-      <pubDate>Tue, 10 Nov 2026 23:15:55 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 72</category>
-      <description>Route 72 trip departing Sun Ray Transit Center &amp; Gate D at 3:48 PM and five other trips canceled today</description>
+      <category>Route 882</category>
+      <description>Southbound Route 882 trip departing Big Lake Park &amp; Ride at 5:40 AM canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -82,8 +64,8 @@
     <item>
       <title>[Moderate] Route 2: Detour via Oak St SE &amp; Washington Ave S</title>
       <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-55102-2026-11-10T19:50:59.000Z</guid>
-      <pubDate>Tue, 10 Nov 2026 19:50:59 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55102-2026-11-11T08:56:00.000Z</guid>
+      <pubDate>Wed, 11 Nov 2026 08:56:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 2</category>
       <description>Route 2 detoured off Washington Ave from Oak St SE to Cedar Ave S from Tue Nov 10 to Thu Nov 12 from 10:00 PM to 5:00 AM each night due to construction. Board at: Oak St SE &amp; Washington Ave SE - Stop #41248 (southbound); 3rd St S &amp; Cedar Ave S - Stop #42452 (eastbound). | Action: Board at: Oak St SE &amp; Washington Ave SE - Stop #41248 (southbound); 3rd St S &amp; Cedar Ave S - Stop #42452 (eastbound)</description>
@@ -100,8 +82,8 @@
     <item>
       <title>[Moderate] Route 3: Detour via Route 3 detoured off 15th Ave &amp; Pleasant St</title>
       <link>https://www.metrotransit.org/route/3</link>
-      <guid isPermaLink="false">Metro Transit-55103-2026-11-10T19:48:29.000Z</guid>
-      <pubDate>Tue, 10 Nov 2026 19:48:29 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55103-2026-11-11T08:56:00.000Z</guid>
+      <pubDate>Wed, 11 Nov 2026 08:56:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 3</category>
       <description>Route 3 detoured off 15th Ave/Pleasant St from 4th St SE to Washington Ave and off Washington Ave from Pleasant St to Cedar Ave from Tue Nov 10 to Thu Nov 12 from 10:00 PM to 5:00 AM each night due to construction. Board at: 15th Ave SE &amp; 4th St SE - Stop #49242 (southbound); Temporary stop on Washington Ave just past Cedar Ave (westbound); Washington Ave S &amp; 11th Ave S - Stop #19302 (westbound). | Action: Board at: 15th Ave SE &amp; 4th St SE - Stop #49242 (southbound); Temporary stop on Washington Ave just past Cedar Ave (westbound); Washington Ave S &amp; 11th Ave S - Stop #19302 (westbound)</description>
