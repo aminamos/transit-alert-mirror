@@ -2,144 +2,35 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-69-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-5-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-61-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-61-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-57-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-59-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-58-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-11T18:33:33.177Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-12T01:26:51.348Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **Route 2** (3) • **Route 2C** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (1) • **Route 11** (2) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 68** (2) • **Route 71** (3) • **Route 71B** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (2) • **Route 294** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (3) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (1) • **Route 11** (2) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 2, Route 2C: Eastbound 10:45 AM Trip Canceled (Franklin Ave W & Hennepin Ave S)
+### 🚨 METRO D Line: Northbound 6:01 PM Trip Canceled (MOA Transit Station Gate A)
 
-- **Affected Routes**: `Route 2` `Route 2C`
-- **Direction**: Eastbound
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Northbound
 - **Severity**: `Critical`
+- **Closed Stops**: Stop #9089, Stop #9263, Stop #9646, Stop #9658, Stop #8935, Stop #8945, Stop #8948, Stop #56823 *(+4 more)*
 
-**Summary**: Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 10:45 AM canceled
+**Summary**: Northbound D Line trip departing MOA Transit Station Gate A at 6:01 PM canceled from Emerson & West Broadway at 6:58 PM today due to traffic
 
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 10:45 AM canceled
-
-</details>
-
----
-
-### 🚨 Route 54: Westbound 11:34 AM Trip Canceled (7th St W & Lexington Pkwy S)
-
-- **Affected Routes**: `Route 54`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #42441, Stop #4611, Stop #48548, Stop #41253, Stop #41258, Stop #13128, Stop #13130, Stop #13132 *(+5 more)*
-
-**Summary**: Westbound Route 54 trip departing 7th St W & Lexington Pkwy S at 11:34 AM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/54)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 54 trip departing 7th St W & Lexington Pkwy S at 11:34 AM canceled today due to mechanical issue
-
-</details>
-
----
-
-### 🚨 Route 71: Service Canceled
-
-- **Affected Routes**: `Route 71`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today
-
-```text
-Affected northbound trips:
-departing Inver Hills College & Shelter at 12:38 PM
-departing Inver Hills College & Shelter at 3:38 PM
-
-Affected southbound trips:
-departing Market Place Dr & The Marketplace Ctr at 2:12 PM
-departing Market Place Dr & The Marketplace Ctr at 5:13 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 71, Route 71B: Service Advisory
-
-- **Affected Routes**: `Route 71` `Route 71B`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-- **Corridors & Intersections**: 11 AM will start from L'Orient St & Cayuga St
-- **Closed Stops**: Stop #18122, Stop #18124, Stop #18126, Stop #18128, Stop #18201, Stop #18202, Stop #18203, Stop #18211 *(+49 more)*
-
-**Summary**: Southbound Route 71B trip departing McMenemy St & Roselawn Ave at 11:11 AM will start from L'Orient St & Cayuga St at 11:22 AM today due to mechanical issue. Previous stops will be missed
-
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 71B trip departing McMenemy St & Roselawn Ave at 11:11 AM will start from L'Orient St & Cayuga St at 11:22 AM today due to mechanical issue. Previous stops will be missed
-
-</details>
-
----
-
-### 🚨 Route 802: Service Canceled
-
-- **Affected Routes**: `Route 802`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and fourteen other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/802)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and fourteen other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate E at 11:34 AM
-departing Northtown Transit Ctr Gate E at 1:34 PM
-departing Northtown Transit Ctr Gate E at 3:04 PM
-departing Northtown Transit Ctr Gate E at 3:34 PM
-departing Northtown Transit Ctr Gate E at 5:04 PM
-departing Northtown Transit Ctr Gate E at 5:34 PM
-departing Northtown Transit Ctr Gate E at 7:04 PM
-departing Northtown Transit Ctr Gate E at 9:04 PM
-
-Affected southbound trips:
-departing Anoka Tech College & Main Entrance at 12:42 PM
-departing Anoka Tech College & Main Entrance at 2:12 PM
-departing Anoka Tech College & Main Entrance at 2:42 PM
-departing Anoka Tech College & Main Entrance at 4:12 PM
-departing Anoka Tech College & Main Entrance at 4:42 PM
-departing Anoka Tech College & Main Entrance at 6:15 PM
-departing Anoka Tech College & Main Entrance at 8:17 PM
-```
+**Header**: Northbound D Line trip departing MOA Transit Station Gate A at 6:01 PM canceled from Emerson & West Broadway at 6:58 PM today due to traffic
 
 </details>
 
@@ -326,49 +217,6 @@ Franklin Ave W & Pleasant Ave S - Stop #13328 (WB)
 
 ---
 
-### ⚠️ Route 2: Detour via Oak St SE & Washington Ave S
-
-- **Affected Routes**: `Route 2`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Oak St SE & Washington Ave S; 3rd St S & Cedar Ave S; Washington Ave & Coffman Union - St; Washington Ave & Willey Hall - St
-- **Closed Stops**: Washington Ave & Coffman Union (Stop #13207), Washington Ave & Willey Hall (Stop #13211), Stop #41248, Stop #42452
-
-**Summary**: Route 2 detoured off Washington Ave from Oak St SE to Cedar Ave S from Tue Nov 10 to Thu Nov 12 from 10:00 PM to 5:00 AM each night due to construction. Board at: Oak St SE & Washington Ave SE - Stop #41248 (southbound); 3rd St S & Cedar Ave S - Stop #42452 (eastbound).
-
-> 💡 **Rider Action**: Board at: Oak St SE & Washington Ave SE - Stop #41248 (southbound); 3rd St S & Cedar Ave S - Stop #42452 (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 2 detoured off Washington Ave from Oak St SE to Cedar Ave S from Tue Nov 10 to Thu Nov 12 from 10:00 PM to 5:00 AM each night due to construction
-
-```text
-Get on/off westbound buses at:
-Oak St SE & Washington Ave SE - Stop #41248 (southbound)
-3rd St S & Cedar Ave S - Stop #42452 (eastbound)
-
-No eastbound stops missed.
-
-Eastbound buses will travel regular route.
-
-Westbound buses will travel regular route on Oak St to Washington Ave, continue on Oak St to Fulton St, left on Fulton St, right on Huron Blvd, merge onto westbound I-94, exit at Cedar Ave, right on Cedar Ave, right on 3rd St and resume regular route.
-
-Affected direction: Westbound
-
-Affected stops:
-Washington Ave & Coffman Union - Stop #13207 (westbound)
-Washington Ave & Willey Hall - Stop #13211 (westbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 3, Route 3A: Detour via Maryland Ave & Western Ave
 
 - **Affected Routes**: `Route 3` `Route 3A`
@@ -432,52 +280,6 @@ Rice St & Lawson Ave - Stop #10498 (northbound)
 Rice St & Geranium Ave - Stop #10501 (northbound)
 Maryland Ave & Rice St - Stop #47074 (westbound)
 Maryland Ave & Galtier St - Stop #5579 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 3: Detour via Route 3 detoured off 15th Ave & Pleasant St
-
-- **Affected Routes**: `Route 3`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Route 3 detoured off 15th Ave & Pleasant St; 4th St SE to Washington Ave & off Washington Ave; 15th Ave SE & 4th St S; Washington Ave S & 11th Ave S; Pleasant St & Eddy Hall - St
-- **Closed Stops**: Pleasant St & Eddy Hall (Stop #49237), Pleasant St SE & Scholars Walk (Stop #54046), Washington Ave & Willey Hall (Stop #13211), Cedar Ave S & Washington Ave (15th Ave) (Stop #16325), Stop #49242, Stop #19302
-
-**Summary**: Route 3 detoured off 15th Ave/Pleasant St from 4th St SE to Washington Ave and off Washington Ave from Pleasant St to Cedar Ave from Tue Nov 10 to Thu Nov 12 from 10:00 PM to 5:00 AM each night due to construction. Board at: 15th Ave SE & 4th St SE - Stop #49242 (southbound); Temporary stop on Washington Ave just past Cedar Ave (westbound); Washington Ave S & 11th Ave S - Stop #19302 (westbound).
-
-> 💡 **Rider Action**: Board at: 15th Ave SE & 4th St SE - Stop #49242 (southbound); Temporary stop on Washington Ave just past Cedar Ave (westbound); Washington Ave S & 11th Ave S - Stop #19302 (westbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/3)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 3 detoured off 15th Ave/Pleasant St from 4th St SE to Washington Ave and off Washington Ave from Pleasant St to Cedar Ave from Tue Nov 10 to Thu Nov 12 from 10:00 PM to 5:00 AM each night due to construction
-
-```text
-Get on/off westbound buses at:
-15th Ave SE & 4th St SE - Stop #49242 (southbound)
-Temporary stop on Washington Ave just past Cedar Ave (westbound)
-Washington Ave S & 11th Ave S - Stop #19302 (westbound)
-
-No eastbound stops missed.
-
-Eastbound buses will travel regular route.
-
-Westbound buses will travel regular route on 15th Ave SE to 4th St SE, right on 4th St SE, left on 10th Ave SE, right on Washington Ave, right on Cedar Ave and resume regular route.
-
-Affected direction: Westbound
-
-Affected stops:
-Pleasant St & Eddy Hall - Stop #49237 (southbound)
-Pleasant St SE & Scholars Walk - Stop #54046 (southbound)
-Washington Ave & Willey Hall - Stop #13211 (westbound)
-Cedar Ave S & Washington Ave (15th Ave) - Stop #16325 (westbound)
 ```
 
 </details>
@@ -2188,45 +1990,6 @@ Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 
 ---
 
-### ⚠️ Route 275: Detour via Wacouta St & 9th St E
-
-- **Affected Routes**: `Route 275`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Wacouta St & 9th St E; 6th St & Jackson St; Wacouta St & 7th St E; Wacouta St (7th St E to 6th St)
-- **Closed Stops**: Wacouta St & 7th St E (Stop #11857), Stop #41702, Stop #11858
-
-**Summary**: Route 275 detoured off Wacouta St from 7th St E to 6th St until later today. Board at: Wacouta St & 9th St E - Stop #41702 (southbound); 6th St & Jackson St - Stop #11858 (westbound).
-
-> 💡 **Rider Action**: Board at: Wacouta St & 9th St E - Stop #41702 (southbound); 6th St & Jackson St - Stop #11858 (westbound)
-
-> 🔄 **Detour Path**: Southbound buses will travel regular route on Wacouta to 7th St E, left on 7th St E, right on Wall St, right on 6th St and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/275)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 275 detoured off Wacouta St from 7th St E to 6th St  until later today
-
-```text
-Wacouta closed between 6th St E and 7th St E
-
-Get on/off buses at:
-Wacouta St & 9th St E - Stop #41702 (southbound)
-6th St & Jackson St - Stop #11858 (westbound)
-
-Southbound buses will travel regular route on Wacouta to 7th St E, left on 7th St E, right on Wall St, right on 6th St and resume regular route. 
-
-Northbound buses will travel regular route 
-Affected stops:
-Wacouta St & 7th St E - Stop #11857 (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 294: Detour via Stillwater Blvd & Pine St W
 
 - **Affected Routes**: `Route 294`
@@ -2653,36 +2416,6 @@ Zane Ave N & 65th Ave N - Stop #8840 (southbound)
 ```text
 Get on/off buses at:
 3rd St S & Nicollet Mall - Stop #40172 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 802: Stop Closed at Coon Rapids Blvd & Dakotah St
-
-- **Affected Routes**: `Route 802`
-- **Direction**: Northbound
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Oct 26 at 9:00 AM until further notice
-- **Corridors & Intersections**: Coon Rapids Blvd & Dakotah St; Coon Rapids Blvd & Blackfoot St; East River Rd & Queens Lane - St
-- **Closed Stops**: Stop #11059, Stop #11055, Stop #12070
-
-**Summary**: Coon Rapids Blvd & Dakotah St - Stop #11059 (westbound) is closed for Route 802 beginning Mon Oct 26 at 9:00 AM until further notice due to utility work. Board at: Coon Rapids Blvd & Blackfoot St - Stop #11055 (westbound); East River Rd & Queens Lane - Stop #12070 (northbound).
-
-> 💡 **Rider Action**: Board at: Coon Rapids Blvd & Blackfoot St - Stop #11055 (westbound); East River Rd & Queens Lane - Stop #12070 (northbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/802)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Coon Rapids Blvd & Dakotah St - Stop #11059 (westbound) is closed for Route 802 beginning Mon Oct 26 at 9:00 AM until further notice due to utility work
-
-```text
-Get on/off buses at:
-Coon Rapids Blvd & Blackfoot St - Stop #11055 (westbound)
-East River Rd & Queens Lane - Stop #12070 (northbound)
 ```
 
 </details>
