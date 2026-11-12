@@ -2,21 +2,99 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-60-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-64-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-57-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-3-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-57-brightgreen)](#-routes-index)
+[![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-59-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-12T09:40:01.769Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-12T18:06:35.739Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (1) • **Route 11** (2) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (1) • **Route 11** (3) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 68** (2) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 219** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 Route 71: Service Canceled
+
+- **Affected Routes**: `Route 71`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/71)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today
+
+```text
+Affected northbound trips:
+departing Inver Hills College & Shelter at 1:38 PM
+departing Inver Hills College & Shelter at 4:38 PM
+
+Affected southbound trips:
+departing Market Place Dr & The Marketplace Ctr at 3:10 PM
+departing Market Place Dr & The Marketplace Ctr at 6:15 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 219: Service Canceled
+
+- **Affected Routes**: `Route 219`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 219 trip departing Maplewood Mall Transit Center & Gate A at 12:42 PM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/219)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 219 trip departing Maplewood Mall Transit Center & Gate A at 12:42 PM and six other trips canceled today
+
+```text
+Affected northbound trips:
+departing Sun Ray Transit Center & Gate B at 1:43 PM
+departing Sun Ray Transit Center & Gate B at 3:43 PM
+departing Sun Ray Transit Center & Gate B at 5:43 PM
+
+Affected southbound trips:
+departing Maplewood Mall Transit Center & Gate A at 12:42 PM
+departing Maplewood Mall Transit Center & Gate A at 2:42 PM
+departing Maplewood Mall Transit Center & Gate A at 4:42 PM
+departing Maplewood Mall Transit Center & Gate A at 6:42 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 805: Southbound 11:38 AM Trip Canceled (1st Ave S & Monroe St)
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM canceled today
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -1497,7 +1575,7 @@ Affected st; Jackson St & Empire Dr; Jackson St & Sycamore St
 
 > 💡 **Rider Action**: Board at: Jackson St & Mount Airy (Winter St) - Stop #18014 (northbound); Jackson St & Sims Ave - Stop #18022 (northbound)
 
-> 🔄 **Detour Path**: Northbound buses will travel regular route on Jackson St to Pennsylvania Ave, right on Pennsylvania Ave, left on L' orient St, left on Cayuga St, right on Jackson St and resume regular route.
+> 🔄 **Detour Path**: Northbound buses will travel regular route on Jackson St to Mount Airy St, right on Mount Airy St, left on L' orient St, left on Cayuga St, right on Jackson St and resume regular route.
 
 [Official Agency Advisory](https://www.metrotransit.org/route/68)
 
@@ -1507,6 +1585,8 @@ Affected st; Jackson St & Empire Dr; Jackson St & Sycamore St
 **Header**: Route 68 detoured off Jackson St from Pennsylvania Ave to Cayuga St beginning Mon May 18 at 4:00 AM until further notice due to construction
 
 ```text
+Update 11/12 at 10:15am: northbound detour routing
+
 For northbound Route 68 get on/off buses at:
 Jackson St & Mount Airy (Winter St) - Stop #18014 (northbound)
 Jackson St & Sims Ave - Stop #18022 (northbound)
@@ -1515,7 +1595,7 @@ For southbound Route 68 get on/off buses at:
 Jackson St & Sims Ave - Stop #40138 (southbound)
 Jackson St & Winter St (Mount Airy) - Stop #40156 (southbound)
 
-Northbound buses will travel regular route on Jackson St to Pennsylvania Ave, right on Pennsylvania Ave, left on L' orient St, left on Cayuga St, right on Jackson St and resume regular route.
+Northbound buses will travel regular route on Jackson St to Mount Airy St, right on Mount Airy St, left on L' orient St, left on Cayuga St, right on Jackson St and resume regular route.
 
 Southbound buses will travel regular route on Jackson St to Cayuga St, left on Cayuga St, right on L' orient St, right on Pennsylvania Ave, left on Jackson St and resume regular route.
 
@@ -2560,6 +2640,25 @@ LaFayette Rd & Grove St - Stop #11923 (southbound)
 ```text
 The stop has been moved 100 ft south to the new raised boarding platform.
 ```
+
+</details>
+
+---
+
+### ℹ️ Route 11: Service Advisory
+
+- **Affected Routes**: `Route 11`
+- **Direction**: Northbound
+- **Severity**: `Minor`
+
+**Summary**: Route 11 service advisory until further notice: New temporary bus stop added on 2nd St NE & 5th Ave NE (northbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/11)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 11 service advisory until further notice: New temporary bus stop added on 2nd St NE & 5th Ave NE (northbound)
 
 </details>
 

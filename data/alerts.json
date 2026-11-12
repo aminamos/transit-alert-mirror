@@ -1,16 +1,94 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-12T09:40:01.769Z",
-    "totalAlerts": 60,
-    "criticalCount": 0,
+    "generatedAt": "2026-11-12T18:06:35.739Z",
+    "totalAlerts": 64,
+    "criticalCount": 3,
     "moderateCount": 57,
-    "minorCount": 3,
-    "affectedRoutesCount": 57,
+    "minorCount": 4,
+    "affectedRoutesCount": 59,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
+    {
+      "id": "55196",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 71: Service Canceled",
+      "summary": "Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today",
+      "affectedRoutes": [
+        "Route 71"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-12T19:38:00.000Z",
+        "end": "2026-11-13T01:45:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/71",
+      "updatedAt": "2026-11-12T16:52:16.000Z",
+      "rawHeader": "Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 1:38 PM\r\ndeparting Inver Hills College & Shelter at 4:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 3:10 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 6:15 PM"
+    },
+    {
+      "id": "55197",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 219: Service Canceled",
+      "summary": "Route 219 trip departing Maplewood Mall Transit Center & Gate A at 12:42 PM and six other trips canceled today",
+      "affectedRoutes": [
+        "Route 219"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-12T18:42:00.000Z",
+        "end": "2026-11-13T02:31:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/219",
+      "updatedAt": "2026-11-12T17:08:10.000Z",
+      "rawHeader": "Route 219 trip departing Maplewood Mall Transit Center & Gate A at 12:42 PM and six other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate B at 1:43 PM\r\ndeparting Sun Ray Transit Center & Gate B at 3:43 PM\r\ndeparting Sun Ray Transit Center & Gate B at 5:43 PM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate A at 12:42 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 2:42 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 4:42 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 6:42 PM"
+    },
+    {
+      "id": "55194",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 805: Southbound 11:38 AM Trip Canceled (1st Ave S & Monroe St)",
+      "summary": "Southbound Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM canceled today",
+      "affectedRoutes": [
+        "Route 805"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-12T17:38:00.000Z",
+        "end": "2026-11-12T19:24:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/805",
+      "updatedAt": "2026-11-12T17:08:01.000Z",
+      "rawHeader": "Southbound Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM canceled today",
+      "rawDescription": ""
+    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -466,7 +544,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-11-06T19:15:09.000Z",
+      "updatedAt": "2026-11-12T12:00:01.000Z",
       "rawHeader": "Route 3A detoured off Maryland Ave from Matilda St to Rice St and off Rice St from Maryland Ave to Como Ave beginning Thu Nov 5 at 6:00 AM until further notice due to construction",
       "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nMaryland Ave & Western Ave - Stop #5567 (eastbound)\r\nTemporary stop on Maryland Ave & Matilda St (eastbound)\r\nTemporary stop on Galtier St & Cook Ave (southbound)\r\nTemporary stop on Galtier St & Front Ave (southbound)\r\nTemporary stop on Galtier St & Atwater St (southbound)\r\nComo Ave & Rice St - Stop #973 (eastbound)\r\nRice St & Charles Ave - Stop #974 (southbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\nRice St & Charles Ave - Stop #10488 (northbound)\r\nComo Ave & Rice St - Stop #49895 (westbound)\r\nTemporary stop on Atwater St & Galtier St (eastbound)\r\nTemporary stop on Galtier St & Front Ave (northbound)\r\nTemporary stop on Matilda St & Maryland Ave (northbound)\r\nMaryland Ave & Western Ave - Stop #5583 (westbound)\r\n\nEastbound 3A buses will travel regular route on Maryland Ave to Matilda St, right on Matilda, left on Jessamine Ave, right on Galtier St, right on Atwater St, left on Western Ave, left on Como Ave, right on Rice St, and resume regular route.\r\n\nWestbound 3A buses will travel regular route on Rice St to Como Ave, left on Como, right on Western Ave, right on Atwater St, left on Galtier St, left on Jessamine Ave, right on Matilda St, left on Maryland Ave, and resume regular route.\r\n\nAffected stops:\r\nMaryland Ave & Galtier St - Stop #5571 (eastbound)\r\nMaryland Ave & Rice St - Stop #5575 (eastbound)\r\nRice St & Geranium Ave - Stop #10473 (southbound)\r\nRice St & Lawson Ave - Stop #10476 (southbound)\r\nRice St & Litchfield St - Stop #10479 (southbound)\r\nRice St & Milford St - Stop #10480 (southbound)\r\nRice St & Sycamore St - Stop #10482 (southbound)\r\nRice St & Pennsylvania Ave - Stop #10483 (southbound)\r\nRice St & Como Ave - Stop #10484 (southbound)\r\nRice St & Como Ave - Stop #10489 (northbound)\r\nRice St & Pennsylvania Ave - Stop #10490 (northbound)\r\nRice St & Sycamore St - Stop #10491 (northbound)\r\nRice St & Manitoba Ave - Stop #10494 (northbound)\r\nRice St & Front Ave - Stop #10496 (northbound)\r\nRice St & Lawson Ave - Stop #10498 (northbound)\r\nRice St & Geranium Ave - Stop #10501 (northbound)\r\nMaryland Ave & Rice St - Stop #47074 (westbound)\r\nMaryland Ave & Galtier St - Stop #5579 (westbound)"
     },
@@ -2128,7 +2206,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/62",
-      "updatedAt": "2026-11-06T19:16:23.000Z",
+      "updatedAt": "2026-11-12T12:00:01.000Z",
       "rawHeader": "Route 62 detoured off Rice St from Como Ave to Maryland Ave beginning Thu Nov 5 at 6:00 AM until further notice due to construction",
       "rawDescription": "For northbound Route 62 get on/off buses at:\r\nRice St & Charles Ave - Stop #10488 (northbound)\r\nComo Ave & Rice St - Stop #49895 (westbound)\r\nTemporary stop on Atwater St & Galtier St (eastbound)\r\nTemporary stop on Galtier St & Cook Ave (northbound)\r\nRice St & Ivy Ave - Stop #10507 (northbound)\r\n\nFor southbound Route 62 get on/off buses at:\r\nRice St & Orange Ave - Stop #10470 (southbound)\r\nTemporary stop on Galtier St & Cook Ave (southbound)\r\nTemporary stop on Galtier St & Front Ave (southbound)\r\nTemporary stop on Galtier St & Atwater St (southbound)\r\nComo Ave & Rice St - Stop #973 (eastbound)\r\nRice St & Charles Ave - Stop #974 (southbound)\r\n\nNorthbound buses will travel regular route on Rice St to Como Ave, left on Como, right on Western Ave, right on Atwater St, left on Galtier St, left on Jessamine Ave, right on Matilda St, right on Maryland Ave, left on Rice St, and resume regular route.\r\n\nSouthbound buses will travel regular route on Rice St to Maryland Ave, right on Maryland Ave, left on Matilda St, left on Jessamine St, right on Galtier St, right on Atwater St, left on Western Ave, left on Como Ave, right on Rice St, and resume regular route.\r\n\nAffected stops:\r\nRice St & Como Ave - Stop #10489 (northbound)\r\nRice St & Pennsylvania Ave - Stop #10490 (northbound)\r\nRice St & Sycamore St - Stop #10491 (northbound)\r\nRice St & Manitoba Ave - Stop #10494 (northbound)\r\nRice St & Front Ave - Stop #10496 (northbound)\r\nRice St & Lawson Ave - Stop #10498 (northbound)\r\nRice St & Geranium Ave - Stop #10501 (northbound)\r\nRice St & Maryland Ave - Stop #10503 (northbound)\r\nRice St & Maryland Ave - Stop #10471 (southbound)\r\nRice St & Geranium Ave - Stop #10473 (southbound)\r\nRice St & Lawson Ave - Stop #10476 (southbound)\r\nRice St & Litchfield St - Stop #10479 (southbound)\r\nRice St & Milford St - Stop #10480 (southbound)\r\nRice St & Sycamore St - Stop #10482 (southbound)\r\nRice St & Pennsylvania Ave - Stop #10483 (southbound)\r\nRice St & Como Ave - Stop #10484 (southbound)"
     },
@@ -2454,7 +2532,7 @@
         }
       ],
       "riderAlternative": "Board at: Jackson St & Mount Airy (Winter St) - Stop #18014 (northbound); Jackson St & Sims Ave - Stop #18022 (northbound)",
-      "detourDetails": "Northbound buses will travel regular route on Jackson St to Pennsylvania Ave, right on Pennsylvania Ave, left on L' orient St, left on Cayuga St, right on Jackson St and resume regular route.",
+      "detourDetails": "Northbound buses will travel regular route on Jackson St to Mount Airy St, right on Mount Airy St, left on L' orient St, left on Cayuga St, right on Jackson St and resume regular route.",
       "activePeriod": {
         "start": "2026-06-20T11:15:00.000Z",
         "textDescription": "Beginning Mon May 18 at 4:00 AM until further notice"
@@ -2462,9 +2540,9 @@
       "cause": "CONSTRUCTION",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/68",
-      "updatedAt": "2026-09-03T18:32:43.000Z",
+      "updatedAt": "2026-11-12T16:16:18.000Z",
       "rawHeader": "Route 68 detoured off Jackson St from Pennsylvania Ave to Cayuga St beginning Mon May 18 at 4:00 AM until further notice due to construction",
-      "rawDescription": "For northbound Route 68 get on/off buses at:\r\nJackson St & Mount Airy (Winter St) - Stop #18014 (northbound)\r\nJackson St & Sims Ave - Stop #18022 (northbound)\r\n\nFor southbound Route 68 get on/off buses at:\r\nJackson St & Sims Ave - Stop #40138 (southbound)\r\nJackson St & Winter St (Mount Airy) - Stop #40156 (southbound)\r\n\nNorthbound buses will travel regular route on Jackson St to Pennsylvania Ave, right on Pennsylvania Ave, left on L' orient St, left on Cayuga St, right on Jackson St and resume regular route.\r\n\nSouthbound buses will travel regular route on Jackson St to Cayuga St, left on Cayuga St, right on L' orient St, right on Pennsylvania Ave, left on Jackson St and resume regular route.\r\n\nAffected stops:\r\nJackson St & Empire Dr - Stop #18016 (northbound)\r\nJackson St & Sycamore St - Stop #18018 (northbound)\r\nJackson St & Cayuga St - Stop #18020 (northbound)\r\nJackson St & Cayuga St - Stop #40057 (southbound)\r\nSycamore St & Jackson St - Stop #40146 (westbound)"
+      "rawDescription": "Update 11/12 at 10:15am: northbound detour routing\r\n\nFor northbound Route 68 get on/off buses at:\r\nJackson St & Mount Airy (Winter St) - Stop #18014 (northbound)\r\nJackson St & Sims Ave - Stop #18022 (northbound)\r\n\nFor southbound Route 68 get on/off buses at:\r\nJackson St & Sims Ave - Stop #40138 (southbound)\r\nJackson St & Winter St (Mount Airy) - Stop #40156 (southbound)\r\n\nNorthbound buses will travel regular route on Jackson St to Mount Airy St, right on Mount Airy St, left on L' orient St, left on Cayuga St, right on Jackson St and resume regular route.\r\n\nSouthbound buses will travel regular route on Jackson St to Cayuga St, left on Cayuga St, right on L' orient St, right on Pennsylvania Ave, left on Jackson St and resume regular route.\r\n\nAffected stops:\r\nJackson St & Empire Dr - Stop #18016 (northbound)\r\nJackson St & Sycamore St - Stop #18018 (northbound)\r\nJackson St & Cayuga St - Stop #18020 (northbound)\r\nJackson St & Cayuga St - Stop #40057 (southbound)\r\nSycamore St & Jackson St - Stop #40146 (westbound)"
     },
     {
       "id": "55169",
@@ -4121,6 +4199,31 @@
       "updatedAt": "2026-11-09T06:00:01.000Z",
       "rawHeader": "10th Ave SE & 8th St SE - Stop #16047 (northbound) is permanently moving for Route 4",
       "rawDescription": "The stop has been moved 100 ft south to the new raised boarding platform."
+    },
+    {
+      "id": "55191",
+      "agency": "Metro Transit",
+      "severity": "Minor",
+      "title": "Route 11: Service Advisory",
+      "summary": "Route 11 service advisory until further notice: New temporary bus stop added on 2nd St NE & 5th Ave NE (northbound)",
+      "affectedRoutes": [
+        "Route 11"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-12T14:24:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "OTHER_EFFECT",
+      "url": "https://www.metrotransit.org/route/11",
+      "updatedAt": "2026-11-12T14:24:57.000Z",
+      "rawHeader": "Route 11 service advisory until further notice: New temporary bus stop added on 2nd St NE & 5th Ave NE (northbound)",
+      "rawDescription": ""
     },
     {
       "id": "51213",
