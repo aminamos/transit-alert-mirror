@@ -1,92 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-12T01:26:51.348Z",
-    "totalAlerts": 61,
-    "criticalCount": 1,
+    "generatedAt": "2026-11-12T09:40:01.769Z",
+    "totalAlerts": 60,
+    "criticalCount": 0,
     "moderateCount": 57,
     "minorCount": 3,
-    "affectedRoutesCount": 58,
+    "affectedRoutesCount": 57,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "55184",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO D Line: Northbound 6:01 PM Trip Canceled (MOA Transit Station Gate A)",
-      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 6:01 PM canceled from Emerson & West Broadway at 6:58 PM today due to traffic",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [
-        "9089",
-        "9263",
-        "9646",
-        "9658",
-        "8935",
-        "8945",
-        "8948",
-        "56823",
-        "56949",
-        "56950",
-        "56951",
-        "43275"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "9089"
-        },
-        {
-          "id": "9263"
-        },
-        {
-          "id": "9646"
-        },
-        {
-          "id": "9658"
-        },
-        {
-          "id": "8935"
-        },
-        {
-          "id": "8945"
-        },
-        {
-          "id": "8948"
-        },
-        {
-          "id": "56823"
-        },
-        {
-          "id": "56949"
-        },
-        {
-          "id": "56950"
-        },
-        {
-          "id": "56951"
-        },
-        {
-          "id": "43275"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-12T01:14:00.000Z",
-        "end": "2026-11-12T02:17:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-11-12T01:15:53.000Z",
-      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 6:01 PM canceled from Emerson & West Broadway at 6:58 PM today due to traffic",
-      "rawDescription": ""
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -4053,7 +3977,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/827",
-      "updatedAt": "2026-11-07T06:00:01.000Z",
+      "updatedAt": "2026-11-12T06:00:01.000Z",
       "rawHeader": "Route 827 detoured off Marshall St/Main St from Hennepin Ave to 8th Ave NE from Fri Nov 13 at 6:00 AM to Sat Nov 14 at 6:00 PM due to Hot Chocolate Run 2026",
       "rawDescription": "For northbound Route 827 get on/off buses at:\r\nHennepin Ave & 1st St S - Stop #17952 (northbound)\r\n2nd St NE & 4th Ave NE - Stop #14687 (northbound)\r\n2nd St NE & 7th Ave NE - Stop #14680 (northbound)\r\nMarshall St NE & Broadway St NE - Stop #57552 (northbound)\r\n\nFor southbound Route 827 get on/off buses at:\r\nMarshall St NE & Broadway St NE - Stop #57575 (southbound)\r\n2nd St NE & 5th Ave NE - Stop #14685 (southbound)\r\n2nd St NE & 3rd Ave NE - Stop #14689 (southbound)\r\nMarquette Ave & 2nd St S - Stop #19238 (southbound)\r\n\nNorthbound buses will travel the regular route on Hennepin Ave to Main St NE, continue on Hennepin Ave, left on 2nd St NE, left on 8th Ave NE, right on Marshall St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Marshall St to 8th Ave NE, left on 8th Ave NE, right on 2nd St NE, right on 1st Ave to Main St NE, continue on 1st Ave, and resume the regular route.\r\n\nAffected stops:\r\nMain St NE & 1st Ave NE - Stop #57549 (northbound)\r\nMain St NE & 3rd Ave NE - Stop #57550 (northbound)\r\nMarshall St NE & 8th Ave NE - Stop #57551 (northbound)\r\nMarshall St NE & 8th Ave NE - Stop #57576 (southbound)\r\nMarshall St NE & 3rd Ave NE - Stop #57577 (southbound)\r\nMain St NE & 1st Ave NE - Stop #57578 (southbound)"
     },
