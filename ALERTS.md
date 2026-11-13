@@ -2,207 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-72-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-8-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-64-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-59-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-5-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-62-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-57-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-13T00:04:47.786Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-13T07:46:21.776Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (3) • **Route 2** (2) • **Route 2C** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 17** (1) • **Route 18** (7) • **Route 18E** (1) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 38C** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (3) • **Route 64** (3) • **Route 68** (2) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (4) • **Route 74** (2) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 219** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (3) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (1) • **Route 11** (3) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (3) • **Route 64** (3) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (2) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 2, Route 2C: Eastbound 5:22 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)
-
-- **Affected Routes**: `Route 2` `Route 2C`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-
-**Summary**: Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 5:22 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 5:22 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 10: Southbound 4:42 PM Trip Canceled (53rd Ave NE & Petco)
-
-- **Affected Routes**: `Route 10`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound Route 10 trip departing 53rd Ave NE & Petco at 4:42 PM canceled
-
-[Official Agency Advisory](https://www.metrotransit.org/route/10)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 10 trip departing 53rd Ave NE & Petco at 4:42 PM canceled
-
-</details>
-
----
-
-### 🚨 Route 18, Route 18E: Southbound 4:26 PM Trip Canceled (Nicollet Ave S & 46th St W)
-
-- **Affected Routes**: `Route 18` `Route 18E`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #1339, Stop #1341, Stop #1342, Stop #1344, Stop #1345, Stop #1346, Stop #1347, Stop #1348 *(+52 more)*
-
-**Summary**: Southbound Route 18E trip departing Nicollet Ave S & 46th St W at 4:26 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/18)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 18E trip departing Nicollet Ave S & 46th St W at 4:26 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 38, Route 38C: Eastbound 4:21 PM Trip Canceled (Bren Rd E & Blue Circle Dr)
-
-- **Affected Routes**: `Route 38` `Route 38C`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-
-**Summary**: Eastbound Route 38C trip departing Bren Rd E & Blue Circle Dr at 4:21 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/38)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 38C trip departing Bren Rd E & Blue Circle Dr at 4:21 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 54: Westbound 5:19 PM Trip Canceled (7th St W & St Clair Ave)
-
-- **Affected Routes**: `Route 54`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #10366, Stop #11694, Stop #11698, Stop #13117, Stop #13121, Stop #13128, Stop #13130, Stop #13132 *(+10 more)*
-
-**Summary**: Westbound Route 54 trip departing 7th St W & St Clair Ave at 5:19 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/54)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 54 trip departing 7th St W & St Clair Ave at 5:19 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 71: Service Canceled
-
-- **Affected Routes**: `Route 71`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today
-
-```text
-Affected northbound trips:
-departing Inver Hills College & Shelter at 1:38 PM
-departing Inver Hills College & Shelter at 4:38 PM
-
-Affected southbound trips:
-departing Market Place Dr & The Marketplace Ctr at 3:10 PM
-departing Market Place Dr & The Marketplace Ctr at 6:15 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 72: Service Canceled
-
-- **Affected Routes**: `Route 72`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 72 trip departing Pascal St N & Central Ave W; departing Pascal St N & Central Ave W; 53 PM
-departing Pascal St N & Central Ave W
-
-**Summary**: Route 72 trip departing Pascal St N & Central Ave W at 7:53 PM and two other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/72)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 72 trip departing Pascal St N & Central Ave W at 7:53 PM and two other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Pascal St N & Central Ave W at 7:53 PM
-departing Pascal St N & Central Ave W at 9:53 PM
-
-Affected westbound trips:
-departing Sun Ray Transit Center & Gate D at 8:51 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 219: Service Canceled
-
-- **Affected Routes**: `Route 219`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 219 trip departing Maplewood Mall Transit Center & Gate A at 12:42 PM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/219)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 219 trip departing Maplewood Mall Transit Center & Gate A at 12:42 PM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Sun Ray Transit Center & Gate B at 1:43 PM
-departing Sun Ray Transit Center & Gate B at 3:43 PM
-departing Sun Ray Transit Center & Gate B at 5:43 PM
-
-Affected southbound trips:
-departing Maplewood Mall Transit Center & Gate A at 12:42 PM
-departing Maplewood Mall Transit Center & Gate A at 2:42 PM
-departing Maplewood Mall Transit Center & Gate A at 4:42 PM
-departing Maplewood Mall Transit Center & Gate A at 6:42 PM
-```
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
