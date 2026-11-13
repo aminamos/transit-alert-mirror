@@ -2,17 +2,17 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-64-blue)](#)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-66-blue)](#)
 [![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-59-orange)](#-moderate-detours--changes)
+[![Moderate](https://img.shields.io/badge/Moderate-61-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-5-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-57-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-13T07:46:21.776Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-13T16:06:12.728Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (3) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (1) • **Route 11** (3) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (3) • **Route 64** (3) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (2) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (3) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 17** (2) • **Route 18** (6) • **Route 22** (1) • **Route 25** (2) • **Route 27** (2) • **Route 36** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (3) • **Route 64** (3) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (2) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
@@ -550,6 +550,48 @@ Nicollet Mall & 11th St S - Stop #17990 (northbound)
 
 ---
 
+### ⚠️ Route 10, Route 25: Detour via 3rd Ave S & 11th St S
+
+- **Affected Routes**: `Route 10` `Route 25`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 3rd Ave S & 11th St S; Nicollet Ave S & Grant St E; Grant St E & Nicollet Ave S; 2nd Ave S & Convention Center - St; Grant St (Nicollet Ave to 12th St)
+- **Closed Stops**: Grant St E & Nicollet Ave S (Stop #19327), 2nd Ave S & Convention Center (Stop #41911), 2nd Ave S & Convention Center (Stop #19250), Stop #19277, Stop #17988, Stop #1197, Stop #19337
+
+**Summary**: Routes 10 and 25 detoured off Grant St from Nicollet Ave to 12th St until further notice. Board at: 3rd Ave S & 11th St S - Stop #19277 (southbound); Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound).
+
+> 💡 **Rider Action**: Board at: 3rd Ave S & 11th St S - Stop #19277 (southbound); Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/25)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Routes 10 and 25 detoured off Grant St from Nicollet Ave to 12th St until further notice
+
+```text
+Get on/off northbound buses at:
+3rd Ave S & 11th St S - Stop #19277 (southbound)
+Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)
+
+Get on/off southbound buses at:
+Nicollet Ave S & Grant St E - Stop #1197 (southbound)
+Leamington Ramp & Lower - Gate #7 - Stop #19337 (eastbound)
+
+Northbound buses departing Leamington Ramp will travel the regular route on 3rd Ave to 11th St, continue on 3rd Ave, right on 16th St which becomes 15th St, right on Nicollet Ave to Grant St, continue on Nicollet Mall, and resume the regular route.
+
+Southbound buses traveling to Leamington Ramp will travel the regular route on Nicollet Mall to Grant St, continue on Nicollet Ave, left on 15th St which becomes 16th St, left on 3rd Ave to 12th St, continue on 3rd Ave, and resume the regular route.
+
+Affected stops:
+Grant St E & Nicollet Ave S - Stop #19327 (eastbound)
+2nd Ave S & Convention Center - Stop #41911 (southbound)
+2nd Ave S & Convention Center - Stop #19250 (northbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 11: Detour via 2nd St NE & 4th Ave N
 
 - **Affected Routes**: `Route 11`
@@ -587,6 +629,53 @@ Southbound buses will travel the regular route on 2nd St NE to 7th Ave NE, left 
 Affected stops:
 2nd St NE & 7th Ave NE - Stop #14680 (northbound)
 2nd St NE & 7th Ave NE - Stop #14681 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 17: Detour via 24th St W & Pleasant Ave S
+
+- **Affected Routes**: `Route 17`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 24th St W & Pleasant Ave S; 24th St W & Lyndale Ave S; 24th St W & Dupont Ave S; 24th St W & Bryant Ave S; 24th St W & Hennepin Ave S
+- **Closed Stops**: 24th St W & Dupont Ave S (Stop #40335), 24th St W & Bryant Ave S (Stop #40333), 24th St W & Lyndale Ave S (Stop #40339), 24th St W & Bryant Ave S (Stop #4669), 24th St W & Hennepin Ave S (Stop #4672), Stop #1327, Stop #40342, Stop #4667 *(+1 more)*
+
+**Summary**: Route 17 detoured off 24th St from Lyndale Ave to Hennepin Ave from 9:00 AM to 1:00 PM on Mon Nov 16 due to tree trimming. Board at: Hennepin & 25th St Station - Stop #1327 (northbound); Temporary stop on 24th St just past Lyndale Ave (eastbound); 24th St W & Pleasant Ave S - Stop #40342 (eastbound).
+
+> 💡 **Rider Action**: Board at: Hennepin & 25th St Station - Stop #1327 (northbound); Temporary stop on 24th St just past Lyndale Ave (eastbound); 24th St W & Pleasant Ave S - Stop #40342 (eastbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel the regular route on Hennepin Ave to 24th St, continue on Hennepin Ave, right on Franklin Ave, right on Lyndale Ave, left on 24th St, and resume the regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/17)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 17 detoured off 24th St from Lyndale Ave to Hennepin Ave from 9:00 AM to 1:00 PM on Mon Nov 16 due to tree trimming
+
+```text
+For eastbound Route 17 get on/off buses at:
+Hennepin & 25th St Station - Stop #1327 (northbound)
+Temporary stop on 24th St just past Lyndale Ave (eastbound)
+24th St W & Pleasant Ave S - Stop #40342 (eastbound)
+
+For westbound Route 17 get on/off buses at:
+24th St W & Lyndale Ave S - Stop #4667 (westbound)
+Hennepin & 25th St Station - Stop #1100 (southbound)
+
+Eastbound buses will travel the regular route on Hennepin Ave to 24th St, continue on Hennepin Ave, right on Franklin Ave, right on Lyndale Ave, left on 24th St, and resume the regular route.
+
+Westbound buses will travel the regular route on 24th St to Bryant Ave, right on Bryant Ave, left on 22nd St, left on Hennepin Ave to 24th St, continue on Hennepin Ave, and resume the regular route.
+
+Affected stops:
+24th St W & Dupont Ave S - Stop #40335 (eastbound)
+24th St W & Bryant Ave S - Stop #40333 (eastbound)
+24th St W & Lyndale Ave S - Stop #40339 (eastbound)
+24th St W & Bryant Ave S - Stop #4669 (westbound)
+24th St W & Hennepin Ave S - Stop #4672 (westbound)
 ```
 
 </details>

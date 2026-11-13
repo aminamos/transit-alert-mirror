@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-13T07:46:21.776Z",
-    "totalAlerts": 64,
+    "generatedAt": "2026-11-13T16:06:12.728Z",
+    "totalAlerts": 66,
     "criticalCount": 0,
-    "moderateCount": 59,
+    "moderateCount": 61,
     "minorCount": 5,
     "affectedRoutesCount": 57,
     "agencies": [
@@ -112,7 +112,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/gold",
-      "updatedAt": "2026-11-13T06:00:01.000Z",
+      "updatedAt": "2026-11-13T09:01:00.000Z",
       "rawHeader": "Gold Line detoured off 7th St from Wacouta St to Mounds Blvd until further notice",
       "rawDescription": "8/25 at 8:30 AM: update to alternate evening and weekend eastbound detour.\r\n\nGet on/off buses at:\r\n6th St & Jackson Station - Stop #57456 (westbound)\r\n\nEastbound buses will travel regular route on 5th St E to Wacouta St, continue on 5th St, left on Broadway St onto eastbound I-94, exit for Mounds Blvd, right on Mounds Blvd, left on 3rd St E, right onto the Gold Line Guideway, and resume the regular route.\r\n\nWhen Wall St and Broadway St are closed for evening and weekend events only, eastbound buses will travel the regular route in 5th St to Sibley St, left on Sibley St, right on 7th St to Wacouta St, continue on 7th St, and resume the regular route.\r\n\nWestbound buses will travel the regular route on the Gold Line Guideway to Mounds Blvd, left onto westbound I-94, exit for 12th St, left on Jackson St, right on 6th St, and resume regular route.\r\n\nAffected stops:\r\nWall St & 7th St / 6th St - Stop #43282 (southbound)"
     },
@@ -824,6 +824,74 @@
       "rawDescription": "Updated 11/10 at 11:30 AM to reflect additional northbound detour.\r\n\nNote: This detour will only be in effect when the road is blocked. If road is open, buses will follow regular route.\r\n\nGet on/off northbound/eastbound buses at:\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\n\nNo southbound/westbound stops missed.\r\n\nNorthbound/eastbound buses will travel regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume regular route.\r\n\nSouthbound/westbound buses will travel regular route on Nicollet Mall to 11th St, right on 11th St, left on LaSalle Ave, left on 12th St, right on Nicollet Mall, and resume regular route.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)"
     },
     {
+      "id": "55223",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 10, Route 25: Detour via 3rd Ave S & 11th St S",
+      "summary": "Routes 10 and 25 detoured off Grant St from Nicollet Ave to 12th St until further notice. Board at: 3rd Ave S & 11th St S - Stop #19277 (southbound); Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound).",
+      "affectedRoutes": [
+        "Route 10",
+        "Route 25"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "3rd Ave S & 11th St S",
+        "Nicollet Ave S & Grant St E",
+        "Grant St E & Nicollet Ave S",
+        "2nd Ave S & Convention Center - St",
+        "Grant St (Nicollet Ave to 12th St)"
+      ],
+      "closedStopIds": [
+        "19327",
+        "41911",
+        "19250",
+        "19277",
+        "17988",
+        "1197",
+        "19337"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "19327",
+          "name": "Grant St E & Nicollet Ave S",
+          "direction": "eastbound"
+        },
+        {
+          "id": "41911",
+          "name": "2nd Ave S & Convention Center",
+          "direction": "southbound"
+        },
+        {
+          "id": "19250",
+          "name": "2nd Ave S & Convention Center",
+          "direction": "northbound"
+        },
+        {
+          "id": "19277"
+        },
+        {
+          "id": "17988"
+        },
+        {
+          "id": "1197"
+        },
+        {
+          "id": "19337"
+        }
+      ],
+      "riderAlternative": "Board at: 3rd Ave S & 11th St S - Stop #19277 (southbound); Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-13T14:38:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/25",
+      "updatedAt": "2026-11-13T14:38:36.000Z",
+      "rawHeader": "Routes 10 and 25 detoured off Grant St from Nicollet Ave to 12th St until further notice",
+      "rawDescription": "Get on/off northbound buses at:\r\n3rd Ave S & 11th St S - Stop #19277 (southbound)\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\n\nGet on/off southbound buses at:\r\nNicollet Ave S & Grant St E - Stop #1197 (southbound)\r\nLeamington Ramp & Lower - Gate #7 - Stop #19337 (eastbound)\r\n\nNorthbound buses departing Leamington Ramp will travel the regular route on 3rd Ave to 11th St, continue on 3rd Ave, right on 16th St which becomes 15th St, right on Nicollet Ave to Grant St, continue on Nicollet Mall, and resume the regular route.\r\n\nSouthbound buses traveling to Leamington Ramp will travel the regular route on Nicollet Mall to Grant St, continue on Nicollet Ave, left on 15th St which becomes 16th St, left on 3rd Ave to 12th St, continue on 3rd Ave, and resume the regular route.\r\n\nAffected stops:\r\nGrant St E & Nicollet Ave S - Stop #19327 (eastbound)\r\n2nd Ave S & Convention Center - Stop #41911 (southbound)\r\n2nd Ave S & Convention Center - Stop #19250 (northbound)"
+    },
+    {
       "id": "55140",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -883,6 +951,86 @@
       "updatedAt": "2026-11-10T18:22:04.000Z",
       "rawHeader": "Route 11 detoured off 2nd St NE from 6th Ave NE to 7th Ave NE from 8:00 AM to 3:00 PM on Mon Nov 16 due to event",
       "rawDescription": "For northbound Route 11 get on/off buses at:\r\n2nd St NE & 4th Ave NE - Stop #14687 (northbound)\r\n2nd St NE & 8th Ave NE - Stop #14679 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\n2nd St NE & 8th Ave NE - Stop #14678 (southbound)\r\n2nd St NE & 5th Ave NE - Stop #14685 (southbound)\r\n\nNorthbound buses will travel the regular route on 2nd St NE to 6th Ave NE, right on 6th Ave NE, left on University Ave NE, left on 7th Ave NE, right on 2nd St NE, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on 2nd St NE to 7th Ave NE, left on 7th Ave NE, right on University Ave NE, right on 6th Ave NE, left on 2nd St NE, and resume the regular route.\r\n\nAffected stops:\r\n2nd St NE & 7th Ave NE - Stop #14680 (northbound)\r\n2nd St NE & 7th Ave NE - Stop #14681 (southbound)"
+    },
+    {
+      "id": "55222",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 17: Detour via 24th St W & Pleasant Ave S",
+      "summary": "Route 17 detoured off 24th St from Lyndale Ave to Hennepin Ave from 9:00 AM to 1:00 PM on Mon Nov 16 due to tree trimming. Board at: Hennepin & 25th St Station - Stop #1327 (northbound); Temporary stop on 24th St just past Lyndale Ave (eastbound); 24th St W & Pleasant Ave S - Stop #40342 (eastbound).",
+      "affectedRoutes": [
+        "Route 17"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "24th St W & Pleasant Ave S",
+        "24th St W & Lyndale Ave S",
+        "24th St W & Dupont Ave S",
+        "24th St W & Bryant Ave S",
+        "24th St W & Hennepin Ave S"
+      ],
+      "closedStopIds": [
+        "40335",
+        "40333",
+        "40339",
+        "4669",
+        "4672",
+        "1327",
+        "40342",
+        "4667",
+        "1100"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "40335",
+          "name": "24th St W & Dupont Ave S",
+          "direction": "eastbound"
+        },
+        {
+          "id": "40333",
+          "name": "24th St W & Bryant Ave S",
+          "direction": "eastbound"
+        },
+        {
+          "id": "40339",
+          "name": "24th St W & Lyndale Ave S",
+          "direction": "eastbound"
+        },
+        {
+          "id": "4669",
+          "name": "24th St W & Bryant Ave S",
+          "direction": "westbound"
+        },
+        {
+          "id": "4672",
+          "name": "24th St W & Hennepin Ave S",
+          "direction": "westbound"
+        },
+        {
+          "id": "1327"
+        },
+        {
+          "id": "40342"
+        },
+        {
+          "id": "4667"
+        },
+        {
+          "id": "1100"
+        }
+      ],
+      "riderAlternative": "Board at: Hennepin & 25th St Station - Stop #1327 (northbound); Temporary stop on 24th St just past Lyndale Ave (eastbound); 24th St W & Pleasant Ave S - Stop #40342 (eastbound)",
+      "detourDetails": "Eastbound buses will travel the regular route on Hennepin Ave to 24th St, continue on Hennepin Ave, right on Franklin Ave, right on Lyndale Ave, left on 24th St, and resume the regular route.",
+      "activePeriod": {
+        "start": "2026-11-16T15:00:00.000Z",
+        "end": "2026-11-16T19:00:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/17",
+      "updatedAt": "2026-11-13T13:55:01.000Z",
+      "rawHeader": "Route 17 detoured off 24th St from Lyndale Ave to Hennepin Ave from 9:00 AM to 1:00 PM on Mon Nov 16 due to tree trimming",
+      "rawDescription": "For eastbound Route 17 get on/off buses at:\r\nHennepin & 25th St Station - Stop #1327 (northbound)\r\nTemporary stop on 24th St just past Lyndale Ave (eastbound)\r\n24th St W & Pleasant Ave S - Stop #40342 (eastbound)\r\n\nFor westbound Route 17 get on/off buses at:\r\n24th St W & Lyndale Ave S - Stop #4667 (westbound)\r\nHennepin & 25th St Station - Stop #1100 (southbound)\r\n\nEastbound buses will travel the regular route on Hennepin Ave to 24th St, continue on Hennepin Ave, right on Franklin Ave, right on Lyndale Ave, left on 24th St, and resume the regular route.\r\n\nWestbound buses will travel the regular route on 24th St to Bryant Ave, right on Bryant Ave, left on 22nd St, left on Hennepin Ave to 24th St, continue on Hennepin Ave, and resume the regular route.\r\n\nAffected stops:\r\n24th St W & Dupont Ave S - Stop #40335 (eastbound)\r\n24th St W & Bryant Ave S - Stop #40333 (eastbound)\r\n24th St W & Lyndale Ave S - Stop #40339 (eastbound)\r\n24th St W & Bryant Ave S - Stop #4669 (westbound)\r\n24th St W & Hennepin Ave S - Stop #4672 (westbound)"
     },
     {
       "id": "48754",
@@ -2230,7 +2378,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/63",
-      "updatedAt": "2026-11-13T06:00:01.000Z",
+      "updatedAt": "2026-11-13T09:01:00.000Z",
       "rawHeader": "Route 63 detoured off Wacouta St from 5th St to 7th St and off 7th St from Wacouta St to Mounds Blvd until further notice due to construction",
       "rawDescription": "Updated at 2:18 PM 8/1 to extend end date to further notice.\r\n\nGet on/off buses at:\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\n5th St & Sibley St - Stop #11839 (eastbound)\r\n3rd St E & Maria Ave - Stop #3152 (eastbound)\r\nNo westbound stops missed\r\n\nEastbound buses will travel regular route on 5th St to Wacouta St, continue on 5th St to Broadway St, left on Broadway St, right onto eastbound I-94, take left exit to Mounds Blvd, right on Mounds Blvd and resume regular route.\r\n\nWestbound buses will travel regular route on Mounds Blvd to westbound I-94 exit, take left exit onto westbound I-94, exit right onto 12th St, left on Jackson St, left on 7th St, right on Wall St and resume regular route.\r\n\nAffected stops:\r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)\r\n7th St E & Wall St - Stop #57215 (eastbound)"
     },
@@ -2539,7 +2687,7 @@
       "cause": "CONSTRUCTION",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/68",
-      "updatedAt": "2026-11-12T16:16:18.000Z",
+      "updatedAt": "2026-11-13T14:47:39.000Z",
       "rawHeader": "Route 68 detoured off Jackson St from Pennsylvania Ave to Cayuga St beginning Mon May 18 at 4:00 AM until further notice due to construction",
       "rawDescription": "Update 11/12 at 10:15am: northbound detour routing\r\n\nFor northbound Route 68 get on/off buses at:\r\nJackson St & Mount Airy (Winter St) - Stop #18014 (northbound)\r\nJackson St & Sims Ave - Stop #18022 (northbound)\r\n\nFor southbound Route 68 get on/off buses at:\r\nJackson St & Sims Ave - Stop #40138 (southbound)\r\nJackson St & Winter St (Mount Airy) - Stop #40156 (southbound)\r\n\nNorthbound buses will travel regular route on Jackson St to Mount Airy St, right on Mount Airy St, left on L' orient St, left on Cayuga St, right on Jackson St and resume regular route.\r\n\nSouthbound buses will travel regular route on Jackson St to Cayuga St, left on Cayuga St, right on L' orient St, right on Pennsylvania Ave, left on Jackson St and resume regular route.\r\n\nAffected stops:\r\nJackson St & Empire Dr - Stop #18016 (northbound)\r\nJackson St & Sycamore St - Stop #18018 (northbound)\r\nJackson St & Cayuga St - Stop #18020 (northbound)\r\nJackson St & Cayuga St - Stop #40057 (southbound)\r\nSycamore St & Jackson St - Stop #40146 (westbound)"
     },
@@ -2644,7 +2792,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/68",
-      "updatedAt": "2026-11-11T15:39:44.000Z",
+      "updatedAt": "2026-11-13T14:32:00.000Z",
       "rawHeader": "Route 68 detoured off Jackson St/Timberlake Rd from Larpenteur Ave to Arlington Ave until further notice due to construction",
       "rawDescription": "Get on/off southbound buses at:\r\nLarpenteur Ave & Jackson St - Stop #49947 (eastbound)\r\nArlington Ave E & Klainert St - Stop #81115 (westbound)\r\nLOrient St & #1301 - Stop #49948 (southbound)\r\n\nNo northbound bus stops missed.\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on Larpenteur Ave to Jackson St, continue on Larpenteur Ave to L'Orient St, right on L'Orient St, right on Arlington Ave, left on L'Orient St and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nJackson St & Wheelock Pkwy - Stop #49677 (southbound)\r\nTimberlake Rd N & #1581 - Stop #18095 (eastbound)\r\nTimberlake Rd & Biglow Lane (N) - Stop #18096 (southbound)\r\nTimberlake Rd N & Klainert St - Stop #18098 (southbound)\r\nTimberlake Rd S & #1479 - Stop #43773 (westbound)\r\nArlington Ave E & Jackson St - Stop #40095 (eastbound)\r\nArlington Ave E & #179 - Stop #51606 (eastbound)\r\nArlington Ave E & LOrient St - Stop #40108 (eastbound)"
     },
@@ -2784,7 +2932,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-11-13T06:00:01.000Z",
+      "updatedAt": "2026-11-13T09:01:00.000Z",
       "rawHeader": "Route 72 detoured off Wacouta St from 5th St to 7th St and off 7th St from Wacouta St to Mounds Blvd until further notice due to construction",
       "rawDescription": "Update 8/11 at 8:30 AM: Change to westbound detour routing, affected stops, and get on/off stops.\r\n\nFor eastbound Route 72 get on/off buses at:\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\n5th St & Sibley St - Stop #11839 (eastbound)\r\nPlum St & Mounds Blvd - Stop #13730 (eastbound)\r\n\nNo westbound stops are missed.\r\n\nEastbound buses will travel regular route on 5th St to Wacouta St, continue on 5th St to Broadway St, left on Broadway St, right onto eastbound I-94, take left exit to Mounds Blvd, right on Mounds Blvd and resume regular route.\r\n\nWestbound buses will travel regular route on Mounds Blvd to westbound I-94 exit, take left exit onto westbound I-94, exit right onto 12th St, left on Jackson St, left on 7th St, right on Wall St, and resume the regular route.\r\n\nAffected stops:\r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound)"
     },
@@ -4129,7 +4277,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/827",
-      "updatedAt": "2026-11-13T06:00:01.000Z",
+      "updatedAt": "2026-11-13T11:30:01.000Z",
       "rawHeader": "Route 827 detoured off Marshall St/Main St from Hennepin Ave to 8th Ave NE from Fri Nov 13 at 6:00 AM to Sat Nov 14 at 6:00 PM due to Hot Chocolate Run 2026",
       "rawDescription": "For northbound Route 827 get on/off buses at:\r\nHennepin Ave & 1st St S - Stop #17952 (northbound)\r\n2nd St NE & 4th Ave NE - Stop #14687 (northbound)\r\n2nd St NE & 7th Ave NE - Stop #14680 (northbound)\r\nMarshall St NE & Broadway St NE - Stop #57552 (northbound)\r\n\nFor southbound Route 827 get on/off buses at:\r\nMarshall St NE & Broadway St NE - Stop #57575 (southbound)\r\n2nd St NE & 5th Ave NE - Stop #14685 (southbound)\r\n2nd St NE & 3rd Ave NE - Stop #14689 (southbound)\r\nMarquette Ave & 2nd St S - Stop #19238 (southbound)\r\n\nNorthbound buses will travel the regular route on Hennepin Ave to Main St NE, continue on Hennepin Ave, left on 2nd St NE, left on 8th Ave NE, right on Marshall St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Marshall St to 8th Ave NE, left on 8th Ave NE, right on 2nd St NE, right on 1st Ave to Main St NE, continue on 1st Ave, and resume the regular route.\r\n\nAffected stops:\r\nMain St NE & 1st Ave NE - Stop #57549 (northbound)\r\nMain St NE & 3rd Ave NE - Stop #57550 (northbound)\r\nMarshall St NE & 8th Ave NE - Stop #57551 (northbound)\r\nMarshall St NE & 8th Ave NE - Stop #57576 (southbound)\r\nMarshall St NE & 3rd Ave NE - Stop #57577 (southbound)\r\nMain St NE & 1st Ave NE - Stop #57578 (southbound)"
     },
@@ -4296,7 +4444,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "STOP_MOVED",
-      "updatedAt": "2026-11-09T06:00:01.000Z",
+      "updatedAt": "2026-11-13T09:01:00.000Z",
       "rawHeader": "10th Ave SE & 8th St SE - Stop #16047 (northbound) is permanently moving for Route 4",
       "rawDescription": "The stop has been moved 100 ft south to the new raised boarding platform."
     },

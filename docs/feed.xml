@@ -4,7 +4,7 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Fri, 13 Nov 2026 07:46:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:06:12 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
@@ -28,8 +28,8 @@
     <item>
       <title>[Moderate] METRO Gold Line: Detour via 6th St &amp; Jackson St</title>
       <link>https://www.metrotransit.org/route/gold</link>
-      <guid isPermaLink="false">Metro Transit-55207-2026-11-13T06:00:01.000Z</guid>
-      <pubDate>Fri, 13 Nov 2026 06:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55207-2026-11-13T09:01:00.000Z</guid>
+      <pubDate>Fri, 13 Nov 2026 09:01:00 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO Gold Line</category>
       <description>Gold Line detoured off 7th St from Wacouta St to Mounds Blvd until further notice. Board at: 6th St &amp; Jackson Station - Stop #57456 (westbound). | Action: Board at: 6th St &amp; Jackson Station - Stop #57456 (westbound)</description>
@@ -116,6 +116,15 @@
       <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 11th St to 12th St until further notice due to construction. Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 9th St S - Stop #17992 (northbound). | Action: Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 9th St S - Stop #17992 (northbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 10, Route 25: Detour via 3rd Ave S &amp; 11th St S</title>
+      <link>https://www.metrotransit.org/route/25</link>
+      <guid isPermaLink="false">Metro Transit-55223-2026-11-13T14:38:36.000Z</guid>
+      <pubDate>Fri, 13 Nov 2026 14:38:36 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 10, Route 25</category>
+      <description>Routes 10 and 25 detoured off Grant St from Nicollet Ave to 12th St until further notice. Board at: 3rd Ave S &amp; 11th St S - Stop #19277 (southbound); Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound). | Action: Board at: 3rd Ave S &amp; 11th St S - Stop #19277 (southbound); Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 11: Detour via 2nd St NE &amp; 4th Ave N</title>
       <link>https://www.metrotransit.org/route/11</link>
       <guid isPermaLink="false">Metro Transit-55140-2026-11-10T18:22:04.000Z</guid>
@@ -123,6 +132,15 @@
       <category>Moderate</category>
       <category>Route 11</category>
       <description>Route 11 detoured off 2nd St NE from 6th Ave NE to 7th Ave NE from 8:00 AM to 3:00 PM on Mon Nov 16 due to event. Board at: 2nd St NE &amp; 4th Ave NE - Stop #14687 (northbound); 2nd St NE &amp; 8th Ave NE - Stop #14679 (northbound). | Action: Board at: 2nd St NE &amp; 4th Ave NE - Stop #14687 (northbound); 2nd St NE &amp; 8th Ave NE - Stop #14679 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 17: Detour via 24th St W &amp; Pleasant Ave S</title>
+      <link>https://www.metrotransit.org/route/17</link>
+      <guid isPermaLink="false">Metro Transit-55222-2026-11-13T13:55:01.000Z</guid>
+      <pubDate>Fri, 13 Nov 2026 13:55:01 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 17</category>
+      <description>Route 17 detoured off 24th St from Lyndale Ave to Hennepin Ave from 9:00 AM to 1:00 PM on Mon Nov 16 due to tree trimming. Board at: Hennepin &amp; 25th St Station - Stop #1327 (northbound); Temporary stop on 24th St just past Lyndale Ave (eastbound); 24th St W &amp; Pleasant Ave S - Stop #40342 (eastbound). | Action: Board at: Hennepin &amp; 25th St Station - Stop #1327 (northbound); Temporary stop on 24th St just past Lyndale Ave (eastbound); 24th St W &amp; Pleasant Ave S - Stop #40342 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 18: Detour via Nicollet Ave S &amp; 56th St E</title>
@@ -271,8 +289,8 @@
     <item>
       <title>[Moderate] Route 63: Detour via 5th St &amp; Jackson St</title>
       <link>https://www.metrotransit.org/route/63</link>
-      <guid isPermaLink="false">Metro Transit-51057-2026-11-13T06:00:01.000Z</guid>
-      <pubDate>Fri, 13 Nov 2026 06:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-51057-2026-11-13T09:01:00.000Z</guid>
+      <pubDate>Fri, 13 Nov 2026 09:01:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 63</category>
       <description>Route 63 detoured off Wacouta St from 5th St to 7th St and off 7th St from Wacouta St to Mounds Blvd until further notice due to construction. Board at: 5th St &amp; Jackson St - Stop #11838 (eastbound); 5th St &amp; Sibley St - Stop #11839 (eastbound); 3rd St E &amp; Maria Ave - Stop #3152 (eastbound). | Action: Board at: 5th St &amp; Jackson St - Stop #11838 (eastbound); 5th St &amp; Sibley St - Stop #11839 (eastbound); 3rd St E &amp; Maria Ave - Stop #3152 (eastbound)</description>
@@ -307,8 +325,8 @@
     <item>
       <title>[Moderate] Route 68: Detour via Jackson St &amp; Sims Ave</title>
       <link>https://www.metrotransit.org/route/68</link>
-      <guid isPermaLink="false">Metro Transit-49088-2026-11-12T16:16:18.000Z</guid>
-      <pubDate>Thu, 12 Nov 2026 16:16:18 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-49088-2026-11-13T14:47:39.000Z</guid>
+      <pubDate>Fri, 13 Nov 2026 14:47:39 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 68</category>
       <description>Route 68 detoured off Jackson St from Pennsylvania Ave to Cayuga St beginning Mon May 18 at 4:00 AM until further notice due to construction. Board at: Jackson St &amp; Mount Airy (Winter St) - Stop #18014 (northbound); Jackson St &amp; Sims Ave - Stop #18022 (northbound). | Action: Board at: Jackson St &amp; Mount Airy (Winter St) - Stop #18014 (northbound); Jackson St &amp; Sims Ave - Stop #18022 (northbound)</description>
@@ -316,8 +334,8 @@
     <item>
       <title>[Moderate] Route 68: Detour via Route 68 detoured off Jackson St &amp; Timberlake Rd</title>
       <link>https://www.metrotransit.org/route/68</link>
-      <guid isPermaLink="false">Metro Transit-55169-2026-11-11T15:39:44.000Z</guid>
-      <pubDate>Wed, 11 Nov 2026 15:39:44 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55169-2026-11-13T14:32:00.000Z</guid>
+      <pubDate>Fri, 13 Nov 2026 14:32:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 68</category>
       <description>Route 68 detoured off Jackson St/Timberlake Rd from Larpenteur Ave to Arlington Ave until further notice due to construction. Board at: Larpenteur Ave &amp; Jackson St - Stop #49947 (eastbound); Arlington Ave E &amp; Klainert St - Stop #81115 (westbound); LOrient St &amp; #1301 - Stop #49948 (southbound). | Action: Board at: Larpenteur Ave &amp; Jackson St - Stop #49947 (eastbound); Arlington Ave E &amp; Klainert St - Stop #81115 (westbound); LOrient St &amp; #1301 - Stop #49948 (southbound)</description>
@@ -334,8 +352,8 @@
     <item>
       <title>[Moderate] Route 72: Detour via 5th St &amp; Jackson St</title>
       <link>https://www.metrotransit.org/route/72</link>
-      <guid isPermaLink="false">Metro Transit-51062-2026-11-13T06:00:01.000Z</guid>
-      <pubDate>Fri, 13 Nov 2026 06:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-51062-2026-11-13T09:01:00.000Z</guid>
+      <pubDate>Fri, 13 Nov 2026 09:01:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 72</category>
       <description>Route 72 detoured off Wacouta St from 5th St to 7th St and off 7th St from Wacouta St to Mounds Blvd until further notice due to construction. Board at: 5th St &amp; Jackson St - Stop #11838 (eastbound); 5th St &amp; Sibley St - Stop #11839 (eastbound); Plum St &amp; Mounds Blvd - Stop #13730 (eastbound). | Action: Board at: 5th St &amp; Jackson St - Stop #11838 (eastbound); 5th St &amp; Sibley St - Stop #11839 (eastbound); Plum St &amp; Mounds Blvd - Stop #13730 (eastbound)</description>
@@ -514,8 +532,8 @@
     <item>
       <title>[Moderate] Route 827: Detour via Route 827 detoured off Marshall St &amp; Main St</title>
       <link>https://www.metrotransit.org/route/827</link>
-      <guid isPermaLink="false">Metro Transit-54894-2026-11-13T06:00:01.000Z</guid>
-      <pubDate>Fri, 13 Nov 2026 06:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54894-2026-11-13T11:30:01.000Z</guid>
+      <pubDate>Fri, 13 Nov 2026 11:30:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 827</category>
       <description>Route 827 detoured off Marshall St/Main St from Hennepin Ave to 8th Ave NE from Fri Nov 13 at 6:00 AM to Sat Nov 14 at 6:00 PM due to Hot Chocolate Run 2026. Board at: Hennepin Ave &amp; 1st St S - Stop #17952 (northbound); 2nd St NE &amp; 4th Ave NE - Stop #14687 (northbound); 2nd St NE &amp; 7th Ave NE - Stop #14680 (northbound). | Action: Board at: Hennepin Ave &amp; 1st St S - Stop #17952 (northbound); 2nd St NE &amp; 4th Ave NE - Stop #14687 (northbound); 2nd St NE &amp; 7th Ave NE - Stop #14680 (northbound)</description>
@@ -550,8 +568,8 @@
     <item>
       <title>[Minor] 10th Ave Se &amp; 8th St Se - Stop #16047 (northbound) Is Permanently Moving for Route 4</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-54795-2026-11-09T06:00:01.000Z</guid>
-      <pubDate>Mon, 09 Nov 2026 06:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-54795-2026-11-13T09:01:00.000Z</guid>
+      <pubDate>Fri, 13 Nov 2026 09:01:00 GMT</pubDate>
       <category>Minor</category>
       <category>Route 4</category>
       <description>10th Ave SE &amp; 8th St SE - Stop #16047 (northbound) is permanently moving for Route 4</description>
