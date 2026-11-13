@@ -2,19 +2,116 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-64-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-57-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-59-brightgreen)](#-routes-index)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-72-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-8-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-59-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-5-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-62-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-12T18:06:35.739Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-13T00:04:47.786Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (1) • **Route 11** (3) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 68** (2) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 219** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (3) • **Route 2** (2) • **Route 2C** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 17** (1) • **Route 18** (7) • **Route 18E** (1) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 38C** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (3) • **Route 64** (3) • **Route 68** (2) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (4) • **Route 74** (2) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 219** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 760** (1) • **Route 763** (1) • **Route 765** (1) • **Route 766** (1) • **Route 768** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
+
+### 🚨 Route 2, Route 2C: Eastbound 5:22 PM Trip Canceled (Franklin Ave W & Hennepin Ave S)
+
+- **Affected Routes**: `Route 2` `Route 2C`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 5:22 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 2C trip departing Franklin Ave W & Hennepin Ave S at 5:22 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 10: Southbound 4:42 PM Trip Canceled (53rd Ave NE & Petco)
+
+- **Affected Routes**: `Route 10`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Route 10 trip departing 53rd Ave NE & Petco at 4:42 PM canceled
+
+[Official Agency Advisory](https://www.metrotransit.org/route/10)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 10 trip departing 53rd Ave NE & Petco at 4:42 PM canceled
+
+</details>
+
+---
+
+### 🚨 Route 18, Route 18E: Southbound 4:26 PM Trip Canceled (Nicollet Ave S & 46th St W)
+
+- **Affected Routes**: `Route 18` `Route 18E`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #1339, Stop #1341, Stop #1342, Stop #1344, Stop #1345, Stop #1346, Stop #1347, Stop #1348 *(+52 more)*
+
+**Summary**: Southbound Route 18E trip departing Nicollet Ave S & 46th St W at 4:26 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/18)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 18E trip departing Nicollet Ave S & 46th St W at 4:26 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 38, Route 38C: Eastbound 4:21 PM Trip Canceled (Bren Rd E & Blue Circle Dr)
+
+- **Affected Routes**: `Route 38` `Route 38C`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Eastbound Route 38C trip departing Bren Rd E & Blue Circle Dr at 4:21 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/38)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 38C trip departing Bren Rd E & Blue Circle Dr at 4:21 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 54: Westbound 5:19 PM Trip Canceled (7th St W & St Clair Ave)
+
+- **Affected Routes**: `Route 54`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #10366, Stop #11694, Stop #11698, Stop #13117, Stop #13121, Stop #13128, Stop #13130, Stop #13132 *(+10 more)*
+
+**Summary**: Westbound Route 54 trip departing 7th St W & St Clair Ave at 5:19 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/54)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 54 trip departing 7th St W & St Clair Ave at 5:19 PM canceled today
+
+</details>
+
+---
 
 ### 🚨 Route 71: Service Canceled
 
@@ -39,6 +136,36 @@ departing Inver Hills College & Shelter at 4:38 PM
 Affected southbound trips:
 departing Market Place Dr & The Marketplace Ctr at 3:10 PM
 departing Market Place Dr & The Marketplace Ctr at 6:15 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 72: Service Canceled
+
+- **Affected Routes**: `Route 72`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 72 trip departing Pascal St N & Central Ave W; departing Pascal St N & Central Ave W; 53 PM
+departing Pascal St N & Central Ave W
+
+**Summary**: Route 72 trip departing Pascal St N & Central Ave W at 7:53 PM and two other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/72)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 72 trip departing Pascal St N & Central Ave W at 7:53 PM and two other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Pascal St N & Central Ave W at 7:53 PM
+departing Pascal St N & Central Ave W at 9:53 PM
+
+Affected westbound trips:
+departing Sun Ray Transit Center & Gate D at 8:51 PM
 ```
 
 </details>
@@ -72,25 +199,6 @@ departing Maplewood Mall Transit Center & Gate A at 2:42 PM
 departing Maplewood Mall Transit Center & Gate A at 4:42 PM
 departing Maplewood Mall Transit Center & Gate A at 6:42 PM
 ```
-
-</details>
-
----
-
-### 🚨 Route 805: Southbound 11:38 AM Trip Canceled (1st Ave S & Monroe St)
-
-- **Affected Routes**: `Route 805`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM canceled today
 
 </details>
 
@@ -1468,6 +1576,58 @@ Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 
 ---
 
+### ⚠️ Route 63 Returns to Kellogg Blvd Bridge Beginning Sat Nov 14
+
+- **Affected Routes**: `Route 63` `Route 72`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Sat Nov 14
+- **Corridors & Intersections**: 5th St & Jackson St; left on 6th St & resume regular route.
+
+Affected st; Wacouta St & 5th St; 7th St E & Wall St; 5th St & Broadway St
+- **Closed Stops**: Wacouta St & 5th St / 6th St (Stop #11842), 7th St E & Wall St (Stop #57215), 5th St & Broadway St (Stop #40160), Wall St & 7th St / 6th St (Stop #43282), Stop #11838, Stop #57420, Stop #57419, Stop #11859
+
+**Summary**: Route 63 returns to Kellogg Blvd Bridge beginning Sat Nov 14. Board at: 5th St & Jackson St - Stop #11838 (eastbound); Union Depot & Wacouta Station - Stop #57420 (southbound).
+
+> 💡 **Rider Action**: Board at: 5th St & Jackson St - Stop #11838 (eastbound); Union Depot & Wacouta Station - Stop #57420 (southbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, continue across Mounds Blvd onto 3rd St and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/63)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 63 returns to Kellogg Blvd Bridge beginning Sat Nov 14
+
+```text
+The Kellogg Boulevard Bridge will reopen on Friday, November 13, 2026. Route 63 buses will return to their regular routing across the bridge at the start of service on Saturday, November 14, 2026.
+
+Beginning November 14, Route 63 buses will also begin serving the Bus Rapid Transit (BRT) stations at Union Depot & Wacouta Station and Union Depot & Sibley Station.
+
+For eastbound Route 72 get on/off buses at:
+5th St & Jackson St - Stop #11838 (eastbound)
+Union Depot & Wacouta Station - Stop #57420 (southbound)
+
+For westbound Route 72 get on/off buses at:
+Union Depot & Sibley Station - Stop #57419 (northbound)
+6th St & Jackson / Robert - Stop #11859 (westbound)
+
+Eastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, continue across Mounds Blvd onto 3rd St and resume regular route.
+
+Westbound buses will travel regular route on 3rd St, cross Mounds Blvd onto Kellogg Blvd bridge, right on Sibley St, left on 6th St and resume regular route.
+
+Affected stops:
+Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
+7th St E & Wall St - Stop #57215 (eastbound)
+5th St & Broadway St - Stop #40160 (eastbound)
+Wall St & 7th St / 6th St - Stop #43282 (southbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 64: Detour via 5th St & Jackson St
 
 - **Affected Routes**: `Route 64`
@@ -1753,6 +1913,58 @@ Westbound buses will travel regular route on Mounds Blvd to westbound I-94 exit,
 Affected stops:
 Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 7th St E & Wall St - Stop #57215 (eastbound)
+Wall St & 7th St / 6th St - Stop #43282 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 72 Returns to Kellogg Blvd Bridge Beginning Sat Nov 14
+
+- **Affected Routes**: `Route 72`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Sat Nov 14
+- **Corridors & Intersections**: 5th St & Jackson St; left on 6th St & resume regular route.
+
+Affected st; Wacouta St & 5th St; 7th St E & Wall St; 5th St & Broadway St
+- **Closed Stops**: Wacouta St & 5th St / 6th St (Stop #11842), 7th St E & Wall St (Stop #57215), 5th St & Broadway St (Stop #40160), Wall St & 7th St / 6th St (Stop #43282), Stop #11838, Stop #57420, Stop #57419, Stop #11859
+
+**Summary**: Route 72 returns to Kellogg Blvd Bridge beginning Sat Nov 14. Board at: 5th St & Jackson St - Stop #11838 (eastbound); Union Depot & Wacouta Station - Stop #57420 (southbound).
+
+> 💡 **Rider Action**: Board at: 5th St & Jackson St - Stop #11838 (eastbound); Union Depot & Wacouta Station - Stop #57420 (southbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, right on Mounds Blvd and resume regular route
+
+[Official Agency Advisory](https://www.metrotransit.org/route/72)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 72 returns to Kellogg Blvd Bridge beginning Sat Nov 14
+
+```text
+The Kellogg Boulevard Bridge will reopen on Friday, November 13, 2026. Route 72 buses will return to their regular routing across the bridge at the start of service on Saturday, November 14, 2026.
+
+Beginning November 14, Route 72 buses will also begin serving the Bus Rapid Transit (BRT) stations at Union Depot & Wacouta Station and Union Depot & Sibley Station.
+
+For eastbound Route 72 get on/off buses at:
+5th St & Jackson St - Stop #11838 (eastbound)
+Union Depot & Wacouta Station - Stop #57420 (southbound)
+
+For westbound Route 72 get on/off buses at:
+Union Depot & Sibley Station - Stop #57419 (northbound)
+6th St & Jackson / Robert - Stop #11859 (westbound)
+
+Eastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, right on Mounds Blvd and resume regular route
+
+Westbound buses will travel regular route on Mounds Blvd to 3rd St, left on 3rd St to cross the Kellogg Blvd bridge, right on Sibley St, left on 6th St and resume regular route.
+
+Affected stops:
+Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
+7th St E & Wall St - Stop #57215 (eastbound)
+5th St & Broadway St - Stop #40160 (eastbound)
 Wall St & 7th St / 6th St - Stop #43282 (southbound)
 ```
 
@@ -2621,6 +2833,38 @@ LaFayette Rd & Grove St - Stop #11923 (southbound)
 ---
 
 ## ℹ️ Minor Advisories
+
+### ℹ️ METRO Gold Line Returns to Kellogg Blvd Bridge Beginning Sat Nov 14
+
+- **Affected Routes**: `METRO Gold Line`
+- **Direction**: Both Directions
+- **Severity**: `Minor`
+- **Schedule**: Beginning Sat Nov 14
+
+**Summary**: METRO Gold Line returns to Kellogg Blvd Bridge beginning Sat Nov 14
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, and veer right onto the Gold Line guideway.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/gold)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: METRO Gold Line returns to Kellogg Blvd Bridge beginning Sat Nov 14
+
+```text
+The Kellogg Boulevard Bridge will reopen on Friday, November 13, 2026. METRO Gold Line buses will return to their regular routing across the bridge at the start of service on Saturday, November 14, 2026.
+
+Beginning November 14, METRO Gold Line buses will also begin serving the Bus Rapid Transit (BRT) stations at Union Depot & Wacouta Station and Union Depot & Sibley Station.
+
+Eastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, and veer right onto the Gold Line guideway.
+
+Westbound buses will travel regular route on the Gold Line guideway to Mounds Blvd Station, left on 3rd St to cross the Kellogg Blvd bridge, right on Sibley St, left on 6th St and resume regular route.
+```
+
+</details>
+
+---
 
 ### ℹ️ 10th Ave Se & 8th St Se - Stop #16047 (northbound) Is Permanently Moving for Route 4
 
