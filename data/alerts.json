@@ -1,141 +1,59 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-13T22:28:40.308Z",
-    "totalAlerts": 72,
-    "criticalCount": 8,
+    "generatedAt": "2026-11-14T03:01:30.226Z",
+    "totalAlerts": 68,
+    "criticalCount": 4,
     "moderateCount": 58,
     "minorCount": 6,
-    "affectedRoutesCount": 60,
+    "affectedRoutesCount": 58,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "55246",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO C Line: Service Canceled",
-      "summary": "C Line trip departing 7th St & Park Station at 1:58 PM and two other trips canceled today",
-      "affectedRoutes": [
-        "METRO C Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "C Line trip departing 7th St & Park St",
-        "departing 7th St & Park St",
-        "58 PM\ndeparting 7th St & Park St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-13T21:18:00.000Z",
-        "end": "2026-11-13T23:21:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/cline",
-      "updatedAt": "2026-11-13T21:19:17.000Z",
-      "rawHeader": "C Line trip departing 7th St & Park Station at 1:58 PM and two other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting 7th St & Park Station at 1:58 PM\r\ndeparting 7th St & Park Station at 3:46 PM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 2:55 PM"
-    },
-    {
-      "id": "55243",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 11: Service Canceled",
-      "summary": "Route 11 trips departing Nicollet Ave S & 46th St E at 2:52 PM and departing Columbia Heights Transit Center C at 4:09 PM canceled today",
-      "affectedRoutes": [
-        "Route 11"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 11 trips departing Nicollet Ave S & 46th St E"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-13T20:52:00.000Z",
-        "end": "2026-11-14T00:14:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-11-13T20:40:45.000Z",
-      "rawHeader": "Route 11 trips departing Nicollet Ave S & 46th St E at 2:52 PM and departing Columbia Heights Transit Center C at 4:09 PM canceled today",
-      "rawDescription": ""
-    },
-    {
       "id": "55234",
       "agency": "Metro Transit",
       "severity": "Critical",
       "title": "Route 30: Service Canceled",
-      "summary": "Route 30 trip departing Westgate Station - Gate B at 2:04 PM and sixteen other trips canceled today",
+      "summary": "Route 30 trip departing Knox Ave N & Golden Valley Rd at 5:25 PM and six other trips canceled today",
       "affectedRoutes": [
         "Route 30"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "departing Knox Ave N & Golden Valley Rd",
-        "55 PM\ndeparting Knox Ave N & Golden Valley Rd",
-        "25 PM\ndeparting Knox Ave N & Golden Valley Rd",
-        "54 PM\ndeparting Knox Ave N & Golden Valley Rd"
+        "Route 30 trip departing Knox Ave N & Golden Valley Rd",
+        "departing Knox Ave N & Golden Valley Rd"
       ],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-13T20:04:00.000Z",
-        "end": "2026-11-14T05:47:00.000Z"
+        "start": "2026-11-14T00:45:00.000Z",
+        "end": "2026-11-14T05:05:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-11-13T19:34:01.000Z",
-      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 2:04 PM and sixteen other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 2:55 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 3:25 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 4:54 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 5:25 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 6:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:25 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 8:55 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 9:25 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 2:04 PM\r\ndeparting Westgate Station - Gate B at 2:34 PM\r\ndeparting Westgate Station - Gate B at 4:04 PM\r\ndeparting Westgate Station - Gate B at 4:34 PM\r\ndeparting Westgate Station - Gate B at 6:05 PM\r\ndeparting Westgate Station - Gate B at 6:35 PM\r\ndeparting Westgate Station - Gate B at 8:06 PM\r\ndeparting Westgate Station - Gate B at 8:36 PM\r\ndeparting Westgate Station - Gate B at 10:06 PM"
-    },
-    {
-      "id": "55247",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 67: Eastbound 2:39 PM Trip Canceled (Franklin Ave E & Franklin Station)",
-      "summary": "Eastbound Route 67 trip departing Franklin Ave E & Franklin Station at 2:39 PM canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 67"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {},
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/67",
-      "updatedAt": "2026-11-13T21:30:16.000Z",
-      "rawHeader": "Eastbound Route 67 trip departing Franklin Ave E & Franklin Station at 2:39 PM canceled today due to mechanical issue",
-      "rawDescription": ""
+      "updatedAt": "2026-11-14T00:46:24.000Z",
+      "rawHeader": "Route 30 trip departing Knox Ave N & Golden Valley Rd at 5:25 PM and six other trips canceled today",
+      "rawDescription": "Updated at 6:46 PM to cancel additional trips.\r\n\nAffected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 5:25 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:25 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 9:25 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 6:35 PM\r\ndeparting Westgate Station - Gate B at 7:05 PM\r\ndeparting Westgate Station - Gate B at 8:36 PM"
     },
     {
       "id": "55236",
       "agency": "Metro Transit",
       "severity": "Critical",
       "title": "Route 72: Service Canceled",
-      "summary": "Route 72 trip departing Sun Ray Transit Center & Gate D at 2:19 PM and seven other trips canceled today",
+      "summary": "Route 72 trip departing Pascal St N & Central Ave W at 5:50 PM and four other trips canceled today",
       "affectedRoutes": [
         "Route 72"
       ],
       "direction": "Both Directions",
       "intersections": [
+        "Route 72 trip departing Pascal St N & Central Ave W",
         "departing Pascal St N & Central Ave W",
-        "20 PM\ndeparting Pascal St N & Central Ave W",
+        "50 PM\ndeparting Pascal St N & Central Ave W",
         "23 PM\ndeparting Pascal St N & Central Ave W"
       ],
       "closedStopIds": [],
@@ -143,15 +61,15 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-13T20:19:00.000Z",
+        "start": "2026-11-14T01:17:00.000Z",
         "end": "2026-11-14T05:07:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-11-13T19:49:01.000Z",
-      "rawHeader": "Route 72 trip departing Sun Ray Transit Center & Gate D at 2:19 PM and seven other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 3:20 PM\r\ndeparting Pascal St N & Central Ave W at 5:20 PM\r\ndeparting Pascal St N & Central Ave W at 7:23 PM\r\ndeparting Pascal St N & Central Ave W at 9:23 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 2:19 PM\r\ndeparting Sun Ray Transit Center & Gate D at 4:18 PM\r\ndeparting Sun Ray Transit Center & Gate D at 6:20 PM\r\ndeparting Sun Ray Transit Center & Gate D at 8:21 PM"
+      "updatedAt": "2026-11-14T01:19:25.000Z",
+      "rawHeader": "Route 72 trip departing Pascal St N & Central Ave W at 5:50 PM and four other trips canceled today",
+      "rawDescription": "Updated at 7:18 PM to restore some previously canceled trips. The trips listed below remain canceled.\r\n\nAffected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 5:50 PM\r\ndeparting Pascal St N & Central Ave W at 7:23 PM\r\ndeparting Pascal St N & Central Ave W at 9:23 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 6:20 PM\r\ndeparting Sun Ray Transit Center & Gate D at 8:21 PM"
     },
     {
       "id": "55235",
@@ -201,35 +119,9 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/219",
-      "updatedAt": "2026-11-13T21:44:24.000Z",
+      "updatedAt": "2026-11-14T01:42:01.000Z",
       "rawHeader": "Route 219 trips departing Maplewood Mall Transit Center & Gate A at 8:12 PM and departing Sun Ray Transit Center & Gate B at 9:13 PM canceled today",
       "rawDescription": ""
-    },
-    {
-      "id": "55245",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 802: Service Canceled",
-      "summary": "Route 802 trip departing Northtown Transit Ctr Gate E at 1:34 PM and four other trips canceled today",
-      "affectedRoutes": [
-        "Route 802"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-13T21:12:00.000Z",
-        "end": "2026-11-14T01:14:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-11-13T21:12:30.000Z",
-      "rawHeader": "Route 802 trip departing Northtown Transit Ctr Gate E at 1:34 PM and four other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 2:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 4:42 PM"
     },
     {
       "id": "52943",

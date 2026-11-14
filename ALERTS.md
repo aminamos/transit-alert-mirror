@@ -2,130 +2,50 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-72-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-8-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-68-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-58-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-6-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-60-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-58-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-13T22:28:40.308Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-14T03:01:30.226Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO Gold Line** (3) • **METRO Red Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (4) • **Route 17** (2) • **Route 18** (6) • **Route 22** (1) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (3) • **Route 64** (3) • **Route 67** (1) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (2) • **Route 94** (1) • **Route 156** (1) • **Route 219** (2) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 440** (1) • **Route 444** (1) • **Route 445** (1) • **Route 475** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (2) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (3) • **METRO Red Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 17** (2) • **Route 18** (6) • **Route 22** (1) • **Route 25** (2) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (3) • **Route 64** (3) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (2) • **Route 94** (1) • **Route 156** (1) • **Route 219** (2) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 440** (1) • **Route 444** (1) • **Route 445** (1) • **Route 475** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
-
-### 🚨 METRO C Line: Service Canceled
-
-- **Affected Routes**: `METRO C Line`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: C Line trip departing 7th St & Park St; departing 7th St & Park St; 58 PM
-departing 7th St & Park St
-
-**Summary**: C Line trip departing 7th St & Park Station at 1:58 PM and two other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/cline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: C Line trip departing 7th St & Park Station at 1:58 PM and two other trips canceled today
-
-```text
-Affected northbound trips:
-departing 7th St & Park Station at 1:58 PM
-departing 7th St & Park Station at 3:46 PM
-
-Affected southbound trips:
-departing Brooklyn Ctr Transit Ctr Gate I at 2:55 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 11: Service Canceled
-
-- **Affected Routes**: `Route 11`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 11 trips departing Nicollet Ave S & 46th St E
-
-**Summary**: Route 11 trips departing Nicollet Ave S & 46th St E at 2:52 PM and departing Columbia Heights Transit Center C at 4:09 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/11)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 11 trips departing Nicollet Ave S & 46th St E at 2:52 PM and departing Columbia Heights Transit Center C at 4:09 PM canceled today
-
-</details>
-
----
 
 ### 🚨 Route 30: Service Canceled
 
 - **Affected Routes**: `Route 30`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 55 PM
-departing Knox Ave N & Golden Valley Rd; 25 PM
-departing Knox Ave N & Golden Valley Rd; 54 PM
-departing Knox Ave N & Golden Valley Rd
+- **Corridors & Intersections**: Route 30 trip departing Knox Ave N & Golden Valley Rd; departing Knox Ave N & Golden Valley Rd
 
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 2:04 PM and sixteen other trips canceled today
+**Summary**: Route 30 trip departing Knox Ave N & Golden Valley Rd at 5:25 PM and six other trips canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/30)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 30 trip departing Westgate Station - Gate B at 2:04 PM and sixteen other trips canceled today
+**Header**: Route 30 trip departing Knox Ave N & Golden Valley Rd at 5:25 PM and six other trips canceled today
 
 ```text
+Updated at 6:46 PM to cancel additional trips.
+
 Affected eastbound trips:
-departing Knox Ave N & Golden Valley Rd at 2:55 PM
-departing Knox Ave N & Golden Valley Rd at 3:25 PM
-departing Knox Ave N & Golden Valley Rd at 4:54 PM
 departing Knox Ave N & Golden Valley Rd at 5:25 PM
-departing Knox Ave N & Golden Valley Rd at 6:56 PM
 departing Golden Valley Rd Turn & Xerxes Ave N at 7:25 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 8:55 PM
+departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM
 departing Golden Valley Rd Turn & Xerxes Ave N at 9:25 PM
 
 Affected westbound trips:
-departing Westgate Station - Gate B at 2:04 PM
-departing Westgate Station - Gate B at 2:34 PM
-departing Westgate Station - Gate B at 4:04 PM
-departing Westgate Station - Gate B at 4:34 PM
-departing Westgate Station - Gate B at 6:05 PM
 departing Westgate Station - Gate B at 6:35 PM
-departing Westgate Station - Gate B at 8:06 PM
+departing Westgate Station - Gate B at 7:05 PM
 departing Westgate Station - Gate B at 8:36 PM
-departing Westgate Station - Gate B at 10:06 PM
 ```
-
-</details>
-
----
-
-### 🚨 Route 67: Eastbound 2:39 PM Trip Canceled (Franklin Ave E & Franklin Station)
-
-- **Affected Routes**: `Route 67`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-
-**Summary**: Eastbound Route 67 trip departing Franklin Ave E & Franklin Station at 2:39 PM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/67)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 67 trip departing Franklin Ave E & Franklin Station at 2:39 PM canceled today due to mechanical issue
 
 </details>
 
@@ -136,29 +56,28 @@ departing Westgate Station - Gate B at 10:06 PM
 - **Affected Routes**: `Route 72`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: departing Pascal St N & Central Ave W; 20 PM
+- **Corridors & Intersections**: Route 72 trip departing Pascal St N & Central Ave W; departing Pascal St N & Central Ave W; 50 PM
 departing Pascal St N & Central Ave W; 23 PM
 departing Pascal St N & Central Ave W
 
-**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 2:19 PM and seven other trips canceled today
+**Summary**: Route 72 trip departing Pascal St N & Central Ave W at 5:50 PM and four other trips canceled today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/72)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 2:19 PM and seven other trips canceled today
+**Header**: Route 72 trip departing Pascal St N & Central Ave W at 5:50 PM and four other trips canceled today
 
 ```text
+Updated at 7:18 PM to restore some previously canceled trips. The trips listed below remain canceled.
+
 Affected eastbound trips:
-departing Pascal St N & Central Ave W at 3:20 PM
-departing Pascal St N & Central Ave W at 5:20 PM
+departing Pascal St N & Central Ave W at 5:50 PM
 departing Pascal St N & Central Ave W at 7:23 PM
 departing Pascal St N & Central Ave W at 9:23 PM
 
 Affected westbound trips:
-departing Sun Ray Transit Center & Gate D at 2:19 PM
-departing Sun Ray Transit Center & Gate D at 4:18 PM
 departing Sun Ray Transit Center & Gate D at 6:20 PM
 departing Sun Ray Transit Center & Gate D at 8:21 PM
 ```
@@ -214,36 +133,6 @@ departing Maplewood Mall Transit Center & Gate A at 8:12 PM
 <summary>Raw Dispatcher Message</summary>
 
 **Header**: Route 219 trips departing Maplewood Mall Transit Center & Gate A at 8:12 PM and departing Sun Ray Transit Center & Gate B at 9:13 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 802: Service Canceled
-
-- **Affected Routes**: `Route 802`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 1:34 PM and four other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/802)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 1:34 PM and four other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate E at 1:34 PM
-departing Northtown Transit Ctr Gate E at 3:34 PM
-departing Northtown Transit Ctr Gate E at 5:34 PM
-
-Affected southbound trips:
-departing Anoka Tech College & Main Entrance at 2:42 PM
-departing Anoka Tech College & Main Entrance at 4:42 PM
-```
 
 </details>
 
