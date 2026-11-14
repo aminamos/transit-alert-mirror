@@ -2,21 +2,59 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-61-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-55-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-67-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-59-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-6-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-56-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-57-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-14T11:21:18.005Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-14T17:54:07.150Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Red Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 17** (2) • **Route 18** (6) • **Route 22** (1) • **Route 25** (2) • **Route 27** (2) • **Route 36** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 440** (1) • **Route 444** (1) • **Route 445** (1) • **Route 475** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO Gold Line** (3) • **METRO Red Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 17** (2) • **Route 18** (7) • **Route 22** (1) • **Route 25** (2) • **Route 27** (2) • **Route 36** (2) • **Route 54** (3) • **Route 54M** (2) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (2) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 440** (1) • **Route 444** (1) • **Route 445** (1) • **Route 475** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 METRO B Line: Westbound 10:43 AM Trip Canceled (Lake St / Midtown Station)
+
+- **Affected Routes**: `METRO B Line`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Westbound B Line trip departing Lake St & Midtown St
+- **Closed Stops**: Stop #57314, Stop #57353, Stop #57357, Stop #57358, Stop #57362, Stop #47529, Stop #40954, Stop #3523 *(+5 more)*
+
+**Summary**: Westbound B Line trip departing Lake St / Midtown Station at 10:43 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/bline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound B Line trip departing Lake St / Midtown Station at 10:43 AM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 18: Northbound 11:25 AM Trip Canceled (2nd Ave S Loop & American Blvd)
+
+- **Affected Routes**: `Route 18`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 18 trip departing 2nd Ave S Loop & American Blvd at 11:25 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/18)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 18 trip departing 2nd Ave S Loop & American Blvd at 11:25 AM canceled today
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -51,6 +89,44 @@ Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on 
 
 ---
 
+### ⚠️ METRO B Line: Detour via 5th St & Robert St
+
+- **Affected Routes**: `METRO B Line`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 5th St & Robert St; 5th St (Jackson St to Wacouta St and off Wacouta St from 5th St to Kellogg Blvd)
+- **Closed Stops**: Union Depot & Wacouta Station (Stop #57420), Stop #57418, Stop #56099
+
+**Summary**: Eastbound B Line detoured off 5th St from Jackson St to Wacouta St and off Wacouta St from 5th St to Kellogg Blvd until further notice due to construction. Board at: 5th St & Robert Station - Stop #57418 (eastbound); Union Depot Station & Terminal - Stop #56099 (westbound).
+
+> 💡 **Rider Action**: Board at: 5th St & Robert Station - Stop #57418 (eastbound); Union Depot Station & Terminal - Stop #56099 (westbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on 5th St to Jackson St, right on Jackson St, left on Kellogg Blvd, continue on Kellogg Blvd to Wacouta St and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/bline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound B Line detoured off 5th St from Jackson St to Wacouta St and off Wacouta St from 5th St to Kellogg Blvd until further notice due to construction
+
+```text
+Get on/off buses at:
+5th St & Robert Station - Stop #57418 (eastbound)
+Union Depot Station & Terminal - Stop #56099 (westbound)
+
+Eastbound buses will travel regular route on 5th St to Jackson St, right on Jackson St, left on Kellogg Blvd, continue on Kellogg Blvd to Wacouta St and resume regular route.
+
+Westbound buses will follow regular route.
+
+Affected stops:
+Union Depot & Wacouta Station - Stop #57420 (southbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ METRO Blue Line: Service Advisory
 
 - **Affected Routes**: `METRO Blue Line`
@@ -69,6 +145,44 @@ Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on 
 
 ```text
 Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station.
+```
+
+</details>
+
+---
+
+### ⚠️ METRO Gold Line: Detour via 5th St & Robert St
+
+- **Affected Routes**: `METRO Gold Line`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 5th St & Robert St; 5th St (Jackson St to Wacouta St and off Wacouta St from 5th St to Kellogg Blvd)
+- **Closed Stops**: Union Depot & Wacouta Station (Stop #57420), Stop #57418, Stop #57422
+
+**Summary**: Eastbound Gold Line detoured off 5th St from Jackson St to Wacouta St and off Wacouta St from 5th St to Kellogg Blvd until further notice due to construction. Board at: 5th St & Robert Station - Stop #57418 (eastbound); Mounds Blvd Station - Stop #57422 (eastbound).
+
+> 💡 **Rider Action**: Board at: 5th St & Robert Station - Stop #57418 (eastbound); Mounds Blvd Station - Stop #57422 (eastbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on 5th St to Jackson St, right on Jackson St, left on Kellogg Blvd, continue on Kellogg Blvd to Wacouta St and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/gold)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Gold Line detoured off 5th St from Jackson St to Wacouta St and off Wacouta St from 5th St to Kellogg Blvd until further notice due to construction
+
+```text
+Get on/off buses at:
+5th St & Robert Station - Stop #57418 (eastbound)
+Mounds Blvd Station - Stop #57422 (eastbound)
+
+Eastbound buses will travel regular route on 5th St to Jackson St, right on Jackson St, left on Kellogg Blvd, continue on Kellogg Blvd to Wacouta St and resume regular route.
+
+Westbound buses will follow regular route.
+
+Affected stops:
+Union Depot & Wacouta Station - Stop #57420 (southbound)
 ```
 
 </details>
@@ -1176,6 +1290,42 @@ Maryland Ave & Cypress St - Stop #12918 (eastbound)
 
 ---
 
+### ⚠️ Route 54, Route 54M: Detour via 5th St & Robert St
+
+- **Affected Routes**: `Route 54` `Route 54M`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 5th St & Robert St; Wacouta St (5th St to Kellogg Blvd)
+- **Closed Stops**: Union Depot & Wacouta Station (Stop #57420), Stop #57418, Stop #56099
+
+**Summary**: Eastbound Route 54 buses to Union Depot detoured off Wacouta St from 5th St to Kellogg Blvd until further notice due to construction. Board at: 5th St & Robert Station - Stop #57418 (eastbound); Union Depot Station & Terminal - Stop #56099 (westbound).
+
+> 💡 **Rider Action**: Board at: 5th St & Robert Station - Stop #57418 (eastbound); Union Depot Station & Terminal - Stop #56099 (westbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/54)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 54 buses to Union Depot detoured off Wacouta St from 5th St to Kellogg Blvd until further notice due to construction
+
+```text
+Get on/off buses at:
+5th St & Robert Station - Stop #57418 (eastbound)
+Union Depot Station & Terminal - Stop #56099 (westbound)
+
+Eastbound buses to Union Depot will travel regular route on 5th St to Jackson St, right on Jackson St, left on Kellogg Blvd, continue on Kellogg Blvd to Wacouta St and resume regular route.
+
+Eastbound Route 54M buses and westbound buses will follow regular route.
+
+Affected stops:
+Union Depot & Wacouta Station - Stop #57420 (southbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 61: Detour via Arcade St & Magnolia Ave
 
 - **Affected Routes**: `Route 61`
@@ -1847,6 +1997,44 @@ No stops missed.
 Eastbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.
 
 Westbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.
+```
+
+</details>
+
+---
+
+### ⚠️ Route 94: Detour via 5th St & Robert St
+
+- **Affected Routes**: `Route 94`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 5th St & Robert St; 5th St (Jackson St to Wacouta St and off Wacouta St from 5th St to Kellogg Blvd)
+- **Closed Stops**: Union Depot & Wacouta Station (Stop #57420), Stop #57418, Stop #56099
+
+**Summary**: Eastbound Route 94 detoured off 5th St from Jackson St to Wacouta St and off Wacouta St from 5th St to Kellogg Blvd until further notice due to construction. Board at: 5th St & Robert Station - Stop #57418 (eastbound); Union Depot Station & Terminal - Stop #56099 (westbound).
+
+> 💡 **Rider Action**: Board at: 5th St & Robert Station - Stop #57418 (eastbound); Union Depot Station & Terminal - Stop #56099 (westbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on 5th St to Jackson St, right on Jackson St, left on Kellogg Blvd, continue on Kellogg Blvd to Wacouta St and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/94)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 94 detoured off 5th St from Jackson St to Wacouta St and off Wacouta St from 5th St to Kellogg Blvd until further notice due to construction
+
+```text
+Get on/off buses at:
+5th St & Robert Station - Stop #57418 (eastbound)
+Union Depot Station & Terminal - Stop #56099 (westbound)
+
+Eastbound buses will travel regular route on 5th St to Jackson St, right on Jackson St, left on Kellogg Blvd, continue on Kellogg Blvd to Wacouta St and resume regular route.
+
+Westbound buses will follow regular route.
+
+Affected stops:
+Union Depot & Wacouta Station - Stop #57420 (southbound)
 ```
 
 </details>
