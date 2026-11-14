@@ -4,26 +4,26 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 14 Nov 2026 17:54:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 22:14:42 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO B Line: Westbound 10:43 AM Trip Canceled (Lake St / Midtown Station)</title>
+      <title>[Critical] METRO B Line: Westbound 3:43 PM Trip Canceled (Union Depot &amp; Gate A1)</title>
       <link>https://www.metrotransit.org/route/bline</link>
-      <guid isPermaLink="false">Metro Transit-55263-2026-11-14T17:03:26.000Z</guid>
-      <pubDate>Sat, 14 Nov 2026 17:03:26 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55275-2026-11-14T21:52:49.000Z</guid>
+      <pubDate>Sat, 14 Nov 2026 21:52:49 GMT</pubDate>
       <category>Critical</category>
       <category>METRO B Line</category>
-      <description>Westbound B Line trip departing Lake St / Midtown Station at 10:43 AM canceled today</description>
+      <description>Westbound B Line trip departing Union Depot &amp; Gate A1 at 3:43 PM canceled today due to medical emergency</description>
     </item>
     <item>
-      <title>[Critical] Route 18: Northbound 11:25 AM Trip Canceled (2nd Ave S Loop &amp; American Blvd)</title>
-      <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-55264-2026-11-14T17:15:52.000Z</guid>
-      <pubDate>Sat, 14 Nov 2026 17:15:52 GMT</pubDate>
+      <title>[Critical] Route 63: Eastbound 3:42 PM Trip Canceled (Westgate Station - Gate C)</title>
+      <link>https://www.metrotransit.org/route/63</link>
+      <guid isPermaLink="false">Metro Transit-55274-2026-11-14T21:49:50.000Z</guid>
+      <pubDate>Sat, 14 Nov 2026 21:49:50 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 18</category>
-      <description>Northbound Route 18 trip departing 2nd Ave S Loop &amp; American Blvd at 11:25 AM canceled today</description>
+      <category>Route 63</category>
+      <description>Eastbound Route 63 trip departing Westgate Station - Gate C at 3:42 PM canceled</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -258,6 +258,15 @@
       <category>Moderate</category>
       <category>Route 36</category>
       <description>76th St W &amp; Parklawn Ave S - Stop #2212 (westbound) is closed for Route 36 until further notice. Board at: 76th St W &amp; #4100 - Stop #52039 (westbound); Parklawn Ave &amp; Parklawn Court - Stop #41091 (northbound). | Action: Board at: 76th St W &amp; #4100 - Stop #52039 (westbound); Parklawn Ave &amp; Parklawn Court - Stop #41091 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 38: Stop Closed at 38th St E &amp; 3rd Ave S</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-55268-2026-11-14T18:49:09.000Z</guid>
+      <pubDate>Sat, 14 Nov 2026 18:49:09 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 38</category>
+      <description>38th St E &amp; 3rd Ave S - Stop #12626 (eastbound) is closed for Route 38 beginning Mon Nov 16 at 4:00 AM until further notice. Board at: 38th St W &amp; Nicollet Ave S - Stop #17516 (eastbound); 38th St E &amp; 4th Ave S - Stop #12622 (eastbound). | Action: Board at: 38th St W &amp; Nicollet Ave S - Stop #17516 (eastbound); 38th St E &amp; 4th Ave S - Stop #12622 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 54, Route 54M: Detour via 5th St &amp; Robert St</title>
@@ -528,15 +537,6 @@
       <category>Moderate</category>
       <category>Route 724</category>
       <description>63rd Ave N &amp; Zane Ave N - Stop #9063 (eastbound) is closed for Route 724 until further notice due to construction. Board at: Zane Ave N &amp; 65th Ave N - Stop #8840 (southbound); 63rd Ave N &amp; Welcome Ave N - Stop #9064 (eastbound). | Action: Board at: Zane Ave N &amp; 65th Ave N - Stop #8840 (southbound); 63rd Ave N &amp; Welcome Ave N - Stop #9064 (eastbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 827: Detour via Route 827 detoured off Marshall St &amp; Main St</title>
-      <link>https://www.metrotransit.org/route/827</link>
-      <guid isPermaLink="false">Metro Transit-54894-2026-11-14T06:00:01.000Z</guid>
-      <pubDate>Sat, 14 Nov 2026 06:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 827</category>
-      <description>Route 827 detoured off Marshall St/Main St from Hennepin Ave to 8th Ave NE from Fri Nov 13 at 6:00 AM to Sat Nov 14 at 6:00 PM due to Hot Chocolate Run 2026. Board at: Hennepin Ave &amp; 1st St S - Stop #17952 (northbound); 2nd St NE &amp; 4th Ave NE - Stop #14687 (northbound); 2nd St NE &amp; 7th Ave NE - Stop #14680 (northbound). | Action: Board at: Hennepin Ave &amp; 1st St S - Stop #17952 (northbound); 2nd St NE &amp; 4th Ave NE - Stop #14687 (northbound); 2nd St NE &amp; 7th Ave NE - Stop #14680 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 860: Detour via 7th St E &amp; Wall St</title>

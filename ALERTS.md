@@ -6,51 +6,49 @@
 [![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-59-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-6-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-57-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-58-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-14T17:54:07.150Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-14T22:14:42.752Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO Gold Line** (3) • **METRO Red Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 17** (2) • **Route 18** (7) • **Route 22** (1) • **Route 25** (2) • **Route 27** (2) • **Route 36** (2) • **Route 54** (3) • **Route 54M** (2) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (2) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 440** (1) • **Route 444** (1) • **Route 445** (1) • **Route 475** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (2) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO Gold Line** (3) • **METRO Red Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 17** (2) • **Route 18** (6) • **Route 22** (1) • **Route 25** (2) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (3) • **Route 54M** (2) • **Route 61** (2) • **Route 62** (1) • **Route 63** (3) • **Route 64** (3) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (2) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 440** (1) • **Route 444** (1) • **Route 445** (1) • **Route 475** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO B Line: Westbound 10:43 AM Trip Canceled (Lake St / Midtown Station)
+### 🚨 METRO B Line: Westbound 3:43 PM Trip Canceled (Union Depot & Gate A1)
 
 - **Affected Routes**: `METRO B Line`
 - **Direction**: Westbound
 - **Severity**: `Critical`
-- **Corridors & Intersections**: Westbound B Line trip departing Lake St & Midtown St
-- **Closed Stops**: Stop #57314, Stop #57353, Stop #57357, Stop #57358, Stop #57362, Stop #47529, Stop #40954, Stop #3523 *(+5 more)*
 
-**Summary**: Westbound B Line trip departing Lake St / Midtown Station at 10:43 AM canceled today
+**Summary**: Westbound B Line trip departing Union Depot & Gate A1 at 3:43 PM canceled today due to medical emergency
 
 [Official Agency Advisory](https://www.metrotransit.org/route/bline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Westbound B Line trip departing Lake St / Midtown Station at 10:43 AM canceled today
+**Header**: Westbound B Line trip departing Union Depot & Gate A1 at 3:43 PM canceled today due to medical emergency
 
 </details>
 
 ---
 
-### 🚨 Route 18: Northbound 11:25 AM Trip Canceled (2nd Ave S Loop & American Blvd)
+### 🚨 Route 63: Eastbound 3:42 PM Trip Canceled (Westgate Station - Gate C)
 
-- **Affected Routes**: `Route 18`
-- **Direction**: Northbound
+- **Affected Routes**: `Route 63`
+- **Direction**: Eastbound
 - **Severity**: `Critical`
 
-**Summary**: Northbound Route 18 trip departing 2nd Ave S Loop & American Blvd at 11:25 AM canceled today
+**Summary**: Eastbound Route 63 trip departing Westgate Station - Gate C at 3:42 PM canceled
 
-[Official Agency Advisory](https://www.metrotransit.org/route/18)
+[Official Agency Advisory](https://www.metrotransit.org/route/63)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound Route 18 trip departing 2nd Ave S Loop & American Blvd at 11:25 AM canceled today
+**Header**: Eastbound Route 63 trip departing Westgate Station - Gate C at 3:42 PM canceled
 
 </details>
 
@@ -1177,6 +1175,34 @@ York Ave S & 70th St W - Stop #50601 (northbound)
 Get on/off buses at:
 76th St W & #4100 - Stop #52039 (westbound)
 Parklawn Ave & Parklawn Court - Stop #41091 (northbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 38: Stop Closed at 38th St E & 3rd Ave S
+
+- **Affected Routes**: `Route 38`
+- **Direction**: Eastbound
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Mon Nov 16 at 4:00 AM until further notice
+- **Corridors & Intersections**: 38th St E & 3rd Ave S; 38th St W & Nicollet Ave S; 38th St E & 4th Ave S
+- **Closed Stops**: Stop #12626, Stop #17516, Stop #12622
+
+**Summary**: 38th St E & 3rd Ave S - Stop #12626 (eastbound) is closed for Route 38 beginning Mon Nov 16 at 4:00 AM until further notice. Board at: 38th St W & Nicollet Ave S - Stop #17516 (eastbound); 38th St E & 4th Ave S - Stop #12622 (eastbound).
+
+> 💡 **Rider Action**: Board at: 38th St W & Nicollet Ave S - Stop #17516 (eastbound); 38th St E & 4th Ave S - Stop #12622 (eastbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: 38th St E & 3rd Ave S - Stop #12626 (eastbound) is closed for Route 38 beginning Mon Nov 16 at 4:00 AM until further notice
+
+```text
+Get on/off buses at:
+38th St W & Nicollet Ave S - Stop #17516 (eastbound)
+38th St E & 4th Ave S - Stop #12622 (eastbound)
 ```
 
 </details>
@@ -2551,57 +2577,6 @@ Zane Ave N & 65th Ave N - Stop #8840 (southbound)
 
 ---
 
-### ⚠️ Route 827: Detour via Route 827 detoured off Marshall St & Main St
-
-- **Affected Routes**: `Route 827`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Route 827 detoured off Marshall St & Main St; Hennepin Ave & 1st St S; 2nd St NE & 4th Ave N; 2nd St NE & 7th Ave N; Marshall St NE & Broadway St N
-- **Closed Stops**: Main St NE & 1st Ave NE (Stop #57549), Main St NE & 3rd Ave NE (Stop #57550), Marshall St NE & 8th Ave NE (Stop #57551), Marshall St NE & 8th Ave NE (Stop #57576), Marshall St NE & 3rd Ave NE (Stop #57577), Main St NE & 1st Ave NE (Stop #57578), Stop #17952, Stop #14687 *(+6 more)*
-
-**Summary**: Route 827 detoured off Marshall St/Main St from Hennepin Ave to 8th Ave NE from Fri Nov 13 at 6:00 AM to Sat Nov 14 at 6:00 PM due to Hot Chocolate Run 2026. Board at: Hennepin Ave & 1st St S - Stop #17952 (northbound); 2nd St NE & 4th Ave NE - Stop #14687 (northbound); 2nd St NE & 7th Ave NE - Stop #14680 (northbound).
-
-> 💡 **Rider Action**: Board at: Hennepin Ave & 1st St S - Stop #17952 (northbound); 2nd St NE & 4th Ave NE - Stop #14687 (northbound); 2nd St NE & 7th Ave NE - Stop #14680 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel the regular route on Hennepin Ave to Main St NE, continue on Hennepin Ave, left on 2nd St NE, left on 8th Ave NE, right on Marshall St, and resume the regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/827)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 827 detoured off Marshall St/Main St from Hennepin Ave to 8th Ave NE from Fri Nov 13 at 6:00 AM to Sat Nov 14 at 6:00 PM due to Hot Chocolate Run 2026
-
-```text
-For northbound Route 827 get on/off buses at:
-Hennepin Ave & 1st St S - Stop #17952 (northbound)
-2nd St NE & 4th Ave NE - Stop #14687 (northbound)
-2nd St NE & 7th Ave NE - Stop #14680 (northbound)
-Marshall St NE & Broadway St NE - Stop #57552 (northbound)
-
-For southbound Route 827 get on/off buses at:
-Marshall St NE & Broadway St NE - Stop #57575 (southbound)
-2nd St NE & 5th Ave NE - Stop #14685 (southbound)
-2nd St NE & 3rd Ave NE - Stop #14689 (southbound)
-Marquette Ave & 2nd St S - Stop #19238 (southbound)
-
-Northbound buses will travel the regular route on Hennepin Ave to Main St NE, continue on Hennepin Ave, left on 2nd St NE, left on 8th Ave NE, right on Marshall St, and resume the regular route.
-
-Southbound buses will travel the regular route on Marshall St to 8th Ave NE, left on 8th Ave NE, right on 2nd St NE, right on 1st Ave to Main St NE, continue on 1st Ave, and resume the regular route.
-
-Affected stops:
-Main St NE & 1st Ave NE - Stop #57549 (northbound)
-Main St NE & 3rd Ave NE - Stop #57550 (northbound)
-Marshall St NE & 8th Ave NE - Stop #57551 (northbound)
-Marshall St NE & 8th Ave NE - Stop #57576 (southbound)
-Marshall St NE & 3rd Ave NE - Stop #57577 (southbound)
-Main St NE & 1st Ave NE - Stop #57578 (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 860: Detour via 7th St E & Wall St
 
 - **Affected Routes**: `Route 860`
@@ -2798,7 +2773,7 @@ St Anthony Ave & Fry St (westbound)
 - **Affected Routes**: `Route 440` `Route 444` `Route 445` `Route 475` `METRO Red Line`
 - **Direction**: All
 - **Severity**: `Minor`
-- **Closed Stops**: Stop #56511, Stop #56510, Stop #53469
+- **Closed Stops**: Stop #56510, Stop #56511, Stop #53469
 
 **Summary**: Restrooms unavailable at Cedar Grove Transit Station until further notice due to maintenance work
 
