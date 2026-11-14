@@ -1,128 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-14T03:01:30.226Z",
-    "totalAlerts": 68,
-    "criticalCount": 4,
-    "moderateCount": 58,
+    "generatedAt": "2026-11-14T11:21:18.005Z",
+    "totalAlerts": 61,
+    "criticalCount": 0,
+    "moderateCount": 55,
     "minorCount": 6,
-    "affectedRoutesCount": 58,
+    "affectedRoutesCount": 56,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "55234",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 30: Service Canceled",
-      "summary": "Route 30 trip departing Knox Ave N & Golden Valley Rd at 5:25 PM and six other trips canceled today",
-      "affectedRoutes": [
-        "Route 30"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 30 trip departing Knox Ave N & Golden Valley Rd",
-        "departing Knox Ave N & Golden Valley Rd"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-14T00:45:00.000Z",
-        "end": "2026-11-14T05:05:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-11-14T00:46:24.000Z",
-      "rawHeader": "Route 30 trip departing Knox Ave N & Golden Valley Rd at 5:25 PM and six other trips canceled today",
-      "rawDescription": "Updated at 6:46 PM to cancel additional trips.\r\n\nAffected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 5:25 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:25 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 9:25 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 6:35 PM\r\ndeparting Westgate Station - Gate B at 7:05 PM\r\ndeparting Westgate Station - Gate B at 8:36 PM"
-    },
-    {
-      "id": "55236",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 72: Service Canceled",
-      "summary": "Route 72 trip departing Pascal St N & Central Ave W at 5:50 PM and four other trips canceled today",
-      "affectedRoutes": [
-        "Route 72"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 72 trip departing Pascal St N & Central Ave W",
-        "departing Pascal St N & Central Ave W",
-        "50 PM\ndeparting Pascal St N & Central Ave W",
-        "23 PM\ndeparting Pascal St N & Central Ave W"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-14T01:17:00.000Z",
-        "end": "2026-11-14T05:07:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-11-14T01:19:25.000Z",
-      "rawHeader": "Route 72 trip departing Pascal St N & Central Ave W at 5:50 PM and four other trips canceled today",
-      "rawDescription": "Updated at 7:18 PM to restore some previously canceled trips. The trips listed below remain canceled.\r\n\nAffected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 5:50 PM\r\ndeparting Pascal St N & Central Ave W at 7:23 PM\r\ndeparting Pascal St N & Central Ave W at 9:23 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 6:20 PM\r\ndeparting Sun Ray Transit Center & Gate D at 8:21 PM"
-    },
-    {
-      "id": "55235",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 219: Service Canceled",
-      "summary": "Route 219 trip departing Maplewood Mall Transit Center & Gate A at 2:12 PM and seven other trips canceled today",
-      "affectedRoutes": [
-        "Route 219"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-13T20:12:00.000Z",
-        "end": "2026-11-14T05:03:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/219",
-      "updatedAt": "2026-11-13T19:42:01.000Z",
-      "rawHeader": "Route 219 trip departing Maplewood Mall Transit Center & Gate A at 2:12 PM and seven other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate B at 3:13 PM\r\ndeparting Sun Ray Transit Center & Gate B at 5:13 PM\r\ndeparting Sun Ray Transit Center & Gate B at 7:13 PM\r\ndeparting Sun Ray Transit Center & Gate B at 9:13 PM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate A at 2:12 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 4:12 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 6:12 PM\r\ndeparting Maplewood Mall Transit Center & Gate A at 8:12 PM"
-    },
-    {
-      "id": "55248",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 219: Service Canceled",
-      "summary": "Route 219 trips departing Maplewood Mall Transit Center & Gate A at 8:12 PM and departing Sun Ray Transit Center & Gate B at 9:13 PM canceled today",
-      "affectedRoutes": [
-        "Route 219"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-14T02:12:00.000Z",
-        "end": "2026-11-14T05:03:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/219",
-      "updatedAt": "2026-11-14T01:42:01.000Z",
-      "rawHeader": "Route 219 trips departing Maplewood Mall Transit Center & Gate A at 8:12 PM and departing Sun Ray Transit Center & Gate B at 9:13 PM canceled today",
-      "rawDescription": ""
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -185,48 +73,6 @@
       "updatedAt": "2026-11-05T16:02:01.000Z",
       "rawHeader": "Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues",
       "rawDescription": "Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station."
-    },
-    {
-      "id": "55207",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "METRO Gold Line: Detour via 6th St & Jackson St",
-      "summary": "Gold Line detoured off 7th St from Wacouta St to Mounds Blvd until further notice. Board at: 6th St & Jackson Station - Stop #57456 (westbound).",
-      "affectedRoutes": [
-        "METRO Gold Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "6th St & Jackson St",
-        "Wall St & 7th St",
-        "7th St (Wacouta St to Mounds Blvd)"
-      ],
-      "closedStopIds": [
-        "43282",
-        "57456"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "43282",
-          "name": "Wall St & 7th St / 6th St",
-          "direction": "southbound"
-        },
-        {
-          "id": "57456"
-        }
-      ],
-      "riderAlternative": "Board at: 6th St & Jackson Station - Stop #57456 (westbound)",
-      "detourDetails": "Eastbound buses will travel regular route on 5th St E to Wacouta St, continue on 5th St, left on Broadway St onto eastbound I-94, exit for Mounds Blvd, right on Mounds Blvd, left on 3rd St E, right onto the Gold Line Guideway, and resume the regular route.",
-      "activePeriod": {
-        "start": "2026-11-12T21:59:00.000Z",
-        "end": "2026-11-14T08:59:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "OTHER_EFFECT",
-      "url": "https://www.metrotransit.org/route/gold",
-      "updatedAt": "2026-11-13T18:19:41.000Z",
-      "rawHeader": "Gold Line detoured off 7th St from Wacouta St to Mounds Blvd until further notice",
-      "rawDescription": "8/25 at 8:30 AM: update to alternate evening and weekend eastbound detour.\r\n\nGet on/off buses at:\r\n6th St & Jackson Station - Stop #57456 (westbound)\r\n\nEastbound buses will travel regular route on 5th St E to Wacouta St, continue on 5th St, left on Broadway St onto eastbound I-94, exit for Mounds Blvd, right on Mounds Blvd, left on 3rd St E, right onto the Gold Line Guideway, and resume the regular route.\r\n\nWhen Wall St and Broadway St are closed for evening and weekend events only, eastbound buses will travel the regular route in 5th St to Sibley St, left on Sibley St, right on 7th St to Wacouta St, continue on 7th St, and resume the regular route.\r\n\nWestbound buses will travel the regular route on the Gold Line Guideway to Mounds Blvd, left onto westbound I-94, exit for 12th St, left on Jackson St, right on 6th St, and resume regular route.\r\n\nAffected stops:\r\nWall St & 7th St / 6th St - Stop #43282 (southbound)"
     },
     {
       "id": "46729",
@@ -2437,64 +2283,6 @@
       "rawDescription": "Get on/off buses at:\r\nGrand Ave & Grotto St - Stop #3181 (westbound)\r\nGrand Ave & Chatsworth St - Stop #3078 (westbound)"
     },
     {
-      "id": "51057",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 63: Detour via 5th St & Jackson St",
-      "summary": "Route 63 detoured off Wacouta St from 5th St to 7th St and off 7th St from Wacouta St to Mounds Blvd until further notice due to construction. Board at: 5th St & Jackson St - Stop #11838 (eastbound); 5th St & Sibley St - Stop #11839 (eastbound); 3rd St E & Maria Ave - Stop #3152 (eastbound).",
-      "affectedRoutes": [
-        "Route 63"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "5th St & Jackson St",
-        "5th St & Sibley St",
-        "3rd St E & Maria Ave",
-        "right on Wall St & resume regular route.\n\nAffected st",
-        "Wacouta St & 5th St"
-      ],
-      "closedStopIds": [
-        "11842",
-        "57215",
-        "11838",
-        "11839",
-        "3152"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "11842",
-          "name": "Wacouta St & 5th St / 6th St",
-          "direction": "northbound"
-        },
-        {
-          "id": "57215",
-          "name": "7th St E & Wall St",
-          "direction": "eastbound"
-        },
-        {
-          "id": "11838"
-        },
-        {
-          "id": "11839"
-        },
-        {
-          "id": "3152"
-        }
-      ],
-      "riderAlternative": "Board at: 5th St & Jackson St - Stop #11838 (eastbound); 5th St & Sibley St - Stop #11839 (eastbound); 3rd St E & Maria Ave - Stop #3152 (eastbound)",
-      "detourDetails": "Eastbound buses will travel regular route on 5th St to Wacouta St, continue on 5th St to Broadway St, left on Broadway St, right onto eastbound I-94, take left exit to Mounds Blvd, right on Mounds Blvd and resume regular route.",
-      "activePeriod": {
-        "start": "2026-08-01T16:41:00.000Z",
-        "end": "2026-11-14T08:59:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/63",
-      "updatedAt": "2026-11-13T09:01:00.000Z",
-      "rawHeader": "Route 63 detoured off Wacouta St from 5th St to 7th St and off 7th St from Wacouta St to Mounds Blvd until further notice due to construction",
-      "rawDescription": "Updated at 2:18 PM 8/1 to extend end date to further notice.\r\n\nGet on/off buses at:\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\n5th St & Sibley St - Stop #11839 (eastbound)\r\n3rd St E & Maria Ave - Stop #3152 (eastbound)\r\nNo westbound stops missed\r\n\nEastbound buses will travel regular route on 5th St to Wacouta St, continue on 5th St to Broadway St, left on Broadway St, right onto eastbound I-94, take left exit to Mounds Blvd, right on Mounds Blvd and resume regular route.\r\n\nWestbound buses will travel regular route on Mounds Blvd to westbound I-94 exit, take left exit onto westbound I-94, exit right onto 12th St, left on Jackson St, left on 7th St, right on Wall St and resume regular route.\r\n\nAffected stops:\r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)\r\n7th St E & Wall St - Stop #57215 (eastbound)"
-    },
-    {
       "id": "55201",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -2572,7 +2360,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/63",
-      "updatedAt": "2026-11-13T19:23:57.000Z",
+      "updatedAt": "2026-11-14T08:30:02.000Z",
       "rawHeader": "Route 63 returns to Kellogg Blvd Bridge beginning Sat Nov 14",
       "rawDescription": "The Kellogg Boulevard Bridge will reopen on Friday, November 13, 2026. Route 63 buses will return to their regular routing across the bridge at the start of service on Saturday, November 14, 2026.\r\n\nBeginning November 14, Route 63 buses will also begin serving the Bus Rapid Transit (BRT) stations at Union Depot & Wacouta Station and Union Depot & Sibley Station.\r\n\nFor eastbound Route 63 get on/off buses at:\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\nKellogg Blvd & Broadway St - Stop #11928 (eastbound)\r\nUnion Depot & Wacouta Station - Stop #57420 (southbound)\r\n\nFor westbound Route 63 get on/off buses at:\r\nUnion Depot & Sibley Station - Stop #57419 (northbound)\r\nKellogg Blvd & Broadway St - Stop #3254 (westbound)\r\n6th St & Jackson / Robert - Stop #11859 (westbound)\r\n\nEastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, continue across Mounds Blvd onto 3rd St and resume regular route.\r\n\nWestbound buses will travel regular route on 3rd St, cross Mounds Blvd onto Kellogg Blvd bridge, right on Sibley St, left on 6th St and resume regular route.\r\n\nAffected stops:\r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\n5th St & Broadway St - Stop #40160 (eastbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound)"
     },
@@ -2998,64 +2786,6 @@
       "rawDescription": "Added map: 11/3 at 3:15 PM\r\n\nUpdated southbound detour and affected stops 9/21 9 am.\r\n\nFor northbound Route 71 get on/off buses at:\r\nLittle Canada Rd & Centerville Rd - Stop #49697 (westbound)\r\nTemporary stop on Co Rd C just before Jessica Court (westbound)\r\nRice St & Marketplace S Entrance - Stop #46980 (northbound)\r\n\nFor southbound Route 71 get on/off buses at:\r\nMarketplace Dr & Little Canada - Stop #45305 (southbound)\r\nLittle Canada Rd & Centerville Rd - Stop #41063 (eastbound)\r\n\nNorthbound Route 71K buses will travel regular route on Little Canada Rd to Co Rd C, left on Co Rd C, right on Rice St to Little Canada Rd, continue on Rice St, and resume the regular route. \r\n\nSouthbound 71 buses departing The Marketplace Center will travel regular route on Marketplace Dr to Little Canada Rd, right on Little Canada Rd, right on Rice St, right on South Owasso Blvd, right on Country Dr, left on Little Canada Rd, and resume regular route.\r\n\nAffected stops:\r\nLittle Canada Rd & Park View Court - Stop #49784 (westbound)\r\nLittle Canada Rd & Jackson St - Stop #45314 (westbound)\r\nLittle Canada Rd & Marketplace - Stop #49178 (westbound)\r\nLittle Canada Rd & Middle St - Stop #49179 (westbound)\r\nLittle Canada Rd & Jackson St - Stop #45306 (eastbound)\r\nLittle Canada Rd & Park View Court - Stop #49785 (eastbound)\r\nLittle Canada Rd & Fleur Royale Condos - Stop #45313 (westbound)\r\nLittle Canada Rd & Co Rd C - Stop #45307 (eastbound)"
     },
     {
-      "id": "51062",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 72: Detour via 5th St & Jackson St",
-      "summary": "Route 72 detoured off Wacouta St from 5th St to 7th St and off 7th St from Wacouta St to Mounds Blvd until further notice due to construction. Board at: 5th St & Jackson St - Stop #11838 (eastbound); 5th St & Sibley St - Stop #11839 (eastbound); Plum St & Mounds Blvd - Stop #13730 (eastbound).",
-      "affectedRoutes": [
-        "Route 72"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "5th St & Jackson St",
-        "5th St & Sibley St",
-        "Plum St & Mounds Blvd",
-        "Wacouta St & 5th St",
-        "7th St E & Wall St"
-      ],
-      "closedStopIds": [
-        "11838",
-        "11839",
-        "13730",
-        "11842",
-        "57215",
-        "43282"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "11838"
-        },
-        {
-          "id": "11839"
-        },
-        {
-          "id": "13730"
-        },
-        {
-          "id": "11842"
-        },
-        {
-          "id": "57215"
-        },
-        {
-          "id": "43282"
-        }
-      ],
-      "riderAlternative": "Board at: 5th St & Jackson St - Stop #11838 (eastbound); 5th St & Sibley St - Stop #11839 (eastbound); Plum St & Mounds Blvd - Stop #13730 (eastbound)",
-      "detourDetails": "Eastbound buses will travel regular route on 5th St to Wacouta St, continue on 5th St to Broadway St, left on Broadway St, right onto eastbound I-94, take left exit to Mounds Blvd, right on Mounds Blvd and resume regular route.",
-      "activePeriod": {
-        "start": "2026-08-01T19:23:00.000Z",
-        "end": "2026-11-14T08:59:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-11-13T09:01:00.000Z",
-      "rawHeader": "Route 72 detoured off Wacouta St from 5th St to 7th St and off 7th St from Wacouta St to Mounds Blvd until further notice due to construction",
-      "rawDescription": "Update 8/11 at 8:30 AM: Change to westbound detour routing, affected stops, and get on/off stops.\r\n\nFor eastbound Route 72 get on/off buses at:\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\n5th St & Sibley St - Stop #11839 (eastbound)\r\nPlum St & Mounds Blvd - Stop #13730 (eastbound)\r\n\nNo westbound stops are missed.\r\n\nEastbound buses will travel regular route on 5th St to Wacouta St, continue on 5th St to Broadway St, left on Broadway St, right onto eastbound I-94, take left exit to Mounds Blvd, right on Mounds Blvd and resume regular route.\r\n\nWestbound buses will travel regular route on Mounds Blvd to westbound I-94 exit, take left exit onto westbound I-94, exit right onto 12th St, left on Jackson St, left on 7th St, right on Wall St, and resume the regular route.\r\n\nAffected stops:\r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound)"
-    },
-    {
       "id": "55200",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -3133,7 +2863,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-11-13T19:24:39.000Z",
+      "updatedAt": "2026-11-14T08:30:02.000Z",
       "rawHeader": "Route 72 returns to Kellogg Blvd Bridge beginning Sat Nov 14",
       "rawDescription": "The Kellogg Boulevard Bridge will reopen on Friday, November 13, 2026. Route 72 buses will return to their regular routing across the bridge at the start of service on Saturday, November 14, 2026.\r\n\nBeginning November 14, Route 72 buses will also begin serving the Bus Rapid Transit (BRT) stations at Union Depot & Wacouta Station and Union Depot & Sibley Station.\r\n\nFor eastbound Route 72 get on/off buses at:\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\nKellogg Blvd & Broadway St - Stop #11928 (eastbound)\r\nUnion Depot & Wacouta Station - Stop #57420 (southbound)\r\n\nFor westbound Route 72 get on/off buses at:\r\nUnion Depot & Sibley Station - Stop #57419 (northbound)\r\nKellogg Blvd & Broadway St - Stop #3254 (westbound)\r\n6th St & Jackson / Robert - Stop #11859 (westbound)\r\n\nEastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, right on Mounds Blvd and resume regular route\r\n\nWestbound buses will travel regular route on Mounds Blvd to 3rd St, left on 3rd St to cross the Kellogg Blvd bridge, right on Sibley St, left on 6th St and resume regular route.\r\n\nAffected stops:\r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\n5th St & Broadway St - Stop #40160 (eastbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound)"
     },
@@ -4256,7 +3986,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/827",
-      "updatedAt": "2026-11-13T11:30:01.000Z",
+      "updatedAt": "2026-11-14T06:00:01.000Z",
       "rawHeader": "Route 827 detoured off Marshall St/Main St from Hennepin Ave to 8th Ave NE from Fri Nov 13 at 6:00 AM to Sat Nov 14 at 6:00 PM due to Hot Chocolate Run 2026",
       "rawDescription": "For northbound Route 827 get on/off buses at:\r\nHennepin Ave & 1st St S - Stop #17952 (northbound)\r\n2nd St NE & 4th Ave NE - Stop #14687 (northbound)\r\n2nd St NE & 7th Ave NE - Stop #14680 (northbound)\r\nMarshall St NE & Broadway St NE - Stop #57552 (northbound)\r\n\nFor southbound Route 827 get on/off buses at:\r\nMarshall St NE & Broadway St NE - Stop #57575 (southbound)\r\n2nd St NE & 5th Ave NE - Stop #14685 (southbound)\r\n2nd St NE & 3rd Ave NE - Stop #14689 (southbound)\r\nMarquette Ave & 2nd St S - Stop #19238 (southbound)\r\n\nNorthbound buses will travel the regular route on Hennepin Ave to Main St NE, continue on Hennepin Ave, left on 2nd St NE, left on 8th Ave NE, right on Marshall St, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on Marshall St to 8th Ave NE, left on 8th Ave NE, right on 2nd St NE, right on 1st Ave to Main St NE, continue on 1st Ave, and resume the regular route.\r\n\nAffected stops:\r\nMain St NE & 1st Ave NE - Stop #57549 (northbound)\r\nMain St NE & 3rd Ave NE - Stop #57550 (northbound)\r\nMarshall St NE & 8th Ave NE - Stop #57551 (northbound)\r\nMarshall St NE & 8th Ave NE - Stop #57576 (southbound)\r\nMarshall St NE & 3rd Ave NE - Stop #57577 (southbound)\r\nMain St NE & 1st Ave NE - Stop #57578 (southbound)"
     },
@@ -4390,7 +4120,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/gold",
-      "updatedAt": "2026-11-13T19:25:14.000Z",
+      "updatedAt": "2026-11-14T08:30:01.000Z",
       "rawHeader": "METRO Gold Line returns to Kellogg Blvd Bridge beginning Sat Nov 14",
       "rawDescription": "The Kellogg Boulevard Bridge will reopen on Friday, November 13, 2026. METRO Gold Line buses will return to their regular routing across the bridge at the start of service on Saturday, November 14, 2026.\r\n\nBeginning November 14, METRO Gold Line buses will also begin serving the Bus Rapid Transit (BRT) stations at Union Depot & Wacouta Station and Union Depot & Sibley Station.\r\n\nEastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, and veer right onto the Gold Line guideway.\r\n\nWestbound buses will travel regular route on the Gold Line guideway to Mounds Blvd Station, left on 3rd St to cross the Kellogg Blvd bridge, right on Sibley St, left on 6th St and resume regular route."
     },
@@ -4423,7 +4153,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "STOP_MOVED",
-      "updatedAt": "2026-11-13T09:01:00.000Z",
+      "updatedAt": "2026-11-14T09:01:00.000Z",
       "rawHeader": "10th Ave SE & 8th St SE - Stop #16047 (northbound) is permanently moving for Route 4",
       "rawDescription": "The stop has been moved 100 ft south to the new raised boarding platform."
     },
@@ -4509,16 +4239,16 @@
       "direction": "All",
       "intersections": [],
       "closedStopIds": [
-        "56510",
         "56511",
+        "56510",
         "53469"
       ],
       "closedStopDetails": [
         {
-          "id": "56510"
+          "id": "56511"
         },
         {
-          "id": "56511"
+          "id": "56510"
         },
         {
           "id": "53469"
