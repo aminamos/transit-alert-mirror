@@ -4,17 +4,44 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 15 Nov 2026 17:38:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 22:42:47 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 94: Westbound 10:54 AM Trip Canceled (Union Depot &amp; Gate A1)</title>
-      <link>https://www.metrotransit.org/route/94</link>
-      <guid isPermaLink="false">Metro Transit-55286-2026-11-15T17:08:56.000Z</guid>
-      <pubDate>Sun, 15 Nov 2026 17:08:56 GMT</pubDate>
+      <title>[Critical] METRO A Line: Southbound 4:12 PM Trip Canceled (Rosedale Transit Center Gate A)</title>
+      <link>https://www.metrotransit.org/route/aline</link>
+      <guid isPermaLink="false">Metro Transit-55294-2026-11-15T22:27:44.000Z</guid>
+      <pubDate>Sun, 15 Nov 2026 22:27:44 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 94</category>
-      <description>Westbound Route 94 trip departing Union Depot &amp; Gate A1 at 10:54 AM canceled today due to mechanical issue</description>
+      <category>METRO A Line</category>
+      <description>Southbound A Line trip departing Rosedale Transit Center Gate A at 4:12 PM canceled today due to police activity</description>
+    </item>
+    <item>
+      <title>[Critical] Route 515: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/515</link>
+      <guid isPermaLink="false">Metro Transit-55292-2026-11-15T21:31:29.000Z</guid>
+      <pubDate>Sun, 15 Nov 2026 21:31:29 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 515</category>
+      <description>Route 515 trips departing MOA Transit Station Gate E at 2:59 PM and departing Southdale Transit Center &amp; Gate B at 3:35 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 645, Route 645C: Westbound 5:17 PM Trip Canceled (Marquette Ave &amp; 5th St - Stop Group B)</title>
+      <link>https://www.metrotransit.org/route/645</link>
+      <guid isPermaLink="false">Metro Transit-55295-2026-11-15T22:39:39.000Z</guid>
+      <pubDate>Sun, 15 Nov 2026 22:39:39 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 645, Route 645C</category>
+      <description>Westbound Route 645C trip departing Marquette Ave &amp; 5th St - Stop Group B at 5:17 PM canceled today due to traffic</description>
+    </item>
+    <item>
+      <title>[Critical] Route 724: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/724</link>
+      <guid isPermaLink="false">Metro Transit-55293-2026-11-15T21:49:37.000Z</guid>
+      <pubDate>Sun, 15 Nov 2026 21:49:37 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 724</category>
+      <description>Route 724 trips departing Brooklyn Ctr Transit Ctr Gate C at 4:00 PM and departing Starlite Transit Center &amp; Gate A at 4:31 PM canceled today due to mechanical issue</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
