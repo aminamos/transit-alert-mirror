@@ -4,27 +4,9 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 14 Nov 2026 22:14:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 02:30:37 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
-    <item>
-      <title>[Critical] METRO B Line: Westbound 3:43 PM Trip Canceled (Union Depot &amp; Gate A1)</title>
-      <link>https://www.metrotransit.org/route/bline</link>
-      <guid isPermaLink="false">Metro Transit-55275-2026-11-14T21:52:49.000Z</guid>
-      <pubDate>Sat, 14 Nov 2026 21:52:49 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO B Line</category>
-      <description>Westbound B Line trip departing Union Depot &amp; Gate A1 at 3:43 PM canceled today due to medical emergency</description>
-    </item>
-    <item>
-      <title>[Critical] Route 63: Eastbound 3:42 PM Trip Canceled (Westgate Station - Gate C)</title>
-      <link>https://www.metrotransit.org/route/63</link>
-      <guid isPermaLink="false">Metro Transit-55274-2026-11-14T21:49:50.000Z</guid>
-      <pubDate>Sat, 14 Nov 2026 21:49:50 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 63</category>
-      <description>Eastbound Route 63 trip departing Westgate Station - Gate C at 3:42 PM canceled</description>
-    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -51,15 +33,6 @@
       <category>Moderate</category>
       <category>METRO Blue Line</category>
       <description>Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues</description>
-    </item>
-    <item>
-      <title>[Moderate] METRO Gold Line: Detour via 5th St &amp; Robert St</title>
-      <link>https://www.metrotransit.org/route/gold</link>
-      <guid isPermaLink="false">Metro Transit-55265-2026-11-14T17:45:01.000Z</guid>
-      <pubDate>Sat, 14 Nov 2026 17:45:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>METRO Gold Line</category>
-      <description>Eastbound Gold Line detoured off 5th St from Jackson St to Wacouta St and off Wacouta St from 5th St to Kellogg Blvd until further notice due to construction. Board at: 5th St &amp; Robert Station - Stop #57418 (eastbound); Mounds Blvd Station - Stop #57422 (eastbound). | Action: Board at: 5th St &amp; Robert Station - Stop #57418 (eastbound); Mounds Blvd Station - Stop #57422 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 2: Detour via Franklin Ave &amp; Lyndale Ave</title>
@@ -285,15 +258,6 @@
       <category>Moderate</category>
       <category>Route 54, Route 64</category>
       <description>Maryland Ave &amp; Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction. Board at: Maryland Ave &amp; Cypress St - Stop #12918 (eastbound). | Action: Board at: Maryland Ave &amp; Cypress St - Stop #12918 (eastbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 54, Route 54M: Detour via 5th St &amp; Robert St</title>
-      <link>https://www.metrotransit.org/route/54</link>
-      <guid isPermaLink="false">Metro Transit-55261-2026-11-14T13:27:22.000Z</guid>
-      <pubDate>Sat, 14 Nov 2026 13:27:22 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 54, Route 54M</category>
-      <description>Eastbound Route 54 buses to Union Depot detoured off Wacouta St from 5th St to Kellogg Blvd until further notice due to construction. Board at: 5th St &amp; Robert Station - Stop #57418 (eastbound); Union Depot Station &amp; Terminal - Stop #56099 (westbound). | Action: Board at: 5th St &amp; Robert Station - Stop #57418 (eastbound); Union Depot Station &amp; Terminal - Stop #56099 (westbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 61: Detour via Arcade St &amp; Magnolia Ave</title>

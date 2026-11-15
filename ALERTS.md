@@ -2,57 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-67-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-59-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-63-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-57-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-6-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-58-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-14T22:14:42.752Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-15T02:30:37.474Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO Gold Line** (3) • **METRO Red Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 17** (2) • **Route 18** (6) • **Route 22** (1) • **Route 25** (2) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (3) • **Route 54M** (2) • **Route 61** (2) • **Route 62** (1) • **Route 63** (3) • **Route 64** (3) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (2) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 440** (1) • **Route 444** (1) • **Route 445** (1) • **Route 475** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Red Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 17** (2) • **Route 18** (6) • **Route 22** (1) • **Route 25** (2) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (2) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 440** (1) • **Route 444** (1) • **Route 445** (1) • **Route 475** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO B Line: Westbound 3:43 PM Trip Canceled (Union Depot & Gate A1)
-
-- **Affected Routes**: `METRO B Line`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound B Line trip departing Union Depot & Gate A1 at 3:43 PM canceled today due to medical emergency
-
-[Official Agency Advisory](https://www.metrotransit.org/route/bline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound B Line trip departing Union Depot & Gate A1 at 3:43 PM canceled today due to medical emergency
-
-</details>
-
----
-
-### 🚨 Route 63: Eastbound 3:42 PM Trip Canceled (Westgate Station - Gate C)
-
-- **Affected Routes**: `Route 63`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-
-**Summary**: Eastbound Route 63 trip departing Westgate Station - Gate C at 3:42 PM canceled
-
-[Official Agency Advisory](https://www.metrotransit.org/route/63)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 63 trip departing Westgate Station - Gate C at 3:42 PM canceled
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -143,44 +107,6 @@ Union Depot & Wacouta Station - Stop #57420 (southbound)
 
 ```text
 Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station.
-```
-
-</details>
-
----
-
-### ⚠️ METRO Gold Line: Detour via 5th St & Robert St
-
-- **Affected Routes**: `METRO Gold Line`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 5th St & Robert St; 5th St (Jackson St to Wacouta St and off Wacouta St from 5th St to Kellogg Blvd)
-- **Closed Stops**: Union Depot & Wacouta Station (Stop #57420), Stop #57418, Stop #57422
-
-**Summary**: Eastbound Gold Line detoured off 5th St from Jackson St to Wacouta St and off Wacouta St from 5th St to Kellogg Blvd until further notice due to construction. Board at: 5th St & Robert Station - Stop #57418 (eastbound); Mounds Blvd Station - Stop #57422 (eastbound).
-
-> 💡 **Rider Action**: Board at: 5th St & Robert Station - Stop #57418 (eastbound); Mounds Blvd Station - Stop #57422 (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on 5th St to Jackson St, right on Jackson St, left on Kellogg Blvd, continue on Kellogg Blvd to Wacouta St and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/gold)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Gold Line detoured off 5th St from Jackson St to Wacouta St and off Wacouta St from 5th St to Kellogg Blvd until further notice due to construction
-
-```text
-Get on/off buses at:
-5th St & Robert Station - Stop #57418 (eastbound)
-Mounds Blvd Station - Stop #57422 (eastbound)
-
-Eastbound buses will travel regular route on 5th St to Jackson St, right on Jackson St, left on Kellogg Blvd, continue on Kellogg Blvd to Wacouta St and resume regular route.
-
-Westbound buses will follow regular route.
-
-Affected stops:
-Union Depot & Wacouta Station - Stop #57420 (southbound)
 ```
 
 </details>
@@ -1310,42 +1236,6 @@ Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 ```text
 Get on/off buses at:
 Maryland Ave & Cypress St - Stop #12918 (eastbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 54, Route 54M: Detour via 5th St & Robert St
-
-- **Affected Routes**: `Route 54` `Route 54M`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 5th St & Robert St; Wacouta St (5th St to Kellogg Blvd)
-- **Closed Stops**: Union Depot & Wacouta Station (Stop #57420), Stop #57418, Stop #56099
-
-**Summary**: Eastbound Route 54 buses to Union Depot detoured off Wacouta St from 5th St to Kellogg Blvd until further notice due to construction. Board at: 5th St & Robert Station - Stop #57418 (eastbound); Union Depot Station & Terminal - Stop #56099 (westbound).
-
-> 💡 **Rider Action**: Board at: 5th St & Robert Station - Stop #57418 (eastbound); Union Depot Station & Terminal - Stop #56099 (westbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/54)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 54 buses to Union Depot detoured off Wacouta St from 5th St to Kellogg Blvd until further notice due to construction
-
-```text
-Get on/off buses at:
-5th St & Robert Station - Stop #57418 (eastbound)
-Union Depot Station & Terminal - Stop #56099 (westbound)
-
-Eastbound buses to Union Depot will travel regular route on 5th St to Jackson St, right on Jackson St, left on Kellogg Blvd, continue on Kellogg Blvd to Wacouta St and resume regular route.
-
-Eastbound Route 54M buses and westbound buses will follow regular route.
-
-Affected stops:
-Union Depot & Wacouta Station - Stop #57420 (southbound)
 ```
 
 </details>
