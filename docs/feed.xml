@@ -4,9 +4,18 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 15 Nov 2026 10:39:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 17:38:53 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] Route 94: Westbound 10:54 AM Trip Canceled (Union Depot &amp; Gate A1)</title>
+      <link>https://www.metrotransit.org/route/94</link>
+      <guid isPermaLink="false">Metro Transit-55286-2026-11-15T17:08:56.000Z</guid>
+      <pubDate>Sun, 15 Nov 2026 17:08:56 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 94</category>
+      <description>Westbound Route 94 trip departing Union Depot &amp; Gate A1 at 10:54 AM canceled today due to mechanical issue</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -15,15 +24,6 @@
       <category>Moderate</category>
       <category>METRO A Line</category>
       <description>METRO A Line detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
-    </item>
-    <item>
-      <title>[Moderate] METRO B Line: Detour via 5th St &amp; Robert St</title>
-      <link>https://www.metrotransit.org/route/bline</link>
-      <guid isPermaLink="false">Metro Transit-55259-2026-11-14T13:19:09.000Z</guid>
-      <pubDate>Sat, 14 Nov 2026 13:19:09 GMT</pubDate>
-      <category>Moderate</category>
-      <category>METRO B Line</category>
-      <description>Eastbound B Line detoured off 5th St from Jackson St to Wacouta St and off Wacouta St from 5th St to Kellogg Blvd until further notice due to construction. Board at: 5th St &amp; Robert Station - Stop #57418 (eastbound); Union Depot Station &amp; Terminal - Stop #56099 (westbound). | Action: Board at: 5th St &amp; Robert Station - Stop #57418 (eastbound); Union Depot Station &amp; Terminal - Stop #56099 (westbound)</description>
     </item>
     <item>
       <title>[Moderate] METRO Blue Line: Service Advisory</title>
@@ -375,15 +375,6 @@
       <category>Moderate</category>
       <category>Route 74</category>
       <description>Route 74 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 94: Detour via 5th St &amp; Robert St</title>
-      <link>https://www.metrotransit.org/route/94</link>
-      <guid isPermaLink="false">Metro Transit-55260-2026-11-14T13:20:47.000Z</guid>
-      <pubDate>Sat, 14 Nov 2026 13:20:47 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 94</category>
-      <description>Eastbound Route 94 detoured off 5th St from Jackson St to Wacouta St and off Wacouta St from 5th St to Kellogg Blvd until further notice due to construction. Board at: 5th St &amp; Robert Station - Stop #57418 (eastbound); Union Depot Station &amp; Terminal - Stop #56099 (westbound). | Action: Board at: 5th St &amp; Robert Station - Stop #57418 (eastbound); Union Depot Station &amp; Terminal - Stop #56099 (westbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 156, Route 578, Route 824, Route 827, Route 850, Route 882, Route 888: Stop Closed at 2nd Ave S &amp; 9th St</title>
