@@ -2,34 +2,55 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-61-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-55-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-63-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-56-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-5-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-57-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-16T02:40:12.864Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-16T10:56:21.036Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Red Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (6) • **Route 22** (1) • **Route 25** (2) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 440** (1) • **Route 444** (1) • **Route 445** (1) • **Route 475** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Red Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (4) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (1) • **Route 25** (2) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 440** (1) • **Route 444** (1) • **Route 445** (1) • **Route 475** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 14: Northbound 7:26 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)
+### 🚨 Route 14: Service Advisory
 
 - **Affected Routes**: `Route 14`
-- **Direction**: Northbound
+- **Direction**: Southbound
 - **Severity**: `Critical`
+- **Closed Stops**: Stop #41982, Stop #17857, Stop #17876, Stop #17881, Stop #50153, Stop #8265, Stop #8274, Stop #8286 *(+28 more)*
 
-**Summary**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:26 PM canceled today due to traffic
+**Summary**: Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 4:23 AM will operate from 6th St S & Nicollet Mall at 4:50 AM today
 
 [Official Agency Advisory](https://www.metrotransit.org/route/14)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:26 PM canceled today due to traffic
+**Header**: Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 4:23 AM will operate from 6th St S & Nicollet Mall at 4:50 AM today
+
+</details>
+
+---
+
+### 🚨 Route 18: Service Canceled
+
+- **Affected Routes**: `Route 18`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: 04 AM and departing 4th Ave S & 3rd St S
+
+**Summary**: Route 18 trips departing 2nd Ave S Loop & American Blvd at 5:04 AM and departing 4th Ave S & 3rd St S at 6:20 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/18)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 18 trips departing 2nd Ave S Loop & American Blvd at 5:04 AM and departing 4th Ave S & 3rd St S at 6:20 AM canceled today
 
 </details>
 
@@ -604,6 +625,52 @@ Southbound buses will travel the regular route on 2nd St NE to 7th Ave NE, left 
 Affected stops:
 2nd St NE & 7th Ave NE - Stop #14680 (northbound)
 2nd St NE & 7th Ave NE - Stop #14681 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 11: Detour via 3rd Ave S & 18th St
+
+- **Affected Routes**: `Route 11`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 3rd Ave S & 18th St; 3rd Ave S & 18th St E; Grant St E & Nicollet Ave S; 16th St E & 3rd Ave S; Nicollet Ave S & 14th St
+- **Closed Stops**: 16th St E & 3rd Ave S (Stop #53463), Nicollet Ave S & 14th St / Grant St E (Stop #1920), Nicollet Ave S & Grant St E (Stop #1197), 15th St E & 1st Ave S (Stop #53461), 16th St E & 3rd Ave S (Stop #53462), Stop #17768, Stop #17988, Stop #17704 *(+1 more)*
+
+**Summary**: Route 11 detoured off Nicollet Mall from 12th St S to 16th St E until further notice. Board at: 3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound); Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound).
+
+> 💡 **Rider Action**: Board at: 3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound); Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route on 3rd Ave S to 16th St, continue on 3rd Ave S to 11th St, left on 11th St, left on Marquette Ave, right on Grant St, right on Nicollet Mall, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/11)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 11 detoured off Nicollet Mall from 12th St S to 16th St E until further notice
+
+```text
+For northbound Route 11 get on/off buses at:
+3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound)
+Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)
+
+For southbound Route 11 get on/off buses at:
+3rd Ave S & 18th St E - Stop #17704 (southbound)
+Grant St E & Nicollet Ave S - Stop #19327 (southbound)
+
+Northbound buses will travel regular route on 3rd Ave S to 16th St, continue on 3rd Ave S to 11th St, left on 11th St, left on Marquette Ave, right on Grant St, right on Nicollet Mall, and resume regular route. 
+
+Southbound buses will travel regular route on Nicollet Mall to Grant St E, left on Grant St E, left on 2nd Ave S, right on 12th St S, right on 3rd Ave S, and resume regular route. 
+
+Affected stops:
+16th St E & 3rd Ave S - Stop #53463 (westbound)
+Nicollet Ave S & 14th St / Grant St E - Stop #1920 (northbound)
+Nicollet Ave S & Grant St E - Stop #1197 (southbound)
+15th St E & 1st Ave S - Stop #53461 (eastbound)
+16th St E & 3rd Ave S - Stop #53462 (eastbound)
 ```
 
 </details>

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-16T02:40:12.864Z",
-    "totalAlerts": 61,
-    "criticalCount": 1,
-    "moderateCount": 55,
+    "generatedAt": "2026-11-16T10:56:21.036Z",
+    "totalAlerts": 63,
+    "criticalCount": 2,
+    "moderateCount": 56,
     "minorCount": 5,
     "affectedRoutesCount": 57,
     "agencies": [
@@ -12,29 +12,203 @@
   },
   "alerts": [
     {
-      "id": "55303",
+      "id": "55311",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 14: Northbound 7:26 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)",
-      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:26 PM canceled today due to traffic",
+      "title": "Route 14: Service Advisory",
+      "summary": "Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 4:23 AM will operate from 6th St S & Nicollet Mall at 4:50 AM today",
       "affectedRoutes": [
         "Route 14"
       ],
-      "direction": "Northbound",
+      "direction": "Southbound",
       "intersections": [],
+      "closedStopIds": [
+        "41982",
+        "17857",
+        "17876",
+        "17881",
+        "50153",
+        "8265",
+        "8274",
+        "8286",
+        "8292",
+        "8305",
+        "8308",
+        "8312",
+        "8320",
+        "8328",
+        "8332",
+        "8337",
+        "8339",
+        "8342",
+        "8345",
+        "8348",
+        "8370",
+        "8374",
+        "8378",
+        "8385",
+        "8387",
+        "8389",
+        "8391",
+        "57010",
+        "57011",
+        "41542",
+        "16393",
+        "16395",
+        "16401",
+        "16406",
+        "57669",
+        "52527"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "41982"
+        },
+        {
+          "id": "17857"
+        },
+        {
+          "id": "17876"
+        },
+        {
+          "id": "17881"
+        },
+        {
+          "id": "50153"
+        },
+        {
+          "id": "8265"
+        },
+        {
+          "id": "8274"
+        },
+        {
+          "id": "8286"
+        },
+        {
+          "id": "8292"
+        },
+        {
+          "id": "8305"
+        },
+        {
+          "id": "8308"
+        },
+        {
+          "id": "8312"
+        },
+        {
+          "id": "8320"
+        },
+        {
+          "id": "8328"
+        },
+        {
+          "id": "8332"
+        },
+        {
+          "id": "8337"
+        },
+        {
+          "id": "8339"
+        },
+        {
+          "id": "8342"
+        },
+        {
+          "id": "8345"
+        },
+        {
+          "id": "8348"
+        },
+        {
+          "id": "8370"
+        },
+        {
+          "id": "8374"
+        },
+        {
+          "id": "8378"
+        },
+        {
+          "id": "8385"
+        },
+        {
+          "id": "8387"
+        },
+        {
+          "id": "8389"
+        },
+        {
+          "id": "8391"
+        },
+        {
+          "id": "57010"
+        },
+        {
+          "id": "57011"
+        },
+        {
+          "id": "41542"
+        },
+        {
+          "id": "16393"
+        },
+        {
+          "id": "16395"
+        },
+        {
+          "id": "16401"
+        },
+        {
+          "id": "16406"
+        },
+        {
+          "id": "57669"
+        },
+        {
+          "id": "52527"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-16T10:34:00.000Z",
+        "end": "2026-11-16T12:32:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/14",
+      "updatedAt": "2026-11-16T10:35:45.000Z",
+      "rawHeader": "Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 4:23 AM will operate from 6th St S & Nicollet Mall at 4:50 AM today",
+      "rawDescription": ""
+    },
+    {
+      "id": "55310",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 18: Service Canceled",
+      "summary": "Route 18 trips departing 2nd Ave S Loop & American Blvd at 5:04 AM and departing 4th Ave S & 3rd St S at 6:20 AM canceled today",
+      "affectedRoutes": [
+        "Route 18"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "04 AM and departing 4th Ave S & 3rd St S"
+      ],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-16T01:26:00.000Z",
-        "end": "2026-11-16T03:27:00.000Z"
+        "start": "2026-11-16T11:04:00.000Z",
+        "end": "2026-11-16T14:29:00.000Z"
       },
-      "cause": "OTHER_CAUSE",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/14",
-      "updatedAt": "2026-11-16T00:58:27.000Z",
-      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:26 PM canceled today due to traffic",
+      "url": "https://www.metrotransit.org/route/18",
+      "updatedAt": "2026-11-16T10:34:01.000Z",
+      "rawHeader": "Route 18 trips departing 2nd Ave S Loop & American Blvd at 5:04 AM and departing 4th Ave S & 3rd St S at 6:20 AM canceled today",
       "rawDescription": ""
     },
     {
@@ -932,9 +1106,88 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-11-15T06:00:01.000Z",
+      "updatedAt": "2026-11-16T06:00:01.000Z",
       "rawHeader": "Route 11 detoured off 2nd St NE from 6th Ave NE to 7th Ave NE from 8:00 AM to 3:00 PM on Mon Nov 16 due to event",
       "rawDescription": "For northbound Route 11 get on/off buses at:\r\n2nd St NE & 4th Ave NE - Stop #14687 (northbound)\r\n2nd St NE & 8th Ave NE - Stop #14679 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\n2nd St NE & 8th Ave NE - Stop #14678 (southbound)\r\n2nd St NE & 5th Ave NE - Stop #14685 (southbound)\r\n\nNorthbound buses will travel the regular route on 2nd St NE to 6th Ave NE, right on 6th Ave NE, left on University Ave NE, left on 7th Ave NE, right on 2nd St NE, and resume the regular route.\r\n\nSouthbound buses will travel the regular route on 2nd St NE to 7th Ave NE, left on 7th Ave NE, right on University Ave NE, right on 6th Ave NE, left on 2nd St NE, and resume the regular route.\r\n\nAffected stops:\r\n2nd St NE & 7th Ave NE - Stop #14680 (northbound)\r\n2nd St NE & 7th Ave NE - Stop #14681 (southbound)"
+    },
+    {
+      "id": "55309",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 11: Detour via 3rd Ave S & 18th St",
+      "summary": "Route 11 detoured off Nicollet Mall from 12th St S to 16th St E until further notice. Board at: 3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound); Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound).",
+      "affectedRoutes": [
+        "Route 11"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "3rd Ave S & 18th St",
+        "3rd Ave S & 18th St E",
+        "Grant St E & Nicollet Ave S",
+        "16th St E & 3rd Ave S",
+        "Nicollet Ave S & 14th St"
+      ],
+      "closedStopIds": [
+        "53463",
+        "1920",
+        "1197",
+        "53461",
+        "53462",
+        "17768",
+        "17988",
+        "17704",
+        "19327"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "53463",
+          "name": "16th St E & 3rd Ave S",
+          "direction": "westbound"
+        },
+        {
+          "id": "1920",
+          "name": "Nicollet Ave S & 14th St / Grant St E",
+          "direction": "northbound"
+        },
+        {
+          "id": "1197",
+          "name": "Nicollet Ave S & Grant St E",
+          "direction": "southbound"
+        },
+        {
+          "id": "53461",
+          "name": "15th St E & 1st Ave S",
+          "direction": "eastbound"
+        },
+        {
+          "id": "53462",
+          "name": "16th St E & 3rd Ave S",
+          "direction": "eastbound"
+        },
+        {
+          "id": "17768"
+        },
+        {
+          "id": "17988"
+        },
+        {
+          "id": "17704"
+        },
+        {
+          "id": "19327"
+        }
+      ],
+      "riderAlternative": "Board at: 3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound); Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)",
+      "detourDetails": "Northbound buses will travel regular route on 3rd Ave S to 16th St, continue on 3rd Ave S to 11th St, left on 11th St, left on Marquette Ave, right on Grant St, right on Nicollet Mall, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-11-16T09:56:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/11",
+      "updatedAt": "2026-11-16T09:56:33.000Z",
+      "rawHeader": "Route 11 detoured off Nicollet Mall from 12th St S to 16th St E until further notice",
+      "rawDescription": "For northbound Route 11 get on/off buses at:\r\n3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound)\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\n3rd Ave S & 18th St E - Stop #17704 (southbound)\r\nGrant St E & Nicollet Ave S - Stop #19327 (southbound)\r\n\nNorthbound buses will travel regular route on 3rd Ave S to 16th St, continue on 3rd Ave S to 11th St, left on 11th St, left on Marquette Ave, right on Grant St, right on Nicollet Mall, and resume regular route. \r\n\nSouthbound buses will travel regular route on Nicollet Mall to Grant St E, left on Grant St E, left on 2nd Ave S, right on 12th St S, right on 3rd Ave S, and resume regular route. \r\n\nAffected stops:\r\n16th St E & 3rd Ave S - Stop #53463 (westbound)\r\nNicollet Ave S & 14th St / Grant St E - Stop #1920 (northbound)\r\nNicollet Ave S & Grant St E - Stop #1197 (southbound)\r\n15th St E & 1st Ave S - Stop #53461 (eastbound)\r\n16th St E & 3rd Ave S - Stop #53462 (eastbound)"
     },
     {
       "id": "55222",
@@ -1012,7 +1265,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/17",
-      "updatedAt": "2026-11-15T06:00:01.000Z",
+      "updatedAt": "2026-11-16T06:00:01.000Z",
       "rawHeader": "Route 17 detoured off 24th St from Lyndale Ave to Hennepin Ave from 9:00 AM to 1:00 PM on Mon Nov 16 due to tree trimming",
       "rawDescription": "For eastbound Route 17 get on/off buses at:\r\nHennepin & 25th St Station - Stop #1327 (northbound)\r\nTemporary stop on 24th St just past Lyndale Ave (eastbound)\r\n24th St W & Pleasant Ave S - Stop #40342 (eastbound)\r\n\nFor westbound Route 17 get on/off buses at:\r\n24th St W & Lyndale Ave S - Stop #4667 (westbound)\r\nHennepin & 25th St Station - Stop #1100 (southbound)\r\n\nEastbound buses will travel the regular route on Hennepin Ave to 24th St, continue on Hennepin Ave, right on Franklin Ave, right on Lyndale Ave, left on 24th St, and resume the regular route.\r\n\nWestbound buses will travel the regular route on 24th St to Bryant Ave, right on Bryant Ave, left on 22nd St, left on Hennepin Ave to 24th St, continue on Hennepin Ave, and resume the regular route.\r\n\nAffected stops:\r\n24th St W & Dupont Ave S - Stop #40335 (eastbound)\r\n24th St W & Bryant Ave S - Stop #40333 (eastbound)\r\n24th St W & Lyndale Ave S - Stop #40339 (eastbound)\r\n24th St W & Bryant Ave S - Stop #4669 (westbound)\r\n24th St W & Hennepin Ave S - Stop #4672 (westbound)"
     },
@@ -1733,7 +1986,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-11-15T06:00:01.000Z",
+      "updatedAt": "2026-11-16T09:30:01.000Z",
       "rawHeader": "38th St E & 3rd Ave S - Stop #12626 (eastbound) is closed for Route 38 beginning Mon Nov 16 at 4:00 AM until further notice",
       "rawDescription": "Get on/off buses at:\r\n38th St W & Nicollet Ave S - Stop #17516 (eastbound)\r\n38th St E & 4th Ave S - Stop #12622 (eastbound)"
     },
