@@ -3,54 +3,50 @@
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
 [![Alerts](https://img.shields.io/badge/Total%20Alerts-63-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-56-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-5-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-57-brightgreen)](#-routes-index)
+[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-58-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-53-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-16T10:56:21.036Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-16T20:54:49.681Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Red Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (4) • **Route 14** (1) • **Route 17** (2) • **Route 18** (7) • **Route 22** (1) • **Route 25** (2) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 440** (1) • **Route 444** (1) • **Route 445** (1) • **Route 475** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (3) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (1) • **Route 11** (5) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (3) • **Route 64** (4) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (3) • **Route 94** (2) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 14: Service Advisory
+### 🚨 Route 805: Service Canceled
 
-- **Affected Routes**: `Route 14`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #41982, Stop #17857, Stop #17876, Stop #17881, Stop #50153, Stop #8265, Stop #8274, Stop #8286 *(+28 more)*
-
-**Summary**: Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 4:23 AM will operate from 6th St S & Nicollet Mall at 4:50 AM today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/14)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 14 trip departing Robbinsdale Transit Center & Gate A at 4:23 AM will operate from 6th St S & Nicollet Mall at 4:50 AM today
-
-</details>
-
----
-
-### 🚨 Route 18: Service Canceled
-
-- **Affected Routes**: `Route 18`
+- **Affected Routes**: `Route 805`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: 04 AM and departing 4th Ave S & 3rd St S
+- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
+departing 1st Ave S & Monroe St; 38 PM
+departing 1st Ave S & Monroe St; 36 PM
+departing 1st Ave S & Monroe St
 
-**Summary**: Route 18 trips departing 2nd Ave S Loop & American Blvd at 5:04 AM and departing 4th Ave S & 3rd St S at 6:20 AM canceled today
+**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/18)
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 18 trips departing 2nd Ave S Loop & American Blvd at 5:04 AM and departing 4th Ave S & 3rd St S at 6:20 AM canceled today
+**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate D at 12:34 PM
+departing Northtown Transit Ctr Gate D at 2:34 PM
+departing Northtown Transit Ctr Gate D at 4:34 PM
+
+Affected southbound trips:
+departing 1st Ave S & Monroe St at 11:38 AM
+departing 1st Ave S & Monroe St at 1:38 PM
+departing 1st Ave S & Monroe St at 3:36 PM
+departing 1st Ave S & Monroe St at 5:38 PM
+```
 
 </details>
 
@@ -118,11 +114,11 @@ Due to mechanical issues, both elevators at Franklin Ave Station are unavailable
 - **Affected Routes**: `Route 2`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Mar 23 at 5:00 AM until further notice
+- **Schedule**: Beginning Mon Mar 23 at 5:00 AM until Fri Nov 20 at 4:00am
 - **Corridors & Intersections**: Franklin Ave & Lyndale Ave; Lyndale Ave & 22nd St; 24th St & Pleasant Ave; 24th St & Nicollet Ave; 28th St & 1st Ave
 - **Closed Stops**: Franklin Ave W & Pleasant Ave (Stop #13330), Franklin Ave E & Nicollet Ave (Stop #56697), Franklin Ave E & 3rd Ave S (Stop #13320), Franklin Ave E & Portland Ave (Stop #13316), Franklin Ave E & Chicago Ave (Stop #13312), Franklin Ave E & Chicago Ave (Stop #56698), Franklin Ave E & Portland Ave (Stop #13315), Franklin Ave E & Clinton Ave S (Stop #13318) *(+26 more)*
 
-**Summary**: Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction. Temporary stop at 24th St just past Lyndale Ave (eastbound).
+**Summary**: Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until Fri Nov 20 at 4:00am due to construction. Temporary stop at 24th St just past Lyndale Ave (eastbound).
 
 > 💡 **Rider Action**: Temporary stop at 24th St just past Lyndale Ave (eastbound)
 
@@ -133,10 +129,10 @@ Due to mechanical issues, both elevators at Franklin Ave Station are unavailable
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction
+**Header**: Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until Fri Nov 20 at 4:00am due to construction
 
 ```text
-Update 11/13/26 at 11:30 am: get on/off stops
+Update 11/16/26 11:45am: Franklin reopens on Nov 20th, buses will return to regular route.
 
 For eastbound buses get on/off at:
 Franklin Ave & Lyndale Ave - Stop #13334 (eastbound)
@@ -189,6 +185,50 @@ Franklin Ave E & Clinton Ave S - Stop #13318 (WB)
 Franklin Ave E & 3rd Ave S - Stop #13319 (WB)
 Franklin Ave W & Nicollet Ave S - Stop #13324 (WB)
 Franklin Ave W & Pleasant Ave S - Stop #13328 (WB)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 2: Detour via Cedar Ave S & 3rd St S
+
+- **Affected Routes**: `Route 2`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Cedar Ave S & 3rd St S; Oak St SE & University Ave S; Washington Ave & Anderson Hall - St; Washington Ave & Coffman Union - St
+- **Closed Stops**: Washington Ramp & Cedar Ave S (Stop #13221), Washington Ave & Anderson Hall (Stop #13223), Washington Ave & Coffman Union (Stop #13209), Stop #13219, Stop #41243
+
+**Summary**: Route 2 detoured off Washington Ave from Cedar Ave to Oak St from 10:00 PM to 2:00 AM due to construction. Board at: Cedar Ave S & 3rd St S - Stop #13219 (northbound); Oak St SE & University Ave SE - Stop #41243 (northbound).
+
+> 💡 **Rider Action**: Board at: Cedar Ave S & 3rd St S - Stop #13219 (northbound); Oak St SE & University Ave SE - Stop #41243 (northbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on Cedar Ave to 3rd St, right on 3rd St, right on 19th Ave, right on Riverside Ave, left on Cedar Ave, left onto I-94, right onto Huron Blvd, left on Washington Ave, right on Oak St and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 2 detoured off Washington Ave from Cedar Ave to Oak St from 10:00 PM to 2:00 AM due to construction
+
+```text
+Get on/off eastbound buses at:
+Cedar Ave S & 3rd St S - Stop #13219 (northbound)
+Oak St SE & University Ave SE - Stop #41243 (northbound)
+
+No westbound stops missed.
+
+Eastbound buses will travel regular route on Cedar Ave to 3rd St, right on 3rd St, right on 19th Ave, right on Riverside Ave, left on Cedar Ave, left onto I-94, right onto Huron Blvd, left on Washington Ave, right on Oak St and resume regular route.
+
+Westbound buses will travel regular route.
+
+Affected direction: Eastbound
+
+Affected stops:
+Washington Ramp & Cedar Ave S - Stop #13221 (eastbound)
+Washington Ave & Anderson Hall - Stop #13223 (eastbound)
+Washington Ave & Coffman Union - Stop #13209 (eastbound)
 ```
 
 </details>
@@ -258,6 +298,51 @@ Rice St & Lawson Ave - Stop #10498 (northbound)
 Rice St & Geranium Ave - Stop #10501 (northbound)
 Maryland Ave & Rice St - Stop #47074 (westbound)
 Maryland Ave & Galtier St - Stop #5579 (westbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 3: Detour via Washington Ave S & 15th Ave S
+
+- **Affected Routes**: `Route 3`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Washington Ave S & 15th Ave S; 3rd St S & Cedar Ave S; Pleasant St & Jones Hall - St; make a U-turn at Pillsbury Dr & continue northbound on Pleasant Ave; Washington Ave & Anderson Hall - St
+- **Closed Stops**: Washington Ramp & Cedar Ave S (Stop #13221), Washington Ave & Anderson Hall (Stop #13223), E River Pkwy & Appleby Hall (Stop #57013), Stop #57023, Stop #42452, Stop #49881
+
+**Summary**: Route 3 detoured off Washington Ave from Cedar Ave to Pleasant Ave from 10:00 PM to 2:00 AM due to construction. Board at: Washington Ave S & 15th Ave S - Stop #57023 (eastbound); 3rd St S & Cedar Ave S - Stop #42452 (eastbound); Pleasant St & Jones Hall - Stop #49881 (northbound).
+
+> 💡 **Rider Action**: Board at: Washington Ave S & 15th Ave S - Stop #57023 (eastbound); 3rd St S & Cedar Ave S - Stop #42452 (eastbound); Pleasant St & Jones Hall - Stop #49881 (northbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on Cedar Ave to 3rd St, left on 3rd St, left on 19th Ave, right on University Ave, right on Pleasant St, make a U-turn at Pillsbury Dr and continue northbound on Pleasant Ave and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/3)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 3 detoured off Washington Ave from Cedar Ave to Pleasant Ave from 10:00 PM to 2:00 AM due to construction
+
+```text
+Get on/off eastbound buses at:
+Washington Ave S & 15th Ave S - Stop #57023 (eastbound)
+3rd St S & Cedar Ave S - Stop #42452 (eastbound)
+Pleasant St & Jones Hall - Stop #49881 (northbound)
+
+No westbound stops missed.
+
+Eastbound buses will travel regular route on Cedar Ave to 3rd St, left on 3rd St, left on 19th Ave, right on University Ave, right on Pleasant St, make a U-turn at Pillsbury Dr and continue northbound on Pleasant Ave and resume regular route.
+
+Westbound buses will travel regular route.
+
+Affected direction: Eastbound
+
+Affected stops:
+Washington Ramp & Cedar Ave S - Stop #13221 (eastbound)
+Washington Ave & Anderson Hall - Stop #13223 (eastbound)
+E River Pkwy & Appleby Hall - Stop #57013 (northbound)
 ```
 
 </details>
@@ -385,11 +470,11 @@ Cedar Lake Rd & Rhode Island Ave S - Stop #80936 (westbound)
 - **Affected Routes**: `Route 9`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Mar 23 at 5:00 AM until further notice
+- **Schedule**: Beginning Mon Mar 23 at 5:00 AM until Fri Nov 20 at 4:00am
 - **Corridors & Intersections**: Portland Ave S & 18th St E; Franklin Ave E & 10th Ave S; Franklin Ave E & Chicago Ave; Park Ave S & 16th St E; Franklin Ave E & Portland Ave
 - **Closed Stops**: Franklin Ave E & Portland Ave (Stop #13316), Franklin Ave E & Chicago Ave (Stop #13312), Park Ave S & 18th St E (Stop #15343), Stop #15348, Stop #13310, Stop #56698, Stop #15344
 
-**Summary**: Route 9 detoured off Franklin Ave from Portland Ave to Chicago Ave and off Park Ave from 17th St to Franklin Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction. Board at: Portland Ave S & 18th St E - Stop #15348 (southbound); Temporary stop on Portland Ave just before Franklin Ave (southbound); Temporary stop on Chicago Ave just before Franklin Ave (northbound).
+**Summary**: Route 9 detoured off Franklin Ave from Portland Ave to Chicago Ave and off Park Ave from 17th St to Franklin Ave beginning Mon Mar 23 at 5:00 AM until Fri Nov 20 at 4:00am due to construction. Board at: Portland Ave S & 18th St E - Stop #15348 (southbound); Temporary stop on Portland Ave just before Franklin Ave (southbound); Temporary stop on Chicago Ave just before Franklin Ave (northbound).
 
 > 💡 **Rider Action**: Board at: Portland Ave S & 18th St E - Stop #15348 (southbound); Temporary stop on Portland Ave just before Franklin Ave (southbound); Temporary stop on Chicago Ave just before Franklin Ave (northbound)
 
@@ -400,9 +485,11 @@ Cedar Lake Rd & Rhode Island Ave S - Stop #80936 (westbound)
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 9 detoured off Franklin Ave from Portland Ave to Chicago Ave and off Park Ave from 17th St to Franklin Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction
+**Header**: Route 9 detoured off Franklin Ave from Portland Ave to Chicago Ave and off Park Ave from 17th St to Franklin Ave beginning Mon Mar 23 at 5:00 AM until Fri Nov 20 at 4:00am due to construction
 
 ```text
+Update 11/16 at 11:50am: Franklin Ave reopens on Nov 20th, buses will return to regular routing.
+
 For eastbound Route 9 get on/off buses at:
 Portland Ave S & 18th St E - Stop #15348 (southbound)
 Temporary stop on Portland Ave just before Franklin Ave (southbound)
@@ -546,48 +633,6 @@ Nicollet Mall & 11th St S - Stop #17990 (northbound)
 
 ---
 
-### ⚠️ Route 10, Route 25: Detour via 3rd Ave S & 11th St S
-
-- **Affected Routes**: `Route 10` `Route 25`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 3rd Ave S & 11th St S; Nicollet Ave S & Grant St E; Grant St E & Nicollet Ave S; 2nd Ave S & Convention Center - St; Grant St (Nicollet Ave to 12th St)
-- **Closed Stops**: Grant St E & Nicollet Ave S (Stop #19327), 2nd Ave S & Convention Center (Stop #41911), 2nd Ave S & Convention Center (Stop #19250), Stop #19277, Stop #17988, Stop #1197, Stop #19337
-
-**Summary**: Routes 10 and 25 detoured off Grant St from Nicollet Ave to 12th St until further notice. Board at: 3rd Ave S & 11th St S - Stop #19277 (southbound); Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound).
-
-> 💡 **Rider Action**: Board at: 3rd Ave S & 11th St S - Stop #19277 (southbound); Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/25)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Routes 10 and 25 detoured off Grant St from Nicollet Ave to 12th St until further notice
-
-```text
-Get on/off northbound buses at:
-3rd Ave S & 11th St S - Stop #19277 (southbound)
-Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)
-
-Get on/off southbound buses at:
-Nicollet Ave S & Grant St E - Stop #1197 (southbound)
-Leamington Ramp & Lower - Gate #7 - Stop #19337 (eastbound)
-
-Northbound buses departing Leamington Ramp will travel the regular route on 3rd Ave to 11th St, continue on 3rd Ave, right on 16th St which becomes 15th St, right on Nicollet Ave to Grant St, continue on Nicollet Mall, and resume the regular route.
-
-Southbound buses traveling to Leamington Ramp will travel the regular route on Nicollet Mall to Grant St, continue on Nicollet Ave, left on 15th St which becomes 16th St, left on 3rd Ave to 12th St, continue on 3rd Ave, and resume the regular route.
-
-Affected stops:
-Grant St E & Nicollet Ave S - Stop #19327 (eastbound)
-2nd Ave S & Convention Center - Stop #41911 (southbound)
-2nd Ave S & Convention Center - Stop #19250 (northbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 11: Detour via 2nd St NE & 4th Ave N
 
 - **Affected Routes**: `Route 11`
@@ -677,47 +722,42 @@ Nicollet Ave S & Grant St E - Stop #1197 (southbound)
 
 ---
 
-### ⚠️ Route 17: Detour via 24th St W & Pleasant Ave S
+### ⚠️ Route 11: Detour via 3rd Ave S & 18th St
 
-- **Affected Routes**: `Route 17`
+- **Affected Routes**: `Route 11`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: 24th St W & Pleasant Ave S; 24th St W & Lyndale Ave S; 24th St W & Dupont Ave S; 24th St W & Bryant Ave S; 24th St W & Hennepin Ave S
-- **Closed Stops**: 24th St W & Dupont Ave S (Stop #40335), 24th St W & Bryant Ave S (Stop #40333), 24th St W & Lyndale Ave S (Stop #40339), 24th St W & Bryant Ave S (Stop #4669), 24th St W & Hennepin Ave S (Stop #4672), Stop #1327, Stop #40342, Stop #4667 *(+1 more)*
+- **Corridors & Intersections**: 3rd Ave S & 18th St; 16th St E & 3rd Ave S; Nicollet Ave S & 14th St; 3rd Ave S (16th St S to 11th St S)
+- **Closed Stops**: 16th St E & 3rd Ave S (Stop #53463), Nicollet Ave S & 14th St / Grant St E (Stop #1920), Nicollet Mall & Alice Rainville Pl (Stop #17988), Nicollet Mall & 11th St S (Stop #17990), Stop #17768, Stop #17992
 
-**Summary**: Route 17 detoured off 24th St from Lyndale Ave to Hennepin Ave from 9:00 AM to 1:00 PM on Mon Nov 16 due to tree trimming. Board at: Hennepin & 25th St Station - Stop #1327 (northbound); Temporary stop on 24th St just past Lyndale Ave (eastbound); 24th St W & Pleasant Ave S - Stop #40342 (eastbound).
+**Summary**: Route 11 detoured off 3rd Ave S from 16th St S to 11th St S until later today. Board at: 3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound); Nicollet Mall & 9th St S - Stop #17992 (northbound).
 
-> 💡 **Rider Action**: Board at: Hennepin & 25th St Station - Stop #1327 (northbound); Temporary stop on 24th St just past Lyndale Ave (eastbound); 24th St W & Pleasant Ave S - Stop #40342 (eastbound)
+> 💡 **Rider Action**: Board at: 3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound); Nicollet Mall & 9th St S - Stop #17992 (northbound)
 
-> 🔄 **Detour Path**: Eastbound buses will travel the regular route on Hennepin Ave to 24th St, continue on Hennepin Ave, right on Franklin Ave, right on Lyndale Ave, left on 24th St, and resume the regular route.
+> 🔄 **Detour Path**: Northbound buses will travel regular route on 3rd Ave S to 16th St S, continue on 3rd Ave S to 11th St S, left on 11th St S, right on Nicollet Mall and resume regular route.
 
-[Official Agency Advisory](https://www.metrotransit.org/route/17)
+[Official Agency Advisory](https://www.metrotransit.org/route/11)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 17 detoured off 24th St from Lyndale Ave to Hennepin Ave from 9:00 AM to 1:00 PM on Mon Nov 16 due to tree trimming
+**Header**: Route 11 detoured off 3rd Ave S from 16th St S to 11th St S until later today
 
 ```text
-For eastbound Route 17 get on/off buses at:
-Hennepin & 25th St Station - Stop #1327 (northbound)
-Temporary stop on 24th St just past Lyndale Ave (eastbound)
-24th St W & Pleasant Ave S - Stop #40342 (eastbound)
+Get on/off buses at:
+3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound)
+Nicollet Mall & 9th St S - Stop #17992 (northbound)
 
-For westbound Route 17 get on/off buses at:
-24th St W & Lyndale Ave S - Stop #4667 (westbound)
-Hennepin & 25th St Station - Stop #1100 (southbound)
+Affected direction: Northbound
+Northbound buses will travel regular route on 3rd Ave S to 16th St S, continue on 3rd Ave S to 11th St S, left on 11th St S, right on Nicollet Mall and resume regular route. 
 
-Eastbound buses will travel the regular route on Hennepin Ave to 24th St, continue on Hennepin Ave, right on Franklin Ave, right on Lyndale Ave, left on 24th St, and resume the regular route.
-
-Westbound buses will travel the regular route on 24th St to Bryant Ave, right on Bryant Ave, left on 22nd St, left on Hennepin Ave to 24th St, continue on Hennepin Ave, and resume the regular route.
+Southbound buses will travel regular route. 
 
 Affected stops:
-24th St W & Dupont Ave S - Stop #40335 (eastbound)
-24th St W & Bryant Ave S - Stop #40333 (eastbound)
-24th St W & Lyndale Ave S - Stop #40339 (eastbound)
-24th St W & Bryant Ave S - Stop #4669 (westbound)
-24th St W & Hennepin Ave S - Stop #4672 (westbound)
+16th St E & 3rd Ave S - Stop #53463 (westbound)
+Nicollet Ave S & 14th St / Grant St E - Stop #1920 (northbound)
+Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)
+Nicollet Mall & 11th St S - Stop #17990 (northbound)
 ```
 
 </details>
@@ -1282,6 +1322,43 @@ Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 ```text
 Get on/off buses at:
 Maryland Ave & Cypress St - Stop #12918 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 54, Route 61, Route 63, Route 64, Route 72, Route 74, METRO Gold Line, METRO B Line, Route 94: Stop Closed at 6th St & Jackson St
+
+- **Affected Routes**: `Route 54` `Route 61` `Route 63` `Route 64` `Route 72` `Route 74` `METRO Gold Line` `METRO B Line` `Route 94`
+- **Direction**: Westbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 6th St & Jackson St
+- **Closed Stops**: Stop #57456, Stop #11859, Stop #11858
+
+**Summary**: 6th St & Jackson Station - Stop #57456 (westbound) and 6th St & Jackson / Robert - Stop #11859 (westbound) are closed for Routes 54 and eight other routes from 9:00 AM to 12:00 PM on Tue Nov 17 due to construction. Board at: 6th St & Jackson St - Stop #11858 (westbound).
+
+> 💡 **Rider Action**: Board at: 6th St & Jackson St - Stop #11858 (westbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: 6th St & Jackson Station - Stop #57456 (westbound) and 6th St & Jackson / Robert - Stop #11859 (westbound) are closed for Routes 54 and eight other routes from 9:00 AM to 12:00 PM on Tue Nov 17 due to construction
+
+```text
+Get on/off buses at:
+6th St & Jackson St - Stop #11858 (westbound)
+
+Affected routes:
+54
+61
+63
+64
+72
+74
+94
+B Line
+Gold Line
 ```
 
 </details>
@@ -2637,28 +2714,6 @@ Concordia Ave & Asbury St (eastbound)
 
 Get on/off westbound buses at:
 St Anthony Ave & Fry St (westbound)
-```
-
-</details>
-
----
-
-### ℹ️ Route 440, Route 444, Route 445, Route 475, METRO Red Line: Service Advisory
-
-- **Affected Routes**: `Route 440` `Route 444` `Route 445` `Route 475` `METRO Red Line`
-- **Direction**: All
-- **Severity**: `Minor`
-- **Closed Stops**: Stop #56510, Stop #56511, Stop #53469
-
-**Summary**: Restrooms unavailable at Cedar Grove Transit Station until further notice due to maintenance work
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Restrooms unavailable at Cedar Grove Transit Station until further notice due to maintenance work
-
-```text
-The restrooms at Cedar Grove Transit Station will be out of service until further notice. Technicians will be arriving to address the issue Saturday morning. Thank you for your understanding.
 ```
 
 </details>
