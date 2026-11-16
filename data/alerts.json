@@ -1,119 +1,40 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-15T22:42:47.957Z",
-    "totalAlerts": 64,
-    "criticalCount": 4,
+    "generatedAt": "2026-11-16T02:40:12.864Z",
+    "totalAlerts": 61,
+    "criticalCount": 1,
     "moderateCount": 55,
     "minorCount": 5,
-    "affectedRoutesCount": 58,
+    "affectedRoutesCount": 57,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "55294",
+      "id": "55303",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO A Line: Southbound 4:12 PM Trip Canceled (Rosedale Transit Center Gate A)",
-      "summary": "Southbound A Line trip departing Rosedale Transit Center Gate A at 4:12 PM canceled today due to police activity",
+      "title": "Route 14: Northbound 7:26 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)",
+      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:26 PM canceled today due to traffic",
       "affectedRoutes": [
-        "METRO A Line"
+        "Route 14"
       ],
-      "direction": "Southbound",
+      "direction": "Northbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-15T22:26:00.000Z",
-        "end": "2026-11-15T23:49:00.000Z"
-      },
-      "cause": "POLICE_ACTIVITY",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/aline",
-      "updatedAt": "2026-11-15T22:27:44.000Z",
-      "rawHeader": "Southbound A Line trip departing Rosedale Transit Center Gate A at 4:12 PM canceled today due to police activity",
-      "rawDescription": ""
-    },
-    {
-      "id": "55292",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 515: Service Canceled",
-      "summary": "Route 515 trips departing MOA Transit Station Gate E at 2:59 PM and departing Southdale Transit Center & Gate B at 3:35 PM canceled today",
-      "affectedRoutes": [
-        "Route 515"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-15T21:30:00.000Z",
-        "end": "2026-11-15T23:02:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/515",
-      "updatedAt": "2026-11-15T21:31:29.000Z",
-      "rawHeader": "Route 515 trips departing MOA Transit Station Gate E at 2:59 PM and departing Southdale Transit Center & Gate B at 3:35 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "55295",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 645, Route 645C: Westbound 5:17 PM Trip Canceled (Marquette Ave & 5th St - Stop Group B)",
-      "summary": "Westbound Route 645C trip departing Marquette Ave & 5th St - Stop Group B at 5:17 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 645",
-        "Route 645C"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-15T23:17:00.000Z",
-        "end": "2026-11-16T01:03:00.000Z"
+        "start": "2026-11-16T01:26:00.000Z",
+        "end": "2026-11-16T03:27:00.000Z"
       },
       "cause": "OTHER_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/645",
-      "updatedAt": "2026-11-15T22:39:39.000Z",
-      "rawHeader": "Westbound Route 645C trip departing Marquette Ave & 5th St - Stop Group B at 5:17 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "55293",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 724: Service Canceled",
-      "summary": "Route 724 trips departing Brooklyn Ctr Transit Ctr Gate C at 4:00 PM and departing Starlite Transit Center & Gate A at 4:31 PM canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 724"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-15T22:00:00.000Z",
-        "end": "2026-11-15T23:50:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/724",
-      "updatedAt": "2026-11-15T21:49:37.000Z",
-      "rawHeader": "Route 724 trips departing Brooklyn Ctr Transit Ctr Gate C at 4:00 PM and departing Starlite Transit Center & Gate A at 4:31 PM canceled today due to mechanical issue",
+      "url": "https://www.metrotransit.org/route/14",
+      "updatedAt": "2026-11-16T00:58:27.000Z",
+      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 7:26 PM canceled today due to traffic",
       "rawDescription": ""
     },
     {
@@ -4252,16 +4173,16 @@
       "direction": "All",
       "intersections": [],
       "closedStopIds": [
-        "56511",
         "56510",
+        "56511",
         "53469"
       ],
       "closedStopDetails": [
         {
-          "id": "56511"
+          "id": "56510"
         },
         {
-          "id": "56510"
+          "id": "56511"
         },
         {
           "id": "53469"
