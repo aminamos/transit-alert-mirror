@@ -2,50 +2,209 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-63-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-69-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-7-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-58-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-53-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-58-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-16T20:54:49.681Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-17T03:39:36.687Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (3) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (1) • **Route 11** (5) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (3) • **Route 64** (4) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (3) • **Route 94** (2) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (3) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (1) • **Route 11** (4) • **Route 17** (1) • **Route 18** (7) • **Route 18E** (1) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 38** (1) • **Route 46** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (3) • **Route 64** (4) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (3) • **Route 80** (1) • **Route 94** (2) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 805: Service Canceled
+### 🚨 METRO B Line: Service Canceled
 
-- **Affected Routes**: `Route 805`
+- **Affected Routes**: `METRO B Line`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
-departing 1st Ave S & Monroe St; 38 PM
-departing 1st Ave S & Monroe St; 36 PM
-departing 1st Ave S & Monroe St
+- **Corridors & Intersections**: B Line trip departing Lake St W & France Ave S; departing Lake St W & France Ave S; 11 PM
+departing Lake St W & France Ave S
 
-**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
+**Summary**: B Line trip departing Lake St W & France Ave S at 6:11 PM and three other trips canceled today due to collision
 
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
+[Official Agency Advisory](https://www.metrotransit.org/route/bline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
+**Header**: B Line trip departing Lake St W & France Ave S at 6:11 PM and three other trips canceled today due to collision
+
+```text
+Affected eastbound trips:
+departing Lake St W & France Ave S at 6:11 PM
+departing Lake St W & France Ave S at 9:11 PM
+
+Affected westbound trips:
+departing Union Depot & Gate A1 at 7:47 PM
+departing Union Depot & Gate A1 at 10:36 PM
+```
+
+</details>
+
+---
+
+### 🚨 METRO C Line: Southbound 8:56 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate I)
+
+- **Affected Routes**: `METRO C Line`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 8:56 PM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/cline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 8:56 PM canceled today due to maintenance work
+
+</details>
+
+---
+
+### 🚨 METRO E Line: Northbound 7:59 PM Trip Canceled (Southdale Transit Center - Gate A)
+
+- **Affected Routes**: `METRO E Line`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound E Line trip departing Southdale Transit Center - Gate A at 7:59 PM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/eline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound E Line trip departing Southdale Transit Center - Gate A at 7:59 PM canceled today due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 Route 18, Route 18E: Southbound 8:48 PM Trip Canceled (4th Ave S & 3rd St S)
+
+- **Affected Routes**: `Route 18` `Route 18E`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Route 18E trip departing 4th Ave S & 3rd St S at 8:48 PM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/18)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 18E trip departing 4th Ave S & 3rd St S at 8:48 PM canceled today due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 Route 30: Service Canceled
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 30 trip departing Knox Ave N & Golden Valley Rd; departing Knox Ave N & Golden Valley Rd; 25 PM
+departing Knox Ave N & Golden Valley Rd
+
+**Summary**: Route 30 trip departing Knox Ave N & Golden Valley Rd at 3:25 PM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 30 trip departing Knox Ave N & Golden Valley Rd at 3:25 PM and six other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Knox Ave N & Golden Valley Rd at 3:25 PM
+departing Knox Ave N & Golden Valley Rd at 5:25 PM
+departing Golden Valley Rd Turn & Xerxes Ave N at 7:25 PM
+departing Golden Valley Rd Turn & Xerxes Ave N at 9:25 PM
+
+Affected westbound trips:
+departing Westgate Station - Gate B at 4:34 PM
+departing Westgate Station - Gate B at 6:35 PM
+departing Westgate Station - Gate B at 8:36 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 72: Service Canceled
+
+- **Affected Routes**: `Route 72`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 72 trip departing Pascal St N & Central Ave W; departing Pascal St N & Central Ave W; 20 PM
+departing Pascal St N & Central Ave W; 21 PM
+departing Pascal St N & Central Ave W
+
+**Summary**: Route 72 trip departing Pascal St N & Central Ave W at 2:20 PM and seven other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/72)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 72 trip departing Pascal St N & Central Ave W at 2:20 PM and seven other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Pascal St N & Central Ave W at 2:20 PM
+departing Pascal St N & Central Ave W at 4:20 PM
+departing Pascal St N & Central Ave W at 6:21 PM
+departing Pascal St N & Central Ave W at 8:23 PM
+
+Affected westbound trips:
+departing Sun Ray Transit Center & Gate D at 3:19 PM
+departing Sun Ray Transit Center & Gate D at 5:18 PM
+departing Sun Ray Transit Center & Gate D at 7:21 PM
+departing Sun Ray Transit Center & Gate D at 9:21 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 80: Service Canceled
+
+- **Affected Routes**: `Route 80`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 80 trip departing Sun Ray Transit Center & Gate E at 3:42 PM and eleven other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/80)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 80 trip departing Sun Ray Transit Center & Gate E at 3:42 PM and eleven other trips canceled today
 
 ```text
 Affected northbound trips:
-departing Northtown Transit Ctr Gate D at 12:34 PM
-departing Northtown Transit Ctr Gate D at 2:34 PM
-departing Northtown Transit Ctr Gate D at 4:34 PM
+departing Sun Ray Transit Center & Gate E at 3:42 PM
+departing Sun Ray Transit Center & Gate E at 4:42 PM
+departing Sun Ray Transit Center & Gate E at 5:42 PM
+departing Sun Ray Transit Center & Gate E at 6:42 PM
+departing Sun Ray Transit Center & Gate E at 7:42 PM
+departing Sun Ray Transit Center & Gate E at 8:42 PM
 
 Affected southbound trips:
-departing 1st Ave S & Monroe St at 11:38 AM
-departing 1st Ave S & Monroe St at 1:38 PM
-departing 1st Ave S & Monroe St at 3:36 PM
-departing 1st Ave S & Monroe St at 5:38 PM
+departing Maplewood Mall Transit Center & Gate F at 4:12 PM
+departing Maplewood Mall Transit Center & Gate F at 5:12 PM
+departing Maplewood Mall Transit Center & Gate F at 6:12 PM
+departing Maplewood Mall Transit Center & Gate F at 7:12 PM
+departing Maplewood Mall Transit Center & Gate F at 8:12 PM
+departing Maplewood Mall Transit Center & Gate F at 9:12 PM
 ```
 
 </details>
@@ -633,49 +792,6 @@ Nicollet Mall & 11th St S - Stop #17990 (northbound)
 
 ---
 
-### ⚠️ Route 11: Detour via 2nd St NE & 4th Ave N
-
-- **Affected Routes**: `Route 11`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 2nd St NE & 4th Ave N; 2nd St NE & 8th Ave N; 2nd St NE & 5th Ave N; 2nd St NE & 7th Ave N
-- **Closed Stops**: 2nd St NE & 7th Ave NE (Stop #14680), 2nd St NE & 7th Ave NE (Stop #14681), Stop #14687, Stop #14679, Stop #14678, Stop #14685
-
-**Summary**: Route 11 detoured off 2nd St NE from 6th Ave NE to 7th Ave NE from 8:00 AM to 3:00 PM on Mon Nov 16 due to event. Board at: 2nd St NE & 4th Ave NE - Stop #14687 (northbound); 2nd St NE & 8th Ave NE - Stop #14679 (northbound).
-
-> 💡 **Rider Action**: Board at: 2nd St NE & 4th Ave NE - Stop #14687 (northbound); 2nd St NE & 8th Ave NE - Stop #14679 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel the regular route on 2nd St NE to 6th Ave NE, right on 6th Ave NE, left on University Ave NE, left on 7th Ave NE, right on 2nd St NE, and resume the regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/11)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 11 detoured off 2nd St NE from 6th Ave NE to 7th Ave NE from 8:00 AM to 3:00 PM on Mon Nov 16 due to event
-
-```text
-For northbound Route 11 get on/off buses at:
-2nd St NE & 4th Ave NE - Stop #14687 (northbound)
-2nd St NE & 8th Ave NE - Stop #14679 (northbound)
-
-For southbound Route 11 get on/off buses at:
-2nd St NE & 8th Ave NE - Stop #14678 (southbound)
-2nd St NE & 5th Ave NE - Stop #14685 (southbound)
-
-Northbound buses will travel the regular route on 2nd St NE to 6th Ave NE, right on 6th Ave NE, left on University Ave NE, left on 7th Ave NE, right on 2nd St NE, and resume the regular route.
-
-Southbound buses will travel the regular route on 2nd St NE to 7th Ave NE, left on 7th Ave NE, right on University Ave NE, right on 6th Ave NE, left on 2nd St NE, and resume the regular route.
-
-Affected stops:
-2nd St NE & 7th Ave NE - Stop #14680 (northbound)
-2nd St NE & 7th Ave NE - Stop #14681 (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 11: Detour via 3rd Ave S & 18th St
 
 - **Affected Routes**: `Route 11`
@@ -1215,6 +1331,46 @@ Parklawn Ave & Parklawn Court - Stop #41091 (northbound)
 Get on/off buses at:
 38th St W & Nicollet Ave S - Stop #17516 (eastbound)
 38th St E & 4th Ave S - Stop #12622 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 46: Detour via Xerxes Ave S & 47th St W
+
+- **Affected Routes**: `Route 46`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Xerxes Ave S & 47th St W; 50th St W & Washburn Ave; Abbott Ave S & 47th St W; 50th St W & Abbott Ave S; School Trips Only
+50th St W & Zenith Ave
+- **Closed Stops**: Abbott Ave S & 47th St W (Stop #57202), 50th St W & Abbott Ave S (Stop #994), 50th St W & Zenith Ave / York Ave (Stop #995), 50th St W & Xerxes Ave S (Stop #997), Stop #6209
+
+**Summary**: Eastbound Route 46 school trips detoured off Abbott Ave from 47th St to 48th St and off Chowen Ave from 48th St to 50th St until further notice. Board at: Xerxes Ave S & 47th St W - Stop #6209 (southbound); 50th St W & Washburn Ave / Vincent Ave - Stop #998 (eastbound).
+
+> 💡 **Rider Action**: Board at: Xerxes Ave S & 47th St W - Stop #6209 (southbound); 50th St W & Washburn Ave / Vincent Ave - Stop #998 (eastbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/46)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 46 school trips detoured off Abbott Ave from 47th St to 48th St and off Chowen Ave from 48th St to 50th St until further notice
+
+```text
+Get on/off buses at:
+Xerxes Ave S & 47th St W - Stop #6209 (southbound) 
+50th St W & Washburn Ave / Vincent Ave - Stop #998 (eastbound)
+
+Eastbound buses departing Southwest High School will temporarily depart Xerxes Ave S & 47th St W - Stop #6209, continue on Xerxes Ave to 50th St, left on 50th St, and resume the regular route.
+
+Westbound buses are not affected.
+
+Affected stops:
+Abbott Ave S & 47th St W - Stop #57202 (southbound)
+50th St W & Abbott Ave S - Stop #994 (eastbound) School Trips Only
+50th St W & Zenith Ave / York Ave - Stop #995 (eastbound) School Trips Only
+50th St W & Xerxes Ave S - Stop #997 (eastbound) School Trips Only
 ```
 
 </details>

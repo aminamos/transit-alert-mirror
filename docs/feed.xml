@@ -4,17 +4,71 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Mon, 16 Nov 2026 20:54:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 03:39:36 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 805: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/805</link>
-      <guid isPermaLink="false">Metro Transit-55335-2026-11-16T17:08:01.000Z</guid>
-      <pubDate>Mon, 16 Nov 2026 17:08:01 GMT</pubDate>
+      <title>[Critical] METRO B Line: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-55351-2026-11-17T00:09:14.000Z</guid>
+      <pubDate>Tue, 17 Nov 2026 00:09:14 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 805</category>
-      <description>Route 805 trip departing 1st Ave S &amp; Monroe St at 11:38 AM and six other trips canceled today</description>
+      <category>METRO B Line</category>
+      <description>B Line trip departing Lake St W &amp; France Ave S at 6:11 PM and three other trips canceled today due to collision</description>
+    </item>
+    <item>
+      <title>[Critical] METRO C Line: Southbound 8:56 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate I)</title>
+      <link>https://www.metrotransit.org/route/cline</link>
+      <guid isPermaLink="false">Metro Transit-55356-2026-11-17T03:11:44.000Z</guid>
+      <pubDate>Tue, 17 Nov 2026 03:11:44 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO C Line</category>
+      <description>Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 8:56 PM canceled today due to maintenance work</description>
+    </item>
+    <item>
+      <title>[Critical] METRO E Line: Northbound 7:59 PM Trip Canceled (Southdale Transit Center - Gate A)</title>
+      <link>https://www.metrotransit.org/route/eline</link>
+      <guid isPermaLink="false">Metro Transit-55355-2026-11-17T02:21:27.000Z</guid>
+      <pubDate>Tue, 17 Nov 2026 02:21:27 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO E Line</category>
+      <description>Northbound E Line trip departing Southdale Transit Center - Gate A at 7:59 PM canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 18, Route 18E: Southbound 8:48 PM Trip Canceled (4th Ave S &amp; 3rd St S)</title>
+      <link>https://www.metrotransit.org/route/18</link>
+      <guid isPermaLink="false">Metro Transit-55357-2026-11-17T03:26:13.000Z</guid>
+      <pubDate>Tue, 17 Nov 2026 03:26:13 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 18, Route 18E</category>
+      <description>Southbound Route 18E trip departing 4th Ave S &amp; 3rd St S at 8:48 PM canceled today due to mechanical issue</description>
+    </item>
+    <item>
+      <title>[Critical] Route 30: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/30</link>
+      <guid isPermaLink="false">Metro Transit-55343-2026-11-16T21:58:22.000Z</guid>
+      <pubDate>Mon, 16 Nov 2026 21:58:22 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 30</category>
+      <description>Route 30 trip departing Knox Ave N &amp; Golden Valley Rd at 3:25 PM and six other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 72: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/72</link>
+      <guid isPermaLink="false">Metro Transit-55340-2026-11-16T21:53:43.000Z</guid>
+      <pubDate>Mon, 16 Nov 2026 21:53:43 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 72</category>
+      <description>Route 72 trip departing Pascal St N &amp; Central Ave W at 2:20 PM and seven other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 80: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/80</link>
+      <guid isPermaLink="false">Metro Transit-55342-2026-11-16T21:57:17.000Z</guid>
+      <pubDate>Mon, 16 Nov 2026 21:57:17 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 80</category>
+      <description>Route 80 trip departing Sun Ray Transit Center &amp; Gate E at 3:42 PM and eleven other trips canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -46,8 +100,8 @@
     <item>
       <title>[Moderate] Route 2: Detour via Cedar Ave S &amp; 3rd St S</title>
       <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-55336-2026-11-16T17:58:54.000Z</guid>
-      <pubDate>Mon, 16 Nov 2026 17:58:54 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55336-2026-11-17T03:30:02.000Z</guid>
+      <pubDate>Tue, 17 Nov 2026 03:30:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 2</category>
       <description>Route 2 detoured off Washington Ave from Cedar Ave to Oak St from 10:00 PM to 2:00 AM due to construction. Board at: Cedar Ave S &amp; 3rd St S - Stop #13219 (northbound); Oak St SE &amp; University Ave SE - Stop #41243 (northbound). | Action: Board at: Cedar Ave S &amp; 3rd St S - Stop #13219 (northbound); Oak St SE &amp; University Ave SE - Stop #41243 (northbound)</description>
@@ -64,8 +118,8 @@
     <item>
       <title>[Moderate] Route 3: Detour via Washington Ave S &amp; 15th Ave S</title>
       <link>https://www.metrotransit.org/route/3</link>
-      <guid isPermaLink="false">Metro Transit-55337-2026-11-16T18:04:32.000Z</guid>
-      <pubDate>Mon, 16 Nov 2026 18:04:32 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55337-2026-11-17T03:30:02.000Z</guid>
+      <pubDate>Tue, 17 Nov 2026 03:30:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 3</category>
       <description>Route 3 detoured off Washington Ave from Cedar Ave to Pleasant Ave from 10:00 PM to 2:00 AM due to construction. Board at: Washington Ave S &amp; 15th Ave S - Stop #57023 (eastbound); 3rd St S &amp; Cedar Ave S - Stop #42452 (eastbound); Pleasant St &amp; Jones Hall - Stop #49881 (northbound). | Action: Board at: Washington Ave S &amp; 15th Ave S - Stop #57023 (eastbound); 3rd St S &amp; Cedar Ave S - Stop #42452 (eastbound); Pleasant St &amp; Jones Hall - Stop #49881 (northbound)</description>
@@ -132,15 +186,6 @@
       <category>Moderate</category>
       <category>Route 10, Route 11, Route 17, Route 18, Route 25</category>
       <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 11th St to 12th St until further notice due to construction. Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 9th St S - Stop #17992 (northbound). | Action: Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Nicollet Mall &amp; 9th St S - Stop #17992 (northbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 11: Detour via 2nd St NE &amp; 4th Ave N</title>
-      <link>https://www.metrotransit.org/route/11</link>
-      <guid isPermaLink="false">Metro Transit-55140-2026-11-16T13:30:02.000Z</guid>
-      <pubDate>Mon, 16 Nov 2026 13:30:02 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 11</category>
-      <description>Route 11 detoured off 2nd St NE from 6th Ave NE to 7th Ave NE from 8:00 AM to 3:00 PM on Mon Nov 16 due to event. Board at: 2nd St NE &amp; 4th Ave NE - Stop #14687 (northbound); 2nd St NE &amp; 8th Ave NE - Stop #14679 (northbound). | Action: Board at: 2nd St NE &amp; 4th Ave NE - Stop #14687 (northbound); 2nd St NE &amp; 8th Ave NE - Stop #14679 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 11: Detour via 3rd Ave S &amp; 18th St</title>
@@ -258,6 +303,15 @@
       <category>Moderate</category>
       <category>Route 38</category>
       <description>38th St E &amp; 3rd Ave S - Stop #12626 (eastbound) is closed for Route 38 beginning Mon Nov 16 at 4:00 AM until further notice. Board at: 38th St W &amp; Nicollet Ave S - Stop #17516 (eastbound); 38th St E &amp; 4th Ave S - Stop #12622 (eastbound). | Action: Board at: 38th St W &amp; Nicollet Ave S - Stop #17516 (eastbound); 38th St E &amp; 4th Ave S - Stop #12622 (eastbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 46: Detour via Xerxes Ave S &amp; 47th St W</title>
+      <link>https://www.metrotransit.org/route/46</link>
+      <guid isPermaLink="false">Metro Transit-55339-2026-11-16T21:39:04.000Z</guid>
+      <pubDate>Mon, 16 Nov 2026 21:39:04 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 46</category>
+      <description>Eastbound Route 46 school trips detoured off Abbott Ave from 47th St to 48th St and off Chowen Ave from 48th St to 50th St until further notice. Board at: Xerxes Ave S &amp; 47th St W - Stop #6209 (southbound); 50th St W &amp; Washburn Ave / Vincent Ave - Stop #998 (eastbound). | Action: Board at: Xerxes Ave S &amp; 47th St W - Stop #6209 (southbound); 50th St W &amp; Washburn Ave / Vincent Ave - Stop #998 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 54, Route 54M: Detour via 5th St &amp; Robert St</title>
