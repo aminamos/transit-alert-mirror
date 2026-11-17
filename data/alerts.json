@@ -1,25 +1,282 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-17T13:02:42.617Z",
-    "totalAlerts": 60,
-    "criticalCount": 1,
+    "generatedAt": "2026-11-17T22:09:57.684Z",
+    "totalAlerts": 64,
+    "criticalCount": 5,
     "moderateCount": 55,
     "minorCount": 4,
-    "affectedRoutesCount": 54,
+    "affectedRoutesCount": 56,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "55361",
+      "id": "55375",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 71, Route 71W: Northbound 6:56 AM Trip Canceled (Concord Exchange & Armour Ave)",
-      "summary": "Northbound Route 71W trip departing Concord Exchange & Armour Ave at 6:56 AM canceled today",
+      "title": "Route 71: Service Canceled",
+      "summary": "Route 71 trips departing McMenemy St & Roselawn Ave at 2:11 PM and departing Concord Exchange & Armour Ave at 3:16 PM canceled today",
       "affectedRoutes": [
-        "Route 71",
-        "Route 71W"
+        "Route 71"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 71 trips departing McMenemy St & Roselawn Ave"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-17T20:18:00.000Z",
+        "end": "2026-11-17T22:54:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/71",
+      "updatedAt": "2026-11-17T20:18:40.000Z",
+      "rawHeader": "Route 71 trips departing McMenemy St & Roselawn Ave at 2:11 PM and departing Concord Exchange & Armour Ave at 3:16 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "55376",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 219: Northbound 3:13 PM Trip Canceled (Sun Ray Transit Center & Gate B)",
+      "summary": "Northbound Route 219 trip departing Sun Ray Transit Center & Gate B at 3:13 PM canceled from Ivy & Hwy 120 at 3:33 PM today due to maintenance work",
+      "affectedRoutes": [
+        "Route 219"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [
+        "5020",
+        "41752",
+        "41754",
+        "41756",
+        "41759",
+        "41952",
+        "41953",
+        "42344",
+        "42347",
+        "53659",
+        "53660",
+        "52683",
+        "53148",
+        "52041",
+        "52043",
+        "52047",
+        "52170",
+        "56898",
+        "56899",
+        "56900",
+        "56901",
+        "57721",
+        "57725",
+        "57726",
+        "57728",
+        "57729",
+        "7511",
+        "7513",
+        "7686",
+        "7783",
+        "7784",
+        "7785",
+        "12299",
+        "49780",
+        "49825",
+        "49827",
+        "49828",
+        "49829",
+        "49830",
+        "49831",
+        "49835",
+        "49836",
+        "49837",
+        "3883"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "5020"
+        },
+        {
+          "id": "41752"
+        },
+        {
+          "id": "41754"
+        },
+        {
+          "id": "41756"
+        },
+        {
+          "id": "41759"
+        },
+        {
+          "id": "41952"
+        },
+        {
+          "id": "41953"
+        },
+        {
+          "id": "42344"
+        },
+        {
+          "id": "42347"
+        },
+        {
+          "id": "53659"
+        },
+        {
+          "id": "53660"
+        },
+        {
+          "id": "52683"
+        },
+        {
+          "id": "53148"
+        },
+        {
+          "id": "52041"
+        },
+        {
+          "id": "52043"
+        },
+        {
+          "id": "52047"
+        },
+        {
+          "id": "52170"
+        },
+        {
+          "id": "56898"
+        },
+        {
+          "id": "56899"
+        },
+        {
+          "id": "56900"
+        },
+        {
+          "id": "56901"
+        },
+        {
+          "id": "57721"
+        },
+        {
+          "id": "57725"
+        },
+        {
+          "id": "57726"
+        },
+        {
+          "id": "57728"
+        },
+        {
+          "id": "57729"
+        },
+        {
+          "id": "7511"
+        },
+        {
+          "id": "7513"
+        },
+        {
+          "id": "7686"
+        },
+        {
+          "id": "7783"
+        },
+        {
+          "id": "7784"
+        },
+        {
+          "id": "7785"
+        },
+        {
+          "id": "12299"
+        },
+        {
+          "id": "49780"
+        },
+        {
+          "id": "49825"
+        },
+        {
+          "id": "49827"
+        },
+        {
+          "id": "49828"
+        },
+        {
+          "id": "49829"
+        },
+        {
+          "id": "49830"
+        },
+        {
+          "id": "49831"
+        },
+        {
+          "id": "49835"
+        },
+        {
+          "id": "49836"
+        },
+        {
+          "id": "49837"
+        },
+        {
+          "id": "3883"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-17T22:00:00.000Z",
+        "end": "2026-11-17T23:04:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/219",
+      "updatedAt": "2026-11-17T22:02:07.000Z",
+      "rawHeader": "Northbound Route 219 trip departing Sun Ray Transit Center & Gate B at 3:13 PM canceled from Ivy & Hwy 120 at 3:33 PM today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "55377",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 219: Southbound 4:12 PM Trip Canceled (Maplewood Mall Transit Center & Gate A)",
+      "summary": "Southbound Route 219 trip departing Maplewood Mall Transit Center & Gate A at 4:12 PM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "Route 219"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-17T22:12:00.000Z",
+        "end": "2026-11-18T00:03:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/219",
+      "updatedAt": "2026-11-17T22:02:51.000Z",
+      "rawHeader": "Southbound Route 219 trip departing Maplewood Mall Transit Center & Gate A at 4:12 PM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "55378",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 760: Northbound 4:06 PM Trip Canceled (12th St S & Hennepin Ave S)",
+      "summary": "Northbound Route 760 trip departing 12th St S & Hennepin Ave S at 4:06 PM canceled today",
+      "affectedRoutes": [
+        "Route 760"
       ],
       "direction": "Northbound",
       "intersections": [],
@@ -28,15 +285,47 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-17T12:56:00.000Z",
-        "end": "2026-11-17T14:32:00.000Z"
+        "start": "2026-11-17T22:06:00.000Z",
+        "end": "2026-11-17T23:32:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/71",
-      "updatedAt": "2026-11-17T12:27:01.000Z",
-      "rawHeader": "Northbound Route 71W trip departing Concord Exchange & Armour Ave at 6:56 AM canceled today",
+      "url": "https://www.metrotransit.org/route/760",
+      "updatedAt": "2026-11-17T22:04:27.000Z",
+      "rawHeader": "Northbound Route 760 trip departing 12th St S & Hennepin Ave S at 4:06 PM canceled today",
       "rawDescription": ""
+    },
+    {
+      "id": "55372",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 805: Service Canceled",
+      "summary": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today",
+      "affectedRoutes": [
+        "Route 805"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 805 trip departing 1st Ave S & Monroe St",
+        "departing 1st Ave S & Monroe St",
+        "38 AM\ndeparting 1st Ave S & Monroe St",
+        "38 PM\ndeparting 1st Ave S & Monroe St",
+        "36 PM\ndeparting 1st Ave S & Monroe St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-17T17:38:00.000Z",
+        "end": "2026-11-18T01:24:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/805",
+      "updatedAt": "2026-11-17T17:08:01.000Z",
+      "rawHeader": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 11:38 AM\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
     },
     {
       "id": "52943",
@@ -100,6 +389,38 @@
       "updatedAt": "2026-11-05T16:02:01.000Z",
       "rawHeader": "Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues",
       "rawDescription": "Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station."
+    },
+    {
+      "id": "55364",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "METRO Blue Line: Service Advisory",
+      "summary": "North tower elevator at Blue Line Lake St - Midtown Station unavailable until further notice due to mechanical issue",
+      "affectedRoutes": [
+        "METRO Blue Line"
+      ],
+      "direction": "All",
+      "intersections": [],
+      "closedStopIds": [
+        "51428"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "51428"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-17T14:11:00.000Z",
+        "end": "2026-11-18T00:09:18.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "ACCESSIBILITY_ISSUE",
+      "url": "https://www.metrotransit.org/route/blue",
+      "updatedAt": "2026-11-17T14:11:28.000Z",
+      "rawHeader": "North tower elevator at Blue Line Lake St - Midtown Station unavailable until further notice due to mechanical issue",
+      "rawDescription": "Riders should use the elevator in the south tower for light rail platform access. We apologize for any inconvenience."
     },
     {
       "id": "46729",
@@ -806,88 +1127,53 @@
       },
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
-      "updatedAt": "2026-11-10T17:33:14.000Z",
+      "updatedAt": "2026-11-17T17:33:02.000Z",
       "rawHeader": "Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 11th St to 12th St until further notice due to construction",
       "rawDescription": "Updated 11/10 at 11:30 AM to reflect additional northbound detour.\r\n\nNote: This detour will only be in effect when the road is blocked. If road is open, buses will follow regular route.\r\n\nGet on/off northbound/eastbound buses at:\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\n\nNo southbound/westbound stops missed.\r\n\nNorthbound/eastbound buses will travel regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume regular route.\r\n\nSouthbound/westbound buses will travel regular route on Nicollet Mall to 11th St, right on 11th St, left on LaSalle Ave, left on 12th St, right on Nicollet Mall, and resume regular route.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)"
     },
     {
-      "id": "55309",
+      "id": "55370",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 11: Detour via 3rd Ave S & 18th St",
-      "summary": "Route 11 detoured off Nicollet Mall from 12th St S to 16th St E until further notice. Board at: 3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound); Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound).",
+      "title": "Route 10: Stop Closed at Central Ave NE & 26th Ave N",
+      "summary": "Central Ave NE & 26th Ave NE - Stop #52073 (northbound) is closed for Route 10 beginning Mon Nov 23 at 6:00 AM until further notice due to construction. Board at: Central Ave NE & Lowry Ave NE - Stop #17194 (northbound); Central Ave NE & 27th Ave NE - Stop #17190 (northbound).",
       "affectedRoutes": [
-        "Route 11"
+        "Route 10"
       ],
-      "direction": "Both Directions",
+      "direction": "Northbound",
       "intersections": [
-        "3rd Ave S & 18th St",
-        "3rd Ave S & 18th St E",
-        "Grant St E & Nicollet Ave S",
-        "16th St E & 3rd Ave S",
-        "Nicollet Ave S & 14th St"
+        "Central Ave NE & 26th Ave N",
+        "Central Ave NE & Lowry Ave N",
+        "Central Ave NE & 27th Ave N"
       ],
       "closedStopIds": [
-        "53463",
-        "1920",
-        "1197",
-        "53461",
-        "53462",
-        "17768",
-        "17988",
-        "17704",
-        "19327"
+        "52073",
+        "17194",
+        "17190"
       ],
       "closedStopDetails": [
         {
-          "id": "53463",
-          "name": "16th St E & 3rd Ave S",
-          "direction": "westbound"
+          "id": "52073"
         },
         {
-          "id": "1920",
-          "name": "Nicollet Ave S & 14th St / Grant St E",
-          "direction": "northbound"
+          "id": "17194"
         },
         {
-          "id": "1197",
-          "name": "Nicollet Ave S & Grant St E",
-          "direction": "southbound"
-        },
-        {
-          "id": "53461",
-          "name": "15th St E & 1st Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "53462",
-          "name": "16th St E & 3rd Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "17768"
-        },
-        {
-          "id": "17988"
-        },
-        {
-          "id": "17704"
-        },
-        {
-          "id": "19327"
+          "id": "17190"
         }
       ],
-      "riderAlternative": "Board at: 3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound); Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)",
-      "detourDetails": "Northbound buses will travel regular route on 3rd Ave S to 16th St, continue on 3rd Ave S to 11th St, left on 11th St, left on Marquette Ave, right on Grant St, right on Nicollet Mall, and resume regular route.",
+      "riderAlternative": "Board at: Central Ave NE & Lowry Ave NE - Stop #17194 (northbound); Central Ave NE & 27th Ave NE - Stop #17190 (northbound)",
+      "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-16T09:56:00.000Z"
+        "start": "2026-11-23T12:00:00.000Z",
+        "textDescription": "Beginning Mon Nov 23 at 6:00 AM until further notice"
       },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-11-16T09:56:33.000Z",
-      "rawHeader": "Route 11 detoured off Nicollet Mall from 12th St S to 16th St E until further notice",
-      "rawDescription": "For northbound Route 11 get on/off buses at:\r\n3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound)\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\n\nFor southbound Route 11 get on/off buses at:\r\n3rd Ave S & 18th St E - Stop #17704 (southbound)\r\nGrant St E & Nicollet Ave S - Stop #19327 (southbound)\r\n\nNorthbound buses will travel regular route on 3rd Ave S to 16th St, continue on 3rd Ave S to 11th St, left on 11th St, left on Marquette Ave, right on Grant St, right on Nicollet Mall, and resume regular route. \r\n\nSouthbound buses will travel regular route on Nicollet Mall to Grant St E, left on Grant St E, left on 2nd Ave S, right on 12th St S, right on 3rd Ave S, and resume regular route. \r\n\nAffected stops:\r\n16th St E & 3rd Ave S - Stop #53463 (westbound)\r\nNicollet Ave S & 14th St / Grant St E - Stop #1920 (northbound)\r\nNicollet Ave S & Grant St E - Stop #1197 (southbound)\r\n15th St E & 1st Ave S - Stop #53461 (eastbound)\r\n16th St E & 3rd Ave S - Stop #53462 (eastbound)"
+      "cause": "CONSTRUCTION",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/10",
+      "updatedAt": "2026-11-17T14:31:04.000Z",
+      "rawHeader": "Central Ave NE & 26th Ave NE - Stop #52073 (northbound) is closed for Route 10 beginning Mon Nov 23 at 6:00 AM until further notice due to construction",
+      "rawDescription": "Get on/off buses at:\r\nCentral Ave NE & Lowry Ave NE - Stop #17194 (northbound)\r\nCentral Ave NE & 27th Ave NE - Stop #17190 (northbound)"
     },
     {
       "id": "48754",
@@ -1611,67 +1897,6 @@
       "rawDescription": "Get on/off buses at:\r\n38th St W & Nicollet Ave S - Stop #17516 (eastbound)\r\n38th St E & 4th Ave S - Stop #12622 (eastbound)"
     },
     {
-      "id": "55339",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 46: Detour via Xerxes Ave S & 47th St W",
-      "summary": "Eastbound Route 46 school trips detoured off Abbott Ave from 47th St to 48th St and off Chowen Ave from 48th St to 50th St until further notice. Board at: Xerxes Ave S & 47th St W - Stop #6209 (southbound); 50th St W & Washburn Ave / Vincent Ave - Stop #998 (eastbound).",
-      "affectedRoutes": [
-        "Route 46"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Xerxes Ave S & 47th St W",
-        "50th St W & Washburn Ave",
-        "Abbott Ave S & 47th St W",
-        "50th St W & Abbott Ave S",
-        "School Trips Only\n50th St W & Zenith Ave"
-      ],
-      "closedStopIds": [
-        "57202",
-        "994",
-        "995",
-        "997",
-        "6209"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "57202",
-          "name": "Abbott Ave S & 47th St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "994",
-          "name": "50th St W & Abbott Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "995",
-          "name": "50th St W & Zenith Ave / York Ave",
-          "direction": "eastbound"
-        },
-        {
-          "id": "997",
-          "name": "50th St W & Xerxes Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "6209"
-        }
-      ],
-      "riderAlternative": "Board at: Xerxes Ave S & 47th St W - Stop #6209 (southbound); 50th St W & Washburn Ave / Vincent Ave - Stop #998 (eastbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-16T21:39:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/46",
-      "updatedAt": "2026-11-16T21:39:04.000Z",
-      "rawHeader": "Eastbound Route 46 school trips detoured off Abbott Ave from 47th St to 48th St and off Chowen Ave from 48th St to 50th St until further notice",
-      "rawDescription": "Get on/off buses at:\r\nXerxes Ave S & 47th St W - Stop #6209 (southbound) \r\n50th St W & Washburn Ave / Vincent Ave - Stop #998 (eastbound)\r\n\nEastbound buses departing Southwest High School will temporarily depart Xerxes Ave S & 47th St W - Stop #6209, continue on Xerxes Ave to 50th St, left on 50th St, and resume the regular route.\r\n\nWestbound buses are not affected.\r\n\nAffected stops:\r\nAbbott Ave S & 47th St W - Stop #57202 (southbound)\r\n50th St W & Abbott Ave S - Stop #994 (eastbound) School Trips Only\r\n50th St W & Zenith Ave / York Ave - Stop #995 (eastbound) School Trips Only\r\n50th St W & Xerxes Ave S - Stop #997 (eastbound) School Trips Only"
-    },
-    {
       "id": "51972",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -1857,55 +2082,6 @@
       "updatedAt": "2026-10-22T16:40:02.000Z",
       "rawHeader": "Maryland Ave & Earl St - Stop #12919 (eastbound) is closed for Routes 54 and 64 until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nMaryland Ave & Cypress St - Stop #12918 (eastbound)"
-    },
-    {
-      "id": "55333",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 54, Route 61, Route 63, Route 64, Route 72, Route 74, METRO Gold Line, METRO B Line, Route 94: Stop Closed at 6th St & Jackson St",
-      "summary": "6th St & Jackson Station - Stop #57456 (westbound) and 6th St & Jackson / Robert - Stop #11859 (westbound) are closed for Routes 54 and eight other routes from 9:00 AM to 12:00 PM on Tue Nov 17 due to construction. Board at: 6th St & Jackson St - Stop #11858 (westbound).",
-      "affectedRoutes": [
-        "Route 54",
-        "Route 61",
-        "Route 63",
-        "Route 64",
-        "Route 72",
-        "Route 74",
-        "METRO Gold Line",
-        "METRO B Line",
-        "Route 94"
-      ],
-      "direction": "Westbound",
-      "intersections": [
-        "6th St & Jackson St"
-      ],
-      "closedStopIds": [
-        "57456",
-        "11859",
-        "11858"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "57456"
-        },
-        {
-          "id": "11859"
-        },
-        {
-          "id": "11858"
-        }
-      ],
-      "riderAlternative": "Board at: 6th St & Jackson St - Stop #11858 (westbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-17T15:00:00.000Z",
-        "end": "2026-11-17T18:00:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "NO_SERVICE",
-      "updatedAt": "2026-11-17T06:00:02.000Z",
-      "rawHeader": "6th St & Jackson Station - Stop #57456 (westbound) and 6th St & Jackson / Robert - Stop #11859 (westbound) are closed for Routes 54 and eight other routes from 9:00 AM to 12:00 PM on Tue Nov 17 due to construction",
-      "rawDescription": "Get on/off buses at:\r\n6th St & Jackson St - Stop #11858 (westbound)\r\n\nAffected routes:\r\n54\r\n61\r\n63\r\n64\r\n72\r\n74\r\n94\r\nB Line\r\nGold Line"
     },
     {
       "id": "48758",
@@ -2339,7 +2515,7 @@
       "agency": "Metro Transit",
       "severity": "Moderate",
       "title": "Route 63 Returns to Kellogg Blvd Bridge Beginning Sat Nov 14",
-      "summary": "Route 63 returns to Kellogg Blvd Bridge beginning Sat Nov 14. Board at: 5th St & Jackson St - Stop #11838 (eastbound); Kellogg Blvd & Broadway St - Stop #11928 (eastbound); Union Depot & Wacouta Station - Stop #57420 (southbound).",
+      "summary": "Route 63 returns to Kellogg Blvd Bridge beginning Sat Nov 14. Board at: 5th St & Jackson St - Stop #11838 (eastbound); Union Depot & Wacouta Station - Stop #57420 (southbound); Kellogg Blvd & Broadway St - Stop #11928 (eastbound).",
       "affectedRoutes": [
         "Route 63"
       ],
@@ -2357,10 +2533,10 @@
         "40160",
         "43282",
         "11838",
-        "11928",
         "57420",
-        "57419",
+        "11928",
         "3254",
+        "57419",
         "11859"
       ],
       "closedStopDetails": [
@@ -2388,22 +2564,22 @@
           "id": "11838"
         },
         {
-          "id": "11928"
-        },
-        {
           "id": "57420"
         },
         {
-          "id": "57419"
+          "id": "11928"
         },
         {
           "id": "3254"
         },
         {
+          "id": "57419"
+        },
+        {
           "id": "11859"
         }
       ],
-      "riderAlternative": "Board at: 5th St & Jackson St - Stop #11838 (eastbound); Kellogg Blvd & Broadway St - Stop #11928 (eastbound); Union Depot & Wacouta Station - Stop #57420 (southbound)",
+      "riderAlternative": "Board at: 5th St & Jackson St - Stop #11838 (eastbound); Union Depot & Wacouta Station - Stop #57420 (southbound); Kellogg Blvd & Broadway St - Stop #11928 (eastbound)",
       "detourDetails": "Eastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, continue across Mounds Blvd onto 3rd St and resume regular route.",
       "activePeriod": {
         "start": "2026-11-14T09:00:00.000Z",
@@ -2412,9 +2588,9 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/63",
-      "updatedAt": "2026-11-14T08:30:02.000Z",
+      "updatedAt": "2026-11-17T14:30:57.000Z",
       "rawHeader": "Route 63 returns to Kellogg Blvd Bridge beginning Sat Nov 14",
-      "rawDescription": "The Kellogg Boulevard Bridge will reopen on Friday, November 13, 2026. Route 63 buses will return to their regular routing across the bridge at the start of service on Saturday, November 14, 2026.\r\n\nBeginning November 14, Route 63 buses will also begin serving the Bus Rapid Transit (BRT) stations at Union Depot & Wacouta Station and Union Depot & Sibley Station.\r\n\nFor eastbound Route 63 get on/off buses at:\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\nKellogg Blvd & Broadway St - Stop #11928 (eastbound)\r\nUnion Depot & Wacouta Station - Stop #57420 (southbound)\r\n\nFor westbound Route 63 get on/off buses at:\r\nUnion Depot & Sibley Station - Stop #57419 (northbound)\r\nKellogg Blvd & Broadway St - Stop #3254 (westbound)\r\n6th St & Jackson / Robert - Stop #11859 (westbound)\r\n\nEastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, continue across Mounds Blvd onto 3rd St and resume regular route.\r\n\nWestbound buses will travel regular route on 3rd St, cross Mounds Blvd onto Kellogg Blvd bridge, right on Sibley St, left on 6th St and resume regular route.\r\n\nAffected stops:\r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\n5th St & Broadway St - Stop #40160 (eastbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound)"
+      "rawDescription": "The Kellogg Boulevard Bridge will reopen on Friday, November 13, 2026. Route 63 buses will return to their regular routing across the bridge at the start of service on Saturday, November 14, 2026.\r\n\nBeginning November 14, Route 63 buses will also begin serving the Bus Rapid Transit (BRT) stations at Union Depot & Wacouta Station and Union Depot & Sibley Station.\r\n\nFor eastbound Route 63 get on/off buses at:\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\nUnion Depot & Wacouta Station - Stop #57420 (southbound)\r\nKellogg Blvd & Broadway St - Stop #11928 (eastbound)\r\n\nFor westbound Route 63 get on/off buses at:\r\nKellogg Blvd & Broadway St - Stop #3254 (westbound)\r\nUnion Depot & Sibley Station - Stop #57419 (northbound)\r\n6th St & Jackson / Robert - Stop #11859 (westbound)\r\n\nEastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, continue across Mounds Blvd onto 3rd St and resume regular route.\r\n\nWestbound buses will travel regular route on 3rd St, cross Mounds Blvd onto Kellogg Blvd bridge, right on Sibley St, left on 6th St and resume regular route.\r\n\nAffected stops:\r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\n5th St & Broadway St - Stop #40160 (eastbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound)"
     },
     {
       "id": "51765",
@@ -2569,6 +2745,88 @@
       "updatedAt": "2026-10-30T15:25:37.000Z",
       "rawHeader": "Route 64 detoured off 7th St E from Lafayette Ave to Burr St starting Mon Sep 14 at 5:00 AM until further notice due to construction",
       "rawDescription": "For eastbound Route 64 get on/off buses at:\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\nBurr St & Tedesco St - Stop #11776 (northbound)\r\n\nFor westbound Route 64 get on/off buses at:\r\nBurr St & Tedesco St - Stop #11819 (southbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound) \r\n\nEastbound buses will travel regular route on 7th St E to Lafayette, continue past Lafayette to Payne, left on Payne, left on Tedesco, right on Burr, and resume regular route. \r\n\nWestbound buses will travel regular route on Burr to Tedesco, left onto Tedesco, right onto Payne, right onto 7th St, continue to Lafayette and resume regular route. \r\n\nAffected stops:\r\nLaFayette Rd & 8th St - Stop #11916 (northbound)\r\nLaFayette Rd & Grove St - Stop #11918 (northbound)\r\nLaFayette Rd & University Ave - Stop #11920 (northbound)\r\nLaFayette Rd & #600 - Stop #11774 (northbound)\r\nLafayette Rd & Lafayette Plaza - Stop #11821 (southbound)\r\nLaFayette Rd & University Ave - Stop #11921 (southbound)\r\nLaFayette Rd & Grove St - Stop #11923 (southbound)\r\nLaFayette Rd & 8th St - Stop #11925 (southbound)\r\n7th St E & Olive St - Stop #57415 (westbound)"
+    },
+    {
+      "id": "55371",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 67: Detour via Thomas Ave & Western Ave",
+      "summary": "Route 67 detoured off Thomas Ave from Western Ave to Como Ave beginning Mon Nov 23 at 2:00 AM until further notice due to utility work. Board at: Thomas Ave & Western Ave - Stop #18837 (eastbound); Como Ave & Marion St - Stop #972 (eastbound); Como Ave & Rice St - Stop #973 (eastbound).",
+      "affectedRoutes": [
+        "Route 67"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Thomas Ave & Western Ave",
+        "Como Ave & Marion St",
+        "Como Ave & Rice St",
+        "Thomas Ave & Arundel St",
+        "right on Thomas Ave & resume regular route.\n\nAffected st"
+      ],
+      "closedStopIds": [
+        "18839",
+        "18841",
+        "18843",
+        "18845",
+        "18847",
+        "18849",
+        "18837",
+        "49895",
+        "18850"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "18839",
+          "name": "Thomas Ave & Farrington St",
+          "direction": "eastbound"
+        },
+        {
+          "id": "18841",
+          "name": "Thomas Ave & Galtier St",
+          "direction": "eastbound"
+        },
+        {
+          "id": "18843",
+          "name": "Marion St & Como Ave",
+          "direction": "northbound"
+        },
+        {
+          "id": "18845",
+          "name": "Thomas Ave & Galtier St",
+          "direction": "westbound"
+        },
+        {
+          "id": "18847",
+          "name": "Thomas Ave & Farrington St",
+          "direction": "westbound"
+        },
+        {
+          "id": "18849",
+          "name": "Thomas Ave & Western Ave",
+          "direction": "westbound"
+        },
+        {
+          "id": "18837"
+        },
+        {
+          "id": "49895"
+        },
+        {
+          "id": "18850"
+        }
+      ],
+      "riderAlternative": "Board at: Thomas Ave & Western Ave - Stop #18837 (eastbound); Como Ave & Marion St - Stop #972 (eastbound); Como Ave & Rice St - Stop #973 (eastbound)",
+      "detourDetails": "Eastbound buses will travel regular route on Thomas Ave to Western Ave, left on Western Ave, right on Minnehaha Ave, right on Como Ave, continue on Como Ave to Marion St and resume regular route.",
+      "activePeriod": {
+        "start": "2026-11-23T08:00:00.000Z",
+        "textDescription": "Beginning Mon Nov 23 at 2:00 AM until further notice"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/67",
+      "updatedAt": "2026-11-17T15:57:16.000Z",
+      "rawHeader": "Route 67 detoured off Thomas Ave from Western Ave to Como Ave beginning Mon Nov 23 at 2:00 AM until further notice due to utility work",
+      "rawDescription": "Get on/off eastbound buses at:\r\nThomas Ave & Western Ave - Stop #18837 (eastbound)\r\nComo Ave & Marion St - Stop #972 (eastbound)\r\nComo Ave & Rice St - Stop #973 (eastbound)\r\n\nGet on/off westbound buses at:\r\nComo Ave & Rice St - Stop #49895 (westbound)\r\nComo Ave & Marion St - Stop #826 (westbound)\r\nThomas Ave & Arundel St - Stop #18850 (westbound)\r\n\nEastbound buses will travel regular route on Thomas Ave to Western Ave, left on Western Ave, right on Minnehaha Ave, right on Como Ave, continue on Como Ave to Marion St and resume regular route.\r\n\nWestbound buses will travel regular route on Como Ave to Marion St, continue on Como Ave to Minnehaha Ave, left on Minnehaha Ave, left on Western Ave, right on Thomas Ave and resume regular route.\r\n\nAffected stops:\r\nThomas Ave & Farrington St - Stop #18839 (eastbound)\r\nThomas Ave & Galtier St - Stop #18841 (eastbound)\r\nMarion St & Como Ave - Stop #18843 (northbound)\r\nThomas Ave & Galtier St - Stop #18845 (westbound)\r\nThomas Ave & Farrington St - Stop #18847 (westbound)\r\nThomas Ave & Western Ave - Stop #18849 (westbound)"
     },
     {
       "id": "49088",
@@ -2842,7 +3100,7 @@
       "agency": "Metro Transit",
       "severity": "Moderate",
       "title": "Route 72 Returns to Kellogg Blvd Bridge Beginning Sat Nov 14",
-      "summary": "Route 72 returns to Kellogg Blvd Bridge beginning Sat Nov 14. Board at: 5th St & Jackson St - Stop #11838 (eastbound); Kellogg Blvd & Broadway St - Stop #11928 (eastbound); Union Depot & Wacouta Station - Stop #57420 (southbound).",
+      "summary": "Route 72 returns to Kellogg Blvd Bridge beginning Sat Nov 14. Board at: 5th St & Jackson St - Stop #11838 (eastbound); Union Depot & Wacouta Station - Stop #57420 (southbound); Kellogg Blvd & Broadway St - Stop #11928 (eastbound).",
       "affectedRoutes": [
         "Route 72"
       ],
@@ -2860,10 +3118,10 @@
         "40160",
         "43282",
         "11838",
-        "11928",
         "57420",
-        "57419",
+        "11928",
         "3254",
+        "57419",
         "11859"
       ],
       "closedStopDetails": [
@@ -2891,22 +3149,22 @@
           "id": "11838"
         },
         {
-          "id": "11928"
-        },
-        {
           "id": "57420"
         },
         {
-          "id": "57419"
+          "id": "11928"
         },
         {
           "id": "3254"
         },
         {
+          "id": "57419"
+        },
+        {
           "id": "11859"
         }
       ],
-      "riderAlternative": "Board at: 5th St & Jackson St - Stop #11838 (eastbound); Kellogg Blvd & Broadway St - Stop #11928 (eastbound); Union Depot & Wacouta Station - Stop #57420 (southbound)",
+      "riderAlternative": "Board at: 5th St & Jackson St - Stop #11838 (eastbound); Union Depot & Wacouta Station - Stop #57420 (southbound); Kellogg Blvd & Broadway St - Stop #11928 (eastbound)",
       "detourDetails": "Eastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, right on Mounds Blvd and resume regular route",
       "activePeriod": {
         "start": "2026-11-14T09:00:00.000Z",
@@ -2915,9 +3173,9 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-11-14T08:30:02.000Z",
+      "updatedAt": "2026-11-17T14:29:59.000Z",
       "rawHeader": "Route 72 returns to Kellogg Blvd Bridge beginning Sat Nov 14",
-      "rawDescription": "The Kellogg Boulevard Bridge will reopen on Friday, November 13, 2026. Route 72 buses will return to their regular routing across the bridge at the start of service on Saturday, November 14, 2026.\r\n\nBeginning November 14, Route 72 buses will also begin serving the Bus Rapid Transit (BRT) stations at Union Depot & Wacouta Station and Union Depot & Sibley Station.\r\n\nFor eastbound Route 72 get on/off buses at:\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\nKellogg Blvd & Broadway St - Stop #11928 (eastbound)\r\nUnion Depot & Wacouta Station - Stop #57420 (southbound)\r\n\nFor westbound Route 72 get on/off buses at:\r\nUnion Depot & Sibley Station - Stop #57419 (northbound)\r\nKellogg Blvd & Broadway St - Stop #3254 (westbound)\r\n6th St & Jackson / Robert - Stop #11859 (westbound)\r\n\nEastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, right on Mounds Blvd and resume regular route\r\n\nWestbound buses will travel regular route on Mounds Blvd to 3rd St, left on 3rd St to cross the Kellogg Blvd bridge, right on Sibley St, left on 6th St and resume regular route.\r\n\nAffected stops:\r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\n5th St & Broadway St - Stop #40160 (eastbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound)"
+      "rawDescription": "The Kellogg Boulevard Bridge will reopen on Friday, November 13, 2026. Route 72 buses will return to their regular routing across the bridge at the start of service on Saturday, November 14, 2026.\r\n\nBeginning November 14, Route 72 buses will also begin serving the Bus Rapid Transit (BRT) stations at Union Depot & Wacouta Station and Union Depot & Sibley Station.\r\n\nFor eastbound Route 72 get on/off buses at:\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\nUnion Depot & Wacouta Station - Stop #57420 (southbound)\r\nKellogg Blvd & Broadway St - Stop #11928 (eastbound)\r\n\nFor westbound Route 72 get on/off buses at:\r\nKellogg Blvd & Broadway St - Stop #3254 (westbound)\r\nUnion Depot & Sibley Station - Stop #57419 (northbound)\r\n6th St & Jackson / Robert - Stop #11859 (westbound)\r\n\nEastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, right on Mounds Blvd and resume regular route\r\n\nWestbound buses will travel regular route on Mounds Blvd to 3rd St, left on 3rd St to cross the Kellogg Blvd bridge, right on Sibley St, left on 6th St and resume regular route.\r\n\nAffected stops:\r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\n5th St & Broadway St - Stop #40160 (eastbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound)"
     },
     {
       "id": "48757",
@@ -3524,59 +3782,6 @@
       "rawDescription": "Get on/off buses at:\r\nFrance Ave S & 72nd St W - Stop #4374 (southbound)\r\nFrance Ave S & Parklawn Ave - Stop #20197 (southbound)"
     },
     {
-      "id": "53855",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 537: Detour via 108th St W & France Ave S",
-      "summary": "Route 537 detoured off Beard Ave from Old Shakopee Rd to 108th St until further notice due to construction. Board at: 108th St W & France Ave S - Stop #56794 (westbound).",
-      "affectedRoutes": [
-        "Route 537"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "108th St W & France Ave S",
-        "Old Shakopee Rd & Beard Ave S",
-        "right on 108th St & westbound 108th St",
-        "Beard Ave S & Old Shakopee Rd",
-        "Beard Ave S & 108th St W"
-      ],
-      "closedStopIds": [
-        "56791",
-        "56793",
-        "56794",
-        "3521"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "56791",
-          "name": "Beard Ave S & Old Shakopee Rd",
-          "direction": "southbound"
-        },
-        {
-          "id": "56793",
-          "name": "Beard Ave S & 108th St W",
-          "direction": "southbound"
-        },
-        {
-          "id": "56794"
-        },
-        {
-          "id": "3521"
-        }
-      ],
-      "riderAlternative": "Board at: 108th St W & France Ave S - Stop #56794 (westbound)",
-      "detourDetails": "Southbound buses will travel regular route on Old Shakopee Rd to Beard Ave, continue on Old Shakopee Rd to Zenith Ave, right on Zenith, right on 108th St and layover on westbound 108th St at Beard Ave.",
-      "activePeriod": {
-        "start": "2026-10-06T14:05:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/537",
-      "updatedAt": "2026-10-13T14:05:01.000Z",
-      "rawHeader": "Route 537 detoured off Beard Ave from Old Shakopee Rd to 108th St until further notice due to construction",
-      "rawDescription": "For northbound Route 537 get on/off buses at:\r\n108th St W & France Ave S - Stop #56794 (westbound)\r\n\nFor southbound Route 537 get on/off buses at:\r\nOld Shakopee Rd & Beard Ave S - Stop #3521 (eastbound)\r\n\nNorthbound buses will depart temporary layover on westbound 108th St at Beard Ave, continue on 108th St, and resume regular route.\r\n\nSouthbound buses will travel regular route on Old Shakopee Rd to Beard Ave, continue on Old Shakopee Rd to Zenith Ave, right on Zenith, right on 108th St and layover on westbound 108th St at Beard Ave.\r\n\nAffected stops:\r\nBeard Ave S & Old Shakopee Rd - Stop #56791 (southbound)\r\nBeard Ave S & 108th St W - Stop #56793 (southbound)"
-    },
-    {
       "id": "50581",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -3683,6 +3888,43 @@
       "updatedAt": "2026-07-13T13:15:01.000Z",
       "rawHeader": "American Blvd & Lyndale Ave S - Stop #52216 (westbound) is closed for Routes 542 and 686 until further notice",
       "rawDescription": "Get on/off Route 542 buses at:\r\nAmerican Blvd W & Home Depot - Stop #57108 (westbound)\r\nAmerican Blvd W & Lyndale Av/Bryant Av S - Stop #56604 (westbound)\r\n\nGet on/off Route 686 buses at:\r\nAmerican Blvd & 3rd Ave S - Stop #53697 (westbound)\r\n77th St W & Best Buy Driveway - Stop #51639 (westbound)"
+    },
+    {
+      "id": "55366",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 578, METRO Orange Line: Service Advisory",
+      "summary": "North elevator at I-35W & 46th St Station unavailable until further notice due to mechanical issue",
+      "affectedRoutes": [
+        "Route 578",
+        "METRO Orange Line"
+      ],
+      "direction": "All",
+      "intersections": [],
+      "closedStopIds": [
+        "53542",
+        "53543"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "53542"
+        },
+        {
+          "id": "53543"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-17T14:15:00.000Z",
+        "end": "2026-11-18T00:09:18.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "ACCESSIBILITY_ISSUE",
+      "url": "https://www.metrotransit.org/route/orange",
+      "updatedAt": "2026-11-17T14:15:23.000Z",
+      "rawHeader": "North elevator at I-35W & 46th St Station unavailable until further notice due to mechanical issue",
+      "rawDescription": "Customers can access the station by using the south tower elevator. Thank you for your patience while we work to resolve this issue."
     },
     {
       "id": "49838",
@@ -3936,7 +4178,7 @@
       },
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-11-10T14:45:32.000Z",
+      "updatedAt": "2026-11-17T14:45:02.000Z",
       "rawHeader": "63rd Ave N & Zane Ave N - Stop #9063 (eastbound) is closed for Route 724 until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nZane Ave N & 65th Ave N - Stop #8840 (southbound)\r\n63rd Ave N & Welcome Ave N - Stop #9064 (eastbound)"
     },
