@@ -2,210 +2,34 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-69-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-7-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-58-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-60-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-55-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-58-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-54-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-17T03:39:36.687Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-17T13:02:42.617Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO E Line** (1) • **METRO Gold Line** (3) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (1) • **Route 11** (4) • **Route 17** (1) • **Route 18** (7) • **Route 18E** (1) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 38** (1) • **Route 46** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (3) • **Route 64** (4) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (3) • **Route 74** (3) • **Route 80** (1) • **Route 94** (2) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (3) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (1) • **Route 11** (3) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 46** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (1) • **Route 63** (3) • **Route 64** (4) • **Route 68** (2) • **Route 71** (2) • **Route 71K** (1) • **Route 71W** (1) • **Route 72** (2) • **Route 74** (3) • **Route 94** (2) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 537** (2) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO B Line: Service Canceled
+### 🚨 Route 71, Route 71W: Northbound 6:56 AM Trip Canceled (Concord Exchange & Armour Ave)
 
-- **Affected Routes**: `METRO B Line`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: B Line trip departing Lake St W & France Ave S; departing Lake St W & France Ave S; 11 PM
-departing Lake St W & France Ave S
-
-**Summary**: B Line trip departing Lake St W & France Ave S at 6:11 PM and three other trips canceled today due to collision
-
-[Official Agency Advisory](https://www.metrotransit.org/route/bline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: B Line trip departing Lake St W & France Ave S at 6:11 PM and three other trips canceled today due to collision
-
-```text
-Affected eastbound trips:
-departing Lake St W & France Ave S at 6:11 PM
-departing Lake St W & France Ave S at 9:11 PM
-
-Affected westbound trips:
-departing Union Depot & Gate A1 at 7:47 PM
-departing Union Depot & Gate A1 at 10:36 PM
-```
-
-</details>
-
----
-
-### 🚨 METRO C Line: Southbound 8:56 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate I)
-
-- **Affected Routes**: `METRO C Line`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 8:56 PM canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/cline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 8:56 PM canceled today due to maintenance work
-
-</details>
-
----
-
-### 🚨 METRO E Line: Northbound 7:59 PM Trip Canceled (Southdale Transit Center - Gate A)
-
-- **Affected Routes**: `METRO E Line`
+- **Affected Routes**: `Route 71` `Route 71W`
 - **Direction**: Northbound
 - **Severity**: `Critical`
 
-**Summary**: Northbound E Line trip departing Southdale Transit Center - Gate A at 7:59 PM canceled today due to mechanical issue
+**Summary**: Northbound Route 71W trip departing Concord Exchange & Armour Ave at 6:56 AM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/eline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound E Line trip departing Southdale Transit Center - Gate A at 7:59 PM canceled today due to mechanical issue
-
-</details>
-
----
-
-### 🚨 Route 18, Route 18E: Southbound 8:48 PM Trip Canceled (4th Ave S & 3rd St S)
-
-- **Affected Routes**: `Route 18` `Route 18E`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound Route 18E trip departing 4th Ave S & 3rd St S at 8:48 PM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/18)
+[Official Agency Advisory](https://www.metrotransit.org/route/71)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 18E trip departing 4th Ave S & 3rd St S at 8:48 PM canceled today due to mechanical issue
-
-</details>
-
----
-
-### 🚨 Route 30: Service Canceled
-
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 30 trip departing Knox Ave N & Golden Valley Rd; departing Knox Ave N & Golden Valley Rd; 25 PM
-departing Knox Ave N & Golden Valley Rd
-
-**Summary**: Route 30 trip departing Knox Ave N & Golden Valley Rd at 3:25 PM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 30 trip departing Knox Ave N & Golden Valley Rd at 3:25 PM and six other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Knox Ave N & Golden Valley Rd at 3:25 PM
-departing Knox Ave N & Golden Valley Rd at 5:25 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 7:25 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 9:25 PM
-
-Affected westbound trips:
-departing Westgate Station - Gate B at 4:34 PM
-departing Westgate Station - Gate B at 6:35 PM
-departing Westgate Station - Gate B at 8:36 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 72: Service Canceled
-
-- **Affected Routes**: `Route 72`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 72 trip departing Pascal St N & Central Ave W; departing Pascal St N & Central Ave W; 20 PM
-departing Pascal St N & Central Ave W; 21 PM
-departing Pascal St N & Central Ave W
-
-**Summary**: Route 72 trip departing Pascal St N & Central Ave W at 2:20 PM and seven other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/72)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 72 trip departing Pascal St N & Central Ave W at 2:20 PM and seven other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Pascal St N & Central Ave W at 2:20 PM
-departing Pascal St N & Central Ave W at 4:20 PM
-departing Pascal St N & Central Ave W at 6:21 PM
-departing Pascal St N & Central Ave W at 8:23 PM
-
-Affected westbound trips:
-departing Sun Ray Transit Center & Gate D at 3:19 PM
-departing Sun Ray Transit Center & Gate D at 5:18 PM
-departing Sun Ray Transit Center & Gate D at 7:21 PM
-departing Sun Ray Transit Center & Gate D at 9:21 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 80: Service Canceled
-
-- **Affected Routes**: `Route 80`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 80 trip departing Sun Ray Transit Center & Gate E at 3:42 PM and eleven other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/80)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 80 trip departing Sun Ray Transit Center & Gate E at 3:42 PM and eleven other trips canceled today
-
-```text
-Affected northbound trips:
-departing Sun Ray Transit Center & Gate E at 3:42 PM
-departing Sun Ray Transit Center & Gate E at 4:42 PM
-departing Sun Ray Transit Center & Gate E at 5:42 PM
-departing Sun Ray Transit Center & Gate E at 6:42 PM
-departing Sun Ray Transit Center & Gate E at 7:42 PM
-departing Sun Ray Transit Center & Gate E at 8:42 PM
-
-Affected southbound trips:
-departing Maplewood Mall Transit Center & Gate F at 4:12 PM
-departing Maplewood Mall Transit Center & Gate F at 5:12 PM
-departing Maplewood Mall Transit Center & Gate F at 6:12 PM
-departing Maplewood Mall Transit Center & Gate F at 7:12 PM
-departing Maplewood Mall Transit Center & Gate F at 8:12 PM
-departing Maplewood Mall Transit Center & Gate F at 9:12 PM
-```
+**Header**: Northbound Route 71W trip departing Concord Exchange & Armour Ave at 6:56 AM canceled today
 
 </details>
 
@@ -350,50 +174,6 @@ Franklin Ave W & Pleasant Ave S - Stop #13328 (WB)
 
 ---
 
-### ⚠️ Route 2: Detour via Cedar Ave S & 3rd St S
-
-- **Affected Routes**: `Route 2`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Cedar Ave S & 3rd St S; Oak St SE & University Ave S; Washington Ave & Anderson Hall - St; Washington Ave & Coffman Union - St
-- **Closed Stops**: Washington Ramp & Cedar Ave S (Stop #13221), Washington Ave & Anderson Hall (Stop #13223), Washington Ave & Coffman Union (Stop #13209), Stop #13219, Stop #41243
-
-**Summary**: Route 2 detoured off Washington Ave from Cedar Ave to Oak St from 10:00 PM to 2:00 AM due to construction. Board at: Cedar Ave S & 3rd St S - Stop #13219 (northbound); Oak St SE & University Ave SE - Stop #41243 (northbound).
-
-> 💡 **Rider Action**: Board at: Cedar Ave S & 3rd St S - Stop #13219 (northbound); Oak St SE & University Ave SE - Stop #41243 (northbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on Cedar Ave to 3rd St, right on 3rd St, right on 19th Ave, right on Riverside Ave, left on Cedar Ave, left onto I-94, right onto Huron Blvd, left on Washington Ave, right on Oak St and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 2 detoured off Washington Ave from Cedar Ave to Oak St from 10:00 PM to 2:00 AM due to construction
-
-```text
-Get on/off eastbound buses at:
-Cedar Ave S & 3rd St S - Stop #13219 (northbound)
-Oak St SE & University Ave SE - Stop #41243 (northbound)
-
-No westbound stops missed.
-
-Eastbound buses will travel regular route on Cedar Ave to 3rd St, right on 3rd St, right on 19th Ave, right on Riverside Ave, left on Cedar Ave, left onto I-94, right onto Huron Blvd, left on Washington Ave, right on Oak St and resume regular route.
-
-Westbound buses will travel regular route.
-
-Affected direction: Eastbound
-
-Affected stops:
-Washington Ramp & Cedar Ave S - Stop #13221 (eastbound)
-Washington Ave & Anderson Hall - Stop #13223 (eastbound)
-Washington Ave & Coffman Union - Stop #13209 (eastbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 3, Route 3A: Detour via Maryland Ave & Western Ave
 
 - **Affected Routes**: `Route 3` `Route 3A`
@@ -457,51 +237,6 @@ Rice St & Lawson Ave - Stop #10498 (northbound)
 Rice St & Geranium Ave - Stop #10501 (northbound)
 Maryland Ave & Rice St - Stop #47074 (westbound)
 Maryland Ave & Galtier St - Stop #5579 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 3: Detour via Washington Ave S & 15th Ave S
-
-- **Affected Routes**: `Route 3`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Washington Ave S & 15th Ave S; 3rd St S & Cedar Ave S; Pleasant St & Jones Hall - St; make a U-turn at Pillsbury Dr & continue northbound on Pleasant Ave; Washington Ave & Anderson Hall - St
-- **Closed Stops**: Washington Ramp & Cedar Ave S (Stop #13221), Washington Ave & Anderson Hall (Stop #13223), E River Pkwy & Appleby Hall (Stop #57013), Stop #57023, Stop #42452, Stop #49881
-
-**Summary**: Route 3 detoured off Washington Ave from Cedar Ave to Pleasant Ave from 10:00 PM to 2:00 AM due to construction. Board at: Washington Ave S & 15th Ave S - Stop #57023 (eastbound); 3rd St S & Cedar Ave S - Stop #42452 (eastbound); Pleasant St & Jones Hall - Stop #49881 (northbound).
-
-> 💡 **Rider Action**: Board at: Washington Ave S & 15th Ave S - Stop #57023 (eastbound); 3rd St S & Cedar Ave S - Stop #42452 (eastbound); Pleasant St & Jones Hall - Stop #49881 (northbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on Cedar Ave to 3rd St, left on 3rd St, left on 19th Ave, right on University Ave, right on Pleasant St, make a U-turn at Pillsbury Dr and continue northbound on Pleasant Ave and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/3)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 3 detoured off Washington Ave from Cedar Ave to Pleasant Ave from 10:00 PM to 2:00 AM due to construction
-
-```text
-Get on/off eastbound buses at:
-Washington Ave S & 15th Ave S - Stop #57023 (eastbound)
-3rd St S & Cedar Ave S - Stop #42452 (eastbound)
-Pleasant St & Jones Hall - Stop #49881 (northbound)
-
-No westbound stops missed.
-
-Eastbound buses will travel regular route on Cedar Ave to 3rd St, left on 3rd St, left on 19th Ave, right on University Ave, right on Pleasant St, make a U-turn at Pillsbury Dr and continue northbound on Pleasant Ave and resume regular route.
-
-Westbound buses will travel regular route.
-
-Affected direction: Eastbound
-
-Affected stops:
-Washington Ramp & Cedar Ave S - Stop #13221 (eastbound)
-Washington Ave & Anderson Hall - Stop #13223 (eastbound)
-E River Pkwy & Appleby Hall - Stop #57013 (northbound)
 ```
 
 </details>
@@ -832,48 +567,6 @@ Nicollet Ave S & 14th St / Grant St E - Stop #1920 (northbound)
 Nicollet Ave S & Grant St E - Stop #1197 (southbound)
 15th St E & 1st Ave S - Stop #53461 (eastbound)
 16th St E & 3rd Ave S - Stop #53462 (eastbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 11: Detour via 3rd Ave S & 18th St
-
-- **Affected Routes**: `Route 11`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 3rd Ave S & 18th St; 16th St E & 3rd Ave S; Nicollet Ave S & 14th St; 3rd Ave S (16th St S to 11th St S)
-- **Closed Stops**: 16th St E & 3rd Ave S (Stop #53463), Nicollet Ave S & 14th St / Grant St E (Stop #1920), Nicollet Mall & Alice Rainville Pl (Stop #17988), Nicollet Mall & 11th St S (Stop #17990), Stop #17768, Stop #17992
-
-**Summary**: Route 11 detoured off 3rd Ave S from 16th St S to 11th St S until later today. Board at: 3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound); Nicollet Mall & 9th St S - Stop #17992 (northbound).
-
-> 💡 **Rider Action**: Board at: 3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound); Nicollet Mall & 9th St S - Stop #17992 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on 3rd Ave S to 16th St S, continue on 3rd Ave S to 11th St S, left on 11th St S, right on Nicollet Mall and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/11)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 11 detoured off 3rd Ave S from 16th St S to 11th St S until later today
-
-```text
-Get on/off buses at:
-3rd Ave S & 18th St / 17th St E - Stop #17768 (northbound)
-Nicollet Mall & 9th St S - Stop #17992 (northbound)
-
-Affected direction: Northbound
-Northbound buses will travel regular route on 3rd Ave S to 16th St S, continue on 3rd Ave S to 11th St S, left on 11th St S, right on Nicollet Mall and resume regular route. 
-
-Southbound buses will travel regular route. 
-
-Affected stops:
-16th St E & 3rd Ave S - Stop #53463 (westbound)
-Nicollet Ave S & 14th St / Grant St E - Stop #1920 (northbound)
-Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)
-Nicollet Mall & 11th St S - Stop #17990 (northbound)
 ```
 
 </details>
