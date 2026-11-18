@@ -2,129 +2,34 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-64-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-5-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-60-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-55-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-56-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-53-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-17T22:09:57.684Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-18T04:08:01.844Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (2) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 67** (1) • **Route 68** (2) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (1) • **Route 219** (2) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (3) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 760** (1) • **Route 802** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (2) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 67** (1) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (3) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 71: Service Canceled
+### 🚨 Route 54: Westbound 8:50 PM Trip Canceled (Union Depot & Gate A1)
 
-- **Affected Routes**: `Route 71`
-- **Direction**: Both Directions
+- **Affected Routes**: `Route 54`
+- **Direction**: Westbound
 - **Severity**: `Critical`
-- **Corridors & Intersections**: Route 71 trips departing McMenemy St & Roselawn Ave
 
-**Summary**: Route 71 trips departing McMenemy St & Roselawn Ave at 2:11 PM and departing Concord Exchange & Armour Ave at 3:16 PM canceled today
+**Summary**: Westbound Route 54 trip departing Union Depot & Gate A1 at 8:50 PM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
+[Official Agency Advisory](https://www.metrotransit.org/route/54)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 71 trips departing McMenemy St & Roselawn Ave at 2:11 PM and departing Concord Exchange & Armour Ave at 3:16 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 219: Northbound 3:13 PM Trip Canceled (Sun Ray Transit Center & Gate B)
-
-- **Affected Routes**: `Route 219`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #5020, Stop #41752, Stop #41754, Stop #41756, Stop #41759, Stop #41952, Stop #41953, Stop #42344 *(+36 more)*
-
-**Summary**: Northbound Route 219 trip departing Sun Ray Transit Center & Gate B at 3:13 PM canceled from Ivy & Hwy 120 at 3:33 PM today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/219)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 219 trip departing Sun Ray Transit Center & Gate B at 3:13 PM canceled from Ivy & Hwy 120 at 3:33 PM today due to maintenance work
-
-</details>
-
----
-
-### 🚨 Route 219: Southbound 4:12 PM Trip Canceled (Maplewood Mall Transit Center & Gate A)
-
-- **Affected Routes**: `Route 219`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound Route 219 trip departing Maplewood Mall Transit Center & Gate A at 4:12 PM canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/219)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 219 trip departing Maplewood Mall Transit Center & Gate A at 4:12 PM canceled today due to maintenance work
-
-</details>
-
----
-
-### 🚨 Route 760: Northbound 4:06 PM Trip Canceled (12th St S & Hennepin Ave S)
-
-- **Affected Routes**: `Route 760`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Route 760 trip departing 12th St S & Hennepin Ave S at 4:06 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/760)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 760 trip departing 12th St S & Hennepin Ave S at 4:06 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 805: Service Canceled
-
-- **Affected Routes**: `Route 805`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
-departing 1st Ave S & Monroe St; 38 PM
-departing 1st Ave S & Monroe St; 36 PM
-departing 1st Ave S & Monroe St
-
-**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate D at 12:34 PM
-departing Northtown Transit Ctr Gate D at 2:34 PM
-departing Northtown Transit Ctr Gate D at 4:34 PM
-
-Affected southbound trips:
-departing 1st Ave S & Monroe St at 11:38 AM
-departing 1st Ave S & Monroe St at 1:38 PM
-departing 1st Ave S & Monroe St at 3:36 PM
-departing 1st Ave S & Monroe St at 5:38 PM
-```
+**Header**: Westbound Route 54 trip departing Union Depot & Gate A1 at 8:50 PM canceled today
 
 </details>
 

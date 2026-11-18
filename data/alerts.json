@@ -1,331 +1,41 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-17T22:09:57.684Z",
-    "totalAlerts": 64,
-    "criticalCount": 5,
+    "generatedAt": "2026-11-18T04:08:01.844Z",
+    "totalAlerts": 60,
+    "criticalCount": 1,
     "moderateCount": 55,
     "minorCount": 4,
-    "affectedRoutesCount": 56,
+    "affectedRoutesCount": 53,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "55375",
+      "id": "55386",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 71: Service Canceled",
-      "summary": "Route 71 trips departing McMenemy St & Roselawn Ave at 2:11 PM and departing Concord Exchange & Armour Ave at 3:16 PM canceled today",
+      "title": "Route 54: Westbound 8:50 PM Trip Canceled (Union Depot & Gate A1)",
+      "summary": "Westbound Route 54 trip departing Union Depot & Gate A1 at 8:50 PM canceled today",
       "affectedRoutes": [
-        "Route 71"
+        "Route 54"
       ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 71 trips departing McMenemy St & Roselawn Ave"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-17T20:18:00.000Z",
-        "end": "2026-11-17T22:54:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/71",
-      "updatedAt": "2026-11-17T20:18:40.000Z",
-      "rawHeader": "Route 71 trips departing McMenemy St & Roselawn Ave at 2:11 PM and departing Concord Exchange & Armour Ave at 3:16 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "55376",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 219: Northbound 3:13 PM Trip Canceled (Sun Ray Transit Center & Gate B)",
-      "summary": "Northbound Route 219 trip departing Sun Ray Transit Center & Gate B at 3:13 PM canceled from Ivy & Hwy 120 at 3:33 PM today due to maintenance work",
-      "affectedRoutes": [
-        "Route 219"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [
-        "5020",
-        "41752",
-        "41754",
-        "41756",
-        "41759",
-        "41952",
-        "41953",
-        "42344",
-        "42347",
-        "53659",
-        "53660",
-        "52683",
-        "53148",
-        "52041",
-        "52043",
-        "52047",
-        "52170",
-        "56898",
-        "56899",
-        "56900",
-        "56901",
-        "57721",
-        "57725",
-        "57726",
-        "57728",
-        "57729",
-        "7511",
-        "7513",
-        "7686",
-        "7783",
-        "7784",
-        "7785",
-        "12299",
-        "49780",
-        "49825",
-        "49827",
-        "49828",
-        "49829",
-        "49830",
-        "49831",
-        "49835",
-        "49836",
-        "49837",
-        "3883"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "5020"
-        },
-        {
-          "id": "41752"
-        },
-        {
-          "id": "41754"
-        },
-        {
-          "id": "41756"
-        },
-        {
-          "id": "41759"
-        },
-        {
-          "id": "41952"
-        },
-        {
-          "id": "41953"
-        },
-        {
-          "id": "42344"
-        },
-        {
-          "id": "42347"
-        },
-        {
-          "id": "53659"
-        },
-        {
-          "id": "53660"
-        },
-        {
-          "id": "52683"
-        },
-        {
-          "id": "53148"
-        },
-        {
-          "id": "52041"
-        },
-        {
-          "id": "52043"
-        },
-        {
-          "id": "52047"
-        },
-        {
-          "id": "52170"
-        },
-        {
-          "id": "56898"
-        },
-        {
-          "id": "56899"
-        },
-        {
-          "id": "56900"
-        },
-        {
-          "id": "56901"
-        },
-        {
-          "id": "57721"
-        },
-        {
-          "id": "57725"
-        },
-        {
-          "id": "57726"
-        },
-        {
-          "id": "57728"
-        },
-        {
-          "id": "57729"
-        },
-        {
-          "id": "7511"
-        },
-        {
-          "id": "7513"
-        },
-        {
-          "id": "7686"
-        },
-        {
-          "id": "7783"
-        },
-        {
-          "id": "7784"
-        },
-        {
-          "id": "7785"
-        },
-        {
-          "id": "12299"
-        },
-        {
-          "id": "49780"
-        },
-        {
-          "id": "49825"
-        },
-        {
-          "id": "49827"
-        },
-        {
-          "id": "49828"
-        },
-        {
-          "id": "49829"
-        },
-        {
-          "id": "49830"
-        },
-        {
-          "id": "49831"
-        },
-        {
-          "id": "49835"
-        },
-        {
-          "id": "49836"
-        },
-        {
-          "id": "49837"
-        },
-        {
-          "id": "3883"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-17T22:00:00.000Z",
-        "end": "2026-11-17T23:04:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/219",
-      "updatedAt": "2026-11-17T22:02:07.000Z",
-      "rawHeader": "Northbound Route 219 trip departing Sun Ray Transit Center & Gate B at 3:13 PM canceled from Ivy & Hwy 120 at 3:33 PM today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "55377",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 219: Southbound 4:12 PM Trip Canceled (Maplewood Mall Transit Center & Gate A)",
-      "summary": "Southbound Route 219 trip departing Maplewood Mall Transit Center & Gate A at 4:12 PM canceled today due to maintenance work",
-      "affectedRoutes": [
-        "Route 219"
-      ],
-      "direction": "Southbound",
+      "direction": "Westbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-17T22:12:00.000Z",
-        "end": "2026-11-18T00:03:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/219",
-      "updatedAt": "2026-11-17T22:02:51.000Z",
-      "rawHeader": "Southbound Route 219 trip departing Maplewood Mall Transit Center & Gate A at 4:12 PM canceled today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "55378",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 760: Northbound 4:06 PM Trip Canceled (12th St S & Hennepin Ave S)",
-      "summary": "Northbound Route 760 trip departing 12th St S & Hennepin Ave S at 4:06 PM canceled today",
-      "affectedRoutes": [
-        "Route 760"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-17T22:06:00.000Z",
-        "end": "2026-11-17T23:32:00.000Z"
+        "start": "2026-11-18T03:07:00.000Z",
+        "end": "2026-11-18T04:30:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/760",
-      "updatedAt": "2026-11-17T22:04:27.000Z",
-      "rawHeader": "Northbound Route 760 trip departing 12th St S & Hennepin Ave S at 4:06 PM canceled today",
+      "url": "https://www.metrotransit.org/route/54",
+      "updatedAt": "2026-11-18T03:07:53.000Z",
+      "rawHeader": "Westbound Route 54 trip departing Union Depot & Gate A1 at 8:50 PM canceled today",
       "rawDescription": ""
-    },
-    {
-      "id": "55372",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 805: Service Canceled",
-      "summary": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today",
-      "affectedRoutes": [
-        "Route 805"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 805 trip departing 1st Ave S & Monroe St",
-        "departing 1st Ave S & Monroe St",
-        "38 AM\ndeparting 1st Ave S & Monroe St",
-        "38 PM\ndeparting 1st Ave S & Monroe St",
-        "36 PM\ndeparting 1st Ave S & Monroe St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-17T17:38:00.000Z",
-        "end": "2026-11-18T01:24:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-11-17T17:08:01.000Z",
-      "rawHeader": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 11:38 AM\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
     },
     {
       "id": "52943",
@@ -413,7 +123,7 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-11-17T14:11:00.000Z",
-        "end": "2026-11-18T00:09:18.000Z"
+        "end": "2026-11-18T06:07:18.000Z"
       },
       "cause": "TECHNICAL_PROBLEM",
       "effect": "ACCESSIBILITY_ISSUE",
@@ -3917,7 +3627,7 @@
       "detourDetails": null,
       "activePeriod": {
         "start": "2026-11-17T14:15:00.000Z",
-        "end": "2026-11-18T00:09:18.000Z"
+        "end": "2026-11-18T06:07:18.000Z"
       },
       "cause": "MAINTENANCE",
       "effect": "ACCESSIBILITY_ISSUE",
