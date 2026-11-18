@@ -2,21 +2,173 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-59-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-55-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-53-brightgreen)](#-routes-index)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-66-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-5-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-56-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-5-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-59-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-18T13:47:06.111Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-18T21:47:23.004Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (2) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 67** (1) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 67** (1) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (1) • **Route 219** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (2) • **Route 363** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (2) • **Route 805** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 METRO D Line: Southbound 3:08 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)
+
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:08 PM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:08 PM canceled today due to maintenance work
+
+</details>
+
+---
+
+### 🚨 Route 30: Service Canceled
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 25 PM
+departing Knox Ave N & Golden Valley Rd
+
+**Summary**: Route 30 trip departing Westgate Station - Gate B at 2:34 PM and seven other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 30 trip departing Westgate Station - Gate B at 2:34 PM and seven other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Knox Ave N & Golden Valley Rd at 3:25 PM
+departing Knox Ave N & Golden Valley Rd at 5:25 PM
+departing Golden Valley Rd Turn & Xerxes Ave N at 7:25 PM
+departing Golden Valley Rd Turn & Xerxes Ave N at 9:25 PM
+
+Affected westbound trips:
+departing Westgate Station - Gate B at 2:34 PM
+departing Westgate Station - Gate B at 4:34 PM
+departing Westgate Station - Gate B at 6:35 PM
+departing Westgate Station - Gate B at 8:36 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 219: Service Canceled
+
+- **Affected Routes**: `Route 219`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 219 trip departing Sun Ray Transit Center & Gate B at 12:43 PM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/219)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 219 trip departing Sun Ray Transit Center & Gate B at 12:43 PM and six other trips canceled today
+
+```text
+Affected northbound trips:
+departing Sun Ray Transit Center & Gate B at 12:43 PM
+departing Sun Ray Transit Center & Gate B at 2:43 PM
+departing Sun Ray Transit Center & Gate B at 4:43 PM
+departing Sun Ray Transit Center & Gate B at 6:43 PM
+
+Affected southbound trips:
+departing Maplewood Mall Transit Center & Gate A at 1:42 PM
+departing Maplewood Mall Transit Center & Gate A at 3:42 PM
+departing Maplewood Mall Transit Center & Gate A at 5:42 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 802: Service Canceled
+
+- **Affected Routes**: `Route 802`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/802)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate E at 11:34 AM
+departing Northtown Transit Ctr Gate E at 1:34 PM
+departing Northtown Transit Ctr Gate E at 3:34 PM
+departing Northtown Transit Ctr Gate E at 5:34 PM
+
+Affected southbound trips:
+departing Anoka Tech College & Main Entrance at 12:42 PM
+departing Anoka Tech College & Main Entrance at 2:42 PM
+departing Anoka Tech College & Main Entrance at 4:42 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 805: Service Canceled
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
+departing 1st Ave S & Monroe St; 38 PM
+departing 1st Ave S & Monroe St; 36 PM
+departing 1st Ave S & Monroe St
+
+**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate D at 12:34 PM
+departing Northtown Transit Ctr Gate D at 2:34 PM
+departing Northtown Transit Ctr Gate D at 4:34 PM
+
+Affected southbound trips:
+departing 1st Ave S & Monroe St at 11:38 AM
+departing 1st Ave S & Monroe St at 1:38 PM
+departing 1st Ave S & Monroe St at 3:36 PM
+departing 1st Ave S & Monroe St at 5:38 PM
+```
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -2052,6 +2204,43 @@ Stillwater Blvd & Pine St W - Stop #6601 (southbound)
 
 ---
 
+### ⚠️ Route 294, Route 363: Service Advisory
+
+- **Affected Routes**: `Route 294` `Route 363`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 6th St & Jackson St; 6th St E & Wall St
+- **Closed Stops**: 6th St E & Wall St (Stop #53892), Stop #11858
+
+**Summary**: Routes 294 and 363 return to Kellogg Blvd due to completion of Kellogg Bridge construction. Board at: 6th St & Jackson St - Stop #11858 (westbound).
+
+> 💡 **Rider Action**: Board at: 6th St & Jackson St - Stop #11858 (westbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/294)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Routes 294 and 363 return to Kellogg Blvd due to completion of Kellogg Bridge construction
+
+```text
+Get on/off buses at:
+6th St & Jackson St - Stop #11858 (westbound)
+
+Eastbound buses will travel regular route.
+
+Westbound buses will travel on westbound I-94 and exit at Mounds Blvd, left on Kellogg Blvd, right on Sibley St, left on 6th St, and continue regular route.
+
+Affected stops:
+6th St E & Wall St - Stop #53892 (westbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 537: Stop Closed at France Ave S & Gallagher Dr
 
 - **Affected Routes**: `Route 537`
@@ -2483,6 +2672,32 @@ Westbound buses will travel regular route on the Gold Line guideway to Mounds Bl
 <summary>Raw Dispatcher Message</summary>
 
 **Header**: Route 11 service advisory until further notice: New temporary bus stop added on 2nd St NE & 5th Ave NE (northbound)
+
+</details>
+
+---
+
+### ℹ️ Route 14 Service Advisory: Richfield Pkwy Between 63rd St and 66th St
+
+- **Affected Routes**: `Route 14`
+- **Direction**: All
+- **Severity**: `Minor`
+- **Corridors & Intersections**: Richfield Pkwy between 63rd St & 66th St
+
+**Summary**: Route 14 service advisory: Richfield Pkwy between 63rd St and 66th St
+
+[Official Agency Advisory](https://www.metrotransit.org/route/14)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 14 service advisory: Richfield Pkwy between 63rd St and 66th St
+
+```text
+Public-facing maps for Route 14 were updated on August 22, 2026, to reflect the new permanent routing along Richfield Parkway between 63rd Street and 66th Street.
+
+However, due to delays in installing ADA-accessible bus stops along Richfield Parkway, Route 14 buses will continue to operate along Bloomington Avenue between 63rd Street and 66th Street until the new stops are installed and ready for service.
+```
 
 </details>
 
