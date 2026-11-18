@@ -2,38 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-60-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-59-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-55-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-4-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-53-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-18T04:08:01.844Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-18T13:47:06.111Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (2) • **METRO Gold Line** (2) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (2) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 67** (1) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (3) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (2) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 67** (1) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 54: Westbound 8:50 PM Trip Canceled (Union Depot & Gate A1)
-
-- **Affected Routes**: `Route 54`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 54 trip departing Union Depot & Gate A1 at 8:50 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/54)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 54 trip departing Union Depot & Gate A1 at 8:50 PM canceled today
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -86,30 +69,6 @@ Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on 
 
 ```text
 Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station.
-```
-
-</details>
-
----
-
-### ⚠️ METRO Blue Line: Service Advisory
-
-- **Affected Routes**: `METRO Blue Line`
-- **Direction**: All
-- **Severity**: `Moderate`
-- **Closed Stops**: Stop #51428
-
-**Summary**: North tower elevator at Blue Line Lake St - Midtown Station unavailable until further notice due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/blue)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: North tower elevator at Blue Line Lake St - Midtown Station unavailable until further notice due to mechanical issue
-
-```text
-Riders should use the elevator in the south tower for light rail platform access. We apologize for any inconvenience.
 ```
 
 </details>
@@ -2180,6 +2139,30 @@ American Blvd W & Lyndale Av/Bryant Av S - Stop #56604 (westbound)
 Get on/off Route 686 buses at:
 American Blvd & 3rd Ave S - Stop #53697 (westbound)
 77th St W & Best Buy Driveway - Stop #51639 (westbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 578, METRO Orange Line: Service Advisory
+
+- **Affected Routes**: `Route 578` `METRO Orange Line`
+- **Direction**: All
+- **Severity**: `Moderate`
+- **Closed Stops**: Stop #53542, Stop #53543
+
+**Summary**: North elevator at I-35W & 46th St Station unavailable until further notice due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/orange)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: North elevator at I-35W & 46th St Station unavailable until further notice due to mechanical issue
+
+```text
+Customers can access the station by using the south tower elevator. Thank you for your patience while we work to resolve this issue.
 ```
 
 </details>

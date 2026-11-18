@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-18T04:08:01.844Z",
-    "totalAlerts": 60,
-    "criticalCount": 1,
+    "generatedAt": "2026-11-18T13:47:06.111Z",
+    "totalAlerts": 59,
+    "criticalCount": 0,
     "moderateCount": 55,
     "minorCount": 4,
     "affectedRoutesCount": 53,
@@ -11,32 +11,6 @@
     ]
   },
   "alerts": [
-    {
-      "id": "55386",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 54: Westbound 8:50 PM Trip Canceled (Union Depot & Gate A1)",
-      "summary": "Westbound Route 54 trip departing Union Depot & Gate A1 at 8:50 PM canceled today",
-      "affectedRoutes": [
-        "Route 54"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-18T03:07:00.000Z",
-        "end": "2026-11-18T04:30:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/54",
-      "updatedAt": "2026-11-18T03:07:53.000Z",
-      "rawHeader": "Westbound Route 54 trip departing Union Depot & Gate A1 at 8:50 PM canceled today",
-      "rawDescription": ""
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -99,38 +73,6 @@
       "updatedAt": "2026-11-05T16:02:01.000Z",
       "rawHeader": "Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues",
       "rawDescription": "Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station."
-    },
-    {
-      "id": "55364",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "METRO Blue Line: Service Advisory",
-      "summary": "North tower elevator at Blue Line Lake St - Midtown Station unavailable until further notice due to mechanical issue",
-      "affectedRoutes": [
-        "METRO Blue Line"
-      ],
-      "direction": "All",
-      "intersections": [],
-      "closedStopIds": [
-        "51428"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "51428"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-17T14:11:00.000Z",
-        "end": "2026-11-18T06:07:18.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "ACCESSIBILITY_ISSUE",
-      "url": "https://www.metrotransit.org/route/blue",
-      "updatedAt": "2026-11-17T14:11:28.000Z",
-      "rawHeader": "North tower elevator at Blue Line Lake St - Midtown Station unavailable until further notice due to mechanical issue",
-      "rawDescription": "Riders should use the elevator in the south tower for light rail platform access. We apologize for any inconvenience."
     },
     {
       "id": "46729",
@@ -3600,7 +3542,7 @@
       "rawDescription": "Get on/off Route 542 buses at:\r\nAmerican Blvd W & Home Depot - Stop #57108 (westbound)\r\nAmerican Blvd W & Lyndale Av/Bryant Av S - Stop #56604 (westbound)\r\n\nGet on/off Route 686 buses at:\r\nAmerican Blvd & 3rd Ave S - Stop #53697 (westbound)\r\n77th St W & Best Buy Driveway - Stop #51639 (westbound)"
     },
     {
-      "id": "55366",
+      "id": "55388",
       "agency": "Metro Transit",
       "severity": "Moderate",
       "title": "Route 578, METRO Orange Line: Service Advisory",
@@ -3626,13 +3568,48 @@
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-17T14:15:00.000Z",
-        "end": "2026-11-18T06:07:18.000Z"
+        "start": "2026-11-18T10:04:00.000Z"
       },
       "cause": "MAINTENANCE",
       "effect": "ACCESSIBILITY_ISSUE",
       "url": "https://www.metrotransit.org/route/orange",
-      "updatedAt": "2026-11-17T14:15:23.000Z",
+      "updatedAt": "2026-11-18T10:04:09.000Z",
+      "rawHeader": "North elevator at I-35W & 46th St Station unavailable until further notice due to mechanical issue",
+      "rawDescription": "Customers can access the station by using the south tower elevator. Thank you for your patience while we work to resolve this issue."
+    },
+    {
+      "id": "55389",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 578, METRO Orange Line: Service Advisory",
+      "summary": "North elevator at I-35W & 46th St Station unavailable until further notice due to mechanical issue",
+      "affectedRoutes": [
+        "Route 578",
+        "METRO Orange Line"
+      ],
+      "direction": "All",
+      "intersections": [],
+      "closedStopIds": [
+        "53542",
+        "53543"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "53542"
+        },
+        {
+          "id": "53543"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-18T10:04:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "ACCESSIBILITY_ISSUE",
+      "url": "https://www.metrotransit.org/route/orange",
+      "updatedAt": "2026-11-18T10:04:36.000Z",
       "rawHeader": "North elevator at I-35W & 46th St Station unavailable until further notice due to mechanical issue",
       "rawDescription": "Customers can access the station by using the south tower elevator. Thank you for your patience while we work to resolve this issue."
     },
