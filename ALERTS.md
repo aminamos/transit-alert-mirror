@@ -2,34 +2,54 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-66-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-5-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-56-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-65-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-57-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-5-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-59-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-56-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-18T21:47:23.004Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-19T03:08:09.354Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (1) • **Route 63** (2) • **Route 64** (3) • **Route 67** (1) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (1) • **Route 219** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (2) • **Route 363** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (2) • **Route 805** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (4) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (2) • **Route 64** (3) • **Route 67** (2) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (2) • **Route 363** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO D Line: Southbound 3:08 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)
+### 🚨 METRO Orange Line: Northbound 7:36 PM Trip Canceled (Burnsville Heart of the City Station)
 
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Southbound
+- **Affected Routes**: `METRO Orange Line`
+- **Direction**: Northbound
 - **Severity**: `Critical`
+- **Closed Stops**: Stop #53542, Stop #53311, Stop #53313, Stop #53314, Stop #56800, Stop #56828, Stop #17780, Stop #48084 *(+1 more)*
 
-**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:08 PM canceled today due to maintenance work
+**Summary**: Northbound Orange Line trip departing Burnsville Heart of the City Station at 7:36 PM canceled from Knox & 76th at 7:50 PM today due to maintenance work
 
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+[Official Agency Advisory](https://www.metrotransit.org/route/orange)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 3:08 PM canceled today due to maintenance work
+**Header**: Northbound Orange Line trip departing Burnsville Heart of the City Station at 7:36 PM canceled from Knox & 76th at 7:50 PM today due to maintenance work
+
+</details>
+
+---
+
+### 🚨 METRO Orange Line: Southbound 8:33 PM Trip Canceled (Marquette Ave & 3rd St - Stop Group C)
+
+- **Affected Routes**: `METRO Orange Line`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 8:33 PM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/orange)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 8:33 PM canceled today due to maintenance work
 
 </details>
 
@@ -64,106 +84,6 @@ departing Westgate Station - Gate B at 2:34 PM
 departing Westgate Station - Gate B at 4:34 PM
 departing Westgate Station - Gate B at 6:35 PM
 departing Westgate Station - Gate B at 8:36 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 219: Service Canceled
-
-- **Affected Routes**: `Route 219`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 219 trip departing Sun Ray Transit Center & Gate B at 12:43 PM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/219)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 219 trip departing Sun Ray Transit Center & Gate B at 12:43 PM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Sun Ray Transit Center & Gate B at 12:43 PM
-departing Sun Ray Transit Center & Gate B at 2:43 PM
-departing Sun Ray Transit Center & Gate B at 4:43 PM
-departing Sun Ray Transit Center & Gate B at 6:43 PM
-
-Affected southbound trips:
-departing Maplewood Mall Transit Center & Gate A at 1:42 PM
-departing Maplewood Mall Transit Center & Gate A at 3:42 PM
-departing Maplewood Mall Transit Center & Gate A at 5:42 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 802: Service Canceled
-
-- **Affected Routes**: `Route 802`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/802)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate E at 11:34 AM
-departing Northtown Transit Ctr Gate E at 1:34 PM
-departing Northtown Transit Ctr Gate E at 3:34 PM
-departing Northtown Transit Ctr Gate E at 5:34 PM
-
-Affected southbound trips:
-departing Anoka Tech College & Main Entrance at 12:42 PM
-departing Anoka Tech College & Main Entrance at 2:42 PM
-departing Anoka Tech College & Main Entrance at 4:42 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 805: Service Canceled
-
-- **Affected Routes**: `Route 805`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
-departing 1st Ave S & Monroe St; 38 PM
-departing 1st Ave S & Monroe St; 36 PM
-departing 1st Ave S & Monroe St
-
-**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate D at 12:34 PM
-departing Northtown Transit Ctr Gate D at 2:34 PM
-departing Northtown Transit Ctr Gate D at 4:34 PM
-
-Affected southbound trips:
-departing 1st Ave S & Monroe St at 11:38 AM
-departing 1st Ave S & Monroe St at 1:38 PM
-departing 1st Ave S & Monroe St at 3:36 PM
-departing 1st Ave S & Monroe St at 5:38 PM
 ```
 
 </details>
@@ -372,6 +292,33 @@ Rice St & Lawson Ave - Stop #10498 (northbound)
 Rice St & Geranium Ave - Stop #10501 (northbound)
 Maryland Ave & Rice St - Stop #47074 (westbound)
 Maryland Ave & Galtier St - Stop #5579 (westbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 3, Route 62, Route 67: Stop Closed at Rice St & University Ave
+
+- **Affected Routes**: `Route 3` `Route 62` `Route 67`
+- **Direction**: Southbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Rice St & University Ave; Rice St & Charles Ave
+- **Closed Stops**: Stop #11896, Stop #975
+
+**Summary**: Rice St & University Ave - Stop #975 (southbound) is closed for Routes 3, 62 and 67 until further notice due to construction. Board at: Rice St & Charles Ave - Stop #974 (southbound); Rice St & Aurora/Rondo Ave - Stop #11896 (southbound).
+
+> 💡 **Rider Action**: Board at: Rice St & Charles Ave - Stop #974 (southbound); Rice St & Aurora/Rondo Ave - Stop #11896 (southbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Rice St & University Ave - Stop #975 (southbound) is closed for Routes 3, 62 and 67 until further notice due to construction
+
+```text
+Get on/off buses at:
+Rice St & Charles Ave - Stop #974 (southbound)
+Rice St & Aurora/Rondo Ave - Stop #11896 (southbound)
 ```
 
 </details>
