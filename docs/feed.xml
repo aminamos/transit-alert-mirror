@@ -4,36 +4,9 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Thu, 19 Nov 2026 03:08:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:47:29 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
-    <item>
-      <title>[Critical] METRO Orange Line: Northbound 7:36 PM Trip Canceled (Burnsville Heart of the City Station)</title>
-      <link>https://www.metrotransit.org/route/orange</link>
-      <guid isPermaLink="false">Metro Transit-55412-2026-11-19T02:01:52.000Z</guid>
-      <pubDate>Thu, 19 Nov 2026 02:01:52 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO Orange Line</category>
-      <description>Northbound Orange Line trip departing Burnsville Heart of the City Station at 7:36 PM canceled from Knox &amp; 76th at 7:50 PM today due to maintenance work</description>
-    </item>
-    <item>
-      <title>[Critical] METRO Orange Line: Southbound 8:33 PM Trip Canceled (Marquette Ave &amp; 3rd St - Stop Group C)</title>
-      <link>https://www.metrotransit.org/route/orange</link>
-      <guid isPermaLink="false">Metro Transit-55413-2026-11-19T02:03:02.000Z</guid>
-      <pubDate>Thu, 19 Nov 2026 02:03:02 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO Orange Line</category>
-      <description>Southbound Orange Line trip departing Marquette Ave &amp; 3rd St - Stop Group C at 8:33 PM canceled today due to maintenance work</description>
-    </item>
-    <item>
-      <title>[Critical] Route 30: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-55403-2026-11-18T20:04:02.000Z</guid>
-      <pubDate>Wed, 18 Nov 2026 20:04:02 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 30</category>
-      <description>Route 30 trip departing Westgate Station - Gate B at 2:34 PM and seven other trips canceled today</description>
-    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -55,8 +28,8 @@
     <item>
       <title>[Moderate] Route 2: Detour via Franklin Ave &amp; Lyndale Ave</title>
       <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-46729-2026-11-16T17:48:28.000Z</guid>
-      <pubDate>Mon, 16 Nov 2026 17:48:28 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-46729-2026-11-19T06:00:00.000Z</guid>
+      <pubDate>Thu, 19 Nov 2026 06:00:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 2</category>
       <description>Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until Fri Nov 20 at 4:00am due to construction. Temporary stop at 24th St just past Lyndale Ave (eastbound). | Action: Temporary stop at 24th St just past Lyndale Ave (eastbound)</description>
@@ -109,8 +82,8 @@
     <item>
       <title>[Moderate] Route 9: Detour via Portland Ave S &amp; 18th St E</title>
       <link>https://www.metrotransit.org/route/9</link>
-      <guid isPermaLink="false">Metro Transit-46731-2026-11-16T17:50:26.000Z</guid>
-      <pubDate>Mon, 16 Nov 2026 17:50:26 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-46731-2026-11-19T06:00:00.000Z</guid>
+      <pubDate>Thu, 19 Nov 2026 06:00:00 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 9</category>
       <description>Route 9 detoured off Franklin Ave from Portland Ave to Chicago Ave and off Park Ave from 17th St to Franklin Ave beginning Mon Mar 23 at 5:00 AM until Fri Nov 20 at 4:00am due to construction. Board at: Portland Ave S &amp; 18th St E - Stop #15348 (southbound); Temporary stop on Portland Ave just before Franklin Ave (southbound); Temporary stop on Chicago Ave just before Franklin Ave (northbound). | Action: Board at: Portland Ave S &amp; 18th St E - Stop #15348 (southbound); Temporary stop on Portland Ave just before Franklin Ave (southbound); Temporary stop on Chicago Ave just before Franklin Ave (northbound)</description>
@@ -197,15 +170,6 @@
       <description>Nicollet Ave S &amp; 33rd St W - Stop #1214 (southbound) is closed for Route 18 until further notice. Board at: Nicollet Ave S &amp; 32nd St W - Stop #1212 (southbound); Temporary stop Nicollet Ave S &amp; 34th St W (southbound); Nicollet Ave S &amp; 35th St W - Stop #1216 (southbound). | Action: Board at: Nicollet Ave S &amp; 32nd St W - Stop #1212 (southbound); Temporary stop Nicollet Ave S &amp; 34th St W (southbound); Nicollet Ave S &amp; 35th St W - Stop #1216 (southbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 22: Detour via Cedar Ave S &amp; 32nd St E</title>
-      <link>https://www.metrotransit.org/route/22</link>
-      <guid isPermaLink="false">Metro Transit-54251-2026-10-23T14:42:01.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 14:42:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 22</category>
-      <description>Route 22 detoured off Cedar Ave from Lake St to 24th St beginning Mon Sep 14 until further notice due to construction. Board at: Cedar Ave S &amp; 32nd St E - Stop #15313 (northbound); Lake &amp; Cedar Station - Stop #57362 (westbound); Bloomington Ave S &amp; 28th St E - Stop #15618 (northbound). | Action: Board at: Cedar Ave S &amp; 32nd St E - Stop #15313 (northbound); Lake &amp; Cedar Station - Stop #57362 (westbound); Bloomington Ave S &amp; 28th St E - Stop #15618 (northbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 27: Detour via 26th St E &amp; 3rd Ave S</title>
       <link>https://www.metrotransit.org/route/27</link>
       <guid isPermaLink="false">Metro Transit-49875-2026-07-31T14:26:44.000Z</guid>
@@ -213,15 +177,6 @@
       <category>Moderate</category>
       <category>Route 27</category>
       <description>Route 27 detoured off Nicollet from 26th St to 29th St beginning Mon Jul 13 at 5:00 AM until further notice due to construction. Board at: 26th St E &amp; 3rd Ave S - Stop #17761 (westbound); Temporary stop on 26th St &amp; Nicollet Ave (westbound); Temporary stop on Blaisdell Ave &amp; 28th St (southbound). | Action: Board at: 26th St E &amp; 3rd Ave S - Stop #17761 (westbound); Temporary stop on 26th St &amp; Nicollet Ave (westbound); Temporary stop on Blaisdell Ave &amp; 28th St (southbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 27: Detour via Route 27 detoured off 26th St &amp; 28th St</title>
-      <link>https://www.metrotransit.org/route/27</link>
-      <guid isPermaLink="false">Metro Transit-54250-2026-10-23T14:40:01.000Z</guid>
-      <pubDate>Fri, 23 Oct 2026 14:40:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 27</category>
-      <description>Route 27 detoured off 26th St/28th St from Bloomington Ave to Cedar Ave and off Cedar Ave from 26th St to Lake St beginning Mon Sep 14 until further notice due to construction. Board at: 28th St E &amp; Bloomington Ave S - Stop #43016 (eastbound); Lake &amp; Cedar Station - Stop #51579 (eastbound). | Action: Board at: 28th St E &amp; Bloomington Ave S - Stop #43016 (eastbound); Lake &amp; Cedar Station - Stop #51579 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 36, Route 538, Route 578: Stop Closed at York Ave S &amp; Hazelton Rd</title>

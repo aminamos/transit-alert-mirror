@@ -2,93 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-65-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-57-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-60-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-55-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-5-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-56-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-54-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-19T03:08:09.354Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-19T12:47:29.153Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (4) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (6) • **Route 22** (1) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (2) • **Route 64** (3) • **Route 67** (2) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (2) • **Route 363** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (6) • **Route 25** (1) • **Route 27** (1) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (2) • **Route 64** (3) • **Route 67** (2) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (2) • **Route 363** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO Orange Line: Northbound 7:36 PM Trip Canceled (Burnsville Heart of the City Station)
-
-- **Affected Routes**: `METRO Orange Line`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #53542, Stop #53311, Stop #53313, Stop #53314, Stop #56800, Stop #56828, Stop #17780, Stop #48084 *(+1 more)*
-
-**Summary**: Northbound Orange Line trip departing Burnsville Heart of the City Station at 7:36 PM canceled from Knox & 76th at 7:50 PM today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/orange)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Orange Line trip departing Burnsville Heart of the City Station at 7:36 PM canceled from Knox & 76th at 7:50 PM today due to maintenance work
-
-</details>
-
----
-
-### 🚨 METRO Orange Line: Southbound 8:33 PM Trip Canceled (Marquette Ave & 3rd St - Stop Group C)
-
-- **Affected Routes**: `METRO Orange Line`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 8:33 PM canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/orange)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Orange Line trip departing Marquette Ave & 3rd St - Stop Group C at 8:33 PM canceled today due to maintenance work
-
-</details>
-
----
-
-### 🚨 Route 30: Service Canceled
-
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 25 PM
-departing Knox Ave N & Golden Valley Rd
-
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 2:34 PM and seven other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 30 trip departing Westgate Station - Gate B at 2:34 PM and seven other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Knox Ave N & Golden Valley Rd at 3:25 PM
-departing Knox Ave N & Golden Valley Rd at 5:25 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 7:25 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 9:25 PM
-
-Affected westbound trips:
-departing Westgate Station - Gate B at 2:34 PM
-departing Westgate Station - Gate B at 4:34 PM
-departing Westgate Station - Gate B at 6:35 PM
-departing Westgate Station - Gate B at 8:36 PM
-```
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -858,68 +786,6 @@ Nicollet Ave S & 35th St W - Stop #1216 (southbound)
 
 ---
 
-### ⚠️ Route 22: Detour via Cedar Ave S & 32nd St E
-
-- **Affected Routes**: `Route 22`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Sep 14 until further notice
-- **Corridors & Intersections**: Cedar Ave S & 32nd St E; Bloomington Ave S & 28th St E; Bloomington Ave S & 26th St E; Bloomington Ave S & 25th St E; Bloomington Ave S & 24th St E
-- **Closed Stops**: Cedar Ave S & Lake St E (Stop #57193), Cedar Ave S & 28th St E (Stop #15319), Cedar Ave S & 26th St E (Stop #15323), Cedar Ave S & #2501 (Stop #15325), Cedar Ave S & 24th St E (Stop #40460), Cedar Ave S & 26th St E (Stop #15368), Cedar Ave S & 28th St E (Stop #15372), Cedar Ave S & Lake St E (Stop #15374) *(+14 more)*
-
-**Summary**: Route 22 detoured off Cedar Ave from Lake St to 24th St beginning Mon Sep 14 until further notice due to construction. Board at: Cedar Ave S & 32nd St E - Stop #15313 (northbound); Lake & Cedar Station - Stop #57362 (westbound); Bloomington Ave S & 28th St E - Stop #15618 (northbound).
-
-> 💡 **Rider Action**: Board at: Cedar Ave S & 32nd St E - Stop #15313 (northbound); Lake & Cedar Station - Stop #57362 (westbound); Bloomington Ave S & 28th St E - Stop #15618 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on Cedar Ave to Lake St, left on Lake, right on Bloomington Ave, right on 24th St, left on Cedar Ave, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/22)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 22 detoured off Cedar Ave from Lake St to 24th St beginning Mon Sep 14 until further notice due to construction
-
-```text
-Update on 10/21 at 9am: added additional get on/off stops for both directions.
-
-For northbound Route 22 get on/off buses at:
-Cedar Ave S & 32nd St E - Stop #15313 (northbound)
-Lake & Cedar Station - Stop #57362 (westbound)
-Bloomington Ave S & 28th St E - Stop #15618 (northbound)
-Bloomington Ave S & 26th St E - Stop #15622 (northbound)
-Bloomington Ave S & 25th St E - Stop #15625 (northbound)
-Bloomington Ave S & 24th St E - Stop #15626 (northbound)
-Cedar Ave S & Franklin Ave E - Stop #57194 (northbound)
-
-For southbound Route 22 get on/off buses at:
-Cedar Ave S & #2501 - Stop #15366 (southbound)
-Bloomington Ave S & 24th St E - Stop #15627 (southbound)
-Bloomington Ave S & 25th St E - Stop #15624 (southbound)
-Bloomington Ave S & 26th St E - Stop #15623 (southbound)
-Bloomington Ave S & 28th St E - Stop #15619 (southbound)
-Temporary stop on Cedar Ave just past Lake St (southbound)
-Cedar Ave S & 32nd St E - Stop #15378 (southbound)
-
-Northbound buses will travel regular route on Cedar Ave to Lake St, left on Lake, right on Bloomington Ave, right on 24th St, left on Cedar Ave, and resume regular route.
-
-Southbound buses will travel regular route on Cedar Ave to 26th St, right on 26th St, left on Bloomington Ave, left on Lake St, right on Cedar Ave, and resume regular route.
-
-Affected stops:
-Cedar Ave S & Lake St E - Stop #57193 (northbound)
-Cedar Ave S & 28th St E - Stop #15319 (northbound)
-Cedar Ave S & 26th St E - Stop #15323 (northbound)
-Cedar Ave S & #2501 - Stop #15325 (northbound)
-Cedar Ave S & 24th St E - Stop #40460 (northbound)
-Cedar Ave S & 26th St E - Stop #15368 (southbound)
-Cedar Ave S & 28th St E - Stop #15372 (southbound)
-Cedar Ave S & Lake St E - Stop #15374 (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 27: Detour via 26th St E & 3rd Ave S
 
 - **Affected Routes**: `Route 27`
@@ -960,55 +826,6 @@ Affected direction: Westbound
 Affected stops:
 Nicollet Ave S & 26th St W - Stop #1206 (southbound)
 Nicollet Ave S & 28th St W - Stop #1208 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 27: Detour via Route 27 detoured off 26th St & 28th St
-
-- **Affected Routes**: `Route 27`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Sep 14 until further notice
-- **Corridors & Intersections**: Route 27 detoured off 26th St & 28th St; Bloomington Ave to Cedar Ave & off Cedar Ave; 28th St E & Bloomington Ave S; Lake St E & 21st Ave S; Bloomington Ave S & 28th St E
-- **Closed Stops**: 28th St E & Cedar Ave S (Stop #43021), Cedar Ave S & Lake St E (Stop #15317), Cedar Ave S & 28th St E (Stop #15319), 26th St E & 18th Ave S (Stop #14340), 26th St E & Bloomington Ave S (Stop #43004), Stop #43016, Stop #51579, Stop #16894 *(+3 more)*
-
-**Summary**: Route 27 detoured off 26th St/28th St from Bloomington Ave to Cedar Ave and off Cedar Ave from 26th St to Lake St beginning Mon Sep 14 until further notice due to construction. Board at: 28th St E & Bloomington Ave S - Stop #43016 (eastbound); Lake & Cedar Station - Stop #51579 (eastbound).
-
-> 💡 **Rider Action**: Board at: 28th St E & Bloomington Ave S - Stop #43016 (eastbound); Lake & Cedar Station - Stop #51579 (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on 28th St to Bloomington Ave, right on Bloomington, left on Lake St to Cedar Ave, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/27)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 27 detoured off 26th St/28th St from Bloomington Ave to Cedar Ave and off Cedar Ave from 26th St to Lake St beginning Mon Sep 14 until further notice due to construction
-
-```text
-For eastbound Route 27 get on/off buses at:
-28th St E & Bloomington Ave S - Stop #43016 (eastbound)
-Lake & Cedar Station - Stop #51579 (eastbound)
-
-For westbound Route 27 get on/off buses at:
-Lake St E & 21st Ave S - Stop #16894 (westbound)
-Lake & Cedar Station - Stop #57362 (westbound)
-Bloomington Ave S & 28th St E - Stop #15618 (northbound)
-26th St E & 12th Ave S - Stop #51507 (westbound)
-
-Eastbound buses will travel regular route on 28th St to Bloomington Ave, right on Bloomington, left on Lake St to Cedar Ave, and resume regular route.
-
-Westbound buses will travel regular route on Lake St to Cedar Ave, continue on Lake to Bloomington Ave, right on Bloomington, left on 26th St, and resume regular route.
-
-Affected stops:
-28th St E & Cedar Ave S - Stop #43021 (eastbound)
-Cedar Ave S & Lake St E - Stop #15317 (northbound)
-Cedar Ave S & 28th St E - Stop #15319 (northbound)
-26th St E & 18th Ave S - Stop #14340 (westbound)
-26th St E & Bloomington Ave S - Stop #43004 (westbound)
 ```
 
 </details>
