@@ -2,21 +2,245 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-60-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-55-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-70-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-8-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-57-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-5-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-54-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-58-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-19T12:47:29.153Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-19T21:20:28.940Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (5) • **Route 10** (2) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (6) • **Route 25** (1) • **Route 27** (1) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (2) • **Route 64** (3) • **Route 67** (2) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (1) • **Route 294** (2) • **Route 363** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (4) • **Route 10** (2) • **Route 11** (2) • **Route 14** (2) • **Route 17** (1) • **Route 18** (8) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (3) • **Route 67** (2) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (2) • **Route 805** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 METRO D Line: Service Canceled
+
+- **Affected Routes**: `METRO D Line`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM and three other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM and three other trips canceled today
+
+```text
+Affected northbound trips:
+departing MOA Transit Station Gate A at 3:39 PM
+departing MOA Transit Station Gate A at 7:00 PM
+
+Affected southbound trips:
+departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM
+departing Brooklyn Ctr Transit Ctr Gate F at 5:18 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 14: Northbound 1:49 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)
+
+- **Affected Routes**: `Route 14`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #15290, Stop #15292, Stop #15294, Stop #15296, Stop #15298, Stop #15300, Stop #15644, Stop #15648 *(+43 more)*
+
+**Summary**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 1:49 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/14)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 1:49 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 18: Service Advisory
+
+- **Affected Routes**: `Route 18`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #17976, Stop #17978, Stop #17980, Stop #17982, Stop #17984, Stop #17986, Stop #19294, Stop #1197 *(+3 more)*
+
+**Summary**: Southbound Route 18 trip departing 4th Ave S & 3rd St S at 3:05 PM will start from Nicollet and Franklin. Previous stops missed
+
+[Official Agency Advisory](https://www.metrotransit.org/route/18)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 18 trip departing 4th Ave S & 3rd St S at 3:05 PM will start from Nicollet and Franklin. Previous stops missed
+
+</details>
+
+---
+
+### 🚨 Route 30: Service Canceled
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 56 PM
+departing Knox Ave N & Golden Valley Rd; 54 PM
+departing Knox Ave N & Golden Valley Rd
+
+**Summary**: Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Knox Ave N & Golden Valley Rd at 1:56 PM
+departing Knox Ave N & Golden Valley Rd at 3:54 PM
+departing Knox Ave N & Golden Valley Rd at 5:56 PM
+departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM
+
+Affected westbound trips:
+departing Westgate Station - Gate B at 1:04 PM
+departing Westgate Station - Gate B at 3:04 PM
+departing Westgate Station - Gate B at 5:04 PM
+departing Westgate Station - Gate B at 7:05 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 61: Westbound 2:31 PM Trip Canceled (Smith & 5th St Station)
+
+- **Affected Routes**: `Route 61`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 61 trip departing Smith & 5th St Station at 2:31 PM canceled
+
+[Official Agency Advisory](https://www.metrotransit.org/route/61)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 61 trip departing Smith & 5th St Station at 2:31 PM canceled
+
+</details>
+
+---
+
+### 🚨 Route 72: Service Canceled
+
+- **Affected Routes**: `Route 72`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing Pascal St N & Central Ave W; 50 PM
+departing Pascal St N & Central Ave W; 53 PM
+departing Pascal St N & Central Ave W
+
+**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 4:48 PM and five other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/72)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 4:48 PM and five other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Pascal St N & Central Ave W at 5:50 PM
+departing Pascal St N & Central Ave W at 7:53 PM
+departing Pascal St N & Central Ave W at 9:53 PM
+
+Affected westbound trips:
+departing Sun Ray Transit Center & Gate D at 4:48 PM
+departing Sun Ray Transit Center & Gate D at 6:51 PM
+departing Sun Ray Transit Center & Gate D at 8:51 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 802: Service Canceled
+
+- **Affected Routes**: `Route 802`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/802)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate E at 11:34 AM
+departing Northtown Transit Ctr Gate E at 1:34 PM
+departing Northtown Transit Ctr Gate E at 3:34 PM
+departing Northtown Transit Ctr Gate E at 5:34 PM
+
+Affected southbound trips:
+departing Anoka Tech College & Main Entrance at 12:42 PM
+departing Anoka Tech College & Main Entrance at 2:42 PM
+departing Anoka Tech College & Main Entrance at 4:42 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 805: Service Canceled
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
+departing 1st Ave S & Monroe St; 38 PM
+departing 1st Ave S & Monroe St; 36 PM
+departing 1st Ave S & Monroe St
+
+**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate D at 12:34 PM
+departing Northtown Transit Ctr Gate D at 2:34 PM
+departing Northtown Transit Ctr Gate D at 4:34 PM
+
+Affected southbound trips:
+departing 1st Ave S & Monroe St at 11:38 AM
+departing 1st Ave S & Monroe St at 1:38 PM
+departing 1st Ave S & Monroe St at 3:36 PM
+departing 1st Ave S & Monroe St at 5:38 PM
+```
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -449,52 +673,6 @@ Westbound buses will depart 46th St Station and turn right on 46th St, right on 
 
 ---
 
-### ⚠️ Route 9: Detour via 25th St E & 31st Ave S
-
-- **Affected Routes**: `Route 9`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Tue Oct 6 at 7:00 AM until further notice
-- **Corridors & Intersections**: 25th St E & 31st Ave S; 25th St E & 35th Ave S; left on 25th St & resume regular route.
-
-Affected st; 25th St E & 33rd Ave S; 25th St (32nd Ave to 34th Ave)
-- **Closed Stops**: 25th St E & 33rd Ave S (Stop #16457), 25th St E & 33rd Ave S (Stop #17597), Stop #16455, Stop #16459, Stop #17595, Stop #17599
-
-**Summary**: Route 9 detoured off 25th St from 32nd Ave to 34th Ave beginning Tue Oct 6 at 7:00 AM until further notice due to construction. Board at: 25th St E & 31st Ave S - Stop #16455 (eastbound); 25th St E & 35th Ave S - Stop #16459 (eastbound).
-
-> 💡 **Rider Action**: Board at: 25th St E & 31st Ave S - Stop #16455 (eastbound); 25th St E & 35th Ave S - Stop #16459 (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on 25th St to 32nd Ave, right on 32nd Ave, left on 26th St, left on 34th Ave, right on 25th St and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/9)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 9 detoured off 25th St from 32nd Ave to 34th Ave beginning Tue Oct 6 at 7:00 AM until further notice due to construction
-
-```text
-For eastbound Route 9 get on/off buses at:
-25th St E & 31st Ave S - Stop #16455 (eastbound)
-25th St E & 35th Ave S - Stop #16459 (eastbound)
-
-For westbound Route 9 get on/off buses at:
-25th St E & 35th Ave S - Stop #17595 (westbound)
-25th St E & 31st Ave S - Stop #17599 (westbound)
-
-Eastbound buses will travel regular route on 25th St to 32nd Ave, right on 32nd Ave, left on 26th St, left on 34th Ave, right on 25th St and resume regular route.
-
-Westbound buses will travel regular route on 25th St to 34th Ave, left on 34th Ave, right on 26th St, right on 32nd Ave, left on 25th St and resume regular route.
-
-Affected stops:
-25th St E & 33rd Ave S - Stop #16457 (eastbound)
-25th St E & 33rd Ave S - Stop #17597 (westbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Nicollet Mall (11th St to 12th St)
 
 - **Affected Routes**: `Route 10` `Route 11` `Route 17` `Route 18` `Route 25`
@@ -628,11 +806,10 @@ Nicollet Ave S & Diamond Lake Rd - Stop #1338 (southbound)
 - **Affected Routes**: `Route 18`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Jul 13 at 5:00 AM until further notice
 - **Corridors & Intersections**: 1st Ave S & Lake St; 1st Ave S & 28th St; Nicollet Ave S & 27th St; Nicollet Ave S & 24th St W; Blaisdell Ave & 28th St
 - **Closed Stops**: Nicollet Ave S & 28th St E (Stop #1890), Nicollet Ave S & 26th St W (Stop #1206), Nicollet Ave S & 28th St W (Stop #1208), Stop #1889, Stop #52309, Stop #1204, Stop #14850
 
-**Summary**: Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln beginning Mon Jul 13 at 5:00 AM until further notice due to construction. Board at: 1st Ave S & Lake St - Stop #1889 (northbound); Temporary stop on 1st Ave S & 28th St (northbound); Nicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound).
+**Summary**: Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln until Tue Nov 24 at 11:00 AM due to construction. Board at: 1st Ave S & Lake St - Stop #1889 (northbound); Temporary stop on 1st Ave S & 28th St (northbound); Nicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound).
 
 > 💡 **Rider Action**: Board at: 1st Ave S & Lake St - Stop #1889 (northbound); Temporary stop on 1st Ave S & 28th St (northbound); Nicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound)
 
@@ -643,7 +820,7 @@ Nicollet Ave S & Diamond Lake Rd - Stop #1338 (southbound)
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln beginning Mon Jul 13 at 5:00 AM until further notice due to construction
+**Header**: Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln until Tue Nov 24 at 11:00 AM due to construction
 
 ```text
 For northbound Route 18 get on/off buses at:
@@ -786,16 +963,62 @@ Nicollet Ave S & 35th St W - Stop #1216 (southbound)
 
 ---
 
+### ⚠️ Route 18: Service Advisory
+
+- **Affected Routes**: `Route 18`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Nicollet Ave S & 31st St E; Nicollet Ave S & Lake St E; Nicollet Ave S & 28th St E; Nicollet Ave S & 28th St W; Nicollet Ave S & Lake St W
+- **Closed Stops**: 1st Ave S & 31st St / Lake St E (Stop #1888), 1st Ave S & Lake St (Stop #1889), Blaisdell Ave S & Lake St (Stop #14850), 31st St W & Blaisdell / Nicollet (Stop #42211), Stop #1887, Stop #52937, Stop #1890, Stop #1208 *(+2 more)*
+
+**Summary**: Route 18 returns to Nicollet Ave between Lake St and Cecil Newman Lane on Tue Nov 24 at 11:00 AM. Board at: Nicollet Ave S & 31st St E - Stop #1887 (northbound); Nicollet Ave S & Lake St E - Stop #52937 (northbound); Nicollet Ave S & 28th St E - Stop #1890 (northbound).
+
+> 💡 **Rider Action**: Board at: Nicollet Ave S & 31st St E - Stop #1887 (northbound); Nicollet Ave S & Lake St E - Stop #52937 (northbound); Nicollet Ave S & 28th St E - Stop #1890 (northbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel on Nicollet Ave to 31st St, continue on Nicollet Ave to Cecil Newman and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/18)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 18 returns to Nicollet Ave between Lake St and Cecil Newman Lane on Tue Nov 24 at 11:00 AM
+
+```text
+For northbound Route 18 get on/off buses at:
+Nicollet Ave S & 31st St E - Stop #1887 (northbound)
+Nicollet Ave S & Lake St E - Stop #52937 (northbound)
+Nicollet Ave S & 28th St E - Stop #1890 (northbound)
+
+For southbound Route 18 get on/off buses at:
+Nicollet Ave S & 28th St W - Stop #1208 (southbound)
+Nicollet Ave S & Lake St W - Stop #52934 (southbound)
+Nicollet Ave S & 32nd St W - Stop #1212 (southbound)
+
+Northbound buses will travel on Nicollet Ave to 31st St, continue on Nicollet Ave to Cecil Newman and resume regular route.
+
+Southbound buses will travel on Nicollet Ave to 29th St, continue on Nicollet Ave to 31st St and resume regular route.
+
+Affected stops:
+1st Ave S & 31st St / Lake St E - Stop #1888 (northbound)
+1st Ave S & Lake St - Stop #1889 (northbound)
+Blaisdell Ave S & Lake St - Stop #14850 (southbound)
+31st St W & Blaisdell / Nicollet - Stop #42211 (eastbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 27: Detour via 26th St E & 3rd Ave S
 
 - **Affected Routes**: `Route 27`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Jul 13 at 5:00 AM until further notice
 - **Corridors & Intersections**: 26th St E & 3rd Ave S; 26th St & Nicollet Ave; Blaisdell Ave & 28th St; Blaisdell Ave S & Lake St; Nicollet Ave S & 26th St W
 - **Closed Stops**: Nicollet Ave S & 26th St W (Stop #1206), Nicollet Ave S & 28th St W (Stop #1208), Stop #17761, Stop #14850
 
-**Summary**: Route 27 detoured off Nicollet from 26th St to 29th St beginning Mon Jul 13 at 5:00 AM until further notice due to construction. Board at: 26th St E & 3rd Ave S - Stop #17761 (westbound); Temporary stop on 26th St & Nicollet Ave (westbound); Temporary stop on Blaisdell Ave & 28th St (southbound).
+**Summary**: Route 27 detoured off Nicollet from 26th St to 29th St until Tue Nov 24 at 11:00 AM due to construction. Board at: 26th St E & 3rd Ave S - Stop #17761 (westbound); Temporary stop on 26th St & Nicollet Ave (westbound); Temporary stop on Blaisdell Ave & 28th St (southbound).
 
 > 💡 **Rider Action**: Board at: 26th St E & 3rd Ave S - Stop #17761 (westbound); Temporary stop on 26th St & Nicollet Ave (westbound); Temporary stop on Blaisdell Ave & 28th St (southbound)
 
@@ -806,7 +1029,7 @@ Nicollet Ave S & 35th St W - Stop #1216 (southbound)
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 27 detoured off Nicollet from 26th St to 29th St beginning Mon Jul 13 at 5:00 AM until further notice due to construction
+**Header**: Route 27 detoured off Nicollet from 26th St to 29th St until Tue Nov 24 at 11:00 AM due to construction
 
 ```text
 Update on 7/31 at 9:30am: get on/off stops
@@ -826,6 +1049,54 @@ Affected direction: Westbound
 Affected stops:
 Nicollet Ave S & 26th St W - Stop #1206 (southbound)
 Nicollet Ave S & 28th St W - Stop #1208 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 27: Service Advisory
+
+- **Affected Routes**: `Route 27`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Tue Nov 24 at 11:00 AM
+- **Corridors & Intersections**: Lake St W & Blaisdell Ave S; Nicollet Ave S & Lake St E; Nicollet Ave S & 28th St E; Nicollet Ave S & 26th St W; Nicollet Ave S & 28th St W
+- **Closed Stops**: 1st Ave S & Lake St (Stop #1889), Blaisdell Ave & 28th St W (Stop #80911), Blaisdell Ave S & Lake St (Stop #14850), 26th St E & Nicollet Ave (Stop #80924), Stop #16845, Stop #52937, Stop #1890, Stop #1206 *(+2 more)*
+
+**Summary**: Route 27 returns to Nicollet Ave between Lake St and Cecil Newman Ln beginning Tue Nov 24 at 11:00 AM. Board at: Lake St W & Blaisdell Ave S - Stop #16845 (eastbound); Nicollet Ave S & Lake St E - Stop #52937 (northbound); Nicollet Ave S & 28th St E - Stop #1890 (northbound).
+
+> 💡 **Rider Action**: Board at: Lake St W & Blaisdell Ave S - Stop #16845 (eastbound); Nicollet Ave S & Lake St E - Stop #52937 (northbound); Nicollet Ave S & 28th St E - Stop #1890 (northbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on Lake St to Nicollet Ave, right on 28th St, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/27)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 27 returns to Nicollet Ave between Lake St and Cecil Newman Ln beginning Tue Nov 24 at 11:00 AM
+
+```text
+For eastbound Route 27 get on/off buses at:
+Lake St W & Blaisdell Ave S - Stop #16845 (eastbound)
+Nicollet Ave S & Lake St E - Stop #52937 (northbound)
+Nicollet Ave S & 28th St E - Stop #1890 (northbound)
+
+For westbound Route 27 get on/off buses at:
+Nicollet Ave S & 26th St W - Stop #1206 (southbound)
+Nicollet Ave S & 28th St W - Stop #1208 (southbound)
+Lake & Nicollet Station - Stop #57358 (westbound)
+
+Eastbound buses will travel regular route on Lake St to Nicollet Ave, right on 28th St, and resume regular route.
+
+Westbound buses will travel regular route on 26th St to Nicollet Ave, left on Nicollet Ave, right on Lake St and resume regular route.
+
+Affected stops:
+1st Ave S & Lake St - Stop #1889 (northbound)
+Blaisdell Ave & 28th St W - Stop #80911 (southbound)
+Blaisdell Ave S & Lake St - Stop #14850 (southbound)
+26th St E & Nicollet Ave - Stop #80924 (westbound)
 ```
 
 </details>
@@ -1890,6 +2161,36 @@ Southbound buses will travel regular route.
 Affected stops:
 5th St E & Sibley St - Stop #11839 (eastbound)
 Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 275, Route 294, Route 363, Route 480, Route 860: Stop Closed at 6th St & Wabasha St
+
+- **Affected Routes**: `Route 275` `Route 294` `Route 363` `Route 480` `Route 860`
+- **Direction**: Westbound
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Tue Nov 24 at 7:00 AM until further notice
+- **Corridors & Intersections**: 6th St & Wabasha St; 6th St & Minnesota St; 6th St & Washington St
+- **Closed Stops**: Stop #11862, Stop #52097, Stop #3264
+
+**Summary**: 6th St & Wabasha St - Stop #11862 (westbound) is closed for Routes 275, 294, 363, 480 and 860 beginning Tue Nov 24 at 7:00 AM until further notice due to construction. Board at: 6th St & Minnesota St - Stop #52097 (westbound); 6th St & Washington St / 7th St - Stop #3264 (westbound).
+
+> 💡 **Rider Action**: Board at: 6th St & Minnesota St - Stop #52097 (westbound); 6th St & Washington St / 7th St - Stop #3264 (westbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/275)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: 6th St & Wabasha St - Stop #11862 (westbound) is closed for Routes 275, 294, 363, 480 and 860 beginning Tue Nov 24 at 7:00 AM until further notice due to construction
+
+```text
+Get on/off buses at:
+6th St & Minnesota St - Stop #52097 (westbound)
+6th St & Washington St / 7th St - Stop #3264 (westbound)
 ```
 
 </details>

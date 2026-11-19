@@ -1,16 +1,490 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-19T12:47:29.153Z",
-    "totalAlerts": 60,
-    "criticalCount": 0,
-    "moderateCount": 55,
+    "generatedAt": "2026-11-19T21:20:28.940Z",
+    "totalAlerts": 70,
+    "criticalCount": 8,
+    "moderateCount": 57,
     "minorCount": 5,
-    "affectedRoutesCount": 54,
+    "affectedRoutesCount": 58,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
+    {
+      "id": "55428",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO D Line: Service Canceled",
+      "summary": "D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM and three other trips canceled today",
+      "affectedRoutes": [
+        "METRO D Line"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-19T19:59:00.000Z",
+        "end": "2026-11-20T03:12:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-11-19T19:47:14.000Z",
+      "rawHeader": "D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM and three other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting MOA Transit Station Gate A at 3:39 PM\r\ndeparting MOA Transit Station Gate A at 7:00 PM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 1:59 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 5:18 PM"
+    },
+    {
+      "id": "55433",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 14: Northbound 1:49 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)",
+      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 1:49 PM canceled today",
+      "affectedRoutes": [
+        "Route 14"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [
+        "15290",
+        "15292",
+        "15294",
+        "15296",
+        "15298",
+        "15300",
+        "15644",
+        "15648",
+        "16330",
+        "16336",
+        "16342",
+        "16353",
+        "17894",
+        "17895",
+        "17897",
+        "17899",
+        "17901",
+        "17902",
+        "17947",
+        "17948",
+        "41984",
+        "19311",
+        "19313",
+        "19496",
+        "40764",
+        "52327",
+        "52658",
+        "50153",
+        "53941",
+        "8271",
+        "8277",
+        "8291",
+        "8294",
+        "8306",
+        "8316",
+        "8318",
+        "8326",
+        "8330",
+        "8336",
+        "8338",
+        "8340",
+        "8344",
+        "8360",
+        "8368",
+        "8372",
+        "8376",
+        "8384",
+        "8386",
+        "8388",
+        "8390",
+        "53765"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "15290"
+        },
+        {
+          "id": "15292"
+        },
+        {
+          "id": "15294"
+        },
+        {
+          "id": "15296"
+        },
+        {
+          "id": "15298"
+        },
+        {
+          "id": "15300"
+        },
+        {
+          "id": "15644"
+        },
+        {
+          "id": "15648"
+        },
+        {
+          "id": "16330"
+        },
+        {
+          "id": "16336"
+        },
+        {
+          "id": "16342"
+        },
+        {
+          "id": "16353"
+        },
+        {
+          "id": "17894"
+        },
+        {
+          "id": "17895"
+        },
+        {
+          "id": "17897"
+        },
+        {
+          "id": "17899"
+        },
+        {
+          "id": "17901"
+        },
+        {
+          "id": "17902"
+        },
+        {
+          "id": "17947"
+        },
+        {
+          "id": "17948"
+        },
+        {
+          "id": "41984"
+        },
+        {
+          "id": "19311"
+        },
+        {
+          "id": "19313"
+        },
+        {
+          "id": "19496"
+        },
+        {
+          "id": "40764"
+        },
+        {
+          "id": "52327"
+        },
+        {
+          "id": "52658"
+        },
+        {
+          "id": "50153"
+        },
+        {
+          "id": "53941"
+        },
+        {
+          "id": "8271"
+        },
+        {
+          "id": "8277"
+        },
+        {
+          "id": "8291"
+        },
+        {
+          "id": "8294"
+        },
+        {
+          "id": "8306"
+        },
+        {
+          "id": "8316"
+        },
+        {
+          "id": "8318"
+        },
+        {
+          "id": "8326"
+        },
+        {
+          "id": "8330"
+        },
+        {
+          "id": "8336"
+        },
+        {
+          "id": "8338"
+        },
+        {
+          "id": "8340"
+        },
+        {
+          "id": "8344"
+        },
+        {
+          "id": "8360"
+        },
+        {
+          "id": "8368"
+        },
+        {
+          "id": "8372"
+        },
+        {
+          "id": "8376"
+        },
+        {
+          "id": "8384"
+        },
+        {
+          "id": "8386"
+        },
+        {
+          "id": "8388"
+        },
+        {
+          "id": "8390"
+        },
+        {
+          "id": "53765"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-19T20:30:00.000Z",
+        "end": "2026-11-19T22:03:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/14",
+      "updatedAt": "2026-11-19T20:30:41.000Z",
+      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 1:49 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "55431",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 18: Service Advisory",
+      "summary": "Southbound Route 18 trip departing 4th Ave S & 3rd St S at 3:05 PM will start from Nicollet and Franklin. Previous stops missed",
+      "affectedRoutes": [
+        "Route 18"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [
+        "17976",
+        "17978",
+        "17980",
+        "17982",
+        "17984",
+        "17986",
+        "19294",
+        "1197",
+        "1199",
+        "1200",
+        "56800"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "17976"
+        },
+        {
+          "id": "17978"
+        },
+        {
+          "id": "17980"
+        },
+        {
+          "id": "17982"
+        },
+        {
+          "id": "17984"
+        },
+        {
+          "id": "17986"
+        },
+        {
+          "id": "19294"
+        },
+        {
+          "id": "1197"
+        },
+        {
+          "id": "1199"
+        },
+        {
+          "id": "1200"
+        },
+        {
+          "id": "56800"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-19T21:05:00.000Z",
+        "end": "2026-11-19T22:59:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/18",
+      "updatedAt": "2026-11-19T20:35:01.000Z",
+      "rawHeader": "Southbound Route 18 trip departing 4th Ave S & 3rd St S at 3:05 PM will start from Nicollet and Franklin. Previous stops missed",
+      "rawDescription": ""
+    },
+    {
+      "id": "55425",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 30: Service Canceled",
+      "summary": "Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today",
+      "affectedRoutes": [
+        "Route 30"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "departing Knox Ave N & Golden Valley Rd",
+        "56 PM\ndeparting Knox Ave N & Golden Valley Rd",
+        "54 PM\ndeparting Knox Ave N & Golden Valley Rd"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-19T19:04:00.000Z",
+        "end": "2026-11-20T03:35:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/30",
+      "updatedAt": "2026-11-19T18:34:02.000Z",
+      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 1:56 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 3:54 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 5:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 1:04 PM\r\ndeparting Westgate Station - Gate B at 3:04 PM\r\ndeparting Westgate Station - Gate B at 5:04 PM\r\ndeparting Westgate Station - Gate B at 7:05 PM"
+    },
+    {
+      "id": "55434",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 61: Westbound 2:31 PM Trip Canceled (Smith & 5th St Station)",
+      "summary": "Westbound Route 61 trip departing Smith & 5th St Station at 2:31 PM canceled",
+      "affectedRoutes": [
+        "Route 61"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-19T21:12:00.000Z",
+        "end": "2026-11-19T22:52:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/61",
+      "updatedAt": "2026-11-19T21:12:40.000Z",
+      "rawHeader": "Westbound Route 61 trip departing Smith & 5th St Station at 2:31 PM canceled",
+      "rawDescription": ""
+    },
+    {
+      "id": "55426",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 72: Service Canceled",
+      "summary": "Route 72 trip departing Sun Ray Transit Center & Gate D at 4:48 PM and five other trips canceled today",
+      "affectedRoutes": [
+        "Route 72"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "departing Pascal St N & Central Ave W",
+        "50 PM\ndeparting Pascal St N & Central Ave W",
+        "53 PM\ndeparting Pascal St N & Central Ave W"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-19T22:48:00.000Z",
+        "end": "2026-11-20T05:37:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/72",
+      "updatedAt": "2026-11-19T17:49:07.000Z",
+      "rawHeader": "Route 72 trip departing Sun Ray Transit Center & Gate D at 4:48 PM and five other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 5:50 PM\r\ndeparting Pascal St N & Central Ave W at 7:53 PM\r\ndeparting Pascal St N & Central Ave W at 9:53 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 4:48 PM\r\ndeparting Sun Ray Transit Center & Gate D at 6:51 PM\r\ndeparting Sun Ray Transit Center & Gate D at 8:51 PM"
+    },
+    {
+      "id": "55423",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 802: Service Canceled",
+      "summary": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today",
+      "affectedRoutes": [
+        "Route 802"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-19T17:34:00.000Z",
+        "end": "2026-11-20T01:14:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/802",
+      "updatedAt": "2026-11-19T17:08:52.000Z",
+      "rawHeader": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 11:34 AM\r\ndeparting Northtown Transit Ctr Gate E at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 12:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 2:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 4:42 PM"
+    },
+    {
+      "id": "55422",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 805: Service Canceled",
+      "summary": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today",
+      "affectedRoutes": [
+        "Route 805"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 805 trip departing 1st Ave S & Monroe St",
+        "departing 1st Ave S & Monroe St",
+        "38 AM\ndeparting 1st Ave S & Monroe St",
+        "38 PM\ndeparting 1st Ave S & Monroe St",
+        "36 PM\ndeparting 1st Ave S & Monroe St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-19T17:38:00.000Z",
+        "end": "2026-11-20T01:24:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/805",
+      "updatedAt": "2026-11-19T17:08:02.000Z",
+      "rawHeader": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 11:38 AM\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
+    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -715,68 +1189,6 @@
       "rawDescription": "No stops missed.\r\n\nEastbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.\r\n\nWestbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route."
     },
     {
-      "id": "55023",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 9: Detour via 25th St E & 31st Ave S",
-      "summary": "Route 9 detoured off 25th St from 32nd Ave to 34th Ave beginning Tue Oct 6 at 7:00 AM until further notice due to construction. Board at: 25th St E & 31st Ave S - Stop #16455 (eastbound); 25th St E & 35th Ave S - Stop #16459 (eastbound).",
-      "affectedRoutes": [
-        "Route 9"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "25th St E & 31st Ave S",
-        "25th St E & 35th Ave S",
-        "left on 25th St & resume regular route.\n\nAffected st",
-        "25th St E & 33rd Ave S",
-        "25th St (32nd Ave to 34th Ave)"
-      ],
-      "closedStopIds": [
-        "16457",
-        "17597",
-        "16455",
-        "16459",
-        "17595",
-        "17599"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "16457",
-          "name": "25th St E & 33rd Ave S",
-          "direction": "eastbound"
-        },
-        {
-          "id": "17597",
-          "name": "25th St E & 33rd Ave S",
-          "direction": "westbound"
-        },
-        {
-          "id": "16455"
-        },
-        {
-          "id": "16459"
-        },
-        {
-          "id": "17595"
-        },
-        {
-          "id": "17599"
-        }
-      ],
-      "riderAlternative": "Board at: 25th St E & 31st Ave S - Stop #16455 (eastbound); 25th St E & 35th Ave S - Stop #16459 (eastbound)",
-      "detourDetails": "Eastbound buses will travel regular route on 25th St to 32nd Ave, right on 32nd Ave, left on 26th St, left on 34th Ave, right on 25th St and resume regular route.",
-      "activePeriod": {
-        "start": "2026-11-06T19:11:00.000Z",
-        "textDescription": "Beginning Tue Oct 6 at 7:00 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/9",
-      "updatedAt": "2026-11-13T19:11:01.000Z",
-      "rawHeader": "Route 9 detoured off 25th St from 32nd Ave to 34th Ave beginning Tue Oct 6 at 7:00 AM until further notice due to construction",
-      "rawDescription": "For eastbound Route 9 get on/off buses at:\r\n25th St E & 31st Ave S - Stop #16455 (eastbound)\r\n25th St E & 35th Ave S - Stop #16459 (eastbound)\r\n\nFor westbound Route 9 get on/off buses at:\r\n25th St E & 35th Ave S - Stop #17595 (westbound)\r\n25th St E & 31st Ave S - Stop #17599 (westbound)\r\n\nEastbound buses will travel regular route on 25th St to 32nd Ave, right on 32nd Ave, left on 26th St, left on 34th Ave, right on 25th St and resume regular route.\r\n\nWestbound buses will travel regular route on 25th St to 34th Ave, left on 34th Ave, right on 26th St, right on 32nd Ave, left on 25th St and resume regular route.\r\n\nAffected stops:\r\n25th St E & 33rd Ave S - Stop #16457 (eastbound)\r\n25th St E & 33rd Ave S - Stop #17597 (westbound)"
-    },
-    {
       "id": "55139",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -971,7 +1383,7 @@
       "agency": "Metro Transit",
       "severity": "Moderate",
       "title": "Route 18: Detour via 1st Ave S & Lake St",
-      "summary": "Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln beginning Mon Jul 13 at 5:00 AM until further notice due to construction. Board at: 1st Ave S & Lake St - Stop #1889 (northbound); Temporary stop on 1st Ave S & 28th St (northbound); Nicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound).",
+      "summary": "Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln until Tue Nov 24 at 11:00 AM due to construction. Board at: 1st Ave S & Lake St - Stop #1889 (northbound); Temporary stop on 1st Ave S & 28th St (northbound); Nicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound).",
       "affectedRoutes": [
         "Route 18"
       ],
@@ -1025,13 +1437,13 @@
       "detourDetails": "Northbound buses will travel regular route on 1st Ave to Cecil Newman, continue on 1st Ave to 27th St, left on 27th St, right on Nicollet Ave and resume regular route.",
       "activePeriod": {
         "start": "2026-07-13T10:00:00.000Z",
-        "textDescription": "Beginning Mon Jul 13 at 5:00 AM until further notice"
+        "end": "2026-11-24T17:00:00.000Z"
       },
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/18",
-      "updatedAt": "2026-09-17T14:09:55.000Z",
-      "rawHeader": "Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln beginning Mon Jul 13 at 5:00 AM until further notice due to construction",
+      "updatedAt": "2026-11-19T20:09:23.000Z",
+      "rawHeader": "Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln until Tue Nov 24 at 11:00 AM due to construction",
       "rawDescription": "For northbound Route 18 get on/off buses at:\r\n1st Ave S & Lake St - Stop #1889 (northbound)\r\nTemporary stop on 1st Ave S & 28th St (northbound)\r\nNicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound)\r\n\nFor southbound Route 18 get on/off buses at:\r\nNicollet Ave S & 24th St W - Stop #1204 (southbound)\r\nTemporary stop on Nicollet Ave just before 26th St (southbound)\r\nTemporary stop on Blaisdell Ave & 28th St (southbound)\r\nBlaisdell Ave S & Lake St - Stop #14850 (southbound)\r\n\nNorthbound buses will travel regular route on 1st Ave to Cecil Newman, continue on 1st Ave to 27th St, left on 27th St, right on Nicollet Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Nicollet Ave to 26th St, right on 26th St, left on Blaisdell Ave, continue on Blaisdell Ave to 29th St and resume regular route. \r\n\nAffected stops:\r\nNicollet Ave S & 28th St E - Stop #1890 (northbound)\r\nNicollet Ave S & 26th St W - Stop #1206 (southbound)\r\nNicollet Ave S & 28th St W - Stop #1208 (southbound)"
     },
     {
@@ -1181,11 +1593,92 @@
       "rawDescription": "Get on/off buses at:\r\nNicollet Ave S & 32nd St W - Stop #1212 (southbound)\r\nTemporary stop Nicollet Ave S & 34th St W (southbound)\r\nNicollet Ave S & 35th St W - Stop #1216 (southbound)"
     },
     {
+      "id": "55430",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 18: Service Advisory",
+      "summary": "Route 18 returns to Nicollet Ave between Lake St and Cecil Newman Lane on Tue Nov 24 at 11:00 AM. Board at: Nicollet Ave S & 31st St E - Stop #1887 (northbound); Nicollet Ave S & Lake St E - Stop #52937 (northbound); Nicollet Ave S & 28th St E - Stop #1890 (northbound).",
+      "affectedRoutes": [
+        "Route 18"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Nicollet Ave S & 31st St E",
+        "Nicollet Ave S & Lake St E",
+        "Nicollet Ave S & 28th St E",
+        "Nicollet Ave S & 28th St W",
+        "Nicollet Ave S & Lake St W"
+      ],
+      "closedStopIds": [
+        "1888",
+        "1889",
+        "14850",
+        "42211",
+        "1887",
+        "52937",
+        "1890",
+        "1208",
+        "52934",
+        "1212"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "1888",
+          "name": "1st Ave S & 31st St / Lake St E",
+          "direction": "northbound"
+        },
+        {
+          "id": "1889",
+          "name": "1st Ave S & Lake St",
+          "direction": "northbound"
+        },
+        {
+          "id": "14850",
+          "name": "Blaisdell Ave S & Lake St",
+          "direction": "southbound"
+        },
+        {
+          "id": "42211",
+          "name": "31st St W & Blaisdell / Nicollet",
+          "direction": "eastbound"
+        },
+        {
+          "id": "1887"
+        },
+        {
+          "id": "52937"
+        },
+        {
+          "id": "1890"
+        },
+        {
+          "id": "1208"
+        },
+        {
+          "id": "52934"
+        },
+        {
+          "id": "1212"
+        }
+      ],
+      "riderAlternative": "Board at: Nicollet Ave S & 31st St E - Stop #1887 (northbound); Nicollet Ave S & Lake St E - Stop #52937 (northbound); Nicollet Ave S & 28th St E - Stop #1890 (northbound)",
+      "detourDetails": "Northbound buses will travel on Nicollet Ave to 31st St, continue on Nicollet Ave to Cecil Newman and resume regular route.",
+      "activePeriod": {
+        "start": "2026-11-24T17:00:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/18",
+      "updatedAt": "2026-11-19T20:04:21.000Z",
+      "rawHeader": "Route 18 returns to Nicollet Ave between Lake St and Cecil Newman Lane on Tue Nov 24 at 11:00 AM",
+      "rawDescription": "For northbound Route 18 get on/off buses at:\r\nNicollet Ave S & 31st St E - Stop #1887 (northbound)\r\nNicollet Ave S & Lake St E - Stop #52937 (northbound)\r\nNicollet Ave S & 28th St E - Stop #1890 (northbound)\r\n\nFor southbound Route 18 get on/off buses at:\r\nNicollet Ave S & 28th St W - Stop #1208 (southbound)\r\nNicollet Ave S & Lake St W - Stop #52934 (southbound)\r\nNicollet Ave S & 32nd St W - Stop #1212 (southbound)\r\n\nNorthbound buses will travel on Nicollet Ave to 31st St, continue on Nicollet Ave to Cecil Newman and resume regular route.\r\n\nSouthbound buses will travel on Nicollet Ave to 29th St, continue on Nicollet Ave to 31st St and resume regular route.\r\n\nAffected stops:\r\n1st Ave S & 31st St / Lake St E - Stop #1888 (northbound)\r\n1st Ave S & Lake St - Stop #1889 (northbound)\r\nBlaisdell Ave S & Lake St - Stop #14850 (southbound)\r\n31st St W & Blaisdell / Nicollet - Stop #42211 (eastbound)"
+    },
+    {
       "id": "49875",
       "agency": "Metro Transit",
       "severity": "Moderate",
       "title": "Route 27: Detour via 26th St E & 3rd Ave S",
-      "summary": "Route 27 detoured off Nicollet from 26th St to 29th St beginning Mon Jul 13 at 5:00 AM until further notice due to construction. Board at: 26th St E & 3rd Ave S - Stop #17761 (westbound); Temporary stop on 26th St & Nicollet Ave (westbound); Temporary stop on Blaisdell Ave & 28th St (southbound).",
+      "summary": "Route 27 detoured off Nicollet from 26th St to 29th St until Tue Nov 24 at 11:00 AM due to construction. Board at: 26th St E & 3rd Ave S - Stop #17761 (westbound); Temporary stop on 26th St & Nicollet Ave (westbound); Temporary stop on Blaisdell Ave & 28th St (southbound).",
       "affectedRoutes": [
         "Route 27"
       ],
@@ -1225,14 +1718,96 @@
       "detourDetails": "Eastbound buses will travel regular route.",
       "activePeriod": {
         "start": "2026-07-13T10:00:00.000Z",
-        "textDescription": "Beginning Mon Jul 13 at 5:00 AM until further notice"
+        "end": "2026-11-24T17:00:00.000Z"
       },
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/27",
-      "updatedAt": "2026-07-31T14:26:44.000Z",
-      "rawHeader": "Route 27 detoured off Nicollet from 26th St to 29th St beginning Mon Jul 13 at 5:00 AM until further notice due to construction",
+      "updatedAt": "2026-11-19T20:12:10.000Z",
+      "rawHeader": "Route 27 detoured off Nicollet from 26th St to 29th St until Tue Nov 24 at 11:00 AM due to construction",
       "rawDescription": "Update on 7/31 at 9:30am: get on/off stops\r\n\nGet on/off westbound buses at:\r\n26th St E & 3rd Ave S - Stop #17761 (westbound)\r\nTemporary stop on 26th St & Nicollet Ave (westbound)\r\nTemporary stop on Blaisdell Ave & 28th St (southbound)\r\nBlaisdell Ave S & Lake St - Stop #14850 (southbound)\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on 26th St to Nicollet Ave, continue on 26th St to Blaisdell Ave, left on Blaisdell Ave, continue on Blaisdell Ave to 29th St and resume regular route.\r\n\nAffected direction: Westbound\r\n\nAffected stops:\r\nNicollet Ave S & 26th St W - Stop #1206 (southbound)\r\nNicollet Ave S & 28th St W - Stop #1208 (southbound)"
+    },
+    {
+      "id": "55432",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 27: Service Advisory",
+      "summary": "Route 27 returns to Nicollet Ave between Lake St and Cecil Newman Ln beginning Tue Nov 24 at 11:00 AM. Board at: Lake St W & Blaisdell Ave S - Stop #16845 (eastbound); Nicollet Ave S & Lake St E - Stop #52937 (northbound); Nicollet Ave S & 28th St E - Stop #1890 (northbound).",
+      "affectedRoutes": [
+        "Route 27"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Lake St W & Blaisdell Ave S",
+        "Nicollet Ave S & Lake St E",
+        "Nicollet Ave S & 28th St E",
+        "Nicollet Ave S & 26th St W",
+        "Nicollet Ave S & 28th St W"
+      ],
+      "closedStopIds": [
+        "1889",
+        "80911",
+        "14850",
+        "80924",
+        "16845",
+        "52937",
+        "1890",
+        "1206",
+        "1208",
+        "57358"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "1889",
+          "name": "1st Ave S & Lake St",
+          "direction": "northbound"
+        },
+        {
+          "id": "80911",
+          "name": "Blaisdell Ave & 28th St W",
+          "direction": "southbound"
+        },
+        {
+          "id": "14850",
+          "name": "Blaisdell Ave S & Lake St",
+          "direction": "southbound"
+        },
+        {
+          "id": "80924",
+          "name": "26th St E & Nicollet Ave",
+          "direction": "westbound"
+        },
+        {
+          "id": "16845"
+        },
+        {
+          "id": "52937"
+        },
+        {
+          "id": "1890"
+        },
+        {
+          "id": "1206"
+        },
+        {
+          "id": "1208"
+        },
+        {
+          "id": "57358"
+        }
+      ],
+      "riderAlternative": "Board at: Lake St W & Blaisdell Ave S - Stop #16845 (eastbound); Nicollet Ave S & Lake St E - Stop #52937 (northbound); Nicollet Ave S & 28th St E - Stop #1890 (northbound)",
+      "detourDetails": "Eastbound buses will travel regular route on Lake St to Nicollet Ave, right on 28th St, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-11-24T17:00:00.000Z",
+        "textDescription": "Beginning Tue Nov 24 at 11:00 AM"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/27",
+      "updatedAt": "2026-11-19T20:27:22.000Z",
+      "rawHeader": "Route 27 returns to Nicollet Ave between Lake St and Cecil Newman Ln beginning Tue Nov 24 at 11:00 AM",
+      "rawDescription": "For eastbound Route 27 get on/off buses at:\r\nLake St W & Blaisdell Ave S - Stop #16845 (eastbound)\r\nNicollet Ave S & Lake St E - Stop #52937 (northbound)\r\nNicollet Ave S & 28th St E - Stop #1890 (northbound)\r\n\nFor westbound Route 27 get on/off buses at:\r\nNicollet Ave S & 26th St W - Stop #1206 (southbound)\r\nNicollet Ave S & 28th St W - Stop #1208 (southbound)\r\nLake & Nicollet Station - Stop #57358 (westbound)\r\n\nEastbound buses will travel regular route on Lake St to Nicollet Ave, right on 28th St, and resume regular route.\r\n\nWestbound buses will travel regular route on 26th St to Nicollet Ave, left on Nicollet Ave, right on Lake St and resume regular route.\r\n\nAffected stops:\r\n1st Ave S & Lake St - Stop #1889 (northbound)\r\nBlaisdell Ave & 28th St W - Stop #80911 (southbound)\r\nBlaisdell Ave S & Lake St - Stop #14850 (southbound)\r\n26th St E & Nicollet Ave - Stop #80924 (westbound)"
     },
     {
       "id": "42305",
@@ -3046,6 +3621,54 @@
       "rawDescription": "Updated start date 3/3 8:15 am.\r\n\nGet on/off buses at:\r\n5th St & Minnesota St - Stop #49397 (eastbound)\r\nWacouta St & 8th St / 9th St E - Stop #49753 (northbound)\r\n\nNorthbound buses will travel regular route on 5th St to Sibley St, left on Sibley, right on 7th St, left on Wacouta St, and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected stops:\r\n5th St E & Sibley St - Stop #11839 (eastbound)\r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)"
     },
     {
+      "id": "55416",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 275, Route 294, Route 363, Route 480, Route 860: Stop Closed at 6th St & Wabasha St",
+      "summary": "6th St & Wabasha St - Stop #11862 (westbound) is closed for Routes 275, 294, 363, 480 and 860 beginning Tue Nov 24 at 7:00 AM until further notice due to construction. Board at: 6th St & Minnesota St - Stop #52097 (westbound); 6th St & Washington St / 7th St - Stop #3264 (westbound).",
+      "affectedRoutes": [
+        "Route 275",
+        "Route 294",
+        "Route 363",
+        "Route 480",
+        "Route 860"
+      ],
+      "direction": "Westbound",
+      "intersections": [
+        "6th St & Wabasha St",
+        "6th St & Minnesota St",
+        "6th St & Washington St"
+      ],
+      "closedStopIds": [
+        "11862",
+        "52097",
+        "3264"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "11862"
+        },
+        {
+          "id": "52097"
+        },
+        {
+          "id": "3264"
+        }
+      ],
+      "riderAlternative": "Board at: 6th St & Minnesota St - Stop #52097 (westbound); 6th St & Washington St / 7th St - Stop #3264 (westbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-24T13:00:00.000Z",
+        "textDescription": "Beginning Tue Nov 24 at 7:00 AM until further notice"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/275",
+      "updatedAt": "2026-11-19T13:54:59.000Z",
+      "rawHeader": "6th St & Wabasha St - Stop #11862 (westbound) is closed for Routes 275, 294, 363, 480 and 860 beginning Tue Nov 24 at 7:00 AM until further notice due to construction",
+      "rawDescription": "Get on/off buses at:\r\n6th St & Minnesota St - Stop #52097 (westbound)\r\n6th St & Washington St / 7th St - Stop #3264 (westbound)"
+    },
+    {
       "id": "50995",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -3878,7 +4501,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-11-12T14:24:57.000Z",
+      "updatedAt": "2026-11-19T14:24:01.000Z",
       "rawHeader": "Route 11 service advisory until further notice: New temporary bus stop added on 2nd St NE & 5th Ave NE (northbound)",
       "rawDescription": ""
     },
