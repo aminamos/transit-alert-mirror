@@ -4,90 +4,9 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Fri, 20 Nov 2026 02:57:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:21:22 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
-    <item>
-      <title>[Critical] METRO B Line: Westbound 8:33 PM Trip Canceled (Union Depot &amp; Gate A1)</title>
-      <link>https://www.metrotransit.org/route/bline</link>
-      <guid isPermaLink="false">Metro Transit-55448-2026-11-20T02:57:23.000Z</guid>
-      <pubDate>Fri, 20 Nov 2026 02:57:23 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO B Line</category>
-      <description>Westbound B Line trip departing Union Depot &amp; Gate A1 at 8:33 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] METRO D Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-55428-2026-11-19T19:47:14.000Z</guid>
-      <pubDate>Thu, 19 Nov 2026 19:47:14 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM and three other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 2: Westbound 7:30 PM Trip Canceled (2nd Ave SE &amp; 7th St SE)</title>
-      <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-55445-2026-11-20T02:22:04.000Z</guid>
-      <pubDate>Fri, 20 Nov 2026 02:22:04 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 2</category>
-      <description>Westbound Route 2 trip departing 2nd Ave SE &amp; 7th St SE at 7:30 PM canceled</description>
-    </item>
-    <item>
-      <title>[Critical] Route 4, Route 4P: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/4</link>
-      <guid isPermaLink="false">Metro Transit-55447-2026-11-20T02:45:35.000Z</guid>
-      <pubDate>Fri, 20 Nov 2026 02:45:35 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 4, Route 4P</category>
-      <description>Southbound Route 4P trip departing Silver Lk &amp; Cub Foods Svc Rd / 39th Ave at 8:27 PM will start from 3rd st and Hennepin. No previous stops will be served this trip.</description>
-    </item>
-    <item>
-      <title>[Critical] Route 30: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-55425-2026-11-19T18:34:02.000Z</guid>
-      <pubDate>Thu, 19 Nov 2026 18:34:02 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 30</category>
-      <description>Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 72: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/72</link>
-      <guid isPermaLink="false">Metro Transit-55426-2026-11-19T22:18:01.000Z</guid>
-      <pubDate>Thu, 19 Nov 2026 22:18:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 72</category>
-      <description>Route 72 trip departing Sun Ray Transit Center &amp; Gate D at 4:48 PM and five other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 87: Southbound 8:23 PM Trip Canceled (Rosedale Transit Center Gate C)</title>
-      <link>https://www.metrotransit.org/route/87</link>
-      <guid isPermaLink="false">Metro Transit-55446-2026-11-20T02:40:18.000Z</guid>
-      <pubDate>Fri, 20 Nov 2026 02:40:18 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 87</category>
-      <description>Southbound Route 87 trip departing Rosedale Transit Center Gate C at 8:23 PM canceled today due to disabled bus</description>
-    </item>
-    <item>
-      <title>[Critical] Route 540: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/540</link>
-      <guid isPermaLink="false">Metro Transit-55441-2026-11-19T23:48:25.000Z</guid>
-      <pubDate>Thu, 19 Nov 2026 23:48:25 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 540</category>
-      <description>Route 540 trip departing MOA Transit Station Gate G at 5:55 PM and four other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 542: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/542</link>
-      <guid isPermaLink="false">Metro Transit-55440-2026-11-19T23:58:01.000Z</guid>
-      <pubDate>Thu, 19 Nov 2026 23:58:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 542</category>
-      <description>Route 542 trips departing American Blvd &amp; Social Security Admin at 6:28 PM and departing American Blvd &amp; Social Security Admin at 7:58 PM canceled today</description>
-    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -109,11 +28,11 @@
     <item>
       <title>[Moderate] Route 2: Detour via Franklin Ave &amp; Lyndale Ave</title>
       <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-46729-2026-11-19T06:00:00.000Z</guid>
-      <pubDate>Thu, 19 Nov 2026 06:00:00 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55454-2026-11-20T11:06:11.000Z</guid>
+      <pubDate>Fri, 20 Nov 2026 11:06:11 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 2</category>
-      <description>Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until Fri Nov 20 at 4:00am due to construction. Temporary stop at 24th St just past Lyndale Ave (eastbound). | Action: Temporary stop at 24th St just past Lyndale Ave (eastbound)</description>
+      <description>Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction. Temporary stop at 24th St just past Lyndale Ave (eastbound). | Action: Temporary stop at 24th St just past Lyndale Ave (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 3, Route 3A: Detour via Maryland Ave &amp; Western Ave</title>
@@ -161,15 +80,6 @@
       <description>Route 9 detoured off Cedar Lake Rd from Texas Ave to Idaho Ave beginning Mon May 4 at 4:00 AM until further notice due to construction. Board at: Cedar Lake Rd &amp; Virginia Ave - Stop #8046 (eastbound); Temporary stop on Texas Ave just past Cedar Lake Rd (northbound); Louisiana Ave &amp; Franklin Ave - Stop #2996 (southbound). | Action: Board at: Cedar Lake Rd &amp; Virginia Ave - Stop #8046 (eastbound); Temporary stop on Texas Ave just past Cedar Lake Rd (northbound); Louisiana Ave &amp; Franklin Ave - Stop #2996 (southbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 9: Detour via Portland Ave S &amp; 18th St E</title>
-      <link>https://www.metrotransit.org/route/9</link>
-      <guid isPermaLink="false">Metro Transit-46731-2026-11-19T06:00:00.000Z</guid>
-      <pubDate>Thu, 19 Nov 2026 06:00:00 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 9</category>
-      <description>Route 9 detoured off Franklin Ave from Portland Ave to Chicago Ave and off Park Ave from 17th St to Franklin Ave beginning Mon Mar 23 at 5:00 AM until Fri Nov 20 at 4:00am due to construction. Board at: Portland Ave S &amp; 18th St E - Stop #15348 (southbound); Temporary stop on Portland Ave just before Franklin Ave (southbound); Temporary stop on Chicago Ave just before Franklin Ave (northbound). | Action: Board at: Portland Ave S &amp; 18th St E - Stop #15348 (southbound); Temporary stop on Portland Ave just before Franklin Ave (southbound); Temporary stop on Chicago Ave just before Franklin Ave (northbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 9: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/9</link>
       <guid isPermaLink="false">Metro Transit-52940-2026-09-28T08:00:01.000Z</guid>
@@ -177,6 +87,15 @@
       <category>Moderate</category>
       <category>Route 9</category>
       <description>Route 9 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 9: Detour via Portland Ave S &amp; 18th St E</title>
+      <link>https://www.metrotransit.org/route/9</link>
+      <guid isPermaLink="false">Metro Transit-55455-2026-11-20T11:12:48.000Z</guid>
+      <pubDate>Fri, 20 Nov 2026 11:12:48 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 9</category>
+      <description>Route 9 detoured off Franklin Ave from Portland Ave to Chicago Ave and off Park Ave from 17th St to Franklin Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction. Board at: Portland Ave S &amp; 18th St E - Stop #15348 (southbound); Temporary stop on Portland Ave just before Franklin Ave (southbound); Temporary stop on Chicago Ave just before Franklin Ave (northbound). | Action: Board at: Portland Ave S &amp; 18th St E - Stop #15348 (southbound); Temporary stop on Portland Ave just before Franklin Ave (southbound); Temporary stop on Chicago Ave just before Franklin Ave (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Nicollet Mall (11th St to 12th St)</title>

@@ -2,288 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-71-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-9-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-62-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-57-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-5-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-61-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-55-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-20T02:57:37.788Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-20T11:21:22.200Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (1) • **Route 4P** (1) • **Route 7** (1) • **Route 9** (4) • **Route 10** (2) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (7) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (2) • **Route 64** (3) • **Route 67** (2) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (2) • **Route 542** (2) • **Route 578** (4) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (4) • **Route 10** (2) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (7) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (2) • **Route 64** (3) • **Route 67** (2) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO B Line: Westbound 8:33 PM Trip Canceled (Union Depot & Gate A1)
-
-- **Affected Routes**: `METRO B Line`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound B Line trip departing Union Depot & Gate A1 at 8:33 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/bline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound B Line trip departing Union Depot & Gate A1 at 8:33 PM canceled today
-
-</details>
-
----
-
-### 🚨 METRO D Line: Service Canceled
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM and three other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM and three other trips canceled today
-
-```text
-Affected northbound trips:
-departing MOA Transit Station Gate A at 3:39 PM
-departing MOA Transit Station Gate A at 7:00 PM
-
-Affected southbound trips:
-departing Brooklyn Ctr Transit Ctr Gate F at 1:59 PM
-departing Brooklyn Ctr Transit Ctr Gate F at 5:18 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 2: Westbound 7:30 PM Trip Canceled (2nd Ave SE & 7th St SE)
-
-- **Affected Routes**: `Route 2`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 7:30 PM canceled
-
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 7:30 PM canceled
-
-</details>
-
----
-
-### 🚨 Route 4, Route 4P: Service Advisory
-
-- **Affected Routes**: `Route 4` `Route 4P`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Cub Foods Svc Rd & 39th Ave; 27 PM will start from 3rd st & Hennepin. No previous st; 39th Ave NE & Silver Lake Rd; 39th Ave NE & Coolidge St; 39th Ave NE & Harding St N
-- **Closed Stops**: Silver Lk & Cub Foods Svc Rd / 39th Ave (Stop #14153), 39th Ave NE & Silver Lake Rd / Belden Dr (Stop #56679), 39th Ave NE & Coolidge St (Stop #52033), 39th Ave NE & Harding St NE (Stop #56762), 39th Ave NE & Apache Lane (W) (Stop #15711), Stinson Blvd & 39th Ave NE (Stop #11684), Stinson Blvd & 37th Place NE (Stop #15998), 37th Place NE & McKinley St NE (Stop #15991) *(+30 more)*
-
-**Summary**: Southbound Route 4P trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 8:27 PM will start from 3rd st and Hennepin. No previous stops will be served this trip.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/4)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 4P trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 8:27 PM will start from 3rd st and Hennepin. No previous stops will be served this trip.
-
-```text
-Affected stops:
-Silver Lk & Cub Foods Svc Rd / 39th Ave - Stop #14153 (southbound)
-39th Ave NE & Silver Lake Rd / Belden Dr - Stop #56679 (westbound)
-39th Ave NE & Coolidge St - Stop #52033 (westbound)
-39th Ave NE & Harding St NE - Stop #56762 (westbound)
-39th Ave NE & Apache Lane (W) - Stop #15711 (westbound)
-Stinson Blvd & 39th Ave NE - Stop #11684 (southbound)
-Stinson Blvd & 37th Place NE - Stop #15998 (southbound)
-37th Place NE & McKinley St NE - Stop #15991 (westbound)
-37th Place NE & 37th Ave NE - Stop #15992 (westbound)
-37th Ave NE & Hart Blvd (Cleveland Ave) - Stop #15999 (westbound)
-37th Ave NE & Hayes St - Stop #16002 (westbound)
-Johnson St NE & 37th Ave NE - Stop #16003 (southbound)
-Johnson St NE & 35th Ave NE - Stop #42298 (southbound)
-Johnson St NE & 33rd Ave NE - Stop #16015 (southbound)
-Johnson St NE & 31st Ave NE - Stop #16019 (southbound)
-Johnson St NE & 29th Ave NE - Stop #16023 (southbound)
-Johnson St NE & 27th Ave NE - Stop #42303 (southbound)
-Johnson St NE & Lowry Ave NE - Stop #16031 (southbound)
-Johnson St NE & 23rd Ave NE - Stop #16032 (southbound)
-Johnson St NE & 22nd Ave NE - Stop #16035 (southbound)
-Johnson St NE & 19th Ave NE - Stop #42306 (southbound)
-Johnson St NE & Quarry Center - Stop #42448 (southbound)
-Johnson St NE & 14th Ave NE - Stop #16041 (southbound)
-Johnson St NE & Broadway St NE - Stop #16044 (southbound)
-Johnson St NE & Shaw-Stewart Lumber - Stop #20046 (southbound)
-Johnson St NE & Hennepin Ave E - Stop #14937 (southbound)
-10th Ave SE & Hennepin Business Center - Stop #16045 (southbound)
-10th Ave SE & 8th St SE - Stop #16046 (southbound)
-8th St SE & 8th Ave SE - Stop #56700 (westbound)
-8th St SE & 5th Ave SE - Stop #16057 (westbound)
-Hennepin Ave E & 8th St SE - Stop #14947 (westbound)
-1st Ave NE & 6th St NE - Stop #15553 (westbound)
-1st Ave NE & 4th St NE - Stop #15559 (westbound)
-1st Ave & 2nd St NE Station - Stop #15562 (westbound)
-Hennepin Ave E & De LaSalle Dr - Stop #17916 (southbound)
-Hennepin Ave & 1st St N - Stop #17917 (southbound)
-1st St N & Hennepin Ave - Stop #17971 (eastbound)
-Hennepin & Gateway Station - Stop #17919 (southbound)
-```
-
-</details>
-
----
-
-### 🚨 Route 30: Service Canceled
-
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 56 PM
-departing Knox Ave N & Golden Valley Rd; 54 PM
-departing Knox Ave N & Golden Valley Rd
-
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 30 trip departing Westgate Station - Gate B at 1:04 PM and seven other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Knox Ave N & Golden Valley Rd at 1:56 PM
-departing Knox Ave N & Golden Valley Rd at 3:54 PM
-departing Knox Ave N & Golden Valley Rd at 5:56 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM
-
-Affected westbound trips:
-departing Westgate Station - Gate B at 1:04 PM
-departing Westgate Station - Gate B at 3:04 PM
-departing Westgate Station - Gate B at 5:04 PM
-departing Westgate Station - Gate B at 7:05 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 72: Service Canceled
-
-- **Affected Routes**: `Route 72`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Pascal St N & Central Ave W; 50 PM
-departing Pascal St N & Central Ave W; 53 PM
-departing Pascal St N & Central Ave W
-
-**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 4:48 PM and five other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/72)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 4:48 PM and five other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Pascal St N & Central Ave W at 5:50 PM
-departing Pascal St N & Central Ave W at 7:53 PM
-departing Pascal St N & Central Ave W at 9:53 PM
-
-Affected westbound trips:
-departing Sun Ray Transit Center & Gate D at 4:48 PM
-departing Sun Ray Transit Center & Gate D at 6:51 PM
-departing Sun Ray Transit Center & Gate D at 8:51 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 87: Southbound 8:23 PM Trip Canceled (Rosedale Transit Center Gate C)
-
-- **Affected Routes**: `Route 87`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound Route 87 trip departing Rosedale Transit Center Gate C at 8:23 PM canceled today due to disabled bus
-
-[Official Agency Advisory](https://www.metrotransit.org/route/87)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 87 trip departing Rosedale Transit Center Gate C at 8:23 PM canceled today due to disabled bus
-
-</details>
-
----
-
-### 🚨 Route 540: Service Canceled
-
-- **Affected Routes**: `Route 540`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Normandale Lake Blvd & 83rd St
-
-**Summary**: Route 540 trip departing MOA Transit Station Gate G at 5:55 PM and four other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/540)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 540 trip departing MOA Transit Station Gate G at 5:55 PM and four other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Normandale Lake Blvd & 83rd St / 84th St at 9:32 PM
-
-Affected westbound trips:
-departing MOA Transit Station Gate G at 5:55 PM
-departing MOA Transit Station Gate G at 7:26 PM
-departing MOA Transit Station Gate G at 8:57 PM
-departing MOA Transit Station Gate G at 10:27 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 542: Service Canceled
-
-- **Affected Routes**: `Route 542`
-- **Direction**: All
-- **Severity**: `Critical`
-
-**Summary**: Route 542 trips departing American Blvd & Social Security Admin at 6:28 PM and departing American Blvd & Social Security Admin at 7:58 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/542)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 542 trips departing American Blvd & Social Security Admin at 6:28 PM and departing American Blvd & Social Security Admin at 7:58 PM canceled today
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -347,11 +80,11 @@ Due to mechanical issues, both elevators at Franklin Ave Station are unavailable
 - **Affected Routes**: `Route 2`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Mar 23 at 5:00 AM until Fri Nov 20 at 4:00am
+- **Schedule**: Beginning Mon Mar 23 at 5:00 AM until further notice
 - **Corridors & Intersections**: Franklin Ave & Lyndale Ave; Lyndale Ave & 22nd St; 24th St & Pleasant Ave; 24th St & Nicollet Ave; 28th St & 1st Ave
-- **Closed Stops**: Franklin Ave W & Pleasant Ave (Stop #13330), Franklin Ave E & Nicollet Ave (Stop #56697), Franklin Ave E & 3rd Ave S (Stop #13320), Franklin Ave E & Portland Ave (Stop #13316), Franklin Ave E & Chicago Ave (Stop #13312), Franklin Ave E & Chicago Ave (Stop #56698), Franklin Ave E & Portland Ave (Stop #13315), Franklin Ave E & Clinton Ave S (Stop #13318) *(+26 more)*
+- **Closed Stops**: Franklin Ave W & Pleasant Ave (Stop #13330), Franklin Ave E & Nicollet Ave (Stop #56697), Franklin Ave E & 3rd Ave S (Stop #13320), Franklin Ave E & Portland Ave (Stop #13316), Franklin Ave E & Chicago Ave (Stop #13312), Franklin Ave E & Chicago Ave (Stop #56698), Franklin Ave E & Portland Ave (Stop #13315), Franklin Ave E & Clinton Ave S (Stop #13318) *(+35 more)*
 
-**Summary**: Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until Fri Nov 20 at 4:00am due to construction. Temporary stop at 24th St just past Lyndale Ave (eastbound).
+**Summary**: Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction. Temporary stop at 24th St just past Lyndale Ave (eastbound).
 
 > 💡 **Rider Action**: Temporary stop at 24th St just past Lyndale Ave (eastbound)
 
@@ -362,10 +95,10 @@ Due to mechanical issues, both elevators at Franklin Ave Station are unavailable
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until Fri Nov 20 at 4:00am due to construction
+**Header**: Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction
 
 ```text
-Update 11/16/26 11:45am: Franklin reopens on Nov 20th, buses will return to regular route.
+Update 3/24 at 6pm: additional get on/off stops
 
 For eastbound buses get on/off at:
 Franklin Ave & Lyndale Ave - Stop #13334 (eastbound)
@@ -373,7 +106,6 @@ Lyndale Ave & 22nd St - Stop #103 (southbound)
 Temporary stop on 24th St just past Lyndale Ave (eastbound)
 24th St & Pleasant Ave - Stop #40342 (eastbound)
 24th St & Nicollet Ave - Stop #40340 (eastbound)
-Temporary stop on Nicollet Ave just before 26th St (southbound)
 Temporary stop on 28th St & 1st Ave (eastbound)
 28th St & Stevens Ave - Stop #17713 (eastbound)
 28th St & 4th Ave - Stop #14331 (eastbound)
@@ -382,14 +114,18 @@ Temporary stop on 28th St & 1st Ave (eastbound)
 28th St & Chicago Ave - Stop #52158 (eastbound)
 Chicago Ave & 27th St - Stop #806 (northbound)
 Chicago & 26th St Station - Stop #56926 (northbound)
+Chicago Ave & 25th St - Stop #808 (northbound)
 Chicago & 24th St Station - Stop #56927 (northbound)
+Chicago Ave & 22nd St - Stop #810 (northbound)
 Temporary stop on Chicago Ave just before Franklin Ave (northbound)
 Franklin Ave & 10th Ave - Stop #13310 (eastbound)
 
 For westbound buses get on/off at:
 Franklin Ave & 10th Ave - Stop #13309 (westbound)
 Chicago & Franklin Station - Stop #56910 (southbound)
+Chicago Ave & 22nd St - Stop #43 (southbound)
 Chicago & 24th St Station - Stop #56911 (southbound)
+Chicago & 25th St - Stop #45 (southbound)
 26th St & Chicago Ave - Stop #50164 (westbound)
 26th St & Park Ave - Stop #52241 (westbound)
 26th St & 5th Ave - Stop #52242 (westbound)
@@ -397,6 +133,7 @@ Chicago & 24th St Station - Stop #56911 (southbound)
 26th St & 3rd Ave - Stop #17761 (westbound)
 Temporary stop on 26th St & 1st Ave (westbound)
 Temporary stop on 26th St & Nicollet Ave (westbound)
+Temporary stop on 24th St just past Nicollet Ave (westbound)
 24th St & Pleasant Ave - Stop #4663 (westbound)
 24th St & Lyndale Ave - Stop #4667 (westbound)
 Lyndale Ave & 22nd St - Stop #20031 (northbound)
@@ -636,55 +373,6 @@ Cedar Lake Rd & Rhode Island Ave S - Stop #80936 (westbound)
 
 ---
 
-### ⚠️ Route 9: Detour via Portland Ave S & 18th St E
-
-- **Affected Routes**: `Route 9`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Mar 23 at 5:00 AM until Fri Nov 20 at 4:00am
-- **Corridors & Intersections**: Portland Ave S & 18th St E; Franklin Ave E & 10th Ave S; Franklin Ave E & Chicago Ave; Park Ave S & 16th St E; Franklin Ave E & Portland Ave
-- **Closed Stops**: Franklin Ave E & Portland Ave (Stop #13316), Franklin Ave E & Chicago Ave (Stop #13312), Park Ave S & 18th St E (Stop #15343), Stop #15348, Stop #13310, Stop #56698, Stop #15344
-
-**Summary**: Route 9 detoured off Franklin Ave from Portland Ave to Chicago Ave and off Park Ave from 17th St to Franklin Ave beginning Mon Mar 23 at 5:00 AM until Fri Nov 20 at 4:00am due to construction. Board at: Portland Ave S & 18th St E - Stop #15348 (southbound); Temporary stop on Portland Ave just before Franklin Ave (southbound); Temporary stop on Chicago Ave just before Franklin Ave (northbound).
-
-> 💡 **Rider Action**: Board at: Portland Ave S & 18th St E - Stop #15348 (southbound); Temporary stop on Portland Ave just before Franklin Ave (southbound); Temporary stop on Chicago Ave just before Franklin Ave (northbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on Portland Ave to Franklin Ave, continue on Portland to 24th St, left on 24th St, left on Chicago Ave, right on Franklin Ave, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/9)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 9 detoured off Franklin Ave from Portland Ave to Chicago Ave and off Park Ave from 17th St to Franklin Ave beginning Mon Mar 23 at 5:00 AM until Fri Nov 20 at 4:00am due to construction
-
-```text
-Update 11/16 at 11:50am: Franklin Ave reopens on Nov 20th, buses will return to regular routing.
-
-For eastbound Route 9 get on/off buses at:
-Portland Ave S & 18th St E - Stop #15348 (southbound)
-Temporary stop on Portland Ave just before Franklin Ave (southbound)
-Temporary stop on Chicago Ave just before Franklin Ave (northbound)
-Franklin Ave E & 10th Ave S - Stop #13310 (eastbound)
-
-For westbound Route 9 get on/off buses at:
-Franklin Ave E & Chicago Ave - Stop #56698 (westbound)
-Park Ave S & 16th St E - Stop #15344 (northbound)
-
-Eastbound buses will travel regular route on Portland Ave to Franklin Ave, continue on Portland to 24th St, left on 24th St, left on Chicago Ave, right on Franklin Ave, and resume regular route.
-
-Westbound buses will travel regular route on Franklin Ave to Chicago Ave, right on Chicago, left on 17th St, right on Park Ave, and resume regular route.
-
-Affected stops:
-Franklin Ave E & Portland Ave - Stop #13316 (eastbound)
-Franklin Ave E & Chicago Ave - Stop #13312 (eastbound)
-Park Ave S & 18th St E - Stop #15343 (northbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 9: Detour via 46th St (Hiawatha Ave to 36th Ave S)
 
 - **Affected Routes**: `Route 9`
@@ -710,6 +398,55 @@ No stops missed.
 Eastbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.
 
 Westbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.
+```
+
+</details>
+
+---
+
+### ⚠️ Route 9: Detour via Portland Ave S & 18th St E
+
+- **Affected Routes**: `Route 9`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Mon Mar 23 at 5:00 AM until further notice
+- **Corridors & Intersections**: Portland Ave S & 18th St E; Franklin Ave E & 10th Ave S; Franklin Ave E & Chicago Ave; Park Ave S & 16th St E; Franklin Ave E & Portland Ave
+- **Closed Stops**: Franklin Ave E & Portland Ave (Stop #13316), Franklin Ave E & Chicago Ave (Stop #13312), Park Ave S & 18th St E (Stop #15343), Stop #15348, Stop #13310, Stop #56698, Stop #15344, Stop #80925 *(+1 more)*
+
+**Summary**: Route 9 detoured off Franklin Ave from Portland Ave to Chicago Ave and off Park Ave from 17th St to Franklin Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction. Board at: Portland Ave S & 18th St E - Stop #15348 (southbound); Temporary stop on Portland Ave just before Franklin Ave (southbound); Temporary stop on Chicago Ave just before Franklin Ave (northbound).
+
+> 💡 **Rider Action**: Board at: Portland Ave S & 18th St E - Stop #15348 (southbound); Temporary stop on Portland Ave just before Franklin Ave (southbound); Temporary stop on Chicago Ave just before Franklin Ave (northbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on Portland Ave to Franklin Ave, continue on Portland to 24th St, left on 24th St, left on Chicago Ave, right on Franklin Ave, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/9)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 9 detoured off Franklin Ave from Portland Ave to Chicago Ave and off Park Ave from 17th St to Franklin Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction
+
+```text
+Update 3/24 4pm: get on/off eastbound stops
+
+For eastbound Route 9 get on/off buses at:
+Portland Ave S & 18th St E - Stop #15348 (southbound)
+Temporary stop on Portland Ave just before Franklin Ave (southbound)
+Temporary stop on Chicago Ave just before Franklin Ave (northbound)
+Franklin Ave E & 10th Ave S - Stop #13310 (eastbound)
+
+For westbound Route 9 get on/off buses at:
+Franklin Ave E & Chicago Ave - Stop #56698 (westbound)
+Park Ave S & 16th St E - Stop #15344 (northbound)
+
+Eastbound buses will travel regular route on Portland Ave to Franklin Ave, continue on Portland to 24th St, left on 24th St, left on Chicago Ave, right on Franklin Ave, and resume regular route.
+
+Westbound buses will travel regular route on Franklin Ave to Chicago Ave, right on Chicago, left on 17th St, right on Park Ave, and resume regular route.
+
+Affected stops:
+Franklin Ave E & Portland Ave - Stop #13316 (eastbound)
+Franklin Ave E & Chicago Ave - Stop #13312 (eastbound)
+Park Ave S & 18th St E - Stop #15343 (northbound)
 ```
 
 </details>
