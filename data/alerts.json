@@ -1,16 +1,1000 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-20T11:21:22.200Z",
-    "totalAlerts": 62,
-    "criticalCount": 0,
-    "moderateCount": 57,
-    "minorCount": 5,
-    "affectedRoutesCount": 55,
+    "generatedAt": "2026-11-20T19:56:36.796Z",
+    "totalAlerts": 73,
+    "criticalCount": 8,
+    "moderateCount": 59,
+    "minorCount": 6,
+    "affectedRoutesCount": 59,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
+    {
+      "id": "55470",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 18: 11:49 AM Trip Canceled (104th St W & Bloomington Fwy W)",
+      "summary": "Route 18 trip departing 104th St W & Bloomington Fwy W at 11:49 AM canceled today",
+      "affectedRoutes": [
+        "Route 18"
+      ],
+      "direction": "All",
+      "intersections": [],
+      "closedStopIds": [
+        "17988",
+        "17990",
+        "17992",
+        "17994",
+        "17996",
+        "17998",
+        "1890",
+        "1900",
+        "1905",
+        "1911",
+        "1914",
+        "1920",
+        "52309",
+        "19317",
+        "1889",
+        "56800",
+        "56867",
+        "56868",
+        "56869",
+        "57127",
+        "57128",
+        "57129",
+        "57130",
+        "81077",
+        "81114",
+        "42099",
+        "42211",
+        "42514",
+        "42515",
+        "42516",
+        "43614",
+        "43616",
+        "48129",
+        "444",
+        "449",
+        "52934",
+        "51842",
+        "51854",
+        "19294",
+        "3386",
+        "1867",
+        "1868",
+        "1866",
+        "1339",
+        "1341",
+        "1342",
+        "1344",
+        "1345",
+        "1346",
+        "1347",
+        "1348",
+        "135",
+        "1350",
+        "1351",
+        "1352",
+        "136",
+        "1361",
+        "1364",
+        "1365",
+        "1366",
+        "1367",
+        "1368",
+        "1369",
+        "1370",
+        "1372",
+        "1373",
+        "1374",
+        "1375",
+        "1376",
+        "1377",
+        "1379",
+        "1391",
+        "1393",
+        "1206",
+        "1208",
+        "1212",
+        "1214",
+        "1216",
+        "1217",
+        "1219",
+        "1221",
+        "1223",
+        "1224",
+        "1225",
+        "1227",
+        "1229",
+        "1230",
+        "1231",
+        "1197",
+        "1199",
+        "1200",
+        "1202",
+        "1204",
+        "14850",
+        "17976",
+        "17978",
+        "17980",
+        "17982",
+        "17984",
+        "17986"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "17988"
+        },
+        {
+          "id": "17990"
+        },
+        {
+          "id": "17992"
+        },
+        {
+          "id": "17994"
+        },
+        {
+          "id": "17996"
+        },
+        {
+          "id": "17998"
+        },
+        {
+          "id": "1890"
+        },
+        {
+          "id": "1900"
+        },
+        {
+          "id": "1905"
+        },
+        {
+          "id": "1911"
+        },
+        {
+          "id": "1914"
+        },
+        {
+          "id": "1920"
+        },
+        {
+          "id": "52309"
+        },
+        {
+          "id": "19317"
+        },
+        {
+          "id": "1889"
+        },
+        {
+          "id": "56800"
+        },
+        {
+          "id": "56867"
+        },
+        {
+          "id": "56868"
+        },
+        {
+          "id": "56869"
+        },
+        {
+          "id": "57127"
+        },
+        {
+          "id": "57128"
+        },
+        {
+          "id": "57129"
+        },
+        {
+          "id": "57130"
+        },
+        {
+          "id": "81077"
+        },
+        {
+          "id": "81114"
+        },
+        {
+          "id": "42099"
+        },
+        {
+          "id": "42211"
+        },
+        {
+          "id": "42514"
+        },
+        {
+          "id": "42515"
+        },
+        {
+          "id": "42516"
+        },
+        {
+          "id": "43614"
+        },
+        {
+          "id": "43616"
+        },
+        {
+          "id": "48129"
+        },
+        {
+          "id": "444"
+        },
+        {
+          "id": "449"
+        },
+        {
+          "id": "52934"
+        },
+        {
+          "id": "51842"
+        },
+        {
+          "id": "51854"
+        },
+        {
+          "id": "19294"
+        },
+        {
+          "id": "3386"
+        },
+        {
+          "id": "1867"
+        },
+        {
+          "id": "1868"
+        },
+        {
+          "id": "1866"
+        },
+        {
+          "id": "1339"
+        },
+        {
+          "id": "1341"
+        },
+        {
+          "id": "1342"
+        },
+        {
+          "id": "1344"
+        },
+        {
+          "id": "1345"
+        },
+        {
+          "id": "1346"
+        },
+        {
+          "id": "1347"
+        },
+        {
+          "id": "1348"
+        },
+        {
+          "id": "135"
+        },
+        {
+          "id": "1350"
+        },
+        {
+          "id": "1351"
+        },
+        {
+          "id": "1352"
+        },
+        {
+          "id": "136"
+        },
+        {
+          "id": "1361"
+        },
+        {
+          "id": "1364"
+        },
+        {
+          "id": "1365"
+        },
+        {
+          "id": "1366"
+        },
+        {
+          "id": "1367"
+        },
+        {
+          "id": "1368"
+        },
+        {
+          "id": "1369"
+        },
+        {
+          "id": "1370"
+        },
+        {
+          "id": "1372"
+        },
+        {
+          "id": "1373"
+        },
+        {
+          "id": "1374"
+        },
+        {
+          "id": "1375"
+        },
+        {
+          "id": "1376"
+        },
+        {
+          "id": "1377"
+        },
+        {
+          "id": "1379"
+        },
+        {
+          "id": "1391"
+        },
+        {
+          "id": "1393"
+        },
+        {
+          "id": "1206"
+        },
+        {
+          "id": "1208"
+        },
+        {
+          "id": "1212"
+        },
+        {
+          "id": "1214"
+        },
+        {
+          "id": "1216"
+        },
+        {
+          "id": "1217"
+        },
+        {
+          "id": "1219"
+        },
+        {
+          "id": "1221"
+        },
+        {
+          "id": "1223"
+        },
+        {
+          "id": "1224"
+        },
+        {
+          "id": "1225"
+        },
+        {
+          "id": "1227"
+        },
+        {
+          "id": "1229"
+        },
+        {
+          "id": "1230"
+        },
+        {
+          "id": "1231"
+        },
+        {
+          "id": "1197"
+        },
+        {
+          "id": "1199"
+        },
+        {
+          "id": "1200"
+        },
+        {
+          "id": "1202"
+        },
+        {
+          "id": "1204"
+        },
+        {
+          "id": "14850"
+        },
+        {
+          "id": "17976"
+        },
+        {
+          "id": "17978"
+        },
+        {
+          "id": "17980"
+        },
+        {
+          "id": "17982"
+        },
+        {
+          "id": "17984"
+        },
+        {
+          "id": "17986"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-20T18:52:00.000Z",
+        "end": "2026-11-20T20:03:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/18",
+      "updatedAt": "2026-11-20T18:52:42.000Z",
+      "rawHeader": "Route 18 trip departing 104th St W & Bloomington Fwy W at 11:49 AM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "55473",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 25: Northbound 12:36 PM Trip Canceled (Leamington Ramp & Lower - Gate #7)",
+      "summary": "Northbound Route 25 trip departing Leamington Ramp & Lower - Gate #7 at 12:36 PM canceled today due to mechanical issue",
+      "affectedRoutes": [
+        "Route 25"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [
+        "10938",
+        "10940",
+        "13923",
+        "13932",
+        "13940",
+        "13944",
+        "13951",
+        "13957",
+        "13961",
+        "13965",
+        "13970",
+        "13974",
+        "13978",
+        "13982",
+        "13986",
+        "14053",
+        "14078",
+        "14082",
+        "14086",
+        "14087",
+        "14090",
+        "14095",
+        "14099",
+        "14102",
+        "42559",
+        "43298",
+        "42398",
+        "42399",
+        "42400",
+        "40135",
+        "42396",
+        "14050",
+        "13989",
+        "13990",
+        "14045",
+        "14046",
+        "40213",
+        "57236",
+        "57166",
+        "57220",
+        "57221",
+        "57222",
+        "57223",
+        "57224",
+        "57225",
+        "57226",
+        "57227",
+        "57120",
+        "48939",
+        "49090",
+        "56057"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "10938"
+        },
+        {
+          "id": "10940"
+        },
+        {
+          "id": "13923"
+        },
+        {
+          "id": "13932"
+        },
+        {
+          "id": "13940"
+        },
+        {
+          "id": "13944"
+        },
+        {
+          "id": "13951"
+        },
+        {
+          "id": "13957"
+        },
+        {
+          "id": "13961"
+        },
+        {
+          "id": "13965"
+        },
+        {
+          "id": "13970"
+        },
+        {
+          "id": "13974"
+        },
+        {
+          "id": "13978"
+        },
+        {
+          "id": "13982"
+        },
+        {
+          "id": "13986"
+        },
+        {
+          "id": "14053"
+        },
+        {
+          "id": "14078"
+        },
+        {
+          "id": "14082"
+        },
+        {
+          "id": "14086"
+        },
+        {
+          "id": "14087"
+        },
+        {
+          "id": "14090"
+        },
+        {
+          "id": "14095"
+        },
+        {
+          "id": "14099"
+        },
+        {
+          "id": "14102"
+        },
+        {
+          "id": "42559"
+        },
+        {
+          "id": "43298"
+        },
+        {
+          "id": "42398"
+        },
+        {
+          "id": "42399"
+        },
+        {
+          "id": "42400"
+        },
+        {
+          "id": "40135"
+        },
+        {
+          "id": "42396"
+        },
+        {
+          "id": "14050"
+        },
+        {
+          "id": "13989"
+        },
+        {
+          "id": "13990"
+        },
+        {
+          "id": "14045"
+        },
+        {
+          "id": "14046"
+        },
+        {
+          "id": "40213"
+        },
+        {
+          "id": "57236"
+        },
+        {
+          "id": "57166"
+        },
+        {
+          "id": "57220"
+        },
+        {
+          "id": "57221"
+        },
+        {
+          "id": "57222"
+        },
+        {
+          "id": "57223"
+        },
+        {
+          "id": "57224"
+        },
+        {
+          "id": "57225"
+        },
+        {
+          "id": "57226"
+        },
+        {
+          "id": "57227"
+        },
+        {
+          "id": "57120"
+        },
+        {
+          "id": "48939"
+        },
+        {
+          "id": "49090"
+        },
+        {
+          "id": "56057"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-20T19:40:00.000Z",
+        "end": "2026-11-20T21:06:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/25",
+      "updatedAt": "2026-11-20T19:41:35.000Z",
+      "rawHeader": "Northbound Route 25 trip departing Leamington Ramp & Lower - Gate #7 at 12:36 PM canceled today due to mechanical issue",
+      "rawDescription": ""
+    },
+    {
+      "id": "55474",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 25: Service Advisory",
+      "summary": "Southbound Route 25 trip departing Foley Blvd Park & Ride at 2:28 PM will start from County Rd H2 & Silver Lake Rd. Previous stops missed due to mechanical issues",
+      "affectedRoutes": [
+        "Route 25"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [
+        "10941",
+        "13987",
+        "13988",
+        "13983",
+        "13979",
+        "13975",
+        "13971",
+        "13968",
+        "13964",
+        "13960",
+        "13954",
+        "13945",
+        "13941",
+        "13933",
+        "56056",
+        "42560",
+        "40480",
+        "40650",
+        "42397",
+        "42393",
+        "42394",
+        "42395",
+        "40107",
+        "40212",
+        "40213",
+        "14051",
+        "14052",
+        "14047",
+        "57119",
+        "49272",
+        "57228",
+        "57229",
+        "57230",
+        "57231",
+        "57232",
+        "57233",
+        "57234",
+        "57166",
+        "49520",
+        "57219"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "10941"
+        },
+        {
+          "id": "13987"
+        },
+        {
+          "id": "13988"
+        },
+        {
+          "id": "13983"
+        },
+        {
+          "id": "13979"
+        },
+        {
+          "id": "13975"
+        },
+        {
+          "id": "13971"
+        },
+        {
+          "id": "13968"
+        },
+        {
+          "id": "13964"
+        },
+        {
+          "id": "13960"
+        },
+        {
+          "id": "13954"
+        },
+        {
+          "id": "13945"
+        },
+        {
+          "id": "13941"
+        },
+        {
+          "id": "13933"
+        },
+        {
+          "id": "56056"
+        },
+        {
+          "id": "42560"
+        },
+        {
+          "id": "40480"
+        },
+        {
+          "id": "40650"
+        },
+        {
+          "id": "42397"
+        },
+        {
+          "id": "42393"
+        },
+        {
+          "id": "42394"
+        },
+        {
+          "id": "42395"
+        },
+        {
+          "id": "40107"
+        },
+        {
+          "id": "40212"
+        },
+        {
+          "id": "40213"
+        },
+        {
+          "id": "14051"
+        },
+        {
+          "id": "14052"
+        },
+        {
+          "id": "14047"
+        },
+        {
+          "id": "57119"
+        },
+        {
+          "id": "49272"
+        },
+        {
+          "id": "57228"
+        },
+        {
+          "id": "57229"
+        },
+        {
+          "id": "57230"
+        },
+        {
+          "id": "57231"
+        },
+        {
+          "id": "57232"
+        },
+        {
+          "id": "57233"
+        },
+        {
+          "id": "57234"
+        },
+        {
+          "id": "57166"
+        },
+        {
+          "id": "49520"
+        },
+        {
+          "id": "57219"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-20T20:28:00.000Z",
+        "end": "2026-11-20T23:02:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/25",
+      "updatedAt": "2026-11-20T19:43:05.000Z",
+      "rawHeader": "Southbound Route 25 trip departing Foley Blvd Park & Ride at 2:28 PM will start from County Rd H2 & Silver Lake Rd. Previous stops missed due to mechanical issues",
+      "rawDescription": ""
+    },
+    {
+      "id": "55466",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 71: Service Canceled",
+      "summary": "Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today",
+      "affectedRoutes": [
+        "Route 71"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-20T19:38:00.000Z",
+        "end": "2026-11-21T01:45:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/71",
+      "updatedAt": "2026-11-20T19:08:01.000Z",
+      "rawHeader": "Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 1:38 PM\r\ndeparting Inver Hills College & Shelter at 4:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 3:10 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 6:15 PM"
+    },
+    {
+      "id": "55479",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 72: Westbound 4:18 PM Trip Canceled (Sun Ray Transit Center & Gate D)",
+      "summary": "Westbound Route 72 trip departing Sun Ray Transit Center & Gate D at 4:18 PM canceled today",
+      "affectedRoutes": [
+        "Route 72"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-20T22:18:00.000Z",
+        "end": "2026-11-21T00:07:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/72",
+      "updatedAt": "2026-11-20T19:54:38.000Z",
+      "rawHeader": "Westbound Route 72 trip departing Sun Ray Transit Center & Gate D at 4:18 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "55472",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 83: 1:01 PM Trip Canceled (Montreal Cir & Summit Brewing)",
+      "summary": "Route 83 trip departing Montreal Cir & Summit Brewing at 1:01 PM canceled today due to maintenance work",
+      "affectedRoutes": [
+        "Route 83"
+      ],
+      "direction": "All",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-20T19:06:00.000Z",
+        "end": "2026-11-20T20:36:00.000Z"
+      },
+      "cause": "MAINTENANCE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/83",
+      "updatedAt": "2026-11-20T19:06:30.000Z",
+      "rawHeader": "Route 83 trip departing Montreal Cir & Summit Brewing at 1:01 PM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "55468",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 802: Service Canceled",
+      "summary": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today",
+      "affectedRoutes": [
+        "Route 802"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-20T18:48:00.000Z",
+        "end": "2026-11-21T01:14:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/802",
+      "updatedAt": "2026-11-20T18:49:07.000Z",
+      "rawHeader": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 11:34 AM\r\ndeparting Northtown Transit Ctr Gate E at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 12:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 2:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 4:42 PM"
+    },
+    {
+      "id": "55471",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 805: Service Canceled",
+      "summary": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today",
+      "affectedRoutes": [
+        "Route 805"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Route 805 trip departing 1st Ave S & Monroe St",
+        "departing 1st Ave S & Monroe St",
+        "38 AM\ndeparting 1st Ave S & Monroe St",
+        "38 PM\ndeparting 1st Ave S & Monroe St",
+        "36 PM\ndeparting 1st Ave S & Monroe St"
+      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-20T18:53:00.000Z",
+        "end": "2026-11-21T01:24:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/805",
+      "updatedAt": "2026-11-20T18:54:01.000Z",
+      "rawHeader": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 11:38 AM\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
+    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -75,7 +1059,7 @@
       "rawDescription": "Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station."
     },
     {
-      "id": "55454",
+      "id": "55463",
       "agency": "Metro Transit",
       "severity": "Moderate",
       "title": "Route 2: Detour via Franklin Ave & Lyndale Ave",
@@ -126,15 +1110,15 @@
         "4667",
         "20031",
         "13335",
-        "80927",
-        "80925",
-        "81077",
         "103",
-        "806",
+        "80925",
+        "80927",
         "80802",
-        "80928",
+        "806",
+        "81077",
         "80923",
-        "80924"
+        "80924",
+        "80928"
       ],
       "closedStopDetails": [
         {
@@ -262,44 +1246,44 @@
           "id": "13335"
         },
         {
-          "id": "80927"
+          "id": "103"
         },
         {
           "id": "80925"
         },
         {
-          "id": "81077"
-        },
-        {
-          "id": "103"
-        },
-        {
-          "id": "806"
+          "id": "80927"
         },
         {
           "id": "80802"
         },
         {
-          "id": "80928"
+          "id": "806"
+        },
+        {
+          "id": "81077"
         },
         {
           "id": "80923"
         },
         {
           "id": "80924"
+        },
+        {
+          "id": "80928"
         }
       ],
       "riderAlternative": "Temporary stop at 24th St just past Lyndale Ave (eastbound)",
       "detourDetails": "Eastbound buses will travel regular route on Franklin to Lyndale, right on Lyndale, left on 24th St, right on Nicollet, left on 28th St, left on Chicago, right on Franklin, and resume regular route.",
       "activePeriod": {
-        "start": "2026-11-20T11:06:00.000Z",
-        "end": "2026-11-20T13:20:18.000Z",
+        "start": "2026-11-20T17:37:00.000Z",
+        "end": "2026-11-21T08:30:00.000Z",
         "textDescription": "Beginning Mon Mar 23 at 5:00 AM until further notice"
       },
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-11-20T11:06:11.000Z",
+      "updatedAt": "2026-11-20T18:22:44.000Z",
       "rawHeader": "Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction",
       "rawDescription": "Update 3/24 at 6pm: additional get on/off stops\r\n\nFor eastbound buses get on/off at:\r\nFranklin Ave & Lyndale Ave - Stop #13334 (eastbound)\r\nLyndale Ave & 22nd St - Stop #103 (southbound)\r\nTemporary stop on 24th St just past Lyndale Ave (eastbound)\r\n24th St & Pleasant Ave - Stop #40342 (eastbound)\r\n24th St & Nicollet Ave - Stop #40340 (eastbound)\r\nTemporary stop on 28th St & 1st Ave (eastbound)\r\n28th St & Stevens Ave - Stop #17713 (eastbound)\r\n28th St & 4th Ave - Stop #14331 (eastbound)\r\n28th St & Portland Ave - Stop #52239 (eastbound)\r\n28th St & Park Ave - Stop #52240 (eastbound)\r\n28th St & Chicago Ave - Stop #52158 (eastbound)\r\nChicago Ave & 27th St - Stop #806 (northbound)\r\nChicago & 26th St Station - Stop #56926 (northbound)\r\nChicago Ave & 25th St - Stop #808 (northbound)\r\nChicago & 24th St Station - Stop #56927 (northbound)\r\nChicago Ave & 22nd St - Stop #810 (northbound)\r\nTemporary stop on Chicago Ave just before Franklin Ave (northbound)\r\nFranklin Ave & 10th Ave - Stop #13310 (eastbound)\r\n\nFor westbound buses get on/off at:\r\nFranklin Ave & 10th Ave - Stop #13309 (westbound)\r\nChicago & Franklin Station - Stop #56910 (southbound)\r\nChicago Ave & 22nd St - Stop #43 (southbound)\r\nChicago & 24th St Station - Stop #56911 (southbound)\r\nChicago & 25th St - Stop #45 (southbound)\r\n26th St & Chicago Ave - Stop #50164 (westbound)\r\n26th St & Park Ave - Stop #52241 (westbound)\r\n26th St & 5th Ave - Stop #52242 (westbound)\r\n26th St & Clinton Ave - Stop #17760 (westbound)\r\n26th St & 3rd Ave - Stop #17761 (westbound)\r\nTemporary stop on 26th St & 1st Ave (westbound)\r\nTemporary stop on 26th St & Nicollet Ave (westbound)\r\nTemporary stop on 24th St just past Nicollet Ave (westbound)\r\n24th St & Pleasant Ave - Stop #4663 (westbound)\r\n24th St & Lyndale Ave - Stop #4667 (westbound)\r\nLyndale Ave & 22nd St - Stop #20031 (northbound)\r\nFranklin Ave & Lyndale Ave - Stop #13335 (westbound)\r\n\nEastbound buses will travel regular route on Franklin to Lyndale, right on Lyndale, left on 24th St, right on Nicollet, left on 28th St, left on Chicago, right on Franklin, and resume regular route.\r\n\nWestbound buses will travel regular route on Franklin to Chicago, left on Chicago, right on 26th St, right on Nicollet, left on 24th St, right on Lyndale, left on Franklin, and resume regular route.\r\n\nAffected stops:\r\nFranklin Ave W & Pleasant Ave - Stop #13330 (EB)\r\nFranklin Ave E & Nicollet Ave - Stop #56697 (EB)\r\nFranklin Ave E & 3rd Ave S - Stop #13320 (EB)\r\nFranklin Ave E & Portland Ave - Stop #13316 (EB)\r\nFranklin Ave E & Chicago Ave - Stop #13312 (EB)\r\nFranklin Ave E & Chicago Ave - Stop #56698 (WB)\r\nFranklin Ave E & Portland Ave - Stop #13315 (WB)\r\nFranklin Ave E & Clinton Ave S - Stop #13318 (WB)\r\nFranklin Ave E & 3rd Ave S - Stop #13319 (WB)\r\nFranklin Ave W & Nicollet Ave S - Stop #13324 (WB)\r\nFranklin Ave W & Pleasant Ave S - Stop #13328 (WB)"
     },
@@ -680,83 +1664,6 @@
       "updatedAt": "2026-09-28T08:00:01.000Z",
       "rawHeader": "Route 9 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
       "rawDescription": "No stops missed.\r\n\nEastbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.\r\n\nWestbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route."
-    },
-    {
-      "id": "55455",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 9: Detour via Portland Ave S & 18th St E",
-      "summary": "Route 9 detoured off Franklin Ave from Portland Ave to Chicago Ave and off Park Ave from 17th St to Franklin Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction. Board at: Portland Ave S & 18th St E - Stop #15348 (southbound); Temporary stop on Portland Ave just before Franklin Ave (southbound); Temporary stop on Chicago Ave just before Franklin Ave (northbound).",
-      "affectedRoutes": [
-        "Route 9"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Portland Ave S & 18th St E",
-        "Franklin Ave E & 10th Ave S",
-        "Franklin Ave E & Chicago Ave",
-        "Park Ave S & 16th St E",
-        "Franklin Ave E & Portland Ave"
-      ],
-      "closedStopIds": [
-        "13316",
-        "13312",
-        "15343",
-        "15348",
-        "13310",
-        "56698",
-        "15344",
-        "80925",
-        "80926"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "13316",
-          "name": "Franklin Ave E & Portland Ave",
-          "direction": "eastbound"
-        },
-        {
-          "id": "13312",
-          "name": "Franklin Ave E & Chicago Ave",
-          "direction": "eastbound"
-        },
-        {
-          "id": "15343",
-          "name": "Park Ave S & 18th St E",
-          "direction": "northbound"
-        },
-        {
-          "id": "15348"
-        },
-        {
-          "id": "13310"
-        },
-        {
-          "id": "56698"
-        },
-        {
-          "id": "15344"
-        },
-        {
-          "id": "80925"
-        },
-        {
-          "id": "80926"
-        }
-      ],
-      "riderAlternative": "Board at: Portland Ave S & 18th St E - Stop #15348 (southbound); Temporary stop on Portland Ave just before Franklin Ave (southbound); Temporary stop on Chicago Ave just before Franklin Ave (northbound)",
-      "detourDetails": "Eastbound buses will travel regular route on Portland Ave to Franklin Ave, continue on Portland to 24th St, left on 24th St, left on Chicago Ave, right on Franklin Ave, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-11-20T11:12:00.000Z",
-        "end": "2026-11-20T13:20:18.000Z",
-        "textDescription": "Beginning Mon Mar 23 at 5:00 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/9",
-      "updatedAt": "2026-11-20T11:12:48.000Z",
-      "rawHeader": "Route 9 detoured off Franklin Ave from Portland Ave to Chicago Ave and off Park Ave from 17th St to Franklin Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction",
-      "rawDescription": "Update 3/24 4pm: get on/off eastbound stops\r\n\nFor eastbound Route 9 get on/off buses at:\r\nPortland Ave S & 18th St E - Stop #15348 (southbound)\r\nTemporary stop on Portland Ave just before Franklin Ave (southbound)\r\nTemporary stop on Chicago Ave just before Franklin Ave (northbound)\r\nFranklin Ave E & 10th Ave S - Stop #13310 (eastbound)\r\n\nFor westbound Route 9 get on/off buses at:\r\nFranklin Ave E & Chicago Ave - Stop #56698 (westbound)\r\nPark Ave S & 16th St E - Stop #15344 (northbound)\r\n\nEastbound buses will travel regular route on Portland Ave to Franklin Ave, continue on Portland to 24th St, left on 24th St, left on Chicago Ave, right on Franklin Ave, and resume regular route.\r\n\nWestbound buses will travel regular route on Franklin Ave to Chicago Ave, right on Chicago, left on 17th St, right on Park Ave, and resume regular route.\r\n\nAffected stops:\r\nFranklin Ave E & Portland Ave - Stop #13316 (eastbound)\r\nFranklin Ave E & Chicago Ave - Stop #13312 (eastbound)\r\nPark Ave S & 18th St E - Stop #15343 (northbound)"
     },
     {
       "id": "55139",
@@ -1242,6 +2149,68 @@
       "updatedAt": "2026-11-19T20:04:21.000Z",
       "rawHeader": "Route 18 returns to Nicollet Ave between Lake St and Cecil Newman Lane on Tue Nov 24 at 11:00 AM",
       "rawDescription": "For northbound Route 18 get on/off buses at:\r\nNicollet Ave S & 31st St E - Stop #1887 (northbound)\r\nNicollet Ave S & Lake St E - Stop #52937 (northbound)\r\nNicollet Ave S & 28th St E - Stop #1890 (northbound)\r\n\nFor southbound Route 18 get on/off buses at:\r\nNicollet Ave S & 28th St W - Stop #1208 (southbound)\r\nNicollet Ave S & Lake St W - Stop #52934 (southbound)\r\nNicollet Ave S & 32nd St W - Stop #1212 (southbound)\r\n\nNorthbound buses will travel on Nicollet Ave to 31st St, continue on Nicollet Ave to Cecil Newman and resume regular route.\r\n\nSouthbound buses will travel on Nicollet Ave to 29th St, continue on Nicollet Ave to 31st St and resume regular route.\r\n\nAffected stops:\r\n1st Ave S & 31st St / Lake St E - Stop #1888 (northbound)\r\n1st Ave S & Lake St - Stop #1889 (northbound)\r\nBlaisdell Ave S & Lake St - Stop #14850 (southbound)\r\n31st St W & Blaisdell / Nicollet - Stop #42211 (eastbound)"
+    },
+    {
+      "id": "55459",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 22: Detour via Lyndale Ave N & Dowling Ave N",
+      "summary": "Route 22 detoured off Lyndale Ave from Dowling Ave to 40th Ave N beginning Mon Nov 23 at 6:00 AM until further notice due to construction. Board at: Lyndale Ave N & Dowling Ave N - Stop #11197 (northbound); Lyndale Ave N & 41st Ave N - Stop #57196 (northbound).",
+      "affectedRoutes": [
+        "Route 22"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "Lyndale Ave N & Dowling Ave N",
+        "Lyndale Ave N & 41st Ave N",
+        "Lyndale Ave N & 40th Ave N",
+        "Lyndale Ave N & 36th Ave N",
+        "Lyndale Ave (Dowling Ave to 40th Ave N)"
+      ],
+      "closedStopIds": [
+        "11199",
+        "11635",
+        "11197",
+        "57196",
+        "11633",
+        "11637"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "11199",
+          "name": "Lyndale Ave N & 40th Ave N",
+          "direction": "northbound"
+        },
+        {
+          "id": "11635",
+          "name": "Lyndale Ave N & Dowling Ave N",
+          "direction": "southbound"
+        },
+        {
+          "id": "11197"
+        },
+        {
+          "id": "57196"
+        },
+        {
+          "id": "11633"
+        },
+        {
+          "id": "11637"
+        }
+      ],
+      "riderAlternative": "Board at: Lyndale Ave N & Dowling Ave N - Stop #11197 (northbound); Lyndale Ave N & 41st Ave N - Stop #57196 (northbound)",
+      "detourDetails": "Northbound buses will travel regular route on Lyndale Ave to Dowling Ave, left on Dowling, right on Fremont Ave, right on 40th Ave N, left on Lyndale Ave, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-11-23T12:00:00.000Z",
+        "textDescription": "Beginning Mon Nov 23 at 6:00 AM until further notice"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/22",
+      "updatedAt": "2026-11-20T14:27:55.000Z",
+      "rawHeader": "Route 22 detoured off Lyndale Ave from Dowling Ave to 40th Ave N beginning Mon Nov 23 at 6:00 AM until further notice due to construction",
+      "rawDescription": "For northbound Route 22 get on/off buses at:\r\nLyndale Ave N & Dowling Ave N - Stop #11197 (northbound)\r\nLyndale Ave N & 41st Ave N - Stop #57196 (northbound)\r\n\nFor southbound Route 22 get on/off buses at:\r\nLyndale Ave N & 40th Ave N - Stop #11633 (southbound)\r\nLyndale Ave N & 36th Ave N - Stop #11637 (southbound)\r\n\nNorthbound buses will travel regular route on Lyndale Ave to Dowling Ave, left on Dowling, right on Fremont Ave, right on 40th Ave N, left on Lyndale Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on Lyndale Ave to 40th Ave N, right on 40th Ave, left on Fremont Ave, left on Dowling Ave, right on Lyndale Ave, and resume regular route.\r\n\nAffected stops:\r\nLyndale Ave N & 40th Ave N - Stop #11199 (northbound)\r\nLyndale Ave N & Dowling Ave N - Stop #11635 (southbound)"
     },
     {
       "id": "49875",
@@ -2352,7 +3321,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/64",
-      "updatedAt": "2026-10-30T15:25:37.000Z",
+      "updatedAt": "2026-11-20T14:55:27.000Z",
       "rawHeader": "Route 64 detoured off 7th St E from Lafayette Ave to Burr St starting Mon Sep 14 at 5:00 AM until further notice due to construction",
       "rawDescription": "For eastbound Route 64 get on/off buses at:\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\nBurr St & Tedesco St - Stop #11776 (northbound)\r\n\nFor westbound Route 64 get on/off buses at:\r\nBurr St & Tedesco St - Stop #11819 (southbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound) \r\n\nEastbound buses will travel regular route on 7th St E to Lafayette, continue past Lafayette to Payne, left on Payne, left on Tedesco, right on Burr, and resume regular route. \r\n\nWestbound buses will travel regular route on Burr to Tedesco, left onto Tedesco, right onto Payne, right onto 7th St, continue to Lafayette and resume regular route. \r\n\nAffected stops:\r\nLaFayette Rd & 8th St - Stop #11916 (northbound)\r\nLaFayette Rd & Grove St - Stop #11918 (northbound)\r\nLaFayette Rd & University Ave - Stop #11920 (northbound)\r\nLaFayette Rd & #600 - Stop #11774 (northbound)\r\nLafayette Rd & Lafayette Plaza - Stop #11821 (southbound)\r\nLaFayette Rd & University Ave - Stop #11921 (southbound)\r\nLaFayette Rd & Grove St - Stop #11923 (southbound)\r\nLaFayette Rd & 8th St - Stop #11925 (southbound)\r\n7th St E & Olive St - Stop #57415 (westbound)"
     },
@@ -2624,28 +3593,64 @@
       "rawDescription": "Get on/off southbound buses at:\r\nLarpenteur Ave & Jackson St - Stop #49947 (eastbound)\r\nArlington Ave E & Klainert St - Stop #81115 (westbound)\r\nLOrient St & #1301 - Stop #49948 (southbound)\r\n\nNo northbound bus stops missed.\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on Larpenteur Ave to Jackson St, continue on Larpenteur Ave to L'Orient St, right on L'Orient St, right on Arlington Ave, left on L'Orient St and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nJackson St & Wheelock Pkwy - Stop #49677 (southbound)\r\nTimberlake Rd N & #1581 - Stop #18095 (eastbound)\r\nTimberlake Rd & Biglow Lane (N) - Stop #18096 (southbound)\r\nTimberlake Rd N & Klainert St - Stop #18098 (southbound)\r\nTimberlake Rd S & #1479 - Stop #43773 (westbound)\r\nArlington Ave E & Jackson St - Stop #40095 (eastbound)\r\nArlington Ave E & #179 - Stop #51606 (eastbound)\r\nArlington Ave E & LOrient St - Stop #40108 (eastbound)"
     },
     {
+      "id": "55465",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 68, Route 75: Stop Closed at Robert St S & Wentworth Ave",
+      "summary": "Robert St S & Wentworth Ave - Stop #426 (northbound) is closed for Routes 68 and 75 until further notice due to construction. Board at: Robert St S & Lothenbach Ave - Stop #425 (northbound); Robert St S & Thompson Ave E - Stop #9859 (northbound).",
+      "affectedRoutes": [
+        "Route 68",
+        "Route 75"
+      ],
+      "direction": "Northbound",
+      "intersections": [
+        "Robert St S & Wentworth Ave",
+        "Robert St S & Lothenbach Ave",
+        "Robert St S & Thompson Ave E"
+      ],
+      "closedStopIds": [
+        "9859",
+        "426"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "9859"
+        },
+        {
+          "id": "426"
+        }
+      ],
+      "riderAlternative": "Board at: Robert St S & Lothenbach Ave - Stop #425 (northbound); Robert St S & Thompson Ave E - Stop #9859 (northbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-20T17:40:00.000Z"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/68",
+      "updatedAt": "2026-11-20T17:40:30.000Z",
+      "rawHeader": "Robert St S & Wentworth Ave - Stop #426 (northbound) is closed for Routes 68 and 75 until further notice due to construction",
+      "rawDescription": "Get on/off buses at:\r\nRobert St S & Lothenbach Ave - Stop #425 (northbound)\r\nRobert St S & Thompson Ave E - Stop #9859 (northbound)"
+    },
+    {
       "id": "54784",
       "agency": "Metro Transit",
       "severity": "Moderate",
-      "title": "Route 71, Route 71K: Detour via Little Canada Rd & Centerville Rd",
-      "summary": "Route 71K detoured off Little Canada Rd from Co Rd C to Rice St until further notice due to construction. Board at: Little Canada Rd & Centerville Rd - Stop #49697 (westbound); Temporary stop on Co Rd C just before Jessica Court (westbound); Rice St & Marketplace S Entrance - Stop #46980 (northbound).",
+      "title": "Route 71, Route 71K: Detour via Marketplace Dr & Little Canada - St",
+      "summary": "Route 71K detoured off Little Canada Rd from Co Rd C to Rice St until further notice due to construction. Board at: Marketplace Dr & Little Canada - Stop #45305 (southbound); Little Canada Rd & Centerville Rd - Stop #41063 (eastbound).",
       "affectedRoutes": [
         "Route 71",
         "Route 71K"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "Little Canada Rd & Centerville Rd",
-        "Rice St & Marketplace S Entrance - St",
         "Marketplace Dr & Little Canada - St",
+        "Little Canada Rd & Centerville Rd",
         "Little Canada Rd & Park View Court - St",
-        "Little Canada Rd & Jackson St"
+        "Little Canada Rd & Jackson St",
+        "Little Canada Rd & Marketplace - St"
       ],
       "closedStopIds": [
-        "49697",
-        "46980",
-        "45305",
-        "41063",
         "49784",
         "45314",
         "49178",
@@ -2653,57 +3658,69 @@
         "45306",
         "49785",
         "45313",
-        "45307"
+        "45307",
+        "45305",
+        "41063"
       ],
       "closedStopDetails": [
         {
-          "id": "49697"
+          "id": "49784",
+          "name": "Little Canada Rd & Park View Court",
+          "direction": "westbound"
         },
         {
-          "id": "46980"
+          "id": "45314",
+          "name": "Little Canada Rd & Jackson St",
+          "direction": "westbound"
+        },
+        {
+          "id": "49178",
+          "name": "Little Canada Rd & Marketplace",
+          "direction": "westbound"
+        },
+        {
+          "id": "49179",
+          "name": "Little Canada Rd & Middle St",
+          "direction": "westbound"
+        },
+        {
+          "id": "45306",
+          "name": "Little Canada Rd & Jackson St",
+          "direction": "eastbound"
+        },
+        {
+          "id": "49785",
+          "name": "Little Canada Rd & Park View Court",
+          "direction": "eastbound"
+        },
+        {
+          "id": "45313",
+          "name": "Little Canada Rd & Fleur Royale Condos",
+          "direction": "westbound"
+        },
+        {
+          "id": "45307",
+          "name": "Little Canada Rd & Co Rd C",
+          "direction": "eastbound"
         },
         {
           "id": "45305"
         },
         {
           "id": "41063"
-        },
-        {
-          "id": "49784"
-        },
-        {
-          "id": "45314"
-        },
-        {
-          "id": "49178"
-        },
-        {
-          "id": "49179"
-        },
-        {
-          "id": "45306"
-        },
-        {
-          "id": "49785"
-        },
-        {
-          "id": "45313"
-        },
-        {
-          "id": "45307"
         }
       ],
-      "riderAlternative": "Board at: Little Canada Rd & Centerville Rd - Stop #49697 (westbound); Temporary stop on Co Rd C just before Jessica Court (westbound); Rice St & Marketplace S Entrance - Stop #46980 (northbound)",
-      "detourDetails": "buses will travel regular route on Little Canada Rd to Co Rd C, left on Co Rd C, right on Rice St to Little Canada Rd, continue on Rice St, and resume the regular route.",
+      "riderAlternative": "Board at: Marketplace Dr & Little Canada - Stop #45305 (southbound); Little Canada Rd & Centerville Rd - Stop #41063 (eastbound)",
+      "detourDetails": "buses will travel the regular route.",
       "activePeriod": {
         "start": "2026-10-30T15:34:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/71",
-      "updatedAt": "2026-11-06T15:34:01.000Z",
+      "updatedAt": "2026-11-20T18:17:55.000Z",
       "rawHeader": "Route 71K detoured off Little Canada Rd from Co Rd C to Rice St until further notice due to construction",
-      "rawDescription": "Added map: 11/3 at 3:15 PM\r\n\nUpdated southbound detour and affected stops 9/21 9 am.\r\n\nFor northbound Route 71 get on/off buses at:\r\nLittle Canada Rd & Centerville Rd - Stop #49697 (westbound)\r\nTemporary stop on Co Rd C just before Jessica Court (westbound)\r\nRice St & Marketplace S Entrance - Stop #46980 (northbound)\r\n\nFor southbound Route 71 get on/off buses at:\r\nMarketplace Dr & Little Canada - Stop #45305 (southbound)\r\nLittle Canada Rd & Centerville Rd - Stop #41063 (eastbound)\r\n\nNorthbound Route 71K buses will travel regular route on Little Canada Rd to Co Rd C, left on Co Rd C, right on Rice St to Little Canada Rd, continue on Rice St, and resume the regular route. \r\n\nSouthbound 71 buses departing The Marketplace Center will travel regular route on Marketplace Dr to Little Canada Rd, right on Little Canada Rd, right on Rice St, right on South Owasso Blvd, right on Country Dr, left on Little Canada Rd, and resume regular route.\r\n\nAffected stops:\r\nLittle Canada Rd & Park View Court - Stop #49784 (westbound)\r\nLittle Canada Rd & Jackson St - Stop #45314 (westbound)\r\nLittle Canada Rd & Marketplace - Stop #49178 (westbound)\r\nLittle Canada Rd & Middle St - Stop #49179 (westbound)\r\nLittle Canada Rd & Jackson St - Stop #45306 (eastbound)\r\nLittle Canada Rd & Park View Court - Stop #49785 (eastbound)\r\nLittle Canada Rd & Fleur Royale Condos - Stop #45313 (westbound)\r\nLittle Canada Rd & Co Rd C - Stop #45307 (eastbound)"
+      "rawDescription": "Updated to remove northbound detour 11/20 at 12:15 PM\r\n\nFor southbound Route 71 get on/off buses at:\r\nMarketplace Dr & Little Canada - Stop #45305 (southbound)\r\nLittle Canada Rd & Centerville Rd - Stop #41063 (eastbound)\r\n\nNorthbound Route 71K buses will travel the regular route.\r\n\nSouthbound 71 buses departing The Marketplace Center will travel regular route on Marketplace Dr to Little Canada Rd, right on Little Canada Rd, right on Rice St, right on South Owasso Blvd, right on Country Dr, left on Little Canada Rd, and resume regular route.\r\n\nAffected stops:\r\nLittle Canada Rd & Park View Court - Stop #49784 (westbound)\r\nLittle Canada Rd & Jackson St - Stop #45314 (westbound)\r\nLittle Canada Rd & Marketplace - Stop #49178 (westbound)\r\nLittle Canada Rd & Middle St - Stop #49179 (westbound)\r\nLittle Canada Rd & Jackson St - Stop #45306 (eastbound)\r\nLittle Canada Rd & Park View Court - Stop #49785 (eastbound)\r\nLittle Canada Rd & Fleur Royale Condos - Stop #45313 (westbound)\r\nLittle Canada Rd & Co Rd C - Stop #45307 (eastbound)"
     },
     {
       "id": "55200",
@@ -3081,47 +4098,49 @@
         "Marketplace Dr & Little Canada - St",
         "Little Canada Rd & Middle St",
         "Centerville Rd & Racine Dr",
-        "Little Canada Rd & Fleur Royale Condos - St",
-        "Rice St & Rosedale Estates - St"
+        "Little Canada Rd & Jackson St",
+        "Little Canada Rd & Co Rd"
       ],
       "closedStopIds": [
-        "45305",
-        "49179",
-        "48188",
-        "45313",
-        "46964",
         "45306",
         "45307",
         "45314",
-        "49178"
+        "49178",
+        "49179",
+        "45305",
+        "48188"
       ],
       "closedStopDetails": [
+        {
+          "id": "45306",
+          "name": "Little Canada Rd & Jackson St",
+          "direction": "eastbound"
+        },
+        {
+          "id": "45307",
+          "name": "Little Canada Rd & Co Rd C",
+          "direction": "eastbound"
+        },
+        {
+          "id": "45314",
+          "name": "Little Canada Rd & Jackson St",
+          "direction": "westbound"
+        },
+        {
+          "id": "49178",
+          "name": "Little Canada Rd & Marketplace",
+          "direction": "westbound"
+        },
+        {
+          "id": "49179",
+          "name": "Little Canada Rd & Middle St",
+          "direction": "westbound"
+        },
         {
           "id": "45305"
         },
         {
-          "id": "49179"
-        },
-        {
           "id": "48188"
-        },
-        {
-          "id": "45313"
-        },
-        {
-          "id": "46964"
-        },
-        {
-          "id": "45306"
-        },
-        {
-          "id": "45307"
-        },
-        {
-          "id": "45314"
-        },
-        {
-          "id": "49178"
         }
       ],
       "riderAlternative": "Board at: Marketplace Dr & Little Canada - Stop #45305 (southbound); Little Canada Rd & Middle St - Stop #49179 (westbound); Centerville Rd & Racine Dr - Stop #48188 (northbound)",
@@ -3132,9 +4151,9 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/223",
-      "updatedAt": "2026-11-06T15:36:01.000Z",
+      "updatedAt": "2026-11-20T18:20:37.000Z",
       "rawHeader": "Route 223 detoured off Little Canada Rd from Rice St to Co Rd C until further notice due to construction",
-      "rawDescription": "Added map: 11/3 at 3:45 PM.\r\n\nUpdated eastbound detour and affected stops 9/21 9 am.\r\n\nFor eastbound Route 223 get on/off buses at:\r\nMarketplace Dr & Little Canada - Stop #45305 (southbound)\r\nLittle Canada Rd & Middle St - Stop #49179 (westbound)\r\nCenterville Rd & Racine Dr - Stop #48188 (northbound)\r\n\nFor westbound Route 223 get on/off buses at:\r\nLittle Canada Rd & Fleur Royale Condos - Stop #45313 (westbound)\r\nTemporary stop on Co Rd C & Jessica Court (westbound)\r\nRice St & Rosedale Estates - Stop #46964 (southbound)\r\n\nEastbound buses will travel regular route on Marketplace Dr to Little Canada Rd, right on Little Canada Rd, right on Rice St, right on South Owasso Blvd, right on Country Dr, left on Little Canada Rd, and resume regular route.\r\n\nWestbound buses will travel regular route on Little Canada Rd to Co Rd C, left on Co Rd C, right on Rice St to Little Canada Rd, continue on Rice St, and resume regular route. \r\n\nAffected stops:\r\nLittle Canada Rd & Jackson St - Stop #45306 (eastbound)\r\nLittle Canada Rd & Co Rd C - Stop #45307 (eastbound)\r\nLittle Canada Rd & Jackson St - Stop #45314 (westbound)\r\nLittle Canada Rd & Marketplace - Stop #49178 (westbound)\r\nLittle Canada Rd & Middle St - Stop #49179 (westbound)"
+      "rawDescription": "Updated to remove westbound detour 11/20 at 12:20 PM.\r\n\nFor eastbound Route 223 get on/off buses at:\r\nMarketplace Dr & Little Canada - Stop #45305 (southbound)\r\nLittle Canada Rd & Middle St - Stop #49179 (westbound)\r\nCenterville Rd & Racine Dr - Stop #48188 (northbound)\r\n\nEastbound buses will travel regular route on Marketplace Dr to Little Canada Rd, right on Little Canada Rd, right on Rice St, right on South Owasso Blvd, right on Country Dr, left on Little Canada Rd, and resume regular route.\r\n\nWestbound buses will the travel regular route.\r\n\nAffected stops:\r\nLittle Canada Rd & Jackson St - Stop #45306 (eastbound)\r\nLittle Canada Rd & Co Rd C - Stop #45307 (eastbound)\r\nLittle Canada Rd & Jackson St - Stop #45314 (westbound)\r\nLittle Canada Rd & Marketplace - Stop #49178 (westbound)\r\nLittle Canada Rd & Middle St - Stop #49179 (westbound)"
     },
     {
       "id": "44827",
@@ -3820,6 +4839,56 @@
       "rawDescription": "For eastbound Route 645 get on/off buses at:\r\nLouisiana Transit Ctr & Temp Gate B - Stop #80969 (eastbound)\r\n16th St W & Park Place East - Stop #40325 (eastbound)\r\n\nFor westbound Route 645 get on/off buses at:\r\n16th St W & Park Place East - Stop #40324 (westbound)\r\nLouisiana Transit Ctr & Temp Gate B - Stop #80969 (eastbound)\r\n\nEastbound buses will travel regular route on Wayzata Blvd to Louisiana Ave, right on Louisiana Ave, left on 22nd St, right on Idaho Ave, left on Cedar Lake Rd, left on Zarthan Ave, right on 16th St and resume regular route.\r\n\nWestbound buses will travel regular route on 16th St to Zarthan Ave, left on Zarthan Ave, right on Cedar Lake Rd, right on Idaho Ave, left on 22nd St W, right on Louisiana Ave, left on Wayzata Blvd and resume regular route.\r\n\nAffected stops:\r\nWayzata Blvd S & Kentucky Ave S - Stop #40933 (eastbound)\r\nWayzata Blvd S & Idaho Ave S - Stop #40930 (eastbound)\r\nWayzata Blvd S & Hampshire Ave S - Stop #40927 (eastbound)\r\nWayzata Blvd S & Hampshire / Dakota Ave - Stop #40926 (eastbound)\r\nWayzata Blvd S & Colorado Ave S - Stop #40922 (eastbound)\r\nZarthan Ave S & Wayzata Blvd S - Stop #40952 (southbound)\r\nZarthan Ave S & Wayzata Blvd S - Stop #40951 (northbound)\r\nWayzata Blvd S & Colorado Ave S - Stop #40921 (westbound)\r\nWayzata Blvd S & Dakota Ave S - Stop #40924 (westbound)\r\nWayzata Blvd S & Dakota Ave / Hampshire - Stop #40923 (westbound)\r\nWayzata Blvd S & Idaho Ave S - Stop #40929 (westbound)\r\nWayzata Blvd S & Kentucky Ave S - Stop #40917 (westbound)"
     },
     {
+      "id": "55467",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 645: Detour via General Mills Blvd & General Mills - St",
+      "summary": "Route 645 detoured off I-394 from General Mills Blvd to Louisiana Ave beginning Mon Nov 23 at 8:00 PM until further notice due to construction. Board at: General Mills Blvd & General Mills - Stop #40578 (southbound); Wayzata Blvd & General Mills Blvd - Stop #57752 (eastbound); Louisiana Transit Ctr & temporary Gate B - Stop #80969 (eastbound).",
+      "affectedRoutes": [
+        "Route 645"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "General Mills Blvd & General Mills - St",
+        "Wayzata Blvd & General Mills Blvd",
+        "I-394 (General Mills Blvd to Louisiana Ave)"
+      ],
+      "closedStopIds": [
+        "41158",
+        "40578",
+        "57752",
+        "80969"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "41158",
+          "name": "I-394 Ramp & General Mills Blvd",
+          "direction": "eastbound"
+        },
+        {
+          "id": "40578"
+        },
+        {
+          "id": "57752"
+        },
+        {
+          "id": "80969"
+        }
+      ],
+      "riderAlternative": "Board at: General Mills Blvd & General Mills - Stop #40578 (southbound); Wayzata Blvd & General Mills Blvd - Stop #57752 (eastbound); Louisiana Transit Ctr & temporary Gate B - Stop #80969 (eastbound)",
+      "detourDetails": "Eastbound buses will travel regular route on General Mills Blvd to I-394 ramp, continue on General Mills Blvd to Wayzata Blvd, left on Wayzata Blvd, left into Louisiana Ave Transit Center, and resume detour route.",
+      "activePeriod": {
+        "start": "2026-11-24T02:00:00.000Z",
+        "textDescription": "Beginning Mon Nov 23 at 8:00 PM until further notice"
+      },
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/645",
+      "updatedAt": "2026-11-20T18:47:02.000Z",
+      "rawHeader": "Route 645 detoured off I-394 from General Mills Blvd to Louisiana Ave beginning Mon Nov 23 at 8:00 PM until further notice due to construction",
+      "rawDescription": "Get on/off buses at:\r\nGeneral Mills Blvd & General Mills - Stop #40578 (southbound)\r\nWayzata Blvd & General Mills Blvd - Stop #57752 (eastbound)\r\nLouisiana Transit Ctr & Temp Gate B - Stop #80969 (eastbound)\r\n\nEastbound buses will travel regular route on General Mills Blvd to I-394 ramp, continue on General Mills Blvd to Wayzata Blvd, left on Wayzata Blvd, left into Louisiana Ave Transit Center, and resume detour route.\r\n\nWestbound buses will travel regular route.\r\n\nAffected stops:\r\nI-394 Ramp & General Mills Blvd - Stop #41158 (eastbound)"
+    },
+    {
       "id": "47699",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -4101,6 +5170,47 @@
       "updatedAt": "2026-11-18T19:55:05.000Z",
       "rawHeader": "Route 14 service advisory: Richfield Pkwy between 63rd St and 66th St",
       "rawDescription": "Public-facing maps for Route 14 were updated on August 22, 2026, to reflect the new permanent routing along Richfield Parkway between 63rd Street and 66th Street.\r\n\nHowever, due to delays in installing ADA-accessible bus stops along Richfield Parkway, Route 14 buses will continue to operate along Bloomington Avenue between 63rd Street and 66th Street until the new stops are installed and ready for service."
+    },
+    {
+      "id": "55469",
+      "agency": "Metro Transit",
+      "severity": "Minor",
+      "title": "Route 27: Service Advisory",
+      "summary": "Lake St W & Blaisdell Ave S - Stop #16845 (eastbound) is permanently eliminated for Route 27 beginning Tue Nov 24 at 11:00 AM. Board at: Lake St W & Grand Ave S - Stop #16841 (eastbound).",
+      "affectedRoutes": [
+        "Route 27"
+      ],
+      "direction": "Eastbound",
+      "intersections": [
+        "Lake St W & Blaisdell Ave S",
+        "Lake St W & Grand Ave S"
+      ],
+      "closedStopIds": [
+        "16845",
+        "16841"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "16845",
+          "name": "Lake St W & Blaisdell Ave S",
+          "direction": "eastbound"
+        },
+        {
+          "id": "16841"
+        }
+      ],
+      "riderAlternative": "Board at: Lake St W & Grand Ave S - Stop #16841 (eastbound)",
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-24T17:00:00.000Z",
+        "textDescription": "Beginning Tue Nov 24 at 11:00 AM"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "OTHER_EFFECT",
+      "url": "https://www.metrotransit.org/route/27",
+      "updatedAt": "2026-11-20T18:52:41.000Z",
+      "rawHeader": "Lake St W & Blaisdell Ave S - Stop #16845 (eastbound) is permanently eliminated for Route 27 beginning Tue Nov 24 at 11:00 AM",
+      "rawDescription": "Get on/off buses at:\r\nLake St W & Grand Ave S - Stop #16841 (eastbound)\r\n\nAffected stops:\r\nLake St W & Blaisdell Ave S - Stop #16845 (eastbound)"
     },
     {
       "id": "51213",

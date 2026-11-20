@@ -2,21 +2,214 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-62-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-57-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-5-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-55-brightgreen)](#-routes-index)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-73-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-8-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-59-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-6-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-59-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-20T11:21:22.200Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-20T19:56:36.796Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (4) • **Route 10** (2) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (7) • **Route 25** (1) • **Route 27** (2) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (2) • **Route 64** (3) • **Route 67** (2) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (3) • **Route 10** (2) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (8) • **Route 22** (1) • **Route 25** (3) • **Route 27** (3) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (2) • **Route 64** (3) • **Route 67** (2) • **Route 68** (3) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (2) • **Route 805** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 Route 18: 11:49 AM Trip Canceled (104th St W & Bloomington Fwy W)
+
+- **Affected Routes**: `Route 18`
+- **Direction**: All
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #17988, Stop #17990, Stop #17992, Stop #17994, Stop #17996, Stop #17998, Stop #1890, Stop #1900 *(+92 more)*
+
+**Summary**: Route 18 trip departing 104th St W & Bloomington Fwy W at 11:49 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/18)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 18 trip departing 104th St W & Bloomington Fwy W at 11:49 AM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 25: Northbound 12:36 PM Trip Canceled (Leamington Ramp & Lower - Gate #7)
+
+- **Affected Routes**: `Route 25`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #10938, Stop #10940, Stop #13923, Stop #13932, Stop #13940, Stop #13944, Stop #13951, Stop #13957 *(+43 more)*
+
+**Summary**: Northbound Route 25 trip departing Leamington Ramp & Lower - Gate #7 at 12:36 PM canceled today due to mechanical issue
+
+[Official Agency Advisory](https://www.metrotransit.org/route/25)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 25 trip departing Leamington Ramp & Lower - Gate #7 at 12:36 PM canceled today due to mechanical issue
+
+</details>
+
+---
+
+### 🚨 Route 25: Service Advisory
+
+- **Affected Routes**: `Route 25`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #10941, Stop #13987, Stop #13988, Stop #13983, Stop #13979, Stop #13975, Stop #13971, Stop #13968 *(+32 more)*
+
+**Summary**: Southbound Route 25 trip departing Foley Blvd Park & Ride at 2:28 PM will start from County Rd H2 & Silver Lake Rd. Previous stops missed due to mechanical issues
+
+[Official Agency Advisory](https://www.metrotransit.org/route/25)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 25 trip departing Foley Blvd Park & Ride at 2:28 PM will start from County Rd H2 & Silver Lake Rd. Previous stops missed due to mechanical issues
+
+</details>
+
+---
+
+### 🚨 Route 71: Service Canceled
+
+- **Affected Routes**: `Route 71`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/71)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today
+
+```text
+Affected northbound trips:
+departing Inver Hills College & Shelter at 1:38 PM
+departing Inver Hills College & Shelter at 4:38 PM
+
+Affected southbound trips:
+departing Market Place Dr & The Marketplace Ctr at 3:10 PM
+departing Market Place Dr & The Marketplace Ctr at 6:15 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 72: Westbound 4:18 PM Trip Canceled (Sun Ray Transit Center & Gate D)
+
+- **Affected Routes**: `Route 72`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound Route 72 trip departing Sun Ray Transit Center & Gate D at 4:18 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/72)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 72 trip departing Sun Ray Transit Center & Gate D at 4:18 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 83: 1:01 PM Trip Canceled (Montreal Cir & Summit Brewing)
+
+- **Affected Routes**: `Route 83`
+- **Direction**: All
+- **Severity**: `Critical`
+
+**Summary**: Route 83 trip departing Montreal Cir & Summit Brewing at 1:01 PM canceled today due to maintenance work
+
+[Official Agency Advisory](https://www.metrotransit.org/route/83)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 83 trip departing Montreal Cir & Summit Brewing at 1:01 PM canceled today due to maintenance work
+
+</details>
+
+---
+
+### 🚨 Route 802: Service Canceled
+
+- **Affected Routes**: `Route 802`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/802)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate E at 11:34 AM
+departing Northtown Transit Ctr Gate E at 1:34 PM
+departing Northtown Transit Ctr Gate E at 3:34 PM
+departing Northtown Transit Ctr Gate E at 5:34 PM
+
+Affected southbound trips:
+departing Anoka Tech College & Main Entrance at 12:42 PM
+departing Anoka Tech College & Main Entrance at 2:42 PM
+departing Anoka Tech College & Main Entrance at 4:42 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 805: Service Canceled
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
+departing 1st Ave S & Monroe St; 38 PM
+departing 1st Ave S & Monroe St; 36 PM
+departing 1st Ave S & Monroe St
+
+**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate D at 12:34 PM
+departing Northtown Transit Ctr Gate D at 2:34 PM
+departing Northtown Transit Ctr Gate D at 4:34 PM
+
+Affected southbound trips:
+departing 1st Ave S & Monroe St at 11:38 AM
+departing 1st Ave S & Monroe St at 1:38 PM
+departing 1st Ave S & Monroe St at 3:36 PM
+departing 1st Ave S & Monroe St at 5:38 PM
+```
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -404,55 +597,6 @@ Westbound buses will depart 46th St Station and turn right on 46th St, right on 
 
 ---
 
-### ⚠️ Route 9: Detour via Portland Ave S & 18th St E
-
-- **Affected Routes**: `Route 9`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Mar 23 at 5:00 AM until further notice
-- **Corridors & Intersections**: Portland Ave S & 18th St E; Franklin Ave E & 10th Ave S; Franklin Ave E & Chicago Ave; Park Ave S & 16th St E; Franklin Ave E & Portland Ave
-- **Closed Stops**: Franklin Ave E & Portland Ave (Stop #13316), Franklin Ave E & Chicago Ave (Stop #13312), Park Ave S & 18th St E (Stop #15343), Stop #15348, Stop #13310, Stop #56698, Stop #15344, Stop #80925 *(+1 more)*
-
-**Summary**: Route 9 detoured off Franklin Ave from Portland Ave to Chicago Ave and off Park Ave from 17th St to Franklin Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction. Board at: Portland Ave S & 18th St E - Stop #15348 (southbound); Temporary stop on Portland Ave just before Franklin Ave (southbound); Temporary stop on Chicago Ave just before Franklin Ave (northbound).
-
-> 💡 **Rider Action**: Board at: Portland Ave S & 18th St E - Stop #15348 (southbound); Temporary stop on Portland Ave just before Franklin Ave (southbound); Temporary stop on Chicago Ave just before Franklin Ave (northbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on Portland Ave to Franklin Ave, continue on Portland to 24th St, left on 24th St, left on Chicago Ave, right on Franklin Ave, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/9)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 9 detoured off Franklin Ave from Portland Ave to Chicago Ave and off Park Ave from 17th St to Franklin Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction
-
-```text
-Update 3/24 4pm: get on/off eastbound stops
-
-For eastbound Route 9 get on/off buses at:
-Portland Ave S & 18th St E - Stop #15348 (southbound)
-Temporary stop on Portland Ave just before Franklin Ave (southbound)
-Temporary stop on Chicago Ave just before Franklin Ave (northbound)
-Franklin Ave E & 10th Ave S - Stop #13310 (eastbound)
-
-For westbound Route 9 get on/off buses at:
-Franklin Ave E & Chicago Ave - Stop #56698 (westbound)
-Park Ave S & 16th St E - Stop #15344 (northbound)
-
-Eastbound buses will travel regular route on Portland Ave to Franklin Ave, continue on Portland to 24th St, left on 24th St, left on Chicago Ave, right on Franklin Ave, and resume regular route.
-
-Westbound buses will travel regular route on Franklin Ave to Chicago Ave, right on Chicago, left on 17th St, right on Park Ave, and resume regular route.
-
-Affected stops:
-Franklin Ave E & Portland Ave - Stop #13316 (eastbound)
-Franklin Ave E & Chicago Ave - Stop #13312 (eastbound)
-Park Ave S & 18th St E - Stop #15343 (northbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Nicollet Mall (11th St to 12th St)
 
 - **Affected Routes**: `Route 10` `Route 11` `Route 17` `Route 18` `Route 25`
@@ -784,6 +928,50 @@ Affected stops:
 1st Ave S & Lake St - Stop #1889 (northbound)
 Blaisdell Ave S & Lake St - Stop #14850 (southbound)
 31st St W & Blaisdell / Nicollet - Stop #42211 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 22: Detour via Lyndale Ave N & Dowling Ave N
+
+- **Affected Routes**: `Route 22`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Mon Nov 23 at 6:00 AM until further notice
+- **Corridors & Intersections**: Lyndale Ave N & Dowling Ave N; Lyndale Ave N & 41st Ave N; Lyndale Ave N & 40th Ave N; Lyndale Ave N & 36th Ave N; Lyndale Ave (Dowling Ave to 40th Ave N)
+- **Closed Stops**: Lyndale Ave N & 40th Ave N (Stop #11199), Lyndale Ave N & Dowling Ave N (Stop #11635), Stop #11197, Stop #57196, Stop #11633, Stop #11637
+
+**Summary**: Route 22 detoured off Lyndale Ave from Dowling Ave to 40th Ave N beginning Mon Nov 23 at 6:00 AM until further notice due to construction. Board at: Lyndale Ave N & Dowling Ave N - Stop #11197 (northbound); Lyndale Ave N & 41st Ave N - Stop #57196 (northbound).
+
+> 💡 **Rider Action**: Board at: Lyndale Ave N & Dowling Ave N - Stop #11197 (northbound); Lyndale Ave N & 41st Ave N - Stop #57196 (northbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route on Lyndale Ave to Dowling Ave, left on Dowling, right on Fremont Ave, right on 40th Ave N, left on Lyndale Ave, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/22)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 22 detoured off Lyndale Ave from Dowling Ave to 40th Ave N beginning Mon Nov 23 at 6:00 AM until further notice due to construction
+
+```text
+For northbound Route 22 get on/off buses at:
+Lyndale Ave N & Dowling Ave N - Stop #11197 (northbound)
+Lyndale Ave N & 41st Ave N - Stop #57196 (northbound)
+
+For southbound Route 22 get on/off buses at:
+Lyndale Ave N & 40th Ave N - Stop #11633 (southbound)
+Lyndale Ave N & 36th Ave N - Stop #11637 (southbound)
+
+Northbound buses will travel regular route on Lyndale Ave to Dowling Ave, left on Dowling, right on Fremont Ave, right on 40th Ave N, left on Lyndale Ave, and resume regular route.
+
+Southbound buses will travel regular route on Lyndale Ave to 40th Ave N, right on 40th Ave, left on Fremont Ave, left on Dowling Ave, right on Lyndale Ave, and resume regular route.
+
+Affected stops:
+Lyndale Ave N & 40th Ave N - Stop #11199 (northbound)
+Lyndale Ave N & Dowling Ave N - Stop #11635 (southbound)
 ```
 
 </details>
@@ -1586,19 +1774,48 @@ Arlington Ave E & LOrient St - Stop #40108 (eastbound)
 
 ---
 
-### ⚠️ Route 71, Route 71K: Detour via Little Canada Rd & Centerville Rd
+### ⚠️ Route 68, Route 75: Stop Closed at Robert St S & Wentworth Ave
+
+- **Affected Routes**: `Route 68` `Route 75`
+- **Direction**: Northbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Robert St S & Wentworth Ave; Robert St S & Lothenbach Ave; Robert St S & Thompson Ave E
+- **Closed Stops**: Stop #9859, Stop #426
+
+**Summary**: Robert St S & Wentworth Ave - Stop #426 (northbound) is closed for Routes 68 and 75 until further notice due to construction. Board at: Robert St S & Lothenbach Ave - Stop #425 (northbound); Robert St S & Thompson Ave E - Stop #9859 (northbound).
+
+> 💡 **Rider Action**: Board at: Robert St S & Lothenbach Ave - Stop #425 (northbound); Robert St S & Thompson Ave E - Stop #9859 (northbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/68)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Robert St S & Wentworth Ave - Stop #426 (northbound) is closed for Routes 68 and 75 until further notice due to construction
+
+```text
+Get on/off buses at:
+Robert St S & Lothenbach Ave - Stop #425 (northbound)
+Robert St S & Thompson Ave E - Stop #9859 (northbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 71, Route 71K: Detour via Marketplace Dr & Little Canada - St
 
 - **Affected Routes**: `Route 71` `Route 71K`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Little Canada Rd & Centerville Rd; Rice St & Marketplace S Entrance - St; Marketplace Dr & Little Canada - St; Little Canada Rd & Park View Court - St; Little Canada Rd & Jackson St
-- **Closed Stops**: Stop #49697, Stop #46980, Stop #45305, Stop #41063, Stop #49784, Stop #45314, Stop #49178, Stop #49179 *(+4 more)*
+- **Corridors & Intersections**: Marketplace Dr & Little Canada - St; Little Canada Rd & Centerville Rd; Little Canada Rd & Park View Court - St; Little Canada Rd & Jackson St; Little Canada Rd & Marketplace - St
+- **Closed Stops**: Little Canada Rd & Park View Court (Stop #49784), Little Canada Rd & Jackson St (Stop #45314), Little Canada Rd & Marketplace (Stop #49178), Little Canada Rd & Middle St (Stop #49179), Little Canada Rd & Jackson St (Stop #45306), Little Canada Rd & Park View Court (Stop #49785), Little Canada Rd & Fleur Royale Condos (Stop #45313), Little Canada Rd & Co Rd C (Stop #45307) *(+2 more)*
 
-**Summary**: Route 71K detoured off Little Canada Rd from Co Rd C to Rice St until further notice due to construction. Board at: Little Canada Rd & Centerville Rd - Stop #49697 (westbound); Temporary stop on Co Rd C just before Jessica Court (westbound); Rice St & Marketplace S Entrance - Stop #46980 (northbound).
+**Summary**: Route 71K detoured off Little Canada Rd from Co Rd C to Rice St until further notice due to construction. Board at: Marketplace Dr & Little Canada - Stop #45305 (southbound); Little Canada Rd & Centerville Rd - Stop #41063 (eastbound).
 
-> 💡 **Rider Action**: Board at: Little Canada Rd & Centerville Rd - Stop #49697 (westbound); Temporary stop on Co Rd C just before Jessica Court (westbound); Rice St & Marketplace S Entrance - Stop #46980 (northbound)
+> 💡 **Rider Action**: Board at: Marketplace Dr & Little Canada - Stop #45305 (southbound); Little Canada Rd & Centerville Rd - Stop #41063 (eastbound)
 
-> 🔄 **Detour Path**: buses will travel regular route on Little Canada Rd to Co Rd C, left on Co Rd C, right on Rice St to Little Canada Rd, continue on Rice St, and resume the regular route.
+> 🔄 **Detour Path**: buses will travel the regular route.
 
 [Official Agency Advisory](https://www.metrotransit.org/route/71)
 
@@ -1608,20 +1825,13 @@ Arlington Ave E & LOrient St - Stop #40108 (eastbound)
 **Header**: Route 71K detoured off Little Canada Rd from Co Rd C to Rice St until further notice due to construction
 
 ```text
-Added map: 11/3 at 3:15 PM
-
-Updated southbound detour and affected stops 9/21 9 am.
-
-For northbound Route 71 get on/off buses at:
-Little Canada Rd & Centerville Rd - Stop #49697 (westbound)
-Temporary stop on Co Rd C just before Jessica Court (westbound)
-Rice St & Marketplace S Entrance - Stop #46980 (northbound)
+Updated to remove northbound detour 11/20 at 12:15 PM
 
 For southbound Route 71 get on/off buses at:
 Marketplace Dr & Little Canada - Stop #45305 (southbound)
 Little Canada Rd & Centerville Rd - Stop #41063 (eastbound)
 
-Northbound Route 71K buses will travel regular route on Little Canada Rd to Co Rd C, left on Co Rd C, right on Rice St to Little Canada Rd, continue on Rice St, and resume the regular route. 
+Northbound Route 71K buses will travel the regular route.
 
 Southbound 71 buses departing The Marketplace Center will travel regular route on Marketplace Dr to Little Canada Rd, right on Little Canada Rd, right on Rice St, right on South Owasso Blvd, right on Country Dr, left on Little Canada Rd, and resume regular route.
 
@@ -1860,8 +2070,8 @@ Co Rd C & Avon St - Stop #45335 (westbound)
 - **Affected Routes**: `Route 223`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Marketplace Dr & Little Canada - St; Little Canada Rd & Middle St; Centerville Rd & Racine Dr; Little Canada Rd & Fleur Royale Condos - St; Rice St & Rosedale Estates - St
-- **Closed Stops**: Stop #45305, Stop #49179, Stop #48188, Stop #45313, Stop #46964, Stop #45306, Stop #45307, Stop #45314 *(+1 more)*
+- **Corridors & Intersections**: Marketplace Dr & Little Canada - St; Little Canada Rd & Middle St; Centerville Rd & Racine Dr; Little Canada Rd & Jackson St; Little Canada Rd & Co Rd
+- **Closed Stops**: Little Canada Rd & Jackson St (Stop #45306), Little Canada Rd & Co Rd C (Stop #45307), Little Canada Rd & Jackson St (Stop #45314), Little Canada Rd & Marketplace (Stop #49178), Little Canada Rd & Middle St (Stop #49179), Stop #45305, Stop #48188
 
 **Summary**: Route 223 detoured off Little Canada Rd from Rice St to Co Rd C until further notice due to construction. Board at: Marketplace Dr & Little Canada - Stop #45305 (southbound); Little Canada Rd & Middle St - Stop #49179 (westbound); Centerville Rd & Racine Dr - Stop #48188 (northbound).
 
@@ -1877,23 +2087,16 @@ Co Rd C & Avon St - Stop #45335 (westbound)
 **Header**: Route 223 detoured off Little Canada Rd from Rice St to Co Rd C until further notice due to construction
 
 ```text
-Added map: 11/3 at 3:45 PM.
-
-Updated eastbound detour and affected stops 9/21 9 am.
+Updated to remove westbound detour 11/20 at 12:20 PM.
 
 For eastbound Route 223 get on/off buses at:
 Marketplace Dr & Little Canada - Stop #45305 (southbound)
 Little Canada Rd & Middle St - Stop #49179 (westbound)
 Centerville Rd & Racine Dr - Stop #48188 (northbound)
 
-For westbound Route 223 get on/off buses at:
-Little Canada Rd & Fleur Royale Condos - Stop #45313 (westbound)
-Temporary stop on Co Rd C & Jessica Court (westbound)
-Rice St & Rosedale Estates - Stop #46964 (southbound)
-
 Eastbound buses will travel regular route on Marketplace Dr to Little Canada Rd, right on Little Canada Rd, right on Rice St, right on South Owasso Blvd, right on Country Dr, left on Little Canada Rd, and resume regular route.
 
-Westbound buses will travel regular route on Little Canada Rd to Co Rd C, left on Co Rd C, right on Rice St to Little Canada Rd, continue on Rice St, and resume regular route. 
+Westbound buses will the travel regular route.
 
 Affected stops:
 Little Canada Rd & Jackson St - Stop #45306 (eastbound)
@@ -2310,6 +2513,46 @@ Wayzata Blvd S & Kentucky Ave S - Stop #40917 (westbound)
 
 ---
 
+### ⚠️ Route 645: Detour via General Mills Blvd & General Mills - St
+
+- **Affected Routes**: `Route 645`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning Mon Nov 23 at 8:00 PM until further notice
+- **Corridors & Intersections**: General Mills Blvd & General Mills - St; Wayzata Blvd & General Mills Blvd; I-394 (General Mills Blvd to Louisiana Ave)
+- **Closed Stops**: I-394 Ramp & General Mills Blvd (Stop #41158), Stop #40578, Stop #57752, Stop #80969
+
+**Summary**: Route 645 detoured off I-394 from General Mills Blvd to Louisiana Ave beginning Mon Nov 23 at 8:00 PM until further notice due to construction. Board at: General Mills Blvd & General Mills - Stop #40578 (southbound); Wayzata Blvd & General Mills Blvd - Stop #57752 (eastbound); Louisiana Transit Ctr & temporary Gate B - Stop #80969 (eastbound).
+
+> 💡 **Rider Action**: Board at: General Mills Blvd & General Mills - Stop #40578 (southbound); Wayzata Blvd & General Mills Blvd - Stop #57752 (eastbound); Louisiana Transit Ctr & temporary Gate B - Stop #80969 (eastbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on General Mills Blvd to I-394 ramp, continue on General Mills Blvd to Wayzata Blvd, left on Wayzata Blvd, left into Louisiana Ave Transit Center, and resume detour route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/645)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 645 detoured off I-394 from General Mills Blvd to Louisiana Ave beginning Mon Nov 23 at 8:00 PM until further notice due to construction
+
+```text
+Get on/off buses at:
+General Mills Blvd & General Mills - Stop #40578 (southbound)
+Wayzata Blvd & General Mills Blvd - Stop #57752 (eastbound)
+Louisiana Transit Ctr & Temp Gate B - Stop #80969 (eastbound)
+
+Eastbound buses will travel regular route on General Mills Blvd to I-394 ramp, continue on General Mills Blvd to Wayzata Blvd, left on Wayzata Blvd, left into Louisiana Ave Transit Center, and resume detour route.
+
+Westbound buses will travel regular route.
+
+Affected stops:
+I-394 Ramp & General Mills Blvd - Stop #41158 (eastbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 673, Route 673B: Detour via Cedar Lake Rd & Texas Ave
 
 - **Affected Routes**: `Route 673` `Route 673B`
@@ -2542,6 +2785,38 @@ Westbound buses will travel regular route on the Gold Line guideway to Mounds Bl
 Public-facing maps for Route 14 were updated on August 22, 2026, to reflect the new permanent routing along Richfield Parkway between 63rd Street and 66th Street.
 
 However, due to delays in installing ADA-accessible bus stops along Richfield Parkway, Route 14 buses will continue to operate along Bloomington Avenue between 63rd Street and 66th Street until the new stops are installed and ready for service.
+```
+
+</details>
+
+---
+
+### ℹ️ Route 27: Service Advisory
+
+- **Affected Routes**: `Route 27`
+- **Direction**: Eastbound
+- **Severity**: `Minor`
+- **Schedule**: Beginning Tue Nov 24 at 11:00 AM
+- **Corridors & Intersections**: Lake St W & Blaisdell Ave S; Lake St W & Grand Ave S
+- **Closed Stops**: Lake St W & Blaisdell Ave S (Stop #16845), Stop #16841
+
+**Summary**: Lake St W & Blaisdell Ave S - Stop #16845 (eastbound) is permanently eliminated for Route 27 beginning Tue Nov 24 at 11:00 AM. Board at: Lake St W & Grand Ave S - Stop #16841 (eastbound).
+
+> 💡 **Rider Action**: Board at: Lake St W & Grand Ave S - Stop #16841 (eastbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/27)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Lake St W & Blaisdell Ave S - Stop #16845 (eastbound) is permanently eliminated for Route 27 beginning Tue Nov 24 at 11:00 AM
+
+```text
+Get on/off buses at:
+Lake St W & Grand Ave S - Stop #16841 (eastbound)
+
+Affected stops:
+Lake St W & Blaisdell Ave S - Stop #16845 (eastbound)
 ```
 
 </details>
