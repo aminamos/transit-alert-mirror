@@ -1,16 +1,42 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-19T21:20:28.940Z",
-    "totalAlerts": 70,
-    "criticalCount": 8,
+    "generatedAt": "2026-11-20T02:57:37.788Z",
+    "totalAlerts": 71,
+    "criticalCount": 9,
     "moderateCount": 57,
     "minorCount": 5,
-    "affectedRoutesCount": 58,
+    "affectedRoutesCount": 61,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
+    {
+      "id": "55448",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "METRO B Line: Westbound 8:33 PM Trip Canceled (Union Depot & Gate A1)",
+      "summary": "Westbound B Line trip departing Union Depot & Gate A1 at 8:33 PM canceled today",
+      "affectedRoutes": [
+        "METRO B Line"
+      ],
+      "direction": "Westbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-20T02:56:00.000Z",
+        "end": "2026-11-20T04:34:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/bline",
+      "updatedAt": "2026-11-20T02:57:23.000Z",
+      "rawHeader": "Westbound B Line trip departing Union Depot & Gate A1 at 8:33 PM canceled today",
+      "rawDescription": ""
+    },
     {
       "id": "55428",
       "agency": "Metro Transit",
@@ -38,308 +64,293 @@
       "rawDescription": "Affected northbound trips:\r\ndeparting MOA Transit Station Gate A at 3:39 PM\r\ndeparting MOA Transit Station Gate A at 7:00 PM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 1:59 PM\r\ndeparting Brooklyn Ctr Transit Ctr Gate F at 5:18 PM"
     },
     {
-      "id": "55433",
+      "id": "55445",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 14: Northbound 1:49 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)",
-      "summary": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 1:49 PM canceled today",
+      "title": "Route 2: Westbound 7:30 PM Trip Canceled (2nd Ave SE & 7th St SE)",
+      "summary": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 7:30 PM canceled",
       "affectedRoutes": [
-        "Route 14"
+        "Route 2"
       ],
-      "direction": "Northbound",
+      "direction": "Westbound",
       "intersections": [],
-      "closedStopIds": [
-        "15290",
-        "15292",
-        "15294",
-        "15296",
-        "15298",
-        "15300",
-        "15644",
-        "15648",
-        "16330",
-        "16336",
-        "16342",
-        "16353",
-        "17894",
-        "17895",
-        "17897",
-        "17899",
-        "17901",
-        "17902",
-        "17947",
-        "17948",
-        "41984",
-        "19311",
-        "19313",
-        "19496",
-        "40764",
-        "52327",
-        "52658",
-        "50153",
-        "53941",
-        "8271",
-        "8277",
-        "8291",
-        "8294",
-        "8306",
-        "8316",
-        "8318",
-        "8326",
-        "8330",
-        "8336",
-        "8338",
-        "8340",
-        "8344",
-        "8360",
-        "8368",
-        "8372",
-        "8376",
-        "8384",
-        "8386",
-        "8388",
-        "8390",
-        "53765"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "15290"
-        },
-        {
-          "id": "15292"
-        },
-        {
-          "id": "15294"
-        },
-        {
-          "id": "15296"
-        },
-        {
-          "id": "15298"
-        },
-        {
-          "id": "15300"
-        },
-        {
-          "id": "15644"
-        },
-        {
-          "id": "15648"
-        },
-        {
-          "id": "16330"
-        },
-        {
-          "id": "16336"
-        },
-        {
-          "id": "16342"
-        },
-        {
-          "id": "16353"
-        },
-        {
-          "id": "17894"
-        },
-        {
-          "id": "17895"
-        },
-        {
-          "id": "17897"
-        },
-        {
-          "id": "17899"
-        },
-        {
-          "id": "17901"
-        },
-        {
-          "id": "17902"
-        },
-        {
-          "id": "17947"
-        },
-        {
-          "id": "17948"
-        },
-        {
-          "id": "41984"
-        },
-        {
-          "id": "19311"
-        },
-        {
-          "id": "19313"
-        },
-        {
-          "id": "19496"
-        },
-        {
-          "id": "40764"
-        },
-        {
-          "id": "52327"
-        },
-        {
-          "id": "52658"
-        },
-        {
-          "id": "50153"
-        },
-        {
-          "id": "53941"
-        },
-        {
-          "id": "8271"
-        },
-        {
-          "id": "8277"
-        },
-        {
-          "id": "8291"
-        },
-        {
-          "id": "8294"
-        },
-        {
-          "id": "8306"
-        },
-        {
-          "id": "8316"
-        },
-        {
-          "id": "8318"
-        },
-        {
-          "id": "8326"
-        },
-        {
-          "id": "8330"
-        },
-        {
-          "id": "8336"
-        },
-        {
-          "id": "8338"
-        },
-        {
-          "id": "8340"
-        },
-        {
-          "id": "8344"
-        },
-        {
-          "id": "8360"
-        },
-        {
-          "id": "8368"
-        },
-        {
-          "id": "8372"
-        },
-        {
-          "id": "8376"
-        },
-        {
-          "id": "8384"
-        },
-        {
-          "id": "8386"
-        },
-        {
-          "id": "8388"
-        },
-        {
-          "id": "8390"
-        },
-        {
-          "id": "53765"
-        }
-      ],
+      "closedStopIds": [],
+      "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-19T20:30:00.000Z",
-        "end": "2026-11-19T22:03:00.000Z"
+        "start": "2026-11-20T02:21:00.000Z",
+        "end": "2026-11-20T03:17:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/14",
-      "updatedAt": "2026-11-19T20:30:41.000Z",
-      "rawHeader": "Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 1:49 PM canceled today",
+      "url": "https://www.metrotransit.org/route/2",
+      "updatedAt": "2026-11-20T02:22:04.000Z",
+      "rawHeader": "Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 7:30 PM canceled",
       "rawDescription": ""
     },
     {
-      "id": "55431",
+      "id": "55447",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 18: Service Advisory",
-      "summary": "Southbound Route 18 trip departing 4th Ave S & 3rd St S at 3:05 PM will start from Nicollet and Franklin. Previous stops missed",
+      "title": "Route 4, Route 4P: Service Advisory",
+      "summary": "Southbound Route 4P trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 8:27 PM will start from 3rd st and Hennepin. No previous stops will be served this trip.",
       "affectedRoutes": [
-        "Route 18"
+        "Route 4",
+        "Route 4P"
       ],
-      "direction": "Southbound",
-      "intersections": [],
+      "direction": "Both Directions",
+      "intersections": [
+        "Cub Foods Svc Rd & 39th Ave",
+        "27 PM will start from 3rd st & Hennepin. No previous st",
+        "39th Ave NE & Silver Lake Rd",
+        "39th Ave NE & Coolidge St",
+        "39th Ave NE & Harding St N"
+      ],
       "closedStopIds": [
-        "17976",
-        "17978",
-        "17980",
-        "17982",
-        "17984",
-        "17986",
-        "19294",
-        "1197",
-        "1199",
-        "1200",
-        "56800"
+        "14153",
+        "56679",
+        "52033",
+        "56762",
+        "15711",
+        "11684",
+        "15998",
+        "15991",
+        "15992",
+        "15999",
+        "16002",
+        "16003",
+        "42298",
+        "16015",
+        "16019",
+        "16023",
+        "42303",
+        "16031",
+        "16032",
+        "16035",
+        "42306",
+        "42448",
+        "16041",
+        "16044",
+        "20046",
+        "14937",
+        "16045",
+        "16046",
+        "56700",
+        "16057",
+        "14947",
+        "15553",
+        "15559",
+        "15562",
+        "17916",
+        "17917",
+        "17971",
+        "17919"
       ],
       "closedStopDetails": [
         {
-          "id": "17976"
+          "id": "14153",
+          "name": "Silver Lk & Cub Foods Svc Rd / 39th Ave",
+          "direction": "southbound"
         },
         {
-          "id": "17978"
+          "id": "56679",
+          "name": "39th Ave NE & Silver Lake Rd / Belden Dr",
+          "direction": "westbound"
         },
         {
-          "id": "17980"
+          "id": "52033",
+          "name": "39th Ave NE & Coolidge St",
+          "direction": "westbound"
         },
         {
-          "id": "17982"
+          "id": "56762",
+          "name": "39th Ave NE & Harding St NE",
+          "direction": "westbound"
         },
         {
-          "id": "17984"
+          "id": "15711",
+          "name": "39th Ave NE & Apache Lane (W)",
+          "direction": "westbound"
         },
         {
-          "id": "17986"
+          "id": "11684",
+          "name": "Stinson Blvd & 39th Ave NE",
+          "direction": "southbound"
         },
         {
-          "id": "19294"
+          "id": "15998",
+          "name": "Stinson Blvd & 37th Place NE",
+          "direction": "southbound"
         },
         {
-          "id": "1197"
+          "id": "15991",
+          "name": "37th Place NE & McKinley St NE",
+          "direction": "westbound"
         },
         {
-          "id": "1199"
+          "id": "15992",
+          "name": "37th Place NE & 37th Ave NE",
+          "direction": "westbound"
         },
         {
-          "id": "1200"
+          "id": "15999",
+          "name": "37th Ave NE & Hart Blvd (Cleveland Ave)",
+          "direction": "westbound"
         },
         {
-          "id": "56800"
+          "id": "16002",
+          "name": "37th Ave NE & Hayes St",
+          "direction": "westbound"
+        },
+        {
+          "id": "16003",
+          "name": "Johnson St NE & 37th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "42298",
+          "name": "Johnson St NE & 35th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "16015",
+          "name": "Johnson St NE & 33rd Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "16019",
+          "name": "Johnson St NE & 31st Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "16023",
+          "name": "Johnson St NE & 29th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "42303",
+          "name": "Johnson St NE & 27th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "16031",
+          "name": "Johnson St NE & Lowry Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "16032",
+          "name": "Johnson St NE & 23rd Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "16035",
+          "name": "Johnson St NE & 22nd Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "42306",
+          "name": "Johnson St NE & 19th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "42448",
+          "name": "Johnson St NE & Quarry Center",
+          "direction": "southbound"
+        },
+        {
+          "id": "16041",
+          "name": "Johnson St NE & 14th Ave NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "16044",
+          "name": "Johnson St NE & Broadway St NE",
+          "direction": "southbound"
+        },
+        {
+          "id": "20046",
+          "name": "Johnson St NE & Shaw-Stewart Lumber",
+          "direction": "southbound"
+        },
+        {
+          "id": "14937",
+          "name": "Johnson St NE & Hennepin Ave E",
+          "direction": "southbound"
+        },
+        {
+          "id": "16045",
+          "name": "10th Ave SE & Hennepin Business Center",
+          "direction": "southbound"
+        },
+        {
+          "id": "16046",
+          "name": "10th Ave SE & 8th St SE",
+          "direction": "southbound"
+        },
+        {
+          "id": "56700",
+          "name": "8th St SE & 8th Ave SE",
+          "direction": "westbound"
+        },
+        {
+          "id": "16057",
+          "name": "8th St SE & 5th Ave SE",
+          "direction": "westbound"
+        },
+        {
+          "id": "14947",
+          "name": "Hennepin Ave E & 8th St SE",
+          "direction": "westbound"
+        },
+        {
+          "id": "15553",
+          "name": "1st Ave NE & 6th St NE",
+          "direction": "westbound"
+        },
+        {
+          "id": "15559",
+          "name": "1st Ave NE & 4th St NE",
+          "direction": "westbound"
+        },
+        {
+          "id": "15562",
+          "name": "1st Ave & 2nd St NE Station",
+          "direction": "westbound"
+        },
+        {
+          "id": "17916",
+          "name": "Hennepin Ave E & De LaSalle Dr",
+          "direction": "southbound"
+        },
+        {
+          "id": "17917",
+          "name": "Hennepin Ave & 1st St N",
+          "direction": "southbound"
+        },
+        {
+          "id": "17971",
+          "name": "1st St N & Hennepin Ave",
+          "direction": "eastbound"
+        },
+        {
+          "id": "17919",
+          "name": "Hennepin & Gateway Station",
+          "direction": "southbound"
         }
       ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-19T21:05:00.000Z",
-        "end": "2026-11-19T22:59:00.000Z"
+        "start": "2026-11-20T02:44:00.000Z",
+        "end": "2026-11-20T04:38:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/18",
-      "updatedAt": "2026-11-19T20:35:01.000Z",
-      "rawHeader": "Southbound Route 18 trip departing 4th Ave S & 3rd St S at 3:05 PM will start from Nicollet and Franklin. Previous stops missed",
-      "rawDescription": ""
+      "url": "https://www.metrotransit.org/route/4",
+      "updatedAt": "2026-11-20T02:45:35.000Z",
+      "rawHeader": "Southbound Route 4P trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 8:27 PM will start from 3rd st and Hennepin. No previous stops will be served this trip.",
+      "rawDescription": "Affected stops:\r\nSilver Lk & Cub Foods Svc Rd / 39th Ave - Stop #14153 (southbound)\r\n39th Ave NE & Silver Lake Rd / Belden Dr - Stop #56679 (westbound)\r\n39th Ave NE & Coolidge St - Stop #52033 (westbound)\r\n39th Ave NE & Harding St NE - Stop #56762 (westbound)\r\n39th Ave NE & Apache Lane (W) - Stop #15711 (westbound)\r\nStinson Blvd & 39th Ave NE - Stop #11684 (southbound)\r\nStinson Blvd & 37th Place NE - Stop #15998 (southbound)\r\n37th Place NE & McKinley St NE - Stop #15991 (westbound)\r\n37th Place NE & 37th Ave NE - Stop #15992 (westbound)\r\n37th Ave NE & Hart Blvd (Cleveland Ave) - Stop #15999 (westbound)\r\n37th Ave NE & Hayes St - Stop #16002 (westbound)\r\nJohnson St NE & 37th Ave NE - Stop #16003 (southbound)\r\nJohnson St NE & 35th Ave NE - Stop #42298 (southbound)\r\nJohnson St NE & 33rd Ave NE - Stop #16015 (southbound)\r\nJohnson St NE & 31st Ave NE - Stop #16019 (southbound)\r\nJohnson St NE & 29th Ave NE - Stop #16023 (southbound)\r\nJohnson St NE & 27th Ave NE - Stop #42303 (southbound)\r\nJohnson St NE & Lowry Ave NE - Stop #16031 (southbound)\r\nJohnson St NE & 23rd Ave NE - Stop #16032 (southbound)\r\nJohnson St NE & 22nd Ave NE - Stop #16035 (southbound)\r\nJohnson St NE & 19th Ave NE - Stop #42306 (southbound)\r\nJohnson St NE & Quarry Center - Stop #42448 (southbound)\r\nJohnson St NE & 14th Ave NE - Stop #16041 (southbound)\r\nJohnson St NE & Broadway St NE - Stop #16044 (southbound)\r\nJohnson St NE & Shaw-Stewart Lumber - Stop #20046 (southbound)\r\nJohnson St NE & Hennepin Ave E - Stop #14937 (southbound)\r\n10th Ave SE & Hennepin Business Center - Stop #16045 (southbound)\r\n10th Ave SE & 8th St SE - Stop #16046 (southbound)\r\n8th St SE & 8th Ave SE - Stop #56700 (westbound)\r\n8th St SE & 5th Ave SE - Stop #16057 (westbound)\r\nHennepin Ave E & 8th St SE - Stop #14947 (westbound)\r\n1st Ave NE & 6th St NE - Stop #15553 (westbound)\r\n1st Ave NE & 4th St NE - Stop #15559 (westbound)\r\n1st Ave & 2nd St NE Station - Stop #15562 (westbound)\r\nHennepin Ave E & De LaSalle Dr - Stop #17916 (southbound)\r\nHennepin Ave & 1st St N - Stop #17917 (southbound)\r\n1st St N & Hennepin Ave - Stop #17971 (eastbound)\r\nHennepin & Gateway Station - Stop #17919 (southbound)"
     },
     {
       "id": "55425",
@@ -372,32 +383,6 @@
       "rawDescription": "Affected eastbound trips:\r\ndeparting Knox Ave N & Golden Valley Rd at 1:56 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 3:54 PM\r\ndeparting Knox Ave N & Golden Valley Rd at 5:56 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 1:04 PM\r\ndeparting Westgate Station - Gate B at 3:04 PM\r\ndeparting Westgate Station - Gate B at 5:04 PM\r\ndeparting Westgate Station - Gate B at 7:05 PM"
     },
     {
-      "id": "55434",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 61: Westbound 2:31 PM Trip Canceled (Smith & 5th St Station)",
-      "summary": "Westbound Route 61 trip departing Smith & 5th St Station at 2:31 PM canceled",
-      "affectedRoutes": [
-        "Route 61"
-      ],
-      "direction": "Westbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-19T21:12:00.000Z",
-        "end": "2026-11-19T22:52:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/61",
-      "updatedAt": "2026-11-19T21:12:40.000Z",
-      "rawHeader": "Westbound Route 61 trip departing Smith & 5th St Station at 2:31 PM canceled",
-      "rawDescription": ""
-    },
-    {
       "id": "55426",
       "agency": "Metro Transit",
       "severity": "Critical",
@@ -423,67 +408,89 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/72",
-      "updatedAt": "2026-11-19T17:49:07.000Z",
+      "updatedAt": "2026-11-19T22:18:01.000Z",
       "rawHeader": "Route 72 trip departing Sun Ray Transit Center & Gate D at 4:48 PM and five other trips canceled today",
       "rawDescription": "Affected eastbound trips:\r\ndeparting Pascal St N & Central Ave W at 5:50 PM\r\ndeparting Pascal St N & Central Ave W at 7:53 PM\r\ndeparting Pascal St N & Central Ave W at 9:53 PM\r\n\nAffected westbound trips:\r\ndeparting Sun Ray Transit Center & Gate D at 4:48 PM\r\ndeparting Sun Ray Transit Center & Gate D at 6:51 PM\r\ndeparting Sun Ray Transit Center & Gate D at 8:51 PM"
     },
     {
-      "id": "55423",
+      "id": "55446",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 802: Service Canceled",
-      "summary": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today",
+      "title": "Route 87: Southbound 8:23 PM Trip Canceled (Rosedale Transit Center Gate C)",
+      "summary": "Southbound Route 87 trip departing Rosedale Transit Center Gate C at 8:23 PM canceled today due to disabled bus",
       "affectedRoutes": [
-        "Route 802"
+        "Route 87"
       ],
-      "direction": "Both Directions",
+      "direction": "Southbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-19T17:34:00.000Z",
-        "end": "2026-11-20T01:14:00.000Z"
+        "start": "2026-11-20T02:40:00.000Z",
+        "end": "2026-11-20T04:07:00.000Z"
       },
-      "cause": "UNKNOWN_CAUSE",
+      "cause": "TECHNICAL_PROBLEM",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-11-19T17:08:52.000Z",
-      "rawHeader": "Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 11:34 AM\r\ndeparting Northtown Transit Ctr Gate E at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 12:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 2:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 4:42 PM"
+      "url": "https://www.metrotransit.org/route/87",
+      "updatedAt": "2026-11-20T02:40:18.000Z",
+      "rawHeader": "Southbound Route 87 trip departing Rosedale Transit Center Gate C at 8:23 PM canceled today due to disabled bus",
+      "rawDescription": ""
     },
     {
-      "id": "55422",
+      "id": "55441",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 805: Service Canceled",
-      "summary": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today",
+      "title": "Route 540: Service Canceled",
+      "summary": "Route 540 trip departing MOA Transit Station Gate G at 5:55 PM and four other trips canceled today",
       "affectedRoutes": [
-        "Route 805"
+        "Route 540"
       ],
       "direction": "Both Directions",
       "intersections": [
-        "Route 805 trip departing 1st Ave S & Monroe St",
-        "departing 1st Ave S & Monroe St",
-        "38 AM\ndeparting 1st Ave S & Monroe St",
-        "38 PM\ndeparting 1st Ave S & Monroe St",
-        "36 PM\ndeparting 1st Ave S & Monroe St"
+        "departing Normandale Lake Blvd & 83rd St"
       ],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-19T17:38:00.000Z",
-        "end": "2026-11-20T01:24:00.000Z"
+        "start": "2026-11-19T23:55:00.000Z",
+        "end": "2026-11-20T05:58:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-11-19T17:08:02.000Z",
-      "rawHeader": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 11:38 AM\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
+      "url": "https://www.metrotransit.org/route/540",
+      "updatedAt": "2026-11-19T23:48:25.000Z",
+      "rawHeader": "Route 540 trip departing MOA Transit Station Gate G at 5:55 PM and four other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Normandale Lake Blvd & 83rd St / 84th St at 9:32 PM\r\n\nAffected westbound trips:\r\ndeparting MOA Transit Station Gate G at 5:55 PM\r\ndeparting MOA Transit Station Gate G at 7:26 PM\r\ndeparting MOA Transit Station Gate G at 8:57 PM\r\ndeparting MOA Transit Station Gate G at 10:27 PM"
+    },
+    {
+      "id": "55440",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 542: Service Canceled",
+      "summary": "Route 542 trips departing American Blvd & Social Security Admin at 6:28 PM and departing American Blvd & Social Security Admin at 7:58 PM canceled today",
+      "affectedRoutes": [
+        "Route 542"
+      ],
+      "direction": "All",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-20T00:28:00.000Z",
+        "end": "2026-11-20T03:26:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/542",
+      "updatedAt": "2026-11-19T23:58:01.000Z",
+      "rawHeader": "Route 542 trips departing American Blvd & Social Security Admin at 6:28 PM and departing American Blvd & Social Security Admin at 7:58 PM canceled today",
+      "rawDescription": ""
     },
     {
       "id": "52943",

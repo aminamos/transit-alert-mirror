@@ -2,19 +2,38 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-70-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-8-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-71-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-9-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-57-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-5-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-58-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-61-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-19T21:20:28.940Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-20T02:57:37.788Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (4) • **Route 10** (2) • **Route 11** (2) • **Route 14** (2) • **Route 17** (1) • **Route 18** (8) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (3) • **Route 67** (2) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (2) • **Route 805** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 4** (1) • **Route 4P** (1) • **Route 7** (1) • **Route 9** (4) • **Route 10** (2) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (7) • **Route 25** (1) • **Route 27** (2) • **Route 30** (1) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (2) • **Route 64** (3) • **Route 67** (2) • **Route 68** (2) • **Route 71** (1) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (2) • **Route 542** (2) • **Route 578** (4) • **Route 615** (1) • **Route 645** (1) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
+
+### 🚨 METRO B Line: Westbound 8:33 PM Trip Canceled (Union Depot & Gate A1)
+
+- **Affected Routes**: `METRO B Line`
+- **Direction**: Westbound
+- **Severity**: `Critical`
+
+**Summary**: Westbound B Line trip departing Union Depot & Gate A1 at 8:33 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/bline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound B Line trip departing Union Depot & Gate A1 at 8:33 PM canceled today
+
+</details>
+
+---
 
 ### 🚨 METRO D Line: Service Canceled
 
@@ -45,41 +64,83 @@ departing Brooklyn Ctr Transit Ctr Gate F at 5:18 PM
 
 ---
 
-### 🚨 Route 14: Northbound 1:49 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)
+### 🚨 Route 2: Westbound 7:30 PM Trip Canceled (2nd Ave SE & 7th St SE)
 
-- **Affected Routes**: `Route 14`
-- **Direction**: Northbound
+- **Affected Routes**: `Route 2`
+- **Direction**: Westbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #15290, Stop #15292, Stop #15294, Stop #15296, Stop #15298, Stop #15300, Stop #15644, Stop #15648 *(+43 more)*
 
-**Summary**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 1:49 PM canceled today
+**Summary**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 7:30 PM canceled
 
-[Official Agency Advisory](https://www.metrotransit.org/route/14)
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 1:49 PM canceled today
+**Header**: Westbound Route 2 trip departing 2nd Ave SE & 7th St SE at 7:30 PM canceled
 
 </details>
 
 ---
 
-### 🚨 Route 18: Service Advisory
+### 🚨 Route 4, Route 4P: Service Advisory
 
-- **Affected Routes**: `Route 18`
-- **Direction**: Southbound
+- **Affected Routes**: `Route 4` `Route 4P`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #17976, Stop #17978, Stop #17980, Stop #17982, Stop #17984, Stop #17986, Stop #19294, Stop #1197 *(+3 more)*
+- **Corridors & Intersections**: Cub Foods Svc Rd & 39th Ave; 27 PM will start from 3rd st & Hennepin. No previous st; 39th Ave NE & Silver Lake Rd; 39th Ave NE & Coolidge St; 39th Ave NE & Harding St N
+- **Closed Stops**: Silver Lk & Cub Foods Svc Rd / 39th Ave (Stop #14153), 39th Ave NE & Silver Lake Rd / Belden Dr (Stop #56679), 39th Ave NE & Coolidge St (Stop #52033), 39th Ave NE & Harding St NE (Stop #56762), 39th Ave NE & Apache Lane (W) (Stop #15711), Stinson Blvd & 39th Ave NE (Stop #11684), Stinson Blvd & 37th Place NE (Stop #15998), 37th Place NE & McKinley St NE (Stop #15991) *(+30 more)*
 
-**Summary**: Southbound Route 18 trip departing 4th Ave S & 3rd St S at 3:05 PM will start from Nicollet and Franklin. Previous stops missed
+**Summary**: Southbound Route 4P trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 8:27 PM will start from 3rd st and Hennepin. No previous stops will be served this trip.
 
-[Official Agency Advisory](https://www.metrotransit.org/route/18)
+[Official Agency Advisory](https://www.metrotransit.org/route/4)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 18 trip departing 4th Ave S & 3rd St S at 3:05 PM will start from Nicollet and Franklin. Previous stops missed
+**Header**: Southbound Route 4P trip departing Silver Lk & Cub Foods Svc Rd / 39th Ave at 8:27 PM will start from 3rd st and Hennepin. No previous stops will be served this trip.
+
+```text
+Affected stops:
+Silver Lk & Cub Foods Svc Rd / 39th Ave - Stop #14153 (southbound)
+39th Ave NE & Silver Lake Rd / Belden Dr - Stop #56679 (westbound)
+39th Ave NE & Coolidge St - Stop #52033 (westbound)
+39th Ave NE & Harding St NE - Stop #56762 (westbound)
+39th Ave NE & Apache Lane (W) - Stop #15711 (westbound)
+Stinson Blvd & 39th Ave NE - Stop #11684 (southbound)
+Stinson Blvd & 37th Place NE - Stop #15998 (southbound)
+37th Place NE & McKinley St NE - Stop #15991 (westbound)
+37th Place NE & 37th Ave NE - Stop #15992 (westbound)
+37th Ave NE & Hart Blvd (Cleveland Ave) - Stop #15999 (westbound)
+37th Ave NE & Hayes St - Stop #16002 (westbound)
+Johnson St NE & 37th Ave NE - Stop #16003 (southbound)
+Johnson St NE & 35th Ave NE - Stop #42298 (southbound)
+Johnson St NE & 33rd Ave NE - Stop #16015 (southbound)
+Johnson St NE & 31st Ave NE - Stop #16019 (southbound)
+Johnson St NE & 29th Ave NE - Stop #16023 (southbound)
+Johnson St NE & 27th Ave NE - Stop #42303 (southbound)
+Johnson St NE & Lowry Ave NE - Stop #16031 (southbound)
+Johnson St NE & 23rd Ave NE - Stop #16032 (southbound)
+Johnson St NE & 22nd Ave NE - Stop #16035 (southbound)
+Johnson St NE & 19th Ave NE - Stop #42306 (southbound)
+Johnson St NE & Quarry Center - Stop #42448 (southbound)
+Johnson St NE & 14th Ave NE - Stop #16041 (southbound)
+Johnson St NE & Broadway St NE - Stop #16044 (southbound)
+Johnson St NE & Shaw-Stewart Lumber - Stop #20046 (southbound)
+Johnson St NE & Hennepin Ave E - Stop #14937 (southbound)
+10th Ave SE & Hennepin Business Center - Stop #16045 (southbound)
+10th Ave SE & 8th St SE - Stop #16046 (southbound)
+8th St SE & 8th Ave SE - Stop #56700 (westbound)
+8th St SE & 5th Ave SE - Stop #16057 (westbound)
+Hennepin Ave E & 8th St SE - Stop #14947 (westbound)
+1st Ave NE & 6th St NE - Stop #15553 (westbound)
+1st Ave NE & 4th St NE - Stop #15559 (westbound)
+1st Ave & 2nd St NE Station - Stop #15562 (westbound)
+Hennepin Ave E & De LaSalle Dr - Stop #17916 (southbound)
+Hennepin Ave & 1st St N - Stop #17917 (southbound)
+1st St N & Hennepin Ave - Stop #17971 (eastbound)
+Hennepin & Gateway Station - Stop #17919 (southbound)
+```
 
 </details>
 
@@ -121,25 +182,6 @@ departing Westgate Station - Gate B at 7:05 PM
 
 ---
 
-### 🚨 Route 61: Westbound 2:31 PM Trip Canceled (Smith & 5th St Station)
-
-- **Affected Routes**: `Route 61`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 61 trip departing Smith & 5th St Station at 2:31 PM canceled
-
-[Official Agency Advisory](https://www.metrotransit.org/route/61)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 61 trip departing Smith & 5th St Station at 2:31 PM canceled
-
-</details>
-
----
-
 ### 🚨 Route 72: Service Canceled
 
 - **Affected Routes**: `Route 72`
@@ -174,69 +216,70 @@ departing Sun Ray Transit Center & Gate D at 8:51 PM
 
 ---
 
-### 🚨 Route 802: Service Canceled
+### 🚨 Route 87: Southbound 8:23 PM Trip Canceled (Rosedale Transit Center Gate C)
 
-- **Affected Routes**: `Route 802`
-- **Direction**: Both Directions
+- **Affected Routes**: `Route 87`
+- **Direction**: Southbound
 - **Severity**: `Critical`
 
-**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
+**Summary**: Southbound Route 87 trip departing Rosedale Transit Center Gate C at 8:23 PM canceled today due to disabled bus
 
-[Official Agency Advisory](https://www.metrotransit.org/route/802)
+[Official Agency Advisory](https://www.metrotransit.org/route/87)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
+**Header**: Southbound Route 87 trip departing Rosedale Transit Center Gate C at 8:23 PM canceled today due to disabled bus
+
+</details>
+
+---
+
+### 🚨 Route 540: Service Canceled
+
+- **Affected Routes**: `Route 540`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing Normandale Lake Blvd & 83rd St
+
+**Summary**: Route 540 trip departing MOA Transit Station Gate G at 5:55 PM and four other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/540)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 540 trip departing MOA Transit Station Gate G at 5:55 PM and four other trips canceled today
 
 ```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate E at 11:34 AM
-departing Northtown Transit Ctr Gate E at 1:34 PM
-departing Northtown Transit Ctr Gate E at 3:34 PM
-departing Northtown Transit Ctr Gate E at 5:34 PM
+Affected eastbound trips:
+departing Normandale Lake Blvd & 83rd St / 84th St at 9:32 PM
 
-Affected southbound trips:
-departing Anoka Tech College & Main Entrance at 12:42 PM
-departing Anoka Tech College & Main Entrance at 2:42 PM
-departing Anoka Tech College & Main Entrance at 4:42 PM
+Affected westbound trips:
+departing MOA Transit Station Gate G at 5:55 PM
+departing MOA Transit Station Gate G at 7:26 PM
+departing MOA Transit Station Gate G at 8:57 PM
+departing MOA Transit Station Gate G at 10:27 PM
 ```
 
 </details>
 
 ---
 
-### 🚨 Route 805: Service Canceled
+### 🚨 Route 542: Service Canceled
 
-- **Affected Routes**: `Route 805`
-- **Direction**: Both Directions
+- **Affected Routes**: `Route 542`
+- **Direction**: All
 - **Severity**: `Critical`
-- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
-departing 1st Ave S & Monroe St; 38 PM
-departing 1st Ave S & Monroe St; 36 PM
-departing 1st Ave S & Monroe St
 
-**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
+**Summary**: Route 542 trips departing American Blvd & Social Security Admin at 6:28 PM and departing American Blvd & Social Security Admin at 7:58 PM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
+[Official Agency Advisory](https://www.metrotransit.org/route/542)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate D at 12:34 PM
-departing Northtown Transit Ctr Gate D at 2:34 PM
-departing Northtown Transit Ctr Gate D at 4:34 PM
-
-Affected southbound trips:
-departing 1st Ave S & Monroe St at 11:38 AM
-departing 1st Ave S & Monroe St at 1:38 PM
-departing 1st Ave S & Monroe St at 3:36 PM
-departing 1st Ave S & Monroe St at 5:38 PM
-```
+**Header**: Route 542 trips departing American Blvd & Social Security Admin at 6:28 PM and departing American Blvd & Social Security Admin at 7:58 PM canceled today
 
 </details>
 
