@@ -4,35 +4,35 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Fri, 20 Nov 2026 19:56:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 01:21:35 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 18: 11:49 AM Trip Canceled (104th St W &amp; Bloomington Fwy W)</title>
-      <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-55470-2026-11-20T18:52:42.000Z</guid>
-      <pubDate>Fri, 20 Nov 2026 18:52:42 GMT</pubDate>
+      <title>[Critical] METRO C Line: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/cline</link>
+      <guid isPermaLink="false">Metro Transit-55515-2026-11-21T00:02:58.000Z</guid>
+      <pubDate>Sat, 21 Nov 2026 00:02:58 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 18</category>
-      <description>Route 18 trip departing 104th St W &amp; Bloomington Fwy W at 11:49 AM canceled today</description>
+      <category>METRO C Line</category>
+      <description>C Line trips departing 7th St &amp; Park Station at 4:56 PM and departing Brooklyn Ctr Transit Ctr Gate I at 5:48 PM canceled today due to police activity</description>
     </item>
     <item>
-      <title>[Critical] Route 25: Northbound 12:36 PM Trip Canceled (Leamington Ramp &amp; Lower - Gate #7)</title>
-      <link>https://www.metrotransit.org/route/25</link>
-      <guid isPermaLink="false">Metro Transit-55473-2026-11-20T19:41:35.000Z</guid>
-      <pubDate>Fri, 20 Nov 2026 19:41:35 GMT</pubDate>
+      <title>[Critical] METRO D Line: Southbound 5:38 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-55517-2026-11-21T00:44:53.000Z</guid>
+      <pubDate>Sat, 21 Nov 2026 00:44:53 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 25</category>
-      <description>Northbound Route 25 trip departing Leamington Ramp &amp; Lower - Gate #7 at 12:36 PM canceled today due to mechanical issue</description>
+      <category>METRO D Line</category>
+      <description>Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:38 PM canceled today due to traffic</description>
     </item>
     <item>
-      <title>[Critical] Route 25: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/25</link>
-      <guid isPermaLink="false">Metro Transit-55474-2026-11-20T19:43:05.000Z</guid>
-      <pubDate>Fri, 20 Nov 2026 19:43:05 GMT</pubDate>
+      <title>[Critical] Route 10: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/10</link>
+      <guid isPermaLink="false">Metro Transit-55516-2026-11-21T00:31:31.000Z</guid>
+      <pubDate>Sat, 21 Nov 2026 00:31:31 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 25</category>
-      <description>Southbound Route 25 trip departing Foley Blvd Park &amp; Ride at 2:28 PM will start from County Rd H2 &amp; Silver Lake Rd. Previous stops missed due to mechanical issues</description>
+      <category>Route 10</category>
+      <description>Route 10 trips departing Northtown Transit Ctr Gate A at 4:46 PM and departing Leamington Ramp &amp; Lower - Gate #7 at 6:13 PM canceled today</description>
     </item>
     <item>
       <title>[Critical] Route 71: Service Canceled</title>
@@ -44,31 +44,13 @@
       <description>Route 71 trip departing Inver Hills College &amp; Shelter at 1:38 PM and three other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 72: Westbound 4:18 PM Trip Canceled (Sun Ray Transit Center &amp; Gate D)</title>
-      <link>https://www.metrotransit.org/route/72</link>
-      <guid isPermaLink="false">Metro Transit-55479-2026-11-20T19:54:38.000Z</guid>
-      <pubDate>Fri, 20 Nov 2026 19:54:38 GMT</pubDate>
+      <title>[Critical] Route 80: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/80</link>
+      <guid isPermaLink="false">Metro Transit-55518-2026-11-21T01:13:32.000Z</guid>
+      <pubDate>Sat, 21 Nov 2026 01:13:32 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 72</category>
-      <description>Westbound Route 72 trip departing Sun Ray Transit Center &amp; Gate D at 4:18 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 83: 1:01 PM Trip Canceled (Montreal Cir &amp; Summit Brewing)</title>
-      <link>https://www.metrotransit.org/route/83</link>
-      <guid isPermaLink="false">Metro Transit-55472-2026-11-20T19:06:30.000Z</guid>
-      <pubDate>Fri, 20 Nov 2026 19:06:30 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 83</category>
-      <description>Route 83 trip departing Montreal Cir &amp; Summit Brewing at 1:01 PM canceled today due to maintenance work</description>
-    </item>
-    <item>
-      <title>[Critical] Route 802: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/802</link>
-      <guid isPermaLink="false">Metro Transit-55468-2026-11-20T18:49:07.000Z</guid>
-      <pubDate>Fri, 20 Nov 2026 18:49:07 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 802</category>
-      <description>Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today</description>
+      <category>Route 80</category>
+      <description>Route 80 trips departing Sun Ray Transit Center &amp; Gate E at 6:42 PM and departing Maplewood Mall Transit Center &amp; Gate F at 7:12 PM canceled today due to collision</description>
     </item>
     <item>
       <title>[Critical] Route 805: Service Canceled</title>
@@ -100,8 +82,8 @@
     <item>
       <title>[Moderate] Route 2: Detour via Franklin Ave &amp; Lyndale Ave</title>
       <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-55463-2026-11-20T18:22:44.000Z</guid>
-      <pubDate>Fri, 20 Nov 2026 18:22:44 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55508-2026-11-20T21:46:09.000Z</guid>
+      <pubDate>Fri, 20 Nov 2026 21:46:09 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 2</category>
       <description>Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction. Temporary stop at 24th St just past Lyndale Ave (eastbound). | Action: Temporary stop at 24th St just past Lyndale Ave (eastbound)</description>
@@ -141,15 +123,6 @@
       <category>Moderate</category>
       <category>Route 9</category>
       <description>Park Place Blvd &amp; Cedar Lake / Gamble Dr - Stop #3010 (northbound) is closed for Route 9 until further notice. Board at: Cedar Lake Rd &amp; Ridge Dr - Stop #3008 (eastbound); Park Place Blvd &amp; 16th St - Stop #3012 (northbound). | Action: Board at: Cedar Lake Rd &amp; Ridge Dr - Stop #3008 (eastbound); Park Place Blvd &amp; 16th St - Stop #3012 (northbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 9: Detour via Cedar Lake Rd &amp; Virginia Ave</title>
-      <link>https://www.metrotransit.org/route/9</link>
-      <guid isPermaLink="false">Metro Transit-46664-2026-09-03T16:38:25.000Z</guid>
-      <pubDate>Thu, 03 Sep 2026 16:38:25 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 9</category>
-      <description>Route 9 detoured off Cedar Lake Rd from Texas Ave to Idaho Ave beginning Mon May 4 at 4:00 AM until further notice due to construction. Board at: Cedar Lake Rd &amp; Virginia Ave - Stop #8046 (eastbound); Temporary stop on Texas Ave just past Cedar Lake Rd (northbound); Louisiana Ave &amp; Franklin Ave - Stop #2996 (southbound). | Action: Board at: Cedar Lake Rd &amp; Virginia Ave - Stop #8046 (eastbound); Temporary stop on Texas Ave just past Cedar Lake Rd (northbound); Louisiana Ave &amp; Franklin Ave - Stop #2996 (southbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 9: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -287,6 +260,15 @@
       <description>38th St E &amp; 3rd Ave S - Stop #12626 (eastbound) is closed for Route 38 beginning Mon Nov 16 at 4:00 AM until further notice. Board at: 38th St W &amp; Nicollet Ave S - Stop #17516 (eastbound); 38th St E &amp; 4th Ave S - Stop #12622 (eastbound). | Action: Board at: 38th St W &amp; Nicollet Ave S - Stop #17516 (eastbound); 38th St E &amp; 4th Ave S - Stop #12622 (eastbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 38, Route 615: Stop Closed at 6th Ave &amp; 5th Ave S</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-55510-2026-11-20T21:58:41.000Z</guid>
+      <pubDate>Fri, 20 Nov 2026 21:58:41 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 38, Route 615</category>
+      <description>Mainstreet &amp; 6th Ave / 5th Ave S - Stop #50095 (eastbound) is closed for Routes 38 and 615 until later today. Board at: Mainstreet &amp; 7th Ave S - Stop #4820 (eastbound); 5th Ave S &amp; Mainstreet / Excelsior Blvd - Stop #4822 (southbound). | Action: Board at: Mainstreet &amp; 7th Ave S - Stop #4820 (eastbound); 5th Ave S &amp; Mainstreet / Excelsior Blvd - Stop #4822 (southbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 54, Route 54M: Detour via 5th St &amp; Robert St</title>
       <link>https://www.metrotransit.org/route/54</link>
       <guid isPermaLink="false">Metro Transit-51972-2026-09-03T18:21:39.000Z</guid>
@@ -411,15 +393,6 @@
       <category>Moderate</category>
       <category>Route 71, Route 71K</category>
       <description>Route 71K detoured off Little Canada Rd from Co Rd C to Rice St until further notice due to construction. Board at: Marketplace Dr &amp; Little Canada - Stop #45305 (southbound); Little Canada Rd &amp; Centerville Rd - Stop #41063 (eastbound). | Action: Board at: Marketplace Dr &amp; Little Canada - Stop #45305 (southbound); Little Canada Rd &amp; Centerville Rd - Stop #41063 (eastbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 72 Returns to Kellogg Blvd Bridge Beginning Sat Nov 14</title>
-      <link>https://www.metrotransit.org/route/72</link>
-      <guid isPermaLink="false">Metro Transit-55200-2026-11-17T14:29:59.000Z</guid>
-      <pubDate>Tue, 17 Nov 2026 14:29:59 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 72</category>
-      <description>Route 72 returns to Kellogg Blvd Bridge beginning Sat Nov 14. Board at: 5th St &amp; Jackson St - Stop #11838 (eastbound); Union Depot &amp; Wacouta Station - Stop #57420 (southbound); Kellogg Blvd &amp; Broadway St - Stop #11928 (eastbound). | Action: Board at: 5th St &amp; Jackson St - Stop #11838 (eastbound); Union Depot &amp; Wacouta Station - Stop #57420 (southbound); Kellogg Blvd &amp; Broadway St - Stop #11928 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 74: Detour via 5th St E &amp; Sibley St</title>
@@ -559,8 +532,8 @@
     <item>
       <title>[Moderate] Route 645: Detour via 16th St W &amp; Park Place East - St</title>
       <link>https://www.metrotransit.org/route/645</link>
-      <guid isPermaLink="false">Metro Transit-51935-2026-09-03T18:46:39.000Z</guid>
-      <pubDate>Thu, 03 Sep 2026 18:46:39 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-51935-2026-11-20T21:50:16.000Z</guid>
+      <pubDate>Fri, 20 Nov 2026 21:50:16 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 645</category>
       <description>Route 645 detoured off Zarthan Ave from 16th St to Wayzata Blvd and off Wayzata Blvd from Zarthan Ave to Louisiana Transit Center beginning Mon Jul 6 at 4:00 AM until further notice due to construction. Board at: Louisiana Transit Ctr &amp; temporary Gate B - Stop #80969 (eastbound); 16th St W &amp; Park Place East - Stop #40325 (eastbound). | Action: Board at: Louisiana Transit Ctr &amp; temporary Gate B - Stop #80969 (eastbound); 16th St W &amp; Park Place East - Stop #40325 (eastbound)</description>

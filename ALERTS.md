@@ -2,75 +2,74 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-73-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-8-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-59-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-70-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-6-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-58-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-6-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-59-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-60-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-20T19:56:36.796Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-21T01:21:35.065Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (3) • **Route 10** (2) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (8) • **Route 22** (1) • **Route 25** (3) • **Route 27** (3) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (2) • **Route 64** (3) • **Route 67** (2) • **Route 68** (3) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (2) • **Route 805** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (2) • **Route 10** (3) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (7) • **Route 22** (1) • **Route 25** (1) • **Route 27** (3) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (2) • **Route 64** (3) • **Route 67** (2) • **Route 68** (3) • **Route 71** (2) • **Route 71K** (1) • **Route 74** (2) • **Route 75** (1) • **Route 80** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (2) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 18: 11:49 AM Trip Canceled (104th St W & Bloomington Fwy W)
+### 🚨 METRO C Line: Service Canceled
 
-- **Affected Routes**: `Route 18`
-- **Direction**: All
+- **Affected Routes**: `METRO C Line`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #17988, Stop #17990, Stop #17992, Stop #17994, Stop #17996, Stop #17998, Stop #1890, Stop #1900 *(+92 more)*
+- **Corridors & Intersections**: C Line trips departing 7th St & Park St
 
-**Summary**: Route 18 trip departing 104th St W & Bloomington Fwy W at 11:49 AM canceled today
+**Summary**: C Line trips departing 7th St & Park Station at 4:56 PM and departing Brooklyn Ctr Transit Ctr Gate I at 5:48 PM canceled today due to police activity
 
-[Official Agency Advisory](https://www.metrotransit.org/route/18)
+[Official Agency Advisory](https://www.metrotransit.org/route/cline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 18 trip departing 104th St W & Bloomington Fwy W at 11:49 AM canceled today
+**Header**: C Line trips departing 7th St & Park Station at 4:56 PM and departing Brooklyn Ctr Transit Ctr Gate I at 5:48 PM canceled today due to police activity
 
 </details>
 
 ---
 
-### 🚨 Route 25: Northbound 12:36 PM Trip Canceled (Leamington Ramp & Lower - Gate #7)
+### 🚨 METRO D Line: Southbound 5:38 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)
 
-- **Affected Routes**: `Route 25`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #10938, Stop #10940, Stop #13923, Stop #13932, Stop #13940, Stop #13944, Stop #13951, Stop #13957 *(+43 more)*
-
-**Summary**: Northbound Route 25 trip departing Leamington Ramp & Lower - Gate #7 at 12:36 PM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/25)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 25 trip departing Leamington Ramp & Lower - Gate #7 at 12:36 PM canceled today due to mechanical issue
-
-</details>
-
----
-
-### 🚨 Route 25: Service Advisory
-
-- **Affected Routes**: `Route 25`
+- **Affected Routes**: `METRO D Line`
 - **Direction**: Southbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #10941, Stop #13987, Stop #13988, Stop #13983, Stop #13979, Stop #13975, Stop #13971, Stop #13968 *(+32 more)*
+- **Closed Stops**: Stop #42318, Stop #56873, Stop #56913, Stop #56914, Stop #56916, Stop #56917, Stop #56918, Stop #56919 *(+9 more)*
 
-**Summary**: Southbound Route 25 trip departing Foley Blvd Park & Ride at 2:28 PM will start from County Rd H2 & Silver Lake Rd. Previous stops missed due to mechanical issues
+**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:38 PM canceled today due to traffic
 
-[Official Agency Advisory](https://www.metrotransit.org/route/25)
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 25 trip departing Foley Blvd Park & Ride at 2:28 PM will start from County Rd H2 & Silver Lake Rd. Previous stops missed due to mechanical issues
+**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:38 PM canceled today due to traffic
+
+</details>
+
+---
+
+### 🚨 Route 10: Service Canceled
+
+- **Affected Routes**: `Route 10`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 10 trips departing Northtown Transit Ctr Gate A at 4:46 PM and departing Leamington Ramp & Lower - Gate #7 at 6:13 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/10)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 10 trips departing Northtown Transit Ctr Gate A at 4:46 PM and departing Leamington Ramp & Lower - Gate #7 at 6:13 PM canceled today
 
 </details>
 
@@ -105,71 +104,20 @@ departing Market Place Dr & The Marketplace Ctr at 6:15 PM
 
 ---
 
-### 🚨 Route 72: Westbound 4:18 PM Trip Canceled (Sun Ray Transit Center & Gate D)
+### 🚨 Route 80: Service Canceled
 
-- **Affected Routes**: `Route 72`
-- **Direction**: Westbound
-- **Severity**: `Critical`
-
-**Summary**: Westbound Route 72 trip departing Sun Ray Transit Center & Gate D at 4:18 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/72)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 72 trip departing Sun Ray Transit Center & Gate D at 4:18 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 83: 1:01 PM Trip Canceled (Montreal Cir & Summit Brewing)
-
-- **Affected Routes**: `Route 83`
-- **Direction**: All
-- **Severity**: `Critical`
-
-**Summary**: Route 83 trip departing Montreal Cir & Summit Brewing at 1:01 PM canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/83)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 83 trip departing Montreal Cir & Summit Brewing at 1:01 PM canceled today due to maintenance work
-
-</details>
-
----
-
-### 🚨 Route 802: Service Canceled
-
-- **Affected Routes**: `Route 802`
+- **Affected Routes**: `Route 80`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
+**Summary**: Route 80 trips departing Sun Ray Transit Center & Gate E at 6:42 PM and departing Maplewood Mall Transit Center & Gate F at 7:12 PM canceled today due to collision
 
-[Official Agency Advisory](https://www.metrotransit.org/route/802)
+[Official Agency Advisory](https://www.metrotransit.org/route/80)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 802 trip departing Northtown Transit Ctr Gate E at 11:34 AM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate E at 11:34 AM
-departing Northtown Transit Ctr Gate E at 1:34 PM
-departing Northtown Transit Ctr Gate E at 3:34 PM
-departing Northtown Transit Ctr Gate E at 5:34 PM
-
-Affected southbound trips:
-departing Anoka Tech College & Main Entrance at 12:42 PM
-departing Anoka Tech College & Main Entrance at 2:42 PM
-departing Anoka Tech College & Main Entrance at 4:42 PM
-```
+**Header**: Route 80 trips departing Sun Ray Transit Center & Gate E at 6:42 PM and departing Maplewood Mall Transit Center & Gate F at 7:12 PM canceled today due to collision
 
 </details>
 
@@ -275,7 +223,7 @@ Due to mechanical issues, both elevators at Franklin Ave Station are unavailable
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Mon Mar 23 at 5:00 AM until further notice
 - **Corridors & Intersections**: Franklin Ave & Lyndale Ave; Lyndale Ave & 22nd St; 24th St & Pleasant Ave; 24th St & Nicollet Ave; 28th St & 1st Ave
-- **Closed Stops**: Franklin Ave W & Pleasant Ave (Stop #13330), Franklin Ave E & Nicollet Ave (Stop #56697), Franklin Ave E & 3rd Ave S (Stop #13320), Franklin Ave E & Portland Ave (Stop #13316), Franklin Ave E & Chicago Ave (Stop #13312), Franklin Ave E & Chicago Ave (Stop #56698), Franklin Ave E & Portland Ave (Stop #13315), Franklin Ave E & Clinton Ave S (Stop #13318) *(+35 more)*
+- **Closed Stops**: Franklin Ave W & Pleasant Ave (Stop #13330), Franklin Ave E & Nicollet Ave (Stop #56697), Franklin Ave E & 3rd Ave S (Stop #13320), Franklin Ave E & Portland Ave (Stop #13316), Franklin Ave E & Chicago Ave (Stop #13312), Franklin Ave E & Chicago Ave (Stop #56698), Franklin Ave E & Portland Ave (Stop #13315), Franklin Ave E & Clinton Ave S (Stop #13318) *(+26 more)*
 
 **Summary**: Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction. Temporary stop at 24th St just past Lyndale Ave (eastbound).
 
@@ -504,62 +452,6 @@ Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on 
 Get on/off buses at:
 Cedar Lake Rd & Ridge Dr - Stop #3008 (eastbound)
 Park Place Blvd & 16th St - Stop #3012 (northbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 9: Detour via Cedar Lake Rd & Virginia Ave
-
-- **Affected Routes**: `Route 9`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon May 4 at 4:00 AM until further notice
-- **Corridors & Intersections**: Cedar Lake Rd & Virginia Ave; Louisiana Ave & Franklin Ave; Cedar Lake Rd & Hampshire Ave; Cedar Lake Rd & Texas Ave; Cedar Lake Rd & Louisiana Ave
-- **Closed Stops**: Stop #8046, Stop #2996, Stop #3001, Stop #2983, Stop #2989, Stop #8073, Stop #41366, Stop #2985 *(+3 more)*
-
-**Summary**: Route 9 detoured off Cedar Lake Rd from Texas Ave to Idaho Ave beginning Mon May 4 at 4:00 AM until further notice due to construction. Board at: Cedar Lake Rd & Virginia Ave - Stop #8046 (eastbound); Temporary stop on Texas Ave just past Cedar Lake Rd (northbound); Louisiana Ave & Franklin Ave - Stop #2996 (southbound).
-
-> 💡 **Rider Action**: Board at: Cedar Lake Rd & Virginia Ave - Stop #8046 (eastbound); Temporary stop on Texas Ave just past Cedar Lake Rd (northbound); Louisiana Ave & Franklin Ave - Stop #2996 (southbound)
-
-> 🔄 **Detour Path**: buses will travel regular route on Cedar Lake Rd to Idaho Ave, right on Idaho Ave, left on 22nd St W, right on Louisiana Ave, left on Wayzata Blvd, left on Texas Ave, right on Cedar Lake Rd and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/9)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 9 detoured off Cedar Lake Rd from Texas Ave to Idaho Ave beginning Mon May 4 at 4:00 AM until further notice due to construction
-
-```text
-Updated at 7:49 AM 5/8 to revise detours, affected stops and get on/off stops.
-
-For eastbound Route 9 get on/off buses at:
-Cedar Lake Rd & Virginia Ave - Stop #8046 (eastbound)
-Temporary stop on Texas Ave just past Cedar Lake Rd (northbound)
-Louisiana Ave & Franklin Ave - Stop #2996 (southbound)
-Cedar Lake Rd & Hampshire Ave - Stop #3001 (eastbound)
-
-For westbound Route 9 get on/off buses at:
-Cedar Lake Rd & Hampshire Ave - Stop #2983 (westbound)
-Louisiana Ave & Franklin Ave - Stop #2989 (northbound)
-Cedar Lake Rd & Texas Ave - Stop #8073 (westbound)
-
-Eastbound 9 buses from Hedberg/Greenbriar will travel regular route on Cedar Lake Rd to Texas Ave, left on Texas Ave, right on Wayzata Blvd, right on Louisiana Ave, left 22nd St W, right on Idaho Ave, left on Cedar Lake Rd and resume regular route.
-
-Eastbound 9 buses from Louisiana Transit Center will travel the regular route on Louisiana Ave to 22nd St W, left on 22nd St W, right on Idaho Ave, left on Cedar Lake Rd, and resume the regular route.
-
-Westbound 9N buses will travel regular route on Cedar Lake Rd to Idaho Ave, right on Idaho Ave, left on 22nd St W, right on Louisiana Ave, left on Wayzata Blvd, left on Texas Ave, right on Cedar Lake Rd and resume regular route.
-
-Westbound 9C buses will travel the regular route on Cedar Lake Rd to Idaho Ave, right on Idaho Ave, left on 22nd St W, right on Louisiana Ave, and resume the regular route.
-
-Affected stops:
-Cedar Lake Rd & Louisiana Ave - Stop #41366 (eastbound)
-Cedar Lake Rd & Jersey Ave - Stop #2985 (westbound)
-Cedar Lake Rd & Louisiana Ave - Stop #2987 (westbound)
-Louisiana Ave & Cedar Lake Rd - Stop #8067 (southbound)
-Cedar Lake Rd & Rhode Island Ave S - Stop #80936 (westbound)
 ```
 
 </details>
@@ -1146,6 +1038,37 @@ Parklawn Ave & Parklawn Court - Stop #41091 (northbound)
 Get on/off buses at:
 38th St W & Nicollet Ave S - Stop #17516 (eastbound)
 38th St E & 4th Ave S - Stop #12622 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 38, Route 615: Stop Closed at 6th Ave & 5th Ave S
+
+- **Affected Routes**: `Route 38` `Route 615`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 6th Ave & 5th Ave S; 5th Ave N & Mainstreet - St
+- **Closed Stops**: Stop #50095, Stop #4820, Stop #4822, Stop #49489
+
+**Summary**: Mainstreet & 6th Ave / 5th Ave S - Stop #50095 (eastbound) is closed for Routes 38 and 615 until later today. Board at: Mainstreet & 7th Ave S - Stop #4820 (eastbound); 5th Ave S & Mainstreet / Excelsior Blvd - Stop #4822 (southbound).
+
+> 💡 **Rider Action**: Board at: Mainstreet & 7th Ave S - Stop #4820 (eastbound); 5th Ave S & Mainstreet / Excelsior Blvd - Stop #4822 (southbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Mainstreet & 6th Ave / 5th Ave S - Stop #50095 (eastbound) is closed for Routes 38 and 615 until later today
+
+```text
+Get on/off Route 38 buses at:
+Mainstreet & 7th Ave S - Stop #4820 (eastbound)
+5th Ave S & Mainstreet / Excelsior Blvd - Stop #4822 (southbound)
+
+Get on/off Route 615 buses at:
+Mainstreet & 7th Ave S - Stop #4820 (eastbound)
+5th Ave N & Mainstreet - Stop #49489 (northbound)
 ```
 
 </details>
@@ -1850,60 +1773,6 @@ Little Canada Rd & Co Rd C - Stop #45307 (eastbound)
 
 ---
 
-### ⚠️ Route 72 Returns to Kellogg Blvd Bridge Beginning Sat Nov 14
-
-- **Affected Routes**: `Route 72`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Sat Nov 14
-- **Corridors & Intersections**: 5th St & Jackson St; Kellogg Blvd & Broadway St; left on 6th St & resume regular route.
-
-Affected st; Wacouta St & 5th St; 7th St E & Wall St
-- **Closed Stops**: Wacouta St & 5th St / 6th St (Stop #11842), 7th St E & Wall St (Stop #57215), 5th St & Broadway St (Stop #40160), Wall St & 7th St / 6th St (Stop #43282), Stop #11838, Stop #57420, Stop #11928, Stop #3254 *(+2 more)*
-
-**Summary**: Route 72 returns to Kellogg Blvd Bridge beginning Sat Nov 14. Board at: 5th St & Jackson St - Stop #11838 (eastbound); Union Depot & Wacouta Station - Stop #57420 (southbound); Kellogg Blvd & Broadway St - Stop #11928 (eastbound).
-
-> 💡 **Rider Action**: Board at: 5th St & Jackson St - Stop #11838 (eastbound); Union Depot & Wacouta Station - Stop #57420 (southbound); Kellogg Blvd & Broadway St - Stop #11928 (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, right on Mounds Blvd and resume regular route
-
-[Official Agency Advisory](https://www.metrotransit.org/route/72)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 72 returns to Kellogg Blvd Bridge beginning Sat Nov 14
-
-```text
-The Kellogg Boulevard Bridge will reopen on Friday, November 13, 2026. Route 72 buses will return to their regular routing across the bridge at the start of service on Saturday, November 14, 2026.
-
-Beginning November 14, Route 72 buses will also begin serving the Bus Rapid Transit (BRT) stations at Union Depot & Wacouta Station and Union Depot & Sibley Station.
-
-For eastbound Route 72 get on/off buses at:
-5th St & Jackson St - Stop #11838 (eastbound)
-Union Depot & Wacouta Station - Stop #57420 (southbound)
-Kellogg Blvd & Broadway St - Stop #11928 (eastbound)
-
-For westbound Route 72 get on/off buses at:
-Kellogg Blvd & Broadway St - Stop #3254 (westbound)
-Union Depot & Sibley Station - Stop #57419 (northbound)
-6th St & Jackson / Robert - Stop #11859 (westbound)
-
-Eastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, right on Mounds Blvd and resume regular route
-
-Westbound buses will travel regular route on Mounds Blvd to 3rd St, left on 3rd St to cross the Kellogg Blvd bridge, right on Sibley St, left on 6th St and resume regular route.
-
-Affected stops:
-Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
-7th St E & Wall St - Stop #57215 (eastbound)
-5th St & Broadway St - Stop #40160 (eastbound)
-Wall St & 7th St / 6th St - Stop #43282 (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 74: Detour via 5th St E & Sibley St
 
 - **Affected Routes**: `Route 74`
@@ -2472,7 +2341,7 @@ Affected st; Wayzata Blvd S & Kentucky Ave S; Wayzata Blvd S & Idaho Ave S; Wayz
 
 > 💡 **Rider Action**: Board at: Louisiana Transit Ctr & temporary Gate B - Stop #80969 (eastbound); 16th St W & Park Place East - Stop #40325 (eastbound)
 
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on Wayzata Blvd to Louisiana Ave, right on Louisiana Ave, left on 22nd St, right on Idaho Ave, left on Cedar Lake Rd, left on Zarthan Ave, right on 16th St and resume regular route.
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on Wayzata Blvd to Louisiana Ave, right on Louisiana Ave, left on Cedar Lake Rd, left on Zarthan Ave, right on 16th St and resume regular route.
 
 [Official Agency Advisory](https://www.metrotransit.org/route/645)
 
@@ -2482,6 +2351,8 @@ Affected st; Wayzata Blvd S & Kentucky Ave S; Wayzata Blvd S & Idaho Ave S; Wayz
 **Header**: Route 645 detoured off Zarthan Ave from 16th St to Wayzata Blvd and off Wayzata Blvd from Zarthan Ave to Louisiana Transit Center beginning Mon Jul 6 at 4:00 AM until further notice due to construction
 
 ```text
+Updated 11/20 at 3:45 PM to reflect change to eastbound and westbound detour routing.
+
 For eastbound Route 645 get on/off buses at:
 Louisiana Transit Ctr & Temp Gate B - Stop #80969 (eastbound)
 16th St W & Park Place East - Stop #40325 (eastbound)
@@ -2490,9 +2361,9 @@ For westbound Route 645 get on/off buses at:
 16th St W & Park Place East - Stop #40324 (westbound)
 Louisiana Transit Ctr & Temp Gate B - Stop #80969 (eastbound)
 
-Eastbound buses will travel regular route on Wayzata Blvd to Louisiana Ave, right on Louisiana Ave, left on 22nd St, right on Idaho Ave, left on Cedar Lake Rd, left on Zarthan Ave, right on 16th St and resume regular route.
+Eastbound buses will travel regular route on Wayzata Blvd to Louisiana Ave, right on Louisiana Ave, left on Cedar Lake Rd, left on Zarthan Ave, right on 16th St and resume regular route.
 
-Westbound buses will travel regular route on 16th St to Zarthan Ave, left on Zarthan Ave, right on Cedar Lake Rd, right on Idaho Ave, left on 22nd St W, right on Louisiana Ave, left on Wayzata Blvd and resume regular route.
+Westbound buses will travel regular route on 16th St to Zarthan Ave, left on Zarthan Ave, right on Cedar Lake Rd, right on Louisiana Ave, left on Wayzata Blvd and resume regular route.
 
 Affected stops:
 Wayzata Blvd S & Kentucky Ave S - Stop #40933 (eastbound)
