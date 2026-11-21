@@ -1,250 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-21T01:21:35.065Z",
-    "totalAlerts": 70,
-    "criticalCount": 6,
-    "moderateCount": 58,
+    "generatedAt": "2026-11-21T09:33:45.418Z",
+    "totalAlerts": 62,
+    "criticalCount": 0,
+    "moderateCount": 56,
     "minorCount": 6,
-    "affectedRoutesCount": 60,
+    "affectedRoutesCount": 55,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "55515",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO C Line: Service Canceled",
-      "summary": "C Line trips departing 7th St & Park Station at 4:56 PM and departing Brooklyn Ctr Transit Ctr Gate I at 5:48 PM canceled today due to police activity",
-      "affectedRoutes": [
-        "METRO C Line"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "C Line trips departing 7th St & Park St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-21T00:02:00.000Z",
-        "end": "2026-11-21T01:25:00.000Z"
-      },
-      "cause": "POLICE_ACTIVITY",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/cline",
-      "updatedAt": "2026-11-21T00:02:58.000Z",
-      "rawHeader": "C Line trips departing 7th St & Park Station at 4:56 PM and departing Brooklyn Ctr Transit Ctr Gate I at 5:48 PM canceled today due to police activity",
-      "rawDescription": ""
-    },
-    {
-      "id": "55517",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "METRO D Line: Southbound 5:38 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)",
-      "summary": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:38 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "METRO D Line"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [
-        "42318",
-        "56873",
-        "56913",
-        "56914",
-        "56916",
-        "56917",
-        "56918",
-        "56919",
-        "56920",
-        "40472",
-        "80139",
-        "441",
-        "444",
-        "449",
-        "4530",
-        "436",
-        "431"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "42318"
-        },
-        {
-          "id": "56873"
-        },
-        {
-          "id": "56913"
-        },
-        {
-          "id": "56914"
-        },
-        {
-          "id": "56916"
-        },
-        {
-          "id": "56917"
-        },
-        {
-          "id": "56918"
-        },
-        {
-          "id": "56919"
-        },
-        {
-          "id": "56920"
-        },
-        {
-          "id": "40472"
-        },
-        {
-          "id": "80139"
-        },
-        {
-          "id": "441"
-        },
-        {
-          "id": "444"
-        },
-        {
-          "id": "449"
-        },
-        {
-          "id": "4530"
-        },
-        {
-          "id": "436"
-        },
-        {
-          "id": "431"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-21T00:44:00.000Z",
-        "end": "2026-11-21T01:58:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-11-21T00:44:53.000Z",
-      "rawHeader": "Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:38 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "55516",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 10: Service Canceled",
-      "summary": "Route 10 trips departing Northtown Transit Ctr Gate A at 4:46 PM and departing Leamington Ramp & Lower - Gate #7 at 6:13 PM canceled today",
-      "affectedRoutes": [
-        "Route 10"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-21T00:30:00.000Z",
-        "end": "2026-11-21T02:15:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/10",
-      "updatedAt": "2026-11-21T00:31:31.000Z",
-      "rawHeader": "Route 10 trips departing Northtown Transit Ctr Gate A at 4:46 PM and departing Leamington Ramp & Lower - Gate #7 at 6:13 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "55466",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 71: Service Canceled",
-      "summary": "Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today",
-      "affectedRoutes": [
-        "Route 71"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-20T19:38:00.000Z",
-        "end": "2026-11-21T01:45:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/71",
-      "updatedAt": "2026-11-20T19:08:01.000Z",
-      "rawHeader": "Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 1:38 PM\r\ndeparting Inver Hills College & Shelter at 4:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 3:10 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 6:15 PM"
-    },
-    {
-      "id": "55518",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 80: Service Canceled",
-      "summary": "Route 80 trips departing Sun Ray Transit Center & Gate E at 6:42 PM and departing Maplewood Mall Transit Center & Gate F at 7:12 PM canceled today due to collision",
-      "affectedRoutes": [
-        "Route 80"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-21T01:13:00.000Z",
-        "end": "2026-11-21T02:34:00.000Z"
-      },
-      "cause": "ACCIDENT",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/80",
-      "updatedAt": "2026-11-21T01:13:32.000Z",
-      "rawHeader": "Route 80 trips departing Sun Ray Transit Center & Gate E at 6:42 PM and departing Maplewood Mall Transit Center & Gate F at 7:12 PM canceled today due to collision",
-      "rawDescription": ""
-    },
-    {
-      "id": "55471",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 805: Service Canceled",
-      "summary": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today",
-      "affectedRoutes": [
-        "Route 805"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Route 805 trip departing 1st Ave S & Monroe St",
-        "departing 1st Ave S & Monroe St",
-        "38 AM\ndeparting 1st Ave S & Monroe St",
-        "38 PM\ndeparting 1st Ave S & Monroe St",
-        "36 PM\ndeparting 1st Ave S & Monroe St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-20T18:53:00.000Z",
-        "end": "2026-11-21T01:24:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-11-20T18:54:01.000Z",
-      "rawHeader": "Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 11:38 AM\r\ndeparting 1st Ave S & Monroe St at 1:38 PM\r\ndeparting 1st Ave S & Monroe St at 3:36 PM\r\ndeparting 1st Ave S & Monroe St at 5:38 PM"
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -307,199 +73,6 @@
       "updatedAt": "2026-11-05T16:02:01.000Z",
       "rawHeader": "Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues",
       "rawDescription": "Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station."
-    },
-    {
-      "id": "55508",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 2: Detour via Franklin Ave & Lyndale Ave",
-      "summary": "Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction. Temporary stop at 24th St just past Lyndale Ave (eastbound).",
-      "affectedRoutes": [
-        "Route 2"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Franklin Ave & Lyndale Ave",
-        "Lyndale Ave & 22nd St",
-        "24th St & Pleasant Ave",
-        "24th St & Nicollet Ave",
-        "28th St & 1st Ave"
-      ],
-      "closedStopIds": [
-        "13330",
-        "56697",
-        "13320",
-        "13316",
-        "13312",
-        "56698",
-        "13315",
-        "13318",
-        "13319",
-        "13324",
-        "13328",
-        "13334",
-        "40342",
-        "40340",
-        "17713",
-        "14331",
-        "52239",
-        "52240",
-        "52158",
-        "56926",
-        "56927",
-        "13310",
-        "13309",
-        "56910",
-        "56911",
-        "50164",
-        "52241",
-        "52242",
-        "17760",
-        "17761",
-        "4663",
-        "4667",
-        "20031",
-        "13335"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "13330",
-          "name": "Franklin Ave W & Pleasant Ave",
-          "direction": "Eastbound"
-        },
-        {
-          "id": "56697",
-          "name": "Franklin Ave E & Nicollet Ave",
-          "direction": "Eastbound"
-        },
-        {
-          "id": "13320",
-          "name": "Franklin Ave E & 3rd Ave S",
-          "direction": "Eastbound"
-        },
-        {
-          "id": "13316",
-          "name": "Franklin Ave E & Portland Ave",
-          "direction": "Eastbound"
-        },
-        {
-          "id": "13312",
-          "name": "Franklin Ave E & Chicago Ave",
-          "direction": "Eastbound"
-        },
-        {
-          "id": "56698",
-          "name": "Franklin Ave E & Chicago Ave",
-          "direction": "Westbound"
-        },
-        {
-          "id": "13315",
-          "name": "Franklin Ave E & Portland Ave",
-          "direction": "Westbound"
-        },
-        {
-          "id": "13318",
-          "name": "Franklin Ave E & Clinton Ave S",
-          "direction": "Westbound"
-        },
-        {
-          "id": "13319",
-          "name": "Franklin Ave E & 3rd Ave S",
-          "direction": "Westbound"
-        },
-        {
-          "id": "13324",
-          "name": "Franklin Ave W & Nicollet Ave S",
-          "direction": "Westbound"
-        },
-        {
-          "id": "13328",
-          "name": "Franklin Ave W & Pleasant Ave S",
-          "direction": "Westbound"
-        },
-        {
-          "id": "13334"
-        },
-        {
-          "id": "40342"
-        },
-        {
-          "id": "40340"
-        },
-        {
-          "id": "17713"
-        },
-        {
-          "id": "14331"
-        },
-        {
-          "id": "52239"
-        },
-        {
-          "id": "52240"
-        },
-        {
-          "id": "52158"
-        },
-        {
-          "id": "56926"
-        },
-        {
-          "id": "56927"
-        },
-        {
-          "id": "13310"
-        },
-        {
-          "id": "13309"
-        },
-        {
-          "id": "56910"
-        },
-        {
-          "id": "56911"
-        },
-        {
-          "id": "50164"
-        },
-        {
-          "id": "52241"
-        },
-        {
-          "id": "52242"
-        },
-        {
-          "id": "17760"
-        },
-        {
-          "id": "17761"
-        },
-        {
-          "id": "4663"
-        },
-        {
-          "id": "4667"
-        },
-        {
-          "id": "20031"
-        },
-        {
-          "id": "13335"
-        }
-      ],
-      "riderAlternative": "Temporary stop at 24th St just past Lyndale Ave (eastbound)",
-      "detourDetails": "Eastbound buses will travel regular route on Franklin to Lyndale, right on Lyndale, left on 24th St, right on Nicollet, left on 28th St, left on Chicago, right on Franklin, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-11-20T21:46:00.000Z",
-        "end": "2026-11-21T08:30:00.000Z",
-        "textDescription": "Beginning Mon Mar 23 at 5:00 AM until further notice"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "OTHER_EFFECT",
-      "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-11-20T21:46:09.000Z",
-      "rawHeader": "Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction",
-      "rawDescription": "Update 3/24 at 6pm: additional get on/off stops\r\n\nFor eastbound buses get on/off at:\r\nFranklin Ave & Lyndale Ave - Stop #13334 (eastbound)\r\nLyndale Ave & 22nd St - Stop #103 (southbound)\r\nTemporary stop on 24th St just past Lyndale Ave (eastbound)\r\n24th St & Pleasant Ave - Stop #40342 (eastbound)\r\n24th St & Nicollet Ave - Stop #40340 (eastbound)\r\nTemporary stop on 28th St & 1st Ave (eastbound)\r\n28th St & Stevens Ave - Stop #17713 (eastbound)\r\n28th St & 4th Ave - Stop #14331 (eastbound)\r\n28th St & Portland Ave - Stop #52239 (eastbound)\r\n28th St & Park Ave - Stop #52240 (eastbound)\r\n28th St & Chicago Ave - Stop #52158 (eastbound)\r\nChicago Ave & 27th St - Stop #806 (northbound)\r\nChicago & 26th St Station - Stop #56926 (northbound)\r\nChicago Ave & 25th St - Stop #808 (northbound)\r\nChicago & 24th St Station - Stop #56927 (northbound)\r\nChicago Ave & 22nd St - Stop #810 (northbound)\r\nTemporary stop on Chicago Ave just before Franklin Ave (northbound)\r\nFranklin Ave & 10th Ave - Stop #13310 (eastbound)\r\n\nFor westbound buses get on/off at:\r\nFranklin Ave & 10th Ave - Stop #13309 (westbound)\r\nChicago & Franklin Station - Stop #56910 (southbound)\r\nChicago Ave & 22nd St - Stop #43 (southbound)\r\nChicago & 24th St Station - Stop #56911 (southbound)\r\nChicago & 25th St - Stop #45 (southbound)\r\n26th St & Chicago Ave - Stop #50164 (westbound)\r\n26th St & Park Ave - Stop #52241 (westbound)\r\n26th St & 5th Ave - Stop #52242 (westbound)\r\n26th St & Clinton Ave - Stop #17760 (westbound)\r\n26th St & 3rd Ave - Stop #17761 (westbound)\r\nTemporary stop on 26th St & 1st Ave (westbound)\r\nTemporary stop on 26th St & Nicollet Ave (westbound)\r\nTemporary stop on 24th St just past Nicollet Ave (westbound)\r\n24th St & Pleasant Ave - Stop #4663 (westbound)\r\n24th St & Lyndale Ave - Stop #4667 (westbound)\r\nLyndale Ave & 22nd St - Stop #20031 (northbound)\r\nFranklin Ave & Lyndale Ave - Stop #13335 (westbound)\r\n\nEastbound buses will travel regular route on Franklin to Lyndale, right on Lyndale, left on 24th St, right on Nicollet, left on 28th St, left on Chicago, right on Franklin, and resume regular route.\r\n\nWestbound buses will travel regular route on Franklin to Chicago, left on Chicago, right on 26th St, right on Nicollet, left on 24th St, right on Lyndale, left on Franklin, and resume regular route.\r\n\nAffected stops:\r\nFranklin Ave W & Pleasant Ave - Stop #13330 (EB)\r\nFranklin Ave E & Nicollet Ave - Stop #56697 (EB)\r\nFranklin Ave E & 3rd Ave S - Stop #13320 (EB)\r\nFranklin Ave E & Portland Ave - Stop #13316 (EB)\r\nFranklin Ave E & Chicago Ave - Stop #13312 (EB)\r\nFranklin Ave E & Chicago Ave - Stop #56698 (WB)\r\nFranklin Ave E & Portland Ave - Stop #13315 (WB)\r\nFranklin Ave E & Clinton Ave S - Stop #13318 (WB)\r\nFranklin Ave E & 3rd Ave S - Stop #13319 (WB)\r\nFranklin Ave W & Nicollet Ave S - Stop #13324 (WB)\r\nFranklin Ave W & Pleasant Ave S - Stop #13328 (WB)"
     },
     {
       "id": "54943",
@@ -1612,53 +1185,6 @@
       "rawDescription": "Get on/off buses at:\r\n38th St W & Nicollet Ave S - Stop #17516 (eastbound)\r\n38th St E & 4th Ave S - Stop #12622 (eastbound)"
     },
     {
-      "id": "55510",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 38, Route 615: Stop Closed at 6th Ave & 5th Ave S",
-      "summary": "Mainstreet & 6th Ave / 5th Ave S - Stop #50095 (eastbound) is closed for Routes 38 and 615 until later today. Board at: Mainstreet & 7th Ave S - Stop #4820 (eastbound); 5th Ave S & Mainstreet / Excelsior Blvd - Stop #4822 (southbound).",
-      "affectedRoutes": [
-        "Route 38",
-        "Route 615"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "6th Ave & 5th Ave S",
-        "5th Ave N & Mainstreet - St"
-      ],
-      "closedStopIds": [
-        "50095",
-        "4820",
-        "4822",
-        "49489"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "50095"
-        },
-        {
-          "id": "4820"
-        },
-        {
-          "id": "4822"
-        },
-        {
-          "id": "49489"
-        }
-      ],
-      "riderAlternative": "Board at: Mainstreet & 7th Ave S - Stop #4820 (eastbound); 5th Ave S & Mainstreet / Excelsior Blvd - Stop #4822 (southbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-20T21:58:00.000Z",
-        "end": "2026-11-21T03:20:18.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "updatedAt": "2026-11-20T21:58:41.000Z",
-      "rawHeader": "Mainstreet & 6th Ave / 5th Ave S - Stop #50095 (eastbound) is closed for Routes 38 and 615 until later today",
-      "rawDescription": "Get on/off Route 38 buses at:\r\nMainstreet & 7th Ave S - Stop #4820 (eastbound)\r\n5th Ave S & Mainstreet / Excelsior Blvd - Stop #4822 (southbound)\r\n\nGet on/off Route 615 buses at:\r\nMainstreet & 7th Ave S - Stop #4820 (eastbound)\r\n5th Ave N & Mainstreet - Stop #49489 (northbound)"
-    },
-    {
       "id": "51972",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -2350,7 +1876,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/63",
-      "updatedAt": "2026-11-17T14:30:57.000Z",
+      "updatedAt": "2026-11-21T09:00:01.000Z",
       "rawHeader": "Route 63 returns to Kellogg Blvd Bridge beginning Sat Nov 14",
       "rawDescription": "The Kellogg Boulevard Bridge will reopen on Friday, November 13, 2026. Route 63 buses will return to their regular routing across the bridge at the start of service on Saturday, November 14, 2026.\r\n\nBeginning November 14, Route 63 buses will also begin serving the Bus Rapid Transit (BRT) stations at Union Depot & Wacouta Station and Union Depot & Sibley Station.\r\n\nFor eastbound Route 63 get on/off buses at:\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\nUnion Depot & Wacouta Station - Stop #57420 (southbound)\r\nKellogg Blvd & Broadway St - Stop #11928 (eastbound)\r\n\nFor westbound Route 63 get on/off buses at:\r\nKellogg Blvd & Broadway St - Stop #3254 (westbound)\r\nUnion Depot & Sibley Station - Stop #57419 (northbound)\r\n6th St & Jackson / Robert - Stop #11859 (westbound)\r\n\nEastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, continue across Mounds Blvd onto 3rd St and resume regular route.\r\n\nWestbound buses will travel regular route on 3rd St, cross Mounds Blvd onto Kellogg Blvd bridge, right on Sibley St, left on 6th St and resume regular route.\r\n\nAffected stops:\r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\n5th St & Broadway St - Stop #40160 (eastbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound)"
     },
@@ -2586,7 +2112,7 @@
       "cause": "MAINTENANCE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/67",
-      "updatedAt": "2026-11-17T15:57:16.000Z",
+      "updatedAt": "2026-11-21T09:01:01.000Z",
       "rawHeader": "Route 67 detoured off Thomas Ave from Western Ave to Como Ave beginning Mon Nov 23 at 2:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off eastbound buses at:\r\nThomas Ave & Western Ave - Stop #18837 (eastbound)\r\nComo Ave & Marion St - Stop #972 (eastbound)\r\nComo Ave & Rice St - Stop #973 (eastbound)\r\n\nGet on/off westbound buses at:\r\nComo Ave & Rice St - Stop #49895 (westbound)\r\nComo Ave & Marion St - Stop #826 (westbound)\r\nThomas Ave & Arundel St - Stop #18850 (westbound)\r\n\nEastbound buses will travel regular route on Thomas Ave to Western Ave, left on Western Ave, right on Minnehaha Ave, right on Como Ave, continue on Como Ave to Marion St and resume regular route.\r\n\nWestbound buses will travel regular route on Como Ave to Marion St, continue on Como Ave to Minnehaha Ave, left on Minnehaha Ave, left on Western Ave, right on Thomas Ave and resume regular route.\r\n\nAffected stops:\r\nThomas Ave & Farrington St - Stop #18839 (eastbound)\r\nThomas Ave & Galtier St - Stop #18841 (eastbound)\r\nMarion St & Como Ave - Stop #18843 (northbound)\r\nThomas Ave & Galtier St - Stop #18845 (westbound)\r\nThomas Ave & Farrington St - Stop #18847 (westbound)\r\nThomas Ave & Western Ave - Stop #18849 (westbound)"
     },
@@ -4216,7 +3742,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/gold",
-      "updatedAt": "2026-11-14T08:30:01.000Z",
+      "updatedAt": "2026-11-21T09:00:01.000Z",
       "rawHeader": "METRO Gold Line returns to Kellogg Blvd Bridge beginning Sat Nov 14",
       "rawDescription": "The Kellogg Boulevard Bridge will reopen on Friday, November 13, 2026. METRO Gold Line buses will return to their regular routing across the bridge at the start of service on Saturday, November 14, 2026.\r\n\nBeginning November 14, METRO Gold Line buses will also begin serving the Bus Rapid Transit (BRT) stations at Union Depot & Wacouta Station and Union Depot & Sibley Station.\r\n\nEastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, and veer right onto the Gold Line guideway.\r\n\nWestbound buses will travel regular route on the Gold Line guideway to Mounds Blvd Station, left on 3rd St to cross the Kellogg Blvd bridge, right on Sibley St, left on 6th St and resume regular route."
     },

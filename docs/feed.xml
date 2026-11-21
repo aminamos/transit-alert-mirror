@@ -4,63 +4,9 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 21 Nov 2026 01:21:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 09:33:45 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
-    <item>
-      <title>[Critical] METRO C Line: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/cline</link>
-      <guid isPermaLink="false">Metro Transit-55515-2026-11-21T00:02:58.000Z</guid>
-      <pubDate>Sat, 21 Nov 2026 00:02:58 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO C Line</category>
-      <description>C Line trips departing 7th St &amp; Park Station at 4:56 PM and departing Brooklyn Ctr Transit Ctr Gate I at 5:48 PM canceled today due to police activity</description>
-    </item>
-    <item>
-      <title>[Critical] METRO D Line: Southbound 5:38 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-55517-2026-11-21T00:44:53.000Z</guid>
-      <pubDate>Sat, 21 Nov 2026 00:44:53 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:38 PM canceled today due to traffic</description>
-    </item>
-    <item>
-      <title>[Critical] Route 10: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-55516-2026-11-21T00:31:31.000Z</guid>
-      <pubDate>Sat, 21 Nov 2026 00:31:31 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 10</category>
-      <description>Route 10 trips departing Northtown Transit Ctr Gate A at 4:46 PM and departing Leamington Ramp &amp; Lower - Gate #7 at 6:13 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 71: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/71</link>
-      <guid isPermaLink="false">Metro Transit-55466-2026-11-20T19:08:01.000Z</guid>
-      <pubDate>Fri, 20 Nov 2026 19:08:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 71</category>
-      <description>Route 71 trip departing Inver Hills College &amp; Shelter at 1:38 PM and three other trips canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 80: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/80</link>
-      <guid isPermaLink="false">Metro Transit-55518-2026-11-21T01:13:32.000Z</guid>
-      <pubDate>Sat, 21 Nov 2026 01:13:32 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 80</category>
-      <description>Route 80 trips departing Sun Ray Transit Center &amp; Gate E at 6:42 PM and departing Maplewood Mall Transit Center &amp; Gate F at 7:12 PM canceled today due to collision</description>
-    </item>
-    <item>
-      <title>[Critical] Route 805: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/805</link>
-      <guid isPermaLink="false">Metro Transit-55471-2026-11-20T18:54:01.000Z</guid>
-      <pubDate>Fri, 20 Nov 2026 18:54:01 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 805</category>
-      <description>Route 805 trip departing 1st Ave S &amp; Monroe St at 11:38 AM and six other trips canceled today</description>
-    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -78,15 +24,6 @@
       <category>Moderate</category>
       <category>METRO Blue Line</category>
       <description>Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 2: Detour via Franklin Ave &amp; Lyndale Ave</title>
-      <link>https://www.metrotransit.org/route/2</link>
-      <guid isPermaLink="false">Metro Transit-55508-2026-11-20T21:46:09.000Z</guid>
-      <pubDate>Fri, 20 Nov 2026 21:46:09 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 2</category>
-      <description>Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction. Temporary stop at 24th St just past Lyndale Ave (eastbound). | Action: Temporary stop at 24th St just past Lyndale Ave (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 3, Route 3A: Detour via Maryland Ave &amp; Western Ave</title>
@@ -260,15 +197,6 @@
       <description>38th St E &amp; 3rd Ave S - Stop #12626 (eastbound) is closed for Route 38 beginning Mon Nov 16 at 4:00 AM until further notice. Board at: 38th St W &amp; Nicollet Ave S - Stop #17516 (eastbound); 38th St E &amp; 4th Ave S - Stop #12622 (eastbound). | Action: Board at: 38th St W &amp; Nicollet Ave S - Stop #17516 (eastbound); 38th St E &amp; 4th Ave S - Stop #12622 (eastbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 38, Route 615: Stop Closed at 6th Ave &amp; 5th Ave S</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-55510-2026-11-20T21:58:41.000Z</guid>
-      <pubDate>Fri, 20 Nov 2026 21:58:41 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 38, Route 615</category>
-      <description>Mainstreet &amp; 6th Ave / 5th Ave S - Stop #50095 (eastbound) is closed for Routes 38 and 615 until later today. Board at: Mainstreet &amp; 7th Ave S - Stop #4820 (eastbound); 5th Ave S &amp; Mainstreet / Excelsior Blvd - Stop #4822 (southbound). | Action: Board at: Mainstreet &amp; 7th Ave S - Stop #4820 (eastbound); 5th Ave S &amp; Mainstreet / Excelsior Blvd - Stop #4822 (southbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 54, Route 54M: Detour via 5th St &amp; Robert St</title>
       <link>https://www.metrotransit.org/route/54</link>
       <guid isPermaLink="false">Metro Transit-51972-2026-09-03T18:21:39.000Z</guid>
@@ -325,8 +253,8 @@
     <item>
       <title>[Moderate] Route 63 Returns to Kellogg Blvd Bridge Beginning Sat Nov 14</title>
       <link>https://www.metrotransit.org/route/63</link>
-      <guid isPermaLink="false">Metro Transit-55201-2026-11-17T14:30:57.000Z</guid>
-      <pubDate>Tue, 17 Nov 2026 14:30:57 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55201-2026-11-21T09:00:01.000Z</guid>
+      <pubDate>Sat, 21 Nov 2026 09:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 63</category>
       <description>Route 63 returns to Kellogg Blvd Bridge beginning Sat Nov 14. Board at: 5th St &amp; Jackson St - Stop #11838 (eastbound); Union Depot &amp; Wacouta Station - Stop #57420 (southbound); Kellogg Blvd &amp; Broadway St - Stop #11928 (eastbound). | Action: Board at: 5th St &amp; Jackson St - Stop #11838 (eastbound); Union Depot &amp; Wacouta Station - Stop #57420 (southbound); Kellogg Blvd &amp; Broadway St - Stop #11928 (eastbound)</description>
@@ -352,8 +280,8 @@
     <item>
       <title>[Moderate] Route 67: Detour via Thomas Ave &amp; Western Ave</title>
       <link>https://www.metrotransit.org/route/67</link>
-      <guid isPermaLink="false">Metro Transit-55371-2026-11-17T15:57:16.000Z</guid>
-      <pubDate>Tue, 17 Nov 2026 15:57:16 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55371-2026-11-21T09:01:01.000Z</guid>
+      <pubDate>Sat, 21 Nov 2026 09:01:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 67</category>
       <description>Route 67 detoured off Thomas Ave from Western Ave to Como Ave beginning Mon Nov 23 at 2:00 AM until further notice due to utility work. Board at: Thomas Ave &amp; Western Ave - Stop #18837 (eastbound); Como Ave &amp; Marion St - Stop #972 (eastbound); Como Ave &amp; Rice St - Stop #973 (eastbound). | Action: Board at: Thomas Ave &amp; Western Ave - Stop #18837 (eastbound); Como Ave &amp; Marion St - Stop #972 (eastbound); Como Ave &amp; Rice St - Stop #973 (eastbound)</description>
@@ -586,8 +514,8 @@
     <item>
       <title>[Minor] METRO Gold Line Returns to Kellogg Blvd Bridge Beginning Sat Nov 14</title>
       <link>https://www.metrotransit.org/route/gold</link>
-      <guid isPermaLink="false">Metro Transit-55198-2026-11-14T08:30:01.000Z</guid>
-      <pubDate>Sat, 14 Nov 2026 08:30:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55198-2026-11-21T09:00:01.000Z</guid>
+      <pubDate>Sat, 21 Nov 2026 09:00:01 GMT</pubDate>
       <category>Minor</category>
       <category>METRO Gold Line</category>
       <description>METRO Gold Line returns to Kellogg Blvd Bridge beginning Sat Nov 14</description>

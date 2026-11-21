@@ -2,162 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-70-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-6-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-58-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-62-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-56-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-6-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-60-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-55-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-21T01:21:35.065Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-21T09:33:45.418Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO D Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (2) • **Route 10** (3) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (7) • **Route 22** (1) • **Route 25** (1) • **Route 27** (3) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (2) • **Route 64** (3) • **Route 67** (2) • **Route 68** (3) • **Route 71** (2) • **Route 71K** (1) • **Route 74** (2) • **Route 75** (1) • **Route 80** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (2) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (2) • **Route 10** (2) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (7) • **Route 22** (1) • **Route 25** (1) • **Route 27** (3) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (2) • **Route 64** (3) • **Route 67** (2) • **Route 68** (3) • **Route 71** (1) • **Route 71K** (1) • **Route 74** (2) • **Route 75** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO C Line: Service Canceled
-
-- **Affected Routes**: `METRO C Line`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: C Line trips departing 7th St & Park St
-
-**Summary**: C Line trips departing 7th St & Park Station at 4:56 PM and departing Brooklyn Ctr Transit Ctr Gate I at 5:48 PM canceled today due to police activity
-
-[Official Agency Advisory](https://www.metrotransit.org/route/cline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: C Line trips departing 7th St & Park Station at 4:56 PM and departing Brooklyn Ctr Transit Ctr Gate I at 5:48 PM canceled today due to police activity
-
-</details>
-
----
-
-### 🚨 METRO D Line: Southbound 5:38 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate F)
-
-- **Affected Routes**: `METRO D Line`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #42318, Stop #56873, Stop #56913, Stop #56914, Stop #56916, Stop #56917, Stop #56918, Stop #56919 *(+9 more)*
-
-**Summary**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:38 PM canceled today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/dline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound D Line trip departing Brooklyn Ctr Transit Ctr Gate F at 5:38 PM canceled today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 10: Service Canceled
-
-- **Affected Routes**: `Route 10`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 10 trips departing Northtown Transit Ctr Gate A at 4:46 PM and departing Leamington Ramp & Lower - Gate #7 at 6:13 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/10)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 10 trips departing Northtown Transit Ctr Gate A at 4:46 PM and departing Leamington Ramp & Lower - Gate #7 at 6:13 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 71: Service Canceled
-
-- **Affected Routes**: `Route 71`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today
-
-```text
-Affected northbound trips:
-departing Inver Hills College & Shelter at 1:38 PM
-departing Inver Hills College & Shelter at 4:38 PM
-
-Affected southbound trips:
-departing Market Place Dr & The Marketplace Ctr at 3:10 PM
-departing Market Place Dr & The Marketplace Ctr at 6:15 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 80: Service Canceled
-
-- **Affected Routes**: `Route 80`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 80 trips departing Sun Ray Transit Center & Gate E at 6:42 PM and departing Maplewood Mall Transit Center & Gate F at 7:12 PM canceled today due to collision
-
-[Official Agency Advisory](https://www.metrotransit.org/route/80)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 80 trips departing Sun Ray Transit Center & Gate E at 6:42 PM and departing Maplewood Mall Transit Center & Gate F at 7:12 PM canceled today due to collision
-
-</details>
-
----
-
-### 🚨 Route 805: Service Canceled
-
-- **Affected Routes**: `Route 805`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 AM
-departing 1st Ave S & Monroe St; 38 PM
-departing 1st Ave S & Monroe St; 36 PM
-departing 1st Ave S & Monroe St
-
-**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 805 trip departing 1st Ave S & Monroe St at 11:38 AM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate D at 12:34 PM
-departing Northtown Transit Ctr Gate D at 2:34 PM
-departing Northtown Transit Ctr Gate D at 4:34 PM
-
-Affected southbound trips:
-departing 1st Ave S & Monroe St at 11:38 AM
-departing 1st Ave S & Monroe St at 1:38 PM
-departing 1st Ave S & Monroe St at 3:36 PM
-departing 1st Ave S & Monroe St at 5:38 PM
-```
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -210,92 +69,6 @@ Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on 
 
 ```text
 Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station.
-```
-
-</details>
-
----
-
-### ⚠️ Route 2: Detour via Franklin Ave & Lyndale Ave
-
-- **Affected Routes**: `Route 2`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Mar 23 at 5:00 AM until further notice
-- **Corridors & Intersections**: Franklin Ave & Lyndale Ave; Lyndale Ave & 22nd St; 24th St & Pleasant Ave; 24th St & Nicollet Ave; 28th St & 1st Ave
-- **Closed Stops**: Franklin Ave W & Pleasant Ave (Stop #13330), Franklin Ave E & Nicollet Ave (Stop #56697), Franklin Ave E & 3rd Ave S (Stop #13320), Franklin Ave E & Portland Ave (Stop #13316), Franklin Ave E & Chicago Ave (Stop #13312), Franklin Ave E & Chicago Ave (Stop #56698), Franklin Ave E & Portland Ave (Stop #13315), Franklin Ave E & Clinton Ave S (Stop #13318) *(+26 more)*
-
-**Summary**: Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction. Temporary stop at 24th St just past Lyndale Ave (eastbound).
-
-> 💡 **Rider Action**: Temporary stop at 24th St just past Lyndale Ave (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on Franklin to Lyndale, right on Lyndale, left on 24th St, right on Nicollet, left on 28th St, left on Chicago, right on Franklin, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 2 detoured off Franklin Ave from Lyndale Ave to Chicago Ave beginning Mon Mar 23 at 5:00 AM until further notice due to construction
-
-```text
-Update 3/24 at 6pm: additional get on/off stops
-
-For eastbound buses get on/off at:
-Franklin Ave & Lyndale Ave - Stop #13334 (eastbound)
-Lyndale Ave & 22nd St - Stop #103 (southbound)
-Temporary stop on 24th St just past Lyndale Ave (eastbound)
-24th St & Pleasant Ave - Stop #40342 (eastbound)
-24th St & Nicollet Ave - Stop #40340 (eastbound)
-Temporary stop on 28th St & 1st Ave (eastbound)
-28th St & Stevens Ave - Stop #17713 (eastbound)
-28th St & 4th Ave - Stop #14331 (eastbound)
-28th St & Portland Ave - Stop #52239 (eastbound)
-28th St & Park Ave - Stop #52240 (eastbound)
-28th St & Chicago Ave - Stop #52158 (eastbound)
-Chicago Ave & 27th St - Stop #806 (northbound)
-Chicago & 26th St Station - Stop #56926 (northbound)
-Chicago Ave & 25th St - Stop #808 (northbound)
-Chicago & 24th St Station - Stop #56927 (northbound)
-Chicago Ave & 22nd St - Stop #810 (northbound)
-Temporary stop on Chicago Ave just before Franklin Ave (northbound)
-Franklin Ave & 10th Ave - Stop #13310 (eastbound)
-
-For westbound buses get on/off at:
-Franklin Ave & 10th Ave - Stop #13309 (westbound)
-Chicago & Franklin Station - Stop #56910 (southbound)
-Chicago Ave & 22nd St - Stop #43 (southbound)
-Chicago & 24th St Station - Stop #56911 (southbound)
-Chicago & 25th St - Stop #45 (southbound)
-26th St & Chicago Ave - Stop #50164 (westbound)
-26th St & Park Ave - Stop #52241 (westbound)
-26th St & 5th Ave - Stop #52242 (westbound)
-26th St & Clinton Ave - Stop #17760 (westbound)
-26th St & 3rd Ave - Stop #17761 (westbound)
-Temporary stop on 26th St & 1st Ave (westbound)
-Temporary stop on 26th St & Nicollet Ave (westbound)
-Temporary stop on 24th St just past Nicollet Ave (westbound)
-24th St & Pleasant Ave - Stop #4663 (westbound)
-24th St & Lyndale Ave - Stop #4667 (westbound)
-Lyndale Ave & 22nd St - Stop #20031 (northbound)
-Franklin Ave & Lyndale Ave - Stop #13335 (westbound)
-
-Eastbound buses will travel regular route on Franklin to Lyndale, right on Lyndale, left on 24th St, right on Nicollet, left on 28th St, left on Chicago, right on Franklin, and resume regular route.
-
-Westbound buses will travel regular route on Franklin to Chicago, left on Chicago, right on 26th St, right on Nicollet, left on 24th St, right on Lyndale, left on Franklin, and resume regular route.
-
-Affected stops:
-Franklin Ave W & Pleasant Ave - Stop #13330 (EB)
-Franklin Ave E & Nicollet Ave - Stop #56697 (EB)
-Franklin Ave E & 3rd Ave S - Stop #13320 (EB)
-Franklin Ave E & Portland Ave - Stop #13316 (EB)
-Franklin Ave E & Chicago Ave - Stop #13312 (EB)
-Franklin Ave E & Chicago Ave - Stop #56698 (WB)
-Franklin Ave E & Portland Ave - Stop #13315 (WB)
-Franklin Ave E & Clinton Ave S - Stop #13318 (WB)
-Franklin Ave E & 3rd Ave S - Stop #13319 (WB)
-Franklin Ave W & Nicollet Ave S - Stop #13324 (WB)
-Franklin Ave W & Pleasant Ave S - Stop #13328 (WB)
 ```
 
 </details>
@@ -1038,37 +811,6 @@ Parklawn Ave & Parklawn Court - Stop #41091 (northbound)
 Get on/off buses at:
 38th St W & Nicollet Ave S - Stop #17516 (eastbound)
 38th St E & 4th Ave S - Stop #12622 (eastbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 38, Route 615: Stop Closed at 6th Ave & 5th Ave S
-
-- **Affected Routes**: `Route 38` `Route 615`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 6th Ave & 5th Ave S; 5th Ave N & Mainstreet - St
-- **Closed Stops**: Stop #50095, Stop #4820, Stop #4822, Stop #49489
-
-**Summary**: Mainstreet & 6th Ave / 5th Ave S - Stop #50095 (eastbound) is closed for Routes 38 and 615 until later today. Board at: Mainstreet & 7th Ave S - Stop #4820 (eastbound); 5th Ave S & Mainstreet / Excelsior Blvd - Stop #4822 (southbound).
-
-> 💡 **Rider Action**: Board at: Mainstreet & 7th Ave S - Stop #4820 (eastbound); 5th Ave S & Mainstreet / Excelsior Blvd - Stop #4822 (southbound)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Mainstreet & 6th Ave / 5th Ave S - Stop #50095 (eastbound) is closed for Routes 38 and 615 until later today
-
-```text
-Get on/off Route 38 buses at:
-Mainstreet & 7th Ave S - Stop #4820 (eastbound)
-5th Ave S & Mainstreet / Excelsior Blvd - Stop #4822 (southbound)
-
-Get on/off Route 615 buses at:
-Mainstreet & 7th Ave S - Stop #4820 (eastbound)
-5th Ave N & Mainstreet - Stop #49489 (northbound)
 ```
 
 </details>
