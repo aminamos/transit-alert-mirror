@@ -4,9 +4,27 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sun, 22 Nov 2026 15:11:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 21:39:55 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] Route 2: Westbound 3:20 PM Trip Canceled (Ontario St SE &amp; Beacon St)</title>
+      <link>https://www.metrotransit.org/route/2</link>
+      <guid isPermaLink="false">Metro Transit-55539-2026-11-22T21:25:57.000Z</guid>
+      <pubDate>Sun, 22 Nov 2026 21:25:57 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 2</category>
+      <description>Westbound Route 2 trip departing Ontario St SE &amp; Beacon St at 3:20 PM canceled today due to collision</description>
+    </item>
+    <item>
+      <title>[Critical] Route 74: Eastbound 3:04 PM Trip Canceled (46th St Station &amp; Gate C)</title>
+      <link>https://www.metrotransit.org/route/74</link>
+      <guid isPermaLink="false">Metro Transit-55540-2026-11-22T21:26:56.000Z</guid>
+      <pubDate>Sun, 22 Nov 2026 21:26:56 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 74</category>
+      <description>Eastbound Route 74 trip departing 46th St Station &amp; Gate C at 3:04 PM canceled due to maintenance work</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -15,15 +33,6 @@
       <category>Moderate</category>
       <category>METRO A Line</category>
       <description>METRO A Line detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
-    </item>
-    <item>
-      <title>[Moderate] METRO B Line: Detour via Lake St (Chicago Ave to 4th Ave)</title>
-      <link>https://www.metrotransit.org/route/bline</link>
-      <guid isPermaLink="false">Metro Transit-55537-2026-11-22T11:17:28.000Z</guid>
-      <pubDate>Sun, 22 Nov 2026 11:17:28 GMT</pubDate>
-      <category>Moderate</category>
-      <category>METRO B Line</category>
-      <description>B Line detoured off Lake St from Chicago Ave to 4th Ave beginning at 5:02 AM until later today. Board at: Lake &amp; I-35W Station - Stop #16857 (eastbound); Lake &amp; Chicago Station - Stop #56796 (eastbound). | Action: Board at: Lake &amp; I-35W Station - Stop #16857 (eastbound); Lake &amp; Chicago Station - Stop #56796 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] METRO Blue Line: Service Advisory</title>
@@ -267,6 +276,15 @@
       <category>Moderate</category>
       <category>Route 63</category>
       <description>Route 63 returns to Kellogg Blvd Bridge beginning Sat Nov 14. Board at: 5th St &amp; Jackson St - Stop #11838 (eastbound); Union Depot &amp; Wacouta Station - Stop #57420 (southbound); Kellogg Blvd &amp; Broadway St - Stop #11928 (eastbound). | Action: Board at: 5th St &amp; Jackson St - Stop #11838 (eastbound); Union Depot &amp; Wacouta Station - Stop #57420 (southbound); Kellogg Blvd &amp; Broadway St - Stop #11928 (eastbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 63: Detour via Arcade St &amp; 3rd St E</title>
+      <link>https://www.metrotransit.org/route/63</link>
+      <guid isPermaLink="false">Metro Transit-55538-2026-11-22T19:28:40.000Z</guid>
+      <pubDate>Sun, 22 Nov 2026 19:28:40 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 63</category>
+      <description>Route 63 detoured off 3rd St E between Arcade St and Bates Ave until further notice due to utility work. Board at: Temporary stop on Arcade St &amp; 3rd St E (southbound). | Action: Board at: Temporary stop on Arcade St &amp; 3rd St E (southbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 64: Detour via 5th St &amp; Jackson St</title>
