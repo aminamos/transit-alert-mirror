@@ -2,38 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-65-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-63-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-57-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-7-lightgrey)](#-minor-advisories)
+[![Minor](https://img.shields.io/badge/Minor-6-lightgrey)](#-minor-advisories)
 [![Routes](https://img.shields.io/badge/Affected%20Routes-56-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-22T06:25:38.891Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-22T15:11:37.545Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **METRO Orange Line** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (2) • **Route 10** (2) • **Route 11** (3) • **Route 14** (1) • **Route 17** (1) • **Route 18** (7) • **Route 22** (1) • **Route 25** (1) • **Route 27** (3) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (3) • **Route 64** (3) • **Route 67** (2) • **Route 68** (3) • **Route 71** (1) • **Route 71K** (1) • **Route 74** (2) • **Route 75** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO B Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (2) • **Route 10** (2) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (7) • **Route 22** (1) • **Route 25** (1) • **Route 27** (3) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (2) • **Route 64** (3) • **Route 67** (2) • **Route 68** (3) • **Route 71** (1) • **Route 71K** (1) • **Route 74** (2) • **Route 75** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 11: Southbound 10:30 PM Trip Canceled (Columbia Heights Transit Center C)
-
-- **Affected Routes**: `Route 11`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound Route 11 trip departing Columbia Heights Transit Center C at 10:30 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/11)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 11 trip departing Columbia Heights Transit Center C at 10:30 PM canceled today
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -62,6 +45,51 @@ No stops missed.
 Northbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.
 
 Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.
+```
+
+</details>
+
+---
+
+### ⚠️ METRO B Line: Detour via Lake St (Chicago Ave to 4th Ave)
+
+- **Affected Routes**: `METRO B Line`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Schedule**: Beginning at 5:02 AM until later today
+- **Corridors & Intersections**: Lake St (Chicago Ave to 4th Ave)
+- **Closed Stops**: Lake & 4th Ave Station (Stop #16863), Lake & Chicago Station (Stop #16871), Lake & 5th Ave Station (Stop #47529), Stop #16857, Stop #56796, Stop #16882, Stop #16855
+
+**Summary**: B Line detoured off Lake St from Chicago Ave to 4th Ave beginning at 5:02 AM until later today. Board at: Lake & I-35W Station - Stop #16857 (eastbound); Lake & Chicago Station - Stop #56796 (eastbound).
+
+> 💡 **Rider Action**: Board at: Lake & I-35W Station - Stop #16857 (eastbound); Lake & Chicago Station - Stop #56796 (eastbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on Lake St to 4th Ave, right on 4th Ave, left on 31st St, left on Park Ave, right on Lake St, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/bline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: B Line detoured off Lake St from Chicago Ave to 4th Ave beginning at 5:02 AM until later today
+
+```text
+For eastbound B Line get on/off buses at:
+Lake & I-35W Station - Stop #16857 (eastbound)
+Lake & Chicago Station - Stop #56796 (eastbound)
+
+For westbound B Line get on/off buses at:
+Lake & Bloomington Station - Stop #16882 (westbound)
+Lake & I-35W Station - Stop #16855 (westbound)
+
+Eastbound buses will travel regular route on Lake St to 4th Ave, right on 4th Ave, left on 31st St, left on Park Ave, right on Lake St, and resume regular route. 
+
+Westbound buses will travel regular route on Lake St to Chicago Ave, left on Chicago Ave, right on 31st St, right on 4th Ave, left on Lake St, and resume regular route. 
+
+Affected stops:
+Lake & 4th Ave Station - Stop #16863 (eastbound)
+Lake & Chicago Station - Stop #16871 (westbound)
+Lake & 5th Ave Station - Stop #47529 (westbound)
 ```
 
 </details>
@@ -1205,46 +1233,6 @@ Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 7th St E & Wall St - Stop #57215 (eastbound)
 5th St & Broadway St - Stop #40160 (eastbound)
 Wall St & 7th St / 6th St - Stop #43282 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 63: Detour via 3rd St E & Arcade St
-
-- **Affected Routes**: `Route 63`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 3rd St E & Arcade St; Kellogg Blvd & Broadway St; 3rd St E & Maria Ave; 3rd St (Maple St to Maria Ave)
-- **Closed Stops**: 3rd St E & Maria Ave (Stop #3250), Stop #3247, Stop #3254
-
-**Summary**: Westbound Route 63 detoured off 3rd St from Maple St to Maria Ave until later today. Board at: 3rd St E & Arcade St - Stop #3247 (westbound); Kellogg Blvd & Broadway St - Stop #3254 (westbound).
-
-> 💡 **Rider Action**: Board at: 3rd St E & Arcade St - Stop #3247 (westbound); Kellogg Blvd & Broadway St - Stop #3254 (westbound)
-
-> 🔄 **Detour Path**: Westbound buses will travel regular route on 3rd St to Maple St, right on Maple St, left on 4th St, left on Maria Ave, right on 3rd St, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/63)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Westbound Route 63 detoured off 3rd St from Maple St to Maria Ave until later today
-
-```text
-Get on/off buses at:
-3rd St E & Arcade St - Stop #3247 (westbound)
-Kellogg Blvd & Broadway St - Stop #3254 (westbound)
-
-Affected direction: Westbound
-
-Westbound buses will travel regular route on 3rd St to Maple St, right on Maple St, left on 4th St, left on Maria Ave, right on 3rd St, and resume regular route. 
-
-Eastbound buses are not affected. 
-
-Affected stops:
-3rd St E & Maria Ave - Stop #3250 (westbound)
 ```
 
 </details>
@@ -2411,26 +2399,6 @@ Eastbound buses will travel regular route on 5th St to Wacouta St, right on Waco
 
 Westbound buses will travel regular route on the Gold Line guideway to Mounds Blvd Station, left on 3rd St to cross the Kellogg Blvd bridge, right on Sibley St, left on 6th St and resume regular route.
 ```
-
-</details>
-
----
-
-### ℹ️ METRO Green Line: Service Advisory
-
-- **Affected Routes**: `METRO Green Line`
-- **Direction**: Eastbound
-- **Severity**: `Minor`
-- **Closed Stops**: Stop #56001, Stop #56002, Stop #56003, Stop #56004, Stop #56005, Stop #56006, Stop #56007, Stop #56008 *(+11 more)*
-
-**Summary**: Eastbound Green Line trip departing U.S. Bank Stadium Station at 11:29 PM delayed approximately 15 minutes today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/green)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Green Line trip departing U.S. Bank Stadium Station at 11:29 PM delayed approximately 15 minutes today
 
 </details>
 
