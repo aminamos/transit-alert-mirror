@@ -2,21 +2,38 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-62-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-56-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-6-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-55-brightgreen)](#-routes-index)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-65-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-57-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-7-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-56-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-21T23:00:31.444Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-22T06:25:38.891Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (2) • **Route 10** (2) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (7) • **Route 22** (1) • **Route 25** (1) • **Route 27** (3) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (2) • **Route 64** (3) • **Route 67** (2) • **Route 68** (3) • **Route 71** (1) • **Route 71K** (1) • **Route 74** (2) • **Route 75** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Green Line** (1) • **METRO Orange Line** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (2) • **Route 10** (2) • **Route 11** (3) • **Route 14** (1) • **Route 17** (1) • **Route 18** (7) • **Route 22** (1) • **Route 25** (1) • **Route 27** (3) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (3) • **Route 64** (3) • **Route 67** (2) • **Route 68** (3) • **Route 71** (1) • **Route 71K** (1) • **Route 74** (2) • **Route 75** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 Route 11: Southbound 10:30 PM Trip Canceled (Columbia Heights Transit Center C)
+
+- **Affected Routes**: `Route 11`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Route 11 trip departing Columbia Heights Transit Center C at 10:30 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/11)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 11 trip departing Columbia Heights Transit Center C at 10:30 PM canceled today
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -1194,6 +1211,46 @@ Wall St & 7th St / 6th St - Stop #43282 (southbound)
 
 ---
 
+### ⚠️ Route 63: Detour via 3rd St E & Arcade St
+
+- **Affected Routes**: `Route 63`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 3rd St E & Arcade St; Kellogg Blvd & Broadway St; 3rd St E & Maria Ave; 3rd St (Maple St to Maria Ave)
+- **Closed Stops**: 3rd St E & Maria Ave (Stop #3250), Stop #3247, Stop #3254
+
+**Summary**: Westbound Route 63 detoured off 3rd St from Maple St to Maria Ave until later today. Board at: 3rd St E & Arcade St - Stop #3247 (westbound); Kellogg Blvd & Broadway St - Stop #3254 (westbound).
+
+> 💡 **Rider Action**: Board at: 3rd St E & Arcade St - Stop #3247 (westbound); Kellogg Blvd & Broadway St - Stop #3254 (westbound)
+
+> 🔄 **Detour Path**: Westbound buses will travel regular route on 3rd St to Maple St, right on Maple St, left on 4th St, left on Maria Ave, right on 3rd St, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/63)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Westbound Route 63 detoured off 3rd St from Maple St to Maria Ave until later today
+
+```text
+Get on/off buses at:
+3rd St E & Arcade St - Stop #3247 (westbound)
+Kellogg Blvd & Broadway St - Stop #3254 (westbound)
+
+Affected direction: Westbound
+
+Westbound buses will travel regular route on 3rd St to Maple St, right on Maple St, left on 4th St, left on Maria Ave, right on 3rd St, and resume regular route. 
+
+Eastbound buses are not affected. 
+
+Affected stops:
+3rd St E & Maria Ave - Stop #3250 (westbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 64: Detour via 5th St & Jackson St
 
 - **Affected Routes**: `Route 64`
@@ -2354,6 +2411,26 @@ Eastbound buses will travel regular route on 5th St to Wacouta St, right on Waco
 
 Westbound buses will travel regular route on the Gold Line guideway to Mounds Blvd Station, left on 3rd St to cross the Kellogg Blvd bridge, right on Sibley St, left on 6th St and resume regular route.
 ```
+
+</details>
+
+---
+
+### ℹ️ METRO Green Line: Service Advisory
+
+- **Affected Routes**: `METRO Green Line`
+- **Direction**: Eastbound
+- **Severity**: `Minor`
+- **Closed Stops**: Stop #56001, Stop #56002, Stop #56003, Stop #56004, Stop #56005, Stop #56006, Stop #56007, Stop #56008 *(+11 more)*
+
+**Summary**: Eastbound Green Line trip departing U.S. Bank Stadium Station at 11:29 PM delayed approximately 15 minutes today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/green)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Green Line trip departing U.S. Bank Stadium Station at 11:29 PM delayed approximately 15 minutes today
 
 </details>
 

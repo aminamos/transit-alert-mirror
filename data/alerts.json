@@ -1,16 +1,39 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-21T23:00:31.444Z",
-    "totalAlerts": 62,
-    "criticalCount": 0,
-    "moderateCount": 56,
-    "minorCount": 6,
-    "affectedRoutesCount": 55,
+    "generatedAt": "2026-11-22T06:25:38.891Z",
+    "totalAlerts": 65,
+    "criticalCount": 1,
+    "moderateCount": 57,
+    "minorCount": 7,
+    "affectedRoutesCount": 56,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
+    {
+      "id": "55535",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 11: Southbound 10:30 PM Trip Canceled (Columbia Heights Transit Center C)",
+      "summary": "Southbound Route 11 trip departing Columbia Heights Transit Center C at 10:30 PM canceled today",
+      "affectedRoutes": [
+        "Route 11"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {},
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/11",
+      "updatedAt": "2026-11-22T06:24:01.000Z",
+      "rawHeader": "Southbound Route 11 trip departing Columbia Heights Transit Center C at 10:30 PM canceled today",
+      "rawDescription": ""
+    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -460,7 +483,7 @@
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/10",
-      "updatedAt": "2026-11-17T14:31:04.000Z",
+      "updatedAt": "2026-11-22T06:00:01.000Z",
       "rawHeader": "Central Ave NE & 26th Ave NE - Stop #52073 (northbound) is closed for Route 10 beginning Mon Nov 23 at 6:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nCentral Ave NE & Lowry Ave NE - Stop #17194 (northbound)\r\nCentral Ave NE & 27th Ave NE - Stop #17190 (northbound)"
     },
@@ -917,7 +940,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-11-20T14:27:55.000Z",
+      "updatedAt": "2026-11-22T06:00:01.000Z",
       "rawHeader": "Route 22 detoured off Lyndale Ave from Dowling Ave to 40th Ave N beginning Mon Nov 23 at 6:00 AM until further notice due to construction",
       "rawDescription": "For northbound Route 22 get on/off buses at:\r\nLyndale Ave N & Dowling Ave N - Stop #11197 (northbound)\r\nLyndale Ave N & 41st Ave N - Stop #57196 (northbound)\r\n\nFor southbound Route 22 get on/off buses at:\r\nLyndale Ave N & 40th Ave N - Stop #11633 (southbound)\r\nLyndale Ave N & 36th Ave N - Stop #11637 (southbound)\r\n\nNorthbound buses will travel regular route on Lyndale Ave to Dowling Ave, left on Dowling, right on Fremont Ave, right on 40th Ave N, left on Lyndale Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on Lyndale Ave to 40th Ave N, right on 40th Ave, left on Fremont Ave, left on Dowling Ave, right on Lyndale Ave, and resume regular route.\r\n\nAffected stops:\r\nLyndale Ave N & 40th Ave N - Stop #11199 (northbound)\r\nLyndale Ave N & Dowling Ave N - Stop #11635 (southbound)"
     },
@@ -1881,6 +1904,53 @@
       "rawDescription": "The Kellogg Boulevard Bridge will reopen on Friday, November 13, 2026. Route 63 buses will return to their regular routing across the bridge at the start of service on Saturday, November 14, 2026.\r\n\nBeginning November 14, Route 63 buses will also begin serving the Bus Rapid Transit (BRT) stations at Union Depot & Wacouta Station and Union Depot & Sibley Station.\r\n\nFor eastbound Route 63 get on/off buses at:\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\nUnion Depot & Wacouta Station - Stop #57420 (southbound)\r\nKellogg Blvd & Broadway St - Stop #11928 (eastbound)\r\n\nFor westbound Route 63 get on/off buses at:\r\nKellogg Blvd & Broadway St - Stop #3254 (westbound)\r\nUnion Depot & Sibley Station - Stop #57419 (northbound)\r\n6th St & Jackson / Robert - Stop #11859 (westbound)\r\n\nEastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, continue across Mounds Blvd onto 3rd St and resume regular route.\r\n\nWestbound buses will travel regular route on 3rd St, cross Mounds Blvd onto Kellogg Blvd bridge, right on Sibley St, left on 6th St and resume regular route.\r\n\nAffected stops:\r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\n5th St & Broadway St - Stop #40160 (eastbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound)"
     },
     {
+      "id": "55534",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "Route 63: Detour via 3rd St E & Arcade St",
+      "summary": "Westbound Route 63 detoured off 3rd St from Maple St to Maria Ave until later today. Board at: 3rd St E & Arcade St - Stop #3247 (westbound); Kellogg Blvd & Broadway St - Stop #3254 (westbound).",
+      "affectedRoutes": [
+        "Route 63"
+      ],
+      "direction": "Both Directions",
+      "intersections": [
+        "3rd St E & Arcade St",
+        "Kellogg Blvd & Broadway St",
+        "3rd St E & Maria Ave",
+        "3rd St (Maple St to Maria Ave)"
+      ],
+      "closedStopIds": [
+        "3250",
+        "3247",
+        "3254"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "3250",
+          "name": "3rd St E & Maria Ave",
+          "direction": "westbound"
+        },
+        {
+          "id": "3247"
+        },
+        {
+          "id": "3254"
+        }
+      ],
+      "riderAlternative": "Board at: 3rd St E & Arcade St - Stop #3247 (westbound); Kellogg Blvd & Broadway St - Stop #3254 (westbound)",
+      "detourDetails": "Westbound buses will travel regular route on 3rd St to Maple St, right on Maple St, left on 4th St, left on Maria Ave, right on 3rd St, and resume regular route.",
+      "activePeriod": {
+        "start": "2026-11-22T03:33:00.000Z",
+        "end": "2026-11-22T08:25:18.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "DETOUR",
+      "url": "https://www.metrotransit.org/route/63",
+      "updatedAt": "2026-11-22T03:33:34.000Z",
+      "rawHeader": "Westbound Route 63 detoured off 3rd St from Maple St to Maria Ave until later today",
+      "rawDescription": "Get on/off buses at:\r\n3rd St E & Arcade St - Stop #3247 (westbound)\r\nKellogg Blvd & Broadway St - Stop #3254 (westbound)\r\n\nAffected direction: Westbound\r\n\nWestbound buses will travel regular route on 3rd St to Maple St, right on Maple St, left on 4th St, left on Maria Ave, right on 3rd St, and resume regular route. \r\n\nEastbound buses are not affected. \r\n\nAffected stops:\r\n3rd St E & Maria Ave - Stop #3250 (westbound)"
+    },
+    {
       "id": "51765",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -2112,7 +2182,7 @@
       "cause": "MAINTENANCE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/67",
-      "updatedAt": "2026-11-21T09:01:01.000Z",
+      "updatedAt": "2026-11-22T06:00:01.000Z",
       "rawHeader": "Route 67 detoured off Thomas Ave from Western Ave to Como Ave beginning Mon Nov 23 at 2:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off eastbound buses at:\r\nThomas Ave & Western Ave - Stop #18837 (eastbound)\r\nComo Ave & Marion St - Stop #972 (eastbound)\r\nComo Ave & Rice St - Stop #973 (eastbound)\r\n\nGet on/off westbound buses at:\r\nComo Ave & Rice St - Stop #49895 (westbound)\r\nComo Ave & Marion St - Stop #826 (westbound)\r\nThomas Ave & Arundel St - Stop #18850 (westbound)\r\n\nEastbound buses will travel regular route on Thomas Ave to Western Ave, left on Western Ave, right on Minnehaha Ave, right on Como Ave, continue on Como Ave to Marion St and resume regular route.\r\n\nWestbound buses will travel regular route on Como Ave to Marion St, continue on Como Ave to Minnehaha Ave, left on Minnehaha Ave, left on Western Ave, right on Thomas Ave and resume regular route.\r\n\nAffected stops:\r\nThomas Ave & Farrington St - Stop #18839 (eastbound)\r\nThomas Ave & Galtier St - Stop #18841 (eastbound)\r\nMarion St & Como Ave - Stop #18843 (northbound)\r\nThomas Ave & Galtier St - Stop #18845 (westbound)\r\nThomas Ave & Farrington St - Stop #18847 (westbound)\r\nThomas Ave & Western Ave - Stop #18849 (westbound)"
     },
@@ -3511,7 +3581,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/645",
-      "updatedAt": "2026-11-20T18:47:02.000Z",
+      "updatedAt": "2026-11-22T06:00:01.000Z",
       "rawHeader": "Route 645 detoured off I-394 from General Mills Blvd to Louisiana Ave beginning Mon Nov 23 at 8:00 PM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nGeneral Mills Blvd & General Mills - Stop #40578 (southbound)\r\nWayzata Blvd & General Mills Blvd - Stop #57752 (eastbound)\r\nLouisiana Transit Ctr & Temp Gate B - Stop #80969 (eastbound)\r\n\nEastbound buses will travel regular route on General Mills Blvd to I-394 ramp, continue on General Mills Blvd to Wayzata Blvd, left on Wayzata Blvd, left into Louisiana Ave Transit Center, and resume detour route.\r\n\nWestbound buses will travel regular route.\r\n\nAffected stops:\r\nI-394 Ramp & General Mills Blvd - Stop #41158 (eastbound)"
     },
@@ -3745,6 +3815,110 @@
       "updatedAt": "2026-11-21T09:00:01.000Z",
       "rawHeader": "METRO Gold Line returns to Kellogg Blvd Bridge beginning Sat Nov 14",
       "rawDescription": "The Kellogg Boulevard Bridge will reopen on Friday, November 13, 2026. METRO Gold Line buses will return to their regular routing across the bridge at the start of service on Saturday, November 14, 2026.\r\n\nBeginning November 14, METRO Gold Line buses will also begin serving the Bus Rapid Transit (BRT) stations at Union Depot & Wacouta Station and Union Depot & Sibley Station.\r\n\nEastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, and veer right onto the Gold Line guideway.\r\n\nWestbound buses will travel regular route on the Gold Line guideway to Mounds Blvd Station, left on 3rd St to cross the Kellogg Blvd bridge, right on Sibley St, left on 6th St and resume regular route."
+    },
+    {
+      "id": "55536",
+      "agency": "Metro Transit",
+      "severity": "Minor",
+      "title": "METRO Green Line: Service Advisory",
+      "summary": "Eastbound Green Line trip departing U.S. Bank Stadium Station at 11:29 PM delayed approximately 15 minutes today",
+      "affectedRoutes": [
+        "METRO Green Line"
+      ],
+      "direction": "Eastbound",
+      "intersections": [],
+      "closedStopIds": [
+        "56001",
+        "56002",
+        "56003",
+        "56004",
+        "56005",
+        "56006",
+        "56007",
+        "56008",
+        "56009",
+        "56010",
+        "56011",
+        "56012",
+        "56013",
+        "56014",
+        "56015",
+        "56016",
+        "56017",
+        "56018",
+        "56338"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "56001"
+        },
+        {
+          "id": "56002"
+        },
+        {
+          "id": "56003"
+        },
+        {
+          "id": "56004"
+        },
+        {
+          "id": "56005"
+        },
+        {
+          "id": "56006"
+        },
+        {
+          "id": "56007"
+        },
+        {
+          "id": "56008"
+        },
+        {
+          "id": "56009"
+        },
+        {
+          "id": "56010"
+        },
+        {
+          "id": "56011"
+        },
+        {
+          "id": "56012"
+        },
+        {
+          "id": "56013"
+        },
+        {
+          "id": "56014"
+        },
+        {
+          "id": "56015"
+        },
+        {
+          "id": "56016"
+        },
+        {
+          "id": "56017"
+        },
+        {
+          "id": "56018"
+        },
+        {
+          "id": "56338"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-22T05:42:00.000Z",
+        "end": "2026-11-22T07:10:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "OTHER_EFFECT",
+      "url": "https://www.metrotransit.org/route/green",
+      "updatedAt": "2026-11-22T05:45:19.000Z",
+      "rawHeader": "Eastbound Green Line trip departing U.S. Bank Stadium Station at 11:29 PM delayed approximately 15 minutes today",
+      "rawDescription": ""
     },
     {
       "id": "55191",
