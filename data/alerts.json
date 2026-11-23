@@ -1,66 +1,40 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-22T21:39:55.402Z",
-    "totalAlerts": 65,
-    "criticalCount": 2,
-    "moderateCount": 57,
+    "generatedAt": "2026-11-23T02:27:59.889Z",
+    "totalAlerts": 63,
+    "criticalCount": 1,
+    "moderateCount": 56,
     "minorCount": 6,
-    "affectedRoutesCount": 56,
+    "affectedRoutesCount": 55,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "55539",
+      "id": "55548",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 2: Westbound 3:20 PM Trip Canceled (Ontario St SE & Beacon St)",
-      "summary": "Westbound Route 2 trip departing Ontario St SE & Beacon St at 3:20 PM canceled today due to collision",
+      "title": "Route 22: Southbound 6:52 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)",
+      "summary": "Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 6:52 PM canceled today",
       "affectedRoutes": [
-        "Route 2"
+        "Route 22"
       ],
-      "direction": "Westbound",
+      "direction": "Southbound",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-22T21:25:00.000Z",
-        "end": "2026-11-22T22:58:00.000Z"
+        "start": "2026-11-23T01:52:00.000Z",
+        "end": "2026-11-23T03:08:00.000Z"
       },
-      "cause": "ACCIDENT",
+      "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/2",
-      "updatedAt": "2026-11-22T21:25:57.000Z",
-      "rawHeader": "Westbound Route 2 trip departing Ontario St SE & Beacon St at 3:20 PM canceled today due to collision",
-      "rawDescription": ""
-    },
-    {
-      "id": "55540",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 74: Eastbound 3:04 PM Trip Canceled (46th St Station & Gate C)",
-      "summary": "Eastbound Route 74 trip departing 46th St Station & Gate C at 3:04 PM canceled due to maintenance work",
-      "affectedRoutes": [
-        "Route 74"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-22T21:26:00.000Z",
-        "end": "2026-11-22T23:07:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/74",
-      "updatedAt": "2026-11-22T21:26:56.000Z",
-      "rawHeader": "Eastbound Route 74 trip departing 46th St Station & Gate C at 3:04 PM canceled due to maintenance work",
+      "url": "https://www.metrotransit.org/route/22",
+      "updatedAt": "2026-11-23T01:52:54.000Z",
+      "rawHeader": "Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 6:52 PM canceled today",
       "rawDescription": ""
     },
     {
@@ -1931,43 +1905,6 @@
       "updatedAt": "2026-11-21T09:00:01.000Z",
       "rawHeader": "Route 63 returns to Kellogg Blvd Bridge beginning Sat Nov 14",
       "rawDescription": "The Kellogg Boulevard Bridge will reopen on Friday, November 13, 2026. Route 63 buses will return to their regular routing across the bridge at the start of service on Saturday, November 14, 2026.\r\n\nBeginning November 14, Route 63 buses will also begin serving the Bus Rapid Transit (BRT) stations at Union Depot & Wacouta Station and Union Depot & Sibley Station.\r\n\nFor eastbound Route 63 get on/off buses at:\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\nUnion Depot & Wacouta Station - Stop #57420 (southbound)\r\nKellogg Blvd & Broadway St - Stop #11928 (eastbound)\r\n\nFor westbound Route 63 get on/off buses at:\r\nKellogg Blvd & Broadway St - Stop #3254 (westbound)\r\nUnion Depot & Sibley Station - Stop #57419 (northbound)\r\n6th St & Jackson / Robert - Stop #11859 (westbound)\r\n\nEastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, continue across Mounds Blvd onto 3rd St and resume regular route.\r\n\nWestbound buses will travel regular route on 3rd St, cross Mounds Blvd onto Kellogg Blvd bridge, right on Sibley St, left on 6th St and resume regular route.\r\n\nAffected stops:\r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\n5th St & Broadway St - Stop #40160 (eastbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound)"
-    },
-    {
-      "id": "55538",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 63: Detour via Arcade St & 3rd St E",
-      "summary": "Route 63 detoured off 3rd St E between Arcade St and Bates Ave until further notice due to utility work. Board at: Temporary stop on Arcade St & 3rd St E (southbound).",
-      "affectedRoutes": [
-        "Route 63"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Arcade St & 3rd St E",
-        "right on 3rd St & resume regular route.\n\nAffected st",
-        "3rd St E & Arcade St"
-      ],
-      "closedStopIds": [
-        "3155"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "3155",
-          "name": "3rd St E & Arcade St",
-          "direction": "eastbound"
-        }
-      ],
-      "riderAlternative": "Board at: Temporary stop on Arcade St & 3rd St E (southbound)",
-      "detourDetails": "Eastbound buses will travel regular route on 3rd St to Bates Ave, left on Bates Ave, right on 4th St, right on Arcade St, left on 3rd St and resume regular route.",
-      "activePeriod": {
-        "start": "2026-11-22T19:28:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/63",
-      "updatedAt": "2026-11-22T19:28:40.000Z",
-      "rawHeader": "Route 63 detoured off 3rd St E between Arcade St and Bates Ave until further notice due to utility work",
-      "rawDescription": "For eastbound Route 63 buses get on/off buses at:\r\nTemporary stop on Arcade St & 3rd St E (southbound)\r\n\nEastbound buses will travel regular route on 3rd St to Bates Ave, left on Bates Ave, right on 4th St, right on Arcade St, left on 3rd St and resume regular route.\r\n\nWestbound buses will travel regular route on 3rd St to Arcade St, right on Arcade St, left on 4th St, left on Bates Ave, right on 3rd St and resume regular route.\r\n\nAffected stops:\r\n3rd St E & Arcade St - Stop #3155 (eastbound)"
     },
     {
       "id": "51765",

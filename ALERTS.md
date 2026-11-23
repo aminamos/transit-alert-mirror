@@ -2,53 +2,34 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-65-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-57-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-63-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-56-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-6-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-56-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-55-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-22T21:39:55.402Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-23T02:27:59.889Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (2) • **Route 10** (2) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (7) • **Route 22** (1) • **Route 25** (1) • **Route 27** (3) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (3) • **Route 64** (3) • **Route 67** (2) • **Route 68** (3) • **Route 71** (1) • **Route 71K** (1) • **Route 74** (3) • **Route 75** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (2) • **Route 10** (2) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (7) • **Route 22** (2) • **Route 25** (1) • **Route 27** (3) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (2) • **Route 64** (3) • **Route 67** (2) • **Route 68** (3) • **Route 71** (1) • **Route 71K** (1) • **Route 74** (2) • **Route 75** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 2: Westbound 3:20 PM Trip Canceled (Ontario St SE & Beacon St)
+### 🚨 Route 22: Southbound 6:52 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)
 
-- **Affected Routes**: `Route 2`
-- **Direction**: Westbound
+- **Affected Routes**: `Route 22`
+- **Direction**: Southbound
 - **Severity**: `Critical`
 
-**Summary**: Westbound Route 2 trip departing Ontario St SE & Beacon St at 3:20 PM canceled today due to collision
+**Summary**: Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 6:52 PM canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/2)
+[Official Agency Advisory](https://www.metrotransit.org/route/22)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Westbound Route 2 trip departing Ontario St SE & Beacon St at 3:20 PM canceled today due to collision
-
-</details>
-
----
-
-### 🚨 Route 74: Eastbound 3:04 PM Trip Canceled (46th St Station & Gate C)
-
-- **Affected Routes**: `Route 74`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-
-**Summary**: Eastbound Route 74 trip departing 46th St Station & Gate C at 3:04 PM canceled due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/74)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 74 trip departing 46th St Station & Gate C at 3:04 PM canceled due to maintenance work
+**Header**: Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 6:52 PM canceled today
 
 </details>
 
@@ -1224,45 +1205,6 @@ Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 7th St E & Wall St - Stop #57215 (eastbound)
 5th St & Broadway St - Stop #40160 (eastbound)
 Wall St & 7th St / 6th St - Stop #43282 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 63: Detour via Arcade St & 3rd St E
-
-- **Affected Routes**: `Route 63`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Arcade St & 3rd St E; right on 3rd St & resume regular route.
-
-Affected st; 3rd St E & Arcade St
-- **Closed Stops**: 3rd St E & Arcade St (Stop #3155)
-
-**Summary**: Route 63 detoured off 3rd St E between Arcade St and Bates Ave until further notice due to utility work. Board at: Temporary stop on Arcade St & 3rd St E (southbound).
-
-> 💡 **Rider Action**: Board at: Temporary stop on Arcade St & 3rd St E (southbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on 3rd St to Bates Ave, left on Bates Ave, right on 4th St, right on Arcade St, left on 3rd St and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/63)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 63 detoured off 3rd St E between Arcade St and Bates Ave until further notice due to utility work
-
-```text
-For eastbound Route 63 buses get on/off buses at:
-Temporary stop on Arcade St & 3rd St E (southbound)
-
-Eastbound buses will travel regular route on 3rd St to Bates Ave, left on Bates Ave, right on 4th St, right on Arcade St, left on 3rd St and resume regular route.
-
-Westbound buses will travel regular route on 3rd St to Arcade St, right on Arcade St, left on 4th St, left on Bates Ave, right on 3rd St and resume regular route.
-
-Affected stops:
-3rd St E & Arcade St - Stop #3155 (eastbound)
 ```
 
 </details>
