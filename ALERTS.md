@@ -2,34 +2,48 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-63-blue)](#)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-61-blue)](#)
 [![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-56-orange)](#-moderate-detours--changes)
+[![Moderate](https://img.shields.io/badge/Moderate-54-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-6-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-55-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-56-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-23T02:27:59.889Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-23T12:10:31.105Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (2) • **Route 10** (2) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (7) • **Route 22** (2) • **Route 25** (1) • **Route 27** (3) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (2) • **Route 64** (3) • **Route 67** (2) • **Route 68** (3) • **Route 71** (1) • **Route 71K** (1) • **Route 74** (2) • **Route 75** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (4) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (2) • **Route 10** (2) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (7) • **Route 22** (1) • **Route 25** (1) • **Route 27** (3) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (2) • **Route 64** (2) • **Route 67** (2) • **Route 68** (3) • **Route 71** (1) • **Route 71K** (1) • **Route 74** (2) • **Route 75** (1) • **Route 94** (1) • **Route 156** (1) • **Route 219** (1) • **Route 223** (2) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 22: Southbound 6:52 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)
+### 🚨 Route 219: Service Canceled
 
-- **Affected Routes**: `Route 22`
-- **Direction**: Southbound
+- **Affected Routes**: `Route 219`
+- **Direction**: Both Directions
 - **Severity**: `Critical`
 
-**Summary**: Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 6:52 PM canceled today
+**Summary**: Route 219 trip departing Maplewood Mall Transit Center & Gate A at 6:12 AM and seven other trips canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/22)
+[Official Agency Advisory](https://www.metrotransit.org/route/219)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 6:52 PM canceled today
+**Header**: Route 219 trip departing Maplewood Mall Transit Center & Gate A at 6:12 AM and seven other trips canceled today
+
+```text
+Affected northbound trips:
+departing Sun Ray Transit Center & Gate B at 7:13 AM
+departing Sun Ray Transit Center & Gate B at 9:13 AM
+departing Sun Ray Transit Center & Gate B at 11:13 AM
+departing Sun Ray Transit Center & Gate B at 1:13 PM
+
+Affected southbound trips:
+departing Maplewood Mall Transit Center & Gate A at 6:12 AM
+departing Maplewood Mall Transit Center & Gate A at 8:12 AM
+departing Maplewood Mall Transit Center & Gate A at 10:12 AM
+departing Maplewood Mall Transit Center & Gate A at 12:12 PM
+```
 
 </details>
 
@@ -1251,58 +1265,6 @@ Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 
 ---
 
-### ⚠️ Route 64: Detour via 7th St E & Wall St
-
-- **Affected Routes**: `Route 64`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Sep 14 at 5:00 AM until further notice
-- **Corridors & Intersections**: 7th St E & Wall St; 5th St & Jackson St; Burr St & Tedesco St; Wall St & 7th St; LaFayette Rd & 8th St
-- **Closed Stops**: LaFayette Rd & 8th St (Stop #11916), LaFayette Rd & Grove St (Stop #11918), LaFayette Rd & University Ave (Stop #11920), LaFayette Rd & #600 (Stop #11774), Lafayette Rd & Lafayette Plaza (Stop #11821), LaFayette Rd & University Ave (Stop #11921), LaFayette Rd & Grove St (Stop #11923), LaFayette Rd & 8th St (Stop #11925) *(+6 more)*
-
-**Summary**: Route 64 detoured off 7th St E from Lafayette Ave to Burr St starting Mon Sep 14 at 5:00 AM until further notice due to construction. Board at: 7th St E & Wall St - Stop #57215 (eastbound); 5th St & Jackson St - Stop #11838 (eastbound); Burr St & Tedesco St - Stop #11776 (northbound).
-
-> 💡 **Rider Action**: Board at: 7th St E & Wall St - Stop #57215 (eastbound); 5th St & Jackson St - Stop #11838 (eastbound); Burr St & Tedesco St - Stop #11776 (northbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on 7th St E to Lafayette, continue past Lafayette to Payne, left on Payne, left on Tedesco, right on Burr, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/64)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 64 detoured off 7th St E from Lafayette Ave to Burr St starting Mon Sep 14 at 5:00 AM until further notice due to construction
-
-```text
-For eastbound Route 64 get on/off buses at:
-7th St E & Wall St - Stop #57215 (eastbound)
-5th St & Jackson St - Stop #11838 (eastbound)
-Burr St & Tedesco St - Stop #11776 (northbound)
-
-For westbound Route 64 get on/off buses at:
-Burr St & Tedesco St - Stop #11819 (southbound)
-Wall St & 7th St / 6th St - Stop #43282 (southbound) 
-
-Eastbound buses will travel regular route on 7th St E to Lafayette, continue past Lafayette to Payne, left on Payne, left on Tedesco, right on Burr, and resume regular route. 
-
-Westbound buses will travel regular route on Burr to Tedesco, left onto Tedesco, right onto Payne, right onto 7th St, continue to Lafayette and resume regular route. 
-
-Affected stops:
-LaFayette Rd & 8th St - Stop #11916 (northbound)
-LaFayette Rd & Grove St - Stop #11918 (northbound)
-LaFayette Rd & University Ave - Stop #11920 (northbound)
-LaFayette Rd & #600 - Stop #11774 (northbound)
-Lafayette Rd & Lafayette Plaza - Stop #11821 (southbound)
-LaFayette Rd & University Ave - Stop #11921 (southbound)
-LaFayette Rd & Grove St - Stop #11923 (southbound)
-LaFayette Rd & 8th St - Stop #11925 (southbound)
-7th St E & Olive St - Stop #57415 (westbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 67: Detour via Thomas Ave & Western Ave
 
 - **Affected Routes**: `Route 67`
@@ -2292,50 +2254,6 @@ Affected direction: Northbound
 Affected stops:
 5th St E & Sibley St - Stop #11839 (eastbound)
 Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 860: Detour via Grove St & Lafayette Rd
-
-- **Affected Routes**: `Route 860`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Grove St & Lafayette Rd; LaFayette Rd & 8th St; University Ave & Mississippi St; University Ave & Lafayette St; LaFayette Rd & Grove St
-- **Closed Stops**: University Ave & Mississippi St (Stop #56109), University Ave & Lafayette St (Stop #57630), LaFayette Rd & Grove St (Stop #11923), Stop #11925
-
-**Summary**: Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction. Board at: Temporary stop on Grove St & Lafayette Rd (eastbound); LaFayette Rd & 8th St - Stop #11925 (southbound).
-
-> 💡 **Rider Action**: Board at: Temporary stop on Grove St & Lafayette Rd (eastbound); LaFayette Rd & 8th St - Stop #11925 (southbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/860)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction
-
-```text
-Updated get on/off stops 6/9 1:30 pm.
-
-Get on/off buses at:
-Temporary stop on Grove St & Lafayette Rd (eastbound)
-LaFayette Rd & 8th St - Stop #11925 (southbound)
-
-Northbound buses will travel regular route.
-
-Southbound buses will travel regular route on southbound I-35E to University Ave, continue on I-35E and exit at Wacouta St, left on 9th St, left on Broadway St, right on Grove St, right on Lafayette Rd, and resume regular route.
-
-Affected direction: Southbound
-
-Affected stops:
-University Ave & Mississippi St - Stop #56109 (eastbound)
-University Ave & Lafayette St - Stop #57630 (eastbound)
-LaFayette Rd & Grove St - Stop #11923 (southbound)
 ```
 
 </details>

@@ -1,41 +1,41 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-23T02:27:59.889Z",
-    "totalAlerts": 63,
+    "generatedAt": "2026-11-23T12:10:31.105Z",
+    "totalAlerts": 61,
     "criticalCount": 1,
-    "moderateCount": 56,
+    "moderateCount": 54,
     "minorCount": 6,
-    "affectedRoutesCount": 55,
+    "affectedRoutesCount": 56,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "55548",
+      "id": "55551",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 22: Southbound 6:52 PM Trip Canceled (Brooklyn Ctr Transit Ctr Gate H)",
-      "summary": "Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 6:52 PM canceled today",
+      "title": "Route 219: Service Canceled",
+      "summary": "Route 219 trip departing Maplewood Mall Transit Center & Gate A at 6:12 AM and seven other trips canceled today",
       "affectedRoutes": [
-        "Route 22"
+        "Route 219"
       ],
-      "direction": "Southbound",
+      "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-23T01:52:00.000Z",
-        "end": "2026-11-23T03:08:00.000Z"
+        "start": "2026-11-23T12:12:00.000Z",
+        "end": "2026-11-23T21:03:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-11-23T01:52:54.000Z",
-      "rawHeader": "Southbound Route 22 trip departing Brooklyn Ctr Transit Ctr Gate H at 6:52 PM canceled today",
-      "rawDescription": ""
+      "url": "https://www.metrotransit.org/route/219",
+      "updatedAt": "2026-11-23T11:42:02.000Z",
+      "rawHeader": "Route 219 trip departing Maplewood Mall Transit Center & Gate A at 6:12 AM and seven other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting Sun Ray Transit Center & Gate B at 7:13 AM\r\ndeparting Sun Ray Transit Center & Gate B at 9:13 AM\r\ndeparting Sun Ray Transit Center & Gate B at 11:13 AM\r\ndeparting Sun Ray Transit Center & Gate B at 1:13 PM\r\n\nAffected southbound trips:\r\ndeparting Maplewood Mall Transit Center & Gate A at 6:12 AM\r\ndeparting Maplewood Mall Transit Center & Gate A at 8:12 AM\r\ndeparting Maplewood Mall Transit Center & Gate A at 10:12 AM\r\ndeparting Maplewood Mall Transit Center & Gate A at 12:12 PM"
     },
     {
       "id": "52943",
@@ -486,7 +486,7 @@
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/10",
-      "updatedAt": "2026-11-22T06:00:01.000Z",
+      "updatedAt": "2026-11-23T11:30:02.000Z",
       "rawHeader": "Central Ave NE & 26th Ave NE - Stop #52073 (northbound) is closed for Route 10 beginning Mon Nov 23 at 6:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nCentral Ave NE & Lowry Ave NE - Stop #17194 (northbound)\r\nCentral Ave NE & 27th Ave NE - Stop #17190 (northbound)"
     },
@@ -654,7 +654,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/18",
-      "updatedAt": "2026-11-19T20:09:23.000Z",
+      "updatedAt": "2026-11-23T06:00:01.000Z",
       "rawHeader": "Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln until Tue Nov 24 at 11:00 AM due to construction",
       "rawDescription": "For northbound Route 18 get on/off buses at:\r\n1st Ave S & Lake St - Stop #1889 (northbound)\r\nTemporary stop on 1st Ave S & 28th St (northbound)\r\nNicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound)\r\n\nFor southbound Route 18 get on/off buses at:\r\nNicollet Ave S & 24th St W - Stop #1204 (southbound)\r\nTemporary stop on Nicollet Ave just before 26th St (southbound)\r\nTemporary stop on Blaisdell Ave & 28th St (southbound)\r\nBlaisdell Ave S & Lake St - Stop #14850 (southbound)\r\n\nNorthbound buses will travel regular route on 1st Ave to Cecil Newman, continue on 1st Ave to 27th St, left on 27th St, right on Nicollet Ave and resume regular route.\r\n\nSouthbound buses will travel regular route on Nicollet Ave to 26th St, right on 26th St, left on Blaisdell Ave, continue on Blaisdell Ave to 29th St and resume regular route. \r\n\nAffected stops:\r\nNicollet Ave S & 28th St E - Stop #1890 (northbound)\r\nNicollet Ave S & 26th St W - Stop #1206 (southbound)\r\nNicollet Ave S & 28th St W - Stop #1208 (southbound)"
     },
@@ -881,7 +881,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/18",
-      "updatedAt": "2026-11-19T20:04:21.000Z",
+      "updatedAt": "2026-11-23T06:00:01.000Z",
       "rawHeader": "Route 18 returns to Nicollet Ave between Lake St and Cecil Newman Lane on Tue Nov 24 at 11:00 AM",
       "rawDescription": "For northbound Route 18 get on/off buses at:\r\nNicollet Ave S & 31st St E - Stop #1887 (northbound)\r\nNicollet Ave S & Lake St E - Stop #52937 (northbound)\r\nNicollet Ave S & 28th St E - Stop #1890 (northbound)\r\n\nFor southbound Route 18 get on/off buses at:\r\nNicollet Ave S & 28th St W - Stop #1208 (southbound)\r\nNicollet Ave S & Lake St W - Stop #52934 (southbound)\r\nNicollet Ave S & 32nd St W - Stop #1212 (southbound)\r\n\nNorthbound buses will travel on Nicollet Ave to 31st St, continue on Nicollet Ave to Cecil Newman and resume regular route.\r\n\nSouthbound buses will travel on Nicollet Ave to 29th St, continue on Nicollet Ave to 31st St and resume regular route.\r\n\nAffected stops:\r\n1st Ave S & 31st St / Lake St E - Stop #1888 (northbound)\r\n1st Ave S & Lake St - Stop #1889 (northbound)\r\nBlaisdell Ave S & Lake St - Stop #14850 (southbound)\r\n31st St W & Blaisdell / Nicollet - Stop #42211 (eastbound)"
     },
@@ -943,7 +943,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/22",
-      "updatedAt": "2026-11-22T06:00:01.000Z",
+      "updatedAt": "2026-11-23T11:30:02.000Z",
       "rawHeader": "Route 22 detoured off Lyndale Ave from Dowling Ave to 40th Ave N beginning Mon Nov 23 at 6:00 AM until further notice due to construction",
       "rawDescription": "For northbound Route 22 get on/off buses at:\r\nLyndale Ave N & Dowling Ave N - Stop #11197 (northbound)\r\nLyndale Ave N & 41st Ave N - Stop #57196 (northbound)\r\n\nFor southbound Route 22 get on/off buses at:\r\nLyndale Ave N & 40th Ave N - Stop #11633 (southbound)\r\nLyndale Ave N & 36th Ave N - Stop #11637 (southbound)\r\n\nNorthbound buses will travel regular route on Lyndale Ave to Dowling Ave, left on Dowling, right on Fremont Ave, right on 40th Ave N, left on Lyndale Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on Lyndale Ave to 40th Ave N, right on 40th Ave, left on Fremont Ave, left on Dowling Ave, right on Lyndale Ave, and resume regular route.\r\n\nAffected stops:\r\nLyndale Ave N & 40th Ave N - Stop #11199 (northbound)\r\nLyndale Ave N & Dowling Ave N - Stop #11635 (southbound)"
     },
@@ -997,7 +997,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/27",
-      "updatedAt": "2026-11-19T20:12:10.000Z",
+      "updatedAt": "2026-11-23T06:00:01.000Z",
       "rawHeader": "Route 27 detoured off Nicollet from 26th St to 29th St until Tue Nov 24 at 11:00 AM due to construction",
       "rawDescription": "Update on 7/31 at 9:30am: get on/off stops\r\n\nGet on/off westbound buses at:\r\n26th St E & 3rd Ave S - Stop #17761 (westbound)\r\nTemporary stop on 26th St & Nicollet Ave (westbound)\r\nTemporary stop on Blaisdell Ave & 28th St (southbound)\r\nBlaisdell Ave S & Lake St - Stop #14850 (southbound)\r\n\nEastbound buses will travel regular route.\r\n\nWestbound buses will travel regular route on 26th St to Nicollet Ave, continue on 26th St to Blaisdell Ave, left on Blaisdell Ave, continue on Blaisdell Ave to 29th St and resume regular route.\r\n\nAffected direction: Westbound\r\n\nAffected stops:\r\nNicollet Ave S & 26th St W - Stop #1206 (southbound)\r\nNicollet Ave S & 28th St W - Stop #1208 (southbound)"
     },
@@ -1079,7 +1079,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/27",
-      "updatedAt": "2026-11-19T20:27:22.000Z",
+      "updatedAt": "2026-11-23T06:00:01.000Z",
       "rawHeader": "Route 27 returns to Nicollet Ave between Lake St and Cecil Newman Ln beginning Tue Nov 24 at 11:00 AM",
       "rawDescription": "For eastbound Route 27 get on/off buses at:\r\nLake St W & Blaisdell Ave S - Stop #16845 (eastbound)\r\nNicollet Ave S & Lake St E - Stop #52937 (northbound)\r\nNicollet Ave S & 28th St E - Stop #1890 (northbound)\r\n\nFor westbound Route 27 get on/off buses at:\r\nNicollet Ave S & 26th St W - Stop #1206 (southbound)\r\nNicollet Ave S & 28th St W - Stop #1208 (southbound)\r\nLake & Nicollet Station - Stop #57358 (westbound)\r\n\nEastbound buses will travel regular route on Lake St to Nicollet Ave, right on 28th St, and resume regular route.\r\n\nWestbound buses will travel regular route on 26th St to Nicollet Ave, left on Nicollet Ave, right on Lake St and resume regular route.\r\n\nAffected stops:\r\n1st Ave S & Lake St - Stop #1889 (northbound)\r\nBlaisdell Ave & 28th St W - Stop #80911 (southbound)\r\nBlaisdell Ave S & Lake St - Stop #14850 (southbound)\r\n26th St E & Nicollet Ave - Stop #80924 (westbound)"
     },
@@ -1206,7 +1206,7 @@
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "updatedAt": "2026-11-16T09:30:01.000Z",
+      "updatedAt": "2026-11-23T10:00:01.000Z",
       "rawHeader": "38th St E & 3rd Ave S - Stop #12626 (eastbound) is closed for Route 38 beginning Mon Nov 16 at 4:00 AM until further notice",
       "rawDescription": "Get on/off buses at:\r\n38th St W & Nicollet Ave S - Stop #17516 (eastbound)\r\n38th St E & 4th Ave S - Stop #12622 (eastbound)"
     },
@@ -1953,114 +1953,6 @@
       "rawDescription": "Get on/off eastbound buses at:\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\n\nEastbound buses will travel regular route on 5th St to Sibley St, left on Sibley St, right on 7th St to Wacouta St and resume regular route.\r\n\nWestbound buses will travel regular route.\r\n\nAffected direction: Eastbound\r\n\nAffected stops:\r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)"
     },
     {
-      "id": "52654",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 64: Detour via 7th St E & Wall St",
-      "summary": "Route 64 detoured off 7th St E from Lafayette Ave to Burr St starting Mon Sep 14 at 5:00 AM until further notice due to construction. Board at: 7th St E & Wall St - Stop #57215 (eastbound); 5th St & Jackson St - Stop #11838 (eastbound); Burr St & Tedesco St - Stop #11776 (northbound).",
-      "affectedRoutes": [
-        "Route 64"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "7th St E & Wall St",
-        "5th St & Jackson St",
-        "Burr St & Tedesco St",
-        "Wall St & 7th St",
-        "LaFayette Rd & 8th St"
-      ],
-      "closedStopIds": [
-        "11916",
-        "11918",
-        "11920",
-        "11774",
-        "11821",
-        "11921",
-        "11923",
-        "11925",
-        "57415",
-        "57215",
-        "11838",
-        "11776",
-        "11819",
-        "43282"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "11916",
-          "name": "LaFayette Rd & 8th St",
-          "direction": "northbound"
-        },
-        {
-          "id": "11918",
-          "name": "LaFayette Rd & Grove St",
-          "direction": "northbound"
-        },
-        {
-          "id": "11920",
-          "name": "LaFayette Rd & University Ave",
-          "direction": "northbound"
-        },
-        {
-          "id": "11774",
-          "name": "LaFayette Rd & #600",
-          "direction": "northbound"
-        },
-        {
-          "id": "11821",
-          "name": "Lafayette Rd & Lafayette Plaza",
-          "direction": "southbound"
-        },
-        {
-          "id": "11921",
-          "name": "LaFayette Rd & University Ave",
-          "direction": "southbound"
-        },
-        {
-          "id": "11923",
-          "name": "LaFayette Rd & Grove St",
-          "direction": "southbound"
-        },
-        {
-          "id": "11925",
-          "name": "LaFayette Rd & 8th St",
-          "direction": "southbound"
-        },
-        {
-          "id": "57415",
-          "name": "7th St E & Olive St",
-          "direction": "westbound"
-        },
-        {
-          "id": "57215"
-        },
-        {
-          "id": "11838"
-        },
-        {
-          "id": "11776"
-        },
-        {
-          "id": "11819"
-        },
-        {
-          "id": "43282"
-        }
-      ],
-      "riderAlternative": "Board at: 7th St E & Wall St - Stop #57215 (eastbound); 5th St & Jackson St - Stop #11838 (eastbound); Burr St & Tedesco St - Stop #11776 (northbound)",
-      "detourDetails": "Eastbound buses will travel regular route on 7th St E to Lafayette, continue past Lafayette to Payne, left on Payne, left on Tedesco, right on Burr, and resume regular route.",
-      "activePeriod": {
-        "start": "2026-09-14T10:00:00.000Z",
-        "textDescription": "Beginning Mon Sep 14 at 5:00 AM until further notice"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "DETOUR",
-      "url": "https://www.metrotransit.org/route/64",
-      "updatedAt": "2026-11-20T14:55:27.000Z",
-      "rawHeader": "Route 64 detoured off 7th St E from Lafayette Ave to Burr St starting Mon Sep 14 at 5:00 AM until further notice due to construction",
-      "rawDescription": "For eastbound Route 64 get on/off buses at:\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\n5th St & Jackson St - Stop #11838 (eastbound)\r\nBurr St & Tedesco St - Stop #11776 (northbound)\r\n\nFor westbound Route 64 get on/off buses at:\r\nBurr St & Tedesco St - Stop #11819 (southbound)\r\nWall St & 7th St / 6th St - Stop #43282 (southbound) \r\n\nEastbound buses will travel regular route on 7th St E to Lafayette, continue past Lafayette to Payne, left on Payne, left on Tedesco, right on Burr, and resume regular route. \r\n\nWestbound buses will travel regular route on Burr to Tedesco, left onto Tedesco, right onto Payne, right onto 7th St, continue to Lafayette and resume regular route. \r\n\nAffected stops:\r\nLaFayette Rd & 8th St - Stop #11916 (northbound)\r\nLaFayette Rd & Grove St - Stop #11918 (northbound)\r\nLaFayette Rd & University Ave - Stop #11920 (northbound)\r\nLaFayette Rd & #600 - Stop #11774 (northbound)\r\nLafayette Rd & Lafayette Plaza - Stop #11821 (southbound)\r\nLaFayette Rd & University Ave - Stop #11921 (southbound)\r\nLaFayette Rd & Grove St - Stop #11923 (southbound)\r\nLaFayette Rd & 8th St - Stop #11925 (southbound)\r\n7th St E & Olive St - Stop #57415 (westbound)"
-    },
-    {
       "id": "55371",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -2138,7 +2030,7 @@
       "cause": "MAINTENANCE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/67",
-      "updatedAt": "2026-11-22T09:01:01.000Z",
+      "updatedAt": "2026-11-23T07:30:01.000Z",
       "rawHeader": "Route 67 detoured off Thomas Ave from Western Ave to Como Ave beginning Mon Nov 23 at 2:00 AM until further notice due to utility work",
       "rawDescription": "Get on/off eastbound buses at:\r\nThomas Ave & Western Ave - Stop #18837 (eastbound)\r\nComo Ave & Marion St - Stop #972 (eastbound)\r\nComo Ave & Rice St - Stop #973 (eastbound)\r\n\nGet on/off westbound buses at:\r\nComo Ave & Rice St - Stop #49895 (westbound)\r\nComo Ave & Marion St - Stop #826 (westbound)\r\nThomas Ave & Arundel St - Stop #18850 (westbound)\r\n\nEastbound buses will travel regular route on Thomas Ave to Western Ave, left on Western Ave, right on Minnehaha Ave, right on Como Ave, continue on Como Ave to Marion St and resume regular route.\r\n\nWestbound buses will travel regular route on Como Ave to Marion St, continue on Como Ave to Minnehaha Ave, left on Minnehaha Ave, left on Western Ave, right on Thomas Ave and resume regular route.\r\n\nAffected stops:\r\nThomas Ave & Farrington St - Stop #18839 (eastbound)\r\nThomas Ave & Galtier St - Stop #18841 (eastbound)\r\nMarion St & Como Ave - Stop #18843 (northbound)\r\nThomas Ave & Galtier St - Stop #18845 (westbound)\r\nThomas Ave & Farrington St - Stop #18847 (westbound)\r\nThomas Ave & Western Ave - Stop #18849 (westbound)"
     },
@@ -2906,7 +2798,7 @@
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/275",
-      "updatedAt": "2026-11-19T13:54:59.000Z",
+      "updatedAt": "2026-11-23T06:00:01.000Z",
       "rawHeader": "6th St & Wabasha St - Stop #11862 (westbound) is closed for Routes 275, 294, 363, 480 and 860 beginning Tue Nov 24 at 7:00 AM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\n6th St & Minnesota St - Stop #52097 (westbound)\r\n6th St & Washington St / 7th St - Stop #3264 (westbound)"
     },
@@ -3537,7 +3429,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/645",
-      "updatedAt": "2026-11-22T06:00:01.000Z",
+      "updatedAt": "2026-11-23T06:00:01.000Z",
       "rawHeader": "Route 645 detoured off I-394 from General Mills Blvd to Louisiana Ave beginning Mon Nov 23 at 8:00 PM until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nGeneral Mills Blvd & General Mills - Stop #40578 (southbound)\r\nWayzata Blvd & General Mills Blvd - Stop #57752 (eastbound)\r\nLouisiana Transit Ctr & Temp Gate B - Stop #80969 (eastbound)\r\n\nEastbound buses will travel regular route on General Mills Blvd to I-394 ramp, continue on General Mills Blvd to Wayzata Blvd, left on Wayzata Blvd, left into Louisiana Ave Transit Center, and resume detour route.\r\n\nWestbound buses will travel regular route.\r\n\nAffected stops:\r\nI-394 Ramp & General Mills Blvd - Stop #41158 (eastbound)"
     },
@@ -3692,61 +3584,6 @@
       "rawDescription": "Get on/off buses at:\r\n7th St E & Wall St - Stop #57215 (eastbound)\r\n5th St E & Jackson St - Stop #11838 (eastbound) \r\n\nNorthbound buses will travel regular route on 5th St to Sibley St, left on Sibley St, right on 7th St to Wall St, and resume regular route.\r\n\nSouthbound buses will travel regular route.\r\n\nAffected direction: Northbound\r\n\nAffected stops:\r\n5th St E & Sibley St - Stop #11839 (eastbound)\r\nWacouta St & 5th St / 6th St - Stop #11842 (northbound)"
     },
     {
-      "id": "50318",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 860: Detour via Grove St & Lafayette Rd",
-      "summary": "Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction. Board at: Temporary stop on Grove St & Lafayette Rd (eastbound); LaFayette Rd & 8th St - Stop #11925 (southbound).",
-      "affectedRoutes": [
-        "Route 860"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "Grove St & Lafayette Rd",
-        "LaFayette Rd & 8th St",
-        "University Ave & Mississippi St",
-        "University Ave & Lafayette St",
-        "LaFayette Rd & Grove St"
-      ],
-      "closedStopIds": [
-        "56109",
-        "57630",
-        "11923",
-        "11925"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "56109",
-          "name": "University Ave & Mississippi St",
-          "direction": "eastbound"
-        },
-        {
-          "id": "57630",
-          "name": "University Ave & Lafayette St",
-          "direction": "eastbound"
-        },
-        {
-          "id": "11923",
-          "name": "LaFayette Rd & Grove St",
-          "direction": "southbound"
-        },
-        {
-          "id": "11925"
-        }
-      ],
-      "riderAlternative": "Board at: Temporary stop on Grove St & Lafayette Rd (eastbound); LaFayette Rd & 8th St - Stop #11925 (southbound)",
-      "detourDetails": "Northbound buses will travel regular route.",
-      "activePeriod": {
-        "start": "2026-07-17T14:54:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "OTHER_EFFECT",
-      "url": "https://www.metrotransit.org/route/860",
-      "updatedAt": "2026-09-03T18:51:20.000Z",
-      "rawHeader": "Route 860 detoured off University Ave from I-35E to Lafayette Rd until further notice due to construction",
-      "rawDescription": "Updated get on/off stops 6/9 1:30 pm.\r\n\nGet on/off buses at:\r\nTemporary stop on Grove St & Lafayette Rd (eastbound)\r\nLaFayette Rd & 8th St - Stop #11925 (southbound)\r\n\nNorthbound buses will travel regular route.\r\n\nSouthbound buses will travel regular route on southbound I-35E to University Ave, continue on I-35E and exit at Wacouta St, left on 9th St, left on Broadway St, right on Grove St, right on Lafayette Rd, and resume regular route.\r\n\nAffected direction: Southbound\r\n\nAffected stops:\r\nUniversity Ave & Mississippi St - Stop #56109 (eastbound)\r\nUniversity Ave & Lafayette St - Stop #57630 (eastbound)\r\nLaFayette Rd & Grove St - Stop #11923 (southbound)"
-    },
-    {
       "id": "55198",
       "agency": "Metro Transit",
       "severity": "Minor",
@@ -3861,7 +3698,7 @@
       "cause": "UNKNOWN_CAUSE",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/27",
-      "updatedAt": "2026-11-20T18:52:41.000Z",
+      "updatedAt": "2026-11-23T06:00:01.000Z",
       "rawHeader": "Lake St W & Blaisdell Ave S - Stop #16845 (eastbound) is permanently eliminated for Route 27 beginning Tue Nov 24 at 11:00 AM",
       "rawDescription": "Get on/off buses at:\r\nLake St W & Grand Ave S - Stop #16841 (eastbound)\r\n\nAffected stops:\r\nLake St W & Blaisdell Ave S - Stop #16845 (eastbound)"
     },
