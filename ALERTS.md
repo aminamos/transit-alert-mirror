@@ -2,150 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-94-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-55-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-88-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-53-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-35-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-66-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-63-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-24T00:42:54.690Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-24T10:48:24.600Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO E Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (3) • **Route 10** (4) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (9) • **Route 22** (2) • **Route 25** (3) • **Route 27** (4) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 38** (2) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 63** (3) • **Route 64** (3) • **Route 65** (1) • **Route 67** (3) • **Route 68** (4) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (3) • **Route 75** (1) • **Route 83** (2) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 225** (1) • **Route 227** (1) • **Route 275** (2) • **Route 294** (3) • **Route 323** (1) • **Route 363** (2) • **Route 470** (1) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (2) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (3) • **Route 686** (1) • **Route 724** (1) • **Route 725** (1) • **Route 801** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO E Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (3) • **Route 10** (4) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (9) • **Route 22** (2) • **Route 25** (3) • **Route 27** (4) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 61** (2) • **Route 62** (3) • **Route 63** (3) • **Route 64** (3) • **Route 65** (1) • **Route 67** (4) • **Route 68** (4) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 225** (1) • **Route 227** (1) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 470** (1) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (2) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (3) • **Route 686** (1) • **Route 724** (1) • **Route 801** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 72: Service Canceled
-
-- **Affected Routes**: `Route 72`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Pascal St N & Central Ave W; 20 PM
-departing Pascal St N & Central Ave W; 21 PM
-departing Pascal St N & Central Ave W
-
-**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 3:19 PM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/72)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 3:19 PM and six other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Pascal St N & Central Ave W at 4:20 PM
-departing Pascal St N & Central Ave W at 6:21 PM
-departing Pascal St N & Central Ave W at 8:23 PM
-
-Affected westbound trips:
-departing Sun Ray Transit Center & Gate D at 3:19 PM
-departing Sun Ray Transit Center & Gate D at 5:18 PM
-departing Sun Ray Transit Center & Gate D at 7:21 PM
-departing Sun Ray Transit Center & Gate D at 9:21 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 83: Service Canceled
-
-- **Affected Routes**: `Route 83`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 83 trip departing Rosedale Transit Center Gate B at 3:43 PM and three other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/83)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 83 trip departing Rosedale Transit Center Gate B at 3:43 PM and three other trips canceled today
-
-```text
-Affected northbound trips:
-departing Montreal Cir & Summit Brewing at 4:30 PM
-departing Montreal Cir & Summit Brewing at 6:32 PM
-
-Affected southbound trips:
-departing Rosedale Transit Center Gate B at 3:43 PM
-departing Rosedale Transit Center Gate B at 5:46 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 323: Service Canceled
-
-- **Affected Routes**: `Route 323`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 323 trip departing Sun Ray Transit Center & Gate C at 6:46 PM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/323)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 323 trip departing Sun Ray Transit Center & Gate C at 6:46 PM and six other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Sun Ray Transit Center & Gate C at 6:46 PM
-departing Sun Ray Transit Center & Gate C at 7:46 PM
-departing Sun Ray Transit Center & Gate C at 8:46 PM
-departing Sun Ray Transit Center & Gate C at 9:45 PM
-
-Affected westbound trips:
-departing Woodlane Dr Station Gate B at 7:14 PM
-departing Woodlane Dr Station Gate B at 8:14 PM
-departing Woodlane Dr Station Gate B at 9:14 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 725: Service Canceled
-
-- **Affected Routes**: `Route 725`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 725 trip departing 5th St NW & 1st Ave N; departing 5th St NW & 1st Ave N; 17 PM
-departing 5th St NW & 1st Ave N; 22 PM
-departing 5th St NW & 1st Ave N
-
-**Summary**: Route 725 trip departing 5th St NW & 1st Ave NW at 3:17 PM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/725)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 725 trip departing 5th St NW & 1st Ave NW at 3:17 PM and six other trips canceled today
-
-```text
-Affected eastbound trips:
-departing 5th St NW & 1st Ave NW at 3:17 PM
-departing 5th St NW & 1st Ave NW at 5:17 PM
-departing 5th St NW & 1st Ave NW at 7:22 PM
-departing 5th St NW & 1st Ave NW at 9:26 PM
-
-Affected westbound trips:
-departing Northtown Transit Ctr Gate D at 4:15 PM
-departing Northtown Transit Ctr Gate D at 6:15 PM
-departing Northtown Transit Ctr Gate D at 8:15 PM
-```
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -1083,85 +954,6 @@ Get on/off buses at:
 
 ---
 
-### ⚠️ Route 54, Route 54M: Detour via 5th St & Robert St
-
-- **Affected Routes**: `Route 54` `Route 54M`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 5th St & Robert St; 5th St E & Sibley St; 6th St E & Maria Ave; 6th St E & Maple St; 6th St E & Hope St
-- **Closed Stops**: 7th St E & Maria Ave (Stop #11849), 7th St E & Hope St (Stop #10242), Arcade St & Minnehaha Ave (Stop #51089), Arcade St & York Ave (Stop #10247), 7th St E & Maria Ave (Stop #11850), Arcade St & York Ave (Stop #10288), Arcade St & Minnehaha Ave (Stop #10291), Forest St & Sims Ave (Stop #80817) *(+13 more)*
-
-**Summary**: Route 54 detoured off 7th St from Wacouta St to Arcade St and off Arcade St until Tue Nov 24 at 4:00 AM due to construction. Board at: 5th St & Robert Station - Stop #57418 (eastbound); 5th St E & Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E & Maria Ave (eastbound).
-
-> 💡 **Rider Action**: Board at: 5th St & Robert Station - Stop #57418 (eastbound); 5th St E & Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E & Maria Ave (eastbound)
-
-> 🔄 **Detour Path**: buses will travel regular route on 5th St E to Wacouta St, continue on 5th St, left on Broadway St onto eastbound I-94, exit for Mounds Blvd, continue straight on 6th St E, left on Forest St, left on Sims Ave, right on Arcade St and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/54)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 54 detoured off 7th St from Wacouta St to Arcade St and off Arcade St until Tue Nov 24 at 4:00 AM due to construction
-
-```text
-Update 11/23 at 2pm: East 7th St reopens at 4am on 11/24.
-
-For eastbound Route 54M get on/off buses at:
-5th St & Robert Station - Stop #57418 (eastbound)
-5th St E & Sibley St - Stop #1839 (eastbound)
-Temporary stop on 6th St E & Maria Ave (eastbound)
-Temporary stop on 6th St E & Maple St (eastbound)
-6th St E & Hope St - Stop #53982 (eastbound)
-Temporary stop on 6th St E & Arcade St (eastbound)
-Temporary stop on 6th St E & Mendota St (eastbound)
-Temporary stop on Forest St & 7th St E (northbound)
-Temporary stop on Forest St & York Ave (northbound)
-Temporary stop on Forest St & Sims Ave (northbound)
-Temporary stop on Arcade St & Jenks Ave (northbound)
-Arcade St & Maryland Ave - Stop #42053 (northbound)
-
-For westbound Route 54 departing Maplewood Mall get on/off buses at:
-Arcade St & Rose Ave E - Stop #56680 (southbound)
-Temporary stop on Arcade St & Jenks Ave (southbound)
-Temporary stop on Sims Ave & Forest St (eastbound)
-Temporary stop on Forest St & York Ave (southbound)
-Temporary stop on Forest St & 7th St E (southbound)
-Temporary stop on Forest St & Minnehaha Ave E (southbound)
-Temporary stop on 6th St E & Mendota (westbound)
-Temporary stop on 6th St E & Arcade St (westbound)
-Temporary stop on 6th St E & Hope St (westbound)
-Temporary stop on 6th St E & Maple St (westbound)
-Temporary stop on 6th St E & Maria Ave (westbound)
-Wall St & 7th St / 6th St - Stop #43282 (southbound)
-Temporary stop on 6th St E & Sibley St (westbound)
-
-Eastbound Route 54M buses will travel regular route on 5th St E to Wacouta St, continue on 5th St, left on Broadway St onto eastbound I-94, exit for Mounds Blvd, continue straight on 6th St E, left on Forest St, left on Sims Ave, right on Arcade St and resume regular route.
-
-Westbound buses departing Maplewood Mall will travel regular route on Arcade St to Sims Ave, left on Sims Ave, right on Forest St, right on 6th St, continue onto westbound I-94, exit for 12th St, left on Jackson St, left on 7th St, right on Wall St, and resume regular route.
-
-Affected stops:
-7th St E & Maria Ave - Stop #11849 (eastbound)
-7th St E & Hope St - Stop #10242 (eastbound)
-Arcade St & Minnehaha Ave - Stop #51089 (northbound)
-Arcade St & York Ave - Stop #10247 (northbound)
-7th St E & Maria Ave - Stop #11850 (westbound)
-Arcade St & York Ave - Stop #10288 (southbound)
-Arcade St & Minnehaha Ave - Stop #10291 (southbound)
-Forest St & Sims Ave - Stop #80817 (northbound)
-Case Ave & Forest St - Stop #80996 (eastbound)
-Forest St & Sims Ave - Stop #80818 (southbound) 
-Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
-7th St E & Wall St - Stop #57215 (eastbound)
-7th St E & Lafayette Rd - Stop #11845 (eastbound)
-7th St E & Payne Ave - Stop #11847 (eastbound)
-7th St E & Olive St - Stop #57415 (westbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 54, Route 64: Stop Closed at Maryland Ave & Earl St
 
 - **Affected Routes**: `Route 54` `Route 64`
@@ -1184,83 +976,6 @@ Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 ```text
 Get on/off buses at:
 Maryland Ave & Cypress St - Stop #12918 (eastbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 61: Detour via Arcade St & Magnolia Ave
-
-- **Affected Routes**: `Route 61`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Arcade St & Magnolia Ave; Arcade St & Jenks Ave; Forest St & York Ave; Forest St & 7th St E; Forest St & Minnehaha Ave E
-- **Closed Stops**: Arcade St & Minnehaha Ave (Stop #10291), 7th St E & Hope St (Stop #10294), 7th St E & Eichenwald St (Stop #10295), 7th St E & Bates Ave (Stop #10297), 7th St E & Maria Ave (Stop #11850), 7th St E & Maria Ave (Stop #11849), 7th St E & Bates Ave (Stop #10239), 7th St E & Eichenwald St (Stop #10241) *(+15 more)*
-
-**Summary**: Route 61 detoured off 7th St E from Wacouta St to Arcade St and off Arcade St from 7th St E to Sims Ave until Tue Nov 24 at 4:00 AM due to construction. Board at: Arcade St & Magnolia Ave - Stop #13823 (southbound); Temporary stop on Arcade St & Jenks Ave (southbound); Temporary stop on Forest St & York Ave (southbound).
-
-> 💡 **Rider Action**: Board at: Arcade St & Magnolia Ave - Stop #13823 (southbound); Temporary stop on Arcade St & Jenks Ave (southbound); Temporary stop on Forest St & York Ave (southbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on Arcade St to Sims Ave, left on Sims Ave, right on Forest St, right on 6th St, continue onto westbound I-94, exit for 12th St, left on Jackson St, left on 7th St, right on Wall St, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/61)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 61 detoured off 7th St E from Wacouta St to Arcade St and off Arcade St from 7th St E to Sims Ave until Tue Nov 24 at 4:00 AM due to construction
-
-```text
-Update 11/23 at 2pm: East 7th St reopens at 4am on 11/24.
-
-For eastbound Route 61 get on/off buses at:
-Arcade St & Magnolia Ave - Stop #13823 (southbound)
-Temporary stop on Arcade St & Jenks Ave (southbound)
-Temporary stop on Forest St & York Ave (southbound)
-Temporary stop on Forest St & 7th St E (southbound)
-Temporary stop on Forest St & Minnehaha Ave E (southbound)
-Temporary stop on 6th St E & Hope St (westbound)
-Temporary stop on 6th St E & Maple St (westbound)
-Temporary stop on 6th St E & Maria Ave (westbound)
-Wall St & 7th St / 6th St - Stop #43282 (southbound)
-Temporary stop on 6th St E & Sibley St (westbound)
-
-For westbound Route 61 get on/off buses at:
-5th St & Jackson St - Stop #11838 (eastbound)
-5th St E & Sibley St - Stop #1839 (eastbound)
-Temporary stop on 6th St E & Maria Ave (eastbound)
-Temporary stop on 6th St E & Maple St (eastbound)
-6th St E & Hope St - Stop #53982 (eastbound)
-Temporary stop on 6th St E & Mendota St (eastbound)
-Temporary stop on Forest St & 7th St E (northbound)
-Temporary stop on Forest St & York Ave (northbound)
-Temporary stop on Arcade St & Jenks Ave (northbound)
-Arcade St & Magnolia Ave - Stop #13798 (northbound)
-
-Eastbound buses will travel regular route on Arcade St to Sims Ave, left on Sims Ave, right on Forest St, right on 6th St, continue onto westbound I-94, exit for 12th St, left on Jackson St, left on 7th St, right on Wall St, and resume regular route.
-
-Westbound buses will travel regular route on 5th St E to Wacouta St, continue on 5th St, left on Broadway St onto eastbound I-94, exit for Mounds Blvd, continue straight on 6th St E, left on Forest St, left on Sims Ave, right on Arcade St and resume regular route.
-
-Affected stops:
-Arcade St & Minnehaha Ave - Stop #10291 (southbound)
-7th St E & Hope St - Stop #10294 (westbound)
-7th St E & Eichenwald St - Stop #10295 (westbound)
-7th St E & Bates Ave - Stop #10297 (westbound)
-7th St E & Maria Ave - Stop #11850 (westbound)
-7th St E & Maria Ave - Stop #11849 (eastbound)
-7th St E & Bates Ave - Stop #10239 (eastbound)
-7th St E & Eichenwald St - Stop #10241 (eastbound)
-7th St E & Hope St - Stop #10242 (eastbound)
-7th St E & Payne Ave - Stop #11852 (westbound)
-7th St E & Payne Ave - Stop #11847 (eastbound)
-Arcade St & York Ave - Stop #10288 (southbound)
-Arcade St & Neid Lane - Stop #10289 (southbound)
-Arcade St & Minnehaha Ave - Stop #10291 (southbound)
-Arcade St & Minnehaha Ave - Stop #51089 (northbound)
-Arcade St & Neid Lane - Stop #10246 (northbound)
-Arcade St & York Ave - Stop #10247 (northbound)
-Arcade St & Case Ave - Stop #13794 (northbound)
 ```
 
 </details>
@@ -1552,6 +1267,32 @@ Thomas Ave & Western Ave - Stop #18849 (westbound)
 
 ---
 
+### ⚠️ Route 67: Stop Closed at Franklin Ave E & 31st Ave S
+
+- **Affected Routes**: `Route 67`
+- **Direction**: Westbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Franklin Ave E & 31st Ave S; Franklin Ave E & Riverside Ave
+- **Closed Stops**: Stop #16558, Stop #57627
+
+**Summary**: Franklin Ave E & 31st Ave S - Stop #16558 (westbound) is closed for Route 67 from 9:00 AM to 3:00 PM on Tue Nov 24. Board at: Franklin Ave E & Riverside Ave - Stop #57627 (westbound).
+
+> 💡 **Rider Action**: Board at: Franklin Ave E & Riverside Ave - Stop #57627 (westbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Franklin Ave E & 31st Ave S - Stop #16558 (westbound) is closed for Route 67 from 9:00 AM to 3:00 PM on Tue Nov 24
+
+```text
+Get on/off buses at:
+Franklin Ave E & Riverside Ave - Stop #57627 (westbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 68: Detour via Jackson St & Sims Ave
 
 - **Affected Routes**: `Route 68`
@@ -1723,81 +1464,6 @@ Little Canada Rd & Jackson St - Stop #45306 (eastbound)
 Little Canada Rd & Park View Court - Stop #49785 (eastbound)
 Little Canada Rd & Fleur Royale Condos - Stop #45313 (westbound)
 Little Canada Rd & Co Rd C - Stop #45307 (eastbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 74: Detour via 5th St E & Sibley St
-
-- **Affected Routes**: `Route 74`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 5th St E & Sibley St; 6th St E & Maria Ave; 6th St E & Maple St; 6th St E & Hope St; 6th St E & Mendota St
-- **Closed Stops**: 7th St E & Maria Ave (Stop #11849), 7th St E & Bates Ave (Stop #10239), 7th St E & Hope St (Stop #10242), 7th St E & Arcade St (Stop #10385), 7th St E & Arcade St (Stop #12915), 7th St E & Hope St (Stop #10294), 7th St E & Bates Ave (Stop #10297), 7th St E & Maria Ave (Stop #11850) *(+17 more)*
-
-**Summary**: Route 74 detoured off 7th St E from Wacouta St to Forest St and off Arcade St from 7th St E to Case Ave until Tue Nov 24 at 4:00 AM due to construction. Board at: 5th St E & Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E & Maria Ave (eastbound); Temporary stop on 6th St E & Maple St (eastbound).
-
-> 💡 **Rider Action**: Board at: 5th St E & Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E & Maria Ave (eastbound); Temporary stop on 6th St E & Maple St (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on 5th St E to Wacouta St, continue on 5th St, left on Broadway St onto eastbound I-94, exit for Mounds Blvd, continue straight on 6th St E, left on Forest St, right on Minnehaha Ave and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/74)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 74 detoured off 7th St E from Wacouta St to Forest St and off Arcade St from 7th St E to Case Ave until Tue Nov 24 at 4:00 AM due to construction
-
-```text
-Update 11/23 at 2pm: East 7th St reopens at 4am on 11/24.
-
-For eastbound Route 74 get on/off buses at:
-5th St E & Sibley St - Stop #1839 (eastbound)
-Temporary stop on 6th St E & Maria Ave (eastbound)
-Temporary stop on 6th St E & Maple St (eastbound)
-6th St E & Hope St - Stop #53982 (eastbound)
-Temporary stop on 6th St E & Mendota St (eastbound)
-Minnehaha Ave & Cypress St - Stop #49605 (eastbound)
-Arcade St & Case Ave - Stop #13827 (eastbound, school trips only)
-
-For westbound Route 74 get on/off buses at:
-Arcade St & Magnolia Ave - Stop #13798 (westbound, 74J only)
-Minnehaha Ave & Forest St - Stop #49660 (westbound)
-Temporary stop on 6th St E & Hope St (westbound)
-Temporary stop on 6th St E & Maple St (westbound)
-Temporary stop on 6th St E & Maria Ave (westbound)
-Wall St & 7th St / 6th St - Stop #43282 (southbound)
-Temporary stop on 6th St E & Sibley St (westbound)
-
-Eastbound buses will travel regular route on 5th St E to Wacouta St, continue on 5th St, left on Broadway St onto eastbound I-94, exit for Mounds Blvd, continue straight on 6th St E, left on Forest St, right on Minnehaha Ave and resume regular route.
-
-Eastbound school trips departing from Johnson High School will travel regular route on Arcade St to Case Ave, left on Case Ave, right on Duchess St, right on Sims Ave, left on Forest St, left on Minnehaha Ave and resume regular route.
-
-Westbound buses will travel regular route Minnehaha Ave to Forest St, left on Forest St, right on 6th St, continue onto westbound I-94, exit for 12th St, left on Jackson St, left on 7th St, right on Wall St, and resume regular route.
-
-Westbound 74J buses will travel regular route Minnehaha Ave to Forest St, right on Forest St, left on Case Ave, right on Arcade St, and resume regular route.
-
-Affected stops:
-7th St E & Maria Ave - Stop #11849 (eastbound)
-7th St E & Bates Ave - Stop #10239 (eastbound)
-7th St E & Hope St - Stop #10242 (eastbound)
-7th St E & Arcade St - Stop #10385 (eastbound)
-7th St E & Arcade St - Stop #12915 (westbound)
-7th St E & Hope St - Stop #10294 (westbound)
-7th St E & Bates Ave - Stop #10297 (westbound)
-7th St E & Maria Ave - Stop #11850 (westbound)
-Minnehaha Ave & Forest St - Stop #49604 (eastbound)
-Arcade St & York Ave - Stop #10288 (southbound)
-Arcade St & Neid Lane - Stop #10289 (southbound)
-Minnehaha Ave & Arcade St - Stop #56235 (eastbound)
-Minnehaha Av E & Arcade St - Stop #57626 (westbound)
-Arcade St & Neid Lane - Stop #10246 (northbound)
-Arcade St & York Ave - Stop #10247 (northbound)
-Arcade St & Case Ave - Stop #13794 (northbound)
-7th St E & Payne Ave - Stop #11852 (westbound)
-7th St E & Payne Ave - Stop #11847 (eastbound)
 ```
 
 </details>
