@@ -2,21 +2,206 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-88-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-53-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-35-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-63-brightgreen)](#-routes-index)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-96-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-7-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-55-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-34-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-68-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-24T10:48:24.600Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-24T21:04:00.766Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO E Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (3) • **Route 10** (4) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (9) • **Route 22** (2) • **Route 25** (3) • **Route 27** (4) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 38** (2) • **Route 54** (2) • **Route 61** (2) • **Route 62** (3) • **Route 63** (3) • **Route 64** (3) • **Route 65** (1) • **Route 67** (4) • **Route 68** (4) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (2) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 225** (1) • **Route 227** (1) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 470** (1) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (2) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (3) • **Route 686** (1) • **Route 724** (1) • **Route 801** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (3) • **METRO Blue Line** (1) • **METRO E Line** (2) • **METRO Gold Line** (1) • **Route 2** (1) • **Route 3** (3) • **Route 3A** (1) • **Route 3E** (1) • **Route 7** (2) • **Route 9** (3) • **Route 10** (5) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (8) • **Route 22** (1) • **Route 25** (3) • **Route 27** (3) • **Route 30** (2) • **Route 32** (1) • **Route 36** (2) • **Route 38** (3) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 63** (2) • **Route 64** (3) • **Route 65** (1) • **Route 67** (4) • **Route 68** (4) • **Route 71** (3) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 75** (1) • **Route 83** (1) • **Route 87** (2) • **Route 94** (1) • **Route 156** (1) • **Route 219** (1) • **Route 223** (2) • **Route 225** (1) • **Route 227** (1) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 470** (1) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (2) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (2) • **Route 686** (1) • **Route 724** (1) • **Route 768** (1) • **Route 801** (1) • **Route 802** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 Route 3, Route 3E: Eastbound 5:37 PM Trip Canceled (Washington Ave & Anderson Hall)
+
+- **Affected Routes**: `Route 3` `Route 3E`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Eastbound Route 3E trip departing Washington Ave & Anderson Hall at 5:37 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/3)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 3E trip departing Washington Ave & Anderson Hall at 5:37 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 10: Southbound 3:19 PM Trip Canceled (22nd Ave NE & Edison High - Gate A)
+
+- **Affected Routes**: `Route 10`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Route 10 trip departing 22nd Ave NE & Edison High - Gate A at 3:19 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/10)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 10 trip departing 22nd Ave NE & Edison High - Gate A at 3:19 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 30: Service Canceled
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 26 PM
+departing Knox Ave N & Golden Valley Rd; 24 PM
+departing Knox Ave N & Golden Valley Rd
+
+**Summary**: Route 30 trip departing Westgate Station - Gate B at 1:34 PM and eight other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 30 trip departing Westgate Station - Gate B at 1:34 PM and eight other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Knox Ave N & Golden Valley Rd at 2:26 PM
+departing Knox Ave N & Golden Valley Rd at 4:24 PM
+departing Knox Ave N & Golden Valley Rd at 6:26 PM
+departing Golden Valley Rd Turn & Xerxes Ave N at 8:25 PM
+
+Affected westbound trips:
+departing Westgate Station - Gate B at 1:34 PM
+departing Westgate Station - Gate B at 3:34 PM
+departing Westgate Station - Gate B at 5:34 PM
+departing Westgate Station - Gate B at 7:36 PM
+departing Westgate Station - Gate B at 9:36 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 71: Service Canceled
+
+- **Affected Routes**: `Route 71`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/71)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today
+
+```text
+Affected northbound trips:
+departing Inver Hills College & Shelter at 1:38 PM
+departing Inver Hills College & Shelter at 4:38 PM
+
+Affected southbound trips:
+departing Market Place Dr & The Marketplace Ctr at 3:10 PM
+departing Market Place Dr & The Marketplace Ctr at 6:15 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 219: Service Canceled
+
+- **Affected Routes**: `Route 219`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 219 trip departing Maplewood Mall Transit Center & Gate A at 1:42 PM and five other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/219)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 219 trip departing Maplewood Mall Transit Center & Gate A at 1:42 PM and five other trips canceled today
+
+```text
+Affected northbound trips:
+departing Sun Ray Transit Center & Gate B at 2:43 PM
+departing Sun Ray Transit Center & Gate B at 4:43 PM
+departing Sun Ray Transit Center & Gate B at 6:43 PM
+
+Affected southbound trips:
+departing Maplewood Mall Transit Center & Gate A at 1:42 PM
+departing Maplewood Mall Transit Center & Gate A at 3:42 PM
+departing Maplewood Mall Transit Center & Gate A at 5:42 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 768: Northbound 4:20 PM Trip Canceled (2nd Ave S & 10th St - Stop Group H)
+
+- **Affected Routes**: `Route 768`
+- **Direction**: Northbound
+- **Severity**: `Critical`
+
+**Summary**: Northbound Route 768 trip departing 2nd Ave S & 10th St - Stop Group H at 4:20 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/768)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Northbound Route 768 trip departing 2nd Ave S & 10th St - Stop Group H at 4:20 PM canceled today
+
+</details>
+
+---
+
+### 🚨 Route 805: Service Canceled
+
+- **Affected Routes**: `Route 805`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 PM
+departing 1st Ave S & Monroe St; 36 PM
+departing 1st Ave S & Monroe St
+
+**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 1:38 PM and four other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/805)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 805 trip departing 1st Ave S & Monroe St at 1:38 PM and four other trips canceled today
+
+```text
+Affected northbound trips:
+departing Northtown Transit Ctr Gate D at 2:34 PM
+departing Northtown Transit Ctr Gate D at 4:34 PM
+
+Affected southbound trips:
+departing 1st Ave S & Monroe St at 1:38 PM
+departing 1st Ave S & Monroe St at 3:36 PM
+departing 1st Ave S & Monroe St at 5:38 PM
+```
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -45,6 +230,29 @@ No stops missed.
 Northbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.
 
 Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.
+```
+
+</details>
+
+---
+
+### ⚠️ METRO A Line: Service Advisory
+
+- **Affected Routes**: `METRO A Line`
+- **Direction**: All
+- **Severity**: `Moderate`
+
+**Summary**: METRO A Line service advisory from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
+
+[Official Agency Advisory](https://www.metrotransit.org/route/aline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: METRO A Line service advisory from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
+
+```text
+Due to the Turkey Trot event, METRO A Line buses will not detour, but expect delays in the Highland Park area near Ford Pkwy due to event traffic.
 ```
 
 </details>
@@ -508,53 +716,6 @@ Nicollet Ave S & Diamond Lake Rd - Stop #1338 (southbound)
 
 ---
 
-### ⚠️ Route 18: Detour via 1st Ave S & Lake St
-
-- **Affected Routes**: `Route 18`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 1st Ave S & Lake St; 1st Ave S & 28th St; Nicollet Ave S & 27th St; Nicollet Ave S & 24th St W; Blaisdell Ave & 28th St
-- **Closed Stops**: Nicollet Ave S & 28th St E (Stop #1890), Nicollet Ave S & 26th St W (Stop #1206), Nicollet Ave S & 28th St W (Stop #1208), Stop #1889, Stop #52309, Stop #1204, Stop #14850
-
-**Summary**: Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln until Tue Nov 24 at 11:00 AM due to construction. Board at: 1st Ave S & Lake St - Stop #1889 (northbound); Temporary stop on 1st Ave S & 28th St (northbound); Nicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound).
-
-> 💡 **Rider Action**: Board at: 1st Ave S & Lake St - Stop #1889 (northbound); Temporary stop on 1st Ave S & 28th St (northbound); Nicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on 1st Ave to Cecil Newman, continue on 1st Ave to 27th St, left on 27th St, right on Nicollet Ave and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/18)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 18 detoured off Nicollet from 26th St to Cecil Newman Ln until Tue Nov 24 at 11:00 AM due to construction
-
-```text
-For northbound Route 18 get on/off buses at:
-1st Ave S & Lake St - Stop #1889 (northbound)
-Temporary stop on 1st Ave S & 28th St (northbound)
-Nicollet Ave S & 27th St / 26th St E - Stop #52309 (northbound)
-
-For southbound Route 18 get on/off buses at:
-Nicollet Ave S & 24th St W - Stop #1204 (southbound)
-Temporary stop on Nicollet Ave just before 26th St (southbound)
-Temporary stop on Blaisdell Ave & 28th St (southbound)
-Blaisdell Ave S & Lake St - Stop #14850 (southbound)
-
-Northbound buses will travel regular route on 1st Ave to Cecil Newman, continue on 1st Ave to 27th St, left on 27th St, right on Nicollet Ave and resume regular route.
-
-Southbound buses will travel regular route on Nicollet Ave to 26th St, right on 26th St, left on Blaisdell Ave, continue on Blaisdell Ave to 29th St and resume regular route. 
-
-Affected stops:
-Nicollet Ave S & 28th St E - Stop #1890 (northbound)
-Nicollet Ave S & 26th St W - Stop #1206 (southbound)
-Nicollet Ave S & 28th St W - Stop #1208 (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 18: Stop Closed at Nicollet Ave S & 33rd St W
 
 - **Affected Routes**: `Route 18`
@@ -717,107 +878,18 @@ Blaisdell Ave S & Lake St - Stop #14850 (southbound)
 
 ---
 
-### ⚠️ Route 22: Detour via Lyndale Ave N & Dowling Ave N
-
-- **Affected Routes**: `Route 22`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Nov 23 at 6:00 AM until further notice
-- **Corridors & Intersections**: Lyndale Ave N & Dowling Ave N; Lyndale Ave N & 41st Ave N; Lyndale Ave N & 40th Ave N; Lyndale Ave N & 36th Ave N; Lyndale Ave (Dowling Ave to 40th Ave N)
-- **Closed Stops**: Lyndale Ave N & 40th Ave N (Stop #11199), Lyndale Ave N & Dowling Ave N (Stop #11635), Stop #11197, Stop #57196, Stop #11633, Stop #11637
-
-**Summary**: Route 22 detoured off Lyndale Ave from Dowling Ave to 40th Ave N beginning Mon Nov 23 at 6:00 AM until further notice due to construction. Board at: Lyndale Ave N & Dowling Ave N - Stop #11197 (northbound); Lyndale Ave N & 41st Ave N - Stop #57196 (northbound).
-
-> 💡 **Rider Action**: Board at: Lyndale Ave N & Dowling Ave N - Stop #11197 (northbound); Lyndale Ave N & 41st Ave N - Stop #57196 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on Lyndale Ave to Dowling Ave, left on Dowling, right on Fremont Ave, right on 40th Ave N, left on Lyndale Ave, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/22)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 22 detoured off Lyndale Ave from Dowling Ave to 40th Ave N beginning Mon Nov 23 at 6:00 AM until further notice due to construction
-
-```text
-For northbound Route 22 get on/off buses at:
-Lyndale Ave N & Dowling Ave N - Stop #11197 (northbound)
-Lyndale Ave N & 41st Ave N - Stop #57196 (northbound)
-
-For southbound Route 22 get on/off buses at:
-Lyndale Ave N & 40th Ave N - Stop #11633 (southbound)
-Lyndale Ave N & 36th Ave N - Stop #11637 (southbound)
-
-Northbound buses will travel regular route on Lyndale Ave to Dowling Ave, left on Dowling, right on Fremont Ave, right on 40th Ave N, left on Lyndale Ave, and resume regular route.
-
-Southbound buses will travel regular route on Lyndale Ave to 40th Ave N, right on 40th Ave, left on Fremont Ave, left on Dowling Ave, right on Lyndale Ave, and resume regular route.
-
-Affected stops:
-Lyndale Ave N & 40th Ave N - Stop #11199 (northbound)
-Lyndale Ave N & Dowling Ave N - Stop #11635 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 27: Detour via 26th St E & 3rd Ave S
-
-- **Affected Routes**: `Route 27`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 26th St E & 3rd Ave S; 26th St & Nicollet Ave; Blaisdell Ave & 28th St; Blaisdell Ave S & Lake St; Nicollet Ave S & 26th St W
-- **Closed Stops**: Nicollet Ave S & 26th St W (Stop #1206), Nicollet Ave S & 28th St W (Stop #1208), Stop #17761, Stop #14850
-
-**Summary**: Route 27 detoured off Nicollet from 26th St to 29th St until Tue Nov 24 at 11:00 AM due to construction. Board at: 26th St E & 3rd Ave S - Stop #17761 (westbound); Temporary stop on 26th St & Nicollet Ave (westbound); Temporary stop on Blaisdell Ave & 28th St (southbound).
-
-> 💡 **Rider Action**: Board at: 26th St E & 3rd Ave S - Stop #17761 (westbound); Temporary stop on 26th St & Nicollet Ave (westbound); Temporary stop on Blaisdell Ave & 28th St (southbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/27)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 27 detoured off Nicollet from 26th St to 29th St until Tue Nov 24 at 11:00 AM due to construction
-
-```text
-Update on 7/31 at 9:30am: get on/off stops
-
-Get on/off westbound buses at:
-26th St E & 3rd Ave S - Stop #17761 (westbound)
-Temporary stop on 26th St & Nicollet Ave (westbound)
-Temporary stop on Blaisdell Ave & 28th St (southbound)
-Blaisdell Ave S & Lake St - Stop #14850 (southbound)
-
-Eastbound buses will travel regular route.
-
-Westbound buses will travel regular route on 26th St to Nicollet Ave, continue on 26th St to Blaisdell Ave, left on Blaisdell Ave, continue on Blaisdell Ave to 29th St and resume regular route.
-
-Affected direction: Westbound
-
-Affected stops:
-Nicollet Ave S & 26th St W - Stop #1206 (southbound)
-Nicollet Ave S & 28th St W - Stop #1208 (southbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 27: Service Advisory
 
 - **Affected Routes**: `Route 27`
 - **Direction**: Both Directions
 - **Severity**: `Moderate`
 - **Schedule**: Beginning Tue Nov 24 at 11:00 AM
-- **Corridors & Intersections**: Lake St W & Blaisdell Ave S; Nicollet Ave S & Lake St E; Nicollet Ave S & 28th St E; Nicollet Ave S & 26th St W; Nicollet Ave S & 28th St W
-- **Closed Stops**: 1st Ave S & Lake St (Stop #1889), Blaisdell Ave & 28th St W (Stop #80911), Blaisdell Ave S & Lake St (Stop #14850), 26th St E & Nicollet Ave (Stop #80924), Stop #16845, Stop #52937, Stop #1890, Stop #1206 *(+2 more)*
+- **Corridors & Intersections**: Lake St W & Grand Ave S; Nicollet Ave S & Lake St E; Nicollet Ave S & 28th St E; Nicollet Ave S & 26th St W; Nicollet Ave S & 28th St W
+- **Closed Stops**: 1st Ave S & Lake St (Stop #1889), Blaisdell Ave & 28th St W (Stop #80911), Blaisdell Ave S & Lake St (Stop #14850), 26th St E & Nicollet Ave (Stop #80924), Stop #16841, Stop #52937, Stop #1890, Stop #1206 *(+2 more)*
 
-**Summary**: Route 27 returns to Nicollet Ave between Lake St and Cecil Newman Ln beginning Tue Nov 24 at 11:00 AM. Board at: Lake St W & Blaisdell Ave S - Stop #16845 (eastbound); Nicollet Ave S & Lake St E - Stop #52937 (northbound); Nicollet Ave S & 28th St E - Stop #1890 (northbound).
+**Summary**: Route 27 returns to Nicollet Ave between Lake St and Cecil Newman Ln beginning Tue Nov 24 at 11:00 AM. Board at: Lake St W & Grand Ave S - Stop #16841 (eastbound); Nicollet Ave S & Lake St E - Stop #52937 (northbound); Nicollet Ave S & 28th St E - Stop #1890 (northbound).
 
-> 💡 **Rider Action**: Board at: Lake St W & Blaisdell Ave S - Stop #16845 (eastbound); Nicollet Ave S & Lake St E - Stop #52937 (northbound); Nicollet Ave S & 28th St E - Stop #1890 (northbound)
+> 💡 **Rider Action**: Board at: Lake St W & Grand Ave S - Stop #16841 (eastbound); Nicollet Ave S & Lake St E - Stop #52937 (northbound); Nicollet Ave S & 28th St E - Stop #1890 (northbound)
 
 > 🔄 **Detour Path**: Eastbound buses will travel regular route on Lake St to Nicollet Ave, right on 28th St, and resume regular route.
 
@@ -829,8 +901,10 @@ Nicollet Ave S & 28th St W - Stop #1208 (southbound)
 **Header**: Route 27 returns to Nicollet Ave between Lake St and Cecil Newman Ln beginning Tue Nov 24 at 11:00 AM
 
 ```text
+Update on 11/24 at 12:40pm: eastbound get on/off stops
+
 For eastbound Route 27 get on/off buses at:
-Lake St W & Blaisdell Ave S - Stop #16845 (eastbound)
+Lake St W & Grand Ave S - Stop #16841 (eastbound)
 Nicollet Ave S & Lake St E - Stop #52937 (northbound)
 Nicollet Ave S & 28th St E - Stop #1890 (northbound)
 
@@ -954,6 +1028,56 @@ Get on/off buses at:
 
 ---
 
+### ⚠️ Route 38: Detour via Ford Pkwy & Cretin Ave
+
+- **Affected Routes**: `Route 38`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Ford Pkwy & Cretin Ave; Kenneth St & Ford Pkwy; Ford Pkwy & Cleveland Ave
+- **Closed Stops**: Ford & Finn Station (Stop #56112), Kenneth St & Ford Pkwy (Stop #42032), Ford & Finn Station (Stop #56126), Ford Pkwy & Cretin Ave (Stop #4287), Stop #4280, Stop #56127, Stop #49392
+
+**Summary**: Route 38 detoured off Ford Pkwy from Cretin Ave to Kenneth St from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event. Board at: Ford Pkwy & Cretin Ave - Stop #4280 (eastbound).
+
+> 💡 **Rider Action**: Board at: Ford Pkwy & Cretin Ave - Stop #4280 (eastbound)
+
+> 🔄 **Detour Path**: buses will travel regular route on Ford Pkwy to Cretin Ave, left on Cretin, left on Pinehurst Ave, left on Mount Curve Blvd, and will layover on Mount Curve Blvd just before Ford Pkwy.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/38)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 38 detoured off Ford Pkwy from Cretin Ave to Kenneth St from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event
+
+```text
+For eastbound Route 38 get on/off buses at:
+Ford Pkwy & Cretin Ave - Stop #4280 (eastbound)
+
+For westbound Route 38 get on/off buses at:
+Ford & Woodlawn Station - Stop #56127 (westbound)
+
+Eastbound 38H buses will travel regular route on Ford Pkwy to Cretin Ave, left on Cretin, left on Pinehurst Ave, left on Mount Curve Blvd, and will layover on Mount Curve Blvd just before Ford Pkwy.
+
+Westbound buses that normally begin on Kenneth St/Ford Pkwy will depart the temporary layover on Mount Curve Blvd and turn right on Ford Pkwy, and resume regular route. 
+
+Affected stops:
+Ford & Finn Station - Stop #56112 (eastbound)
+Kenneth St & Ford Pkwy - Stop #42032 (northbound)
+Ford & Finn Station - Stop #56126 (westbound)
+Ford Pkwy & Cretin Ave - Stop #4287 (westbound)
+
+Affected stops:
+Ford & Finn Station - Stop #56112 (eastbound)
+Kenneth St & Ford Pkwy - Stop #42032 (northbound)
+Ford Pkwy & Cleveland Ave - Stop #49392 (westbound)
+Ford & Finn Station - Stop #56126 (westbound)
+Ford Pkwy & Cretin Ave - Stop #4287 (westbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 54, Route 64: Stop Closed at Maryland Ave & Earl St
 
 - **Affected Routes**: `Route 54` `Route 64`
@@ -976,6 +1100,54 @@ Get on/off buses at:
 ```text
 Get on/off buses at:
 Maryland Ave & Cypress St - Stop #12918 (eastbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 54M Returns to Arcade St
+
+- **Affected Routes**: `Route 54` `Route 54M`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 5th St E & Sibley St; 7th St E & Wall St; 7th St E & Maria Ave; Arcade St & Minnehaha Ave; Arcade St & York Ave
+- **Closed Stops**: Stop #11839, Stop #57215, Stop #11849, Stop #51089, Stop #10247, Stop #42053, Stop #56680, Stop #10288 *(+20 more)*
+
+**Summary**: Route 54M returns to Arcade St. Board at: 5th St E & Sibley St - Stop #11839 (eastbound); 7th St E & Wall St - Stop #57215 (eastbound); 7th St E & Maria Ave - Stop #11849 (eastbound).
+
+> 💡 **Rider Action**: Board at: 5th St E & Sibley St - Stop #11839 (eastbound); 7th St E & Wall St - Stop #57215 (eastbound); 7th St E & Maria Ave - Stop #11849 (eastbound)
+
+> 🔄 **Detour Path**: buses will travel regular route on 5th St to Wall St, left on Wall, right on 7th St, left on Arcade St to Sims Ave, and continue regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/54)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 54M returns to Arcade St
+
+```text
+Effective Tuesday November 24, Route 54M buses will return to regular routing on Arcade St. Buses will follow the regular route as follows.
+
+Eastbound 54M buses will travel regular route on 5th St to Wall St, left on Wall, right on 7th St, left on Arcade St to Sims Ave, and continue regular route.
+
+Westbound 54 buses that depart Maplewood Mall will travel regular route on Arcade St to Sims Ave, continue on Arcade to 7th St E, right on 7th St, left on Wall St, and continue regular route.
+
+For eastbound Route 54 get on/off buses at:
+5th St E & Sibley St - Stop #11839 (eastbound)
+7th St E & Wall St - Stop #57215 (eastbound)
+7th St E & Maria Ave - Stop #11849 (eastbound)
+Arcade St & Minnehaha Ave - Stop #51089 (northbound)
+Arcade St & York Ave - Stop #10247 (northbound)
+Arcade St & Maryland Ave - Stop #42053 (northbound)
+
+For westbound Route 54 get on/off buses at:
+Arcade St & Rose Ave E - Stop #56680 (southbound)
+Arcade St & York Ave - Stop #10288 (southbound)
+Arcade St & Minnehaha Ave - Stop #10291 (southbound)
+7th St E & Maria Ave - Stop #11850 (westbound)
+Wall St & 7th St / 6th St - Stop #43282 (southbound)
 ```
 
 </details>
@@ -1021,6 +1193,71 @@ Jackson St & Wheelock Pkwy - Stop #49677 (southbound)
 Jackson St & #1577 - Stop #49678 (southbound)
 Jackson St & #1494 Unit D - Stop #49679 (southbound)
 Jackson St & Arlington Ave - Stop #49680 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 61 Returns to Arcade St
+
+- **Affected Routes**: `Route 61`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: Arcade St & Magnolia Ave; Arcade St & Case Ave; Arcade St & York Ave; Arcade St & Neid Lane - St; Arcade St & Minnehaha Ave
+- **Closed Stops**: Stop #13823, Stop #13827, Stop #10288, Stop #10289, Stop #10291, Stop #10294, Stop #10295, Stop #10297 *(+34 more)*
+
+**Summary**: Route 61 returns to Arcade St. Board at: Arcade St & Magnolia Ave - Stop #13823 (southbound); Arcade St & Case Ave - Stop #13827 (southbound); Arcade St & York Ave - Stop #10288 (southbound).
+
+> 💡 **Rider Action**: Board at: Arcade St & Magnolia Ave - Stop #13823 (southbound); Arcade St & Case Ave - Stop #13827 (southbound); Arcade St & York Ave - Stop #10288 (southbound)
+
+> 🔄 **Detour Path**: buses will travel regular route on Arcade St to Sims Ave, continue on Arcade to 7th St E, right on 7th St, left on Wall St, and continue regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/61)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 61 returns to Arcade St
+
+```text
+Effective Tuesday November 24, Route 61 buses will return to regular routing on Arcade St. Buses will follow the regular route as follows.
+
+Eastbound 61 buses will travel regular route on Arcade St to Sims Ave, continue on Arcade to 7th St E, right on 7th St, left on Wall St, and continue regular route.
+
+Westbound 61 buses will travel regular route on 5th St to Wall St, left on Wall, right on 7th St, left on Arcade St to Sims Ave, and continue regular route.
+
+For eastbound Route 61 get on/off buses at:
+Arcade St & Magnolia Ave - Stop #13823 (southbound)
+Arcade St & Case Ave - Stop #13827 (southbound)
+Arcade St & York Ave - Stop #10288 (southbound)
+Arcade St & Neid Lane - Stop #10289 (southbound)
+Arcade St & Minnehaha Ave - Stop #10291 (southbound)
+7th St E & Hope St - Stop #10294 (westbound)
+7th St E & Eichenwald St - Stop #10295 (westbound)
+7th St E & Bates Ave - Stop #10297 (westbound)
+7th St E & Maria Ave - Stop #11850 (westbound)
+7th St E & Payne Ave - Stop #11852 (westbound)
+7th St E & Kittson St - Stop #11853 (westbound)
+7th St E & Willius St - Stop #20011 (westbound)
+7th St E & Olive St - Stop #57415 (westbound)
+Wall St & 7th St / 6th St - Stop #43282 (southbound)
+
+For westbound Route 61 get on/off buses at:
+5th St E & Sibley St - Stop #11839 (eastbound)
+7th St E & Wall St - Stop #57215 (eastbound)
+7th St E & Lafayette Rd - Stop #11845 (eastbound)
+7th St E & Kittson St - Stop #11846 (eastbound)
+7th St E & Payne Ave - Stop #11847 (eastbound)
+7th St E & Maria Ave - Stop #11849 (eastbound)
+7th St E & Bates Ave - Stop #10239 (eastbound)
+7th St E & Eichenwald St - Stop #10241 (eastbound)
+7th St E & Hope St - Stop #10242 (eastbound)
+Arcade St & Minnehaha Ave - Stop #51089 (northbound)
+Arcade St & Neid Lane - Stop #10246 (northbound)
+Arcade St & York Ave - Stop #10247 (northbound)
+Arcade St & Case Ave - Stop #13794 (northbound)
+Arcade St & Magnolia Ave - Stop #13798 (northbound)
 ```
 
 </details>
@@ -1115,60 +1352,6 @@ Rice St & Como Ave - Stop #10484 (southbound)
 Get on/off buses at:
 Grand Ave & Grotto St - Stop #3181 (westbound)
 Grand Ave & Chatsworth St - Stop #3078 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 63 Returns to Kellogg Blvd Bridge Beginning Sat Nov 14
-
-- **Affected Routes**: `Route 63`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Sat Nov 14
-- **Corridors & Intersections**: 5th St & Jackson St; Kellogg Blvd & Broadway St; left on 6th St & resume regular route.
-
-Affected st; Wacouta St & 5th St; 7th St E & Wall St
-- **Closed Stops**: Wacouta St & 5th St / 6th St (Stop #11842), 7th St E & Wall St (Stop #57215), 5th St & Broadway St (Stop #40160), Wall St & 7th St / 6th St (Stop #43282), Stop #11838, Stop #57420, Stop #11928, Stop #3254 *(+2 more)*
-
-**Summary**: Route 63 returns to Kellogg Blvd Bridge beginning Sat Nov 14. Board at: 5th St & Jackson St - Stop #11838 (eastbound); Union Depot & Wacouta Station - Stop #57420 (southbound); Kellogg Blvd & Broadway St - Stop #11928 (eastbound).
-
-> 💡 **Rider Action**: Board at: 5th St & Jackson St - Stop #11838 (eastbound); Union Depot & Wacouta Station - Stop #57420 (southbound); Kellogg Blvd & Broadway St - Stop #11928 (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, continue across Mounds Blvd onto 3rd St and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/63)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 63 returns to Kellogg Blvd Bridge beginning Sat Nov 14
-
-```text
-The Kellogg Boulevard Bridge will reopen on Friday, November 13, 2026. Route 63 buses will return to their regular routing across the bridge at the start of service on Saturday, November 14, 2026.
-
-Beginning November 14, Route 63 buses will also begin serving the Bus Rapid Transit (BRT) stations at Union Depot & Wacouta Station and Union Depot & Sibley Station.
-
-For eastbound Route 63 get on/off buses at:
-5th St & Jackson St - Stop #11838 (eastbound)
-Union Depot & Wacouta Station - Stop #57420 (southbound)
-Kellogg Blvd & Broadway St - Stop #11928 (eastbound)
-
-For westbound Route 63 get on/off buses at:
-Kellogg Blvd & Broadway St - Stop #3254 (westbound)
-Union Depot & Sibley Station - Stop #57419 (northbound)
-6th St & Jackson / Robert - Stop #11859 (westbound)
-
-Eastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, continue across Mounds Blvd onto 3rd St and resume regular route.
-
-Westbound buses will travel regular route on 3rd St, cross Mounds Blvd onto Kellogg Blvd bridge, right on Sibley St, left on 6th St and resume regular route.
-
-Affected stops:
-Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
-7th St E & Wall St - Stop #57215 (eastbound)
-5th St & Broadway St - Stop #40160 (eastbound)
-Wall St & 7th St / 6th St - Stop #43282 (southbound)
 ```
 
 </details>
@@ -1495,6 +1678,173 @@ No stops missed.
 Eastbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.
 
 Westbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.
+```
+
+</details>
+
+---
+
+### ⚠️ Route 74: Service Advisory
+
+- **Affected Routes**: `Route 74`
+- **Direction**: All
+- **Severity**: `Moderate`
+
+**Summary**: Route 74 service advisory from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
+
+[Official Agency Advisory](https://www.metrotransit.org/route/74)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 74 service advisory from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
+
+```text
+Due to the Turkey Trot event, Route 74 buses will not detour, but expect delays in the Highland Park area near Cleveland Ave due to event traffic.
+```
+
+</details>
+
+---
+
+### ⚠️ Route 74 Returns to Arcade St
+
+- **Affected Routes**: `Route 74`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 5th St E & Sibley St; 7th St E & Wall St; 7th St E & Lafayette Rd; 7th St E & Kittson St; 7th St E & Payne Ave
+- **Closed Stops**: Stop #11839, Stop #57215, Stop #11845, Stop #11846, Stop #11847, Stop #11849, Stop #10239, Stop #10241 *(+35 more)*
+
+**Summary**: Route 74 returns to Arcade St. Board at: 5th St E & Sibley St - Stop #11839 (eastbound); 7th St E & Wall St - Stop #57215 (eastbound); 7th St E & Lafayette Rd - Stop #11845 (eastbound).
+
+> 💡 **Rider Action**: Board at: 5th St E & Sibley St - Stop #11839 (eastbound); 7th St E & Wall St - Stop #57215 (eastbound); 7th St E & Lafayette Rd - Stop #11845 (eastbound)
+
+> 🔄 **Detour Path**: buses will travel regular route on 5th St to Wall St, left on Wall, right on 7th St, right on Minnehaha Ave to Forest St, and continue regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/74)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 74 returns to Arcade St
+
+```text
+Effective Tuesday November 24, Route 74 buses will return to regular routing on Arcade St. Buses will follow the regular route as follows.
+
+Eastbound 74 buses will travel regular route on 5th St to Wall St, left on Wall, right on 7th St, right on Minnehaha Ave to Forest St, and continue regular route.
+
+Eastbound PM school trips from Johnson High School will travel the regular route on Arcade St to Sims Ave, continue on Arcade to Minnehaha Ave, left on Minnehaha Ave to Forest St, and continue regular route.
+
+Westbound 74 buses that depart Maplewood Mall will travel regular route on Minnehaha Ave to Forest St, continue on Minnehaha to 7th St E, left on 7th St, left on Wall St, and continue regular route.
+
+Westbound AM school trips to Johnson High School will travel regular route Minnehaha Ave to Forest St, continue on Minnehaha Ave to Arcade St, right on Arcade St to Sims Ave, and continue regular route.
+
+For eastbound Route 74 get on/off buses at:
+5th St E & Sibley St - Stop #11839 (eastbound)
+7th St E & Wall St - Stop #57215 (eastbound)
+7th St E & Lafayette Rd - Stop #11845 (eastbound)
+7th St E & Kittson St - Stop #11846 (eastbound)
+7th St E & Payne Ave - Stop #11847 (eastbound)
+7th St E & Maria Ave - Stop #11849 (eastbound)
+7th St E & Bates Ave - Stop #10239 (eastbound)
+7th St E & Eichenwald St - Stop #10241 (eastbound)
+7th St E & Hope St - Stop #10242 (eastbound)
+7th St E & Arcade St - Stop #10385 (eastbound)
+Minnehaha Ave & Forest St - Stop #49604 (eastbound)
+Minnehaha Ave & Earl St - Stop #49606 (eastbound)
+
+For eastbound Route 74 school trips get on/off buses at:
+Arcade St & Case Ave - Stop #13827 (southbound)
+Arcade St & York Ave - Stop #10288 (southbound)
+Arcade St & Neid Lane - Stop #10289 (southbound)
+Minnehaha Ave & Forest St - Stop #49604 (eastbound)
+Minnehaha Ave & Earl St - Stop #49606 (eastbound)
+
+For westbound Route 74 get on/off buses at:
+Minnehaha Ave & Earl St - Stop #49658 (westbound)
+Minnehaha Ave & Forest St - Stop #49660 (westbound)
+7th St E & Arcade St - Stop #12915 (westbound)
+7th St E & Hope St - Stop #10294 (westbound)
+7th St E & Eichenwald St - Stop #10295 (westbound)
+7th St E & Bates Ave - Stop #10297 (westbound)
+7th St E & Maria Ave - Stop #11850 (westbound)
+7th St E & Payne Ave - Stop #11852 (westbound)
+7th St E & Kittson St - Stop #11853 (westbound)
+7th St E & Willius St - Stop #20011 (westbound)
+7th St E & Olive St - Stop #57415 (westbound)
+Wall St & 7th St / 6th St - Stop #43282 (southbound)
+
+For westbound Route 74 school trips get on/off buses at:
+Minnehaha Ave & Earl St - Stop #49658 (westbound)
+Minnehaha Ave & Forest St - Stop #49660 (westbound)
+Arcade St & Neid Lane - Stop #10246 (northbound)
+Arcade St & York Ave - Stop #10247 (northbound)
+Arcade St & Case Ave - Stop #13794 (northbound)
+Arcade St & Magnolia Ave - Stop #13798 (northbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 87: Detour via St Paul Ave & Davern St
+
+- **Affected Routes**: `Route 87`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: St Paul Ave & Davern St; St Paul Ave & Saunders Ave; Cleveland Ave & Ford Pkwy; St Paul Ave & Edgcumbe Rd; Edgcumbe Rd & Saint Paul Ave
+- **Closed Stops**: Edgcumbe Rd & Saint Paul Avenue (Stop #13072), Edgcumbe Rd & Sheridan Ave (Stop #13074), Sheridan Ave & Sue St (Stop #13076), Sheridan Ave & Prior Ave (Stop #13077), Sheridan Ave & Kenneth St (Stop #13079), Sheridan Ave & Cleveland Ave (Stop #13081), Cleveland Ave & Worcester Ave (Stop #13082), Cleveland Ave & Ramlow Place (Stop #13084) *(+19 more)*
+
+**Summary**: Route 87 detoured off Cleveland Ave from Bohland Ave to Sheridan Ave and off Sheridan Ave from Cleveland Ave to Edgcumbe Rd from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event. Board at: St Paul Ave & Davern St - Stop #13070 (westbound); St Paul Ave & Saunders Ave - Stop #18767 (northbound).
+
+> 💡 **Rider Action**: Board at: St Paul Ave & Davern St - Stop #13070 (westbound); St Paul Ave & Saunders Ave - Stop #18767 (northbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route on St Paul Ave to Edgcumbe Rd, continue on St Paul Ave to Montreal Ave, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/87)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 87 detoured off Cleveland Ave from Bohland Ave to Sheridan Ave and off Sheridan Ave from Cleveland Ave to Edgcumbe Rd from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event
+
+```text
+For northbound Route 87 get on/off buses at:
+St Paul Ave & Davern St - Stop #13070 (westbound)
+St Paul Ave & Saunders Ave - Stop #18767 (northbound)
+
+For southbound Route 87 get on/off buses at:
+Cleveland Ave & Ford Pkwy - Stop #42439 (southbound)
+St Paul Ave & Edgcumbe Rd - Stop #13064 (eastbound)
+
+Northbound buses will travel regular route on St Paul Ave to Edgcumbe Rd, continue on St Paul Ave to Montreal Ave, and resume regular route.
+
+Southbound buses will travel regular route on Cleveland Ave to Bohland Ave, veer left onto St Paul Ave to Edgcumbe Rd, and resume regular route.
+
+Affected stops:
+Edgcumbe Rd & Saint Paul Avenue - Stop #13072 (southbound)
+Edgcumbe Rd & Sheridan Ave - Stop #13074 (southbound)
+Sheridan Ave & Sue St - Stop #13076 (westbound)
+Sheridan Ave & Prior Ave - Stop #13077 (westbound)
+Sheridan Ave & Kenneth St - Stop #13079 (westbound)
+Sheridan Ave & Cleveland Ave - Stop #13081 (westbound)
+Cleveland Ave & Worcester Ave - Stop #13082 (northbound)
+Cleveland Ave & Ramlow Place - Stop #13084 (northbound)
+Cleveland Ave & Itasca Ave - Stop #13086 (northbound)
+Cleveland Ave & Magoffin Ave - Stop #13088 (northbound)
+Cleveland Ave & Montreal Ave - Stop #13091 (northbound)
+Cleveland Ave & Inner Dr (Bohland Ave) - Stop #13043 (southbound)
+Cleveland Ave & Village Lane - Stop #13044 (southbound)
+Cleveland Ave & Montreal Ave - Stop #13045 (southbound)
+Cleveland Ave & Magoffin Ave - Stop #13048 (southbound)
+Cleveland Ave & Itasca Ave - Stop #13050 (southbound)
+Cleveland Ave & Ramlow Place - Stop #13052 (southbound)
+Cleveland Ave & Elsie Lane - Stop #13054 (southbound)
+Sheridan Ave & Cleveland Ave - Stop #13055 (eastbound)
+Sheridan Ave & Kenneth St - Stop #13057 (eastbound)
+Sheridan Ave & Prior Ave - Stop #13059 (eastbound)
+Sheridan Ave & Sue St - Stop #13060 (eastbound)
+Sheridan Ave & Edgcumbe Rd - Stop #13061 (eastbound)
 ```
 
 </details>
@@ -1988,46 +2338,6 @@ Wayzata Blvd S & Kentucky Ave S - Stop #40917 (westbound)
 
 ---
 
-### ⚠️ Route 645: Detour via General Mills Blvd & General Mills - St
-
-- **Affected Routes**: `Route 645`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Nov 23 at 8:00 PM until further notice
-- **Corridors & Intersections**: General Mills Blvd & General Mills - St; Wayzata Blvd & General Mills Blvd; I-394 (General Mills Blvd to Louisiana Ave)
-- **Closed Stops**: I-394 Ramp & General Mills Blvd (Stop #41158), Stop #40578, Stop #57752, Stop #80969
-
-**Summary**: Route 645 detoured off I-394 from General Mills Blvd to Louisiana Ave beginning Mon Nov 23 at 8:00 PM until further notice due to construction. Board at: General Mills Blvd & General Mills - Stop #40578 (southbound); Wayzata Blvd & General Mills Blvd - Stop #57752 (eastbound); Louisiana Transit Ctr & temporary Gate B - Stop #80969 (eastbound).
-
-> 💡 **Rider Action**: Board at: General Mills Blvd & General Mills - Stop #40578 (southbound); Wayzata Blvd & General Mills Blvd - Stop #57752 (eastbound); Louisiana Transit Ctr & temporary Gate B - Stop #80969 (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on General Mills Blvd to I-394 ramp, continue on General Mills Blvd to Wayzata Blvd, left on Wayzata Blvd, left into Louisiana Ave Transit Center, and resume detour route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/645)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 645 detoured off I-394 from General Mills Blvd to Louisiana Ave beginning Mon Nov 23 at 8:00 PM until further notice due to construction
-
-```text
-Get on/off buses at:
-General Mills Blvd & General Mills - Stop #40578 (southbound)
-Wayzata Blvd & General Mills Blvd - Stop #57752 (eastbound)
-Louisiana Transit Ctr & Temp Gate B - Stop #80969 (eastbound)
-
-Eastbound buses will travel regular route on General Mills Blvd to I-394 ramp, continue on General Mills Blvd to Wayzata Blvd, left on Wayzata Blvd, left into Louisiana Ave Transit Center, and resume detour route.
-
-Westbound buses will travel regular route.
-
-Affected stops:
-I-394 Ramp & General Mills Blvd - Stop #41158 (eastbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 724: Stop Closed at 63rd Ave N & Zane Ave N
 
 - **Affected Routes**: `Route 724`
@@ -2144,38 +2454,6 @@ Effective Saturday, Dec. 5 the following service changes begin for the METRO E L
 Northbound weekday trips will depart Southdale Transit Center 2-6 minutes earlier between 9:50 a.m. and 6:30 p.m.
 
 View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
-```
-
-</details>
-
----
-
-### ℹ️ METRO Gold Line Returns to Kellogg Blvd Bridge Beginning Sat Nov 14
-
-- **Affected Routes**: `METRO Gold Line`
-- **Direction**: Both Directions
-- **Severity**: `Minor`
-- **Schedule**: Beginning Sat Nov 14
-
-**Summary**: METRO Gold Line returns to Kellogg Blvd Bridge beginning Sat Nov 14
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, and veer right onto the Gold Line guideway.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/gold)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: METRO Gold Line returns to Kellogg Blvd Bridge beginning Sat Nov 14
-
-```text
-The Kellogg Boulevard Bridge will reopen on Friday, November 13, 2026. METRO Gold Line buses will return to their regular routing across the bridge at the start of service on Saturday, November 14, 2026.
-
-Beginning November 14, METRO Gold Line buses will also begin serving the Bus Rapid Transit (BRT) stations at Union Depot & Wacouta Station and Union Depot & Sibley Station.
-
-Eastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, and veer right onto the Gold Line guideway.
-
-Westbound buses will travel regular route on the Gold Line guideway to Mounds Blvd Station, left on 3rd St to cross the Kellogg Blvd bridge, right on Sibley St, left on 6th St and resume regular route.
 ```
 
 </details>
