@@ -4,17 +4,44 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Mon, 23 Nov 2026 12:10:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:42:54 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 219: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/219</link>
-      <guid isPermaLink="false">Metro Transit-55551-2026-11-23T11:42:02.000Z</guid>
-      <pubDate>Mon, 23 Nov 2026 11:42:02 GMT</pubDate>
+      <title>[Critical] Route 72: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/72</link>
+      <guid isPermaLink="false">Metro Transit-55564-2026-11-23T21:43:08.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 21:43:08 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 219</category>
-      <description>Route 219 trip departing Maplewood Mall Transit Center &amp; Gate A at 6:12 AM and seven other trips canceled today</description>
+      <category>Route 72</category>
+      <description>Route 72 trip departing Sun Ray Transit Center &amp; Gate D at 3:19 PM and six other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 83: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/83</link>
+      <guid isPermaLink="false">Metro Transit-55563-2026-11-23T21:37:53.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 21:37:53 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 83</category>
+      <description>Route 83 trip departing Rosedale Transit Center Gate B at 3:43 PM and three other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 323: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/323</link>
+      <guid isPermaLink="false">Metro Transit-55566-2026-11-24T00:16:01.000Z</guid>
+      <pubDate>Tue, 24 Nov 2026 00:16:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 323</category>
+      <description>Route 323 trip departing Sun Ray Transit Center &amp; Gate C at 6:46 PM and six other trips canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 725: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/725</link>
+      <guid isPermaLink="false">Metro Transit-55565-2026-11-23T21:47:06.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 21:47:06 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 725</category>
+      <description>Route 725 trip departing 5th St NW &amp; 1st Ave NW at 3:17 PM and six other trips canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -33,6 +60,15 @@
       <category>Moderate</category>
       <category>METRO Blue Line</category>
       <description>Both elevators at Franklin Ave Station unavailable until further notice due to mechanical issues</description>
+    </item>
+    <item>
+      <title>[Moderate] METRO E Line: Detour via 44th St &amp; Abbott St</title>
+      <link>https://www.metrotransit.org/route/eline</link>
+      <guid isPermaLink="false">Metro Transit-55556-2026-11-23T14:44:17.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 14:44:17 GMT</pubDate>
+      <category>Moderate</category>
+      <category>METRO E Line</category>
+      <description>METRO E Line detoured off 44th St from Xerxes Ave to Sheridan Ave and off Sheridan Ave from 44th St to 42nd St from 9:00 AM to 3:00 PM on Sat Dec 5 due to Reindeer Days event. Board at: 44th St &amp; Abbott Station - Stop #6195 (eastbound); Sheridan Ave S &amp; 42nd St W - Stop #6203 (northbound); Sheridan &amp; 39th St Station - Stop #6206 (northbound). | Action: Board at: 44th St &amp; Abbott Station - Stop #6195 (eastbound); Sheridan Ave S &amp; 42nd St W - Stop #6203 (northbound); Sheridan &amp; 39th St Station - Stop #6206 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 3, Route 3A: Detour via Maryland Ave &amp; Western Ave</title>
@@ -96,6 +132,24 @@
       <category>Moderate</category>
       <category>Route 10</category>
       <description>Central Ave NE &amp; 26th Ave NE - Stop #52073 (northbound) is closed for Route 10 beginning Mon Nov 23 at 6:00 AM until further notice due to construction. Board at: Central Ave NE &amp; Lowry Ave NE - Stop #17194 (northbound); Central Ave NE &amp; 27th Ave NE - Stop #17190 (northbound). | Action: Board at: Central Ave NE &amp; Lowry Ave NE - Stop #17194 (northbound); Central Ave NE &amp; 27th Ave NE - Stop #17190 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 10, Route 25: Stop Closed at 3rd Ave S &amp; 11th St S</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-55552-2026-11-23T14:21:00.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 14:21:00 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 10, Route 25</category>
+      <description>3rd Ave S &amp; 11th St S - Stop #19277 (southbound) is closed for Routes 10 and 25 until further notice. Board at: Leamington Ramp &amp; Lower - Gate #7 - Stop #19337 (eastbound); 2nd Ave S &amp; Convention Center - Stop #41911 (southbound). | Action: Board at: Leamington Ramp &amp; Lower - Gate #7 - Stop #19337 (eastbound); 2nd Ave S &amp; Convention Center - Stop #41911 (southbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor</title>
+      <link>https://www.metrotransit.org/route/10</link>
+      <guid isPermaLink="false">Metro Transit-55553-2026-11-23T14:33:35.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 14:33:35 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 10, Route 11, Route 17, Route 18, Route 25</category>
+      <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 6th St to 12th St from Fri Nov 27 at 7:00 AM to Sat Nov 28 at 8:00 AM due to Winter Kick Off 2026 event. Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Hennepin &amp; 8th St Station - Stop #53099 (northbound); Nicollet Mall &amp; 5th St S - Stop #17996 (northbound). | Action: Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Hennepin &amp; 8th St Station - Stop #53099 (northbound); Nicollet Mall &amp; 5th St S - Stop #17996 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 18: Detour via Nicollet Ave S &amp; 56th St E</title>
@@ -188,13 +242,13 @@
       <description>York Ave S &amp; Hazelton Rd - Stop #2029 (northbound) is closed for Routes 36, 538 and 578 until further notice due to construction. Board at: York Ave S &amp; 70th St W - Stop #50601 (northbound). | Action: Board at: York Ave S &amp; 70th St W - Stop #50601 (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 36: Stop Closed at 76th St W &amp; Parklawn Ave S</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-50085-2026-07-20T13:22:02.000Z</guid>
-      <pubDate>Mon, 20 Jul 2026 13:22:02 GMT</pubDate>
+      <title>[Moderate] Route 36: Detour via Xerxes Ave S &amp; 44th St W</title>
+      <link>https://www.metrotransit.org/route/36</link>
+      <guid isPermaLink="false">Metro Transit-55555-2026-11-23T14:39:55.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 14:39:55 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 36</category>
-      <description>76th St W &amp; Parklawn Ave S - Stop #2212 (westbound) is closed for Route 36 until further notice. Board at: 76th St W &amp; #4100 - Stop #52039 (westbound); Parklawn Ave &amp; Parklawn Court - Stop #41091 (northbound). | Action: Board at: 76th St W &amp; #4100 - Stop #52039 (westbound); Parklawn Ave &amp; Parklawn Court - Stop #41091 (northbound)</description>
+      <description>Route 36 detoured off 44th St from Xerxes Ave to Sheridan Ave and off Sheridan Ave from 44th St to 42nd St from 9:00 AM to 3:00 PM on Sat Dec 5 due to Reindeer Days event. Board at: Xerxes Ave S &amp; 44th St W - Stop #6249 (northbound); Sheridan Ave S &amp; 42nd St W - Stop #6203 (northbound). | Action: Board at: Xerxes Ave S &amp; 44th St W - Stop #6249 (northbound); Sheridan Ave S &amp; 42nd St W - Stop #6203 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 38: Stop Closed at 38th St E &amp; 3rd Ave S</title>
@@ -208,11 +262,11 @@
     <item>
       <title>[Moderate] Route 54, Route 54M: Detour via 5th St &amp; Robert St</title>
       <link>https://www.metrotransit.org/route/54</link>
-      <guid isPermaLink="false">Metro Transit-51972-2026-09-03T18:21:39.000Z</guid>
-      <pubDate>Thu, 03 Sep 2026 18:21:39 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-51972-2026-11-23T20:02:36.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 20:02:36 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 54, Route 54M</category>
-      <description>Route 54 detoured off 7th St from Wacouta St to Arcade St and off Arcade St from 7th St to Sims Ave until further notice due to construction. Board at: 5th St &amp; Robert Station - Stop #57418 (eastbound); 5th St E &amp; Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E &amp; Maria Ave (eastbound). | Action: Board at: 5th St &amp; Robert Station - Stop #57418 (eastbound); 5th St E &amp; Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E &amp; Maria Ave (eastbound)</description>
+      <description>Route 54 detoured off 7th St from Wacouta St to Arcade St and off Arcade St until Tue Nov 24 at 4:00 AM due to construction. Board at: 5th St &amp; Robert Station - Stop #57418 (eastbound); 5th St E &amp; Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E &amp; Maria Ave (eastbound). | Action: Board at: 5th St &amp; Robert Station - Stop #57418 (eastbound); 5th St E &amp; Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E &amp; Maria Ave (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 54, Route 64: Stop Closed at Maryland Ave &amp; Earl St</title>
@@ -226,11 +280,11 @@
     <item>
       <title>[Moderate] Route 61: Detour via Arcade St &amp; Magnolia Ave</title>
       <link>https://www.metrotransit.org/route/61</link>
-      <guid isPermaLink="false">Metro Transit-48758-2026-09-03T18:26:35.000Z</guid>
-      <pubDate>Thu, 03 Sep 2026 18:26:35 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-48758-2026-11-23T20:04:10.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 20:04:10 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 61</category>
-      <description>Route 61 detoured off 7th St E from Wacouta St to Arcade St and off Arcade St from 7th St E to Sims Ave until further notice due to construction. Board at: Arcade St &amp; Magnolia Ave - Stop #13823 (southbound); Temporary stop on Arcade St &amp; Jenks Ave (southbound); Temporary stop on Forest St &amp; York Ave (southbound). | Action: Board at: Arcade St &amp; Magnolia Ave - Stop #13823 (southbound); Temporary stop on Arcade St &amp; Jenks Ave (southbound); Temporary stop on Forest St &amp; York Ave (southbound)</description>
+      <description>Route 61 detoured off 7th St E from Wacouta St to Arcade St and off Arcade St from 7th St E to Sims Ave until Tue Nov 24 at 4:00 AM due to construction. Board at: Arcade St &amp; Magnolia Ave - Stop #13823 (southbound); Temporary stop on Arcade St &amp; Jenks Ave (southbound); Temporary stop on Forest St &amp; York Ave (southbound). | Action: Board at: Arcade St &amp; Magnolia Ave - Stop #13823 (southbound); Temporary stop on Arcade St &amp; Jenks Ave (southbound); Temporary stop on Forest St &amp; York Ave (southbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 61: Detour via Larpenteur Ave &amp; McMenemy St</title>
@@ -289,8 +343,8 @@
     <item>
       <title>[Moderate] Route 68: Detour via Jackson St &amp; Sims Ave</title>
       <link>https://www.metrotransit.org/route/68</link>
-      <guid isPermaLink="false">Metro Transit-49088-2026-11-13T14:47:39.000Z</guid>
-      <pubDate>Fri, 13 Nov 2026 14:47:39 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-49088-2026-11-23T18:23:24.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 18:23:24 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 68</category>
       <description>Route 68 detoured off Jackson St from Pennsylvania Ave to Cayuga St beginning Mon May 18 at 4:00 AM until further notice due to construction. Board at: Jackson St &amp; Mount Airy (Winter St) - Stop #18014 (northbound); Jackson St &amp; Sims Ave - Stop #18022 (northbound). | Action: Board at: Jackson St &amp; Mount Airy (Winter St) - Stop #18014 (northbound); Jackson St &amp; Sims Ave - Stop #18022 (northbound)</description>
@@ -325,11 +379,11 @@
     <item>
       <title>[Moderate] Route 74: Detour via 5th St E &amp; Sibley St</title>
       <link>https://www.metrotransit.org/route/74</link>
-      <guid isPermaLink="false">Metro Transit-48757-2026-11-06T18:58:06.000Z</guid>
-      <pubDate>Fri, 06 Nov 2026 18:58:06 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-48757-2026-11-23T20:05:20.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 20:05:20 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 74</category>
-      <description>Route 74 detoured off 7th St E from Wacouta St to Forest St and off Arcade St from 7th St E to Case Ave until further notice due to construction. Board at: 5th St E &amp; Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E &amp; Maria Ave (eastbound); Temporary stop on 6th St E &amp; Maple St (eastbound). | Action: Board at: 5th St E &amp; Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E &amp; Maria Ave (eastbound); Temporary stop on 6th St E &amp; Maple St (eastbound)</description>
+      <description>Route 74 detoured off 7th St E from Wacouta St to Forest St and off Arcade St from 7th St E to Case Ave until Tue Nov 24 at 4:00 AM due to construction. Board at: 5th St E &amp; Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E &amp; Maria Ave (eastbound); Temporary stop on 6th St E &amp; Maple St (eastbound). | Action: Board at: 5th St E &amp; Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E &amp; Maria Ave (eastbound); Temporary stop on 6th St E &amp; Maple St (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 74: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -404,6 +458,15 @@
       <description>Routes 294 and 363 return to Kellogg Blvd due to completion of Kellogg Bridge construction. Board at: 6th St &amp; Jackson St - Stop #11858 (westbound). | Action: Board at: 6th St &amp; Jackson St - Stop #11858 (westbound)</description>
     </item>
     <item>
+      <title>[Moderate] Route 470: Stop Closed at 3rd Ave S &amp; 11th St S</title>
+      <link>https://www.metrotransit.org/route/470</link>
+      <guid isPermaLink="false">Metro Transit-55557-2026-11-23T14:44:18.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 14:44:18 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 470</category>
+      <description>3rd Ave S &amp; 11th St S - Stop #19277 (southbound) is closed for Route 470 until further notice. Board at: 4th Ave S &amp; 7th St S - Stop #19297 (southbound); Temporary stop on 3rd Ave S &amp; 10th St S (southbound); Marquette Ave &amp; 7th St - Stop Group C - Stop #53299 (southbound). | Action: Board at: 4th Ave S &amp; 7th St S - Stop #19297 (southbound); Temporary stop on 3rd Ave S &amp; 10th St S (southbound); Marquette Ave &amp; 7th St - Stop Group C - Stop #53299 (southbound)</description>
+    </item>
+    <item>
       <title>[Moderate] Route 537: Stop Closed at France Ave S &amp; Gallagher Dr</title>
       <link>https://www.metrotransit.org/route/537</link>
       <guid isPermaLink="false">Metro Transit-42186-2025-12-12T14:28:01.000Z</guid>
@@ -429,24 +492,6 @@
       <category>Moderate</category>
       <category>Route 542, Route 686</category>
       <description>American Blvd &amp; Lyndale Ave S - Stop #52216 (westbound) is closed for Routes 542 and 686 until further notice. Board at: American Blvd W &amp; Home Depot - Stop #57108 (westbound); American Blvd W &amp; Lyndale Av/Bryant Av S - Stop #56604 (westbound). | Action: Board at: American Blvd W &amp; Home Depot - Stop #57108 (westbound); American Blvd W &amp; Lyndale Av/Bryant Av S - Stop #56604 (westbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 578, METRO Orange Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/orange</link>
-      <guid isPermaLink="false">Metro Transit-55388-2026-11-18T10:04:09.000Z</guid>
-      <pubDate>Wed, 18 Nov 2026 10:04:09 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 578, METRO Orange Line</category>
-      <description>North elevator at I-35W &amp; 46th St Station unavailable until further notice due to mechanical issue</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 578, METRO Orange Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/orange</link>
-      <guid isPermaLink="false">Metro Transit-55389-2026-11-18T10:04:36.000Z</guid>
-      <pubDate>Wed, 18 Nov 2026 10:04:36 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 578, METRO Orange Line</category>
-      <description>North elevator at I-35W &amp; 46th St Station unavailable until further notice due to mechanical issue</description>
     </item>
     <item>
       <title>[Moderate] Route 615: Stop Closed at 5th Ave N &amp; Mainstreet - St</title>
@@ -476,15 +521,6 @@
       <description>Route 645 detoured off I-394 from General Mills Blvd to Louisiana Ave beginning Mon Nov 23 at 8:00 PM until further notice due to construction. Board at: General Mills Blvd &amp; General Mills - Stop #40578 (southbound); Wayzata Blvd &amp; General Mills Blvd - Stop #57752 (eastbound); Louisiana Transit Ctr &amp; temporary Gate B - Stop #80969 (eastbound). | Action: Board at: General Mills Blvd &amp; General Mills - Stop #40578 (southbound); Wayzata Blvd &amp; General Mills Blvd - Stop #57752 (eastbound); Louisiana Transit Ctr &amp; temporary Gate B - Stop #80969 (eastbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 673, Route 673B: Detour via Cedar Lake Rd &amp; Texas Ave</title>
-      <link>https://www.metrotransit.org/route/673</link>
-      <guid isPermaLink="false">Metro Transit-47699-2026-05-29T17:59:01.000Z</guid>
-      <pubDate>Fri, 29 May 2026 17:59:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 673, Route 673B</category>
-      <description>Route 673B detoured off Cedar Lake Rd from Texas Ave to Louisiana Ave and off Louisiana Ave from Cedar Lake Rd to Wayzata Blvd beginning Mon Apr 6 until further notice due to construction. Board at: Louisiana Transit Center &amp; Gate B - Stop #52551 (westbound); Cedar Lake Rd &amp; Texas Ave - Stop #8073 (westbound). | Action: Board at: Louisiana Transit Center &amp; Gate B - Stop #52551 (westbound); Cedar Lake Rd &amp; Texas Ave - Stop #8073 (westbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 724: Stop Closed at 63rd Ave N &amp; Zane Ave N</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
       <guid isPermaLink="false">Metro Transit-55137-2026-11-17T14:45:02.000Z</guid>
@@ -503,6 +539,24 @@
       <description>Route 860 detoured off 5th St from Sibley St to Wacouta St until further notice due to construction. Board at: 7th St E &amp; Wall St - Stop #57215 (eastbound); 5th St E &amp; Jackson St - Stop #11838 (eastbound). | Action: Board at: 7th St E &amp; Wall St - Stop #57215 (eastbound); 5th St E &amp; Jackson St - Stop #11838 (eastbound)</description>
     </item>
     <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on the METRO A Line</title>
+      <link>https://www.metrotransit.org/route/aline</link>
+      <guid isPermaLink="false">Metro Transit-55475-2026-11-23T19:42:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 19:42:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>METRO A Line</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on the METRO A Line</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on the METRO E Line</title>
+      <link>https://www.metrotransit.org/route/eline</link>
+      <guid isPermaLink="false">Metro Transit-55476-2026-11-23T19:47:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 19:47:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>METRO E Line</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on the METRO E Line</description>
+    </item>
+    <item>
       <title>[Minor] METRO Gold Line Returns to Kellogg Blvd Bridge Beginning Sat Nov 14</title>
       <link>https://www.metrotransit.org/route/gold</link>
       <guid isPermaLink="false">Metro Transit-55198-2026-11-21T09:00:01.000Z</guid>
@@ -510,6 +564,33 @@
       <category>Minor</category>
       <category>METRO Gold Line</category>
       <description>METRO Gold Line returns to Kellogg Blvd Bridge beginning Sat Nov 14</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 2</title>
+      <link>https://www.metrotransit.org/route/2</link>
+      <guid isPermaLink="false">Metro Transit-55477-2026-11-23T19:50:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 19:50:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 2</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 2</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 7</title>
+      <link>https://www.metrotransit.org/route/7</link>
+      <guid isPermaLink="false">Metro Transit-55478-2026-11-23T19:52:02.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 19:52:02 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 7</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 7</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 9</title>
+      <link>https://www.metrotransit.org/route/9</link>
+      <guid isPermaLink="false">Metro Transit-55481-2026-11-23T20:41:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 20:41:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 9</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 9</description>
     </item>
     <item>
       <title>[Minor] Route 11: Service Advisory</title>
@@ -530,6 +611,24 @@
       <description>Route 14 service advisory: Richfield Pkwy between 63rd St and 66th St</description>
     </item>
     <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 18</title>
+      <link>https://www.metrotransit.org/route/18</link>
+      <guid isPermaLink="false">Metro Transit-55482-2026-11-23T20:43:02.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 20:43:02 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 18</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 18</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 22</title>
+      <link>https://www.metrotransit.org/route/22</link>
+      <guid isPermaLink="false">Metro Transit-55483-2026-11-23T20:45:02.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 20:45:02 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 22</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 22</description>
+    </item>
+    <item>
       <title>[Minor] Route 27: Service Advisory</title>
       <link>https://www.metrotransit.org/route/27</link>
       <guid isPermaLink="false">Metro Transit-55469-2026-11-23T06:00:01.000Z</guid>
@@ -539,6 +638,159 @@
       <description>Lake St W &amp; Blaisdell Ave S - Stop #16845 (eastbound) is permanently eliminated for Route 27 beginning Tue Nov 24 at 11:00 AM. Board at: Lake St W &amp; Grand Ave S - Stop #16841 (eastbound). | Action: Board at: Lake St W &amp; Grand Ave S - Stop #16841 (eastbound)</description>
     </item>
     <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 27</title>
+      <link>https://www.metrotransit.org/route/27</link>
+      <guid isPermaLink="false">Metro Transit-55484-2026-11-23T20:48:02.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 20:48:02 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 27</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 27</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 30</title>
+      <link>https://www.metrotransit.org/route/30</link>
+      <guid isPermaLink="false">Metro Transit-55485-2026-11-23T20:50:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 20:50:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 30</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 30</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 32</title>
+      <link>https://www.metrotransit.org/route/32</link>
+      <guid isPermaLink="false">Metro Transit-55486-2026-11-23T20:52:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 20:52:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 32</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 32</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 38</title>
+      <link>https://www.metrotransit.org/route/38</link>
+      <guid isPermaLink="false">Metro Transit-55487-2026-11-23T20:53:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 20:53:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 38</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 38</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 54</title>
+      <link>https://www.metrotransit.org/route/54</link>
+      <guid isPermaLink="false">Metro Transit-55489-2026-11-23T20:57:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 20:57:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 54</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 54</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 61</title>
+      <link>https://www.metrotransit.org/route/61</link>
+      <guid isPermaLink="false">Metro Transit-55491-2026-11-23T21:00:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 21:00:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 61</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 61</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 62</title>
+      <link>https://www.metrotransit.org/route/62</link>
+      <guid isPermaLink="false">Metro Transit-55492-2026-11-23T21:02:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 21:02:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 62</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 62</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 63</title>
+      <link>https://www.metrotransit.org/route/63</link>
+      <guid isPermaLink="false">Metro Transit-55493-2026-11-23T21:04:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 21:04:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 63</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 63</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 64</title>
+      <link>https://www.metrotransit.org/route/63</link>
+      <guid isPermaLink="false">Metro Transit-55494-2026-11-23T21:04:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 21:04:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 64</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 64</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 65</title>
+      <link>https://www.metrotransit.org/route/65</link>
+      <guid isPermaLink="false">Metro Transit-55495-2026-11-23T21:09:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 21:09:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 65</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 65</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 67</title>
+      <link>https://www.metrotransit.org/route/67</link>
+      <guid isPermaLink="false">Metro Transit-55496-2026-11-23T21:11:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 21:11:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 67</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 67</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 68</title>
+      <link>https://www.metrotransit.org/route/68</link>
+      <guid isPermaLink="false">Metro Transit-55497-2026-11-23T21:13:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 21:13:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 68</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 68</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 71</title>
+      <link>https://www.metrotransit.org/route/71</link>
+      <guid isPermaLink="false">Metro Transit-55498-2026-11-23T21:15:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 21:15:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 71</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 71</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 72</title>
+      <link>https://www.metrotransit.org/route/72</link>
+      <guid isPermaLink="false">Metro Transit-55499-2026-11-23T21:16:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 21:16:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 72</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 72</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 74</title>
+      <link>https://www.metrotransit.org/route/74</link>
+      <guid isPermaLink="false">Metro Transit-55500-2026-11-23T21:18:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 21:18:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 74</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 74</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 83</title>
+      <link>https://www.metrotransit.org/route/83</link>
+      <guid isPermaLink="false">Metro Transit-55501-2026-11-23T21:20:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 21:20:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 83</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 83</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 87</title>
+      <link>https://www.metrotransit.org/route/87</link>
+      <guid isPermaLink="false">Metro Transit-55502-2026-11-23T21:21:02.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 21:21:02 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 87</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 87</description>
+    </item>
+    <item>
       <title>[Minor] Route 94, METRO Gold Line: Service Advisory</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
       <guid isPermaLink="false">Metro Transit-51213-2026-08-12T12:55:02.000Z</guid>
@@ -546,6 +798,51 @@
       <category>Minor</category>
       <category>Route 94, METRO Gold Line</category>
       <description>Concordia Ave &amp; Snelling Ave - Stop #18665 (eastbound) and St Anthony Ave &amp; Snelling Ave N - Stop #57088 (westbound) are temporarily moving for Route 94 beginning Fri Jul 31 at 4:00 AM until further notice due to Gold Line Extension construction. Board at: Concordia Ave &amp; Asbury St (eastbound). | Action: Board at: Concordia Ave &amp; Asbury St (eastbound)</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 225</title>
+      <link>https://www.metrotransit.org/route/225</link>
+      <guid isPermaLink="false">Metro Transit-55503-2026-11-23T21:23:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 21:23:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 225</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 225</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 227</title>
+      <link>https://www.metrotransit.org/route/227</link>
+      <guid isPermaLink="false">Metro Transit-55504-2026-11-23T21:23:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 21:23:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 227</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 227</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 540/542</title>
+      <link>https://www.metrotransit.org/route/540</link>
+      <guid isPermaLink="false">Metro Transit-55505-2026-11-23T21:26:02.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 21:26:02 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 540</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 540/542</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 645</title>
+      <link>https://www.metrotransit.org/route/645</link>
+      <guid isPermaLink="false">Metro Transit-55506-2026-11-23T21:28:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 21:28:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 645</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 645</description>
+    </item>
+    <item>
+      <title>[Minor] Effective Saturday, Dec. 5, Service Changes Begin on Route 801</title>
+      <link>https://www.metrotransit.org/route/801</link>
+      <guid isPermaLink="false">Metro Transit-55507-2026-11-23T21:30:01.000Z</guid>
+      <pubDate>Mon, 23 Nov 2026 21:30:01 GMT</pubDate>
+      <category>Minor</category>
+      <category>Route 801</category>
+      <description>Effective Saturday, Dec. 5, service changes begin on Route 801</description>
     </item>
     <item>
       <title>[Minor] Route 802: Service Advisory</title>

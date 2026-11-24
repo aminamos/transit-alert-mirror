@@ -2,47 +2,145 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-61-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-54-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-6-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-56-brightgreen)](#-routes-index)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-94-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-4-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-55-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-35-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-66-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-23T12:10:31.105Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-24T00:42:54.690Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (1) • **METRO Blue Line** (1) • **METRO Gold Line** (2) • **METRO Orange Line** (2) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (1) • **Route 9** (2) • **Route 10** (2) • **Route 11** (2) • **Route 14** (1) • **Route 17** (1) • **Route 18** (7) • **Route 22** (1) • **Route 25** (1) • **Route 27** (3) • **Route 36** (2) • **Route 38** (1) • **Route 54** (2) • **Route 54M** (1) • **Route 61** (2) • **Route 62** (2) • **Route 63** (2) • **Route 64** (2) • **Route 67** (2) • **Route 68** (3) • **Route 71** (1) • **Route 71K** (1) • **Route 74** (2) • **Route 75** (1) • **Route 94** (1) • **Route 156** (1) • **Route 219** (1) • **Route 223** (2) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (1) • **Route 542** (1) • **Route 578** (4) • **Route 615** (1) • **Route 645** (2) • **Route 673** (1) • **Route 673B** (1) • **Route 686** (1) • **Route 724** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO E Line** (2) • **METRO Gold Line** (2) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (3) • **Route 10** (4) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (9) • **Route 22** (2) • **Route 25** (3) • **Route 27** (4) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 38** (2) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 63** (3) • **Route 64** (3) • **Route 65** (1) • **Route 67** (3) • **Route 68** (4) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (2) • **Route 74** (3) • **Route 75** (1) • **Route 83** (2) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 225** (1) • **Route 227** (1) • **Route 275** (2) • **Route 294** (3) • **Route 323** (1) • **Route 363** (2) • **Route 470** (1) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (2) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (3) • **Route 686** (1) • **Route 724** (1) • **Route 725** (1) • **Route 801** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 219: Service Canceled
+### 🚨 Route 72: Service Canceled
 
-- **Affected Routes**: `Route 219`
+- **Affected Routes**: `Route 72`
 - **Direction**: Both Directions
 - **Severity**: `Critical`
+- **Corridors & Intersections**: departing Pascal St N & Central Ave W; 20 PM
+departing Pascal St N & Central Ave W; 21 PM
+departing Pascal St N & Central Ave W
 
-**Summary**: Route 219 trip departing Maplewood Mall Transit Center & Gate A at 6:12 AM and seven other trips canceled today
+**Summary**: Route 72 trip departing Sun Ray Transit Center & Gate D at 3:19 PM and six other trips canceled today
 
-[Official Agency Advisory](https://www.metrotransit.org/route/219)
+[Official Agency Advisory](https://www.metrotransit.org/route/72)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 219 trip departing Maplewood Mall Transit Center & Gate A at 6:12 AM and seven other trips canceled today
+**Header**: Route 72 trip departing Sun Ray Transit Center & Gate D at 3:19 PM and six other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Pascal St N & Central Ave W at 4:20 PM
+departing Pascal St N & Central Ave W at 6:21 PM
+departing Pascal St N & Central Ave W at 8:23 PM
+
+Affected westbound trips:
+departing Sun Ray Transit Center & Gate D at 3:19 PM
+departing Sun Ray Transit Center & Gate D at 5:18 PM
+departing Sun Ray Transit Center & Gate D at 7:21 PM
+departing Sun Ray Transit Center & Gate D at 9:21 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 83: Service Canceled
+
+- **Affected Routes**: `Route 83`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 83 trip departing Rosedale Transit Center Gate B at 3:43 PM and three other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/83)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 83 trip departing Rosedale Transit Center Gate B at 3:43 PM and three other trips canceled today
 
 ```text
 Affected northbound trips:
-departing Sun Ray Transit Center & Gate B at 7:13 AM
-departing Sun Ray Transit Center & Gate B at 9:13 AM
-departing Sun Ray Transit Center & Gate B at 11:13 AM
-departing Sun Ray Transit Center & Gate B at 1:13 PM
+departing Montreal Cir & Summit Brewing at 4:30 PM
+departing Montreal Cir & Summit Brewing at 6:32 PM
 
 Affected southbound trips:
-departing Maplewood Mall Transit Center & Gate A at 6:12 AM
-departing Maplewood Mall Transit Center & Gate A at 8:12 AM
-departing Maplewood Mall Transit Center & Gate A at 10:12 AM
-departing Maplewood Mall Transit Center & Gate A at 12:12 PM
+departing Rosedale Transit Center Gate B at 3:43 PM
+departing Rosedale Transit Center Gate B at 5:46 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 323: Service Canceled
+
+- **Affected Routes**: `Route 323`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+
+**Summary**: Route 323 trip departing Sun Ray Transit Center & Gate C at 6:46 PM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/323)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 323 trip departing Sun Ray Transit Center & Gate C at 6:46 PM and six other trips canceled today
+
+```text
+Affected eastbound trips:
+departing Sun Ray Transit Center & Gate C at 6:46 PM
+departing Sun Ray Transit Center & Gate C at 7:46 PM
+departing Sun Ray Transit Center & Gate C at 8:46 PM
+departing Sun Ray Transit Center & Gate C at 9:45 PM
+
+Affected westbound trips:
+departing Woodlane Dr Station Gate B at 7:14 PM
+departing Woodlane Dr Station Gate B at 8:14 PM
+departing Woodlane Dr Station Gate B at 9:14 PM
+```
+
+</details>
+
+---
+
+### 🚨 Route 725: Service Canceled
+
+- **Affected Routes**: `Route 725`
+- **Direction**: Both Directions
+- **Severity**: `Critical`
+- **Corridors & Intersections**: Route 725 trip departing 5th St NW & 1st Ave N; departing 5th St NW & 1st Ave N; 17 PM
+departing 5th St NW & 1st Ave N; 22 PM
+departing 5th St NW & 1st Ave N
+
+**Summary**: Route 725 trip departing 5th St NW & 1st Ave NW at 3:17 PM and six other trips canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/725)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 725 trip departing 5th St NW & 1st Ave NW at 3:17 PM and six other trips canceled today
+
+```text
+Affected eastbound trips:
+departing 5th St NW & 1st Ave NW at 3:17 PM
+departing 5th St NW & 1st Ave NW at 5:17 PM
+departing 5th St NW & 1st Ave NW at 7:22 PM
+departing 5th St NW & 1st Ave NW at 9:26 PM
+
+Affected westbound trips:
+departing Northtown Transit Ctr Gate D at 4:15 PM
+departing Northtown Transit Ctr Gate D at 6:15 PM
+departing Northtown Transit Ctr Gate D at 8:15 PM
 ```
 
 </details>
@@ -100,6 +198,51 @@ Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on 
 
 ```text
 Due to mechanical issues, both elevators at Franklin Ave Station are unavailable. The station is accessible by ramp on the north side of the station.
+```
+
+</details>
+
+---
+
+### ⚠️ METRO E Line: Detour via 44th St & Abbott St
+
+- **Affected Routes**: `METRO E Line`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 44th St & Abbott St; Sheridan Ave S & 42nd St W; 39th St & Sheridan St
+- **Closed Stops**: Sheridan & 43rd St Station (Stop #6202), Sheridan & 43rd St Station (Stop #6379), Stop #6195, Stop #6203, Stop #6206, Stop #1117, Stop #6378, Stop #6386
+
+**Summary**: METRO E Line detoured off 44th St from Xerxes Ave to Sheridan Ave and off Sheridan Ave from 44th St to 42nd St from 9:00 AM to 3:00 PM on Sat Dec 5 due to Reindeer Days event. Board at: 44th St & Abbott Station - Stop #6195 (eastbound); Sheridan Ave S & 42nd St W - Stop #6203 (northbound); Sheridan & 39th St Station - Stop #6206 (northbound).
+
+> 💡 **Rider Action**: Board at: 44th St & Abbott Station - Stop #6195 (eastbound); Sheridan Ave S & 42nd St W - Stop #6203 (northbound); Sheridan & 39th St Station - Stop #6206 (northbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route on 44th St to Xerxes Ave, left on Xerxes, right on 42nd St, left on Sheridan Ave, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/eline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: METRO E Line detoured off 44th St from Xerxes Ave to Sheridan Ave and off Sheridan Ave from 44th St to 42nd St from 9:00 AM to 3:00 PM on Sat Dec 5 due to Reindeer Days event
+
+```text
+For northbound E Line get on/off buses at:
+44th St & Abbott Station - Stop #6195 (eastbound)
+Sheridan Ave S & 42nd St W - Stop #6203 (northbound)
+Sheridan & 39th St Station - Stop #6206 (northbound)
+
+For southbound E Line get on/off buses at:
+39th St & Sheridan Station - Stop #1117 (westbound)
+Sheridan Ave S & 42nd St W - Stop #6378 (southbound)
+44th St & Abbott Station - Stop #6386 (westbound)
+
+Northbound buses will travel regular route on 44th St to Xerxes Ave, left on Xerxes, right on 42nd St, left on Sheridan Ave, and resume regular route.
+
+Southbound buses will travel regular route on Sheridan Ave to 42nd St, right on 42nd St, left on Xerxes Ave, right on 44th St, and resume regular route.
+
+Affected stops:
+Sheridan & 43rd St Station - Stop #6202 (northbound)
+Sheridan & 43rd St Station - Stop #6379 (southbound)
 ```
 
 </details>
@@ -359,6 +502,79 @@ Nicollet Mall & 11th St S - Stop #17990 (northbound)
 Get on/off buses at:
 Central Ave NE & Lowry Ave NE - Stop #17194 (northbound)
 Central Ave NE & 27th Ave NE - Stop #17190 (northbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 10, Route 25: Stop Closed at 3rd Ave S & 11th St S
+
+- **Affected Routes**: `Route 10` `Route 25`
+- **Direction**: Southbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 3rd Ave S & 11th St S; 2nd Ave S & Convention Center - St
+- **Closed Stops**: Stop #19277, Stop #19337, Stop #41911
+
+**Summary**: 3rd Ave S & 11th St S - Stop #19277 (southbound) is closed for Routes 10 and 25 until further notice. Board at: Leamington Ramp & Lower - Gate #7 - Stop #19337 (eastbound); 2nd Ave S & Convention Center - Stop #41911 (southbound).
+
+> 💡 **Rider Action**: Board at: Leamington Ramp & Lower - Gate #7 - Stop #19337 (eastbound); 2nd Ave S & Convention Center - Stop #41911 (southbound)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: 3rd Ave S & 11th St S - Stop #19277 (southbound) is closed for Routes 10 and 25 until further notice
+
+```text
+Get on/off buses at:
+Leamington Ramp & Lower - Gate #7 - Stop #19337 (eastbound)
+2nd Ave S & Convention Center - Stop #41911 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor
+
+- **Affected Routes**: `Route 10` `Route 11` `Route 17` `Route 18` `Route 25`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Closed Stops**: Nicollet Mall & 11th St S (Stop #17990), Nicollet Mall & 9th St S (Stop #17992), Nicollet Mall & 7th St S (Stop #17994), Nicollet Mall & 9th St S (Stop #17982), Nicollet Mall & 11th St S (Stop #17984), Stop #17988, Stop #53099, Stop #17996 *(+2 more)*
+
+**Summary**: Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 6th St to 12th St from Fri Nov 27 at 7:00 AM to Sat Nov 28 at 8:00 AM due to Winter Kick Off 2026 event. Board at: Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound); Hennepin & 8th St Station - Stop #53099 (northbound); Nicollet Mall & 5th St S - Stop #17996 (northbound).
+
+> 💡 **Rider Action**: Board at: Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound); Hennepin & 8th St Station - Stop #53099 (northbound); Nicollet Mall & 5th St S - Stop #17996 (northbound)
+
+> 🔄 **Detour Path**: eastbound buses will travel regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Hennepin Ave, right on 6th St, left on Nicollet Mall, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/10)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 6th St to 12th St from Fri Nov 27 at 7:00 AM to Sat Nov 28 at 8:00 AM due to Winter Kick Off 2026 event
+
+```text
+Get on/off northbound/eastbound buses at:
+Nicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)
+Hennepin & 8th St Station - Stop #53099 (northbound)
+Nicollet Mall & 5th St S - Stop #17996 (northbound)
+
+Get on/off southbound/westbound buses at:
+Nicollet Mall & 7th St S - Stop #17980 (southbound)
+Nicollet Mall & Alice Rainville Place - Stop #17986 (southbound)
+
+Northbound/eastbound buses will travel regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Hennepin Ave, right on 6th St, left on Nicollet Mall, and resume regular route.
+
+Southbound/westbound buses will travel regular route on Nicollet Mall to 7th St, right on 7th St, left on Hennepin Ave, left on 12th St, right on Nicollet Mall, and resume regular route.
+
+Affected stops:
+Nicollet Mall & 11th St S - Stop #17990 (northbound)
+Nicollet Mall & 9th St S - Stop #17992 (northbound)
+Nicollet Mall & 7th St S - Stop #17994 (northbound)
+Nicollet Mall & 9th St S - Stop #17982 (southbound)
+Nicollet Mall & 11th St S - Stop #17984 (southbound)
 ```
 
 </details>
@@ -793,27 +1009,46 @@ York Ave S & 70th St W - Stop #50601 (northbound)
 
 ---
 
-### ⚠️ Route 36: Stop Closed at 76th St W & Parklawn Ave S
+### ⚠️ Route 36: Detour via Xerxes Ave S & 44th St W
 
 - **Affected Routes**: `Route 36`
-- **Direction**: Northbound
+- **Direction**: Both Directions
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: 76th St W & Parklawn Ave S; Parklawn Ave & Parklawn Court - St
-- **Closed Stops**: Stop #2212, Stop #4100, Stop #52039, Stop #41091
+- **Corridors & Intersections**: Xerxes Ave S & 44th St W; Sheridan Ave S & 42nd St W; Xerxes Ave S & 46th St W; 44th St W & Upton Ave S; 44th St W & Xerxes Ave S
+- **Closed Stops**: 44th St W & Upton Ave S (Stop #6201), Sheridan & 43rd St Station (Stop #6202), Sheridan & 43rd St Station (Stop #6379), 44th St W & Upton Ave S (Stop #6380), 44th St W & Xerxes Ave S (Stop #6383), Stop #6249, Stop #6203, Stop #6378 *(+1 more)*
 
-**Summary**: 76th St W & Parklawn Ave S - Stop #2212 (westbound) is closed for Route 36 until further notice. Board at: 76th St W & #4100 - Stop #52039 (westbound); Parklawn Ave & Parklawn Court - Stop #41091 (northbound).
+**Summary**: Route 36 detoured off 44th St from Xerxes Ave to Sheridan Ave and off Sheridan Ave from 44th St to 42nd St from 9:00 AM to 3:00 PM on Sat Dec 5 due to Reindeer Days event. Board at: Xerxes Ave S & 44th St W - Stop #6249 (northbound); Sheridan Ave S & 42nd St W - Stop #6203 (northbound).
 
-> 💡 **Rider Action**: Board at: 76th St W & #4100 - Stop #52039 (westbound); Parklawn Ave & Parklawn Court - Stop #41091 (northbound)
+> 💡 **Rider Action**: Board at: Xerxes Ave S & 44th St W - Stop #6249 (northbound); Sheridan Ave S & 42nd St W - Stop #6203 (northbound)
+
+> 🔄 **Detour Path**: Northbound buses will travel regular route on Xerxes Ave to 44th St, continue on Xerxes to 42nd St, right on 42nd St, left on Sheridan Ave, and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/36)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: 76th St W & Parklawn Ave S - Stop #2212 (westbound) is closed for Route 36 until further notice
+**Header**: Route 36 detoured off 44th St from Xerxes Ave to Sheridan Ave and off Sheridan Ave from 44th St to 42nd St from 9:00 AM to 3:00 PM on Sat Dec 5 due to Reindeer Days event
 
 ```text
-Get on/off buses at:
-76th St W & #4100 - Stop #52039 (westbound)
-Parklawn Ave & Parklawn Court - Stop #41091 (northbound)
+For northbound Route 36 get on/off buses at:
+Xerxes Ave S & 44th St W - Stop #6249 (northbound)
+Sheridan Ave S & 42nd St W - Stop #6203 (northbound)
+
+For southbound Route 36 get on/off buses at:
+Sheridan Ave S & 42nd St W - Stop #6378 (southbound)
+Xerxes Ave S & 46th St W - Stop #6208 (southbound)
+
+Northbound buses will travel regular route on Xerxes Ave to 44th St, continue on Xerxes to 42nd St, right on 42nd St, left on Sheridan Ave, and resume regular route.
+
+Southbound buses will travel regular route on Sheridan Ave to 42nd St, right on 42nd St, left on Xerxes Ave to 44th St, and resume regular route.
+
+Affected stops:
+44th St W & Upton Ave S - Stop #6201 (eastbound)
+Sheridan & 43rd St Station - Stop #6202 (northbound)
+Sheridan & 43rd St Station - Stop #6379 (southbound)
+44th St W & Upton Ave S - Stop #6380 (westbound)
+44th St W & Xerxes Ave S - Stop #6383 (westbound)
 ```
 
 </details>
@@ -856,7 +1091,7 @@ Get on/off buses at:
 - **Corridors & Intersections**: 5th St & Robert St; 5th St E & Sibley St; 6th St E & Maria Ave; 6th St E & Maple St; 6th St E & Hope St
 - **Closed Stops**: 7th St E & Maria Ave (Stop #11849), 7th St E & Hope St (Stop #10242), Arcade St & Minnehaha Ave (Stop #51089), Arcade St & York Ave (Stop #10247), 7th St E & Maria Ave (Stop #11850), Arcade St & York Ave (Stop #10288), Arcade St & Minnehaha Ave (Stop #10291), Forest St & Sims Ave (Stop #80817) *(+13 more)*
 
-**Summary**: Route 54 detoured off 7th St from Wacouta St to Arcade St and off Arcade St from 7th St to Sims Ave until further notice due to construction. Board at: 5th St & Robert Station - Stop #57418 (eastbound); 5th St E & Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E & Maria Ave (eastbound).
+**Summary**: Route 54 detoured off 7th St from Wacouta St to Arcade St and off Arcade St until Tue Nov 24 at 4:00 AM due to construction. Board at: 5th St & Robert Station - Stop #57418 (eastbound); 5th St E & Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E & Maria Ave (eastbound).
 
 > 💡 **Rider Action**: Board at: 5th St & Robert Station - Stop #57418 (eastbound); 5th St E & Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E & Maria Ave (eastbound)
 
@@ -867,10 +1102,10 @@ Get on/off buses at:
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 54 detoured off 7th St from Wacouta St to Arcade St and off Arcade St from 7th St to Sims Ave until further notice due to construction
+**Header**: Route 54 detoured off 7th St from Wacouta St to Arcade St and off Arcade St until Tue Nov 24 at 4:00 AM due to construction
 
 ```text
-Updated 8/28 to add additional get on/off stops.
+Update 11/23 at 2pm: East 7th St reopens at 4am on 11/24.
 
 For eastbound Route 54M get on/off buses at:
 5th St & Robert Station - Stop #57418 (eastbound)
@@ -963,7 +1198,7 @@ Maryland Ave & Cypress St - Stop #12918 (eastbound)
 - **Corridors & Intersections**: Arcade St & Magnolia Ave; Arcade St & Jenks Ave; Forest St & York Ave; Forest St & 7th St E; Forest St & Minnehaha Ave E
 - **Closed Stops**: Arcade St & Minnehaha Ave (Stop #10291), 7th St E & Hope St (Stop #10294), 7th St E & Eichenwald St (Stop #10295), 7th St E & Bates Ave (Stop #10297), 7th St E & Maria Ave (Stop #11850), 7th St E & Maria Ave (Stop #11849), 7th St E & Bates Ave (Stop #10239), 7th St E & Eichenwald St (Stop #10241) *(+15 more)*
 
-**Summary**: Route 61 detoured off 7th St E from Wacouta St to Arcade St and off Arcade St from 7th St E to Sims Ave until further notice due to construction. Board at: Arcade St & Magnolia Ave - Stop #13823 (southbound); Temporary stop on Arcade St & Jenks Ave (southbound); Temporary stop on Forest St & York Ave (southbound).
+**Summary**: Route 61 detoured off 7th St E from Wacouta St to Arcade St and off Arcade St from 7th St E to Sims Ave until Tue Nov 24 at 4:00 AM due to construction. Board at: Arcade St & Magnolia Ave - Stop #13823 (southbound); Temporary stop on Arcade St & Jenks Ave (southbound); Temporary stop on Forest St & York Ave (southbound).
 
 > 💡 **Rider Action**: Board at: Arcade St & Magnolia Ave - Stop #13823 (southbound); Temporary stop on Arcade St & Jenks Ave (southbound); Temporary stop on Forest St & York Ave (southbound)
 
@@ -974,10 +1209,10 @@ Maryland Ave & Cypress St - Stop #12918 (eastbound)
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 61 detoured off 7th St E from Wacouta St to Arcade St and off Arcade St from 7th St E to Sims Ave until further notice due to construction
+**Header**: Route 61 detoured off 7th St E from Wacouta St to Arcade St and off Arcade St from 7th St E to Sims Ave until Tue Nov 24 at 4:00 AM due to construction
 
 ```text
-Updated 8/22 to add temporary eastbound stop on 6th St E & Sibley St.
+Update 11/23 at 2pm: East 7th St reopens at 4am on 11/24.
 
 For eastbound Route 61 get on/off buses at:
 Arcade St & Magnolia Ave - Stop #13823 (southbound)
@@ -1332,7 +1567,7 @@ Affected st; Jackson St & Empire Dr; Jackson St & Sycamore St
 
 > 💡 **Rider Action**: Board at: Jackson St & Mount Airy (Winter St) - Stop #18014 (northbound); Jackson St & Sims Ave - Stop #18022 (northbound)
 
-> 🔄 **Detour Path**: Northbound buses will travel regular route on Jackson St to Mount Airy St, right on Mount Airy St, left on L' orient St, left on Cayuga St, right on Jackson St and resume regular route.
+> 🔄 **Detour Path**: Northbound buses will travel regular route on Jackson St to Pennsylvania Ave, right on Pennsylvania Ave, left on L' orient St, left on Cayuga St, right on Jackson St, and and resume regular route.
 
 [Official Agency Advisory](https://www.metrotransit.org/route/68)
 
@@ -1342,7 +1577,7 @@ Affected st; Jackson St & Empire Dr; Jackson St & Sycamore St
 **Header**: Route 68 detoured off Jackson St from Pennsylvania Ave to Cayuga St beginning Mon May 18 at 4:00 AM until further notice due to construction
 
 ```text
-Update 11/12 at 10:15am: northbound detour routing
+Update 11/23 at 12:20 pm: change to northbound detour routing.
 
 For northbound Route 68 get on/off buses at:
 Jackson St & Mount Airy (Winter St) - Stop #18014 (northbound)
@@ -1352,7 +1587,7 @@ For southbound Route 68 get on/off buses at:
 Jackson St & Sims Ave - Stop #40138 (southbound)
 Jackson St & Winter St (Mount Airy) - Stop #40156 (southbound)
 
-Northbound buses will travel regular route on Jackson St to Mount Airy St, right on Mount Airy St, left on L' orient St, left on Cayuga St, right on Jackson St and resume regular route.
+Northbound buses will travel regular route on Jackson St to Pennsylvania Ave, right on Pennsylvania Ave, left on L' orient St, left on Cayuga St, right on Jackson St, and and resume regular route.
 
 Southbound buses will travel regular route on Jackson St to Cayuga St, left on Cayuga St, right on L' orient St, right on Pennsylvania Ave, left on Jackson St and resume regular route.
 
@@ -1502,7 +1737,7 @@ Little Canada Rd & Co Rd C - Stop #45307 (eastbound)
 - **Corridors & Intersections**: 5th St E & Sibley St; 6th St E & Maria Ave; 6th St E & Maple St; 6th St E & Hope St; 6th St E & Mendota St
 - **Closed Stops**: 7th St E & Maria Ave (Stop #11849), 7th St E & Bates Ave (Stop #10239), 7th St E & Hope St (Stop #10242), 7th St E & Arcade St (Stop #10385), 7th St E & Arcade St (Stop #12915), 7th St E & Hope St (Stop #10294), 7th St E & Bates Ave (Stop #10297), 7th St E & Maria Ave (Stop #11850) *(+17 more)*
 
-**Summary**: Route 74 detoured off 7th St E from Wacouta St to Forest St and off Arcade St from 7th St E to Case Ave until further notice due to construction. Board at: 5th St E & Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E & Maria Ave (eastbound); Temporary stop on 6th St E & Maple St (eastbound).
+**Summary**: Route 74 detoured off 7th St E from Wacouta St to Forest St and off Arcade St from 7th St E to Case Ave until Tue Nov 24 at 4:00 AM due to construction. Board at: 5th St E & Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E & Maria Ave (eastbound); Temporary stop on 6th St E & Maple St (eastbound).
 
 > 💡 **Rider Action**: Board at: 5th St E & Sibley St - Stop #1839 (eastbound); Temporary stop on 6th St E & Maria Ave (eastbound); Temporary stop on 6th St E & Maple St (eastbound)
 
@@ -1513,10 +1748,10 @@ Little Canada Rd & Co Rd C - Stop #45307 (eastbound)
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 74 detoured off 7th St E from Wacouta St to Forest St and off Arcade St from 7th St E to Case Ave until further notice due to construction
+**Header**: Route 74 detoured off 7th St E from Wacouta St to Forest St and off Arcade St from 7th St E to Case Ave until Tue Nov 24 at 4:00 AM due to construction
 
 ```text
-Updated 8/22 to add temporary westbound stop on 6th St E & Sibley St.
+Update 11/23 at 2pm: East 7th St reopens at 4am on 11/24.
 
 For eastbound Route 74 get on/off buses at:
 5th St E & Sibley St - Stop #1839 (eastbound)
@@ -1879,6 +2114,36 @@ Affected stops:
 
 ---
 
+### ⚠️ Route 470: Stop Closed at 3rd Ave S & 11th St S
+
+- **Affected Routes**: `Route 470`
+- **Direction**: Southbound
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 3rd Ave S & 11th St S; 4th Ave S & 7th St S; 3rd Ave S & 10th St S; Marquette Ave & 7th St
+- **Closed Stops**: Stop #19277, Stop #19297, Stop #53299
+
+**Summary**: 3rd Ave S & 11th St S - Stop #19277 (southbound) is closed for Route 470 until further notice. Board at: 4th Ave S & 7th St S - Stop #19297 (southbound); Temporary stop on 3rd Ave S & 10th St S (southbound); Marquette Ave & 7th St - Stop Group C - Stop #53299 (southbound).
+
+> 💡 **Rider Action**: Board at: 4th Ave S & 7th St S - Stop #19297 (southbound); Temporary stop on 3rd Ave S & 10th St S (southbound); Marquette Ave & 7th St - Stop Group C - Stop #53299 (southbound)
+
+[Official Agency Advisory](https://www.metrotransit.org/route/470)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: 3rd Ave S & 11th St S - Stop #19277 (southbound) is closed for Route 470 until further notice
+
+```text
+Get on/off buses at:
+4th Ave S & 7th St S - Stop #19297 (southbound)
+Temporary stop on 3rd Ave S & 10th St S (southbound)
+Marquette Ave & 7th St - Stop Group C - Stop #53299 (southbound)
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 537: Stop Closed at France Ave S & Gallagher Dr
 
 - **Affected Routes**: `Route 537`
@@ -1966,54 +2231,6 @@ American Blvd W & Lyndale Av/Bryant Av S - Stop #56604 (westbound)
 Get on/off Route 686 buses at:
 American Blvd & 3rd Ave S - Stop #53697 (westbound)
 77th St W & Best Buy Driveway - Stop #51639 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 578, METRO Orange Line: Service Advisory
-
-- **Affected Routes**: `Route 578` `METRO Orange Line`
-- **Direction**: All
-- **Severity**: `Moderate`
-- **Closed Stops**: Stop #53542, Stop #53543
-
-**Summary**: North elevator at I-35W & 46th St Station unavailable until further notice due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/orange)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: North elevator at I-35W & 46th St Station unavailable until further notice due to mechanical issue
-
-```text
-Customers can access the station by using the south tower elevator. Thank you for your patience while we work to resolve this issue.
-```
-
-</details>
-
----
-
-### ⚠️ Route 578, METRO Orange Line: Service Advisory
-
-- **Affected Routes**: `Route 578` `METRO Orange Line`
-- **Direction**: All
-- **Severity**: `Moderate`
-- **Closed Stops**: Stop #53542, Stop #53543
-
-**Summary**: North elevator at I-35W & 46th St Station unavailable until further notice due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/orange)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: North elevator at I-35W & 46th St Station unavailable until further notice due to mechanical issue
-
-```text
-Customers can access the station by using the south tower elevator. Thank you for your patience while we work to resolve this issue.
 ```
 
 </details>
@@ -2145,53 +2362,6 @@ I-394 Ramp & General Mills Blvd - Stop #41158 (eastbound)
 
 ---
 
-### ⚠️ Route 673, Route 673B: Detour via Cedar Lake Rd & Texas Ave
-
-- **Affected Routes**: `Route 673` `Route 673B`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Apr 6 until further notice
-- **Corridors & Intersections**: Cedar Lake Rd & Texas Ave; Cedar Lake Rd & Virginia Ave; Cedar Lake Rd & Rhode Island Ave S; Cedar Lake Rd & Sumter Ave S; Cedar Lake Rd (Texas Ave to Louisiana Ave and off Louisiana Ave from Cedar Lake Rd to Wayzata Blvd)
-- **Closed Stops**: Stop #52551, Stop #8073, Stop #8046, Stop #80936, Stop #80937
-
-**Summary**: Route 673B detoured off Cedar Lake Rd from Texas Ave to Louisiana Ave and off Louisiana Ave from Cedar Lake Rd to Wayzata Blvd beginning Mon Apr 6 until further notice due to construction. Board at: Louisiana Transit Center & Gate B - Stop #52551 (westbound); Cedar Lake Rd & Texas Ave - Stop #8073 (westbound).
-
-> 💡 **Rider Action**: Board at: Louisiana Transit Center & Gate B - Stop #52551 (westbound); Cedar Lake Rd & Texas Ave - Stop #8073 (westbound)
-
-> 🔄 **Detour Path**: Westbound buses will travel regular route on Cedar Lake Rd to Texas Ave, left on Texas Ave, right on Wayzata Blvd, left into Louisiana Ave Transit Center and layover.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/673)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 673B detoured off Cedar Lake Rd from Texas Ave to Louisiana Ave and off Louisiana Ave from Cedar Lake Rd to Wayzata Blvd beginning Mon Apr 6 until further notice due to construction
-
-```text
-Updated 4/11 at 2:04 PM to revise detours, affected stops and get on/off stops.
-
-For eastbound Route 673 get on/off buses at:
-Louisiana Transit Center & Gate B - Stop #52551 (westbound)
-Cedar Lake Rd & Texas Ave - Stop #8073 (westbound)
-
-For westbound Route 673 get on/off buses at:
-Cedar Lake Rd & Virginia Ave - Stop #8046 (eastbound)
-Temporary stop on Texas Ave just past Cedar Lake Rd (northbound)
-Louisiana Transit Center & Gate B - Stop #52551 (westbound)
-
-Eastbound buses will depart Louisiana Ave Transit Center, right on Wayzata Blvd, left on Texas Ave, right on Cedar Lake Rd and resume regular route.
-
-Westbound buses will travel regular route on Cedar Lake Rd to Texas Ave, left on Texas Ave, right on Wayzata Blvd, left into Louisiana Ave Transit Center and layover.
-
-Affected stops:
-Cedar Lake Rd & Rhode Island Ave S - Stop #80936 (westbound)
-Cedar Lake Rd & Sumter Ave S - Stop #80937 (eastbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 724: Stop Closed at 63rd Ave N & Zane Ave N
 
 - **Affected Routes**: `Route 724`
@@ -2262,6 +2432,58 @@ Wacouta St & 5th St / 6th St - Stop #11842 (northbound)
 
 ## ℹ️ Minor Advisories
 
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on the METRO A Line
+
+- **Affected Routes**: `METRO A Line`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on the METRO A Line
+
+[Official Agency Advisory](https://www.metrotransit.org/route/aline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on the METRO A Line
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for the METRO A Line: 
+Schedule will be adjusted due to completion of 46th St. SE & Hiawatha Ave. construction.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on the METRO E Line
+
+- **Affected Routes**: `METRO E Line`
+- **Direction**: Northbound
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on the METRO E Line
+
+[Official Agency Advisory](https://www.metrotransit.org/route/eline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on the METRO E Line
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for the METRO E Line: 
+Northbound weekday trips will depart Southdale Transit Center 2-6 minutes earlier between 9:50 a.m. and 6:30 p.m.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
 ### ℹ️ METRO Gold Line Returns to Kellogg Blvd Bridge Beginning Sat Nov 14
 
 - **Affected Routes**: `METRO Gold Line`
@@ -2288,6 +2510,85 @@ Beginning November 14, METRO Gold Line buses will also begin serving the Bus Rap
 Eastbound buses will travel regular route on 5th St to Wacouta St, right on Wacouta St, left on Kellogg Blvd, and veer right onto the Gold Line guideway.
 
 Westbound buses will travel regular route on the Gold Line guideway to Mounds Blvd Station, left on 3rd St to cross the Kellogg Blvd bridge, right on Sibley St, left on 6th St and resume regular route.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 2
+
+- **Affected Routes**: `Route 2`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 2
+
+[Official Agency Advisory](https://www.metrotransit.org/route/2)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 2
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 2: 
+Schedule will be adjusted due to the completion of Franklin Ave. construction.
+Buses will return to Franklin Ave. between Lyndale Ave. and Chicago Ave.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 7
+
+- **Affected Routes**: `Route 7`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 7
+
+[Official Agency Advisory](https://www.metrotransit.org/route/7)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 7
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 7: 
+Schedule will be adjusted due to completion of 46th St. E & Hiawatha Ave. construction and to better reflect current travel time.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 9
+
+- **Affected Routes**: `Route 9`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 9
+
+[Official Agency Advisory](https://www.metrotransit.org/route/9)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 9
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 9: 
+Schedule will be adjusted due to completion of 46th St. E & Hiawatha Ave. construction.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
 ```
 
 </details>
@@ -2339,6 +2640,60 @@ However, due to delays in installing ADA-accessible bus stops along Richfield Pa
 
 ---
 
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 18
+
+- **Affected Routes**: `Route 18`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 18
+
+> 🔄 **Detour Path**: Buses will travel on Nicollet Ave. between 31st St. and 29th St./Cecil Newman Ln.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/18)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 18
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 18: 
+Buses will travel on Nicollet Ave. between 31st St. and 29th St./Cecil Newman Ln.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 22
+
+- **Affected Routes**: `Route 22`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 22
+
+[Official Agency Advisory](https://www.metrotransit.org/route/22)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 22
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 22: 
+Schedule will be adjusted due to the suspension of construction of Cedar Ave. between Lake St. E. and Franklin Ave. E. during winter.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
 ### ℹ️ Route 27: Service Advisory
 
 - **Affected Routes**: `Route 27`
@@ -2371,6 +2726,461 @@ Lake St W & Blaisdell Ave S - Stop #16845 (eastbound)
 
 ---
 
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 27
+
+- **Affected Routes**: `Route 27`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 27
+
+> 🔄 **Detour Path**: Buses will travel on Nicollet Ave from Lake St. to 26th/28th St.
+Buses will no longer travel on 1st Ave S, Blaisdell Ave, or W 29th St.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/27)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 27
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 27: 
+Buses will travel on Nicollet Ave from Lake St. to 26th/28th St.
+Buses will no longer travel on 1st Ave S, Blaisdell Ave, or W 29th St.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 30
+
+- **Affected Routes**: `Route 30`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 30
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 30
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 30: 
+Schedule will be adjusted due to completion of Hwy 280 construction.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 32
+
+- **Affected Routes**: `Route 32`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 32
+
+[Official Agency Advisory](https://www.metrotransit.org/route/32)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 32
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 32: 
+Schedule will be adjusted due to completion of Rosedale Transit Center construction.
+Same service, simpler name - "B" and "F" route letters will be removed.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 38
+
+- **Affected Routes**: `Route 38`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 38
+
+[Official Agency Advisory](https://www.metrotransit.org/route/38)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 38
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 38: 
+Schedule will be adjusted to better reflect travel time
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 54
+
+- **Affected Routes**: `Route 54`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 54
+
+[Official Agency Advisory](https://www.metrotransit.org/route/54)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 54
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 54: 
+Schedule will be adjusted due to completion of E. 7th St. and Arcade St. construction.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 61
+
+- **Affected Routes**: `Route 61`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 61
+
+[Official Agency Advisory](https://www.metrotransit.org/route/61)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 61
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 61: 
+Schedule will be adjusted due to completion of E. 7th St. and Arcade St. construction.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 62
+
+- **Affected Routes**: `Route 62`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 62
+
+[Official Agency Advisory](https://www.metrotransit.org/route/62)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 62
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 62: 
+Schedule will be adjusted due to completion of Rice St. construction.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 63
+
+- **Affected Routes**: `Route 63`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 63
+
+[Official Agency Advisory](https://www.metrotransit.org/route/63)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 63
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 63: 
+Schedule will be adjusted due to completion of E. 7th St. construction.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 64
+
+- **Affected Routes**: `Route 64`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 64
+
+[Official Agency Advisory](https://www.metrotransit.org/route/63)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 64
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 64: 
+Schedule will be adjusted due to completion of E. 7th St. construction.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 65
+
+- **Affected Routes**: `Route 65`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 65
+
+[Official Agency Advisory](https://www.metrotransit.org/route/65)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 65
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 65: 
+Route will begin running every 30 minutes on Sundays.
+
+Schedule will be adjusted due to completion of both the Rosedale Transit Center and Dale St. construction projects.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 67
+
+- **Affected Routes**: `Route 67`
+- **Direction**: Westbound
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 67
+
+[Official Agency Advisory](https://www.metrotransit.org/route/67)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 67
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 67: 
+    Schedule will be adjusted to better reflect travel time.
+
+    All westbound trips will depart 5 minutes earlier.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 68
+
+- **Affected Routes**: `Route 68`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 68
+
+> 🔄 **Detour Path**: Buses will travel on L'Orient St. between Pennsylvania Ave. and Cayuga St.
+A new stop will be added at L'Orient St. and Cayuga St.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/68)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 68
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 68: 
+Buses will travel on L'Orient St. between Pennsylvania Ave. and Cayuga St.
+A new stop will be added at L'Orient St. and Cayuga St.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 71
+
+- **Affected Routes**: `Route 71`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 71
+
+[Official Agency Advisory](https://www.metrotransit.org/route/71)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 71
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 71: 
+71K trips will be replaced by new 71E with service to Co. Rd. E Park & Ride via Edgerton St.
+
+Buses will no longer travel along Little Canada Rd.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 72
+
+- **Affected Routes**: `Route 72`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 72
+
+[Official Agency Advisory](https://www.metrotransit.org/route/72)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 72
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 72: 
+Schedule will be adjusted due to completion of E. 7th St. construction.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 74
+
+- **Affected Routes**: `Route 74`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 74
+
+[Official Agency Advisory](https://www.metrotransit.org/route/74)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 74
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 74: 
+Schedule will be adjusted due to completion of 46th St. & Hiawatha Ave. and E. 7th St. construction projects.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 83
+
+- **Affected Routes**: `Route 83`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 83
+
+[Official Agency Advisory](https://www.metrotransit.org/route/83)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 83
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 83: 
+Schedule will be adjusted for better connections at Rosedale Transit Center.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 87
+
+- **Affected Routes**: `Route 87`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 87
+
+[Official Agency Advisory](https://www.metrotransit.org/route/87)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 87
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 87: 
+Route will begin running every 30 minutes on Sundays.
+Schedule will be adjusted due to completion of Rosedale Transit Center construction.
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
 ### ℹ️ Route 94, METRO Gold Line: Service Advisory
 
 - **Affected Routes**: `Route 94` `METRO Gold Line`
@@ -2395,6 +3205,144 @@ Concordia Ave & Asbury St (eastbound)
 
 Get on/off westbound buses at:
 St Anthony Ave & Fry St (westbound)
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 225
+
+- **Affected Routes**: `Route 225`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 225
+
+[Official Agency Advisory](https://www.metrotransit.org/route/225)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 225
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 225: 
+Schedule will be adjusted for better connections at Rosedale Transit Center.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 227
+
+- **Affected Routes**: `Route 227`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 227
+
+[Official Agency Advisory](https://www.metrotransit.org/route/227)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 227
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 227: 
+Schedule will be adjusted for better connections at Rosedale Transit Center.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 540/542
+
+- **Affected Routes**: `Route 540`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 540/542
+
+> 🔄 **Detour Path**: buses will travel via American Blvd./Norman Center Dr. to W. 83rd St. to Normandale Lake Blvd.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/540)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 540/542
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 540: 
+Schedule will be adjusted to better reflect travel time.
+
+In Normandale Office Park, buses will travel via American Blvd./Norman Center Dr. to W. 83rd St. to Normandale Lake Blvd.
+
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 645
+
+- **Affected Routes**: `Route 645`
+- **Direction**: Eastbound
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 645
+
+> 🔄 **Detour Path**: Eastbound buses will travel on Wayzata Blvd. between General Mills Blvd. and Louisiana Ave. Park & Ride.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/645)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 645
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 645: 
+Eastbound buses will travel on Wayzata Blvd. between General Mills Blvd. and Louisiana Ave. Park & Ride.
+
+Stops will be added along Wayzata Blvd.
+
+Timepoint at Wayzata Blvd. & General Mills Blvd. will be removed.
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
+```
+
+</details>
+
+---
+
+### ℹ️ Effective Saturday, Dec. 5, Service Changes Begin on Route 801
+
+- **Affected Routes**: `Route 801`
+- **Direction**: All
+- **Severity**: `Minor`
+
+**Summary**: Effective Saturday, Dec. 5, service changes begin on Route 801
+
+[Official Agency Advisory](https://www.metrotransit.org/route/801)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Effective Saturday, Dec. 5, service changes begin on Route 801
+
+```text
+Effective Saturday, Dec. 5 the following service changes begin for Route 801: 
+Schedule will be adjusted for better connections at Rosedale Transit Center.
+View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
 ```
 
 </details>
