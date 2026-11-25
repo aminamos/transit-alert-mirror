@@ -2,53 +2,53 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-96-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-7-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-55-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-91-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-54-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-34-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-68-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-64-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-24T21:04:00.766Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-25T04:50:36.007Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (3) • **METRO Blue Line** (1) • **METRO E Line** (2) • **METRO Gold Line** (1) • **Route 2** (1) • **Route 3** (3) • **Route 3A** (1) • **Route 3E** (1) • **Route 7** (2) • **Route 9** (3) • **Route 10** (5) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (8) • **Route 22** (1) • **Route 25** (3) • **Route 27** (3) • **Route 30** (2) • **Route 32** (1) • **Route 36** (2) • **Route 38** (3) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 63** (2) • **Route 64** (3) • **Route 65** (1) • **Route 67** (4) • **Route 68** (4) • **Route 71** (3) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 75** (1) • **Route 83** (1) • **Route 87** (2) • **Route 94** (1) • **Route 156** (1) • **Route 219** (1) • **Route 223** (2) • **Route 225** (1) • **Route 227** (1) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 470** (1) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (2) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (2) • **Route 686** (1) • **Route 724** (1) • **Route 768** (1) • **Route 801** (1) • **Route 802** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (3) • **METRO Blue Line** (1) • **METRO E Line** (2) • **METRO Gold Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (3) • **Route 10** (4) • **Route 11** (3) • **Route 14** (3) • **Route 17** (2) • **Route 18** (8) • **Route 22** (1) • **Route 25** (3) • **Route 27** (3) • **Route 30** (2) • **Route 32** (1) • **Route 36** (2) • **Route 38** (3) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 63** (2) • **Route 64** (3) • **Route 65** (1) • **Route 67** (3) • **Route 68** (4) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 75** (1) • **Route 83** (1) • **Route 87** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 225** (1) • **Route 227** (1) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 470** (1) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (2) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (2) • **Route 686** (1) • **Route 724** (1) • **Route 801** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 3, Route 3E: Eastbound 5:37 PM Trip Canceled (Washington Ave & Anderson Hall)
+### 🚨 Route 14: Northbound 9:34 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)
 
-- **Affected Routes**: `Route 3` `Route 3E`
-- **Direction**: Eastbound
+- **Affected Routes**: `Route 14`
+- **Direction**: Northbound
 - **Severity**: `Critical`
 
-**Summary**: Eastbound Route 3E trip departing Washington Ave & Anderson Hall at 5:37 PM canceled today
+**Summary**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 9:34 PM canceled today due to maintenance work
 
-[Official Agency Advisory](https://www.metrotransit.org/route/3)
+[Official Agency Advisory](https://www.metrotransit.org/route/14)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound Route 3E trip departing Washington Ave & Anderson Hall at 5:37 PM canceled today
+**Header**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 9:34 PM canceled today due to maintenance work
 
 </details>
 
 ---
 
-### 🚨 Route 10: Southbound 3:19 PM Trip Canceled (22nd Ave NE & Edison High - Gate A)
+### 🚨 Route 14: Northbound 9:34 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)
 
-- **Affected Routes**: `Route 10`
-- **Direction**: Southbound
+- **Affected Routes**: `Route 14`
+- **Direction**: Northbound
 - **Severity**: `Critical`
 
-**Summary**: Southbound Route 10 trip departing 22nd Ave NE & Edison High - Gate A at 3:19 PM canceled today
+**Summary**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 9:34 PM canceled today due to maintenance work
 
-[Official Agency Advisory](https://www.metrotransit.org/route/10)
+[Official Agency Advisory](https://www.metrotransit.org/route/14)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 10 trip departing 22nd Ave NE & Edison High - Gate A at 3:19 PM canceled today
+**Header**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 9:34 PM canceled today due to maintenance work
 
 </details>
 
@@ -85,118 +85,6 @@ departing Westgate Station - Gate B at 3:34 PM
 departing Westgate Station - Gate B at 5:34 PM
 departing Westgate Station - Gate B at 7:36 PM
 departing Westgate Station - Gate B at 9:36 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 71: Service Canceled
-
-- **Affected Routes**: `Route 71`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 71 trip departing Inver Hills College & Shelter at 1:38 PM and three other trips canceled today
-
-```text
-Affected northbound trips:
-departing Inver Hills College & Shelter at 1:38 PM
-departing Inver Hills College & Shelter at 4:38 PM
-
-Affected southbound trips:
-departing Market Place Dr & The Marketplace Ctr at 3:10 PM
-departing Market Place Dr & The Marketplace Ctr at 6:15 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 219: Service Canceled
-
-- **Affected Routes**: `Route 219`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 219 trip departing Maplewood Mall Transit Center & Gate A at 1:42 PM and five other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/219)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 219 trip departing Maplewood Mall Transit Center & Gate A at 1:42 PM and five other trips canceled today
-
-```text
-Affected northbound trips:
-departing Sun Ray Transit Center & Gate B at 2:43 PM
-departing Sun Ray Transit Center & Gate B at 4:43 PM
-departing Sun Ray Transit Center & Gate B at 6:43 PM
-
-Affected southbound trips:
-departing Maplewood Mall Transit Center & Gate A at 1:42 PM
-departing Maplewood Mall Transit Center & Gate A at 3:42 PM
-departing Maplewood Mall Transit Center & Gate A at 5:42 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 768: Northbound 4:20 PM Trip Canceled (2nd Ave S & 10th St - Stop Group H)
-
-- **Affected Routes**: `Route 768`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Route 768 trip departing 2nd Ave S & 10th St - Stop Group H at 4:20 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/768)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 768 trip departing 2nd Ave S & 10th St - Stop Group H at 4:20 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 805: Service Canceled
-
-- **Affected Routes**: `Route 805`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: Route 805 trip departing 1st Ave S & Monroe St; departing 1st Ave S & Monroe St; 38 PM
-departing 1st Ave S & Monroe St; 36 PM
-departing 1st Ave S & Monroe St
-
-**Summary**: Route 805 trip departing 1st Ave S & Monroe St at 1:38 PM and four other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 805 trip departing 1st Ave S & Monroe St at 1:38 PM and four other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate D at 2:34 PM
-departing Northtown Transit Ctr Gate D at 4:34 PM
-
-Affected southbound trips:
-departing 1st Ave S & Monroe St at 1:38 PM
-departing 1st Ave S & Monroe St at 3:36 PM
-departing 1st Ave S & Monroe St at 5:38 PM
 ```
 
 </details>
@@ -1444,32 +1332,6 @@ Marion St & Como Ave - Stop #18843 (northbound)
 Thomas Ave & Galtier St - Stop #18845 (westbound)
 Thomas Ave & Farrington St - Stop #18847 (westbound)
 Thomas Ave & Western Ave - Stop #18849 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 67: Stop Closed at Franklin Ave E & 31st Ave S
-
-- **Affected Routes**: `Route 67`
-- **Direction**: Westbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Franklin Ave E & 31st Ave S; Franklin Ave E & Riverside Ave
-- **Closed Stops**: Stop #16558, Stop #57627
-
-**Summary**: Franklin Ave E & 31st Ave S - Stop #16558 (westbound) is closed for Route 67 from 9:00 AM to 3:00 PM on Tue Nov 24. Board at: Franklin Ave E & Riverside Ave - Stop #57627 (westbound).
-
-> 💡 **Rider Action**: Board at: Franklin Ave E & Riverside Ave - Stop #57627 (westbound)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Franklin Ave E & 31st Ave S - Stop #16558 (westbound) is closed for Route 67 from 9:00 AM to 3:00 PM on Tue Nov 24
-
-```text
-Get on/off buses at:
-Franklin Ave E & Riverside Ave - Stop #57627 (westbound)
 ```
 
 </details>
