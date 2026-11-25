@@ -2,94 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-91-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-3-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-54-orange)](#-moderate-detours--changes)
-[![Minor](https://img.shields.io/badge/Minor-34-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-64-brightgreen)](#-routes-index)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-90-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-57-orange)](#-moderate-detours--changes)
+[![Minor](https://img.shields.io/badge/Minor-33-lightgrey)](#-minor-advisories)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-65-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-25T04:50:36.007Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-25T15:25:45.106Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (3) • **METRO Blue Line** (1) • **METRO E Line** (2) • **METRO Gold Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (3) • **Route 10** (4) • **Route 11** (3) • **Route 14** (3) • **Route 17** (2) • **Route 18** (8) • **Route 22** (1) • **Route 25** (3) • **Route 27** (3) • **Route 30** (2) • **Route 32** (1) • **Route 36** (2) • **Route 38** (3) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 63** (2) • **Route 64** (3) • **Route 65** (1) • **Route 67** (3) • **Route 68** (4) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 75** (1) • **Route 83** (1) • **Route 87** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 225** (1) • **Route 227** (1) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 470** (1) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (2) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (2) • **Route 686** (1) • **Route 724** (1) • **Route 801** (1) • **Route 802** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (3) • **METRO Blue Line** (1) • **METRO E Line** (2) • **METRO Gold Line** (1) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (3) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (3) • **Route 10** (5) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (8) • **Route 22** (2) • **Route 25** (4) • **Route 27** (2) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 38** (3) • **Route 48** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 63** (2) • **Route 64** (3) • **Route 65** (1) • **Route 67** (3) • **Route 68** (4) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 75** (1) • **Route 83** (1) • **Route 87** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 225** (1) • **Route 227** (1) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 470** (1) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (2) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (3) • **Route 686** (1) • **Route 724** (1) • **Route 801** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 14: Northbound 9:34 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)
-
-- **Affected Routes**: `Route 14`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 9:34 PM canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/14)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 9:34 PM canceled today due to maintenance work
-
-</details>
-
----
-
-### 🚨 Route 14: Northbound 9:34 PM Trip Canceled (66th St E & Richfield Pkwy / 16th Ave)
-
-- **Affected Routes**: `Route 14`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 9:34 PM canceled today due to maintenance work
-
-[Official Agency Advisory](https://www.metrotransit.org/route/14)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 14 trip departing 66th St E & Richfield Pkwy / 16th Ave at 9:34 PM canceled today due to maintenance work
-
-</details>
-
----
-
-### 🚨 Route 30: Service Canceled
-
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing Knox Ave N & Golden Valley Rd; 26 PM
-departing Knox Ave N & Golden Valley Rd; 24 PM
-departing Knox Ave N & Golden Valley Rd
-
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 1:34 PM and eight other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 30 trip departing Westgate Station - Gate B at 1:34 PM and eight other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Knox Ave N & Golden Valley Rd at 2:26 PM
-departing Knox Ave N & Golden Valley Rd at 4:24 PM
-departing Knox Ave N & Golden Valley Rd at 6:26 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 8:25 PM
-
-Affected westbound trips:
-departing Westgate Station - Gate B at 1:34 PM
-departing Westgate Station - Gate B at 3:34 PM
-departing Westgate Station - Gate B at 5:34 PM
-departing Westgate Station - Gate B at 7:36 PM
-departing Westgate Station - Gate B at 9:36 PM
-```
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -306,6 +233,27 @@ Maryland Ave & Galtier St - Stop #5579 (westbound)
 Get on/off buses at:
 Rice St & Charles Ave - Stop #974 (southbound)
 Rice St & Aurora/Rondo Ave - Stop #11896 (southbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 3, Route 7: Service Advisory
+
+- **Affected Routes**: `Route 3` `Route 7`
+- **Direction**: All
+- **Severity**: `Moderate`
+
+**Summary**: Routes 3 and 7 service advisory from 8:00 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Routes 3 and 7 service advisory from 8:00 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
+
+```text
+Due to the Turkey Trot event, route 3 and 7 buses will not detour, but expect delays on Washington Ave at 1st Ave N due to event traffic.
 ```
 
 </details>
@@ -548,6 +496,52 @@ Nicollet Mall & 11th St S - Stop #17984 (southbound)
 
 ---
 
+### ⚠️ Route 10, Route 11, Route 17, Route 18, Route 25: Service Advisory
+
+- **Affected Routes**: `Route 10` `Route 11` `Route 17` `Route 18` `Route 25`
+- **Direction**: All
+- **Severity**: `Moderate`
+
+**Summary**: Routes 10, 11, 17, 18 and 25 service advisory from 8:00 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Routes 10, 11, 17, 18 and 25 service advisory from 8:00 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
+
+```text
+Due to the Turkey Trot event, route 10, 11, 17, 18 and 25 buses will not detour, but expect delays on Nicollet Mall at 4th St due to event traffic.
+```
+
+</details>
+
+---
+
+### ⚠️ Route 14: Service Advisory
+
+- **Affected Routes**: `Route 14`
+- **Direction**: Northbound
+- **Severity**: `Moderate`
+
+**Summary**: Route 14 service advisory from 8:00 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
+
+[Official Agency Advisory](https://www.metrotransit.org/route/14)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Route 14 service advisory from 8:00 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
+
+```text
+Due to the Turkey Trot event, northbound route 14 buses will not detour, but expect delays on Washington Ave at 1st Ave N due to event traffic.
+
+Affected direction: Northbound
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 18: Detour via Nicollet Ave S & 56th St E
 
 - **Affected Routes**: `Route 18`
@@ -719,97 +713,22 @@ Nicollet Ave S & 35th St W - Stop #1216 (southbound)
 
 ---
 
-### ⚠️ Route 18: Service Advisory
+### ⚠️ Route 22, Route 48: Service Advisory
 
-- **Affected Routes**: `Route 18`
-- **Direction**: Both Directions
+- **Affected Routes**: `Route 22` `Route 48`
+- **Direction**: Northbound
 - **Severity**: `Moderate`
-- **Corridors & Intersections**: Nicollet Ave S & 31st St E; Nicollet Ave S & Lake St E; Nicollet Ave S & 28th St E; Nicollet Ave S & 28th St W; Nicollet Ave S & Lake St W
-- **Closed Stops**: 1st Ave S & 31st St / Lake St E (Stop #1888), 1st Ave S & Lake St (Stop #1889), Blaisdell Ave S & Lake St (Stop #14850), 31st St W & Blaisdell / Nicollet (Stop #42211), Stop #1887, Stop #52937, Stop #1890, Stop #1208 *(+2 more)*
+- **Corridors & Intersections**: but expect delays on 4th St S & 4th Ave S
 
-**Summary**: Route 18 returns to Nicollet Ave between Lake St and Cecil Newman Lane on Tue Nov 24 at 11:00 AM. Board at: Nicollet Ave S & 31st St E - Stop #1887 (northbound); Nicollet Ave S & Lake St E - Stop #52937 (northbound); Nicollet Ave S & 28th St E - Stop #1890 (northbound).
-
-> 💡 **Rider Action**: Board at: Nicollet Ave S & 31st St E - Stop #1887 (northbound); Nicollet Ave S & Lake St E - Stop #52937 (northbound); Nicollet Ave S & 28th St E - Stop #1890 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel on Nicollet Ave to 31st St, continue on Nicollet Ave to Cecil Newman and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/18)
+**Summary**: Routes 22 and 48 service advisory from 7:30 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 18 returns to Nicollet Ave between Lake St and Cecil Newman Lane on Tue Nov 24 at 11:00 AM
+**Header**: Routes 22 and 48 service advisory from 7:30 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
 
 ```text
-For northbound Route 18 get on/off buses at:
-Nicollet Ave S & 31st St E - Stop #1887 (northbound)
-Nicollet Ave S & Lake St E - Stop #52937 (northbound)
-Nicollet Ave S & 28th St E - Stop #1890 (northbound)
-
-For southbound Route 18 get on/off buses at:
-Nicollet Ave S & 28th St W - Stop #1208 (southbound)
-Nicollet Ave S & Lake St W - Stop #52934 (southbound)
-Nicollet Ave S & 32nd St W - Stop #1212 (southbound)
-
-Northbound buses will travel on Nicollet Ave to 31st St, continue on Nicollet Ave to Cecil Newman and resume regular route.
-
-Southbound buses will travel on Nicollet Ave to 29th St, continue on Nicollet Ave to 31st St and resume regular route.
-
-Affected stops:
-1st Ave S & 31st St / Lake St E - Stop #1888 (northbound)
-1st Ave S & Lake St - Stop #1889 (northbound)
-Blaisdell Ave S & Lake St - Stop #14850 (southbound)
-31st St W & Blaisdell / Nicollet - Stop #42211 (eastbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 27: Service Advisory
-
-- **Affected Routes**: `Route 27`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Tue Nov 24 at 11:00 AM
-- **Corridors & Intersections**: Lake St W & Grand Ave S; Nicollet Ave S & Lake St E; Nicollet Ave S & 28th St E; Nicollet Ave S & 26th St W; Nicollet Ave S & 28th St W
-- **Closed Stops**: 1st Ave S & Lake St (Stop #1889), Blaisdell Ave & 28th St W (Stop #80911), Blaisdell Ave S & Lake St (Stop #14850), 26th St E & Nicollet Ave (Stop #80924), Stop #16841, Stop #52937, Stop #1890, Stop #1206 *(+2 more)*
-
-**Summary**: Route 27 returns to Nicollet Ave between Lake St and Cecil Newman Ln beginning Tue Nov 24 at 11:00 AM. Board at: Lake St W & Grand Ave S - Stop #16841 (eastbound); Nicollet Ave S & Lake St E - Stop #52937 (northbound); Nicollet Ave S & 28th St E - Stop #1890 (northbound).
-
-> 💡 **Rider Action**: Board at: Lake St W & Grand Ave S - Stop #16841 (eastbound); Nicollet Ave S & Lake St E - Stop #52937 (northbound); Nicollet Ave S & 28th St E - Stop #1890 (northbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on Lake St to Nicollet Ave, right on 28th St, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/27)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 27 returns to Nicollet Ave between Lake St and Cecil Newman Ln beginning Tue Nov 24 at 11:00 AM
-
-```text
-Update on 11/24 at 12:40pm: eastbound get on/off stops
-
-For eastbound Route 27 get on/off buses at:
-Lake St W & Grand Ave S - Stop #16841 (eastbound)
-Nicollet Ave S & Lake St E - Stop #52937 (northbound)
-Nicollet Ave S & 28th St E - Stop #1890 (northbound)
-
-For westbound Route 27 get on/off buses at:
-Nicollet Ave S & 26th St W - Stop #1206 (southbound)
-Nicollet Ave S & 28th St W - Stop #1208 (southbound)
-Lake & Nicollet Station - Stop #57358 (westbound)
-
-Eastbound buses will travel regular route on Lake St to Nicollet Ave, right on 28th St, and resume regular route.
-
-Westbound buses will travel regular route on 26th St to Nicollet Ave, left on Nicollet Ave, right on Lake St and resume regular route.
-
-Affected stops:
-1st Ave S & Lake St - Stop #1889 (northbound)
-Blaisdell Ave & 28th St W - Stop #80911 (southbound)
-Blaisdell Ave S & Lake St - Stop #14850 (southbound)
-26th St E & Nicollet Ave - Stop #80924 (westbound)
+Due to the Turkey Trot event, northbound route 22 and 48 buses will not detour, but expect delays on 4th St S and 4th Ave S due to event traffic.
 ```
 
 </details>
@@ -2200,6 +2119,28 @@ Wayzata Blvd S & Kentucky Ave S - Stop #40917 (westbound)
 
 ---
 
+### ⚠️ Route 645, METRO Orange Line: Service Advisory
+
+- **Affected Routes**: `Route 645` `METRO Orange Line`
+- **Direction**: All
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: but expect delays on Marquette Ave & 2nd Ave
+
+**Summary**: Orange Line and Route 645 service advisory from 7:30 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Orange Line and Route 645 service advisory from 7:30 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
+
+```text
+Due to the Turkey Trot event, METRO Orange Line and route 645 buses will not detour, but expect delays on Marquette Ave/2nd Ave at 4th St due to event traffic.
+```
+
+</details>
+
+---
+
 ### ⚠️ Route 724: Stop Closed at 63rd Ave N & Zane Ave N
 
 - **Affected Routes**: `Route 724`
@@ -3149,34 +3090,6 @@ View a preview of the updated schedule by selecting "Schedule effective Dec. 5" 
 Effective Saturday, Dec. 5 the following service changes begin for Route 801: 
 Schedule will be adjusted for better connections at Rosedale Transit Center.
 View a preview of the updated schedule by selecting "Schedule effective Dec. 5" at the link shown.
-```
-
-</details>
-
----
-
-### ℹ️ Route 802: Service Advisory
-
-- **Affected Routes**: `Route 802`
-- **Direction**: Both Directions
-- **Severity**: `Minor`
-- **Schedule**: Beginning Tue Nov 10 at 6:00 AM
-- **Corridors & Intersections**: Main St & 2nd Ave; and Main St & 2nd Ave; the stops on Main St & 2nd Ave
-- **Closed Stops**: Stop #12049, Stop #12047
-
-**Summary**: Main St & 2nd Ave - Stop #12049 (westbound) and Main St & 2nd Ave - Stop #12047 (eastbound) are permanently moving for Route 802 beginning Tue Nov 10 at 6:00 AM due to parking restrictions
-
-[Official Agency Advisory](https://www.metrotransit.org/route/802)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Main St & 2nd Ave - Stop #12049 (westbound) and Main St & 2nd Ave - Stop #12047 (eastbound) are permanently moving for Route 802 beginning Tue Nov 10 at 6:00 AM due to parking restrictions
-
-```text
-Due to parking restrictions, the stops on Main St & 2nd Ave in both directions will be permanently relocated.
-
-The new location for both directions is on Main St & 1st Ave.
 ```
 
 </details>
