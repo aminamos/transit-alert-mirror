@@ -2,21 +2,58 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-92-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-59-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-87-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-52-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-33-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-65-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-64-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-26T09:20:15.447Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-26T19:29:44.898Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (3) • **METRO Blue Line** (1) • **METRO E Line** (2) • **METRO Gold Line** (1) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (3) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (3) • **Route 10** (4) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (9) • **Route 22** (2) • **Route 25** (4) • **Route 27** (3) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 38** (3) • **Route 48** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 63** (2) • **Route 64** (3) • **Route 65** (1) • **Route 67** (5) • **Route 68** (4) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 75** (1) • **Route 83** (1) • **Route 87** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 225** (1) • **Route 227** (1) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 470** (1) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (2) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (2) • **Route 686** (1) • **Route 724** (1) • **Route 801** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO E Line** (2) • **METRO Gold Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (3) • **Route 10** (3) • **Route 11** (3) • **Route 14** (2) • **Route 17** (2) • **Route 18** (8) • **Route 22** (1) • **Route 25** (3) • **Route 27** (3) • **Route 30** (2) • **Route 32** (1) • **Route 36** (2) • **Route 38** (2) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 63** (2) • **Route 64** (3) • **Route 65** (1) • **Route 67** (5) • **Route 68** (4) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 225** (1) • **Route 227** (1) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 470** (1) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (2) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 686** (1) • **Route 724** (1) • **Route 801** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-*No critical suspensions or cancellations at this time.*
+### 🚨 METRO B Line: Eastbound 12:08 PM Trip Canceled (Lake St W & France Ave S)
+
+- **Affected Routes**: `METRO B Line`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+
+**Summary**: Eastbound B Line trip departing Lake St W & France Ave S at 12:08 PM canceled
+
+[Official Agency Advisory](https://www.metrotransit.org/route/bline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound B Line trip departing Lake St W & France Ave S at 12:08 PM canceled
+
+</details>
+
+---
+
+### 🚨 METRO B Line: Eastbound 12:55 PM Trip Canceled (Lake & Chicago Station)
+
+- **Affected Routes**: `METRO B Line`
+- **Direction**: Eastbound
+- **Severity**: `Critical`
+- **Closed Stops**: Stop #16884, Stop #16950, Stop #16971, Stop #16996, Stop #17022, Stop #17029, Stop #17307, Stop #11885 *(+17 more)*
+
+**Summary**: Eastbound B Line trip departing Lake & Chicago Station at 12:55 PM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/bline)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound B Line trip departing Lake & Chicago Station at 12:55 PM canceled today
+
+</details>
+
+---
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -45,29 +82,6 @@ No stops missed.
 Northbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.
 
 Southbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route.
-```
-
-</details>
-
----
-
-### ⚠️ METRO A Line: Service Advisory
-
-- **Affected Routes**: `METRO A Line`
-- **Direction**: All
-- **Severity**: `Moderate`
-
-**Summary**: METRO A Line service advisory from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
-
-[Official Agency Advisory](https://www.metrotransit.org/route/aline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: METRO A Line service advisory from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
-
-```text
-Due to the Turkey Trot event, METRO A Line buses will not detour, but expect delays in the Highland Park area near Ford Pkwy due to event traffic.
 ```
 
 </details>
@@ -233,27 +247,6 @@ Maryland Ave & Galtier St - Stop #5579 (westbound)
 Get on/off buses at:
 Rice St & Charles Ave - Stop #974 (southbound)
 Rice St & Aurora/Rondo Ave - Stop #11896 (southbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 3, Route 7: Service Advisory
-
-- **Affected Routes**: `Route 3` `Route 7`
-- **Direction**: All
-- **Severity**: `Moderate`
-
-**Summary**: Routes 3 and 7 service advisory from 8:00 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Routes 3 and 7 service advisory from 8:00 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
-
-```text
-Due to the Turkey Trot event, route 3 and 7 buses will not detour, but expect delays on Washington Ave at 1st Ave N due to event traffic.
 ```
 
 </details>
@@ -466,46 +459,41 @@ Nicollet Mall & 11th St S - Stop #17984 (southbound)
 
 ---
 
-### ⚠️ Route 10, Route 11, Route 17, Route 18, Route 25: Service Advisory
-
-- **Affected Routes**: `Route 10` `Route 11` `Route 17` `Route 18` `Route 25`
-- **Direction**: All
-- **Severity**: `Moderate`
-
-**Summary**: Routes 10, 11, 17, 18 and 25 service advisory from 8:00 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Routes 10, 11, 17, 18 and 25 service advisory from 8:00 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
-
-```text
-Due to the Turkey Trot event, route 10, 11, 17, 18 and 25 buses will not detour, but expect delays on Nicollet Mall at 4th St due to event traffic.
-```
-
-</details>
-
----
-
-### ⚠️ Route 14: Service Advisory
+### ⚠️ Route 14: Detour via 5th St & 4th St N
 
 - **Affected Routes**: `Route 14`
-- **Direction**: Northbound
+- **Direction**: Both Directions
 - **Severity**: `Moderate`
+- **Corridors & Intersections**: 5th St & 4th St N; West Broadway (Aldrich Ave to Lyndale Ave)
+- **Closed Stops**: West Broadway & Aldrich Ave N (Stop #8305), West Broadway & Lyndale Ave N (Stop #8308), Stop #8292, Stop #8312
 
-**Summary**: Route 14 service advisory from 8:00 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
+**Summary**: Southbound Route 14 detoured off West Broadway from Aldrich Ave to Lyndale Ave until later today. Board at: West Broadway & Emerson Ave N - Stop #8292 (eastbound); West Broadway & 5th St / 4th St N - Stop #8312 (eastbound).
+
+> 💡 **Rider Action**: Board at: West Broadway & Emerson Ave N - Stop #8292 (eastbound); West Broadway & 5th St / 4th St N - Stop #8312 (eastbound)
+
+> 🔄 **Detour Path**: Southbound buses will travel regular route on West Broadway to Aldrich Ave, left on Aldrich Ave, right 21st Ave, right on Lyndale Ave, left on West Broadway and resume regular route.
 
 [Official Agency Advisory](https://www.metrotransit.org/route/14)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Route 14 service advisory from 8:00 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
+**Header**: Southbound Route 14 detoured off West Broadway from Aldrich Ave to Lyndale Ave until later today
 
 ```text
-Due to the Turkey Trot event, northbound route 14 buses will not detour, but expect delays on Washington Ave at 1st Ave N due to event traffic.
+Updated at 1:17 PM to revise detour.
 
-Affected direction: Northbound
+Get on/off buses at:
+West Broadway & Emerson Ave N - Stop #8292 (eastbound)
+West Broadway & 5th St / 4th St N - Stop #8312 (eastbound)
+
+Southbound buses will travel regular route on West Broadway to Aldrich Ave, left on Aldrich Ave, right 21st Ave, right on Lyndale Ave, left on West Broadway and resume regular route.
+
+Northbound buses will follow regular route.
+
+Affected stops:
+West Broadway & Aldrich Ave N - Stop #8305 (eastbound)
+West Broadway & Lyndale Ave N - Stop #8308 (eastbound)
 ```
 
 </details>
@@ -730,28 +718,6 @@ Blaisdell Ave S & Lake St - Stop #14850 (southbound)
 
 ---
 
-### ⚠️ Route 22, Route 48: Service Advisory
-
-- **Affected Routes**: `Route 22` `Route 48`
-- **Direction**: Northbound
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: but expect delays on 4th St S & 4th Ave S
-
-**Summary**: Routes 22 and 48 service advisory from 7:30 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Routes 22 and 48 service advisory from 7:30 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
-
-```text
-Due to the Turkey Trot event, northbound route 22 and 48 buses will not detour, but expect delays on 4th St S and 4th Ave S due to event traffic.
-```
-
-</details>
-
----
-
 ### ⚠️ Route 27: Service Advisory
 
 - **Affected Routes**: `Route 27`
@@ -796,6 +762,45 @@ Affected stops:
 Blaisdell Ave & 28th St W - Stop #80911 (southbound)
 Blaisdell Ave S & Lake St - Stop #14850 (southbound)
 26th St E & Nicollet Ave - Stop #80924 (westbound)
+```
+
+</details>
+
+---
+
+### ⚠️ Route 30: Detour via 5th St & 4th St N
+
+- **Affected Routes**: `Route 30`
+- **Direction**: Both Directions
+- **Severity**: `Moderate`
+- **Corridors & Intersections**: 5th St & 4th St N; West Broadway (Aldrich Ave to Lyndale Ave)
+- **Closed Stops**: West Broadway & Aldrich Ave N (Stop #8305), West Broadway & Lyndale Ave N (Stop #8308), Stop #8292, Stop #8312
+
+**Summary**: Eastbound Route 30 detoured off West Broadway from Aldrich Ave to Lyndale Ave until later today due to non-transit related collision. Board at: West Broadway & Emerson Ave N - Stop #8292 (eastbound); West Broadway & 5th St / 4th St N - Stop #8312 (eastbound).
+
+> 💡 **Rider Action**: Board at: West Broadway & Emerson Ave N - Stop #8292 (eastbound); West Broadway & 5th St / 4th St N - Stop #8312 (eastbound)
+
+> 🔄 **Detour Path**: Eastbound buses will travel regular route on West Broadway to Aldrich Ave, left on Aldrich Ave, right 21st Ave, right on Lyndale Ave, left on West Broadway and resume regular route.
+
+[Official Agency Advisory](https://www.metrotransit.org/route/30)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Eastbound Route 30 detoured off West Broadway from Aldrich Ave to Lyndale Ave until later today due to non-transit related collision
+
+```text
+Get on/off buses at:
+West Broadway & Emerson Ave N - Stop #8292 (eastbound)
+West Broadway & 5th St / 4th St N - Stop #8312 (eastbound)
+
+Eastbound buses will travel regular route on West Broadway to Aldrich Ave, left on Aldrich Ave, right 21st Ave, right on Lyndale Ave, left on West Broadway and resume regular route.
+
+Westbound buses will follow regular route.
+
+Affected stops:
+West Broadway & Aldrich Ave N - Stop #8305 (eastbound)
+West Broadway & Lyndale Ave N - Stop #8308 (eastbound)
 ```
 
 </details>
@@ -896,56 +901,6 @@ Sheridan & 43rd St Station - Stop #6379 (southbound)
 Get on/off buses at:
 38th St W & Nicollet Ave S - Stop #17516 (eastbound)
 38th St E & 4th Ave S - Stop #12622 (eastbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 38: Detour via Ford Pkwy & Cretin Ave
-
-- **Affected Routes**: `Route 38`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: Ford Pkwy & Cretin Ave; Kenneth St & Ford Pkwy; Ford Pkwy & Cleveland Ave
-- **Closed Stops**: Ford & Finn Station (Stop #56112), Kenneth St & Ford Pkwy (Stop #42032), Ford & Finn Station (Stop #56126), Ford Pkwy & Cretin Ave (Stop #4287), Stop #4280, Stop #56127, Stop #49392
-
-**Summary**: Route 38 detoured off Ford Pkwy from Cretin Ave to Kenneth St from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event. Board at: Ford Pkwy & Cretin Ave - Stop #4280 (eastbound).
-
-> 💡 **Rider Action**: Board at: Ford Pkwy & Cretin Ave - Stop #4280 (eastbound)
-
-> 🔄 **Detour Path**: buses will travel regular route on Ford Pkwy to Cretin Ave, left on Cretin, left on Pinehurst Ave, left on Mount Curve Blvd, and will layover on Mount Curve Blvd just before Ford Pkwy.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/38)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 38 detoured off Ford Pkwy from Cretin Ave to Kenneth St from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event
-
-```text
-For eastbound Route 38 get on/off buses at:
-Ford Pkwy & Cretin Ave - Stop #4280 (eastbound)
-
-For westbound Route 38 get on/off buses at:
-Ford & Woodlawn Station - Stop #56127 (westbound)
-
-Eastbound 38H buses will travel regular route on Ford Pkwy to Cretin Ave, left on Cretin, left on Pinehurst Ave, left on Mount Curve Blvd, and will layover on Mount Curve Blvd just before Ford Pkwy.
-
-Westbound buses that normally begin on Kenneth St/Ford Pkwy will depart the temporary layover on Mount Curve Blvd and turn right on Ford Pkwy, and resume regular route. 
-
-Affected stops:
-Ford & Finn Station - Stop #56112 (eastbound)
-Kenneth St & Ford Pkwy - Stop #42032 (northbound)
-Ford & Finn Station - Stop #56126 (westbound)
-Ford Pkwy & Cretin Ave - Stop #4287 (westbound)
-
-Affected stops:
-Ford & Finn Station - Stop #56112 (eastbound)
-Kenneth St & Ford Pkwy - Stop #42032 (northbound)
-Ford Pkwy & Cleveland Ave - Stop #49392 (westbound)
-Ford & Finn Station - Stop #56126 (westbound)
-Ford Pkwy & Cretin Ave - Stop #4287 (westbound)
 ```
 
 </details>
@@ -1603,29 +1558,6 @@ Westbound buses will travel regular route on 46th St to Hiawatha Ave, right on H
 
 ---
 
-### ⚠️ Route 74: Service Advisory
-
-- **Affected Routes**: `Route 74`
-- **Direction**: All
-- **Severity**: `Moderate`
-
-**Summary**: Route 74 service advisory from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
-
-[Official Agency Advisory](https://www.metrotransit.org/route/74)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 74 service advisory from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
-
-```text
-Due to the Turkey Trot event, Route 74 buses will not detour, but expect delays in the Highland Park area near Cleveland Ave due to event traffic.
-```
-
-</details>
-
----
-
 ### ⚠️ Route 74 Returns to Arcade St
 
 - **Affected Routes**: `Route 74`
@@ -1700,70 +1632,6 @@ Arcade St & Neid Lane - Stop #10246 (northbound)
 Arcade St & York Ave - Stop #10247 (northbound)
 Arcade St & Case Ave - Stop #13794 (northbound)
 Arcade St & Magnolia Ave - Stop #13798 (northbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 87: Detour via St Paul Ave & Davern St
-
-- **Affected Routes**: `Route 87`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: St Paul Ave & Davern St; St Paul Ave & Saunders Ave; Cleveland Ave & Ford Pkwy; St Paul Ave & Edgcumbe Rd; Edgcumbe Rd & Saint Paul Ave
-- **Closed Stops**: Edgcumbe Rd & Saint Paul Avenue (Stop #13072), Edgcumbe Rd & Sheridan Ave (Stop #13074), Sheridan Ave & Sue St (Stop #13076), Sheridan Ave & Prior Ave (Stop #13077), Sheridan Ave & Kenneth St (Stop #13079), Sheridan Ave & Cleveland Ave (Stop #13081), Cleveland Ave & Worcester Ave (Stop #13082), Cleveland Ave & Ramlow Place (Stop #13084) *(+19 more)*
-
-**Summary**: Route 87 detoured off Cleveland Ave from Bohland Ave to Sheridan Ave and off Sheridan Ave from Cleveland Ave to Edgcumbe Rd from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event. Board at: St Paul Ave & Davern St - Stop #13070 (westbound); St Paul Ave & Saunders Ave - Stop #18767 (northbound).
-
-> 💡 **Rider Action**: Board at: St Paul Ave & Davern St - Stop #13070 (westbound); St Paul Ave & Saunders Ave - Stop #18767 (northbound)
-
-> 🔄 **Detour Path**: Northbound buses will travel regular route on St Paul Ave to Edgcumbe Rd, continue on St Paul Ave to Montreal Ave, and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/87)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 87 detoured off Cleveland Ave from Bohland Ave to Sheridan Ave and off Sheridan Ave from Cleveland Ave to Edgcumbe Rd from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event
-
-```text
-For northbound Route 87 get on/off buses at:
-St Paul Ave & Davern St - Stop #13070 (westbound)
-St Paul Ave & Saunders Ave - Stop #18767 (northbound)
-
-For southbound Route 87 get on/off buses at:
-Cleveland Ave & Ford Pkwy - Stop #42439 (southbound)
-St Paul Ave & Edgcumbe Rd - Stop #13064 (eastbound)
-
-Northbound buses will travel regular route on St Paul Ave to Edgcumbe Rd, continue on St Paul Ave to Montreal Ave, and resume regular route.
-
-Southbound buses will travel regular route on Cleveland Ave to Bohland Ave, veer left onto St Paul Ave to Edgcumbe Rd, and resume regular route.
-
-Affected stops:
-Edgcumbe Rd & Saint Paul Avenue - Stop #13072 (southbound)
-Edgcumbe Rd & Sheridan Ave - Stop #13074 (southbound)
-Sheridan Ave & Sue St - Stop #13076 (westbound)
-Sheridan Ave & Prior Ave - Stop #13077 (westbound)
-Sheridan Ave & Kenneth St - Stop #13079 (westbound)
-Sheridan Ave & Cleveland Ave - Stop #13081 (westbound)
-Cleveland Ave & Worcester Ave - Stop #13082 (northbound)
-Cleveland Ave & Ramlow Place - Stop #13084 (northbound)
-Cleveland Ave & Itasca Ave - Stop #13086 (northbound)
-Cleveland Ave & Magoffin Ave - Stop #13088 (northbound)
-Cleveland Ave & Montreal Ave - Stop #13091 (northbound)
-Cleveland Ave & Inner Dr (Bohland Ave) - Stop #13043 (southbound)
-Cleveland Ave & Village Lane - Stop #13044 (southbound)
-Cleveland Ave & Montreal Ave - Stop #13045 (southbound)
-Cleveland Ave & Magoffin Ave - Stop #13048 (southbound)
-Cleveland Ave & Itasca Ave - Stop #13050 (southbound)
-Cleveland Ave & Ramlow Place - Stop #13052 (southbound)
-Cleveland Ave & Elsie Lane - Stop #13054 (southbound)
-Sheridan Ave & Cleveland Ave - Stop #13055 (eastbound)
-Sheridan Ave & Kenneth St - Stop #13057 (eastbound)
-Sheridan Ave & Prior Ave - Stop #13059 (eastbound)
-Sheridan Ave & Sue St - Stop #13060 (eastbound)
-Sheridan Ave & Edgcumbe Rd - Stop #13061 (eastbound)
 ```
 
 </details>
@@ -2193,28 +2061,6 @@ American Blvd & 3rd Ave S - Stop #53697 (westbound)
 Get on/off buses at:
 5th Ave N & 1st St N - Stop #49516 (southbound)
 Mainstreet & 6th Ave N - Stop #3571 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 645, METRO Orange Line: Service Advisory
-
-- **Affected Routes**: `Route 645` `METRO Orange Line`
-- **Direction**: All
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: but expect delays on Marquette Ave & 2nd Ave
-
-**Summary**: Orange Line and Route 645 service advisory from 7:30 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Orange Line and Route 645 service advisory from 7:30 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays
-
-```text
-Due to the Turkey Trot event, METRO Orange Line and route 645 buses will not detour, but expect delays on Marquette Ave/2nd Ave at 4th St due to event traffic.
 ```
 
 </details>

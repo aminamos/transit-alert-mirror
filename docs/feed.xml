@@ -4,9 +4,27 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Thu, 26 Nov 2026 09:20:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 19:29:44 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
+    <item>
+      <title>[Critical] METRO B Line: Eastbound 12:08 PM Trip Canceled (Lake St W &amp; France Ave S)</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-55635-2026-11-26T17:55:26.000Z</guid>
+      <pubDate>Thu, 26 Nov 2026 17:55:26 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO B Line</category>
+      <description>Eastbound B Line trip departing Lake St W &amp; France Ave S at 12:08 PM canceled</description>
+    </item>
+    <item>
+      <title>[Critical] METRO B Line: Eastbound 12:55 PM Trip Canceled (Lake &amp; Chicago Station)</title>
+      <link>https://www.metrotransit.org/route/bline</link>
+      <guid isPermaLink="false">Metro Transit-55637-2026-11-26T19:11:19.000Z</guid>
+      <pubDate>Thu, 26 Nov 2026 19:11:19 GMT</pubDate>
+      <category>Critical</category>
+      <category>METRO B Line</category>
+      <description>Eastbound B Line trip departing Lake &amp; Chicago Station at 12:55 PM canceled today</description>
+    </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
       <link>https://www.metrotransit.org/route/aline</link>
@@ -15,15 +33,6 @@
       <category>Moderate</category>
       <category>METRO A Line</category>
       <description>METRO A Line detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
-    </item>
-    <item>
-      <title>[Moderate] METRO A Line: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/aline</link>
-      <guid isPermaLink="false">Metro Transit-55578-2026-11-26T06:00:01.000Z</guid>
-      <pubDate>Thu, 26 Nov 2026 06:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>METRO A Line</category>
-      <description>METRO A Line service advisory from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays</description>
     </item>
     <item>
       <title>[Moderate] METRO Blue Line: Service Advisory</title>
@@ -60,15 +69,6 @@
       <category>Moderate</category>
       <category>Route 3, Route 62, Route 67</category>
       <description>Rice St &amp; University Ave - Stop #975 (southbound) is closed for Routes 3, 62 and 67 until further notice due to construction. Board at: Rice St &amp; Charles Ave - Stop #974 (southbound); Rice St &amp; Aurora/Rondo Ave - Stop #11896 (southbound). | Action: Board at: Rice St &amp; Charles Ave - Stop #974 (southbound); Rice St &amp; Aurora/Rondo Ave - Stop #11896 (southbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 3, Route 7: Service Advisory</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-55601-2026-11-26T06:00:01.000Z</guid>
-      <pubDate>Thu, 26 Nov 2026 06:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 3, Route 7</category>
-      <description>Routes 3 and 7 service advisory from 8:00 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays</description>
     </item>
     <item>
       <title>[Moderate] Route 7: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -125,22 +125,13 @@
       <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 6th St to 12th St from Fri Nov 27 at 7:00 AM to Sat Nov 28 at 8:00 AM due to Winter Kick Off 2026 event. Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Hennepin &amp; 8th St Station - Stop #53099 (northbound); Nicollet Mall &amp; 5th St S - Stop #17996 (northbound). | Action: Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Hennepin &amp; 8th St Station - Stop #53099 (northbound); Nicollet Mall &amp; 5th St S - Stop #17996 (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Service Advisory</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-55604-2026-11-26T06:00:01.000Z</guid>
-      <pubDate>Thu, 26 Nov 2026 06:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 10, Route 11, Route 17, Route 18, Route 25</category>
-      <description>Routes 10, 11, 17, 18 and 25 service advisory from 8:00 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 14: Service Advisory</title>
+      <title>[Moderate] Route 14: Detour via 5th St &amp; 4th St N</title>
       <link>https://www.metrotransit.org/route/14</link>
-      <guid isPermaLink="false">Metro Transit-55600-2026-11-26T06:00:01.000Z</guid>
-      <pubDate>Thu, 26 Nov 2026 06:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55636-2026-11-26T19:18:13.000Z</guid>
+      <pubDate>Thu, 26 Nov 2026 19:18:13 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 14</category>
-      <description>Route 14 service advisory from 8:00 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays</description>
+      <description>Southbound Route 14 detoured off West Broadway from Aldrich Ave to Lyndale Ave until later today. Board at: West Broadway &amp; Emerson Ave N - Stop #8292 (eastbound); West Broadway &amp; 5th St / 4th St N - Stop #8312 (eastbound). | Action: Board at: West Broadway &amp; Emerson Ave N - Stop #8292 (eastbound); West Broadway &amp; 5th St / 4th St N - Stop #8312 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 18: Detour via Nicollet Ave S &amp; 56th St E</title>
@@ -188,15 +179,6 @@
       <description>Route 18 returns to Nicollet Ave between Lake St and Cecil Newman Lane on Tue Nov 24 at 11:00 AM. Board at: Nicollet Ave S &amp; 31st St E - Stop #1887 (northbound); Nicollet Ave S &amp; Lake St E - Stop #52937 (northbound); Nicollet Ave S &amp; 28th St E - Stop #1890 (northbound). | Action: Board at: Nicollet Ave S &amp; 31st St E - Stop #1887 (northbound); Nicollet Ave S &amp; Lake St E - Stop #52937 (northbound); Nicollet Ave S &amp; 28th St E - Stop #1890 (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 22, Route 48: Service Advisory</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-55603-2026-11-26T06:00:01.000Z</guid>
-      <pubDate>Thu, 26 Nov 2026 06:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 22, Route 48</category>
-      <description>Routes 22 and 48 service advisory from 7:30 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays</description>
-    </item>
-    <item>
       <title>[Moderate] Route 27: Service Advisory</title>
       <link>https://www.metrotransit.org/route/27</link>
       <guid isPermaLink="false">Metro Transit-55610-2026-11-25T18:59:09.000Z</guid>
@@ -204,6 +186,15 @@
       <category>Moderate</category>
       <category>Route 27</category>
       <description>Route 27 returns to Nicollet Ave between Lake St and Cecil Newman Ln beginning Tue Nov 24 at 11:00 AM. Board at: Lake St W &amp; Grand Ave S - Stop #16841 (eastbound); Nicollet Ave S &amp; Lake St E - Stop #52937 (northbound); Nicollet Ave S &amp; 28th St E - Stop #1890 (northbound). | Action: Board at: Lake St W &amp; Grand Ave S - Stop #16841 (eastbound); Nicollet Ave S &amp; Lake St E - Stop #52937 (northbound); Nicollet Ave S &amp; 28th St E - Stop #1890 (northbound)</description>
+    </item>
+    <item>
+      <title>[Moderate] Route 30: Detour via 5th St &amp; 4th St N</title>
+      <link>https://www.metrotransit.org/route/30</link>
+      <guid isPermaLink="false">Metro Transit-55638-2026-11-26T19:26:39.000Z</guid>
+      <pubDate>Thu, 26 Nov 2026 19:26:39 GMT</pubDate>
+      <category>Moderate</category>
+      <category>Route 30</category>
+      <description>Eastbound Route 30 detoured off West Broadway from Aldrich Ave to Lyndale Ave until later today due to non-transit related collision. Board at: West Broadway &amp; Emerson Ave N - Stop #8292 (eastbound); West Broadway &amp; 5th St / 4th St N - Stop #8312 (eastbound). | Action: Board at: West Broadway &amp; Emerson Ave N - Stop #8292 (eastbound); West Broadway &amp; 5th St / 4th St N - Stop #8312 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 36, Route 538, Route 578: Stop Closed at York Ave S &amp; Hazelton Rd</title>
@@ -231,15 +222,6 @@
       <category>Moderate</category>
       <category>Route 38</category>
       <description>38th St E &amp; 3rd Ave S - Stop #12626 (eastbound) is closed for Route 38 beginning Mon Nov 16 at 4:00 AM until further notice. Board at: 38th St W &amp; Nicollet Ave S - Stop #17516 (eastbound); 38th St E &amp; 4th Ave S - Stop #12622 (eastbound). | Action: Board at: 38th St W &amp; Nicollet Ave S - Stop #17516 (eastbound); 38th St E &amp; 4th Ave S - Stop #12622 (eastbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 38: Detour via Ford Pkwy &amp; Cretin Ave</title>
-      <link>https://www.metrotransit.org/route/38</link>
-      <guid isPermaLink="false">Metro Transit-55575-2026-11-26T06:00:01.000Z</guid>
-      <pubDate>Thu, 26 Nov 2026 06:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 38</category>
-      <description>Route 38 detoured off Ford Pkwy from Cretin Ave to Kenneth St from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event. Board at: Ford Pkwy &amp; Cretin Ave - Stop #4280 (eastbound). | Action: Board at: Ford Pkwy &amp; Cretin Ave - Stop #4280 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 54, Route 64: Stop Closed at Maryland Ave &amp; Earl St</title>
@@ -271,8 +253,8 @@
     <item>
       <title>[Moderate] Route 61 Returns to Arcade St</title>
       <link>https://www.metrotransit.org/route/61</link>
-      <guid isPermaLink="false">Metro Transit-55580-2026-11-24T19:20:35.000Z</guid>
-      <pubDate>Tue, 24 Nov 2026 19:20:35 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55580-2026-11-26T15:02:34.000Z</guid>
+      <pubDate>Thu, 26 Nov 2026 15:02:34 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 61</category>
       <description>Route 61 returns to Arcade St. Board at: Arcade St &amp; Magnolia Ave - Stop #13823 (southbound); Arcade St &amp; Case Ave - Stop #13827 (southbound); Arcade St &amp; York Ave - Stop #10288 (southbound). | Action: Board at: Arcade St &amp; Magnolia Ave - Stop #13823 (southbound); Arcade St &amp; Case Ave - Stop #13827 (southbound); Arcade St &amp; York Ave - Stop #10288 (southbound)</description>
@@ -377,15 +359,6 @@
       <description>Route 74 detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
     </item>
     <item>
-      <title>[Moderate] Route 74: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/74</link>
-      <guid isPermaLink="false">Metro Transit-55576-2026-11-26T06:00:01.000Z</guid>
-      <pubDate>Thu, 26 Nov 2026 06:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 74</category>
-      <description>Route 74 service advisory from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays</description>
-    </item>
-    <item>
       <title>[Moderate] Route 74 Returns to Arcade St</title>
       <link>https://www.metrotransit.org/route/74</link>
       <guid isPermaLink="false">Metro Transit-55582-2026-11-24T19:47:10.000Z</guid>
@@ -393,15 +366,6 @@
       <category>Moderate</category>
       <category>Route 74</category>
       <description>Route 74 returns to Arcade St. Board at: 5th St E &amp; Sibley St - Stop #11839 (eastbound); 7th St E &amp; Wall St - Stop #57215 (eastbound); 7th St E &amp; Lafayette Rd - Stop #11845 (eastbound). | Action: Board at: 5th St E &amp; Sibley St - Stop #11839 (eastbound); 7th St E &amp; Wall St - Stop #57215 (eastbound); 7th St E &amp; Lafayette Rd - Stop #11845 (eastbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 87: Detour via St Paul Ave &amp; Davern St</title>
-      <link>https://www.metrotransit.org/route/87</link>
-      <guid isPermaLink="false">Metro Transit-55577-2026-11-26T06:00:01.000Z</guid>
-      <pubDate>Thu, 26 Nov 2026 06:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 87</category>
-      <description>Route 87 detoured off Cleveland Ave from Bohland Ave to Sheridan Ave and off Sheridan Ave from Cleveland Ave to Edgcumbe Rd from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event. Board at: St Paul Ave &amp; Davern St - Stop #13070 (westbound); St Paul Ave &amp; Saunders Ave - Stop #18767 (northbound). | Action: Board at: St Paul Ave &amp; Davern St - Stop #13070 (westbound); St Paul Ave &amp; Saunders Ave - Stop #18767 (northbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 156, Route 578, Route 824, Route 827, Route 850, Route 882, Route 888: Stop Closed at 2nd Ave S &amp; 9th St</title>
@@ -510,15 +474,6 @@
       <category>Moderate</category>
       <category>Route 615</category>
       <description>5th Ave N &amp; Mainstreet - Stop #49517 (southbound) is closed for Route 615 until further notice. Board at: 5th Ave N &amp; 1st St N - Stop #49516 (southbound); Mainstreet &amp; 6th Ave N - Stop #3571 (westbound). | Action: Board at: 5th Ave N &amp; 1st St N - Stop #49516 (southbound); Mainstreet &amp; 6th Ave N - Stop #3571 (westbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 645, METRO Orange Line: Service Advisory</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-55602-2026-11-26T06:00:01.000Z</guid>
-      <pubDate>Thu, 26 Nov 2026 06:00:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 645, METRO Orange Line</category>
-      <description>Orange Line and Route 645 service advisory from 7:30 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays</description>
     </item>
     <item>
       <title>[Moderate] Route 724: Stop Closed at 63rd Ave N &amp; Zane Ave N</title>
