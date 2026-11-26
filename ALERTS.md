@@ -2,194 +2,21 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-100-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-7-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-60-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-92-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-0-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-59-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-33-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-69-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-65-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-26T00:08:34.643Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-26T09:20:15.447Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (3) • **METRO Blue Line** (1) • **METRO E Line** (2) • **METRO Gold Line** (1) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (4) • **Route 3A** (1) • **Route 4** (1) • **Route 7** (3) • **Route 9** (3) • **Route 10** (5) • **Route 11** (6) • **Route 11A** (1) • **Route 14** (2) • **Route 17** (3) • **Route 18** (9) • **Route 22** (2) • **Route 25** (4) • **Route 27** (3) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 38** (3) • **Route 48** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 63** (2) • **Route 64** (3) • **Route 65** (1) • **Route 67** (5) • **Route 68** (4) • **Route 71** (3) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 75** (1) • **Route 83** (1) • **Route 87** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 225** (1) • **Route 227** (1) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 470** (1) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (2) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (2) • **Route 686** (1) • **Route 724** (1) • **Route 801** (1) • **Route 802** (1) • **Route 805** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (3) • **METRO Blue Line** (1) • **METRO E Line** (2) • **METRO Gold Line** (1) • **METRO Orange Line** (1) • **Route 2** (1) • **Route 3** (3) • **Route 3A** (1) • **Route 7** (3) • **Route 9** (3) • **Route 10** (4) • **Route 11** (4) • **Route 14** (2) • **Route 17** (3) • **Route 18** (9) • **Route 22** (2) • **Route 25** (4) • **Route 27** (3) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 38** (3) • **Route 48** (1) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 63** (2) • **Route 64** (3) • **Route 65** (1) • **Route 67** (5) • **Route 68** (4) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (4) • **Route 75** (1) • **Route 83** (1) • **Route 87** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 225** (1) • **Route 227** (1) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 470** (1) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (2) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (2) • **Route 686** (1) • **Route 724** (1) • **Route 801** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 3: Eastbound 4:12 PM Trip Canceled (Washington Ave & 10th Ave N)
-
-- **Affected Routes**: `Route 3`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #11896, Stop #11912, Stop #18523, Stop #18556, Stop #18557, Stop #18561, Stop #18616, Stop #18617 *(+42 more)*
-
-**Summary**: Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 4:12 PM canceled today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/3)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 4:12 PM canceled today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 4: Service Advisory
-
-- **Affected Routes**: `Route 4`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-- **Corridors & Intersections**: 22 PM will start from Lyndale Ave S & 66th St W
-- **Closed Stops**: Stop #3357, Stop #3361, Stop #3363, Stop #3365, Stop #3370, Stop #42083, Stop #42086, Stop #42088 *(+7 more)*
-
-**Summary**: Northbound Route 4 trip departing 81st St W & Humboldt Ave S at 5:22 PM will start from Lyndale Ave S & 66th St W at 5:34 PM today due to mechanical issue. Previous stops will be missed
-
-[Official Agency Advisory](https://www.metrotransit.org/route/4)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 4 trip departing 81st St W & Humboldt Ave S at 5:22 PM will start from Lyndale Ave S & 66th St W at 5:34 PM today due to mechanical issue. Previous stops will be missed
-
-</details>
-
----
-
-### 🚨 Route 11, Route 11A: Southbound 4:23 PM Trip Canceled (Columbia Heights Transit Center C)
-
-- **Affected Routes**: `Route 11` `Route 11A`
-- **Direction**: Southbound
-- **Severity**: `Critical`
-
-**Summary**: Southbound Route 11A trip departing Columbia Heights Transit Center C at 4:23 PM canceled today due to mechanical issue
-
-[Official Agency Advisory](https://www.metrotransit.org/route/11)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 11A trip departing Columbia Heights Transit Center C at 4:23 PM canceled today due to mechanical issue
-
-</details>
-
----
-
-### 🚨 Route 11: Northbound 4:35 PM Trip Canceled (Nicollet Ave S & 46th St E)
-
-- **Affected Routes**: `Route 11`
-- **Direction**: Northbound
-- **Severity**: `Critical`
-
-**Summary**: Northbound Route 11 trip departing Nicollet Ave S & 46th St E at 4:35 PM canceled today due to traffic
-
-[Official Agency Advisory](https://www.metrotransit.org/route/11)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Northbound Route 11 trip departing Nicollet Ave S & 46th St E at 4:35 PM canceled today due to traffic
-
-</details>
-
----
-
-### 🚨 Route 71: Service Canceled
-
-- **Affected Routes**: `Route 71`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/71)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today
-
-```text
-Affected northbound trips:
-departing Inver Hills College & Shelter at 12:38 PM
-departing Inver Hills College & Shelter at 3:38 PM
-
-Affected southbound trips:
-departing Market Place Dr & The Marketplace Ctr at 2:12 PM
-departing Market Place Dr & The Marketplace Ctr at 5:13 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 802: Service Canceled
-
-- **Affected Routes**: `Route 802`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/802)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate E at 12:34 PM
-departing Northtown Transit Ctr Gate E at 2:34 PM
-departing Northtown Transit Ctr Gate E at 4:34 PM
-
-Affected southbound trips:
-departing Anoka Tech College & Main Entrance at 11:43 AM
-departing Anoka Tech College & Main Entrance at 1:42 PM
-departing Anoka Tech College & Main Entrance at 3:42 PM
-departing Anoka Tech College & Main Entrance at 5:45 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 805: Service Canceled
-
-- **Affected Routes**: `Route 805`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-- **Corridors & Intersections**: departing 1st Ave S & Monroe St; 38 PM
-departing 1st Ave S & Monroe St; 36 PM
-departing 1st Ave S & Monroe St
-
-**Summary**: Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/805)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today
-
-```text
-Affected northbound trips:
-departing Northtown Transit Ctr Gate D at 11:34 AM
-departing Northtown Transit Ctr Gate D at 1:34 PM
-departing Northtown Transit Ctr Gate D at 3:34 PM
-departing Northtown Transit Ctr Gate D at 5:34 PM
-
-Affected southbound trips:
-departing 1st Ave S & Monroe St at 12:38 PM
-departing 1st Ave S & Monroe St at 2:36 PM
-departing 1st Ave S & Monroe St at 4:36 PM
-```
-
-</details>
-
----
+*No critical suspensions or cancellations at this time.*
 
 ## ⚠️ Moderate Detours & Changes
 
@@ -560,36 +387,6 @@ Southbound/westbound buses will travel regular route on Nicollet Mall to 11th St
 
 Affected stops:
 Nicollet Mall & 11th St S - Stop #17990 (northbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 10: Stop Closed at Central Ave NE & 26th Ave N
-
-- **Affected Routes**: `Route 10`
-- **Direction**: Northbound
-- **Severity**: `Moderate`
-- **Schedule**: Beginning Mon Nov 23 at 6:00 AM until further notice
-- **Corridors & Intersections**: Central Ave NE & 26th Ave N; Central Ave NE & Lowry Ave N; Central Ave NE & 27th Ave N
-- **Closed Stops**: Stop #52073, Stop #17194, Stop #17190
-
-**Summary**: Central Ave NE & 26th Ave NE - Stop #52073 (northbound) is closed for Route 10 beginning Mon Nov 23 at 6:00 AM until further notice due to construction. Board at: Central Ave NE & Lowry Ave NE - Stop #17194 (northbound); Central Ave NE & 27th Ave NE - Stop #17190 (northbound).
-
-> 💡 **Rider Action**: Board at: Central Ave NE & Lowry Ave NE - Stop #17194 (northbound); Central Ave NE & 27th Ave NE - Stop #17190 (northbound)
-
-[Official Agency Advisory](https://www.metrotransit.org/route/10)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Central Ave NE & 26th Ave NE - Stop #52073 (northbound) is closed for Route 10 beginning Mon Nov 23 at 6:00 AM until further notice due to construction
-
-```text
-Get on/off buses at:
-Central Ave NE & Lowry Ave NE - Stop #17194 (northbound)
-Central Ave NE & 27th Ave NE - Stop #17190 (northbound)
 ```
 
 </details>

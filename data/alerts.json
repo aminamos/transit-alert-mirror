@@ -1,469 +1,16 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-26T00:08:34.643Z",
-    "totalAlerts": 100,
-    "criticalCount": 7,
-    "moderateCount": 60,
+    "generatedAt": "2026-11-26T09:20:15.447Z",
+    "totalAlerts": 92,
+    "criticalCount": 0,
+    "moderateCount": 59,
     "minorCount": 33,
-    "affectedRoutesCount": 69,
+    "affectedRoutesCount": 65,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
-    {
-      "id": "55618",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 3: Eastbound 4:12 PM Trip Canceled (Washington Ave & 10th Ave N)",
-      "summary": "Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 4:12 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 3"
-      ],
-      "direction": "Eastbound",
-      "intersections": [],
-      "closedStopIds": [
-        "11896",
-        "11912",
-        "18523",
-        "18556",
-        "18557",
-        "18561",
-        "18616",
-        "18617",
-        "18618",
-        "18621",
-        "50125",
-        "57346",
-        "57623",
-        "57018",
-        "56099",
-        "931",
-        "935",
-        "938",
-        "939",
-        "941",
-        "950",
-        "952",
-        "956",
-        "958",
-        "960",
-        "962",
-        "966",
-        "970",
-        "972",
-        "973",
-        "974",
-        "975",
-        "81129",
-        "80929",
-        "80930",
-        "80931",
-        "5555",
-        "5556",
-        "5560",
-        "5563",
-        "5567",
-        "5571",
-        "53040",
-        "50192",
-        "49450",
-        "1246",
-        "49890",
-        "49892",
-        "47445",
-        "20013"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "11896"
-        },
-        {
-          "id": "11912"
-        },
-        {
-          "id": "18523"
-        },
-        {
-          "id": "18556"
-        },
-        {
-          "id": "18557"
-        },
-        {
-          "id": "18561"
-        },
-        {
-          "id": "18616"
-        },
-        {
-          "id": "18617"
-        },
-        {
-          "id": "18618"
-        },
-        {
-          "id": "18621"
-        },
-        {
-          "id": "50125"
-        },
-        {
-          "id": "57346"
-        },
-        {
-          "id": "57623"
-        },
-        {
-          "id": "57018"
-        },
-        {
-          "id": "56099"
-        },
-        {
-          "id": "931"
-        },
-        {
-          "id": "935"
-        },
-        {
-          "id": "938"
-        },
-        {
-          "id": "939"
-        },
-        {
-          "id": "941"
-        },
-        {
-          "id": "950"
-        },
-        {
-          "id": "952"
-        },
-        {
-          "id": "956"
-        },
-        {
-          "id": "958"
-        },
-        {
-          "id": "960"
-        },
-        {
-          "id": "962"
-        },
-        {
-          "id": "966"
-        },
-        {
-          "id": "970"
-        },
-        {
-          "id": "972"
-        },
-        {
-          "id": "973"
-        },
-        {
-          "id": "974"
-        },
-        {
-          "id": "975"
-        },
-        {
-          "id": "81129"
-        },
-        {
-          "id": "80929"
-        },
-        {
-          "id": "80930"
-        },
-        {
-          "id": "80931"
-        },
-        {
-          "id": "5555"
-        },
-        {
-          "id": "5556"
-        },
-        {
-          "id": "5560"
-        },
-        {
-          "id": "5563"
-        },
-        {
-          "id": "5567"
-        },
-        {
-          "id": "5571"
-        },
-        {
-          "id": "53040"
-        },
-        {
-          "id": "50192"
-        },
-        {
-          "id": "49450"
-        },
-        {
-          "id": "1246"
-        },
-        {
-          "id": "49890"
-        },
-        {
-          "id": "49892"
-        },
-        {
-          "id": "47445"
-        },
-        {
-          "id": "20013"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-25T22:59:00.000Z",
-        "end": "2026-11-26T00:23:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/3",
-      "updatedAt": "2026-11-25T23:00:15.000Z",
-      "rawHeader": "Eastbound Route 3 trip departing Washington Ave & 10th Ave N at 4:12 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "55620",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 4: Service Advisory",
-      "summary": "Northbound Route 4 trip departing 81st St W & Humboldt Ave S at 5:22 PM will start from Lyndale Ave S & 66th St W at 5:34 PM today due to mechanical issue. Previous stops will be missed",
-      "affectedRoutes": [
-        "Route 4"
-      ],
-      "direction": "Northbound",
-      "intersections": [
-        "22 PM will start from Lyndale Ave S & 66th St W"
-      ],
-      "closedStopIds": [
-        "3357",
-        "3361",
-        "3363",
-        "3365",
-        "3370",
-        "42083",
-        "42086",
-        "42088",
-        "50070",
-        "49080",
-        "50231",
-        "51868",
-        "51974",
-        "51975",
-        "57159"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "3357"
-        },
-        {
-          "id": "3361"
-        },
-        {
-          "id": "3363"
-        },
-        {
-          "id": "3365"
-        },
-        {
-          "id": "3370"
-        },
-        {
-          "id": "42083"
-        },
-        {
-          "id": "42086"
-        },
-        {
-          "id": "42088"
-        },
-        {
-          "id": "50070"
-        },
-        {
-          "id": "49080"
-        },
-        {
-          "id": "50231"
-        },
-        {
-          "id": "51868"
-        },
-        {
-          "id": "51974"
-        },
-        {
-          "id": "51975"
-        },
-        {
-          "id": "57159"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-25T23:22:00.000Z",
-        "end": "2026-11-26T01:15:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/4",
-      "updatedAt": "2026-11-25T23:17:13.000Z",
-      "rawHeader": "Northbound Route 4 trip departing 81st St W & Humboldt Ave S at 5:22 PM will start from Lyndale Ave S & 66th St W at 5:34 PM today due to mechanical issue. Previous stops will be missed",
-      "rawDescription": ""
-    },
-    {
-      "id": "55617",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 11, Route 11A: Southbound 4:23 PM Trip Canceled (Columbia Heights Transit Center C)",
-      "summary": "Southbound Route 11A trip departing Columbia Heights Transit Center C at 4:23 PM canceled today due to mechanical issue",
-      "affectedRoutes": [
-        "Route 11",
-        "Route 11A"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-25T22:46:00.000Z",
-        "end": "2026-11-26T00:29:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-11-25T22:46:22.000Z",
-      "rawHeader": "Southbound Route 11A trip departing Columbia Heights Transit Center C at 4:23 PM canceled today due to mechanical issue",
-      "rawDescription": ""
-    },
-    {
-      "id": "55619",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 11: Northbound 4:35 PM Trip Canceled (Nicollet Ave S & 46th St E)",
-      "summary": "Northbound Route 11 trip departing Nicollet Ave S & 46th St E at 4:35 PM canceled today due to traffic",
-      "affectedRoutes": [
-        "Route 11"
-      ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-25T23:06:00.000Z",
-        "end": "2026-11-26T00:43:00.000Z"
-      },
-      "cause": "OTHER_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/11",
-      "updatedAt": "2026-11-25T23:06:43.000Z",
-      "rawHeader": "Northbound Route 11 trip departing Nicollet Ave S & 46th St E at 4:35 PM canceled today due to traffic",
-      "rawDescription": ""
-    },
-    {
-      "id": "55607",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 71: Service Canceled",
-      "summary": "Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today",
-      "affectedRoutes": [
-        "Route 71"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-25T18:38:00.000Z",
-        "end": "2026-11-26T00:45:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/71",
-      "updatedAt": "2026-11-25T18:08:01.000Z",
-      "rawHeader": "Route 71 trip departing Inver Hills College & Shelter at 12:38 PM and three other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Inver Hills College & Shelter at 12:38 PM\r\ndeparting Inver Hills College & Shelter at 3:38 PM\r\n\nAffected southbound trips:\r\ndeparting Market Place Dr & The Marketplace Ctr at 2:12 PM\r\ndeparting Market Place Dr & The Marketplace Ctr at 5:13 PM"
-    },
-    {
-      "id": "55606",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 802: Service Canceled",
-      "summary": "Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today",
-      "affectedRoutes": [
-        "Route 802"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-25T17:43:00.000Z",
-        "end": "2026-11-26T01:24:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/802",
-      "updatedAt": "2026-11-25T17:25:20.000Z",
-      "rawHeader": "Route 802 trip departing Anoka Tech College & Main Entrance at 11:43 AM and six other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate E at 12:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 2:34 PM\r\ndeparting Northtown Transit Ctr Gate E at 4:34 PM\r\n\nAffected southbound trips:\r\ndeparting Anoka Tech College & Main Entrance at 11:43 AM\r\ndeparting Anoka Tech College & Main Entrance at 1:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 3:42 PM\r\ndeparting Anoka Tech College & Main Entrance at 5:45 PM"
-    },
-    {
-      "id": "55605",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 805: Service Canceled",
-      "summary": "Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today",
-      "affectedRoutes": [
-        "Route 805"
-      ],
-      "direction": "Both Directions",
-      "intersections": [
-        "departing 1st Ave S & Monroe St",
-        "38 PM\ndeparting 1st Ave S & Monroe St",
-        "36 PM\ndeparting 1st Ave S & Monroe St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-25T17:34:00.000Z",
-        "end": "2026-11-26T01:19:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/805",
-      "updatedAt": "2026-11-25T17:24:39.000Z",
-      "rawHeader": "Route 805 trip departing Northtown Transit Ctr Gate D at 11:34 AM and six other trips canceled today",
-      "rawDescription": "Affected northbound trips:\r\ndeparting Northtown Transit Ctr Gate D at 11:34 AM\r\ndeparting Northtown Transit Ctr Gate D at 1:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 3:34 PM\r\ndeparting Northtown Transit Ctr Gate D at 5:34 PM\r\n\nAffected southbound trips:\r\ndeparting 1st Ave S & Monroe St at 12:38 PM\r\ndeparting 1st Ave S & Monroe St at 2:36 PM\r\ndeparting 1st Ave S & Monroe St at 4:36 PM"
-    },
     {
       "id": "52943",
       "agency": "Metro Transit",
@@ -514,7 +61,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/aline",
-      "updatedAt": "2026-11-25T06:00:02.000Z",
+      "updatedAt": "2026-11-26T06:00:01.000Z",
       "rawHeader": "METRO A Line service advisory from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays",
       "rawDescription": "Due to the Turkey Trot event, METRO A Line buses will not detour, but expect delays in the Highland Park area near Ford Pkwy due to event traffic."
     },
@@ -845,7 +392,7 @@
       },
       "cause": "OTHER_CAUSE",
       "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-11-25T15:03:41.000Z",
+      "updatedAt": "2026-11-26T06:00:01.000Z",
       "rawHeader": "Routes 3 and 7 service advisory from 8:00 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays",
       "rawDescription": "Due to the Turkey Trot event, route 3 and 7 buses will not detour, but expect delays on Washington Ave at 1st Ave N due to event traffic."
     },
@@ -994,50 +541,6 @@
       "rawDescription": "Updated 11/10 at 11:30 AM to reflect additional northbound detour.\r\n\nNote: This detour will only be in effect when the road is blocked. If road is open, buses will follow regular route.\r\n\nGet on/off northbound/eastbound buses at:\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\n\nNo southbound/westbound stops missed.\r\n\nNorthbound/eastbound buses will travel regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Nicollet Mall, and resume regular route.\r\n\nSouthbound/westbound buses will travel regular route on Nicollet Mall to 11th St, right on 11th St, left on LaSalle Ave, left on 12th St, right on Nicollet Mall, and resume regular route.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)"
     },
     {
-      "id": "55370",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 10: Stop Closed at Central Ave NE & 26th Ave N",
-      "summary": "Central Ave NE & 26th Ave NE - Stop #52073 (northbound) is closed for Route 10 beginning Mon Nov 23 at 6:00 AM until further notice due to construction. Board at: Central Ave NE & Lowry Ave NE - Stop #17194 (northbound); Central Ave NE & 27th Ave NE - Stop #17190 (northbound).",
-      "affectedRoutes": [
-        "Route 10"
-      ],
-      "direction": "Northbound",
-      "intersections": [
-        "Central Ave NE & 26th Ave N",
-        "Central Ave NE & Lowry Ave N",
-        "Central Ave NE & 27th Ave N"
-      ],
-      "closedStopIds": [
-        "52073",
-        "17194",
-        "17190"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "52073"
-        },
-        {
-          "id": "17194"
-        },
-        {
-          "id": "17190"
-        }
-      ],
-      "riderAlternative": "Board at: Central Ave NE & Lowry Ave NE - Stop #17194 (northbound); Central Ave NE & 27th Ave NE - Stop #17190 (northbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-23T12:00:00.000Z",
-        "textDescription": "Beginning Mon Nov 23 at 6:00 AM until further notice"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/10",
-      "updatedAt": "2026-11-23T11:30:02.000Z",
-      "rawHeader": "Central Ave NE & 26th Ave NE - Stop #52073 (northbound) is closed for Route 10 beginning Mon Nov 23 at 6:00 AM until further notice due to construction",
-      "rawDescription": "Get on/off buses at:\r\nCentral Ave NE & Lowry Ave NE - Stop #17194 (northbound)\r\nCentral Ave NE & 27th Ave NE - Stop #17190 (northbound)"
-    },
-    {
       "id": "55552",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -1157,7 +660,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/10",
-      "updatedAt": "2026-11-25T19:02:50.000Z",
+      "updatedAt": "2026-11-26T06:00:01.000Z",
       "rawHeader": "Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 6th St to 12th St from Fri Nov 27 at 7:00 AM to Sat Nov 28 at 8:00 AM due to Winter Kick Off 2026 event",
       "rawDescription": "Get on/off northbound/eastbound buses at:\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nHennepin & 8th St Station - Stop #53099 (northbound)\r\nNicollet Mall & 5th St S - Stop #17996 (northbound)\r\n\nGet on/off southbound/westbound buses at:\r\nNicollet Mall & 7th St S - Stop #17980 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17986 (southbound)\r\n\nNorthbound/eastbound buses will travel regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Hennepin Ave, right on 6th St, left on Nicollet Mall, and resume regular route.\r\n\nSouthbound/westbound buses will travel regular route on Nicollet Mall to 7th St, right on 7th St, left on Hennepin Ave, left on 12th St, right on Nicollet Mall, and resume regular route.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\nNicollet Mall & 7th St S - Stop #17994 (northbound)\r\nNicollet Mall & 9th St S - Stop #17982 (southbound)\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)"
     },
@@ -1186,7 +689,7 @@
       },
       "cause": "OTHER_CAUSE",
       "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-11-25T15:10:09.000Z",
+      "updatedAt": "2026-11-26T06:00:01.000Z",
       "rawHeader": "Routes 10, 11, 17, 18 and 25 service advisory from 8:00 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays",
       "rawDescription": "Due to the Turkey Trot event, route 10, 11, 17, 18 and 25 buses will not detour, but expect delays on Nicollet Mall at 4th St due to event traffic."
     },
@@ -1212,7 +715,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/14",
-      "updatedAt": "2026-11-25T15:00:12.000Z",
+      "updatedAt": "2026-11-26T06:00:01.000Z",
       "rawHeader": "Route 14 service advisory from 8:00 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays",
       "rawDescription": "Due to the Turkey Trot event, northbound route 14 buses will not detour, but expect delays on Washington Ave at 1st Ave N due to event traffic.\r\n\nAffected direction: Northbound"
     },
@@ -1567,7 +1070,7 @@
       },
       "cause": "OTHER_CAUSE",
       "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-11-25T15:08:02.000Z",
+      "updatedAt": "2026-11-26T06:00:01.000Z",
       "rawHeader": "Routes 22 and 48 service advisory from 7:30 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays",
       "rawDescription": "Due to the Turkey Trot event, northbound route 22 and 48 buses will not detour, but expect delays on 4th St S and 4th Ave S due to event traffic."
     },
@@ -1879,7 +1382,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/38",
-      "updatedAt": "2026-11-25T19:03:34.000Z",
+      "updatedAt": "2026-11-26T06:00:01.000Z",
       "rawHeader": "Route 38 detoured off Ford Pkwy from Cretin Ave to Kenneth St from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event",
       "rawDescription": "For eastbound Route 38 get on/off buses at:\r\nFord Pkwy & Cretin Ave - Stop #4280 (eastbound)\r\n\nFor westbound Route 38 get on/off buses at:\r\nFord & Woodlawn Station - Stop #56127 (westbound)\r\n\nEastbound 38H buses will travel regular route on Ford Pkwy to Cretin Ave, left on Cretin, left on Pinehurst Ave, left on Mount Curve Blvd, and will layover on Mount Curve Blvd just before Ford Pkwy.\r\n\nWestbound buses that normally begin on Kenneth St/Ford Pkwy will depart the temporary layover on Mount Curve Blvd and turn right on Ford Pkwy, and resume regular route. \r\n\nAffected stops:\r\nFord & Finn Station - Stop #56112 (eastbound)\r\nKenneth St & Ford Pkwy - Stop #42032 (northbound)\r\nFord & Finn Station - Stop #56126 (westbound)\r\nFord Pkwy & Cretin Ave - Stop #4287 (westbound)\r\n\nAffected stops:\r\nFord & Finn Station - Stop #56112 (eastbound)\r\nKenneth St & Ford Pkwy - Stop #42032 (northbound)\r\nFord Pkwy & Cleveland Ave - Stop #49392 (westbound)\r\nFord & Finn Station - Stop #56126 (westbound)\r\nFord Pkwy & Cretin Ave - Stop #4287 (westbound)"
     },
@@ -1952,23 +1455,23 @@
         "10291",
         "11850",
         "43282",
-        "53982",
-        "81106",
-        "81118",
         "80939",
-        "80817",
         "80956",
+        "80817",
         "80957",
+        "81106",
         "53984",
-        "80958",
-        "80715",
-        "80716",
+        "53982",
+        "81118",
+        "53983",
+        "53981",
         "81105",
+        "80958",
+        "80959",
         "80997",
         "81104",
-        "80959",
-        "53981",
-        "53983"
+        "80715",
+        "80716"
       ],
       "closedStopDetails": [
         {
@@ -2005,40 +1508,43 @@
           "id": "43282"
         },
         {
-          "id": "53982"
-        },
-        {
-          "id": "81106"
-        },
-        {
-          "id": "81118"
-        },
-        {
           "id": "80939"
-        },
-        {
-          "id": "80817"
         },
         {
           "id": "80956"
         },
         {
+          "id": "80817"
+        },
+        {
           "id": "80957"
+        },
+        {
+          "id": "81106"
         },
         {
           "id": "53984"
         },
         {
-          "id": "80958"
+          "id": "53982"
         },
         {
-          "id": "80715"
+          "id": "81118"
         },
         {
-          "id": "80716"
+          "id": "53983"
+        },
+        {
+          "id": "53981"
         },
         {
           "id": "81105"
+        },
+        {
+          "id": "80958"
+        },
+        {
+          "id": "80959"
         },
         {
           "id": "80997"
@@ -2047,13 +1553,10 @@
           "id": "81104"
         },
         {
-          "id": "80959"
+          "id": "80715"
         },
         {
-          "id": "53981"
-        },
-        {
-          "id": "53983"
+          "id": "80716"
         }
       ],
       "riderAlternative": "Board at: 5th St E & Sibley St - Stop #11839 (eastbound); 7th St E & Wall St - Stop #57215 (eastbound); 7th St E & Maria Ave - Stop #11849 (eastbound)",
@@ -2193,20 +1696,20 @@
         "10247",
         "13794",
         "13798",
-        "53981",
-        "53983",
-        "80959",
+        "81104",
         "80958",
         "81105",
-        "81104",
-        "81106",
-        "81118",
-        "80817",
-        "80939",
-        "80956",
-        "80957",
+        "80959",
+        "53981",
+        "53983",
+        "53984",
         "53982",
-        "53984"
+        "80957",
+        "81106",
+        "80817",
+        "80956",
+        "80939",
+        "81118"
       ],
       "closedStopDetails": [
         {
@@ -2294,13 +1797,7 @@
           "id": "13798"
         },
         {
-          "id": "53981"
-        },
-        {
-          "id": "53983"
-        },
-        {
-          "id": "80959"
+          "id": "81104"
         },
         {
           "id": "80958"
@@ -2309,31 +1806,37 @@
           "id": "81105"
         },
         {
-          "id": "81104"
+          "id": "80959"
         },
         {
-          "id": "81106"
+          "id": "53981"
         },
         {
-          "id": "81118"
+          "id": "53983"
         },
         {
-          "id": "80817"
-        },
-        {
-          "id": "80939"
-        },
-        {
-          "id": "80956"
-        },
-        {
-          "id": "80957"
+          "id": "53984"
         },
         {
           "id": "53982"
         },
         {
-          "id": "53984"
+          "id": "80957"
+        },
+        {
+          "id": "81106"
+        },
+        {
+          "id": "80817"
+        },
+        {
+          "id": "80956"
+        },
+        {
+          "id": "80939"
+        },
+        {
+          "id": "81118"
         }
       ],
       "riderAlternative": "Board at: Arcade St & Magnolia Ave - Stop #13823 (southbound); Arcade St & Case Ave - Stop #13827 (southbound); Arcade St & York Ave - Stop #10288 (southbound)",
@@ -2751,7 +2254,7 @@
       "cause": "CONSTRUCTION",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/67",
-      "updatedAt": "2026-11-25T22:30:10.000Z",
+      "updatedAt": "2026-11-26T06:00:01.000Z",
       "rawHeader": "Route 67 detoured off Thomas Ave from Farrington St to Galtier St beginning Wed Dec 2 at 6:30 AM until further notice due to construction",
       "rawDescription": "Get on/off eastbound buses at:\r\nThomas Ave & Farrington St - Stop #18839 (eastbound)\r\nMarion St & Como Ave - Stop #18843 (northbound)\r\n\nNo westbound stops missed.\r\n\nEastbound buses will travel regular route on Thomas Ave to Farrington St, right on Farrington St, left on Edmund Ave, left on Galtier St, right on Thomas Ave and resume regular route.\r\n\nWestbound buses will travel regular route.\r\n\nAffected direction: Eastbound\r\n\nAffected stops:\r\nThomas Ave & Galtier St - Stop #18841 (eastbound)"
     },
@@ -3120,7 +2623,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "OTHER_EFFECT",
       "url": "https://www.metrotransit.org/route/74",
-      "updatedAt": "2026-11-25T06:00:02.000Z",
+      "updatedAt": "2026-11-26T06:00:01.000Z",
       "rawHeader": "Route 74 service advisory from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays",
       "rawDescription": "Due to the Turkey Trot event, Route 74 buses will not detour, but expect delays in the Highland Park area near Cleveland Ave due to event traffic."
     },
@@ -3173,18 +2676,18 @@
         "10247",
         "13794",
         "13798",
-        "53984",
-        "53982",
-        "80957",
         "80956",
+        "80957",
         "81106",
         "81118",
         "81104",
-        "80817",
+        "53984",
+        "53982",
+        "53983",
+        "53981",
         "80958",
         "80959",
-        "53981",
-        "53983"
+        "80817"
       ],
       "closedStopDetails": [
         {
@@ -3281,16 +2784,10 @@
           "id": "13798"
         },
         {
-          "id": "53984"
-        },
-        {
-          "id": "53982"
+          "id": "80956"
         },
         {
           "id": "80957"
-        },
-        {
-          "id": "80956"
         },
         {
           "id": "81106"
@@ -3302,7 +2799,16 @@
           "id": "81104"
         },
         {
-          "id": "80817"
+          "id": "53984"
+        },
+        {
+          "id": "53982"
+        },
+        {
+          "id": "53983"
+        },
+        {
+          "id": "53981"
         },
         {
           "id": "80958"
@@ -3311,10 +2817,7 @@
           "id": "80959"
         },
         {
-          "id": "53981"
-        },
-        {
-          "id": "53983"
+          "id": "80817"
         }
       ],
       "riderAlternative": "Board at: 5th St E & Sibley St - Stop #11839 (eastbound); 7th St E & Wall St - Stop #57215 (eastbound); 7th St E & Lafayette Rd - Stop #11845 (eastbound)",
@@ -3513,7 +3016,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/87",
-      "updatedAt": "2026-11-25T06:00:02.000Z",
+      "updatedAt": "2026-11-26T06:00:01.000Z",
       "rawHeader": "Route 87 detoured off Cleveland Ave from Bohland Ave to Sheridan Ave and off Sheridan Ave from Cleveland Ave to Edgcumbe Rd from 6:00 AM to 10:00 AM on Thu Nov 26 due to Turkey Trot event",
       "rawDescription": "For northbound Route 87 get on/off buses at:\r\nSt Paul Ave & Davern St - Stop #13070 (westbound)\r\nSt Paul Ave & Saunders Ave - Stop #18767 (northbound)\r\n\nFor southbound Route 87 get on/off buses at:\r\nCleveland Ave & Ford Pkwy - Stop #42439 (southbound)\r\nSt Paul Ave & Edgcumbe Rd - Stop #13064 (eastbound)\r\n\nNorthbound buses will travel regular route on St Paul Ave to Edgcumbe Rd, continue on St Paul Ave to Montreal Ave, and resume regular route.\r\n\nSouthbound buses will travel regular route on Cleveland Ave to Bohland Ave, veer left onto St Paul Ave to Edgcumbe Rd, and resume regular route.\r\n\nAffected stops:\r\nEdgcumbe Rd & Saint Paul Avenue - Stop #13072 (southbound)\r\nEdgcumbe Rd & Sheridan Ave - Stop #13074 (southbound)\r\nSheridan Ave & Sue St - Stop #13076 (westbound)\r\nSheridan Ave & Prior Ave - Stop #13077 (westbound)\r\nSheridan Ave & Kenneth St - Stop #13079 (westbound)\r\nSheridan Ave & Cleveland Ave - Stop #13081 (westbound)\r\nCleveland Ave & Worcester Ave - Stop #13082 (northbound)\r\nCleveland Ave & Ramlow Place - Stop #13084 (northbound)\r\nCleveland Ave & Itasca Ave - Stop #13086 (northbound)\r\nCleveland Ave & Magoffin Ave - Stop #13088 (northbound)\r\nCleveland Ave & Montreal Ave - Stop #13091 (northbound)\r\nCleveland Ave & Inner Dr (Bohland Ave) - Stop #13043 (southbound)\r\nCleveland Ave & Village Lane - Stop #13044 (southbound)\r\nCleveland Ave & Montreal Ave - Stop #13045 (southbound)\r\nCleveland Ave & Magoffin Ave - Stop #13048 (southbound)\r\nCleveland Ave & Itasca Ave - Stop #13050 (southbound)\r\nCleveland Ave & Ramlow Place - Stop #13052 (southbound)\r\nCleveland Ave & Elsie Lane - Stop #13054 (southbound)\r\nSheridan Ave & Cleveland Ave - Stop #13055 (eastbound)\r\nSheridan Ave & Kenneth St - Stop #13057 (eastbound)\r\nSheridan Ave & Prior Ave - Stop #13059 (eastbound)\r\nSheridan Ave & Sue St - Stop #13060 (eastbound)\r\nSheridan Ave & Edgcumbe Rd - Stop #13061 (eastbound)"
     },
@@ -4232,7 +3735,7 @@
       },
       "cause": "OTHER_CAUSE",
       "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-11-25T15:06:16.000Z",
+      "updatedAt": "2026-11-26T06:00:01.000Z",
       "rawHeader": "Orange Line and Route 645 service advisory from 7:30 AM to 11:00 AM on Thu Nov 26 due to Turkey Trot event: expect delays",
       "rawDescription": "Due to the Turkey Trot event, METRO Orange Line and route 645 buses will not detour, but expect delays on Marquette Ave/2nd Ave at 4th St due to event traffic."
     },
