@@ -4,26 +4,53 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Fri, 27 Nov 2026 11:58:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:05:36 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO C Line: Northbound 5:27 AM Trip Canceled (7th St &amp; Park Station)</title>
-      <link>https://www.metrotransit.org/route/cline</link>
-      <guid isPermaLink="false">Metro Transit-55648-2026-11-27T11:18:19.000Z</guid>
-      <pubDate>Fri, 27 Nov 2026 11:18:19 GMT</pubDate>
+      <title>[Critical] Route 30: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/30</link>
+      <guid isPermaLink="false">Metro Transit-55657-2026-11-27T20:24:04.000Z</guid>
+      <pubDate>Fri, 27 Nov 2026 20:24:04 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO C Line</category>
-      <description>Northbound C Line trip departing 7th St &amp; Park Station at 5:27 AM canceled</description>
+      <category>Route 30</category>
+      <description>Route 30 trip departing Westgate Station - Gate B at 2:36 PM and five other trips canceled today</description>
     </item>
     <item>
-      <title>[Critical] Route 888: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/888</link>
-      <guid isPermaLink="false">Metro Transit-55647-2026-11-27T10:22:01.000Z</guid>
-      <pubDate>Fri, 27 Nov 2026 10:22:01 GMT</pubDate>
+      <title>[Critical] Route 87: Northbound 2:03 PM Trip Canceled (Davern St &amp; Norfolk Ave / Shepard Rd)</title>
+      <link>https://www.metrotransit.org/route/87</link>
+      <guid isPermaLink="false">Metro Transit-55659-2026-11-27T20:27:33.000Z</guid>
+      <pubDate>Fri, 27 Nov 2026 20:27:33 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 888</category>
-      <description>Southbound Route 888 trips departing Veterans Dr &amp; Ramsey Park &amp; Ride at 4:52 AM and departing Veterans Dr &amp; Ramsey Park &amp; Ride at 6:46 AM canceled today</description>
+      <category>Route 87</category>
+      <description>Northbound Route 87 trip departing Davern St &amp; Norfolk Ave / Shepard Rd at 2:03 PM canceled today due to disabled bus</description>
+    </item>
+    <item>
+      <title>[Critical] Route 540: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/540</link>
+      <guid isPermaLink="false">Metro Transit-55656-2026-11-27T19:35:57.000Z</guid>
+      <pubDate>Fri, 27 Nov 2026 19:35:57 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 540</category>
+      <description>Route 540 trips departing Normandale Lake Blvd &amp; 83rd St / 84th St at 2:02 PM and departing Normandale Lake Blvd &amp; 83rd St / 84th St at 3:32 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 542: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/542</link>
+      <guid isPermaLink="false">Metro Transit-55655-2026-11-27T19:35:23.000Z</guid>
+      <pubDate>Fri, 27 Nov 2026 19:35:23 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 542</category>
+      <description>Route 542 trips departing MOA Transit Station Gate G at 1:37 PM and departing MOA Transit Station Gate G at 3:06 PM canceled today</description>
+    </item>
+    <item>
+      <title>[Critical] Route 705, Route 705A: Southbound 1:46 PM Trip Canceled (Modern Rd &amp; Quebec Ave N)</title>
+      <link>https://www.metrotransit.org/route/705</link>
+      <guid isPermaLink="false">Metro Transit-55658-2026-11-27T20:24:40.000Z</guid>
+      <pubDate>Fri, 27 Nov 2026 20:24:40 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 705, Route 705A</category>
+      <description>Southbound Route 705A trip departing Modern Rd &amp; Quebec Ave N at 1:46 PM canceled today due to collision</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -33,6 +60,15 @@
       <category>Moderate</category>
       <category>METRO A Line</category>
       <description>METRO A Line detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction</description>
+    </item>
+    <item>
+      <title>[Moderate] METRO Blue Line, METRO Green Line: Service Advisory</title>
+      <link>https://github.com/aminamos/transit-alert-mirror</link>
+      <guid isPermaLink="false">Metro Transit-52271-2026-11-27T15:00:01.000Z</guid>
+      <pubDate>Fri, 27 Nov 2026 15:00:01 GMT</pubDate>
+      <category>Moderate</category>
+      <category>METRO Blue Line, METRO Green Line</category>
+      <description>METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 11/29 from 9am - 5pm</description>
     </item>
     <item>
       <title>[Moderate] METRO Blue Line: Service Advisory</title>
@@ -60,15 +96,6 @@
       <category>Moderate</category>
       <category>Route 3, Route 3A</category>
       <description>Route 3A detoured off Maryland Ave from Matilda St to Rice St and off Rice St from Maryland Ave to Como Ave beginning Thu Nov 5 at 6:00 AM until further notice due to construction. Board at: Maryland Ave &amp; Western Ave - Stop #5567 (eastbound); Temporary stop on Maryland Ave &amp; Matilda St (eastbound); Temporary stop on Galtier St &amp; Cook Ave (southbound). | Action: Board at: Maryland Ave &amp; Western Ave - Stop #5567 (eastbound); Temporary stop on Maryland Ave &amp; Matilda St (eastbound); Temporary stop on Galtier St &amp; Cook Ave (southbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 3, Route 62, Route 67: Stop Closed at Rice St &amp; University Ave</title>
-      <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-55405-2026-11-25T22:04:01.000Z</guid>
-      <pubDate>Wed, 25 Nov 2026 22:04:01 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 3, Route 62, Route 67</category>
-      <description>Rice St &amp; University Ave - Stop #975 (southbound) is closed for Routes 3, 62 and 67 until further notice due to construction. Board at: Rice St &amp; Charles Ave - Stop #974 (southbound); Rice St &amp; Aurora/Rondo Ave - Stop #11896 (southbound). | Action: Board at: Rice St &amp; Charles Ave - Stop #974 (southbound); Rice St &amp; Aurora/Rondo Ave - Stop #11896 (southbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 7: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -118,8 +145,8 @@
     <item>
       <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor</title>
       <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-55553-2026-11-27T06:00:01.000Z</guid>
-      <pubDate>Fri, 27 Nov 2026 06:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55553-2026-11-27T12:30:02.000Z</guid>
+      <pubDate>Fri, 27 Nov 2026 12:30:02 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 10, Route 11, Route 17, Route 18, Route 25</category>
       <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 6th St to 12th St from Fri Nov 27 at 7:00 AM to Sat Nov 28 at 8:00 AM due to Winter Kick Off 2026 event. Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Hennepin &amp; 8th St Station - Stop #53099 (northbound); Nicollet Mall &amp; 5th St S - Stop #17996 (northbound). | Action: Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Hennepin &amp; 8th St Station - Stop #53099 (northbound); Nicollet Mall &amp; 5th St S - Stop #17996 (northbound)</description>
@@ -316,8 +343,8 @@
     <item>
       <title>[Moderate] Route 68, Route 75: Stop Closed at Robert St S &amp; Wentworth Ave</title>
       <link>https://www.metrotransit.org/route/68</link>
-      <guid isPermaLink="false">Metro Transit-55465-2026-11-20T17:40:30.000Z</guid>
-      <pubDate>Fri, 20 Nov 2026 17:40:30 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55465-2026-11-27T17:40:01.000Z</guid>
+      <pubDate>Fri, 27 Nov 2026 17:40:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 68, Route 75</category>
       <description>Robert St S &amp; Wentworth Ave - Stop #426 (northbound) is closed for Routes 68 and 75 until further notice due to construction. Board at: Robert St S &amp; Lothenbach Ave - Stop #425 (northbound); Robert St S &amp; Thompson Ave E - Stop #9859 (northbound). | Action: Board at: Robert St S &amp; Lothenbach Ave - Stop #425 (northbound); Robert St S &amp; Thompson Ave E - Stop #9859 (northbound)</description>

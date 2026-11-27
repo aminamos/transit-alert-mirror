@@ -1,68 +1,451 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-27T11:58:54.959Z",
-    "totalAlerts": 85,
-    "criticalCount": 2,
+    "generatedAt": "2026-11-27T21:05:36.363Z",
+    "totalAlerts": 88,
+    "criticalCount": 5,
     "moderateCount": 50,
     "minorCount": 33,
-    "affectedRoutesCount": 64,
+    "affectedRoutesCount": 66,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "55648",
+      "id": "55657",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO C Line: Northbound 5:27 AM Trip Canceled (7th St & Park Station)",
-      "summary": "Northbound C Line trip departing 7th St & Park Station at 5:27 AM canceled",
+      "title": "Route 30: Service Canceled",
+      "summary": "Route 30 trip departing Westgate Station - Gate B at 2:36 PM and five other trips canceled today",
       "affectedRoutes": [
-        "METRO C Line"
+        "Route 30"
       ],
-      "direction": "Northbound",
-      "intersections": [
-        "Northbound C Line trip departing 7th St & Park St"
-      ],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-27T11:27:00.000Z",
-        "end": "2026-11-27T12:53:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/cline",
-      "updatedAt": "2026-11-27T11:18:19.000Z",
-      "rawHeader": "Northbound C Line trip departing 7th St & Park Station at 5:27 AM canceled",
-      "rawDescription": ""
-    },
-    {
-      "id": "55647",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 888: Service Canceled",
-      "summary": "Southbound Route 888 trips departing Veterans Dr & Ramsey Park & Ride at 4:52 AM and departing Veterans Dr & Ramsey Park & Ride at 6:46 AM canceled today",
-      "affectedRoutes": [
-        "Route 888"
-      ],
-      "direction": "Southbound",
+      "direction": "Both Directions",
       "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-27T10:52:00.000Z",
-        "end": "2026-11-27T14:44:00.000Z"
+        "start": "2026-11-27T20:36:00.000Z",
+        "end": "2026-11-28T03:35:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/888",
-      "updatedAt": "2026-11-27T10:22:01.000Z",
-      "rawHeader": "Southbound Route 888 trips departing Veterans Dr & Ramsey P&R at 4:52 AM and departing Veterans Dr & Ramsey P&R at 6:46 AM canceled today",
+      "url": "https://www.metrotransit.org/route/30",
+      "updatedAt": "2026-11-27T20:24:04.000Z",
+      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 2:36 PM and five other trips canceled today",
+      "rawDescription": "Affected eastbound trips:\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 3:23 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 5:23 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 2:36 PM\r\ndeparting Westgate Station - Gate B at 4:36 PM\r\ndeparting Westgate Station - Gate B at 7:06 PM"
+    },
+    {
+      "id": "55659",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 87: Northbound 2:03 PM Trip Canceled (Davern St & Norfolk Ave / Shepard Rd)",
+      "summary": "Northbound Route 87 trip departing Davern St & Norfolk Ave / Shepard Rd at 2:03 PM canceled today due to disabled bus",
+      "affectedRoutes": [
+        "Route 87"
+      ],
+      "direction": "Northbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-27T20:27:00.000Z",
+        "end": "2026-11-27T21:49:00.000Z"
+      },
+      "cause": "TECHNICAL_PROBLEM",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/87",
+      "updatedAt": "2026-11-27T20:27:33.000Z",
+      "rawHeader": "Northbound Route 87 trip departing Davern St & Norfolk Ave / Shepard Rd at 2:03 PM canceled today due to disabled bus",
+      "rawDescription": ""
+    },
+    {
+      "id": "55656",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 540: Service Canceled",
+      "summary": "Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 2:02 PM and departing Normandale Lake Blvd & 83rd St / 84th St at 3:32 PM canceled today",
+      "affectedRoutes": [
+        "Route 540"
+      ],
+      "direction": "All",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-27T20:02:00.000Z",
+        "end": "2026-11-27T23:11:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/540",
+      "updatedAt": "2026-11-27T19:35:57.000Z",
+      "rawHeader": "Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 2:02 PM and departing Normandale Lake Blvd & 83rd St / 84th St at 3:32 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "55655",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 542: Service Canceled",
+      "summary": "Route 542 trips departing MOA Transit Station Gate G at 1:37 PM and departing MOA Transit Station Gate G at 3:06 PM canceled today",
+      "affectedRoutes": [
+        "Route 542"
+      ],
+      "direction": "All",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-27T19:37:00.000Z",
+        "end": "2026-11-27T22:31:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/542",
+      "updatedAt": "2026-11-27T19:35:23.000Z",
+      "rawHeader": "Route 542 trips departing MOA Transit Station Gate G at 1:37 PM and departing MOA Transit Station Gate G at 3:06 PM canceled today",
+      "rawDescription": ""
+    },
+    {
+      "id": "55658",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 705, Route 705A: Southbound 1:46 PM Trip Canceled (Modern Rd & Quebec Ave N)",
+      "summary": "Southbound Route 705A trip departing Modern Rd & Quebec Ave N at 1:46 PM canceled today due to collision",
+      "affectedRoutes": [
+        "Route 705",
+        "Route 705A"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [
+        "52092",
+        "8512",
+        "8518",
+        "8520",
+        "8524",
+        "8526",
+        "8528",
+        "8530",
+        "8532",
+        "8535",
+        "8539",
+        "8541",
+        "8543",
+        "8546",
+        "8547",
+        "8551",
+        "8553",
+        "8555",
+        "8559",
+        "8563",
+        "8565",
+        "8567",
+        "8571",
+        "56999",
+        "57002",
+        "57003",
+        "57009",
+        "53713",
+        "53714",
+        "53715",
+        "53716",
+        "56069",
+        "52552",
+        "52744",
+        "53202",
+        "53203",
+        "53204",
+        "53232",
+        "53233",
+        "51380",
+        "41658",
+        "41660",
+        "2925",
+        "2926",
+        "2928",
+        "44069",
+        "44070",
+        "44071",
+        "44072",
+        "44073",
+        "44074",
+        "44259",
+        "44261",
+        "44262",
+        "44263",
+        "44264",
+        "44265",
+        "44266",
+        "44267",
+        "44268",
+        "44269",
+        "44280",
+        "44281",
+        "44282",
+        "44301",
+        "44302",
+        "44303",
+        "44305",
+        "44306",
+        "44307",
+        "44308",
+        "45352",
+        "45353",
+        "47773",
+        "19554",
+        "19557"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "52092"
+        },
+        {
+          "id": "8512"
+        },
+        {
+          "id": "8518"
+        },
+        {
+          "id": "8520"
+        },
+        {
+          "id": "8524"
+        },
+        {
+          "id": "8526"
+        },
+        {
+          "id": "8528"
+        },
+        {
+          "id": "8530"
+        },
+        {
+          "id": "8532"
+        },
+        {
+          "id": "8535"
+        },
+        {
+          "id": "8539"
+        },
+        {
+          "id": "8541"
+        },
+        {
+          "id": "8543"
+        },
+        {
+          "id": "8546"
+        },
+        {
+          "id": "8547"
+        },
+        {
+          "id": "8551"
+        },
+        {
+          "id": "8553"
+        },
+        {
+          "id": "8555"
+        },
+        {
+          "id": "8559"
+        },
+        {
+          "id": "8563"
+        },
+        {
+          "id": "8565"
+        },
+        {
+          "id": "8567"
+        },
+        {
+          "id": "8571"
+        },
+        {
+          "id": "56999"
+        },
+        {
+          "id": "57002"
+        },
+        {
+          "id": "57003"
+        },
+        {
+          "id": "57009"
+        },
+        {
+          "id": "53713"
+        },
+        {
+          "id": "53714"
+        },
+        {
+          "id": "53715"
+        },
+        {
+          "id": "53716"
+        },
+        {
+          "id": "56069"
+        },
+        {
+          "id": "52552"
+        },
+        {
+          "id": "52744"
+        },
+        {
+          "id": "53202"
+        },
+        {
+          "id": "53203"
+        },
+        {
+          "id": "53204"
+        },
+        {
+          "id": "53232"
+        },
+        {
+          "id": "53233"
+        },
+        {
+          "id": "51380"
+        },
+        {
+          "id": "41658"
+        },
+        {
+          "id": "41660"
+        },
+        {
+          "id": "2925"
+        },
+        {
+          "id": "2926"
+        },
+        {
+          "id": "2928"
+        },
+        {
+          "id": "44069"
+        },
+        {
+          "id": "44070"
+        },
+        {
+          "id": "44071"
+        },
+        {
+          "id": "44072"
+        },
+        {
+          "id": "44073"
+        },
+        {
+          "id": "44074"
+        },
+        {
+          "id": "44259"
+        },
+        {
+          "id": "44261"
+        },
+        {
+          "id": "44262"
+        },
+        {
+          "id": "44263"
+        },
+        {
+          "id": "44264"
+        },
+        {
+          "id": "44265"
+        },
+        {
+          "id": "44266"
+        },
+        {
+          "id": "44267"
+        },
+        {
+          "id": "44268"
+        },
+        {
+          "id": "44269"
+        },
+        {
+          "id": "44280"
+        },
+        {
+          "id": "44281"
+        },
+        {
+          "id": "44282"
+        },
+        {
+          "id": "44301"
+        },
+        {
+          "id": "44302"
+        },
+        {
+          "id": "44303"
+        },
+        {
+          "id": "44305"
+        },
+        {
+          "id": "44306"
+        },
+        {
+          "id": "44307"
+        },
+        {
+          "id": "44308"
+        },
+        {
+          "id": "45352"
+        },
+        {
+          "id": "45353"
+        },
+        {
+          "id": "47773"
+        },
+        {
+          "id": "19554"
+        },
+        {
+          "id": "19557"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-27T20:21:00.000Z",
+        "end": "2026-11-27T21:22:00.000Z"
+      },
+      "cause": "ACCIDENT",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/705",
+      "updatedAt": "2026-11-27T20:24:40.000Z",
+      "rawHeader": "Southbound Route 705A trip departing Modern Rd & Quebec Ave N at 1:46 PM canceled today due to collision",
       "rawDescription": ""
     },
     {
@@ -92,6 +475,42 @@
       "updatedAt": "2026-09-28T08:00:01.000Z",
       "rawHeader": "METRO A Line detoured off 46th St from Hiawatha Ave to 36th Ave S beginning Mon Sep 21 until further notice due to construction",
       "rawDescription": "No stops missed.\r\n\nNorthbound buses will depart 46th St Station and turn right on 46th St, right on 34th Ave S, right on 42nd St, right on Hiawatha Ave, left on 46th St, and resume regular route.\r\n\nSouthbound buses will travel regular route on 46th St to Hiawatha Ave, right on Hiawatha, left on 42nd St, left on 34th Ave S, left on 46th St, left on 36th Ave S into 46th St Station, and resume regular route."
+    },
+    {
+      "id": "52271",
+      "agency": "Metro Transit",
+      "severity": "Moderate",
+      "title": "METRO Blue Line, METRO Green Line: Service Advisory",
+      "summary": "METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 11/29 from 9am - 5pm",
+      "affectedRoutes": [
+        "METRO Blue Line",
+        "METRO Green Line"
+      ],
+      "direction": "Both Directions",
+      "intersections": [],
+      "closedStopIds": [
+        "56330",
+        "56338"
+      ],
+      "closedStopDetails": [
+        {
+          "id": "56330"
+        },
+        {
+          "id": "56338"
+        }
+      ],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-29T15:00:00.000Z",
+        "end": "2026-11-29T23:00:00.000Z"
+      },
+      "cause": "OTHER_CAUSE",
+      "effect": "OTHER_EFFECT",
+      "updatedAt": "2026-11-27T15:00:01.000Z",
+      "rawHeader": "METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 11/29 from 9am - 5pm",
+      "rawDescription": "Due to street closures around U.S. Bank Stadium Station during the Vikings game, please transfer between the METRO Blue and Green lines at Government Plaza Station instead.\r\n\nAffected stops:\r\nU.S. Bank Stadium Station (eastbound)\r\nU.S. Bank Stadium Station (northbound)\r\nU.S. Bank Stadium Station (southbound)\r\nU.S. Bank Stadium Station (westbound)"
     },
     {
       "id": "54762",
@@ -360,45 +779,6 @@
       "rawDescription": "For eastbound Route 3 get on/off buses at:\r\nMaryland Ave & Western Ave - Stop #5567 (eastbound)\r\nTemporary stop on Maryland Ave & Matilda St (eastbound)\r\nTemporary stop on Galtier St & Cook Ave (southbound)\r\nTemporary stop on Galtier St & Front Ave (southbound)\r\nTemporary stop on Galtier St & Atwater St (southbound)\r\nComo Ave & Rice St - Stop #973 (eastbound)\r\nRice St & Charles Ave - Stop #974 (southbound)\r\n\nFor westbound Route 3 get on/off buses at:\r\nRice St & Charles Ave - Stop #10488 (northbound)\r\nComo Ave & Rice St - Stop #49895 (westbound)\r\nTemporary stop on Atwater St & Galtier St (eastbound)\r\nTemporary stop on Galtier St & Front Ave (northbound)\r\nTemporary stop on Matilda St & Maryland Ave (northbound)\r\nMaryland Ave & Western Ave - Stop #5583 (westbound)\r\n\nEastbound 3A buses will travel regular route on Maryland Ave to Matilda St, right on Matilda, left on Jessamine Ave, right on Galtier St, right on Atwater St, left on Western Ave, left on Como Ave, right on Rice St, and resume regular route.\r\n\nWestbound 3A buses will travel regular route on Rice St to Como Ave, left on Como, right on Western Ave, right on Atwater St, left on Galtier St, left on Jessamine Ave, right on Matilda St, left on Maryland Ave, and resume regular route.\r\n\nAffected stops:\r\nMaryland Ave & Galtier St - Stop #5571 (eastbound)\r\nMaryland Ave & Rice St - Stop #5575 (eastbound)\r\nRice St & Geranium Ave - Stop #10473 (southbound)\r\nRice St & Lawson Ave - Stop #10476 (southbound)\r\nRice St & Litchfield St - Stop #10479 (southbound)\r\nRice St & Milford St - Stop #10480 (southbound)\r\nRice St & Sycamore St - Stop #10482 (southbound)\r\nRice St & Pennsylvania Ave - Stop #10483 (southbound)\r\nRice St & Como Ave - Stop #10484 (southbound)\r\nRice St & Como Ave - Stop #10489 (northbound)\r\nRice St & Pennsylvania Ave - Stop #10490 (northbound)\r\nRice St & Sycamore St - Stop #10491 (northbound)\r\nRice St & Manitoba Ave - Stop #10494 (northbound)\r\nRice St & Front Ave - Stop #10496 (northbound)\r\nRice St & Lawson Ave - Stop #10498 (northbound)\r\nRice St & Geranium Ave - Stop #10501 (northbound)\r\nMaryland Ave & Rice St - Stop #47074 (westbound)\r\nMaryland Ave & Galtier St - Stop #5579 (westbound)"
     },
     {
-      "id": "55405",
-      "agency": "Metro Transit",
-      "severity": "Moderate",
-      "title": "Route 3, Route 62, Route 67: Stop Closed at Rice St & University Ave",
-      "summary": "Rice St & University Ave - Stop #975 (southbound) is closed for Routes 3, 62 and 67 until further notice due to construction. Board at: Rice St & Charles Ave - Stop #974 (southbound); Rice St & Aurora/Rondo Ave - Stop #11896 (southbound).",
-      "affectedRoutes": [
-        "Route 3",
-        "Route 62",
-        "Route 67"
-      ],
-      "direction": "Southbound",
-      "intersections": [
-        "Rice St & University Ave",
-        "Rice St & Charles Ave"
-      ],
-      "closedStopIds": [
-        "11896",
-        "975"
-      ],
-      "closedStopDetails": [
-        {
-          "id": "11896"
-        },
-        {
-          "id": "975"
-        }
-      ],
-      "riderAlternative": "Board at: Rice St & Charles Ave - Stop #974 (southbound); Rice St & Aurora/Rondo Ave - Stop #11896 (southbound)",
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-18T22:04:00.000Z"
-      },
-      "cause": "CONSTRUCTION",
-      "effect": "NO_SERVICE",
-      "updatedAt": "2026-11-25T22:04:01.000Z",
-      "rawHeader": "Rice St & University Ave - Stop #975 (southbound) is closed for Routes 3, 62 and 67 until further notice due to construction",
-      "rawDescription": "Get on/off buses at:\r\nRice St & Charles Ave - Stop #974 (southbound)\r\nRice St & Aurora/Rondo Ave - Stop #11896 (southbound)"
-    },
-    {
       "id": "52942",
       "agency": "Metro Transit",
       "severity": "Moderate",
@@ -662,7 +1042,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/10",
-      "updatedAt": "2026-11-27T06:00:01.000Z",
+      "updatedAt": "2026-11-27T12:30:02.000Z",
       "rawHeader": "Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 6th St to 12th St from Fri Nov 27 at 7:00 AM to Sat Nov 28 at 8:00 AM due to Winter Kick Off 2026 event",
       "rawDescription": "Get on/off northbound/eastbound buses at:\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nHennepin & 8th St Station - Stop #53099 (northbound)\r\nNicollet Mall & 5th St S - Stop #17996 (northbound)\r\n\nGet on/off southbound/westbound buses at:\r\nNicollet Mall & 7th St S - Stop #17980 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17986 (southbound)\r\n\nNorthbound/eastbound buses will travel regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Hennepin Ave, right on 6th St, left on Nicollet Mall, and resume regular route.\r\n\nSouthbound/westbound buses will travel regular route on Nicollet Mall to 7th St, right on 7th St, left on Hennepin Ave, left on 12th St, right on Nicollet Mall, and resume regular route.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\nNicollet Mall & 7th St S - Stop #17994 (northbound)\r\nNicollet Mall & 9th St S - Stop #17982 (southbound)\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)"
     },
@@ -1306,23 +1686,23 @@
         "10291",
         "11850",
         "43282",
-        "81118",
-        "81106",
+        "53982",
+        "53984",
         "80817",
         "80939",
         "80956",
         "80957",
-        "53982",
-        "53984",
-        "53983",
-        "53981",
-        "80958",
+        "81118",
+        "81106",
+        "81105",
         "80959",
         "80997",
         "81104",
-        "81105",
+        "80958",
         "80715",
-        "80716"
+        "80716",
+        "53983",
+        "53981"
       ],
       "closedStopDetails": [
         {
@@ -1359,10 +1739,10 @@
           "id": "43282"
         },
         {
-          "id": "81118"
+          "id": "53982"
         },
         {
-          "id": "81106"
+          "id": "53984"
         },
         {
           "id": "80817"
@@ -1377,19 +1757,13 @@
           "id": "80957"
         },
         {
-          "id": "53982"
+          "id": "81118"
         },
         {
-          "id": "53984"
+          "id": "81106"
         },
         {
-          "id": "53983"
-        },
-        {
-          "id": "53981"
-        },
-        {
-          "id": "80958"
+          "id": "81105"
         },
         {
           "id": "80959"
@@ -1401,13 +1775,19 @@
           "id": "81104"
         },
         {
-          "id": "81105"
+          "id": "80958"
         },
         {
           "id": "80715"
         },
         {
           "id": "80716"
+        },
+        {
+          "id": "53983"
+        },
+        {
+          "id": "53981"
         }
       ],
       "riderAlternative": "Board at: 5th St E & Sibley St - Stop #11839 (eastbound); 7th St E & Wall St - Stop #57215 (eastbound); 7th St E & Maria Ave - Stop #11849 (eastbound)",
@@ -1547,20 +1927,20 @@
         "10247",
         "13794",
         "13798",
-        "81105",
-        "80959",
-        "81104",
-        "80958",
         "53981",
         "53983",
-        "53984",
-        "53982",
-        "80956",
+        "80958",
+        "81104",
+        "80959",
+        "81105",
         "80957",
+        "81118",
+        "81106",
+        "80956",
         "80817",
         "80939",
-        "81106",
-        "81118"
+        "53984",
+        "53982"
       ],
       "closedStopDetails": [
         {
@@ -1648,34 +2028,34 @@
           "id": "13798"
         },
         {
-          "id": "81105"
-        },
-        {
-          "id": "80959"
-        },
-        {
-          "id": "81104"
-        },
-        {
-          "id": "80958"
-        },
-        {
           "id": "53981"
         },
         {
           "id": "53983"
         },
         {
-          "id": "53984"
+          "id": "80958"
         },
         {
-          "id": "53982"
+          "id": "81104"
         },
         {
-          "id": "80956"
+          "id": "80959"
+        },
+        {
+          "id": "81105"
         },
         {
           "id": "80957"
+        },
+        {
+          "id": "81118"
+        },
+        {
+          "id": "81106"
+        },
+        {
+          "id": "80956"
         },
         {
           "id": "80817"
@@ -1684,10 +2064,10 @@
           "id": "80939"
         },
         {
-          "id": "81106"
+          "id": "53984"
         },
         {
-          "id": "81118"
+          "id": "53982"
         }
       ],
       "riderAlternative": "Board at: Arcade St & Magnolia Ave - Stop #13823 (southbound); Arcade St & Case Ave - Stop #13827 (southbound); Arcade St & York Ave - Stop #10288 (southbound)",
@@ -2330,7 +2710,7 @@
       "cause": "CONSTRUCTION",
       "effect": "NO_SERVICE",
       "url": "https://www.metrotransit.org/route/68",
-      "updatedAt": "2026-11-20T17:40:30.000Z",
+      "updatedAt": "2026-11-27T17:40:01.000Z",
       "rawHeader": "Robert St S & Wentworth Ave - Stop #426 (northbound) is closed for Routes 68 and 75 until further notice due to construction",
       "rawDescription": "Get on/off buses at:\r\nRobert St S & Lothenbach Ave - Stop #425 (northbound)\r\nRobert St S & Thompson Ave E - Stop #9859 (northbound)"
     },
@@ -2501,18 +2881,18 @@
         "10247",
         "13794",
         "13798",
-        "81106",
-        "81118",
         "53984",
-        "81104",
+        "53982",
         "80956",
         "80957",
-        "53982",
-        "53983",
-        "53981",
+        "81106",
+        "81118",
+        "81104",
         "80958",
         "80959",
-        "80817"
+        "80817",
+        "53983",
+        "53981"
       ],
       "closedStopDetails": [
         {
@@ -2609,16 +2989,10 @@
           "id": "13798"
         },
         {
-          "id": "81106"
-        },
-        {
-          "id": "81118"
-        },
-        {
           "id": "53984"
         },
         {
-          "id": "81104"
+          "id": "53982"
         },
         {
           "id": "80956"
@@ -2627,13 +3001,13 @@
           "id": "80957"
         },
         {
-          "id": "53982"
+          "id": "81106"
         },
         {
-          "id": "53983"
+          "id": "81118"
         },
         {
-          "id": "53981"
+          "id": "81104"
         },
         {
           "id": "80958"
@@ -2643,6 +3017,12 @@
         },
         {
           "id": "80817"
+        },
+        {
+          "id": "53983"
+        },
+        {
+          "id": "53981"
         }
       ],
       "riderAlternative": "Board at: 5th St E & Sibley St - Stop #11839 (eastbound); 7th St E & Wall St - Stop #57215 (eastbound); 7th St E & Lafayette Rd - Stop #11845 (eastbound)",
