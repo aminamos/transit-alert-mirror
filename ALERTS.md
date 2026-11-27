@@ -2,54 +2,35 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-87-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
-[![Moderate](https://img.shields.io/badge/Moderate-52-orange)](#-moderate-detours--changes)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-84-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Moderate](https://img.shields.io/badge/Moderate-50-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-33-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-64-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-63-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-26T19:29:44.898Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-27T02:45:06.773Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO B Line** (2) • **METRO Blue Line** (1) • **METRO E Line** (2) • **METRO Gold Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (3) • **Route 10** (3) • **Route 11** (3) • **Route 14** (2) • **Route 17** (2) • **Route 18** (8) • **Route 22** (1) • **Route 25** (3) • **Route 27** (3) • **Route 30** (2) • **Route 32** (1) • **Route 36** (2) • **Route 38** (2) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 63** (2) • **Route 64** (3) • **Route 65** (1) • **Route 67** (5) • **Route 68** (4) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 225** (1) • **Route 227** (1) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 470** (1) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (2) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 686** (1) • **Route 724** (1) • **Route 801** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO E Line** (2) • **METRO Gold Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (8) • **Route 22** (1) • **Route 25** (3) • **Route 27** (3) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 38** (2) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 63** (2) • **Route 64** (3) • **Route 65** (1) • **Route 67** (5) • **Route 68** (4) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 225** (1) • **Route 227** (1) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 470** (1) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (2) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 686** (1) • **Route 724** (1) • **Route 801** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 METRO B Line: Eastbound 12:08 PM Trip Canceled (Lake St W & France Ave S)
+### 🚨 Route 9: Service Advisory
 
-- **Affected Routes**: `METRO B Line`
-- **Direction**: Eastbound
+- **Affected Routes**: `Route 9`
+- **Direction**: Westbound
 - **Severity**: `Critical`
+- **Closed Stops**: Stop #57459, Stop #57497, Stop #53941, Stop #53765, Stop #56137, Stop #56503, Stop #56504, Stop #56698 *(+43 more)*
 
-**Summary**: Eastbound B Line trip departing Lake St W & France Ave S at 12:08 PM canceled
+**Summary**: Westbound Route 9 trip departing 46th St Station at 6:35 PM will start at Glenwood & Lyndale. Previous stops missed
 
-[Official Agency Advisory](https://www.metrotransit.org/route/bline)
+[Official Agency Advisory](https://www.metrotransit.org/route/9)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Eastbound B Line trip departing Lake St W & France Ave S at 12:08 PM canceled
-
-</details>
-
----
-
-### 🚨 METRO B Line: Eastbound 12:55 PM Trip Canceled (Lake & Chicago Station)
-
-- **Affected Routes**: `METRO B Line`
-- **Direction**: Eastbound
-- **Severity**: `Critical`
-- **Closed Stops**: Stop #16884, Stop #16950, Stop #16971, Stop #16996, Stop #17022, Stop #17029, Stop #17307, Stop #11885 *(+17 more)*
-
-**Summary**: Eastbound B Line trip departing Lake & Chicago Station at 12:55 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/bline)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound B Line trip departing Lake & Chicago Station at 12:55 PM canceled today
+**Header**: Westbound Route 9 trip departing 46th St Station at 6:35 PM will start at Glenwood & Lyndale. Previous stops missed
 
 </details>
 
@@ -459,47 +440,6 @@ Nicollet Mall & 11th St S - Stop #17984 (southbound)
 
 ---
 
-### ⚠️ Route 14: Detour via 5th St & 4th St N
-
-- **Affected Routes**: `Route 14`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 5th St & 4th St N; West Broadway (Aldrich Ave to Lyndale Ave)
-- **Closed Stops**: West Broadway & Aldrich Ave N (Stop #8305), West Broadway & Lyndale Ave N (Stop #8308), Stop #8292, Stop #8312
-
-**Summary**: Southbound Route 14 detoured off West Broadway from Aldrich Ave to Lyndale Ave until later today. Board at: West Broadway & Emerson Ave N - Stop #8292 (eastbound); West Broadway & 5th St / 4th St N - Stop #8312 (eastbound).
-
-> 💡 **Rider Action**: Board at: West Broadway & Emerson Ave N - Stop #8292 (eastbound); West Broadway & 5th St / 4th St N - Stop #8312 (eastbound)
-
-> 🔄 **Detour Path**: Southbound buses will travel regular route on West Broadway to Aldrich Ave, left on Aldrich Ave, right 21st Ave, right on Lyndale Ave, left on West Broadway and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/14)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Southbound Route 14 detoured off West Broadway from Aldrich Ave to Lyndale Ave until later today
-
-```text
-Updated at 1:17 PM to revise detour.
-
-Get on/off buses at:
-West Broadway & Emerson Ave N - Stop #8292 (eastbound)
-West Broadway & 5th St / 4th St N - Stop #8312 (eastbound)
-
-Southbound buses will travel regular route on West Broadway to Aldrich Ave, left on Aldrich Ave, right 21st Ave, right on Lyndale Ave, left on West Broadway and resume regular route.
-
-Northbound buses will follow regular route.
-
-Affected stops:
-West Broadway & Aldrich Ave N - Stop #8305 (eastbound)
-West Broadway & Lyndale Ave N - Stop #8308 (eastbound)
-```
-
-</details>
-
----
-
 ### ⚠️ Route 18: Detour via Nicollet Ave S & 56th St E
 
 - **Affected Routes**: `Route 18`
@@ -762,45 +702,6 @@ Affected stops:
 Blaisdell Ave & 28th St W - Stop #80911 (southbound)
 Blaisdell Ave S & Lake St - Stop #14850 (southbound)
 26th St E & Nicollet Ave - Stop #80924 (westbound)
-```
-
-</details>
-
----
-
-### ⚠️ Route 30: Detour via 5th St & 4th St N
-
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
-- **Severity**: `Moderate`
-- **Corridors & Intersections**: 5th St & 4th St N; West Broadway (Aldrich Ave to Lyndale Ave)
-- **Closed Stops**: West Broadway & Aldrich Ave N (Stop #8305), West Broadway & Lyndale Ave N (Stop #8308), Stop #8292, Stop #8312
-
-**Summary**: Eastbound Route 30 detoured off West Broadway from Aldrich Ave to Lyndale Ave until later today due to non-transit related collision. Board at: West Broadway & Emerson Ave N - Stop #8292 (eastbound); West Broadway & 5th St / 4th St N - Stop #8312 (eastbound).
-
-> 💡 **Rider Action**: Board at: West Broadway & Emerson Ave N - Stop #8292 (eastbound); West Broadway & 5th St / 4th St N - Stop #8312 (eastbound)
-
-> 🔄 **Detour Path**: Eastbound buses will travel regular route on West Broadway to Aldrich Ave, left on Aldrich Ave, right 21st Ave, right on Lyndale Ave, left on West Broadway and resume regular route.
-
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Eastbound Route 30 detoured off West Broadway from Aldrich Ave to Lyndale Ave until later today due to non-transit related collision
-
-```text
-Get on/off buses at:
-West Broadway & Emerson Ave N - Stop #8292 (eastbound)
-West Broadway & 5th St / 4th St N - Stop #8312 (eastbound)
-
-Eastbound buses will travel regular route on West Broadway to Aldrich Ave, left on Aldrich Ave, right 21st Ave, right on Lyndale Ave, left on West Broadway and resume regular route.
-
-Westbound buses will follow regular route.
-
-Affected stops:
-West Broadway & Aldrich Ave N - Stop #8305 (eastbound)
-West Broadway & Lyndale Ave N - Stop #8308 (eastbound)
 ```
 
 </details>

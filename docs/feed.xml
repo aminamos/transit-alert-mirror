@@ -4,26 +4,17 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Thu, 26 Nov 2026 19:29:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 02:45:06 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO B Line: Eastbound 12:08 PM Trip Canceled (Lake St W &amp; France Ave S)</title>
-      <link>https://www.metrotransit.org/route/bline</link>
-      <guid isPermaLink="false">Metro Transit-55635-2026-11-26T17:55:26.000Z</guid>
-      <pubDate>Thu, 26 Nov 2026 17:55:26 GMT</pubDate>
+      <title>[Critical] Route 9: Service Advisory</title>
+      <link>https://www.metrotransit.org/route/9</link>
+      <guid isPermaLink="false">Metro Transit-55644-2026-11-27T02:44:01.000Z</guid>
+      <pubDate>Fri, 27 Nov 2026 02:44:01 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO B Line</category>
-      <description>Eastbound B Line trip departing Lake St W &amp; France Ave S at 12:08 PM canceled</description>
-    </item>
-    <item>
-      <title>[Critical] METRO B Line: Eastbound 12:55 PM Trip Canceled (Lake &amp; Chicago Station)</title>
-      <link>https://www.metrotransit.org/route/bline</link>
-      <guid isPermaLink="false">Metro Transit-55637-2026-11-26T19:11:19.000Z</guid>
-      <pubDate>Thu, 26 Nov 2026 19:11:19 GMT</pubDate>
-      <category>Critical</category>
-      <category>METRO B Line</category>
-      <description>Eastbound B Line trip departing Lake &amp; Chicago Station at 12:55 PM canceled today</description>
+      <category>Route 9</category>
+      <description>Westbound Route 9 trip departing 46th St Station at 6:35 PM will start at Glenwood &amp; Lyndale. Previous stops missed</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -125,15 +116,6 @@
       <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 6th St to 12th St from Fri Nov 27 at 7:00 AM to Sat Nov 28 at 8:00 AM due to Winter Kick Off 2026 event. Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Hennepin &amp; 8th St Station - Stop #53099 (northbound); Nicollet Mall &amp; 5th St S - Stop #17996 (northbound). | Action: Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Hennepin &amp; 8th St Station - Stop #53099 (northbound); Nicollet Mall &amp; 5th St S - Stop #17996 (northbound)</description>
     </item>
     <item>
-      <title>[Moderate] Route 14: Detour via 5th St &amp; 4th St N</title>
-      <link>https://www.metrotransit.org/route/14</link>
-      <guid isPermaLink="false">Metro Transit-55636-2026-11-26T19:18:13.000Z</guid>
-      <pubDate>Thu, 26 Nov 2026 19:18:13 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 14</category>
-      <description>Southbound Route 14 detoured off West Broadway from Aldrich Ave to Lyndale Ave until later today. Board at: West Broadway &amp; Emerson Ave N - Stop #8292 (eastbound); West Broadway &amp; 5th St / 4th St N - Stop #8312 (eastbound). | Action: Board at: West Broadway &amp; Emerson Ave N - Stop #8292 (eastbound); West Broadway &amp; 5th St / 4th St N - Stop #8312 (eastbound)</description>
-    </item>
-    <item>
       <title>[Moderate] Route 18: Detour via Nicollet Ave S &amp; 56th St E</title>
       <link>https://www.metrotransit.org/route/18</link>
       <guid isPermaLink="false">Metro Transit-48754-2026-09-03T18:13:08.000Z</guid>
@@ -186,15 +168,6 @@
       <category>Moderate</category>
       <category>Route 27</category>
       <description>Route 27 returns to Nicollet Ave between Lake St and Cecil Newman Ln beginning Tue Nov 24 at 11:00 AM. Board at: Lake St W &amp; Grand Ave S - Stop #16841 (eastbound); Nicollet Ave S &amp; Lake St E - Stop #52937 (northbound); Nicollet Ave S &amp; 28th St E - Stop #1890 (northbound). | Action: Board at: Lake St W &amp; Grand Ave S - Stop #16841 (eastbound); Nicollet Ave S &amp; Lake St E - Stop #52937 (northbound); Nicollet Ave S &amp; 28th St E - Stop #1890 (northbound)</description>
-    </item>
-    <item>
-      <title>[Moderate] Route 30: Detour via 5th St &amp; 4th St N</title>
-      <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-55638-2026-11-26T19:26:39.000Z</guid>
-      <pubDate>Thu, 26 Nov 2026 19:26:39 GMT</pubDate>
-      <category>Moderate</category>
-      <category>Route 30</category>
-      <description>Eastbound Route 30 detoured off West Broadway from Aldrich Ave to Lyndale Ave until later today due to non-transit related collision. Board at: West Broadway &amp; Emerson Ave N - Stop #8292 (eastbound); West Broadway &amp; 5th St / 4th St N - Stop #8312 (eastbound). | Action: Board at: West Broadway &amp; Emerson Ave N - Stop #8292 (eastbound); West Broadway &amp; 5th St / 4th St N - Stop #8312 (eastbound)</description>
     </item>
     <item>
       <title>[Moderate] Route 36, Route 538, Route 578: Stop Closed at York Ave S &amp; Hazelton Rd</title>
