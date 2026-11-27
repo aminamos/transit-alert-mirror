@@ -4,17 +4,26 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Fri, 27 Nov 2026 02:45:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 11:58:54 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 9: Service Advisory</title>
-      <link>https://www.metrotransit.org/route/9</link>
-      <guid isPermaLink="false">Metro Transit-55644-2026-11-27T02:44:01.000Z</guid>
-      <pubDate>Fri, 27 Nov 2026 02:44:01 GMT</pubDate>
+      <title>[Critical] METRO C Line: Northbound 5:27 AM Trip Canceled (7th St &amp; Park Station)</title>
+      <link>https://www.metrotransit.org/route/cline</link>
+      <guid isPermaLink="false">Metro Transit-55648-2026-11-27T11:18:19.000Z</guid>
+      <pubDate>Fri, 27 Nov 2026 11:18:19 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 9</category>
-      <description>Westbound Route 9 trip departing 46th St Station at 6:35 PM will start at Glenwood &amp; Lyndale. Previous stops missed</description>
+      <category>METRO C Line</category>
+      <description>Northbound C Line trip departing 7th St &amp; Park Station at 5:27 AM canceled</description>
+    </item>
+    <item>
+      <title>[Critical] Route 888: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/888</link>
+      <guid isPermaLink="false">Metro Transit-55647-2026-11-27T10:22:01.000Z</guid>
+      <pubDate>Fri, 27 Nov 2026 10:22:01 GMT</pubDate>
+      <category>Critical</category>
+      <category>Route 888</category>
+      <description>Southbound Route 888 trips departing Veterans Dr &amp; Ramsey Park &amp; Ride at 4:52 AM and departing Veterans Dr &amp; Ramsey Park &amp; Ride at 6:46 AM canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -109,8 +118,8 @@
     <item>
       <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor</title>
       <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-55553-2026-11-26T06:00:01.000Z</guid>
-      <pubDate>Thu, 26 Nov 2026 06:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55553-2026-11-27T06:00:01.000Z</guid>
+      <pubDate>Fri, 27 Nov 2026 06:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 10, Route 11, Route 17, Route 18, Route 25</category>
       <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 6th St to 12th St from Fri Nov 27 at 7:00 AM to Sat Nov 28 at 8:00 AM due to Winter Kick Off 2026 event. Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Hennepin &amp; 8th St Station - Stop #53099 (northbound); Nicollet Mall &amp; 5th St S - Stop #17996 (northbound). | Action: Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Hennepin &amp; 8th St Station - Stop #53099 (northbound); Nicollet Mall &amp; 5th St S - Stop #17996 (northbound)</description>

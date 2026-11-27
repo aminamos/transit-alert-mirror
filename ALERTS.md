@@ -2,35 +2,54 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-84-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-1-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-85-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-50-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-33-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-63-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-64-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-27T02:45:06.773Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-27T11:58:54.959Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO E Line** (2) • **METRO Gold Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (4) • **Route 10** (3) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (8) • **Route 22** (1) • **Route 25** (3) • **Route 27** (3) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 38** (2) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 63** (2) • **Route 64** (3) • **Route 65** (1) • **Route 67** (5) • **Route 68** (4) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 225** (1) • **Route 227** (1) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 470** (1) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (2) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 686** (1) • **Route 724** (1) • **Route 801** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO Blue Line** (1) • **METRO C Line** (1) • **METRO E Line** (2) • **METRO Gold Line** (1) • **Route 2** (1) • **Route 3** (2) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (3) • **Route 10** (3) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (8) • **Route 22** (1) • **Route 25** (3) • **Route 27** (3) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 38** (2) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (3) • **Route 63** (2) • **Route 64** (3) • **Route 65** (1) • **Route 67** (5) • **Route 68** (4) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 225** (1) • **Route 227** (1) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 470** (1) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (2) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 686** (1) • **Route 724** (1) • **Route 801** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (2)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 9: Service Advisory
+### 🚨 METRO C Line: Northbound 5:27 AM Trip Canceled (7th St & Park Station)
 
-- **Affected Routes**: `Route 9`
-- **Direction**: Westbound
+- **Affected Routes**: `METRO C Line`
+- **Direction**: Northbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #57459, Stop #57497, Stop #53941, Stop #53765, Stop #56137, Stop #56503, Stop #56504, Stop #56698 *(+43 more)*
+- **Corridors & Intersections**: Northbound C Line trip departing 7th St & Park St
 
-**Summary**: Westbound Route 9 trip departing 46th St Station at 6:35 PM will start at Glenwood & Lyndale. Previous stops missed
+**Summary**: Northbound C Line trip departing 7th St & Park Station at 5:27 AM canceled
 
-[Official Agency Advisory](https://www.metrotransit.org/route/9)
+[Official Agency Advisory](https://www.metrotransit.org/route/cline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Westbound Route 9 trip departing 46th St Station at 6:35 PM will start at Glenwood & Lyndale. Previous stops missed
+**Header**: Northbound C Line trip departing 7th St & Park Station at 5:27 AM canceled
+
+</details>
+
+---
+
+### 🚨 Route 888: Service Canceled
+
+- **Affected Routes**: `Route 888`
+- **Direction**: Southbound
+- **Severity**: `Critical`
+
+**Summary**: Southbound Route 888 trips departing Veterans Dr & Ramsey Park & Ride at 4:52 AM and departing Veterans Dr & Ramsey Park & Ride at 6:46 AM canceled today
+
+[Official Agency Advisory](https://www.metrotransit.org/route/888)
+
+<details>
+<summary>Raw Dispatcher Message</summary>
+
+**Header**: Southbound Route 888 trips departing Veterans Dr & Ramsey P&R at 4:52 AM and departing Veterans Dr & Ramsey P&R at 6:46 AM canceled today
 
 </details>
 
