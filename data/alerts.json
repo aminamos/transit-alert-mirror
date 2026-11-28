@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-28T03:49:37.980Z",
-    "totalAlerts": 85,
-    "criticalCount": 2,
+    "generatedAt": "2026-11-28T12:51:42.364Z",
+    "totalAlerts": 84,
+    "criticalCount": 1,
     "moderateCount": 50,
     "minorCount": 33,
     "affectedRoutesCount": 65,
@@ -12,138 +12,32 @@
   },
   "alerts": [
     {
-      "id": "55676",
+      "id": "55678",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "METRO D Line: Northbound 7:43 PM Trip Canceled (MOA Transit Station Gate A)",
-      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 7:43 PM canceled today due to maintenance work",
+      "title": "METRO C Line: Service Canceled",
+      "summary": "C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 5:15 AM and two other trips canceled today",
       "affectedRoutes": [
-        "METRO D Line"
+        "METRO C Line"
       ],
-      "direction": "Northbound",
-      "intersections": [],
-      "closedStopIds": [
-        "9089",
-        "9263",
-        "9646",
-        "9658",
-        "8919",
-        "8920",
-        "8935",
-        "8945",
-        "8948",
-        "56823",
-        "56929",
-        "56930",
-        "56949",
-        "56950",
-        "56951",
-        "43275",
-        "17897",
-        "17900",
-        "17902",
-        "17903"
+      "direction": "Both Directions",
+      "intersections": [
+        "departing 7th St & Park St"
       ],
-      "closedStopDetails": [
-        {
-          "id": "9089"
-        },
-        {
-          "id": "9263"
-        },
-        {
-          "id": "9646"
-        },
-        {
-          "id": "9658"
-        },
-        {
-          "id": "8919"
-        },
-        {
-          "id": "8920"
-        },
-        {
-          "id": "8935"
-        },
-        {
-          "id": "8945"
-        },
-        {
-          "id": "8948"
-        },
-        {
-          "id": "56823"
-        },
-        {
-          "id": "56929"
-        },
-        {
-          "id": "56930"
-        },
-        {
-          "id": "56949"
-        },
-        {
-          "id": "56950"
-        },
-        {
-          "id": "56951"
-        },
-        {
-          "id": "43275"
-        },
-        {
-          "id": "17897"
-        },
-        {
-          "id": "17900"
-        },
-        {
-          "id": "17902"
-        },
-        {
-          "id": "17903"
-        }
-      ],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-28T02:41:00.000Z",
-        "end": "2026-11-28T03:55:00.000Z"
-      },
-      "cause": "MAINTENANCE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/dline",
-      "updatedAt": "2026-11-28T02:42:04.000Z",
-      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 7:43 PM canceled today due to maintenance work",
-      "rawDescription": ""
-    },
-    {
-      "id": "55675",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 18: Southbound 7:48 PM Trip Canceled (4th Ave S & 3rd St S)",
-      "summary": "Southbound Route 18 trip departing 4th Ave S & 3rd St S at 7:48 PM canceled",
-      "affectedRoutes": [
-        "Route 18"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
       "closedStopIds": [],
       "closedStopDetails": [],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-28T02:17:00.000Z",
-        "end": "2026-11-28T03:59:00.000Z"
+        "start": "2026-11-28T11:15:00.000Z",
+        "end": "2026-11-28T14:28:00.000Z"
       },
       "cause": "UNKNOWN_CAUSE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/18",
-      "updatedAt": "2026-11-28T02:17:36.000Z",
-      "rawHeader": "Southbound Route 18 trip departing 4th Ave S & 3rd St S at 7:48 PM canceled",
-      "rawDescription": ""
+      "url": "https://www.metrotransit.org/route/cline",
+      "updatedAt": "2026-11-28T10:50:02.000Z",
+      "rawHeader": "C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 5:15 AM and two other trips canceled today",
+      "rawDescription": "Affected northbound trips:\r\ndeparting 7th St & Park Station at 6:07 AM\r\n\nAffected southbound trips:\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 5:15 AM\r\ndeparting Brooklyn Ctr Transit Ctr Gate I at 6:57 AM"
     },
     {
       "id": "52943",
@@ -205,7 +99,7 @@
       },
       "cause": "OTHER_CAUSE",
       "effect": "OTHER_EFFECT",
-      "updatedAt": "2026-11-27T15:00:01.000Z",
+      "updatedAt": "2026-11-28T06:00:01.000Z",
       "rawHeader": "METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 11/29 from 9am - 5pm",
       "rawDescription": "Due to street closures around U.S. Bank Stadium Station during the Vikings game, please transfer between the METRO Blue and Green lines at Government Plaza Station instead.\r\n\nAffected stops:\r\nU.S. Bank Stadium Station (eastbound)\r\nU.S. Bank Stadium Station (northbound)\r\nU.S. Bank Stadium Station (southbound)\r\nU.S. Bank Stadium Station (westbound)"
     },
@@ -739,7 +633,7 @@
       "cause": "OTHER_CAUSE",
       "effect": "DETOUR",
       "url": "https://www.metrotransit.org/route/10",
-      "updatedAt": "2026-11-27T12:30:02.000Z",
+      "updatedAt": "2026-11-28T06:00:01.000Z",
       "rawHeader": "Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 6th St to 12th St from Fri Nov 27 at 7:00 AM to Sat Nov 28 at 8:00 AM due to Winter Kick Off 2026 event",
       "rawDescription": "Get on/off northbound/eastbound buses at:\r\nNicollet Mall & Alice Rainville Pl - Stop #17988 (northbound)\r\nHennepin & 8th St Station - Stop #53099 (northbound)\r\nNicollet Mall & 5th St S - Stop #17996 (northbound)\r\n\nGet on/off southbound/westbound buses at:\r\nNicollet Mall & 7th St S - Stop #17980 (southbound)\r\nNicollet Mall & Alice Rainville Place - Stop #17986 (southbound)\r\n\nNorthbound/eastbound buses will travel regular route on Nicollet Mall to 12th St, right on 12th St, left on Marquette Ave, left on 11th St, right on Hennepin Ave, right on 6th St, left on Nicollet Mall, and resume regular route.\r\n\nSouthbound/westbound buses will travel regular route on Nicollet Mall to 7th St, right on 7th St, left on Hennepin Ave, left on 12th St, right on Nicollet Mall, and resume regular route.\r\n\nAffected stops:\r\nNicollet Mall & 11th St S - Stop #17990 (northbound)\r\nNicollet Mall & 9th St S - Stop #17992 (northbound)\r\nNicollet Mall & 7th St S - Stop #17994 (northbound)\r\nNicollet Mall & 9th St S - Stop #17982 (southbound)\r\nNicollet Mall & 11th St S - Stop #17984 (southbound)"
     },
@@ -1383,23 +1277,23 @@
         "10291",
         "11850",
         "43282",
-        "53982",
+        "81118",
+        "81106",
         "53984",
         "80817",
         "80939",
         "80956",
         "80957",
-        "81106",
-        "81118",
-        "81105",
-        "80959",
-        "80997",
-        "81104",
+        "53982",
+        "53983",
+        "53981",
         "80958",
         "80715",
         "80716",
-        "53983",
-        "53981"
+        "80959",
+        "80997",
+        "81104",
+        "81105"
       ],
       "closedStopDetails": [
         {
@@ -1436,7 +1330,10 @@
           "id": "43282"
         },
         {
-          "id": "53982"
+          "id": "81118"
+        },
+        {
+          "id": "81106"
         },
         {
           "id": "53984"
@@ -1454,22 +1351,13 @@
           "id": "80957"
         },
         {
-          "id": "81106"
+          "id": "53982"
         },
         {
-          "id": "81118"
+          "id": "53983"
         },
         {
-          "id": "81105"
-        },
-        {
-          "id": "80959"
-        },
-        {
-          "id": "80997"
-        },
-        {
-          "id": "81104"
+          "id": "53981"
         },
         {
           "id": "80958"
@@ -1481,10 +1369,16 @@
           "id": "80716"
         },
         {
-          "id": "53983"
+          "id": "80959"
         },
         {
-          "id": "53981"
+          "id": "80997"
+        },
+        {
+          "id": "81104"
+        },
+        {
+          "id": "81105"
         }
       ],
       "riderAlternative": "Board at: 5th St E & Sibley St - Stop #11839 (eastbound); 7th St E & Wall St - Stop #57215 (eastbound); 7th St E & Maria Ave - Stop #11849 (eastbound)",
@@ -1624,20 +1518,20 @@
         "10247",
         "13794",
         "13798",
-        "53981",
-        "53983",
-        "80958",
-        "81104",
-        "80959",
         "81105",
-        "81118",
-        "81106",
-        "80957",
-        "80939",
+        "80959",
+        "81104",
+        "80958",
+        "53983",
+        "53981",
+        "53982",
         "80956",
         "80817",
+        "80939",
         "53984",
-        "53982"
+        "80957",
+        "81106",
+        "81118"
       ],
       "closedStopDetails": [
         {
@@ -1725,34 +1619,25 @@
           "id": "13798"
         },
         {
-          "id": "53981"
-        },
-        {
-          "id": "53983"
-        },
-        {
-          "id": "80958"
-        },
-        {
-          "id": "81104"
+          "id": "81105"
         },
         {
           "id": "80959"
         },
         {
-          "id": "81105"
+          "id": "81104"
         },
         {
-          "id": "81118"
+          "id": "80958"
         },
         {
-          "id": "81106"
+          "id": "53983"
         },
         {
-          "id": "80957"
+          "id": "53981"
         },
         {
-          "id": "80939"
+          "id": "53982"
         },
         {
           "id": "80956"
@@ -1761,10 +1646,19 @@
           "id": "80817"
         },
         {
+          "id": "80939"
+        },
+        {
           "id": "53984"
         },
         {
-          "id": "53982"
+          "id": "80957"
+        },
+        {
+          "id": "81106"
+        },
+        {
+          "id": "81118"
         }
       ],
       "riderAlternative": "Board at: Arcade St & Magnolia Ave - Stop #13823 (southbound); Arcade St & Case Ave - Stop #13827 (southbound); Arcade St & York Ave - Stop #10288 (southbound)",
@@ -2578,18 +2472,18 @@
         "10247",
         "13794",
         "13798",
-        "53982",
+        "81106",
+        "81118",
+        "81104",
         "53984",
         "80956",
         "80957",
-        "81104",
-        "81106",
-        "81118",
+        "53982",
+        "53981",
+        "53983",
         "80958",
         "80959",
-        "80817",
-        "53983",
-        "53981"
+        "80817"
       ],
       "closedStopDetails": [
         {
@@ -2686,7 +2580,13 @@
           "id": "13798"
         },
         {
-          "id": "53982"
+          "id": "81106"
+        },
+        {
+          "id": "81118"
+        },
+        {
+          "id": "81104"
         },
         {
           "id": "53984"
@@ -2698,13 +2598,13 @@
           "id": "80957"
         },
         {
-          "id": "81104"
+          "id": "53982"
         },
         {
-          "id": "81106"
+          "id": "53981"
         },
         {
-          "id": "81118"
+          "id": "53983"
         },
         {
           "id": "80958"
@@ -2714,12 +2614,6 @@
         },
         {
           "id": "80817"
-        },
-        {
-          "id": "53983"
-        },
-        {
-          "id": "53981"
         }
       ],
       "riderAlternative": "Board at: 5th St E & Sibley St - Stop #11839 (eastbound); 7th St E & Wall St - Stop #57215 (eastbound); 7th St E & Lafayette Rd - Stop #11845 (eastbound)",

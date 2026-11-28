@@ -4,26 +4,17 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Sat, 28 Nov 2026 03:49:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 12:51:42 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] METRO D Line: Northbound 7:43 PM Trip Canceled (MOA Transit Station Gate A)</title>
-      <link>https://www.metrotransit.org/route/dline</link>
-      <guid isPermaLink="false">Metro Transit-55676-2026-11-28T02:42:04.000Z</guid>
-      <pubDate>Sat, 28 Nov 2026 02:42:04 GMT</pubDate>
+      <title>[Critical] METRO C Line: Service Canceled</title>
+      <link>https://www.metrotransit.org/route/cline</link>
+      <guid isPermaLink="false">Metro Transit-55678-2026-11-28T10:50:02.000Z</guid>
+      <pubDate>Sat, 28 Nov 2026 10:50:02 GMT</pubDate>
       <category>Critical</category>
-      <category>METRO D Line</category>
-      <description>Northbound D Line trip departing MOA Transit Station Gate A at 7:43 PM canceled today due to maintenance work</description>
-    </item>
-    <item>
-      <title>[Critical] Route 18: Southbound 7:48 PM Trip Canceled (4th Ave S &amp; 3rd St S)</title>
-      <link>https://www.metrotransit.org/route/18</link>
-      <guid isPermaLink="false">Metro Transit-55675-2026-11-28T02:17:36.000Z</guid>
-      <pubDate>Sat, 28 Nov 2026 02:17:36 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 18</category>
-      <description>Southbound Route 18 trip departing 4th Ave S &amp; 3rd St S at 7:48 PM canceled</description>
+      <category>METRO C Line</category>
+      <description>C Line trip departing Brooklyn Ctr Transit Ctr Gate I at 5:15 AM and two other trips canceled today</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
@@ -37,8 +28,8 @@
     <item>
       <title>[Moderate] METRO Blue Line, METRO Green Line: Service Advisory</title>
       <link>https://github.com/aminamos/transit-alert-mirror</link>
-      <guid isPermaLink="false">Metro Transit-52271-2026-11-27T15:00:01.000Z</guid>
-      <pubDate>Fri, 27 Nov 2026 15:00:01 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-52271-2026-11-28T06:00:01.000Z</guid>
+      <pubDate>Sat, 28 Nov 2026 06:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>METRO Blue Line, METRO Green Line</category>
       <description>METRO Blue Line and Green Line service advisory: Transfer between trains at Government Plaza Station during the Vikings game on 11/29 from 9am - 5pm</description>
@@ -118,8 +109,8 @@
     <item>
       <title>[Moderate] Route 10, Route 11, Route 17, Route 18, Route 25: Detour via Regular Corridor</title>
       <link>https://www.metrotransit.org/route/10</link>
-      <guid isPermaLink="false">Metro Transit-55553-2026-11-27T12:30:02.000Z</guid>
-      <pubDate>Fri, 27 Nov 2026 12:30:02 GMT</pubDate>
+      <guid isPermaLink="false">Metro Transit-55553-2026-11-28T06:00:01.000Z</guid>
+      <pubDate>Sat, 28 Nov 2026 06:00:01 GMT</pubDate>
       <category>Moderate</category>
       <category>Route 10, Route 11, Route 17, Route 18, Route 25</category>
       <description>Routes 10, 11, 17, 18 and 25 detoured off Nicollet Mall from 6th St to 12th St from Fri Nov 27 at 7:00 AM to Sat Nov 28 at 8:00 AM due to Winter Kick Off 2026 event. Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Hennepin &amp; 8th St Station - Stop #53099 (northbound); Nicollet Mall &amp; 5th St S - Stop #17996 (northbound). | Action: Board at: Nicollet Mall &amp; Alice Rainville Pl - Stop #17988 (northbound); Hennepin &amp; 8th St Station - Stop #53099 (northbound); Nicollet Mall &amp; 5th St S - Stop #17996 (northbound)</description>
