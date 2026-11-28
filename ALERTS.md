@@ -2,123 +2,54 @@
 
 > Automated plain-English enrichment engine for transit alerts, detours, and stop closures.
 
-[![Alerts](https://img.shields.io/badge/Total%20Alerts-88-blue)](#)
-[![Critical](https://img.shields.io/badge/Critical-5-red)](#-critical-disruptions)
+[![Alerts](https://img.shields.io/badge/Total%20Alerts-85-blue)](#)
+[![Critical](https://img.shields.io/badge/Critical-2-red)](#-critical-disruptions)
 [![Moderate](https://img.shields.io/badge/Moderate-50-orange)](#-moderate-detours--changes)
 [![Minor](https://img.shields.io/badge/Minor-33-lightgrey)](#-minor-advisories)
-[![Routes](https://img.shields.io/badge/Affected%20Routes-66-brightgreen)](#-routes-index)
+[![Routes](https://img.shields.io/badge/Affected%20Routes-65-brightgreen)](#-routes-index)
 
-*Last synchronized: **2026-11-27T21:05:36.363Z** across **Metro Transit**.*
+*Last synchronized: **2026-11-28T03:49:37.980Z** across **Metro Transit**.*
 
 ## 📋 Routes Index
 
-**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO E Line** (2) • **METRO Gold Line** (1) • **METRO Green Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (3) • **Route 10** (3) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (8) • **Route 22** (1) • **Route 25** (3) • **Route 27** (3) • **Route 30** (2) • **Route 32** (1) • **Route 36** (2) • **Route 38** (2) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (3) • **Route 65** (1) • **Route 67** (4) • **Route 68** (4) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 75** (1) • **Route 83** (1) • **Route 87** (2) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 225** (1) • **Route 227** (1) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 470** (1) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (3) • **Route 542** (2) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 686** (1) • **Route 705** (1) • **Route 705A** (1) • **Route 724** (1) • **Route 801** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
+**METRO A Line** (2) • **METRO Blue Line** (2) • **METRO D Line** (1) • **METRO E Line** (2) • **METRO Gold Line** (1) • **METRO Green Line** (1) • **Route 2** (1) • **Route 3** (1) • **Route 3A** (1) • **Route 7** (2) • **Route 9** (3) • **Route 10** (3) • **Route 11** (3) • **Route 14** (1) • **Route 17** (2) • **Route 18** (9) • **Route 22** (1) • **Route 25** (3) • **Route 27** (3) • **Route 30** (1) • **Route 32** (1) • **Route 36** (2) • **Route 38** (2) • **Route 54** (3) • **Route 54M** (1) • **Route 61** (3) • **Route 62** (2) • **Route 63** (2) • **Route 64** (3) • **Route 65** (1) • **Route 67** (4) • **Route 68** (4) • **Route 71** (2) • **Route 71K** (1) • **Route 72** (1) • **Route 74** (3) • **Route 75** (1) • **Route 83** (1) • **Route 87** (1) • **Route 94** (1) • **Route 156** (1) • **Route 223** (2) • **Route 225** (1) • **Route 227** (1) • **Route 275** (2) • **Route 294** (3) • **Route 363** (2) • **Route 470** (1) • **Route 480** (1) • **Route 537** (1) • **Route 538** (1) • **Route 540** (2) • **Route 542** (1) • **Route 578** (2) • **Route 615** (1) • **Route 645** (1) • **Route 686** (1) • **Route 724** (1) • **Route 801** (1) • **Route 824** (1) • **Route 827** (1) • **Route 850** (1) • **Route 860** (3) • **Route 882** (1) • **Route 888** (1)
 
 ## 🚨 Critical Disruptions
 
-### 🚨 Route 30: Service Canceled
+### 🚨 METRO D Line: Northbound 7:43 PM Trip Canceled (MOA Transit Station Gate A)
 
-- **Affected Routes**: `Route 30`
-- **Direction**: Both Directions
-- **Severity**: `Critical`
-
-**Summary**: Route 30 trip departing Westgate Station - Gate B at 2:36 PM and five other trips canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/30)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 30 trip departing Westgate Station - Gate B at 2:36 PM and five other trips canceled today
-
-```text
-Affected eastbound trips:
-departing Golden Valley Rd Turn & Xerxes Ave N at 3:23 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 5:23 PM
-departing Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM
-
-Affected westbound trips:
-departing Westgate Station - Gate B at 2:36 PM
-departing Westgate Station - Gate B at 4:36 PM
-departing Westgate Station - Gate B at 7:06 PM
-```
-
-</details>
-
----
-
-### 🚨 Route 87: Northbound 2:03 PM Trip Canceled (Davern St & Norfolk Ave / Shepard Rd)
-
-- **Affected Routes**: `Route 87`
+- **Affected Routes**: `METRO D Line`
 - **Direction**: Northbound
 - **Severity**: `Critical`
+- **Closed Stops**: Stop #9089, Stop #9263, Stop #9646, Stop #9658, Stop #8919, Stop #8920, Stop #8935, Stop #8945 *(+12 more)*
 
-**Summary**: Northbound Route 87 trip departing Davern St & Norfolk Ave / Shepard Rd at 2:03 PM canceled today due to disabled bus
+**Summary**: Northbound D Line trip departing MOA Transit Station Gate A at 7:43 PM canceled today due to maintenance work
 
-[Official Agency Advisory](https://www.metrotransit.org/route/87)
+[Official Agency Advisory](https://www.metrotransit.org/route/dline)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Northbound Route 87 trip departing Davern St & Norfolk Ave / Shepard Rd at 2:03 PM canceled today due to disabled bus
+**Header**: Northbound D Line trip departing MOA Transit Station Gate A at 7:43 PM canceled today due to maintenance work
 
 </details>
 
 ---
 
-### 🚨 Route 540: Service Canceled
+### 🚨 Route 18: Southbound 7:48 PM Trip Canceled (4th Ave S & 3rd St S)
 
-- **Affected Routes**: `Route 540`
-- **Direction**: All
-- **Severity**: `Critical`
-
-**Summary**: Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 2:02 PM and departing Normandale Lake Blvd & 83rd St / 84th St at 3:32 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/540)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 2:02 PM and departing Normandale Lake Blvd & 83rd St / 84th St at 3:32 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 542: Service Canceled
-
-- **Affected Routes**: `Route 542`
-- **Direction**: All
-- **Severity**: `Critical`
-
-**Summary**: Route 542 trips departing MOA Transit Station Gate G at 1:37 PM and departing MOA Transit Station Gate G at 3:06 PM canceled today
-
-[Official Agency Advisory](https://www.metrotransit.org/route/542)
-
-<details>
-<summary>Raw Dispatcher Message</summary>
-
-**Header**: Route 542 trips departing MOA Transit Station Gate G at 1:37 PM and departing MOA Transit Station Gate G at 3:06 PM canceled today
-
-</details>
-
----
-
-### 🚨 Route 705, Route 705A: Southbound 1:46 PM Trip Canceled (Modern Rd & Quebec Ave N)
-
-- **Affected Routes**: `Route 705` `Route 705A`
+- **Affected Routes**: `Route 18`
 - **Direction**: Southbound
 - **Severity**: `Critical`
-- **Closed Stops**: Stop #52092, Stop #8512, Stop #8518, Stop #8520, Stop #8524, Stop #8526, Stop #8528, Stop #8530 *(+68 more)*
 
-**Summary**: Southbound Route 705A trip departing Modern Rd & Quebec Ave N at 1:46 PM canceled today due to collision
+**Summary**: Southbound Route 18 trip departing 4th Ave S & 3rd St S at 7:48 PM canceled
 
-[Official Agency Advisory](https://www.metrotransit.org/route/705)
+[Official Agency Advisory](https://www.metrotransit.org/route/18)
 
 <details>
 <summary>Raw Dispatcher Message</summary>
 
-**Header**: Southbound Route 705A trip departing Modern Rd & Quebec Ave N at 1:46 PM canceled today due to collision
+**Header**: Southbound Route 18 trip departing 4th Ave S & 3rd St S at 7:48 PM canceled
 
 </details>
 

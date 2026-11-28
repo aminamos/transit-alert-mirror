@@ -1,451 +1,148 @@
 {
   "metadata": {
-    "generatedAt": "2026-11-27T21:05:36.363Z",
-    "totalAlerts": 88,
-    "criticalCount": 5,
+    "generatedAt": "2026-11-28T03:49:37.980Z",
+    "totalAlerts": 85,
+    "criticalCount": 2,
     "moderateCount": 50,
     "minorCount": 33,
-    "affectedRoutesCount": 66,
+    "affectedRoutesCount": 65,
     "agencies": [
       "Metro Transit"
     ]
   },
   "alerts": [
     {
-      "id": "55657",
+      "id": "55676",
       "agency": "Metro Transit",
       "severity": "Critical",
-      "title": "Route 30: Service Canceled",
-      "summary": "Route 30 trip departing Westgate Station - Gate B at 2:36 PM and five other trips canceled today",
+      "title": "METRO D Line: Northbound 7:43 PM Trip Canceled (MOA Transit Station Gate A)",
+      "summary": "Northbound D Line trip departing MOA Transit Station Gate A at 7:43 PM canceled today due to maintenance work",
       "affectedRoutes": [
-        "Route 30"
-      ],
-      "direction": "Both Directions",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-27T20:36:00.000Z",
-        "end": "2026-11-28T03:35:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/30",
-      "updatedAt": "2026-11-27T20:24:04.000Z",
-      "rawHeader": "Route 30 trip departing Westgate Station - Gate B at 2:36 PM and five other trips canceled today",
-      "rawDescription": "Affected eastbound trips:\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 3:23 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 5:23 PM\r\ndeparting Golden Valley Rd Turn & Xerxes Ave N at 7:55 PM\r\n\nAffected westbound trips:\r\ndeparting Westgate Station - Gate B at 2:36 PM\r\ndeparting Westgate Station - Gate B at 4:36 PM\r\ndeparting Westgate Station - Gate B at 7:06 PM"
-    },
-    {
-      "id": "55659",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 87: Northbound 2:03 PM Trip Canceled (Davern St & Norfolk Ave / Shepard Rd)",
-      "summary": "Northbound Route 87 trip departing Davern St & Norfolk Ave / Shepard Rd at 2:03 PM canceled today due to disabled bus",
-      "affectedRoutes": [
-        "Route 87"
+        "METRO D Line"
       ],
       "direction": "Northbound",
       "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-27T20:27:00.000Z",
-        "end": "2026-11-27T21:49:00.000Z"
-      },
-      "cause": "TECHNICAL_PROBLEM",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/87",
-      "updatedAt": "2026-11-27T20:27:33.000Z",
-      "rawHeader": "Northbound Route 87 trip departing Davern St & Norfolk Ave / Shepard Rd at 2:03 PM canceled today due to disabled bus",
-      "rawDescription": ""
-    },
-    {
-      "id": "55656",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 540: Service Canceled",
-      "summary": "Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 2:02 PM and departing Normandale Lake Blvd & 83rd St / 84th St at 3:32 PM canceled today",
-      "affectedRoutes": [
-        "Route 540"
-      ],
-      "direction": "All",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-27T20:02:00.000Z",
-        "end": "2026-11-27T23:11:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/540",
-      "updatedAt": "2026-11-27T19:35:57.000Z",
-      "rawHeader": "Route 540 trips departing Normandale Lake Blvd & 83rd St / 84th St at 2:02 PM and departing Normandale Lake Blvd & 83rd St / 84th St at 3:32 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "55655",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 542: Service Canceled",
-      "summary": "Route 542 trips departing MOA Transit Station Gate G at 1:37 PM and departing MOA Transit Station Gate G at 3:06 PM canceled today",
-      "affectedRoutes": [
-        "Route 542"
-      ],
-      "direction": "All",
-      "intersections": [],
-      "closedStopIds": [],
-      "closedStopDetails": [],
-      "riderAlternative": null,
-      "detourDetails": null,
-      "activePeriod": {
-        "start": "2026-11-27T19:37:00.000Z",
-        "end": "2026-11-27T22:31:00.000Z"
-      },
-      "cause": "UNKNOWN_CAUSE",
-      "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/542",
-      "updatedAt": "2026-11-27T19:35:23.000Z",
-      "rawHeader": "Route 542 trips departing MOA Transit Station Gate G at 1:37 PM and departing MOA Transit Station Gate G at 3:06 PM canceled today",
-      "rawDescription": ""
-    },
-    {
-      "id": "55658",
-      "agency": "Metro Transit",
-      "severity": "Critical",
-      "title": "Route 705, Route 705A: Southbound 1:46 PM Trip Canceled (Modern Rd & Quebec Ave N)",
-      "summary": "Southbound Route 705A trip departing Modern Rd & Quebec Ave N at 1:46 PM canceled today due to collision",
-      "affectedRoutes": [
-        "Route 705",
-        "Route 705A"
-      ],
-      "direction": "Southbound",
-      "intersections": [],
       "closedStopIds": [
-        "52092",
-        "8512",
-        "8518",
-        "8520",
-        "8524",
-        "8526",
-        "8528",
-        "8530",
-        "8532",
-        "8535",
-        "8539",
-        "8541",
-        "8543",
-        "8546",
-        "8547",
-        "8551",
-        "8553",
-        "8555",
-        "8559",
-        "8563",
-        "8565",
-        "8567",
-        "8571",
-        "56999",
-        "57002",
-        "57003",
-        "57009",
-        "53713",
-        "53714",
-        "53715",
-        "53716",
-        "56069",
-        "52552",
-        "52744",
-        "53202",
-        "53203",
-        "53204",
-        "53232",
-        "53233",
-        "51380",
-        "41658",
-        "41660",
-        "2925",
-        "2926",
-        "2928",
-        "44069",
-        "44070",
-        "44071",
-        "44072",
-        "44073",
-        "44074",
-        "44259",
-        "44261",
-        "44262",
-        "44263",
-        "44264",
-        "44265",
-        "44266",
-        "44267",
-        "44268",
-        "44269",
-        "44280",
-        "44281",
-        "44282",
-        "44301",
-        "44302",
-        "44303",
-        "44305",
-        "44306",
-        "44307",
-        "44308",
-        "45352",
-        "45353",
-        "47773",
-        "19554",
-        "19557"
+        "9089",
+        "9263",
+        "9646",
+        "9658",
+        "8919",
+        "8920",
+        "8935",
+        "8945",
+        "8948",
+        "56823",
+        "56929",
+        "56930",
+        "56949",
+        "56950",
+        "56951",
+        "43275",
+        "17897",
+        "17900",
+        "17902",
+        "17903"
       ],
       "closedStopDetails": [
         {
-          "id": "52092"
+          "id": "9089"
         },
         {
-          "id": "8512"
+          "id": "9263"
         },
         {
-          "id": "8518"
+          "id": "9646"
         },
         {
-          "id": "8520"
+          "id": "9658"
         },
         {
-          "id": "8524"
+          "id": "8919"
         },
         {
-          "id": "8526"
+          "id": "8920"
         },
         {
-          "id": "8528"
+          "id": "8935"
         },
         {
-          "id": "8530"
+          "id": "8945"
         },
         {
-          "id": "8532"
+          "id": "8948"
         },
         {
-          "id": "8535"
+          "id": "56823"
         },
         {
-          "id": "8539"
+          "id": "56929"
         },
         {
-          "id": "8541"
+          "id": "56930"
         },
         {
-          "id": "8543"
+          "id": "56949"
         },
         {
-          "id": "8546"
+          "id": "56950"
         },
         {
-          "id": "8547"
+          "id": "56951"
         },
         {
-          "id": "8551"
+          "id": "43275"
         },
         {
-          "id": "8553"
+          "id": "17897"
         },
         {
-          "id": "8555"
+          "id": "17900"
         },
         {
-          "id": "8559"
+          "id": "17902"
         },
         {
-          "id": "8563"
-        },
-        {
-          "id": "8565"
-        },
-        {
-          "id": "8567"
-        },
-        {
-          "id": "8571"
-        },
-        {
-          "id": "56999"
-        },
-        {
-          "id": "57002"
-        },
-        {
-          "id": "57003"
-        },
-        {
-          "id": "57009"
-        },
-        {
-          "id": "53713"
-        },
-        {
-          "id": "53714"
-        },
-        {
-          "id": "53715"
-        },
-        {
-          "id": "53716"
-        },
-        {
-          "id": "56069"
-        },
-        {
-          "id": "52552"
-        },
-        {
-          "id": "52744"
-        },
-        {
-          "id": "53202"
-        },
-        {
-          "id": "53203"
-        },
-        {
-          "id": "53204"
-        },
-        {
-          "id": "53232"
-        },
-        {
-          "id": "53233"
-        },
-        {
-          "id": "51380"
-        },
-        {
-          "id": "41658"
-        },
-        {
-          "id": "41660"
-        },
-        {
-          "id": "2925"
-        },
-        {
-          "id": "2926"
-        },
-        {
-          "id": "2928"
-        },
-        {
-          "id": "44069"
-        },
-        {
-          "id": "44070"
-        },
-        {
-          "id": "44071"
-        },
-        {
-          "id": "44072"
-        },
-        {
-          "id": "44073"
-        },
-        {
-          "id": "44074"
-        },
-        {
-          "id": "44259"
-        },
-        {
-          "id": "44261"
-        },
-        {
-          "id": "44262"
-        },
-        {
-          "id": "44263"
-        },
-        {
-          "id": "44264"
-        },
-        {
-          "id": "44265"
-        },
-        {
-          "id": "44266"
-        },
-        {
-          "id": "44267"
-        },
-        {
-          "id": "44268"
-        },
-        {
-          "id": "44269"
-        },
-        {
-          "id": "44280"
-        },
-        {
-          "id": "44281"
-        },
-        {
-          "id": "44282"
-        },
-        {
-          "id": "44301"
-        },
-        {
-          "id": "44302"
-        },
-        {
-          "id": "44303"
-        },
-        {
-          "id": "44305"
-        },
-        {
-          "id": "44306"
-        },
-        {
-          "id": "44307"
-        },
-        {
-          "id": "44308"
-        },
-        {
-          "id": "45352"
-        },
-        {
-          "id": "45353"
-        },
-        {
-          "id": "47773"
-        },
-        {
-          "id": "19554"
-        },
-        {
-          "id": "19557"
+          "id": "17903"
         }
       ],
       "riderAlternative": null,
       "detourDetails": null,
       "activePeriod": {
-        "start": "2026-11-27T20:21:00.000Z",
-        "end": "2026-11-27T21:22:00.000Z"
+        "start": "2026-11-28T02:41:00.000Z",
+        "end": "2026-11-28T03:55:00.000Z"
       },
-      "cause": "ACCIDENT",
+      "cause": "MAINTENANCE",
       "effect": "NO_SERVICE",
-      "url": "https://www.metrotransit.org/route/705",
-      "updatedAt": "2026-11-27T20:24:40.000Z",
-      "rawHeader": "Southbound Route 705A trip departing Modern Rd & Quebec Ave N at 1:46 PM canceled today due to collision",
+      "url": "https://www.metrotransit.org/route/dline",
+      "updatedAt": "2026-11-28T02:42:04.000Z",
+      "rawHeader": "Northbound D Line trip departing MOA Transit Station Gate A at 7:43 PM canceled today due to maintenance work",
+      "rawDescription": ""
+    },
+    {
+      "id": "55675",
+      "agency": "Metro Transit",
+      "severity": "Critical",
+      "title": "Route 18: Southbound 7:48 PM Trip Canceled (4th Ave S & 3rd St S)",
+      "summary": "Southbound Route 18 trip departing 4th Ave S & 3rd St S at 7:48 PM canceled",
+      "affectedRoutes": [
+        "Route 18"
+      ],
+      "direction": "Southbound",
+      "intersections": [],
+      "closedStopIds": [],
+      "closedStopDetails": [],
+      "riderAlternative": null,
+      "detourDetails": null,
+      "activePeriod": {
+        "start": "2026-11-28T02:17:00.000Z",
+        "end": "2026-11-28T03:59:00.000Z"
+      },
+      "cause": "UNKNOWN_CAUSE",
+      "effect": "NO_SERVICE",
+      "url": "https://www.metrotransit.org/route/18",
+      "updatedAt": "2026-11-28T02:17:36.000Z",
+      "rawHeader": "Southbound Route 18 trip departing 4th Ave S & 3rd St S at 7:48 PM canceled",
       "rawDescription": ""
     },
     {
@@ -1692,8 +1389,8 @@
         "80939",
         "80956",
         "80957",
-        "81118",
         "81106",
+        "81118",
         "81105",
         "80959",
         "80997",
@@ -1757,10 +1454,10 @@
           "id": "80957"
         },
         {
-          "id": "81118"
+          "id": "81106"
         },
         {
-          "id": "81106"
+          "id": "81118"
         },
         {
           "id": "81105"
@@ -1933,12 +1630,12 @@
         "81104",
         "80959",
         "81105",
-        "80957",
         "81118",
         "81106",
+        "80957",
+        "80939",
         "80956",
         "80817",
-        "80939",
         "53984",
         "53982"
       ],
@@ -2046,22 +1743,22 @@
           "id": "81105"
         },
         {
-          "id": "80957"
-        },
-        {
           "id": "81118"
         },
         {
           "id": "81106"
         },
         {
+          "id": "80957"
+        },
+        {
+          "id": "80939"
+        },
+        {
           "id": "80956"
         },
         {
           "id": "80817"
-        },
-        {
-          "id": "80939"
         },
         {
           "id": "53984"
@@ -2881,13 +2578,13 @@
         "10247",
         "13794",
         "13798",
-        "53984",
         "53982",
+        "53984",
         "80956",
         "80957",
+        "81104",
         "81106",
         "81118",
-        "81104",
         "80958",
         "80959",
         "80817",
@@ -2989,10 +2686,10 @@
           "id": "13798"
         },
         {
-          "id": "53984"
+          "id": "53982"
         },
         {
-          "id": "53982"
+          "id": "53984"
         },
         {
           "id": "80956"
@@ -3001,13 +2698,13 @@
           "id": "80957"
         },
         {
+          "id": "81104"
+        },
+        {
           "id": "81106"
         },
         {
           "id": "81118"
-        },
-        {
-          "id": "81104"
         },
         {
           "id": "80958"

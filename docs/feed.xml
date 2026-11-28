@@ -4,53 +4,26 @@
     <title>Transit Alert Mirror - Enriched Advisories</title>
     <link>https://github.com/aminamos/transit-alert-mirror</link>
     <description>Plain-English transit alert, detour, and service advisory enrichment mirror</description>
-    <lastBuildDate>Fri, 27 Nov 2026 21:05:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:49:37 GMT</lastBuildDate>
     <language>en-us</language>
     <generator>transit-alert-mirror</generator>
     <item>
-      <title>[Critical] Route 30: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/30</link>
-      <guid isPermaLink="false">Metro Transit-55657-2026-11-27T20:24:04.000Z</guid>
-      <pubDate>Fri, 27 Nov 2026 20:24:04 GMT</pubDate>
+      <title>[Critical] METRO D Line: Northbound 7:43 PM Trip Canceled (MOA Transit Station Gate A)</title>
+      <link>https://www.metrotransit.org/route/dline</link>
+      <guid isPermaLink="false">Metro Transit-55676-2026-11-28T02:42:04.000Z</guid>
+      <pubDate>Sat, 28 Nov 2026 02:42:04 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 30</category>
-      <description>Route 30 trip departing Westgate Station - Gate B at 2:36 PM and five other trips canceled today</description>
+      <category>METRO D Line</category>
+      <description>Northbound D Line trip departing MOA Transit Station Gate A at 7:43 PM canceled today due to maintenance work</description>
     </item>
     <item>
-      <title>[Critical] Route 87: Northbound 2:03 PM Trip Canceled (Davern St &amp; Norfolk Ave / Shepard Rd)</title>
-      <link>https://www.metrotransit.org/route/87</link>
-      <guid isPermaLink="false">Metro Transit-55659-2026-11-27T20:27:33.000Z</guid>
-      <pubDate>Fri, 27 Nov 2026 20:27:33 GMT</pubDate>
+      <title>[Critical] Route 18: Southbound 7:48 PM Trip Canceled (4th Ave S &amp; 3rd St S)</title>
+      <link>https://www.metrotransit.org/route/18</link>
+      <guid isPermaLink="false">Metro Transit-55675-2026-11-28T02:17:36.000Z</guid>
+      <pubDate>Sat, 28 Nov 2026 02:17:36 GMT</pubDate>
       <category>Critical</category>
-      <category>Route 87</category>
-      <description>Northbound Route 87 trip departing Davern St &amp; Norfolk Ave / Shepard Rd at 2:03 PM canceled today due to disabled bus</description>
-    </item>
-    <item>
-      <title>[Critical] Route 540: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/540</link>
-      <guid isPermaLink="false">Metro Transit-55656-2026-11-27T19:35:57.000Z</guid>
-      <pubDate>Fri, 27 Nov 2026 19:35:57 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 540</category>
-      <description>Route 540 trips departing Normandale Lake Blvd &amp; 83rd St / 84th St at 2:02 PM and departing Normandale Lake Blvd &amp; 83rd St / 84th St at 3:32 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 542: Service Canceled</title>
-      <link>https://www.metrotransit.org/route/542</link>
-      <guid isPermaLink="false">Metro Transit-55655-2026-11-27T19:35:23.000Z</guid>
-      <pubDate>Fri, 27 Nov 2026 19:35:23 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 542</category>
-      <description>Route 542 trips departing MOA Transit Station Gate G at 1:37 PM and departing MOA Transit Station Gate G at 3:06 PM canceled today</description>
-    </item>
-    <item>
-      <title>[Critical] Route 705, Route 705A: Southbound 1:46 PM Trip Canceled (Modern Rd &amp; Quebec Ave N)</title>
-      <link>https://www.metrotransit.org/route/705</link>
-      <guid isPermaLink="false">Metro Transit-55658-2026-11-27T20:24:40.000Z</guid>
-      <pubDate>Fri, 27 Nov 2026 20:24:40 GMT</pubDate>
-      <category>Critical</category>
-      <category>Route 705, Route 705A</category>
-      <description>Southbound Route 705A trip departing Modern Rd &amp; Quebec Ave N at 1:46 PM canceled today due to collision</description>
+      <category>Route 18</category>
+      <description>Southbound Route 18 trip departing 4th Ave S &amp; 3rd St S at 7:48 PM canceled</description>
     </item>
     <item>
       <title>[Moderate] METRO A Line: Detour via 46th St (Hiawatha Ave to 36th Ave S)</title>
